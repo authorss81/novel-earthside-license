@@ -6,7 +6,7 @@ And at about the eleventh hour of that night a man stood in a gallery two hundre
 
 ---
 
-The four went down at about the second hour of the afternoon, early for a tide nobody is going to work, and the weather was the weather of the twenty-third day of this flood: not rain, not not-rain, the same for nine days.
+The four went down at about the second hour of the afternoon, early for a tide nobody is going to work, and the weather was the weather of the twenty-third day of the new month: not rain, not not-rain, the same for nine days.
 
 Tamsin Quill went first because she has gone down first for seven years. Hettis Roke went second, because a Hearthguard going to a wall goes to it before the people who own the wall. Nell Bray went third, in a felt hat, because she is about sixty and does not hurry and has never once pretended to. The fourth was Peth Lomas, fifty, a mason, who said on the twenty-first day of the new month, in a room of forty-one people under a gate, that masons are not a crew and cannot be counted either way, and said so before anybody asked.
 
@@ -16,7 +16,7 @@ The gauge is a four-square staff of oak in the outer wall of the lock chamber at
 
 **It is the only number in this city that can stop a tide.**
 
-Renna Ord's argument, which she has been making since the fortieth day in markets and doorways and once in a yard, is nine words long and she says it the same way every time:
+Renna Ord's argument, which she has been making since the fortieth day in markets and doorways and once in a yard, is eleven words long and she says it the same way every time:
 
 "**That is one number. A river does not keep one number.**"
 
@@ -52,13 +52,13 @@ The first four people anybody thought of were all in the gallery or under the ne
 
 "**You cannot put him on the list of people who can stop the thing he agreed to on Saturday. That is not modesty. That is a list with the man in it at both ends, and a man who can stop a thing and a thing that was made by that man is one man with two hats, and I have been angry with him for nine days and I am not going to hand him a hat.**"
 
-And then Wenna Cray said the thing that turned the room, and it is in the book in her own words and it is nineteen words long:
+And then Wenna Cray said the thing that turned the room, and it is in the book in her own words and it is forty-five words long:
 
 "**The crew cannot stop the crew. The crew is the hand. So the nine have to be people the working costs, and every one of them is owed something by it, and that is why it is a short list and not a long one.**"
 
 And after that the room found the nine in about nine hours, and about four times in those nine hours somebody stood in front of a person and asked them a question they had not been asked before, and three times the person said no, and all three refusals are in the book with the reason.
 
-> **Renna Ord, boat-coat, of this city, fifty-eight, who has named herself, and who says the ninth name is the only one anybody may take back.**
+> **Renna Ord, boat-coat, of this city, fifty-eight, who has named herself, and who says the name she put on it is the only one anybody may take back.**
 >
 > **Hesk, foreman of the day crew, who said the four words under that gate for the first time in his life on the twenty-first day of the new month, voted against the same thing fourteen hours later, and asked to be asked.**
 >
@@ -75,9 +75,9 @@ And after that the room found the nine in about nine hours, and about four times
 > **Peth Lomas, mason, fifty, not a crew, who said so before anybody asked, and who is the fourth that goes down with a gauge, because a mason cannot be counted either way.**
 >
 > **Nyla Ferrow, keeper of the lock chapel, about seventy, whose ground the scar is under, the oldest name on the list, and the only one on it who is there because of a floor.**
-Three people said no and all three are in the book. A flood-creel woman of about fifty with a hood up said no in nine words: **that she is the ninth name of a widening, and a widening does not get a name in it.** A salt factor of about forty-eight said no, and took four minutes, and said that a man who is owed a season cannot also be the man who stops the thing that spends it, because then the only way to stop it is to have already lost — **and that is the Brass Measure's fourth term in a different coat, and he said it before anybody said it.**
+Three people said no and all three are in the book. A flood-creel woman of about fifty with a hood up said no in nineteen words: **that she is the ninth name of a widening, and a widening does not get a name in it.** A salt factor of about forty-eight said no, and took four minutes, and said that a man who is owed a season cannot also be the man who stops the thing that spends it, because then the only way to stop it is to have already lost — **and that is the Brass Measure's fourth term in a different coat, and he said it before anybody said it.**
 
-And **Marek Osley asked to be put back on after the nine were filled, and was refused by the room in four minutes, and the reason is Wenna Cray's: a man who owes a thing and stops the thing that spends it has found the cheapest door in this city, and the cheapest door opens when the person who owes has already lost.**
+And **Marek Osley, who was the third of the three and had said no with the other two, asked to be put on anyway after the nine were filled, and was refused by the room in four minutes, and the reason is Wenna Cray's: a man who owes a thing and stops the thing that spends it has found the cheapest door in this city, and the cheapest door opens when the person who owes has already lost.**
 
 ---
 
@@ -124,7 +124,7 @@ And the notary said, in her own words, in the yard, after the second reading:
 
 "**I have been a notary in this city for twenty-six years. I have entered four instruments in that time I wanted to strike out on the day I entered them, and one of those four was mine. I have never entered a page whose purpose is to be read by somebody who is angry, and I have never wanted to enter one. This is the first. And my not wanting it is not an argument against it, because the only page I ever wanted to enter that nobody wanted was a page about a man I was fond of, and I entered it, and there is a grave behind an ordinary wall.**"
 
-And a man from another world said, in English, in front of about two hundred and forty people, and it is in the book in his own words and it is four words long:
+And a man from another world said, in English, in front of about two hundred and forty people, and it is in the book in his own words and it is five words long:
 
 "**Then that is the point.**"
 
@@ -158,7 +158,7 @@ The first page is the forty names. The second page is the wages: forty rows, the
 
 **Beside the date was a name, in the same hand: the name of the man who keeps the roll.** Nineteen, out of the day crew, eight watches in three weeks, the boy who wrote *works* in the tide table on the eighteenth day with the *k* pressed too hard, who asked for a rule in a gallery on that Tuesday and was refused the first time and given it the second, and who voted against the distributed working on the twenty-first.
 
-His reason for the name, when Hettis Roke read it out of him in a yard, was eleven words long:
+His reason for the name, when Hettis Roke read it out of him in a yard, was eighteen words long:
 
 "**A page with no date on it is a page that can be moved to a different month.**"
 
@@ -166,7 +166,7 @@ Nobody in that yard could answer it, and about nine of them thought it was a ver
 
 "**It is a name at the top of a page. I said in a yard that if a name goes at the top of it I will read it out in a yard, and I have said that about a list before and I have been right about it.**"
 
-And she read it out — the date and the name and the reason and the eleven words — in the local language, in front of about two hundred and forty people, and a boy of nineteen stood in that yard and did not go out. Renna Ord has entered that she was one of about nine who did not go out either, and the reason is that a man who walks out of a yard when a thing is read about him has decided the thing is not true, and she does not know that it is not true.
+And she read it out — the date and the name and the reason and the eighteen words — in the local language, in front of about two hundred and forty people, and a boy of nineteen stood in that yard and did not go out. Renna Ord has entered that she was one of about nine who did not go out either, and the reason is that a man who walks out of a yard when a thing is read about him has decided the thing is not true, and she does not know that it is not true.
 
 The name came off the page at about the fifth hour. **The date stayed.** The entry says the name was struck out by the notary and the date left by the person who put it there, and the reason the date stayed is Vask's: **that a page of wages with no date on it is a page that can be moved to a different month; and it was true; and a true reason in a boy's hand is still a name at the top of a page.**
 
@@ -187,7 +187,7 @@ He checked that the straight edge sits true. He wiped the dust off the fifth cha
 
 "Nobody has ever been told that."
 
-"I am telling you now," he said. "**A reading taken on the ebb of a working tide is a number. A number taken on the wrong water is a lie, and it is worse than a lie, because it is arithmetic.** Every one of those twenty-three was taken on the same water at the same hour with the same edge. If I take the twenty-fourth at the ninth hour of the evening of an ordinary ebb, then in four months somebody in a room will put the two side by side and they will both be right and the difference between them will be nothing. **A ruled line is a fact and a missing line is a fight, and so is a number that is right in the wrong place.**"
+"I am telling you now," he said. "**A reading taken on the ebb of a working tide is a number. A number taken on the wrong water is a lie, and it is worse than a lie, because it is arithmetic.** Twenty-one of those twenty-three were taken at one in the morning, the twenty-second was taken at ten past midnight, and the twenty-third was taken at the eighth hour of a morning, and the hour is written on every one of them in somebody's hand, which means the last one is a comparison and not a measurement. If I take the twenty-fourth at the ninth hour of the evening of an ordinary ebb, then in four months somebody in a room will put the two side by side and they will both be right and the difference between them will be nothing. **A ruled line is a fact and a missing line is a fight, and so is a number that is right in the wrong place.**"
 
 "That is the same sentence twice," said Hesk, from the sill.
 
@@ -232,7 +232,7 @@ The tide table has a row for every tide of the salt year and a last column, and 
 **The row for the forty-ninth day of the flood, which is tomorrow, and which is a Monday, is empty.**
 
 
-He did not write in it tonight. He entered, at about the eleventh hour of that night, in a note of nine words, that **he has not written in that box once in forty-eight days; that the row for tomorrow is a Monday; that he is barred from the roster of persons who may open the working; and that a man who is barred may also keep his hands off a table in a gallery. Nobody has asked him to write in it and he is going to stop going down to look at it.**
+He did not write in it tonight. He entered, at about the eleventh hour of that night, in a note of seventy-one words, that **he has not written in that box once in forty-eight days; that the row for tomorrow is a Monday; that he is barred from the roster of persons who may open the working; and that a man who is barred may also keep his hands off a table in a gallery. Nobody has asked him to write in it and he is going to stop going down to look at it.**
 
 Then he looked at his right palm in the lamplight. Two inches of hair-thin black in the heel of it, the same width it has been since the second morning of this flood, forty-seven days old, not moved one sixteenth of an inch; and a thin pale ghost running toward the wrist, which is all that is left of a mark he put into a wall on the fourth day and could have taken back, and did not.
 
@@ -268,7 +268,7 @@ The boy took that in. It took about four minutes, and then he said:
 
 "Yes."
 
-"Then somebody will have to be in the water at six with me," said Ovin Sarr, "and it will not be a rule, and that is worse, and I would like it entered that I said worse."
+"Then somebody will have to be in the water at six with me," said Ovin Sarr, nineteen, out of the day crew, whose name came off the top of the second page of the roll of forty names that afternoon, "and it will not be a rule, and that is worse, and I would like it entered that I said worse."
 
 "It is entered," said Adrian Vale, "and I am going to write down tonight that you came down two hundred steps in the dark to ask me for a thing I am not allowed to give you; that I have been struck off; and that the only reason I know what tomorrow is and you do not is that I read numbers off a wall for a living and you hold a gate."
 

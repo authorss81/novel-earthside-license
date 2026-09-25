@@ -1,6 +1,6 @@
 # Chapter 0050 — The Trial Licence
 
-On the twenty-fifth day of the new month, which was the fiftieth day of the flood and a Tuesday, four people who signed an inspection on the fourth day of this flood walked two hundred steps down a river wall in the wrong weather, looked at a closed socket with a mason's hands on it, and cut a route down from four witnesses to two, and the argument for it is the argument of this whole book: **a working can be made cheaper without being made private.** The fourth column of a wall in a room above a market was filled in for the first time in fifty days, in two hands, and what went into it is the oldest question in this city, and it was not answered and was not asked to be. Four pages about a man under a board behind an ordinary wall were confirmed in a converted salt store, and a woman of twenty-four stopped a Crown assessor from shortening them with a form. Seventeen people from another world were named, six on one page and eleven on another, and the longer of the two lists is what they do not have. A man from another world was offered a small seat with a name on it and a review date for the third time in five weeks, and this time the instrument said **nobody** and he said the sentence himself. And at about the eighth hour of the evening, at the Lock of Salt, with the tide at the top and the join dressed and the number on the wall of the second bay not one sixteenth of an inch different from what it has been for a month, a boy of nineteen who had never once been asked for anything in fifty days wrote a word in an empty box; a lock opened for one named living person and closed; a woman of sixty-one came down two hundred steps and said a number to a boy of nine; and a boy of nine asked whether the next person would be a player, and the man who was the reason did not have an answer yet that does not make the child smaller.
+On the twenty-fifth day of the new month, which was the fiftieth day of the flood and a Tuesday, four people who signed an inspection on the fourth day of this flood walked two hundred steps down a river wall in the wrong weather, looked at a closed socket with a mason's hands on it, and cut a route down from four witnesses to two, and the argument for it is the shortest argument anybody in this city has made in fifty days: **a working can be made cheaper without being made private.** The fourth column of a wall in a room above a market was filled in for the first time in fifty days, in two hands, and what went into it is the oldest question in this city, and it was not answered and was not asked to be. Four pages about a man under a board behind an ordinary wall were confirmed in a converted salt store, and a woman of twenty-four stopped a Crown assessor from shortening them with a form. Seventeen people from another world were named, six on one page and eleven on another, and the longer of the two lists is what they do not have. A man from another world was offered a small seat with a name on it and a review date for the third time in five weeks, and this time the instrument said **nobody** and he said the sentence himself. And at about the eighth hour of the evening, at the Lock of Salt, with the tide at the top and the join dressed and the number on the wall of the second bay not one sixteenth of an inch different from what it has been for a month, a gate-hand of about fifty who has not been paid in five weeks wrote a word in an empty box; a lock opened for one named living person and closed; a woman of sixty-one came down two hundred steps and said a number to a boy of nine; and a boy of nine asked whether the next person would be a player, and the man who was the reason did not have an answer yet that does not make the child smaller.
 
 ---
 
@@ -27,7 +27,7 @@ Nell Bray said the sentence that the rest of it is made of, and it is in the boo
 "**Four was a quorum. Two is an opening. A quorum decides whether there is a door and an opening carries one person through it, and if you make an opening cost a quorum then nobody will ever open it, because four people in the wrong weather before every crossing is a price nobody can pay four times, and if you make the quorum cheap then you have a man who opens it on his own, and that is the thing we have been refusing for five weeks in about nine rooms.**
 **So: two to open and four to authorise. The four are the only people in this city who may change who the two are. And the two may not both be of the crew, because the crew is the hand and the hand may not hold the door.**"
 
-And a docker of about fifty who cannot read, who is one of the nine named persons who may stop it, stood at the top of those two hundred steps while that was being said and entered that she had been asked about it twice in nine days and had given the same eleven words both times: **two is a shift and four is a quorum and a shift is a thing you turn up for and a quorum is a thing you turn up to decide.**
+And a docker of about fifty who cannot read, who is one of the nine named persons who may stop it, stood at the top of those two hundred steps while that was being said and entered that she had been asked about it twice in nine days and had given the same thirty words both times: **two is a shift and four is a quorum and a shift is a thing you turn up for and a quorum is a thing you turn up to decide.**
 
 And then the standing order was read and entered, and it is the whole of the licence:
 
@@ -47,21 +47,21 @@ And then the standing order was read and entered, and it is the whole of the lic
 >
 > **And the ninth page of the instrument of the twenty-second day of the new month stands and is not amended by this: the city is the debtor, no man's name is at the top of the roll, and the holder of the pull is not on the roll of persons who may open it. There is no holder of the pull today, because the term ended at noon yesterday, and a vacant seat is not a fault.**
 
-Ovin Sarr said the thing that is in the book as his, and he is nineteen, and it is nineteen words long:
+Ovin Sarr, nineteen, out of the day crew, the boy whose name came off the top of the second page of the roll of forty names on the twenty-third day of the new month, said the thing that is in the book as his, and it is nineteen words long:
 
 "**That is the first thing anybody in this city has made cheaper without asking me whether I was cheaper.**"
 
-And Renna Ord said, "You are not cheaper. You are the same price you were," and he said, "I know," and that exchange is in the book, and a boy of nineteen has just discovered the difference between a price and a wage.
+And Renna Ord said, "You are not cheaper. You are the same price you were," and he said, "I know," and that exchange is in the book, and the boy who wrote *works* in the tide table once and then put the chalk down has just discovered the difference between a price and a wage.
 
 ---
 
-**And the fourth column of the roll on the wall of the room at the top of that stair was filled in at about the ninth hour of the morning of the twenty-fifth day of the new month, and the eleven days were up at midnight, and four people had agreed to say nothing about it for eleven days and one of the four was a man from another world who said the eleven was up in nine words and then asked the only question nobody had asked.**
+**And the fourth column of the roll on the wall of the room at the top of that stair was filled in at about the ninth hour of the morning of the twenty-fifth day of the new month, and the eleven days were up at midnight, and four people had agreed to say nothing about it for eleven days and one of the four was a man from another world who said the eleven was up and then asked the only question nobody had asked.**
 
-The rota is on the wall of the room at the top of that stair. Thirty-one names in four columns, and the fourth column is what the work is for and not what the person is for, on a notary's ruling from the eleventh day of this flood. There is a ruled line under one name and a date in a woman's hand, and nothing in the fourth column beside it for eleven days, and about nine people in this city have been reading that empty space as three separate things, and about nine of them have been wrong about two of the three.
+The rota is on the wall of the room at the top of that stair. Thirty-one names in four columns, and the fourth column is what the work is for and not what the person is for, on a notary's ruling from the eleventh day of this flood. There is a ruled line under one name and a date in a woman's hand, and nothing in the fourth column beside it for eleven days, and about nine people in this city have been reading that empty space as three separate things, and two of those three things are wrong.
 
 That the group is finishing. That the work of the name with the line under it has gone to the lock crews. And that somebody is going to be asked to be the man in charge of it.
 
-**The man from another world said, in front of about nine people, that the work was not going to the lock crews, that the group was not finishing, and that he had been wrong about the third thing nine days ago and had not noticed until a woman of twenty-four asked him in a room what happens to a wall if he is hit by a cart, and that the wall does not care what he meant.**
+**The man from another world said, in front of nine people, that the work was not going to the lock crews, that the group was not finishing, and that he had been wrong about the third thing nine days ago and had not noticed until a woman of twenty-four asked him in a room what happens to a wall if he is hit by a cart, and that the wall does not care what he meant.**
 
 Nobody filled it in for about two hours.
 
@@ -89,10 +89,10 @@ And under the English, in his own hand, in the local language, the same thing ag
 
 And Hettis Roke said, at about the fourth hour of the afternoon of the twenty-fifth day of the new month, in the yard under the chapel, in front of about two hundred and forty people, when he was asked why there was a number at the bottom of the cell, in about nine seconds, and it is in the book as his and it is the ninth time in nine years that he has said a sentence about a number in that yard and the first eight times were other people's numbers:
 
-"**I have eight of my own behind an ordinary wall and eight of them have no stone on them, and one of them has a man from another world under it. I am not going to say a word about that today, and I have said for nine years that I would not, and I have not been asked, and I am not being asked now, and I am not going to be thanked for writing a number in a cell on a stranger's wall because a woman of sixty-one asked for somebody else to do it and I happened to be in the room.**
+"**I have eight of my own behind an ordinary wall and eight of them have no stone on them, and there is a ninth under that wall now with a slab and his name cut on it twice, and I cut half of it upside down because I am not a mason and nobody in that ground said so to me. I am not going to say a word about that today, and I have said for nine years that I would not, and I have not been asked, and I am not being asked now, and I am not going to be thanked for writing a number in a cell on a stranger's wall because a woman of sixty-one asked for somebody else to do it and I happened to be in the room.**
 **The number is in the cell because the number is the work. And a person who has never been asked is not a person who has refused.**"
 
-And a woman of sixty-one who cannot read came down the two hundred steps to the lock yard for the third time in nine years at about the fifth hour of the afternoon, and stood in about two hundred and forty people, and Hettis Roke did not look at her, and about nine people noticed, and nobody has asked him why and nobody is going to.
+And a woman of sixty-one who cannot read came down the two hundred steps to the lock yard for the third time in nine years at about the fifth hour of the afternoon, and stood in about two hundred and forty people, and Hettis Roke did not look at her, and nine people noticed, and nobody has asked him why and nobody is going to.
 
 ---
 
@@ -144,7 +144,7 @@ And under both lists, the same two paragraphs, and they are a term and not a fav
 
 And the entry beside Adrian Vale's name, in the roll of strangers, in his own words, with two dates on it, which goes to a building in Aurel four times a year in a wooden case on a river boat, is **Unbound** — *offered on the second day and again on the twelfth, and refused twice* — and beside it, on the licence's own page, in the notary's hand: **that the holder of the pull is not on any roster of this instrument and is not on any roster of the instrument of the twenty-second day of the new month, at his own request, in his own hand, with the date on it, and that he is party to this licence and is given nothing by it.**
 
-And about ninety people in that yard wanted a stipend, and it came out of the room the way a hundred and forty hands came out of a yard on the seventeenth day of the new month, and the reason was given by a docker of fifty-eight who cannot read, and it is eleven words and then about two hundred more:
+And about ninety people in that yard wanted a stipend, and it came out of the room the way a hundred and forty hands came out of a yard on the seventeenth day of the new month, and the reason was given by a docker of fifty-eight who cannot read, and it is nineteen words and then about two hundred more:
 
 "**A stipend is a wage. A wage is owed to a person. A person is described on a roll.** And the roll of everybody in this city who is not from it goes to a building in Aurel four times a year in a wooden case, and the man who keeps it is on it, and every one of you would be on it, and I am not going to be the woman who hands a village of eleven hundred people to a clerk in a good coat for a bowl of soup a week."
 
@@ -156,7 +156,7 @@ And Adrian Vale said, in English, after she had finished, four things, and the f
 
 **And then the licence had to say who answers for the next test, and the room reached for the only man in it everybody can be angry at, and he was offered a seat for the third time in five weeks and this time it was not refused in a yard and it was not accepted in a yard, and the instrument says nobody, and he said the sentence himself, and then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it is the seventeenth thing the wall has ever said to him and it is the best of them, and he refused it in under a second and gave a reason that was small and true.**
 
-It was a small seat: not a Crown advocate, not a stipend, not a quarterly sitting. A seat with a name on it and a review date and a standing in the city, in this city's own book in this city's own words, offered by about nine people in about four minutes, the third time in five weeks, and the room wanted it for the same reason it wanted a Crown advocate on the seventeenth day of the new month, which is that a man with a name on a page can be sent for.
+It was a small seat: not a Crown advocate, not a stipend, not a quarterly sitting. A seat with a name on it and a review date and a standing in the city, in this city's own book in this city's own words, offered by nine people in about four minutes, the third time in five weeks, and the room wanted it for the same reason it wanted a Crown advocate on the seventeenth day of the new month, which is that a man with a name on a page can be sent for.
 
 "**The licence says nobody answers for the next test**," said Sera Vail, in the flat voice. "Not the holder of the pull, because there is no holder of the pull. Not the four, because four authorise and do not answer. Not a clerk from Aurel, because that is a different document and I have entered six times that it is a different document and I would like a seventh. **Nobody.** And a licence with nobody in it is the first thing this city has ever written that is not shaped like a man, and about two hundred and forty people have waited five weeks for somebody to put in it and none of them is going to get it."
 
@@ -198,7 +198,7 @@ He said: "**I will read the class of this to the room, so that everybody in it k
 
 The girl of seventeen's pen stopped. And Sera Vail said, in the flat voice: "That word is barred in an entry of this instrument. It is barred in the entry of the twenty-sixth day of this flood, and the bar names eight words and **class** is one of them, and if it goes into a page it is entered as an error and read back in the room it appears in, and there are about two hundred and forty people in this room, and I would like the room to hear it read back."
 
-And Priya Shah said, in the local language, in four words: "**He wrote the bar. Day twenty-six.**"
+And Priya Shah said, in the local language, in six words: "**He wrote the bar. Day twenty-six.**"
 
 And the notary said: "And the word you meant, Mr Vale."
 
@@ -224,9 +224,9 @@ Adrian Vale read the whole of it — nine pages and four attached — in about t
 
 **And at about the eighth hour of the evening of the twenty-fifth day of the new month the tide was at the top of the Lock of Salt, and the gate was dressed, and the number on the wall of the second bay was eight and seven-eighths, and the box in the last column of the tide table was not empty and was not going to be his.**
 
-Ferris wrote it at about the seventh hour of the evening, before the tide, with a stick of chalk, in a hand of about fifty years old, and the word is the same word four people have now written in that column, and he wrote it without stopping and did not ask anybody whether it was the right word.
+Ferris wrote it at about the seventh hour of the evening, before the tide, with a stick of chalk, in a hand of about fifty years old, and the word is the same word that is already in that column four times, and he wrote it without stopping and did not ask anybody whether it was the right word.
 
-Nobody asked him what he wrote, and Adrian Vale entered that he did not ask and that he wanted to, and that wanting to is a thing this book now has a rule about. A docker with a barrow wrote the word against the thirty-third of the salt year and has still never been asked what she decided, and the box against the forty-ninth was left empty on the twenty-fourth day of the new month by a boy of nineteen who wrote that word once and said he was not going to be the man who wrote it every time, and the two of them have never spoken about any of it.
+Nobody asked him what he wrote, and Adrian Vale entered that he did not ask and that he wanted to, and that wanting to is a thing this book now has a rule about. A docker with a barrow wrote the word against the thirty-third of the flood and has still never been asked what she decided, and the box against the forty-ninth was left empty on the twenty-fourth day of the new month by a boy of nineteen who wrote that word once and said he was not going to be the man who wrote it every time, and the two of them have never spoken about any of it.
 
 Then Renna Ord was asked, by Nell Bray, in the yard, in front of about two hundred and forty people, in about four words — "**What did you decide**" — fifty days after she wrote a word in a box with a barrow, and she said, in about nine seconds, and it is in the book in her own words:
 
@@ -238,11 +238,11 @@ And about nine people in that yard said afterwards that they wanted a better ans
 
 **And the lock opened at about the ninth hour of that evening for one named living person, and the two witnesses had signed a fresh inspection at about the seventh hour of the same day, and the four who authorised the route were in the yard and were not at the opening, and that is the reduction working.**
 
-The gate opened because it is a tide gate and the tide was at the top, and it was dressed and it worked, and it made the sound it has made for four hundred years.
+The gate swung at the top of the tide the way it has done for four hundred years, and it was dressed, and it worked, and nobody in that yard has ever pretended that a tide gate waits for a document. What was opened was not the gate.
 
-The opening that is licensed happened in a seam in a wall of the outer channel, under the cap of an old landing, and it carried **one named person**.
+The opening that is licensed happened in a seam in a wall of the outer channel, under the cap of an old landing, and it carried **one named person**, and the only reason it was opened at all is that two witnesses signed a fresh inspection that morning and that the instrument says **nobody**, so that there was nobody in it for the opening to ask.
 
-The two witnesses were **Peth Lomas**, a mason, fifty, who is not a crew, and **Hessa Ruun**, water-count of the Reed Reach, about fifty, who came up two hundred steps in the wrong weather and said, "I have never been in a room with a stone in it and I am not going to pretend I understand what I am signing, and I am signing it because the fourth line is mine and I wrote it, and I will not have a door anywhere in this city that I have not read."
+The two witnesses were **Peth Lomas**, a mason, fifty, who is not a crew, and **Hessa Ruun**, water-count of the Reed Reach, about fifty, who came up two hundred steps in the wrong weather and said, "I have never been in a room with a stone in it and I am not going to pretend I understand what I am signing, and I am signing it because a woman of Nine Elms I have argued with for nine years wrote the fourth line and used it twice and refused a third time in front of me, and I am not going to have a door anywhere in this city that I have not read and I am not going to have one in my own name either."
 
 The return mark was separately established, costed and witnessed on the twenty-seventh day of this flood, it belongs to the person who went, and it is the only return mark in this world.
 
@@ -250,7 +250,7 @@ The person was **Eli Mercer**, nineteen, of no address, of the second list, who 
 
 He was not asked to go on the twenty-fifth day of the new month. He was told, at about the fifth hour of the afternoon in a room above a market, that there was a licence, that it carried one named living person per opening, that anybody in that room could put a name forward, and that his was on the list of names put forward, and that a person may strike their own name at any time.
 
-He struck it, and then unstruck it at about the sixth hour, and gave one reason, and it is in the book in his own words, and it is nineteen words long:
+He struck it, and then unstruck it at about the sixth hour, and gave one reason, and it is in the book in his own words, and it is twenty-one words long:
 
 "**I have said no eleven times to people who wanted something. I am going to say yes once to a page.**"
 
@@ -258,9 +258,9 @@ He went at about the ninth hour and he came back at about the ninth hour and ele
 
 He came back and said one thing, and it is four words and it is in the book:
 
-"**Same room. Taller.**"
+"**The same room. Taller.**"
 
-Nobody asked him a second question and he did not volunteer one, and it is entered that this was deliberate, and the reason is Renna Ord's and it is eleven words long: **a man who has been asked eleven times is owed a place where he is not a question.**
+Nobody asked him a second question and he did not volunteer one, and it is entered that this was deliberate, and the reason is Renna Ord's and it is eighteen words long: **a man who has been asked eleven times is owed a place where he is not a question.**
 
 And the lock closed at about the tenth hour, and the join stayed dressed, and the number on the wall of the second bay is eight and seven-eighths with one ruled line left in the column, and the main breach said nothing at any hour of that day.
 
@@ -320,6 +320,6 @@ And Adrian Vale said, "**I was not. I was the first one anybody could see.**"
 
 And that is the last thing entered about him on the twenty-fifth day of the new month, in his own hand, in a book in a room above a market. And there is a slate on a nail in the yard under the lock chapel with a date on it that is the end of the flood season, and a page on a sill two hundred steps down with a stone on it, and a copy of the licence that anybody may come and read, including the list of what the seventeen do not have, which is the longer list, and which is a term and not a favour.
 
-And the main breach is closed and dressed. The ground under the lock chapel is a black mark in a place, watched five times a day by a form with five items on a nail, and is not repaired. The black line in the chapel stone said nothing on that day, and the black line in a man's palm is forty-nine days old and has not moved one sixteenth of an inch. Nineteen stones are on a wall above a market with nobody's name on them and the meaning of them unwritten. A man of nineteen years has eight graves behind an ordinary wall, has said one true sentence about them in nine years, and has not been asked and has not refused. A woman of thirty-one from Nine Elms asked twice whether there is a person on the other side of that floor and was answered once in the worst possible way, and this evening a man of nineteen walked into a room with no window and came out of it eleven minutes later and said four words, and nobody wrote down what it means.
+And the main breach is closed and dressed. The ground under the lock chapel is a black mark in a place, watched twice a day by four people under a form with five items on a nail, and is not repaired. The black line in the chapel stone said nothing on that day, and the black line in a man's palm is forty-nine days old and has not moved one sixteenth of an inch. Nineteen stones are on a wall above a market with nobody's name on them and the meaning of them unwritten. A man of forty-four years has eight graves behind an ordinary wall, has said one true sentence about them in nine years, and has not been asked and has not refused. A woman of thirty-one from Nine Elms asked twice whether there is a person on the other side of that floor and was answered once in the worst possible way, and this evening a man of nineteen walked into a room with no window and came out of it eleven minutes later and said four words, and nobody wrote down what it means.
 
 And the forty men still go under the near gate twice a day, at the ordinary volume, out of the line and not together, because that is the ordinary work of this lock and it is what the bottom field pays for, and the working on the tide is once a month now that the join is shut, and the cost column was entered for the seventh time on the twenty-fourth day of the new month before the tide turned and not after, and it has no figure on the end of it, and a woman in a village four miles away has to decide in March how much of her life to put in the ground. The date is on the page. The page is the wall. The wall is not going to save anybody, and it is going to be there in the morning.

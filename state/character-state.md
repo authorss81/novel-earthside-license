@@ -114,7 +114,7 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48â€
 
 **Ovin Sarr** had his own name struck off the top of the roll's second page in daylight for a true reason, and wrote that word once and then put the chalk down rather than write it every time.
 
-**Ferris**, a gate-hand of about fifty, who said in a yard that he would rather say no for a week and be asked again than say yes for good, **did not come back for the second shift on the day the working was done**, because he has not been paid, and there is no entry and no fault and nobody went to his door, and **two days later he wrote the word in the box.**
+**Ferris**, a gate-hand of about fifty, who said in a yard that he would rather say no for a week and be asked again than say yes for good, **did not come back for the second shift on the day the working was done**, because he has not been paid, and there is no entry and no fault and nobody went to his door, and **the next evening, at about the seventh hour, before the tide, he wrote *works* in the box against the fiftieth day in a hand of about fifty years old, and nobody asked him what he wrote.**
 
 **Eli Mercer** said yes once, to a page, and said four words when he came back, and was not asked a second question.
 

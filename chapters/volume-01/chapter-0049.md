@@ -6,13 +6,13 @@ On the twenty-fourth day of the new month, which was the forty-ninth day of the 
 
 **The four went down at about the fourth hour of the morning, at a falling tide, in the wrong weather, with a gauge.**
 
-That is condition two, and it was carried out on this tide before it was carried out on any other, and it took about forty minutes, and the whole of the forty minutes is in the book because the four of them each said what they were looking at and the four statements do not agree and were entered with the disagreement on the page.
+That is condition two, and it was carried out on this tide before anything else was carried out on it, and it took about forty minutes, and the whole of the forty minutes is in the book because the four of them each said what they were looking at and the four statements do not agree and were entered with the disagreement on the page.
 
-The gauge stood in the outer wall of the lock chamber at the second bay with a foot of daylight over the top of the twenty-eighth mark, which is four inches below it, and that is the reading. It is not what it read on the twenty-seventh day of this flood. **Therefore the tide is worked, and the only thing that decided it was a groove cut into a piece of oak nine days ago by a man who did not say why.**
+The gauge stood in the outer wall of the lock chamber at the second bay and the water was four inches below the twenty-eighth mark, and that is the reading. It is not what it read on the twenty-seventh day of this flood. **Therefore the tide is worked, and the only thing that decided it was a groove cut into a piece of oak twenty-two days ago by a man who did not say why.**
 
 Hettis Roke said what he was looking at, and it is in his own words, and it is four sentences:
 
-"I am looking at a stick with one mark cut on it nine days ago by a man in a hurry who is a better mason than I will ever be, and I do not know why he cut it and nobody has told me, and I have been a Hearthguard of this city for nineteen years and I have never once in nineteen years had to decide a working tide off a mark that a man cut that morning.
+"I am looking at a stick with one mark cut on it twenty-two days ago by a man in a hurry who is a better mason than I will ever be, and I do not know why he cut it and nobody has told me, and I have been a Hearthguard of this city for nineteen years and I have never once in nineteen years had to decide a working tide off a mark that a man cut that morning.
 
 "And it is the right decision and I made it and I will not be second-guessed about it. And in nine years somebody is going to cut that mark on a Tuesday in a hurry and there will not be four of us standing here, and the sentence at the end of that day will be *the mark was cut*, and there is not one thing in nine pages or six conditions that can tell the two apart, and I have said so in a yard and nobody wrote it down, so I am saying it here and it is being written down."
 
@@ -24,7 +24,7 @@ Nell Bray said, in a felt hat: "I have said for nine days that one number is not
 
 Peth Lomas said: "I am the fourth and I am a mason and I am not a crew, and I said so on the twenty-first day before anybody asked, and I want it said that a man who has never been asked anything has no opinion about a mark and I am here because four people is four people and not because I think the water is in a mood."
 
-**And the four did not agree, and the notary entered that they did not agree, and the entry is the reason the route survived the next two years.**
+**And the four did not agree, and the notary entered that they did not agree, and the entry is the reason anybody in this city is still arguing about the mark instead of about the man who cut it.**
 
 ---
 
@@ -58,7 +58,7 @@ And Vask read it aloud, and said, "That is mine, and it is in my hand, and if it
 
 **And the crew went under the near gate at the sixth hour and at the eighth hour, at the ordinary volume, out of the line and not together, and forty names were on the roll and no name was at the top of it and the wages column was empty, because the city has no money and the city's credit is a field four miles away.**
 
-Nineteen of the day crew and twenty-one of the flood crew. Hesk, who is the foreman and who has said the four words under that gate in his life once before the twenty-first day of the new month, stood on the sill and said them at their ordinary volume and did not say them better than anybody.
+Nineteen of the day crew and twenty-one of the flood crew. Hesk, who is the foreman and who had said the four words under that gate in his life once, for the first time, on the twenty-first day of the new month, stood on the sill and said them at their ordinary volume and did not say them better than anybody.
 
 Adrian Vale was on the sill of the third bay at about the seventh hour with a folding steel rule and a stub of chalk, four feet back from the wall, in the rain, and a docker of about fifty came down the gallery steps and stood next to him and did not leave.
 
@@ -86,7 +86,7 @@ And the two sentences about whether he has thought about the pale edge are his a
 
 Wenna Cray was in the gallery and asked, in front of nineteen men, the question she asked on the eighteenth day of the new month, which is that the column has a number in it and the number has a date on it and neither of those is a fault, and that a fault can be given to somebody and a fact can only be carried.
 
-"It is a fact," said Adrian Vale, "and the mason wrote the thing he did in his own hand before I was in the room with a rule, and I did not ask him to, and I want that entered again because it is the second time in nine days and about nine people in this gallery have already decided the number is a boy's."
+"It is a fact," said Adrian Vale, "and the mason wrote the thing he did in his own hand before I was in the room with a rule, and I did not ask him to, and I want that entered again because it is the second time in six days and about nine people in this gallery have already decided the number is a boy's."
 
 "And who has decided that the number is a boy?" said Wenna Cray.
 
@@ -122,7 +122,7 @@ Renna Ord entered her own prediction of the twenty-first day of the new month as
 >
 > **As entered by the notary on the twenty-fourth day of the new month: that the figure of four is the figure of a docker of fifty-eight who cannot read; that the date given by her is the twenty-eighth day of the new month; and that the twenty-eighth day of the new month is the fifty-third day of the flood, which is four days from this one and not the nine days she has been saying; and that she has been giving that number out loud since the twenty-fifth day of the flood and has not had it right once, and that she is the plainest arithmetic in this city, and that both of these are entered and neither is above the other.**
 
-And Renna Ord read both entries, in a yard, on the evening of the twenty-fourth day of the new month, and said nine words, and they are in the book:
+And Renna Ord read both entries, in a yard, on the evening of the twenty-fourth day of the new month, and said fifteen words, and they are in the book:
 
 "**I will be proved wrong on that day. I hope to be. Write it down.**"
 
@@ -136,7 +136,7 @@ Which is the same.
 
 The step is in the stone and the number is on the wall, and both are true, and the step cannot be looked up and the number can only be taken, and that is the whole difference and it took Vask about nine minutes to say it to nineteen men in the wet.
 
-"There are two ruled lines in that column after the twenty-third and I ruled them both myself about nine days ago and one of them is now filled in, and there is one left," she said. "A ruled line is a fact and a missing line is a fight. And in nine years somebody in a room is going to want to know whether the step or the number is the finding, and the answer is that **a decision can be looked up and a number can only be taken**, and that nobody in this city is going to agree about it and that is not a fault, and that it is a fault, and that both of those are also in this book somewhere and I have read them and I do not know which is right and I have said so."
+"There are two ruled lines in that column after the twenty-third and I ruled them both myself six days ago, on the morning I entered the twenty-third, and one of them is now filled in, and there is one left," she said. "A ruled line is a fact and a missing line is a fight. And in nine years somebody in a room is going to want to know whether the step or the number is the finding, and the answer is that **a decision can be looked up and a number can only be taken**, and that nobody in this city is going to agree about it and that is not a fault, and that it is a fault, and that both of those are also in this book somewhere and I have read them and I do not know which is right and I have said so."
 
 The docker's *nine* is on the wall of the second bay and it is nine inches across the join toward the near gate and it was written on the twenty-fifth day of this flood, and the boy of nineteen's number is four inches under it and nine inches to the left, in a boy's hand, and there are five chalked marks on that wall.
 
@@ -172,7 +172,7 @@ Nobody in this city can say where the residue of a good working at that gate goe
 
 It was not the chapel. Nothing came out of it, nobody came out of it, and no floor came apart in front of about three hundred and ten people for the second time in fifty days, and the residue of a good working at a gate that had been done by a city and entered in a book went a finger's breadth under a floor and came back and left the wood warm, and that is the whole of what anybody in this city knows about where it went.
 
-Renna Ord said that in the lower gallery at about the ninth hour of the evening of the twenty-fourth day of the new month, in about four seconds, in front of about two hundred and forty people, and it is in the book in her own words, and it is the shortest thing anybody said on that day:
+Renna Ord said that at the top of the two hundred steps at about the ninth hour of the evening of the twenty-fourth day of the new month, in about four seconds, in front of about two hundred and forty people, and it is in the book in her own words, and it is the shortest thing anybody said on that day:
 
 "**That is not a thing we did. That is a thing that did not happen to us.**"
 
@@ -188,17 +188,17 @@ The main breach is a join in a gate and the join is dressed to a line and it is 
 
 Tamsin Quill was at the anchor side of the second bay for about eleven minutes of decided work and has said since that she did not feel a working and has been asked about it four times and has given the same answer four times, which is that a working needs a pattern and a hand and a willing witness and a cost, and that there were four of those and there was nobody in it, and that **a thing with four of the four things and no man in it is not a working, it is forty men doing a Tuesday's job on a named tide, and it closed a join because a Tuesday's job closed it, and I did not do anything.**
 
-That is in the book in her own words and Renna Ord read it out in a yard and about nine people in that yard said that it was the truest sentence anybody had said since the twenty-second day of the new month, and Adrian Vale entered that he had said the same thing in a hall three days ago in fewer words and that a woman of twenty-nine had said it better in eight words, and that the eight words are on the walk-round on the twentieth day of the new month and are: **the ordinary work of that lock is the working that closes the join, and the hand in it is not a man.**
+That is in the book in her own words and Renna Ord read it out in a yard and about nine people in that yard said that it was the truest sentence anybody had said since the twenty-second day of the new month, and Adrian Vale entered that he had said the same thing in a hall on the twenty-first day of the new month, three days ago, in fewer words and that a woman of twenty-nine had said it better in twenty-two words, and that the twenty-two words are on the walk-round on the twentieth day of the new month and are: **the ordinary work of that lock is the working that closes the join, and the hand in it is not a man.**
 
 And on the wall of the second bay the docker's *nine* is under the boy's number and both are where they were, and the pale edge is dressed, and the twenty-fourth reading is eight and seven-eighths and there is one ruled line left in the column, and the twenty-fifth reading is not taken, and the person who takes it will be somebody who has not been asked.
 
-At about the eleventh hour of the night of the twenty-fourth day of the new month, in the lower gallery, the lamp was on the third step and a girl of seventeen was on the step below it with the fourth volume open on her knees and Sera Vail was writing, and a boy of nineteen came down the two hundred steps in the rain at about the half hour past the eleventh hour with a stick of chalk in his hand, and the row for the forty-ninth day of the flood was still empty, and it is a Monday's row, and it has been empty for nine days.
+At about the eleventh hour of the night of the twenty-fourth day of the new month, in the lower gallery, the lamp was on the third step and a girl of seventeen was on the step below it with the fourth volume open on her knees and Sera Vail was writing, and a boy of nineteen came down the two hundred steps in the rain at about the half hour past the eleventh hour with a stick of chalk in his hand, and the row for the forty-ninth day of the flood was still empty, and it is a Monday's row, and it has been the next tide's box for six days.
 
-He stood in front of it for about four minutes and then he put the chalk down on the ledge, and the reason is his and it is in the book in his own words and it is eleven words long:
+He stood in front of it for about four minutes and then he put the chalk down on the ledge, and the reason is his and it is in the book in his own words and it is eighteen words long:
 
 "**I wrote that word once. I am not going to be the man who writes it every time.**"
 
-And Renna Ord was in that gallery and has still never been asked what she decided on the thirtieth day of the salt year, when she wrote the word against the thirty-third with a barrow and a stick of chalk, and nobody asked her tonight either, and about nine people in that gallery have said since that they wanted to ask her and that there is something about a woman of fifty-eight who cannot read being asked a question about a table by a room that has wanted something from her for five weeks that stops about nine people, and Renna Ord has entered that she noticed and has entered no reason and that is the only entry of that shape in the fourth volume.
+And Renna Ord was in that gallery and has still never been asked what she decided on the thirty-third day of the flood, when she wrote the word against the thirty-third with a barrow and a stick of chalk, and nobody asked her tonight either, and about nine people in that gallery have said since that they wanted to ask her and that there is something about a woman of fifty-eight who cannot read being asked a question about a table by a room that has wanted something from her for five weeks that stops about nine people, and Renna Ord has entered that she noticed and has entered no reason and that is the only entry of that shape in the fourth volume.
 
 Adrian Vale did not fill it in. He has entered that he did not fill it in, that nobody asked him to on this day, and that he is not going to be asked, and that the row for the forty-ninth says nothing at all and the row for the fiftieth, which is a Tuesday, is empty, and that the last act of this flood is not going to be his and that he has written that sentence in a notebook in four different inks over five weeks and that it is still true on the morning it happened.
 
