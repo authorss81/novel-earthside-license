@@ -52,17 +52,17 @@ The gate crew said the maintenance oath at its ordinary volume.
 
 That was Owen Park's, from the eighteenth day, and it had been in Priya's log for a week and had not been acted on, and it was the most consequential decision taken in that city in a month, and it was taken by a docker of about sixty in a felt hat.
 
-"There is one thing," said Nell Bray, at ten minutes to the seventh hour, "and then I am going under the gate, and I am not saying it for the crowd. Three weeks ago a man told us that the four words forty of us say twice a day is the thing spending the bottom field an hour at a time, and he was right, and this morning we are going to say them harder than we have ever said them to move nine inches of stone. So we are going to say them *ordinarily*. At the volume we say them. In the voices we say them. Out of the line and not together. Because if we start chanting, this morning is a thing a crowd did, and in nine days somebody will say *the crowd said the oath louder and that moved the stone*, and it will be in a market, and there will be a man in a good coat in it, and the next time a city wants to spend a field it will go looking for a crowd." She pulled her hat down. "We are not a crowd. We are a crew. Say it the way you say it."
+"There is one thing," said Nell Bray, at ten minutes to the seventh hour, "and then I am going under the gate, and I am not saying it for the crowd. A fortnight ago a man told us that the four words forty of us say twice a day is the thing spending the bottom field an hour at a time, and he was right, and this morning we are going to say them harder than we have ever said them to move nine inches of stone. So we are going to say them *ordinarily*. At the volume we say them. In the voices we say them. Out of the line and not together. Because if we start chanting, this morning is a thing a crowd did, and in nine days somebody will say *the crowd said the oath louder and that moved the stone*, and it will be in a market, and there will be a man in a good coat in it, and the next time a city wants to spend a field it will go looking for a crowd." She pulled her hat down. "We are not a crowd. We are a crew. Say it the way you say it."
 
-It is in the ledger, in Vail's hand, that the oath was said under the near gate on the twenty-fifth day of the flood by nineteen men of the day crew and eleven of the flood crew, twice each, in the ordinary order and the ordinary volume, and that the thing they said it *for* was entered in the terms and was not an increase in volume.
+It is in the ledger, in Vail's hand, that the oath was said under the near gate on the twenty-fifth day of the flood by nineteen men of the day crew and twenty-one of the flood crew, twice each, in the ordinary order and the ordinary volume, and that the thing they said it *for* was entered in the terms and was not an increase in volume.
 
-And Owen Park, who had no business in the gallery except as a body, stood at the top of the second stair with a lantern he had not lit and listened to nineteen men say four words in a flood month, and said nothing to anybody afterwards, and went out on the walk-round at eight o'clock because he could not be in that room.
+And Owen Park, who had no business in the gallery except as a body, stood at the top of the second stair with a lantern he had not lit and listened to nineteen men say four words in a flood month, and said nothing to anybody afterwards, and went out into the yard at eight o'clock because he could not be in that room.
 
 ---
 
 The working was performed by four people and a crew.
 
-Tamsin Quill at the anchor side, on the sill of the second bay, her hand flat on the stone and her boots in four inches of moving water, doing what she had done on the ninth morning of the flood in front of two hundred and eleven people, and which is the only thing in this volume that Adrian can never do and never attempts.
+Tamsin Quill at the anchor side, on the sill of the second bay, her hand flat on the stone and her boots in four inches of moving water, doing what she had done on the ninth morning of the flood in front of two hundred and eleven people, and which is the one thing in this city Adrian can never do and has never once pretended he could.
 
 Ottoline Vask at the pale edge, on a staging eleven feet up, with a bar and two masons and a hammer, calling the number.
 
@@ -92,11 +92,15 @@ It was, by every measure available to anybody in that city on the morning of the
 
 He went up at about the eighth hour to stand in the archway where he had to stand for the review, and Mina Okoye found him there at half past eight and said, without any preamble, in English:
 
-"There are eleven people on the walk-round who were not there at seven."
+"There are eleven people who have not turned up."
 
 "How many arrived."
 
-"Eleven. I counted twice." She had her hands in her sleeves and she was breathing fast. "They are on the walk-round. They are dry, and there has been rain on that wall for three weeks, so they have been there about four minutes, and they have not come down the two hundred steps, and a docker called Ferris went up to them at eight and one of them spoke to him in a language he did not know and Ferris came straight back down."
+"None. I counted twice." She had her hands in her sleeves and she was breathing fast. "They were expected at the outer wall at the sixth hour. Renna Ord has had four men at the foot of the two hundred steps since half past five, and she has not gone within thirty feet of the seam herself, and she has told the four of them not to go within thirty feet of it either, and she has not said one word about what to do about it, and she has not said one word to me, and I am not a woman from this city and I have been in it twenty-five days and I know exactly what a person not saying a word is doing, and it is *waiting for the man in the book*."
+
+"How many were expected."
+
+"Eleven. That is what a docker in a felt hat wrote on a slate on Friday, and what a man on the bank said out loud in a market, and what four people on the second bench from the wall have said every day since in about four different ways." She wiped her face with her sleeve. "And nobody in this city has been wrong yet. I have been waiting for somebody to be wrong about a number since Tuesday and I have not managed it once."
 
 "Where is Vask?"
 
@@ -104,17 +108,15 @@ He went up at about the eighth hour to stand in the archway where he had to stan
 
 "Then Renna Ord."
 
-"Renna Ord is on the walk-round and she has not gone within thirty feet of them and she has told four men not to go within thirty feet of them, and she is standing there now, and she has not said one word about what to do, and she has not said one word to me, and I am not a woman from this city and I have been in it twenty-five days and I know exactly what a person not saying a word is doing, and it is *waiting for the man in the book*."
+"I have told you about Renna Ord. I have been standing in this archway for two hours waiting for you to do the thing you are going to do, and you have not done it, and neither has she, and I do not know what it is."
 
 He had not looked for the pale field once that morning, and he noticed that he had not, and he was aware, standing in an archway with a headache behind his left eye, that this was the first time in twenty-five days the thing had said nothing at all during the loudest event in it, and that the bad feeling he had about it was not about the interface.
 
-And he stood at the counter in that hall for two hours and forty minutes answering nothing, and at about the eleventh hour he found out that eleven people had not turned up, because a boy of nine had come up the market at a run and said the two-hundred-steps stair, which is what Tam Crane does when he is frightened and cannot think of a sentence.
-
-He never got to the first question.
+And he stood at the counter in that hall for two hours and forty minutes answering nothing, and he never got to the first question, and at about the eleventh hour a boy of nine came up the market at a run and could not get out a whole sentence, which is what Tam Crane does when he is frightened and cannot think. What he did get out, four times, was *the chapel*, and *floor*, and *water*, and *comes* — and Adrian was through the door before he had finished the fourth one.
 
 ---
 
-It went at eleven minutes past the eleventh hour, in the yard, and it took about four seconds, and there were about three hundred and ten people in that yard and eleven of them had been in the city five hours.
+It went at eleven minutes past the eleventh hour, in the yard, and it took about four seconds, and there were about three hundred and ten people in that yard and eleven of them had been in the city less than a minute.
 
 The sound came first, and it was not a crack. It was a *report*, low, under everything, and it came from under the boards, and about forty people in that yard had dug at it or knelt on it in the last ten days and every one of them knew exactly where it came from.
 
@@ -122,19 +124,19 @@ Then the boards lifted, at the north end, about four feet of them, all together,
 
 It came up the slope and stopped at the threshold slab, and Vask's voice, from a doorway forty feet away, said one word in the local language that Adrian later learned means *there*, and not *here*.
 
-And the black line in the chapel stone — the line that has been in it since the seventh night of the flood, the line that is a promise with no witness taken up, four hundred years of boots worn into a shallow bowl above it — went from black to the colour of a wet road.
+And the black line in the chapel stone — the line that has been in it since the second night of the flood, the line that is a promise with no witness taken up, four hundred years of boots worn into a shallow bowl above it — went from black to the colour of a wet road.
 
 Adrian felt it in his right hand before he saw anything, in the two inches of hair-thin black in the heel of his palm that has not moved since the second morning of this flood and did not move then, and he turned his hand over in a wet yard and it was exactly the same, and he wrote that down at half past four that afternoon in a room, because it was the only fact in the next two hours that was the same as it had been.
 
-It was not the chapel stone. It was four feet beyond it, in the long flagstones, at the hairline — the line that opened in this room on the first morning of the flood and carried water uphill, and which Vask had proved in a yard four days ago was the top of twenty-two feet of dressed joint laid on edge beneath a chapel floor, a corner, a return, a doorway shape, and a repair of about two hundred years closing a joint somebody had opened in a flood month and could not fix from that side.
+It was not the chapel stone. It was four feet beyond it, in the long flagstones, at the hairline — the line that opened in this room on the first morning of the flood and carried water uphill, and which Vask had proved in a yard the day before was the top of twenty-two feet of dressed joint laid on edge beneath a chapel floor, a corner, a return, a doorway shape, and a repair of about two hundred years closing a joint somebody had opened in a flood month and could not fix from that side.
 
 The line was a hand's width and four inches long, and that is the top of a thing. It opened *across*.
 
-It came up through the joint in the flagstones four feet from the threshold slab and came across four feet of chapel floor in a line as straight as the line under it, and where it stopped it took a flagstone up out of its bed and stood it on end about nine inches, and the water came through the gap underneath it in a flat grey sheet two inches deep and did not run and did not go anywhere, and about four hundred people in a yard in a city at a lock watched a chapel floor turn into a channel.
+It came up through the joint in the flagstones four feet from the threshold slab and came across four feet of chapel floor in a line as straight as the line under it, and where it stopped it took a flagstone up out of its bed and stood it on end about nine inches, and the water came through the gap underneath it in a flat grey sheet two inches deep and did not run and did not go anywhere, and about three hundred and ten people in a yard in a city at a lock watched a chapel floor turn into a channel.
 
 And there was no consent, and there was no witness, and there was no cost in it, and there was no bar in it, and there was nobody standing in it.
 
-And then, for about four seconds, out of the black line in the chapel stone — not out of the floor, not out of the arch, out of the raised pale slab that every person in that city steps over on the way in to keep a gate — something said a sentence in English, in a flat voice, in the voice of a person reading out a list.
+And then, out of the black line in the chapel stone — not out of the floor, not out of the arch, out of the raised pale slab that every person in that city steps over on the way in to keep a gate — something said a sentence in English, in a flat voice, in the voice of a person reading out a list.
 
 "One. A place people already agree on, used already, for another reason."
 
@@ -148,19 +150,19 @@ That was the whole of it, and it is what Adrian has never been able to get past:
 
 ---
 
-Wren Halloway was eleven years old and had been in this world for five hours and eleven minutes, four of them on the walk-round in the rain being spoken to in a language she did not speak, having said twice, to a man with a lamp, in English, that she wanted to go and stand somewhere quiet. She was in the yard because everyone was in the yard, and she was standing six feet off the arch, on the flagstones, four feet beyond the threshold slab, on the seam.
+Wren Halloway was eleven years old and had been in this world for a little under a minute, and in that minute she had already said three whole sentences in English to two different people about a wall with a light in it, and had understood one word that was said to her, which was *careful*, and it was said by a woman in a boat-coat who did not know there was anybody there to say it to. She was in the yard because everyone was in the yard, and she was standing six feet off the arch, on the flagstones, four feet beyond the threshold slab, on the seam.
 
 She was not hurt. She was on the ground.
 
 The flagstone came up on end and she went down with it, flat, on her back, into nine inches of flat grey water, and the water did not go in and did not come out and lay on her like a weight, and the crowd's own noise made a hole around her the way a crowd's noise does.
 
-Owen Park was four feet away. He had come up off the walk-round at ten to eleven because the water had turned early, and had been pushed four feet east by about sixty people in ninety seconds, and he had not been in the working, and had complained of that shoulder exactly twice in twenty-five days, both times to a woman with tweezers, and both times been told it was a cold.
+Owen Park was four feet away. He had been in that yard since eight, on the far side of the boards, holding a line nobody had asked him to hold, and had been pushed four feet east by about sixty people in ninety seconds, and he had not been in the working, and had complained of that shoulder exactly twice in twenty-five days, both times to a woman with tweezers, and both times been told it was a cold.
 
 He got four steps. He was not a fast man and everybody who has seen him try will tell you that he is not a fast man. He got four steps, and he put his right arm under her and took her weight while a mason's bar came down flat on the edge of the standing stone to lever it, and there are three masons who will say that was the fastest thing anybody could do and the correct thing to do for the rest of their lives.
 
 The shoulder went.
 
-It went the way a thing goes when it has been doing a joint's work for three weeks without being asked, which is exactly what Hesper Saye had said to a different man in a different room in this city three weeks before, and which Owen Park did not know, and which she had told nine hundred men about and had been right about four hundred of them.
+It went the way a thing goes when it has been doing a joint's work for three weeks without being asked, which is exactly what Hesper Saye had said to a different man in a different room in this city a fortnight before, and which Owen Park did not know, and which she had told four hundred men about and had been wrong about ninety of them.
 
 Hesper Saye was in the yard. She had come up to look at two grazes a mason's boy had got on the Thursday, and she came through about nine people and got to a flat flagstone with a child lying on nine inches of standing water and a man on his knees beside her with his right arm still under her.
 
@@ -182,17 +184,23 @@ Hesper Saye had put it in at eleven minutes past two, on a table in a porch, and
 
 "How long," said Owen Park, from a chair, with his good arm across his chest.
 
-"You will not lift anything over about forty pounds with that arm for the rest of your life," said Hesper Saye, "and you will not know that you are doing it, and about one time in nine you will find out."
+"You will not lift anything over about forty pounds with that arm for the rest of your life," said Hesper Saye, and "and you will not know that you are doing it, and about one time in nine you will find out."
+
+Mina Okoye had not moved from about four feet away and she had watched all of it. Adrian found her at about half past three in a doorway with the yard behind him and asked her, in English, the question he had asked Saye and got nowhere with, which was why a shoulder could not be set.
+
+She told him in the local language, badly, and she told him because she had worked it out standing in the wet and she could not stand it for another hour.
+
+"It is a hold," she said. "**A hold is a working without a witness, and the residue of one goes into the person who did it.** This morning four people in a gallery agreed to a thing, it was done, it was paid for, and the price of it went under a chapel floor three hundred yards away. A man on a wet floor took a child's weight with nobody agreeing to it and nobody standing in it, and there is no book anywhere that says a man did that. Those are the same event. Eleven days ago a woman with tweezers stood in a porch and said to a room that a shoulder had been doing an arm's work for three days without being asked, and that it would do it again, and she was talking about a different man in a different room, and nobody in this city is ever going to put those two things in the same sentence, and I am doing it now because I cannot carry both of them."
 
 ---
 
-Eleven of them came down the two hundred steps of the walk-round between the eleventh hour and the second hour of the afternoon, and Adrian watched it happen from the archway of a chapel and did not go down, because he had been put four feet back from a hole in a yard by the keeper of that yard on the nineteenth day of the month and he was going to be four feet back from this as well.
+Eleven of them came up out of the floor of that yard between the eleventh hour and the second hour of the afternoon, and Adrian watched it happen from the archway of the chapel and did not go down, because he had been put back from a hole in a yard by the keeper of that yard on the nineteenth day of the month and he was going to be back from this as well.
 
-**Eli Mercer**, nineteen, came down first and fastest, and was the only one of the eleven who came down *running*, and stopped about four feet above the bottom of the stair and said, out loud, in English, to about three hundred people: "Oh, that's — that's *lore*. That's the gate guard. He's got the little hammer thing, that's the *aesthetic variant*, that's the flood-season one—"
+**Eli Mercer**, nineteen, came up out of the floor first and fastest, and was the only one of the eleven who came up *running*, and got clear of the hole and stopped in the middle of the wet boards and said, out loud, in English, to about three hundred people: "Oh, that's — that's *lore*. That's the gate guard. He's got the little hammer thing, that's the *aesthetic variant*, that's the flood-season one—"
 
-**Teodor Blaz**, thirty-one, came down on his hands and knees and did not get up for eleven minutes. **Gareth Mbeki**, twenty-seven, took a docker's shoulder without being asked and then apologised to it for two hours. **Wren Halloway**, eleven, went down the stair in a blanket off the back of a barrow with a mark on her right cheek in the shape of a line, asleep. **Kirsty Lund**, sixteen, cried for about a minute and a half and then stopped, entirely, in the middle, and did not start again, and about nine people in that yard found that frightening and could not say why.
+**Teodor Blaz**, thirty-one, came up on his hands and knees and did not get up for eleven minutes. **Gareth Mbeki**, twenty-seven, took a docker's shoulder without being asked and then apologised to it for two hours. **Wren Halloway**, eleven, was carried out of that yard on the back of a barrow under a blanket, with a mark on her right cheek in the shape of a line, asleep. **Kirsty Lund**, sixteen, cried for about a minute and a half and then stopped, entirely, in the middle, and did not start again, and about nine people in that yard found that frightening and could not say why.
 
-**Sam Iyer**, **Nadia Brandt**, **Sunny Ferrer**, **Curtis Okonkwo**, **Odile Ferrand** and **Bern Zolt** — twenty-four to forty-four — stood in a line on the boards over the dig in a kind of formation that nobody in that city recognised and about four people recognised.
+**Sam Iyer**, **Nadia Brandt**, **Sunny Ferrer**, **Curtis Okonkwo**, **Odile Ferrand** and **Bern Zolt** — twenty to forty-four — stood in a line on the boards over the dig in a kind of formation that nobody in that city recognised and about four people recognised.
 
 And a woman called **Perry Lask**, forty-one, who has said in two halls since the second hour of the afternoon, in a flat voice, in English, to anybody who will stand still: "This is a closed beta. I want to say that I know what that sounds like, and I would like it written down that I said it first, in this yard, before anybody else, and I would like somebody to tell me I am wrong."
 
@@ -202,7 +210,7 @@ Nobody in that city could tell her she was wrong, and about forty people who had
 
 Ivenn Marrow was at the site within nine minutes of the tear, and he was the most useful man in the yard, and Adrian has never written anything about it that he was proud of.
 
-He came up the market with tarpaulins off the Brass Measure and a folding stretcher, did not ask anybody's permission, had a tarpaulin over the boards inside four minutes, had the eleven of them sat in a ring in the dry part of the yard with his own back to the weather, and got water and food into eleven people who had been in the world four hours — and got a bonesetter from the upper road whom he had evidently gone and find *before* the tear, on the Thursday, because he has been in this city seven weeks and has a list of every person in it who could be useful in a room.
+He came up the market with tarpaulins off the Brass Measure and a folding stretcher, did not ask anybody's permission, had a tarpaulin over the boards inside four minutes, had the eleven of them sat in a ring in the dry part of the yard with his own back to the weather, and got water and food into eleven people who had been in the world an hour — and got a bonesetter from the upper road whom he had evidently gone and find *before* the tear, on the Thursday, because he has been in this city seven weeks and has a list of every person in it who could be useful in a room.
 
 At about half past one he said, in the yard, in the local language, correctly, without a word of English, to a woman from the Concord's own bench: "The man in the seat is not a doctor and I am not a doctor and the woman on the ground is not a doctor. There is a room by the salt wharf with a woman in it who has been dressing injuries in this city since before any of us were born. Go and get her. Do not ask him. He will want to come to you and he has to be at a counter in a hall in forty minutes."
 
@@ -228,7 +236,7 @@ Sera Vail came up into the yard at about twenty past two with a slate and a chai
 >
 > **The reason is entered as it happened: at the eleventh hour and eleven minutes a ground opened in the yard of the lock chapel, nineteen persons were carried out of it, and eleven other persons came out of it, and a man of this city has a shoulder he will be asked to hold again for the rest of his life, and the review was not taken because there was no room left in which to take it.**
 >
-> **The review is continued to the thirtieth day of the salt month, at the first light, in this hall, with the three questions as they were written on the ninth day of the flood, unaltered. The interval is entered. The reason is entered. Both dates are in this book, and neither of them is the date anybody wanted.**
+> **The review is continued to the thirtieth day of the flood, at the first light, in this hall, with the three questions as they were written on the ninth day of the flood, unaltered. The interval is entered. The reason is entered. Both dates are in this book, and neither of them is the date anybody wanted.**
 
 And then she squared the slate and looked up, and about two hundred people in a yard in the rain understood simultaneously that they had all been about to do the same thing at the same time and had been stopped.
 
@@ -238,13 +246,13 @@ She picked the slate up. "You may now say whatever you were about to say, and I 
 
 Nineteen people said things in that yard over about two hours, and Adrian has the entries, and eleven of them were about the man in the good coat, and six about a wall, and two about the arm, and one about bread.
 
-And then, at about the ninth hour of the evening, in the hall, with about two hundred people in it, and the ground under the chapel open four feet across with a tarpaulin on it and a mason sitting beside it with a bar across his knees, Adrian Vale stood in the gap in the floor where a man stands when a room is going to say something to him, and a boy of nineteen came down the second stair from the walk-round into a converted salt store where two hundred people were arguing about whether a thing in a wall should be opened, and asked, in English, loudly, in front of everybody, in a young voice that cracked in the middle of it:
+And then, at about the ninth hour of the evening, in the hall, with about two hundred people in it, and the ground under the chapel open four feet across with a tarpaulin on it and a mason sitting beside it with a bar across his knees, Adrian Vale stood in the gap in the floor where a man stands when a room is going to say something to him, and a boy of nineteen walked in out of the rain from a yard where a floor had been open all afternoon, into a converted salt store where two hundred people were arguing about whether a thing in a wall should be opened, and asked, in English, loudly, in front of everybody, in a young voice that cracked in the middle of it:
 
 "Is this a game?"
 
 The hall stopped.
 
-It was the loudest quiet Adrian has ever been inside of, and it lasted about four seconds, and in those four seconds he worked out — with a clarity he has described in eleven documents since and always the same way, as *an accounting* — that he had a choice of about nine sentences, that eight of them were lies of a kind, and that one of them was true and would take two minutes and would be the worst thing he had ever said in a room.
+It was the loudest quiet Adrian has ever been inside of, and it lasted long enough for him to work out — with a clarity he has described in eleven documents since and always the same way, as *an accounting* — that he had a choice of about nine sentences, that eight of them were lies of a kind, and that one of them was true and would take two minutes and would be the worst thing he had ever said in a room.
 
 The field did not come up. It had said nothing all day — not in the yard, not in the hall, not in the archway, not at the counter — and the absence of it was so loud that he had to put his thumb against the edge of the notebook to keep his hands still.
 
@@ -256,19 +264,19 @@ He turned round and looked at where the woman was, and she was at the back on th
 
 He turned back to the room, and said it, in English, and she translated it into the local language in the flat voice she uses for documents, and it took two minutes and forty seconds, and Adrian did not look at her once, and she did not tidy a single clause, and afterward nobody in that hall could find a place where it had been improved.
 
-"I do not know what you have. I said, in this hall, on the seventeenth morning of this month, in about two minutes and eleven seconds, the true answer to a question about a mark in a wall, and the true answer was *I do not know*, and about forty people were disappointed in me and stayed, and a docker stood up and said that the first true thing anybody had said on that wall in a fortnight was a man saying he did not know. So here is a worse one. Here is the *small* one, and I have had five days to get it, and it is uglier than the large one.
+"I do not know what you have. I said, in this yard, on the sixteenth day of this flood, in about two minutes and eleven seconds, the true answer to a question about a mark in a wall, and the true answer was *I do not know*, and about forty people were disappointed in me and stayed, and a docker stood up and said that the first true thing anybody had said on that wall in a fortnight was a man saying he did not know. So here is a worse one. Here is the *small* one, and I have had nine days to get it, and it is uglier than the large one.
 
 "When I was your age I spent nine years building the rules for a thing that had no people in it. I made them to be fair. I made them so a person could not be hurt by them. It was the only work I was good at. And about four weeks ago I came out of a wall in this city and found out that a person can be hurt by a rule I wrote, and the way it happens is not that the rule is unfair. It is that the rule is fair and *small*, and it is fair in a room, and the room is not where the person is standing.
 
 "You are not inside that thing. There is no version of the last day that you get to have again, and no place to go back to, and nothing to reload, and nobody who is going to rebuild you, and I am not using the foreign word for any of it because I have spent three weeks refusing to use it in a room, and because a word is not the problem. The problem is that I have been sitting on a seat for twenty-five days with a number going up and up in a book, and I have been telling myself the number was about a field. A field is a hundred and forty acres. This — " and he put his hand out at the hall, at the tarpaulin, at the yard " — this is the whole of what a person is, and there is no bar on it, and if you are looking for a number then you have a machine somewhere, and the machine is not here.
 
-"You came through a thing that was not a door, without asking, and I have got a page in a book with your names on it, and every one of you came out of that hole in this yard in about a second, and eleven of you are standing in a room in a city where nobody has a mark like the one that brought you. I have been in this world twenty-five days and I can tell you exactly one thing about that hole: **it carries one person at a time, and it is not opened by anybody, and nobody is being fetched, and nobody is going to be sent.**"
+"You came through a thing that was not a door, without asking, and I have got a page in a book with your names on it, and every one of you came out of that hole in this yard in about a second, and eleven of you are standing in a room in a city where nobody has a mark like the one that brought you. I have been in this world twenty-five days and I can tell you three things about that hole and I am going to say all three, including the one I would rather not have. **It is not opened by anybody. Nobody was being fetched. And nobody is going to be sent.**"
 
 He stopped, because he had run out, and because two hundred people in a converted salt store had gone extremely quiet in a way he had heard once before in a chapel, and the once before had been about a different thing.
 
 "And the last of it," he said, "and I want the last of it more than any of the rest, and I am aware that it is the least useful sentence I have said tonight.
 
-"**I do not know whether I am part of this.** Not *am I*. I do not know whether. In the first week of this month I found a black line in my hand that opened on the second night and has not moved since and that nobody else can see, and in the third week a voice came out of the threshold stone of a chapel in this city and said a sentence in my own words in a file that I deleted before I ever came here, so it is not in any file — and I wrote it in my own hand on a page in a room in this world, and I have given that page to a woman from this city to keep. And I do not know whether that is a thing happening *to* me or a thing I am *doing* to eleven villages. And I have written it on a wall in this city, in a keeper's words, where anybody who comes up that yard has to read it, because I would rather it were in a place I cannot get at alone than in a place where it is only true because I am the only one who says it."
+"**I do not know whether I am part of this.** Not *am I*. I do not know whether. In the first week of this month I found a black line in my hand that opened on the second night and has not moved since and that nobody else can see, and in the third week a voice came out of the threshold stone of a chapel in this city and said a sentence in my own words in a file that I deleted before I ever came here, so it is not in any file — and I wrote it out in my own hand on a page in a room in this world, and I have not shown that page to a living soul, and I have not told anybody in this city that I am carrying it, and I have never in my life not told somebody. And I do not know whether that is a thing happening *to* me or a thing I am *doing* to eleven villages. And I have written it on a wall in this city, in a keeper's words, where anybody who comes up that yard has to read it, because I would rather it were in a place I cannot get at alone than in a place where it is only true because I am the only one who says it."
 
 He looked at the boy of nineteen in the middle of the floor.
 
@@ -280,7 +288,7 @@ And then Hettis Roke stood up on the other side of the floor, grey-bearded, with
 
 "Then enter it. All of it, in his words and not summarised, and the boy's question in the boy's words, and the woman's, and my own. Because he has just told this room that he does not know, in a room of two hundred people, on the last day of the salt month, and I have been a Hearthguard for nineteen years and I have watched about nine men in this city say a thing they did not know, out loud, in a room, and I have never once seen a book in which it stood." He turned round. "I said a thing on the eleventh day and you entered me for it, and I did not ask to be entered, and I have thought about that every day, and I have decided it was correct. I would like a copy of this on the roll of public business in the morning, so that anybody who was not in this room can read what the man in the book said when two hundred people asked him whether a door should be opened."
 
-Vail wrote it for forty minutes and read it back, and the reading took nineteen, and it is in the Concord's book at the twenty-fifth day of the salt month, in the position in which anybody in four hundred years who wants to know what was said in that hall will look first.
+Vail wrote it for forty minutes and read it back, and the reading took eleven minutes, and it is in the Concord's book at the twenty-fifth day of the salt month, in the position in which anybody in four hundred years who wants to know what was said in that hall will look first.
 
 And when she had finished, and the hall had begun to break up, and the boy of nineteen was arguing with a docker about a word, Adrian went and sat down on the end of the last bench with his back against a wall of brine, and put his right hand palm-up in the lamplight.
 

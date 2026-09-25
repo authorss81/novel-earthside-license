@@ -18,7 +18,7 @@ She came up, and she put her bowl on the table, and she did not touch him.
 
 Owen Park looked at the table.
 
-"I do not know," he said. "That is the honest answer and I have had nine days to improve on it. I went through a wall that was not a door and I came out the other side with a wound on my head that has had clean skin over it for ten days and has not begun, and you have a word for that, and the word is *unclosed*, and I have not told anybody in this city which part of me is the unclosed part."
+"I do not know," he said. "That is the honest answer and I have had fifteen days to improve on it. I went through a wall that was not a door and I came out the other side with a wound on my head that has had clean skin over it for twenty-two days and has not begun, and you have a word for that, and the word is *unclosed*, and I have not told anybody in this city which part of me is the unclosed part."
 
 "Which part is it."
 
@@ -62,7 +62,7 @@ He had asked Vask about the outer wall. He had asked Ovin Sarr to hold a line. A
 
 "Because it is the hour of the thing." Owen was standing in the rain at the top of two hundred steps with a lamp off. "I have been on that wall at six every morning for ten days, before the rain, before anybody, and I have never once seen the light when I was anywhere but here or in the field. And I have never once seen it in daylight, and it has never once been there when I brought the lamp lit, and the first time I saw it I had been in a hole with five other people in it and I had been — " he stopped. "It is not a thing I have been able to make smaller. That is the thing I would like somebody to hear. I have tried to make it smaller for ten days and I cannot make it smaller, and every time I have tried I have got a little worse at things I *was* good at, which is walking into rooms."
 
-Adrian stood in the rain on a stair and worked out, in about nine seconds, that he was about to say the thing the mason had said to him in a yard, and that it was going to be the third time he had said it and that the third time would be the one that stuck.
+Adrian stood in the rain on a stair and worked out, there and then, that he was about to say the thing the mason had said to him in a yard, and that it was going to be the third time he had said it and that the third time would be the one that stuck.
 
 "You cannot go alone," he said.
 
@@ -104,11 +104,11 @@ A branching pale ghost running out toward the wrist, which he had pressed into a
 
 He had written it down. He had it in a notebook, and Priya had it in her log, and Saye had seen the first and had not been able to see the second, and Tamsin had looked at both of them for a full minute in the light of a lamp on the first week and had said, in English, with total flatness, *I can see the pale one. I cannot see the black one. I have looked.*
 
-He was, on the evidence of a stone, a man in a join, and a man in a join had been spending a hundred and forty acres an hour at a time since the first morning of the flood. And he could not prove it, and could not disprove it, and had a debt for a season, and a post in a yard, and was going to be asked in a hall in four days whether he was right.
+He was, on the evidence of a stone, a man in a join, and a man in a join had been spending a hundred and forty acres an hour at a time since the first morning of the flood. And he could not prove it, and could not disprove it, and had a debt for a season, and a post in a yard, and was going to be asked in a hall in seven days whether he was right.
 
 *What we said, and not what it was.*
 
-He wrote the two words at the top of a clean page, and then, underneath them, the first line of the form, and it took him until about one in the morning, and it is the single most useful thing Adrian Vale produces in Volume One, and it is on a wall in a loft above a market in Saltwake, in two languages, with five witness lines, and about eleven people in this city know it exists and two hundred have read the notice that describes it.
+He wrote the two words at the top of a clean page, and then, underneath them, the first line of the form, and it took him until about one in the morning, and it is the single most useful thing Adrian Vale has produced in this city, and it is on a wall in a loft above a market in Saltwake, in two languages, with five witness lines, and about eleven people in this city know it exists and two hundred have read the notice that describes it.
 
 > **A STATEMENT OF WHAT A PERSON SAID THEY SAW, WHERE THE THING SAID CANNOT BE LOOKED AT AGAIN BY ANOTHER PERSON.**
 >
@@ -190,7 +190,7 @@ Hesper Saye came up at about one o'clock on the afternoon of the twenty-fourth d
 
 "No."
 
-"You have written a form about a thing a person saw and a person cannot look at again, and you have not put in one line about a person being *hurt*." She turned round. "In nine days, in this city, I have been asked about a head eleven times and about a shoulder twice and about a man who saw a light eight times, and there is nobody in this room or in that hall who has ever once written down a place where a person can be hurt because of what they said they saw. And I have been doing this for thirty-four years and I know exactly what a thing like that is used for in a town, and it is used for two things. It is used to stop people saying things. And it is used, later, by whoever has the bigger book."
+"You have written a form about a thing a person saw and a person cannot look at again, and you have not put in one line about a person being *hurt*." She turned round. "In twenty-four days, in this city, I have been asked about a head eleven times and about a shoulder twice and about a man who saw a light eight times, and there is nobody in this room or in that hall who has ever once written down a place where a person can be hurt because of what they said they saw. And I have been doing this for thirty-four years and I know exactly what a thing like that is used for in a town, and it is used for two things. It is used to stop people saying things. And it is used, later, by whoever has the bigger book."
 
 And she took the chalk, and she wrote a sixth line underneath, in her own square hand, in the local language, and translated it, and it is on the wall.
 
@@ -202,7 +202,7 @@ And she took the chalk, and she wrote a sixth line underneath, in her own square
 
 ---
 
-Owen Park came in at about nine that night, and did not say anything for a while, and then asked the thing he had asked on the boat, which was now eleven days old and which he asked again in a different form.
+Owen Park came in at about nine that night, and did not say anything for a while, and then asked the thing he had asked on the boat, which was now two days old and which he asked again in a different form.
 
 "You did not promise me the field," he said.
 
@@ -214,7 +214,7 @@ Owen Park came in at about nine that night, and did not say anything for a while
 
 ---
 
-He wrote it up at eleven at night on the twenty-fourth day, in the flat hand, and it is four pages and the first line is the one he read back at the hearing in a fortnight.
+He wrote it up at eleven at night on the twenty-fourth day, in the flat hand, and it is four pages and the first line is the one he read back at the hearing in a week.
 
 *The twenty-fourth day. Nothing gained.*
 
@@ -226,7 +226,7 @@ He wrote it up at eleven at night on the twenty-fourth day, in the flat hand, an
 
 *There are now two statements on a wall. One of them is a man from another world who can see a thing six of us cannot, and the other one is me, and I entered the second one about myself with no witness chain at all, and I want that read back in a year by a person who does not like me, exactly as I have written it, and I have written the sentence down myself so that nobody can improve on it in a good mood.*
 
-*And on Sunday at four in the morning I am going to stand in a wet field on a stake beside a man whose head has not closed in eleven days, and I am going to see nothing, and I have told him so, and he said Sunday.*
+*And on Sunday at four in the morning I am going to stand in a wet field on a stake beside a man whose head has not closed in twenty-three days, and I am going to see nothing, and I have told him so, and he said Sunday.*
 
 *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
 

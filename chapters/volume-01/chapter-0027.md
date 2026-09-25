@@ -1,6 +1,6 @@
 # Chapter 0027 — The Missing Child
 
-Owen Park asked for four in the morning and got it, and Adrian Vale stood on a stake at the end of the third ditch of the bottom field from ten past four until about twenty to six on the twenty-seventh day of the flood, and in two hours he saw nothing at all, and the reason he has never told this story as a funny one is that he spent a hundred and ten minutes in the dark in the rain on the worst of four mornings looking at a man in pain.
+Owen Park asked for four in the morning and got it, and Adrian Vale stood on a stake at the end of the third ditch of the bottom field from ten past four until about twenty to six on the twenty-seventh day of the flood, and in ninety minutes he saw nothing at all, and the reason he has never told this story as a funny one is that he spent ninety minutes in the dark in the rain on the worst of four mornings looking at a man in pain.
 
 Owen had come to the second stair at ten past three with the strap of a sling not on, because Saye had said four days and it had been one and a half, and because Saye had also said, in a porch, to five people, that the arm would not be able to tell him afterwards and neither would he.
 
@@ -18,9 +18,9 @@ The field was a hundred and forty acres of the best soil Adrian had ever stood o
 
 That is the whole of what happened at the third stake.
 
-Owen Park stood on the stake for about an hour and forty minutes, facing north, with his good hand flat on the post, and at some point he said, "There," and Adrian said, "Where," and Owen said, "Under the far bank. About where the third ditch meets the reed. It is standing on its edge and it has got a mark on it like the top of a thumb." And Adrian looked at the far bank for about two minutes, at a flat mud slope in the dark in the rain, at a place where a reed was bending, and there was nothing there. There was nothing there at four, nothing at five, and nothing at twenty to six, and at twenty to six Owen Park said, "It has gone," in the voice of a man putting a tool down, and they walked back up nine hundred feet in the rain, and neither of them said anything about it for two days.
+Owen Park stood on the stake for about an hour and a half, facing north, with his good hand flat on the post, and at some point he said, "There," and Adrian said, "Where," and Owen said, "Under the far bank. About where the third ditch meets the reed. It is standing on its edge and it has got a mark on it like the top of a thumb." And Adrian looked at the far bank for about two minutes, at a flat mud slope in the dark in the rain, at a place where a reed was bending, and there was nothing there. There was nothing there at four, nothing at five, and nothing at twenty to six, and at twenty to six Owen Park said, "It has gone," in the voice of a man putting a tool down, and they walked back up nine hundred feet in the rain, and neither of them said anything about it for two days.
 
-On the twenty-ninth day, in a hall, a woman of about sixty from the upper road asked Adrian a question that had nothing to do with anything, and he answered it, and his answer is the reason for the last line of the notebook entry: *there is a space on the form where three names go, and I did not write them because he had not told me, and the form says he may not, and on the morning of the twenty-seventh I was the fourth name on a form I had written myself and the other three did not exist, and what I did for a hundred and ten minutes was look at a man's arm.*
+On the twenty-ninth day, in a hall, a woman of about sixty from the upper road asked Adrian a question that had nothing to do with anything, and he answered it, and his answer is the reason for the last line of the notebook entry: *there is a space on the form where three names go, and I did not write them because he had not told me, and the form says he may not, and on the morning of the twenty-seventh I was the fourth name on a form I had written myself and the other three did not exist, and what I did for ninety minutes was look at a man's arm.*
 
 ---
 
@@ -34,13 +34,13 @@ They came up the field at twenty to six and Sesh Brack was at the top of the sec
 
 The water going out of four villages at once was not a mystery and it was not the eleven, and it had been coming for two days.
 
-Adrian worked it out at about eleven that morning, standing in a yard in Saltwake with a notebook, and it took him forty minutes and it is the one piece of engineering in this volume that he was actually able to do, and the reason is that he had been measuring the same three chalked marks in the pale edge of the join in the gate every night since the second night of the flood, and he knew exactly how much water a lock's own work takes out of a river, and for how long it takes to come back.
+Adrian worked it out at about eleven that morning, standing in a yard in Saltwake with a notebook, and it took him forty minutes and it is the one piece of engineering he has been able to do in this city, and the reason is that he had been measuring the same three chalked marks in the pale edge of the join in the gate every night since the second night of the flood, and he knew exactly how much water a lock's own work takes out of a river, and for how long it takes to come back.
 
-"A big working yesterday morning at the top of the tide," he said, "took out of this river about as much water as four hundred acres of ditching takes out. That water comes from the bottom of the channels, and the bottom of the channels in the Reach is the bottom of the *ditches*, and the water in a ditch is the only water in this wetland that anybody is allowed to make a promise on, and if the water is not in the ditch then the ditch does not know what it is supposed to do, and a household that cannot say when its ditch will hold cannot say when its gate can be opened, and a household in this Reach that cannot say when its gate can be opened does not keep its share of the water."
+"A big working two days ago at the top of the tide," he said, "took out of this river about as much water as four hundred acres of ditching takes out. That water comes from the bottom of the channels, and the bottom of the channels in the Reach is the bottom of the *ditches*, and the water in a ditch is the only water in this wetland that anybody is allowed to make a promise on, and if the water is not in the ditch then the ditch does not know what it is supposed to do, and a household that cannot say when its ditch will hold cannot say when its gate can be opened, and a household in this Reach that cannot say when its gate can be opened does not keep its share of the water."
 
 "Say that again in fewer words," said Tamsin.
 
-"Four villages have lost the thing their promises are made of," Adrian said, "and it is because this city did a good job yesterday morning, and the good job is in a book with a number in it and the number is nine inches toward the near gate, and I wrote the number."
+"Four villages have lost the thing their promises are made of," Adrian said, "and it is because this city did a good job two days ago, and the good job is in a book with a number in it and the number is nine inches toward the near gate, and I wrote the number."
 
 Nobody argued with him about the mechanism, because Renna Ord said "Mm," in the way she says it, and then said: "And a child went out in the dark last night into a wetland where the water is not where it was, and the reason you are all standing in a room instead of on the paths is that the reed shift is doubled and every man who knows those paths is on a gate, and you are going to ask me for eight men and I have not got eight and I have not got four, and if you ask me for four I will have to take them off the second gate, and then the second gate does not get set on the day it is set, and then Long Water does not get its water, and Long Water is where the men who are going to look for your child sleep."
 
@@ -48,13 +48,13 @@ Nobody argued with him about the mechanism, because Renna Ord said "Mm," in the 
 
 **Marda Rood** was sixty-one and she had walked eleven miles in the night with a bundle, and she arrived in Saltwake at about the ninth hour of the morning on the twenty-seventh day and she was in a room with about nine people in it for four hours, and Adrian Vale has never in his life been in a worse room and has written down in three books that it was not his worst room.
 
-She did not cry. She was past it, or she was a woman of sixty-one in a country where you do not do that in front of strangers. She sat down when somebody pulled out a bench, which she refused for about ten minutes and then accepted, and she said that her daughter was at Long Water and had gone up the reach on the second day of the flood and had not come down, which was entirely normal and had been entirely normal for sixteen days, and that Sefa had slept at her mother's on the second night, as she did twice a week, and that at the second hour in the morning the girl had got up, and put on her boots — *her own boots, not the good ones* — and gone out of the door, and had not gone towards the path, which is four hundred yards away and lit, and had gone the other way, towards the water.
+She did not cry. She was past it, or she was a woman of sixty-one in a country where you do not do that in front of strangers. She sat down when somebody pulled out a bench, which she refused for about ten minutes and then accepted, and she said that her daughter was at Long Water and had gone up the reach on the second day of the flood and had not come down, which was entirely normal and had been entirely normal every single day since, and that Sefa had slept at her mother's on the second night, as she did twice a week, and that at the second hour in the morning the girl had got up, and put on her boots — *her own boots, not the good ones* — and gone out of the door, and had not gone towards the path, which is four hundred yards away and lit, and had gone the other way, towards the water.
 
 "She goes after dogs," said Marda Rood. "There is a dog. There has been a dog on those paths since the flood and it has been getting into the low field at night and I have put a thing out for it twice and taken it in because I did not want her to have it in the house. That is on me and I will say it to a room." She put her hands on her knees. "And she goes out after it, and last night the water was not where it was, and she would not have known that, because she is eight, and because the paths she walks have been the same for three years and she has never once needed to know where the water was."
 
 ---
 
-The argument happened in the loft above the market at about the third hour of the afternoon on the twenty-seventh day and it took five hours and it was the worst argument Adrian has ever been in, and three of the people in it argued better than he did, and it was resolved by six people who are not him, and the resolution was correct, and he was not part of it, and that is the entire content of the chapter.
+The argument happened in the loft above the market at about the third hour of the afternoon on the twenty-seventh day and it took five hours and it was the worst argument Adrian has ever been in, and three of the people in it argued better than he did, and it was resolved by six people who are not him, and the resolution was correct, and he was not part of it, and that is the whole of it.
 
 It started with Tamsin, and it started with a refusal, and it was a refusal to Adrian and not to the room.
 
@@ -90,7 +90,7 @@ And then Renna Ord, who had not spoken for four hours, ended the argument, and A
 
 And then Hesper Saye, who had not come up and had come up anyway, said the sentence that ended it, and she said it to Owen Park and not to the room:
 
-"That arm is not to be on a stair in a flood. If anybody sends him I will put my name against it in front of that woman, and I will put it in the book, and I have put two men of nine hundred right in thirty-four years and I am not putting a third one wrong in front of a family because the man in the book is frightened of a number going up."
+"That arm is not to be on a stair in a flood. If anybody sends him I will put my name against it in front of that woman, and I will put it in the book, and I have put two men of four hundred right in thirty-four years and I am not putting a third one wrong in front of a family because the man in the book is frightened of a number going up."
 
 ---
 
@@ -134,7 +134,7 @@ He had been in the room for four hours and had not spoken, which was not like hi
 
 "My reason is that I said *lore* out loud on a stair in front of three hundred people yesterday, and about forty people in this city believed me, and there is a number on a board in the market that says eleven more every time the thing wants something, and I put that on. Not on my own. But I'm in it. And if I go through and I come back, then the number in the market has got a face on it, and the face is a nineteen-year-old who went and looked and came back and told the truth about what was there. And if the face is one of yours — " he put his thumb at the six, at Owen, at Adrian, at the room " — then the number is about *you*, and in nine months it is about a man in a good coat's letter."
 
-Nobody said anything for about eleven seconds.
+Nobody said anything for a while.
 
 "That is a very good reason," said Tamsin Quill, in English, "and it is the first reason anybody has given in this room that was about the *market* and not about the *child*, and I am obliged to say that the reason about the market is the real one and that all four of us have spent five hours being careful and he has done it in nine seconds."
 
@@ -148,15 +148,15 @@ Owen Park spoke for the first time in four hours, and it was about a third of a 
 
 "I asked because a woman in a raft told me that the man she can send is never the man who wants to be sent, and I have spent every one of twenty-seven days making myself the man who wants to be sent. So if a man is sending anybody, it is going to be me, and the two things I have wanted in a month are a road and a person to send, and I did not know until Friday that those were the same thing.
 
-"So I am not sending him because I am a good man, and I am not sending him because I would go if I could, and I am not going to go, because a woman with tweezers has told a room that my arm is not to be on a stair in a flood, and she has been right about four hundred men out of nine hundred, and I am not going to be the five hundred and first she was wrong about in front of a family.
+"So I am not sending him because I am a good man, and I am not sending him because I would go if I could, and I am not going to go, because a woman with tweezers has told a room that my arm is not to be on a stair in a flood, and she has told four hundred men that and been wrong about ninety of them, and I am not going to be the ninety-first she was wrong about in front of a family.
 
 "Which means the fact that I cannot go is true of me for the rest of my life, and I have known that two days, and I have said nothing because it is the only thing I have ever wanted that I have actually lost. The route is not lost. The route is empty. There is a difference, and I have been making it in my own head for a month, and it turns out I was not making it. I was hoping.
 
-"And I want it entered," he said, "in these words: that if he does not come back then I will say so in a book, with my name on it, on the day, and that I will not spend the rest of my life saying *I don't know what happened to him.* I did that once, in a market, on the fourth day, and it cost six people a week."
+"And I want it entered," he said, "in these words: that if he does not come back then I will say so in a book, with my name on it, on the day, and that I will not spend the rest of my life saying *I don't know what happened to him.* I did that once, in the second week, in a yard, and it cost six people a week."
 
 ---
 
-The inspection was done on the twenty-seventh at about the fourth hour of the afternoon, in rain, on the walk-round, by four people who did not want to be there, and took two hours and eleven minutes, and the seam was viewed, sounded along, and compared by three masons against the entry made on the first week and the entry of the sixteenth day, and it was not narrower and not wider, and the lip was as it was entered, and the standing of the instrument was satisfied for the period.
+The inspection was done on the twenty-seventh at about the fourth hour of the afternoon, in rain, on the walk-round, by four people who did not want to be there, and took two hours and eleven minutes, and the seam was viewed, sounded along, and compared by three masons against the entry of the fourth day and the entry of the sixteenth, which is the only inspection this instrument has ever had, and it was not narrower and not wider, and the lip was as it was entered, and the standing of the instrument was satisfied for the period.
 
 And then a fourth thing happened on that walk-round, in the rain, that is not in any book, and is in this one, because Ovin Sarr was nineteen and could not keep it.
 
@@ -168,7 +168,7 @@ The child was found at about four o'clock on the afternoon of the twenty-seventh
 
 **Osten Fenn** of Long Water took three reed cutters out at two o'clock because he had decided to, and nobody sent him, and he told his father, who told Wenna Cray, who was at the second gate. They found her at four o'clock, in a lee of a bank, sitting in nine inches of standing water with a dog, alive, cold, uninjured, three miles from the point where anybody expected her to be, on a path that had been under a foot of water in the morning and had gone down by four o'clock because *the water was not where it was*.
 
-The water had gone because the tide in Saltwake was four hours from the top on the following morning and the river had to go somewhere.
+The water had gone because the top of the tide was fourteen hours ahead of them and the river had to go somewhere first.
 
 Osten Fenn's whole account of it is eleven words long and Vail entered it in full: "She was where the water was not. That is all it is. She was where the water was not."
 
@@ -202,7 +202,7 @@ And he went into the seam, and it took him out of the world, and the whole of it
 
 Marda Rood was in the crowd. She had slept about three hours in a chair by the low room by the wharf and Hesper Saye had made her sleep, and she was on the second step of the walk-round at six in the morning because nobody had been able to tell her to stay anywhere.
 
-Nobody in that crowd knew what to do with their hands, and Adrian Vale stood at the top of the stair with a notebook and a stub of chalk and a headache, and at eleven seconds past six in the morning on the twenty-eighth day of the flood, a man of nineteen came back out of eighteen inches of dead-straight seam in the wall of the outer channel of the Lock of Salt, and put both feet on a wet stair, and looked up.
+Nobody in that crowd knew what to do with their hands, and Adrian Vale stood at the top of the stair with a notebook and a stub of chalk and a headache, and at about eleven minutes past six in the morning on the twenty-eighth day of the flood, a man of nineteen came back out of eighteen inches of dead-straight seam in the wall of the outer channel of the Lock of Salt, and put both feet on a wet stair, and looked up.
 
 He was back in eleven seconds. He had a piece of paper in his hand.
 
@@ -254,4 +254,4 @@ He wrote it up on the morning of the twenty-eighth at about the ninth hour, in a
 
 *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
 
-*And Nell Bray asked me in a yard what it was for, and I did not have an answer at the time. I have one now, and it is the true one, and it is the worst answer I have ever had to give anybody: it was for finding out whether a person could go. Not for the child. Not for a road. For that. Once. And it cost a season of a field in a village where a woman has not spoken to me for a fortnight, and it is done, and it cannot be got back, and I would do it again, and I have not slept, and I am going to have to say all of that in a hall on Wednesday, in front of a notary, in about nineteen seconds, and I do not know how.*
+*And Nell Bray asked me in a yard what it was for, and I did not have an answer at the time. I have one now, and it is the true one, and it is the worst answer I have ever had to give anybody: it was for finding out whether a person could go. Not for the child. Not for a road. For that. Once. And it cost a season of a field in a village where a woman has not spoken to me for a fortnight, and it is done, and it cannot be got back, and I would do it again, and I have not slept, and I am going to have to say all of that in a hall on the Thursday, in front of a notary, in about nineteen seconds, and I do not know how.*

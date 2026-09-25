@@ -2,7 +2,7 @@
 
 The first thing on the twentieth day of the flood was a hole in a rota, and Adrian found it before he had finished his tea, and he found it because Owen Park was not there at six.
 
-That was the whole of it. That was the entire content of the morning. Owen had said the four words and the fifth at six on nineteen mornings, in the rain, with a mason correcting him, and on the twentieth morning at twenty past six there was a yard and there was rain and there was nobody in it, and the words were not said.
+That was the whole of it. That was the entire content of the morning. Owen had said the four words and the fifth at six on eight mornings, in the rain, with a mason correcting him, and on the twentieth morning at twenty past six there was a yard and there was rain and there was nobody in it, and the words were not said.
 
 Nyla Ferrow was in the chapel, because the keeper sleeps in the chapel, and she came out with her board of lime and clay under her arm and a face that anybody in that yard could read from thirty feet.
 
@@ -14,7 +14,7 @@ Nyla Ferrow was in the chapel, because the keeper sleeps in the chapel, and she 
 
 "He taught me the words on Friday," Adrian said. "He can say all five."
 
-"He can say all five. He said them on nineteen mornings and there has never been a morning when he was not here and there is going to be a morning when he is ill, or he is across the river, or he is in a room with a woman who is bleeding. That morning is this morning and you have got about two minutes to do something about it and I am not going to tell you what, because if I tell you what then tomorrow you will come and ask me what to do on the second morning as well, and the day after that you will come and ask me, and in three weeks this yard will belong to a man with a notebook." She turned the board over. "Say them."
+"He can say all five. He said them on eight mornings and there has never been a morning when he was not here and there is going to be a morning when he is ill, or he is across the river, or he is in a room with a woman who is bleeding. That morning is this morning and you have got about two minutes to do something about it and I am not going to tell you what, because if I tell you what then tomorrow you will come and ask me what to do on the second morning as well, and the day after that you will come and ask me, and in three weeks this yard will belong to a man with a notebook." She turned the board over. "Say them."
 
 "I cannot say them properly."
 
@@ -26,13 +26,13 @@ Nothing happened.
 
 "Again," said Nyla Ferrow.
 
-He said them again. And the third time, at about a third more slowly, with his hand on the arch, the arch agreed to be a doorway, and Adrian felt the same thing he had felt standing four feet back from a hole on the Saturday: the specific, unmistakable sensation of a room agreeing to be a room.
+He said them again. And the third time, at about a third more slowly, with his hand on the arch, the arch agreed to be a doorway, and Adrian felt the same thing he had felt standing well back from a hole on the Saturday: the specific, unmistakable sensation of a room agreeing to be a room.
 
 "Right," said the keeper. "Now write that on the board. Both of them. That Owen Park is not here, that you said it and it did not take, and that you said it again and it did. And then go and find out whether he is coming, and if he is not coming then find out who is nearest, and do not write a name at the top of anything."
 
 ---
 
-It took him until the Tuesday of the following week to understand that the second thing about the morning was worse than the first, and the second thing was this: that Vail had been right about the rota, and the rota could not exist, and he had to build one anyway.
+It took him until that Sunday afternoon to understand that the second thing about the morning was worse than the first, and the second thing was this: that Vail had been right about the rota, and the rota could not exist, and he had to build one anyway.
 
 He had gone to Sera Vail on the Sunday because she was the person in Saltwake who knew what a record was for, and he had gone with a question he thought was small.
 
@@ -46,7 +46,7 @@ Sera Vail looked at him for slightly longer than was comfortable.
 
 "Nobody's. I have not—"
 
-"That is not the question I asked and you know it is not." She had the ledger open on the trestle in the archway, chained, with the ring through it, and she had a wet sleeve. "Mr Quill told me on Saturday evening that you have had a very good idea and that you would have it by Wednesday. I told her I would rather it did not happen on a Sunday when I have nothing else on. So let us have it on a Sunday."
+"That is not the question I asked and you know it is not." She had the ledger open on the trestle in the archway, chained, with the ring through it, and she had a wet sleeve. "Tamsin Quill told me on Saturday evening that you have had a very good idea and that you would have it by Wednesday. I told her I would rather it did not happen on a Sunday when I have nothing else on. So let us have it on a Sunday."
 
 "It is not a rota," Adrian said. "The rule is whoever is nearest. That is the keeper's rule and it is older than me and it is the whole point of it."
 
@@ -68,9 +68,9 @@ Nyla Ferrow taught the keeper's boy — Pella, who is nine and thinks it is a jo
 
 And on the Monday morning at six o'clock, in the rain, Owen Park came up into the yard and said them, and got the fifth word right, and the arch agreed, and Adrian wrote it on the board in two columns, in his own terrible hand, because Vask would not chalk a Latin letter and would not lend her chalk:
 
-> **twentieth day, six. Said by the keeper's boy, four words, and the fifth, both attempts, the first did not take.**
+> **twenty-first day, six. Said by the keeper's boy, four words, and the fifth, both attempts, the first did not take.**
 >
-> **twentieth day, noon. Said by a mason of this city, four words and the fifth, first attempt.**
+> **twenty-first day, noon. Said by a mason of this city, four words and the fifth, first attempt.**
 
 And underneath, in Tamsin's hand, in the local language, because Tamsin had come up at half past five and had watched and had then done the thing she did about four times a fortnight, which was to be in the room earlier than anybody expected and to make it impossible to be surprised:
 
@@ -80,7 +80,7 @@ And underneath, in Tamsin's hand, in the local language, because Tamsin had come
 
 Renna Ord found him at about eleven on the Monday, at the trestle, with his notebook open and forty-one lines on a page and a piece of chalk he was using to draw columns.
 
-She read the page upside down for about eleven seconds, which he let her do, and then she put her thumb on the fourth line and said, "Who is that."
+She read the page upside down, which he let her do, and then she put her thumb on the fourth line and said, "Who is that."
 
 "A docker called Hesk. He's on the noon rotation at the near gate on the odd days."
 
@@ -92,7 +92,7 @@ She read the page upside down for about eleven seconds, which he let her do, and
 
 "No."
 
-"Then take her off and ask her." She straightened up. "Now. Here is the part you have not got to yet, and I am going to say it in about nine sentences and then I am going to carry a barrow. You have come to me because you want four witnesses for a rota, and I have not got four witnesses for a rota, and I have not got one, and I am not going to give you one. But I have got four men who sign the Narrow Mark, and every one of them has a day off, and every one of those days off is a day somebody else is somewhere else in this city holding a join, and if you want four witnesses in a yard at six in the morning then the four men are out of the gate crew for that hour, and the gate crew is eighteen men and one foreman. Do you know what a day's labour off that crew costs?"
+"Then take her off and ask her." She straightened up. "Now. Here is the part you have not got to yet, and I am going to say it in about nine sentences and then I am going to carry a barrow. You have come to me because you want four witnesses for a rota, and I have not got four witnesses for a rota, and I have not got one, and I am not going to give you one. But I have got four men who sign the Narrow Mark, and every one of them has a day off, and every one of those days off is a day somebody else is somewhere else in this city holding a join, and if you want four witnesses in a yard at six in the morning then the four men are out of the gate crew for that hour, and the gate crew is nineteen men and one foreman, and the flood crew is twenty-one. Do you know what a day's labour off that crew costs?"
 
 "One day a month. It's in the column."
 
@@ -142,11 +142,11 @@ She picked up the chalk — her own, not his — and held it out to him.
 
 It took them until half past two in the afternoon, and it was the longest single piece of work Adrian had done in Veyra, and at the end of it there were nineteen lines left and no way at all to get them done by anybody, because the point of the exercise was not to get them done.
 
-The nineteen lines were not his. That was the first thing. Nine days in the city and he had spoken to perhaps forty people, and thirty of them had spoken to him first, and he had built a plan for a city out of the people he had met. Hessa Ruun's water-count was on his page and he had not met her. The mason who would re-lime the arch if the yard flooded was on his page and he had not met him. The man who cut the reed at Long Water was on his page. The three gatehouses. The boy who held the second gate. Nine Elms, all nine households by name, and he had met two of them.
+The nineteen lines were not his. That was the first thing. Nineteen days in the city and he had spoken to perhaps forty people, and thirty of them had spoken to him first, and he had built a plan for a city out of the people he had met. Hessa Ruun's water-count was on his page and he had not met her. The mason who would re-lime the arch if the yard flooded was on his page and he had not met him. The man who cut the reed at Long Water was on his page. The three gatehouses. The boy who held the second gate. Nine Elms, all nine households by name, and he had met two of them.
 
 And the second thing was the one he wrote at the top of the page, in the flat hand, and did not cross out:
 
-*A plan that I can execute is eleven lines long. A plan that this city can execute is nineteen lines long and I cannot reach the telephone in any of them. The difference is not a skill. The difference is that I have been here twenty days.*
+*A plan that I can execute is eleven lines long. A plan that this city can execute is nineteen lines long and I cannot reach the telephone in any of them. The difference is not a skill. The difference is that I have been here nineteen days.*
 
 Sera Vail read the page upside down, which she did with every document anybody showed her, and then she said the thing that got entered in the ledger an hour later in her own words because nobody could think of anything better to write.
 
@@ -158,7 +158,7 @@ He got to Corrow on the Tuesday, no — on the Monday. He walked down the Reach 
 
 Elsa Skell had not turned up. Elsa Skell was in her yard, forty feet from the road, with her stick, and she came out to the gate when she saw him coming and she did not stop, and she said the whole of it in about nine seconds in the local language, and Tamsin translated it in the flat voice that gets worse when she is least angry, and it came out almost word for word, which meant Elsa Skell had prepared it, which meant Elsa Skell had been saying it to herself in a yard for two days, which is the single most frightening thing a person can do.
 
-"You told a man in a good coat a thing in a chapel on Wednesday night and he went and found a stone, and eleven days later the stone was under a bar and the ground was open and the arch is being said in the rain by a man from another world, and on Saturday morning a man from another world stood four feet back from a hole and wrote numbers in a book. And on Saturday evening you came down this road to tell me the cost of what had happened to a field of mine, and you had a *number* in you, and I have watched you look at my ditch."
+"You told a man in a good coat a thing in a chapel on Wednesday night and he went and found a stone, and ten days later the stone was under a bar and the ground was open and the arch is being said in the rain by a man from another world, and on Saturday morning a man from another world stood four feet back from a hole and wrote numbers in a book. And on Thursday evening you came down this road to tell me the cost of what had happened to a field of mine, and you had a *number* in you, and I have watched you look at my ditch."
 
 "What did you say," Adrian said.
 
@@ -172,13 +172,13 @@ Adrian stood in a gateway on the Reach road in the cold and found that he had no
 
 "That is not—"
 
-"That is *not the reason* and you know it is not the reason." Tamsin put her hands in her belt. "You are not going to argue with her because she has decided not to talk to you, and you have decided that a woman not talking to you is a *problem with a schedule*, and you have come down a three-hour road to solve it on a Monday, and if she had said the same thing in a market you would have written it in your book and gone home." She started walking. "I have known you seventeen days and I have already watched this happen to you twice and both times it was in the direction of the field and never once in the direction of the room, and I am telling you now, on a road, in the cold, because on Friday the twenty-fifth there is a hall in this city and about two hundred people in it and one of them is going to stand up and say *we are not talking to him any more*, and if that is a surprise to you on the twenty-fifth then I have not been useful to you for a single one of the twenty days."
+"That is *not the reason* and you know it is not the reason." Tamsin put her hands in her belt. "You are not going to argue with her because she has decided not to talk to you, and you have decided that a woman not talking to you is a *problem with a schedule*, and you have come down a three-hour road to solve it on a Monday, and if she had said the same thing in a market you would have written it in your book and gone home." She started walking. "I have known you eighteen days and I have already watched this happen to you twice and both times it was in the direction of the field and never once in the direction of the room, and I am telling you now, on a road, in the cold, because on Friday the twenty-fifth there is a hall in this city and about two hundred people in it and one of them is going to stand up and say *we are not talking to him any more*, and if that is a surprise to you on the twenty-fifth then I have not been useful to you for a single one of the twenty days."
 
 ---
 
 He got back up the road at about six in the dark and found Tam Crane, who is nine, sitting on the second step outside the loft with a piece of chalk in his hand and a piece of slate propped against the doorframe, and who had clearly been waiting for somebody.
 
-"He says tell him the man has to be here for the eighteenth day," the boy said.
+"He says tell him the man has to be here for the seventh day of the new month," the boy said.
 
 "Who says so?"
 
@@ -186,7 +186,7 @@ He got back up the road at about six in the dark and found Tam Crane, who is nin
 
 Adrian wrote it down at the top of a clean page, in the flat hand, and the sentence took him four attempts because his hand was cold.
 
-*The eighteenth day of the salt month. M. has a date and has not told the room. He has told a nine-year-old on a step. Asked Tam to carry it to me. — A.*
+*The seventh day of the new month. That is the Friday of the week after next, which is eleven days from today. M. has a date and has not told the room. He has told a nine-year-old on a step. Asked Tam to carry it to me. — A.*
 
 He did not write down the other part, which was that a man in a good coat had, on the twentieth day of the flood, gone up two flights of stairs to find out whether the holder of the pull was in his rooms, and had not knocked, and had waited for a child to come out of a doorway. He wrote down the date and the boy's name and the words, and he put a rule under it — *every date a person says to me now goes on this page before I do anything else with it* — and he underlined it, and he had underlined two things in twenty days and both of them had been about this man.
 
@@ -218,9 +218,9 @@ Sesh Brack read it too, over Adrian's shoulder, and made a noise.
 
 "No."
 
-"You have been *asked for*." She folded her own apron over her hands, which she does when she is about to be pleased about something and is not going to enjoy it. "Twenty-three days this city, and a post on a keeper's wall, and a seat in a chained book, and a woman in Corrow who will not speak to you, and a boy's shoulder that a woman by the wharf cannot set, and eleven villages that have given you a season — and a room on the Reach has written a letter that does not have your name in it, and it has cost a boy his Saturday to bring it here, and it was addressed to *the holder of the pull*, which is a thing a person has, not a thing a person is." She looked at him. "That is either a very great courtesy or it is the worst insult anybody has paid you since Tuesday, and I have not got the wit tonight to say which, and neither has he, and neither has the anchorwright, and it will be found out in a room."
+"You have been *asked for*." She folded her own apron over her hands, which she does when she is about to be pleased about something and is not going to enjoy it. "Twenty days this city, and a post on a keeper's wall, and a seat in a chained book, and a woman in Corrow who will not speak to you, and a boy of nine who follows you at six feet and has not said one word about why, and eleven villages that have given you a season — and a room on the Reach has written a letter that does not have your name in it, and it has cost a boy his Saturday to bring it here, and it was addressed to *the holder of the pull*, which is a thing a person has, not a thing a person is." She looked at him. "That is either a very great courtesy or it is the worst insult anybody has paid you since Tuesday, and I have not got the wit tonight to say which, and nobody on this step has, and it will be found out in a room."
 
-"The meeting-ground does not name a person," Adrian said, slowly, reading it again, and getting to it about four seconds after everybody else in the step had. "It asks me to send a person of my own choosing. And Tamsin — it does not say *one of the six*. It does not say *one of the wall*. It says a person of my own choosing, who has not been asked to come and does not know that he is coming."
+"The meeting-ground does not name a person," Adrian said, slowly, reading it again, and getting to it after everybody else on the step had. "It asks me to send a person of my own choosing. And Tamsin — it does not say *one of the six*. It does not say *one of the wall*. It says a person of my own choosing, who has not been asked to come and does not know that he is coming."
 
 "That is not a courtesy," said Tamsin. "That is a woman who knows what it costs to be sent by a man who has a seat, and who has arranged to be able to say afterward that nobody in this room was *compelled*, and she did it in a letter so that it is in a document and not in a memory." Her voice was entirely level. "Which means there is going to be a room on Wednesday with nine men and eleven women in it, and about three hundred people on the bank behind the meeting-ground, and two strangers in the front of it, and one of the two strangers is the man who has been in their ditches twice, and the other one is a woman with a public table in this city who is going to be talking for a man in a good coat within a year."
 
@@ -234,9 +234,9 @@ The man who wrote the letter had not written Owen Park's name either, and Adrian
 
 He wrote it at the top of a clean page, at half past eleven, in the loft, with a headache behind the left eye that he did not have any reason to have and did not examine.
 
-*Sunday, the twentieth day. Last night a notary gave me three dates and a woman with a slate told me to work out the rest. Five days to the last day of the salt month. Eight days to the next tide. Eleven days to the hearing. A post, and a page with nineteen names on it that I cannot reach, and a rota I am not allowed to have.*
+*Monday, the twenty-first day. Yesterday a notary gave me three dates and a woman with a slate told me to work out the rest. Four days to the last day of the salt month. Seven days to the next tide. Ten days to the hearing. A post, and a page with nineteen names on it that I cannot reach, and a rota I am not allowed to have.*
 
-*Nothing gained. What I have instead is a sentence from a notary in a yard: a date in a book is not a plan, it is a place a plan has to be legible in. And a second one from the same woman an hour later, which is the whole of what I am going to be for the next twelve days: when you are at the counter you are also the man who finds out that somebody has not turned up. I have been building for nine days a thing in which nobody is answerable for anything and everybody is present at the time of the event, and it turns out to be a very beautiful design and it is the design of a man who does not want to be told.*
+*Nothing gained. What I have instead is a sentence from a notary in a yard: a date in a book is not a plan, it is a place a plan has to be legible in. And a second one from the same woman an hour later, which is the whole of what I am going to be for the next ten days: when you are at the counter you are also the man who finds out that somebody has not turned up. I have been building for nineteen days a thing in which nobody is answerable for anything and everybody is present at the time of the event, and it turns out to be a very beautiful design and it is the design of a man who does not want to be told.*
 
 *And a woman in Corrow has told me to my face that a man who owes a season has no business putting a number in a village's book, and she is right, and I walked three hours in the cold to be told something I already had in the notebook on page four, and I want it written down here that I did that, because I am going to want to do it again and I am not going to be able to tell, in a month, whether I walked three hours because a person was in trouble or because I could not stand being outside a room.*
 

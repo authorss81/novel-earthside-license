@@ -98,7 +98,7 @@ She put her hand flat on the reed awning pole.
 
 "Nine Elms has refused that water twice, in front of a notary, in words, as a thing that stands. And there is a difference between refusing a road and refusing to pay for one, and every person in this village knows the difference, and I am the only one who has to live inside it." She looked up. "If the season becomes a charge on the thing in the wall, then our refusal stops being a *no* and becomes a *non-payment*, and a non-payment is a debt, and a debt is a thing this Reach can be brought to the meeting-ground about, and I have watched a household in this wetland lose a gate over a debt of eleven elms in the year before the flood. You have not made an instrument, Mr Vale. You have made a bill, and you have put a village's name at the bottom of it, and you did it by accident, on a road, through a woman who speaks for you."
 
-Nobody spoke for about four seconds.
+Nobody spoke.
 
 "That is the third time somebody has told me this month that I have made a thing by accident," Adrian said, to the platform, in English, and then, because he had learned to do it and had not wanted to, again in the local language, badly. "I am going to hold that for later."
 

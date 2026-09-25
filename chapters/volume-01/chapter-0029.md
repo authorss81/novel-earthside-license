@@ -2,17 +2,17 @@
 
 The review was set for the last day of the salt month and it was held five days later, and both dates are in the book, and Adrian Vale has come to believe that the five days between them are the most useful thing that happened to him in a month.
 
-It was held at the first light of the thirtieth day of the flood in a converted salt store with about three hundred and ten people in it, which is forty more than the first sitting and about seventy more than the first night anybody came, and the roll of public business had nine sheets on it, and one of the nine was the reason the review had been moved, which Vail read out before she read the questions, in a flat clerk's voice, with the hour on it.
+It was held at the first light of the thirtieth day of the flood in a converted salt store with about three hundred and ten people in it, which is a hundred more than the first sitting in this hall and about seventy more than the first night anybody came, and the roll of public business had nine sheets on it, and one of the nine was the reason the review had been moved, which Vail read out before she read the questions, in a flat clerk's voice, with the hour on it.
 
 "The field review of the bottom field, entered on the first day of the salt month, set for the twenty-fifth day at the first light, not held, and continued to this day, with the three questions unaltered. And the reason, entered as it happened, and read back: at the eleventh hour and eleven minutes of the twenty-fifth day a ground opened in the yard of the lock chapel, nineteen persons were carried out of it, eleven other persons came out of it, and a man of this city has a shoulder he will be asked to hold again for the rest of his life. The review was not taken because there was no room left in which to take it."
 
-She let that sit for about four seconds, which is four seconds longer than a notary is supposed to let anything sit.
+She let that sit a good deal longer than a notary is supposed to let anything sit.
 
 "And I am going to say the other half, because a notary who reads only the reason has written a book about a bad day. **I entered the continuation on the twenty-seventh, before I knew what the arm was going to be, and I moved it because the hall was going to be full of people who had come to be told a number about a field, and they were not going to get one, and I would rather tell them that in a yard in the rain at two o'clock in the afternoon than have them stand in this room for four hours and find out at the end.** And a man asked me at about half past three on the twenty-seventh why I had not simply moved the date, and I said because a date that moves is a date that a person can learn to depend on, and a date that moves five days is a date that can move nine."
 
 ---
 
-She read the questions. She read them the way she had read them in a corridor on the twentieth day of the month, and Adrian had heard them once before and had had five days with them and had not got any better.
+She read the questions. She read them the way she had read them in a corridor on the twentieth day of the month, and Adrian had heard them twice since and had had ten days with them and had not got any better.
 
 > **One. *What did the field lose, in measures, and by what work.** Not how sad. In measures.*
 >
@@ -24,7 +24,7 @@ Three hundred and ten people in a salt store at the first light of a Wednesday, 
 
 Elsa Skell was in the second row.
 
-She had walked eleven miles. She had not spoken to Adrian since the eighteenth day of the month, when she had told him to his face in a gateway on the Reach road that a man who owes a season has no business putting a number in a village's book, and she had been in that room when he said it and he had not looked at her once since.
+She had walked eleven miles. She had not spoken to Adrian since the eighteenth day of the flood, when she had told him to his face in a gateway on the Reach road that a man who owes a season has no business putting a number in a village's book, and she had been in that room when he said it and he had not looked at her once since.
 
 She stood up at about twenty past six on the first question, before he had answered it, and Vail let her.
 
@@ -36,7 +36,7 @@ She had it in her coat. Everybody who has been in this city for a month has lear
 
 "Nineteen people. Four hundred and eleven measures. And a miller on the upper channel with a barrow, twice a day, since the day the water came up, who has put flour on the banks of the second ditch and has told nobody and is going to go on not telling anybody until the field is in, and that is not a number in any currency and I do not know how to price a thing that nobody will admit to."
 
-Marek Osley had the waxed tablet out and was writing, and he said, without looking up, "A barrow of flour at the second gate at Silt Row, on the Wednesday, on the Friday and on the Sunday, at about four. I have had a man count it for me and I did not ask him to and he has since been told he was doing something wrong." He squared the tablet. "That is three barrows and I have it. I want it understood that I have it and that I got it by accident and that I have had it for four days and have not put it in, because it is not a cost of the instrument. It is a kindness. And a kindness is not a cost and I will not have a notary enter a kindness in a cost column, because in about two years somebody will use that column."
+Marek Osley had the waxed tablet out and was writing, and he said, without looking up, "A barrow of flour at the second gate at Long Water, on the Wednesday, on the Friday and on the Sunday, at about four. I have had a man count it for me and I did not ask him to and he has since been told he was doing something wrong." He squared the tablet. "That is three barrows and I have it. I want it understood that I have it and that I got it by accident and that I have had it for four days and have not put it in, because it is not a cost of the instrument. It is a kindness. And a kindness is not a cost and I will not have a notary enter a kindness in a cost column, because in about two years somebody will use that column."
 
 ---
 
@@ -48,15 +48,15 @@ The second question is the one Adrian could answer and he answered it in nine wo
 
 "Who is answerable. My name, and it is in a book, and it is entered as a season, and it was entered at its smallest on the morning of the third day of this flood, and it has been growing about forty times a day ever since, and I do not have a way of stopping it and neither does anybody in this room. And what it costs me in a month: it has cost me a post in a yard, a season of one man's attention, the only road out of this world, and on the twenty-fifth day of this month it cost me the ability to say a sentence in a room and be believed, which I did not have before and have not had since."
 
-"You did not have that before," said Wenna Cray, from the back, in English, flatly. "You had it on the fourth day, in a market, in the rain, and you used it to get a child put in a barrow."
+"You did not have that before," said Wenna Cray, from the back, in English, flatly. "You had it in the second week of this flood, in a yard, in the rain, and you used it to get four witnesses out of a gate crew, and it has cost that crew an hour a day ever since, and not one person in this city has ever thanked you for it."
 
 "Yes," said Adrian. "I did."
 
 ---
 
-The third question is the one that nobody in that room believed anybody was going to answer, and the answer came from the back of the hall, in English, from a woman of forty-one who had not spoken.
+The third question is the one that nobody in that room believed anybody was going to answer, and the answer came from the back of the hall, in English, from a girl of sixteen who had not spoken.
 
-It was **Kirsty Lund**, sixteen, who had come out of the ground on the twenty-fifth day, who had cried for a minute and a half in a yard and then stopped entirely, and who had said almost nothing for three days.
+It was **Kirsty Lund**, sixteen, who had come out of the ground on the twenty-fifth day, who had cried for a minute and a half in a yard and then stopped entirely, and who had said almost nothing for four days.
 
 "The question is: how will they know they have been paid," she said. "And I have been sitting here for an hour and I have been thinking about the fact that I have been in this room for three days and I have not known until about ten minutes ago what a *household* is."
 
@@ -94,7 +94,7 @@ A debt that can be closed is a debt that can be traded.
 
 ---
 
-He let it go for about nine seconds, in front of three hundred and ten people, and then he said:
+He let it go for a long moment, in front of three hundred and ten people, and then he said:
 
 "No."
 
@@ -136,7 +136,7 @@ Adrian Vale was readmitted to the seat for a further term, and the seat came wit
 > **One. The standing labour of the yard, twice a day, in the open, in any weather, by whoever is nearest, and the holder of the pull is the nearest whenever he is within four hundred yards of that yard, and may not leave the yard on a day on which the words are to be said.**
 > **Two. A new page in the ledger, opened for the eleven persons who came out of the ground under the yard of the lock chapel on the twenty-fifth day, and kept in the same book and by the same notary, and the holder of the pull may not sit in that seat if that page is not written up as well as any other page, and may not move it to a different book.**
 > **Three. The review, on a date named in advance.**
-> **And there is no fourth item, because the holder asked for there to be no fourth item, and a woman with a bowl told him in a room that a rule about six people made by a man who had not asked was the worst rule in the wall, and he heard her the first time and understood her the second.**
+> **And there is no fourth item, because the holder asked for there to be no fourth item, and a woman with a room by the wharf told him in the second week of the flood that a rule about people made by a man who had not asked was the worst rule on a wall, and he heard her the first time and understood her the second.**
 
 ---
 
@@ -144,7 +144,7 @@ And then he said the thing about the workway, because the board was four feet ab
 
 "The chalk on that door is expired," he said. "It has been expired since the twenty-fifth. I am going to say the rest of it out loud in a room, once, in front of a notary, and then it is finished and it does not have to be said again.
 
-"A man in a good coat offered me a workway in a chapel on the second night of this month, and wrote it in chalk on a keeper's wall with a date on it, on the second Saturday, in front of six named people, a keeper of that room, and a mason. He read the cost out loud in a room on the twelfth night, unasked, accurately, and told six people in a row what it was worth, and argued that it was worth paying, and told me that I had no standing to refuse it on behalf of anybody but myself. And on the Saturday night after that he put his own hand to it, under the keeper's line, and gave it a shape, because — his words — an offer with no shape in it is a rumour a decent man can walk away from.
+"A man in a good coat offered me a workway in a chapel on the second night of this month, and wrote it in chalk on a keeper's wall with a date on it, in front of six named people, a keeper of that room, and a mason. He came back on the second Saturday, which is the twelfth day, and read the cost out loud in a room, unasked, accurately, and told six people in a row what it was worth, and argued that it was worth paying, and told me that I had no standing to refuse it on behalf of anybody but myself. And that same night he put his own hand under the keeper's line and gave it a shape, because — his words — an offer with no shape in it is a rumour a decent man can walk away from.
 
 "I refused it twice in rooms with witnesses. The first time I said it was too dangerous and that was the wrong reason. The second time I said it was because I am too occupied, because I have a duty with no shape, and if I take a duty with a shape then the shape is the one that pays, and mine is not, and I would have decided something in advance in a room in a chapel for free. And both refusals are in the roll of strangers that goes to Aurel in a wooden case, in my own words, with the two dates on them, and the two dates agree exactly with the two dates on the board.
 
@@ -164,7 +164,7 @@ Nyla Ferrow stood in the archway and watched him do it and did not stop him and 
 
 He wrote something underneath it, in the local language and then in English, in a small, very neat hand, and it took him about a minute, and Adrian read it upside down from the other side of the trestle, standing four feet back, and then had it read out loud by Tamsin Quill for the yard, because the yard had asked.
 
-> **Offer withdrawn. Not refused: refused was the eleventh day, twice, in a room, and the refusals are in the roll and they stand.**
+> **Offer withdrawn. Not refused: refused was the second day, and again on the twelfth, twice, in a room, and the refusals are in the roll and they stand.**
 >
 > **Withdrawn on the thirtieth day of the flood, five days after the date on this board, by me, in daylight, in a yard, because I set the date and the date is mine.**
 >
@@ -178,7 +178,7 @@ He wrote something underneath it, in the local language and then in English, in 
 >
 > **And I will say, since nobody in this yard will write it: he will do it. He has never yet not written down the true reason.**
 
-Adrian Vale stood four feet back from a trestle in an archway and read the last line of a document written by a man he had decided was editing the wall, and he could not answer it, and he did not go and get the notebook, and he stood there for about a minute and a half, and then he said, in the local language, badly, and Tamsin did not correct him:
+Adrian Vale stood back from a trestle in an archway and read the last line of a document written by a man he had decided was editing the wall, and he could not answer it, and he did not go and get the notebook, and he stood there for about a minute and a half, and then he said, in the local language, badly, and Tamsin did not correct him:
 
 "You have known me nine weeks and you have sold me four things and I have refused two and I have not been able to prove the other two, and you have just written down in a yard in front of thirty people that you think I will do what you want, and it is the most accurate thing anybody has ever written about me and it is in chalk on a keeper's door, and I would like you to understand that I have noticed, and that I have a notebook, and that in a month you and I are going to have a conversation that neither of us is going to enjoy."
 

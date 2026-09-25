@@ -14,15 +14,15 @@ Nobody had asked her why, and Adrian had wanted to ask her why, and had asked Ta
 
 ---
 
-Low water on the twenty-fourth day of the flood came at about seven in the morning and went out again about two, and the tide table on the wall of the lower gallery has a column for it, and the column says *works*, because the Lock of Salt is worked on the turn, and the turns are the days the table marks, and this month the table marks two of them, the twenty-fifth and the twenty-eighth, and the twenty-eighth is the top and is the flood tide and is six days off and is already a row of numbers with a man standing at the end of it.
+Low water on the twenty-fourth day of the flood came at about seven in the morning and went out again about two, and the tide table on the wall of the lower gallery has a column for it, and the column says *works*, because the Lock of Salt is worked on the turn, and the turns are the days the table marks, and this month the table marks three of them, the twenty-fourth, the twenty-fifth and the twenty-eighth, and the twenty-eighth is the top and is the flood tide and is four days off and is already a row of numbers with a man standing at the end of it.
 
 That is the whole of what the excavation cost the city. It is the best and worst fact of that week and it is on a chalk board in a yard:
 
-**The dig was on a working day. Working the lock on the turn is the thing that steps the join in the gate. There was no way to dig under a chapel on a Saturday and have it be free.**
+**The dig was on a worked day. Working the lock on the turn is the thing that steps the join in the gate, and the turn does not know what anybody is doing under a chapel, and there was no free day in that week to move it to.**
 
 Nobody said that in a yard. It was said once, at about eleven o'clock, by Marek Osley, the salt factor with the waxed tablet, who had turned up with a slate and a stick of chalk and had stayed for four hours, and who said it in the tone of a man adding a line to a count.
 
-"You are putting eighteen men on a wall tomorrow at the turn," he said, "because you are opening a floor, and I am the man who has to write down why the wall is manned on a day it is not manned, and I would like somebody to have said the sentence *the wall is manned because a man from a wall wanted to look under a floor*, and I would like it in the ledger, and I would like it in yours." He looked at Adrian. "It is the fourth time. Tuesday's was a crowd. Wednesday's was a reading. Friday's was a hole. I am not making an accusation. I am keeping a count and the count is the same count every time."
+"You are putting nineteen men on a wall tomorrow at the turn," he said, "because you are opening a floor, and I am the man who has to write down why the wall is manned on a day it is not manned, and I would like somebody to have said the sentence *the wall is manned because a man from a wall wanted to look under a floor*, and I would like it in the ledger, and I would like it in yours." He looked at Adrian. "It is the fourth time. Tuesday's was a crowd. Wednesday's was a reading. Friday's was a hole. I am not making an accusation. I am keeping a count and the count is the same count every time."
 
 "Enter it," Adrian said.
 
@@ -32,7 +32,7 @@ Nobody said that in a yard. It was said once, at about eleven o'clock, by Marek 
 
 They took up eleven flagstones.
 
-That was the argument, and it was Vask's, and it was won on the Friday night by about four minutes, and it was the reason the whole thing came out.
+That was the argument, and it was Vask's, and it was won on the Wednesday night by about four minutes, and it was the reason the whole thing came out.
 
 Four feet of it, north from the cut, is enough to see a nine-foot wall. Twenty-two feet of it, north from the cut, is enough to find out whether a nine-foot wall has an end.
 
@@ -48,17 +48,17 @@ It was written in the yard, and she read it out, and Adrian read it out after he
 
 They went down at half past six on the Thursday morning of the twenty-fourth day, and Renna Ord stopped the second cut at eleven o'clock with one sentence, and Vask did not argue, which is how Adrian knew she had wanted the same stoppage.
 
-They had been digging north, along the line, for four hours, and the dressed face had gone from nine feet to twenty-one and had not ended, and at about the eleventh hour of the morning they had taken up the last of the eleventh flagstone and there was the corner.
+They had been digging north, along the line, for four hours, and the dressed face had gone from nine feet to twenty-two and had not ended, and at about the eleventh hour of the morning they had taken up the last of the eleventh flagstone and there was the corner.
 
 Not an end. A corner.
 
 The joint turned.
 
-It turned to the east, at a right angle, in a dressed return, and it went under four more stones and stopped, and the shape of it was the shape of a doorway: twenty-one feet of jamb running north, and a return of nine feet running east, and the two together making the L that every threshold in this country is the shape of, because there is no other way to make a hole you can shut.
+It turned to the east, at a right angle, in a dressed return, and it went under four more stones and stopped, and the shape of it was the shape of a doorway: twenty-two feet of jamb running north, and a return of nine feet running east, and the two together making the L that every threshold in this country is the shape of, because there is no other way to make a hole you can shut.
 
 "There," said Vask. "Put your hand on that, boy."
 
-Ovin Sarr put his hand on the return. He was in the hole, because he was twenty-four and had asked to be in the hole and had been allowed to be in the hole, on the grounds that he was the only man in the yard who could read a string line and a mason could not do both.
+Ovin Sarr put his hand on the return. He was in the hole, because he was nineteen and had asked to be in the hole and had been allowed to be in the hole, on the grounds that he was the only man in the yard who could read a string line and a mason could not do both.
 
 "It goes under," he said. "It goes under the north wall of the chapel."
 
@@ -98,7 +98,7 @@ She looked up.
 
 "So the boundary is written in two places a hundred yards apart, and only one of them is the one this city believes, and the other one is under a building that everybody walks over, and it is in the same line, and the water does not care which one the city believes. That is what is under this floor. That is the whole of what is under this floor, and it is not a mystery and it is not a monster and it is not a door. It is a *record*. Somebody wrote the boundary into the ground twice, so that moving one copy would be a lie you could catch, and then somebody moved one copy, and left the other one where the water could find it."
 
-Nobody in the yard said anything for about nine seconds, and in those nine seconds a man at the back said, in the local language, "Then whose is the river?"
+Nobody in the yard said anything for what felt like a year, and then a man at the back said, in the local language, "Then whose is the river?"
 
 "It is not ours," said Tamsin. "It is whichever one the water is standing on this morning. That is the horror of it and it has been the horror of it for a hundred years and I have known for four days and I did not say it because I have been on line seven of that sheet since I was twenty-one and I did not want to be the woman who says things like that in a yard."
 
@@ -126,7 +126,7 @@ She turned to Vail, who had been there since seven in the morning with a slate, 
 
 ---
 
-Sera Vail read the identification out in the archway at about four o'clock in the afternoon, in the local language and then in English, in a flat clerk's voice, from a slate, with about sixty people standing in the rain in a yard under a lock chapel, and Adrian stood four feet back and let her read it and did not write anything down for nine minutes afterwards, which was the first time in twenty-four days that he had been in a room with a document in it and had not wanted to take it apart.
+Sera Vail read the identification out in the archway at about four o'clock in the afternoon, in the local language and then in English, in a flat clerk's voice, from a slate, with about sixty people standing in the rain in a yard under a lock chapel, and Adrian stood against the jamb and let her read it and did not write anything down for nine minutes afterwards, which was the first time in twenty-four days that he had been in a room with a document in it and had not wanted to take it apart.
 
 > **Entered the twenty-fourth day of the flood, at the low water of the morning, in the yard of the lock chapel of Saltwake, and read out twice and witnessed by about sixty persons, of whom nine are named below.**
 >
@@ -140,7 +140,7 @@ Sera Vail read the identification out in the archway at about four o'clock in th
 >
 > **The ground is re-boarded. The dig is finished for this season. Item two of the mason's list is observed: nothing has been taken out of the hole in any vessel, and no writing has been taken out of the hole, and nothing has come out of the hole that answers, and the list stands on the chapel door.**
 >
-> **The cost of the day, entered by M. Osley, salt factor: the gate crew is eighteen men and one foreman, and the crew is manned at the turn this day because a floor is open in the yard, and the reason is entered, and the count is the fourth such entry in eleven days.**
+> **The cost of the day, entered by M. Osley, salt factor: the gate crew is nineteen men and one foreman, and the crew is manned at the turn this day because a floor is open in the yard, and the reason is entered, and the count is the fourth such entry in eleven days.**
 
 Vail read it twice, and then she put the slate down, and said the thing that made about forty people in a wet yard sit down on the boards they had taken up in the morning.
 
@@ -156,13 +156,13 @@ And then, at about a quarter past five, at the mouth of the yard, with the rain 
 >
 > **The holder may give the name. Nobody will take it from him.**
 
-It stood there for twenty-two seconds, and Adrian watched about sixty people have a completely ordinary wet Friday afternoon around a thing that none of them could see.
+It stood there while a room emptied, and Adrian watched about sixty people have a completely ordinary wet Thursday afternoon around a thing that none of them could see.
 
 It was the same offer as the fifteenth morning of the flood, in a different coat. *A holder may be shown which one the water is using.* It had been true then, and it was true now, and it would have been true in the middle of the yard with Vask's own hands on the stone, and the reason it was dangerous had not changed in nine days and had in fact got worse, because nine days ago the answer would have been a boundary and now the answer would be a *name*, and a name is what a man writes on a stone when he wants to be the man who set it.
 
 He wrote it in the notebook, standing in the rain, in the flat hand, without crossing anything out, and read it out afterwards to Tamsin, who had watched his face change and who wanted it in a document rather than in a man's memory.
 
-"It is not lying," he said. "That is what I have got to keep saying. It says three things that are all true, in the right order, in a form that a tired man in a wet yard will read as *an offer of help*. It says three people have seen it, which is true — I have seen it, Vask has seen it, Quill has seen it. It says a man who can read it may name it, which is true; I could name it, in about eleven seconds, and I have had a name for it since Saturday. And it says a name that is true is a thing that can be searched for, and a thing that can be searched for is a thing that can be moved, which is *also true* and which is the most frightening sentence anybody has said to me since a woman on a raft said I had made a bill by accident."
+"It is not lying," he said. "That is what I have got to keep saying. It says three things that are all true, in the right order, in a form that a tired man in a wet yard will read as *an offer of help*. It says three people have seen it, which is true — I have seen it, Vask has seen it, Quill has seen it. It says a man who can read it may name it, which is true; I could name it now, out loud, in this yard, and I have had a name for it since Saturday. And it says a name that is true is a thing that can be searched for, and a thing that can be searched for is a thing that can be moved, which is *also true* and which is the most frightening sentence anybody has said to me since a woman on a raft said I had made a bill by accident."
 
 "And the last line," said Tamsin. "*Nobody will take it from him.*"
 

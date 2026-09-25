@@ -1,6 +1,6 @@
 # Chapter 0028 — What the Scout Is
 
-Eli Mercer came back out of eighteen inches of dead-straight dead-straight seam in the wall of the outer channel with a piece of paper in his hand, and he kept it, and on the twenty-ninth day of the flood it turned out that the paper was the reason the Lantern Concord spent six hours in a converted salt store doing the most careful thing anybody in that city had done since the flood began, and also the reason a man in a good coat was, for the ninth day in a row, the single most useful person in the room.
+Eli Mercer came back out of eighteen inches of dead-straight seam in the wall of the outer channel with a piece of paper in his hand, and he kept it, and on the twenty-ninth day of the flood it turned out that the paper was the reason the Lantern Concord spent six hours in a converted salt store doing the most careful thing anybody in that city had done since the flood began, and also the reason a man in a good coat was, for the ninth day in a row, the single most useful person in the room.
 
 He had been out of the world for eleven seconds. He had a piece of paper.
 
@@ -22,7 +22,7 @@ Her first ruling was about the paper.
 
 "It has writing on it," said Teodor Blaz.
 
-"Then it has writing on it and I am entering that," said Vail, "and nobody in this room may ask him to read it aloud until he has been told, in this room, that he may refuse, and that a refusal is entered and is not held against him, and that nothing may be done to him for holding it." She looked round. "That is on a wall in a room above the market. It is my second clause. I would like to see whether anybody in this room is entitled to a better one and I do not think anybody is."
+"Then it has writing on it and I am entering that," said Vail, "and nobody in this room may ask him to read it aloud until he has been told, in this room, that he may refuse, and that a refusal is entered and is not held against him, and that nothing may be done to him for holding it." She looked round. "That is on a wall in a room above the market. It is the sixth clause. I would like to see whether anybody in this room is entitled to a better one and I do not think anybody is."
 
 Nobody claimed to be, and Vail entered the form's sixth clause into the ledger and read it back, and then said, "Now. Ask him."
 
@@ -34,13 +34,13 @@ What Teodor Blaz said, in that room, over about forty minutes, with nine people 
 
 "There were four openings in the long wall. Not doors — *openings*, in the wall, at different heights off the floor, with a raised lip in front of each like a sill, and the fourth one — " he looked up, and Adrian felt something go cold and specific behind his left eye " — the fourth one was already open. We came out of the third one.
 
-"And that's the bit they're all arguing about. Seven of us went to the first one, because it's the widest and you go to the widest. Four of us went to the second because we could not fit. I went to the fourth because I could not get into any of the others and I was last, and I came out of the third one, and so did you—" he said, to Eli, "— and I have been arguing with you for two days and I am not going to stop now.
+"And that's the bit they're all arguing about. Six of us went to the first one, because it's the widest and you go to the widest. Four of us went to the second because we could not fit. I went to the fourth because I could not get into any of the others and I was last, and I came out of the third one, and so did you—" he said, to Eli, "— and I have been arguing with you for two days and I am not going to stop now.
 
 "The sounds were like a page. Every forty seconds or so, a sound like a page being turned, somewhere above and behind, and nobody could find where. Not words. Not speech. A *page*.
 
 "And there was a smell. Nobody else smelled it. I smelled wet stone in a room with no stone in it, and I have smelled that before, and I have not told anybody before because I did not want to be the one."
 
-Nobody in that room had anything to say for about four seconds.
+Nobody in that room had anything to say.
 
 "Write the smell in," said Adrian.
 
@@ -56,9 +56,9 @@ He translated for two hours and it is entered in the ledger that he translated t
 
 "That is what they said. I have not arranged it, and I have not improved it, and I have not removed the four disagreements, and I want it entered that I have not removed them, because in nineteen years of reading other people's accounts I have never once read one and been asked to keep the wrong parts."
 
-"You are the Crown man," said a docker of about fifty at the back. "You have been in this city seven weeks and you are the man who says the three-hundred-year-old paper in the tally house is a fraud, and now you are sitting in a room doing this."
+"You are the Crown man," said a docker of about fifty at the back. "You have been in this city seven weeks and you are the man who said the three-hundred-year-old paper in the tally house was a fraud, and now you are sitting in a room doing this."
 
-"I said a *word* in that paper is a bad word," said Marrow, without turning round. "I did not say the paper is a fraud, and I have spent a week in this city not correcting that, and I am not going to correct it now, and you may have the entry, and the entry is in the book with the date on it." He put the slate down. "And you are right about the shape of what is happening in this room, and I am going to name it so that somebody who is worried can watch it happen, and I would like it entered that I named it myself: **a man in a good coat is doing the thing he is best at, in a room of frightened people, and it is genuinely useful, and that is the dangerous part.** If I had come here and tried to recruit them I would have been finished in this city in a fortnight. I have not tried. I have translated. And if I go on translating, then in a month there will be a market in this city that says the anchorwright's man from the wall brought back a description of the other side and had it written down, and there will be some of that true."
+"I said a *word* in that paper is a bad word," said Marrow, without turning round. "I have said in this city before now that I meant the word and not the paper, and I am not going to say it again in a room tonight, and that is not modesty. A man who says it twice in rooms has made it a thing anybody can use, and the first person who uses it will be me. You may have the entry, and the entry is in the book with the date on it, and it is the only place in this city where any of this is written down." He put the slate down. "And you are right about the shape of what is happening in this room, and I am going to name it so that somebody who is worried can watch it happen, and I would like it entered that I named it myself: **a man in a good coat is doing the thing he is best at, in a room of frightened people, and it is genuinely useful, and that is the dangerous part.** If I had come here and tried to recruit them I would have been finished in this city in a fortnight. I have not tried. I have translated. And if I go on translating, then in a month there will be a market in this city that says the anchorwright's man from the wall brought back a description of the other side and had it written down, and there will be some of that true."
 
 ---
 
@@ -104,9 +104,9 @@ Vail looked up.
 
 Vail put her pencil down, and picked it up again, and said:
 
-"I have an answer to that and it took me about four seconds and the answer is that I have been a notary for twenty-six years and I have sent four hundred things to Aurel in four hundred wooden cases and I have never once sent one of them down a river to a woman before I sent it to a clerk, and I did not do that because I was generous. I did it because it never occurred to me. Thank you."
+"I have an answer to that and it took me the length of a breath and the answer is that I have been a notary for twenty-six years and I have sent four hundred things to Aurel in four hundred wooden cases and I have never once sent one of them down a river to a woman before I sent it to a clerk, and I did not do that because I was generous. I did it because it never occurred to me. Thank you."
 
-"And I will take it," said Peth Lammay, "and I will take it to Verrow myself, and it goes on the Thursday, which is the day after tomorrow, and I will not go on the Tuesday because the Tuesday is the day the mail case goes and the case goes to Aurel, and I am not having it in the case." She looked at Adrian. "And you are coming down the road with me, because a page that has got a man in it needs the man in the room when it is read, and you have got four days to learn how to be in a room in the Reach without a notebook, and I have watched you for two days and you have not started."
+"And I will take it," said Peth Lammay, "and I will take it to Verrow myself, and it goes on the Friday, which is in three days, and I will not go on the Tuesday because the Tuesday is the day the mail case goes and the case goes to Aurel, and I am not having it in the case." She looked at Adrian. "And you are coming down the road with me, because a page that has got a man in it needs the man in the room when it is read, and you have got four days to learn how to be in a room in the Reach without a notebook, and I have watched you for two days and you have not started."
 
 ---
 
@@ -114,9 +114,15 @@ And then, at about the sixth hour of the twenty-ninth day of the flood, Teodor B
 
 "There is one more thing," he said, "and I have been sitting on it since the twenty-eighth because I did not want to be the man who says the strange bit, and I have decided I would rather be than not say it, and if I am wrong then I am wrong on the page and it is a Tuesday and somebody can tell me.
 
-"The four openings were not the same height off the floor. The first one was about four foot. The second about two foot eight. The third about two foot. And the fourth one — the one that was already open, the one I came out of — was about a foot and a half, and you could get through it sideways, and I know that because I went through it twice.
+"The four openings were not the same height off the floor. The first one was about four foot. The second about two foot eight. The third about a foot and nine. And the fourth one — the one that was already open, the one I came out of — was about a foot, and you could get through it sideways, and I know that because I went through it twice.
 
-"And that is not a thing I should know. I am a warehouse supervisor in Leeds. I have never measured anything in my life that mattered. But I looked at them, in that order, from left to right along the wall, going down, and the drop from one to the next was about three parts in two. And then the last one dropped a bit less than three in two, because the first drop is from four foot and the last is to a foot and a half, and three in two three times off four foot is a foot and a half and change, and the change is about two inches, and the fourth one is about two inches lower than three in two.
+"And that is not a thing I should know. I am a warehouse supervisor in Leeds. I have never measured anything in my life that mattered. But I looked at them, in that order, from left to right along the wall, going down, and each one is about two thirds of the one above it. Four foot is forty-eight inches. Two thirds of forty-eight is thirty-two, and that is the second one, and I have got it. Two thirds of thirty-two is twenty-one and a third, and twenty-one and a third is a foot and nine and a bit, and that is about the third one. And two thirds of twenty-one and a third is fourteen inches and a quarter.
+
+"And the fourth one is twelve."
+
+He put both hands flat on the table.
+
+"So the last one is two inches and a quarter lower than two thirds, and I have gone over it four times since with a bit of string and my own forearm and I get the same answer every time, and I do not know what to do with it. And I have not told anybody in this room that I measured anything at all until just now, because I could not think of a sentence that would not make me sound like a man who has read a book about it.
 
 "Nobody in that room noticed that but me. I have thought about it for a day. Eleven people looked at four holes in a wall and eleven of us did not measure them and I did, and I do not know why I did, and I have never in my life done a thing like that, and I would like somebody to tell me it is a normal thing to do."
 
@@ -124,7 +130,7 @@ The room was quiet.
 
 Adrian Vale was sitting at the second bench on the left with his hands on his knees, and there was a sensation in his right hand that he has never been able to describe to anybody except as *being read*.
 
-He did not say anything. He did not say anything for about eleven seconds, which is a long time in a room of forty people, and then he said, in English, in a completely level voice, to a woman with a slate:
+He did not say anything. He did not say anything for what felt like the rest of the afternoon, which is a very long time in a room of forty people, and then he said, in English, in a completely level voice, to a woman with a slate:
 
 "Priya. What was on the paper."
 
@@ -132,7 +138,7 @@ Priya Shah looked up from the table where she had been copying the four accounts
 
 ---
 
-It took him about forty minutes to get to the notebook, and twenty of those were spent standing in a room, because on the twenty-fifth day of this month, in a yard, at the eleventh hour and thirteen minutes, something had come out of the black line in the chapel stone and said twelve words of English in a flat reading voice, and he had written them down at half past four that afternoon in a room above a market, and he had read them over about nine times since, and he had not once put them next to a page in a notebook, and he has been asked since why not and he does not have an answer that he believes.
+It took him about forty minutes to get to the notebook, and twenty of those were spent standing in a room, because on the twenty-fifth day of this month, in a yard, at about the eleventh hour, something had come out of the black line in the chapel stone and said twelve words of English in a flat reading voice, and he had written them down at half past four that afternoon in a room above a market, and he had read them over about nine times since, and he had not once put them next to a page in a notebook, and he has been asked since why not and he does not have an answer that he believes.
 
 He did not go and look at the notebook until about the eighth hour of the evening, in a room above a market, with the door shut, and he did it alone, and it took him about ninety seconds.
 
@@ -148,7 +154,7 @@ He knew it was page forty-one. He has known it was page forty-one since he sat d
 
 And underneath, in the flat hand, in smaller writing, and he had written that part at about four in the morning on the fourth night of the flood in a room above a river market with a headache and a nosebleed, and it was a ratio, and it was about heights:
 
-> *and the four have to be stepped so that the first is the easiest and the last is the narrowest, because a person who cannot get into the first one will go and look for a second and a person who cannot get into the second will break the third, and the whole of the design is that nobody ever has to break anything. Ratio between the sills about three in two and the last one a little under three in two. Roughly four foot, two foot eight, two foot, a foot and a half.*
+> *and the four have to be stepped so that the first is the easiest and the last is the narrowest, because a person who cannot get into the first one will go and look for a second and a person who cannot get into the second will break the third, and the whole of the design is that nobody ever has to break anything. Ratio between the sills about two in three and the last one a little under two in three. Roughly four foot, two foot eight, a foot and nine, a foot.*
 
 He had written it at four in the morning on the fourth day of the flood, in his own hand, in a paper notebook, in a room over a market, and he had shown it to nobody, and it was not on the computer, and the section of the file that held it had been deleted eight days later in another hemisphere, and it was in a locked office in a building whose door code changed on Mondays, and there was no copy of it anywhere in the world except this page.
 

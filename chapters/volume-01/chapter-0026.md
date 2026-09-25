@@ -26,7 +26,7 @@ The hall was full at the first hour and the roll of public business had eleven n
 
 ---
 
-The business of the hall today, in the end, took six hours and it was not what anybody had come for, and the reason it took six hours is that Adrian Vale tried four times to get to the thing he had come to say and was stopped four times, and the four stops are the chapter.
+The business of the hall today, in the end, took six hours and it was not what anybody had come for, and the reason it took six hours is that Adrian Vale tried four times to get to the thing he had come to say and was stopped four times, and the four stops are the whole of it.
 
 The first stop was at the third hour, when Jonah Pike stood up on the end of the third bench and said the thing that was ninety per cent right, and it was ninety per cent right, and Adrian knew it was ninety per cent right at the time, which is the part he has written down most often.
 
@@ -50,9 +50,9 @@ Renna Ord was in this hall, at the back, in a boat-coat, and she said, in the lo
 
 The second stop was at the fourth hour, and it was Priya Shah, and it was the worst thing that happened to Adrian all week, including the floor.
 
-He had been getting up in the hall, in the gap in the floor, twice, and both times he had begun by explaining what the eleven were, and both times he had got about eleven seconds in and stopped, because there is no sentence available to him. He is not a Veyran speaker; he has four words of the maintenance oath and a bad sixth of the local language and he has been living in this city twenty-six days. And the eleven speak English. And that is the entire problem and it took him until the fourth hour to understand that the problem was not the language at all.
+He had been getting up in the hall, in the gap in the floor, twice, and both times he had begun by explaining what the eleven were, and both times he had got a sentence and a half in and stopped, because there is no sentence available to him. He is not a Veyran speaker; he has four words of the maintenance oath and a bad sixth of the local language and he has been living in this city twenty-six days. And the eleven speak English. And that is the entire problem and it took him until the fourth hour to understand that the problem was not the language at all.
 
-"You keep saying *the second cohort*," said Priya Shah, from the fourth bench, in English, and there were about ninety people in the hall who spoke enough English to know that two of the seven were talking and not the man in the seat, and this is the moment in the chapter that everybody who was in that hall remembers.
+"You keep saying *the second cohort*," said Priya Shah, from the fourth bench, in English, and there were about ninety people in the hall who spoke enough English to know that two of the seven were talking and not the man in the seat, and it is the moment that everybody who was in that hall still has.
 
 "Second what," said Adrian.
 
@@ -106,7 +106,7 @@ Nobody in that hall said anything for a while.
 
 Then a man on the fourth bench said, in English, in a bad accent, loud enough for the room: "You are saying you cannot do anything, mate."
 
-"I am saying I cannot do anything," Adrian said. "That is exactly what I am saying. In this world I cannot do anything. I can see a line sometimes and I cannot choose it and I cannot point anybody at it and it gives me a headache and once it gave me a nosebleed, and every time I have ever been in a position to do anything in this world, somebody local has done it and I have stood four feet back and been told I was not needed, and they were right every time, and the one time I was asked to do a thing, in a yard, in front of thirty people, a woman refused me, and she was right as well."
+"I am saying I cannot do anything," Adrian said. "That is exactly what I am saying. In this world there is nothing I can do. I can see a line sometimes and I cannot choose it and I cannot point anybody at it and it gives me a headache and once it gave me a nosebleed, and every time I have ever been in a position to do anything in this world, somebody local has done it and I have stood four feet back and been told I was not needed, and they were right every time, and the one time I was asked to do a thing, in a yard, in front of thirty people, a woman refused me, and she was right as well."
 
 The man on the fourth bench turned round and looked at the two benches at the end.
 
@@ -148,13 +148,13 @@ It is on that entry, and not on anything Adrian did, that the second group becam
 
 "First: I don't want to be on that list with a refusal clause, because a refusal clause is a good thing and I want to be on the list, and I'm not going to be precious about it. That's mine to want. Nobody's to ask me twice.
 
-"Second." He looked at the six. Six rows back, on the left, in a row that had been there for an hour, sat six people from another world who had come out of a hole twenty-four days before he did.
+"Second." He looked at the six. Six rows back, on the left, in a row that had been there for an hour, sat six people from another world who had come out of a hole in a different wall about five hours after he had come out of his, on the same morning, in a city of a thousand people who had gone on with the day.
 
 "I'm not joining them. I know what everybody's doing — you're all doing it, the man in the seat is doing it, the woman with the slate's doing it. You're all looking at those six and going: *those are the ones who know how to do this.* And I get it. I do. I did the same thing on the walk-round yesterday, I saw them and I thought, right, they've got a woman who speaks the local language and they've got a man who's got a *thing in his hand*, and I should get next to them, because this is a game and that's the progression.
 
 "And I want to say out loud, in this room, in front of these people, that I don't want to be attached to those six and I don't want to speak for them, and I'd like it written down in whatever book that goes in.
 
-"Not because I don't need them. Because they've got twenty-four days and I've got two, and in twenty-four days they learned how this place works and I haven't learned how anything works, and the second I stand next to them I'm a guy with a party, and in nine days I'm the guy who got a party. And then when something goes wrong — and something is going to go wrong, because something went wrong *yesterday*, on top of you, in a hole, in a floor — it's going to be *their* thing that went wrong, and they'll have twenty-four days of it in a book, and I'll have two.
+"Not because I don't need them. Because they've got a month and I've got two, and in a month they learned how this place works and I haven't learned how anything works, and the second I stand next to them I'm a guy with a party, and in nine days I'm the guy who got a party. And then when something goes wrong — and something is going to go wrong, because something went wrong *yesterday*, on top of you, in a hole, in a floor — it's going to be *their* thing that went wrong, and they'll have a month of it in a book, and I'll have two.
 
 "So no. Separate list, separate witnesses, separate everything, and I'll say all of it in my own handwriting and I'll be the first one to say something that gets me in trouble with the other ten, which is the only way I know to be sure they can trust the rest of it."
 
@@ -172,11 +172,11 @@ And then Priya Shah, who is twenty-four, and who had her hand flat on the ledger
 
 ---
 
-Nobody dies in this chapter either, but Owen Park's shoulder is in a sling in a corner of the hall for four hours while he does not use it, and Hesper Saye looks at it twice and says nothing, and at about the fifth hour he stands up and goes out, and nobody stops him, and Adrian watches him go and does not follow him, and it is the first time in twenty-six days that he has watched Owen Park leave a room and understood that he was not permitted to come along.
+Owen Park's shoulder was in a sling in a corner of the hall for four hours while he did not use it, and Hesper Saye looked at it twice and said nothing, and at about the fifth hour he stood up and went out, and nobody stopped him, and Adrian watched him go and did not follow him, and it was the first time in twenty-five days that he had watched Owen Park leave a room and understood that he was not permitted to come along.
 
 At the ninth hour the room emptied and the eleven were walked to the Salt Weavers' chapel two floors above the market, which has four benches, a floor, a window behind the plaster that nobody has opened in six years, and a key held by a market woman, and no arrangement of any kind beyond that.
 
-And at about the eleventh hour at night Adrian went down and sat in the dark on the second step outside the back door, in the cold, with a cup of something hot that Sesh Brack had put in his hands without saying anything, and worked out the thing that the chapter had done to him.
+And at about the eleventh hour at night Adrian went down and sat in the dark on the second step outside the back door, in the cold, with a cup of something hot that Sesh Brack had put in his hands without saying anything, and worked out what the day had done to him.
 
 For three weeks he had been privately, privately embarrassed.
 
@@ -202,6 +202,6 @@ And then, in his own hand, on the twenty-sixth day of the flood, at the eleventh
 
 *Then it is the eleventh person, and then it is the hundredth, and the question is not about the wall. I have a form on a wall with a refusal clause in it and a clause a woman by the wharf wrote into it, and the first person to use the refusal clause is the man who wrote the form, and the first person to say the word out loud in a room on purpose was a boy of nineteen who wanted to be on a list and not be attached to a party, and neither of those things was me.*
 
-*Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
+*Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count. I have not asked one of them about a single thing they care about.*
 
 *And the only sentence I have got is a question somebody asked me in a room, and it is: what happens when one of them does not want to tell? And the answer is that I have to build the thing that does not need them to tell me, and I have four days to do it in, and I do not know how.*
