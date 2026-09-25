@@ -100,7 +100,7 @@ That is the honest word for it and Adrian used it afterwards, when it was over, 
 
 Five witnesses: Vask, Tamsin, Roke, Ovin Sarr, and Nell Bray. The two dockers had spent two days holding a join in a flood and a man from the wall had not known their names on the first morning; Roke had put them on the slate that afternoon because Adrian had asked him to, and here they were.
 
-They went out along the walk-round at twenty past four, in the dark, with three lanterns, and Renna Sesh on the wall with a line round her waist, and the two masons in the channel below with oak bars.
+They went out along the walk-round at twenty past four, in the dark, with three lanterns, and Renna Ord on the wall with a line round her waist, and the two masons in the channel below with oak bars.
 
 And Adrian found the join.
 
@@ -198,15 +198,23 @@ It had been sweating for four days and it was dry.
 
 He put his hand on it.
 
-The stone was warm. Not hot. The same warm as a fresh stamp, the exact warm of the mark on the heel of his palm, and when he turned his hand over and held the heel of it against the seam, the branching pale lines of the mark and the three-finger shape of the seam were the same size.
+The stone was warm. Not hot. The same warm as a fresh stamp, the exact warm of the mark on the heel of his palm, and when he turned his hand over and laid the heel of it against the seam it fitted — not the way a key fits a lock, but the way a coin fits the die it was struck from.
 
-Not approximately. The same size. The fork of the mark at the base, the short spur, the place where the line thinned. He stood there in the rain with his palm on the wall of a lock in a world he had not chosen and understood, with a feeling he could only describe later as *the floor of his stomach going out*, that this was not a scar that had been closed on purpose.
+Smaller. A great deal smaller. The seam was three fingers across and eighteen inches long. The mark on his palm was the size of a thumbnail. But every part of the branching was in the same proportion in both of them: the fork at the base, the short spur, the place where the line thinned and stopped. He held his thumbnail against the lip at one end of the seam and it covered the lip exactly, and when he took it away the hairline of the joint was still on the pad of his thumb.
 
-This was a socket that a piece of him had been cut to fit.
+He stood there in the rain with his palm flat on the wall of a lock in a world he had not chosen and understood, with a feeling he could only describe later as *the floor of his stomach going out*, that this was not a scar that had been closed on purpose.
 
-And the mark was not on his hand any more, exactly. He turned the palm over in the rain and the pale branching line was fainter than it had been on Tuesday, and the fine cut along it had stopped bleeding, and in the middle where the forks met there was now a small clean absence, like a chip out of a tooth.
+This was a socket that a piece of him had been cut to fit, at one-twentieth, and had been carrying in the place where he could not wash it off since twenty to three on Tuesday morning.
 
-He is not carrying the fragment in a pocket. He is carrying it on his hand. It has been in his hand since 2:40 on Tuesday morning and it is in his hand now, and it is smaller, and the shape of the seam is its exact negative, and there is nothing in this world he can do with that except eventually stand in a public room and let somebody else put it in a stone while he holds a line they can see.
+And the mark was not on his hand any more, exactly. He turned the palm over in the rain and the pale branching line was fainter than it had been on Tuesday, and in the middle where the forks met there was now a small clean absence, like a chip out of a tooth.
+
+The thin black line was a separate thing, and it was not part of the mark. It ran along the long axis of the heel under the place where the pale line had opened its cut two nights ago, a hair's width across and about two inches long, and it did not thin or fade or warm up when the pale line faded. It was still there. He put his thumb over it and it was still there, exactly the same width, and when he took the thumb away it had not moved.
+
+Vask had told him on Wednesday night what a black line meant, and he had written the definition down in the back of the notebook like a man writing down a rule about traffic. *The promise was made and nobody took it.* Two days before that, in a market aisle, he had watched an old woman put her hand flat on a perished tie and say four words, and had watched a sensible man in a good coat put his tool away because of them. He had been in the city a little over two days and had already been shown the same lesson twice in two different clothes.
+
+He had made one promise in that room with nobody standing in it, and it had cost him two black lines: one in a slab that every person in this city steps over, and one under his own thumb that nobody will ever step over.
+
+He is not carrying the fragment in a pocket. He is carrying it on his hand. It has been in his hand since 2:40 on Tuesday morning and it is in his hand now, and it is smaller, and the shape of the seam is its exact negative at one-twentieth, and there is nothing in this world he can do with that except eventually stand in a public room and let somebody else put it in a stone while he holds a line they can see.
 
 ---
 
@@ -252,7 +260,7 @@ The whole wall went quiet.
 
 "Then what is going to close it?" Roke said.
 
-"The hearing," said Vail. "At first light tomorrow, which is today, in about eleven hours, the Concord will hear an answer to one question. Not what do we do about the gate. Whether the lock can be worked by more than one person, so that no one person can open it, hold it, close it, or refuse it alone. That is tomorrow. The breach is not tomorrow." She closed the case. "And it is still the case that nothing on this wall today has made the breach smaller. Do any of you understand that? You have had a very hard morning and a very long day and everybody in this city is going to be grateful to you, and the gate is exactly as open as it was at dawn."
+"The hearing," said Vail. "At first light tomorrow, which is in about sixteen hours, the Concord will hear an answer to one question. Not what do we do about the gate. Whether the lock can be worked by more than one person, so that no one person can open it, hold it, close it, or refuse it alone. That is tomorrow. The breach is not tomorrow." She closed the case. "And it is still the case that nothing on this wall today has made the breach smaller. Do any of you understand that? You have had a very hard morning and a very long day and everybody in this city is going to be grateful to you, and the gate is exactly as open as it was at dawn."
 
 Adrian said, "I know."
 

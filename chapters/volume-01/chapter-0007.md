@@ -178,7 +178,7 @@ Adrian looked at it until his eyes began to ache, which he noticed as a small pi
 
 "That is what a record is for," she said.
 
-He was standing six inches from a black line in a stone slab in a world two days old, and something on the other side of it had just said his name, and it had said it in the local language, which meant that whatever was on the other side had learned a language by talking to people, and that it had a *person's* idea of who he was, and that the fourth rule on the wall upstairs — the one he had invented on Tuesday night, for people — applied to this too.
+Adrian looked at the line in the slab, and then at the four people who had just written down that he had made a promise to a room with nobody in it. In a year there would be strangers reading that sentence on a page, and not one of them would know whether he had been brave or stupid, and he found that he did not much care which. A page that has to be argued with is worth more than a man defending himself in a room where everybody already likes him.
 
 It was the first time anything Adrian had done in Veyra had ended up in a place where it could not be quietly revised. He found that he wanted to put his hand flat on the slate the way you would on a window.
 

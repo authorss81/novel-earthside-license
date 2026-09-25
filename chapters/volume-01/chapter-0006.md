@@ -112,7 +112,7 @@ That was the end of the incident, and the near-thing that ended it was not Jonah
 
 Sesh cut her hand on the hinge at six o'clock, trying to work the counterweight anyway, alone, with a broken cord and no one to hold the arm.
 
-She got a two-inch laceration across the base of her thumb and a swelling that took eleven days to go down, and the arm came down on her from eight inches, and she did not lose the hand, and she told the story of it later for years as the funniest thing that had ever happened to her, and Mina Okoye heard that story and went very quiet and wrote the word SURVIVABLE in her book in capitals and underlined it twice.
+She got a two-inch laceration across the base of her thumb and a swelling that took eleven days to go down, and the arm came down on her from eight inches, and she did not lose the hand. She was still swearing about it at eight o'clock. Mina Okoye wrote the number of days in the margin of her own book, and wrote the word SURVIVABLE under it in capitals, and underlined it twice.
 
 ---
 
@@ -164,7 +164,7 @@ Jonah Pike folded his piece of bread in half, and then in half again, and set it
 
 "All right," he said. "No. Not exclusive. Tell me the alternative and I will tell you why it fails, and if the answer is good enough I will use my own money to buy it."
 
-That was the moment Adrian actually knew the six of them were going to survive long enough to matter. It was not the moment he admired Jonah, and it was not the moment he was proud. Jonah had simply found out he was about to build a wall around six people, had refused to build it, and had gone straight to work on the other version, and Adrian thought: *this is the man who is going to be the problem in nine months, and it is going to be my fault, and I will not be able to say he did not warn me.*
+That was the moment Adrian actually knew the six of them were going to survive long enough to matter. It was not the moment he admired Jonah, and it was not the moment he was proud. Jonah had found out he was about to build a wall around six people, had refused to build it, and had gone straight to work on the other version. Adrian thought: *he did that in about four seconds, and I have watched men take four hours to do the same thing and get a committee out of it.* And then, in the voice he did not trust: *watch him.*
 
 Then Priya said, to the window, in the flat voice she had been using for three hours: "For the record, the offer was made and the offer was refused in this room at one o'clock, and I have got it, and I am putting it in the log whether it happens or not."
 
@@ -173,6 +173,86 @@ Then Priya said, to the window, in the flat voice she had been using for three h
 "I was going to."
 
 "Good. Put in the log that I made it and that I withdrew it in the same hour and that the reason I withdrew it is that the woman from the lock made a better argument than I did." He looked around the table. "And put in the log that I am still right about the brass man, because in about three weeks somebody is going to sell that man a set of our tools at a price that makes us all rich and stupid."
+
+---
+
+Owen put his coat on at four o'clock, and nobody stopped him.
+
+It had started at two, as a joke, and it had stopped being a joke somewhere in the third hour, and Adrian understood later that the trouble was not that Owen was wrong. It was that Owen was the only one of the six who had spent nineteen hours doing a job and had not found anything in the job worth doing.
+
+"He had a shape," Owen said. He had the tape measure out again and was not measuring anything with it. "Coin, seal, a roundel, whatever. It stood on its edge behind that join, and it was the same on Tuesday as it was on Wednesday, and I am telling you that a thing which does not move for two days while the whole river moves around it is not a reflection and is not a trick of the light, because I have stood in a factory for twenty years and I know exactly what a reflection does."
+
+"Owen," Priya said.
+
+"I'm not finished. About the size of a dinner plate. And it is dimmer than it was on Tuesday." He put the tape measure away. "I don't know what that means. Maybe it is further off than it was. And if it is further off, then it is going, and then the only question in this room is whether one man and a rope can be at that wall before it is not there. That is not a philosophy. That is a shift pattern."
+
+"Who would go?" Adrian said.
+
+Owen looked around the room, and got as far as Priya, and stopped, and Adrian watched a man run out of floor in a room with four people in it.
+
+"That is what I am asking," Owen said.
+
+And that was the moment it turned, and Adrian could feel it turn, and it turned because Owen had said the words *one man and a rope* out loud in a room where six people had been pulled out of one place without asking and had spent nineteen hours learning precisely what that felt like.
+
+"He is out," Dante said, to nobody in particular. "There he goes. He is out."
+
+"He is a man with a cut on his head and a light none of us can see, and he has been saying so for three hours," Mina said.
+
+"Then I am out."
+
+He went down the stair. Priya said "don't," and Owen said, "Then don't," and went down the stair, and on the half-landing he said something to the Hearthguard woman sitting on the top step, and Tamsin, who was in the yard and who heard all of it, said afterwards that it had not been an insult. He had asked her where the second bay was, and it had come out sounding like an instruction, and that was the whole difficulty.
+
+Adrian did not go down after him straight away, which was the correct thing to do and which cost him more than the shutter had.
+
+He waited two minutes. Then he went down.
+
+Owen was standing in the middle of the market yard with his coat on, in front of a market that had already been told to go home, and three feet away from him was Sesh Brack with a flat expression and a stub of chalk in her hand and no intention whatsoever of moving.
+
+"Mister Park," she said, in her own language, and then again in English, and it was the first time she had used his name, which meant that somebody in the loft had said it out loud in a market. "There is a Hearthguard on the river road. He is nineteen and he has a stick, and if you walk out of this yard going east he will not ask you a question. He will write down that you went east, in a book, with the hour on it."
+
+"Then I will go west."
+
+"West is the lock." She did not raise her voice. "There are eleven men in the second bay this minute who have been holding a promise for two days for no money. If a man out of a wall walks onto the walk-round at four o'clock, they will not decide whether to let you past. They will decide whether you are one of us."
+
+Owen stood in a market yard in a world he had not chosen and discovered that he had run out of directions, which Adrian suspected had not happened to him since he was nineteen.
+
+"How long," Owen said.
+
+"A what?"
+
+"How long have you been able to see it. Since the wall."
+
+"Since the wall," Sesh said. "I did not think it was real. I thought it was the water." She turned the chalk over in her fingers and did not look at him. "Now I have watched three people come out of that wall, and two of them are asleep upstairs, and the third has been down my aisle this afternoon selling a man's property on a Tuesday with a piece of brake cable. Now I think it is real. And I think it is not yours. And I am not the person who gets to say that, so you will ask the woman with the chain, when she comes, in a room with a clerk in it, and whatever she says goes in the book whether you like it or not."
+
+They went back up. The stairs took a while.
+
+Adrian stood in the middle of the room with the notebook out and shut, and he was aware as he put it away that five other people were listening to him, and that what he was about to do was the thing he had spent nine years getting paid to do, which was to take a thing people badly wanted and turn it into a shape they could be responsible for.
+
+"You did not get me stopped," Owen said.
+
+"No."
+
+"Good. Do not do it again." Adrian put the notebook back in his coat. "And I am not going to tell you it is not there. I cannot see it, and I have no standing whatever to tell a man what is behind a wall in a city I arrived in on Tuesday. That is the true answer and it is the only one I have got."
+
+"Then get them to go and look."
+
+"I am not going to ask anybody in this room to go and look at a light behind a lock wall, in a flood, on the strength of a description, with nothing rated for it and no witness. That is not a retrieval. It is a burial that has not been arranged yet."
+
+"Then what is it?"
+
+"It is a question," Adrian said. "And it is not our question. It is a question the people who own that wall get asked, out loud, in a room, in writing, and they get to say no in front of witnesses and it goes in the book either way. And if they say yes, then it is a working, with a crew and a rota and a cost posted, and it happens at low water with a name against it, the same as everything else in this city does, and you will be on the rope, because you are the only person who can tell them which stone to stand on."
+
+"And if they say no?"
+
+"Then it goes in the book that they were asked and said no, and in a year you will be the only person alive who remembers that there was a light, and I will testify to that." He put his hands in his pockets, and one of them was the wrong one, and he left it there. "Which is not nothing. It is what we have instead."
+
+Owen looked at the floorboards for a while.
+
+"Right," he said. "Then it is a question. I can work with a question." He rubbed the top of his head, and then took his hand away quickly, the way a man does when he has just found out that a thing is still hurting. "Put my name on it. My name on the question and not on the crew, and put down that I offered."
+
+"It goes in," Priya said.
+
+"Good." Owen sat down on the end of the cot and was suddenly, extremely tired, in the manner of a man who has been arguing for three hours and has not had a drink of water. "Somebody tell me what time dinner is."
 
 ---
 

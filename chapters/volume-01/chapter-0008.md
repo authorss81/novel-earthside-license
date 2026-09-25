@@ -194,7 +194,17 @@ Tamsin was watching him. She had understood it too, and she was watching him *no
 
 Adrian wrote it in the notebook, in the flat hand, and signed it, and then he found that his right hand was wet and there was a thin line of blood along the heel of his palm, following the branching shape of the mark exactly, like a crack in a thing that used to be whole.
 
-He put it in his pocket. He did not show it to anybody. He noticed, distantly, that this was the first time since Tuesday he had made a decision about information on the grounds of what it would do to somebody, and he put the observation away where he kept the other ones he was not ready to look at.
+He held it up under the lamp, and Vask said, from the altar step, "Do not wash it."
+
+"I wasn't going to wash it."
+
+"You were thinking about it." She came over and looked at it without touching it. "That is not the cut. The cut is the cut. That is underneath it, and it is black, and it is the length of two of your fingers." She said it in English, flatly, and then again in the local language for Roke, who had come back in out of the rain with the two dockers and was standing in the doorway. "A black line. On a person this time. It has not opened, and it is not going to open tonight, and I have seen it twice in thirty-four years and both times to a man who had told somebody else that he could manage a thing he was being asked to hold."
+
+"That is me," Adrian said. "I told Tamsin on Wednesday that I could follow a join for as long as her crew was holding the lock's working. I have not been able to follow anything all night except a line of black in a slab, and I did it anyway for four hours, and something took that as an answer."
+
+"Yes." Vask wiped her hand on her apron, though she had not touched him. "It is not a punishment and it is not a reward. It is a stone telling you what you are standing on. When somebody finally mends the line in that slab, that will be a day of work and a day of money, and you should not confuse the two. This one is cheaper. This one is worse, because nobody comes and tells you about it. Nobody steps over your hand."
+
+He put the hand in his pocket. He did not show it to anybody. He noticed, distantly, that this was the first time since Tuesday he had made a decision about information on the grounds of what it would do to somebody, and he put the observation away where he kept the other ones he was not ready to look at.
 
 His left ear had been ringing since the voice stopped. It would go on ringing, on that side only, longer than a night, and by the time it finally stopped he would find that he could no longer pick out a specific note that a woman in the second bay made when she counted the men under the gate.
 

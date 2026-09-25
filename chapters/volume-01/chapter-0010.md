@@ -118,7 +118,7 @@ It was in the middle of that silence, with two hundred and eleven people in a sa
 
 It stood there for a while. It was the longest the field had ever stayed.
 
-The thing about it — the thing he would be asked about, later, by people who wanted to know how he had known — was not that it lied. It did not say the water would not move. It did not say the field would come back. It said *the cost has been paid*, and it said it in a voice that had never once, in two days, been wrong about a fact.
+The thing about it — the thing he would be asked about, later, by people who wanted to know how he had known — was not that it lied. It did not say the water would not move. It did not say the field would come back. It said *the cost has been paid*, and it said it in a voice that had never once, in three days, been wrong about a fact.
 
 It was correct about the cost. The cost *had* been paid. A season of a bottom field, out of a hundred and forty acres, gone on Thursday, entered in a public book under his own name, enforceable, forever, or until the last day of the salt month. It had been paid. It was paid. He had watched Vail write it down.
 
@@ -142,7 +142,7 @@ Marrow, on his bench at the back, wrote something down. He did not look pleased 
 
 "The offer is entered as refused, and entered as understood, and entered as refused by the person holding the seat and not by the Concord," Vail said. "The seat is vacant for four minutes. Does anybody in this hall wish to fill it?"
 
-Two hundred and eleven people looked at a man who had been in the city two days.
+Two hundred and eleven people looked at a man who had been in the city three days.
 
 "Nobody," said Tamsin. "Which is the correct number of people and it is the correct answer and it is going in the book. The seat is filled by the man with the mark. That is the whole of the selection procedure and it is a stupid procedure, and I have written in the margin that it is a stupid procedure."
 
@@ -150,7 +150,7 @@ Two hundred and eleven people looked at a man who had been in the city two days.
 
 He had prepared three sentences for this on Tuesday night and had thrown all three away somewhere around the second hour of the lock.
 
-"I accept it as a duty and not as a privilege," he said. "I accept that four people can stop it and that the receiving community can stop it, and that if I am gone for longer than a day the seat is vacant and stays vacant, and that nobody in this hall can be asked to trust me because I said a good thing in a good voice this morning. I accept the inspection. I accept the cost that is already in the book, and I accept that the season of that field is mine whether or not I ever pay it, because it stopped being anybody else's on Wednesday at ten o'clock in the morning."
+"I accept it as a duty and not as a privilege," he said. "I accept that four people can stop it and that the receiving community can stop it, and that if I am gone for longer than a day the seat is vacant and stays vacant, and that nobody in this hall can be asked to trust me because I said a good thing in a good voice this morning. I accept the inspection. I accept the cost that is already in the book, and I accept that the season of that field is mine whether or not I ever pay it, because it stopped being anybody else's on Thursday at ten o'clock in the morning."
 
 "Mine," said Vail. "Say the word the law uses."
 
@@ -180,7 +180,7 @@ At the end of it, Sesh Brack's cousin brought up a tray, because Sesh Brack was 
 
 And at eight twenty on that morning, with four witnesses on the wall and Roke on the line and Vask's hands on the stone, Sera Vail did the last thing, and she did it herself, and she did not ask Adrian's permission because it was not his.
 
-He put out his hand. He turned the palm up.
+Adrian put out his hand. He turned the palm up.
 
 And Vail took the heel of it in her left hand and pressed, once, firmly, with a small tool like a die that had a branching line cut in its face, into the lime and stone of the seam, in front of the witnesses, and said, in the local language, the words that go with a thing being put into a public place so that it stops being private.
 
@@ -192,6 +192,10 @@ The pale mark was gone. The branch, the fork, the spur, the small clean absence 
 
 What was left on his palm was a trace. You could see it if you knew what it was: a thin pale ghost in the heel of the hand, most of the forks gone, running out toward the wrist and stopping. It would be there in a year. It would be there in ten.
 
+The black line was not part of that, and it had not gone into the stone. It was where Vask had found it on Wednesday night, two inches of it along the long axis of the heel, a hair's width across, exactly as wide. She had told him it would not move until somebody put a hand to it, and he had understood at the time that the word she had used was *until* and not *unless*, and that the whole of the difference between those two words was the content of his week.
+
+It would be there when the field came up for review. It would be there when Tamsin checked, which she had told him on Wednesday in the rain she was going to do. He was not going to be able to sand it out, and nobody in this city was going to step over it and notice it, which was exactly as Vask had described, and he had thought at the time that she was being dramatic about a mason.
+
 He could pick it up. That was the thing he understood with total clarity, standing on a wet walk-round in the rain with four exhausted people holding a rope he had not been holding.
 
 The mark was the mark. It had never been in his pocket; it had been in his hand since Tuesday at half past two in the morning, and what was in the wall now was *his*, and it was the only thing in this world that was his. And the pale field in the hall had said, in as many words, that the closed place could be opened and kept, and would not need a witness and would not need a community.
@@ -200,7 +204,7 @@ It was a lie. Vail had said so in front of two hundred and eleven people an hour
 
 He also understood, standing in the rain, that this was the part nobody in this city was in a position to check. A legal crossing has a site and four witnesses and a receiving community and a woman with a chained ledger, and if somebody opened one that had none of those things, then the two hundred and eleven people who would be standing in the water afterwards would be standing in the water arguing about it, and the whole enormous machinery this city had taken nine hundred years to build would collapse into a second-hand market stall and a man with a key.
 
-And the wall in front of him was not even evidence. It could not be read by anybody else, could not be carried to a magistrate, could not be photographed, and could not be produced in any room at all except the one it had appeared in. He could have it back, and nobody here would be able to tell afterwards, and he had been in this world two days and had already watched two people lose things for want of a witness.
+And the wall in front of him was not even evidence. It could not be read by anybody else, could not be carried to a magistrate, could not be photographed, and could not be produced in any room at all except the one it had appeared in. He could have it back, and nobody here would be able to tell afterwards, and he had been in this world three days and had already watched two people lose things for want of a witness.
 
 And if he took it back, the seat in the ledger would be a man with a key, and Vail had said so, out loud, in front of two hundred people, forty minutes ago.
 
@@ -230,7 +234,7 @@ She looked up.
 
 "The Concord has opened the record on the question whether a first license may exist in this city at all. That question is open from this morning. It will be heard. It has no date, because I am not going to give one of you a date to wait for. When the Concord has heard it, you will know, because it will be in the book." She closed the ledger and put the chain through it. "And in the meantime there is a shape in a wall, and four names beside it, and a debt with a review date, and not one single person can use any of it. That is what we have. I did not want it. I am obliged to tell you that I did not want it and that I have read every argument for it twice, and that I am the person who will have to be asked to rule on the license, and I would like it written in the book that I did not want it."
 
-"It is written in the book," said the Concord assessor of strangers, who had been taking notes the entire time and who turned out, over the following four years, to be the most useful clerk Adrian ever met.
+"It is written in the book," said the Concord assessor of strangers, who had been taking notes the entire time and had not looked up once, and whose pen had not stopped moving even while Vail was reading the terms aloud.
 
 Then Owen Park stood up in the aisle.
 
@@ -244,13 +248,19 @@ Nobody laughed, which surprised him.
 
 Vail looked at him for a moment. "Your name?"
 
-"Owen Park. I came through the wall. I was the second one."
+"Owen Park. I came through the wall. I was the second—"
+
+"You were the first," said Mina Okoye, from the front bench, without turning round. "Englishman, tell them."
+
+"You were the first," Adrian said. "I had your collar. You came out through one shoulder and you were shouting about your legs and there was blood in your hair, and you weighed about what I weigh now."
+
+"Right," said Owen Park. "First. Put that in the book, because I will get it wrong again."
 
 "Your statement is entered as *unverified*, by the person named, in his own words, and it stays in the book unverified, and it is not taken out of the book, and it does not become more true because two hundred people have heard it." She dipped the chalk. "There. If it turns out to be real, the book will be the reason anybody believes you. Do you understand that? Not me. The book."
 
 "Yeah," said Owen Park, and sat down, and put his face in his hands for a second, and then took his hands away and looked around the room at two hundred and eleven people who had all just been told, in a cold voice, by a woman with a chain on a ledger, that a thing they had not seen was in the record anyway.
 
-And that, Adrian thought, standing at the front of a salt store with a thin pale trace in the heel of his hand and no mark at all, was the entire difference between this world and his own, and it was already winning.
+And that, Adrian thought, standing at the front of a salt store with a thin pale trace in the heel of his hand and a thin black line under it that nobody else in the building could see, was the entire difference between this world and his own, and it was already winning.
 
 ---
 
@@ -274,7 +284,7 @@ She stood in the rain in front of him and looked at him for a long moment, and A
 
 "I know."
 
-"You do not know yet. You know the shape of it. It is a different thing." She put her hood up. "Dinner is at the loft at seven. Owen's leg is not healing and Mina is angry about it. Bring the notebook, because I want the timeline out loud where the others can hear it, and bring the page with the five items on it, because the first person who is going to try to move the whole of this in one direction instead of five is a member of this room, and it is not going to be a man from the other side of the world."
+"You do not know yet. You know the shape of it. It is a different thing." She put her hood up. "Dinner is at the loft at seven. Owen's scalp is not healing and Mina is angry about it, and she will be angrier, not less, if you come down and tell her it is probably nothing. Bring the notebook, because I want the timeline out loud where the others can hear it, and bring the page with the five items on it, because the first person who is going to try to move the whole of this in one direction instead of five is a member of this room, and it is not going to be a man from the other side of the world."
 
 ---
 

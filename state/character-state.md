@@ -5,7 +5,7 @@ Compact live state for the next batch. Updated after Batch 0001 (Chapters 1–10
 ## Adrian Vale — 32, protagonist
 
 - **Stage 1, Witness.** Perceives the nearest join-line and understands one direct promise at a time. Cannot create a working, open a threshold, or hold a place. **Unbound — no workway, by choice.**
-- **Mark:** spent into the maintenance seam in Chapter 10. A thin pale trace remains in the heel of his palm with a fine unclosed cut along it. No return mark. No way home.
+- **Mark:** spent into the maintenance seam in Chapter 10. A thin pale trace remains in the heel of his palm. Under it, separate from it, is a **thin black line two inches long** that opened in Chapter 8 and has not moved, faded, or gone into the stone — an overload warning, invisible to everyone else, not a return mark. No return mark. No way home.
 - **Seat:** named holder of the pull in the Chapter 10 ledger entry — a recorded duty on a **pending, unusable** instrument, not a License holding.
 - **Debt:** a season of the bottom field, owed to eleven villages and the Reed margin, enforceable, reviewable on the last day of the salt month.
 - **Body:** two days without real sleep. Cut hand from the Chapter 2 iron spike that has not been mentioned since and should not have healed. Left ear still ringing from the Chapter 9 failure. Ninety seconds of blindness after trying to take a working off five people.
@@ -37,8 +37,8 @@ Compact live state for the next batch. Updated after Batch 0001 (Chapters 1–10
 ## Priya Shah — 24, first public record
 
 - **Injuries:** forearm gash, four stitches with a sewing needle and boiling water.
-- **Pressure:** her phone has no bars and its clock stopped at 11:52. She narrates into it anyway and logs refusals — Jonah's gatekeeper offer, Vail's terms, Adrian's refusal of the false prompt. Fear: that the whole thing was a bit and she made people laugh and now somebody is dead.
-- **Nothing has been published.** When something is, the people in it become public.
+- **Pressure:** her phone has no bars and its clock stopped at 11:52. She narrates into it anyway and logs refusals — Jonah's gatekeeper offer, Vail's terms, Adrian's refusal of the false prompt, and Owen's offer on the relic question. She also wrote the six names and six fears Adrian asked for in Chapter 5, and that sheet went up on the loft wall in Chapter 6 in public. Fear: that the whole thing was a bit and she made people laugh and now somebody is dead.
+- **The record has left the room.** Nothing was *published* in the sense she means, but the names are on a wall above a market where any passer-by can read them, and she says so out loud before anyone else does. Do not write her as unaware of this.
 
 ## Jonah Pike — 42, the colonial mirror
 
@@ -55,10 +55,11 @@ Compact live state for the next batch. Updated after Batch 0001 (Chapters 1–10
 
 ## Owen Park — 36, security contractor
 
-- **Injuries:** cut scalp from the wall. Calm, organized, and dangerous.
+- **Injuries:** cut scalp from the wall, from the moment he came through it. He is the **first** of the six out, and the room corrects him on it in Chapter 10 rather than letting a false statement into the ledger. By Chapter 10 the scalp **is not healing** and Mina is angry about it. He has no other lasting injury; his shoulder is reserved for Chapter 25.
 - **Private light:** he alone perceives a relic-shaped light through the damaged wall, coin- or seal-shaped, standing on its edge. It walked away from the wall after the arrival. He has said the word *story* in front of this group and it is in the record. His statement is in the public ledger marked **unverified** and stays there until somebody else sees it.
-- **Pressure:** his instinct is to secure the room and control access, which is the same instinct that put him on the wrong side of Mira's tear in Chapter 9. He has never been wrong in front of a crowd before and is handling it badly.
-- **Planned death, Chapter 38, permanent.** It must carry three causes: Adrian's underestimated crossing cost, the Chapter 25 shoulder no healer could set, and Owen's own refusal to follow instructions. He is alive and unwounded at the end of this batch.
+- **Chapter 6 is his worst chapter and he knows it.** He insists the light can be retrieved before it goes, is called a crank by the room, puts his coat on and walks nearly out of the yard, and only stays because Adrian refuses to tell him the light is not there and instead makes the retrieval **a question the wall's owners get asked in a room with witnesses**. Sesh Brack stops him with the cost of each direction rather than a threat, and sends him to a notary. He put his name on the question, not on the crew, and his offer is in Priya's record. He treats locals as obstacles through accent and phrasing rather than contempt — in Chapter 6 he asks the Hearthguard woman on the top step where the second bay is and it comes out sounding like an instruction.
+- **Pressure:** his instinct is to secure the room and control access, and the same instinct is what put him in the wrong place at the wrong end of the outer tear in Chapter 9. He has never been wrong in front of a crowd before and is handling it badly.
+- **Planned death, Chapter 38, permanent.** It must carry three causes: Adrian's underestimated crossing cost, the Chapter 25 shoulder no healer could set, and Owen's own refusal to follow instructions. He is alive at the end of this batch, with a scalp that will not close.
 
 ## Ivenn Marrow — 41, Quiet Choir's First Reader
 

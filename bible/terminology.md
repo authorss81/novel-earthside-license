@@ -134,6 +134,8 @@ An involuntary threshold produced by a damaged Anchorstone or a failed permissio
 
 A thin precursor to a black scar: a place or person has registered a false promise, overload, or incomplete witness, but the route has not yet torn fully. A black line can be repaired or can deepen into a black scar if the underlying working is repeated or abandoned. That describes the general possibility, not any one line: the chapel stone’s line is **not** repaired in Volume 1, and a line that has never been used to carry anyone has nothing spent on it.
 
+Two lines are on the page in Volume 1 and they are **different objects**, so never merge them. The chapel stone’s line is a black line *in a place*, opened in Chapter 7 when Adrian made a promise on the arch that Tamsin refused to stand in, and it has never carried a body. Adrian’s is a black line *in a person*, opened in Chapter 8 in the heel of his palm, underneath the cut that ran along the pale fragment-mark when he spent four hours of borrowed join-reading and did not answer the voice. It is an overload warning, not a return mark, and it is exactly the same width in Chapter 10 as it was in Chapter 8. The two behave differently because the work that made them was different, which is the point Vask makes to him: the chapel line can be mended by work and money, and the palm line cannot, because nobody steps over a hand.
+
 ### Black scar
 
 A corrupted join or route caused by forced consent, false promises, overload, or an abandoned working. A scar can close a crossing, displace a road, or mark a person. It is not a moral stain but a physical and political event.
@@ -143,6 +145,18 @@ Scar **where** and scar **in whom** must both be stated. The chapel stone takes 
 ### Quorum
 
 A minimum of independent willing witnesses required for a stable regional permission. The exact number changes with the working; the License never declares a universal number because context matters.
+
+### Socket
+
+A join that has been **closed on purpose** and has left behind the shape a door would go in. Vask introduces the word in Chapter 9 for the maintenance seam the outer tear left in the wall of the channel. A socket is not a door, is not openable, and has no standing of its own; it is the negative of a shape, waiting for a city that may never want a door there. The proof that Adrian's fragment-mark belongs to it is a **proportion**, not a size: the seam is eighteen inches long and three fingers wide, the mark on his palm is the size of a thumbnail, and every branch of the one is in the same ratio as the other, the way a coin fits the die it was struck from. State it that way. Never claim the mark and the seam are the same size.
+
+### Narrow Mark
+
+The name Vail enters in the Chapter 10 ledger for the Chapter 9 maintenance seam once it has been given terms. It is the name of an **instrument**, not of a person and not of a person’s rank, and Adrian is the instrument's named holder while holding no workway and no License. "Narrow" is doing real work in the word: the route carries one named living traveller per opening, needs a fresh inspection before any further use, and has a receiving community that may suspend it. The shape in the wall and the shape of Adrian's mark are the same, which is why both are called the same thing, and the reason Marrow tells him at the end of Chapter 10 that he will be "the narrow mark in the seam". Do not use the term before the Chapter 10 ledger entry, and do not let it drift into meaning a small person.
+
+### Holder of the pull
+
+The local, plain way of saying **holder**, from the bell-rope: the named holder is the person who agreed to pull, and the agreement is the whole of what makes the rope a rope. Sera Vail uses the phrase in the Chapter 10 ledger entry, and Chapter 11 turns on a local explaining what a **seat** is: a holder is the person other people can be angry at when a thing goes wrong, which is why four witnesses exist — they are the ones who have to be angry. A holder of the pull is not a Passage holder, not a Witness, and not a Licence-holder, and the three must stay distinct.
 
 ### Version lock
 

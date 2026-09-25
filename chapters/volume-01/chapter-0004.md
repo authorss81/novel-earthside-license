@@ -64,7 +64,7 @@ Roke gave him a level, unhurried look that lasted long enough to be uncomfortabl
 
 "Then he's right, from where he's standing," Adrian said. "That's fair. I'd say the same thing."
 
-Bray said something from the floor without lifting her hands. Tamsin did not translate it, and did not translate it for four hours, and when Adrian finally understood it days later it turned out to have been a flat refusal about the payment and not about the stranger.
+Bray said something from the floor without lifting her hands. Tamsin did not translate it, and did not translate it for four hours, and by the end of the afternoon Adrian understood that the refusal had been about the payment and not about the stranger, and that she had let him believe otherwise for most of a day because she wanted to see what he would do with it.
 
 ---
 
@@ -120,7 +120,7 @@ They cleared the second bay first. That was a real job: two hours of getting a g
 
 And when the second bay was clear and three of the men under the near gate were swapped for two, and the oath had been said in the yard twice with sixty people standing in the rain, Adrian walked out into the third bay with the chalk in his hand and the pale mark on his palm.
 
-He did not know what happened next. He has described it four different ways in his own head since and the description has got no cleaner.
+He did not know what happened next, and he would turn it over four different ways afterwards without any of them getting cleaner, but at the time all he had was the sound of the water and a piece of chalk.
 
 What happened was that somebody behind him said a word — a short one, ordinary, an instruction — and the two men kneeling on the plank in the second bay said the words they had said a hundred times, and the six men under the gate took a breath together without meaning to.
 

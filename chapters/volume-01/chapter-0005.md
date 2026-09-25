@@ -68,7 +68,7 @@ And there was Owen, flat on the stones, bleeding from a cut in his scalp, absolu
 
 ---
 
-It was Renna Sesh who answered, and she answered by handing her waterskin to Mina Okoye without a word, which told Adrian more about how the morning was going than the previous four hours of argument had.
+It was Renna Ord who answered, and she answered by handing her waterskin to Mina Okoye without a word, which told Adrian more about how the morning was going than the previous four hours of argument had.
 
 Then Mina said something in English to the man in the warehouse vest, and he said, "Kuo, sir. Dante Kuo," and she said "Tamsin's going to love this" to nobody in particular, and he said, "I don't know who that is, ma'am, but I'll take it."
 

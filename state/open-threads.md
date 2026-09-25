@@ -19,8 +19,10 @@ Status after Batch 0001 (Chapters 1–10). A promise becomes active when the pro
 - **The Concord has opened the record on whether a first license may exist in Saltwake, with no hearing date.** This is the batch's unfinished promise. *Active.*
 - **Ivenn's Wayfinder offer is still open, cheap, and pointed at Aurel.** He did not withdraw it and he will not. *Active.*
 - **The displaced Anchorstone under the chapel's yard-side landing is still out of place** and still under a deadline the interface set and did not explain. *Active.*
-- **Owen Park's eventual death, planned for Chapter 38, must be permanent** and must carry Adrian's responsibility, the Chapter 25 shoulder that was never set, and Owen's own choice. He is alive and unwounded at the end of Batch 0001. *Deferred, not open.*
+- **Owen Park's eventual death, planned for Chapter 38, must be permanent** and must carry Adrian's responsibility, the Chapter 25 shoulder that was never set, and Owen's own choice. He is alive at the end of Batch 0001. His only injury so far is the **scalp wound he came through the wall with in Chapter 5**, which Mina has closed and which has stopped healing by Chapter 10; his **shoulder is untouched** and is reserved for Chapter 25. Do not give him a leg, a collapsed lung, or any other lasting injury before Chapter 25. *Deferred, not open.*
+- **Owen's scalp is not healing.** Mina is angry about it in Chapter 10 and Tamsin warns Adrian against calling it nothing. It is not explained in Batch 0001 and is not his Chapter 25 shoulder. *Active, unexplained by authorial choice.*
 - **The black line in the chapel stone is not repaired in Volume 1.** It is on the page, unhealed, and it will keep talking. *Active.*
+- **The black line in Adrian's palm is not repaired in Volume 1** and does not deepen into a black scar in a person; that is Owen's return mark in Chapter 38. It is an overload warning, it is separate from the pale fragment-mark, and it does not go into the stone. *Active.*
 
 ## Relationship and political threads
 
@@ -30,10 +32,10 @@ Status after Batch 0001 (Chapters 1–10). A promise becomes active when the pro
 - **Dante and Adrian disagree about command**, seeded in Chapter 5 and not yet paid out. *Open.*
 - **Jonah's gatekeeper instinct was withdrawn once and named.** He asked what the alternative is. The White Ledger is four volumes away and this is where it starts. *Active, long fuse.*
 - **Noor is building the ledger** that the trial license will inherit. *Active.*
-- **Priya is the group's record-keeper and the batch's most exposed person**, because a private confession becomes public harm. Nothing has been published yet. *Open.*
+- **Priya is the group's record-keeper and the batch's most exposed person**, because a private confession becomes public harm. She has also been narrating into a phone with no signal out loud in a market for hours, and Adrian asked each arrival for their name in Chapter 5, so **the six names and fears went up on the loft wall above the river market in Chapter 6**, in public, under the four rules. That wall, not a spy and not a document, is where the Chapter 11–12 name leak comes from. *Open.*
 - **The Glass Crown's first letters** are due in Chapters 13–20. *Unopened.*
 - **The Brass Measure and the brass man** Jonah warned about in Chapter 6 are three weeks from mattering. *Foreshadowed.*
-- **Owen alone perceives a relic-shaped light.** His statement is in the public ledger marked unverified. It opens in Chapter 5, narrows in Chapter 8, is entered on the record in Chapter 10, and must stay open. *Active, unexplained by authorial choice.*
+- **Owen alone perceives a relic-shaped light.** His statement is in the public ledger marked unverified. It opens in Chapter 5, is argued out of him in Chapter 6, narrows in Chapter 8, is entered on the record in Chapter 10, and must stay open. In Chapter 6 Adrian makes the retrieval **a question the people who own the wall get asked in a room with witnesses**, and sends Owen to a notary rather than to a rope; Owen put his name on the question and offered, and that offer is in Priya's record. *Active, unexplained by authorial choice.*
 
 ## Intentionally unresolved at bootstrap
 
