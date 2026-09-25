@@ -267,3 +267,34 @@ These are additions to the sections above, not replacements, and they are bindin
 6. **A document that is internally consistent and can only be checked by one person is not a record.** Sera Vail and Priya Shah, Chapter 28, independently. When accounts of the same thing disagree, enter the disagreements side by side with names on and reconcile nothing. The plural principle's first visible act in the series is a notary refusing to do her job.
 7. **The interface's later constructions are the same shape.** **Three prompts in this batch, in Chapters 24, 27 and 29** — and **Chapter 22 carries none**, its four clauses being the Reed Reach's term sheet, a document. Every prompt is true, and every one places the cost in the grammatical position where a cost goes. Adrian has now read the *shape* of an offer rather than its content, which is the standing test the Bible requires and the thing the Choir is counting on. Do not let him pass one.
 8. **The message channel is two-way and it cannot be stopped.** On the twenty-fifth day the chapel stone said twelve words of English in front of about three hundred and ten people, and not one word of it was understood by anybody in that yard except one man. It is the only time the stone has carried anything but the old form of the maintenance oath. The chapel stone is still the voice's only home; the main breach still does not speak; and a channel that is audible in public cannot be closed by anybody, which is the batch's answer to the question of whether the voice can be controlled. It cannot.
+
+## Terms established in Volume 01 Chapters 31–40
+
+These are on the page in Chapters 31–40 and are binding from Chapter 31 onward. Do not use them before the chapter that establishes them.
+
+### A description is not a place
+A rule from the twenty-fourth day, turned against its author on the thirty-seventh. A site named in a document by **what has been written about it** — *a dressed joint, described in the words of the mason and the anchorwright, entered in this book and not named* — may be true of more than one place, and this city has two dressed joints, and the second crossing of Volume 1 went to the one that had never been named. Use it whenever a local document identifies a site by description and a later writer needs the reader to feel the difference between the two.
+
+### A silence in a yard is not a refusal
+A third thing, and this city does not have a word for it. Entered by Sera Vail on the tenth day of the new month about the holder of the pull: *a silence entered in a yard is not a refusal and is not a consent, and is a third thing, and this city does not have a word for the third thing and has had four hundred years and could not be bothered.* The phrase is Vail's and is in the ledger.
+
+### A man with a shoulder is a man who is not available
+Adrian's, in a notebook, on the thirty-sixth, in nine words, after a day on which nobody in a city of eleven hundred people asked a man with an unset shoulder to do anything and he was so relieved he did not look at it. **Availability is the resource this city has been quietly redistributing for a month** and it is the resource the whole batch turns on. Use it in a local mouth only if the local would say it; in Adrian's mouth it is a designer's sentence about a man's body and that is the point.
+
+### A record is not a fence
+Nell Bray, docker, in a yard of about two hundred and ten people, on the fortieth day, against the holder of the pull and against a Hearthguard of nineteen years. A record tells you afterwards. A fence is there before. Entered as a statement of error against two things said in the same yard. **It is the volume's thesis in nine words and the next ten chapters have to answer it.**
+
+### a man's name on a floor
+Ottoline Vask's fourth line, written in chalk under a rule her own keeper put on her own board at a man's request, on the thirty-seventh day: **it is a rule and it is a man's name on a floor.** It is the local phrase for the keeper's rule *the ground under this yard does not begin without Owen Park*, and it came off on the Sunday. It is the exact opposite of a *seat* and it is the failure mode of every rule this book has made about people, and it is a phrase and not an epigram.
+
+### A record is not a finding
+Priya Shah's use of the standing clause of Adrian's own form, in a hall of about three hundred and fifty on the thirty-ninth, and the reason the entry of a death in the Concord's book is four pages long. A record obliges somebody to answer it and obliges nobody to believe it, and it is not a finding and it cannot be used as one, and therefore nobody may write *he died because*. Never call a statement of error a challenge, a complaint, an appeal or an objection in a Veyran character's mouth — that rule still holds — and note that a *finding* is a new word in this world and it is an English one and it is used by a woman from another world about her own document.
+
+### The Reach's fourth line
+Ilda Marsh's, forced through on the twenty-third day at the meeting-ground at Verrow over about nine days, and **exercised on the thirty-sixth by the woman who wrote it.** A village may refuse the standing charge, and on a village's refusal the whole of the charge returns to the private debtor. Hessa Ruun warned on the twenty-third that a concession is a document a Crown scholar reads and that a village which has refused twice can be brought to a meeting-ground about a bill; both halves of that came true in nine days, and the bill was brought against the man, not the village. The whole of the Reed Reach's season is now on a man from another world with no money, and the door is shut, and both of those are correct.
+
+### Nineteen
+A number nobody put on a board. On the fortieth day, in a market, four versions in six mouths: arrivals; stones on the upper road with writing nobody living can read; graves; and people who are going to go down. **The fourth is the one a city acts on.** Nineteen stones and eleven graves and eight of them without a name stone is Roke's and Sabra Vint's and is now a page in the book: nineteen of the shapes are the same and eight are not, and the eight are further down the road, and they are in a different order.
+
+### The last column
+The tide table in the lower gallery has one word in it for every tide of the salt year and the word is *works* or it is blank. Whoever holds the chalk that day writes it. **The word against the thirty-third is *works*, written on a Saturday morning by a docker with a barrow, in a hand that is neither his nor a clerk's, and the *k* is pressed too hard, and nobody has asked her what she decided.** The next tide is the forty-third day, a Tuesday, and its box is empty. The last act of Volume 1 is not going to be Adrian's and the book says so out loud.
