@@ -4,7 +4,7 @@ It is a three-hour walk down the Reed Reach road and Adrian made it twice on the
 
 Wenna Cray was forty-one and had a face like a shut door and had lost a year of a field she had not yet finished losing, and by the third mile she had stopped being a complainant and started being the most competent person Adrian had spoken to since he arrived.
 
-That is what happened to the argument. He had spent nine days carrying a debt and a seat and a queue, and the thing he had expected from this walk was that a farmer would want a number and would be angry that he could not give her one, and instead what happened was that a woman of forty-one from Silt Row took his notebook out of his hands at the second stile, looked at four pages of it, gave it back, and said, in the local language, in a voice with no performance in it whatsoever:
+That is what happened to the argument. He had spent fourteen days carrying a debt and a seat and a queue, and the thing he had expected from this walk was that a farmer would want a number and would be angry that he could not give her one, and instead what happened was that a woman of forty-one from Silt Row took his notebook out of his hands at the second stile, looked at four pages of it, gave it back, and said, in the local language, in a voice with no performance in it whatsoever:
 
 "You have drawn the lock. And the ditch. And nine places where the water is going. And that is very good work, Englishman, and it is about a lock, and my mother did not lose a season to a lock."
 
@@ -58,7 +58,7 @@ Elsa Skell put her stick down against a wall.
 
 Elsa Skell waited.
 
-"I asked you a month ago and nobody has given me an answer and I am going to ask you now and then I am going to go and plant." She put her hand flat on the wall of her own gate. "How many measures of winter grain am I to put in?"
+"I asked the meeting-ground a month ago and nobody has given me an answer and I am going to ask you now and then I am going to go and plant." She put her hand flat on the wall of her own gate. "How many measures of winter grain am I to put in?"
 
 Adrian opened the notebook and shut it again.
 
@@ -84,7 +84,7 @@ They were about a mile back up the Reach road when Adrian asked Tamsin to stop, 
 
 "Say what you saw."
 
-"Not a join. A gradient. It is not damage, it is not a *break* anywhere, and it is not the man in the join doing the oath, because that is up at the lock and this is four miles away. It is the *effect* of that, still running, still running, ten days after it should have stopped when the tear closed." He wiped his face. "Elsa Skell is right that the ditch is level. And she is right that the water is being told what to do. And the water is being told, and there is no man out here at all. It is not being done. It is *habit*. Whatever has been standing in that join has been spending the reach for nine days and it did not stop when we shut the door, and it is not going to stop, and the level in her ditches is the *shadow*, not the working."
+"Not a join. A gradient. It is not damage, it is not a *break* anywhere, and it is not the man in the join doing the oath, because that is up at the lock and this is four miles away. It is the *effect* of that, still running, still running, fourteen days after it should have stopped when the tear closed." He wiped his face. "Elsa Skell is right that the ditch is level. And she is right that the water is being told what to do. And the water is being told, and there is no man out here at all. It is not being done. It is *habit*. Whatever has been standing in that join has been spending the reach for fourteen days and it did not stop when we shut the door, and it is not going to stop, and the level in her ditches is the *shadow*, not the working."
 
 "And the field?"
 
@@ -94,7 +94,7 @@ They were about a mile back up the Reach road when Adrian asked Tamsin to stop, 
 
 "The debt is going up, and Vail wrote down that I owed a season, and in eight days on the last day of the salt month I am going to stand in front of the same two hundred people and answer three questions about a thing I have been told is a fixed amount, and the fixed amount was fixed the morning after the second tide, when it was smallest." He put his hand flat on the post again, uselessly. "So it is not a fine. If it were a fine I would spend it. It is a relationship. I have to go and be a person in a village eight days from now and *continue* to be one, and that is a different thing and I do not have a procedure for it and I have not written one down."
 
-He looked for the pale field. There was nothing. Not in the air by the road, not in the ditch, not in the flat grey light of a wet afternoon four miles from a lock. Nine days, and the wall had said nothing in the yard, nothing on the walk-round, nothing on the walk out here, and Adrian had begun to understand that the messages came out of *places* — the yard, the hall, the seam, a walk-round in the rain, the wall of a chandlery on a wet Saturday, and the one place they had never come from was the gate itself, which was the place he most wanted one — and that it had never once followed him into a field, and that he did not know what that meant, and that he was writing it down anyway.
+He looked for the pale field. There was nothing. Not in the air by the road, not in the ditch, not in the flat grey light of a wet afternoon four miles from a lock. The last time the thing had said anything at all was on the Saturday night before last, in a room two floors above a market, and since then it had said nothing in the yard on the Sunday, or the Monday, or the Tuesday, or the Wednesday, nothing on the walk-round, nothing on the walk out here, and Adrian had begun to understand that the messages came out of *places* — the yard, the hall, the seam, a walk-round in the rain, the wall of a chandlery on a wet Saturday, and the one place they had never come from was the gate itself, which was the place he most wanted one — and that it had never once followed him into a field, and that he did not know what that meant, and that he was writing it down anyway.
 
 ---
 
@@ -104,11 +104,11 @@ They came over a rise onto a flat lane above the lock where the road passes a ro
 
 Wenna Cray came back to him looking like a woman who has been handed something heavy.
 
-"That is a miller," she said. "Her name is Orla Senn and she has a mill on the upper channel and she has been walking down this lane twice a day for nine days, in the dark, before the market opens, with a barrow, and she has been leaving four sacks of flour at the second gate at Silt Row. Not for the village. For the field. She is putting it on the ditch banks. In the rain. At four in the morning."
+"That is a miller," she said. "Her name is Orla Senn and she has a mill on the upper channel and she has been walking down this lane twice a day since the water came up, in the dark, before the market opens, with a barrow, and she has been leaving four sacks of flour at the second gate at Silt Row. Not for the village. For the field. She is putting it on the ditch banks. In the rain. At four in the morning."
 
 "For the field."
 
-"For the field," said Wenna Cray. "Because the drowned shoots have been going back under and there is nothing in that field to hold the banks, and the banks are the only thing that stops the whole flat going into the second ditch, and she has been putting flour on the banks for nine days, and she has not told anybody, and she has told nobody because if she tells the market then the market will bring the field a whole council and ask for a gate."
+"For the field," said Wenna Cray. "Because the drowned shoots have been going back under and there is nothing in that field to hold the banks, and the banks are the only thing that stops the whole flat going into the second ditch, and she has been putting flour on the banks for the fifteen days since the water came up over the ditch, and she has not told anybody, and she has told nobody because if she tells the market then the market will bring the field a whole council and ask for a gate."
 
 ---
 
@@ -134,6 +134,6 @@ And on the Friday morning, at six, Owen Park had gone down to the bottom field o
 
 "Mm."
 
-"That is the whole of what I have learned in ten days," Adrian said, "and it is the opposite of what I came here to do, and I would like it written down in a place where I cannot lose it, and I would like somebody to be a witness, and I am not going to ask, and Tamsin, you have been doing this since I got here and you are the only person in this world who has ever once written down a prediction made for a reason and then made me live inside it, and if I ever get the chance to take a chair, the first thing I do with the chair is put a column in it that nobody can check, and the first person I put in it is you."
+"That is the whole of what I have learned in seventeen days," Adrian said, "and it is the opposite of what I came here to do, and I would like it written down in a place where I cannot lose it, and I would like somebody to be a witness, and I am not going to ask, and Tamsin, you have been doing this since I got here and you are the only person in this world who has ever once written down a prediction made for a reason and then made me live inside it, and if I ever get the chance to take a chair, the first thing I do with the chair is put a column in it that nobody can check, and the first person I put in it is you."
 
 "You can put me in it now," said Tamsin, in English, in the dark, on a road above a lock. "I have been in it since that Thursday morning. Go to bed. The salt month ends in eight days and there is a woman in Corrow who is going to decide on that day how much of her life to put into the ground, and in eight days you are going to stand in front of two hundred people and answer three questions about a number that has been growing every hour since the morning after the second tide, and the only reason you will be able to stand there is that about eleven people in this city, four of them from the loft and the other seven I could not name if you asked me, and several of whom will never find out what you said about them, are walking out onto a flat field in the dark and putting sacks of flour on the banks of a ditch that nobody ordered them to."

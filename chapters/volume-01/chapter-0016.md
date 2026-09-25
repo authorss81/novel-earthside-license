@@ -14,7 +14,7 @@ Ivenn Marrow came at eight and was the last one in and the best-dressed and he h
 
 "Go on," said Mina.
 
-"Nine days ago a man showed me a shape with three facts in it and no cost. I said no. I have spent every day since then telling people I said no because the offer was cheap, and I have found out in the last two days that I said no for a reason I did not have, which means that for eight days I have been *right by accident*, and I do not want to be right by accident again." He put his hands flat on the table. "So tonight I want to say out loud, in a room, in front of people who are not me, exactly what a workway is and exactly what it costs, and then I want every one of you to be asked, separately, in your own words, whether you would take it, and I am not going to say anything in between."
+"Ten days ago a man showed me a shape with three facts in it and no cost. I said no. I have spent every day since then telling people I said no because the offer was cheap, and I have found out in the last two days that I said no for a reason I did not have, which means that for eight days I have been *right by accident*, and I do not want to be right by accident again." He put his hands flat on the table. "So tonight I want to say out loud, in a room, in front of people who are not me, exactly what a workway is and exactly what it costs, and then I want every one of you to be asked, separately, in your own words, whether you would take it, and I am not going to say anything in between."
 
 "That is an unusual meeting," said Marrow, pleasantly.
 
@@ -46,7 +46,7 @@ Marrow looked at him for about two seconds, and then he took the slate off his k
 
 "The cost is worth paying. I want to say that clearly, because I have just spent four minutes making it sound expensive and I do not want a man in a room to think I have made it expensive so that he will not buy it. It is expensive. It is also the cheapest thing in this building, and I have been a Crown Law scholar for nineteen years and I have watched a great many good decisions made by men who were ruined by waiting for a cheaper one.
 
-"Vale, you have been in this city ten days. In ten days you have a debt, a seat, a queue, a landlord, a doctor who does not speak your language, and a hole in a floor you cannot read, and none of it will still be true in a year. A workway is the one thing on offer in this world that does not expire. It is the one thing that a man of Aurel cannot take off you, because it is not a Crown permission and it is not in a Crown roll, and in four years' time when you are a name in somebody's argument about who owns a bridge, the one thing that will still be standing is the shape you have agreed to carry." He folded his hands. "And the second half, and I am sorry to say it to a man who has not asked me for it: you have no standing to refuse this on behalf of the six."
+"Vale, you have been in this city eleven days. In eleven days you have a debt, a seat, a queue, a landlord, a doctor who does not speak your language, and a hole in a floor you cannot read, and none of it will still be true in a year. A workway is the one thing on offer in this world that does not expire. It is the one thing that a man of Aurel cannot take off you, because it is not a Crown permission and it is not in a Crown roll, and in four years' time when you are a name in somebody's argument about who owns a bridge, the one thing that will still be standing is the shape you have agreed to carry." He folded his hands. "And the second half, and I am sorry to say it to a man who has not asked me for it: you have no standing to refuse this on behalf of the six."
 
 "They were not in the room when you made the offer," Adrian said.
 
@@ -82,13 +82,13 @@ Priya Shah went third, and she refused in about eleven seconds, which is the fas
 
 Mina Okoye went fourth, and said the thing Adrian had not chosen, and the thing nobody in the room had chosen, and it was that she was in favour.
 
-"I want to say it out loud so that it is not a surprise in a bad week," she said, in English, flatly, looking at Adrian. "I think you should take it. And I want to be careful, because I know what I sound like and I have spent nine days being the woman in this room who says the hard sentence, and I am not saying this because I like you."
+"I want to say it out loud so that it is not a surprise in a bad week," she said, in English, flatly, looking at Adrian. "I think you should take it. And I want to be careful, because I know what I sound like and I have spent eleven days being the woman in this room who says the hard sentence, and I am not saying this because I like you."
 
 "Say it."
 
-"You are the only person alive in this city who can see where a floor stops being a floor, and you said it yourself this morning in a yard, and you said it like a man apologising for a tool, and it is not a small thing and it is the only thing any of us has got, and in six weeks somebody is going to ask you to stand somewhere and say whether it is safe, and there will be no other person in Saltwake who has done this before and knows less about the consequences." She put her hands down. "And the offer is a duty. A duty with a shape. I have spent nine days watching what happens to people with no shape: Priya has six names on a wall, Jonah has a good coat, Adrian has a seat he did not want, and Owen has a light in a wall that only he can see and no authority whatsoever to go and look at it. Every one of you is a man with a piece of nobody's job. And the second somebody asks you to do something this city cannot pay for, the thing that will decide it is not the road. It is that you will have no *obligation* to refuse, because nobody in Saltwake is owed anything by you, and a man with nothing owed to him can always be talked round, and I have watched a woman talk a man round in about eleven minutes in a room in this city by saying his own name." She said, "That is the whole of my case, and it is a bad case, and I would like it in the book in my words and not summarised."
+"You are the only person alive in this city who can see where a floor stops being a floor, and you said it yourself this morning in a yard, and you said it like a man apologising for a tool, and it is not a small thing and it is the only thing any of us has got, and in six weeks somebody is going to ask you to stand somewhere and say whether it is safe, and there will be no other person in Saltwake who has done this before and knows less about the consequences." She put her hands down. "And the offer is a duty. A duty with a shape. I have spent eleven days watching what happens to people with no shape: Priya has six names on a wall, Jonah has a good coat, Adrian has a seat he did not want, and Owen has a light in a wall that only he can see and no authority whatsoever to go and look at it. Every one of you is a man with a piece of nobody's job. And the second somebody asks you to do something this city cannot pay for, the thing that will decide it is not the road. It is that you will have no *obligation* to refuse, because nobody in Saltwake is owed anything by you, and a man with nothing owed to him can always be talked round, and I have watched a woman talk a man round in about eleven minutes in a room in this city by saying his own name." She said, "That is the whole of my case, and it is a bad case, and I would like it in the book in my words and not summarised."
 
-Dante Kuo went fifth and said no for a reason that made Renna Ord, in the corner, laugh out loud for the only time in eight days.
+Dante Kuo went fifth and said no for a reason that made Renna Ord, in the corner, laugh out loud for the only time in eleven days.
 
 "No," he said. "Because a duty with a shape is a thing everybody can see, and when it goes wrong everybody is going to look for the shape and not for the man. I have been in a warehouse for twenty-two years and I know exactly what that is like and I have watched a guy die because he had a title." He flexed the strapped arm, carefully, the way a man does a thing that is not going to be right for a while. "If I do a job and I do it wrong, then it is me. And I know the man, and so does everybody here. That is the only safety anybody has ever actually had."
 
@@ -98,7 +98,7 @@ Owen Park went last, and he was the one who had to be got up, and he stood up, a
 
 "Nothing in this room has ever seen the light," said Adrian.
 
-"Nothing in this room has ever seen the light, and Hesper Saye has had the back of my head open with tweezers in front of nine people and looked me in the eye, and it is not a trick, and it is not the sun, and I have stopped arguing about it." He turned round and looked at the north wall of the room, which was the wall with the plaster on it, and which was four feet from where he was standing. "If I take a workway that reads roads, then the next time I see a light behind a wall I will not know whether I am *seeing* it or whether I am *doing* it. And that is the only thing I have got that no one else has, and I have been carrying it around for eight days feeling like a crank, and the second I get a permission that makes me an instrument then I will never be able to find out whether I am still the only one who can see it or whether I have simply been given the ability to see it. And I would rather be wrong on my own for the rest of my life than be right because of a machine."
+"Nothing in this room has ever seen the light, and Hesper Saye has had the back of my head open with tweezers in front of nine people and looked me in the eye, and it is not a trick, and it is not the sun, and I have stopped arguing about it." He turned round and looked at the north wall of the room, which was the wall with the plaster on it, and which was four feet from where he was standing. "If I take a workway that reads roads, then the next time I see a light behind a wall I will not know whether I am *seeing* it or whether I am *doing* it. And that is the only thing I have got that no one else has, and I have been carrying it around for eleven days feeling like a crank, and the second I get a permission that makes me an instrument then I will never be able to find out whether I am still the only one who can see it or whether I have simply been given the ability to see it. And I would rather be wrong on my own for the rest of my life than be right because of a machine."
 
 He sat down.
 
@@ -126,7 +126,7 @@ The second was the fourth line, and it took him the longest. *The cost of the st
 
 The third thing was the last line.
 
-It said *it is not yet accepted*. Not *it has been refused*. Not *the offer was declined and recorded*. Nine days and the thing had no memory whatever of a refusal, and he had spent nine days building his entire understanding of this world on the assumption that a permission was a thing with a state, and there was no state in it. There was an offer, and there was a man, and there was a place for a yes, and the no did not go anywhere because there was nowhere for it to go.
+It said *it is not yet accepted*. Not *it has been refused*. Not *the offer was declined and recorded*. Ten days and the thing had no memory whatever of a refusal, and he had spent ten days building his entire understanding of this world on the assumption that a permission was a thing with a state, and there was no state in it. There was an offer, and there was a man, and there was a place for a yes, and the no did not go anywhere because there was nowhere for it to go.
 
 He wrote that down afterwards and it is the single most frightening line in his notebook for the whole of his first month, and he never found out what it meant.
 
@@ -146,7 +146,7 @@ Nyla Ferrow, from the wall, said one word in the local language.
 
 Then Vask came in, and it was nine o'clock, and she had come for the safe line.
 
-"Right," she said. "Since it is settled and there are people here. On the day, before the bar goes in, I want the line. I want the safest run from the north wall of the void out to the north jamb, and I want it said out loud while three masons are standing on it, because that is the last thing I do before I open a floor, and I would like to do it the way it was done in this yard this morning rather than the way it was done on a wall in the rain eight days ago with a hundred and fifty people watching."
+"Right," she said. "Since it is settled and there are people here. On the day, before the bar goes in, I want the line. I want the safest run from the north wall of the void out to the north jamb, and I want it said out loud while three masons are standing on it, because that is the last thing I do before I open a floor, and I would like to do it the way it was done in this yard this morning rather than the way it was done on a wall in the rain nine days ago with a hundred and fifty people watching."
 
 "I cannot do it," Adrian said.
 
@@ -154,7 +154,7 @@ Vask stopped.
 
 "Say that again."
 
-"I can see the edge of it and I can tell you where the edge is," Adrian said, "and I have been right three times in a row now, and I have been wrong once, on Thursday, on the walk-round, in front of five men, and I did the wrong one by trying to take it off them. That was eight days ago and I have not got any better since and I have got worse, because I am now the man in the seat, and the seat is going to be in every conversation I have for the rest of the year. If I do your line for you this week I will do it for you in March, and in March I will be a man who has done it four times and cannot stop, and there is no version of that in which anybody is safer." He held her eye. "Get Renna. Get your masons. Renna Ord reads ground for a living and has done it since she was eleven and she will not have any of this on her at all."
+"I can see the edge of it and I can tell you where the edge is," Adrian said, "and I have been right three times in a row now, and I have been wrong once, on the Thursday of the second tide, on the walk-round, in front of five men, and I did the wrong one by trying to take it off them. That was nine days ago and I have not got any better since and I have got worse, because I am now the man in the seat, and the seat is going to be in every conversation I have for the rest of the year. If I do your line for you this week I will do it for you in March, and in March I will be a man who has done it four times and cannot stop, and there is no version of that in which anybody is safer." He held her eye. "Get Renna. Get your masons. Renna Ord reads ground for a living and has done it since she was eleven and she will not have any of this on her at all."
 
 Ottoline Vask looked at him for a long moment, and then she said, "That is the first time in thirty-four years a man has told me no in order to leave me a better man for the job," and went out into the stair, and Adrian found that he had wanted Renna Ord to say something and she was not there, and that this was correct, and that wanting it was the whole of his problem.
 
@@ -164,9 +164,9 @@ The refusal was entered in three places. Two of them that night, and the third o
 
 Nyla Ferrow wrote it on the keeper's board in chalk, in her own hand, with a witness line, and read it out loud in the room before she turned the board round, and then said, "I will send this to the Concord with the arch's own book, and the clerk will copy it, and the clerk will not have any choice, because it comes in a book from a keeper and a keeper's word does not need a reason." She looked at Adrian. "And I want you to know that a keeper's board is not a public roll, and that is the only way I can give you this, so I am telling you what I am and what I am not."
 
-The Monday entry was the roll of strangers, which goes to Aurel four times a year with everything the Concord knows about anybody in this city who is not from it, and which he had found out about in this hall four days ago, and Adrian had worked all of that out about four days ago, standing in this hall, while a clerk wrote the first line of it:
+The Monday entry was the roll of strangers, which goes to Aurel four times a year with everything the Concord knows about anybody in this city who is not from it, and which he had found out about in this hall eight days ago, and Adrian had worked all of that out about eight days ago, standing in this hall, while a clerk wrote the first line of it:
 
-> **Adrian Vale. Unbound. No workway of any kind. The Wayfinder profile was offered on the second day and again on the eleventh, and refused twice. The refusals were witnessed and recorded, and the second was recorded in his own words and not summarised by a notary.**
+> **Adrian Vale. Unbound. No workway of any kind. The Wayfinder profile was offered on the second day and again on the twelfth, and refused twice. The refusals were witnessed and recorded, and the second was recorded in his own words and not summarised by a notary.**
 
 "You understand what that is," said Marrow, from a bench at the back, with his hat on his knee.
 
@@ -180,7 +180,7 @@ The Monday entry was the roll of strangers, which goes to Aurel four times a yea
 
 ---
 
-Marrow's coat was on and he was at the door when he stopped and came back and did the one thing he had not done for nine days.
+And on the Saturday night, before any of that, when the room had been down to three people and it was half past ten, Marrow's coat was on and he was at the door when he stopped and came back and did the one thing he had not done for a fortnight.
 
 He asked the keeper for the chalk.
 
@@ -199,9 +199,11 @@ He wrote it on the board under the keeper's five words, in a small, very neat ha
 
 "Yes," said Marrow. "And I would like it noticed that I did it in a room, in front of six people, on a wall, and not in a letter to a clerk. If I had written it in a letter, it would have been a rumour by Thursday, and there is a man in this city who would have made it a rumour on purpose, and he would have been entitled to, because I would have given him something better than a rumour to work with."
 
-"You have had me in a room for three hours and you have made me read out the cost of a thing I have been selling," he said. "So here is the part I have not said to anybody, including the anchorwright, and I am saying it to you at one in the morning in a room with the wind shut out because it cannot be said at noon.
+"You have had me in a room for three hours and you have made me read out the cost of a thing I have been selling," he said. "So here is the part I have not said to anybody, including the anchorwright, and I am saying it to you at half past ten at night in a room with the wind shut out because it cannot be said at noon.
 
-"I do not want the workway so that there is one author of the record. I have wanted that since 1994 and it has never once got me anywhere, and I have been wrong about it for a very long time and I did not know I was wrong until I watched a man with a notebook refuse a thing eight times in eight days for reasons that are all *administrative*."
+Marrow turned the slate over and put it under his chair, out of sight, which was the first thing he had done all evening that was not for an audience.
+
+"I do not want the workway so that there is one author of the record. I have wanted that since I was twenty-two years old in Aurel and it has never once got me anywhere, and I have been wrong about it for a very long time and I did not know I was wrong until I watched a man with a notebook refuse a thing eight times in eight days for reasons that are all *administrative*."
 
 "Then why," Adrian said.
 

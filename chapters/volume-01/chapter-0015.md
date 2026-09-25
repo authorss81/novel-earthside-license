@@ -66,13 +66,13 @@ Not bigger. Not brighter. Different in the way a familiar face is different when
 
 It stood there for eleven seconds and Adrian counted, because counting was the only thing he had.
 
-Then it went, and he felt the specific physical nausea of a man who has been offered the one thing he has wanted for three weeks in a form shaped like the absence of the thing, and who has noticed, about four seconds too late, that the last line is not a consolation. It is a *price tag*. Six offers in three weeks, and every one of them had a *shape* in it and a place for a yes in it and nothing whatever in it for a no. Five of the six had mentioned a road. All five had mentioned it as a caution. This time it appeared in the grammar position that a threat occupies, and Adrian could hear the sentence around it: *you want to know which boundary the water is using, and here is the last time anybody will mention the word road in connection with you.*
+Then it went, and he felt the specific physical nausea of a man who has been offered the one thing he has wanted for eleven days in a form shaped like the absence of the thing, and who has noticed, about four seconds too late, that the last line is not a consolation. It is a *price tag*. Six offers in eleven days, and every one of them had a *shape* in it and a place for a yes in it and nothing whatever in it for a no. Five of the six had mentioned a road. All five had mentioned it as a caution. This time it appeared in the grammar position that a threat occupies, and Adrian could hear the sentence around it: *you want to know which boundary the water is using, and here is the last time anybody will mention the word road in connection with you.*
 
 And the thing it had offered was the most valuable thing anybody had offered him since Tuesday, and Adrian understood within about nine seconds exactly what it had left out, and it took him until half past nine that morning, standing in a hole with his hand on a bar, to be able to say it out loud.
 
 It would have told him, and told nobody else.
 
-That is the whole of the offer and it took him four seconds to see. There is no page. There is no second pair of eyes, and no chalk, and no witness, and no argument that anybody can make afterward. A thing the wall shows the holder is a thing the holder is the only record of, and a man who is the only record of a river boundary in a city with eleven villages and a Reed margin downstream of it is not a witness. He is a singleton, and Adrian had learned what a singleton was in front of two hundred and eleven people two days earlier, and he had learned it by failing at it.
+That is the whole of the offer and it took him four seconds to see. There is no page. There is no second pair of eyes, and no chalk, and no witness, and no argument that anybody can make afterward. A thing the wall shows the holder is a thing the holder is the only record of, and a man who is the only record of a river boundary in a city with eleven villages and a Reed margin downstream of it is not a witness. He is a singleton, and Adrian had learned what a singleton was in front of two hundred and eleven people eight days earlier, and he had learned it by failing at it.
 
 He did not tell them at seven in the morning. He wrote it in the notebook on the bar, in the mud, with a stub of chalk from Ovin's pocket, and he wrote:
 
@@ -80,7 +80,7 @@ He did not tell them at seven in the morning. He wrote it in the notebook on the
 
 And then, underneath, in smaller writing:
 
-*Six days. Five offers. Every one of them is a way of making me the only person in the room who can see.*
+*Eleven days. Six offers. Every one of them is a way of making me the only person in the room who can see.*
 
 ---
 
@@ -104,7 +104,7 @@ Tamsin read the table out in the yard at half past nine, and she had brought it,
 
 "I keep a copy of it," she said, "because my name is on it, and I have read every line of it, and I have read it every year since I was twenty-two, and I have never once read it out loud in a yard, and I am doing it now because on Wednesday evening a man from Aurel told a room that a stone under this chapel is out of its place, and I have discovered that the man from Aurel is the first person in six years to put a *what if* in front of that table, and I would like to explain the table."
 
-She had a single sheet, folded into eight, soft along the folds from twenty-two years of being carried in a coat.
+She had a single sheet, folded into eight, soft along the folds from seven years of being carried in a coat.
 
 "It is a table of every attempt this city has made to move the old river boundary," she said. "That is what it is. It is not a history. It is a *list of failures*, and there are eleven lines, and the columns are: the year; who proposed it; what the proposal was; what the new boundary would have done to the water; and who paid."
 
@@ -122,7 +122,7 @@ She turned the sheet round.
 
 "And Ivenn's route said *find it and bring it back before the next tide*."
 
-"His route was true in every particular," said Tamsin. "There is a stone. It is under this chapel. It is out of its place. It is four steps left of the yard at the foot of the yard-side landing. It is dry, and it has been dry for a long time, and it holds the shape of a boundary instead of holding water. Every single part of that is correct and I have been able to confirm every single part of it in nine days, and Vask has confirmed the last of it twice." She folded the sheet over her arm. "The one part that is not in his route, and the only part that matters, is that he did not say *bring it back*."
+"His route was true in every particular," said Tamsin. "There is a stone. It is under this chapel. It is out of its place. It is four steps left of the yard at the foot of the yard-side landing. It is dry, and it has been dry for a long time, and it holds the shape of a boundary instead of holding water. Every single part of that is correct and I have been able to confirm every single part of it in eleven days, and Vask has confirmed the last of it twice." She folded the sheet over her arm. "The one part that is not in his route, and the only part that matters, is that he did not say *bring it back*."
 
 "He said it on Wednesday. I have it written down."
 
@@ -200,7 +200,7 @@ They put him in the hole.
 
 That was the last item of the morning and Adrian had not expected it and never forgot it. Ovin Sarr, who was nineteen, came off the walk-round at ten minutes past one and said that if a man was going to stand in a void under a floor then the man who could see where the void stopped would be the man they would ask, and Roke said yes, and Nyla Ferrow said *no*, and then said yes, and the yes came with a condition, which was that Vask held the ladder herself and nobody else touched the rope.
 
-He went down on a rope at half past one with a lantern tied to his belt and Vask on the ladder above him, in a void two feet across at the top and a foot and a half at his shoulders, and he put his right hand flat on the north wall of it, and blood came out of his nose about forty seconds later, warm, and went down the front of his shirt into the dark, exactly as it had gone down the front of a shirt in a stone room under a river four days after he came out of a wall, and he was glad of it in a way that would have appalled him in a different week.
+He went down on a rope at half past one with a lantern tied to his belt and Vask on the ladder above him, in a void two feet across at the top and a foot and a half at his shoulders, and he put his right hand flat on the north wall of it, and blood came out of his nose about forty seconds later, warm, and went down the front of his shirt into the dark, exactly as it had gone down the front of a shirt in a stone room under a river on his first day, and he was glad of it in a way that would have appalled him in a different week.
 
 There was no join.
 
@@ -210,10 +210,10 @@ That was the thing he had to say afterwards, and he said it in the yard, in fron
 
 "Can you find out where it is safe to stand?" Vask said.
 
-"I can find out where the *edge* is. And I can tell you where the edge is three times in a row now, and I was right three times, and the fourth time I did it I was wrong in a way that put me on the floor in front of five men on a walk-round, and that was on Thursday, and it was eight days ago, and I was wrong in public and I have not been right in a better way since." He came up the ladder on shaking arms. "I am a lamp. I am not a road. I can show a mason where to put a hand. I cannot tell anybody where a floor stops being a floor, and if anybody in this city wants a man to tell them where a floor stops being a floor, I am the wrong man, and I have been the wrong man since Tuesday and I did not know it until this morning."
+"I can find out where the *edge* is. And I can tell you where the edge is three times in a row now, and I was right three times, and the fourth time I did it I was wrong in a way that put me on the floor in front of five men on a walk-round, and that was on the Thursday of the second tide, and it was nine days ago, and I was wrong in public and I have not been right in a better way since." He came up the ladder on shaking arms. "I am a lamp. I am not a road. I can show a mason where to put a hand. I cannot tell anybody where a floor stops being a floor, and if anybody in this city wants a man to tell them where a floor stops being a floor, I am the wrong man, and I have been the wrong man since Tuesday and I did not know it until this morning."
 
 Ottoline Vask looked at him for a moment, and then said, in the local language, "Good," and Tamsin translated it as *that is the first thing you have said this month that I am going to be able to use in a book* — and then, before Adrian had worked out what that meant, she sent him out of the yard, on the grounds that he had been in a hole and the hole was finished and there was no reason on earth for a man with blood on his shirt to be standing in front of thirty people while she chalked a board.
 
 Adrian wrote it in the notebook that night, at the top of a clean page, and the last line of the page was the one he did not cross out:
 
-*Ten days. It is not a rescue and it is not a door, and the man who wrote line four is the only person I have met in this world who is frightened of the correct thing, and I have a feeling I am going to be frightened of the correct thing for a long time.*
+*The twelfth day. It is not a rescue and it is not a door, and the man who wrote line four is the only person I have met in this world who is frightened of the correct thing, and I have a feeling I am going to be frightened of the correct thing for a long time.*

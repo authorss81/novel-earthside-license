@@ -1,6 +1,6 @@
 # Batch 0003 — Chapters 21–30: "The Black Scar"
 
-Write **Chapters 21 through 30** into `chapters/volume-01/` as `chapter-0021.md` through `chapter-0030.md`, in order, as complete finished scenes. Natural prose. No outlines, no summaries standing in for scenes, no meta commentary. Ordinary chapters run 2,200–3,200 words; longer is fine for a complete scene, shorter is fine for a compact reversal. Never pad.
+Write **Chapters 21 through 30** into `chapters/volume-01/` as `chapter-0021.md` through `chapter-0030.md`, in order, as complete finished scenes. Natural prose. No outlines, no summaries standing in for scenes, no meta commentary. Ordinary chapters run **3,300–6,500 words**. Batch 0002 came in at 3,300–6,500 with a mean near 5,000, and that length is what the voice needs: these scenes are built out of work, arithmetic and dialogue, and a chapter cut short of 3,000 usually means a scene has been summarised instead of written. Never pad.
 
 ## Read first
 
@@ -21,7 +21,7 @@ This batch has **no card file**. The chapter cards below are the brief and they 
 
 ## Where the story is
 
-Six days to the last day of the salt month, which is the field review, which is also the day Marrow's chalk expires. Nine days to the next tide. Twelve days to the Concord hearing on whether a first license may exist in Saltwake. The main breach is three inches wider than the night Adrian woke on the stones and it is *stepping* — four steps, all of them on days the lock did unusual work, which means the city's ordinary maintenance is the mechanism and the only known remedy is a flood. The ground under the chapel is boarded, and a nine-foot dressed joint four feet down is dry, and it runs under the river bank where nobody has ever dug. Adrian is a Witness with no workway, a seat on a formally unrecognised instrument, an enforceable debt that is still growing, and a post: for as long as the ground is open, the ground does not open without him.
+**Chapter 21 opens on day 20**, the day after the dig stopped. Six days to the last day of the salt month — day 25, which is the field review and also the day Marrow's chalk expires. Nine days to the next tide, which is day 28. Twelve days to the Concord hearing on whether a first license may exist in Saltwake, which is day 31. The full authoritative day table is in `state/continuity.md`; derive every new date from it, and see the calendar rule below. The main breach is three inches wider than the night Adrian woke on the stones and it is *stepping* — four steps, all of them on days the lock did unusual work, which means the city's ordinary maintenance is the mechanism and the only known remedy is a flood. The ground under the chapel is boarded, and a nine-foot dressed joint four feet down is dry, and it runs under the river bank where nobody has ever dug. Adrian is a Witness with no workway, a seat on a formally unrecognised instrument, an enforceable debt that is still growing, and a post: for as long as the ground is open, the ground does not open without him.
 
 Seven people. A nine-year-old who follows Owen at six feet. A woman of sixty with nine years of paper about nineteen stones. A keeper whose fifth word has turned out to be a word the voice is using. A mason who is frightened of the correct thing. A man in a good coat whose chalk is on a board and whose complicity must stay plausible and unproven.
 
@@ -31,16 +31,34 @@ Turn the post into a season, and the hearing into a real political fight with so
 
 ## Hard constraints — carry these from Batch 0002 unchanged
 
-- **System messages: at most one per chapter.** A message is a pale field in Adrian's environment, in plain language, in obligations rather than mechanics. It never rewards good behaviour. Ivenn's prompts are the batch's designed danger: attractive, partly true, and missing a social cost. Do not let the narration repeat a prompt's claim as fact. Chapters where nothing needs a message should carry none. Note that the interface has been silent for six chapters, it has no memory of a refusal, and it has never once come out of the main breach — its silences are usable.
-- **Adrian never performs a working.** He reads and marks. Locals work. In Chapters 15 and 20 he was refused entry to the hole in public and put four feet back; keep that posture and do not let a new power quietly dissolve it.
+- **System messages: at most one per chapter.** A message is a pale field in Adrian's environment, in plain language, in obligations rather than mechanics. It never rewards good behaviour. Ivenn's prompts are the batch's designed danger: attractive, partly true, and missing a social cost. Do not let the narration repeat a prompt's claim as fact. Chapters where nothing needs a message should carry none. **Batch 0002 carried four, in Chapters 11, 12, 15 and 16, and nothing in 13, 14 or 17–20**, so the interface has now been silent for four chapters. It has no memory of a refusal and it has never once come out of the main breach; its silences are usable.
+- **Adrian never performs a working.** He reads and marks. Locals work. In Chapter 20 Vask refused him in front of thirty people and the keeper put him four feet back from the hole; in Chapter 16 he refused *her* request for a safe line. Keep that posture and do not let a new power quietly dissolve it.
 - **Adrian stays Unbound.** Marrow's chalked offer expires on the last day of the salt month. He does not take it. He says out loud, in a room, that he is staying Unbound and why. He collects no templates. He also does not collect a return mark.
 - **No crowd ever crosses.** One named person per opening, one opening at a time, a fresh inspection before reuse, and a receiving community that can suspend. **If no return mark exists, no one travels at all** — and at the start of this batch no return mark exists for anyone, so the first person to travel requires a separate, expensive, witnessed act to establish one, and that act is a plot event with a cost and a date.
 - **Nobody dies in this batch.** Owen Park's Chapter 38 death is the volume's only death and it must arrive intact and permanent. No respawn, no return, no inheritance of a mark. He is hurt, he is exposed, and he does not die. Keep his shoulder untouched until Chapter 25, where it breaks.
-- **Do not have anyone state that this is a game.** The premise half is still deferred. Adrian's own vocabulary may slip — status display, quest, respawn, tutorial, a chair — and the slip is the point, but the cohort and the narration must not assert it, and no Veyran may be called an NPC. The newly arrived group in Chapter 25 is the first place the mistaken-belief premise may begin to surface **in the arrivals' own mouths only**; a Veyran reacting to them is not the same as the Veyrans believing it, and Adrian must find it unbearable and be right to.
+- **Do not have anyone state that this is a game.** The premise half is still deferred. Adrian's own vocabulary may slip — status display, respawn, tutorial, a chair — and the slip is the point, but the cohort and the narration must not assert it, and no Veyran may be called an NPC. **Note that *quest* is now spent: Jonah Pike said it out loud in Chapter 19, Adrian told him to stop, and it is on his own notebook as the word he has refused. Do not reuse it as a fresh slip.** The newly arrived group in Chapter 25 is the first place the mistaken-belief premise may begin to surface **in the arrivals' own mouths only**; a Veyran reacting to them is not the same as the Veyrans believing it, and Adrian must find it unbearable and be right to.
 - **Keep the five lock sites apart.** The main breach in the gate; the outer tear's maintenance seam (the Narrow Mark) in the outer channel wall; the near gate, the dockers' inner working gate; the chapel-floor hairline seam in the chapel flagstones; the chapel stone, the raised pale threshold slab at the foot of the arch. Nothing happens at two of them.
 - **The voice has one home and it is not the gate.** Since Chapter 7 it has come *out of the black line in the chapel stone*. Its physical source is a man standing in the **lock join** below. The chapel stone is the channel; the lock join is where the working is being done. If a chapter needs the voice, it arrives in the chapel stone. It does not relocate to the main breach, and the main breach does not speak.
 - **The 211 people, the ledger, and the field debt are real.** When a promise has a cost, put the cost in the book.
 - **Marrow stays publicly useful and unaccused.** No scene in this batch may convict him, and none may make him useless either.
+- **The calendar is load-bearing and it is now checked.** Day 1 is the Tuesday Adrian came out of the wall; Chapter 20 ended on **day 19**; this batch runs **day 20 to day 31**, ending on the hearing. A count of days is exact and a rounded figure is a figure of speech: never let a specific number and a weekday disagree, and never let two chapters give the same event two dates. A batch of ten chapters over twelve days has about a day per chapter, so if a card asks for "a week later", work out which day that actually is and put it in the calendar first. The round figures already on the page — "three weeks" in Chapter 19, the "fortnights" in Chapters 15–19 — are figures of speech and may not be used to date anything.
+- **Dante Kuo's arm is a clock.** Saye's rule is eleven days of care. The reduction was day 10, so he stops being careful on **day 21** and the shoulder goes about **day 31**. Neither has happened yet; Chapter 25 is the volume's own injury and belongs to **Owen's** shoulder, which is still untouched.
+
+### Recommended day map — put these in the notebook before you write, and keep them
+
+| Day | Weekday | Chapter | Fixed point |
+|---|---|---|---|
+| 20 | Sunday | 21 | The day after the dig stopped |
+| 21 | Monday | 21/22 | Dante stops being careful with the arm. The Reach is asked for a person |
+| 22–23 | Tue–Wed | 22, 23 | The Commons wants Owen, not Adrian. The unverified man |
+| 24 | Thursday | 23/24 | The excavation; the black scar in a place is found |
+| **25** | **Friday** | 24/25 | **The last day of the salt month: the field review and Marrow's chalk expires.** Chapter 25's working can be on this day or the day after — the injury is in a bystander who reaches for a missing child, and the *scar in a place* must be a fact before the hearing |
+| 26–27 | Sat–Sun | 26, 27 | The second cohort. The list. The missing child |
+| **28** | **Monday** | 27/28 | **The next tide.** The first narrow opening |
+| 29–30 | Tue–Wed | 28, 29 | The child found; the list answered |
+| **31** | **Thursday** | 30 | **The hearing, three days after the tide** |
+
+If a card's stated duration does not fit this table, the table wins and the card's duration moves. Six days separate the review from the hearing and that gap is the batch's engine, so protect it.
 
 ## Chapter cards
 

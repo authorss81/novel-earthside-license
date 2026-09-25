@@ -12,7 +12,7 @@ Ninety people is not a hearing. Ninety people is a queue for something, and Adri
 
 ---
 
-Marek Osley had brought eleven people and a written argument, and the written argument was better than anything Adrian had heard in nine days from anybody who was not paid to write.
+Marek Osley had brought eleven people and a written argument, and the written argument was better than anything Adrian had heard in twelve days from anybody who was not paid to write.
 
 He got to the front without pushing, because he was a man of forty-eight with a waxed tablet and the specific authority of somebody holding a piece of paper, and he read from it, and he read it well.
 
@@ -48,19 +48,19 @@ Nobody answered him, and Adrian understood that in about nine days' time somebod
 
 ---
 
-The nine households of Nine Elms sent Ilda Marsh and Petra Oake, and Ilda Marsh was seventy and had wet reed-grass in the hem of her coat on the second consecutive day, and Petra Oake was thirty-one and had walked up from the Reach in the rain and had not been a part of the Chapter 10 reading and now said the sentence that Tamsin had told Adrian about in the rain on the Friday morning, eleven days ago, in almost those words.
+The nine households of Nine Elms sent Ilda Marsh and Petra Oake, and Ilda Marsh was seventy and had wet reed-grass in the hem of her coat on the second consecutive day, and Petra Oake was thirty-one and had walked up from the Reach in the rain and had not been in the room on the Friday morning when their words were read into the book, and now said the sentence that Tamsin had told Adrian about in the rain on that Friday morning, twelve days ago, in almost those words.
 
 "Our refusal was given at a hearing."
 
 Adrian felt Tamsin go very still beside him.
 
-"A hearing is a thing that happens," said Petra Oake, in the local language, and Tamsin translating, and her voice was better than Tamsin's, which was humiliating and fair. "A commitment is a thing that stands. On the Friday morning you read our words into a book and you read them and everybody was pleased, and it has been eleven days, and in eleven days nothing has used the water, so the refusal has cost us nothing, and I would like somebody in this hall to tell me what the difference is between a thing we said once in a room and a thing we have agreed to keep saying, and then I will tell you which of the two we meant."
+"A hearing is a thing that happens," said Petra Oake, in the local language, and Tamsin translating, and her voice was better than Tamsin's, which was humiliating and fair. "A commitment is a thing that stands. On the Friday morning you read our words into a book and you read them and everybody was pleased, and it has been twelve days, and in twelve days nothing has used the water, so the refusal has cost us nothing, and I would like somebody in this hall to tell me what the difference is between a thing we said once in a room and a thing we have agreed to keep saying, and then I will tell you which of the two we meant."
 
 The hall was quiet. The rain did the rest.
 
 "It is the same thing," Adrian started.
 
-"It is not," said Tamsin, in English, to nobody, and then, in the local language, to the hall, with her hands on the rail: "It is not the same thing and she is right, and I told him it would come, and I told him on Friday morning in the rain in about these words and he wrote it in a notebook, and here it is on a Saturday two weeks after he was handed a seat."
+"It is not," said Tamsin, in English, to nobody, and then, in the local language, to the hall, with her hands on the rail: "It is not the same thing and she is right, and I told him it would come, and I told him on Friday morning in the rain in about these words and he wrote it in a notebook, and here it is twelve days after he was handed a seat."
 
 ---
 
@@ -90,13 +90,13 @@ It was not a grand question. He had written it out beforehand and read it out, i
 
 The whole walk-round waited for it.
 
-And Adrian looked for the pale field, because he had looked for it every day for a fortnight, and it was not there. Nothing in the air, nothing at the edge of his vision, no form, no consequence, no choice. He had begun, on Wednesday, to expect it the way you expect a lift, and it did not come, and he found that the not-coming was louder than anything it had ever said, because the field had been in the room on Friday morning and Saturday morning and Monday night, and now nine people were asking it a question in public and it had nothing whatever to say about it.
+And Adrian looked for the pale field, because he had looked for it every day for a fortnight, and it was not there. Nothing in the air, nothing at the edge of his vision, no form, no consequence, no choice. He had begun, on Wednesday, to expect it the way you expect a lift, and it did not come, and he found that the not-coming was louder than anything it had ever said, because the field had been in the room on Friday morning and Saturday morning and Saturday night, and now nine people were asking it a question in public and it had nothing whatever to say about it.
 
 ---
 
-But he had prepared for it, because he had known for eleven days that it was coming, and because he had spent two nights on it, and because he had written and rewritten it in the notebook eleven times and had crossed out nine of the drafts and had deliberately kept all of the crossed-out ones, which is the most Adrian Vale thing he had ever done, and which he noticed himself doing, and which nobody except Tamsin ever noticed.
+But he had prepared for it, because he had known for twelve days that it was coming, and because he had spent two nights on it, and because he had written and rewritten it in the notebook eleven times and had crossed out nine of the drafts and had deliberately kept all of the crossed-out ones, which is the most Adrian Vale thing he had ever done, and which he noticed himself doing, and which nobody except Tamsin ever noticed.
 
-He had written a one-sentence version. He had a good one. It was a *sentence*, it was *true*, and it would have made the whole of the rest of his life in this city simpler, and it would have been the fourteenth thing in three weeks that had been made out of a man wanting a thing to be legible.
+He had written a one-sentence version. He had a good one. It was a *sentence*, it was *true*, and it would have made the whole of the rest of his life in this city simpler, and it would have been the fourteenth thing in sixteen days that had been made out of a man wanting a thing to be legible.
 
 He said it out loud instead, in the local language, slowly, and Vask repeated every third sentence in English for the record, and it took two minutes and eleven seconds and it was the worst two minutes of Adrian's month.
 
@@ -112,11 +112,11 @@ He said it out loud instead, in the local language, slowly, and Vask repeated ev
 >
 > It is a way of costing a thing. That is what the last two days have taught me and I did not want to be taught it. It is a place in a book where eleven measures of salt and a season of a field and a day a month of four men's time can be written down with a name against them, in a room, in front of people, so that when something goes wrong there is somebody to be angry at and it is not a mistake.
 >
-> That is all I know. I do not know whether the mark I gave into that wall on the eighth day could have brought anybody home. Nobody will ever be able to tell me, because it is in the stone, and I put it there in front of witnesses, and I could have taken it back, and I did not, and I would like it in the book that I understood at the time that I could have taken it back and I could have got away with it.
+> That is all I know. I do not know whether the mark I gave into that wall on the fourth morning could have brought anybody home. Nobody will ever be able to tell me, because it is in the stone, and I put it there in front of witnesses, and I could have taken it back, and I did not, and I would like it in the book that I understood at the time that I could have taken it back and I could have got away with it.
 >
 > I do not know what it is for. I know that it is not a door, it is not a rescue, it is not a receipt, and it is a seat that a person can be angry at, and I would like to be permitted to keep the seat and to be examined about it for as long as the city wants, and I would like to be asked that question again in a month, and again in a year, and I would like somebody in this hall to write down that the man in the book does not know what the mark is for, in case a man in a good coat ever comes back and tells one of you that it is for the road.
 >
-> That is the whole of my answer and it is not an answer anybody wants. I have been the man in this city for ten days and I have found out one thing and it is that I do not know.
+> That is the whole of my answer and it is not an answer anybody wants. I have been the man in this city for sixteen days and I have found out one thing and it is that I do not know.
 
 ---
 

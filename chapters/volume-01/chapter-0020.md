@@ -2,7 +2,7 @@
 
 The dig began at seven in the morning at the bottom of the tide, and it began with a man saying four words badly in a yard, and the second thing that happened was that it did not work, and Adrian decided afterwards that this was the correct order.
 
-Owen Park had said them every morning for ten days, in the rain, with Vask correcting him, and on this morning Vask did not correct him, because Vask was down the ladder with a lantern and two masons and a bar, and Owen was standing in the middle of a wet yard in front of an arch with a board on the door behind him that had a list on one side and five words on the other, and he said them.
+Owen Park had said them every morning for eight days, in the rain, with Vask correcting him, and on this morning Vask did not correct him, because Vask was down the ladder with a lantern and two masons and a bar, and Owen was standing in the middle of a wet yard in front of an arch with a board on the door behind him that had a list on one side and five words on the other, and he said them.
 
 Nothing happened.
 
@@ -24,11 +24,11 @@ And then, about two seconds after the end of it, he felt something, and it was n
 
 The terms were read out at the north door before anybody put a tool down, in the local language first, by Vask, and in English after, by Adrian, badly, with Tamsin standing behind him to correct him every time he got a preposition wrong, which was six times in eleven minutes and which she counted.
 
-The cut is in the floor, at the hairline in the flagstones, four feet beyond the threshold slab at the foot of the arch — the line that opened in this room on the first morning of the flood and carried water uphill and has been dry and still ever since — and not in the threshold slab itself, which every person in this city steps over and which is not part of this job and which nobody touches.
+The cut is in the floor at the hairline in the flagstones, four feet beyond the threshold slab at the foot of the arch, and not in the threshold slab, which every person in this city steps over and which nobody touches. That line opened in this room on the first morning of the flood and carried water uphill, and it has been dry and still ever since.
 
-The dig stops the moment the void is found, and it does not go further into the void on that day, and the bar goes in no further than Vask's own judgement, and Vask's judgement is not appealable by anybody including the holder of the pull.
+The dig stops the moment the void is found. The bar goes in no further than Vask's own judgement, and Vask's judgement is not appealable by anybody including the holder of the pull.
 
-It is not a rescue. Roke wrote that on his slate on the first day and Ovin Sarr had copied it out, and Roke read it out himself in the yard, in the local language, and then in English, and then said, "That one is mine. I want it said in the hall that that one is mine, because I have been shouting in a yard for eleven days and everybody has been very polite about it."
+It is not a rescue. Roke wrote that on his slate on the first day and Ovin Sarr had copied it out, and Roke read it out himself in the yard, in the local language, and then in English, and then said, "That one is mine. I want it said in the hall that that one is mine, because I have been shouting in a yard for eighteen days and everybody has been very polite about it."
 
 It is not a door.
 
@@ -36,7 +36,7 @@ And the list, which was on the chapel door in Vask's square mason's hand, four i
 
 Dante Kuo, who had come down on the dig crew because a dig is carrying, read item two aloud to a small crowd of about thirty people who had come to watch, and then read item four, and said, "Is that a joke?"
 
-"It is not a joke," said Vask. "It means do not take a voice. It does not mean there is one. I have never heard one and I have read the register of this chapel from the year it was built and it does not appear in it once. It is on the list because I put it on the list, and I put it on the list because I have been in a hole once in this city with three good men and a bar, and we came up with four hours of something in our heads that belonged to somebody else, and it was not a voice, and it was worse than a voice." She shouldered a barrow. "Do not ask me about it. I have four feet to do."
+"It is not a joke," said Vask. "It means do not take a voice. It does not mean there is one, and I have read this chapel's register from the year it was built and it is not in it once. It is on the list because I put it on the list, and I put it on the list because I have been in a hole once in this city with three good men and a bar, and we came up with four hours of something in our heads that belonged to somebody else, and it was not a voice, and it was worse than a voice." She shouldered a barrow. "Do not ask me about it. I have four feet to do."
 
 ---
 
@@ -52,7 +52,7 @@ The water table came up higher than the bar had said it would, and it came up at
 
 And at about eleven, Adrian offered to go down, and Vask said no, and he asked why, and she gave him the answer in a yard in front of thirty people because she had decided in advance that she would give it in public.
 
-"You cannot read it," she said. "I have watched you not read it twice this week. When the masons were holding the arch in the chapel on the second night you could follow a line; when I was under a flagstone a fortnight ago you found the edge of the void in about eleven seconds and could not see one inch past the top of it. There is nothing under this floor to read, Englishman. There is a *room* under this floor, and a room is not a join, and a room does not run anywhere, and the thing you are good at is following things that go somewhere."
+"You cannot read it," she said. "I have watched you not read it twice this week. When the masons were holding the arch in the chapel on the second night you could follow a line; when I was under a flagstone last Saturday you found the edge of the void in about eleven seconds and could not see one inch past the top of it. There is nothing under this floor to read, Englishman. There is a *room* under this floor, and a room is not a join, and a room does not run anywhere, and the thing you are good at is following things that go somewhere."
 
 "I can tell you where the edge of the cut is."
 
@@ -112,7 +112,7 @@ The stone was a face, not a floor. It was dressed, close-grained, grey, and it h
 
 "And the joint," said Renna Ord. "Come and look at the joint."
 
-The joint ran the length of the exposed face, about nine feet, and it was dead straight, and it sat directly under the chapel's own hairline seam in the flagstones four feet above — the hand's-width line that had opened on the first morning of the flood and carried water uphill, and had been dry and still and unmoved ever since. They were the same line. The crack in the floor was the top of a joint nine feet long, and somebody had filled the crack over it with lime and clay and a new flagstone, and had done it well enough that nobody in this room had known for a month that there was anything under the floor at all.
+The joint ran the length of the exposed face, about nine feet, and it was dead straight, and it sat directly under the chapel's own hairline seam in the flagstones four feet above — the hand's-width line that had opened on the first morning of the flood and carried water uphill, and had been dry and still and unmoved ever since. They were the same line. The crack in the floor was the top of a joint nine feet long, and somebody had filled the crack over it with lime and clay and a new flagstone, and had done it well enough that nobody in this room had known for three weeks that there was anything under the floor at all.
 
 The same join. Seen from underneath, from the north end, four feet down, in a wall that ran on under the bank.
 
@@ -140,17 +140,17 @@ It came from Nyla Ferrow, standing in the archway with the board, in front of a 
 
 "The ground under this room is open. It is boarded now and it will be boarded until the flood season, and when the flood season ends it will be opened again, and the flagstones come up, and that is not the end of it, and I am not going to promise anybody it is.
 
-"And here is the price I set a fortnight ago, and it is in the Concord's book in Vail's hand, and I would like it read out, and Quill will read it out." Tamsin read it out. "The binding is done in the yard, twice a day, in the open, in any weather, by whoever is nearest, for as long as the ground is open."
+"And here is the price I set last Saturday, and it is in the Concord's book in Vail's hand, and I would like it read out, and Quill will read it out." Tamsin read it out. "The binding is done in the yard, twice a day, in the open, in any weather, by whoever is nearest, for as long as the ground is open."
 
-"That is done," said Vask. "The boy does it at six. It has been done ten days."
+"That is done," said Vask. "The boy does it at six. It has been eight days."
 
-"Ten days," said Nyla Ferrow. "It will be a season. It will be longer than a season if that wall goes on where it is going. And here is the other half of the price and I am naming it now, in a yard, and I am not naming a man, I am naming a *position*.
+"Eight days," said Nyla Ferrow. "It will be a season. It will be longer than a season if that wall goes on where it is going. And here is the other half of the price and I am naming it now, in a yard, and I am not naming a man, I am naming a *position*.
 
-"The man with a mark in the wall is the reason this yard has a hole in it. That is not an accusation; it is a *fact about the ground*. A mark goes in a stone, and a mark in a stone is a thing you can stand near, and the archwright who would not tell him where to put his feet in this room on the second night is the reason a man is standing four feet back from a hole with a notebook instead of being useful at the bottom of it. And a man whose mark is in the stone of this building is not a visitor to it. And a visitor can leave." She looked at Adrian. "So: for as long as the ground is open, the ground does not open without him. Every beginning. He is here or it does not begin. Not because I want him here and not because he is useful. Because if he goes out of this yard for one day and something happens under this floor, then the next thing anybody says about this floor is that a stranger came out of a wall, put his hand in the stone, and left."
+"The man with a mark in the wall is the reason this yard has a hole in it. That is not an accusation; it is a *fact about the ground*. A mark goes in a stone, and a mark in a stone is a thing you can stand near, and the archwright who would not tell him where to put his feet in this room on Saturday night is the reason a man is standing four feet back from a hole with a notebook instead of being useful at the bottom of it. And a man whose mark is in the stone of this building is not a visitor to it. And a visitor can leave." She looked at Adrian. "So: for as long as the ground is open, the ground does not open without him. Every beginning. He is here or it does not begin. Not because I want him here and not because he is useful. Because if he goes out of this yard for one day and something happens under this floor, then the next thing anybody says about this floor is that a stranger came out of a wall, put his hand in the stone, and left."
 
 "That is a hostage," said Adrian.
 
-"It is a *post," said Nyla Ferrow. "You would know the difference if you had ever held one. A hostage is taken. A post is stood, and there is a difference in it that you cannot see from inside it, and I have been telling you for four weeks that the only thing standing between this room and a room that can be done to is *attendance*, and attendance is a thing you do in a room, in the open, twice a day, and I have been doing it since I was nineteen and my mother did it before me and you may go and look at the register, because it is in there, every morning, for four hundred years, and it is the only line in that book that has never once been in doubt."
+"It is a *post," said Nyla Ferrow. "You would know the difference if you had ever held one. A hostage is taken. A post is stood, and there is a difference in it that you cannot see from inside it, and I have been telling you since the week you came out of that wall that the only thing standing between this room and a room that can be done to is *attendance*, and attendance is a thing you do in a room, in the open, twice a day, and I have been doing it since I was nineteen and my mother did it before me and you may go and look at the register, because it is in there, every morning, for four hundred years, and it is the only line in that book that has never once been in doubt."
 
 He said yes in about a second and a half, and he did it in the local language, which he cannot do properly, and Vask corrected him on the verb and let the rest of it stand.
 
@@ -160,15 +160,15 @@ He said yes in about a second and a half, and he did it in the local language, w
 
 ---
 
-He did not look for the pale field that night, and he noticed that he had not, and he wrote down the date on which he had stopped, because he was the sort of man who would want it later.
+He had not looked for the pale field once that day, and he noticed that he had not, and he wrote down the date on which he had stopped, because he was the sort of man who would want it later.
 
-He had stopped on the second Thursday, in a room above a market, on an evening when Jonah Pike had said the word *quest* out loud on the stair, using it for a thing in a wall, and Adrian had understood in the middle of the sentence that he was the only one in the room who knew what the word was supposed to cost, and that the word had got out of his mouth in a market two days before that and he had not heard it. He had written it out that night, in the flat hand, at the bottom of a page, and had crossed out the two words above it and left this:
+He had stopped on the Friday night, in a room above a market, in the middle of a sentence Jonah Pike was using the word *quest* for a thing in a wall. He had understood in the middle of it that he was the only one in the room who knew what the word was supposed to cost, and that the word had got out of his own mouth in a market on the Wednesday without his hearing it, because the market was forty feet from where he was standing. He had written it out that night, in the flat hand, at the bottom of a page, and had crossed out the two words above it and left this:
 
-*I am not going to use that word again. I have been handed a job with a deadline and no reward and a cost that falls on somebody else, and the word in the language I brought with me for that is the word I am refusing to say, because I have watched, in this yard, this month, what it does to rooms. A man in a good coat has been saying it at me for three weeks with a reward in it. I would rather be given the job and never be asked.*
+*I am not going to use that word again. I have been handed a job with a deadline and no reward and a cost that falls on somebody else, and the word in the language I brought with me for that is the word I am refusing to say, because I have watched, in this yard, this month, what it does to rooms. A man in a good coat has been saying it at me since the night in the chapel, with a reward in it. I would rather be given the job and never be asked.*
 
 ---
 
-At eight o'clock on the Saturday morning Sera Vail came up into the yard with a slate under her arm, and told them the date, and told them what the date was.
+At eight o'clock on the Saturday evening Sera Vail came up into the yard with a slate under her arm, and told them the date, and told them what the date was.
 
 "The Concord has set a hearing on the question it opened on the morning after the second tide. Whether a first license may exist in Saltwake. It is to be heard."
 
@@ -186,19 +186,19 @@ She picked the slate up.
 
 ---
 
-She had gone, and the yard had emptied, and the tide had turned an hour ago, and the rain had stopped, and Adrian sat down on the trestle in the archway, four feet back from a boarded hole, with a notebook, and opened it to a clean page, and wrote at the top of it, in the flat hand:
+She had gone, and the yard had emptied, and the tide had turned hours ago, and the rain had stopped, and Adrian sat down on the trestle in the archway, four feet back from a boarded hole, with a notebook, and opened it to a clean page, and wrote at the top of it, in the flat hand:
 
-*The twenty-first morning. Nothing gained.*
+*The nineteenth morning. Nothing gained.*
 
 *I can still see a line. I cannot read anything under that floor and I was told so in a yard in front of thirty people and the man who told me was right, and I have got a *post* now, which is a season of one man's attention in a place he cannot leave, given by me, in the open, for no money, with no end of it in sight, and I could not buy it and I could not refuse it and I would not have wanted to.*
 
-*I am the holder of the pull of an instrument that has no recognition and cannot be used and has never been used, and I am owed a season of a hundred and forty acres that has been growing about forty times a day since the ninth day, and I am going to be asked about it in public in six days by a woman who has kept a count for twenty-six years and who came up into a yard tonight and told us two dates at once because she is a better administrator than I will be in a year.*
+*I am the holder of the pull of an instrument that has no recognition and cannot be used and has never been used, and I am owed a season of a hundred and forty acres that has been growing about forty times a day since the third day, and I am going to be asked about it in public in six days by a woman who has kept a count for twenty-six years and who came up into a yard tonight and told us two dates at once because she is a better administrator than I will be in a year.*
 
 *The gate is three inches wider than it was when I arrived. The route is empty. I have no road, no return, and no way home, and there is no mark in this world on any living person that would take one home, and that is still the single most important fact in this yard, and there are forty people in it who would trade the whole of what we have argued about for it.*
 
 And then, lower down, in smaller writing, the honest version, which he did not cross out and never did:
 
-*And it may be me. I wrote that on a door in chalk on Saturday morning and I am writing it here again because the difference between writing it for other people and writing it for myself is the whole of what I have left to learn in this world, and I have not learned it, and I have twelve days.*
+*And it may be me. I wrote that on a door in chalk on Friday night and I am writing it here again because the difference between writing it for other people and writing it for myself is the whole of what I have left to learn in this world, and I have not learned it, and I have twelve days.*
 
 *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
 

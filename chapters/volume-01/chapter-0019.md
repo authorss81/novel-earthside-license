@@ -14,13 +14,13 @@ Noor's ledger had a new column with a small square round it, and four names in i
 
 Owen had a lease on two rooms above the chandlery, taken in his own hand because none of them had any standing here, with a landlord's two conditions on it — one of which was to go up the street and ask a market woman whether the roof over her head was the roof being sold, which he had done, and the answer to which he had not yet told anybody about — and a nine-year-old who had decided inside four days that he was the most interesting man in Saltwake and followed him at a distance of about six feet.
 
-And there was a board on the chapel door with Vask's list of what may not come out of the hole on one side and the keeper's four words and the keeper's fifth word in chalk on the other, in letters four inches high, and since the bar had gone in under the north flagstones on the Saturday before last, the binding had been said in the open, in the yard, twice a day, in whatever weather, by whoever was nearest.
+And there was a board on the chapel door with Vask's list of what may not come out of the hole on one side and the keeper's four words and the keeper's fifth word in chalk on the other, in letters four inches high, and since Vask's own bar had gone in under the north flagstones last Saturday and the keeper had set her price over it, the binding had been said in the open, in the yard, twice a day, in whatever weather, by whoever was nearest.
 
 And Owen Park had been saying it.
 
 He had learned the four words over four days from Vask, who corrected him every eight seconds, and he had learned the fifth word — the keeper's word, the one that is not in the oath, the one Nyla Ferrow's mother said every morning for thirty years and which had not been *said* once in four hundred years, only kept — on the sixth day, and Vask had told him to leave it out of it for four more days, and he had obeyed.
 
-Adrian had been woken by it every morning for nine days. Six o'clock, in the rain, a foreign accent reciting four words of a maintenance oath in a dead-flat voice with a mason correcting him, and then Owen, out of breath, saying the fifth one wrong.
+Adrian had been woken by it every morning for seven days. Six o'clock, in the rain, a foreign accent reciting four words of a maintenance oath in a dead-flat voice with a mason correcting him, and then Owen, out of breath, saying the fifth one wrong.
 
 ---
 
@@ -84,7 +84,7 @@ There was no version of it with a correct response attached. Not the record, not
 
 The measurement was good. That was the horror. It was honest, it was twenty nights of his own arithmetic with a folding steel rule and it was the straightest line he had ever drawn, and it said that this city's ordinary work was costing a field an hour at a time, and the only lever in the world was to stop doing the ordinary work, and the only consequence of pulling the lever was a flood.
 
-He wrote one more line, in the flat hand, because he had learned in Chapter 5 of his own life — Wednesday, in the tunnels, with blood coming out of his nose — that a conclusion you have not argued against is a conclusion you have not earned:
+He wrote one more line, in the flat hand, because he had learned on his first day, in four inches of moving water in the lower gallery, with blood coming out of his nose, that a conclusion you have not argued against is a conclusion you have not earned:
 
 *This is unactionable. That is not a reason to keep it to myself. It is a reason to be extremely careful about the first two sentences, because the first two sentences anybody says about this in a market are the ones the man with the lever is frightened of, and they will be: he says the lock is eating the field. He says the lock has to stop.*
 
@@ -126,7 +126,7 @@ The yard did not change. The rain went on being rain. Nyla Ferrow gave a short n
 
 And then, at the fourth hour, from four feet away, out of a raised pale slab of stone that every person in this city steps over every time they come into a chapel to keep a gate, a voice said a sentence in English.
 
-It was not a whisper and it was not loud. It was the volume of somebody talking in a room with a stone ceiling, at a distance of about four feet, and it was the voice Adrian had been hearing at four in the morning for three weeks.
+It was not a whisper and it was not loud. It was the volume of somebody talking in a room with a stone ceiling, at a distance of about four feet, and it was the voice Adrian had been hearing at four in the morning since the second night.
 
 It said one sentence.
 
@@ -138,11 +138,11 @@ Nobody in the yard moved for about six seconds.
 
 Then Nyla Ferrow, from the chapel doorway, in the local language, said four words in a voice Adrian had heard her use exactly twice, and then she said the fifth, and the yard was very quiet.
 
-"It is here," she said, in English, which she spoke badly and did not care about. "It is here. Not the floor. Not the arch. From the stone everybody steps over. It has been there since the seventh day and I have said to it every morning I have stood on it, and I could not hear it, and I did not tell you because I did not think a man from a wall would hear it when a keeper of the room could not."
+"It is here," she said, in English, which she spoke badly and did not care about. "It is here. Not the floor. Not the arch. From the stone everybody steps over. It has been there since the second night and I have said to it every morning I have stood on it, and I could not hear it, and I did not tell you because I did not think a man from a wall would hear it when a keeper of the room could not."
 
 "You knew."
 
-"I knew there was a line in it since the second morning," said Nyla Ferrow, "and I have not been able to hear a thing speak from that stone since I was nineteen years old and my mother was alive, and I did not know that I could not until the second morning, and I have been afraid of it for nine days, and I have not put it in a book because I did not know who to put it in a book for. You are the man in the book. So now it is in a book. That is all that has happened."
+"I knew there was a line in it since the second morning," said Nyla Ferrow, "and I have not been able to hear a thing speak from that stone since I was nineteen years old and my mother was alive, and I did not know that I could not until the second morning, and I have been afraid of it for sixteen days, and I have not put it in a book because I did not know who to put it in a book for. You are the man in the book. So now it is in a book. That is all that has happened."
 
 ---
 
@@ -162,19 +162,41 @@ Jonah Pike stood up out of his chair.
 
 "No one will put that in a log," Priya said, "because if it is in a log then it is a thing we considered, and in a year somebody with a warrant is going to want to know whether we considered it."
 
+---
+
+And then Jonah said the word.
+
+He said it sideways, without looking at anybody, in the voice he used for a thing he had picked up off somebody and had not yet decided was his: "Because I have been sitting in this room for two hours trying to work out what you would call it. And there is no word for it in this language. A thing in a wall, with a cost, and a man in the middle of it, and a room full of people being told what it wants. That is a *quest*."
+
+Adrian's hand stopped on the notebook.
+
+He had not heard the word in anybody else's mouth in eighteen days. He had said it himself, once, in a corridor outside a room in another hemisphere, about a feature that three people had asked for and nobody would own, and he had not told anybody afterwards that he had said it, and he had told himself for eighteen days that the word belonged to a building and not to him — and in the middle of Jonah Pike's sentence he understood two things at the same time, and they were this.
+
+The first was that he had been waiting all day for a pale field to come up and tell him what to do next, and that it had not come on the walk out to Corrow, and that it had not come in the yard at five o'clock, and that it was not going to come now, and that the reason he had been sure it would come now was that a man in this room had just said the word for a thing in a wall.
+
+The second was that he was the only person in the room who knew what the word was supposed to cost.
+
+He did not say any of it. What he said was: "Do not use that word in this room again."
+
+"Why," said Jonah.
+
+"Because I know what it is for," Adrian said, "and it is not for this."
+
+And then he wrote the date at the top of a clean page, because he was the kind of man who would want it later.
+
 Owen Park had not stood up. He had been sitting with his hands flat on the table.
 
-"It is not the lock," he said. "You are all looking at a lock. There is a man in a join. It has been that since the seventh day. Adrian's numbers say the lock is where he does it, and that he is stronger when we work, and that the way to stop him is for all of us to stop. It is not a thing about locks. I have been sitting in this room for two hours and I am the only one who has got the thing none of you are saying."
+"It is not the lock," he said. "You are all looking at a lock. There is a man in a join. It has been that since the first day. Adrian's numbers say the lock is where he does it, and that he is stronger when we work, and that the way to stop him is for all of us to stop. It is not a thing about locks. I have been sitting in this room for two hours and I am the only one who has got the thing none of you are saying."
 
 "Say it."
 
-"It is not the *stone*," Owen said. "It is the words. It is what we say under that gate. The numbers step when the crew is doubled, and the crew gets doubled when there is extra work, and what the crew does under that gate is say the maintenance oath. So the thing that spends the bottom field is not the lock. It is four words that forty men say twice a day to keep a gate shut, and whoever is down there is standing in the middle of them. I do not think he built that. I think he found it, the way we found a hole in a wall." He turned round. "Which means the thing in that join is a man on a *route*, and I have been asking the wrong question since the Tuesday I arrived. I asked it out loud in a market on that Tuesday and Sesh Brack told me the cost of going east, and I went upstairs instead, and I have been upstairs ever since. So: I am not being difficult and I am not being brave. I am saying that if he is on a route then the field is a toll, and if the field is a toll then somebody is being *charged*, and the only question left in this world is by whom, and whether they have agreed to it — and they have not, because I have been in this room for three weeks and I have not seen one single person in it who has agreed to anything."
+"It is not the *stone*," Owen said. "It is the words. It is what we say under that gate. The numbers step when the crew is doubled, and the crew gets doubled when there is extra work, and what the crew does under that gate is say the maintenance oath. So the thing that spends the bottom field is not the lock. It is four words that forty men say twice a day to keep a gate shut, and whoever is down there is standing in the middle of them. I do not think he built that. I think he found it, the way we found a hole in a wall." He turned round. "Which means the thing in that join is a man on a *route*, and I have been asking the wrong question since the Tuesday I arrived. I asked it out loud in a market on that Tuesday and Sesh Brack told me the cost of going east, and I went upstairs instead, and I have been upstairs ever since. So: I am not being difficult and I am not being brave. I am saying that if he is on a route then the field is a toll, and if the field is a toll then somebody is being *charged*, and the only question left in this world is by whom, and whether they have agreed to it — and they have not, because I have been in this room for eighteen days and I have not seen one single person in it who has agreed to anything."
 
 ---
 
 Nobody in the room said the last sentence of the voice for about nine seconds.
 
-Then Owen said, "Read it again," and Adrian read it again, and Priya wrote it out in her own hand, which she had not done for anything since the night of the wall, and then the three of them sat in a cold room and looked at twelve words on a slate.
+Then Owen said, "Read it again," and Adrian read it again, and Priya wrote it out in her own hand, which she had not done for anything since the night of the wall, and then the three of them sat in a cold room and looked at three sentences on a slate.
 
 "That is your sentence," Tamsin said. "That is *your* sentence, Adrian. Not the oath. Not the old form. That is not a phrase out of a city that has been here nine hundred years. That is a man in a room designing a thing he was going to ship."
 
@@ -184,7 +206,7 @@ Then Owen said, "Read it again," and Adrian read it again, and Priya wrote it ou
 
 Adrian put his hand flat on the notebook, the way you do.
 
-"Nearly three months ago, in my time. In a room four floors above a car park in another hemisphere, at about four in the morning, in a document called `ACOA_PERM_LEDGER_LOCAL_ONLY`." He was aware that his voice had gone into the flat register, and he let it. "It is the *only* sentence in that document that is not in the document. It is the sentence underneath the joke underneath the rule. And one Tuesday I argued in a meeting for about forty minutes that a confirmation screen should be permanent in a product that has been cancelled, and I lost the argument, and at four in the morning I wrote that sentence at the bottom of the page in the wrong file, and eight days later I deleted the whole section, and the file has not been opened since before I came here, and it is on a laptop in a locked office in a building that has a door code that changes on Mondays."
+"Nearly three months ago, in my time. In a room four floors above a car park in another hemisphere, in a building called Morrowglass, at about four in the morning, in a document called `ACOA_PERM_LEDGER_LOCAL_ONLY`." He was aware that his voice had gone into the flat register, and he let it. "It is the *only* sentence in that document that is not in the document. It is the sentence underneath the joke underneath the rule. And one Tuesday I argued in a meeting for about forty minutes that a confirmation screen should be permanent in a product that has been cancelled, and I lost the argument, and at four in the morning I wrote that sentence at the bottom of the page in the wrong file, and eight days later I deleted the whole section, and the file has not been opened since before I came here, and it is on a laptop in a locked office in a building that has a door code that changes on Mondays."
 
 "Which means it is not on the laptop," said Noor Haddad, in a very quiet voice, from the end of the table. "Which means it is not anywhere. Which means it did not come from a file, because there is no file."
 
@@ -192,7 +214,7 @@ Adrian put his hand flat on the notebook, the way you do.
 
 "Then where did it come from?"
 
-Adrian looked at his own right hand, at the heel of the palm, at the thin pale ghost of a branching line and, underneath it, two inches of hair-thin black that had not moved in three weeks and that nobody in this room could see and that he was going to feel for the rest of his life.
+Adrian looked at his own right hand, at the heel of the palm, at the thin pale ghost of a branching line and, underneath it, two inches of hair-thin black that had not moved since the second morning, and that had gone paler, and that nobody in this room could see, and that he was going to feel for the rest of his life. He had looked at it every morning since the first week, the way a man checks a lock, and it had never once been a surprise, and he had never once minded it, and that was the part that frightened him.
 
 "From me," he said. "Or from the thing that has been listening to me since Tuesday at twenty to three in the morning, and I do not know which, and I have been constructing a fairly excellent explanation in my head since one o'clock this morning in which the honest answer is that a man in a good coat has been reading my files, and that explanation requires me to be a spy, and I have been gripping it like a rail because I would very much like it to be true."
 
@@ -204,21 +226,21 @@ Nobody said anything.
 
 Adrian said it again. Tamsin wrote it in the local language, in her own hand, on the back of a board, and Nyla Ferrow's son carried it down to the chapel on the Saturday morning and Nyla Ferrow chalked it on the door under Vask's list, on the other side from the four words and the fifth, where anybody who came up into that yard would have to read it before they could get at the rest of it.
 
-And then Adrian went out into the rain and walked up and down the yard for a while with Owen Park, who had come out with him because Owen Park had spent nine days learning four words out loud in the rain and had decided, somewhere around the third of them, that he was not going to be the sort of man who stayed inside.
+And then Adrian went out into the rain and walked up and down the yard for a while with Owen Park, who had come out with him because Owen Park had spent seven days learning four words out loud in the rain and had decided, somewhere around the third of them, that he was not going to be the sort of man who stayed inside.
 
 At about half past ten Adrian said, "I told her first."
 
 "Mina."
 
-"She overruled me eight days ago in front of five people and she was right, and I have spent eight days making a list of everybody I could convince and she was not on the list, and I have known for about a month that I do not actually have a way of telling anything to anybody in this world except people I can already make a plan with, and it turns out that is not a professional skill. It is a *kindness* for me."
+"She overruled me thirteen days ago in front of five people and she was right, and I have spent thirteen days making a list of everybody I could convince and she was not on the list, and I have known for about a month that I do not actually have a way of telling anything to anybody in this world except people I can already make a plan with, and it turns out that is not a professional skill. It is a *kindness* for me."
 
 Owen was quiet for a moment.
 
 "It is not," he said. "It is the only thing you have done in this room that is not a system. And I want you to notice that you have spent three weeks making a rota of six people and you have had one conversation that was not about a rota, and it was the one where you gave somebody the thing you were frightened of before you gave it to the rest of us, and she earned it inside a week, and you have been treating it like a technique ever since."
 
-The rain came down on the yard of a lock chapel at half past ten on a Friday night, and the ground under the north flagstones was a void that had been under there longer than the chapel, and the arch was being promised twice a day by a man from another world, and the main breach in the gate was open and watched and three inches wider than it had been the night I woke up on the stones, and in a cold room two floors above a market a woman was writing twelve words onto a board, and in a yard a woman of sixty was chalking a confession onto a door, and Adrian Vale stood in the rain with a man who could see a light nobody else could see and said the thing he had been not saying for three weeks:
+The rain came down on the yard of a lock chapel at half past ten on a Friday night, and the ground under the north flagstones was a void that had been under there longer than the chapel, and the arch was being promised twice a day by a man from another world, and the main breach in the gate was open and watched and three inches wider than it had been the night he woke up on the stones, and in a cold room two floors above a market a woman was copying three sentences onto the back of a board in a language half of them could not read, and Adrian Vale stood in the rain with a man who could see a light nobody else could see and said the thing he had been not saying since Tuesday:
 
-"It might be me. That is the one I cannot get out from under. There is a man in a join who has been spending a river an hour at a time for three weeks, and I can see a line in a wall that nobody else can see, and I have a black mark in my hand that has not moved in three weeks and that four people have told me is a stone telling me what I am standing on, and it is possible — it is *possible* — that whatever is down there has been getting a running commentary since Tuesday, and that I have been running it myself, and that the voice is not on the other side of anything. It is in the room. It is the room. I have been calling it a voice out of a wall since Tuesday night because that is the sentence that does not have me in it."
+"It might be me. That is the one I cannot get out from under. There is a man in a join who has been spending a river an hour at a time since the first day, and I can see a line in a wall that nobody else can see, and I have a black mark in my hand that has not moved since the second morning and that four people have told me is a stone telling me what I am standing on, and it is possible — it is *possible* — that whatever is down there has been getting a running commentary since Tuesday, and that I have been running it myself, and that the voice is not on the other side of anything. It is in the room. It is the room. I have been calling it a voice out of a wall since Tuesday night because that is the sentence that does not have me in it."
 
 "That is a different thing from everything else you have said tonight," Owen said.
 

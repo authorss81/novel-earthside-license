@@ -227,8 +227,8 @@ The Reed Reach measure of loss, Chapter 18. A household that cannot promise a ga
 
 ### Marrow's chalk
 
-Ivenn Marrow's own hand on the keeper's board, Chapter 16: an open offer of the Wayfinder workway, with the date it stands until, which is the last day of the salt month. An offer with a shape in it is a promise; an offer with no shape in it is a rumour. This is his own method turned against his own product and it is the only document in the batch that is his.
+Ivenn Marrow's own hand on the keeper's board, Chapter 16: an open offer of the Wayfinder workway, made on the second Saturday of the flood and standing until the last day of the salt month, which is day 25. An offer with a shape in it is a promise; an offer with no shape in it is a rumour. This is his own method turned against his own product and it is the only document in the batch that is his.
 
 ### The roll of strangers
 
-The Lantern Concord's quarterly description of everybody in Saltwake who is not from it, sent to Aurel four times a year in a wooden case on a river boat. A public record, in the sense that anyone may ask to read it, and the one document in this volume that a Crown clerk will find without asking a question. Adrian is entered in it as **Unbound** in Chapter 16.
+The Lantern Concord's quarterly description of everybody in Saltwake who is not from it, sent to Aurel four times a year in a wooden case on a river boat. A public record, in the sense that anyone may ask to read it, and the one document in this volume that a Crown clerk will find without asking a question. Adrian is entered in it as **Unbound** in Chapter 16, on the Monday after the second Saturday, in the words *offered on the second day and again on the twelfth, and refused twice* — the two dates agreeing exactly with the chalk on the keeper's board.

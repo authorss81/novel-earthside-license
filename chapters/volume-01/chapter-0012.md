@@ -57,11 +57,13 @@ Nobody answered for a second.
 
 "Then you read it off a wall."
 
-"I read *a bit* of it off a wall. The rules at the top." Sill shifted a sack. "But I did not get the six names off the wall on Thursday, because on Thursday the six names were not on the wall in a way anybody could read, because somebody had put a coat over the bottom half of it. Which I did not think about at the time and I have thought about it since, because the coat was on the bottom half and not the top."
+"I read *a bit* of it off a wall. The rules at the top." Sill shifted a sack. "But I did not get the six names off the wall on Thursday, because on Thursday the six names were not on the wall in a way anybody could read. The man with the blue door had hung a coat over the bottom half of it on Wednesday night, because people kept standing in front of his shutter and he was losing a morning's trade, and he took it off again on Friday when the rain had it wet through and he wanted his shutter back. He told me about it in the yard and laughed about it. I did not think about it at the time. Nobody did. It was a coat."
 
 Adrian stood very still in a salt yard at seven in the morning and understood that he had made an error and that the error was not in a document.
 
 He had spent nine years believing that information moves because somebody carried it. A document moves because somebody carried it. A leak is a person with a reason and an access. It is the first thing you learn about any system you have to secure, and it had been the frame for every decision he had made since Tuesday morning, and it was the wrong frame entirely.
+
+The coat had been a man protecting a shutter. It had had a reason and it had had an access, and it had not moved a single name anywhere, and it was the only thing about that wall that nobody had arranged, including him.
 
 Names move because somebody *read them out*.
 
@@ -123,7 +125,7 @@ Adrian read it twice.
 
 "And Marrow said it was a fraud."
 
-"Marlow said it was a fraud in a room with nine people in it on the Wednesday before last, and he was talking about the *word* in it, the word the clerk used for the light, and the word is a bad word, it is a word a man uses when he has been frightened and wants his money back. That is not a fraud. That is a frightened clerk." Ketch folded his hands. "And he let the room believe the whole of it was a fraud, and I do not think he meant to, and I have thought about it for two days and I still cannot make it come out as an accident."
+"Marrow said it was a fraud in a room with nine people in it on the Wednesday, and he was talking about the *word* in it, the word the clerk used for the light, and the word is a bad word, it is a word a man uses when he has been frightened and wants his money back. That is not a fraud. That is a frightened clerk." Ketch folded his hands. "And he let the room believe the whole of it was a fraud, and I do not think he meant to, and I have been turning it over for three days and I still cannot make it come out as an accident."
 
 ---
 
@@ -167,7 +169,7 @@ He did not take it down.
 
 ---
 
-Mina Okoye overruled him at half past one that afternoon, in the loft, in front of five people, and she was right, and she did it in four sentences, and he has never once been able to reconstruct the argument without the words *and it is worse than that* in it.
+Mina Okoye overruled him at half past one that afternoon, in the loft, in front of the other five, and she was right, and she did it in four sentences, and he has never once been able to reconstruct the argument without the words *and it is worse than that* in it.
 
 "You have been talking about the sheet since seven o'clock as if the problem is the names," Mina said. "The problem is not the names. The names were asked for. Every one of them was asked for by name and gave their name and spelled it, and Adrian wrote the spelling they gave him, and I was there and it was done properly. The problem is the bottom half of that piece of paper, and the bottom half is six fears that six people said out loud on a piece of road in the rain because a man asked them a good question, and nobody was asked whether the answer was for the wall."
 
@@ -197,7 +199,7 @@ It went to a small table in the river market at ten past three, where a man with
 
 Here is the whole of it, as it went up:
 
-> **WHAT IS TRUE, ON SATURDAY THE TWENTIETH DAY OF THE FLOOD, SAID BY THE SIX AND BY THE MAN IN THE SEAT.**
+> **WHAT IS TRUE, ON SATURDAY THE FIFTH DAY OF THE FLOOD, SAID BY THE SIX AND BY THE MAN IN THE SEAT.**
 >
 > Six people came out of a wall in the outer channel of this lock at midday on Tuesday, and a man came out of the same wall at first light the same morning. Nobody asked them. Nobody held the wall. They have no road and no way to send a message and no way home, and they have said so in this market every day since.
 >
@@ -221,7 +223,7 @@ Adrian listened to it twice.
 
 "Then say the true one and I will put it up."
 
-"You cannot. That is the thing you are not seeing. If we say *we have taken a season of your field and we do not have a road home and we are not going to give you one this week*, then that is on a board over a market, and by Monday every man in the Reed Reach knows that the season is gone and that the six who took it have no way to give it back. And on the Tuesday after that, when the inspection happens and the tide turns, somebody in Nine Elms or Corrow is going to use that sentence, and they are going to be right to, and there is not one thing I can say afterwards that will sound like anything other than a man minimising."
+"You cannot. That is the thing you are not seeing. If we say *we have taken a season of your field and we do not have a road home and we are not going to give you one this week*, then that is on a board over a market, and by Monday every man in the Reed Reach knows that the season is gone and that the six who took it have no way to give it back. And on the Saturday after that, when the inspection is to be and the tide turns, somebody in Nine Elms or Corrow is going to use that sentence, and they are going to be right to, and there is not one thing I can say afterwards that will sound like anything other than a man minimising."
 
 Priya looked at the slate for a while.
 
