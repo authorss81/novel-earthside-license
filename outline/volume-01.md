@@ -36,7 +36,7 @@ The first cohort begins to acquire local roles: Mina works with local healers, D
 
 ### Chapters 21–30: The black scar
 
-The quest leads to a chamber beneath the lock chapel. Ivenn’s instructions cause a join-line to overload, and the outer threshold becomes a black scar. People on both sides can hear one another through it, but the crossing can no longer be controlled. Local water pressure drops; a child is missing; Owen insists on forcing the door open and is injured when the route tears.
+The quest leads to a chamber beneath the lock chapel. Ivenn’s instructions cause a join-line to overload, and the outer threshold becomes the first black scar **in a place**. People on both sides can hear one another through it, but the crossing can no longer be controlled. Local water pressure drops; a child is missing; Owen insists on forcing the door open and is injured when the route tears. This is the volume’s scar in the world, not in a person: no one has died yet, and no one has a scar of their own.
 
 Adrian learns that a local oath can stabilize a damaged join only if the people affected understand the cost. Tamsin, Mina, and Adrian argue over whether to sacrifice a private return route to close the scar. Ivenn uses the confusion to promote the idea that only one “correct” version can keep the city safe.
 
@@ -44,7 +44,7 @@ Adrian learns that a local oath can stabilize a damaged join only if the people 
 
 Jonah proposes a settlement deal with the Brass Measure: give the players a secure warehouse, shared equipment, and work rights in exchange for exclusive access to the lock. It is attractive to the frightened cohort and unacceptable to dock workers who will lose their bargaining position. Adrian’s delay allows Jonah to present himself as the only practical leader.
 
-A temporary return mark is established for Owen as part of the volunteer rescue. He returns through the black scar badly hurt, and his condition proves that the crossing can carry disease and injury as well as people. Mina and local healers treat him, but he dies in Chapter 38. The mark breaks into a black scar; it does not resurrect him or transfer to another player. Adrian recognizes that his earlier decision to keep the door open contributed to the danger, without erasing Owen’s own choice to force it.
+A temporary return mark is established for Owen as part of the volunteer rescue. He returns through the black scar badly hurt, and his condition proves that the crossing can carry disease and injury as well as people. Mina and local healers treat him, but he dies in Chapter 38. The mark breaks into the first black scar **in a person** — not the first scar in the story, since the outer threshold is already scarred and the chapel stone has carried a black line since Chapter 7. It is the first scar that ends a life, and the first one another traveler could have tried to inherit. It does not resurrect him or transfer to another player. Adrian recognizes that his earlier decision to keep the door open contributed to the danger, without erasing Owen’s own choice to force it.
 
 ### Chapters 41–47: Choice at the Lock
 
@@ -58,13 +58,18 @@ Ivenn privately offers the third option in a more attractive form. Adrian recogn
 
 ### Chapters 48–50: The trial license
 
-Adrian, Tamsin, Mina, Dante, Noor, Priya, and the Lantern Concord perform a narrow public working. The main breach closes, the black scar remains as a visible scar rather than a hidden secret, and a small two-witness return route is established. The route is not an invitation for unlimited players; it is a trial arrangement reviewed every flood season.
+Adrian, Tamsin, Mina, Dante, Noor, Priya, and the Lantern Concord perform a narrow public working. The main breach closes, the black scar remains as a visible scar rather than a hidden secret, and the Chapter 10 quorum route is re-inspected, narrowed to a two-witness standing route, and given a flood-season review. The route is not an invitation for unlimited players; it is a trial arrangement, and even after the working it carries one named person per opening, only after a return mark is separately established and only after the witnesses sign a fresh inspection.
 
 Owen is buried with his real name and family’s message. The surviving cohort receives shelter, food, and medical care, but no automatic land rights, no class privileges, and no promise that they will all be allowed home. Ivenn remains publicly useful and privately dangerous.
 
 ## Midpoint reversal
 
-At Chapter 25, a later controlled attempt to stabilize the lock succeeds physically but pulls in a second, unrequested group of arrivals. The six-person first cohort has already proven that the License is not a private escape hatch; the later surge shows that even a planned opening can fail. Adrian’s immediate goal changes from “find a way home” to “keep the people who came through with me alive without turning them into a sacrifice for my return.”
+Two failures are deliberately staged in this volume, and they are not the same event.
+
+- **Chapters 4–5, the forced expansion:** Adrian’s *unplanned* repair of the lock widens the breach and drags six strangers through. The door takes people because nobody consented and nobody was holding it. This is the **batch-1 midpoint** and the moment the genre promise changes from one man discovering a world to a group managing an emergency.
+- **Chapter 25, the volume midpoint reversal:** a *deliberate, controlled, locally witnessed* attempt to stabilize the lock succeeds physically and still pulls in a second, unrequested group of arrivals. The six-person first cohort has already proven that the License is not a private escape hatch; the Chapter 25 surge proves that a properly agreed opening can fail too, which is worse news and cannot be fixed by better procedure. Adrian’s immediate goal changes from “find a way home” to "keep the people who came through with me alive without turning them into a sacrifice for my return.”
+
+Chapter 25 must not repeat Chapter 5’s mechanism. In Chapter 5 there are no witnesses and no agreement; in Chapter 25 there is agreement, a quorum, a cost, and a failure anyway.
 
 ## Volume climax
 

@@ -93,12 +93,12 @@ Ivenn is introduced in Volume 1 and remains the final human antagonist. The Firs
 ## Power stages and costs
 
 1. **Unlicensed body:** Adrian can observe and negotiate but has no reliable magic or return. Cost: ordinary injury, language loss, and no second chance.
-2. **Witness:** Adrian can make a join-line visible and understand one direct promise. Cost: headache, sensory bleed, and a duty to the witnessed place.
-3. **Passage holder:** He can open a tiny threshold with willing witnesses and carry one return mark. Cost: reverberation, body strain, and the danger of stranding another person.
+2. **Witness:** Adrian can make a join-line visible and understand one direct promise. Cost: headache, sensory bleed, and a duty to the witnessed place. Earned in Volume 1 Chapter 9, when he accepts a public debt and fails in public to close the tear alone; Chapters 4–5 give him only a provisional reading no local witness granted.
+3. **Passage holder:** He can open a single-holder threshold — one named living traveler per opening — with willing witnesses and carry one return mark. Cost: reverberation, body strain, and the danger of stranding another person.
 4. **Coven steward:** He coordinates several independent anchors and helps others choose a workway. Cost: a remote failure rebounds to him and he must share authority.
 5. **Rule speaker:** He translates and proposes public corrections to Crown Law. Cost: conflicting histories and personal memories enter him.
-6. **Bridgewright:** He works with a regional network and can call a shared emergency crossing. Cost: identity bleed, lost personal return, and dependence on other witnesses.
-7. **First Anchor:** He exposes the version lock and distributes permissions. Cost: permanent loss of solo access, a major memory, and a lasting physical injury.
+6. **Bridgewright:** He works with a regional network and can call a shared emergency crossing. Cost: identity bleed, dependence on other witnesses, and the **spending of his personal return mark**. This is the only time he loses a return mark; from here on he has none of his own, and every crossing in either direction needs other witnesses to carry him.
+7. **First Anchor:** He exposes the version lock and distributes permissions. Cost: permanent loss of solo access, surrender of the recognized seat of first holder, a major memory, and a lasting physical injury. He is not losing a second return mark here — he has had none since the Bridge War.
 8. **Concord keeper:** He has no higher personal power. He can act only through an independent quorum. Cost: surrender of the first-license status that gave him identity and control.
 
 The stages are earned through practice, failure, relationships, and changed decisions. See `bible/power-system.md` for the concrete rules.
@@ -109,8 +109,9 @@ The stages are earned through practice, failure, relationships, and changed deci
 
 - **Central pressure:** A damaged threshold opens at Saltwake. Adrian must survive, stop the breach from widening, and decide whether any controlled crossing is safer than an uncontrolled one.
 - **Immediate promise:** The first ten chapters establish the real world, the first cohort, the no-respawn rule, the first Witness working, and Ivenn’s first altered prompt.
-- **Midpoint reversal:** Adrian’s attempt to stabilize the lock pulls several other Earthside testers through. The System is not a single-player interface, and the locals are not waiting safely outside a tutorial.
-- **Climax:** Owen Park is killed during a bad crossing; a black scar forms. Adrian joins a collective working to close the dangerous main breach, keeps only a narrow quorum route, and publicly accepts responsibility for the next test.
+- **Early escalation (Chapters 4–5):** Adrian’s unplanned repair of the lock widens the breach and drags six other Earthside testers through. Nobody consented and nobody was holding the door, so this is a batch-level forced expansion rather than a failure of procedure. It is the midpoint of Chapters 1–10 only.
+- **Midpoint reversal (Chapter 25):** a *controlled, locally witnessed* attempt to stabilize the lock succeeds physically and still pulls in a second, unrequested group of arrivals. The System is not a single-player interface, the locals are not waiting safely outside a tutorial, and — the worse news — a properly agreed opening can fail too. Do not reuse the Chapter 4–5 mechanism here; there are witnesses and a cost in Chapter 25.
+- **Climax:** Owen Park is killed during a bad crossing and his return mark becomes the first black scar carried in a person — a place-scarred threshold and a black line on the chapel stone came first. Adrian joins a collective working to close the dangerous main breach, keeps only a narrow quorum route, and publicly accepts responsibility for the next test.
 - **Concrete resolution:** Saltwake and the survivors sign a trial license. The first players have shelter, medical care, and a route by which a return mark may be established after review, but no land or template privileges.
 - **Next-volume question:** If the first bridge can be made to work, who gets to decide what the second group is allowed to do?
 
@@ -238,15 +239,15 @@ The stages are earned through practice, failure, relationships, and changed deci
 
 - **Central pressure:** Reconstruction, grief, public truth, and the practical burden of ordinary crossings become the central conflict.
 - **Midpoint:** The first deliberately open, plural crossing causes a dangerous overlap in three towns. Communities vote on whether to close the bridge temporarily.
-- **Climax:** Assemblies on both sides provisionally adopt the **Charter of Two Worlds** and conduct the first plural crossing under that provisional charter. Adrian confesses the game lie, surrenders all solo administrative access, and accepts legal limits. Tamsin, Mina, Nora, and local witnesses authenticate the charter through separate testimony.
-- **Resolution:** The bridge becomes a provisional institution with rotating councils, return rights, inspection, a right to suspend crossings, and no single ruler. The charter must be ratified again after the first test, and residual instability is ordinary work, not a new villain.
+- **Climax:** Assemblies on both sides provisionally adopt the **Charter of Two Worlds** and conduct the first plural crossing under that provisional charter. Adrian makes a **provisional disclosure**: he admits the arrivals were real people and surrenders his *administrative* access to the assemblies, under provisional terms, with Earthside governments still withholding public confirmation and vulnerable travelers still unnamed. Tamsin, Mina, Nora, and local witnesses authenticate the charter through separate testimony. This is a practical and political step, not the final reckoning.
+- **Resolution:** The bridge becomes a provisional institution with rotating councils, return rights, inspection, a right to suspend crossings, and no single ruler. The charter must be ratified again after the first test, and residual instability is ordinary work, not a new villain. The lie is now known to the assemblies and the families, and still officially denied to the public at large — which is the pressure Volume 18 inherits.
 - **Question:** During the first free crossing, can the new institution survive a real emergency without reverting to one hand?
 
 ### Volume 18: The Earthside License (Chapters 851–900)
 
 - **Central pressure:** Ivenn’s residual version lock activates during the first public constitutional crossing. Earth security and Crown remnants attempt to seize the civic seals. The bridge can be stabilized by a single authority or by a quorum of independent witnesses.
 - **Midpoint:** The cost of honesty becomes immediate. Closing the bridge would protect some communities and strand others; keeping it open could allow the last lock to spread. Adrian cannot solve the dilemma with a private command.
-- **Climax:** Adrian convenes the final public witnesses, rejects the Single Witness restoration, and gives up his personal license, return mark, and remaining memory access to distribute the Grammar. Ivenn’s lock breaks when no single version can override the others.
+- **Climax:** Adrian convenes the final public witnesses, rejects the Single Witness restoration, and gives up the recognized seat of first holder and his last hold on the Grammar’s record in order to distribute its permissions. Ivenn’s lock breaks when no single version can override the others. This is the **public reckoning** the Volume 17 disclosure was a rehearsal for: the truth is now stated to both civilizations at once, under a ratified charter, with no sealed-room terms and no provisional caveat.
 - **Concrete resolution:** Both civilizations complete the final ratification of the charter and begin the first charter-governed civilian crossings. The game interface remains as a translation aid but no longer promises quests, classes, rewards, or obedience. Adrian and Tamsin share a life across both worlds, with Nora and Mina holding public oversight from Earth and Veyra.
 - **Final image:** At an ordinary rainy gate, a child asks whether the next travelers are players. Adrian answers that they are people coming home by a road their witnesses agreed to keep open.
 - **Next question:** Not a new enemy. The long question is whether the plural bridge can keep changing without repeating the old demand for one approved history.

@@ -90,7 +90,7 @@ After the Sundering, the device broke into Anchorstones. A hidden order called t
 
 Roughly three centuries ago, a fragment near the Saltwake lock opened a narrow crossing to the other side. A small number of Earthside people crossed without knowing they were entering a real world. Their technology decayed, their language changed, and their stories became the local **Bright Pilgrims** tradition. Later generations described them as divine refugees, ancestors, or monsters depending on the political need.
 
-The present breach occurs when Adrian’s design work intersects with the same damaged Anchorstone and the Choir’s modified bridge. The Earthside interface appears because the ancient device needs a familiar rule-language to make a dangerous crossing survivable. Adrian’s mind supplies the vocabulary of permissions, classes, and quests even though he never consciously created the portal.
+The present breach occurs when Adrian’s design work intersects with the same damaged Anchorstone and the Choir’s modified bridge. The Earthside interface appears because the ancient device needs a familiar rule-language to make a dangerous crossing survivable. Adrian’s mind supplies the vocabulary of permissions, classes, and quests even though he never consciously created the portal. The interface he is answering is a **fragment** of the Grammar rather than a recognized License, which is why it can speak to him before anything on the Veyran side is able to answer back.
 
 The opening is initially unstable. It pulls a limited group of Earthside people, damages local water and memory, and leaves residue that can be felt for miles. The first civil goal is therefore not “reach level ten.” It is to establish who can cross, who must answer for the crossing, and whether the door can be closed without abandoning people already on either side.
 
@@ -130,12 +130,14 @@ No faction is secretly pure. Every group contains people who benefit from the br
 Every controlled threshold has five requirements:
 
 1. A resonant place, such as a lock, boundary shrine, gate, or historically repeated road.
-2. A named Earthside person who accepts the license.
+2. A named Earthside person who is the **recognized holder** of a **recognized License** — a fragment installed in a resonant site and witnessed locally, not merely a person who once accepted a fragment.
 3. At least one willing Veyran witness.
 4. A receiving community that understands and accepts the purpose.
 5. A material cost such as opened salt, repaired stone, food, fuel, medicine, or a shared labor shift.
 
-A **breach** is the failure state: a damaged Anchorstone tears open without a conscious License holder, willing witness, or receiving agreement. The old maintenance oath makes the Lock of Salt a raw resonance, but no living person has consented to the present crossing. A breach can pull an arrival because the rule is broken, which is why it also causes the heaviest immediate residue, memory bleed, and black-line scarring. It is not a valid passage and cannot be treated as a normal route.
+A **breach** is the failure state: a damaged Anchorstone tears open without a resonant site under anyone’s control, a willing Veyran witness, or a receiving agreement. The old maintenance oath makes the Lock of Salt a raw resonance, but no living Veyran has knowingly witnessed or received the crossing. A breach can pull an arrival because the rule is broken, which is why it also causes the heaviest immediate residue, memory bleed, and black-line scarring. It is not a valid passage and cannot be treated as a normal route.
+
+Adrian’s Chapter 1 acceptance does not change this. He knowingly takes a name into an unanchored permission **fragment** and becomes a fragment-bearer, which makes him responsible for his own arrival and for what the fragment then does to other people. Responsibility is not recognition. The moment the fragment stops being unanchored — because a quorum installs it at the lock with witnesses and a receiving community — it becomes a recognized License, and that is a later, earned event in Volume 1.
 
 A controlled crossing can be delayed, narrowed, redirected, or closed by changing any of its requirements. It cannot be forced into existence simply because Adrian wants an item or an escape route.
 

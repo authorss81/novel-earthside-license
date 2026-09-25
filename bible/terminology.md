@@ -14,11 +14,29 @@ The Earthside name for a person who has crossed or been offered a License. The w
 
 ### License
 
-The living permission mark that permits a named traveler to cross between worlds and receive limited translation. It is not a legal certificate issued by Earth and not a game account. The word became Adrian’s translation of the ancient **bond** because his design vocabulary was already shaping the interface.
+The living permission mark that permits a named traveler to cross between worlds and receive limited translation. It is not a legal certificate issued by Earth and not a game account. The word became Adrian’s translation of the ancient **bond** because his design vocabulary was already shaping the interface. “License” in the strict sense means a **recognized License**; see the next three entries before using the word loosely.
+
+### Fragment
+
+A piece of the Grammar’s permission language that has separated from a resonant site. A fragment can take a name, leave a mark on a palm, and pull an arrival toward a damaged site. It cannot open a controlled threshold, cannot be aimed, and cannot be repeated on purpose. Chapter 1’s prompt is a fragment, which is why accepting it is Adrian’s own act and still not a legal crossing.
+
+### Recognized License
+
+A fragment installed in a resonant site, witnessed by at least one willing Veyran, and accepted by a receiving community. A recognized License has a named holder, a cost, a review, and someone able to suspend it. Establishing one is a public act, never a reward.
+
+### Holder
+
+A person recognized *by a recognized License* as its named holder. A **fragment-bearer** is someone who has accepted a fragment without a local witness; Adrian is a fragment-bearer from Chapter 1 until a local quorum gives him standing in Volume 1. Do not call him a holder, a bearer of the License, or a licensed player before that point.
+
+Being a named holder is accountability, not power: it is the person the witnesses will come to when an opening goes wrong, and it carries the duty of inspection. Adrian becomes the named holder of the Volume 1 quorum route in Chapter 10 while he is still only a Witness. **Passage holder** is a different and later thing — the Stage 2 permission to open a threshold himself with two willing local witnesses. Never use the two interchangeably.
 
 ### Threshold
 
 A temporary physical crossing. A threshold has a resonant site, a named holder, willing witnesses, a receiving community, and a cost. It is not a teleportation spell.
+
+### Capacity
+
+How many people one opening may carry, counted per opening and never per crowd. A breach grabs whoever is nearest. A single-holder threshold and a quorum route each carry one named living traveler per opening, and a quorum’s extra witnesses buy durability and legitimacy, not throughput. Only an inspected civic threshold moves a small posted queue, and a regional network moves many people across many separate openings. See the capacity table in `power-system.md`.
 
 ### Return mark
 
@@ -102,7 +120,7 @@ A place where a public rule or labor practice repeats often enough for a thresho
 
 ### Breach
 
-An involuntary threshold produced by a damaged Anchorstone or a failed permission. A breach has a raw resonant site but no conscious License holder, willing witness, or receiving agreement. It can pull people through because the rule is broken, always causes severe reverberation, and must be converted into a controlled threshold or closed. It is not a legal crossing.
+An involuntary threshold produced by a damaged Anchorstone or a failed permission. A breach has a raw resonant site but no site under local control, no willing Veyran witness, and no receiving agreement. It can pull people through because the rule is broken, always causes severe reverberation, and must be converted into a controlled threshold or closed. It is not a legal crossing. A breach is defined by missing local infrastructure, not by the absence of a knowing human: Adrian knowingly accepts a fragment in Chapter 1 and the crossing is still a breach.
 
 ### Black line
 
@@ -111,6 +129,8 @@ A thin precursor to a black scar: a place or person has registered a false promi
 ### Black scar
 
 A corrupted join or route caused by forced consent, false promises, overload, or an abandoned working. A scar can close a crossing, displace a road, or mark a person. It is not a moral stain but a physical and political event.
+
+Scar **where** and scar **in whom** must both be stated. The chapel stone takes a black line in Chapter 7; the outer threshold takes the first black scar **in a place** when Ivenn’s instructions overload the join in the black-scar chapters; Owen’s return mark takes the first black scar **in a person**, which is the first one that kills. Use those phrases rather than saying “the first black scar” on its own.
 
 ### Quorum
 

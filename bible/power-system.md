@@ -44,6 +44,14 @@ The System uses familiar Earthside words because Adrian thinks in those words. V
 
 A **threshold** is a temporary crossing between Earth and Veyra. It is a physical event with social infrastructure, not a personal teleport.
 
+### The three words that must not be blurred
+
+- **Fragment:** a piece of the Grammar’s permission language that has separated from a resonant site. A fragment can take a name, leave a mark on a palm, and pull an arrival toward a damaged site. It has no local anchor, no witness, and no receiving community, so it cannot open a controlled threshold and cannot be aimed, scheduled, or repeated. A fragment is what the first breach is built out of.
+- **Recognized License:** a fragment that has been installed in a resonant site, witnessed by at least one willing Veyran, and accepted by a receiving community. A recognized License is a standing permission with a named holder, a cost, and a review. Only this can hold a route open on purpose.
+- **License holder:** a person recognized *by a recognized License* as its named holder. Accepting a fragment does not make someone a holder. Adrian is a **fragment-bearer** from Chapter 1 until a local quorum gives him standing in Volume 1; the narrator must not call him a holder before that.
+
+The distinction is the moral engine of the opening. Adrian does something real and knowing in Chapter 1 — he accepts a fragment and puts his legal name into it. That makes him responsible for his own arrival. It does not make the crossing legal.
+
 ### Entry conditions
 
 Every **controlled** threshold requires:
@@ -54,11 +62,23 @@ Every **controlled** threshold requires:
 - A receiving community that understands the purpose
 - A material cost such as opened salt, repaired stone, food, fuel, medicine, or a shared labor shift
 
-A **breach** is the exception created by a damaged Anchorstone, not a loophole Adrian can use. It has a raw resonance site and physical material, but no conscious License holder, willing witness, or receiving agreement. A breach may pull an arrival because the rule has failed. It cannot be opened on purpose, it always leaves severe residue, and the first task is to turn it into a controlled threshold or close it.
+A **breach** is the exception created by a damaged Anchorstone, not a loophole Adrian can use. What a breach lacks is not a human intention — it is the local infrastructure. There is no resonant site under anyone’s control, no willing Veyran witness, and no receiving agreement, so a fragment in the breach can only grab at whoever is nearest. A breach can pull an arrival because the rule has failed. It cannot be opened on purpose, it always leaves severe residue, and the first task is to turn it into a controlled threshold or close it.
 
-### Passage limits
+### Passage limits and capacity
 
-The first crossing carries Adrian alone. The first failed expansion carries a small group. Later bridges can carry dozens, but only after physical construction, local consent, and political agreements. A passage is limited by the weakest of its anchors, not by Adrian’s desire.
+Capacity is always counted per opening, never per crowd. The table below is the whole capacity system; any number in the prose must match one of these rows.
+
+| Kind of opening | Who can pass in one opening | How often it can be opened | What raises the number |
+|---|---|---|---|
+| **Breach** (damaged site) | Nobody chooses. It grabs at most the few people nearest the opening, and cannot be aimed. | Once. A breach either tears wider or is closed. | Nothing. This is why it is a catastrophe. |
+| **Single-holder threshold** (Stage 2 onward) | One named living traveler, plus only what that traveler can carry. | Only after a new anchor or a new local agreement; the same route cannot be opened twice in a row by one holder. | A new anchor and new witnesses, which is how Volume 2 improves a route at all. |
+| **Quorum route** (the Volume 1 trial) | One named living traveler per opening, carrying a return mark. | Sequentially, one opening at a time, and only after a fresh inspection of the seam by the witnessing group. | Witness count buys durability and legitimacy, never throughput. Ten witnesses still move one person. |
+| **Inspected civic threshold** (later volumes) | A small queue, set by local inspection and posted publicly, counted as people per opening. | A posted schedule tied to tide, labor shift, and inspection. | Construction, political agreement, and an agreed schedule — the only route that ever moves more than one person at a time. |
+| **Regional network** (Stage 3 onward) | A whole network moves a whole volume’s worth of people **across many separate openings**. A single opening still moves a single opening’s worth. | Whatever the weakest anchor can sustain, which the story shows as a failing network rather than a bigger door. | Independent anchors added by other communities, never by Adrian alone. |
+
+The first crossing carries Adrian alone. The first failed expansion carries six more because the breach is grabbing, not transporting. No opening in the series ever carries a crowd at once; when the story needs dozens of people moving, it shows dozens of inspected openings, a queue, a ledger, and a labor schedule.
+
+A passage is limited by the weakest of its anchors, not by Adrian’s desire.
 
 The following are hard limits:
 
@@ -86,7 +106,7 @@ A passage can be physically successful and socially disastrous. A village may vo
 
 A return mark is a physical and social anchor, not a button labeled “return.” It may be worn as a mark, carried as an iron token, or established through a place-bound ritual. The mark contains the traveler’s chosen identity, not their complete history. Each mark belongs to one named living person; a route never lends its mark to a group. A person without a mark cannot cross through a controlled threshold unless the receiving side first establishes a temporary mark through a public working.
 
-A quorum route carries one living traveler per opening. Passages are sequential, never simultaneous, and each opening requires the witnesses to confirm the traveler’s name, destination, medical condition, and right to refuse. The route can be used again only after a new inspection and local agreement. This limit prevents a single mark from becoming a shared ticket.
+A quorum route carries one named living traveler per opening, and the number of witnesses standing behind it never changes that. Passages are sequential, never simultaneous, and each opening requires the witnesses to confirm the traveler’s name, destination, medical condition, and right to refuse. The route can be used again only after a new inspection and local agreement. This limit prevents a single mark from becoming a shared ticket.
 
 If the receiving side refuses future passage, the mark becomes difficult to use. If the route is broken while open, the named traveler is the person most likely to be stranded; the other travelers are not automatically dragged through. A short written message can be carried through an anchored token, but it consumes the same one-person capacity and is not a safe substitute for a return.
 
@@ -132,13 +152,13 @@ Adrian can see an occasional pale prompt and perceives harsh light in a join whe
 
 Adrian can perceive the nearest join-line, understand one direct Veyran promise at a time, and mark a safe route for himself. He does not create a working; he can only make an existing pattern visible enough for others to act on.
 
-**Earned through:** helping the Lock of Salt during the first flood, accepting a public duty, and failing to solve the problem alone.
+**Earned through:** helping the Lock of Salt during the first flood, accepting a public debt to a place he cannot clear by himself, and failing in front of witnesses to close the outer tear alone. All three must happen. Until the debt and the failure, he has a **provisional join-reading** — he can follow one join-line for as long as somebody else is holding the working, and it leaves a headache and a nosebleed. A provisional reading is not a rank, carries no duty, and cannot be refused by a local witness because it was never granted to him by one.
 
 **Cost:** headaches, sensory bleed, and a responsibility to the place he has witnessed. A black scar can attach to him after a failed working.
 
 ### Stage 2: Passage holder
 
-With two willing local witnesses and a named destination, Adrian can open a one-person threshold or a very small group crossing. He can carry one return mark and one basic workway template. This stage is **not reached at the end of Volume 01**; the first trial route is operated collectively, and Adrian remains a Witness until later practice, local trust, and a failed return earn him the Passage permission.
+With two willing local witnesses and a named destination, Adrian can open a single-holder threshold: one named living traveler per opening, carrying only what that traveler can hold. He can carry one return mark and one basic workway template. This stage is **not reached at the end of Volume 01**; the first trial route is operated collectively, and Adrian remains a Witness until later practice, local trust, and a failed return earn him the Passage permission.
 
 **Earned through:** a later controlled rescue, Tamsin’s and Mina’s trust, and the sacrifice of an easy return route.
 
@@ -168,13 +188,15 @@ Adrian can work with independent bridges, protect a distributed network from a h
 
 **Cost:** he loses his personal return mark and suffers identity bleed. He becomes physically vulnerable when the network fails. His power is relational: the bridge is only as strong as the people willing to keep it open.
 
+This is the **one and only time** Adrian gives up a personal return mark. From this volume onward he has no mark of his own: every time he crosses, in either direction, other witnesses must agree to carry him. Later sacrifices are not repetitions of this one; see Stages 6 and 7.
+
 ### Stage 6: First Anchor
 
 Adrian can expose the First Grammar’s single-authority patch and help distribute its permissions among independent seals. He can stop a forced version lock for a time, but cannot replace the device with a new central control system.
 
 **Earned through:** refusing to reset the First Room, losing the Ivenn contest, and accepting that the old system must be dismantled rather than mastered.
 
-**Cost:** permanent loss of solo access, a significant personal memory, a lasting bodily injury, and the knowledge that the bridge may fail without him. He cannot return to Earth alone.
+**Cost:** permanent loss of solo access, a significant personal memory, a lasting bodily injury, and the knowledge that the bridge may fail without him. He cannot return to Earth alone — and since Stage 5 he could not return alone in any case, because he no longer holds a personal return mark. What he surrenders here is the **recognized seat of first holder**: the standing recognition that lets one name answer for the Grammar’s permissions.
 
 ### Stage 7: Concord keeper
 

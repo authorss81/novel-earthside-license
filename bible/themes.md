@@ -42,7 +42,7 @@ Veyra’s history is vulnerable because records can be altered, but people need 
 
 Every permission creates an obligation. The more a person can affect a place or another person, the more visible their duty becomes. This is true of a local Weaver, a player guild, a Crown official, and Adrian.
 
-**Early expression:** A Warden's strength is tied to protecting a place; Adrian thinks this is inconvenient until he sees a community threatened by a Warden who leaves.
+**Early expression:** A Warden’s strength is tied to protecting a place; Adrian thinks this is inconvenient until he sees a community threatened by a Warden who leaves.
 **Middle expression:** Adrian gives Mina, Dante, Tamsin, and local councils authority over parts of the network, reducing his own convenience.
 **Late expression:** The bridge is saved by many small permissions rather than one heroic command.
 **Ending answer:** Authority should be accepted as service, or it becomes another kind of Crown.

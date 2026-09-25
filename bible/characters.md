@@ -38,11 +38,13 @@ Adrian must stop treating people as the movable parts of a system. He has to acc
 
 ### Arc stages
 
+These are narrative arc labels, not power stages, and “holder” here means responsibility rather than the technical License holder or Passage holder defined in `power-system.md`.
+
 1. **Observer:** Treats Veyra as a test case and the System as a career problem.
 2. **Responsible holder:** Accepts that every opening is a promise with named people attached.
 3. **Political designer:** Learns that a fair rule is useless if only he can interpret it.
 4. **Public witness:** Gives up the private fiction that he can keep the bridge safe by controlling information.
-5. **Relinquishing architect:** Surrenders his sole license and helps create a system that can work without him.
+5. **Relinquishing architect:** Surrenders the recognized seat of first holder and helps create a system that can work without him. His personal return mark is already gone by this point, spent in Volume 16.
 
 ### Relationships
 
@@ -174,7 +176,7 @@ Celia is not a fantasy monarch. She works through risk assessments, contracts, s
 ## 11. First-cohort support and consequences
 
 - **Noor Haddad**, 27, a bakery owner and logistics planner from Earth. She becomes the cohort’s quartermaster and later runs the Open Hand exchange. Her practical gift is noticing who has been left out of a distribution.
-- **Owen Park**, 36, a security contractor and the first player to treat Veyran locals as obstacles. He dies during the first volume’s bad threshold collapse. A temporary return mark is established for his rescue attempt; when the route tears, that mark becomes the first black scar. His death is permanent and is caused partly by Adrian’s underestimated crossing cost and partly by Owen’s refusal to follow instructions; Adrian carries both truths.
+- **Owen Park**, 36, a security contractor and the first player to treat Veyran locals as obstacles. He dies during the first volume’s bad threshold collapse. A temporary return mark is established for his rescue attempt; when the route tears, that mark becomes the **first black scar carried in a person’s own return mark** — the first scar that ends a life, and the first that another traveler might have tried to inherit. It is not the first black scar in the story: the outer threshold is already scarred in place by the overloaded join, and a black line has sat on the chapel stone since Chapter 7. His death is permanent and is caused partly by Adrian’s underestimated crossing cost and partly by Owen’s refusal to follow instructions; Adrian carries both truths.
 - **Eli Mercer**, 19, an impulsive beta tester who believes invulnerability is part of the game. He joins a later, smaller crossing in Volume 1 rather than the six-person first cohort. He is injured, learns the limits of the System, and remains a minor recurring player rather than a replacement hero.
 - **Lena Morrow**, 22, an Earthside physics student recruited later as a translator and materials researcher. She is a secondary character, not a second romantic interest.
 
