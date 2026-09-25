@@ -5,40 +5,90 @@
 - **World:** Veyra is a real, inhabited medieval-fantasy world, not a simulation. Locals have ordinary work, law, food systems, political disagreements, and a history that continues independently of Adrian.
 - **Magic:** Veyran Weave changes existing patterns and requires a pattern, a working, a genuine witness, and a concrete residue. Consent changes power; refusal is a valid result.
 - **Crossing:** The Earthside License is a bounded permission interface laid over a fragment of the First Grammar. It can mark travelers, translate direct promises, show limited permissions, and open a threshold only through physical anchors and local agreement.
-- **Fragment vs recognized License:** The prompt Adrian accepts in Chapter 1 is an unanchored permission **fragment**. A fragment can take a name, leave a mark, and pull an arrival, but it has no resonant site, no willing Veyran witness, and no receiving agreement, so it is not a recognized License and cannot open a controlled threshold. Adrian becomes a **fragment-bearer**, not a recognized License holder, at the moment he accepts it.
-- **Return marks:** Each mark belongs to one named living person. Controlled routes carry one named person per opening, require a new inspection before reuse, and can be suspended by the receiving community. A route’s capacity never grows because more witnesses stand behind it. No automatic respawn or inherited ability exists.
-- **System limits:** No infinite inventory, health bar, resurrection, mind reading, obedience, or guaranteed return. Prompts can be incomplete or edited. Ivenn’s altered prompts are a known long-term danger, but the protagonists do not know that in the opening.
-- **First Grammar:** Built before the First Sundering as a plural device for keeping a shared law coherent. It broke into Anchorstones after the disaster. The Quiet Choir later rebuilt fragments and adapted one into a cross-world bridge.
-- **First Sundering:** Caused eight centuries ago by a Crown attempt to force one false harvest record over contradictory testimony. It removed or displaced people, roads, and memories.
-- **Earlier crossing:** A narrow crossing occurred near the Saltwake lock roughly three centuries ago and became the local Bright Pilgrims tradition. The present breach reuses that damaged resonant site.
-- **Adrian Vale:** Male, 32, game designer at Morrowglass Interactive, initially Stage 0. His want, need, flaw, fear, relationships, and growth constraints are defined in `bible/characters.md`.
-- **Tamsin Quill:** Local anchorwright and Adrian’s slow-burn romantic partner, not an instant love interest. Her consent and independent political agency are required throughout.
-- **Central antagonist:** Ivenn Marrow and the Quiet Choir’s Single Witness faction. Ivenn is introduced in Volume 1 and remains the final human antagonist; the First Grammar is the established mechanism, not a new final enemy.
-- **Ending:** Adrian publicly rejects both the permanent game lie and a single-author history, distributes the license among independent witnesses, and accepts an accountable bridge that can work without him. His personal return mark is spent once, at Stage 5; the finale surrenders the recognized seat of first holder and his last hold on the Grammar’s record, not a second return mark.
+- **Fragment vs recognized License:** the prompt Adrian accepts in Chapter 1 is an unanchored permission **fragment**. A fragment can take a name, leave a mark, and pull an arrival, but it has no resonant site, no willing Veyran witness, and no receiving agreement, so it is not a recognized License and cannot open a controlled threshold. Adrian is a **fragment-bearer**, not a recognized License holder, from Chapter 1 until Chapter 10.
+- **Return marks:** each mark belongs to one named living person. Controlled routes carry one named person per opening, require a new inspection before reuse, and can be suspended by the receiving community. A route's capacity never grows because more witnesses stand behind it. No automatic respawn or inherited ability exists.
+- **System limits:** no infinite inventory, health bar, resurrection, mind reading, obedience, or guaranteed return. Prompts can be incomplete or edited. Ivelin's altered prompts are a known long-term danger, but the protagonists do not know that in the opening.
+- **First Grammar:** built before the First Sundering as a plural device for keeping a shared law coherent. It broke into Anchorstones after the disaster. The Quiet Choir later rebuilt fragments and adapted one into a cross-world bridge.
+- **First Sundering:** caused eight centuries ago by a Crown attempt to force one false harvest record over contradictory testimony. It removed or displaced people, roads, and memories.
+- **Earlier crossing:** a narrow crossing occurred near the Saltwake lock roughly three centuries ago and became the local Bright Pilgrims tradition. Nineteen stones on the upper road carry writing nobody living can read. The present breach reuses that damaged resonant site.
+- **Adrian Vale:** male, 32, game designer at Morrowglass Interactive. His want, need, flaw, fear, relationships, and growth constraints are defined in `bible/characters.md`.
+- **Tamsin Quill:** local anchorwright and Adrian's slow-burn romantic partner, not an instant love interest. Her consent and independent political agency are required throughout.
+- **Central antagonist:** Ivenn Marrow and the Quiet Choir's Single Witness faction. Ivenn is introduced in Volume 1 and remains the final human antagonist; the First Grammar is the established mechanism, not a new final enemy.
+- **Ending:** Adrian publicly rejects both the permanent game lie and a single-author history, distributes the license among independent witnesses, and accepts an accountable bridge that can work without him. His personal return mark is spent once, at Stage 5; the finale surrenders the recognized seat of first holder and his last hold on the Grammar's record, not a second return mark.
 
 ## Initial state at Chapter 1 (authoritative canon baseline)
 
-Everything in this section is true at the first line of Chapter 1 and must not be contradicted by a later planning document. If an outline card and this section disagree, the card is wrong.
-
 Adrian is alone in an Earth workroom, finishing the fictional game *A Crown of Ash*. Nora is his emergency contact. He has no fantasy experience, no Veyran relationship, no combat training, and no stable License permission. The hidden prompt is an unverified permission fragment attached to a breach, not a conventional game login or a valid controlled threshold.
 
-There is no breach, no damaged lock, no stranded cohort, no field debt, no Witness stage, no Ivenn Marrow, and no Adrian–Tamsin working relationship yet. The cohort below is a plan, not a group of people who already know one another: Adrian plus the six who arrive through the outer tear, Mina Okoye, Dante Kuo, Priya Shah, Jonah Pike, Noor Haddad, and Owen Park, seven people in all. Eli Mercer joins a later, smaller crossing in Volume 1.
+There is no breach, no damaged lock, no stranded cohort, no field debt, no Witness stage, no Ivenn Marrow, and no Adrian–Tamsin working relationship yet. The cohort below was a plan, not a group of people who already know one another: Adrian plus the six who arrive through the outer tear, Mina Okoye, Dante Kuo, Priya Shah, Jonah Pike, Noor Haddad, and Owen Park, seven people in all. Eli Mercer joins a later, smaller crossing in Volume 1.
 
 ## Volume 01 author decisions (settled during the outline review)
 
-These are decisions, not loose notes. They exist because the outline review found places where two readings were possible and a Chapter 1–10 writer would otherwise have had to guess. The planned plot is unchanged.
-
 - **Site vocabulary for the lock:** five names, one site each. The **main breach** is the damaged opening in the gate itself — the Chapter 1 arrival site, open and under watch until the closing working. The **outer tear** is the smaller join beside the outer channel; it opens in Chapter 5 at the one joint the Chapter 4 repair leaves unwatched, is closed in Chapter 9, and leaves the **maintenance seam**. The **near gate** is the inner working gate the dock crew holds during repairs. The **chapel-floor hairline seam** opens in Chapter 3 and is the visible edge of the older damage exposed in full in Chapter 24. The **scarred outer threshold** is that older Anchorstone, exposed in Chapter 24 and tearing in Chapter 25. No event happens at two of these sites.
 - **Chapter 25 has one cause:** a deliberate, consented, locally witnessed working fails at the outer threshold it could not reach. Owen does not force anything open there; he is a bystander who reaches for the missing child and injures a shoulder.
-- **The volume’s closing distributed working is Chapters 48–50.** Chapters 41–47 are the choice and the commitment to it.
-- **System usage is capped at one message per chapter.** Exactly four prompts appear in the whole batch — one each in Chapters 1, 2, 7 and 10. Chapters 3, 4, 5, 6, 8 and 9 carry none; Chapter 8 re-reads the fragment Ivenn already showed in Chapter 7. The Chapter 10 five-part threshold description is a civic document read and entered by the notary, not a panel, and the Chapter 7 route-reading test is a local working rather than a second message.
+- **The volume's closing distributed working is Chapters 48–50.** Chapters 41–47 are the choice and the commitment to it.
+- **System usage is capped at one message per chapter.** Exactly four prompts appear in Batch 0001 — one each in Chapters 1, 2, 7 and 10. Chapters 3, 4, 5, 6, 8 and 9 carry none; Chapter 8 re-reads the Chapter 7 fragment. The Chapter 10 five-part threshold description is a civic document read and entered by the notary, not a panel, and the Chapter 7 route-reading test is a local working rather than a second message.
 - **Adrian never performs a working.** The Chapter 10 working is performed by Tamsin, the Chapter 9 dock crew, Hettis Roke, and the Lantern Concord notary Sera Vail; Adrian reads and marks the join-line. He has the Witness stage from Chapter 9 and no workway.
 - **Adrian stays Unbound through Volume 1.** He refuses the Wayfinder workway in Chapter 7 and again in Chapters 13–20, and the volume ends with him holding no workway at all.
-- **One hearing, not two.** Chapter 7 is a preliminary chapel audience that ends with the Concord setting a date. The formal hearing convenes at first light after the Chapter 9 working and is where Chapter 10 happens.
-- **Chapter 10 records, it does not ratify.** The route’s terms are entered in the public ledger, but the recognition is **incomplete**: one Reed village refuses, so the receiving community has accepted a reduced area rather than the whole, and the Concord has not yet ruled on whether a first license may exist. A reduced receiving area is not a smaller recognized License, so the instrument is **pending** — inspectable, arguable, and unusable. The fragment is the mark on Adrian’s palm, not an object he carries; Chapter 10 presses that mark into the seam and he keeps only a thinner trace.
-- **The premise is deferred, on purpose.** The “Earthside arrivals believe they joined a game” half of the premise is not established in Chapters 1–10 and becomes explicit later, when larger groups of players cross expecting a game. Which volume carries that shift is deliberately unfixed. Chapters 1–10 must not have the cohort assert it.
-- **Registering names:** *skyborn* is a Saltwake dock-worker term of suspicion, not a species or a rank. *Sera Vail* is the Concord notary and *Hettis Roke* the Hearthguard signatory; both are working cast, not leads. There is no “Witness mark” as a rank — the marks are the palm fragment-mark, a return mark, and a black line.
+- **One hearing, not two.** Chapter 7 is a preliminary chapel audience that ends with the Concord setting a date. The formal hearing convenes at first light on the day after the Chapter 9 working and is where Chapter 10 happens.
+- **Chapter 10 records, it does not ratify.** The route's terms are entered in the public ledger, but the recognition is **incomplete**: one Reed village refuses, so the receiving community has accepted a reduced area rather than the whole, and the Concord has not yet ruled on whether a first license may exist. A reduced receiving area is not a smaller recognized License, so the instrument is **pending** — inspectable, arguable, and unusable. The fragment is the mark on Adrian's palm, not an object he carries; Chapter 10 presses that mark into the seam and he keeps only a thinner trace.
+- **The premise is deferred, on purpose.** The "Earthside arrivals believe they joined a game" half of the premise is not established in Chapters 1–10 and becomes explicit later, when larger groups of players cross expecting a game. Which volume carries that shift is deliberately unfixed. Chapters 1–10 do not have the cohort assert it.
+- **Registering names:** *skyborn* is a Saltwake dock-worker term of suspicion, not a species or a rank. *Sera Vail* is the Concord notary and *Hettis Roke* the Hearthguard signatory; both are working cast, not leads. There is no "Witness mark" as a rank — the marks are the palm fragment-mark, a return mark, and a black line.
+
+## Canon established in Batch 0001 (Chapters 1–10)
+
+These are now on the page and are binding for every later chapter.
+
+### Geography and sites
+
+- **The Lock of Salt** is a public tide gate with a barrel-vaulted **chamber** above the **lower gallery**, three arched bays, a central channel, and the **near gate** — a black timber and iron slab the dock crew stands under on a working rotation.
+- The **outer channel** runs below and outside the lock, reached by a two-hundred-step **walk-round** with a half-rotten rail and a low parapet. The Chapter 5 outer tear is in the outer wall of that channel.
+- The **lock chapel** stands in the yard above the lock, with a low arched window, an arch where three jurisdictions meet, a daily renewed patch of lime and clay, and a keeper's board. It is called the **lock chapel**, not the old chapel.
+- The **chapel stone** is a single pale slab laid *across* the flagstones at the foot of the arch, raised four inches, worn into a shallow bowl by four hundred years of boots. Every person who enters the chapel steps over it. It is the threshold stone and it is **not** the floor.
+- The **chapel-floor hairline seam** is a hair-thin dead-straight black line between two long flagstones near the foot of the arch, about a hand's width long, dry since Chapter 3, and four feet from the chapel stone. Water rose out of it uphill in Chapter 3. It is the visible edge of older damage beneath the chapel.
+- The **maintenance seam**, called the **Narrow Mark** in the ledger, is an eighteen-inch, three-finger-wide closed seam in the outer wall of the outer channel, under the cap of the old landing on the walk-round. Its shape is the exact negative of the fragment-mark. It is not a door and it does not carry anybody.
+- The **displaced Anchorstone** that Ivenn's Chapter 7 fragment points to lies *under the lock chapel's own yard-side landing*, four steps left of the yard. It is dry, set in the footing, and is a **different place** from the Narrow Mark. Nobody has moved it.
+
+### People
+
+- **Tamsin Quill**, 29, anchorwright, keeper of the public bridge register since she was twenty-two. Two dockers, **Ovin Sarr** (19) and **Nell Bray**, are the Chapter 9 crew and the Chapter 10 signers; Nell is a woman in a felt hat, and Ovin is the young man Adrian pulls out of the hole in Chapter 2. **Renna Ord** is the boat-coat dock worker who first tells Adrian what a skyborn is.
+- **Hettis Roke**, a Hearthguard of the outer ward, nineteen years in, broad and grey-bearded, with a waxed slate. He speaks Veyran to the room and English to Adrian in the same voice. He is the one who demands the written confession, and he is also the man who will stand up in a room and say the name on the failure record is not the stranger's.
+- **Ottoline Vask**, a mason, thirty-four years in Saltwake, works the Lock's stone and comes to any of this on her own account. She is the batch's technical authority on what a join, a socket, a black line, and a residue are.
+- **Sera Vail**, 50, Lantern Concord notary, runs the chained public ledger, presses the fragment-mark into the seam, states that a reduced receiving area is not a License, and records in the book that she does not want the thing she is obliged to rule on.
+- **Nyla Ferrow** keeps the lock chapel; her mother and her mother's mother kept it. **Sesh Brack**, 50s, owns the dry-goods loft above the river market that the six and Adrian sleep in, and is the woman whose front tie Jonah breaks and whose hand is cut on the shutter. **Brann** is a Hearthguard whose voice in the yard is the reason nobody was watching the outside of the lock.
+- **Roke's grandfather held the gate** and is buried in the ordinary ground behind the ordinary wall with no name stone; there are eleven graves in that ground and Roke has never asked about the eight missing stones. This is a Veyran record-keeping grievance, not a Bright Pilgrim connection.
+- **Ivenn Marrow**, 41, presents as a Crown Law scholar from Aurel. He is knowledgeable, helpful, and not openly hostile. He quotes Adrian's unpublished design note at him in Chapter 7 and says he has only ever heard it through a wall. He has been in the city six weeks. Nobody suspects him of editing anything.
+
+### Facts about the world
+
+- Adrian is **not** a Veyran speaker. He has a handful of maintenance-oath words and everything runs through Tamsin, which makes the group one interpreter wide.
+- A working requires a **pattern**, a **hand**, a **willing witness**, and a **cost**; the residue always lands in the place. A promise nobody accepts is not a working. The **old form** of the maintenance oath additionally binds the gate *and the man standing in it*, and was stopped sixty years ago.
+- The lock is a **resonant site** because three jurisdictions repeat the same maintenance oath there. The chapel's arch and its daily lime-and-clay patch are both working sites; the chapel stone is a threshold, not a working.
+- **Phones have no bars and their clocks have stopped at 11:52.** Earth money is useless locally. A folding spanner, a multi-tool, a tape measure, and a lighter are the group's whole material advantage, and the multi-tool is the most dangerous object in the building.
+- **Reverberation on the page:** the market cart was mechanically fixed and lost a day of trade because its lashing could no longer be sworn to; two men lost forty minutes each; Adrian's ear rang for a day; the bottom field lost a season.
+- The breach out of the chapel's black line **carries a voice** but has never carried a body. It repeats the old oath with a fifth, older syllable — *answer* — and it knows Adrian's name.
+- Nine Elms, Four Elms, Long Water, Silt Row, Corrow, Black Sluice and the two gatehouses are the receiving area the Reed Commons has accepted. **Nine Elms' water is not received**, at the word of the nine households rather than the assembly, and may be withdrawn on any day the household chooses.
+
+### Adrian's state
+
+- **Fragment-bearer** from Chapter 1 to Chapter 10. **Named holder of the pull** in the Chapter 10 ledger entry from Chapter 10 on, which is a recorded duty on a pending instrument, not a License holding. He is a holder of a recognized License only at the trial license in Chapters 48–50.
+- **Provisional join-reading** from Chapter 4: he can follow one join-line and say what he sees, only while somebody else is holding a working of their own, and it leaves a headache and, the first time, blood.
+- **Witness stage** earned in Chapter 9: he perceives a join without anybody owing it to anybody, understands one direct promise at a time, and still cannot create a working. Cost: sensory bleed, and a duty to a place he cannot clear.
+- **No workway. Unbound.** He refused the Wayfinder profile in Chapter 7 in front of witnesses and Marrow wrote the refusal down. He does not hold a return mark and has no way home.
+- The fragment-mark is **in the seam**. His palm keeps a thin pale trace and a fine unclosed cut along it. He could have taken the mark back in Chapter 10 and knew that nobody present could have stopped him or proved it afterwards.
+- He holds an **enforceable public debt** for a season of the bottom field, reviewable on the last day of the salt month.
+- The four rules on the loft wall are: Tamsin's three conditions verbatim, then Adrian's fourth — tell Mina about every injury, including the ones that look survivable. Mina's addendum: every number the group states about how bad something is is written as *what we said*, never as *what it was*.
+- Noor's ledger is the group's public record of what it owns, who it is for, who may use it, and who is owed. Adrian's cash and his phone are on it.
+
+## Unresolved and deliberately open after Batch 0001
+
+- Who inserted the Chapter 1 prompt, and why it speaks Adrian's design vocabulary.
+- Whether the voice in the lock join is a man, and who is standing in the gate.
+- Why Owen alone perceives a relic-shaped light, when the physical bright edge of the damaged join is plain to everyone in daylight. His statement is in the book marked unverified and stays there.
+- Whether the nineteen stones on the upper road have anything to do with the voice, and why Ivenn's *a door with nobody on the far side is a receipt* came through a wall.
+- What the older damage beneath the chapel is.
+- Whether a first license may exist in Saltwake at all.
 
 ## Planning-state warning
 
-The chapter cards, Volume 01 outline, and ending outline describe future events and must not be treated as already occurring until the corresponding prose is written and the state files are updated. No chapter prose exists yet. The current planned-but-unwritten events for the next batch are listed under “Planned in Batch 0001” in `state/current.md`; that list is a to-do record, not a summary of what has happened.
+`outline/volume-01.md` and `outline/ending.md` describe future events and must not be treated as already occurring. Chapters 11–50 have no prose. The next batch's brief is `workspace/volume-01/batch-0002/PROMPT.md`.

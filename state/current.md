@@ -1,52 +1,42 @@
 # Current State
 
-Current phase: phase-001-outline (outline artifacts complete; no prose written)
+Current phase: phase-003-batch-write (Batch 0001 complete)
 
 Current volume: 1
 
-Current batch: 1 (outlined, not written)
+Current batch: 2 (outlined via `workspace/volume-01/batch-0002/PROMPT.md`, not written)
 
-Last completed chapter: none
+Last completed chapter: Chapter 0010 — The Narrow Mark
 
-Last batch summary: none
+Last batch summary: `state/batch-summaries/volume-01-batch-0001.md`
 
-Outline status: The bible, series outline, ending outline, Volume 01 outline, and Chapters 1–10 batch cards are established. The outline phase review found and fixed one blocker set in the site map, the Chapter 25 reversal, the volume’s closing-working range, the one-System-message-per-chapter rule, and the Chapter 10 working performers; the resolutions are recorded in `state/continuity.md`.
+Outline status: the bible, series outline, ending outline, Volume 01 outline, and Chapters 1–10 batch cards are established. Chapters 1–10 now exist as prose in `chapters/volume-01/`. Chapters 11–50 are not yet carded.
 
 ## How to read this file
 
 This file separates two kinds of statement, and the labels are not interchangeable:
 
-- **Canon** means the state of the world before Chapter 1 opens. It is true at the first line of prose.
+- **Canon** means the state of the world as written. It is true at the current chapter boundary.
 - **Planned** means an event described in an outline or batch card. It is *not* canon until the corresponding prose exists and this file is updated after a batch.
 
-Do not promote a planned item to canon by accident. When a batch is written, move its results into the Canon section and delete them from Planned.
+Do not promote a planned item to canon by accident.
 
-## Canon before Chapter 1
+## Canon after Chapter 0010
 
-Active threats: None inside the story. Adrian has no idea any other world exists. The damage at the Lock of Salt has not begun, no Earthside person is displaced, and no one has noticed an altered prompt.
+Active threats: The **main breach** in the Lock of Salt gate is open, watched, and wider than it was on Tuesday. The **black line** in the chapel's threshold stone is unhealed and will stay that way for the rest of the volume. The **chapel-floor hairline seam** is dry and unchanged; the older damage beneath the chapel has not been identified. A voice using the old form of the maintenance oath is speaking from inside the lock join, and the bottom field has lost a season of stability to it. Ivenn Marrow's altered prompt is live in the interface and nobody on Earth or in Saltwake knows he is editing it.
 
-Active promises: Only Adrian’s ordinary obligations — ship the onboarding build, get through the morning all-hands about the cancellation, and keep answering his sister Nora. No License, no mark, no return route, and no mystery have been promised to the reader yet.
+Active promises: The Lantern Concord has **opened the record** on whether a first license may exist in Saltwake, with no hearing date. The Chapter 10 route is recorded in the chained ledger and **cannot be used**: no return mark exists for Adrian or for any of the six. Adrian holds an enforceable public debt for the bottom field, reviewable on the last day of the salt month. Owen's unverified statement about a relic-shaped light is in the book. The Reed household of Nine Elms may withdraw or change its refusal at any time.
 
-Current relationships: Adrian and Nora are distant but real, strained by missed calls and his habit of treating family obligations as maintenance. Tamsin Quill, Mina Okoye, Dante Kuo, Priya Shah, Jonah Pike, Noor Haddad, Owen Park, and Ivenn Marrow are all strangers to him. There is no Veyran relationship of any kind.
+Current relationships: Adrian and Tamsin are cautious professional allies with no romantic milestone reached; she checks him and he has agreed to be checkable. Adrian and Mina are in productive friction about consent and record-keeping. Adrian and Jonah have had their first real fight and Jonah withdrew his gatekeeper proposal in the same hour. Roke trusts Adrian's chalk and not yet the man. Marrow is publicly useful, privately dangerous, and privately curious about Adrian. Sera Vail has told Adrian in the record that she does not want the thing she is obliged to rule on. The six arrivals have stopped asking Adrian for answers and have started making their own.
 
-Current power state: Adrian Vale is Stage 0, Unlicensed body. He can perceive an occasional pale prompt and a harsh light in a join, but he has no workway, return mark, controlled passage, combat skill, or translation. He holds no rank, duty, or debt.
+Current power state: Adrian Vale is **Stage 1, Witness**. He can perceive the nearest join-line and understand one direct Veyran promise at a time. He **cannot** create a working, open a threshold, or hold a place. He holds **no workway** — he is **Unbound** and refused the Wayfinder profile in Chapter 7. He is the **named holder of the pull** in the Chapter 10 ledger entry, which is a recorded duty on a pending instrument, not a License holding. He has spent the Chapter 1 fragment-mark into the maintenance seam; his palm keeps only a thin pale trace in its heel, and a fine unclosed cut along it. He has no return mark and no way home.
 
-Current location: Earth. Adrian is alone in Morrowglass Interactive’s workroom, finishing the onboarding build for *A Crown of Ash*, a little after 2 a.m. He has never left Earth.
+Current location: Saltwake, the Lock of Salt. Adrian is in the Lantern Concord hall at first light on the morning after the second tide, having just watched two hundred and eleven people record a shape in a wall that nobody can use.
 
-## Planned in Batch 0001 — not canon until written
+## Planned for Chapters 11–50 — not canon until written
 
-These items come from `outline/batches/volume-01-batch-0001.md` and describe Chapters 1–10.
-
-- Adrian accepts an unanchored permission **fragment** in Chapter 1, and the damaged site pulls him through as a breach. The fragment cannot be aimed, scheduled, or repeated, which he understands when he accepts it. Accepting a fragment makes him a fragment-bearer; it does not make him a recognized License holder.
-- A damaged Anchorstone opens a **breach** at the Lock of Salt in Veyra during a rising flood tide. The forced expansion in Chapters 4–5 does not happen at that gate: Adrian’s repair sequence drives the failure out to an unwatched joint beside the outer channel, and the **outer tear** opens there and pulls six more Earthside people through.
-- Adrian’s Chapter 4 ability is a **provisional join-reading**, not the Witness stage. The headache-and-nosebleed cost belongs to that reading alone and is not reused elsewhere in the batch.
-- The first cohort is seven people — Adrian plus the six arrivals. They are stranded in Veyra with injuries, no common language, no standing, and no return route, and they do have Earthside money, paper, and phones with no signal: Mina Okoye, Dante Kuo, Priya Shah, Jonah Pike, Noor Haddad, and Owen Park. Nobody dies in this batch.
-- Chapter 9 closes the **outer tear** through a quorum working, damages the lower field, and establishes the **Witness stage** along with an enforceable public debt. No System message appears in Chapter 9; the choice is recorded in the public ledger.
-- Chapter 10 binds the maintenance seam into a narrow **quorum route** with a named holder, witnesses, a receiving agreement, and a stated cost. The working is performed by Tamsin, the Chapter 9 dock crew, Hettis Roke, and the notary Sera Vail; Adrian only reads and marks the join-line while Sera Vail presses the Chapter 1 fragment-mark into the seam, and he keeps only a thinner trace. The route’s terms are entered in the ledger but its **recognition is incomplete** — one Reed village refuses and the Concord has not ruled — so the instrument is pending and unusable, and no return mark has been created for anyone.
-- Ivenn Marrow enters publicly as a knowledgeable adviser whose partial prompts are already editing the interface.
-- Adrian declines the Wayfinder workway and stays **Unbound** for the whole volume. Every route-reading he has is borrowed from Tamsin or from a local practice.
-- Adrian and Tamsin end the batch as cautious professional allies. No trust beyond that, no romantic milestone, and no cross-batch commitment is canon.
+From `outline/volume-01.md` and the batch-0001 handoff. The next batch (Chapters 11–20) begins inside the open Concord hearing and covers the formal audience, Ivenn's repeated workway offer, the cohort acquiring local roles, the first Glass Crown letters, and the descent toward the chamber beneath the chapel. The Chapter 25 reversal, the Chapter 24 dig that identifies the scarred outer threshold, Owen's Chapter 38 death, and the Chapters 48–50 trial license remain unwritten.
 
 ## Next planned phase
 
-Write Chapters 1–10 from `outline/batches/volume-01-batch-0001.md` after the outline/bootstrap workflow selects the prose phase. On completion, move the enacted results into the Canon section above, update `state/chapter-summaries.md`, and add the next batch prompt under `workspace/volume-01/`.
+Write Chapters 11–20 from `workspace/volume-01/batch-0002/PROMPT.md`. On completion, move the enacted results into the Canon section above, update `state/chapter-summaries.md`, append a batch summary under `state/batch-summaries/`, and create exactly one next-phase prompt under `workspace/volume-01/`.

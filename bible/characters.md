@@ -191,6 +191,16 @@ These are the local hands that perform the Volume 01 workings. They matter becau
 - **Hettis Roke**, 44, a Hearthguard member who signs the Chapter 10 inspection line and can refuse the route on the Hearthguard’s behalf. He is the reason the route is a negotiated instrument rather than Adrian’s private arrangement.
 - **Sera Vail**, 50, a Lantern Concord notary who writes the public ledger entry, reads the five parts of a controlled threshold aloud at the Chapter 10 hearing, and presses the Chapter 1 fragment-mark into the maintenance seam. She is the civic face of the crossing: she does not believe in the System and does not have to, because her instrument is the record.
 
+The following working cast are named and on the page in Chapters 1–10. They are not leads; they are hands, and later batches may use them without re-introducing them. Full state is in `state/character-state.md`.
+
+- **Ottoline Vask**, a Lock mason in her thirties, thirty-four years in Saltwake, who comes to any of this on her own account and is the technical authority in the batch on joins, sockets, residues and black lines. She is the local who explains *why* and refuses to soften it.
+- **Ovin Sarr**, 19, and **Nell Bray**, the two dockers of the Chapter 9 crew and the Chapter 10 signers. Ovin is the young man Adrian pulls out of a hole in Chapter 2; Bray is the woman in the felt hat who tells him what *skyborn* means. They are working locals whose names stay in the public record.
+- **Sesh Brack**, 50s, owner of the dry-goods loft above the river market that the arrivals sleep in. A market woman with a common box, a legacy, and a bound hand. She is the local who enforces Tamsin’s second condition on her own body.
+- **Nyla Ferrow**, keeper of the lock chapel, whose mother and whose mother’s mother kept it. She speaks rarely and is right.
+- **Renna Ord**, a dock worker in a boat-coat who is the first person to say *skyborn* aloud, and who hands Adrian the vocabulary of it.
+- **Brann**, a Hearthguard whose voice in the yard on Tuesday morning is the reason nobody was watching the outside of the lock, and who therefore belongs in the batch’s failure record.
+- **The nine households of Nine Elms**, the Reed Reach village whose refusal of receiving is entered in the Chapter 10 ledger at the word of the household and not the word of the assembly, and which may withdraw that refusal on any day it chooses. They are a political actor before they are a character, and no Reed individual is on stage before Chapter 10.
+
 ## 12. Relationship milestones
 
 1. **Tamsin distrusts Adrian’s labels** and makes him prove that he will ask before using local knowledge.

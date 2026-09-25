@@ -1,0 +1,27 @@
+# Volume 01 Batch 0001 Summary — The First Mark (Chapters 1–10)
+
+## What happened
+
+Adrian Vale accepted an unanchored permission **fragment** at 2:40 a.m. on a Tuesday in a dead office and woke in the Lock of Salt at dawn with a mark on his palm and no way back. Over two days he went from an unnamed omen to a man in a public book: interrogated, given three conditions by Tamsin Quill, useful for exactly one afternoon when his repair drove the lock's failure into an unwatched joint, and then answerable for six strangers he did not choose and cannot send home.
+
+The **batch midpoint** is the forced expansion. Adrian's Chapter 4 repair was correct and the local resonance answered it, but the load had to go somewhere and he sent it to the outer channel on the reasonable assumption that a spillway is a place where water goes to be out of the way. The joint nobody was watching opened and took six people, none of whom consented, and the crowd that came to see the gate drew a line down the aisle. The genre promise changes here: this is not one man discovering a fantasy world, it is seven people with bodies, injuries, money, and families managing an emergency.
+
+The **batch climax** is Chapters 9–10. A quorum closes the outer tear, the bottom field pays a season, Adrian is entered as an enforceable creditor, and the same morning he fails in front of witnesses by trying to take a working off five people — which is the public failure that earns the **Witness stage** alongside the public duty. Sera Vail then reads a five-part civic document into the chained ledger, Adrian refuses the one unearned reward the batch contains, the locals perform the working, he gives the mark into the stone, and the instrument is ruled **incomplete**: written, costed, signed, and unusable.
+
+## Results
+
+- **Power:** Stage 0 through Chapter 8; provisional join-reading acquired in Chapter 4 only; **Witness stage earned in Chapter 9** by a public duty plus a public failure. Adrian performs no working anywhere in the batch. He holds **no workway** and is **Unbound** for the rest of Volume 01 after refusing the Wayfinder profile in Chapter 7.
+- **Crossing state:** the **main breach** is open, watched, and wider than on arrival. The **outer tear** opened in Chapter 5, was closed by a quorum in Chapter 9, and left the **maintenance seam** that Chapter 10 records as a **pending** quorum route. The **near gate** is the dockers' inner working gate. The **chapel-floor hairline seam** opened in Chapter 3 and is the visible edge of the older damage the Chapter 24 dig will expose. The **chapel stone** — a raised pale threshold slab, a different surface from the floor — took the Chapter 7 **black line**, which stays visible and unhealed for the rest of the volume. No **return mark** exists for anyone, and the route is empty.
+- **Names on the page:** the six arrivals are Mina Okoye, Dante Kuo, Priya Shah, Jonah Pike, Noor Haddad, Owen Park — strangers to each other and to Adrian, and nobody dies in this batch. The working locals introduced are Tamsin Quill, Hettis Roke, Ottoline Vask, Renna Ord, Nell Bray, Ovin Sarr, Sesh Brack, Nyla Ferrow, Sera Vail, and a Hearthguard called Brann. The first cohort does not assert that this is a game.
+- **Debt:** Adrian owes the Lock of Salt a season of the bottom field, owed to eleven villages and to the Reed margin, enforceable, reviewable on the last day of the salt month. The nine households of **Nine Elms** have refused receiving by name, at the word of the household and not the assembly, and may withdraw that refusal on any Tuesday.
+
+## Deviations from the batch cards (deliberate, recorded)
+
+1. **The Chapter 1 private joke beat moved to Chapter 7.** The fragment's wording in Chapter 1 is the three facts only, so Adrian's acceptance rests on his unaimed/unschedulable/un-previewable reasoning. Ivenn quoting his unpublished design note back at him in Chapter 7 is the stronger version of the same beat and is where the card's real payoff sits.
+2. **The provisional-reading cost recurs in Chapters 6, 7 and 8** as a headache and a streaming eye rather than the Chapter 4 nosebleed. The nosebleed-and-headache pair is used **only** in Chapter 4, as the card requires; the recurrence is the same borrowed ability being paid for again, which is the point of the ability.
+3. **Chapter 10's seat is filled by standing rule, not by a vote.** Adrian never campaigns for the chair; Tamsin establishes that nobody may fill it while the offer is refused, and he then accepts it aloud as a duty. The scene's stronger point is that he *cannot* grab the chair, and the acceptance is spoken for the record so that a later batch can rely on it.
+4. **Jonah's gatekeeper proposal is extended** into a full scene in Chapter 6, including his withdrawal inside the hour, because the card requires the colonial mirror to be planted and the fight needed both halves.
+
+## What the next batch inherits
+
+The hearing is **open, not closed**. The route exists and is empty. Owen's light is on the record and unverified. The main breach is worse and nobody has said so publicly except Adrian's notebook. The bottom field's lost season is due for its first review on the last day of the salt month, which is a hard clock the next batch can use. Marrow's workway offer is still open, cheap, and pointed at Aurel. Nine Elms can withdraw. And the thing on the other side of the lock knows Adrian's name and is still spending the river.
