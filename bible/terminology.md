@@ -196,3 +196,39 @@ A record whose terms are visible to the people affected and can be challenged, w
 - “God” is a local interpretation, not a confirmed objective fact. The story may show what people believe without confirming a divine creator.
 - “History” is contested in Veyra. A document can preserve an account without proving that the account is the only version that happened.
 - Names are meaningful and should not be casually translated. A System may offer a phonetic approximation, but Tamsin and other locals retain their own names in the record.
+
+## Terms established in Volume 01 Chapters 11–20
+
+These are on the page and are binding from Chapter 11 onward. Do not use them before the chapter that establishes them.
+
+### Seat
+
+The local, plain word for the holder's position, and it is **not an office** and **not a chair**. Nell Bray defines it in Chapter 11 in front of a hall: a seat is a place to be angry at; the four witnesses exist so that when a thing goes wrong there are four people who have to be angry and not one; and a seat has to be **legible to a person who does not like you**. Anything else is a chair. Use *seat* for the holder's position and *chair* for the thing Adrian wants, and never swap them.
+
+### Crew
+
+Renna Ord, Chapter 11: **a crew is a man who has owed somebody a shift.** Not a list, not a chain of command. A crew is a **chain of asking** — you ask a man, and if he comes you owe him, and if you do not pay you do not get to ask him again for nine days. The order in which people are asked is *known*, not written, and is older than any page. Ovin Sarr: an inspection is not a form, it is four people turning up in the wrong weather. A rota in Veyra is a set of people who have already agreed to stand in a place at an hour; a rota that has witnesses in it kills the thing it is meant to organise, which is a cost Chapters 18 and 19 depend on.
+
+### Holding the pull / the post
+
+*Holder of the pull* is the Chapter 10 bell-rope term and is unchanged. **The post**, named by Nyla Ferrow in Chapter 20, is a different thing: a place a person stands, as opposed to a place taken. A man whose mark is in a building's stone is not a visitor to it, and a visitor can leave. The post is not money, is not useful, and has no end of it in sight. Do not use *post* for the seat.
+
+### Keeper's fifth word
+
+The one syllable the old maintenance oath has had put into the middle of it since Chapter 8, which Tamsin renders in English as *answer*. It is **not in the oath**. It is the keeper's word — *we keep the third thing* — said at the arch every morning by Nyla Ferrow, her mother, and her mother's mother, and it is a *keeping*, never a *saying*. The voice in the lock join is using a form that combines the old maintenance oath with a keeper's word that has never been in the oath, and in Chapter 15 it repeats that word a half-second after the keeper says it. Never let it be called a fifth word of the oath.
+
+### Unclosed
+
+Hesper Saye's word, Chapter 14, for a wound with clean skin over it and nothing happening underneath: a thing with a witness on it that has not been taken up. Owen Park's scalp is unclosed. It is not the same as a black line and it is not the same as a black scar.
+
+### A year of certainty
+
+The Reed Reach measure of loss, Chapter 18. A household that cannot promise a gate-opening on a date does not keep its share of the water. A bottom field with level ditches has lost the thing a promise is made of, not the thing a crop is made of. Use this whenever a Veyran village's damage is described, and do not substitute "a bad harvest" for it.
+
+### Marrow's chalk
+
+Ivenn Marrow's own hand on the keeper's board, Chapter 16: an open offer of the Wayfinder workway, with the date it stands until, which is the last day of the salt month. An offer with a shape in it is a promise; an offer with no shape in it is a rumour. This is his own method turned against his own product and it is the only document in the batch that is his.
+
+### The roll of strangers
+
+The Lantern Concord's quarterly description of everybody in Saltwake who is not from it, sent to Aurel four times a year in a wooden case on a river boat. A public record, in the sense that anyone may ask to read it, and the one document in this volume that a Crown clerk will find without asking a question. Adrian is entered in it as **Unbound** in Chapter 16.
