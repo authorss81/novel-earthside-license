@@ -1,33 +1,18 @@
 # Novel Specification
 
-Title: [Novel title]
-
-Repository slug: [novel-slug]
-
-Genre: [Genre]
-
-Male lead: [Name, age, occupation, want, need, flaw]
-
-Length target: [500–1000+ chapters]
-
-Current phase: bootstrap
+Title: The Earthside License
+Repository slug: novel-earthside-license
+Genre: isekai / game-lit / political fantasy
+Male lead: A game designer who accidentally becomes the first licensed player
+Length target: 900 chapters
+Relationship policy: One slow-burn relationship or no romance, decided in the bible phase.
+Power rule: Growth must be earned through practice, cost, failure, relationships, and changed decisions. The lead must not become instantly overpowered unless the approved genre premise requires it.
 
 ## Premise
-
-[One-sentence premise]
+Limited groups of Earth players enter a medieval fantasy world believing they have joined a game, while the local world experiences them as divine refugees and invaders.
 
 ## Ending
+The lie becomes a stable bridge between worlds or is exposed before the two civilizations destroy each other.
 
-[Planned final conflict, final choice, relationship resolution, and world outcome]
-
-## Relationship policy
-
-[One slow-burn relationship or no romance]
-
-## System language
-
-[Readable fictional system rules, limits, and costs]
-
-## Current canon
-
-No chapters have been generated yet.
+## Status
+Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
