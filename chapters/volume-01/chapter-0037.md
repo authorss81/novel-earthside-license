@@ -10,7 +10,7 @@ She put him four feet back at about half past two in the morning, for the fourth
 
 "I have assumed they were the lip."
 
-"The lip is nine feet from the arch. You have been standing four feet off the boards since the twentieth day of this month because the boards over that hole came up flat on the twenty-fifth with a flagstone stood on end and there is a man in this city who has been asking me every day since whether the ground will open while you are standing on it, and I said no, and I am going to keep saying no, and I can only say no to it if you are four feet back." She wiped her hands on her apron. "That is the whole of the first one and I have never given it to you because a man who has been told a thing is a man who has to keep it, and there are about nine people in this city who have to keep things and I would rather be the one who does not."
+"The lip is nine feet from the arch. You have been standing four feet off the boards since the twentieth day of this flood because the boards over that hole came up flat on the twenty-fifth with a flagstone stood on end and there is a man in this city who has been asking me every day since whether the ground will open while you are standing on it, and I said no, and I am going to keep saying no, and I can only say no to it if you are four feet back." She wiped her hands on her apron. "That is the whole of the first one and I have never given it to you because a man who has been told a thing is a man who has to keep it, and there are about nine people in this city who have to keep things and I would rather be the one who does not."
 
 "And the second reason."
 
@@ -70,7 +70,7 @@ Then she said: "And I am entering a fact and I am going to read it out and then 
 
 Adrian was in that room. He had been in the room for eleven days of decisions and he had not said the word in nine, and the word was one he had said to Jonah Pike in a wet doorway on the Sunday and had not managed, and to a hundred and forty people in a yard, and to a family of a missing man.
 
-Owen Park was in that room too, with his coat on and his bag over his shoulder, and he had a mark in the heel of his right hand that had been in his hand for about fourteen hours.
+Owen Park was in that room too, with his coat on and his bag over his shoulder, and he had a mark in the heel of his right hand that had been in his hand for about four hours.
 
 He did not say the word either.
 
@@ -100,7 +100,7 @@ Nobody in that room had anything to say, and the last person to say anything was
 
 "And Adrian. I am going, and I know the man was found, and I want to say the true thing about why, and I have only had about a minute so I am going to say it badly.
 
-"It is not because a man is in a reed at Long Water. There is not a man in a reed at Long Water. It is because there is a *person on the other side of that floor*, and a woman of thirty-four at the front of a yard asked for a person in front of two hundred and forty people on Monday night and the whole of this city's answer to her has been four days of arithmetic, and a mark in a hand is the only thing anybody has that could answer it, and I have got one, and I have had it for fourteen hours, and in about nine months a woman is going to lose somebody and somebody is going to have to go, and this city is going to have to have been somewhere." He got the strap off the shoulder. "I have spent thirty-eight days being the man who has asked for nothing in a room. That was a thing I built. It worked. It is the only thing I have ever built that worked. And tonight there is a hole and a mark and a man in a reed who walked the wrong way for eleven hours on purpose, and if I do not go then it turns out that thirty-eight days of my life were a man building a thing to get a reward, and I would rather it turned out that they were a man who was owed something and turned up."
+"It is not because a man is in a reed at Long Water. There is not a man in a reed at Long Water. It is because there is a *person on the other side of that floor*, and a woman of thirty-four at the front of a yard asked for a person in front of two hundred and forty people on Monday night and the whole of this city's answer to her has been four days of arithmetic, and a mark in a hand is the only thing anybody has that could answer it, and I have got one, and I have had it for about four hours, and in about nine months a woman is going to lose somebody and somebody is going to have to go, and this city is going to have to have been somewhere." He got the strap off the shoulder. "I have spent thirty-eight days being the man who has asked for nothing in a room. That was a thing I built. It worked. It is the only thing I have ever built that worked. And tonight there is a hole and a mark and a man in a reed who walked the wrong way for eleven hours on purpose, and if I do not go then it turns out that thirty-eight days of my life were a man building a thing to get a reward, and I would rather it turned out that they were a man who was owed something and turned up."
 
 ---
 
@@ -126,7 +126,7 @@ And none of that matters, and all of it is true, and the difference between this
 
 The sixth hour of the twenty-eighth was a **route**. A route is a pattern: a place people already agree on, used already, for another reason; somebody who can be asked to hold it, who was not chosen for it; a person who goes, named by themselves, who can say no on the day; and a thing on the other side the person can recognise, which is not a person and not a room, and is small enough to carry and does not have to be carried. A route holds a person and puts them back where the terms say.
 
-This was not a route. This was a floor with a tarpaulin on it, four feet from a chapel arch, and a dressed joint that came open on the twenty-fifth of this month and took eleven people out of a building without asking, and it is entered in this city's own book as **SCARRED**, which is the first place in the history of this city entered as damaged and not closable, and the local phrase for it is *a black mark in a place*.
+This was not a route. This was a floor with a tarpaulin on it, four feet from a chapel arch, and a dressed joint that came open on the twenty-fifth day of this flood and took eleven people out of a building without asking, and it is entered in this city's own book as **SCARRED**, which is the first place in the history of this city entered as damaged and not closable, and the local phrase for it is *a black mark in a place*.
 
 A scar is not a pattern. A scar is where a rule broke and went.
 
@@ -144,7 +144,7 @@ He was not in the terms. He had not asked to be. He had said in a yard that he w
 
 Two marks. One scar. One named person.
 
-The joint opened along four feet of dressed face at about the fourth hour and five minutes of the morning of the thirty-eighth day of the flood, and there was no water, and there was no light from anywhere and no shadow, and it was not a report and it was not a crack, and the eleven people who came out of that floor on the twenty-fifth of this month were in a room and this time there was no room and this time the floor did not open.
+The joint opened along four feet of dressed face at about the fourth hour and five minutes of the morning of the thirty-eighth day of the flood, and there was no water, and there was no light from anywhere and no shadow, and it was not a report and it was not a crack, and the eleven people who came out of that floor on the twenty-fifth day of this flood were in a room and this time there was no room and this time the floor did not open.
 
 What it did was take.
 
@@ -182,7 +182,7 @@ And the scalp — the scalp that opened on the first day of this flood and had n
 
 It was not bleeding. It was not cut. It was exactly the same size it had been on the first morning of this flood, and there were people in this city who had been looking at it for thirty-seven days who said afterwards that it was about a third of an inch further down the bone than it had been in the second week, and there were other people who said it was not, and both of those are in the book because the book has had four contradictory accounts on one page since the twenty-ninth and Sera Vail entered them on purpose.
 
-And the mark in his hand, which had been a mark for fourteen hours, and had been established on the thirty-seventh day at about the eleventh hour of the night by four people with a cost entered and a notary's seal on it, for one named person and not for the route — and Adrian had entered the difference, and a mason had thanked him in public for it.
+And the mark in his hand, which had been a mark for about four hours, and had been established on the thirty-seventh day at about the eleventh hour of the night by four people with a cost entered and a notary's seal on it, for one named person and not for the route — and Adrian had entered the difference, and a mason had thanked him in public for it.
 
 It was not a mark any more. It was the same branching shape in the same proportion, a thumbnail's worth of branching, and it was black, and it was not the colour of a mark.
 

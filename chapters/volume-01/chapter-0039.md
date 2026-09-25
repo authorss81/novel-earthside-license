@@ -1,10 +1,10 @@
 # Chapter 0039 — Three Truths
 
-The longest entry in the history of the book of the Lantern Concord was made on the morning of the thirty-ninth day of the flood by a woman of twenty-four from another world who used a clause she had not written against a rule she had invented in a room above a market, and the reason it is the longest is that nobody in that hall could agree on a single sentence about how a man of thirty-eight days in this world died, and the two people in the room who could have settled it with one word each were a mason who was not there and a man who was in a room by a salt wharf the whole time with his hands in a bowl.
+The longest entry in the history of the book of the Lantern Concord was drafted on the morning of the thirty-ninth day of the flood by a woman of twenty-four from another world who used a clause she had not written against a rule she had invented in a room above a market, and was entered by a notary of this city who is fifty and who is not allowed to be asked whether she agrees with it, and the reason it is the longest is that nobody in that hall could agree on a single sentence about how a man of thirty-eight days in this world died, and the two people in the room who could have settled it with one word each were a mason who was not there and a man who was in a room by a salt wharf the whole time with his hands in a bowl.
 
 ---
 
-The hall was full at the first light with about three hundred and ninety in it, and about four hundred and forty in the yard outside by the seventh hour. There is a number entered for the yard and not one for the hall, because about forty people in that hall had come for the tide and about three hundred and fifty had come for a man.
+The hall was full at the first light with about three hundred and ninety in it, and about three hundred and fifty of them were still in it at the seventh hour, and about four hundred and forty were in the yard outside by then. There is a number entered for the yard and two numbers entered for the hall, and the two are nine minutes apart, and the reason is entered: about forty people had come for the tide and gone again.
 
 Three accounts were in the city before anybody had opened a book on the morning of the thirty-ninth, and by the fifth hour all three of them were being said in the hall by people with a reason, and the reason is entered with each one, because a reason is the only thing about an account that can be checked.
 
@@ -20,11 +20,11 @@ It was argued by **Aldis Kerrow**, assessor of strangers for the Lantern Concord
 
 **That it was the door.** That there is a door, in a floor, that a man went through it, and that it is a door.
 
-It was argued by **Perry Lask**, forty-one, of the second list, who came out of a chapel floor on the twenty-fifth of this month and said *this is a closed beta* in a yard and asked for it to be entered that she said it first, and who said four sentences on the morning of the thirty-ninth in front of about three hundred and fifty people, and asked for all four to be entered verbatim.
+It was argued by **Perry Lask**, forty-one, of the second list, who came out of a chapel floor on the twenty-fifth day of this flood and said *this is a closed beta* in a yard and asked for it to be entered that she said it first, and who said four sentences on the morning of the thirty-ninth in front of about three hundred and fifty people, and asked for all four to be entered verbatim.
 
-"I have been eleven days in this world and I have been in a market four times and in a market this city is wrong about one thing and one thing only, and I have been letting it be wrong because I could not think of the sentence.
+"I have been fourteen days in this world and I have been in a market four times and in a market this city is wrong about one thing and one thing only, and I have been letting it be wrong because I could not think of the sentence.
 
-"There is a door. That is all. A man went through a door and did not come back and everybody in this building is being extremely careful about the word, and I have been careful about it for eleven days, and I would like to stop.
+"There is a door. That is all. A man went through a door and did not come back and everybody in this building is being extremely careful about the word, and I have been careful about it for fourteen days, and I would like to stop.
 
 "There is a door. There is a room on the other side of it. There is a light in the room. There is a person in the room, and on Thursday morning a man walked into it on purpose, and he came back, and he died. **A door is a thing with a far side.** That is not a game and it is not a trick and it is not a metaphor, and I have been a person who describes things for a living for twenty years and that is a true sentence about a thing I have seen with my own eyes, and about a man who went through it and came back and said *it is not a relic, it is the size of your hand.*
 
@@ -50,7 +50,7 @@ They argued it for about two hours and forty minutes and it is all in the book, 
 
 The first was a woman of forty-one of Silt Row, who is on page one of that book against the name of the man in the seat, and who stood up at about the fourth hour of the morning and did not make a speech.
 
-"There is a number in this room everybody is doing and nobody has said out loud," said Wenna Cray. "On the twenty-fifth of this month there were about three hundred and ten people in the yard under the lock chapel, and eleven people came out of a floor in it, and one of the eleven was a child of eleven. And on the morning of the twenty-eighth I put my daughter on a cart to Silt Row, because there is no room in that yard for a woman of forty-one and a child of nine in a flood month and I was not going to stand in it with her and I have thought about that every day since.
+"There is a number in this room everybody is doing and nobody has said out loud," said Wenna Cray. "On the twenty-fifth day of this flood there were about three hundred and ten people in the yard under the lock chapel, and eleven people came out of a floor in it, and one of the eleven was a child of eleven. And on the morning of the twenty-eighth I put my daughter on a cart to Silt Row, because there is no room in that yard for a woman of forty-one and a child of nine in a flood month and I was not going to stand in it with her and I have thought about that every day since.
 
 "So she was four miles away. And I have been reading a market all week that says a man went into a hole in that yard to fetch somebody. **If my daughter had been in that yard on the twenty-fifth, I would be standing in this hall telling you that I saw a man go into a hole in this city to fetch a child out of a floor, and every one of you would believe me, and about two hundred of you would be standing up, and it would not be true, and I would not be able to prove one word of it, and I would be believed, because a mother is believed.**
 
@@ -100,7 +100,7 @@ And the fourth thing that came out of that room was the entry, and it is the rea
 
 "So we write the facts. And the facts are: the hour, and the list that was read, and the two men on the floor and the one who was not in the terms, and the number of inches the scalp had gone into the bone since the second week, and the shoulder that went on the twenty-fifth and was never set, and the form on a wall with an empty chain of witnesses on it for thirteen days, and the post in a yard, and the one word, and the man, and the hand.
 
-"And it will be four pages. And it will be the longest entry in this book, and in four hundred years somebody will point at the page and say *there* and they will be able to say it because there is nothing in it that anybody would have to take on trust. **And every single person in this room who wants a shorter entry wants a shorter entry because they want to be able to point at a reason.** And a reason is a finding. And findings are what the twenty-fifth day of this month was, and eleven people came out of a floor because a good working's residue arrived at the oldest damaged thing in this river at a time nobody chose, and nobody chose that, and everybody has been living with a reason for it ever since, and there is no reason."
+"And it will be four pages. And it will be the longest entry in this book, and in four hundred years somebody will point at the page and say *there* and they will be able to say it because there is nothing in it that anybody would have to take on trust. **And every single person in this room who wants a shorter entry wants a shorter entry because they want to be able to point at a reason.** And a reason is a finding. And findings are what the twenty-fifth day of this flood was, and eleven people came out of a floor because a good working's residue arrived at the oldest damaged thing in this river at a time nobody chose, and nobody chose that, and everybody has been living with a reason for it ever since, and there is no reason."
 
 ---
 
@@ -108,7 +108,7 @@ The entry was read out at about the seventh hour and it took twenty-two minutes 
 
 > **And: a hold is a working without a witness, and the residue of one goes into the person who did it.**
 >
-> **That sentence was spoken in a doorway in this city's yard on the twenty-fifth of this flood, by a woman of this world and a woman from another, about a child of eleven on a standing flagstone, and it has been used in this city since by everybody who has wanted a true sentence to stand on, and it is entered here on the thirty-ninth of this month because it is the truest sentence anybody in this city produced in a flood month and it did not stop one thing, and a true sentence that does not stop a thing is a description and not a reason, and this book has just refused to make it a reason, and that refusal is the entry.**
+> **That sentence was spoken in a doorway in this city's yard on the twenty-fifth day of this flood, by a woman from another world to a man from another world, about a child of eleven on a standing flagstone, and it has been used in this city since by everybody who has wanted a true sentence to stand on, and it is entered here on the thirty-ninth day of this flood because it is the truest sentence anybody in this city produced in a flood month and it did not stop one thing, and a true sentence that does not stop a thing is a description and not a reason, and this book has just refused to make it a reason, and that refusal is the entry.**
 >
 > **And: the man in the book is the reason and it cannot be proved to be.**
 >
@@ -124,7 +124,7 @@ There is no name in that entry that is not a name of a person of this city or of
 
 The second group was named and housed separately on the afternoon of the thirty-ninth day, and it took about an hour and a half, and the hour and a half was almost entirely an argument about a room.
 
-They had been in the disused Salt Weavers' chapel two floors above the market for eleven days. It has four benches, a floor, a window behind plaster that nobody has opened in six years, and a key held by a market woman, and no arrangement of any kind beyond that, and there was a condition attached to the key — *take the plaster off the north wall at the end of it* — and the plaster was still on, because eleven people had been in a city for eleven days where eleven more had come out of a floor under them and nobody had a spare day.
+They had been in the disused Salt Weavers' chapel two floors above the market for fourteen days. It has four benches, a floor, a window behind plaster that nobody has opened in six years, and a key held by a market woman, and no arrangement of any kind beyond that, and there was a condition attached to the key — *take the plaster off the north wall at the end of it* — and the plaster was still on, because eleven people had been in a city for fourteen days where eleven more had come out of a floor under them and nobody had a spare day.
 
 "They are to be housed separately from the first," said Vail, in the hall, "and separately means a room, and it means a page, and it means witnesses of their own choosing, and it means that the two lists in this book do not share a line, and it means that a person on one of them may not speak for a person on the other, and every one of those is a thing this city has had to invent in a month and the first of them was invented by a boy of nineteen on the twenty-sixth and it is the only instrument anybody has got."
 
@@ -136,7 +136,7 @@ It was done in about an hour and a half and the outcome is this: the **upper flo
 
 The list on the wall is: *three rooms. One stove. A key to the front and a key to the back. Water is carried up in the morning by a boy of fourteen of this city and is not asked for. Nothing else is promised. Nothing else is owed. Nobody is to be put in these rooms who is not on the second list.*
 
-And the condition attached to the Salt Weavers' chapel key — *take the plaster off the north wall at the end of it* — **lapsed**, and it is entered as lapsed, and it is entered as lapsed with the reason, and the reason is in Vail's hand: *because a city that conditions a dry room for eleven people on eleven days of work is a city that counts, and this city has been counting wrong for a month, and I am not going to be the notary who entered a charge on eleven people.*
+And the condition attached to the Salt Weavers' chapel key — *take the plaster off the north wall at the end of it* — **lapsed**, and it is entered as lapsed, and it is entered as lapsed with the reason, and the reason is in Vail's hand: *because a city that conditions a dry room for eleven people on fourteen days of work is a city that counts, and this city has been counting wrong for a month, and I am not going to be the notary who entered a charge on eleven people.*
 
 The surname on the register is entered as it was given. There is a column for it and the column is narrow, because a column in a book is narrow, and about a hundred and sixty people in this city keep registers.
 

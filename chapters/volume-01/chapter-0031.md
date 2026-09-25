@@ -168,7 +168,7 @@ And then she said the part that has been in the Reach since the twenty-second da
 >
 > *The fourth answer is the one I cannot rule out and the one I am most afraid of, and it is this: that there is somebody in there, and that we know it, and that a room with a man in it is a room somebody has been in twice.*
 >
-> *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
+> *Ask the people who maintain the gate. Ask the keeper. And when a keeper tells you that the count is somebody else's, ask that one as well, because that is what a keeper is for.*
 >
 > *And on Tuesday, on the thirty-sixth day, I am going to Nine Elms, and Petra Oake is of Nine Elms, and the question is going to come at me again in a yard, and I am going to have to say a whole sentence to a woman of seventy about a man in a wall, and I have not got one, and the reason the book does not have one either is that everybody who has written anything about this in a month has written about a place.*
 
@@ -184,31 +184,31 @@ Renna Ord came up the stair behind him at a quarter past six that evening with a
 
 ---
 
-He went down the two hundred steps at about half past ten that night because the tide was at the top of the thirty-third and because a man with a rule was going to be there at one in the morning to put it in a crack, and because he had been doing that since the second night and had got about four hours of sleep in three nights and did not intend to stop on the thirty-second of a flood.
+He went down the two hundred steps at about half past ten that night because the tide was at the top of the thirty-third and because a man with a rule was going to be there at one in the morning to put it in a crack, and because he had been doing that since the second night — twenty readings in the first eighteen nights and then fourteen nights of nothing at all, which was his own doing and not the water's — and had got about four hours of sleep in three nights and did not intend to stop on the thirty-second of a flood.
 
 The lower gallery of the Lock of Salt is a barrel-vaulted chamber above the sill with three arched bays, a central channel, and a black timber and iron slab across the near end that the dock crew holds under during repairs. Four marks in chalk on the second bay wall were made by a docker on the twenty-fifth day so that a number would still be in a month, and the number itself is written over the second bay in a hand that is not a clerk's and will be there in the winter.
 
-The pale edge of the join in the gate is a line of hard light in a dark wall where new stone has been let into old stone badly, and it is where the arrivals came out on the first morning of this flood, and it has been measured every night since the second night by three chalked marks and a folding steel rule, and the readings are on the wall of the second bay in his own hand because he is the only man in this city who writes in that hand.
+The pale edge of the join in the gate is a line of hard light in a dark wall where new stone has been let into old stone badly, and it is where the arrivals came out on the first morning of this flood, and it has been measured on twenty of the nights since the second one by three chalked marks and a folding steel rule, and the nights he did not go down are ruled off in the column in his own hand, because a ruled line is a fact and a missing line is a fight, and the readings are on the wall of the second bay in his own hand because he is the only man in this city who writes in that hand.
 
 Seven and seven-eighths on the eighteenth day.
 
 **Eight and five-eighths** on the thirty-third.
 
-Three-quarters of an inch in fifteen days, in one step, and the step fell on the twenty-fifth at the eleventh hour and eleven minutes, and a crack does not step, and the four nights since have been ordinary nights and the number has not moved one sixteenth of an inch on any of them, and the number chalked on the wall of the second bay — nine, across, toward the near gate, in a docker's hand — is not this number and has never been this number, and he had been reading them as one thing for eight days, and on the thirtieth at a quarter past six he had told Renna Ord in this gallery that there would be about a quarter of an inch in it by Saturday morning.
+Three-quarters of an inch in fifteen days, in one step, and the step fell on the twenty-fifth at the eleventh hour and eleven minutes, and a crack does not step, and there is one reading in this column after the twenty-fifth and the number in it has not moved one sixteenth of an inch from the number on the eighteenth, and seven nights stand between that step and tonight with a ruled line through each of them and he is not going to pretend to know what they were, and the number chalked on the wall of the second bay — nine, across, toward the near gate, in a docker's hand — is not this number and has never been this number, and he had been reading them as one thing for eight days, and on the thirtieth at a quarter past six he had told Renna Ord in this gallery that there would be about a quarter of an inch in it by Saturday morning.
 
 He wrote that down. He wrote it in the gallery, in his own hand, on the back of a leaf, and the leaf is in the notebook, and it says:
 
-> *Thirty-third day, the first hour. Eight and five-eighths. Three-quarters since the eighteenth, one step, on the twenty-fifth, and four ordinary nights with nothing in them.*
+> *Thirty-third day, the first hour. Eight and five-eighths. Three-quarters since the eighteenth, one step, on the twenty-fifth, and fourteen nights with nothing in them and a ruled line through every one.*
 >
 > *I told a docker at ten to six on the thirtieth that there would be about a quarter of an inch by Saturday morning, and there is three-quarters, and the three-quarters is exactly one step of three-quarters, and a step is a decision and a curve is a press, and I predicted a quarter because I was thinking of fifteen nights of ordinary work and I did not count the twenty-fifth, and the reason I did not count the twenty-fifth is that on the twenty-fifth I was four feet back from a gate with a rule in my hand and not in it, and I have been counting the nights that I stood there for, and not the one that mattered.*
 >
-> *Eleven readings would be a curve. This is twenty-one readings and the twentieth is where a number stops being a number and starts being an argument.*
+> *Twenty readings, and then fourteen nights ruled off, and then the twenty-first, which is tonight. The twentieth is where a number stops being a number and starts being an argument and I did not know that on the eighteenth night, and it is my own column, and I ruled the fourteen off myself, and a column with fourteen ruled lines in it is worth more to whoever comes after me than a column with fourteen missing out of it.*
 >
 > *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
 
 And then he came up the stair at about a quarter to two, and Renna Ord was in the gallery with the chalk in her hand.
 
-"You did it again," she said. "Forty-one nights in a row you have come up here at one and gone down at quarter to two."
+"You did it again," she said. "And you have not been down there in a fortnight, and about nine people in this gallery know it and not one of them has said it out loud, and I am not going to say the rest of it in front of you."
 
 "It's a rule."
 

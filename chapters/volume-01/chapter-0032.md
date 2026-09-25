@@ -6,7 +6,7 @@ There is a tallow store on the upper road above the high-water line and it is th
 
 It came out in the yard on the Sunday morning, at about the sixth hour, in the rain, in front of about a hundred and forty people, and it came out because Jonah Pike had spent a night writing it and because the yard is the only room in this city where a thing gets said in public by whoever is nearest, and on the Sunday morning the nearest was a man from another world who had put the true reason for refusing a workway on a keeper's door two days before and had slept about two hours of the night between.
 
-The nearest had, at about the fifth hour, carried four buckets of water up two flights of stairs to the disused Salt Weavers' chapel for eleven people who came out of a floor eleven days ago, one bucket at a time, in his right hand, up a stair with no rail, and had done it in about nineteen minutes, and one person saw him do it and did not know what she was looking at, which is a girl of sixteen called Kirsty Lund who has been in this world eight days and who wrote it down that afternoon in a school exercise book with the entry *he carried four buckets up and did not put them down and did not say anything about it and his face did not do anything*, and Mina Okoye read that entry on the Sunday evening and did not show it to anybody for four days.
+The nearest had, at about the fifth hour, carried four buckets of water up two flights of stairs to the disused Salt Weavers' chapel for eleven people who came out of a floor nine days ago, one bucket at a time, in his right hand, up a stair with no rail, and had done it in about nineteen minutes, and one person saw him do it and did not know what she was looking at, which is a girl of sixteen called Kirsty Lund who has been in this world eight days and who wrote it down that afternoon in a school exercise book with the entry *he carried four buckets up and did not put them down and did not say anything about it and his face did not do anything*, and Mina Okoye read that entry on the Sunday evening and did not show it to anybody for four days.
 
 The binding is said twice a day and nobody has to hear it. That is the whole invention and it took thirty years and four women and it is the reason about a hundred and forty people were standing in a yard at six in the morning on a Sunday in a flood month, and it is the reason Jonah Pike chose it, which Adrian worked out about four minutes into the thing and wrote down afterwards and underlined, because Jonah Pike choosing a room is the most frightening information Adrian received that week.
 
@@ -129,6 +129,8 @@ Adrian said, in the local language, to about forty people: "Because there is no 
 
 "Serena—"
 
+"**It is Sera Vail.**" She did not look up and she did not soften it. "You have said it in a room, in front of forty people, on the day you could least afford to, and you have said it to me. In nine months somebody in a market is going to be talking about the name of the woman who holds the page nobody is allowed to see, and it is going to be the one you invented, and it is going to be in a book that goes to Aurel in a wooden case. Write *Sera* and go on."
+
 "Enter this instead, and read it in the yard afterwards and not in here, because in here there are forty people and in a yard there are two hundred." She wrote for about four minutes, which is a long time for her. "Enter: that on the thirty-first day of the flood this Concord answered, at a sitting of four hundred and ten persons, the question whether a first license may exist in Saltwake, and the answer was no; and that the answer was no, and that it is a public answer, and that it was given before the notice from Aurel was read and was not given in answer to it, and both of those facts are to be in the same entry and neither of them is above the other, in the form the book has used since the thirty-first day and about which this city has already had one argument it did not need."
 
 "And then?"
@@ -143,7 +145,7 @@ Adrian was in the room and had not spoken for about two and a half hours, and Va
 
 > **That the holder of the pull was in the room at the tenth hour of the morning of the tenth day of the new month, when the answer to the notice of the Registrar of Crossings and Tides was entered, and read out, and sealed with the seal of this Concord; and that he was asked whether he had anything to say and said that he had one sentence and that he was not going to say it, and that he was entered as present and silent, and that this is entered as a fact and not as a fault, and that the reason is entered and the reason is in his own hand and is not this book.**
 
-*Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
+*Ask the people who maintain the gate. Ask the keeper. And ask the woman who keeps a count, and put her answer in the book in her own words and do not summarise it, because she will not come back and say it a second time.*
 
 *And on Friday, in a yard, in front of two hundred people, about the man from the wall who would not say why.*
 
@@ -175,7 +177,7 @@ It is the fourth term. It is always going to be the fourth term, and Adrian has 
 
 Renna Ord read it out herself.
 
-She did not ask. She was in the yard and she has been in this city for fifty-one years and she cannot read, and she took the four sheets off the trestle and stood in front of about a hundred and forty people and had Peth Lomas read the fourth term aloud, in the local language, in a flat voice with a bar in his hand, and then she said the sentence, and it is eleven words and it is in the book in her own hand and it has been read back by a notary four times since:
+She did not ask. She was in the yard and she has been in this city for fifty-one years and she cannot read, and she took the four sheets off the trestle and stood in front of about a hundred and forty people and had Peth Lomas read the fourth term aloud, in the local language, in a flat voice with a bar in his hand, and then she said the sentence, and it is nine words and it is in the book in her own hand and it has been read back by a notary four times since:
 
 "**That is a lock that a guild can close.**"
 

@@ -12,7 +12,7 @@ The boy came up the market at about the eleventh hour at night and Adrian was in
 
 "That is the second gate."
 
-"Osten Fenn holds the second gate at Long Water and Osten Fenn is twenty-two and he is in Saltwake because he entered a statement of error against this city's book on the fourth day of this flood and was right, and he is asleep upstairs in the Salt Weavers' chapel over about nine of the eleven." She was already putting her coat on. "Where is Renna Ord."
+"Osten Fenn holds the second gate at Long Water and Osten Fenn is twenty-two and he is in Saltwake because he entered a statement of error against this city's book on the thirty-first day of this flood and was right, and he is asleep upstairs in the Salt Weavers' chapel over about nine of the eleven." She was already putting her coat on. "Where is Renna Ord."
 
 "She went up the Reach road this morning with four men and a boat because a miller sent a message to the well-head, and she has not come back."
 
@@ -52,7 +52,7 @@ Adrian put the notebook down on the trestle.
 
 "And then what did he say."
 
-"He said: *there is a place in this city where eleven people came out of a floor eleven days ago and I was one of the four who went in on the day after and I came back in eleven seconds, and there is a mark in this world on a living person, and the mark can be set again, and it has been set once and it cost a season of a field and four men's day, and it can be set again lawfully, with witnesses, in a yard, properly, and it would take about forty minutes and it would cost something and I do not know what and it is not a cheap thing to do to the man who carries it.*"
+"He said: *there is a place in this city where eleven people came out of a floor twelve days ago and I was one of the four who went in on the day after and I came back in eleven seconds, and there is a mark in this world on a living person, and the mark can be set again, and it has been set once and it cost a season of a field and four men's day, and it can be set again lawfully, with witnesses, in a yard, properly, and it would take about forty minutes and it would cost something and I do not know what and it is not a cheap thing to do to the man who carries it.*"
 
 Eli Mercer stopped.
 
@@ -108,7 +108,7 @@ There were three objections and all three of them were right and all three of th
 
 **Mina Okoye** was last, and she did it in a room, at about the sixth hour of the evening, with Owen Park, and it took about nine minutes and there are four sentences of it in the book and Adrian has never been able to write about it except in these terms.
 
-"You told me in a doorway in a yard on the twenty-fifth day of this flood that a hold is a working without a witness and the residue of one goes into the person who did it. I said it. You wrote it down. I have watched about nine people in this city use that sentence since and I would like to say what I have learned about it, which is that it is the truest sentence any of us produced in a month and it has stopped nobody, and everybody who uses it uses it as a description of a thing they have already decided to do.
+"I said it to Adrian Vale in a doorway in a yard on the twenty-fifth day of this flood — *a hold is a working without a witness and the residue of one goes into the person who did it* — and he wrote it down and a mason put it in a book and not one of the two of them has ever handed it back to me, and I have watched about nine people in this city use that sentence since and I would like to say what I have learned about it, which is that it is the truest sentence any of us produced in a month and it has stopped nobody, and everybody who uses it uses it as a description of a thing they have already decided to do.
 
 "You are going to hold a mark by yourself, in a floor, in the dark. That is the same operation with a worse arm and a better sentence. I have no medical objection. I have a medical objection and I am going to make it and you are going to agree with it and it is going to make no difference, and I want both of those facts in a book together so that nobody can later say that a woman with tweezers did not do this part."
 
@@ -122,7 +122,7 @@ There were three objections and all three of them were right and all three of th
 
 The count was taken in the yard at about the seventh hour of the evening of the thirty-seventh day of the flood and it is the second count in the history of the Lantern Concord and the first one that was not a count of the whole hall, and it is entered with the reason and the hour and the fact that about two hundred people did not stand in a line about it.
 
-It is entered as: **for the establishment of a temporary return mark and a single first passage, one hundred and forty-one; against, sixty-four; abstentions and not-standing, not counted, thirty-one.** And the entry says, in the notary's words: *and that the count was taken of persons who wished to express it, and that about thirty-five persons were in this yard and were not asked, and that this is entered because the form of the count is the form of the count of the thirtieth day and this is the second time this city has counted its own opinion and both counts are wrong in the same direction and I do not yet know in what direction.*
+It is entered as: **for the establishment of a temporary return mark and a single first passage, one hundred and forty-one; against, sixty-four; abstentions and not-standing, not counted, thirty-one.** And the entry says, in the notary's words: *and that the count was taken of persons who wished to express it, and that about five persons were in this yard and were not asked, and that this is entered because the form of the count is the form of the count of the thirtieth day and this is the second time this city has counted its own opinion and both counts are wrong in the same direction and I do not yet know in what direction.*
 
 ---
 
@@ -142,7 +142,7 @@ It is entered, in the notary's hand, with a note, and the note is in her own wor
 
 > **And that the cost of the fourth item is entered for the second time and the reason it is entered for the second time is that it has been taken twice, and that this is the fifth time a season of the same field has been entered in this book in a month, and that a cost that has been entered five times is not a cost any more, it is a notation, and I have entered it five times and I am the notary and it is my column, and I am not going to say anything about it in a yard tonight because I am going to be asked to read something else in a yard tonight that I am not going to be able to read.**
 
-The mark went into the heel of Owen Park's right hand, under the two inches of nothing, and it is the second return mark ever set in the world and the first one ever set on a person who was not going through on the day it was made.
+The mark went into the heel of Owen Park's right hand, in the ordinary place a hand takes a thing it is going to grip, and it is the second return mark ever set in the world and the first one ever set on a person who was not going through on the day it was made.
 
 Which is the whole of what the fourth item of the terms says, and Adrian wrote it, and Vail read it, and it is the sentence he has asked to have read back to him in a year by a person who does not like him:
 
@@ -190,6 +190,6 @@ Nyla Ferrow wrote it on the board at about the twelfth hour of the night of the 
 > **Said by the keeper of this ground on the twelfth day of the new month, at the request of the man named, in a yard, in front of about twenty persons, and not in a room.**
 > **It is a rule and it is a man's name on a floor.**
 
-And it came off on the Wednesday, at about the fourth hour of the morning of the thirty-eighth day, on the Sunday after, in daylight, with a cloth and a bucket, and a man in a good coat was there when it came off, and he washed the board himself and did not stop the keeper from washing the other side, and there are about a hundred and forty people in this city who read that sentence and eleven of them can still repeat it, and not one of them knows what it was for.
+By the morning of the thirty-eighth there are about a hundred and forty people in this city who have read that sentence, and eleven of them can still repeat it, and not one of them knows what it was for, and the sentence does not say, and a rule never does.
 
 Ottoline Vask saw it go up. She said nothing about it then, and she said nothing about it at about the fifth hour the next morning, and at about the seventh hour of the evening of the thirty-seventh she went up the two hundred steps of the walk-round to the cap of the old landing with a lamp and a bar, alone, and sounded the outer wall for about forty minutes, and came back down, and did not tell anybody what she was doing there, which was the first of her six rules and the only one she ever broke and she broke it because of a sentence in chalk on a door.

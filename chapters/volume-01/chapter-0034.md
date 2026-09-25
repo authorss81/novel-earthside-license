@@ -26,7 +26,7 @@ It is the page with the eleven names on it, entered as each person gives them an
 
 The four columns are these: **name as given. What the person is owed by this city, being four things, and the day each was answered. What the person has said about themselves, in their own hand or by dictation, and where it is. And whether the person wishes the entry to stand.**
 
-And at the bottom of the page, in the eighth week of a flood, there is a fifth column, which Vail entered on the twenty-ninth day because Teodor Blaz could not spell the local language and Priya Shah would not have a row of a page that eleven people could not read in a room where they might be asked about it.
+And at the bottom of the page, in the sixth week of a flood, there is a fifth column, which Vail entered on the twenty-ninth day because Teodor Blaz could not spell the local language and Priya Shah would not have a row of a page that eleven people could not read in a room where they might be asked about it.
 
 The fifth column is a **thing the person said they saw**, and the column exists because the form on the loft wall says that a person is allowed to enter one, and nobody in this city was ever going to use a form on a wall and so the form came to the book instead, which is a thing Sera Vail did on purpose and which she has not explained to anybody and which Adrian has thought about for six days.
 
@@ -62,7 +62,7 @@ He had come in from the Reach road with eleven hours' walking in his legs and ha
 
 "And what did you tell him."
 
-"I told him the truth, which is that it does not go on the eleven, and that there is nowhere else in this book for it, and that the page about the eleven is the only page in this book that anybody from another world has ever been allowed to be on, and that I have been putting strangers' words on that page for six days because it is the only page I have that has a place for them." She put the pen down. "And he said: *then put it on that one, because that is where the other ones are, and I am not anybody.* And I said I could not do that without the holder of the pull, and he said, *he is the man out of the wall, does he not decide everything*, and I said that he decides nothing, and he said, *then who does*, and I did not have an answer, and I have not got one now, and I am forty-eight years old and I keep a book and I did not have an answer to a man with a reed hook in his hand."
+"I told him the truth, which is that it does not go on the eleven, and that there is nowhere else in this book for it, and that the page about the eleven is the only page in this book that anybody from another world has ever been allowed to be on, and that I have been putting strangers' words on that page for six days because it is the only page I have that has a place for them." She put the pen down. "And he said: *then put it on that one, because that is where the other ones are, and I am not anybody.* And I said I could not do that without the holder of the pull, and he said, *he is the man out of the wall, does he not decide everything*, and I said that he decides nothing, and he said, *then who does*, and I did not have an answer, and I have not got one now, and I am fifty years old and I keep a book and I did not have an answer to a man with a reed hook in his hand."
 
 She turned the page round and put it in front of him.
 
@@ -98,7 +98,7 @@ Wenna Cray's statement is four sentences and it is the longest thing she has eve
 
 > **I do not say the account is not true. I say that a man of Silt Row who cuts reed has been in that channel a hundred times since he was nine, and that he says his father told him not to go there, and that there is a place at the bottom of it where the water goes the wrong way on a still day, and it has always done.**
 >
-> **I say that a thing which has always done is not a discovery, and that the man who saw a thumb of light in it on Tuesday was sent there by a man who has been going to that place since the eighteenth day of this flood at six in the morning before anybody was up, and nobody sent him, and I have known about that for five weeks because I have a man who goes out with him.**
+> **I say that a thing which has always done is not a discovery, and that the man who saw a thumb of light in it on Tuesday was sent there by a man who has been going to that place since the eighteenth day of this flood at six in the morning before anybody was up, and nobody sent him, and I have known about that for eighteen days because I have a man who goes out with him.**
 >
 > **I say that the page this is on is the page about eleven people, and that a man who saw a light has been put on it so that his sighting is on the same paper as theirs, and that if that is a fair thing to do then I want somebody to come and tell me what it is to be done to, because I have been in this market for four weeks saying what happens to people in a city that keeps a count, and I have been saying it about a number on a board.**
 >
@@ -124,7 +124,7 @@ The eleven flagstones are entered, with the hours, because the stones are the st
 
 **The ditches.** Wenna Cray of Silt Row brought the thing to the hall on the Tuesday morning in one sentence and it is in the book, and she said it the way she says everything, which is as a fact about a number:
 
-"Four villages in this Reach cannot promise their gate this week and did not promise it last week either, and one of them is Long Water, and the man who holds the second gate at Long Water entered a statement of error against this city's book on the fourth day of this flood and was right, and nobody has gone to tell him that he was right, and I have been thinking about that for two days and I am going to say the whole of it out loud: a village that cannot promise a gate-opening on a date does not keep its share of the water, and that is not a fine, and there are nineteen people putting flour on ditch banks at four in the morning who were not asked and have told nobody, and eleven of them are in this hall, and this city is going to keep using a field as a cost column for as long as a field can stand it, and on the day it cannot stand it the last four villages will find out about the whole arrangement from a market."
+"Four villages in this Reach cannot promise their gate this week and did not promise it last week either, and one of them is Long Water, and the man who holds the second gate at Long Water entered a statement of error against this city's book on the thirty-first day of this flood and was right, and nobody has gone to tell him that he was right, and I have been thinking about that for two days and I am going to say the whole of it out loud: a village that cannot promise a gate-opening on a date does not keep its share of the water, and that is not a fine, and there are nineteen people putting flour on ditch banks at four in the morning who were not asked and have told nobody, and eleven of them are in this hall, and this city is going to keep using a field as a cost column for as long as a field can stand it, and on the day it cannot stand it the last four villages will find out about the whole arrangement from a market."
 
 **And the thing nobody noticed.**
 
@@ -160,7 +160,7 @@ And Adrian Vale was the man in this city who was standing in a yard with a noteb
 >
 > *I put a man with no page, no shift, and no standing in this city at the bottom of a reed channel to look at a light, for a purpose of my own that I have not told him, and a man with a reed hook who has been in that channel since he was nine has seen something and cannot say a whole sentence about it, and I have signed his words into a public book in four seconds without reading them, and a woman of forty-one is going to stand up in a hall tomorrow and say that the man in the book may or may not have known, and she is right, and I do not know, and there is a version of the next four days in which I never ask him what the light was, and I have been telling myself for a month that a thing nobody has tested is a thing that must be protected, and I protected it, and the protection was me not asking one man one question, and that is a rule about people made by a man who did not ask, and it is the worst rule on a wall, and I wrote that sentence myself nine days ago.*
 >
-> *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count.*
+> *Ask the people who maintain the gate. Ask the keeper. Ask the woman who keeps a count. And when a person asks you the same question a second time, answer it a second time, because the second time is the one they will be able to use.*
 
 ---
 

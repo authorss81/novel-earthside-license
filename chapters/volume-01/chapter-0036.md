@@ -104,7 +104,7 @@ And then she said:
 
 She turned round to the yard.
 
-"The twenty-eighth of this month, at the sixth hour, in the rain, at the foot of two hundred steps, a mason of this city read this item, and it said: **the list on the chapel door is read in the yard first, in the open, before the bar goes in.**"
+"The twenty-eighth day of this flood, at the sixth hour, in the rain, at the foot of two hundred steps, a mason of this city read this item, and it said: **the list on the chapel door is read in the yard first, in the open, before the bar goes in.**"
 
 "And tonight it says *when there is time*," said Tamsin Quill, from the front, in English, and then in the local language.
 
@@ -162,7 +162,7 @@ There was a noise in the yard.
 
 He looked up.
 
-"There is a man in the reed at Long Water. There has been a man in the reed at Long Water for thirty-one hours. And I wrote a sentence on the twentieth of this month that nobody was going down to fetch anybody, and I wrote it about a dig and a bar and about a floor four feet from an arch, and I wrote it because it was true on the twentieth and because I was tired and because there had been nine days of a city asking a man to fetch a girl, and the sentence was the truest thing I had. And there is a family at the front of this yard and a woman of thirty-one who walked eleven miles in the night a week ago and asked a boy a question at the foot of a stair, and the answer to her question was *no*, and she has been carrying that answer for a week, and tonight she is asking for a yes, and I cannot give it to her, and I am not going to pretend that the sentence I wrote on the twentieth is a reason to refuse her, because it is not a reason, it is a *description of a day that is not this day.*"
+"There is a man in the reed at Long Water. There has been a man in the reed at Long Water for thirty-one hours. And I wrote a sentence on the twentieth day of this flood that nobody was going down to fetch anybody, and I wrote it about a dig and a bar and about a floor four feet from an arch, and I wrote it because it was true on the twentieth and because I was tired and because there had been nine days of a city asking a man to fetch a girl, and the sentence was the truest thing I had. And there is a family at the front of this yard and a woman of thirty-one who walked eleven miles in the night a week ago and asked a boy a question at the foot of a stair, and the answer to her question was *no*, and she has been carrying that answer for a week, and tonight she is asking for a yes, and I cannot give it to her, and I am not going to pretend that the sentence I wrote on the twentieth is a reason to refuse her, because it is not a reason, it is a *description of a day that is not this day.*"
 
 A woman at the front of the yard said, loudly, in the local language: "Then who is it for?"
 
@@ -180,13 +180,13 @@ The first use of the mark was not the rescue. That was in the terms and it was i
 
 Item five as read, then: **the first use of the mark is a test and not a passage, at the second hour of the morning, at the site named, with two named persons of this city, and the mark may not be used for any other purpose until the test has been entered.**
 
-And at about the second hour of the morning of the thirty-seventh day, which is the small hours of the thirty-eighth, Owen Park was at the top of the walk-round.
+And at about the second hour of the morning of the thirty-eighth day, which is the small hours and about two hours after a mark was set in a low room by the salt wharf, Owen Park was at the top of the walk-round.
 
-Two hundred steps down with a half-rotten rail and a low parapet, and at the bottom the outer channel, and in the wall of the outer channel, under the cap of the old landing, eighteen inches long and three fingers wide, dead straight, a closure left by a quorum working on the ninth day of this flood, and the lip of it covered exactly by a thumbnail.
+Two hundred steps down with a half-rotten rail and a low parapet, and at the bottom the outer channel, and in the wall of the outer channel, under the cap of the old landing, eighteen inches long and three fingers wide, dead straight, a closure left by a quorum working on the third day of this flood, and the lip of it covered exactly by a thumbnail.
 
 Vask was there with a lamp and a bar and did not touch it. Hettis Roke was on the step above him with a horn he had not blown. A docker with a barrow was at the top of the stair because Renna Ord had said the man with a mark in his hand does not go anywhere alone and had not said it to anybody else.
 
-Owen Park put his right hand flat on the lip of it, with the mark under his hand, and he was the only man in this world who could put a mark on a join, and the join was a closure made by four witnesses in the fourth week of this flood and it is in a book and it is not used.
+Owen Park put his right hand flat on the lip of it, with the mark under his hand, and he was the only man in this world who had ever put a mark on a join and had ever put a closure on one, and the join was a closure made by four witnesses in the first week of this flood and it is in a book and it is not used.
 
 Nothing happened for about four minutes and a half.
 
