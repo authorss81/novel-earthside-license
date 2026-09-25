@@ -24,11 +24,13 @@ A piece of the Grammar’s permission language that has separated from a resonan
 
 A fragment installed in a resonant site, witnessed by at least one willing Veyran, and accepted by a receiving community. A recognized License has a named holder, a cost, a review, and someone able to suspend it. Establishing one is a public act, never a reward.
 
+Acceptance is the part that is easy to fake and must not be. A community that has agreed to part of the receiving area has not agreed to the whole, and a reduced receiving area is an **incomplete recognition**, not a smaller recognized License. The Volume 1 route in Chapter 10 is exactly this: site, holder, witnesses and cost are entered in the ledger, but one Reed village refuses and the Lantern Concord has not ruled, so the instrument is pending. A pending instrument can be inspected, argued over and costed; it cannot be used.
+
 ### Holder
 
 A person recognized *by a recognized License* as its named holder. A **fragment-bearer** is someone who has accepted a fragment without a local witness; Adrian is a fragment-bearer from Chapter 1 until a local quorum gives him standing in Volume 1. Do not call him a holder, a bearer of the License, or a licensed player before that point.
 
-Being a named holder is accountability, not power: it is the person the witnesses will come to when an opening goes wrong, and it carries the duty of inspection. Adrian becomes the named holder of the Volume 1 quorum route in Chapter 10 while he is still only a Witness. **Passage holder** is a different and later thing — the Stage 2 permission to open a threshold himself with two willing local witnesses. Never use the two interchangeably.
+Being a named holder is accountability, not power: it is the person the witnesses will come to when an opening goes wrong, and it carries the duty of inspection. Adrian stops being a fragment-bearer in Chapter 10, when a local quorum gives him standing, and he is the **named holder named in the ledger** of the Volume 1 quorum route from that chapter while he is still only a Witness. Standing and recognition are separate: because that route’s recognition is incomplete, the named-holder role there is a **recorded duty, not yet a License holding**. He becomes a holder of a recognized License only at the trial license in Chapters 48–50. **Passage holder** is a different and later thing — the Stage 2 permission to open a threshold himself with two willing local witnesses. Never use the two interchangeably.
 
 ### Threshold
 
@@ -67,6 +69,8 @@ A single act of Weave with a pattern, witness, and residue. A working may be a s
 ### Witness
 
 A person or community who observes, understands, and accepts a working. A witness is not automatically a victim or servant. A coerced witness weakens or reverses the result.
+
+Adrian’s Stage 1 in `power-system.md` is also called **Witness**. The stage and the person are different things and the prose should not blur them: a person witnesses a working, while a stage is what Adrian has earned. A local witness can refuse to recognize that Adrian has reached the stage. There is no “Witness mark” as a separate rank; the marks in this story are the fragment-mark on a palm, a return mark, and a black line.
 
 ### Join / join-line
 
@@ -108,6 +112,10 @@ The historical catastrophe caused by forcing a single harvest record during a fa
 
 The local name for the earlier crossing from Earth. The tradition mixes genuine memories, religious stories, and political invention. Do not use it as a neutral historical term.
 
+### Skyborn
+
+A dock-worker word for anyone who arrived out of the opening: literally “born of the sky.” In Saltwake it is first said as a joke and then hardened into suspicion, so it works as a label for how a crowd turns an accident into an accusation. It is local slang, not a species, not a religious rank, and not the same as the later Crown term “arrivant.” Use it the way the speaker uses it, and let characters notice when someone else uses it as a verdict.
+
 ### The Unwritten
 
 People, places, or obligations removed from a public record. The Unwritten may be living, missing, or legally invisible. “Unwritten” is a condition of the record, not a supernatural species.
@@ -124,7 +132,7 @@ An involuntary threshold produced by a damaged Anchorstone or a failed permissio
 
 ### Black line
 
-A thin precursor to a black scar: a place or person has registered a false promise, overload, or incomplete witness, but the route has not yet torn fully. A black line can be repaired or can deepen into a black scar if the underlying working is repeated or abandoned.
+A thin precursor to a black scar: a place or person has registered a false promise, overload, or incomplete witness, but the route has not yet torn fully. A black line can be repaired or can deepen into a black scar if the underlying working is repeated or abandoned. That describes the general possibility, not any one line: the chapel stone’s line is **not** repaired in Volume 1, and a line that has never been used to carry anyone has nothing spent on it.
 
 ### Black scar
 
@@ -146,8 +154,10 @@ A record whose terms are visible to the people affected and can be challenged, w
 
 ## Names and addresses
 
-- **Adrian Vale:** protagonist; Earthside designer; the only person initially recognized as the first licensed player.
+- **Adrian Vale:** protagonist; Earthside designer. He is the figure later records would call the first licensed player, which is a title no one grants him in Volume 1: he is a fragment-bearer from Chapter 1 to Chapter 10, and a Witness holding a recorded duty after that.
 - **Tamsin Quill:** Saltwake anchorwright and Adrian’s partner; never call her a “native guide” in narration.
+- **Sera Vail:** Saltwake’s Lantern Concord notary in Volume 1; writes and reads the public ledger and presses the Chapter 1 fragment-mark into the maintenance seam.
+- **Hettis Roke:** Hearthguard member who signs the Chapter 10 inspection line in Volume 1 and can refuse the route on the Hearthguard’s behalf.
 - **Mina Okoye:** first-cohort medic; her medical knowledge is practical, not magical authority.
 - **Dante Kuo:** Hearthguard captain and logistics expert.
 - **Priya Shah:** player ambassador and later Common Record editor.

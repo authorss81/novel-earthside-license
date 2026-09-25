@@ -14,18 +14,20 @@ These are the initial promises created by the bootstrap. Their status changes on
 
 - The breach at the Lock of Salt must become a controlled trial or be closed without erasing the people already affected.
 - Adrian must learn the difference between a System reward and a local working with a cost.
-- The six-person first cohort needs shelter, medical care, language work, and a real path to return or remain.
+- Adrian and the six arrivals — seven people, not a party — need shelter, medical care, language work, and a real path to return or remain.
 - Tamsin Quill must decide whether Adrian is a useful outsider or a threat to public law.
 - Ivenn must be useful enough to remain trusted while his selective guidance creates danger.
-- Owen Park’s eventual death, planned for Volume 1, must be permanent and must carry both Adrian’s responsibility and Owen’s choice.
+- Owen Park’s eventual death, planned for Volume 1, must be permanent and must carry Adrian’s responsibility, the Chapter 25 shoulder that was never set, and Owen’s own choice.
+- The Lantern Concord’s ruling on whether a first license may exist at all is still ahead at the end of Batch 0001; the Chapter 10 route is entered in the ledger, not ratified.
 
 ## Relationship and political threads
 
 - Adrian and Nora must repair the cost of his disappearance and his habit of treating family obligations as maintenance.
 - Adrian and Tamsin move from suspicion to professional trust before any romantic commitment.
 - Mina and Dante must be allowed to disagree with Adrian rather than become loyal followers.
-- The Lantern Concord, Reed Commons, Glass Crown, and Earthside families will all contest what “welcome” and “license” mean.
+- The Lantern Concord, Reed Commons, Glass Crown, and Earthside families will all contest what “welcome” and “license” mean. The Reed Commons become the Chapter 10 receiving community, and their refusal is recorded rather than overruled, so they are on the record before they are on stage.
 - The final charter cannot be ratified until the first provisional plural crossing has been tested and the human cost is public.
+- Why Owen alone perceives a relic-shaped light, when the physical bright edge of the damaged join is plain to everyone in daylight. This opens in Chapter 5, narrows in Chapter 8, and must stay open.
 
 ## Intentionally unresolved at bootstrap
 

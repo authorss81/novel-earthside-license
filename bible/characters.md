@@ -175,10 +175,21 @@ Celia is not a fantasy monarch. She works through risk assessments, contracts, s
 
 ## 11. First-cohort support and consequences
 
+The first cohort is **seven people**: Adrian plus the six who arrive through the outer tear in Chapter 5. “The six” always means the arrivals alone; Adrian is the seventh. Eli Mercer is not one of the seven.
+
 - **Noor Haddad**, 27, a bakery owner and logistics planner from Earth. She becomes the cohort’s quartermaster and later runs the Open Hand exchange. Her practical gift is noticing who has been left out of a distribution.
-- **Owen Park**, 36, a security contractor and the first player to treat Veyran locals as obstacles. He dies during the first volume’s bad threshold collapse. A temporary return mark is established for his rescue attempt; when the route tears, that mark becomes the **first black scar carried in a person’s own return mark** — the first scar that ends a life, and the first that another traveler might have tried to inherit. It is not the first black scar in the story: the outer threshold is already scarred in place by the overloaded join, and a black line has sat on the chapel stone since Chapter 7. His death is permanent and is caused partly by Adrian’s underestimated crossing cost and partly by Owen’s refusal to follow instructions; Adrian carries both truths.
-- **Eli Mercer**, 19, an impulsive beta tester who believes invulnerability is part of the game. He joins a later, smaller crossing in Volume 1 rather than the six-person first cohort. He is injured, learns the limits of the System, and remains a minor recurring player rather than a replacement hero.
+- **Owen Park**, 36, a security contractor and the first player to treat Veyran locals as obstacles. He alone perceives a relic-shaped light at the arrival and at the chapel stone, which no one else can see even in daylight when the physical bright edge of the damaged join is plainly visible; the story keeps that asymmetry unexplained. He is a bystander at the Chapter 25 tear, reaches for the missing child, and injures a shoulder that local healers never fully set; he carries it for the rest of the volume. He dies during the first volume’s bad threshold collapse. A temporary return mark is established for his rescue attempt; when the route tears, that mark becomes the **first black scar carried in a person’s own return mark** — the first scar that ends a life, and the first that another traveler might have tried to inherit. It is not the first black scar in the story: the outer threshold is already scarred in place by the overloaded join, and a black line has sat on the chapel stone since Chapter 7. His death is permanent and is caused partly by Adrian’s underestimated crossing cost, partly by the injury that was never set, and partly by Owen’s refusal to follow instructions; Adrian carries all three truths.
+- **Eli Mercer**, 19, an impulsive beta tester who believes invulnerability is part of the game. He joins a later, smaller crossing in Volume 1 rather than the first cohort, and he is not one of the seven. He is injured, learns the limits of the System, and remains a minor recurring player rather than a replacement hero.
 - **Lena Morrow**, 22, an Earthside physics student recruited later as a translator and materials researcher. She is a secondary character, not a second romantic interest.
+
+## 11b. Working cast at the Lock of Salt
+
+These are the local hands that perform the Volume 01 workings. They matter because Adrian never performs one himself: at Stage 1 he can only make a pattern visible enough for other people to work.
+
+- **Tamsin Quill** performs the anchor-side pattern in the Chapter 9 closure and again in the Chapter 10 route working, and is one of the four who sign the Chapter 10 inspection.
+- **The Chapter 9 dock crew** — two dock workers who hold the near gate in Chapter 4 and close the outer tear with Tamsin in Chapter 9 — are the other two signers of the Chapter 10 inspection. They are working locals, not named leads; their names stay in the public record even when the prose does not linger on them.
+- **Hettis Roke**, 44, a Hearthguard member who signs the Chapter 10 inspection line and can refuse the route on the Hearthguard’s behalf. He is the reason the route is a negotiated instrument rather than Adrian’s private arrangement.
+- **Sera Vail**, 50, a Lantern Concord notary who writes the public ledger entry, reads the five parts of a controlled threshold aloud at the Chapter 10 hearing, and presses the Chapter 1 fragment-mark into the maintenance seam. She is the civic face of the crossing: she does not believe in the System and does not have to, because her instrument is the record.
 
 ## 12. Relationship milestones
 
