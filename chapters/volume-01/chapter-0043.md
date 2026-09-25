@@ -14,7 +14,7 @@ Forty men went under the near gate at about the sixth hour and again at about th
 
 They said the four words at the volume they say them and in the voices they say them and out of the line and not together, because a docker in a felt hat made a crew promise it in a ledger on the eighteenth day of the flood, and the promise was read back four times, and the reason it was made is entered in the book and is the reason that the twenty-fifth day of the flood cannot later be called a thing a crowd did.
 
-The oath was not said louder today. Nobody chanted. A man on the third step of the gallery had a slate and wrote down the hour and the number of men and the volume, and a docker at the top of the second stair had a slate and wrote down the hour, and there are two figures in the book about what was said under that gate on the morning of the eighteenth day of the new month and neither of them is a number of words and both of them are the ordinary figure, and Vail has entered that the two men were not asked to agree and does not intend to make them.
+The oath was not said louder today. Nobody chanted. A man on the third step of the gallery had a slate and wrote down the hour and the number of men and the volume, and a docker at the top of the second stair had a slate and wrote down the hour, and there are two figures in the book about what was said under that gate on that morning and neither of them is a number of words and both of them are the ordinary figure, and Vail has entered that the two men were not asked to agree and does not intend to make them.
 
 ---
 
@@ -30,7 +30,7 @@ She called the number at about the seventh hour, from eleven feet up, with a bar
 
 It was in the same place.
 
-That is the twenty-third reading, and it is the first one in eleven days, and there are three ruled lines in the column between the twenty-second and this one, drawn in a man's own hand, and a ruled line is a fact and a missing line is a fight.
+That is the twenty-third reading, and it is the first one in three days, and there are two ruled lines in the column between the twenty-second and this one, drawn in a man's own hand, and a ruled line is a fact and a missing line is a fight.
 
 And then, at about the eighth hour, when the water had come off the staging and Vask was down it and the tide was on the turn, a boy of nineteen who has had seven watches in three weeks asked her for the rule.
 
@@ -38,7 +38,7 @@ And then, at about the eighth hour, when the water had come off the staging and 
 
 **Ovin Sarr** is nineteen. He came into this city on the second morning of the flood out of a hole in a wall and was pulled out of it by a man from another world, and he has never had a watch in this city that anybody could say was a gift, and he has had seven of them in three weeks, and on the thirty-third day of the flood he stood on the sill at the top of the second stair and said *it is not the tide* and it was entered and believed, and on the fortieth day of the flood a man in a good coat put a man on a roof to watch him for one morning and he has not been able to say in a room what the watch is for and tried for an hour.
 
-He asked for the rule at about the eighth hour of the morning of the eighteenth day of the new month and nobody gave it to him, and he asked twice, and the second time Ottoline Vask gave it to him and held the chalk for him because the stub was wet, and the reading is his and the number is his and he wrote it on the wall of the second bay under the docker's *nine*, and the *nine* is a different number and has never been this number, and he wrote his number in his own hand about four inches under a docker's and about nine inches to the left of it, and the two of them are on that wall together and no one has moved either.
+He asked for the rule at about the eighth hour of the morning and nobody gave it to him, and he asked twice, and the second time Ottoline Vask gave it to him and held the chalk for him because the stub was wet, and the reading is his and the number is his and he wrote it on the wall of the second bay under the docker's *nine*, and the *nine* is a different number and has never been this number, and he wrote his number in his own hand about four inches under a docker's and about nine inches to the left of it, and the two of them are on that wall together and no one has moved either.
 
 He read it back in the local language and got it out in the wrong order and read it again the right way, and then he said: "It is not the same."
 
@@ -90,7 +90,7 @@ Ovin Sarr said, at about the eighth hour and a half, in the local language, badl
 
 ---
 
-The man on the wall was two hundred steps from the gallery and he was not a docker and he was not a gate hand and he had no standing in that building at all, and he was on the wall of the second bay at about the seventh hour of the morning of the eighteenth day of the new month with his right hand on a hauling line, because the staging comes up on a line and the line has to be held.
+The man on the wall was two hundred steps from the gallery and he was not a docker and he was not a gate hand and he had no standing in that building at all, and he was on the wall of the second bay at about the seventh hour of the morning with his right hand on a hauling line, because the staging comes up on a line and the line has to be held.
 
 **Jonah Pike** has been in this city thirty-eight days and he came out dry and has stayed dry, and on the thirty-fourth day of the flood he proposed in a yard in front of about a hundred and forty people that the seven of them have a dry building on the upper road and shared equipment and work rights at the lock, for exclusive access, and about thirty people walked out at item five, and the sentence that would have ended it was one Adrian Vale could not say to a man who had been his ally for three weeks.
 
@@ -124,7 +124,7 @@ He wrote it small, and he put the *k* on too hard, and he stood back about four 
 
 "That is true," said Adrian Vale. "And it is the only one anybody has ever written in that column, and there are about four hundred tides in that column and about nine of them are blank for reasons that are in a book somewhere, and the box was empty for ten days and a woman with a barrow has told nine people in a market that she decided nothing when she filled in the one before it, and I have not written in that box once in forty days and I was standing right here this morning at about one in the morning with the chalk in my hand and I did not write in it, and I would like all of that in a book, and I would like it in a book now, before the tide turns, and not on Friday."
 
-And Vail entered it at about the ninth hour of the morning of the eighteenth day of the new month, in the flat hand, with the hour, and it is on the page: **that the box against the forty-third day of the flood was written in at about the eighth hour of the morning of that day by Ovin Sarr, nineteen, of this city, out of the day crew, with a stick of chalk, and that the holder of the pull was present and did not write it and was not asked to and did not offer, and that the box had been empty for ten days, and that this is entered because an empty box on a tide table is the only place in this city where nothing is claimed by anybody and a box that has been empty for ten days is not a claim anybody can make about it, including the man standing under it.**
+And Vail entered it at about the ninth hour of the morning, in the flat hand, with the hour, and it is on the page: **that the box against the forty-third day of the flood was written in at about the eighth hour of the morning of that day by Ovin Sarr, nineteen, of this city, out of the day crew, with a stick of chalk, and that the holder of the pull was present and did not write it and was not asked to and did not offer, and that the box had been empty for ten days, and that this is entered because an empty box on a tide table is the only place in this city where nothing is claimed by anybody and a box that has been empty for ten days is not a claim anybody can make about it, including the man standing under it.**
 
 ---
 
@@ -158,7 +158,7 @@ And the boy said, "All right," and went down to the field at about the ninth hou
 
 **The measurement is entered, and the debt is enlarged, and nothing is resolved.**
 
-The twenty-third reading is **eight and seven-eighths**, and the width of the join in the main breach is a quarter of an inch greater than it was on the fortieth day, in one step, and the four chalked marks on the wall of the second bay have not moved and there are five of them now, and the step fell on the eighteenth day of the new month at the turn of a tide, and a crack does not step, and a man took a prop out of that gate at the seventh hour and entered it in her own hand before anybody asked her to.
+The twenty-third reading is **eight and seven-eighths**, and the width of the join in the main breach is a quarter of an inch greater than it was on the fortieth day, in one step, and the four chalked marks on the wall of the second bay have not moved and there are five of them now, and the step fell on the eighteenth day of the new month at the turn of a tide, and a crack does not step, and a mason of thirty-four years took the old near-gate prop out of the near gate and put a new one in at the sill at the seventh hour and wrote the hour and the thing he did in his own hand, and it was in the book before the number was read.
 
 And the cost column of that day went into the book at the ninth hour along with the reading, and a season of the bottom field was entered against it for the sixth time in one month.
 
@@ -174,4 +174,4 @@ And then she said, and it is in the entry, in her own hand:
 
 Nothing gained. A number, a boy, a word in a box, a day of ditching, and a sixth entry in a column that a court will like the look of.
 
-And in the notebook, at about the tenth hour of the morning of the eighteenth day of the new month, in his own hand, Adrian Vale wrote the two things he was taking off the page and putting on the wall, and they are these: **that the step is a fact and the decision behind it is entered, and that a fact is only cheaper than a fault for the person it happens to.** And under that, in a different ink, because he had found the stub: **that the box is not empty and I did not fill it and he did, and I have been standing under that board for forty days with a piece of chalk in my hand waiting for a day that would make it mine, and there is not going to be one, and that is the best thing that has happened to me this week.**
+And in the notebook, at about the tenth hour of the morning, in his own hand, Adrian Vale wrote the two things he was taking off the page and putting on the wall, and they are these: **that the step is a fact and the decision behind it is entered, and that a fact is only cheaper than a fault for the person it happens to.** And under that, in a different ink, because he had found the stub: **that the box is not empty and I did not fill it and he did, and I have been standing under that board for forty days with a piece of chalk in my hand waiting for a day that would make it mine, and there is not going to be one, and that is the best thing that has happened to me this week.**
