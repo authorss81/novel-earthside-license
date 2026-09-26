@@ -138,7 +138,7 @@ Adrian Vale read the second document out loud in the yard, in the local language
 
 ---
 
-**Then ninety people refused the third instrument in public, in the same yard, in about nine minutes, and it is the largest single act of refusal in the history of this book and it is worth nothing, and Vail could not enter it as a refusal of the city and entered it as ninety statements of error, one for each person, and the reason is the fifth clause of the notice of the Registrar of Crossings and Tides, which says that a refusal which costs other people money is a decision about other people, and which Adrian Vale has not read aloud in a yard until that moment, and which he read aloud in about forty seconds, in the local language, out loud, to a room that wanted him to lose.
+**Then ninety people refused the third instrument in public, in the same yard, in about nine minutes, and it is the largest single act of refusal in the history of this book and it is worth nothing, and Vail could not enter it as a refusal of the city and entered it as ninety statements of error, one for each person, and the reason is the fifth clause of the notice of the Registrar of Crossings and Tides, which says that a refusal which costs other people money is a decision about other people, and which Adrian Vale has not read aloud in a yard until that moment, and which he read aloud in about forty seconds, in the local language, out loud, to a room that wanted him to lose.**
 
 > "And I did not write that clause. It came in a letter on a sheet of oiled cloth on the twenty-eighth day of this flood and a woman of this city read it out loud in a room by a salt wharf on the afternoon of that day to a dying man because she could read English and he could not say four words.
 >

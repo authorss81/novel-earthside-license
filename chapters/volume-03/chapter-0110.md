@@ -36,7 +36,7 @@ It carries three pages. The first has six things and a price and a right of refu
 
 "**Nobody is going to ask me why, and that is the fifth thing on a nail in an arch, and it is a question and not a duty, and I have not been asked anything in a hundred and ten days and I intend to go on not being asked for as long as there is anything left to not be asked about.**"
 
-So the count went on the second page inside the stone, under the twelve names, under the price of salt, in a hand that is not the hand of the twelve, in six lines, with the date on it. The keeping household did not read it before it went in and was not asked to and is not asked why twice. And nobody in about nine people at that fork said out loud that a number in a stone is the safest number in the world and also the only one that a clerk nine hundred miles away can do nothing with, and a notary of fifty, who was not there, entered on the twentieth day of the month after this one that she had noticed, and entered that she noticed, and that was the last thing she entered for four days.
+So the count went on the second page inside the stone, under the twelve names, under the price of salt, in a hand that is not the hand of the twelve, in six lines, with the date on it, and with a seventh line under those six that says it is a count and not a debt, **and the second page of that stone is nineteen lines long from the top of the first name to the bottom of that seventh one, and it was counted twice on the way down, and it was nineteen both times.** The keeping household did not read it before it went in and was not asked to and is not asked why twice. And nobody in about nine people at that fork said out loud that a number in a stone is the safest number in the world and also the only one that a clerk nine hundred miles away can do nothing with, and a notary of fifty, who was not there, entered on the twentieth day of the month after this one that she had noticed, and entered that she noticed, and that was the last thing she entered for four days.
 
 ---
 
@@ -48,7 +48,7 @@ Nobody answered for about nineteen seconds.
 
 "That is the hearing," said a man of thirty-two, who is on no roster of anything, and who said it in about four seconds, and then said, in the local language, four more words, and nobody counted them and it is entered that nobody counted them.
 
-"**We will stand there.** Forty-four days from today, counted from the hundred and twentieth day of this flood. That office gave it as about eleven weeks on the fifty-second day of the new month, which was the seventy-seventh day of this flood, and there is one hearing and one clock, and nobody in this city has moved it, and a hundred and forty years of somebody else's decision is what it is."
+"**We will stand there.** Forty-four days from today, counted from the hundred and tenth day of this flood. That office gave it as about eleven weeks on the fifty-second day of the new month, which was the seventy-seventh day of this flood, and there is one hearing and one clock, and nobody in this city has moved it, and a hundred and forty years of somebody else's decision is what it is."
 
 "So we go and stand in it," said a docker of fifty-eight.
 

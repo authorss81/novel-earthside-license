@@ -46,7 +46,7 @@ Hettis Roke is forty-four years old. He is of the Hearthguard of the outer ward,
 
 **And what he said was that the eight names were written down once.**
 
-"**My grandfather held this gate. That is on the board and it has been on the board since before I was in the guard. When a man holds a gate he is given a roll of the dead of that gate, and he gives it to the Crown twice a year, and he keeps a copy, and the Crown takes the copy and the stones stay.
+"**My grandfather held this gate. That is on the board and it has been on the board since before I was in the guard. When a man holds a gate he is given a roll of the dead of that gate, and he gives it to the Crown twice a year, and he keeps a copy, and the Crown takes the copy and the stones stay.**
 
 "**The year the ground was made — the year there were no stones in it at all, they put them in as they went — my grandfather wrote all eight of them into a book. In his own hand. Their names and the year. And the stones went up the same month and eight of them got a stone and four of them got a name cut on the stone of a person they were buried with, because there was not enough money for eight stones and there was a good deal for four, and I have known that for nine years and I have never said it in a yard.**
 

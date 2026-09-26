@@ -62,7 +62,7 @@ That is five words, and nobody checked the count, which is entered.
 
 "Will you say it in a room," said a man of thirty-two.
 
-"**I do not know,**" said Hettis Roke, "**and I have not been asked, and that is the first honest sentence about myself I have said in nine years and it is three words and I am not going to improve on it.**"
+"**I do not know,**" said Hettis Roke, "**and I have not been asked, and that is the first honest sentence about myself I have said in nine years and it is four words and I am not going to improve on it.**"
 
 ---
 
