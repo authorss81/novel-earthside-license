@@ -575,3 +575,77 @@ The oldest arithmetic in this city, on a page for the first time in ninety days,
 
 ### Two slates and a form and a page. That is not a wall. That is a Wednesday
 Seventeen words of a keeper of about seventy who has had a nail in a chapel arch for fifty-one years, said to a girl of seventeen who had come down two hundred steps. **An arch is a place, a place is a room, go and look at it** is fifteen words of the same keeper, from the previous day. **The arch now carries five things and the count is out of date before the sentence is.** Chapters 0086 and 0088.
+
+## Terms established in Volume 02, Chapters 91–100
+
+### Single Witness, and First Grammar
+**The two names of the shape, spoken in prose for the first time in this series on the first day of the month after this one, in a converted salt store, in daylight, with a date on it, in Ivenn Marrow's own hand, and not before.** He said *Single Witness* first, four days early instead of in the four months he had promised this city, in a room that was not his, without asking anybody to open it, and asked for all three of those things to be entered in the same breath. He said *First Grammar* when a woman of twenty-four asked him what a witness is a witness of, and said he had never seen it written in a book in his life and had read every book that office keeps. **Both are on the page and may be used in prose from Chapter 101 onward.** He asked for one further thing to be entered and it was entered: that he cannot tell anybody afterwards whether he said them to help this city or to file it. **A later writer may not have him explain either name, may not have him answer for them, and may not let a character guess either aloud.** Chapter 0091.
+
+### Who is it about, and the answer
+**The notary's two words from the sixty-fourth day of the new month are the standing test for every instrument in this book: a page can only be aimed at a condition, and a condition is the only thing in this world a page can be pointed at that is not a person.** Chapter 0091, and the answer took a hundred days and four wrong attempts out loud.
+
+### A page that ends one document, once
+**The Void.** Drawn in about eleven minutes and dated and sealed on the first day of the month after this one, spent on the second, and it can be used once and only once and only on a thing that claims to be the work of a person, and its own condition is the ground and no other ground is used. Nine witnesses, one of them named by herself and hers to take back. **It is a record and not a finding, it does not say why, there is no second copy, the inside was folded twice, and the person who brought it into the room did not read it out and said why in fifteen words.** The full text is in `state/continuity.md` under *The Void, the Stage, and the road*. Chapter 0091.
+
+### A thing that argues for itself is a thing you can check
+**Jonah Pike's, twenty-one words as the two sentences stand, and it is the mechanism of the whole volume and the reason the Void is not a Crown instrument.** A thing that argues for itself is a thing you can check. A thing that is silent can only be believed. **The undertaking said out loud that it was not a person, and that sentence is the condition it failed.** Chapter 0092.
+
+### The knowing, and not a road
+**What a Stage 2 working cost Adrian Vale, in his own words in a gallery: he has lost the knowing and not a road. For ninety-three days he carried the idea that if he ever wanted to go back there was a way to work it out, and it went in about four minutes in a room, and it is not coming back, and he is not going to be able to explain it to anybody in four months.** Chapter 0093, and the cost is a person and the person is him.
+
+### Nobody in this city was told what he had
+**Nine words, from a man of thirty-five whose right shoulder went on the thirty-first day of this flood, was reduced twice, cannot be set, did not go and was not made whole, and who asked the one question nobody wanted him to ask on the fifty-eighth day of new month, which was the eighty-third day of the flood, and got it asked.** He was the ninth of the nine asked what Adrian Vale had given up and the only one who could not answer, and Adrian Vale wrote the nine words down and did not improve on them and refused to put the loss in a second column. **He is to be asked again on a different day.** Chapter 0093.
+
+### A name is not a refusal
+**Ilda Marsh, seventy, of Nine Elms, in her own words, and the answer to the question this city had been asking for ninety-one days: a name is a description, a description is the column at the end of the page, and the column is for where the person is.** With her twenty-four words underneath it, which are hers and which she has now said twice: a guild that can be asked has a standing, and a standing cannot be refused, and I know it because we have refused three. And then a woman who is on nothing: **and a column is a roll, and a roll goes to Aurel in a wooden case four times a year, and this city has spent ninety-one days refusing to be described and has just described the thing that was doing the describing.** Chapters 0091 and 0100.
+
+### Two things, two columns. The gap between them is the finding
+**Eleven words of a notary of fifty, said when a girl of seventeen tried to write the void undertaking and the page in the stone in one column, and the four lines she got down before she was stopped were left in and nothing was struck.** Chapter 0095.
+
+### Everything this city has decided in ninety-five days happened in a room
+**The closing sentence of a batch, said by a woman of twenty-nine, and the rooms are the reason we can see the two documents and not the reason we can stop them.** Chapter 0095.
+
+### A document becomes a thing a person can be angry at when a person can be angry at it
+**A stall-keeper's, on the fifth day of the month after this one, and he is furious about the second one and not the first, and he said he got what he wanted on the sixty-second day of the new month and has not slept.** The finding of the five days: **this city has built two things it can be angry at and cannot stop, and neither of them is a person.** Chapter 0095.
+
+### A holder may refuse the asking, once
+**Perry Lask's line, in her own words, said on the fourth day of the month after this one before anybody asked her anything, and she would not let anybody make it a form: a holder may say no to the asking, once, without a reason, on a day that is on the page before the day, and the asking is not repeated, and the person is not on any roll by having been asked.** **She entered that the amendment is worse for the document than it was and better for the person, and that both of those are true at once, and nobody may ask her about it again.** Chapter 0094.
+
+### I may not grade my own paper
+**A notary of fifty, twenty-six years a notary and the author of every instrument in this city, entered on the day she said it: she drafted the procedure of nine clauses and nine weaknesses and drafted the amendment of one line, and she may not decide whether either of them is any good, and she believes the correct outcome is the worst one available.** Chapter 0094.
+
+### I cannot hold a seat. I have nothing to hold with
+**Eleven words, the fifth refusal of a seat with a name on it and a review date, offered by Adrian Vale to himself in his own hand on the back of a copying list, and the instrument says nobody, and he said nothing else about himself for the rest of the volume and it is entered that he noticed he had done it.** Chapter 0094.
+
+### A keeper who is asked to explain a refusal has already lost the fourth thing
+**Ilsa Roke, fifty-one, at the door of the first Wayhouse, in daylight, in front of about nine people, with a man of twenty-six who had walked eleven miles standing in the road, and she has been married for twenty-two years and knows what she is looking at.** The refusal stood. **The person refused came back the next morning to read his own refusal out in his own words, and it is entered that he came back to read it and not to complain about it.** Chapter 0096.
+
+### No share, no interest, and a right of refusal that cannot be bought out
+**The Open Hand, said in about forty seconds without stopping by a woman of about thirty-four who keeps a stall by the wharf and whose name is not on anything, and every one of the three is expensive.** A man of forty-two argued in about nine minutes that the third of the three cannot be administered and was right, and said it is the only one of the three worth having and that nobody is going to have an answer and that not having one is correct. **A rule nobody checks is a rule that everybody can get out from under.** Chapter 0097.
+
+### A change, and not a promotion
+**A woman of about thirty-four asked to have this entered on the seventh day of the month after this one, and it is the only entry in a hundred days in which a person in this city asks for a thing that is worse for her and gets it: she was on nothing at the ninth hour of the morning and on a page at the ninth hour of the evening, and she noticed it happening rather than being given it, and she is not going to be one of the people who says she tried.** Chapter 0097.
+
+### A district which describes itself honestly is a district that will be described correctly
+**A woman of twenty-nine's, in a room over a market, and it is the first time anybody in this city has said anything like it, and it is not a finding about honesty: every office in the world fills a column from what the place sends it, a hole in a roll is a place where a number used to be, and an office that gets a hole knows it has been lied to about one thing and can ask about that one thing.** Chapter 0098.
+
+### I have had a form four times in nine years and not one question, and I would rather be a question than a name
+**Hettis Roke, forty-four, Hearthguard of the outer ward, nineteen years in, said on the eighth day of the month after this one, and the count is his and the room did not check it, which is entered.** It is the reason the eighth column of a quarterly description is answered with a question and not with a name, and the question that went down the river asks which gate, in which year, on whose authority the count of eight was continued after that gate came off the roll, and what the eight names are. **A clerk of that office may not ask a question and may not refuse one, and a person named in a question is not told the question exists, and no person is named in this one.** Chapter 0098.
+
+### A form that is honest about what it does not know has nothing to put in that column
+**Eighteen words of a notary of fifty, and the first reason anybody in a hundred days has given for the fee of eleven ounces of silver having no date.** Chapter 0098.
+
+### A refusal with a date on it is an answer
+**The finding of the review on the ninth day of the month after this one: the four words *nobody has asked them* were a refusal for twenty-four days and a refusal is not entered anywhere, and on the ninth day of the month after this one they went onto a page with a heading and a date, and there is now a column for where the seventeen are with a space under the date for an officer's hand nine hundred miles away, and nobody undid it and nobody could.** Chapter 0099.
+
+### Three is a thing a village can do and four is a thing a person does
+**Ilda Marsh, seventy, of Nine Elms, on the ninth day of the month after this one, with a cart coming at noon, and the question of what happens at four went onto the page unanswered so that in four months nobody can say it was not on the page.** Chapter 0099.
+
+### A stone is a record for a stranger and not for us
+**Marda Rood, about sixty-one, of Four Elms, refusing her name on a page for the second and third time and then arguing for three pages in a stone on the hundredth day of the flood, on behalf of a person who does not exist yet: in about four years somebody in that village is going to have to keep it and it is going to be a stranger, and the stranger cannot be angry at a page, and that is exactly why it works.** Chapter 0100.
+
+### It has not been asked because this city chose not to ask it
+**The entry on the third page inside the shrine at Four Elms, dated, on a question owed to a woman of forty-eight in a fourth house at Nine Elms who has been clearing a drain by herself every morning since the twenty-ninth day of the new month and does not know he exists. A decision and not an oversight, and nobody in about nine people argued for asking her, and the reason given is that a person who has been doing a thing by herself and has not been asked has not refused anything.** Chapter 0100.
+
+### Eleven households keep that road
+**Nine miles up the Reach road and nine miles of it is the upper road, and it is kept by eleven households who are not a council and pay no levy and answer to no clerk, and the keeping is a day each in a bad week and a quarter of a day in a good one, and it is a promise and not a sum, and it is the only thing in a hundred days that nobody in that room can be angry at and everybody would miss.** Chapter 0100.
