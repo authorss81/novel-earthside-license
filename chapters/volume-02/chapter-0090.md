@@ -1,6 +1,6 @@
 # Chapter 0090 — What Is Still Owed
 
-On the sixty-fifth day of the new month, which was the ninetieth day of the flood and a Sunday, about two hundred and forty people were in a converted salt store and a girl of seventeen read out everything that had not been fixed in ten days, and none of it was good news and all of it is entered, and then a woman of about sixty-one who keeps a shrine on a boundary put a second page inside a stone, and the second page is a list of what is owed and it is owed to named people and not to a body, and it has a date on it and a price under it, and at about the second hour of the afternoon a docker of fifty-eight who cannot read stood at the top of a nine-mile road in daylight with nine people and a wall above a market and eight stones nobody has looked at.
+On the sixty-fifth day of the new month, which was the ninetieth day of the flood and a Sunday, about two hundred and forty people were in a converted salt store and a girl of seventeen read out everything that had not been fixed in ten days, and none of it was good news and all of it is entered, and then a woman of about sixty-one who keeps a shrine on a boundary put a second page inside a stone, and the second page is a list of what is owed and it is owed to named people and not to a body, and it has a date on it and a price under it, and at about the second hour of the afternoon a docker of fifty-eight who cannot read stood at the top of a nine-mile road in daylight with nine people and a wall above a market and seven stones nobody has looked at.
 
 **The licence is forty days old. The door is shut. The field was not paid on the first of March. The undertaking is on a river. Nothing in this chapter is a resolution and every part of it is entered.**
 
@@ -68,13 +68,13 @@ Marda Rood is about sixty-one and she keeps it, and her reason is on the page an
 >
 > **And under the list, and not as another item: a quarter of a pound of salt a month, cut out of the keeping household's own winter allotment, the same as the first page, and the household has refused a second price and has given the reason that a favour is a thing that stops, and that reason is written here so that in nine months somebody can check it.**
 
-**It is entered that three people stepped over it, and that a boy of nine did not, and that the boy of nine has been asked about it and said, in nine words, that a stone is somebody's and you do not step on a thing that is somebody's.**
+**It is entered that three people stepped over it, and that a boy of nine did not, and that the boy of nine has been asked about it and said, in fifteen words, that a stone is somebody's and you do not step on a thing that is somebody's.**
 
 ---
 
 **And a notary of fifty said the thing that had to be said, and it took about nine seconds, and it is the cost of the page and it is in the book in her own words and nobody argued with it.**
 
-"That is a description," she said. "**Twelve named persons and a body of about nine people, on a stone, with a date. I have spent twenty-six years telling this city that a description is a removal with a column for where the person is, and I have said that sentence out loud in about nine rooms, and there is now a column for where eleven people are, cut into a stone that a household keeps, and the household may take it down on a date and is not asked why twice.**"
+"That is a description," she said. "**Twelve named persons and a body of about nine people, on a stone, with a date. I have spent twenty-six years telling this city that a description is a removal with a column for where the person is, and I have said that sentence out loud in about nine rooms, and there is now a column for where twelve people are, cut into a stone that a household keeps, and the household may take it down on a date and is not asked why twice.**"
 
 "And the office cannot read it," said a man of about forty-four who keeps a stall.
 
@@ -118,13 +118,13 @@ Nobody said thank you. **It is entered that nobody said thank you, and that a wo
 
 "It is not going to Aurel."
 
-"**I did not say anything about Aurel,**" said Renna Ord. "**I said no. And the reason is that on the nineteenth day of the new month a woman of sixty-one stood in a room and said she was sixty-one and would like to stop writing the shapes down, and she said somebody has to be the one who writes down what they think they mean, and that is the only thing she has done wrong in nine years, and if a girl of seventeen writes down what she thinks they mean this afternoon then nobody ever walks down that road at all, and a wall is the cheapest thing in this city and there is already one.**"
+"**I did not say anything about Aurel,**" said Renna Ord. "**I said no. And the reason is that on the nineteenth day of the new month a woman of sixty-one stood in a room and said she was sixty-one and would like to stop writing the shapes down, and she said somebody has to be the one who writes down what they think they mean, and that is the only thing she has done wrong in nine years, and if a girl of seventeen writes down what she thinks those eight mean this afternoon, one of which is a name somebody's grandfather cut, then in about nine months somebody will read it and believe it, and the seven of them further down this road will never be walked to, because a wall is the cheapest thing in this city and there is already one and a wall that has been given an answer is a wall nobody walks nine miles to ask. The date is on the slate. The date is the only thing on the slate and it is going to stay that way.**"
 
 "Then what do I write."
 
-"**Nothing,**" said Renna Ord, "**and I have been told no four times in ninety days and I am saying it a fifth time in daylight to a person who will remember it, and nobody is to tell me I did not, and put the date on the slate and leave the slate alone.**"
+"**Nothing,**" said Renna Ord, "**and I said this city's no four times in sixty-three days and I have not stopped saying it since, and I am saying it now in daylight to a person who will remember it, and nobody is to tell me I did not. The slate has the date on it and nothing else on it and it keeps it.**"
 
-It is entered that the girl of seventeen wrote the date and nothing else, and that nobody argued, and that about nine people in that road heard a woman who cannot read say no to a page and understood all of it.
+It is entered that the girl of seventeen wrote nothing at all, and that the slate has the nineteenth day of the month after this one on it and nothing else on it, and that nobody argued, and that about nine people in that road heard a woman who cannot read say no to a page and understood all of it.
 
 ---
 

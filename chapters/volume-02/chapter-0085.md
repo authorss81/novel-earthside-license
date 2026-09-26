@@ -32,13 +32,13 @@ They were not paid because the field was not paid, and they turned up anyway, an
 
 > **You do not stand under that gate at six because it is right. You stand under it at six because somebody owes you and you have not been paid yet.**
 
-A docker of fifty-eight who cannot read said it about six weeks ago in a market to about nine people and it has been in four rooms since and it has never once been on a page, and it is on a page now, and she has asked for it to be entered as hers and as the rule of a shift and not as the finding of a room.
+A docker of fifty-eight who cannot read said it thirty-nine days ago, which was the forty-sixth day of the flood, under that gate to about forty men, and it has been in four rooms since and it has never once been on a page, and it is on a page now, and she has asked for it to be entered as hers and as the rule of a shift and not as the finding of a room.
 
 **And then a woman of fifty-eight who cannot read said the other sentence, in a room, in daylight, at about the eleventh hour of the morning, and about forty people were in it, and it had not been said in a room in thirty-nine days.**
 
 > **The day the bottom field is not paid in March, this stops, and the join stops being worked, and the join will be where it is.**
 
-Nobody in that room argued with it and about nine people in that room had known it for two months and about nine people in that room had not known it and one of the nine was a man of thirty-two who had never once heard it said in a room.
+Nobody in that room argued with it and about nine people in that room had known it for thirty-nine days and about nine people in that room had not known it and one of the nine was a man of thirty-two who had never once heard it said in a room.
 
 "You have known that since the twenty-first day of the new month," said a woman of fifty, who is the notary of this city.
 

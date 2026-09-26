@@ -1015,7 +1015,7 @@ Clocks that hang off that table and are now fixed:
 6. **The person who wrote the page asking four people whether they will carry the standing charge is not a party to this undertaking, is not named in it, is given nothing by it, and owes nothing under it, and that page is not withdrawn by this undertaking and its refusal is not undone by this undertaking.**
 7. **No person is described by this undertaking. No person's name appears at the top of it. No person is entered on any roll by having read it, and no person is bound by anything in it who has not been asked.**
 
-**It is neither refused nor accepted. It went down a river in a wooden case on the sixty-fourth day of the new month, unsigned and unrefused, and a case that carries a review is a case an office will read before it reads anything else in it. Chapters 91–95 void it, and nothing in this batch resolves it, convicts anybody, closes the licence, lifts the boards, takes the third knock, or opens the Narrow Mark a third time.**
+**It is neither refused nor accepted. It went down a river in a wooden case on the sixty-fourth day of the new month, unsigned and unrefused, and a case that carries a review is a case an office will read before it reads anything else in it. It is voided in Chapter 0092, inside Batch 0005 (Chapters 91–100), and nothing in this batch resolves it, convicts anybody, closes the licence, lifts the boards, takes the third knock, or opens the Narrow Mark a third time.**
 
 ### Documents, institutions and rules created in this batch
 
@@ -1061,36 +1061,46 @@ Clocks that hang off that table and are now fixed:
 
 ### The word-count device, Volume 02 Batch 0004 — binding
 
-**Every claim of the form *it is N words* in Chapters 81–90 has been counted against the sentence as it stands on the page.** Renna Ord's eleven words are Volume 01 canon and are not re-counted here. The numbers now on the page and binding:
+**Every claim of the form *it is N words* in Chapters 81–90 has been counted against the sentence as it stands on the page, and the list below is every one of them, in chapter order.** Renna Ord's eleven words are Volume 01 canon and are not re-counted here. **The counting convention is: an orthographic word is one word, so a hyphenated compound is one word.** *(The one exception in the whole series is Chapter 0078's thirty-six, which only works if *seventy-eight* is counted as two. That is a Batch 0003 figure, it is left standing, and it is recorded here rather than quietly re-counted.)* The numbers now on the page and binding:
 
 - **sixteen** for *a district that has not sent a roll is a district somebody will describe for it* (0081);
+- **nineteen** for *no receiving party has been asked and none has agreed and this is not the same as none existing*, under the cross in the receiving-party cell (0081, quoted from the fifty-second day of the new month);
 - **twenty** for *a hole in a page is not a smaller number, it is a place where a number used to be* (0081, quoted from Chapter 0062);
 - **thirteen** for *she chose the room. nobody was owed her the choosing and nobody is* (0081);
 - **five** for *because I would ask her* (0081);
+- **twenty-eight** for the workway document's own face, *the instrument does not know what the work is, and the instrument was written in a day by nine people who did not know what the work was* (0082, quoting the fortieth day of the new month, which is `chapters/volume-02/chapter-0057.md`);
 - **six** for *then ask me on the day* (0082, quoted from the forty-first day of the new month);
 - **nine** for *you fought the line. everybody knows what you are* (0082, and the girl of seventeen's count of it is the one that is on the page);
-- **nine** for *being useful is a description and not a safety* (0082, quoted from the forty-first day of the new month);
+- **nine** for *being useful is a description and not a safety* (0082, quoted from the forty-first day of the new month, which is the sixty-sixth day of this flood, and `chapters/volume-02/chapter-0066.md` is where the scene is);
 - **nineteen** for *being useful is a description and not a safety, and I have been the useful one since the thirty-first* (0082, Dante Kuo's reason);
-- **nine** for *a river promised a stone. I am the woman* (0082, and the ninth of them is the word for a person);
+- **nine** for *a river promised a stone. I am the woman* (0082, and the ninth of them is the word for a person; the same nine words are referred to at 0083:19 and 0090:55);
 - **four** for *a hundred and forty* (0083);
 - **nineteen** for *you did not come down that bank to find out what I am going to do on Tuesday morning* (0083);
 - **ten** for *then I am the one who will ask you first* (0083);
 - **seven** for *a guild that does not go home* (0084, quoted from a woman of forty-one who said it in a room on the thirty-second day of the new month);
 - **six** for *that is the whole of it* (0084);
-- **five** for *the charge is on me* (0085);
-- **nine** for *I never had a man of mine to lose* (0086);
+- **five** for *the charge is on me* (0085, named in the cost column in five words in his own hand);
+- **nine** for *I never had a man of mine to lose* (0086, said in the ninth minute of the reading, and referred to again at 0086:27, 0086:29 and 0086:33);
 - **eleven** for *I am not answering for a room, not even this one* (0086);
-- **fifteen** for *an arch is a place. a place is a room. go and look at it* (0086);
+- **fifteen** for *an arch is a place. a place is a room. go and look at it* (0086, Nyla Ferrow);
+- **four** for *nobody has asked them* (0086, the eleventh question's answer from the fiftieth day of the new month, and referred to again at 0086:111 and 0090:133);
 - **six** for *say that again in a month* (0087, quoted from the twentieth day of the new month);
 - **nine** for *that is a lock that a guild can close* (0087, quoted from the tenth day of the new month);
 - **twenty-four** for *a guild that can be asked has a standing, and a standing cannot be refused, and I know it because we have refused three* (0087, Ilda Marsh);
 - **nineteen** for *put a person at the top of it, and make that person able to say no, out loud, here* (0088);
-- **twenty-one** for *there is nothing here to resign from, and a man with nothing to resign is not a man being let go* (0088, canon, the man speaking his own sentence);
+- **twenty-one** for *there is nothing here to resign from, and a man with nothing to resign is not a man being let go* (0088, canon, the man speaking his own sentence, first put on the page on the fifty-fourth day of the new month);
 - **seventeen** for *two slates and a form and a page. that is not a wall. that is a Wednesday* (0088, Nyla Ferrow);
 - **eleven** for *a document nobody may copy is a document nobody may check* (0089, canon, third occurrence, aimed at a document);
 - **twenty-eight** for *nobody at the back of this yard can hear him, and that is what a document is: the four lines are for the nine people at the front* (0089);
-- **twenty-one** for *I have been the only one doing this for nine years. I would like somebody to have the date, not me* (0090, Sabra Vint);
-- **nineteen** for *no receiving party has been asked and none has agreed and this is not the same as none existing* (0081, quoted from the fifty-second day of the new month) and **twenty-eight** for the workway document's own face (0082, quoted from the fortieth day of the new month).
+- **fifteen** for *a stone is somebody's and you do not step on a thing that is somebody's* (0090, the boy of nine; **this said nine and the sentence is fifteen, and the figure on the page is fifteen**);
+- **twenty-one** for *I have been the only one doing this for nine years. I would like somebody to have the date, not me* (0090, Sabra Vint).
+
+**Four further counts in the batch are back-references and cannot be counted from these ten chapters, and a later writer may not treat them as countable here:**
+
+- **nine**, for a notary of fifty's sentence that the instrument she wrote is worse than the one she was asked to write, said twice (0086:11, quoting Chapter 0076). The sentence itself is not quoted on the 0086 page and is not restated here.
+- **thirty-six**, for Adrian Vale's entry on the fifty-third day of the new month that he is not going to be a man who answers for a room (0086:57, quoting Chapter 0078, whose own count is the hyphen exception above).
+- **nine**, for the sentence a notary says she has learned and will not say in a room of nine people (0082:115, and referred to again at 0082:119). **The sentence is deliberately never spoken and a chapter may not supply it.**
+- **in about nine words**, for the second half of what Nadia Brandt said to Adrian Vale on the forty-fifth day of the new month (0081:55, quoting `chapters/volume-02/chapter-0070.md`, where the count is the same hedged figure). **0081 no longer puts its own count on that sentence.**
 
 ### Four places where a chapter card and the binding state disagreed, and how each was settled
 
@@ -1103,11 +1113,11 @@ Clocks that hang off that table and are now fixed:
 
 ### Open questions this batch created, and the ones that survive
 
-- **A document nobody can be angry at is a document nobody can check, and both of those are true at once, and the room cannot get round it.** Active, and the engine of Chapters 91–95.
+- **A document nobody can be angry at is a document nobody can check, and both of those are true at once, and the room cannot get round it.** Active, and the engine of Chapters 91–100.
 - **Nineteen words are on a slate on a nail and a man of forty-two says the man who proposed it will do it, and the argument about it is on Tuesday.** Active, and the trap Batch 0005 has to spring honestly.
 - **A man of sixty-one who copied it out was never asked to be the holder of anything, and he has been asked twice who read his book and refused twice, and has entered that he will stop asking.** Active.
 - **A form about a person was drafted in about eleven minutes and nobody could say who it was about, and it is entered as an unfinished thing.** Active, and the cell the Void has to be pointed at.
-- **Twelve named persons are now in a column, cut into a stone, **and the count of twelve is the page's: a man of thirty-two, a woman of forty-eight, a woman of forty-one, a woman of forty-four, a man of thirty-five, a girl of sixteen, a woman of thirty-eight, the four who read the join-line and a man of sixty-one, and **the two debts that are one woman's are on one line because they are one woman's, and a list that enters a person twice is a list of a person and not of a debt** and a notary of fifty has said that the person holding that stone is nobody's servant.** Active, and the price of the batch.
+- **Twelve named persons are now in a column, cut into a stone, and the count of twelve is the page's: a man of thirty-two, a woman of forty-eight, a woman of forty-one, a woman of forty-four, a man of thirty-five, a girl of sixteen, a woman of thirty-eight, the four who read the join-line and a man of sixty-one, and **the two debts that are one woman's are on one line because they are one woman's, and a list that enters a person twice is a list of a person and not of a debt** and a notary of fifty has said that the person holding that stone is nobody's servant.** Active, and the price of the batch.
 - **The second page owes a woman of forty-one the work in her own words in the document that says the work is not written down anywhere, and owes a woman of forty-four a figure on the end of a cost column, and owes a woman of forty-eight one question.** All three are owed and none is asked. Active.
 - **The nineteen shapes are in four slates and eight of the nineteen are different and seven of the eight have never been looked at, and the nineteenth day of the month after this one is on a slate.** Active, and the close must build a different image again.
 - **Whether there is a person on the other side of the chapel floor.** Untouched. The boards have not been lifted. The knocks are three and four and both entered and neither deleted. **The name *Single Witness* and the name *First Grammar* are still not used in prose and are spoken for the first time in Chapter 0091, in a room, in daylight, with a date on it.**

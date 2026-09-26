@@ -20,7 +20,7 @@ She has not been asked to do a single thing. **She has done one, on the fifty-th
 
 Hesper Saye is fifty-eight and keeps the low room by the salt wharf and does no private work, and she has told four hundred men things about a shoulder or a scalp and been wrong about ninety of them, and she does not round the figure.
 
-"**I cannot find it,**" she said. "**I have looked at it four times in four days with three pairs of hands and there is nothing on it that a body should have and nothing on it that a body should not have, and I have written that finding down twice, and a written finding of nothing is a finding and not a failure, and it is the first finding in ninety days that was a shape and not a fact.**"
+"**I cannot find it,**" she said. "**I have looked at it four times in four days with three pairs of hands and there is nothing on it that a body should have and nothing on it that a body should not have, and I have written that finding down twice, and a written finding of nothing is a finding and not a failure, and it is the first finding in eighty-two days that was a shape and not a fact.**"
 
 "And the shape," said a woman of twenty-nine who works in Saye's room.
 
@@ -86,7 +86,7 @@ Dante Kuo is thirty-five. His right shoulder went on the thirty-first day of thi
 
 "**Being useful is a description and not a safety, and I have been the useful one since the thirty-first.**"
 
-**Being useful is a description and not a safety** is nine words of a woman of twenty-nine, said in a long argument on the forty-first day of the new month to two men who were both arguing about the wrong thing, and he has been quoting it for nine days and about nine people in this city have heard him quote it and none of them knew where it came from until the girl of seventeen told them, at the bottom of the table, out loud, with the day on it.
+**Being useful is a description and not a safety** is nine words of a woman of twenty-nine, said in a long argument in a converted salt store on the forty-first day of the new month, which was the sixty-sixth day of this flood, to two men who were both arguing about the wrong thing, and he has been quoting it for sixteen days and about nine people in this city have heard him quote it and none of them knew where it came from until the girl of seventeen told them, at the bottom of the table, out loud, with the day on it.
 
 **It is entered that he asked three people and that all three told him the same thing, and that the thing was: *do not stand where she cannot see the door.* And it is entered that he stood where she could see the door.**
 

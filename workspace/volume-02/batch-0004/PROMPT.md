@@ -1,5 +1,26 @@
 # Batch 0004 — Volume 02, Chapters 81–90: "The False Oath"
 
+> **SUPERSEDED IN PART — read before reusing anything below.** This prompt was written, used, and the
+> batch it produced was reviewed twice (`reviews/volume-02/batch-0004.md`). Three statements in it are
+> wrong and are kept only as the record of what this batch was told:
+>
+> 1. **The calendar line that said *the last day of the new month is day 85* is false.**
+>    The new month began on day 26, so the Nth day of the new month is day 25 + N;
+>    **The sixtieth day of the new month is day 85, and this prompt's own day map then assigned
+>    days 86 to 90 to the sixty-first to the sixty-fifth day of the new month.**
+>    Chapters 0086 to 0090 are written on the longer month and are canon.
+>    **This one line is the root cause of the three-way calendar contradiction in the Batch 0005
+>    prompt, which was found in review and fixed there.**
+> 2. **The next-phase instruction at the foot of this file says Chapters 91–95.**
+>    Batch 0005 is Chapters 91–100, in one prompt of ten chapters, because `AGENTS.md`
+>    requires a ten-to-twenty chapter handoff. See `workspace/volume-02/batch-0005/PROMPT.md`.
+> 3. **The licence-age figures near the top of this file** — twenty-two on the eighty-first,
+>    twenty-six on the eighty-fifth — contradict the rule printed beside them.
+>    **The rule is that day minus fifty, and the figures on the page are thirty-one and thirty-five.**
+>
+> Everything else below stands, and the prose in `chapters/volume-02/chapter-0081.md` through
+> `chapter-0090.md` is the record of what was made from it.
+
 **Ten chapters, and the document arrives.** Write **Chapters 81 through 90** into `chapters/volume-02/` as `chapter-0081.md` through `chapter-0090.md`, in order, as complete finished scenes. Natural prose. No outlines, no summaries standing in for scenes, no meta commentary. **On length: `PHASE_SYSTEM.md` is the standard and it says approximately 2,200–3,200 words for an ordinary chapter, shorter for a compact reversal and longer where a complete scene, a hearing or an emotional payoff needs the room. This manuscript has in practice been running above that band for two volumes; that drift is an open question for the controller and it is not settled here, and it is not a licence to pad.** Never pad, never split a complete scene to hit a number, and never resolve a mystery to get to an ending.
 
 **Chapter 0081 opens on day 81, the Friday, the fifty-sixth day of the new month. Chapter 0090 is day 90, the Sunday, the sixty-fifth day of the new month.** This batch therefore contains the last day of the new month and the first of the month after it, and it stages the arrival of a document, and it closes on a thing that has been paid for.
