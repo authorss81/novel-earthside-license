@@ -460,3 +460,62 @@ Four words, on the back of a slate, in a woman's own hand over a girl's fingers 
 
 ### Nineteen lines and a slate
 The number of things the review will not ask, and the number of questions it will. Both on the same nail as a form with four items, the price of the salt written under them, and a fifth item that is a question and not a duty. **A slate and not a page, because a page is in a book and a book goes in a case, and a slate is a thing you can read standing up in the rain.** Chapter 0070.
+
+## Terms established in Volume 02, Chapters 71–80
+
+### Nobody has asked them
+Four words, not a noun. The answer given out loud in a converted salt store in daylight on the fiftieth day of the new month, in about two hundred and forty people, by the woman who wrote the question, entered in a column on the same page as the question and not on a separate sheet, and read back twice in two languages. **The answer to *what are they called* is a refusal to produce a category, because producing one is what a description is, and the licence survives it and is weaker for surviving it, because a review survived by a refusal is a review that has written down that this city refuses.** It had been on the front of a slate in a yard for three days while the question it answered was on the back, and nobody turned it over, because nobody had to. Chapter 0075, and the shape of it is found in Chapter 0072.
+
+### A heading is a place a thing can be found in
+A girl of seventeen, on a pail, in a yard, in about nine minutes, working out that the eleventh question is not asking for a word for a group of people and is asking for the heading of the column they go in — **and that you only ask somebody for a heading when you have already decided there is going to be a column.** Chapter 0072, and it is the seventh time a sentence in this book has made a thing possible and the first one made by a person of seventeen.
+
+### A document nobody may copy is a document nobody may check
+Eleven words of Sera Vail, and the finding of the forty-sixth day of the new month. Every page that office has ever had was authoritative because there was one of it. **Nine copies made by hand in a city of eleven hundred people, and the notary who asked for them entered that she cannot un-ring it, and that the un-ringing is the part she minds.** Chapter 0071.
+
+### A thing nobody asked for is the only kind that has ever told anybody anything
+Fifteen words of Renna Ord, spoken on a condemned rail in ice on the way down to an inspection that nobody required, four days before a review, **and it is the standing rule of the fortieth day of this flood turned the other way.** Chapter 0071.
+
+### A number in a question is a photograph
+Odile Ferrand's six words, and the finding that a question containing a count is not a question after the morning it was written, and that the answer to a photograph is another photograph, and a review of photographs is a queue with better handwriting. **A figure which cannot be corrected without being deleted is not a figure but a gravestone.** Chapter 0071.
+
+### I can do some and not others
+The amendment to the nineteenth of nineteen lines of what a person in this city may be asked to turn up for, asked for by the man the line is about, in daylight, in about two hundred and forty people, **for the worse, and the first time in eighty days that a line on the keeper's board has been changed by the person the line is about.** Chapter 0074.
+
+### A man who is asked and says no is not a man who did not turn up
+And the two had been the same man every time for eighty days. The fourth page of the instrument, used for the second time. **Nobody thanked the man who said no and nobody thanked the man who asked, and both of those facts are entered and neither of them is a complaint.** Chapter 0074.
+
+### A prediction which is wrong in the direction it wanted to be is worse than one that is wrong the other way
+Twenty-two words of Renna Ord, on the forty-ninth day of the new month, about a roll of forty names that carries thirty-eight. **Holding both ends of a number is not the same as being right.** Chapter 0074, and it is the batch's best piece of reasoning.
+
+### A form that repeats itself is not asking twice, it is establishing that it may
+Fifteen words of Priya Shah, in a yard behind a chandlery, on the back of a copying list, said by a woman of twenty-four who has now produced the sentence that made a thing possible in this city eight times. **The repetition is the finding: a thing that says the same true thing twice is not a coincidence and is not a lie, it is the shape a thing takes when a room has begun to expect it.** Chapter 0073.
+
+### A permanent exemption is a standing
+Twelve words of Renner Sallow, second clerk of the Registry, about his own office, in the local language, in about nine seconds, in a yard behind a chandlery: **a district that has been given a permanent exemption is the only body in ninety years of those forms that could be written to without anybody's name being on it, and the reason it could is that there is no name.** Chapter 0073, and the fifth clause of the Registry's own notice is the load-bearing weapon of this volume.
+
+### Nobody asked is not the same as nobody existing
+Nineteen words in a receiving-party cell, in a notary's hand, under a cross. **A question written in a box shaped for an answer is a form that has been turned into a form, and a form that has been turned into a form is a lie with a seal on it** — which is why the second honest useless form carries no names where the first carried eleven. Chapter 0077.
+
+### A date is a thing I have been asking this city for since the twenty-sixth
+Fifteen words of a docker of fifty-eight who cannot read, said in a room where nobody cheered and nobody said *finally* when a clerk of the Registry explained that a hearing is a date. Chapter 0077.
+
+### A workway is for a promise
+The thing nobody in this city had said out loud in seventy-eight days, arrived at by three people independently and entered, and the whole of Chapter 0078 rests on it. **A workway is a permission profile for one direct Veyran promise, not a strength and not a hand, and a boundary stone's cut is a promise a river made about where the water was a hundred and forty years ago that nobody alive has been told and nobody alive has agreed to.**
+
+### A person who is standing in a working and has not been asked has not agreed to it and is therefore not a witness
+The standing test for whether a scene contains a working. **A hold has two of the four things and not three.** Chapter 0078, and Mina Okoye's sentence is the load-bearing rule about it.
+
+### A man is not one person
+Nine words from a woman of thirty-one of Nine Elms, on a road, having walked eleven miles to use the fourth line of a term sheet correctly. **And the fourth line is a rescue: a rescue is a working, a working needs a pattern, and a floor that has come open once is a hole and not a pattern.** Chapter 0079.
+
+### A page that asks is not a roll, and a page that names is
+The argument of Chapter 0079 and the reason the Reed Commons refused Adrian Vale's page in about nineteen minutes. **A page that asks four people whether they will carry a charge is a description, and in four months a man in a building nine hundred miles away will read the four names off the back of it, and they will not be on the front, and he will have them.**
+
+### There is nothing here to resign from
+Twenty-one words in a notary's hand, entered in a yard at Four Elms in about two hundred and forty people, after a Hearthguard of forty-four said a rule that only covers the thing you can see and a guild that does not go home about the man who wrote the page. **A man with nothing to resign is not a man being let go.** Chapter 0079.
+
+### A shrine is a record
+A stone about the height of a man's chest with a cut in the flat of it, on the north side of a fork at Four Elms, standing where it stood for a hundred and forty years. **The cut is where the water was before the boundary was moved a hundred yards downstream at a public act with witnesses, and the shrine has been saying so since before anybody alive was born, and it is not on paper. Every other thing in this valley that remembers anything is on paper, and paper goes in a case, and a case comes back empty.** Chapter 0080, and it is the first place in this series where a record has been found that an office cannot remove.
+
+### A page on a nail is a page people read; a page in a stone is a page people have to come and ask for
+Twenty-five words of a keeper of about seventy, at about the ninth hour of the evening in an empty yard, to a docker of fifty-eight who cannot read who asked whether the new line was on the slate. **And the answer is on the page and not on the slate, on purpose, because a question that is put on a slate is a question asked of everybody on every day, and that is a form.** Chapter 0076, and the reason is the whole of the difference between a form and a question.
