@@ -26,7 +26,7 @@ The gauge went down. The gauge came up. The dressed edge was looked at from the 
 
 "Then there is no reading," said a man of about forty-four who keeps a stall.
 
-"**Then there is no reading,**" said Elsa Skell. "**And that is not my fault and it is not his, and a dressed join does not narrow, it gets dressed, and I have said that in three days and I am not going to say it a sixth time in a fortnight for anybody. The reason is the same reason it has been since the first of March and it is a mason's words and I am not going to improve on it either: you do not write a number into a column when four people do not agree about where the edge is.**"
+"**Then there is no reading,**" said Elsa Skell. "**And that is not my fault and it is not his, and a dressed join does not narrow, it gets dressed, and I have said that in three days and I am not going to say it again in a fortnight for anybody. The reason is the same reason it has been since the first of March and it is a mason's words and I am not going to improve on it either: you do not write a number into a column when four people do not agree about where the edge is.**"
 
 Nobody wrote a number. **And it is entered that the twenty-fifth reading was not taken on the thirteenth day of the month after this one, that the ruled line in the column is still ruled and still empty, that there is one and that there has been one since the first of March, and that a dressed join does not narrow and has never said a word.**
 
@@ -62,7 +62,7 @@ And then a docker of fifty-eight, who cannot read, who named herself as the nint
 
 Nobody said anything for about nineteen seconds.
 
-"**I have said it nine times in nine days and every time I have said it to a person who is not here,**" said Renna Ord. "**It is on a page in a man's own hand with the date on it, and he asked for three things to be entered the first time and one of them was that he could not afterwards tell anybody whether he had said it to help this city or to file it, and I am not going to say the other name on a wall because I have said it once and once was enough.**"
+"**I have said it nine times in nine days and every time I have said it to somebody who was not in the room when he said it,**" said Renna Ord. "**It is on a page in a man's own hand with the date on it, and he asked for three things to be entered the first time and one of them was that he could not afterwards tell anybody whether he had said it to help this city or to file it, and I am not going to say the other name on a wall because I have said it once and once was enough.**"
 
 "It is the first time in thirty-four years I have heard a word used the way a thing is used and not the way a rule is used," said a mason of thirty-four years. "**And this city has put a word on a page, and a rule on a nail, and a description in a stone, all inside a hundred and three days, and all three of them are ways of not asking anybody anything, and about nine of us knew that while we were doing it and two of us have said so out loud.**"
 

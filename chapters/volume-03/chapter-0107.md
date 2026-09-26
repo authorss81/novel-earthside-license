@@ -20,9 +20,9 @@ On the seventeenth day of the month after this one, which was the hundred and se
 
 Renner Sallow is a second clerk of the Registry at Aurel and has sat at a table in this city since the fourth day of this flood, on the same side of the Concord table as a notary, and has never been asked to stop, and is never going to be, and has entered that he knows that.
 
-"Twenty-three at home," he said. "**Thirteen at Aurel. Nine days ago a girl of seventeen refused a thing the wall said in about a second, and it is the only refusal the wall has ever registered in this city, and it went into the book at home, and the count went up by one for the first time in eleven batches, and the difference between the two books is ten and it was ten before she did it and it is ten now.**"
+"Twenty-three at home," he said. "**Thirteen at Aurel. Nine days ago a girl of seventeen refused a thing the wall said in about a second, and it is the only refusal the wall has ever registered in this city, and it went into the book at home, and the count went up by one for the first time in eleven batches, and the difference between the two books was nine before she did it and is ten now, and I have never been able to make it smaller and I have never found out what the ten are.**"
 
-"Eleven before her," said a woman of twenty-four. "**Twenty-two at home, thirteen at Aurel, and a clerk of that office who sits in a room about four times a fortnight counted nine of them himself from a stranger's language on a slate in a yard and was the seventh observer and the eighth field was entered with his number on it. That is on the page and it is the eleventh time that count has not moved.**"
+"Nine before her," said a woman of twenty-four. "**Twenty-two at home, thirteen at Aurel, and a clerk of that office who sits in a room about four times a fortnight counted nine of them himself from a stranger's language on a slate in a yard and was the seventh observer and the eighth field was entered with his number on it. That is on the page and it is the eleventh time that count has not moved.**"
 
 "Then what moved," said a man of thirty-one with a hand that will not close.
 
@@ -92,7 +92,7 @@ Nobody argued with it for about nineteen seconds, and then a notary of fifty sai
 
 ---
 
-**And a hearing is in about seven weeks and there is one hearing and one clock, and a question went down a river eight days ago in the eighth column of a quarterly description and it wants eight names, and there is exactly one thing that an office nine hundred miles away can do with a description that is not a person, and it is write a number in a book, and the number will be correct, and it will be about a district, and eight people will not be in it.**
+**And a hearing is in about seven weeks and there is one hearing and one clock, and a question went down a river nine days ago in the eighth column of a quarterly description and it wants eight names, and there is exactly one thing that an office nine hundred miles away can do with a description that is not a person, and it is write a number in a book, and the number will be correct, and it will be about a district, and eight people will not be in it.**
 
 "That is the two of them side by side," said the girl of seventeen, "**and nobody in this room has said it out loud until now, so I am going to. A number is the only thing that office can use, and a name is the only thing it cannot check, and this city has spent a hundred and seven days on the thing it cannot check, and the eighth column is asking for the thing it cannot check, and it is going to get nothing, and the nothing is going to come back as a number, and the number is going to be right.**"
 

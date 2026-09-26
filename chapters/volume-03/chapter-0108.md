@@ -1,6 +1,6 @@
 # Chapter 0108 — Four Days Out
 
-On the eighteenth day of the month after this one, which was the hundred and eighth day of the flood and a Thursday, nine people went up a nine-mile road in the wrong weather because anybody may pick the work up, and the work is not a post, and the plan is four days out of this city with the day after tomorrow in the middle of it, and a woman of about sixty-one who cannot read handed nine years of paper to a girl of seventeen and said she would like somebody to have the date and not her, and a woman of seventy stayed behind and gave a reason that was about herself.
+On the eighteenth day of the month after this one, which was the hundred and eighth day of the flood and a Thursday, nine people went up a nine-mile road in the wrong weather because anybody may pick the work up, and the work is not a post, and the plan is four days out of this city and the date is the second of the four, and a woman of about sixty-one who cannot read handed nine years of paper to a girl of seventeen and said she would like somebody to have the date and not her, and a woman of seventy stayed behind and gave a reason that was about herself.
 
 **The licence is fifty-eight days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-ninth time. The black line in his right palm is one hundred and seven days old and has not moved one sixteenth of an inch.**
 
@@ -14,7 +14,7 @@ A keeper of about seventy did not go, and she gave the reason in a doorway in ab
 
 "Nobody is going to ask you why."
 
-"**I know nobody is going to ask me why, and that is the fourth of the four things on a page in an arch and it is a question and not a duty, and I have not been asked anything in a hundred and eight days and I am seventy and I am going to keep it that way as long as I possibly can.**"
+"**I know nobody is going to ask me why, and that is the fifth of the five things on a page in an arch and it is a question and not a duty, and I have not been asked anything in a hundred and eight days and I am seventy and I am going to keep it that way as long as I possibly can.**"
 
 ---
 
@@ -22,7 +22,7 @@ A keeper of about seventy did not go, and she gave the reason in a doorway in ab
 
 "Nine miles out and nine miles back is a day's walk for a person who does it for a living," said a man of about forty-four of the outer ward, nineteen years in, "**and about nine people is not a day's walk for a person who does it for a living when three of them are past fifty and one of them is nine, and I have walked it in the wrong weather twice in a hundred and eight days and both times I was glad to be told the day before.**"
 
-"And the day before was the fourteenth," said a woman of twenty-four. "**And on the fourteenth four people finished failing to write down a room, and on the fifteenth a bone-setter accepted a thing, and on the sixteenth we found out we cannot answer the question, and on the seventeenth a clerk told us the answer is not a person, and today we go up a road, and I would like it entered that in five days this city has done four things in rooms and one thing on a road and that the one on the road is the only one any of us has proposed.**"
+"And it started on the fourteenth," said a woman of twenty-four. "**And on the fourteenth four people finished failing to write down a room, and on the fifteenth a bone-setter accepted a thing, and on the sixteenth we found out we cannot answer the question, and on the seventeenth a clerk told us the answer is not a person, and today we go up a road, and I would like it entered that in five days this city has done four things in rooms and one thing on a road and that the one on the road is the only one any of us has proposed.**"
 
 ---
 
@@ -54,7 +54,7 @@ Nobody improved on that. **And it is entered that she kept nothing back, and it 
 
 **And then, on the fourth mile, a docker of fifty-eight who cannot read said the thing that turned the rest of the day over, and she said it because she was looking at the paper, and it is in the book in her own words, and it is ten words, and the room did not check the count, which is entered.**
 
-"**The oldest year has two lines struck out of it.**" That is ten words, and the room did not check the count, which is entered.
+"**The oldest year has two lines struck out of it.**"
 
 Nobody stopped walking for about nineteen seconds and two of the nine stopped walking altogether.
 
@@ -90,4 +90,4 @@ Nobody stopped walking for about nineteen seconds and two of the nine stopped wa
 
 **And nothing was gained on the eighteenth day of the month after this one except nine years of paper and a number on a boy's slate. The undertaking is void and is on a nail and is on a river and no office has been told. Nine Elms' water is not received, the quarter is gone, the fourth line of a term sheet is in force, and a village of nine households has refused three times and has not refused a fourth time. A field of ninety-one acres out of a hundred and forty is not paid, and the cost column has eleven entries in one month, no figure on the end of any of them, and no twelfth. The chair of holder of the pull is vacant and the instrument says nobody and has said nobody five times. The Narrow Mark has been opened twice in a hundred and eight days and was not opened today. The measurement column has twenty-four readings, both of the last two eight and seven-eighths, two steps in an unnamed mason's hand on the eighteenth and the twenty-fourth day of the new month, one ruled line left, and the twenty-fifth reading has not been taken. The chapel stone is silent and is not repaired, the ground under the chapel is a scar, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items, the price of the salt under them, and a fifth that is a question, and none of the five can close anything or say where a residue goes or say who is in a room. Adrian Vale is Stage 2, Passage holder, in the doing, and holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and performed no working today, and the whole of what he did on a nine-mile road was ask a docker to read him a date. **There have been twenty-nine things the wall has said in this city, one of them has been refused, and a day the wall says nothing on is a silence, and this is the seventeenth, and the pattern is seventeen for seventeen.** The black line in his right palm is one hundred and seven days old and has not moved one sixteenth of an inch.**
 
-She came back down. **And the nineteen day of the month after this one is tomorrow, and the weather on this road in this month is the weather that is written under the four items on a nail in an arch, and nobody has written anything on the wall, and about nine people slept in a village at a fork where a stone carries three pages that they did not open.**
+She came back down. **And the nineteenth day of the month after this one is tomorrow, and the weather on this road in this month is the weather the fifth thing on a nail in an arch was written for, and nobody has written anything on the wall, and about nine people slept in a village at a fork where a stone carries three pages that they did not open.**

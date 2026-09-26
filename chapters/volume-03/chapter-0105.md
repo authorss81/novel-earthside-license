@@ -20,7 +20,7 @@ On the fifteenth day of the month after this one, which was the hundred and fift
 
 Elsa Skell is forty-four and is of Corrow and came four miles, and she reads the edge of a join and is one of the four, and she was entered on the fresh inspection on the ninth day of the month after this one and did not enter the four miles in the cost column and gave the reason on the page: the column has eleven entries in one month and no figure on the end of any of them, and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason, and the four miles did not stop, and she would rather carry it than be the twelfth.
 
-"I am owed a figure on the end of a cost column," she said. "**And I am owed a decision about ninety-one acres out of a hundred and forty that belongs to me and not to anybody in this room, including the man it is on. Both of those are on a page in a stone. I am not here about either of them. I am here because a woman of twenty-four asked me in a market on the last day of the month before this one whether I would come, and I said I would come and be left alone, and I am asking now for the second half of it to be kept.**"
+"I am owed a figure on the end of a cost column," she said. "**And I am owed a decision about ninety-one acres out of a hundred and forty that belongs to me and not to anybody in this room, including the man it is on. Both of those are on a page in a stone. I am not here about either of them. I am here because a woman of twenty-four asked me in a market on the eighty-third day of this flood, which was the fifty-eighth day of the new month, whether I would come, and I said I would come and be left alone, and I am asking now for the second half of it to be kept.**"
 
 "Kept," said Sera Vail, and it was entered, and nobody asked her anything else for four hours.
 
@@ -40,7 +40,7 @@ Odile Ferrand is thirty-eight and is of the second group and she is one of the t
 
 **And at about the fourth hour of the afternoon a woman of twenty-four said the sentence that the room had been building for four hours without knowing it, and it took about nineteen seconds, and it is hers, and it is twenty-five words, and the room did not check the count, which is entered.**
 
-"**Every institution in this city is a person and every one of them is tired, and that is not a complaint, it is a list.** That is twenty-five words, and the room did not check the count, which is entered.
+"**Every institution in this city is a person and every one of them is tired, and that is not a complaint, it is a list.**"
 
 Nobody asked her to go on and she went on.
 

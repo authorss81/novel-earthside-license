@@ -90,7 +90,7 @@ And the man with the good coat, who was standing at the end of the wharf and had
 
 "**It was eleven miles and it was the wrong weather and you were nine.**"
 
-"Then I can take a thing up the nine miles again," said Tam Crane, who is nine, whose mother owns the building the loft is the top of, and who was asked a question on the twenty-fifth day of the new month, which was the fiftieth day of the flood, and whose answer is still unwritten a month later.
+"Then I can take a thing up the nine miles again," said Tam Crane, who is nine, whose mother owns the building the loft is the top of, and who was asked a question on the twenty-fifth day of the new month, which was the fiftieth day of the flood, and whose answer is still unwritten fifty-one days later.
 
 "You can," said Hettis Roke. "**On the nineteenth day of the month after this one there are going to be about nine people going up that road in the wrong weather to look at eight stones that nobody has looked at, and the date is on a slate and it is the only thing on the slate, and nobody has written anything on the wall. And I am one of the nine and I am not going to say to a boy of nine that I would rather he did not, because a man of forty-four who says that is a man who has started putting children on roads for his own reasons.**"
 

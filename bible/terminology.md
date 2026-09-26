@@ -650,3 +650,50 @@ Seventeen words of a keeper of about seventy who has had a nail in a chapel arch
 
 ### Eleven households keep that road
 **Nine miles up the Reach road and nine miles of it is the upper road, and it is kept by eleven households who are not a council and pay no levy and answer to no clerk, and the keeping is a day each in a bad week and a quarter of a day in a good one, and it is a promise and not a sum, and it is the only thing in a hundred days that nobody in that room can be angry at and everybody would miss.** Chapter 0100.
+
+## Terms established in Volume 03, Chapters 101–110
+
+### A case that does not come back
+**The volume's first finding and the shape of its whole question.** A case goes down a river four times a year and the only thing that has ever come back up one is a count. There is no column in the world for an answer, and this city has been protected by that for a hundred and forty years, and **the protection is that nothing comes back.** The reason nobody can be found is the same fact as the reason nothing can be audited. Chapter 0101, on a wharf, in the wrong weather, and the emptiest thing in a case is still the safest thing in it.
+
+### The cost of a gate is the answer. The cost of an answer is a person
+**Sixteen words, said on a step two hundred steps down a river wall by a docker of fifty-eight who cannot read, and the room did not check the count.** A gate takes a person standing behind it and does not ask. **A lock is not a hole and a hole is not a door** — a foreman of the day crew, the third day of this flood, in about nine seconds, and not improved on since. **A single witness** — the patch, said aloud in the local language on that step by a person who was in the room when it was named, and not the other name, because she has said it once and once was enough. Chapter 0103.
+
+### A description of the people who were in a room is not a description of the room
+**Seventeen words, said by a mason of thirty-four years at the end of ten days of failing, and the finding of the fourteenth day of the month after this one.** **And a description is not a place** — seven words with the and in it, a rule this city has had for a hundred and four days, used here against the person saying it. **Who is it about** — four words, a docker of fifty-eight's question, read out by a girl of seventeen because it was written on the back of a slate, and nobody answered it for about nineteen seconds. Chapter 0104.
+
+### Every institution in this city is a person and every one of them is tired
+**Twenty-five words, a woman of twenty-four, four hours in a low room by the salt wharf, and the room did not check the count.** *And that is not a complaint, it is a list.* A bone-setter is a woman of fifty-eight. A measurement column is four people going down a condemned rail twice a day in the wrong weather with a gauge and disagreeing. **A person is the only shape that can be named, and so the only shape that can be found, and so the moment somebody agrees to carry a cost the city has written down where that cost is.** Chapter 0105.
+
+### A cost that nobody holds is not a cost that has stopped
+**A notary of fifty's second half, said in the flat voice, and it is the half that stops a room making the mistake in the other direction.** If nobody in a city is allowed to carry anything, then in four months there are four hundred people in a city where a cost exists and no person holds it. **A cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason; a cost that nobody holds is a cost that has got nobody.** Chapter 0105.
+
+### I asked for a question instead of a name, and I have got a question I cannot answer
+**Eighteen words, a Hearthguard of forty-four, said before anybody put it to him, and nobody absolved him and he did not ask them to.** The reason this city cannot answer the question in the eighth column is that **it has spent a hundred and six days not writing down the names of people**, and the not-writing was the protection and is now the reason. **It was a protection and it is the best thing anybody in this city has done since I came here, and I want that said in the same entry and neither of them above the other.** Chapter 0106.
+
+### Then we go and look at the seven
+**Four words, a docker of fifty-eight, in a room over a market, and nobody argued with her, and it is the whole of the next four days.** The seven cuts are nine miles up a road in a wall and one of the eight is a name in a hand about a hundred and forty years old and nobody has looked at the other seven in nine years. **It is a date on a slate and about nine people and a road, and it is not a plan.** Chapter 0106.
+
+### The answer is not a person and that is the whole of what we know
+**Fifteen words, a man of thirty-two, about nine seconds, and the room did not check the count.** A number cannot be asked whether it will have it. A page cannot be asked whether it will have it. A person can. **A number is safe and a page is not, and the difference between them is that a number cannot end anything and a page can.** The difference of ten between the two books a clerk of the Registry keeps is the safest thing in this city, and the only person who could make it close is a man who has been told in a room that he is allowed to. Chapter 0107.
+
+### A number I can change on my own is a number that is mine and not the office's, and it was never mine
+**Twenty-three words, a second clerk of the Registry at Aurel, who was offered a thing in a room on the seventeenth day of the month after this one, said yes in about four seconds, and then did not do it, and entered that he could.** The count at Aurel is thirteen and the count in the book kept at home is twenty-three, the difference was nine before the first registered refusal and is ten now, and **he has never been able to make it smaller and has never found out what the ten are.** Chapter 0107.
+
+### The oldest year has two lines struck out of it
+**Ten words, a docker of fifty-eight who cannot read, on the fourth mile of a nine-mile road in the wrong weather, and the room did not check the count.** Nine years of nineteen shapes and the oldest year has seventeen. **A struck line in a working record is a line somebody crossed because they did not know, and it is not a smaller count, and the number has not gone down. The number is nineteen. A hole in a page is a place where a number used to be.** Chapter 0108.
+
+### I would like somebody to have the date and not me
+**Sabra Vint, about sixty-one, cannot read, nine years of paper in her own hand, handed to a girl of seventeen on the second mile in the rain in about four seconds, and she kept nothing back.** The copying is finished, the slates are the work, **and the meaning of nineteen shapes is still unwritten and nobody has written anything on the wall.** Chapter 0108, and it is the same sentence she gave on the sixty-fifth day of the new month and it is now in the hands of a docker and a girl and is not in a case.
+
+### It is a man standing next to his grandfather's hand
+**A Hearthguard of forty-four, on a road, on the nineteenth day of the month after this one, after four hours in front of seven cuts nobody had ever looked at.** He has not been asked in nine years and he has not refused, **and a person who has never been asked is not a person who has refused.** He was asked whether he would say it in a room and said **I do not know** — three words, and the first honest sentence about himself he has said in nine years. **Nobody is going to write anything on the wall.** Chapter 0109.
+
+### A finding about a failure is the only kind of finding this city has ever written down
+**A mason of thirty-four years, in a road, in about nine seconds, on the twentieth day of the month after this one.** Six lines went on the second page inside a stone: seven cuts, four of them in one hand, three in three hands, one with an older cut under it in the hand of the eleven, one a figure about two inches high with a bar across the top of it that may be a number, two a third lower than the other five where the ground is higher, and the seven in a different order from the eleven. **The last line is a finding and the five above it are not.** Chapter 0110.
+
+### A date on a page is a door and not a promise
+**The finding of the twentieth day of the month after this one.** The date on the page nailed inside the first Wayhouse was the sixteenth day of the month after this one. It came and went, the household did not close the house, nobody was told why and nobody asked. **There is no instrument in four hundred miles that can make a household keep a door open either, and this city built that on the same afternoon, and has been living in it for a hundred and ten days.** Chapter 0110.
+
+### The two institutions that will still be here in four months
+**A man of sixty-one who has copied other men's sentences for nineteen years, on a nine-mile road on the way down: the one where nobody asked, and the one nobody can carry.** **Everything anybody in this city built in a hundred and ten days is on paper, and paper goes in a case, and a case goes to Aurel, and a document that a person can be angry at is also a document an office can act on, and a cup of water at a gate is neither and it is going to outlast all of it.** Chapter 0110.
