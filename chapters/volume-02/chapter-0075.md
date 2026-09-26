@@ -32,7 +32,7 @@ And the second page was on the barrel too, in nine hands, and the nine copies ar
 
 ---
 
-**The first of the eleven turned out to be a door, and the room found that out in about nine seconds.**
+**The first of the eleven turned out to be a door, and the room found that out in about nine seconds, and it is the same eleven words that a woman of seventy read out of a yard five days ago at the ordinary volume in the open, and a room that has heard a question is not a room that has answered it, and about two hundred and thirty people in this room are about to find out the difference in public.**
 
 > **Has the route been inspected before every opening, in whatever weather there was, and where the weather was the wrong weather, has that been entered as what it was.**
 

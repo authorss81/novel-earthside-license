@@ -479,10 +479,10 @@ Fifteen words of Renna Ord, spoken on a condemned rail in ice on the way down to
 Odile Ferrand's six words, and the finding that a question containing a count is not a question after the morning it was written, and that the answer to a photograph is another photograph, and a review of photographs is a queue with better handwriting. **A figure which cannot be corrected without being deleted is not a figure but a gravestone.** Chapter 0071.
 
 ### I can do some and not others
-The amendment to the nineteenth of nineteen lines of what a person in this city may be asked to turn up for, asked for by the man the line is about, in daylight, in about two hundred and forty people, **for the worse, and the first time in eighty days that a line on the keeper's board has been changed by the person the line is about.** Chapter 0074.
+The amendment to the nineteenth of nineteen lines of what a person in this city may be asked to turn up for, asked for by the man the line is about, in daylight, in about two hundred and forty people, **for the worse, and the first time in seventy-four days that a line on that board has been changed by the person the line is about.** Chapter 0074.
 
 ### A man who is asked and says no is not a man who did not turn up
-And the two had been the same man every time for eighty days. The fourth page of the instrument, used for the second time. **Nobody thanked the man who said no and nobody thanked the man who asked, and both of those facts are entered and neither of them is a complaint.** Chapter 0074.
+And the two had been the same man every time for seventy-four days of this instrument. The fourth page of the instrument, used for the second time. **Nobody thanked the man who said no and nobody thanked the man who asked, and both of those facts are entered and neither of them is a complaint.** Chapter 0074.
 
 ### A prediction which is wrong in the direction it wanted to be is worse than one that is wrong the other way
 Twenty-two words of Renna Ord, on the forty-ninth day of the new month, about a roll of forty names that carries thirty-eight. **Holding both ends of a number is not the same as being right.** Chapter 0074, and it is the batch's best piece of reasoning.

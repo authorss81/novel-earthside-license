@@ -409,7 +409,7 @@ These are additions to the sections above, not replacements, and they are on the
 
 8. **A person may be asked whether he is able to do a thing and the answer may also be *I can do some and not others*, and the answer is entered.** Chapter 0074. The nineteenth line of the nineteen was **amended for the worse, at the asking of the man it is about, in daylight, in about two hundred and forty people** — the first time a line on the keeper's board has been changed by the person the line is about. **A working can be made cheaper without being made private** and can be made more accurate without being made private either, and neither of those is the same as being made private.
 
-9. **A man who is asked and says no is not a man who did not turn up.** Chapter 0074, and in eighty days of the instrument those had been the same man every time. **Nobody thanked the man who said no and nobody thanked the man who asked**, and that is entered as a fact and not as a complaint.
+9. **A man who is asked and says no is not a man who did not turn up.** Chapter 0074, and in seventy-four days of the instrument those had been the same man every time. **Nobody thanked the man who said no and nobody thanked the man who asked**, and that is entered as a fact and not as a complaint.
 
 10. **A prediction about a fraction of a number that is not the number is not a prediction, and a prediction which is wrong in the direction it wanted to be is worse than one that is wrong the other way.** Chapter 0074, Renna Ord's, twenty-two words. The roll of the forty is thirty-eight. **A later writer may not round, may not reconcile the number with the prediction, and may not use the four as a rate.**
 

@@ -50,7 +50,7 @@ The second page of the trial licence has said, since the twenty-fifth day of the
 
 **And then he told them how often that column has ever been filled in, and the number is eleven, and every one of the eleven was a place with soldiers in it.**
 
-"**In ninety years, on the forms of that office which I have been copying out since I was nineteen, the receiving-party column has been completed eleven times.** Nine of the eleven are garrisons. One is a customs house with a garrison in it and the customs house wrote its own name twice. One is a chartered company, which is a guild with a seal, and a guild that answers for a person is a guild that can be answered for, and I have never worked out how to explain that to a room and I have tried in three offices.**"
+"**In ninety years, on the forms of that office which I have been copying out since I was nineteen, the receiving-party column has been completed eleven times.** Nine of the eleven are garrisons. One is a customs house with a garrison in it and the customs house wrote its own name twice. One is a chartered company, which is a guild with a seal, and a guild that answers for a person is a guild that can be answered for, and I have never worked out how to explain that to a room and I have tried in three offices."
 
 "And a village?"
 

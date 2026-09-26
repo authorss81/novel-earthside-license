@@ -42,9 +42,9 @@ On the fifty-fourth day of the new month, which was the seventy-ninth day of the
 
 ---
 
-**Then the fourth line of a term sheet was used against him, and it was used correctly, and it was said by a woman of thirty-one of Nine Elms on a road, and he could not answer it, and it has never been said to him before by anybody in seventy-nine days.**
+**Then the fourth line of a term sheet was used against him, and it was used correctly, and it was said by a woman of thirty-one of Nine Elms on a road, and he could not answer it, and it had been said to him once before in seventy-nine days, in a room, four days ago, by a woman of seventy reading it off a second page, and this is the first time it has been said to him by a person who is not a notary and not standing up.**
 
-The fourth line is Ilda Marsh's. She is seventy and she is of Nine Elms and she wrote it and it took nine days to get it through the meeting-ground at Verrow on the twenty-third day of the new month, and it is on the page in the plain words of a woman who has lived in it:
+The fourth line is Ilda Marsh's, and it is the same line in the same words on the same page, and a room of two hundred and forty people heard it read out on the fiftieth day of the new month and about nine of them have written it out again since, and it is on the page in the plain words of a woman who has lived in it:
 
 > **And on a village's refusal the whole of the charge returns to the private debtor.**
 

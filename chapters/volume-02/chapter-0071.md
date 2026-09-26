@@ -70,13 +70,13 @@ She had been in four rooms between the forty-third day of the new month and the 
 
 "You could have asked," said the girl of seventeen.
 
-"**In four rooms,**" said Orla Specht, "**in seventy-two days, and about nine of the people in them are the reason I did not ask, and one of the nine is me, and I am the one I would have asked first.**"
+"**In four rooms,**" said Orla Specht, "**in seventy-one days, and about nine of the people in them are the reason I did not ask, and one of the nine is me, and I am the one I would have asked first.**"
 
 She had had it copied out in nine days. She could not read. She paid a woman of about nineteen who marks chalk on a floor for nothing, in labour, two days of it, for the copying, and she paid her in labour and not in anything else, and the entry says that and says that the whole of the arrangement is a wage off a second page and that the wage is in labour and the second page is a slate and that both of those facts are the trouble and neither of them is new.
 
 **It is entered: that the second page of the review, which is part of the instrument and not an annexe, was written out nine times in nine hands in nine days by a woman of this city who cannot read it, and that she is not sorry, and that she said so in a room in about nine seconds, and that she gave her reason, and the reason is her own and it is eleven words long:**
 
-> **Nobody has handed me a page to keep in seventy-two days.**
+> **Nobody has handed me a page to keep in seventy-one days.**
 
 **And it is entered: that this is not theft and is not a conspiracy, and that a notary of fifty said the first of those two things out loud in about four seconds and the second of them nobody had to say, and that a page which anybody may copy is a page which anybody may check, and that a document nobody may copy is a document nobody may check.**
 
@@ -122,13 +122,13 @@ Then somebody asked whether every number on either page was a photograph, and it
 
 "**Then the page is wrong already and we are going to read it in that condition on Saturday.**"
 
-The count was corrected in front of about nine people, from sixty-eight days to seventy-one, and the striking of the old figure and the putting of the new one are both on the page in the same hand, and the old figure is not deleted, on Renna Ord's standing rule, and the entry says so, and the entry says that this is the first time in seventy-two days that a figure on a page of this instrument has been corrected, and that a figure which cannot be corrected without being deleted is not a figure but a gravestone.
+The count was corrected in front of about nine people, from sixty-eight days to seventy-one, and the striking of the old figure and the putting of the new one are both on the page in the same hand, and the old figure is not deleted, on Renna Ord's standing rule, and the entry says so, and the entry says that this is the first time in seventy-one days that a figure on a page of this instrument has been corrected, and that a figure which cannot be corrected without being deleted is not a figure but a gravestone.
 
-**And Adrian Vale asked the question nobody else asked, and it went in the book and it is his, and it is the first time in seventy-eight days that this city has noticed a day it uses in its mouth:**
+**And Adrian Vale asked the question nobody else asked, and it went in the book and it is his, and it is the first time in seventy-one days that this city has noticed a day it uses in its mouth:**
 
 "**Then what is the fortieth day of this flood doing on the second page.**"
 
-It is not on the second page. It is on no page. It is a day this city has used as an anchor in about nine mouths for forty days, since a Crown channel was offered to a man in a good coat on it, and it has never been written down anywhere, and **that is entered as a finding and not as an error, because an anchor a city uses in its mouth and not on a page is a thing that dies the day the last person who says it stops saying it, and it has been in about nine mouths for thirty-one days and one of the nine is a docker of fifty-eight who cannot read.**
+It is not on the second page. It is on no page. It is a day this city has used as an anchor in about nine mouths for thirty-one days, since a Crown channel was offered to a man in a good coat on it, and it has never been written down anywhere, and **that is entered as a finding and not as an error, because an anchor a city uses in its mouth and not on a page is a thing that dies the day the last person who says it stops saying it, and it has been in about nine mouths since that day and one of the nine is a docker of fifty-eight who cannot read.**
 
 ---
 
@@ -140,7 +140,7 @@ Adrian Vale had the eleventh question since the twenty-ninth day of the new mont
 
 A mason of fifty read it to her on the Sunday, which was the forty-fourth day of the new month, four times, and she asked for a fifth reading, and then she took a stub of chalk in her own hand over the fingers of a girl of seventeen who held the slate flat as a rest, and put four words on the back of it.
 
-He has been calling it his on a page for two days. He has been calling it his because the room has been calling it his, and because being the man who wrote the eleventh question is the closest thing to a seat he has been offered in seventy-two days, and because a woman of fifty-eight took his question and cut nine words out of it and he has been quietly furious about it for two days and has not said so out loud to anybody including himself in a notebook.
+He has been calling it his on a page for two days. He has been calling it his because the room has been calling it his, and because being the man who wrote the eleventh question is the closest thing to a seat he has been offered in seventy-one days, and because a woman of fifty-eight took his question and cut nine words out of it and he has been quietly furious about it for two days and has not said so out loud to anybody including himself in a notebook.
 
 "You have not been honest about it," said Tamsin Quill, in a loft over a market, at about the fourth hour of the afternoon, in about nine people.
 
@@ -152,7 +152,7 @@ He has been calling it his on a page for two days. He has been calling it his be
 
 "**There is a difference of four words and a woman who cannot read,**" said Tamsin Quill, "**and I want to say the rest of it in the local language because you will not get it in English and I am tired of translating slowly.**"
 
-She said it in the local language. He does not speak it and he got about a third of it and the third was enough, and the third was: *a question is what a city is made of, and you wrote one, and a man of fifty-eight who has been asked eleven times in seventy-two days read yours and cut it and wrote a better one and did not tell you she had done it, and you have been angry for two days about being robbed of your own sentence, and the sentence was not yours and it is not about you and it never was.*
+She said it in the local language. He does not speak it and he got about a third of it and the third was enough, and the third was: *a question is what a city is made of, and you wrote one, and a man of fifty-eight who has been asked eleven times in seventy-one days read yours and cut it and wrote a better one and did not tell you she had done it, and you have been angry for two days about being robbed of your own sentence, and the sentence was not yours and it is not about you and it never was.*
 
 "I am not going to stop saying the eleventh question is mine," he said.
 
@@ -168,7 +168,7 @@ She said it in the local language. He does not speak it and he got about a third
 
 He is the man in the lower gallery who reported three knocks in the dressed join on the night of the twenty-ninth day of the new month and four on the night of the thirty-fifth, both entered and neither deleted, on the standing rule. **His name is in the book because he is a person and not a machine for hearing things, and it is the only reason it is there.**
 
-He is not going to be in the room on Saturday. He is not going to be in the room on Saturday because one of the nineteen reasons on the second page is his, in the hand of the woman who gave it, and it says in nineteen lines that the city is not asking him what the next one will be, and why, and the why is that if she asks him what he will hear next she has turned his usefulness into an office, and this city has spent seventy-two days taking offices out of people, and she did it once already this month and she is not doing it twice.
+He is not going to be in the room on Saturday. He is not going to be in the room on Saturday because one of the nineteen reasons on the second page is his, in the hand of the woman who gave it, and it says in nineteen lines that the city is not asking him what the next one will be, and why, and the why is that if she asks him what he will hear next she has turned his usefulness into an office, and this city has spent seventy-one days taking offices out of people, and she did it once already this month and she is not doing it twice.
 
 He asked. On the evening of the forty-sixth, in a yard, in daylight, he asked her whether that meant he was not to be asked anything at all, and she said no, and then she said the other half, and the other half is the reason he is not in the room:
 

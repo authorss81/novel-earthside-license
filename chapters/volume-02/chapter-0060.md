@@ -148,11 +148,11 @@ And nobody answered it, and it is entered that nobody answered it, and it is ent
 
 > **Twenty-first day of the flood.** *closes itself at the top of the tide. Gate crew nineteen and one foreman. Flood crew twenty-one. Forty men, twice, at the ordinary volume, out of the line and not together.*
 >
-> **The rail on the two hundred steps is condemned. The four go down it in the wrong weather with a gauge and one of them comes back up it wrong-footed and nobody has entered a fault because there is not one.*
+> **The rail on the two hundred steps is condemned. The four go down it in the wrong weather with a gauge and one of them comes back up it wrong-footed and nobody has entered a fault because there is not one.**
 >
-> **The cost column is entered for the eighth time in one month. There is still no figure on the end of it. The bottom field is a season and a season is settled in March and there is a woman in Corrow who has to decide how much of her life to put in the ground, and Renna Ord's four is on the page as a number and as a prediction, neither above the other, and both stand.*
+> **The cost column is entered for the eighth time in one month. There is still no figure on the end of it. The bottom field is a season and a season is settled in March and there is a woman in Corrow who has to decide how much of her life to put in the ground, and Renna Ord's four is on the page as a number and as a prediction, neither above the other, and both stand.**
 >
-> **The honest useless form is sealed. Sixty-one lines. It goes in a wooden case with the roll of strangers and the quarterly description at the next quarter, on a river boat, to a building nine hundred miles away, and the fee of eleven ounces of silver is entered as owing with no date, and a clerk of that office has said that the office does not charge a fee it cannot collect, and nobody in this city has worked out what the fee is about.*
+> **The honest useless form is sealed. Sixty-one lines. It goes in a wooden case with the roll of strangers and the quarterly description at the next quarter, on a river boat, to a building nine hundred miles away, and the fee of eleven ounces of silver is entered as owing with no date, and a clerk of that office has said that the office does not charge a fee it cannot collect, and nobody in this city has worked out what the fee is about.**
 >
 > **The last column of the tide table.** *The word in the box against the fifty-first day is empty. The word in the box against the thirty-fifth day was written in a hand nobody in the gallery recognises and it is not the word that is in the other five, and it is entered as what a person said. There is no rule about it and there is a rule that nobody may be put on a roster of people who write it.*
 
