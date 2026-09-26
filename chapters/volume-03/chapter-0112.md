@@ -68,7 +68,7 @@ And it is entered that a woman of about thirty-four who keeps a stall by the wha
 
 "And a chalk mark," said the woman of seventy, "is not a page and is not a door."
 
-"**No. A chalk mark is a thing nine hundred miles away has to be able to explain, and there is no column in this world for a door nobody can shut, and that is why nobody in Aurel has ever heard of Nine Elms and that is also why nobody in Aurel is going to hear about it in a quarter.**"
+"**No. A chalk mark is a thing nine hundred miles away has to be able to explain, and there is no column in this world for a door nobody can shut, and that office has a letter in it that names this village, and the letter is about an undertaking that is void, and a letter is a thing an office can hold and a chalk mark is not, and that is also why nobody in Aurel is going to hear about it in a quarter.**"
 
 "Nobody washed it off," said a man of about forty-four who keeps a stall.
 
