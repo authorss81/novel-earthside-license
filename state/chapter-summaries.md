@@ -1,5 +1,7 @@
 # Chapter Summaries
 
+**HOW TO READ THIS FILE. Append-only, one block per volume, in chapter order. The block that matters to a Volume 05 phase is *Volume 05*, and within it the last ten entries, which are Chapters 0231 to 0240; everything above is the earlier volumes and a writer that needs it should ask for the volume rather than read the file. It is over 400 KB; read one block.**
+
 ## Volume 01 — The First Door
 
 ### Chapter 0001 — The First Rule

@@ -48,7 +48,7 @@ He put his hand flat on the front of the coat where the mark was and about four 
 
 "That is going."
 
-"**That is going. It is chalk on a wall at about nine feet and it has been on that wall for thirty days and the wind has been at it since the sixty-ninth day of that month, and about four people in this city have worked out that a date at the top of a page is the first thing that goes and about nine of them have worked out that the ninth line is under the date and not beside it.**"
+"**That is going. It is chalk on a wall at about nine feet and it has been on that wall for thirty days and the wind has been at it since the seventy-fourth day of that month, and about four people in this city have worked out that a date at the top of a page is the first thing that goes and about nine of them have worked out that the ninth line is under the date and not beside it.**"
 
 "**Then it is about to be a page with no day on it.**"
 
@@ -98,4 +98,4 @@ He put his thumb on the wall under the place where the date had been and about f
 
 ---
 
-**And a thumb put flat on the bare patch of a wall where a date had been, and about a foot of chalk dust on the boards underneath it.**
+**And the board went back up on that wall with nothing new on it, and the bare place at the top of the posting above it was still bare.**

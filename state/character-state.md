@@ -1,5 +1,7 @@
 # Character State
 
+**HOW TO READ THIS FILE. Append-only; each batch appends a block and does not replace the one before. The authoritative block for a Volume 05 phase is the last one, for Batch 0004, and anything older that disagrees with it is superseded. **Where this file and a chapter disagree about a day, a name or a figure, the chapter is right.** It is over 400 KB because forty batches have appended to it; read the last block and not the file.**
+
 Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48–50), which closes Volume 01.** Private want, current pressure, physical state, and what the last seven chapters cost them. **Owen Park is dead as of the thirty-eighth day and his entry below is a record, not a plan.** The full character bible is `bible/characters.md`; the long arc is `bible/premise.md`.
 
 ## Adrian Vale — 32, protagonist

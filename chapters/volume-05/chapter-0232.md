@@ -48,7 +48,7 @@ She shifted her weight off the nail and about four people in that yard saw a wom
 
 ---
 
-**And a man of about forty-two came up that road at about the seventh hour and went to the back of that queue and did not come to the front of it and did not go into the store, and he has had his hands in his pockets since the forty-fifth day of the Long Month at the back of a line of his own making, and about four people in that yard noticed him come in and about nine of them had stopped noticing on the forty-ninth day of that month.**
+**And at about the seventh hour the man of about forty-two came up that road and went into the back of that queue instead of the front of it and stopped, and did not go into the store, and he has not taken his hands out of his pockets since the forty-fifth day of the Long Month, when he stood at the back of a line of his own making, and about four people in that yard noticed him come in, and about nine of them had not looked up off the boards since the forty-ninth day of that month.**
 
 "Five Tuesdays."
 
@@ -70,7 +70,7 @@ He took his hands out of his pockets and put them back and about four people in 
 
 "You are the same man."
 
-"**I am the man who put the ninth line on it and the man who put the date on it is a man of about twenty-nine from the settlement's workroom and he is not in this yard and he has not been in this yard since the seventieth day of that month, and I am not going to stand in a yard with about a hundred and forty people in it and say the word date and have about nine of them think I have said the word wage.**"
+"**I am the man who put the ninth line on it and I am the man who put the date on it, and the eight lines under that one are the hand of a man of about twenty-nine from the settlement's workroom and he is not in this yard and he has not been in this yard since the seventieth day of that month, and I am not going to stand in a yard with about a hundred and forty people in it and say the word date and have about nine of them think I have said the word wage.**"
 
 He looked at the ninth line then, from about nine feet under it, without moving his head, and about four people in that yard watched a man read a thing he did not have to read and about nine of them had gone in.
 

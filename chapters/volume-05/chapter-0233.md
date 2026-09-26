@@ -58,7 +58,7 @@ He did not say anything else about the rack and about four people at the top of 
 
 ---
 
-**And the rod that is lying flat in the cracked bottom of that cut about eleven feet further in had been lying flat in that crack for nine days, and a man of about fifty-two put it down flat instead of in a hole on the sixty-ninth day of that month because a woman of about thirty-four had said a number out loud at the top of that cut and he had found out there was one, About four people in this city have worked out that a rod lying flat in a crack is a man admitting a thing, and about nine of them have worked out that it is a rod.**
+**And the rod that is lying flat in the cracked bottom of that cut about eleven feet further in had been lying flat in that crack for nine days, and a man of about fifty-two put it down flat instead of in a hole on the sixty-ninth day of that month because a woman of about thirty-four had said a number out loud at the top of that cut and he had found out there was one, and about four people in this city have worked out that a rod lying flat in a crack is a man admitting a thing, and about nine of them have worked out that it is a rod.**
 
 "**Nobody has picked that up in nine days.**"
 

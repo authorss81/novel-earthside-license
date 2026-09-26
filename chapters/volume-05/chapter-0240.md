@@ -22,7 +22,7 @@ The mark on the front of that coat was still on it and the coat was hanging in t
 
 "**I am not going to write that down.**"
 
-"**I did not say anything about writing it down and you have said it for me, and about four people in this yard have worked out that the man who washes that board is the man everybody in this building tells things to by mistake, and about nine of them have worked out that he is the man nobody tells anything to. I have not written on that board since the seventy-ninth day of the Long Month and I am not going to, and a mark on a floor is not a day and I have said that out loud in a yard on the seventy-ninth day of that month and I am not going to say it again this morning.**"
+"**I did not say anything about writing it down and you have said it for me, and about four people in this yard have worked out that the man who washes that board is the man everybody in this building tells things to by mistake, and about nine of them have worked out that he is the man nobody tells anything to. I have not written on that board since the seventieth day of the Long Month and I am not going to, and a mark on a floor is not a day and I have said that out loud in a yard on the seventieth day of that month and I am not going to say it again this morning.**"
 
 "You said you had nothing to write."
 
@@ -52,7 +52,7 @@ He wrung the cloth out over the trough and about four people in that yard watche
 
 "That is the ninth time."
 
-"**That is the ninth time and I have done it nine times on the seventy-seventh day of that month, on the eighty-fourth day of that month and this morning, and about four people in this city have worked out that a man who empties a trough nine times is a man who is not on a rota in this building and about nine of them have worked out that he is the only one, and I am not on a rota and I have never been on a rota and the trough does not care and that is the whole of what I have learned from it.**"
+"**That is the ninth time and I have done it nine times on the seventy-seventh day of that month, on the eighty-fourth day of that month and this morning, and about four people in this city have worked out that a man who empties a trough nine times is a man who is not on a rota in this building and about nine of them have worked out that he is the only one in this yard who is not on a rota, and I am not on a rota and I have never been on a rota and the trough does not care and that is the whole of what I have learned from it.**"
 
 "You have had a paper in that coat since the thirteenth day of the Long Month."
 
