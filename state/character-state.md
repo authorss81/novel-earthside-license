@@ -924,3 +924,165 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48�
 - **The six of the first group and the eleven of the second group** are still named, still with no land rights, no class, no standing and no workway, except one, and the one is not whole, has refused the asking once, and is owed a document that does not contain her.
 - **A girl of sixteen** is one of the two people on no roll in this city, and has still not been asked about it. **The two people on no roll may never be witnesses, and a girl of seventeen who is on no roll is not one of them.**
 - **Elsa Skell's figure and Elsa Skell's ninety-one acres**, **Ilda Marsh's cart and a fourth refusal**, **the second list which did not go at all**, and **the four who read the join-line, who are still four.**
+
+# Volume 03, Batch 0002 — the second ten days of Volume 03, days 111–120
+
+## Adrian Vale — 32, protagonist
+
+- **Still Stage 2, Passage holder, in the doing and not in a ceremony. Unbound. Barred from every roster. No mark of his own, no workway, no title, no land right, no class privilege, no seat, no office, and there is no office in Saltwake for what he now is.** **He performed no working in any of these ten days and no threshold was opened and the crossing is not written in them and the other world is not named once in Chapters 111–120.**
+- **What it cost, again, in these ten days:** the knowing and not a road. **He has no return mark, the route home goes through a room with no door.**
+- **Mark:** the black line in the heel of his right palm is **one hundred and ten days old at Chapter 0111 and one hundred and nineteen at the end of Chapter 0120 and has not moved one sixteenth of an inch at any point in this batch.** No chapter says by how much and no chapter says what it is. **The line's age and the length of his stay in this world are two different numbers and were not run into one another anywhere in the batch: a hundred and ten days in this world at Chapter 0111 and a hundred and nineteen at the end of Chapter 0120, and the line is as old as the second figure and not the first.**
+- **THE BATCH'S COST TO HIM, AND IT IS THE WORST ONE YET: HE READ A DOCUMENT OUT LOUD IN A ROOM AND IT MADE HIM A COLUMN.** On the twenty-ninth day of the month after this one, which was the hundred and nineteenth day of the flood, he read a boundary page of the village of Nine Elms in about nine minutes in the local language in front of about nine people, because he is the only man in four hundred miles who can tell a form from a sentence, and a woman of thirty-eight who is on no roll at all had asked him to, and a man of forty-one in a very good coat had said out loud that he could not read it and would not guess. **A translation is a description. A description is a removal with a column for where the person is. The column is him.** He said it first and nobody improved on it and it is entered as what a person said and not as a finding. **He said in four minutes that he is not going to be able to stop, and that a rule about a document is a rule about a document, and that reading is the whole of what he can do in this world and is not a neutral thing to be able to do.** **Nobody absolved him and he did not ask them to, and nobody looked for an instrument that would let him stop, and the search was not a rescue and is not one.**
+- **What else this batch cost him:**
+  - **He refused to read the writing round the edge of a wax in about four seconds on the twenty-sixth day**, and read the four lines under the seal and said why: a form is not a face, and a face is a thing a carrier reads and a carrier reads it out to the room. He said the same thing twice that afternoon and would not say it a third time.
+  - **He said a hearing is a room in about four seconds** on the twenty-first day, and a woman of twenty-four wrote *he would rather be in the room* with no marks round it, and he said nothing else about it for two hours.
+  - **He said the two people who can carry nothing are the reason and neither of them can carry anything**, and asked for it entered that a thing said by a man with no roster is not a standing and is not a claim.
+  - **He said a man who is not paid and a man who will not come are two different men**, and that a thing nobody can be angry at is also a thing nobody can be stopped by.
+  - **He said a page can be taken down on a date by the household that keeps it and a door cannot**, and then a woman of about thirty-four who keeps a stall by the wharf had him exactly backwards in nine seconds and he said in four seconds that she was right and that the two of them had said the same sentence and neither had heard the other do it.
+  - **He read the number off a door in chalk, four feet back, and said it out loud**, and it is the whole of what he did at Nine Elms.
+  - **The whole of what he did to the case was not read the wax.**
+  - **He did not answer a boy of nine's answer and said nothing about it for four minutes**, and a woman of twenty-four entered that and then did not enter it, and entered that she noticed the second one.
+- **Voice:** no new slip in this batch. He has now entered the same refusal four times in ten days across two batches and the repetition is the method and not a tic.
+- **Where he is:** Saltwake, **day 120, the Tuesday, the thirtieth day of the month after this one, at about the ninth hour of the evening, in a room over a market, having been entered as a column.**
+
+## Sera Vail — 50, Lantern Concord notary, twenty-six years
+
+- **Accepted the thirtieth thing the wall has said in about four seconds and was not refused, and entered that she did not think about it**, and a woman of twenty-four said that not thinking about it is the finding and not the excuse. It is the third time in a hundred and twenty days she has accepted a field in four seconds and the first two moved nothing and this one moved something on the following day.
+- **Entered that four agreeing accounts of a crossing are not a record**, and that this is the first time in a hundred and sixteen days this city has had a thing it could not make a record about.
+- **On the twenty-sixth day of the month after this one entered that she would like to be asked before the box is opened**, in a room, in daylight, with a date on it, by a person, and the reason is that she has been the notary of about nine hundred things and about nine hundred of them were somebody else's sentence. **She has been asked about it four times in four days and has answered none of the four, and the not-knowing is entered with the date on it, and that is the first time in twenty-six years she has entered that she does not know, and she said she is not going to be asked to be the notary of the Open Hand and that is the correct arrangement.**
+- **Read the whole of a nineteen-line page headed *the box as received* aloud in about nineteen seconds, then read the first attempt again, and asked the question nobody in that room could answer — *What is this about?*, four words — and nobody answered it for about nineteen seconds and it is entered that nobody answered it.** She has now asked a four-word question nobody can answer twice, six days apart, and the second is a new sentence and not the first.
+- **Said in about four seconds that the cost she accepted in four seconds the previous day had arrived in about four hours and that nobody had to do anything to make it arrive**, and that it was the third time in a hundred and twenty days that a thing she accepted without thinking had cost somebody something, and that nobody asked her about it twice.
+- **Said the part nobody in the room was going to be able to carry on the twenty-ninth day**: the fifth clause of the notice of the twenty-eighth day of this flood, that a person who could not afford to answer an instrument has not answered it, so the instrument of the twenty-second day of the new month stands **answered forty-nine times and unanswered by ninety**, and that it is a document this city cannot answer and did not write. **She has now entered the noticing four times in a hundred and twenty days and said that it is not modesty.**
+- **She still holds page forty-one. Nobody has mentioned it.**
+
+## Ivenn Marrow — 41, Crown Law scholar from Aurel, unaccused
+
+- **Said, on the twenty-ninth day of the month after this one, that he cannot read a boundary form, and gave the reason in about nine seconds: he has read every book that office keeps and has never held one of these, and this is a district form and not a book, and he was not going to guess at it in a room with about nine people in it.** He was not made useless and he was useful in exactly one scene and the scene is about the limit of what he knows.
+- **He did not interrupt a man of thirty-two once in four minutes.**
+- **He offered nothing in these ten days, was asked to explain neither name, and said nothing wrong in a hundred and twenty days. He is not convicted of anything and is not going to be.**
+- **He has still not mentioned the letter to Hattie Park and the count is not spoken: it is seventy-one days at day 111 and eighty at day 120, anchored to the fortieth day of this flood and to nothing else, and it appears zero times in Chapters 111–120.**
+- **His room is on the hundred and eighth day of the month after this one, which is the hundred and ninety-eighth day of the flood — about twelve weeks off at Chapter 0111 and about eleven weeks at Chapter 0120 — and it is stated once, in the last ledger paragraph of Chapter 0120, and is not due.**
+
+## Renna Ord — 58, boat-coat dock worker, cannot read
+
+- **Said thirteen words at about the seventh hour of the evening of the twenty-fourth day of the month after this one, at the top of two hundred steps: *A man who has stopped coming is not a cost that has stopped*.** A girl of seventeen counted them and the room did not check the count. Then she said the rest, which is not counted, that the foreman of the day crew has said four words under that gate every working day since the forty-sixth day of the new month, which is *mind the low stone*, that he said them this morning to nobody, and that the correct reading of a man who does not turn up is that he has not been paid, **and that the correct reading is wrong in the direction that is easiest for everybody in this city.**
+- **Said the sentence again on the twenty-eighth day — a person who has never been asked is not a person who has refused — and about four people understood in about four seconds that the sentence had never been about the man of sixty-one it appeared to be about, and that nobody said so, and that the correct thing to do about that in this city was to let it stand.** It is the third time she has said it and she has said it about three different people and none of them was her.
+- **Went down on her hands with her face four inches off the wax on the twenty-seventh day of the month after this one and said the wax is not the wax on ours and that the writing round the edge of it is a line she could not read because she cannot read.**
+- **She did not ask the page anything and did not go near the box.** Her sixteen words from the thirteenth day of the month after this one were not said again and were not paraphrased.
+
+## Nyla Ferrow — 70, keeps the lock chapel
+
+- **Was asked, on the twenty-fifth day of the month after this one, a Thursday, to be the number — the one person who says the count out loud in a room in daylight with a date on it — and said no in about four seconds without stopping, and the reason took about nineteen seconds and it was about herself and not about the number.** She did not put down the cloth.
+- **Her reason, in her own words:** she has kept a floor for fifty-one years and has done it by being a person nobody can find, and that is not modesty, it is the job; **and if the number is a person then the number can be asked whether the number is right, and in about eight weeks there will be somebody in a room nine hundred miles away asking her, and she has read a form four times in nine years and knows exactly what happens the first time somebody is asked a second time.**
+- **She said the fifth thing on the nail in the arch is a question and not a duty, and that she has not been asked anything in a hundred and fifteen days and is seventy and intends to go on not being asked for as long as there is anything left to not be asked about.**
+- **A man of thirty-two told her she was not being asked to be a seat, and she said that then she would take it and she is not going to, and that he had not asked her anything and she was not going to help him out.**
+- **It is entered that about four people wanted to argue with her and did not, and that nobody asked her again that day, and that a docker of fifty-eight who cannot read said a person who has never been asked is not a person who has refused, and that a woman of twenty-four said the correct thing to do about a refusal given by a person who has never been asked anything in a hundred and fifteen days is to let it stand and go away.**
+- **She read the join-line on the twenty-fourth day of the month after this one, said she was at the same line as both of the others, and said she had said the number out loud twice that day and had not been asked to.**
+- **She washed a floor on a Thursday and a girl of seventeen wrote her reason out and did not put the number nine at the top of the page because it was not hers to put there.**
+
+## The woman of about thirty-four who keeps a stall by the wharf
+
+- **Refused, in about four seconds, to put nine names in a carrier's book, and put the refusal on a board with no name on it and a date on it.** The reason is that a carrier's book is a roll and a roll goes in a case.
+- **Refused a man of about thirty-nine his request to be added by name, in about four seconds, in nineteen words — a name on this board is a name in a book, a name in a book is a column — and then gave the rest: in this city a person is somebody you can find, in a book nine hundred miles away a person is a line, and the moment his name is on that board he is a line in a book and a line in a book does not know what it is for.** That is the **third** time in a hundred and twenty days she has been asked to put her name on anything and said no.
+- **Said the finding of the twenty-second day of the month after this one in nine seconds: a page can be taken down and a door cannot, and those are the same sentence with the words moved about, and one of them is a protection and the other is a thing nobody can do anything with.**
+- **Said, on the twenty-seventh day, that the description of the box is the only account and the account is about nine people, and that on the twenty-eighth day that in about eight weeks somebody is going to get up and give a speech about what this city has built and that every word of it is going to be about us, and asked for it entered that she is not going to use a boy of nine's sentence and is not going to let anybody else use it.**
+- **Told a man of sixty-one on the twenty-seventh day that he had found a better version of a sentence she had said on a wharf on the eleventh day of the month after this one, and that she was not going to claim his, and that the two of them had said one sentence on two days and neither had heard the other do it.**
+- **Refused three translations in nineteen days and said the answer is the same every time.** She is on nothing and is named on nothing and is not going to be gladder about a number.
+
+## The girl of seventeen
+
+- **Refused the man of thirty-nine's name in under a second when she had to, and said no to the fifth request to be added to a board, and said the reason: a name on that board is a name in a book and a book is a door.**
+- **Wrote the number nine into a column in a book with no heading and no date on the twenty-first day of the month after this one, because a heading is a column and a column is a roll, and about four people wanted a date on it and nobody gave them one.** She entered it again properly with a date on the twenty-fifth day and with no person at the top of it.
+- **Counted nineteen words, thirteen words, four words, five words, twenty-six words and twenty-eight words in this batch and the room did not check one of the six counts, and it is entered six times that the room did not check the count.** She read a boy of nine's slate out loud because he could not be sure of the local hand and asked for nothing and was given nothing.
+- **Was handed a boundary page a hundred and forty years old in a fold of oilcloth by a woman of seventy and said she was the worst possible person to hand it to and that the woman of seventy did it on purpose**, and that the reason was that she is the only person in this city who copies things and who is on no roll, and that if it is ever in a book in this city the first copy of it will be in a book that cannot travel.
+- **Said that she is not going to be the person who finds out what is in the box and that if she is asked to be she will say no in under a second.**
+- **Is on no roll, and has not been asked one question about being on no roll in a hundred and twenty days.**
+
+## Elsa Skell — 44, of Corrow
+
+- **Was in a room over a market from the second hour of the afternoon to the seventh hour of the thirtieth day of the month after this one while the season of ninety-one acres out of a hundred and forty was settled in by the rule drawn under the eleventh line of a cost column, and was asked nothing, and said nothing, and did not turn round when a man of thirty-two explained in a room why a rule had just cost somebody a field.** It is entered that she heard it, and a girl of seventeen entered both of those things with the date on them, and that nobody improved on any of it.
+- **Said five words — a figure and a decision — when asked what it cost, and the girl of seventeen counted them and the room did not check the count, and she said nothing else at all for the rest of the day.**
+- **Disagreed with three about the dressed edge for the sixth time since the first of March on the twenty-fourth day of the month after this one, and the sixth was about the edge and not the number, and all six entries stand and the twenty-fifth reading was not taken.** Her reason is a mason's words she will not improve on: you do not write a number into a column when four people do not agree about where the edge is; a dressed join does not narrow and it gets dressed. She said she would not say it again that week for anybody.
+- **Is still owed a figure and a decision, and no further questions about either until she asks, and it is on a page in a stone nine miles up a road.**
+
+## Peth Lomas — 50, a mason of Saltwake, not of the crew
+
+- **Answered the twenty-fifth reading on the twenty-fourth day of the month after this one and said it is the hundred and fourteenth day and that he has been a sixteenth under five times out of six and that this morning was not the sixth.** The sixth disagreement of the six was **Elsa Skell's, about the edge**, and Peth Lomas is still under **five times out of six**.
+- **Said in the yard that he is going to be a sixteenth under on the day somebody writes the twenty-fifth, and that he will not read it alone.**
+
+## Garret Slee — 61, who has copied other men's sentences for nineteen years
+
+- **Said the only thing anybody wrote down without arguing with it first, in a room on the twenty-seventh day of the month after this one: two people copying the same sentence makes the second one a photograph of the first one, and a photograph is true and is not a description, and nobody can be angry at it.**
+- **Asked to see the writing round the edge of the wax, standing up, and said the reason before he was refused, and was refused in about four seconds by the man of thirty-two, and then gave the reason in his own words: he has copied about nine thousand sentences in nineteen years and every one of them he copied before he knew what it said, and not one of them in nineteen years has he been able to put down afterwards, and a mark somebody pressed is a sentence somebody said.**
+- **Had a sentence ready nineteen yards in front of a boy of nine for two days and did not say it, and said in about nine seconds that the reason is that the sentence was about a road and a wall and a stone, and that it is a good sentence, and that it would have been about him.**
+- **Was asked in a room for the first time, by a boy of nine, in front of about nine people, on a day he did not choose, and a docker of fifty-eight said a person who has never been asked is not a person who has refused, and nobody said that the sentence was not about him.**
+- **Has still not been thanked for the nineteen stones and has still said not one word about the ground behind the ordinary wall.**
+
+## Ilda Marsh — 70, of Nine Elms
+
+- **Refused a fourth time on the twenty-second day of the month after this one, as a person and not as a village, and said the reason in about nineteen seconds: the four does what she says it does; three times the village said no and the no belonged to nine households; the fourth is hers; a village cannot be a person and a person can be a person, and a person can be held to it, and a person can be asked whether she will have it, and nobody in nine hundred miles has any instrument that can ask her that. She said it is not a victory and it is a cart at noon.**
+- **Said that nobody was going to wash the date off, and why: a mark that comes off is a mark somebody can take back, a page can be taken down on a date by the household that owns it, and this door has no household that owns anything, so the mark stays and it is the only part of it that is out of her hands.**
+- **Carried a boundary page a hundred and forty years old into a room over a market on the twenty-ninth day of the month after this one in a fold of oilcloth and gave it to a girl of seventeen and not to anybody else**, and said why in about nine seconds: she refused a fourth time seven days earlier, she had had a cart and a chest and a thing in the bottom of it that she had not shown anybody since she was a girl, and she would not show it to a room because a room would have written a thing about it.
+- **Sat on a bench by the wall for four hours on the twenty-ninth day and said not one word, and nobody asked her why.** She is not a person anybody in that room was going to be able to help.
+- **She is a different person from a woman of forty-eight in a fourth house at Nine Elms and the two were never put in one sentence.**
+
+## Hesper Saye — 58, a bone-setter and herbalist
+
+- **Was not at the gate on the twenty-fourth day of the month after this one. Her record is unchanged: four hundred men told a thing about a shoulder or a scalp, ninety of them wrong.** She is not one of the four who read the join-line and was not entered as one of them.
+
+## Hettis Roke — 44, Hearthguard of the outer ward, nineteen years in
+
+- **Was not asked anything in these ten days, in a room, on a different day, about his own eight, and nobody in about nine people put it to him.** He said **I do not know** on the nineteenth day of the month after this one and that is four words and it is on the page and nobody improved on it and it was not turned into a yes. **This is the only thing that is owed to him and it is still owed.**
+
+## Mina Okoye — of the second list
+
+- **Said nothing in this batch and her sentence was not used.** It has been used twice in the book, both times by her, both times about somebody who is not her.
+
+## Peth Lammay — 24, a carrier of the second table, eleven years
+
+- **Said the thing nobody in a room of about nine people had said in a hundred and thirteen days, in nine seconds: a case with a name in it can be carried** — and then the rest of it, that eight columns went down a river to an office with seven about a district and one a question, that the office can do nothing with the question and can do something with a name, that if this city had sent eight names it would have got an answer and the answer would have been wrong in about four seconds, and that it would have come back as a number about a district with eight people not in it and nobody in Aurel would have known anything had happened.
+- **Was asked for the seventh time in a hundred and thirteen days which of the two books a thing goes in, and said the question had been asked seven times and had been unanswerable seven times, and that she had answered it wrongly twice and had not been told which twice were wrong.**
+
+## Odile Ferrand — 38, of the second group, on no roll at all
+
+- **Was one of the four on a quay at about the fifth hour of the afternoon of the twenty-sixth day of the month after this one and saw a case come up this river, and gave her account of it separately over about nine minutes, and it agrees with three others.** She has still not found out whether she was right about her daughter's name and its spelling, and that not-finding-out is still entered.
+
+## Tam Crane — 9
+
+- **Wrote his answer on the flat of a slate in about nineteen seconds on the twenty-eighth day of the month after this one, in the local language, and a girl of seventeen read it out because he could not be sure whether he had got the words in the right order, and he said she could have the slate and did not want it back.** It is **sixty-eight days late.**
+- **His answer, whole and exactly as it stands on the slate:** *I asked my mother and she said she did not know, and I have thought about it every day since and I still do not know.* And *And I have got an answer to a different question. Every one of you was somewhere before you were here. That is not coming. That is only arriving.* The first block is twenty-six words and the second is twenty-eight and the room did not check either count. **It is not a lesson, it is not an instruction, nobody in the room summarised it for him, and it does not settle anything.**
+- **Said no in about four seconds when he was asked whether he wanted to change any of it, and after that said nothing else, and said nothing about having been asked, and it is entered that nobody in that room said anything to him about having been asked and that a woman of twenty-four wanted to say the number out loud and did not.**
+- **Said that his mother says a thing you have said out loud is not a thing you can put in a drawer, and that she has said it nine times and has never had to take one back, and a girl of seventeen said that is her mother's sentence and not his and did not write it down.**
+- **He has four slates. One of the four is nineteen shapes and it belongs to a docker of fifty-eight who cannot read and is not repaid and is on no roll. The other three are his.** The six words on the back of one of them are still unanswered.
+- **He was the first of about nine people to go to sleep on the thirtieth day of the month after this one and left a slate face down on a bench, and nobody turned it over.**
+
+## A man of about forty-four who keeps a stall
+
+- **Wrote a list of twenty-two lines with nine names in a left-hand column on the twenty-fifth day of the month after this one and crossed the left-hand column out in about four seconds, which is the first time in a hundred and twenty days he has crossed a line out of a list in his life, and said the reason was that he had put a name on it and he did not want a name of his on it.** He kept the rest of the page.
+- **Was the person who read the bottom of a cost column out loud on the thirtieth day and then said the sentence that is now the entry**, and stopped for about nineteen seconds, and a woman of twenty-four said afterward that he had not been reading it out, he had been handing it over.
+- **He has been in about nine rooms in fourteen days and about nine rooms in twenty days and has not slept in any of them.**
+
+## A man of sixty-eight who has carried nine cases in his life
+
+- **Was one of the four on the quay and read the face of the box out loud to a girl of seventeen on the twenty-sixth day of the month after this one**, and said that a face is a thing a carrier reads and a carrier reads it out to the room, and that the four lines under the seal are in a form and a form is not a face and he could not have read them in a hundred years of carrying them.
+- **Did not read the writing round the edge of the seal and asked for that to be entered with the date on it, because he has carried nine of these and has never once read one of those.** He is a new working person in this batch and he is the standing evidence that a carrier reads a face and not a form.
+
+## The woman of twenty-four
+
+- **Entered the noticing four times in a hundred and twenty days and said that it is not modesty.** She is the batch's recorder and the batch's turn is not hers.
+- **Worked out the clock in about four minutes on the twenty-first day of the month after this one** and said the whole of it out loud, and got it right.
+- **Said on the twenty-eighth day that in about eight weeks she is going to be in a room and that if she is not careful about a boy of nine's sentence she is going to use it, and asked for the shame entered in advance with the date on it.**
+
+## Offstage but due
+
+- **Nora Vale, 25, of Camden.** A letter is in a tin and it is not sent and there is no road. **The other world is not named once in Chapters 111–120.** *Open, and carried.*
+- **Hattie Park, of Dunedin.** **Seventy-one days at day 111 and eighty at day 120, counted from the fortieth day of this flood and from nothing else, and spoken zero times in this batch.** *Open.*
+- **A woman of forty-eight in a fourth house at Nine Elms.** Not asked, not approached, not named in any room where it could reach her, and nobody stood outside the fourth house. **She appears in this batch twice, both times as an unnamed line in a ledger paragraph.** *Open and deliberately unasked.*
+- **A man of about thirty-one with a hand that will not close**, who is the only person in a room who says *I do not know* out loud without being asked, and who was named on the twenty-ninth day of the month after this one by Adrian Vale as the only person in a room who could have said it in the reading and could not, because he can read it. *Open.*
+- **A man of about thirty-five whose right shoulder went on the thirty-first day of this flood, was reduced twice, cannot be set, did not go and was not made whole**, on a page in a stone as a debt with no line that will mend it. *Open, and unchanged.*
+- **A woman of forty-one owed the work in her own words in the document that says the work is not written down anywhere.** *Open, and it is one of the twelve.*
+- **The six of the first group and the eleven of the second group** are still named, still with no land rights, no class, no standing and no workway, except one, and the one is not whole, has refused the asking once, and is owed a document that does not contain her.
+- **A girl of sixteen** is one of the two people on no roll in this city, and has still not been asked about it. **The two people on no roll may never be witnesses, and a girl of seventeen who is on no roll is not one of them.**
+- **Jonah Pike, 42, of the White Ledger**, was not in these ten days and has said nothing since Chapter 0102. He is not convicted of anything and is not going to be, and the seat has not been offered a sixth time.
+- **Wenna Cray's fifth statement of error, four sentences, all correct, stands unanswerable and unanswered and was not answered in this batch.**
+- **Elsa Skell's figure and Elsa Skell's ninety-one acres, and the season of both**, **Ilda Marsh's cart and a fourth refusal**, **the second list which did not go at all**, and **the four who read the join-line, who are still four.**
