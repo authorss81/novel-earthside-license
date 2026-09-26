@@ -1,6 +1,6 @@
 # Chapter 0053 — A Hand That Will Not Close
 
-On the twenty-eighth day of the new month, which was the fifty-third day of the flood and a Friday, a man of thirty-one from Leeds was offered a standing in a room above the salt weavers' chapel and refused it out loud in four seconds, and the offer was the cruellest thing the wall has ever said in this city, because it put the whole of the cost on a named person and called that fair, and the sentence was true. A woman of twenty-nine asked the standing question and the room discovered in about eleven minutes that there is no office in Saltwake for a hand that holds things, and that a workway is not a power but a social role, and that a role means somebody in the world is entitled to expect a thing of the holder, and that in this city there is nobody entitled to expect anything, and that this is the cost and it is not the work. Afterwards, in a yard, in private, Teodor Blaz asked the question nobody had asked him in a month, which is that if he had said yes, who would have been angry, and the answer was nine names and not one person, and he read it and said four words: *then it is not about me*. And a man from another world wrote down, in a notebook, in his own hand, the sentence he has been avoiding for forty days, which is that the thing he refused three times was the only thing he was ever going to be offered, and he refused it because it worked, and a man whose hand does not close has not got that luxury and nobody in this city has thought about what he gets instead.
+On the twenty-eighth day of the new month, which was the fifty-third day of the flood and a Friday, a man of thirty-one from Leeds was offered a standing in a room above the salt weavers' chapel and refused it out loud in four seconds, and the offer was the cruellest thing the wall has ever said in this city, because it put the whole of the cost on a named person and called that fair, and the sentence was true. A woman of twenty-nine asked the standing question and the room discovered in about eleven minutes that there is no office in Saltwake for a hand that holds things, and that a workway is not a power but a social role, and that a role means somebody in the world is entitled to expect a thing of the holder, and that in this city there is nobody entitled to expect anything, and that this is the cost and it is not the work. Afterwards, in a yard, in private, Teodor Blaz asked the question nobody had asked him in a month, which is that if he had said yes, who would have been angry, and the answer was nine names and not one person, and he read it and said six words: *then it is not about me*. And a man from another world wrote down, in a notebook, in his own hand, the sentence he has been avoiding for forty days, which is that the thing he refused three times was the only thing he was ever going to be offered, and he refused it because it worked, and a man whose hand does not close has not got that luxury and nobody in this city has thought about what he gets instead.
 
 ---
 
@@ -40,7 +40,7 @@ He refused it in under a second and he was the wrong man to refuse it, and he ha
 
 **Then nobody in that room could say what the work was, and it took about eleven minutes, and it is the finding of the twenty-eighth day of the new month and it is in Sera Vail's hand and it is a finding and findings may not be entered, and so it is entered as a record of what nine people said, and the record is long, and the girl of seventeen took it down.**
 
-"Because a workway is not a power," said Mina Okoye, and it is her sentence and it is in the book as hers and it is about nine words and she has said it once and it is not going to be improved on. "**It is a job. Somebody in the world is entitled to expect a thing of the person who has it, and to be angry if they do not get it, and to go somewhere else if they stop.** And the person who has it cannot stop, which is the second line of the field and which is the sentence that should have stopped me and did not, because the field is right. A job does not stop. A person can."
+"Because a workway is not a power," said Mina Okoye, and it is her sentence and it is in the book as hers and the whole of it is thirty-eight words and she has said it once and it is not going to be improved on. "**It is a job. Somebody in the world is entitled to expect a thing of the person who has it, and to be angry if they do not get it, and to go somewhere else if they stop.** And the person who has it cannot stop, which is the second line of the field and which is the sentence that should have stopped me and did not, because the field is right. A job does not stop. A person can."
 
 "Then what is the work in this city," said Teodor Blaz, "**for a person whose hand holds things?**"
 
@@ -50,9 +50,13 @@ The anchorwright has a shop and a bench and a bar and a price. The water-count o
 
 Every one of them has a place where somebody expects them. **A workway in this city is a claim on a job that does not exist.**
 
+And the girl of seventeen opened a column for it and then shut the column again, and it is entered that she did that twice.
+
+> **I have written *the work* in a cell four times this month and I have taken it out three times and I still do not know what is in the cell, and a column with a heading and nothing under the heading is a hole, and a hole in a book is worse than a blank one, because a blank one can be asked about.**
+
 "Then it is nothing," said a man of twenty from the second list.
 
-"It is worse than nothing," said Ottoline Vask, who was in that room and who has said in fifty-three days four sentences that this city is built out of, and this is the fifth, and it is nineteen words, and it is hers:
+"It is worse than nothing," said Ottoline Vask, who was in that room and who has said in fifty-three days four sentences that this city is built out of, and this is the fifth, and the first sentence of it is nineteen words, and the whole of it is hers:
 
 "**A workway is a post with a person in it, and the post has not been through a room. Every standing in this city came out of a room, in daylight, with a date on it, and a seat is only ever got rid of by the people who are angry at it, and he has a seat and there is nobody in Saltwake who is angry at it yet because he has not done the job.**"
 
@@ -66,7 +70,7 @@ Every one of them has a place where somebody expects them. **A workway in this c
 
 "Because **I asked the woman who was not in the room what I would be expected to do, and nobody could tell me, and if nobody can tell me then in four months I will be able to do anything and everybody will have expected me to.**"
 
-And Adrian Vale said the standing answer, and he gave it in about nine words, and it is in the book in his own words, and it is the answer to the question a room asks when the wall has just offered something:
+And Adrian Vale said the standing answer, and the sentence that does the work in it is twenty-four words, and it is in the book in his own words, and it is the answer to the question a room asks when the wall has just offered something:
 
 "The instrument says no workway of any kind may be offered to any of the seventeen by this instrument or by anybody using it. **I wrote that bar on the twenty-sixth day of this flood and I wrote it in my own hand and it is the longest page in the licence and I am the only person in this city who could be offered one and have said no three times.** And I am not the person this field was for and I was the first man in the room to say no, and I have written that down, and it is the worst habit I own and it is the reason the sentence that came after took eleven minutes instead of four."
 
@@ -128,6 +132,6 @@ He is the second clerk of the Registrar of Crossings and Tides at Aurel. He has 
 
 ---
 
-**And that night, in a room over a market, a man of thirty-two wrote down the sentence he had been avoiding for forty days, and it is nineteen words long, and it is in a private book, and it is the last thing in that notebook for the twenty-eighth day of the new month and it is the first thing anybody is going to say to him about it.**
+**And that night, in a room over a market, a man of thirty-two wrote down the sentence he had been avoiding for forty days, and it is seventy-six words long, and it is in a private book, and it is the last thing in that notebook for the twenty-eighth day of the new month and it is the first thing anybody is going to say to him about it.**
 
 > *The thing I refused three times is the only thing I was ever going to be offered. I refused it because it worked. A man whose hand does not close has not got that luxury, and nobody in this city has thought about what he gets instead, and I have been in this world fifty-three days and today it was shown to me by a warehouse supervisor from Leeds with a chalk stick in three fingers.*

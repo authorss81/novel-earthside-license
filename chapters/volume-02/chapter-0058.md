@@ -14,7 +14,7 @@ He also had his own name struck off the top of the second page of the roll of fo
 
 At about the fourth hour of the morning on the thirty-third day of the new month they went under, and it was a shoring beam, and it is the sort of beam that is put in by two men and is the sort of thing that a man of nineteen puts his shoulder under because he is the fastest one there, and the beam was wet, and there was ice on the sill, and it went about four inches.
 
-**It was not anybody's fault and there is a sentence in the book that says so, and the sentence is the girl of seventeen's, and it is eleven words long, and Vask entered that she has not in twenty-six years entered a fault that was not a fault and has entered nine of them that were:**
+**It was not anybody's fault and there is a sentence in the book that says so, and the sentence is the girl of seventeen's, and it is fourteen words, and Vask entered that she has not in twenty-six years entered a fault that was not a fault and has entered nine of them that were:**
 
 > **Nobody did a wrong thing. The beam was wet and the boy was fast.**
 
@@ -46,6 +46,10 @@ And in the yard under the chapel, at about the ninth hour of the morning, Sera V
 
 And about two hundred and forty people were quiet for about nine seconds.
 
+And in the ninth second a docker of fifty-eight with a barrow said the thing the yard had been holding for fifty-eight days without knowing that it was holding it, and it is entered as what a person said and not as a finding, and nobody has asked her what she meant by it and she has not offered.
+
+"**Then that is what a cost is. It is a thing four people walk down two hundred steps to look at, in the wrong weather, and disagree about, and come back up and write down wrong. I have paid a thing a woman in a good coat put on a page and I did not like it. This one I have walked down and I do not like it either and I know what it is, and that is the difference and it took me fifty-eight days.**"
+
 ---
 
 **And the day's work was not done, and was not pretended to be, and there is an entry about that which is the shortest one in the fourth volume.**
@@ -58,7 +62,7 @@ And about two hundred and forty people were quiet for about nine seconds.
 
 "They did not agree," said Vail.
 
-"They did not agree about the dressed edge," said Ottoline Vask, who was one of the four, and has not signed an inspection in this city in thirty-four years and signed one on the fiftieth day of the new month with both hands flat on the stone. "**Three of us had it at a line and I had it a sixteenth under the line, and I have been wrong before in this city and I have been right before, and the column has a place for that and the place is that they did not agree.**"
+"They did not agree about the dressed edge," said Peth Lomas, who is fifty, and a mason, and is not of the crew, and was one of the four, and who has never in her life been asked by a notary what she thinks a number is. "**Three of us had it at a line and I had it a sixteenth under the line, and I have been wrong before in this city and I have been right before, and the column has a place for that and the place is that they did not agree.**"
 
 "Then they did not agree," said Vail, "and it is in, and no person may say the four agreed because the four did not."
 
@@ -78,7 +82,7 @@ He said it now in the local language, and a woman who keeps a stall by the wharf
 
 "A city which counts its own price is not a city that has accepted it. **We have not accepted it. We have written it down, and writing it down is not the same as agreeing to it, and I have spent fifty-eight days confusing those two and I am only finding out about it now.**"
 
-Renna Ord was standing at the back of that yard in a boat coat. She is fifty-eight and cannot read and she is on the list of nine and she has answered a question nobody asked for fifty days, and she said four words.
+Renna Ord was standing at the back of that yard in a boat coat. She is fifty-eight and cannot read and she is on the list of nine and she has answered a question nobody asked for fifty days, and she said five words.
 
 "**It is the same price.**"
 
@@ -106,11 +110,11 @@ And it was entered, and the entry is nineteen lines long and it is in the fourth
 
 **And at about the seventh hour of the evening, before the tide, a man who cannot lift anything with his right arm came down the two hundred steps to the gallery and asked for the chalk, and the tide table is on the wall of the lower gallery, and its last column is what happened on the day, and it has five words in it in fifty-eight days, written by whoever was in the gallery, and nobody may be put on a roster of people who write it.**
 
-The words are *works*. Five of them, in five hands, and the first two hands are not named in the book. A docker with a barrow wrote the one against the thirty-third day of the flood. Ovin Sarr wrote the one against the forty-third and then put the chalk down. Ferris, a gate-hand of about fifty who had not been paid in five weeks and did not come back for a second shift on the forty-ninth, wrote the one against the fiftieth at about the seventh hour of the evening without stopping and did not ask anybody whether it was the right word, and nobody has asked him what he wrote and a man from another world has entered four times that he wants to.
+The words are *works*. Five of them, in five hands, and only three of the five hands are named in the book. A docker with a barrow wrote the one against the thirty-third day of the flood. Ovin Sarr wrote the one against the forty-third and then put the chalk down. Ferris, a gate-hand of about fifty who had not been paid in five weeks and did not come back for a second shift on the forty-ninth, wrote the one against the fiftieth at about the seventh hour of the evening without stopping and did not ask anybody whether it was the right word, and nobody has asked him what he wrote and a man from another world has entered four times that he wants to.
 
 On the thirty-third day of the new month the word in the box against that day was written in a hand that nobody in that gallery recognised, and it was not *works*, and it is in the book as what a person said and not as a finding.
 
-And about a quarter of an hour after that, a man of nineteen with a shoulder that is out came down the two hundred steps on his own, one step at a time, with his left hand on a rail that is condemned, and asked for the chalk, and was given the chalk, and held it in his left hand, and put it against the box against the fifty-first day, which is empty, and did not write anything, and gave the chalk back and said nine words.
+And about a quarter of an hour after that, a man of nineteen with a shoulder that is out came down the two hundred steps on his own, one step at a time, with his left hand on a rail that is condemned, and asked for the chalk, and was given the chalk, and held it in his left hand, and put it against the box against the fifty-first day, which is empty, and did not write anything, and gave the chalk back and said thirty-six words.
 
 "**I wrote it once and I did not write it again and that was the right thing and I would like somebody to tell me that it was not a small thing to not write it.**"
 

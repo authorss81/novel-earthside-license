@@ -1,6 +1,6 @@
 # Chapter 0054 — The Word He Wrote Down
 
-On the twenty-ninth day of the new month, which was the fifty-fourth day of the flood and a Saturday, a man of twenty-seven from the second list proposed in about four minutes that the seventeen be split among eleven households for the winter, two to a house, and it was the first thing one of the seventeen had proposed in fifty-four days and it was a good idea, and about four people in that room were frightened by how good it was. A widow who held a twelve-month lease with two conditions that were never met offered two beds and the reason was a man who is under a board behind an ordinary wall, and the reason was entered as a reason and not as a debt. And at about the fourth hour of the afternoon, in a yard under a chapel, in front of about two hundred and forty people, a man from another world said out loud, in the local language, that he wrote the word *player* on a market board in the second week of this flood, in his own hand, in a language almost nobody in that yard could read, and that about forty people have copied it since and that it is on three boards and in about nineteen mouths. A woman of forty-one of Silt Row entered the fourth statement of error in the history of the book, four sentences, against a person, naming him, and every one of them is correct. A docker of fifty-eight who cannot read said the shortest sentence of the day and then said four more words, and the four more words are the day. And a woman of twenty-four got up on a trestle with a stick of chalk and wrote a longer true thing over a shorter one, in the market, where the shorter one was, in front of about two hundred and forty people, and the longer one is nineteen words long and anybody may read it.
+On the twenty-ninth day of the new month, which was the fifty-fourth day of the flood and a Saturday, a man of twenty-seven from the second list proposed in about four minutes that the seventeen be split among eleven households for the winter, two to a house, and it was the first thing one of the seventeen had proposed in fifty-four days and it was a good idea, and about four people in that room were frightened by how good it was. A widow who held a twelve-month lease with two conditions that were never met offered two beds and the reason was a man who is under a board behind an ordinary wall, and the reason was entered as a reason and not as a debt. And at about the fourth hour of the afternoon, in a yard under a chapel, in front of about two hundred and forty people, a man from another world said out loud, in the local language, that he wrote the word *player* on a market board in the second week of this flood, in his own hand, in a language almost nobody in that yard could read, and that about forty people have copied it since and that it is on three boards and in about nineteen mouths. A woman of forty-one of Silt Row entered the fourth statement of error in the history of the book, four sentences, against a person, naming him, and every one of them is correct. A docker of fifty-eight who cannot read said the shortest sentence of the day and then said four more words, and the four more words are the day. And a woman of twenty-four got up on a trestle with a stick of chalk and wrote a longer true thing over a shorter one, in the market, where the shorter one was, in front of about two hundred and forty people, and the longer one is fifty-nine words long and anybody may read it.
 
 ---
 
@@ -16,7 +16,7 @@ Nobody spoke for about nine seconds.
 
 ---
 
-**And about four people in that room were frightened by it, and one of them was Mina Okoye, and she was the one who said so, and she said it in eleven words, and she was wrong about one of them and right about three.**
+**And about four people in that room were frightened by it, and one of them was Mina Okoye, and she was the one who said so, and the first thing she said is fifteen words, and she was wrong about one of them and right about three.**
 
 "I am frightened of it," she said. "**Two of us in a house with a Veyran family who we have not met.** Not of the houses. Of what it means on the sixth week, when the road is closed and there is no way out of this city and nobody has gone anywhere since the twenty-fifth day."
 
@@ -118,7 +118,7 @@ And Adrian Vale stood in about two hundred and forty people and said:
 
 ---
 
-**And Priya Shah got up on a trestle at about the sixth hour of the evening, in the market, in front of about two hundred and forty people, with a stick of chalk, and wrote a longer true thing over a shorter one, and it is on a board in a market and anybody may read it, and it is nineteen words long.**
+**And Priya Shah got up on a trestle at about the sixth hour of the evening, in the market, in front of about two hundred and forty people, with a stick of chalk, and wrote a longer true thing over a shorter one, and it is on a board in a market and anybody may read it, and it is fifty-nine words long.**
 
 She did not scrub the board. She wrote over the top of the word, large, in two lines, and left the word underneath, and anybody standing at that wall reads the two lines first and the word second, and about nine feet of that market now has both.
 
@@ -126,7 +126,7 @@ She did not scrub the board. She wrote over the top of the word, large, in two l
 >
 > **The word for one is a word from a place nine days of travelling away, it means somebody playing, and no person in this market is playing, and the man who wrote it is sorry, and the man who wrote it is in this city and can be asked.**
 
-Nine words and eleven words, and it is the only sentence in the history of this city that is in the market in a language almost nobody reads, and it is in English, and about four people in two hundred and forty could read it before this afternoon and by the seventh hour of the evening about nine people had asked her to say it again in the local language, and she said it about nine times and did it badly and said so.
+Ten words and forty-nine words, and the two of them together are fifty-nine, and it is the only sentence in the history of this city that is in the market in a language almost nobody reads, and it is in English, and about four people in two hundred and forty could read it before this afternoon and by the seventh hour of the evening about nine people had asked her to say it again in the local language, and she said it about nine times and did it badly and said so.
 
 "Not my language," she said, to the ninth person who asked. "**It is not my language either. Ask him. He is the one who has to say it nine times and I only have to say it once and I am not going to be the woman who stands in front of a word instead of the man who put it there.**"
 
@@ -148,7 +148,7 @@ And underneath it, in smaller letters, four words:
 
 He read it four times.
 
-And then he wrote, at the bottom of the page, in the same hand, a new line, and it is nineteen words and it is the only correction he has ever entered in that book and he entered it himself and nobody checked it:
+And then he wrote, at the bottom of the page, in the same hand, a new line, and it is thirty-one words and it is the only correction he has ever entered in that book and he entered it himself and nobody checked it:
 
 *Day twenty-nine of the new month. Read this again. It is the only sentence in this book that I quoted back at myself. It is four words long. It is mine.*
 

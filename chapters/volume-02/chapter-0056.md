@@ -1,6 +1,6 @@
 # Chapter 0056 — What the Description Is For
 
-On the thirty-first day of the new month, which was the fifty-sixth day of the flood and a Monday, a fourth document arrived from a building on a river in Aurel, and it was not a version of the other three, and a notary said so out loud in a room before anybody had finished reading it, and its shape was a table. It asked for every opening of every crossing in the district: the date, the hour, the seam, the name of the person, the two witnesses, the four who inspected, the cost, and the receiving party, quarterly, in a form required, sealed and copied at a fee in silver. This city has salt and no silver. The room then did the thing this book has been built to do and invented a form that is complete and cannot be acted on, and the notary entered that she has been a notary for twenty-six years and has never before entered a page whose purpose is to be unhelpful. The form is dangerous in the exact way Adrian Vale has warned about for fifty-six days, because a form filled in honestly by people who have decided to be unhelpful is still a true document, and a true document says that eleven named people have asked to go home and that there is no road. He put his own name in the last column, under a heading that says *person to be asked*, and a woman of twenty-four told him in nine words what he has done, and he wrote them down. The fee is entered as owing with no date. A clerk of that office said the sentence that makes the politics of the next four volumes legible in about nineteen words, and then entered, in his own book and in ours, that the office does not charge a fee it cannot collect, and nobody in that room worked out what it is about, and the reader is allowed one guess better than the room.
+On the thirty-first day of the new month, which was the fifty-sixth day of the flood and a Monday, a fourth document arrived from a building on a river in Aurel, and it was not a version of the other three, and a notary said so out loud in a room before anybody had finished reading it, and its shape was a table. It asked for every opening of every crossing in the district: the date, the hour, the seam, the name of the person, the two witnesses, the four who inspected, the cost, the receiving party, and one further column that is a seat, quarterly, in a form required, sealed and copied at a fee in silver. This city has salt and no silver. The room then did the thing this book has been built to do and invented a form that is complete and cannot be acted on, and the notary entered that she has been a notary for twenty-six years and has never before entered a page whose purpose is to be unhelpful. The form is dangerous in the exact way Adrian Vale has warned about for fifty-six days, because a form filled in honestly by people who have decided to be unhelpful is still a true document, and a true document says that eleven named people have asked to go home and that there is no road. He put his own name in the last column, under a heading that says *person to be asked*, and a woman of twenty-four told him in twenty-five words what he has done, and he wrote them down. The fee is entered as owing with no date. A clerk of that office said the sentence that makes the politics of the next four volumes legible in fourteen words, and then entered, in his own book and in ours, that the office does not charge a fee it cannot collect, and nobody in that room worked out what it is about, and the reader is allowed one guess better than the room.
 
 ---
 
@@ -10,7 +10,7 @@ It came by the second-table on a Saturday and was read aloud in a converted salt
 
 > **To the Lantern Concord and to the holders of any instrument in the district of the Saltwake.**
 >
-> **A schedule of crossings is required quarterly. For every opening of every crossing, within the district, from the first day of the quarter: the date; the hour; the place, described as it is called locally; the name of the person who went, and of the person who came; the witnesses, by name; the four who inspected; the cost, in money or in labour or in goods, at what it was worth on the day; and the receiving party.**
+> **A schedule of crossings is required quarterly. For every opening of every crossing, within the district, from the first day of the quarter: the date; the hour; the place, described as it is called locally; the name of the person who went, and of the person who came; the witnesses, by name; the four who inspected; the cost, in money or in labour or in goods, at what it was worth on the day; and the receiving party; and one further column, which is headed *person to be asked* and is described in a footnote at the foot of this form.**
 >
 > **The schedule is complete or it is not received. A summary is not a schedule. A schedule with a figure rounded is not a schedule.**
 >
@@ -28,7 +28,7 @@ And then a fourth line that nobody expected and that has been the most useful se
 
 ---
 
-**And the sentence that makes the next four volumes legible was said by a clerk of that office, at about the seventh hour of the morning, to about forty people, and it is nineteen words, and he is the second clerk of the Registrar of Crossings and Tides and he has been at a table in this city since the fourth day of this flood and has never once been asked to stop.**
+**And the sentence that makes the next four volumes legible was said by a clerk of that office, at about the seventh hour of the morning, to about forty people, and it is fourteen words, and he is the second clerk of the Registrar of Crossings and Tides and he has been at a table in this city since the fourth day of this flood and has never once been asked to stop.**
 
 Renner Sallow put his book down. He has been keeping a book since the eighth day of this flood in a stranger's language on every page, and it now has ten fields in it and a second column he keeps at home, and neither book has ever been shown to anybody.
 
@@ -64,11 +64,11 @@ And Sera Vail entered, and this is the entry and it is the reason the batch exis
 
 **And the form is dangerous, and it is dangerous in the exact shape Adrian Vale has been warning about since the fourth day of this flood, and about four people in that room said so before he did and he has entered that they did.**
 
-> **The honest useless form, filled in for the first quarter, eleven openings' worth of columns across sixty-one lines, sealed, and lodged with a copy at the office of the Lantern Concord in a wooden case with the roll of strangers and the quarterly description.**
+> **The honest useless form, filled in for the first quarter: the two openings of the licensed route in this district, which is every opening there has been, across sixty-one lines, sealed, and lodged with a copy at the office of the Lantern Concord in a wooden case with the roll of strangers and the quarterly description.**
 >
-> **It contains, in a column headed *name of the person who went*, eleven names, entered as what each person said.**
+> **It contains, in a column headed *name of the person who went*, two names, one for each opening, entered as what each person said. And under those two, in a subheading the form did not require, eleven names, entered as what each person said, and the eleven are eleven requests and not eleven crossings and are entered as requests.**
 >
-> **And in the last column, headed *receiving party*, in the words of the person who said it: *none. There is no receiving community on the other side of that seam and this instrument cannot make one from this side, and the person named is not refused and is not owed and has asked.***
+> **And in the column headed *receiving party*, against the twenty-fifth day of the new month, in the words of the person who said it: *none. There is no receiving community on the other side of that seam and this instrument cannot make one from this side, and the person named is not refused and is not owed and has asked.***
 >
 > **And in the column headed *receiving party* for the twenty-eighth day of the flood, entered by a woman of twenty-four: *there is no party. The person named went out at the sixth hour at the top of the flood and did not come back for about nine minutes and came back. Nobody was on the other side. Nobody has ever been on the other side. The entry for that day is entered as a breach of the terms then in force and the terms then in force are not these terms and the breach is not ours to explain.**
 
@@ -94,7 +94,7 @@ And Sera Vail entered, and this is the entry and it is the reason the batch exis
 
 "**It is the only column in nine lines of Crown table that is a seat, and it costs eleven ounces, and a district that fills it in has given that office a person, and a district that fills it in has a named individual in a Crown record who can be sent for. I have read it about nine times. It is not a demand for an interpreter. It is a demand for a person who answers.**"
 
-And the room understood, in about four seconds, what Adrian Vale had understood on the seventeenth day of the new month, and about two hundred and forty people looked at the seat of holder of the pull, which is vacant, and at a licence that says **nobody** answers for the next test, and at a trial arrangement that was signed four days ago with a name at the top of nothing.
+And the room understood, in about four seconds, what Adrian Vale had understood on the seventeenth day of the new month, and about two hundred and forty people looked at the seat of holder of the pull, which is vacant, and at a licence that says **nobody** answers for the next test, and at a trial arrangement that was signed and sealed six days ago, on the twenty-fifth day of the new month, with a name at the top of nothing.
 
 "He is not on anything," said Sera Vail. "**He is not on the roll of persons who may open it. He is not on the roll of the instrument of the twenty-second day of the new month. He is party to the licence and is given nothing by it, in my hand, with the date. He asked for all of that and Priya Shah made the sentence that got it and it took two hours and ten minutes because nine people thought he was building a martyr.**"
 
@@ -116,13 +116,13 @@ And the room understood, in about four seconds, what Adrian Vale had understood 
 
 And he wrote it, in his own hand, in the last line of the sixty-first line of the honest useless form, and it is a name and a date and nothing else, and it is not a title, and it does not survive a quarter, and a man in a good coat read the last line of that form and did not say one word about it, and about nine people noticed that he did not.
 
-**And Priya Shah told him what he had done in nine words, in the yard, at about the third hour of the afternoon, and he wrote them down in the notebook that night and they are in the book in her own words because she made him repeat them twice and then wrote them on the slate he had given her:**
+**And Priya Shah told him what he had done in twenty-five words, in the yard, at about the third hour of the afternoon, and he wrote them down in the notebook that night and they are in the book in her own words because she made him repeat them twice and then wrote them on the slate he had given her:**
 
 "**You have made yourself the only person in this city an office can write to. Now be honest about how much of that you wanted.**"
 
 ---
 
-**And the fee was entered as owing, with no date, and a clerk of that office entered a sentence into his own book that night and it is in this book too, and it is the last thing on the thirtieth-first day and it is nineteen words, and nobody in that room worked out what it was about:**
+**And the fee was entered as owing, with no date, and a clerk of that office entered a sentence into his own book that night and it is in this book too, and it is the last thing on the thirty-first day of the new month, and the sentence at the head of it is ten words, and nobody in that room worked out what it was about:**
 
 "**The office does not charge a fee it cannot collect. The fee is not about the silver. Enter that I wrote it, and that I do not know what it is about, and that I have never written that in any book before.**"
 

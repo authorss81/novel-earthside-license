@@ -1,6 +1,6 @@
 # Chapter 0051 — The Room and the Road
 
-On the twenty-sixth day of the new month, which was the fifty-first day of the flood and a Wednesday, a man from another world spent nine hours of the day being asked the same question by nine people who were entitled to ask it, and he gave the same true answer nine times in nine different rooms, and about nine people heard the difference between the true answer and the fair one and about two hundred and thirty did not. The door that this city spent forty-seven days arguing about and four days licensing opens into a room with no window and no door anybody has found, and it is not a road to any place, and the reason it is not a road is written on the licence's own second page in the second paragraph and has been since the twenty-fifth day of the new month. Eleven people on the upper road were asked, one at a time, with the door shut, what they wanted, and eight of them said the same eleven words and three of them did not, and one of the three is sixteen years old and wanted to know what the shapes on nineteen stones say. A licensed carrier of Crown mail said, out loud, in a room of about forty people, that a man in a good coat had offered her nothing for eleven days, and that sentence went into the book and was not resolved and was not going to be. And at about the seventh hour of the evening, in front of about two hundred and forty people, in the yard under the lock chapel, a date was read off a slate on a nail that has been hanging there since the forty-ninth day, and somebody asked how many times the door had opened, and the answer was twice in fifty-one days, and one of the two had been a breach of its own terms, and nobody in that yard laughed.
+On the twenty-sixth day of the new month, which was the fifty-first day of the flood and a Wednesday, a man from another world spent nine hours of the day being asked the same question by nine people who were entitled to ask it, and he gave the same true answer nine times in nine different rooms, and about nine people heard the difference between the true answer and the fair one and about two hundred and thirty did not. The door that this city spent forty-seven days arguing about and one day licensing opens into a room with no window and no door anybody has found, and it is not a road to any place, and the reason it is not a road is written on the licence's own second page in the second paragraph and has been since the twenty-fifth day of the new month, which is yesterday. Eleven people on the upper road were asked, one at a time, with the door shut, what they wanted, and eight of them said the same thirteen words and three of them did not, and one of the three is sixteen years old and wanted to know what the shapes on nineteen stones say. A licensed carrier of Crown mail said, out loud, in a room of about forty people, that a man in a good coat had offered her nothing for eleven days, and that sentence went into the book and was not resolved and was not going to be. And at about the seventh hour of the evening, in front of about two hundred and forty people, in the yard under the lock chapel, a date was read off a slate on a nail that has been hanging there since the forty-ninth day, and somebody asked how many times the door had opened, and the answer was twice in fifty-one days, and one of the two had been a breach of its own terms, and nobody in that yard laughed.
 
 ---
 
@@ -20,7 +20,7 @@ He looked at it for a while.
 
 ---
 
-**The ninth person who asked him was a man of twenty-four called Sam Iyer, who had come out of a chapel floor four feet beyond a threshold slab at eleven minutes past the eleventh hour of the twenty-fifth day of this flood with somebody's blood on his sleeve, and who had spent twenty-six days being cheerful about it on purpose, and who stopped being cheerful at about the fourth hour of the morning of the twenty-sixth day of the new month and did not start again.**
+**The first person to ask him that day was a man of twenty-four called Sam Iyer, and he was the ninth person in this city to ask it, and he came at about the fourth hour of the morning, which is two hours before the girl of sixteen. He had come out of a chapel floor four feet beyond a threshold slab at eleven minutes past the eleventh hour of the twenty-fifth day of this flood with somebody's blood on his sleeve, and he had spent twenty-six days being cheerful about it on purpose, and he stopped being cheerful at about the fourth hour of the morning of the twenty-sixth day of the new month and did not start again.**
 
 He asked it in the market, in the open, standing up, with a barrow behind him.
 
@@ -36,7 +36,7 @@ Sam Iyer said: "You could have said *not yet*."
 
 "I could have," said Adrian Vale. "**And it would have been a lie with a soft word in it, and I have used about nine of those in this city and I am finished.**"
 
-And the docker of fifty-eight, who has not been paid in six weeks and who cannot read, said one thing to him on her way past with a barrow, and it was nine words:
+And the docker of fifty-eight, who has not been paid in six weeks and who cannot read, said one thing to him on her way past with a barrow, and it was fourteen words:
 
 "**Then say that one again to about two hundred people, and not to us.**"
 
@@ -60,15 +60,17 @@ Odile Ferrand said: "Then who asks?"
 
 "Nobody. **The review is a day on which somebody has to speak, and the only people who can speak are the people who were already in the room.**"
 
-"That is not a review," she said. "**That is a queue.**"
+"That is not a review," she said. "**A review with no questions on it is a queue.**"
 
-And Adrian Vale wrote that down, in his own hand, in a notebook, at about the ninth hour of the morning of the twenty-sixth day of the new month, and it is on the page: *O.F. of the second list: that is not a review, that is a queue. Two sentences. I have been in this city fifty-one days and a woman of thirty-eight named it in nine seconds and I have been calling it a right of review for four days.*
+And Adrian Vale wrote that down, in his own hand, in a notebook, at about the ninth hour of the morning of the twenty-sixth day of the new month, and it is on the page: *O.F. of the second list: a review with no questions on it is a queue. Two sentences, the second of them ten words, and she is thirty-eight. I have been in this city fifty-one days and a woman of thirty-eight named it in nine seconds and I have been calling it a right of review for four days.*
 
 ---
 
-**And the reason was read out loud in a converted salt store at about the eleventh hour of the morning, and it is nine words, and it is the second paragraph of page two of the licence, and it has been there since the twenty-fifth day of the new month, and about two hundred and forty people had signed it without reading that paragraph, and a woman of fifty who has been a notary for twenty-six years said so.**
+**And the reason was read out loud in a converted salt store at about the eleventh hour of the morning, and the clause that does the work in it is nine words, and it is the second paragraph of page two of the licence, and it has been there since the twenty-fifth day of the new month, and about two hundred and forty people had signed it without reading that paragraph, and a woman of fifty who has been a notary for twenty-six years said so.**
 
-Sera Vail read it. She did not read it from the licence, because the licence is on a wall and anybody may read it, and she read it off her own copy, and she said the words *two willing names* and then the rest of it, and then she stopped and waited for the room.
+Sera Vail read it. She did not read it from the licence, because the licence is on a wall and anybody may read it, and she read it off her own copy, and she said the nine words first and then the rest of the paragraph, and then she stopped and waited for the room.
+
+> **A controlled opening requires a community that understands it.**
 
 Then she said: "**Nineteen people signed this. I have the signatures. I did not ask one of them whether they had read the second paragraph of page two and I have not asked nineteen people in fifty-one days about anything, because I am a notary and not a schoolmistress, and that is the correct division of work and it is the whole of what happened here.**"
 
@@ -86,7 +88,7 @@ Then she said: "**Nineteen people signed this. I have the signatures. I did not 
 
 Eight of the eleven said the same thing. Not in the same words — the widest difference between two of those eight answers was nine words — and the girl of seventeen has entered that the eight are entered as eight and not as one, because a thing eight people said is not a thing one person said, and the widest difference between two of them is in the book.
 
-The thing eight people said is eleven words long, and it is in the book as eight, and the shortest version of it is Gareth Mbeki's, and it is: "I want the road that goes to the place I was born in."
+The thing eight people said is thirteen words long in its shortest form, and it is in the book as eight, and the shortest version of it is Gareth Mbeki's, and it is: "I want the road that goes to the place I was born in."
 
 Three did not say it.
 
@@ -94,7 +96,7 @@ Kirsty Lund, sixteen, said she wanted to know what the shapes on the nineteen st
 
 "I understand what a column is," said Kirsty Lund. "**Somebody took my surname in full across two lines and wrote the width of the column down as a fact. I have read that. I know what a page costs.**"
 
-Eli Mercer, nineteen, said no, and gave his reason, and the reason is in the book in his own words and is nine words: "I have been in the room. There is nobody there. I asked."
+Eli Mercer, nineteen, said no, and gave his reason, and the reason is in the book in his own words and is twelve words: "I have been in the room. There is nobody there. I asked."
 
 And Bern Zolt, forty-four, said: "I do not want to go back. **I have been honest about that in three rooms and I have been quoted in none of them, and I would like it on a page, and I would like the page to say that I asked for it and was not argued with.**"
 
@@ -112,7 +114,7 @@ It is four lines long. It says a person named Bern Zolt, of the second list, of 
 
 And then it says, in a fifth line that is not part of the form: **and the person named is not refused, and is not owed, and has asked, and the answer is no, and the reason is the shape of the world and not a decision about him.**
 
-Wenna Cray, forty-one, of Silt Row, stood up in about two hundred and forty people and asked the question she has asked twice in nine days, and she asked it in four words.
+Wenna Cray, forty-one, of Silt Row, stood up in about two hundred and forty people and asked the question she has asked twice in nine days, and she asked it in three words.
 
 "Fact or fault?"
 
@@ -154,7 +156,7 @@ And Adrian Vale said: "Enter that I was asked as well and that I have known abou
 
 **And then the date came off the nail, and it was read out, and a question was asked in about two hundred and forty people that nobody had thought to ask in fifty-one days, and the answer was worse than anybody expected and the notary entered it and did not editorialise, which is her office and which she has done every day for fifty-one days.**
 
-The slate is on a nail inside the arch of the lock chapel, under the eave where the rain runs. It has five items on it, in a keeper's words, entered by a girl of seventeen with a word *form* written next to a name: a line of salt in a cut in the boarding, changed by whoever is nearest; four chalk depths taken with a straight edge and never wiped; four people twice a day with no list and no name at the top of anything; a slate any passer-by can read; and the price of the salt. And at the bottom of it, added on the forty-ninth day, a fifth item, and then a date, in a second hand.
+The slate is on a nail inside the arch of the lock chapel, under the eave where the rain runs. It has **four** items on it, in a keeper's words, entered by a girl of seventeen with a word *form* written next to a name: a line of salt in a cut in the boarding, changed by whoever is nearest; four chalk depths taken with a straight edge and never wiped; four people twice a day with no list and no name at the top of anything; and a slate any passer-by can read. **And the price of the salt is written under the four items, and not as a fifth of them, and the price is a double handful twice a day, and the reason it is under and not on the slate is in the fourth item in a keeper's words: in nine months somebody will ask what a form costs, and a form with no price on it is a favour, and a favour is a thing that stops.** And at the bottom of it, added on the forty-ninth day, a fifth item, and then a date, in a second hand.
 
 The date is **the fiftieth day of the new month.**
 
@@ -182,10 +184,10 @@ And nobody in that yard found it funny, and about nine people understood all of 
 
 **The dressed join in the gate of the Lock of Salt is eight and seven-eighths of an inch and it is dressed to a line and it does not narrow; it gets dressed. It has never said a word. It said nothing on the twenty-third day of this flood, nothing on the forty-ninth, nothing on the fiftieth, and nothing on the twenty-sixth day of the new month at any hour, and the black line in the chapel threshold stone, which said twelve words of English to a man from another world on the twenty-fifth day of this flood and has not said anything since, is not repaired.**
 
-The ground under the lock chapel is a black mark in a place and the boards over it have not been lifted since the fortieth day of this flood. Nobody can say where a working's residue goes, and the form on the nail says so, in the fourth line, in a keeper's words, and the price of the salt is on the fifth line, and the salt went up a third yesterday and that is tomorrow's problem and not tonight's.
+The ground under the lock chapel is a black mark in a place and the boards over it have not been lifted since the fortieth day of this flood. Nobody can say where a working's residue goes, and the form on the nail says so, in the fourth item, in a keeper's words, and the price of the salt is written under the four items, and the salt went up a third yesterday and that is tomorrow's problem and not tonight's.
 
 Adrian Vale came down the two hundred steps at about the ninth hour of the evening because he could not sleep and because the lamp on the third step of the lower gallery is lit and nobody had gone down to it, and he stood at the sill of the third bay for about eleven minutes and said nothing out loud and then went back up.
 
-He wrote three things in the notebook that night, and the third one is the sentence the whole day stands on and it is nineteen words and it is his:
+He wrote three things in the notebook that night, and the third one is the sentence the whole day stands on and it is fifty-four words and it is his:
 
 *I said in the first week that access to that door would be fair. It is fair. It is not possible. I have been saying both in one breath since the ninth day and about two hundred and forty people have heard the whole of it and nine of them have written anything down.*

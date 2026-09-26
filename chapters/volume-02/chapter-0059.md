@@ -1,6 +1,6 @@
 # Chapter 0059 — Eight of Nine
 
-On the thirty-fourth day of the new month, which was the fifty-ninth day of the flood and a Thursday, a man of forty-two who had argued the Crown's form in nine sentences in a yard in the sixth week of the new month and been right in eight of them came back to Saltwake with the only winter money in the city, and it was the fourth term of the Brass Measure in a new coat, and it was refused in about eleven seconds in a yard in about two hundred and forty people's hearing, and he was right in eight sentences and the ninth was not about Aurel and it was about the seventeen, and the man from another world he said it to had a tenth sentence ready and it was the wrong one and he said out loud, in the yard, in front of about two hundred and forty people, that he had a sentence ready and it was wrong, which is the first time anybody in this city has heard him say a thing like that about himself. And at about the ninth hour of the evening, on the two hundred steps, with the rail condemned and the dressed join eight and seven-eighths under a wall that has never said a word, a woman of twenty-nine took the notebook out of his hand and did not give it back, and said nineteen words, and he wrote them down in the morning and did not show them to anybody for the rest of the day.
+On the thirty-fourth day of the new month, which was the fifty-ninth day of the flood and a Thursday, a man of forty-two who had argued the Crown's form in nine sentences in a yard in the sixth week of the new month and been right in eight of them came back to Saltwake with the only winter money in the city, and it was the fourth term of the Brass Measure in a new coat, and it was refused in about eleven seconds in a yard in about two hundred and forty people's hearing, and he was right in eight sentences and the ninth was not about Aurel and it was about the seventeen, and the man from another world he said it to had a tenth sentence ready and it was the wrong one and he said out loud, in the yard, in front of about two hundred and forty people, that he had a sentence ready and it was wrong, which is the first time anybody in this city has heard him say a thing like that about himself. And at about the ninth hour of the evening, on the two hundred steps, with the rail condemned and the dressed join eight and seven-eighths under a wall that has never said a word, a woman of twenty-nine took the notebook out of his hand and did not give it back, and said twenty-four words, and he wrote them down in the morning and did not show them to anybody for the rest of the day.
 
 ---
 
@@ -26,7 +26,7 @@ It was a page of numbers. Salt, thirty tons, at the works. Timber, four weeks. I
 
 And about two hundred and forty people in a yard and Renna Ord said the eleven words in about eleven seconds and it was over, and the yard did the thing it has done four times in fifty-nine days, which is to stand there.
 
-"I know," said Jonah Pike. "**I want it entered that I knew before I opened it and I brought it anyway, and that a man who brings a thing he knows will be refused has a reason, and my reason is that we are going into the second month of the winter and the rail is going and your four are iced and there is not a second rail in this city until the ninth of next month.**"
+"I know," said Jonah Pike. "**I want it entered that I knew before I opened it and I brought it anyway, and that a man who brings a thing he knows will be refused has a reason, and my reason is that we are going into the deep of the winter and the rail is going and your four are iced and there is not a second rail in this city until the ninth day of the month after this one.**"
 
 ---
 
@@ -50,7 +50,7 @@ And about two hundred and forty people in a yard and Renna Ord said the eleven w
 >
 > **Nine. And here is the one that is not about Aurel and it has been sitting in me since the forty-sixth day and Adrian has been waiting three weeks for it.**
 
-And the yard went quiet in the way that about two hundred and forty people go quiet, and the ninth sentence is in the book in Jonah Pike's own words and it is forty-one words long:
+And the yard went quiet in the way that about two hundred and forty people go quiet, and the ninth sentence is in the book in Jonah Pike's own words, and it is a hundred and thirty-four words long, which is the longest single thing anybody has said in a yard in this city, and the yard entered the number of them:
 
 "**You have spent fifty-nine days making sure that none of them has a job. Not a trade, not a wage, not a place where a person is expected on an ordinary morning. You have written the page yourself. It is the longest page in this city and it is a list of things they may not have, and in it there is not one thing they may do, and in March one of them is going to be a person with no work in a city with no money, and you have made that a term, and a term is the most durable kind of promise there is, and I have watched you refuse four things that would have been seats and I have never once heard you offer one of them a day.**"
 
@@ -82,7 +82,7 @@ And under it, in a different hand and a different ink, because the man from anot
 >
 > **Odile Ferrand, thirty-eight, of the second list, whose surname is on two lines of a narrow column twice, and who said on the twenty-sixth day of the new month that a review with no questions on it is a queue, and who is not on the roll of strangers for the same reason and has not been asked about either list.**
 >
-> **Entered at the seventh hour of the evening of the thirty-fourth day of this new month: that a list of who would be angry has two people in it who are on no other list, and that both of them got in by being in a room, and that neither of them was asked, and that a man who was asked for a sentence about the ninth of nine sentences put them in by writing a name down while a girl of seventeen was copying nine names out of a notebook.**
+> **Entered at the seventh hour of the evening of the thirty-fourth day of the new month: that a list of who would be angry has two people in it who are on no other list, and that both of them got in by being in a room, and that neither of them was asked, and that a man who was asked for a sentence about the ninth of nine sentences put them in by writing a name down while a girl of seventeen was copying nine names out of a notebook.**
 
 ---
 
@@ -110,7 +110,7 @@ She has corrected him in public four times in twenty-nine days, on *chair*, on *
 
 "You will not find it. **So I am going to say one sentence and I am going to say it once and you are going to write it down and I am not going to say it again.**"
 
-And she said it, and it is nineteen words, and he wrote it down in the notebook with a piece of chalk because there was nothing else to write with, on the second step of a stair above a lock, and he did not show it to anybody for the rest of the day:
+And she said it, and it is twenty-four words, and he wrote it down in the notebook with a piece of chalk because there was nothing else to write with, on the second step of a stair above a lock, and he did not show it to anybody for the rest of the day:
 
 "**Go and ask the city what a person with no work is for, and take the answer, and do not offer anybody a seat.**"
 
