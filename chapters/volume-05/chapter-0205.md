@@ -2,7 +2,7 @@
 
 The man who keeps the number came into the room over the yard at about the seventh hour of the morning on the fiftieth day of the Long Month with the book under his arm and washed his hands before he opened it, and there are about nine people in that room and there is a date in chalk on that door and the chalk has been gone over so many times that the door is whiter where it is.
 
-It is a Wednesday. The store on the upper road is open and the queue's day is a Tuesday and there is no queue today, and about nine hundred measures of salt are standing in a yard at the bottom of a cut covered over, and the posting went up on a wall nine miles up the road on the forty-sixth day of the Long Month and has been up four days, and the causeway has had nothing on it for eight days.
+There is no queue today. The posting on the wall nine miles up the road went up on the forty-sixth day of the Long Month and has been up four days, and about nine hundred measures of salt are standing in a yard at the bottom of a cut, covered over, and the causeway has had nothing on it for eight days.
 
 ---
 
@@ -12,7 +12,7 @@ It is a Wednesday. The store on the upper road is open and the queue's day is a 
 
 "**That is today. That is the fiftieth day of the Long Month and it is counted one a day from the fortieth day of this flood and from nothing else, and I write the number and I date it, and I write one line a week, and the week is the only thing about my writing that has a shape in it. The number does not care what week it is.**"
 
-"**Then the wall is a week behind.**"
+"Then the wall is a week behind."
 
 "**The wall is whatever day somebody last came into this room and asked, and the last time anybody asked was the forty-third day of the Long Month, and the wall is correct for the forty-third, and it is not wrong, and I would like that said, because in about four months somebody is going to look at that wall and think a person made a mistake on it and nobody made a mistake on it.**"
 
@@ -22,7 +22,7 @@ It is a Wednesday. The store on the upper road is open and the queue's day is a 
 
 "**I copied the first one. That was on the forty-third, in chalk, and it was the first time anything of mine had ever left me and gone somewhere somebody else could stand in front of it, and I have said that before in about four rooms and I am not going to say it again today.**"
 
-"**Say the other thing.**"
+"Say the other thing."
 
 "**The other thing is that a thing copied twice is two things. I said that about a rota about three weeks ago and I have been wrong about it in a way I would like entered, because a rota is copied because somebody is afraid of losing it, and this is not a rota, this is a figure, and a figure copied onto a wall is not a second figure. It is the same figure in a place where it can be looked at without opening a book, and about four people in this city have said since Friday that the posting on a wall nine miles up the road has made everything else in this city look like a thing that ought to be on a wall, and they are right, and I did that.**"
 
@@ -30,11 +30,11 @@ It is a Wednesday. The store on the upper road is open and the queue's day is a 
 
 **And then about four people in that room asked the only question anybody can ask about a number, and it has been asked in this room before and it took about four minutes, and he answered it in the same five words and did not improve on them and nobody in the room improved on them either.**
 
-"**What is a day of it.**"
+"What is a day of it."
 
 "**I do not know.**"
 
-"**You have kept it for nine years.**"
+"You have kept it for nine years."
 
 "**I have been writing that number longer than I can remember doing anything else and I have not known what it counts since the first line of it, and nobody has asked me in four hundred days until the forty-third day of the Long Month, and I am telling this room the same thing I would have told them in the second month of this flood. I have not been asked anything new. You have asked me the same question with the same face.**"
 
@@ -52,7 +52,7 @@ And about four people in that room looked at the floor, and about nine of them h
 
 Nobody in that room said anything for about a minute, and about four of them have said since that they had been waiting for somebody to say what it would take and had not known they were waiting for it.
 
-"**Do not write my name against it.**"
+"Do not write my name against it."
 
 "**I am not going to write your name against it. I am going to write the hundred and sixty-five and the day and the season and a bit, and I am going to write that a man who digs for a living stood in a room and said he can date a bank and not a number, and that is the whole of what anybody said in this room today that was worth putting on a wall.**"
 
@@ -66,7 +66,7 @@ Nobody in that room said anything for about a minute, and about four of them hav
 
 "**I have no claim. I have a slate and a habit and I am seventeen, and I have known since the sixth week of this flood that a number you keep about something is not a claim on it, and I have never once said that out loud before and I am saying it now because a man has said *I do not know* in front of nine people and I would like there to be one other thing said in this room today that is not a figure.**"
 
-"**Then say the other half of it.**"
+"Then say the other half of it."
 
 "**The other half is that I would like to be asked. Not to be asked for my number. To be asked, once, by somebody, in a room, on a day that somebody chose, whether I am all right, and about nine people in this city have said since the sixth week of this flood that nobody has asked me anything, and every one of those nine has said it as a complaint about themselves, and I have never once said it as a fact about me, and I am saying it now as a fact about me, and if anybody in this room wants to do something about it then it has to be in daylight with a date on the door and not on a Tuesday because a queue works on a Tuesday.**"
 
@@ -82,7 +82,7 @@ It is entered that a woman of about twenty-four noticed, and that she did not as
 
 **And a man of about thirty-four who keeps a stall was in that room and asked one question, and it is the only question anybody in that room asked about the number that was not about what a day of it is, and he asked it standing up, and he put both hands in his sleeves afterwards and left them there.**
 
-"**Is it going to keep going.**"
+"Is it going to keep going."
 
 "**It has gone in one a day for a hundred and sixty-five days and nobody in this city has asked me to stop it and I have not stopped it and I am not going to, and if you want it stopped you can ask me and I will say the same five words.**"
 

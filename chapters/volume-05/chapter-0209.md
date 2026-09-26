@@ -2,17 +2,17 @@
 
 A woman of about twenty-four stood in a yard nine miles up the road past this city at about the seventh hour of the morning on the fifty-fourth day of the Long Month and said a name, and a man who had come down that road on foot answered to it, and about four people standing near enough to hear have said since that it is the first time in this city that a person has answered to a name they did not choose.
 
-It is a Sunday. The queue's day is a Tuesday and there is no queue. The posting has been up eight days on a wall in that yard with about four hundred people having read it, the causeway has had nothing on it for twelve days, and the store's chest has a week left in it and the last Tuesday that can come out of it is the day after tomorrow, and there is no water in the channel at the bottom of a cut and there is a woman of about thirty-eight who keeps that gate and is thirty days into a year of being angry.
+There is no queue on a Sunday. The posting has been up eight days on a wall in that yard and about four hundred people have read it, and the causeway has had nothing on it for twelve days, and the last Tuesday a wage can come out of the store's chest is the day after tomorrow. There is no water in the channel at the bottom of a cut, and the woman of about thirty-eight who keeps that gate is thirty days into a year of being angry.
 
 ---
 
-**And he is Adrian Vale, and the name she said is the one that was given to him in nine sentences in a room on the thirty-sixth day of the Long Month, and it is in about four mouths in this city, and about four of those mouths are in that yard, and the page it is on has been on a wall for eight days and is a copy away in about nine hands.**
+**And he is Adrian Vale, and the name she said is the one that was given to him in nine sentences in a room on the thirty-sixth day of the Long Month, and it is in about four mouths in this city, and about four of those mouths are in that yard, and the page it is on was written down nine days ago in a room with a date on the door, and the front of it is on the back of a slate in this city and on about nine other things, and not one of the ten of them is on a wall.**
 
-"**You came for me.**"
+"You came for me."
 
 "**I came for you. I have not been sent. Nobody sent me and there is no slip and there is no date cut into the corner of anything, and I walked nine miles down the road and I am walking nine miles back up it with you behind me and I have done that because there is a page in this city with your name on it and about nine people in that page cannot be found at all and one of them can be found in about four minutes, and I am the person who has been keeping the record since the second day of this flood and I did not know until this morning that that was the same thing as being able to get anybody.**"
 
-"**You knew it on the forty-fifth.**"
+"You knew it on the forty-fifth."
 
 "**I knew something and I did not have the sentence for it. On the forty-fifth I wrote a name at the top of a copy and did not read it out, and I said in that room that I was the only person in this city who could have stopped that happening and did not, and I meant a woman's name and I have been the person who writes things down since the second day of this flood and I have never once been on one, and this morning a woman I work with said a name in a yard and a man answered to it, and I have been sitting on a step for about four minutes trying to work out whether I did that on Friday and I do not think I did. I think it was already done and I was the one who noticed.**"
 
@@ -20,9 +20,9 @@ It is a Sunday. The queue's day is a Tuesday and there is no queue. The posting 
 
 **And they walked to a room over a market with a date in chalk on the door, and about nine people were in it, and about two hundred and forty could hear out of the hall and the landing and the market below it, and it is the eighth time about two hundred and forty people have heard a thing said in that room and a man who is on no roster of anything walked nine miles on foot to be in it, and a girl of seventeen with a plain slate under her arm and her own in her bag was at the side of it, and she was the only person in that room who was not on the front of a page, and about four people in that room had worked that out in about four seconds and about nine of them already knew it.**
 
-"**Say your name.**"
+"Say your name."
 
-"**Whose.**"
+"Whose."
 
 "**Yours. Out loud, in this room, in the local language, with a date on the door and about two hundred and forty people behind me, and then say whether anybody may write it down.**"
 
@@ -54,11 +54,11 @@ Nobody asked him about a gate.
 
 **And then about four people in that room asked him the question they had actually come for, and it took about nine minutes, and it was not about a work and it was not about a gate, and he could not answer it, and the reason he could not answer it is the finding of the fifty-fourth day of the Long Month.**
 
-"**The compact says a person may be found. We want to know whether that line works.**"
+"The compact says a person may be found. We want to know whether that line works."
 
 "**I do not know.**"
 
-"**You are the only person in four hundred miles who has said out loud what a name on a page costs.**"
+"You are the only person in four hundred miles who has said out loud what a name on a page costs."
 
 "**I am the only person in four hundred miles who has been charged for it, and those are not the same, and I have been the only one since the thirty-sixth day of the Long Month and I have worked out in that time that being the only one does not make you right, it makes you the only one, and I would like somebody in this room to write that down because I am about to say the next thing and I am not going to be the one who hears it.**"
 

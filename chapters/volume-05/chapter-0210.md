@@ -2,15 +2,15 @@
 
 About a hundred and forty people were in the yard of the store on the upper road at about the sixth hour of the morning on the fifty-fifth day of the Long Month, and there is no queue on a Monday, and every one of them had worked out in about nine days what tomorrow is, and about nine of them had come nine miles on a Monday morning for a day the queue does not work.
 
-It is a Monday. The queue's day is a Tuesday. The posting has been up nine days on a wall in that yard with about four hundred people having read it and not one mark on any line of it, and the causeway has had nothing on it for thirteen days, and a slab of chalk is on the ledge under that wall where a woman of about twenty-four picked it up on Thursday and put it back down.
+The posting has been up nine days on a wall in that yard and about four hundred people have read it, and not one of them has put a mark on any line of it. The causeway has had nothing on it for thirteen days, and a slab of chalk is on the ledge under that wall where a woman of about twenty-four picked it up on Thursday and put it back down.
 
 ---
 
 **And a woman of about thirty-four in that store, who is on no list in it, was standing at the door with a slate in her hand, and the slate has a date on it and the date is tomorrow, and she has been standing there since about the sixth hour and about four people have asked her what the date is and she has said it four times.**
 
-"**The fifty-sixth day of the Long Month. It is tomorrow and it is a Tuesday and it is the last Tuesday a wage can come out of that chest, and I put the date on the slate on Saturday morning of last week and hung it on the chest so that nobody had to ask and nobody had to be told a number they did not ask for, and about nine people have walked nine miles to read it in nine days and about four hundred and forty people on some flats have not heard of it and never will.**"
+"**The fifty-sixth day of the Long Month. It is tomorrow and it is a Tuesday and it is the last Tuesday a wage can come out of that chest, and I put the date on a slate on Saturday morning nine days ago and hung it on the chest so that nobody had to ask and nobody had to be told a number they did not ask for, and about nine people have walked nine miles to read it in nine days and about four hundred and forty people on some flats have not heard of it and never will.**"
 
-"**And after tomorrow.**"
+"And after tomorrow."
 
 "**After tomorrow there is a posting with a price under every line and no figure under any of the prices, and about nine people in this city can afford to refuse a posted day, and about four hundred and thirty-one cannot, and about a hundred and forty of us are being paid out of a chest. That is what is after tomorrow. I have written the date and I am not going to write the other thing on the same slate, because the other thing is not known and I have watched about nine people in the last nine days write down what is not known as though it were.**"
 
@@ -38,7 +38,7 @@ He did not say that anybody should take it down. It is entered that he did not, 
 
 "**A hundred and twenty-five days is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid. The first of March was the sixtieth day of the new month. They are not on that page. They have not been on it since the day it went up. And tomorrow is the last Tuesday a wage can come out of that chest, and about a hundred and forty people in this yard are going to be told something about their own wages in a room, and those thirty-nine men are not in this yard and nobody is going to tell them anything, and I am not going to stand here and work out what that is because I have worked it out four times in nine days and I do not have a fifth answer.**"
 
-"**Then go and tell them.**"
+"Then go and tell them."
 
 "**I am not going to go and tell them. I have said since the thirty-ninth day of the Long Month that I do not go and get people, and I have not gone and got the keeper of a gate twice and I am not going to start on a Monday morning with a number and a good reason. And I would like it entered that a man of about thirty-four who keeps a stall was asked in a yard by about four people whether he would go and tell thirty-nine men something, and said no, and gave the reason, and the reason is the same reason as the other two and not a better one.**"
 
@@ -50,13 +50,13 @@ He did not say that anybody should take it down. It is entered that he did not, 
 
 "**Fourteen days since the water stopped. I said six on Sunday at the bottom of that cut with a rod in my hand and I said the rod goes in further every time and not much, and it does, and I have come to say that I have stopped measuring it because about four of us were doing it and about nine of us have begun to be the kind of people who measure, and that is worse than the silt.**"
 
-"**You are not the kind of person who measures.**"
+"You are not the kind of person who measures."
 
-"**I am exactly the kind of person who measures. That is my trade. I have been the kind of person who measures since I was about eleven. and one of them is a woman of about thirty-four who counts water on the fingers of her left hand and I would not have believed that on the fortieth day of this flood.**"
+"**I am exactly the kind of person who measures. That is my trade. I have been the kind of person who measures since I was about eleven. And one of them is a woman of about fifty who counts water on the fingers of her left hand and I would not have believed that on the fortieth day of this flood.**"
 
 "**And I am going to say the thing I came up the road to say, and I have said it twice and I am not going to say it a third time in a yard. I have got nothing. Not a date, not a direction that I can be held to. A channel with no water in it is a hole with a smell in it and I have been telling people that for fourteen days and about nine of them have written the number down instead of the sentence.**"
 
-"**Write the sentence.**"
+"Write the sentence."
 
 "**I have written the sentence. And I would like it noticed that a woman counted four hundred and forty people out loud on a causeway on Sunday and a man stood in a yard today and said he cannot say what a day of a number means, and neither of those two things is on a page, and both of them happened because somebody said them out loud in daylight to about nine people, and I have been the man who says *I do not know* and *I cannot tell you that day* for nine years and I have never once seen it beat a page.**"
 
@@ -88,6 +88,6 @@ Nobody asked him.
 
 ---
 
-**And about the fourth hour of the afternoon about nine people in that yard were still there and the queue's day was tomorrow and the store was open and about nine people were paid out of what was in it on the last Tuesday and one week of that went on the last Tuesday, and about four hundred and forty people were on eleven miles of flats with about nine racks that could still be worked and no line on any page in this city, and nobody in that yard said any of that out loud, and about four of them had said all of it on a causeway about eight days ago.**
+**And about the fourth hour of the afternoon about nine people in that yard were still there and the queue's day was tomorrow and the store was open and about nine people were paid out of what was in it on the last Tuesday and one week of that is still in the chest, and about four hundred and forty people were on eleven miles of flats with about nine racks that could still be worked and no line on any page in this city, and nobody in that yard said any of that out loud, and about four of them had said all of it on a causeway about eight days ago.**
 
 **And a slate with a date on it hung on a chest in the back of a store, and the date is tomorrow, and a man of forty-two at the back of the yard nine miles from here does not have to be told.**

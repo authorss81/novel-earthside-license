@@ -2,7 +2,7 @@
 
 About a hundred and forty people were in the yard of the store on the upper road at about the sixth hour of the morning on the forty-ninth day of the Long Month, and the queue had formed along the wall in the ordinary course, and the posting was on that wall from about the seventh foot down to the floor, and every one of them had to stand under it to get to the door.
 
-It is a Tuesday. The queue's day is a Tuesday and about nine of those people are owed a wage on this morning, and the store's own board is washed and up beside the door with the day's figures on it, and about nine hundred measures of salt are standing in a yard at the bottom of a cut covered over, and the causeway has had nothing on it for seven days.
+The queue is a Tuesday thing and about nine of the people standing under that page are owed a wage this morning, and the store's own board is washed and up beside the door with the day's figures on it. About nine hundred measures of salt are standing in a yard at the bottom of a cut, covered over, and the causeway has had nothing on it for seven days.
 
 ---
 
@@ -12,7 +12,7 @@ He got to the ninth line and stopped with his finger on it.
 
 "**The store on the upper road is on this posting, and its queue is on this posting, and it takes its place on it and not above it.**"
 
-"**That is mine.**"
+"That is mine."
 
 "**That is yours. And you wrote it last. There are eight lines above it and the eighth one is the water in the channel and the seventh one is the road and the fourth one is a person who may be found, and the only line in this yard that forty people can get through is the ninth, and you put it at the bottom.**"
 
@@ -22,9 +22,9 @@ He got to the ninth line and stopped with his finger on it.
 
 **And the wage came out of the store at about the sixth hour of the morning in the ordinary course and about nine people were paid and the chest it came out of has one week left in it, and a woman of about thirty-four in that store, who is on no list in it, stood at the door of the store and read the number off the slate that hangs on the chest and said it out loud to about nine people, and about four of them did not know it and about nine of them did.**
 
-"**One week. The last Tuesday that can come out of this chest is the fifty-sixth day of the Long Month, and I have put that date on the slate and hung it on the chest so that nobody has to ask and nobody has to be told a number they did not ask for.**"
+"**One week. The last Tuesday that can come out of this chest is the fifty-sixth day of the Long Month, and I put that date on a slate on Saturday morning, three days ago, and hung it on the chest so that nobody has to ask and nobody has to be told a number they did not ask for.**"
 
-"**Who told you to do that.**"
+"Who told you to do that."
 
 "**Nobody. I have been in that store for about nine weeks and I asked what the date was, in four words, at the seventh hour of the evening on the thirtieth day of the Long Month, and a man of forty-two found out he had been running a settlement on a word for nine weeks, and he has not told me to do this and I would not do it if he did. I am not a title and I am not a rank and I am not an office and I have not been named, and there is a slate on a chest with a date on it and my hand is the hand that put it there.**"
 
@@ -54,7 +54,7 @@ Nobody in that yard said anything. The queue moved about two feet along the wall
 
 "**The wage went out at six. It does not matter what line it is on. I have got one week of it in a chest and I have got a share on the same page as about nine hundred other things and I did not write one word of the page and I would like that said in a yard at about the seventh hour of a Tuesday morning because in about four months somebody is going to say I put a queue at the bottom of a document, and I did not, and the man who did is standing about nine feet from me and he has just said seven sentences about it.**"
 
-"**Then you are content.**"
+"Then you are content."
 
 "**I am not content and I am not not content and I am standing at the back of my own queue on a Tuesday morning and about nine people in it are going to be paid today, and one week of that is in a chest, and after that nobody in that store knows, and I have said all of that in about nine rooms since the seventh week of this flood and I have not said it any better this morning than I said it then.**"
 
@@ -66,11 +66,11 @@ He did not ask for the posting to be changed. It is entered that he did not, and
 
 "**Thirty-eight names on the first and forty-one on the second, and eleven of the forty-one were not on the first at all, and I have not asked a single one of them a question, and I want that entered. I stood in that yard with a slate at the sixth hour and again at the seventh and I wrote down what I could see and it was not the same yard.**"
 
-"**Because people joined.**"
+"Because people joined."
 
 "**Because people joined, and because about nine of the ones who were there at six went out into the road and came back in at seven, and I do not know why and I did not ask, and the reason I did not ask is that I have been the person in this city who writes things down since the second day of this flood and I am not going to start asking a queue what order it is in.**"
 
-"**Then you have two lists of the same yard.**"
+"Then you have two lists of the same yard."
 
 "**I have two lists of the same yard an hour apart and neither of them is the posting, and the posting has a fixed order on it that nine people decided on Thursday, and about four people in this yard have said to me in the last three days that a page is a thing that can be checked, and I have had two lists of one queue in my hand this morning and I could not tell anybody which of the two was the yard.**"
 
@@ -82,7 +82,7 @@ She put both slates in her bag and did not join them and did not read either of 
 
 "**A hundred and nineteen days is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and the first of March was the sixtieth day of the new month, and they are not in this yard and they are not on the ninth line and they are not on any line of that page, and I am not going to stand here and join that up to anything because joining it up to anything is the only thing anybody has done about it for a hundred and nineteen days.**"
 
-"**They know.**"
+"They know."
 
 "**They know. About four of them have said so this month and about nine of them have not, and I have not been asked which and I am not going to go and ask.**"
 

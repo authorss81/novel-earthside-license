@@ -2,13 +2,13 @@
 
 The posting went up on the wall of the store on the upper road at about the seventh hour of the morning on the forty-sixth day of the Long Month, and it has a date at the top of it and a price under every line, and about nine people were standing in front of it by the time the man who had written it had got his hands down off the wall.
 
-It is a Saturday. The queue's day is a Tuesday and there is no queue this morning. The store's own board is washed and up beside it with the day's figures on it in a hand that has been at the front of that queue since the seventh week of this flood, and about nine people were paid yesterday and about a hundred and forty were not, and there has been no load up the causeway since the morning of the forty-second day of the Long Month.
+There is no queue on a Saturday and the queue's day is a Tuesday. The store's own board was washed and hung up beside the posting with the day's figures on it, in a hand that has been at the front of that queue since the seventh week of this flood: about nine people were paid yesterday and about a hundred and forty were not. The causeway has had nothing on it since the morning of the forty-second day of the Long Month, and the chalk on the posting was still wet at the top of the ninth line.
 
 ---
 
 **And the posting is a page and it is bound to a compact of eleven lines that has been in existence for one day, and the eleventh line of the compact is the posting, and the posting is the only instrument either body has built for itself, and the man who wrote nine of its lines got them onto a wall at about the seventh hour of the morning with a bar of chalk and a wet cloth and about nine people watching him do it.**
 
-The date at the top of it is the forty-sixth day of the Long Month. Under the date there are lines down the page, and under every line there is a price, and the prices are in words.
+The date at the top of it is the forty-sixth day of the Long Month. Under the date there are lines down the page, and under every line there is a price, and the prices are in words. A man of about thirty-nine who trades on the Open Hand board was in that yard and had not been in the room on the Thursday, and he read all of it standing back from the wall and said the first thing anybody said about it, and the man who had written the page answered him.
 
 "**That is not a price.**"
 
@@ -22,7 +22,7 @@ The date at the top of it is the forty-sixth day of the Long Month. Under the da
 
 "**It is the price.**"
 
-"**Then say what happens to a person who does not turn up on a posted day.**"
+"Then say what happens to a person who does not turn up on a posted day."
 
 Nobody in that yard answered it for about a minute. The board with the day's figures on it was three feet to the left and about nine people read it going past.
 
@@ -34,11 +34,11 @@ Nobody in that yard answered it for about a minute. The board with the day's fig
 
 "**You have written the settlement's sentence on a wall.**"
 
-"**I have written what the compact says a posting has under it.**"
+"I have written what the compact says a posting has under it."
 
 "**Twenty-two days ago a man read out a whole workway in nine sentences in a kitchen at Redroot and the price of it was a sack, a place at a fire, a dry bed, a day of the queue and a wage on a day, and about nine people in that kitchen said yes to it, and the thing that paid for it went out of a yard at the bottom of a cut on Monday night. You have put the first three of those five things under a line in chalk and you did not know you were doing it and I do not think you did it on purpose, and that is worse.**"
 
-"**Then what do I put under it.**"
+"Then what do I put under it."
 
 "**That is your question and not mine, and I am going to count nine fingers and go back up the road, and I would like it entered that I was asked it in a yard and did not answer it.**"
 
@@ -58,11 +58,11 @@ Nobody answered him. It is entered that about four people in that yard were wait
 
 "**Put a number under it.**"
 
-"**Put a number under what.**"
+"Put a number under what."
 
 "**Under a sack, under a place at a fire, and under a day of the queue. Not because I want a figure. Because a person who is owed something and cannot say how much of it they are owed has nothing to be angry about, and about four hundred and thirty-one people on those flats have exactly that this morning and have had it since the seventh week of this flood, and I have been the man who says a cost out loud in four sentences since the thirty-seventh day of the Long Month and I have never once put a number on one because a number can be wrong in a way that nobody will notice, and a cost in words cannot be wrong at all. That is why I do it in words. And I have just found out that it also means that nobody can check whether I have made it up.**"
 
-"**That is the opposite of what you said in the kitchen.**"
+"That is the opposite of what you said in the kitchen."
 
 "**It is exactly what I said in the kitchen and I have been wrong about the direction of it for about nine weeks. Put a number under it. And when somebody says the number is wrong, then it is a page with a mistake in it, and a page with a mistake in it is the first thing this city has built since the seventh week of this flood that anybody can be angry at, and I would rather have that than a wall of good sentences.**"
 
@@ -76,9 +76,9 @@ She gave the two numbers and she gave them in this order.
 
 "**Nine measures a day is the settlement's own figure and not mine.**"
 
-"**It is the figure on a board in a workroom up the road and I have read it, and about four people in this yard have read it, and I did not ask for it and nobody offered it to me and I am telling you where I got it so that you can decide what to do about the fact that I got it.**"
+"It is the figure on a board in a workroom up the road and I have read it, and about four people in this yard have read it, and I did not ask for it and nobody offered it to me and I am telling you where I got it so that you can decide what to do about the fact that I got it."
 
-And that is entered, and the man of about twenty-four who has written down every decision this city has made since the second day of this flood wrote the two numbers down separately and did not join them up, and said that she had done the same thing four minutes ago and that two people doing it is not a rule.
+And that is entered, and the woman of about twenty-four who has written down every decision this city has made since the second day of this flood wrote the two numbers down separately and did not join them up, and said that she had done the same thing four minutes ago and that two people doing it is not a rule.
 
 ---
 
@@ -86,13 +86,13 @@ And that is entered, and the man of about twenty-four who has written down every
 
 The sentence says that nobody may be bought out of a refusal, and that a refusal does not require a reason and is not asked for twice.
 
-"**Then who administers that.**"
+"Then who administers that."
 
 Nobody in the yard had an answer ready and the man who wrote the page had one and it took him about four seconds to say it.
 
-"**Nobody. There is no office in four hundred miles that receives a refusal, and there is no form, and the man who wrote the sentence against it has said in his own words with his name and the date on it that it cannot be administered, and he is standing about nine feet from you and he has said so four times.**"
+"**Nobody. There is no office in four hundred miles that receives a refusal, and there is no form, and I put that line in myself in a room on Thursday with my name and the date on it, and I said in the same room that it cannot be administered, and I am standing about nine feet from you and I have said so four times.**"
 
-"**Then what is it for.**"
+"Then what is it for."
 
 "**It is for the shape. A shape of a refusal is the only thing a person can hold up in about four years, and I put it in on Thursday and I put it on a wall this morning and neither of those is administration and I would like somebody in this yard to write that down.**"
 
