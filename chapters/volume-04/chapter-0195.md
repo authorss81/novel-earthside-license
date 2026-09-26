@@ -24,7 +24,7 @@ Nobody had shut anything. **And that is the whole of it, and about four people i
 
 "**The salt is not going up today.**"
 
-Nobody made a sound for about four seconds.
+Nine pairs of hands stayed on the barrows and not one of them picked one up.
 
 "**And I want the whole of that said in front of about nine people before anybody picks up a barrow, and I want it said by the man who built the causeway, and he is not here, and I am not going to pretend to him, and I am saying the sentence he would have said, and I will enter that I said it and not him.**"
 
@@ -98,7 +98,7 @@ He stood in the salt at the foot of his own road.
 
 "Could you say it now."
 
-"**I could, and I am not going to, and the reason is that there is a woman in Saltwake who has been on nothing for a hundred and ninety-eight days and who is about to be asked to stand up in a room and say her own name out loud, and I am not going to stand in a yard on a Tuesday at the fifth hour of the afternoon and take the day off her.**"
+"**I could, and I am not going to, and the reason is that there is a woman in Saltwake who has been on nothing for a hundred and ninety-seven days and who is about to be asked to stand up in a room and say her own name out loud, and I am not going to stand in a yard on a Tuesday at the fifth hour of the afternoon and take the day off her.**"
 
 ---
 

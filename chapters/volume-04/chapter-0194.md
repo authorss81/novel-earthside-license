@@ -2,7 +2,7 @@
 
 A woman of about thirty-eight with a board in her left hand said what she had come to say on the afternoon of the forty-first day of the Long Month in daylight on a flat with about nine people standing about nine feet from her, and it took about four minutes, and nobody improved on one word of it, and about two hundred and forty people who could hear nothing heard nothing.
 
-It is a Monday. The store on the upper road is open and about a hundred and forty people are on a rota in four hands, and the queue's day is tomorrow, and nine of the hundred and forty walked eleven miles today and are standing on a low place at the bottom of a long cut.
+It is a Monday. The store on the upper road is open and about a hundred and forty people are on a rota in four hands, and the queue's day is tomorrow, and nine of the hundred and forty walked up the road past this city today and are standing on a low place at the bottom of a long cut.
 
 ---
 

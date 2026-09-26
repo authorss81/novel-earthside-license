@@ -60,7 +60,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 "**I know that. I have known it since the thirty-fifth day of the Long Month when a cart came up a road with a return in it that nobody sent, and I stood in a room and wanted to be angry at a number and could not manage it once.**"
 
-"**And I have wanted a thing I could get a day on since the eighty-seventh day of this flood, and a man of forty-two has a queue that works on a Tuesday, and about nine people in this city have been angry at both of those things in the same afternoon and neither of them is sorry.**"
+"**And I have wanted a thing I could get a day on since the sixty-second day of the new month, and a man of forty-two has a queue that works on a Tuesday, and about nine people in this city have been angry at both of those things in the same afternoon and neither of them is sorry.**"
 
 ---
 

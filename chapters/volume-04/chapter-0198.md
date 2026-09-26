@@ -2,7 +2,7 @@
 
 Nine sentences went into a page on the morning of the forty-fourth day of the Long Month in a room over a market with a date in chalk on the door, and the page is a posting, and it has a date at the top of it and a price under every line, and about nine people were in the room and the hall outside it was empty.
 
-It is a Thursday. The store on the upper road was open and the queue had run on the Tuesday and had worked, and about nine hundred measures of salt were standing in a yard at the bottom of a cut, covered, and the day before this nine of the hundred and forty had walked eleven miles and stood on a flat.
+It is a Thursday. The store on the upper road was open and the queue had run on the Tuesday and had worked, and about nine hundred measures of salt were standing in a yard at the bottom of a cut, covered, and the day before this nine of the hundred and forty had walked up the road past this city and stood on a flat.
 
 ---
 
@@ -64,7 +64,7 @@ It is a Thursday. The store on the upper road was open and the queue had run on 
 
 **Nine. It is *order*.**"
 
-Nobody in that room said anything for about four seconds, and Renna Ord, who is fifty-eight and cannot read and who reads a join by standing on it twice a day, was standing at the back of it with her hands at her sides, and she said nothing, and about four people in that room knew that the word was hers, and about nine of them have known since a converted salt store in the eighteenth day of the Long Month, and neither she nor he has ever heard of the other and this is the second room they have been in together.
+The man of about thirty-four who keeps a stall put one hand flat on the page his nine sentences were on and did not turn it over, and Renna Ord, who is fifty-eight and cannot read and who reads a join by standing on it twice a day, was standing at the back of it with her hands at her sides, and she said nothing, and about four people in that room knew that the word was hers, and about nine of them have known since a converted salt store in the eighteenth day of the Long Month, and neither she nor he has ever heard of the other and this is the second room they have been in together.
 
 ---
 

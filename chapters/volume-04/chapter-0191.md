@@ -32,9 +32,9 @@ He went back to copying. The board came off the wall at about the fifth hour of 
 
 "**Then say the worse half of that out loud.**"
 
-"**The worse half is that a day with nothing on it is the only thing this store has ever handed anybody that I did not have to pay for, and about a hundred and forty people are going to find that out in the morning, and about nine of them are going to walk eleven miles, and I am not going to tell one of them not to.**"
+"**The worse half is that a day with nothing on it is the only thing this store has ever handed anybody that I did not have to pay for, and about a hundred and forty people are going to find that out in the morning, and about nine of them are going to walk up the road past this city, and I am not going to tell one of them not to.**"
 
-Nobody said anything to that for about four seconds, and a man of about twenty-nine in the workroom said the only sentence anybody said about it, and it is nine words.
+The woman who keeps the store put her thumb on the bottom edge of the rota and left it there, and a man of about twenty-nine in the workroom said the only sentence anybody said about it, and it is nine words.
 
 "**That is the first free thing this store has ever given anybody.**"
 
@@ -80,7 +80,7 @@ A man of about thirty-four who keeps a stall came out of the market behind her a
 
 "**Good. And I will say the rest of it on Monday in a room in daylight with a date on the door, and I will say it before anybody asks me anything, and you are not going to like it and you will not be able to argue with it, and I have not decided what it is yet, which is the first sentence about myself I have said in nine years.**"
 
-She walked. The road past the flats is four miles of causeway and then eleven miles of Reach road, and she was on the Reach road by about the eighth hour, and the salt was on four hundred and forty racks on her left the whole way and did not stop drying, because salt does not stop drying, and about nine people were working the racks by lantern and one of them looked up at her and did not ask and she did not stop.
+She walked. The road past the flats is four miles of causeway and then the bank, and she was on the Reach road by about the eighth hour, and the salt was on four hundred and forty racks on her left the whole way and did not stop drying, because salt does not stop drying, and about nine people were working the racks by lantern and one of them looked up at her and did not ask and she did not stop.
 
 ---
 

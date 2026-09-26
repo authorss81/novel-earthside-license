@@ -2,13 +2,13 @@
 
 The raft came off the cut at first light on the fortieth day of the Long Month and took most of the morning to get up to the low place where the red root grows, and about nine people were standing on that flat by the time it arrived, and not one of them had been asked to be there.
 
-It is a Sunday. The store on the upper road shut at first light and did not open and did not say why, and about a hundred and forty people had a day, and about nine of them walked eleven miles on it.
+It is a Sunday. The store on the upper road shut at first light and did not open and did not say why, and about a hundred and forty people had a day, and about nine of them walked up the road past this city on it.
 
 ---
 
 **And about nine miles up the road past this city, at about the sixth hour of the same morning, about a hundred and forty people were standing about in a yard on a day with nothing in it, and the rota did not go up, and the board was washed and blank and hanging on the wall, and about nine of them put on their coats at about the seventh hour and went out of the gate on the Reach road and not one of them was carrying anything.**
 
-A man of about forty-two was in that yard. He had been in it since the sixth hour. He did not stop anybody and he did not send anybody and he did not say a word to about nine people about where they were going, and about four people in that yard said afterwards that they had been on that road eleven miles each and that he had watched all of them go and had not said one word to any of them, and that about four of those nine asked him why afterwards and he gave the same answer four times.
+A man of about forty-two was in that yard. He had been in it since the sixth hour. He did not stop anybody and he did not send anybody and he did not say a word to about nine people about where they were going, and about four people in that yard said afterwards that they had been on that road out past this city each and that he had watched all of them go and had not said one word to any of them, and that about four of those nine asked him why afterwards and he gave the same answer four times.
 
 "**Because a store that asks a person where they are going on its shut day is a store that has begun to keep a register of them, and I do not keep a register of them, and I have been at the front of that queue since the seventh week of this flood and I have got about nine hundred names in my head and I have never written one of them down, and that is the only thing I have got.**"
 

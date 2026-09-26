@@ -26,7 +26,7 @@ A woman of about thirty-four from a fourth household on the road stood at the en
 
 "Nobody is asking you to be fair about it."
 
-"**I am not being fair about it. I am being exact about it. They are different, and about four people in this city have spent nineteen days finding out which one of them they are doing.**"
+"**I am not being fair about it. I am being exact about it. They are different, and it is a hundred and fifty-one days since somebody took this ground without asking and about two of them have spent all of it finding out which one of them they are doing.**"
 
 ---
 
@@ -62,7 +62,7 @@ The board was washed and put up with the day's figures on it in a hand that has 
 
 **And a man of about thirty-four who keeps a stall came up the road at about the fifth hour of the afternoon and stood in the yard of that store and did not go in, and about nine people saw him and about four of them came out, and he said the two things he had come to say and both of them were about a figure and neither of them was about the compact.**
 
-"**A hundred and fifteen days. That is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and the first of March was the eighty-fifth day of this flood, and that is a different debt from the one you are thinking about, and it did not change this week and it is not going to change this month.**"
+"**A hundred and fifteen days. That is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and the first of March was the sixtieth day of the new month, and that is a different debt from the one you are thinking about, and it did not change this week and it is not going to change this month.**"
 
 "And the other one."
 
