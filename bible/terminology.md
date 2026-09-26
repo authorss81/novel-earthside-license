@@ -519,3 +519,59 @@ A stone about the height of a man's chest with a cut in the flat of it, on the n
 
 ### A page on a nail is a page people read; a page in a stone is a page people have to come and ask for
 Twenty-five words of a keeper of about seventy, at about the ninth hour of the evening in an empty yard, to a docker of fifty-eight who cannot read who asked whether the new line was on the slate. **And the answer is on the page and not on the slate, on purpose, because a question that is put on a slate is a question asked of everybody on every day, and that is a form.** Chapter 0076, and the reason is the whole of the difference between a form and a question.
+
+## Terms established in Volume 02, Chapters 81–90
+
+### Nobody has asked them, and a document that costs nobody anything
+The eleventh question was *what are they called*, and it has now been answered twice, once on purpose and once by accident. On the fiftieth day of the new month a docker of fifty-eight who cannot read said four words and they were not a noun. On the fifty-ninth day a man of sixty-one copied seven clauses out of a book of this city's own words and **none of the clauses said what the people the door costs are called, and it did not have to, because it costs nobody anything.** **A document that does not have to answer a question has already answered it.** Chapter 0086, and the finding is a girl of seventeen's, on no roll, in about nine minutes.
+
+### A hole in a roll is a place where a number used to be
+The roll of strangers went down a river with a hole in it on the fifty-sixth day of the new month, and the hole is entered as a place where a number used to be, and it is the second list, eleven names, and **a later writer may not fill it and may not present that roll as complete.** The notary who made the gap on purpose entered sixteen words: *a district that has not sent a roll is a district somebody will describe for it.* Chapter 0081.
+
+### A case with nothing in it is a case nobody can charge to carry
+Thirteen words, a licensed carrier of twenty-four, said before she had taken her coat off, and the finding of the day is hers: **the emptiest document in a case is the safest one, because a case that carries a review is a case an office reads before it reads anything else.** Chapter 0081.
+
+### A river promised a stone. I am the woman
+Nine words, and the ninth of them is the word for a person, and it is the first description of her own work anybody in this world has ever had. Said once, on a named day, in daylight, in a room, by a woman of forty-one who holds the only workway there is, asked by a man of thirty-five whose shoulder cannot be set. **The description is hers and she may take it back on a date, and nobody may re-ask her, and the line that stopped the asking stands.** Chapter 0082.
+
+### A refusal first, the question last
+The four things a holder of a workway may be asked were put in an order on purpose, **the three refusals first so that the question is the last thing in her ear, so that a refusal of the question takes the refusals down with it.** And the answer and the refusals are on the same line, because they are the same decision. Chapter 0082, and the notary's nine words to the man who fought for the line: *you fought the line. Everybody knows what you are.*
+
+### A year of certainty is a year of promises
+Nine words, and the level of the ditch is the promise, and the promise was that somebody would be standing in it in March. Chapter 0083. **Nobody in ninety days had asked the woman who works the field whether she wants it, and she does not know, and she said a number out loud in daylight on the first of March anyway.** Ninety-one acres out of a hundred and forty.
+
+### The undertaking of the Lantern Concord
+Seven clauses and a date, and the whole of it is in `state/continuity.md`. **It is the false oath and it is not the Crown's and not the instrument's and not the Quiet Choir's, and it is a seventh shape.** It makes a body of about a hundred and forty people permanent holder of the licence in exchange for taking the whole standing charge off a private debtor, at no cost to anybody. **It is neither refused nor accepted and it is live, and it is void in Chapter 0091 on the ground that its own condition was not met, and the condition is already on the page.**
+
+### That is a lock that a guild can close
+Nine words of Renna Ord, said in a yard on the tenth day of the new month, and it is Jonah Pike's sixth sentence arrived at from the other end twenty-eight days later without either of them knowing. **A guild that does not go home does not get old, does not want a different winter, cannot be refused by the people it costs, and cannot be asked separately about anything.** Chapters 0084 and 0087.
+
+### A guild that can be asked has a standing, and a standing cannot be refused, and I know it because we have refused three
+Twenty-four words of Ilda Marsh, seventy, of the fourth house at Nine Elms, said on a step of a boat-yard at Long Water, in about two hundred and thirty people's absence. **The third description of the shape now has a woman of seventy standing under it, and the second description is hers, and the first is a woman's from the thirty-second day of the new month, and the shape has no name.** Chapter 0087. Nobody in that room said the word *legal* and about nine of them had it in their heads.
+
+### An undertaking is not in force until a person stands at the top of it
+Found in about nine minutes, on the authority of a man who keeps a stall, has signed four undertakings and been wrong about one of them, and not out of a book. **The document has no person at the top of it, and that is either the safety or the hole, and he is not going to choose.** Chapter 0087. **This is the ground the Void stands on.**
+
+### The correct ones are the problem
+Adrian Vale, in a yard, in daylight, in about two hundred and forty people, on the sixty-third day of the new month, about three sentences that had each been said before and none of them about a piece of paper. **He was asked to say it again and said it again worse, and both readings are in the book with neither above the other.** Chapter 0088. A Hearthguard of forty-four had said all three in the preceding nine minutes.
+
+### Put a person at the top of it, and make that person able to say no, out loud, here
+Nineteen words, a proposal and not a refusal, asked for in a yard in about two hundred and forty people and put on a slate on a nail in the lock-chapel arch. **A man of forty-two said on the page that the proposal on the table is the old form of the oath with a person in it, and that the man who proposed it will do it, and nobody argued, and the argument about it is on Tuesday.** Chapter 0088.
+
+### Who is it about
+A notary of fifty, two words, asked in a room in which a form about a person had just been drafted in about eleven minutes. **About four people in the room tried and nobody could answer, because the document the form was made for has no person in it, and a form about a person cannot be used on a document that has no person in it.** The form is entered as an unfinished thing, and unfinished is allowed in this city and was the only word she had. Chapter 0089.
+
+### A document is the four lines for the nine people at the front
+Twenty-eight words of a girl of seventeen, said from the back of a yard, in daylight, in about two hundred and forty people. **Nobody at the back of this yard can hear him, and that is what a document is: the four lines are for the nine people at the front.** Chapter 0089, and it is the reason this city is going to have trouble in about four months and nobody saw it coming.
+
+### A page that asks and names
+The second page in the shrine on the boundary at Four Elms: what is owed, owed to named people and not to a body, dated, with a quarter of a pound of salt a month written under it and not as another item, kept by a household that will not put its name on it and may take it down on a date. **It is the first page in this city that asks and names at the same time, and a page which asks and names is a page a person can be angry at, and that is the first time in ninety days this city has written one. Naming twelve people is a column for where twelve people are, and the protection is nine inches of stone and the fact that the person holding it is nobody's servant.** Chapter 0090. Three people stepped over it and a boy of nine did not.
+
+### The column is a sentence with a number missing out of the middle of it
+The cost column, entered for the eleventh time in one month in about ninety days, with no figure on the end of any of its eleven entries, and a person standing behind it since the third day of the flood. **Naming the person in five words in his own hand changed nothing and was the only honest entry available, and the eleven miles it travelled was run by a boy of about nine.** Chapter 0085. **There is no twelfth entry, because the join stopped being worked, and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody, on any day, for any reason.**
+
+### You stand under that gate because somebody owes you
+The oldest arithmetic in this city, on a page for the first time in ninety days, at a docker's own asking, and forty unpaid men went under the near gate on the first of March and turned up. **A working can be made cheaper without being made private, and a crew is a mechanism and not a loyalty, and the owing is the mechanism.** Chapter 0085.
+
+### Two slates and a form and a page. That is not a wall. That is a Wednesday
+Seventeen words of a keeper of about seventy who has had a nail in a chapel arch for fifty-one years, said to a girl of seventeen who had come down two hundred steps. **An arch is a place, a place is a room, go and look at it** is fifteen words of the same keeper, from the previous day. **The arch now carries five things and the count is out of date before the sentence is.** Chapters 0086 and 0088.
