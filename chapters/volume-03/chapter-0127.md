@@ -42,7 +42,7 @@ It is entered.
 
 "**I do not know,**" said a man of thirty-two, "**and I have said that in about four rooms in a hundred and twenty-seven days and this is the first time I have said it about myself. And I am not going to look for one. A person who wants a thing to have not worked is a person who knows what it does, and there is nobody in this room who knows what it does, and if there were one he would be a man this city has spent a hundred and twenty-seven days refusing to build, and he is not going to come and sit in a room with no key in it and be asked a question by a docker who cannot read.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the man of about forty-four who keeps a stall pushed his chair back about an inch and left it there, and nobody in the room said anything about that either.
 
 **And the sentence that came closest was not written down, and the reason is on the page from the second day of the month after this one and has been on it since: a sentence about a page that works is a mechanism, and a mechanism is a diagram, and a diagram of the most dangerous object in this city is a worse thing to have in a hundred and twenty-seven days than nine minutes of nothing.**
 

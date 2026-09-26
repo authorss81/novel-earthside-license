@@ -30,7 +30,7 @@ The question was whether the next ones are going to be players. He asked it on a
 
 "**I am telling you that I heard you, and you have just told me that you have been carrying them, and that is two rooms in one room, and it has taken two days and a boy on a wall.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and a docker of fifty-eight who cannot read put his hand flat on the bench in front of him and left it there, and nobody in the room said anything about that either.
 
 "**Then what do we do,**" said a docker of fifty-eight who cannot read.
 
@@ -68,7 +68,7 @@ Those six words are *who is going to be told?*
 
 "**I said it once on a road and it is on that slate and in no book and it has never been entered anywhere, and I am not going to say it again in a room, because a thing that is said twice in a room is a thing that has an account, and an account of a boy of nine's question is a description of this city, and a description of this city is a removal with a column for where the person is. That is the whole of it and I have been the column once.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the man of about forty-four who keeps a stall had a hand out towards the slate and then took it back, and nobody in the room said that he had been right to take it back.
 
 "Then where does it go," said a man of about forty-four who keeps a stall.
 

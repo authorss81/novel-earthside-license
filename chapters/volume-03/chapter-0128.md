@@ -48,7 +48,7 @@ Nobody said anything.
 
 "**I could ask them now and it would not be the same and you know it would not be the same, and you know why, and I am not going to say why in a room.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and a woman of about thirty-four who keeps a stall by the wharf had come up four miles in the wrong weather to ask one question and was not going to be asked a second one, and everybody in the gateway worked that out at the same time and nobody said it.
 
 "**So that is the first thing and it is not an answer. The answer is this. The first three were refusals of a document. There was a notice, and a date, and a channel, and a term sheet, and every one of those was a thing you could put your hand on, and when the village said no to it the no went into the same thing as the notice. The fourth is a refusal of a person. There is no document. There is no notice and no date and no channel and there is a mark in chalk on nine doors that nobody in this city can wash off and nobody can explain, and that is all that is under it.**"
 
@@ -78,7 +78,7 @@ Nobody said anything for about nineteen seconds.
 
 "**Which is that a village of nine households has not been given anything in sixteen days and has not asked for anything, and the reason it has not asked is that the only instrument in four hundred miles that could have asked it is one that forty-nine people answered and ninety did not, forty-one of them because they could not afford the refusal, and I do not know what that is and I am seventy.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and a girl of seventeen wrote something on the flat of a slate and turned it over, and it is on no roll and it is on nothing, and she is seventeen.
 
 **And nobody went to a fourth house and nobody stood outside one and nobody asked anybody anything about anybody in one, and it is entered that about four of the nine wanted to, and that the reason is on a page in a stone nine miles up a road with a date on it, and that the reason says that this city chose not to ask, and that a woman of seventy of that village, a woman of about thirty-four who keeps a stall by the wharf, a man of about forty-four who keeps a stall and a man of thirty-two are four people and not three, and that about four of them have been getting confused with each other in this city for a hundred and twenty-eight days, and that a woman of forty-eight in a fourth house at that village is a fifth and is not here and was not asked.**
 

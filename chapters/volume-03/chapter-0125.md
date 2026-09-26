@@ -18,7 +18,7 @@ On the thirty-fifth day of the month after this one, which was the hundred and t
 
 "**Especially if the answers are no. A column of nine people who will not come is a column of nine people who will not come, and it is the same column with the other word in it, and in about five weeks the next case goes out of this city and there is a wall in a room nine hundred miles away with a heading on it, and I have spent a hundred and twenty-five days learning that the heading is the dangerous part.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the girl of seventeen turned her slate over and left it face down, and it stayed face down.
 
 ---
 
@@ -50,7 +50,7 @@ It is entered. **And it is entered that about four people in that room had worke
 
 "**The doors are not mine and the asking is mine. I am the only person in this city who copies things, and every page that has ever gone anywhere out of this city has gone because I copied it, and if I go and ask nine people a question and they say yes then I am a woman with nine answers and no roll, and a woman with nine answers and no roll is a carrier, and I have been reading about carriers since the twenty-third day of the month after this one and a case with a name in it can be carried.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and a woman of twenty-four took her hand off the edge of the table and put it in her lap, and did not ask for it to be said again.
 
 "**And I am seventeen, and I have been the person who asks about the fourth refusal, and about the foreman, and about the woman of forty-four of Corrow, and about the woman of forty-eight in a fourth house that nobody is going to ask, and every one of those was a question I asked because nobody else in that room could, and I have never once been asked whether I wanted to be the one who asks.**"
 

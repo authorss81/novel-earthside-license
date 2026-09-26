@@ -16,7 +16,7 @@ They came at the second hour, thirty-nine of them out of forty, and nobody at th
 
 "**Then somebody should carry a word to him,**" said the same man, four seconds later. "**There is a road. There are eleven households on it and one of them put out a cup of water without being asked. There is a person who could walk up that road in a day and come back in a day and say four words at a gate.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the man of about forty-four who keeps a stall put both hands flat on the table and left them there, and a girl of seventeen did not write it down.
 
 "**A word is a thing that travels along a road,**" said a woman of about thirty-four who keeps a stall by the wharf.
 
@@ -62,7 +62,7 @@ The first page has six things and a price and a right of refusal. The third page
 
 "**No,**" said a woman of about thirty-four who keeps a stall by the wharf. "**Nobody is going to scratch that line out, and here is the whole of it and it is the reason this city has three pages in a stone and not a shelf. A page in this world can be taken down on a date by the household that keeps it and nobody is asked why twice. That is the only reason anybody trusts a page in this city. And it means that the only correction anybody in four hundred miles can make to a wrong page in a stone is to ask the household to take it down, and the household is not ours, and nobody in this city has ever asked the household whether it will, or whether it knows what is on the second page, or whether it thinks the line about the woman of forty-four is a good line.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and a man at the back of the room put his cap into his hands instead of keeping it on his head, and nobody in the room told him to put it back on.
 
 "**Nine inches of stone is not a safe place for anything,**" she said, "**and I have said a great many things in a hundred and twenty-two days and that is the first one I have said that somebody is going to write down. I would like it written down exactly.**"
 
