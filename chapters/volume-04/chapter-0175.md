@@ -2,7 +2,7 @@
 
 At about the ninth hour of the morning on the twenty-fourth day of the Long Month a woman of about thirty-four who is on no roll of anything wrote a date on a door in chalk, in a kitchen, at Redroot, and about nine people went in after her, and that is the whole of the room and there was no second part of it.
 
-**It is a Friday. There is no hall, no landing and no market under that kitchen, and about two hundred and forty people who can hear out of a room over a market eleven miles away in this city cannot hear one word of what was said in it, and about four people who had spent a hundred and seventy-nine days building an instrument in that room over that market noticed this at about the tenth hour and did not remark on it, and it is entered that they noticed.**
+There is no hall, no landing and no market under that kitchen, and about two hundred and forty people who can hear out of a room over a market eleven miles away in this city cannot hear one word of what is said in it. It is a Friday. About four people who had spent a hundred and seventy-nine days building an instrument in that room over that market noticed this at about the tenth hour and did not remark on it, and it is entered that they noticed.
 
 ---
 
@@ -64,7 +64,7 @@ The first was a man of about thirty-four who keeps a stall, and it was arithmeti
 
 "**No. It is more work. That is the whole of it and I would rather somebody said that than did not.**"
 
-The second was a man of about thirty-one with a hand that will not close, and it is in his own words and it is nine words.
+The second was a man of about thirty-one with a hand that will not close, and it is in his own words and it is ten words.
 
 "**I do not know whether you want to know this.**"
 
@@ -94,7 +94,7 @@ The third was Bel Dain, about fifty-nine, who cannot read, and she asked it in h
 
 Nobody improved on that either.
 
-The fourth question was asked by the woman who keeps the gate, of one person, and it is the reason this chapter is on the page.
+The fourth question was asked by the woman who keeps the gate, of one person, and it is the reason the twenty-fourth day of the Long Month is on the page.
 
 "You did not read it out the way you read it out on the seventh day of the Long Month."
 
@@ -136,11 +136,11 @@ She put the board down on the bench by the door, which she has not done since th
 
 "**I chose the day. On the Sunday, on my own ground, and I did not tell anybody I was going to, and the meeting-ground did not choose it and could not have and said so, and a man of thirty-two was eleven miles away and had entered in his own hand that he was going to do nothing about it for twenty-five days and did not break his entry to be in this kitchen, and I told him at a door that I did not want him in it.**
 
-**I have been angry about this since Sunday and I am going to be angry about it for a year, and on the forty-eighth day of the Long Month, which is a month from today, I am going to be angry about it, and I am not going to be talked out of it in this room, and I am not going to be talked out of it by myself either, and if any of you write this down afterwards then write down the year and not the day.**
+**I have been angry about this since Sunday and I am going to be angry about it for a year, and on the forty-eighth day of the Long Month, which is twenty-four days from today, I am going to be angry about it, and I am not going to be talked out of it in this room, and I am not going to be talked out of it by myself either, and if any of you write this down afterwards then write down the year and not the day.**
 
 **That is the whole of what I have. There is not going to be a second part of it and there is not going to be a reason.**"
 
-Nobody in that kitchen improved on that, and nobody has improved on it since, and a woman of twenty-four was not in the room and wrote down afterwards, in her own hand, that the finding of the twenty-fourth day of the Long Month is that a person may say a thing that costs her a year and may not be given a reason for it, and that this is the fourth time in a hundred and seventy-nine days that this city has found an instrument it did not have, and that the instrument is a sentence with nothing after it.
+Nobody in that kitchen improved on that, and nobody has improved on it since, and a woman of twenty-four was not in the room and wrote down afterwards, in her own hand, that a person may say a thing that costs her a year and may not be given a reason for it, and that this is the fourth time in a hundred and seventy-nine days that this city has found an instrument it did not have, and that the instrument is a sentence with nothing after it.
 
 ---
 

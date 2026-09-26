@@ -2,7 +2,7 @@
 
 About nine people were standing at the bottom of a channel on the morning of the twentieth day of the Long Month who had not been standing there on Sunday, and not one of them had come up the road past this city, and one of them was a woman of about fifty-two who digs and had come four hundred yards up off the flats and could not say afterwards why she had come.
 
-**It is a Monday. The weather is still holding, and it is going to stop holding on Thursday night, and the ninth day of the racks is done and about nine hundred measures of salt are standing on four hundred and forty racks in the sun. The date is on a board, on a hand and on two slates, and it is the twentieth day of the Long Month, and there are four days of it.**
+The weather is still holding, and it is going to stop holding on Thursday night, and the ninth day of the racks is done and about nine hundred measures of salt are standing on four hundred and forty racks in the sun. The date is on a board, on a hand and on two slates, and it is Monday the twentieth day of the Long Month, and there are four days of it.
 
 ---
 
@@ -110,7 +110,7 @@ A man of about thirty-one with a hand that will not close was standing at the ne
 
 ---
 
-**And the finding of the twentieth day of the Long Month is a fact about boards and it is nine words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it to a man of about thirty-four who keeps a stall on a flat at about the sixth hour of the evening with the light going off the water.**
+**And what there is to say about boards is fifty-three words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it to a man of about thirty-four who keeps a stall on a flat at about the sixth hour of the evening with the light going off the water.**
 
 "**A date is the only thing anybody in this world has that travels on its own.**"
 
@@ -120,4 +120,4 @@ A man of about thirty-one with a hand that will not close was standing at the ne
 
 ---
 
-**And the last thing on the page is a length of rope in the hands of a boy of eight who has been told that on Thursday night he is going to be told the rest of it, and who has decided in advance that he is not going to like it, and who has said so out loud to nobody, and who has gone back to a length of rope and is doing something to it that nobody has asked him to do.**
+**A boy of eight is working a knot that is not for tying anything up. Nobody has asked him what it is for and nobody is going to.**

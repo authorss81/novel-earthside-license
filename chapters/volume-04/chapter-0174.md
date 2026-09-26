@@ -2,7 +2,7 @@
 
 The wind came round onto the flats at about the eleventh hour of the morning on the twenty-third day of the Long Month and went from nothing to a thing you had to lean on inside a quarter of an hour, and about four hundred and forty racks of salt that had been standing in the sun for nine days had to be covered before the fourth hour of the afternoon, and there were about nine people on that flat who were not on the rota and were not allowed to be.
 
-**It is a Thursday. The day before. The board at the bottom of the channel has a rail on it and the rail has a date on it now, chalked in a fifth hand at about the seventh hour of the morning, and it is the twenty-third, and it is tomorrow's date underneath it.**
+The board at the bottom of the channel has a rail on it and the rail has a date on it now, chalked in a fifth hand at about the seventh hour of the morning. It is a Thursday. The date on the rail is the twenty-third, and tomorrow's date is underneath it.
 
 ---
 
@@ -24,7 +24,7 @@ It went up in a hand that is not any of the four. It went up in a hand that is a
 
 Each rack is eleven feet off the ground and about nine measures go on it and the salt comes off the shelf in slabs the size of a floorboard and it has to be levered and not lifted, and the cover is a reed mat that has to go on the windward side first and be weighted along the top with stones, because a mat that lifts takes a rack of salt into the channel, and the channel is the thing that carries the water off the flats and a channel with a hundred and forty measures of salt in the bottom of it is a channel that has to be dug out by hand in a wet month.
 
-**And the promise that has been made about the racks for nine days is a promise about a person, and not about the weather, and the person is nine miles up a road.**
+**And the promise that has been made about the racks for nine days is a promise about a person, and not about the weather, and the person is up the road past this city.**
 
 *We will hold the channel and clear the drain and stand the racks in any weather.*
 
@@ -32,9 +32,9 @@ Each rack is eleven feet off the ground and about nine measures go on it and the
 
 "**Nobody sent for them,**" said a woman of about fifty-two who digs.
 
-"**Nobody sent for them because there is nothing to send with, and because it is the fourth hour of the afternoon and the wind is on the mat, and because a settlement of a hundred and forty people nine miles up a road is a settlement of a hundred and forty people and not an amount of rope. I am not saying the store has broken a word. I am saying a word about a store is not a pair of hands on a flat.**"
+"**Nobody sent for them because there is nothing to send with, and because it is the fourth hour of the afternoon and the wind is on the mat, and because a settlement of a hundred and forty people up the road past this city is a settlement of a hundred and forty people and not an amount of rope. I am not saying the store has broken a word. I am saying a word about a store is not a pair of hands on a flat.**"
 
-"That is the finding of the week," said a woman of about thirty-four who keeps a stall by the wharf, and nobody improved on her, and the finding of the week is in nine words and it belongs to nobody: **a promise made in a room is about a room.**
+"That is the finding of the week," said a woman of about thirty-four who keeps a stall by the wharf, and nobody improved on her, and it is ten words long and it belongs to nobody: **a promise made in a room is about a room.**
 
 ---
 
@@ -86,7 +86,7 @@ He did the knot again, and it came undone, and he did it again.
 
 "Does Dad know."
 
-And that is the whole of the telling, and it is nine sentences, and it is what it is, and nobody in this book is going to be able to do better with it or worse.
+And that is the whole of the telling, and it is nine sentences, and it is what it is, and nobody has done better with it or worse.
 
 "**No. And I am not going to tell him, because he is on the water two days a week and there is a man of fifty-two who can say it for me on the day and I have asked him and he has said yes, and that is the arrangement and I made it on Monday and I did not tell you that either.**"
 
@@ -110,4 +110,4 @@ He thought about that for a while, on a bench, in a kitchen, at about the ninth 
 
 "**You have the rope.**"
 
-And that is the last of the twenty-third day of the Long Month, and there were eleven days of the quarter left in it, and nobody improved on a child of eight, and on a bench by a door there is a gate board with two dates on the rail and a handprint on the back of it and about nine feet of rope.
+**Nobody improved on a child of eight, and on a bench by a door there is about nine feet of rope.**

@@ -1,8 +1,8 @@
 # Chapter 0181 — Disappointed
 
-About nine people asked a man of about forty-two on the morning of the thirtieth day of the Long Month what had happened at the bottom of a channel on Friday, and he answered them in about nine sentences, and about four of the hundred and forty people in that store have said since that they had never heard anybody say the word *disappointed* in a store in nine weeks and that it was the first honest thing anybody had put on a wall.
+About nine people asked a man of about forty-two on the morning of the thirtieth day of the Long Month what had happened at the bottom of a channel on Friday, and he answered them in about nine sentences, and about four of the hundred and forty people in that store have said since that they had never heard anybody say the word *disappointed* in a store in a hundred and thirty-six days and that it was the first honest thing anybody had put on a wall.
 
-**It is a Thursday. The queue at that store works on a Tuesday and the store is open on a Thursday, and there is a figure on a wall outside where anybody in the road can read it, and the figure has not moved in about a fortnight and the reason it has not moved is that nothing has been added to it and nothing has been taken off it and both of those are on the page.**
+The store is open on a Thursday and the queue at that store works on a Tuesday, and there is a figure on a wall outside where anybody in the road can read it. The figure has not moved in about a fortnight, and the reason it has not moved is that nothing has been added to it and nothing has been taken off it, and both of those are on the page.
 
 ---
 
@@ -22,7 +22,7 @@ Nobody in that store had asked it before, and about nine people had wanted to as
 
 "**And I am disappointed, and I want to say that before anybody in this yard says it for me, and I want to say it properly, because about four of you have been carrying it since Friday and one of you has been carrying it badly.**
 
-**Here is the whole of it. In nine weeks I have not lied to anybody about a cost. I have not threatened anybody. I have not moved anybody. I have not written the word *sold* on anything. I have got a queue that works on a Tuesday and a wage that arrives on a Tuesday and a hundred and forty people who are all right, and every one of those things is true, and on Friday morning a woman with a board in her left hand said yes in a kitchen to nine days a week for the rest of the season, and she was not persuaded, and nobody persuaded her, and she was not owed anything and nobody owed her anything and the reason she said yes is that the wage is real and the racks are drying and the weather turns on Thursday.**
+**Here is the whole of it. In a hundred and thirty-six days I have not lied to anybody about a cost. I have not threatened anybody. I have not moved anybody. I have not written the word *sold* on anything. I have got a queue that works on a Tuesday and a wage that arrives on a Tuesday and a hundred and forty people who are all right, and every one of those things is true, and on Friday morning a woman with a board in her left hand said yes in a kitchen to nine days a week for the rest of the season, and she was not persuaded, and nobody persuaded her, and she was not owed anything and nobody owed her anything and the reason she said yes is that the wage is real and the racks are drying and the weather turns on Thursday.**
 
 **I did not win that. I offered a true thing to a person who was already going to do the work, and she was going to do the work anyway, and I got the days.**"
 
@@ -30,7 +30,7 @@ Nobody in that store had asked it before, and about nine people had wanted to as
 
 "**It is not a defeat and it is not a win and it is the third thing, and the third thing is the only thing anybody in this store can actually talk about, and about nine people in this yard have been calling it a victory since Friday because a victory is easier to carry up a road. It is not a victory. It is a woman who did not want to be asked and was asked anyway, by people who had told her in advance they were going to ask, and who said yes in one sentence and then said she was going to be angry about it for a year.**
 
-**And I am disappointed, and here is the reason and it is the only reason, and it is the sharpest thing I have got: there is nothing in this that I can be argued out of. I did everything right. I have been doing everything right for nine weeks and I have got exactly what I have got and the whole of what I have got is nine days of a week, and there is no way for me to be more correct.**"
+**And I am disappointed, and here is the reason and it is the only reason, and it is the sharpest thing I have got: there is nothing in this that I can be argued out of. I did everything right. I have been doing everything right for a hundred and thirty-six days and I have got exactly what I have got and the whole of what I have got is nine days of a week, and there is no way for me to be more correct.**"
 
 ---
 
@@ -74,28 +74,28 @@ The rota is copied by hand in four copies and it has been copied in four hands s
 
 ---
 
-**And about the seventh hour of the evening a woman of about thirty-four in that store asked a question nobody in that yard had thought of, and she has been in that store nine weeks and she is not on any list in it, and she asked it in four words, and about nine people have written it down since in their own hands.**
+**And about the seventh hour of the evening a woman of about thirty-four in that store asked a question nobody in that yard had thought of, and she has never been on any list in that store and she has never been paid out of it, and she asked it in four words, and about nine people have written it down since in their own hands.**
 
 "What is the date."
 
 "Which date."
 
-"**The date on it. The days. Nine days of a week for the rest of the season. A season is not a date, is it. I have worked here nine weeks and I have never seen a day on anything that says when it stops.**"
+"**The date on it. The days. Nine days of a week for the rest of the season. A season is not a date, is it. I have been in this city a hundred and eighty-five days and I have never seen a day on anything that says when it stops.**"
 
-And a man of about forty-two stood in a yard at about the seventh hour of the evening on the thirtieth day of the Long Month and worked out, in about four seconds and in front of about nine people, that he did not have the answer, and that he had never had it, and that a settlement of a hundred and forty people with a rota copied by hand in four copies and a queue that works on a Tuesday had run for nine weeks on a word.
+And a man of about forty-two stood in a yard at about the seventh hour of the evening on the thirtieth day of the Long Month and worked out, in about four seconds and in front of about nine people, that he did not have the answer, and that he had never had it, and that a settlement of a hundred and forty people with a rota copied by hand in four copies and a queue that works on a Tuesday had run for a hundred and thirty-six days on a word.
 
 "**The season,**" he said.
 
 "**Say the date.**"
 
-"**I do not have the date. Nobody in this store has the date. It is a season and it ends when the salt stops drying and that is a Thursday or a Friday and it is not a day anybody has written down, and I have been right about eight sentences out of nine for a hundred and eighty-five days and I have just found a ninth and it is a noun and I have had it in my mouth for nine weeks.**"
+"**I do not have the date. Nobody in this store has the date. It is a season and it ends when the salt stops drying and that is a Thursday or a Friday and it is not a day anybody has written down, and I have been right about eight sentences out of nine for a hundred and eighty-five days and I have just found a ninth and it is a noun and I have had it in my mouth for a hundred and thirty-six days.**"
 
 "Then somebody had better write it down," said a man of about thirty-four who keeps a stall, "**before a clerk somewhere works out that a word is a date, and I have met clerks.**"
 
 ---
 
-**And the last thing on the page is a figure on a wall outside a store on the upper road nine miles from this city, where anybody in the road can read it, and a hundred and forty under it, and a second figure under that one in a different hand and a different chalk which is a hundred and forty-one, and it is right, and a man of about thirty-nine who came up that road on foot looked at it for about four minutes at about the eighth hour of the evening and worked out that it is the first number anybody has put on that wall that the people who own the wall did not put there.**
+**A second figure under the hundred and forty on a wall outside the store, in a different chalk and a different hand. It is a hundred and forty-one, and it is right, and a girl of seventeen who is on no roll of anything put it there at about the eighth hour of the evening.**
 
 **And a girl of seventeen who is on no roll of anything put it there at about the eighth hour of the evening because about nine people came in that morning and the count on a wall is a count of people and she has been in a city for a hundred and eighty-five days where the only public record anybody has is a number nobody can check, and she wanted to know what happened to a number when somebody checked it, and it turned out that nobody does, and that is why it is still a hundred and forty and not a hundred and forty-four.**
 
-**And she has not explained it and about nine people have asked her and she has said the same four words to all nine, and the four words are *somebody had to*.**
+**And she has not explained it and about nine people have asked her and she has said the same three words to all nine, and the three words are *somebody had to*.**

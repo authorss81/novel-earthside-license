@@ -2,7 +2,7 @@
 
 A man of about twenty-nine came down the Reach road on the morning of the twenty-first day of the Long Month with a printed sheet under one arm and a piece of chalk in his hand, and nine households had been told he was coming by somebody who was not him, and about four of them had been told it by him.
 
-**It is a Tuesday, and the queue at the store up the road past this city works on a Tuesday, and a man of forty-two who built it has said out loud in about nine rooms that he picked Tuesday on purpose and has never given a reason anybody believes.**
+The queue at the store up the road past this city works on a Tuesday and this is a Tuesday, and a man of forty-two who built it has said out loud in about nine rooms that he picked Tuesday on purpose and has never given a reason anybody believes.
 
 ---
 
@@ -60,7 +60,7 @@ Then the woman of the fourth household asked the question, and it is the correct
 
 ---
 
-**And what she had noticed is the thing this chapter is for, and he said it out loud in that kitchen himself, in about nine sentences, before anybody asked him, and he asked for it to be written in a book of his own that goes nowhere, and he wrote it down, and it is on the page because it is on the page.**
+**And what she had noticed, he said out loud in that kitchen himself, in about nine sentences, before anybody asked him, and he asked for it to be written in a book of his own that goes nowhere, and he wrote it down.**
 
 "**I could not tell you today which room I left a line out in.**"
 
@@ -128,4 +128,4 @@ And one person in that kitchen did not take it, and he is about thirty-nine and 
 
 ---
 
-**And the last thing on the page is a piece of chalk in the hand of a man of about twenty-nine, put down on the sill of a door in a yard, and a date in chalk on that door that a woman of about thirty-four said might be washed off in a week, and nobody washed it off, and it is the twenty-first day of the Long Month and there are three days of it.**
+**A date in chalk on a door in a yard that a woman of about thirty-four said might be washed off in a week. It is the twenty-first day of the Long Month, there are three days of the quarter left in it, and nobody has washed it off.**

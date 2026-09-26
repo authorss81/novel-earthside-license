@@ -2,11 +2,11 @@
 
 About nine people who came through a wall in the second week of this flood were standing in a yard in this city on the morning of the thirty-first day of the Long Month, and four of them had said a thing out loud that they will not do, and about four of them had not said anything, and there was no roll and there was no count and there was no vote, and a woman of about twenty-four who has written down every decision this city has made since the second day of the flood stood in that yard with a slate under her arm and did not write any of it down.
 
-**It is a Friday. The queue at the store up the road past this city works on a Tuesday and about nine of the seventeen are paid out of it on a Tuesday, and four of them were paid on the twenty-eighth day of the Long Month and one of those four bought a second breakfast for the others and told a man of about thirty-four who keeps a stall about it, and the man wrote it in a book of his own and could not work out whether it was a favour.**
+About nine of the seventeen are paid out of the queue at the store up the road past this city on a Tuesday, and four of them were paid on the twenty-eighth day of the Long Month, and one of those four bought a second breakfast for the others and told a man of about thirty-four who keeps a stall about it, and the man wrote it in a book of his own and could not work out whether it was a favour. It is a Friday, the thirty-first day of the Long Month, and none of that is in the room.
 
 ---
 
-They have been a coalition for a hundred and eighty-six days and the coalition was never on a page, and the finding of the thirty-first day of the Long Month is that this is the only instrument in this world that splits without anybody choosing to split it, and about four people in that yard have said since that the reason is that there was never a list to break.
+They have been a coalition for a hundred and eighty-six days and the coalition was never on a page, and this is the only instrument in this world that splits without anybody choosing to split it, and the reason is that there was never a list to break.
 
 **The split is between people who want a wage and people who want a name, and both of those are correct, and the sentence that says so was said in that yard by a person who is on one of the two sides and has not been asked which.**
 
@@ -14,11 +14,11 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 "And a name is what."
 
-"**A name is a place a person can be found in. I have worked that out in about nine days and it is not my word, it is a woman of about thirty-four who works it out in about nine seconds in a room over a market, and she was right, and being findable is not a penalty for being real. It is the price of it.**"
+"**A name is a place a person can be found in. I have worked that out in about nine days and it is not my word, it is a man of about twenty-nine from a settlement's workroom who said it in a workroom on the seventeenth day of the Long Month, and what he said was *findable*, and the rest of it is mine, and being findable is not a penalty for being real. It is the price of it.**"
 
 "That is the same as a wage."
 
-"**It is not the same as a wage at all and you know it is not and I have watched you work it out in about a second and a half. A wage is a day and a name is a hundred and eighty-six days of being a person in a city that has no money, and I want the hundred and eighty-six. And I am not going to pretend to you that I have got a way to get the hundred and eighty-six, because I have not got one and that is the entire difference between the two of us standing in this yard.**"
+"**It is not the same as a wage at all and you know it is not and I have watched you work it out before I got to the end of my own sentence. A wage is a day and a name is a hundred and eighty-six days of being a person in a city that has no money, and I want the hundred and eighty-six. And I am not going to pretend to you that I have got a way to get the hundred and eighty-six, because I have not got one and that is the entire difference between the two of us standing in this yard.**"
 
 ---
 
@@ -38,7 +38,7 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 "**No. And I want to say what I am saying so that nobody in this city thinks I have stopped. I have written down every decision this city has made since the second day of the flood. Four times I have not written one down and three of those were a name said out loud in a room. This is different from those and I want it noticed that it is different.**
 
-**A name said out loud in a room is a person. I have never written those down and I never will, and a man of thirty-four who keeps a stall worked out in about four minutes in a market on the seventeenth day of the Long Month that a name on a page is a place a person can be found in, and he was right.**
+**A name said out loud in a room is a person. I have never written those down and I never will, and a man of about twenty-nine from a settlement's workroom said out loud in a workroom on the seventeenth day of the Long Month that a person at the top of a page has to be findable, and he was right, and the word is his and I have not improved on it.**
 
 **This is not a name. This is about nine people saying what they will not do, and if I write it down then a person who is on the wage side of this yard tomorrow is on a page, and a person who is on the name side of it tomorrow is on a page, and in about four months a clerk nine hundred miles away is going to ask whether this city agrees with itself about something, and I will have handed him two columns and no names and it will look like a district.**"
 
@@ -48,7 +48,7 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 ---
 
-**And nobody in that yard said the name of a man of about forty-two for about two hours, and about four people have said since that this was the most careful thing anybody did on the thirty-first day of the Long Month, and that it was done by accident, and that the first person to say it said it about a heartbeat after somebody else had said something else.**
+**And nobody in that yard said the name of a man of about forty-two for about two hours, and this was the most careful thing anybody did on the thirty-first day of the Long Month, and it was done by accident, and that the first person to say it said it about a heartbeat after somebody else had said something else.**
 
 "He is not here."
 
@@ -64,13 +64,13 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 **And a man of about thirty-two stood in that yard for about three hours and said nine sentences, and eight of them were the best things anybody in that yard had heard in a hundred and eighty-six days and the ninth one is the only time in this volume that he has been asked to repair something and has said no, and it is on the page in his own hand with the date on it.**
 
-Nobody asked him. About four people have said that is the finding of the thirty-first day of the Long Month: nobody asked him, and he had prepared for being asked, and the preparing took him about four days.
+Nobody asked him. About four people have said that nobody asked him, and that he had prepared for being asked, and that the preparing took him about four days.
 
 "One. **About nine of you are paid on a Tuesday and four of you were paid on the twenty-eighth day of the Long Month and one of you bought a second breakfast and that is a wage and not a favour and I am glad about it in the only way available to me.**
 
 Two. **A name is a place a person can be found in, and a wage is a day, and a person can want both and about four of you want one and about four of you want the other and neither of those is a mistake.**
 
-Three. **I said on the sixty-fourth day of the month after this one, in about two hundred and forty people, that in March one of you is going to be a person with no work in a city with no money. I said it in fifty-nine days and I have been wrong about the month and right about the rest of it in a hundred and nine days and I conceded that in about four minutes and nobody thanked me.**
+Three. **I said on the fifty-ninth day of this flood, in a yard, in about two hundred and forty people, that in March one of you is going to be a person with no work in a city with no money. I said it in fifty-nine days and I have been wrong about the month and right about the rest of it in a hundred and twenty-seven days and I conceded that in about four minutes and nobody thanked me.**
 
 Four. **And the person who says they will not go up the road and take a wage on a day is not above it. I have been that person. I was that person for a hundred and sixty-four days and I had a share with the post taken out and I took four minutes over it.**
 
@@ -86,8 +86,8 @@ Nine. **So this splits. And I am in it, and I am on neither side, and about four
 
 ---
 
-**And at about the fifth hour of the afternoon a man of about forty-four who keeps a stall, who is not one of the seventeen and who has been in this city for a hundred and eighty-six days, said the only thing anybody said in that yard all day that anybody has improved on since, and it is nine words.**
+**And at about the fifth hour of the afternoon a man of about forty-four who keeps a stall, who is not one of the seventeen and who has been in this city for a hundred and eighty-six days, said the only thing anybody said in that yard all day that anybody has improved on since, and it is fourteen words.**
 
 "**Nobody has told either side that the other one is wrong. That is new.**"
 
-**And the last thing on the page is a slate under a woman's arm in a yard in this city on the thirty-first day of the Long Month with nothing on it, and about four people have seen it, and about two hundred and forty people could hear out of a market under that yard and not one of them will be able to say in about four months who was on which side.**
+**A slate under a woman's arm in a yard in this city with nothing on it, and about two hundred and forty people can hear out of a market under that yard, and not one of them will be able to say in about four months who was on which side.**

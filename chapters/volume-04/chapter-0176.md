@@ -2,23 +2,23 @@
 
 About nine people came down eleven miles on foot on the morning of the twenty-fifth day of the Long Month and started clearing a channel that has not been cleared since before the flood, and none of them had been asked and none of them had been sent, and about four people on that flat stood and watched them arrive for about four minutes before anybody went and helped.
 
-**It is a Saturday. The weather broke in the night and the flats are holding about nine hundred measures of salt under reed mats with stones along the top, and a rope and a bell and a board, and the boy of eight rang the bell at about the seventh hour because he was told to and because nobody has ever asked him why.**
+The weather broke in the night and the flats are holding about nine hundred measures of salt under reed mats with stones along the top, and there is a rope and a bell and a board. It is a Saturday. The boy of eight rang the bell at about the seventh hour because he was told to and because nobody has ever asked him why.
 
 ---
 
 The nine came down the Reach road in ones and twos between the sixth hour and the ninth hour, and they were carrying bars, and a man of about twenty-nine from the settlement's workroom was with the last of them and had a printed sheet, and there is no cart on that road and there is no road for a cart and about nine people have known that since the seventh week of this flood and about forty people have not.
 
-**And nobody was angry and nobody was glad and about four people have said since that the reason was that there was nothing in the arriving for anybody to have an opinion about, and the finding of the twenty-fifth day of the Long Month is nine words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it once.**
+**And nobody was angry and nobody was glad and about four people have said since that the reason was that there was nothing in the arriving for anybody to have an opinion about, and what she said about it afterwards is thirty-two words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it once.**
 
 "**Nobody came to take anything. That is the whole of it and I have been waiting four days for something to be angry about and there is not one thing in that.**"
 
 "You wanted something to be angry about."
 
-"**I wanted a thing I could hold. I have been angry at a store up the road past this city since the seventh week of this flood with nothing in my hands, and I got a cup of water out of a barrel on the seventeenth day of the Long Month and that is the closest I have come, and on Friday morning nine people said yes in a kitchen and on Saturday morning nine people turned up with bars, and I have got nothing in my hands.**"
+"**I wanted a thing I could hold. I have been angry at a store up the road past this city since the seventh week of this flood with nothing in my hands, and I got a cup of water out of a barrel on the seventeenth day of the Long Month and that is the closest I have come, and on Friday morning one person said yes in a kitchen and nobody voted, and on Saturday morning nine people turned up with bars, and I have got nothing in my hands.**"
 
 ---
 
-**And the work is the work and it took a day and a half, and it went wrong once, and here is the whole of it in about four hundred words because the whole of the day is labour and the finding of the day is not in the labour.**
+**And the work is the work and it took a day and a half, and it went wrong once, and none of what anybody said that day was said about the work.**
 
 The channel is a foot and a half wide at the top and four feet at the bottom and it goes four hundred yards up off the flats, and it has not been cleared since before the flood, and a channel that is not carrying is a channel that is standing in a bed of its own making, and the silt has to go somewhere and on the fourteenth day of the Long Month it went on the bank and made a mound about four feet high.
 
@@ -32,7 +32,7 @@ The wrong thing was this. At about the second hour of the afternoon about nine p
 
 "**Not there.**"
 
-That is the whole of the correction. It took about four seconds and about four people said afterwards that it is the only time in a hundred and eighty days that anybody has corrected the settlement in front of nine of its own people, and that he did it in four seconds, and that he is a man of about thirty-nine who trades on a board and has been refused by name four times in four years, and that about four people in this city have said that this is what that is for.
+That is the whole of the correction. It took about four seconds and about four people said afterwards that it is the only time in a hundred and eighty days that anybody has corrected the settlement in front of nine of its own people, and that he did not raise his voice once in it, and that he is a man of about thirty-nine who trades on a board and has been refused by name four times in four years, .
 
 ---
 
@@ -62,7 +62,7 @@ The bed has been there since the second month of this flood. It came off a cart 
 
 "**The first wage. That is what will make it worse and not better, and it is on a Tuesday, and there are three days of it to run.**"
 
-**And nobody in this book is going to improve on that and nobody has, and it is entered by a woman of twenty-four in her own hand that the whole of what was said by the person who gave away nine days of a week on the twenty-fourth day of the Long Month and on the day after it was forty-one sentences long and none of the forty-one was a reason and none of the forty-one was about being glad.**
+**And nobody is going to improve on that and nobody has, and it is entered by a woman of twenty-four in her own hand that the whole of what was said by the person who gave away nine days of a week on the twenty-fourth day of the Long Month and on the day after it was forty-one sentences long and none of the forty-one was a reason and none of the forty-one was about being glad.**
 
 ---
 
@@ -92,7 +92,7 @@ Nobody said anything.
 
 "**I have not decided and I am not going to decide on a flat. And I will tell you what I have decided, and it is the only thing I have come down here to say: I do not know whether that is a good answer. I have been carrying it since the third day of the Long Month and I have stopped waiting to find out, and the reason I have stopped is that a thing I keep waiting on is a thing I keep leaving undone.**"
 
-She went back up the flats and did not write anything down, and it is on the page that nothing was written down, and about four people in this city have said that the reason nothing was written down is the only reason the list in four hundred miles has never once been wrong about a person.
+She went back up the flats and did not write anything down, and it is on the page that nothing was written down, and the reason nothing was written down is the only reason the list in four hundred miles has never once been wrong about a person.
 
 ---
 
@@ -102,6 +102,6 @@ She went back up the flats and did not write anything down, and it is on the pag
 
 She said it the way a person says a thing they have been waiting four days to be able to say, and about four people who were standing about nine feet away did not answer her, and about four of them have said since that they did not answer her because there was nothing to answer, and that the whole of what she had said was that a household that gave away nine days of a week on a Friday morning still had a gate on a Saturday evening, **and that the only thing which is different is whose turn it is, and that a gate is a thing a household has and is not a thing a household is, and that this is the only sentence in four hundred miles that has been said on a day when it was true and cheap.**
 
-And a man of about thirty-one with a hand that will not close, who had been in that kitchen on the Friday morning and who had washed the sentence about a person being moved off ground off the back of his own hand with a bucket and a rag and who had not washed it off the page, walked past her on his way up off the flats and said the only thing he said all evening, and it is nine words and it is in his own words and he did not say it to her and she did not hear it.
+And a man of about thirty-one with a hand that will not close, who had been in that kitchen on the Friday morning and who had washed the sentence about a person being moved off ground off the back of his own hand with a bucket and a rag and who had not washed it off the page, walked past her on his way up off the flats and said the only thing he said all evening, and it is twelve words and it is in his own words and he did not say it to her and she did not hear it.
 
 "**I do not know whether that is good. I do not know.**"

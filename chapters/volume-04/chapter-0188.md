@@ -1,12 +1,12 @@
 # Chapter 0188 — Nine Sentences About a Cost
 
-About nine people were in a room over a market on the morning of the thirty-seventh day of the Long Month and each of them said what it had cost them, out loud, in their own words, in no order anybody chose, and about four people in this city have said since that the thirty-seventh day of the Long Month is the only day in a hundred and ninety-two on which anybody said a cost without anybody naming a price first.
+Eleven people were in a room over a market on the morning of the thirty-seventh day of the Long Month and each of them said what it had cost them, out loud, in their own words, in no order anybody chose, and about four people in this city have said since that the thirty-seventh day of the Long Month is the only day in a hundred and ninety-two on which anybody said a cost without anybody naming a price first.
 
-**It is a Thursday. There is no form on the table and there is nothing on the table, and there is a date in chalk on the door, and a man of about thirty-four who keeps a stall put the table back in the room at about the sixth hour of the morning because nine people were coming and the people who come in afterwards need something to stand at, and nobody agreed to that and he did it anyway.**
+There is no form on the table and there is nothing on the table, and there is a date in chalk on the door, and it is a Thursday. A man of about thirty-four who keeps a stall put the table back in the room at about the sixth hour of the morning because eleven people were coming and the people who come in afterwards need something to stand at, and nobody agreed to that and he did it anyway.
 
 ---
 
-Nobody was asked. That is the whole of the instrument and it was built in about nine minutes at about the seventh hour of the morning by a man of about thirty-four who keeps a stall and a woman of about twenty-four, and it is four sentences long, and about four people in this city have said that four sentences is the cheapest instrument anybody has built in four hundred miles.
+Nobody was asked. That is the whole of the instrument and it was built in about nine minutes at about the seventh hour of the morning by a man of about thirty-four who keeps a stall and a woman of about twenty-four, and it is four sentences long, and four sentences is the cheapest instrument anybody has built in four hundred miles.
 
 "A person says a cost in their own words, and nobody names a price first, and nobody improves on it, and nobody answers it."
 
@@ -26,7 +26,7 @@ The first was a woman of about thirty-four from a fourth household on the road, 
 
 "**I had a roof that came off in the second month and I paid for the timber out of a queue that does not work. On the twenty-first day of the Long Month I took a workway in a kitchen with the cost read out first and I said the reason was a roof and a wage and a Tuesday and it was. And on Friday a man of twenty-nine said out loud that a cost he has read out five times gets shorter, and he was right, and I did not know, and I am not going to pretend to about nine people in this room that knowing would have made me say no.**"
 
-The second was a man of about thirty-nine and he digs, and he did not take the workway on the twenty-first day of the Long Month and nobody asked him why, and he said four words.
+The second was a woman of about fifty-two who digs, and she did not take the workway on the twenty-first day of the Long Month and nobody asked her why, and she said four words.
 
 "**Two pairs of boots.**"
 
@@ -38,7 +38,7 @@ The third was a man of about thirty-four who keeps a stall.
 
 The fourth was a man of about forty-four who keeps a stall, and it is the cost column and it is unchanged and nobody has made it better.
 
-"**A cost column in my own book for four years. Eleven entries in one month and no figure on the end of any of them and no twelfth. One field was paid on the thirteenth day of the Long Month and the column did not move, and that is twenty-eight days ago, and the column has not moved since and it is not going to. And the cost is not the eleven entries. The cost is that I have kept it for four years and about four people in this city know I keep it and about nine hundred miles is a clerk who could ask me for it, and I have been a column for four years for nobody and I did not choose it and I cannot get out of it, and there is no instrument.**"
+"**A cost column in my own book for four years. Eleven entries in one month and no figure on the end of any of them and no twelfth. One field was paid on the thirteenth day of the Long Month and the column did not move, and that is twenty-four days ago, and the column has not moved since and it is not going to. And the cost is not the eleven entries. The cost is that I have kept it for four years and about four people in this city know I keep it and about nine hundred miles is a clerk who could ask me for it, and I have been a column for four years for nobody and I did not choose it and I cannot get out of it, and there is no instrument.**"
 
 The fifth was a girl of seventeen who is on no roll of anything.
 
@@ -58,13 +58,13 @@ The sixth was a man of about thirty-nine who trades on the Open Hand board, and 
 
 "**I have a slate I have not written on in nine years. I have stood in a settlement's queue for two hours in bad weather and copied nothing and brought a cup of water out of a barrel to a woman and did not ask her name. I was the first person in four hundred miles to say that Redroot was a place, and I was the first person to refuse the naming of a commons on a correct principle. I have found the reading of a share with no date on it, and the reading is *it is a queue*. And the cost is that all four of those things are me being useful, and a person who is useful is a person who can be found, and I have spent nine years making sure of exactly the opposite, and on the twenty-fourth day of the Long Month I said good out loud twice to nobody about a door, and a man of about thirty-nine who trades on the Open Hand board has been the only person in this city who knew I was there and he has never once said so.**"
 
-**And the ninth was a woman of about fifty who counts water on the fingers of her left hand, and the room had not been told she was coming, and she had been in about nine rooms in a hundred and ninety-two days, and she said the cost in her own words and it is four sentences and it is on the page because about four people in this city have said that the volume is going to end with a land-and-labour compact and the woman who wrote the fourth line of a term sheet in the eighth week of this flood is standing in a room saying what it cost her.**
+**And the ninth was a woman of about fifty who counts water on the fingers of her left hand, and the room had not been told she was coming, and she had been in about nine rooms in a hundred and ninety-two days, and she said the cost in her own words and it is four sentences and it is on the page because the woman who wrote the fourth line of a term sheet in the eighth week of this flood is standing in a room saying what it cost her.**
 
 "**The Reach keeps a record of who may use a water gate and I have written most of it myself for nine years and every name on it is alive and it is the only list in four hundred miles that has never been wrong about a person. I asked a woman of thirty-eight at a junction on the third day of the Long Month why she had said no to being asked and she gave me a reason I have not been able to argue with in about thirty-four days. The cost is that I have been the only person in this city who keeps one, and I said the base out loud in a room on the eighty-seventh day of this flood and I am tired of being the only person who keeps one, and about four people in this room have said that sentence nine times in four hundred miles and nobody has done anything about it, and I have done nothing about it, and I am not going to.**"
 
 ---
 
-**And there was an eleventh, and she had been in the room since the sixth hour of the morning and had not spoken, and about four people in that room have said that the reason she waited was that she is an anchorwright and she is the person this city has been using as a check on a man for a hundred and ninety-two days, and a check is not a person, and she has been saying that in her own words in about nine rooms since the second month of this flood.**
+**And there was a tenth, and she had been in the room since the sixth hour of the morning and had not spoken, and the reason she waited was that she is an anchorwright and that she is the person this city has been using as a check on a man for a hundred and ninety-two days, and a check is not a person, and she has been saying that in her own words in about nine rooms since the second month of this flood.**
 
 Tamsin Quill said her cost in six sentences and it is in a book in this city in her own words and nobody improved on it and about four people in that room did not look at the man of about thirty-two while she said it, on purpose, and he noticed and has entered that he noticed.
 
@@ -80,7 +80,7 @@ Five. The cost is that I have been the person who is right in a room about a hun
 
 Six. And the cost of the cost is this, and it is the whole of what I have: I cannot be asked whether the check is what I want, because a check is a thing somebody else needs, and a person who is needed is a person who can be found, and I have been findable in a room since the second month of this flood and I have never once been asked whether I would rather be a person in a room, and I am not going to ask anybody now, and I would like that entered.**"
 
-And a man of about thirty-four who keeps a stall said one thing after that and it is nine words and he did not say it to her.
+And a man of about thirty-four who keeps a stall said one thing after that and it is fourteen words and he did not say it to her.
 
 "**You have never once been asked. That is what I have just worked out.**"
 
@@ -92,12 +92,12 @@ He did not say the next thing. It is entered that he did not say it and that abo
 
 ---
 
-**And the last was a woman of about twenty-four who is on no roll of anything and who has written down every decision this city has made since the second day of the flood, and she said her cost in two sentences and she said it last, and nobody had asked her and about four people in that room had assumed she would not say it.**
+**And the eleventh and last was a woman of about twenty-four who is on no roll of anything and who has written down every decision this city has made since the second day of the flood, and she said her cost in two sentences and she said it last, and nobody had asked her and about four people in that room had assumed she would not say it.**
 
 "**I have a cost too and it is the cheapest and it is the only one on this page that is not being paid in something anybody can carry, and it is this: I have been the record for a hundred and ninety-two days and nobody has ever asked me what it costs, and about four people in this room have just done it, and about six days ago I chose not to write down a split in a yard, and I have not written it down since, and I have looked for it about nine times.**
 
 **The cost is that I am the only person in this city who can be checked. Anybody else can be argued with. I cannot, because I do not say what I mean and I do not write what I am told and I am on no roll and I have a slate, and a person who cannot be argued with is a person nobody argues with, including me, and I have been alone with a book for a hundred and ninety-two days and I have just found out in a room that about nine people will now say a thing to me out loud, and I do not know whether that is the beginning of the end of the book or the end of the aloneness, and I am not going to find out in this room.**"
 
-**And then a woman of about thirty-four named nothing and said no more, and a man of about thirty-two was in that room and did not say a word, and about four people in this city have said that a man of thirty-two being in a room where nine people each said a cost and saying nothing is the third time in a hundred and ninety-two days and the first time nobody has been angry about it.**
+**And then a woman of about thirty-four named nothing and said no more, and a man of about thirty-two was in that room and did not say a word, and a man of thirty-two being in a room where eleven people each said a cost and saying nothing is the third time in a hundred and ninety-two days and the first time nobody has been angry about it.**
 
-**And the last thing on the page is a slate under a woman's arm with nothing on it, and a room with a table in it and a door with a date on it, and a Sunday in three days, and about nine people in this city have said a cost out loud in a room in daylight with a date on the door, and not one of them has been answered, and about four people in this city have said that this is the only instrument anybody has built in a hundred and ninety-two days that nobody can refuse, because a cost is a thing a person has already said and a person cannot unsay it.**
+**A slate under a woman's arm with nothing on it, in a room with a table in it and a door with a date in chalk on it.**

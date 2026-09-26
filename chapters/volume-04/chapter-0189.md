@@ -1,12 +1,12 @@
 # Chapter 0189 — A Question With No Answer In It
 
-A man of about thirty-two walked nine miles up the upper road on the thirty-eighth day of the Long Month with a single page in his own hand and gave it to about nine people before about the eleventh hour of the morning, and about nine people in four hundred miles received a question written in his own words four days before a meeting-ground was going to be poled to where they were, and not one of the nine could answer it, and that is the instrument and it took four days to build and it has now been used three times.
+A man of about thirty-two wrote the question on the thirty-fifth day of the Long Month and gave it to about nine people in his own hand that same day, which is four days before the room it is read in, and on the thirty-eighth day of the Long Month he walked nine miles up the upper road with the same single page in the same hand, and not one of the nine could answer it, and that is the instrument and it took four days to build and it has now been used three times.
 
-**It is a Friday. The store on the upper road is open and about a hundred and forty people are paid on a Tuesday and about nine of them are standing in a workroom at about the eleventh hour of the morning looking at a page, and a date in chalk is on the door of that workroom, and the date is the thirty-eighth day of the Long Month.**
+The store on the upper road is open and about a hundred and forty people are paid on a Tuesday, and about nine of them are standing in a workroom at about the eleventh hour of the morning on a Friday looking at a page. There is a date in chalk on the door of that workroom and the date is the thirty-eighth day of the Long Month.
 
 ---
 
-The instrument is this and it is in a book in this city and it was built in four days in the second month of this flood and has been used on a Hearthguard of forty-four on a day he did not choose, and on a woman of about thirty-six in a gateway three days ago, and now on a body that floats:
+The instrument is this and it is in a book in this city and it was built in four days in the second month of this flood and has been used on a Hearthguard of forty-four on a day he did not choose, and on a woman of about thirty-six in a gateway ten days ago, and now on a body that floats:
 
 **The question in the person's own words. Given in writing to everybody who will be in the room four days beforehand. Anybody who cannot be given it is not going to be in the room. Nobody asks the person whether the day suits them.**
 
@@ -22,7 +22,7 @@ And the question is this, and it is four sentences long, and it is in a hand tha
 
 ---
 
-**And about nine people received that page before about the eleventh hour of the morning, and every one of them had it in their own hand by the sixth hour of the evening, and the instrument says that anybody who cannot be given it is not going to be in the room, and exactly one person could not be given it, and about four people in this city have said that this is the first time the instrument has been used on a body and that it broke on the body and did not break on a person.**
+**And about nine people received that page on the thirty-fifth day of the Long Month, and every one of them had it in their own hand by the sixth hour of the evening of that day, and the instrument says that anybody who cannot be given it is not going to be in the room, and exactly one person could not be given it, and this is the first time the instrument has been used on a body, and it broke on the body and did not break on a person.**
 
 The one who could not be given it is about sixty-one years old and has a barrow and keeps a stone nine miles up a road with four pages on it, and the fourth page has a date in chalk on it and the second page is wrong and is going to stay wrong on purpose, and nobody in this city has ever taken any of the four down.
 
@@ -32,7 +32,7 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 "**I am a household that keeps a page for a woman whose name is on that page, and I offered her the only thing I had, which was that I would not take it down and would not ask her and would have to look at it every time I came up this road for the next forty years. And that offer was made in the second month of this flood and it is a standing offer and it is not a page and it is not in any instrument anybody has built, and if a man of thirty-two has built an instrument that says everybody affected must be in the room then he has built it about me and not for me, and I am not going to be in the room and I am not going to be angry about it, and I have written the day on the back of the fourth page in chalk and it is the thirty-eighth day of the Long Month and nobody has to read it.**"
 
-**And a man of about thirty-two wrote her refusal into his own book with the date on it, in his own hand, and did not improve on it, and about four people in this city have said that a man who has spent a hundred and ninety-three days building an instrument has been refused by it in about nine seconds by a woman of about sixty-one with a barrow, and that he wrote it down.**
+**And a man of about thirty-two wrote her refusal into his own book with the date on it, in his own hand, and did not improve on it, and about four people in this city have said that a man who has spent a hundred and ninety-three days building an instrument has been refused by it by a woman of about sixty-one with a barrow, and that he wrote it down.**
 
 ---
 
@@ -70,7 +70,7 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register said the one thing that had to be said about a raft in a room in a hundred and ninety-three days, and she said it in four sentences and it is hers and it is in a book in this city and nobody improved on it and it is not the same sentence as the one she said in the second month of this flood, though it is about the same raft.**
+**The one thing that had to be said about a raft in a room in a hundred and ninety-three days was said by a woman of about twenty-nine who keeps a public register, and she said it in four sentences and it is hers and it is in a book in this city and nobody improved on it and it is not the same sentence as the one she said in the second month of this flood, though it is about the same raft.**
 
 "**A delegation of four people and a question has not left for the ground people call the First Landing, and nobody has been asked whether they will go, and I am not going to say why, because the reason is that a person who is asked is a person on a list, and a delegation is a number with legs and you can send a number and you cannot send a page.**
 
@@ -90,12 +90,12 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 "You are not going to keep refusing it as a way of not having it."
 
-"**No. I have given that up on the seventeenth day of the Long Month and I did not tell anybody and about four people in this city have worked out that I gave it up. I am not going to hold a page in my coat for a hundred and ninety-three days to be the only man in it, and I am not going to give it up in a yard, and it is going to sit in a coat and about four people are going to know it is there and about four hundred people are not, and that is the whole of the price of that page and I have paid it and I am not going to be thanked for it because I said in advance I would not be.**"
+"**No. I have given that up on the seventeenth day of the Long Month and I did not tell anybody and it is on the page that I gave it up. I am not going to hold a page in my coat for a hundred and ninety-three days to be the only man in it, and I am not going to give it up in a yard, and it is going to sit in a coat and about four people are going to know it is there and about four hundred people are not, and that is the whole of the price of that page and I have paid it and I am not going to be thanked for it because I said in advance I would not be.**"
 
-**And a woman of about thirty-four who keeps a stall by the wharf said one thing in a yard about that, and it is nine words, and it is the last thing anybody said in this chapter about a man of thirty-two.**
+**And a woman of about thirty-four who keeps a stall by the wharf said one thing in a yard about that, and it is six words, and it is the last thing anybody said in that room about a man of thirty-two.**
 
 "**Then stop being the only one.**"
 
 ---
 
-**And the last thing on the page is a plain slate with four sentences on it in a girl's own hand, and it is not her own, and she has not read it back and is not going to, and her own book has her name at the top of it and has had since the second month of this flood.**
+**A plain slate with four sentences on it in a girl's own hand, and it is not her own, and she has not read it back and is not going to.**

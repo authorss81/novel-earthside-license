@@ -2,7 +2,7 @@
 
 A man of about thirty-two walked nine miles up the upper road on the twenty-ninth day of the Long Month and a man of about forty-two had a room with a date in chalk on the door ready for him and had had it ready since about the sixth hour of the morning, and the offer was made in about nine sentences and the ninth one is the reason a man of forty-two is going to be a serious problem for four hundred miles.
 
-**It is a Wednesday. There are five days of the quarter left and a man of about thirty-two had said in a gateway three days ago that a settlement of a hundred and forty people would offer to pay for a question and that he had three days to work out how to stop it, and it took him three days and it did not work.**
+There are five days of the quarter left, and three days ago, in a gateway, a man of about thirty-two said that a settlement of a hundred and forty people would offer to pay for a question, and that he had three days to work out how to stop it. It is a Wednesday. It took him the three days and it did not work.
 
 ---
 
@@ -30,7 +30,7 @@ Jonah Pike put a printed sheet on the table before he said a word, which is his 
 
 **Six. Every word of the cost I read out to that household on the seventh day of the Long Month is true and so is this, and the reason I am telling you the reason is that you have spent a hundred and eighty-four days being careful about who pays for what and I would like to be careful about it in front of you rather than after.**
 
-**Seven. And I have not threatened anybody and I am not going to, and I have not moved anybody and I am not going to, and about four people in that workroom have said to me this week that the not-threatening is the frightening part, and I have not worked out what to do about that and I have not got to the bottom of it in nine weeks.**
+**Seven. And I have not threatened anybody and I am not going to, and I have not moved anybody and I am not going to, and about four people in that workroom have said to me this week that the not-threatening is the frightening part, and I have not worked out what to do about that and I have not got to the bottom of it in a hundred and thirty-five days.**
 
 **Eight. A wage paid out of somebody's own pocket is a favour and a favour is a thing that stops, and a wage paid out of a store by people who owe it is not a favour. This one is neither. This one is four months of a man who does not have to answer anybody.**
 
@@ -38,7 +38,7 @@ Jonah Pike put a printed sheet on the table before he said a word, which is his 
 
 ---
 
-**And nobody in that room said anything for about nine seconds, and about four people in this city have said that those nine seconds are the longest anybody in that store has ever been silent and that they were not silent because they were thinking, they were silent because a man had said the true reason out loud on purpose and about nine of them had not been ready for it.**
+**And the silence after that was the longest anybody in that store has ever been silent, and it was not silence because they were thinking. One of them put a hand flat on the table and left it there, and about nine of them had not been ready for a man to say the true reason out loud on purpose.**
 
 Then a woman of about thirty-four who keeps a stall by the wharf named the price, and she named it before anybody said yes or no, and that is her and has been hers for a hundred and eighty-four days, and she was on nothing and she said so first.
 
@@ -58,7 +58,7 @@ Then a woman of about thirty-four who keeps a stall by the wharf named the price
 
 **And a man of about thirty-two did not refuse it in four seconds and did not refuse it in four minutes either, and it took about nine, and about four people in that workroom counted, and the count is on the page because the count is the finding.**
 
-He asked one question, and he asked it properly, which is a thing he built in four days and used twice, and he gave it in writing to about nine people two days before and did not ask the person whether the day suited her.
+He asked one question, and he asked it properly, which is a thing he built in four days and used twice, and he gave it in writing to about nine people four days before and did not ask the person whether the day suited her.
 
 "**If nobody pays for it, who does.**"
 
@@ -80,8 +80,8 @@ And the woman of about thirty-six who is a public official and is on nobody's si
 
 Nobody in that workroom improved on it, and a man of about forty-two said one thing at the door afterwards to about nine people and it is in a book in this city in his own words.
 
-"**He is right. And I am going to make the same offer to about four other people in the next ten days, and every one of them is going to say the same thing, and in about four months a clerk nine hundred miles away is going to write something in a column, and it is going to be a person who was not paid, and I am going to have spent nine weeks of a hundred and forty people's wages on finding that out, and that is the correct outcome and I have no argument with it and I am not going to pretend I am not disappointed, and I have been disappointed for about four days and I did not know that was what it was until about the seventh hour this morning.**"
+"**He is right. And I am going to make the same offer to about four other people in the next ten days, and every one of them is going to say the same thing, and in about four months a clerk nine hundred miles away is going to write something in a column, and it is going to be a person who was not paid, and I am going to have spent four months of four men's wages out of a hundred and forty people's wages on finding that out, and that is the correct outcome and I have no argument with it and I am not going to pretend I am not disappointed, and I have been disappointed for about four days and I did not know that was what it was until about the seventh hour this morning.**"
 
 ---
 
-**And the last thing on the page is a blank printed sheet on a trestle board in a workroom nine miles up the upper road, with one page on it and nothing on that page, and a date in chalk on the door of that room, and five days of the quarter left in it.**
+**A printed sheet on a trestle board in a workroom nine miles up the upper road, with one page on it and nothing on that page.**

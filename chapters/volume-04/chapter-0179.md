@@ -2,7 +2,7 @@
 
 A wage came out of a store on the morning of the twenty-eighth day of the Long Month and went into nine hands on a flat eleven miles away, and about four people in this city have said that the two things that happened at about the ninth hour of that same morning, three hundred yards apart, had nothing to do with each other, and that they have had nothing to do with each other since the first day of this flood, and that a man of about thirty-two took four days to get to the other half of it and has not said it yet.
 
-**It is a Tuesday. The queue at the store up the road past this city works on a Tuesday and the wage went out on one, in the shape a man of about thirty-four in this city invented out of a stall, with the payer's name on the line and the paid man's off it. And on the same morning a woman of about thirty-six who is a public official and is on nobody's side was asked a question she is allowed to look at and not to answer, and she looked at it for about four minutes.**
+The queue at the store up the road past this city works on a Tuesday and this is a Tuesday, and the wage went out on one, in the shape a man of about thirty-four in this city invented out of a stall, with the payer's name on the line and the paid man's off it. And on the same morning a woman of about thirty-six who is a public official and is on nobody's side was asked a question she is allowed to look at and not to answer, and she looked at it for about four minutes.
 
 ---
 
@@ -92,6 +92,4 @@ Nobody answered her and about four people in that gateway have said since that n
 
 ---
 
-**And the last thing on the page is a page, in a hand that is not a clerk's, with a question in it in the second person, and a date on it, and a square of chalk dust on a table where a clerk of the fourth desk squared it, and six days.**
-
-**And on the twenty-eighth day of the Long Month the twenty-fifth day of a delay Adrian entered on day one hundred and sixty-four expires in six days, and he has not broken it, and it has cost a household nine days of a week, and on the last of the six a thing that was going to happen on a day is going to happen or it is not going to happen.**
+**The twenty-fifth day of a delay Adrian entered in his own hand on day one hundred and sixty-four runs out on the thirty-fourth day of the Long Month. He has not broken it and it has cost a household nine days of a week.**

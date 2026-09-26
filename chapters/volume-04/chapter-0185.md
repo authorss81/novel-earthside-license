@@ -2,7 +2,7 @@
 
 Nobody put anything in front of an office nine hundred miles away on the morning of the thirty-fourth day of the Long Month, and about nine people in a room over a market spent the whole of the day not doing that, and there was nothing to put and there had been nothing to put for thirty-five days, and about two hundred and forty people could hear out of the hall, the landing and the market below it and did not know what the day was for.
 
-**It is a Monday. The hearing was on the sixty-fourth day of the month after this one and it is over and there was one hearing and one clock, and the interval between the two is thirty-five days, and the thirty-four days of it are over, and there is no road in this world that reaches that building, nothing can be sent, and nothing could be prepared.**
+The hearing was on the sixty-fourth day of the month after this one and it is over, and there was one hearing and one clock, and the interval between the two is thirty-five days. It is a Monday and thirty-four days of that interval are over. There is no road in this world that reaches that building, nothing can be sent, and nothing could be prepared.
 
 ---
 
@@ -16,7 +16,7 @@ About nine people were in it at about the eighth hour of the morning. About two 
 
 "Then what are we doing."
 
-"**Waiting, and we have been waiting since the sixty-fourth day of the month after this one, and today is the last day of the waiting, and the finding of today is that a plan for thirty-five days has been a plan for waiting and not a plan for sending, and about four people in this city have known that since about the tenth day of the Long Month and about nine of them have not wanted to say it in a room.**"
+"**Waiting, and we have been waiting since the sixty-fourth day of the month after this one, and today is the last day of the waiting, and a plan for thirty-five days has turned out to be a plan for waiting and not a plan for sending, and about four people in this city have known that since about the tenth day of the Long Month and about nine of them have not wanted to say it in a room.**"
 
 ---
 
@@ -34,9 +34,9 @@ And the nine sentences are these, and they are in his own hand and he read them 
 
 ---
 
-**And a man of about forty-four who keeps a stall stood at the back of that room at about the eleventh hour and said something that about four people in this city have said is the only thing anybody got right in a hundred and eighty-nine days, and he said it once and has not said it since.**
+**At about the eleventh hour a man of about forty-four who keeps a stall stood at the back of that room and said something that about four people in this city have said is the only thing anybody got right in a hundred and eighty-nine days, and he said it once and has not said it since.**
 
-"**I have been asked one question properly in a hundred and eighty-nine days. It was on the forty-seventh day of the month after this one, in a room, in daylight, on a day I did not choose, and the question was given to me in writing four days beforehand, and I said no, and it took about four seconds, and I asked in advance not to be thanked and nobody thanked me, and the count of twenty-seven days is not going to be counted again.**"
+"**I have been asked one question properly in a hundred and eighty-nine days. It was on the forty-seventh day of the month after this one, in a room, in daylight, on a day I did not choose, and the question was given to me in writing four days beforehand, and I said no, and it took about four seconds, and I asked in advance not to be thanked and nobody thanked me, and the fifty-two days since that day are not going to be counted again.**"
 
 "And today."
 
@@ -66,11 +66,11 @@ And the nine sentences are these, and they are in his own hand and he read them 
 
 **The third hour of the afternoon.** A man of about forty-two came nine miles on foot and stood in the doorway of that room and did not come in, and about four people have said that a man who has been in about nine rooms in nine days and put a page on a table in three of them did not come in on the one day that mattered, and that nobody asked him why and he did not say.
 
-**The fifth hour of the evening.** A man of about thirty-four who keeps a stall and a woman of about thirty-four who keeps a stall by the wharf and a man of about thirty-four from a fourth household on the road were in a yard and a man of about thirty-nine who trades on the Open Hand board was at the top of the road and was not asked anything by anybody, and about four people in that yard have said that the whole of the fifth hour of the thirty-fourth day of the Long Month was four people who had nothing to do standing in a yard.
+**The fifth hour of the evening.** A man of about thirty-four who keeps a stall and a woman of about thirty-four who keeps a stall by the wharf and a man of about thirty-four from a fourth household on the road were in a yard and a man of about thirty-nine who trades on the Open Hand board was at the top of the road and was not asked anything by anybody, and the whole of the fifth hour of the thirty-fourth day of the Long Month was four people who had nothing to do standing in a yard.
 
 ---
 
-**And at about the sixth hour of the evening a man of about thirty-two said one thing out loud in that room and it is on the page because it is the only sentence in a hundred and eighty-nine days that anybody has improved on, and it is nine words, and a woman of twenty-four entered it in her own hand with the date on it and did not read it back.**
+**And at about the sixth hour of the evening a man of about thirty-two said one thing out loud in that room and it is on the page because it is the only sentence in a hundred and eighty-nine days that anybody has improved on, and it is six words, and a woman of twenty-four entered it in her own hand with the date on it and did not read it back.**
 
 "**It ends at the last hour.**"
 
@@ -88,7 +88,7 @@ Nobody asked what ended.
 
 ---
 
-**And at about the seventh hour of the evening, something that was due did not happen, and that is the finding of the thirty-fourth day of the Long Month, and it is in about nine sentences and it is the sharpest thing anybody in that room has said in a hundred and eighty-nine days, and a man of about thirty-nine who trades on the Open Hand board said it and he did not name a gate, a household or a person.**
+**And at about the seventh hour of the evening, something that was due did not happen, and a man of about thirty-nine who trades on the Open Hand board said what that is, in about nine sentences, and he did not name a gate, a household or a person.**
 
 "**A return was due today.**"
 
@@ -102,7 +102,7 @@ Nobody said anything.
 
 "It is not here."
 
-"**It is not here. And I want to say the next part and I want it said in about nine words because I have been walking about four miles of causeway and a road since the seventh week of this flood to be able to say nine words, and here they are: a thing that was going to arrive on a day and did not is a different kind of information from a thing that arrives.**"
+"**It is not here. And I want to say the next part and I want it said in twenty-four words because I have been walking about four miles of causeway and a road since the seventh week of this flood to be able to say twenty-four words, and here they are: a thing that was going to arrive on a day and did not is a different kind of information from a thing that arrives.**"
 
 Somebody at the back of the market said *how is it different.*
 
@@ -110,7 +110,7 @@ Somebody at the back of the market said *how is it different.*
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf said the half of it that nobody had said, and she has been on nothing for a hundred and eighty-nine days and she said so first, and she is the person in this book who names a price before anybody says yes.**
+**And a woman of about thirty-four who keeps a stall by the wharf said the half of it that nobody had said, and she has been on nothing for a hundred and eighty-nine days and she said so first, and she is the person in this city who names a price before anybody says yes.**
 
 "**It is not bad and it is not good and I am not going to have either word in a yard tonight, and about four people in this city have been waiting a hundred and eighty-nine days for a thing to come back from nine hundred miles and I am telling them now that when it comes it will be a figure and a form and a name that is not anybody's, and that nobody in four hundred miles can act on it and nobody in nine hundred miles can be asked anything about it before the next quarter.**"
 
@@ -122,6 +122,4 @@ Nobody made a sound and about four people in a yard in this city have said since
 
 ---
 
-**And the last thing on the page is a slate, in a hand that is not a clerk's and is not a woman's hand either, with a date on it that is not today, and about nine people have seen it, and it is the day a return was due, and it is four days behind the day the return actually came up a river, and the woman of twenty-four entered it in her own hand and did not improve on it and did not read it back.**
-
-**And the door of that room has a date in chalk on it and nobody washed it off and it is the thirty-fourth day of the Long Month and there are none of the quarter left in it and about two hundred and forty people can hear out of that room and about nine of them have said out loud that a thing which was going to arrive on a day and did not is a different kind of information from a thing that arrives, and about nine of them said it in the same words, and that is the only time in a hundred and eighty-nine days that about nine people in this city have said a sentence in the same words without one of them having written it down first.**
+**A slate in a hand that is not a clerk's and is not a woman's hand either, with a date on it that is four days behind the day the return came up a river. The woman of twenty-four entered it in her own hand and did not read it back.**

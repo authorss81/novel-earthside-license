@@ -2,7 +2,7 @@
 
 A man of about thirty-two walked nine miles up the upper road on the thirty-third day of the Long Month and a man of about forty-two had a room with a date in chalk on the door and about nine people in it on a Sunday, and about nine of those people have said since that the two men in that room said about nine sentences each and that neither of them got what he came for, and that the only thing that came out of it is a date neither of them will claim.
 
-**It is a Sunday. There is one day of the quarter left and it is tomorrow, and a man of about thirty-four who keeps a stall said that number out loud in a workroom at about the eleventh hour of the morning and about nine people heard it and about nine of them had been carrying it for about nine days.**
+There is one day of the quarter left and it is tomorrow, and it is a Sunday, and a man of about thirty-four who keeps a stall said that number out loud in a workroom at about the eleventh hour of the morning, and about nine people heard it, and about nine of them had been carrying it for about nine days.
 
 ---
 
@@ -22,13 +22,13 @@ Nobody had summoned the meeting-ground and it cannot be summoned, because it is 
 
 The first is that nobody from the store goes to the meeting-ground.
 
-"**Nobody from my store goes to the meeting-ground on the seventh day from now,**" said the man of about forty-two, "**and I will not send a man of about twenty-nine with a printed sheet, and I will not send nine people with bars, and I will not send anybody, and that is the first thing I have said in about nine weeks that I have not got a reason for.**"
+"**Nobody from my store goes to the meeting-ground on the seventh day from now,**" said the man of about forty-two, "**and I will not send a man of about twenty-nine with a printed sheet, and I will not send nine people with bars, and I will not send anybody, and that is the first thing I have said in about a hundred and thirty-nine days that I have not got a reason for.**"
 
 "You have got a reason."
 
-"**I have got a reason and I have not got a nine-sentence reason and that is a thing I have not said out loud in a room in nine weeks and I am not going to do it now.**"
+"**I have got a reason and I have not got a nine-sentence reason and that is a thing I have not said out loud in a room in a hundred and thirty-nine days and I am not going to do it now.**"
 
-**And the man of about thirty-nine who trades on the Open Hand board said the reason in nine words and about nine people in that workroom wrote it down and nobody improved on it, and it is on the page because the man of about forty-two did not say it and would have said it wrongly.**
+**The reason came from the man of about thirty-nine who trades on the Open Hand board, in thirty-one words, and about nine people in that workroom wrote it down and nobody improved on it, and it is on the page because the man of about forty-two did not say it and would have said it wrongly.**
 
 "**He sent people with bars on Saturday and nine of the flats pulled the same rope. If he sends anybody to a raft it is a fact that he was there.**"
 
@@ -36,7 +36,7 @@ The second is that the store shuts.
 
 "And the store."
 
-"**The store shuts on a Sunday. It has not shut on a Sunday in nine weeks and it is not going to shut on a Sunday in about four months and it is the only day anybody in this store has ever had that was not a Tuesday. About a hundred and forty people get paid on a Tuesday and about nine of them have nowhere to be on a Sunday and about nine of those nine have not had a day off in nine weeks.**"
+"**The store shuts on a Sunday. It has not shut on a Sunday in a hundred and thirty-nine days and it is not going to shut on a Sunday in about four months and it is the only day anybody in this store has ever had that was not a Tuesday. About a hundred and forty people get paid on a Tuesday and about nine of them have nowhere to be on a Sunday and about nine of those nine have not had a day off in a hundred and thirty-nine days.**"
 
 "Then the seventh day from now is a Sunday and the store is shut and nobody is in it."
 
@@ -44,13 +44,13 @@ The second is that the store shuts.
 
 ---
 
-**And the man of about thirty-two asked for one thing and got it, and got it in a form he did not ask for, and about nine people in that room have said that the form it came in is the reason he has not been able to use it.**
+**And the man of about thirty-two asked for one thing and got it, and got it in a form he did not ask for, and the form it came in is the reason he has not been able to use it.**
 
 "I want four days' notice," he said, "**before anything goes to a meeting-ground. Four days, in writing, to about nine people, with the words in my own hand and not read out of a page, and a date on it, and I will not break it.**"
 
 "**Why.**"
 
-"**Because a question carried into a room by a person who is not a party to it is the only instrument a man with no standing has, and I have had about four days since I asked a woman of about thirty-six a correct question in a gateway and got a correct answer and the household is nine days of a week poorer for it. And I am not going to walk into a room with a thing I have been carrying for four days. That is the whole of the reason and I have not improved on it.**"
+"**Because a question carried into a room by a person who is not a party to it is the only instrument a man with no standing has, and I have had about five days since I asked a woman of about thirty-six a correct question in a gateway and got a correct answer and the household is nine days of a week poorer for it. And I am not going to walk into a room with a thing I have been carrying for four days. That is the whole of the reason and I have not improved on it.**"
 
 Jonah Pike wrote something on a printed sheet, which is his, and has been his since the hundred and fifty-fifth day of this flood, and then he did not hand it over, and about four people in that room noticed.
 
@@ -58,15 +58,15 @@ Jonah Pike wrote something on a printed sheet, which is his, and has been his si
 
 "You said—"
 
-"**I said on the seventeenth day of the Long Month that a settlement runs out of a queue, and about four people in this workroom have written that down and it is correct, and I have had a page of my own since the thirteenth day of the Long Month with no date on it and no place on it and nothing in it anybody could be obliged to do, and I have never handed anybody a page in nine weeks, and I am not going to hand you four days, because four days on a sheet with a date on it is a thing with a post in it, and I have taken the post out of everything else and I am not going to put one back in for you.**"
+"**I said on the seventeenth day of the Long Month that a settlement runs out of a queue, and about four people in this workroom have written that down and it is correct, and I have had a page of my own since the thirteenth day of the Long Month with no date on it and no place on it and nothing in it anybody could be obliged to do, and I have never handed anybody a page in a hundred and thirty-nine days, and I am not going to hand you four days, because four days on a sheet with a date on it is a thing with a post in it, and I have taken the post out of everything else and I am not going to put one back in for you.**"
 
 "Then what are you giving me."
 
-"**A date. The seventh day from now, which is a Sunday, which is the fortieth day of the Long Month, which is six days after the quarter runs out, and the store is shut, and I have put it on a page with my name at the top of it and the day on it and about a hundred and forty people's day on it and nothing else on it, and I am going to hand it over now, and about four people in this room are going to say that is a post with less in it, and they are right, and I have worked out in about four minutes that I would rather be answerable on a day than be unanswerable on no day at all, and that is a thing a man from another world arrived at about nine weeks ago and I have got it from the other end again.**"
+"**A date. The seventh day from now, which is a Sunday, which is the fortieth day of the Long Month, which is six days after the quarter runs out, and the store is shut, and I have put it on a page with my name at the top of it and the day on it and about a hundred and forty people's day on it and nothing else on it, and I am going to hand it over now, and about four people in this room are going to say that is a post with less in it, and they are right, and I have worked out in about four minutes that I would rather be answerable on a day than be unanswerable on no day at all, and that is a thing a man from another world arrived at a hundred and eighty-seven days ago and I have got it from the other end again.**"
 
 ---
 
-**And the man of about thirty-two took the page and read it and did not say whether it was enough, and the thing that is settled is a date, and neither of them won it, and about nine people in that workroom have said that the reason neither of them won it is that a man of forty-two has never once in nine weeks been on his side, and a man of about thirty-two has not been on his own side since the sixty-fourth day of the month after this one, and the two of them arrived at a Sunday in about four minutes each from opposite ends of a question.**
+**And the man of about thirty-two took the page and read it and did not say whether it was enough, and the thing that is settled is a date, and neither of them won it, and the reason neither of them won it is that a man of about forty-two has never once in a hundred and thirty-nine days been on his side, and a man of about thirty-two has not been on his own side since the sixty-fourth day of the month after this one, and the two of them arrived at a Sunday in about four minutes each from opposite ends of a question.**
 
 "Six days after the quarter runs out."
 
@@ -78,7 +78,7 @@ Jonah Pike wrote something on a printed sheet, which is his, and has been his si
 
 ---
 
-**And a man of about forty-four who keeps a stall said the one thing in that workroom that nobody had asked for, and it is nine words, and about four people in that room have written it down and about nine have not told anybody.**
+**One thing was said in that workroom that nobody had asked for, and it was eight words long and it came from a man of about forty-four who keeps a stall, and it is eight words, and about four people in that room have written it down and nobody has told anybody.**
 
 "**He is going to stand at the back.**"
 
@@ -88,7 +88,7 @@ Nobody asked him how he knew.
 
 "You think he is going to."
 
-"**I think he is going to be asked to, by somebody who cannot be refused, and I think it is going to be a raft, and I think about four people are going to be furious about it, and I have said the whole of it in nine words and I am not going to say one more.**"
+"**I think he is going to be asked to, by somebody who cannot be refused, and I think it is going to be a raft, and I think about four people are going to be furious about it, and I have said the whole of it in eight words and I am not going to say one more.**"
 
 ---
 
@@ -104,4 +104,4 @@ Nobody asked him how he knew.
 
 "**I do not know. And I have been asked that in a yard and in a gateway and in a room over a market and I have said no four times, and I am not going to say it a fifth time in a fortnight to a person who has not been asked whether today suits her, and she is seventeen and I have said that out loud before and I am saying it again because I want it on a page that is not a page.**"
 
-**And the last thing on the page is a printed sheet with a man's name at the top of it and a day on it and about a hundred and forty people's day on it and nothing else on it, and a chalk date on a door in chalk nine miles back down a road, and one day of the quarter left in it.**
+**A printed sheet with a man's name at the top of it, a day on it, and about a hundred and forty people's day on it, and nothing else on it.**

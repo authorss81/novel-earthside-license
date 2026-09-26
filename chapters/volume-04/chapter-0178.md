@@ -2,7 +2,7 @@
 
 Nine hundred measures of salt went out of the Reach on a barrow and a sledge and about four people's backs on the morning of the twenty-seventh day of the Long Month, and they went up a causeway of four miles that is four feet wide at the top and took forty days to build, and about nine households on the flats stood at the bottom of it and watched the whole of it go.
 
-**It is a Monday. This is the first load. There has been a store and a queue and a wage and a rota since the seventh week of this flood and there has never been anything in four hundred miles that anybody could buy, and there is one thing on the Reach that a person can sell to somebody nine hundred miles away, and it went up a causeway this morning on a Tuesday's worth of somebody's back.**
+This is the first load, and it is a Monday. There has been a store and a queue and a wage and a rota since the seventh week of this flood and there has never been anything in four hundred miles that anybody could buy, and there is one thing on the Reach that a person can sell to somebody nine hundred miles away, and it went up a causeway this morning on a Tuesday's worth of somebody's back.
 
 ---
 
@@ -22,7 +22,7 @@ And the man of forty-two could not do it, and said so in about four seconds, and
 
 ---
 
-**And nine households watched it, and the watching is the chapter, and it was not watching a triumph and it was not watching a defeat, and about four people in this city have said that the reason is that nobody on that flat knows what to do with the sight of nine hundred measures of salt going away, because the thing it does is the only thing anybody has ever been able to do with salt.**
+**And nine households watched it, and the watching is the chapter, and it was not watching a triumph and it was not watching a defeat, and the reason is that nobody on that flat knows what to do with the sight of nine hundred measures of salt going away, because the thing it does is the only thing anybody has ever been able to do with salt.**
 
 There are about nine hundred measures a week and one buyer nine hundred miles away who has never been on this side of the water, and the settlement is not a trading post and says so itself, and there is no other way out of the Reach flats with a load on it, and any other route is four miles of causeway and forty days.
 
@@ -40,7 +40,7 @@ Nobody went and looked at the quay.
 
 **And the load went up the causeway and through the gate, and the gate is at the bottom of the channel, and the days on it belong to a household of three, and about nine hundred measures went through it between the tenth hour and about the fourth hour of the afternoon, and a woman of about thirty-eight who keeps that gate stood at it for the whole of that time and did not stop one barrow and did not say one word to anybody.**
 
-The board was in her left hand. It was in her left hand all afternoon. About four people on that flat have said that the board was in her left hand for the whole of the twenty-seventh day of the Long Month and that the tell is nine years old and that nobody improved on it, and that a barrow of nine measures went past her about four hundred times and that she counted none of them and that this is the only thing she did all day.
+The board was in her left hand. It was in her left hand all afternoon. The board was in her left hand for the whole of the twenty-seventh day of the Long Month, the tell is nine years old, and nobody improved on it, and that a barrow of nine measures went past her about four hundred times and that she counted none of them and that this is the only thing she did all day.
 
 A man of about thirty-four who keeps a stall came past at about the fifth hour of the afternoon and stopped, and did not say anything about the day, and she said one thing to him, and it is the only thing she said between the seventh hour of the morning and the seventh hour of the evening.
 
@@ -82,7 +82,7 @@ He had walked it before. He said so, and he said how many times, and he did not 
 
 And that is the sentence, and it is in a book in this city in his own words, and he said it once on the twenty-seventh day of the Long Month and has not improved on it and nobody has.
 
-"**A gate is not owned. A household has the days on a gate, and a household gives the days, and a household that gives the days still has the gate, and if you cannot get the days back from the people you can ask the community that grants them and the community can take them back. I have read a page about that twice this week and I have not been in a room about it and I have not been asked anything and I have not wanted to be asked anything.**"
+"**A gate is not owned. A household has the days on a gate, and a household gives the days, and a household that gives the days still has the gate, and the days go back to the one household that gave them and to nobody else, and there is no body anywhere that can take them off her. I have read a page about that twice this week and I have not been in a room about it and I have not been asked anything and I have not wanted to be asked anything.**"
 
 "And the causeway."
 
@@ -96,4 +96,4 @@ And that is the sentence, and it is in a book in this city in his own words, and
 
 **And at about the seventh hour of the evening, in a yard in this city eleven miles away, a man of about thirty-four who keeps a stall wrote nine hundred and nine on a slate and did not read it back, and about nine people in that yard said that the first thing anybody in four hundred miles has ever been able to buy from the Reach is on a slate in a yard in a market, and the second thing is that the payer's name is on it and the paid man's is not, and that both of those things came from this city and neither of them was told to anybody.**
 
-**And the last thing on the page is a sledge at the top of a causeway of four miles with nine hundred measures gone up it and about nine measures in the water at the bottom, and a gate at the bottom of a channel that is open, and a board in a woman's left hand.**
+**A barrow of nine measures went past a woman at the gate about four hundred times on the twenty-seventh day of the Long Month and she counted none of them. The board was in her left hand for the whole of it.**

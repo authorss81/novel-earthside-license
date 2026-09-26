@@ -2,7 +2,7 @@
 
 A cart came up the Reach road on the thirty-fifth day of the Long Month in the ordinary course, on its way to somewhere else, and a thing in it was a return, and a girl of about seventeen read four lines of it out in a room over a market in daylight with a date in chalk on the door, and nobody had sent for the cart and nobody had sent anything in it.
 
-**It is a Tuesday. The queue at the store up the road past this city works on a Tuesday and about nine hundred measures of salt went up a causeway of four miles on the same morning, and a queue worked, and a hundred and forty people were paid, and none of that had anything to do with the cart and all of it happened.**
+About nine hundred measures of salt went up a causeway of four miles on the same morning, and the queue at the store up the road past this city worked on a Tuesday, and a hundred and forty people were paid, and none of that had anything to do with the cart, and all of it happened.
 
 ---
 
@@ -42,7 +42,7 @@ A cart came up the Reach road on the thirty-fifth day of the Long Month in the o
 
 ---
 
-**And the woman of about thirty-four who keeps a stall by the wharf said the thing that about four people in that room had not thought of, and she has been on nothing for a hundred and ninety days and she said so first, and it is in a book in this city in her own words.**
+**The thing that about four people in that room had not thought of was said by the woman of about thirty-four who keeps a stall by the wharf, and she has been on nothing for a hundred and ninety days and she said so first, and it is in a book in this city in her own words.**
 
 "It is a return and not a change."
 
@@ -60,7 +60,7 @@ A cart came up the Reach road on the thirty-fifth day of the Long Month in the o
 
 ---
 
-**And about nine people who live in this city have seen the second return and about four of them have read it, and the four are on a rota in a converted salt store under a lock chapel, and one of the four is a woman of about seventy of a village of nine households who has refused four times and has never been asked, and she was asked about it on the thirty-fifth day of the Long Month by a man of about thirty-four who keeps a stall, and she answered in four words and the four words are on the page and nobody improved on them.**
+**And about nine people who live in this city have seen the second return and about four of them have read it, and the four are on a rota in a converted salt store under a lock chapel, and one of the four is a woman of about seventy of a village of nine households who has refused four times and has never been asked, and she was asked about it on the thirty-fifth day of the Long Month by a man of about thirty-four who keeps a stall, and she answered in five words and the five words are on the page and nobody improved on them.**
 
 "**They have counted us again.**"
 
@@ -68,7 +68,7 @@ A cart came up the Reach road on the thirty-fifth day of the Long Month in the o
 
 "**We have been counted again and we have not been asked and we are not going to be asked, and I have said that four times and I am not going to say it a fifth, and you have come up here and asked me about a number and I have answered you and now go away and do not come back about it.**"
 
-He did not come back about it. It is entered that he did not, and that about four people in this city have said that a man of about thirty-four who keeps a stall asked a woman of seventy a question in a yard and was answered in four words and then went away, and that the going away is the whole of what has happened in this book for a hundred and ninety days and that nobody can put it on a page because a page is a place a person can be found in and he was not.
+He did not come back about it. It is entered that he did not, and that about four people in this city have said that a man of about thirty-four who keeps a stall asked a woman of seventy a question in a yard and was answered in five words and then went away, and that the going away is the whole of what has happened here for a hundred and ninety days and that nobody can put it on a page because a page is a place a person can be found in and he was not.
 
 **And about four people in that room have said that the sharpest sentence anybody has said about a number in a hundred and ninety days was said by a person who has no interest in the number at all and is not on the page and has never been on a page, and that it is on the page here because four people wrote it down, and not one of the four wrote it down at the time.**
 
@@ -84,14 +84,14 @@ He did not come back about it. It is entered that he did not, and that about fou
 
 "**No. And I am not going to try, and I have said that four times since Friday and I am going to stop saying it, and about four people in this city have been waiting for me to say something different and I have got nothing different and I am a public official and I am on nobody's side and I would like that entered a fifth time.**"
 
-**And about four people in this city have said that a clerk who came four hundred yards and stood in a gateway and would not come in is a shape this book has had four times and that this is the fifth and that it is the last one anybody in this city is going to get out of her.**
+**And about four people in this city have said that a clerk who came four hundred yards and stood in a gateway and would not come in is a shape this city has had four times and that this is the fifth and that it is the last one anybody in this city is going to get out of her.**
 
 ---
 
-**And the finding of the thirty-fifth day of the Long Month is not in the number and it is in the cart, and a man of about thirty-nine who trades on the Open Hand board said it on a road at about the sixth hour of the evening, and he did not name a gate, a household or a person, and about nine people have written it down since in their own hands and about four of them have improved on it and the improvements are wrong.**
+**And it is not in the number. It is in the cart, and a man of about thirty-nine who trades on the Open Hand board said so on a road at about the sixth hour of the evening, and he did not name a gate, a household or a person, and about nine people have written it down since in their own hands and about four of them have improved on it and the improvements are wrong.**
 
 "**It came up the road in a cart that was going somewhere else. That is the whole of the sharpest thing anybody has said about this flood in a hundred and ninety days and I have not improved on it in nine minutes and I am not going to. The cart was not sent for it. Nobody knew it was on the cart. Nobody chose the day it arrived. And in about four months a clerk nine hundred miles away is going to be able to say that this city's district was returned correctly and this city is not going to be able to say that anything stopped it, because nothing did, and a thing that is correct and unhurried and in the ordinary course cannot be argued with by anybody, and I have been standing on that road since Friday and I have been waiting to find a way to stop it and I have not found one and I am not going to.**"
 
 ---
 
-**And the last thing on the page is a cart going up a Reach road with about nine hundred measures of salt on a sledge behind it and nothing else anybody has to look at, and a return in a book in this city with a district on it and a number on it and a line that says the district assented and no person's name anywhere on it, and two dates on the wall of a converted salt store under a lock chapel, and the older of the two is a correct number about a district and it cannot be stopped by anybody in this city.**
+**Two dates on the wall of a converted salt store under a lock chapel, and the older of the two is a correct number about a district, and it cannot be stopped by anybody in this city.**

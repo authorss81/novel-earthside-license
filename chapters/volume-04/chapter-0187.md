@@ -1,8 +1,8 @@
 # Chapter 0187 — Ninety-Five
 
-A pale field came up in front of a man of about thirty-two at about the ninth hour of the morning on the thirty-sixth day of the Long Month and was gone before it had finished arriving and said four short things about gates and about being findable, and he said no before it had finished going away, and a person in the room named the cost out loud, and the count of this city's silences was ninety-five this morning and it was ninety-five yesterday and it does not move on a day the wall says something.
+A pale field came up in front of a man of about thirty-two at about the ninth hour of the morning on the thirty-sixth day of the Long Month and was gone before it had finished arriving and said nine short sentences in four lines about gates and about being findable, and he said no before it had finished going away, and a person in the room named the cost out loud, and the count of this city's silences was ninety-five this morning and it was ninety-five yesterday and it does not move on a day the wall says something.
 
-**It is a Wednesday. The count of days this city has got nothing out of a wall is ninety-five and it was ninety-five yesterday and it was ninety-four on Monday, and a day the wall says something on is not one of the days, and that rule has not moved since the fourth day of the month after this one and it is not going to move today, and about four people in that room know the rule and about five of them have never heard it.**
+A day the wall says something on is not one of the days. It is a Wednesday and the count of days this city has got nothing out of a wall is ninety-five, and it was ninety-five yesterday, and it was ninety-four on Monday, and that rule has not moved since the fourth day of the month after this one and it is not going to move today. About four people in that room know the rule and about five of them have never heard it.
 
 ---
 
@@ -22,7 +22,7 @@ The field is not a light. It is in front of him and it is not in front of anybod
 
 ---
 
-**And the woman of about thirty-four who keeps a stall by the wharf named the cost before she said anything else, and she has been on nothing for a hundred and ninety-one days and she said so first, and it is her and it is the fourth time in this book and it is not going to be improved on by anybody including her.**
+**The cost was named before anything else was said, by the woman of about thirty-four who keeps a stall by the wharf, and she has been on nothing for a hundred and ninety-one days and she said so first, and it is hers and it is the fourth time in this city and it is not going to be improved on by anybody including her.**
 
 "**It costs the name. It costs the name you did not choose.**"
 
@@ -32,23 +32,23 @@ The field is not a light. It is in front of him and it is not in front of anybod
 
 "And now."
 
-"**And now the wall has put the price and the gate in one field in four sentences and has not said one word about anybody by name, and the two halves of it are the same thing, and a man who is findable can be sent into any room and cannot be sent to a gate, and you are the most findable person in this world and you said so yourself in front of about two hundred and forty people on the sixty-fourth day of the month after this one, and you said it was not a safety, and I have been waiting a hundred and ninety-one days for a reason that was not a person to come back with and it has come back as a mechanism and I am not going to pretend I like it.**"
+"**And now the wall has put the price and the gate in one field in four lines and nine sentences and has not said one word about anybody by name, and the two halves of it are the same thing, and a man who is findable can be sent into any room and cannot be sent to a gate, and you are the most findable person in this world and you said so yourself in front of about two hundred and forty people on the sixty-fourth day of the month after this one, and you said it was not a safety, and I have been waiting a hundred and ninety-one days for a reason that was not a person to come back with and it has come back as a mechanism and I am not going to pretend I like it.**"
 
 "You are saying the name stops me."
 
-"**I am saying the name is why you cannot go to a gate, and that a name you cannot be given up is a name you cannot hand on, and a man of about thirty-four who keeps a stall worked that out in about four minutes in a room on the eighteenth day of the Long Month and said it in a hall and about two hundred and forty people heard it, and I have been carrying that sentence for nine days and I have just found out what it weighs.**"
+"**I am saying the name is why you cannot go to a gate, and that a name you cannot be given up is a name you cannot hand on, and the man who gave me the word for it was a man of about twenty-nine in a workroom on the seventeenth day of the Long Month and he said *findable* and he was right, and what I have added to it since is mine, and I have been carrying it for eighteen days and I have just found out what it weighs.**"
 
-"**Then I gave it away in a room and I did not know what it was for, and now I do, and the thing it is for is stopping me, and I would like it entered that a man of thirty-two has said the whole of that out loud in about nine seconds and did not improve on it.**"
+"**Then I gave it away in a room and I did not know what it was for, and now I do, and the thing it is for is stopping me, and I would like it entered that a man of thirty-two has said the whole of that out loud once and did not improve on it.**"
 
 ---
 
 **And then the rest of the day takes eleven hours, and what is in it is not a gain, and a woman of about twenty-four entered that in her own words and would not be asked for it twice.**
 
-It did not give a date. It did not give a room. It did not name a person. It did not say what happens if a household says no. It did not say what a gate is. **It said four things that this city had worked out for itself in about nine days and it said them in the plainest language anybody has used in this world, and it put two of them in one field, and it did not do a single thing that a person in that room had to do.**
+It did not give a date. It did not give a room. It did not name a person. It did not say what happens if a household says no. It did not say what a gate is. **It said nine sentences in four lines that this city had worked out for itself in about nine days and it said them in the plainest language anybody has used in this world, and it put two of them in one field, and it did not do a single thing that a person in that room had to do.**
 
 "Somebody should write it down," said a man of about thirty-four who keeps a stall.
 
-"**Nobody is going to write it down and I would like that entered before anybody asks me why. It is four sentences and it is the language of obligations and it is not a document and it does not have a maker and it cannot be produced again, and if it is written down then it is a thing a person said, and a person said a thing that a wall said, and in about four months somebody is going to ask where a person got it.**"
+"**Nobody is going to write it down and I would like that entered before anybody asks me why. It is four lines and nine sentences and it is the language of obligations and it is not a document and it does not have a maker and it cannot be produced again, and if it is written down then it is a thing a person said, and a person said a thing that a wall said, and in about four months somebody is going to ask where a person got it.**"
 
 "It is true, though."
 
@@ -98,10 +98,10 @@ Somebody in the hall asked her what she thought it meant.
 
 "What do you think it is."
 
-"**I do not know. And I have been refused by name four times in four years and I have stood on a quay for four days in case anything came and what came was salt, and I have spent a hundred and ninety-one days deciding that a thing I cannot check is not a thing I should be afraid of, and I am afraid of that, and I am going to say so in about four words and then I am going to go and stand on a road.**"
+"**I do not know. And I have been refused by name four times in four years and I have stood on a quay for four days in case anything came and what came was salt, and I have spent a hundred and ninety-one days deciding that a thing I cannot check is not a thing I should be afraid of, and I am afraid of that, and I am going to say so in five words and then I am going to go and stand on a road.**"
 
-**And he said four words and they were: *I cannot check that either.***
+**And he said five words and they were: *I cannot check that either.***
 
 ---
 
-**And the last thing on the page is a slate under a girl's arm with a number on it that came out of a man's mouth at the ninth hour of the morning and did not go in one, and a printed sheet nine miles up a road with a man's name at the top of it and a Sunday on it, and four days between here and that Sunday, and about nine people in this city have said that a wall which says four true things and asks for nothing is the most frightening thing in four hundred miles and that a settlement of a hundred and forty people with a queue that works on a Tuesday is not.**
+**Ninety-five on a slate under a girl's arm, and it did not go in one today, and there are four days between here and the Sunday a raft has to be poled on.**

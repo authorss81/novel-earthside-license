@@ -1585,7 +1585,7 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48�
 
 ## A man of about forty-four who keeps a stall — he keeps the cost column in his own book for four years
 
-**He said the cost column out loud in a room on the thirty-seventh day of the Long Month: eleven entries in one month, no figure on the end of any of them, no twelfth, one field paid on the thirteenth day of the Long Month and the column did not move, and that is twenty-eight days ago, and the cost is that he has been a column for four years for nobody.** He said nine words in a workroom on the thirty-third day of the Long Month: *he is going to stand at the back*, and about nine people wrote it down and about four have not been told.
+**He said the cost column out loud in a room on the thirty-seventh day of the Long Month: eleven entries in one month, no figure on the end of any of them, no twelfth, one field paid on the thirteenth day of the Long Month and the column did not move, and that is twenty-four days ago, and the cost is that he has been a column for four years for nobody.** *The first write of this line said twenty-eight; the repair pass recomputed it from the anchor, day 192 less day 168.* He said eight words in a workroom on the thirty-third day of the Long Month: *he is going to stand at the back*, and about nine people wrote it down and about four have not been told.
 
 ## A man of about thirty-nine who trades on the Open Hand board — he does not name a gate, a household or a person
 
