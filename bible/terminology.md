@@ -398,3 +398,65 @@ Three on the night of the twenty-ninth day of the new month and four on the nigh
 
 ### A door that is a room and not a road
 What the Narrow Mark is. A room with no window and no door anybody has found, about eleven people have stood in it, and the licence opens it for one named person at a time. **It is not a way home and cannot be made into one from this side.** Chapter 0051.
+
+## Terms established in Volume 02, Chapters 61–70
+
+### Turning up
+The ordinary word in Saltwake for work. **There is no word in the local language for a person who has nothing to do** — there are four, and all four are about a place: *idle* means not at a bench, *out of a crew* means the crew does not owe you, *spare* means a slack moment of a season. A man who asks this city a question about work in the wrong language gets four wrong answers and none of them is anybody's fault. Chapter 0061.
+
+### Nineteen lines
+What a person in this city may be asked to turn up for, written by a woman of thirty-four with a bar in about eleven minutes: one thing, on one morning, at a night's notice, at the ordinary rate, named in the person's own words before the person is asked, with no name at the top of anything, and with the nineteenth line being a question — *a person may be asked whether he is able to do a thing.* **A widening and not a rota, and the second time anybody in this city has said a working can be made cheaper without being made private, and the first time it has been said about a person instead of a door.** Chapter 0061.
+
+### The rule that does both jobs
+The clause that protects a household from being asked a third time after a second, and is the same clause that makes a person who did not turn up unfindable. **The rule is doing both jobs at once and only one of the two jobs is about the house.** Not a fault; a shape. Chapter 0061.
+
+### A hole in a page
+A place where a number used to be, and not a smaller number. The girl of seventeen's sentence, entered under the roll of strangers when eleven people of the second list went into the book and not into the case. Chapter 0062.
+
+### One fact, both ways
+A roll is the only thing in this world that makes a person findable, and being on no roll is at the same time the protection and the disappearance. **A person cannot have one without the other.** Chapter 0062, worked out by a woman of twenty-nine in about an hour on a salt bin, and independently said by a quartermaster with a ledger who did not know she was saying it.
+
+### Eleven ounces
+The fee. About forty ounces in eleven private places in Saltwake and no silver a city can use. **The credit of this city is not a chest of silver. It is a list of about eleven people who each believe they are the reason something happened.** Chapter 0063.
+
+### A levy on a thing nobody is using is a tax and I know that
+Fifteen words from a carter on the upper road, and the fourth refusal in the first Wayhouse, and the reason a keeper is not paid, a road is not paid, and the levy is paid by the trade whether or not anybody sleeps in the house. Chapter 0064.
+
+### A board anybody can read is a thing anybody can copy
+The finding of the first Wayhouse, dramatised rather than explained: four householders' names in chalk in a yard, taken down in daylight, read out before they were washed, and copied onto a page with a date. **Nobody in that yard said the word *legal* and about nine people had it in their heads.** Chapter 0064.
+
+### Being useful is not safe and is not unsafe, it is a description
+Nadia Brandt's sentence, said in nineteen sentences to two men who were both arguing about the wrong thing. Chapter 0066.
+
+### The one offer that was refused by nine seconds
+The twentieth field, which said a holder's work may be described in any document in her own words without anybody asking her first and that nobody may be asked to describe it. **The holder said yes in four seconds. Adrian refused in under a second. The room refused in nine seconds because a page exists and nine people can read one out loud.** A rule about a thing did not stop it; a page did; and a page is not a rule and does not stand up on its own. Chapter 0065, and the pre-echo of the shrine.
+
+### An office that will take your goods for its fee
+Renner Sallow's thirty words: *an office that will take your goods for its fee is telling you what it thinks you are, and it is also telling you what it thinks you will be.* Chapter 0067, and the first time he has ever written a sentence like it.
+
+### A price on good faith
+What a district has when it can pay a fee in the only thing it has. **A Crown office that will take salt for silver is a Crown office that wants salt, and the district that can pay a fee in the only thing it has is a district whose good faith has a price on it and a buyer.** Chapter 0067.
+
+### A mechanism
+What a thing an office knows it can make a district do is. Not a favour, not a courtesy, not even a bargain. The third part of the refusal of the twenty-first field, which is the first field in the series that offers to **describe a place** rather than to give a person a standing. Chapter 0067.
+
+### A review's questions
+**Not a list of subjects. A decision about what the answer is allowed to be.** The four drafts that came first, the eleven questions that stayed, and the second page headed *what we are not asking and why*, nineteen reasons in nineteen hands, entered as part of the instrument and not as an annexe. Chapter 0068.
+
+### Who is able to answer
+The difference between a question a city asks when it wants to keep a door and a question a city asks when it wants to be able to close one. Not the tense, not the mood. Chapter 0068, and the standing test for any page in this series: **a question only somebody the room can be angry at can answer is a mechanism.**
+
+### A second page, sent beside the questions
+A page about what a city is not asking, sent by itself, is a thing an office can answer in one line. Sent beside the eleven questions it is a thing an office has to answer in a paragraph. **A notary chose the longer answer for them and against herself in nine seconds.** Chapter 0068.
+
+### A favour you cannot refuse is not a favour
+Ilda Marsh's twenty-five words, said standing in her own house to a Crown officer who had made a refusal affordable with the Crown's own fifth clause, correctly, in the form required. **The village is right and cannot afford to be right.** Chapter 0069.
+
+### By a page
+Hessa Ruun's second half: when a thing is affordable, the people who cannot afford it look like the people who do not care, and that is how a quarter of a Reach goes. Not by a door and not by a flood. Chapter 0069.
+
+### What are they called
+Four words, on the back of a slate, in a woman's own hand over a girl's fingers as a rest, because she cannot read. **It is the only question on either page of the review that could lose the licence on its own, because the moment a review answers it the licence is gone: a description is a removal with a column for where the person is, and the column is a roll, and a roll goes to Aurel four times a year in a wooden case.** It stays on the slate because a question that is visible can be argued with, and that is all a question ever was. Chapter 0070.
+
+### Nineteen lines and a slate
+The number of things the review will not ask, and the number of questions it will. Both on the same nail as a form with four items, the price of the salt written under them, and a fifth item that is a question and not a duty. **A slate and not a page, because a page is in a book and a book goes in a case, and a slate is a thing you can read standing up in the rain.** Chapter 0070.

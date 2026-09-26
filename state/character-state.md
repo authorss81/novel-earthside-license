@@ -264,3 +264,109 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48�
 - **Ottoline Vask's two sentences** — the toll and the pattern, and a city cannot spend a thing and be its own foundation at the same time. Unanswered, and not put in front of a room in this batch, and must not be resolved.
 - **The nine households of Nine Elms** — refused the charge as well as the receiving, the whole charge is on Adrian, and Ilda Marsh is the author and the user of the fourth line. **The bottom field is a season and a season is settled in March.**
 - **The six of the first group and the eleven of the second group** are still named, still with no land rights, no class, no standing and no workway, and one of them now has a workway that the page did not forbid.
+
+---
+
+# Volume 02, Batch 0002 (Chapters 61–70) — what the ten days before the review cost people
+
+**The section above describes the end of Batch 0001. This section supersedes it for everyone named in it. Seventy days in this world. Nobody gained a thing.**
+
+## Adrian Vale — 32, protagonist
+
+- **Stage 1, Witness. Unbound. Barred from every roster. Party to the trial licence and given nothing by it. Performed no working in this batch.** Cannot open a threshold, create a working, or hold a place.
+- **Mark:** the black line in the heel of his right palm is **sixty days old on the sixty-first day of the new month and sixty-nine days old at the end of the seventieth, and has not moved one sixteenth of an inch.**
+- **Seat: still vacant, still unrenewed.** He is on no roster of the licence and none of the instrument. He has put his own name in one Crown document, in a column headed *person to be asked*, and **he has now been offered the one thing he has never offered anybody in seventy days, which is to be asked, and he was refused in four seconds by the person it was for, and the refusal was correct.**
+- **Debt:** the bottom field, **entered for the ninth time in one month, sixty-seven days old, and still with no figure on the end of it.** The whole of the Reed Reach's standing charge is still on him and **Nine Elms' water is not received for the coming quarter.**
+- **What this batch cost him, item by item:**
+  - **He did the thing he was told to do on a stair and it took four kitchens and a refusal in each**, and what he learned is that the room's word is not *work* and is *turning up*, and that a man who asks a city a question in the wrong language gets four wrong answers and none of them is anybody's fault.
+  - **He fetched nineteen lines and nineteen lines are a widening and not a rota**, and about nine people understood that and about two hundred and thirty thought it was a job, and both numbers are on the page as what a man said and not as a count.
+  - **He wrote out loud that he has been standing inside a roll of a different kind for sixty-three days without knowing it was a floor.**
+  - **He offered a woman a bed and a woman of sixty-one told him why she has not spent a coin in nine years and it was not about money.**
+  - **He offered the bar of the twenty-sixth day of the new month against the twentieth field, and the bar did not reach, and the thing that stopped it was a page and nine people and nine seconds**, and he has entered that the next time there may not be a room.
+  - **He sat through forty minutes of an argument that was over in nine minutes and then said the real thing and did not resolve it, and he has entered that the refusal he got was correct and that he has no way of telling which of the man's two sentences was the one that mattered.**
+  - **He had the last question on the slate written by somebody else and wrote down that he did not ask.**
+- **Voice:** no new slip and that is entered as a fact and not as a virtue. He was stopped by a procedure three times and by a woman once.
+- **Where he is:** the fourth step of the lower gallery of the Lock of Salt at about the eleventh hour of the night of the seventieth day.
+
+## Tamsin Quill — 29, anchorwright
+
+- **Gave the twenty-four words on the thirty-fourth day of the new month and was not asked twice. They were acted on over nine days.**
+- **On the forty-fifth day of the new month, on the walk-round, she took the notebook out of his hand for the second time in nine days and gave him the thing nobody in this book has said better: a city is not a room; a room is people with a page on the table, and a page on the table turns people into the answer to the question, and about two hundred and thirty people hearing a document and not agreeing with it is not a failure of the document.**
+- **She told him she was the ninth person in that yard to understand the nineteen lines, and that she had been waiting nine days to tell him, and that what she wants is not a thank you.**
+- **And she said: she has been asked four times this month to find his sentence, has declined three times and given it once, the one was for him and not for a room, and she is not going to keep doing it at this rate because she will run out.** That is the closest this relationship has come to saying something about itself and it is a sentence about her own service and not about him.
+- **Exposed flank:** unchanged — line seven of the boundary table and the old form of the oath. **She does not hold page forty-one. Sera Vail holds it. Nobody has mentioned it in twenty days.**
+
+## Sera Vail — 50, Lantern Concord notary
+
+- **Did not send the roll of strangers for the coming quarter and entered, on her own motion, that she did not send it, with two reasons — one true and one convenient — and said they are not the same one, and that the true one is that a description is the only protection anybody here has ever been offered by that office.**
+- **Read the eleventh questions and said nine words: *I would not sign a page I cannot read.*** Said that reading is not believing and that she has believed four of these and has not believed seven. Said that the difference between a question a city asks when it wants to keep a door and one it asks when it wants to be able to close one is not in the tense and is not in the mood and is in **who is able to answer.**
+- **Chose to send the second page to Aurel beside the eleven questions rather than by itself, for them and against herself, in nine seconds, and entered that she would have enjoyed the short answer enormously and has been enjoying it for twenty-six years and that is the whole of what is wrong with a notary.**
+- **Drafted a question that is a trap and put it on the slate and told the slate so, and said that a notary who writes a fair question and holds an opinion about the answer is the exact mechanism this volume is about, and that she caught herself in four seconds and that four seconds is faster than she has ever caught anything.**
+- **Answered *what ought the number of not-asking reasons to have been* with four hundred and ten things this city has not asked about, and put the twenty-six years on her own side of it.**
+- **She still holds page forty-one. She is the moral centre of two volumes and is not doing it knowingly.**
+
+## Ottoline Vask — 34 years in Saltwake
+
+- **Wrote the nineteen lines of what a person in this city may be asked to turn up for in about eleven minutes, in about nine sentences, and said the second sentence in the book that says a working can be made cheaper without being made private and that this time it is about a person instead of a door.** Eight load-bearing sentences in ten days, all hers.
+- **Said the finding of the thirty-seventh day in twenty-five words: this city has spent sixty-one days protecting eleven people by describing them, the describing was the whole of the protection, and there is no second thing.** It is the only finding in the history of this book with no number in it.
+- **Said on the forty-second day: there is no salt within four hundred miles of this gate but ours, and an office that has just learned that is not being kind, and it is putting a number on us, and it is finding out what we can be made to do, and it is doing it kindly, and she would rather it were rude.**
+- **She has still never been able to get her hands on the nineteen stones**, and a docker of fifty-eight has been copying them into slates for ten days and has copied about nine of the nineteen and has run out of slate.
+
+## Renna Ord — 58, boat-coat dock worker, cannot read
+
+- **Has been paid, in salt, for nine weeks of copying shapes she cannot read, and said nine words about it, and the ninth of them is the word for the metal the Crown's fee is in.**
+- **Refused the Measure's fifth coat in about eleven seconds for the fourth time and said the rule in English on purpose, and it took the room nine seconds to refuse the twentieth field because a page exists and nine people read it out loud.**
+- **Wrote the eleventh question for the review, four words long, on the back of a slate, with her own hand over a girl's fingers as a rest: *what are they called.*** Read it back, **did not like it, and said it stays**, because a question that is visible can be argued with and a question that is not on the slate gets written in a better way by somebody else in four months and means something else.
+- **Is now the person the door costs, on the page, in a question of her own, on the fortieth day of the new month, and she has said that if the review answers it the licence is gone and the door is a hole in a wall again, and that she has never once pretended a door was worth a person, and that if she had she would be the wrong kind of man in this city and there is a page about it.**
+- **She has been asked eleven times in seventy days and has answered five times, and she still owes nothing and is going to be asked again.**
+
+## Peth Lammay — 24, of the second list, licensed carrier, on no roll
+
+- **Asked the question nobody in this city can answer — does anybody here want that case to go — and nobody answered her, twice.** Then said thirteen words: *I will bring a case whatever is in it. Bring me a case.* And then in about thirty-nine words that she had been a carrier for eleven years and had never once said: **she would rather bring a case with eleven names in it than a case with nothing, and she does not know why.**
+- **Read Dante Kuo four lines about a column with his name in it and did not tell him for nine days, and was made to answer for it in a yard in daylight, and was right about four of five things and wrong about the fifth — wrong because it *was* done to him — and said she would do it again and got it on the same line.**
+- **Refused to carry Nine Elms' refusal on the Monday and carried it on the Tuesday, and wrote a line on the back of it about what a refusal costs in a family and not in a quarter.**
+- **Is not on any roll in this city and has not been asked about that and has not asked.**
+
+## Ivenn Marrow — 41, Crown Law scholar from Aurel, unaccused
+
+- **Answered a question about the fee in a yard, in about nine seconds, without softening it and without offering anything, and said the sentence the city has needed for four months: *an office that will take your goods for its fee is telling you what it thinks you are, and it is also telling you what it thinks you will be*, and said he had never written a sentence like it and that he did not enjoy the writing of it.**
+- **Said the useful half of the fee question — that he had been in this city eleven weeks and nobody had ever once asked him what a district is — in a yard and not in a room, and asked for that to be entered.**
+- **On the forty-fourth day of the new month he asked Adrian Vale for the first time in two volumes: *what do you want me to be useful for.*** Adrian did not get a clever answer and said so. Marrow then said seventeen words: *I have been useful for a month, and it got me nothing, and I did not notice.* **This is the first sentence anybody has entered about him that is not about the door, and this city has not convicted him of anything and is not going to.**
+- **He has still not mentioned the letter to Hattie Park and it is now forty-four days since the fortieth.**
+
+## Dante Kuo — 35, Hearthguard captain in everything but name
+
+- **HAD HIS SCENE, on the forty-first day of the new month, and it is the most important new line in the book and it is not resolved.**
+- **Right shoulder went on the thirty-first day of this flood, was reduced twice, cannot be set, and DID NOT GO in this batch. No scene made him whole and no scene may.**
+- **Has not complained once in seventy days, and the reason is his and is forty-seven words: because a man complained about a shoulder in the fifth week of this flood and a page got written about him, and the page was right, and I have read it, and I would rather be the second kind of man in this city than the first.** The man on that page is a man of the flood crew and is not the man under the board behind the ordinary wall, and the two are in different books and may never be in one sentence.
+- **Was put on paper work for five days by a man in a good coat without being told, found out on the fortieth day of the new month, and did not go to anybody: *nobody asked me and I am not going to be the kind of man who goes.** Sixteen words, his.
+- **Refused Adrian's offer to be asked, in four seconds, correctly: *you are the only person here who gets asked. You, not me.*** And then the rest of it, forty-three words, asked to be entered whole: *if you ask me it stops being a thing I do and it becomes a thing I am a part of, and I have been in this world sixty-five days and I would like to have done one thing that nobody was keeping.* **Both of those are correct and one of them is the sentence the volume is about and neither man said which.**
+- **Is now on the nineteenth line of the page about what a person in this city may be asked to turn up for, and about two hundred and forty people did not notice and about nine did.**
+
+## Perry Lask — 41, of the second list, the first holder of a workway
+
+- **Said yes to the twentieth field in about four seconds and did not say a sentence first, and the not saying is the finding.** The twentieth field says a holder's work may be described in any document in her own words without anybody asking her first and that nobody may be asked to describe it, and **read the third line against the first and it is a licence to be written about.** She was the only person who could say no to it and the offer removed the asking, so the asking was the whole of the cost.
+- **Adrian refused it in under a second; the room refused it in nine seconds because a page exists; the acceptance is entered in her own words with a date and nobody has yet asked her whether she meant it.**
+- **Is paid on a second page by a man who keeps a stall by the wharf and is named in a Crown schedule, so she is paid and she is described, both, and both are entered.** A man who keeps a stall by the wharf said fourteen words about it: *a wage off a second page is a wage a person can be removed from.*
+- **Has been asked nothing.** What a holder will be asked on the fourth day of the month after this one was decided on the fortieth day of the new month and she was told a date existed in nine seconds and said six words: *then ask me on the day.*
+
+## New people, all on the page
+
+- **Nadia Brandt, 29, of the second list** — worked out the case, the roll and the disappearance in about an hour on a salt bin; told a woman of twenty-four and not the man; and then told both of them the true thing, in a room, in nineteen sentences, to two men who were both arguing about the wrong thing: **being useful is not safe and is not unsafe, it is a description.** On the forty-fifth day of the new month she said she was asking and had not known what to do with it, and asked for a line on a slate, and the line is four lines high.
+- **Orla Specht, 61, of Silt Row** — eleven ounces under a floorboard and nine years of not spending a coin, and the reason, in seventy-one words, chosen in English so that the sentence would be hers and not his.
+- **Ilsa Roke, 51, of the upper road** — the keeper of the first Wayhouse, Hettis Roke's aunt by marriage, on no roll, with a key, who wrote four householders on a chalk board in a yard the way this city does everything and washed it off in daylight after reading it out.
+- **Darrel Quist, 37, Crown factor of the reed levy** — used the Crown's own fifth clause correctly, advanced a village's quarter against its own reeds, and entered that nobody asked him to and that he will be asked about it. Not a villain and not convicted of anything.
+- **Emrys Vaile, 44, a chandler** — said the worst sentence anybody has said about work in this city and it was nine words, and it was not malice, and he paid on the third day and overpaid by a ninth and the ninth was refused.
+- **Hessa Ruun** — read a Crown page in a reed channel and said the second half of the thing nobody says: when a thing is affordable the people who cannot afford it look like the people who do not care, and that is how a quarter of a Reach goes.
+- **Ottavia Reek** — said the half of the truth that is bad for her and said it out loud and said she would like somebody to notice.
+- **Kirsty Lund, 16** — a chalk-marker, a wage a chandler did not pay, and one of the two people in this city on no roll at all who has been asked nothing this volume.
+- **Odile Ferrand, 38** — the other of the two, and the only person in the batch who said the finding about the review out loud before anybody drafted it: *the review is going to be argued about by people who were not in the room, and nobody thought of that on the thirty-eighth day of the new month.*
+
+## Offstage but due
+
+- **The review, in five days.** Day 75, the fiftieth day of the new month. Eleven questions, a second page, a slate, and four words on the back of the slate.
+- **Nora Vale, 25, of Camden**, above a locksmith's, runs a rota on Tuesdays, Thursdays and Saturdays at the Camberwell Larder. **A letter is in a tin and it is not sent and there is no road.** *Open.*
+- **Hattie Park, of Dunedin.** **Forty-four days since a Crown channel was offered on the fortieth and Marrow has not mentioned it since, and Marrow has now asked for something.** *Open.*
+- **Ottoline Vask's two sentences** — the toll and the pattern, and a city cannot spend a thing and be its own foundation at the same time. Unanswered, not put in front of a room in this batch, and must not be resolved.
+- **The nine households of Nine Elms** — refused the credit, lost the quarter, water not received, the whole charge on Adrian, and **March is fifteen days off.**
+- **The six of the first group and the eleven of the second group** are still named, still with no land rights, no class, no standing and no workway, and one of them now has a workway that the page did not forbid and a rate she set for herself that was too low.
