@@ -790,3 +790,73 @@ Seventeen words of a keeper of about seventy who has had a nail in a chapel arch
 
 ### Nine inches of stone
 **A phrase for the archive of this city, said out loud by a woman of about thirty-four who keeps a stall by the wharf at a fork nine miles up a road on the thirty-second day of the month after this one, and entered with the date on it: *nine inches of stone is not a safe place for anything*.** It is the first sentence anybody in this city has written a page about. The stone holds three pages, the second of them is nineteen lines, one of those lines is now wrong and cannot be corrected, and the household that keeps it has never been asked whether it will keep them, whether it knows what is on them, or why it did not take them down. **A later chapter may not pretend the stone is safe.**
+
+## Terms established in Volume 03, Chapters 131–150
+
+**These are the words Volume 03's last twenty days put on the page. They are on the page in Chapters 131–150 and they are binding from Chapter 0151 onward. The batch's own record, which is also the volume's batch record, is `state/batch-summaries/volume-03-batch-0004.md`.**
+
+### A table is a page you can sit at
+Chapter 0150 and Chapter 0148, said by a man of thirty-two, and the reason the hearing room has no table in it. A page is a thing a person is described on; a table is a page a person is described at. It is the same shape as a page, and about nine people in a hundred and forty-nine days had been sitting at one in every room.
+
+### A bench facing a door is a seat
+Chapter 0148, said by a woman of about thirty-four who keeps a stall by the wharf, refusing in about four seconds to let a man from that office be given one. A seat is a place to be angry at, and in about four months there will be a story about a bench and a person in it, and the story will be that somebody was made to sit on it. The bench became a step.
+
+### Then it is not a bench. It is a step
+Chapter 0148, nine words, a man of about forty-four who keeps a floor. A step is a thing a floor has and not a thing a room offers, and the step at the back of a hearing room has no name on it and nobody is put on it.
+
+### A hearing room has nothing on the walls
+Chapter 0148, said by a girl of seventeen, and the reason is that a wall in a room is the cheapest thing in this city and there is already one. And the date goes on the door, because a door is not a page.
+
+### A compact with a name in every place in it
+Chapter 0133, said by a woman of about thirty-four who keeps a stall by the wharf. A compact is a page with a person's name in every place in it, and a person in a place where a person can be found is a person who can be stopped, and a compact is that page, only longer, and it is signed.
+
+### The count in one place and the assent in another
+Chapter 0133 and Chapter 0140, the two lines that are the whole of what a hundred and forty days came to. The second place is the count and the third place is the assent and they are not the same place, and a figure in the second is not an assent in the third. It is the difference between the compact and a boundary page of the village of Nine Elms of about a hundred and forty years ago, and the cost of the two lines is that no office in nine hundred miles can check either of them.
+
+### The asking is the whole of it
+Chapter 0140, line five of the compact, nine words, and the only line of the eleven that is a person. *A guest may ask to stop being a guest. The asking is the whole of it. It requires no reason and it is not asked twice.* A man of forty-one in a very good coat spent nine days looking for a form his office could act on and there is not one, because that office revokes things and does not receive things that stop by themselves, and the form for an ending has a compulsory reason in it.
+
+### The person who reads it out is the account of it
+Chapter 0140, line eight, and Chapter 0150, where the person who read it out was a woman of twenty-nine whose name is on the front of the public register of this city in the second line and has been for about twenty years, and who was not asked, and who said that a compact nobody reads is a piece of paper, and that she has kept one out of a book for seven years, and that a piece of paper is a door.
+
+### Named
+Chapter 0150. The arrivals were recorded as named guests, and *named* means that about nine people said their own names out loud, once each, in that room, in daylight, with a date on the door behind them, and not one of them was asked to say it and not one of the nine names was written down by anybody anywhere. A count is not a person and a name on a page is a place a person can be found in and a name said out loud once in a room is a person. The page with the count on it and the nine names in no page are both in this city and they disagree and both of them are true.
+
+### Provisional
+Chapter 0150. The crossing is recognised provisionally, and the whole of what that word costs is in one sentence said out loud in a room by a man from that office: **a provisional recognition is a revocable one, and a district recognised provisionally is a district that can be described as not recognised, and there is a form for that too and he has not seen it.**
+
+### A delegation is a number with legs
+Chapter 0145, said by a man of thirty-two. You can send a number and you cannot send a page, and when four comes back and says there is stone on a piece of ground four hundred miles inland, then that is what the ground is, and there is no person in it to be cross with. A man of about thirty-nine who has been refused by name four times in four years said *I will go* and then said he would not be named, and asked for the second half to be written down and not the first.
+
+### To open nothing
+Chapter 0145 and Chapter 0150, the third clause of the delegation, and it belongs to the woman of twenty-nine who put it in herself and asked that it be kept as hers, because in about four months somebody is going to say that a delegation was sent to open something and she did not write that.
+
+### A refusal that was never asked for is not a refusal
+Chapter 0136. A refusal answers a question. A person who has not been asked anything has not refused, and what there is, is a person who has thought about it for forty-nine days, which is a different and better thing and it does not have a shape anybody in four hundred miles can use. And a list of remarks is a list, and the number nine stands with nobody at the top of it.
+
+### A person who carries a cost is a person who can be asked
+Chapter 0135, said by a woman of about thirty-four who keeps a stall by the wharf, from nine steps of a condemned stair she had not gone down in a hundred and thirty-five days. About four people in this city wanted to do it for a hundred and thirty-five days, and the reason nobody did is not that we worked it out, it is that we are frightened and we found a rule that says not to and we have been hiding behind the rule since about the fortieth day.
+
+### The person who pays is on the page and the person who is paid is not
+Chapter 0135, the finding of a day in which a wage was paid for the first time in fifty days, out of a stall, in the local shape: a figure on the end of an entry, a hand, and a date. A person who is owed on a page is a person with somebody, and in about four months that somebody is going to be asked a question by somebody nine hundred miles away.
+
+### The instrument for asking a person something properly
+Chapter 0137, four days of work, built by about nine people and used once. The question in the person's own words, given in writing to everybody who will be in the room four days beforehand, and anybody who could not be given it was not going to be in the room; a room with about nine chairs; a date on a slate; **and nobody asking the person whether the day suited them, because that would have been the first asking and it would have been on a day he chose.** The person was a Hearthguard of forty-four of the outer ward, nineteen years in, who had asked for this on the thirtieth day of the new month, and who said no in about four seconds, and who asked before he went that he was not going to be thanked.
+
+### A stone that can be corrected is a stone that will be corrected
+Chapter 0143, said by a woman of about sixty-one with a barrow, and it is why a page known to be wrong is to be left wrong on purpose. A stone that has had a page taken down is a stone that can be corrected; a stone that can be corrected is a stone that will be corrected by whoever comes next, and they will be doing it for a reason. And what she can offer a woman of forty-four of Corrow is that she will not take it down, she will not ask her, and she will have to look at it every time she comes up the road for the next forty years. Three pages in a stone is a shrine; one is a wall somebody kept; two is a mistake; **and there is no word for four and she has been up that road two hours thinking about it and has not got one.**
+
+### A page on the back of a thing nobody can take down
+Chapter 0143, the fourteenth shape. The first page anybody in this city has built for the express purpose of not being able to be taken down, and the whole of it is that the keeping household may take it down on a date of its own choosing and is not asked why twice.
+
+### A correct number about a district
+Chapter 0138. A return of a district after a flood, made by a district waterboard in the ordinary course, correct in every line, with one place for the count and one place for the assent and they are the same place. A notary of fifty: **a correct number about a district is a district that is described correctly, and a page nobody can argue with is a page nobody can stop, and in about four months that page is going to be the account of that district.** And: a receipt for a case with a question in its eighth column says *received, carried, not closed, return by the quarter, no answer due before then*, and *a case with an eighth column is not a case that can be closed*.
+
+### There is no column anywhere in nine hundred miles for a man who was taken
+Chapter 0150, said by a man of thirty-two in a room, in daylight, in the local language, on the day he gave up the only office anybody ever offered him. **What happened to the people whose names were removed from the first records is not that somebody took them off a list. It is that a form has one place for a count and one place for an assent, and it has had that for a hundred and forty years, and a man who was taken goes in the count and does not go in the assent. That is not a crime and it is not a conspiracy and it is not a person. It is a shape. And a clerk filling it in on the forty-fourth day of the month after this one was doing the ordinary work of a Tuesday.** He stopped there. Nobody asked him for the nine more sentences he had.
+
+### A reading that is the price of a place is a reading that is the price of a place
+Chapter 0150, said by a man of thirty-two in about four seconds, refusing a later offer that was not the post and was better. And then: **I am refusing a thing that cannot be argued with because it is a day.** A chair with no date on it is the only thing in this city that is allowed to be nothing, and a man with no mark, on no roster, outside every office, is the most findable person in this world, and that is not a safety.
+
+### A practice is a toll
+Chapter 0136, four words, said out loud by a girl of seventeen at about the two-mile mark of a nine-mile road to nobody, on purpose, to hear whether it was the right sentence. It is the fourth count in this volume and nobody counted it.
