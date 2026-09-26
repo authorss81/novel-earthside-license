@@ -1,6 +1,6 @@
 # Chapter 0157 — The Gate Board
 
-A bowl of hot water and something in it was put in front of a man of thirty-two at about the tenth hour of the morning on the sixth day of the Long Month, eleven miles from the last room he had been in, and he was not asked a question for about forty minutes, and the day is about the bowl and not about the man.
+A bowl of hot water and something in it was put in front of a man of thirty-two at about the tenth hour of the morning on the sixth day of the Long Month, eleven miles from the last room he had been in, and he was not asked a question for about forty minutes.
 
 **It is a Monday and there are about nine days of racks to save before the weather turns, and a fire, and a boy of eight, and a woman who did not invite anybody and has not said anybody's name in four hours, including her own, and that last part is not an oversight and it is entered that about four people who were in the room noticed and nobody asked.**
 

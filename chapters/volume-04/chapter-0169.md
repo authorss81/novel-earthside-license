@@ -106,7 +106,7 @@ Somebody in a market said *the witness* about a man of thirty-two, to a woman of
 
 ---
 
-**And the last thing on the eighteenth day of the Long Month is a slate in the hand of a girl of seventeen, with a date on it, and a name on it that is nobody's, and she has not read it back and is not going to.**
+**And the last thing on the page is a slate in the hand of a girl of seventeen, with a date on it, and a name on it that is nobody's, and she has not read it back and is not going to.**
 
 "You are not reading it back," said a woman of twenty-four.
 

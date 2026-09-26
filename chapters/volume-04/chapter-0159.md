@@ -1,6 +1,6 @@
 # Chapter 0159 — A Warden's Duty
 
-A woman with a board in her left hand was putting a line in the ground at the bottom end of a channel at the sixth hour of the morning on the eighth day of the Long Month, and by the seventh hour there were about thirty people on the wrong side of it and a settlement workroom behind her, and this day is about the line and not about the woman.
+A woman with a board in her left hand was putting a line in the ground at the bottom end of a channel at the sixth hour of the morning on the eighth day of the Long Month, and by the seventh hour there were about thirty people on the wrong side of it and a settlement workroom behind her.
 
 **The ground has been held since the seventh week of this flood. The line went in on Sunday morning in about eleven minutes with a chalk and two pegs and it is now three days old and it has to be re-cut every day or it goes, because this ground is silt and the water comes up under the chalk and not over it.**
 
@@ -12,9 +12,9 @@ The first hour was the best hour of the day and about nine people have told peop
 
 **And at about the seventh hour there were about thirty people on the wrong side of the line, and the trader who was standing eight feet back with his hat in his hands worked out how they had got there, and it took him the rest of the morning, and it is the whole of what this day is for.**
 
-About nine of the thirty were the settlement's. They had a rota, a slate with their names off it, and a wage at the end of the day, and a woman of about twenty-nine from the workroom who came down on the Tuesday and had read a cost out to nine people and had been stopped four times and had told them that a Warden must defend the place.
+About nine of the thirty were the settlement's. They had a rota, a slate with their names off it, and a wage at the end of the day, and a man of about twenty-nine from the workroom who came down on the Tuesday and had read a cost out to nine people and had been stopped four times and had told them that a Warden must defend the place.
 
-About twenty-one of the thirty were the Reach. They had been told there would be a queue and a wage at the end of it. They came at the sixth hour because somebody had said sixth hour. **And the two groups stood in the same line, and the line was not a roll, and there was no column anywhere in it with the settlement's name in it and the settlement's name in it, and at about the ninth hour a woman of twenty-nine from the workroom came down the line with a slate and could not tell which nine of the thirty were hers, and did not ask, and went back up, and a man of about thirty-nine who trades on the Open Hand board saw her do it and has not described it to anybody since and is not going to.**
+About twenty-one of the thirty were the Reach. They had been told there would be a queue and a wage at the end of it. They came at the sixth hour because somebody had said sixth hour. **And the two groups stood in the same line, and the line was not a roll, and there was no column anywhere in it with the settlement's name in it and the settlement's name in it, and at about the ninth hour a man of about twenty-nine from the workroom came down the line with a slate and could not tell which nine of the thirty were his, and did not ask, and went back up, and a man of about thirty-nine who trades on the Open Hand board saw him do it and has not described it to anybody since and is not going to.**
 
 ---
 
@@ -72,7 +72,7 @@ He said it in about nine seconds. **A person can be a wall, he said. That is the
 
 **And at about the seventh hour of the evening on the eighth day of the Long Month a man of forty-two came out of a workroom door on the upper road, onto the line, and looked at it.**
 
-He looked at it the whole time it takes to look at a thing like that. He did not say anything about it. He did not touch the chalk and he did not speak to the woman with the board and he did not go down the line. He looked at about thirty people's worth of work and then he went back inside, and the door shut, and a woman of about twenty-nine from the workroom stood in the yard for a while afterwards and then went in too.
+He looked at it the whole time it takes to look at a thing like that. He did not say anything about it. He did not touch the chalk and he did not speak to the woman with the board and he did not go down the line. He looked at about thirty people's worth of work and then he went back inside, and the door shut, and a man of about twenty-nine from the workroom stood in the yard for a while afterwards and then went in too.
 
 **And a girl of seventeen who is on no roll of anything was standing out on the flats with a slate under her arm and the settlement's mark cut into the corner of the base of rack nine, and she had the chalk in her other hand, and she did not write it down.**
 
@@ -80,4 +80,4 @@ He looked at it the whole time it takes to look at a thing like that. He did not
 
 **And a woman of twenty-four entered that she noticed, on the flats, on the evening of the eighth day of the Long Month, that a girl of seventeen had a chalk in her hand and a slate under her arm and chose the slate, and she entered that she noticed it, and she entered that she did not improve on it, and she entered that she has noticed about nine things in a hundred and sixty-three days and has not improved on any of them, and that the count of nine is the same as it was a year ago.**
 
-**And the last thing on the eighth day of the Long Month is a line a foot deep in one place out of nine, cut into silt at the bottom end of a long channel, held by a duty that nobody was compelled to accept, and a hundred and forty yards of it, and a chalk mark on a board in a woman's left hand, and a man of forty-two who looked at it from a doorway and went back inside.**
+**And the last thing on the page is a line a foot deep in one place out of nine, cut into silt at the bottom end of a long channel, held by a duty that nobody was compelled to accept, and a hundred and forty yards of it, and a chalk mark on a board in a woman's left hand, and a man of forty-two who looked at it from a doorway and went back inside.**

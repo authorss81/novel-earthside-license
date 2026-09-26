@@ -86,9 +86,9 @@ Nobody asked what the settlement wanted. It came out in pieces over five hours, 
 
 **And at about the ninth hour of the evening, in front of about nine people, with the trestle board still standing in the hall and the bread gone and the light off the west shutter, a man of forty-two answered the ninth sentence.**
 
-Nobody had asked him to. A girl of seventeen had it written out on her own slate in her own hand because she had been in the yard when it was said, and she read the date of it out before she read the sentence, and the date is the thirty-fourth day of the new month and it is the fifty-ninth day of the flood and it is a Thursday, and it is a hundred and thirty-four words long and it is the longest single thing anybody has said in a yard in this city.
+Nobody had asked him to. A girl of seventeen had it written out on her own slate in her own hand because she had been in the yard when it was said, and she read the date of it out before she read the sentence, and the date is the thirty-fourth day of the new month and it is the fifty-ninth day of the flood and it is a Thursday, and it is seventy-eight words long and it is the longest single thing anybody has said in a yard in this city.
 
-**It is about the seventeen. It is that a man of thirty-two has spent a hundred and fifty-nine days making sure that not one of them has a job, that the page listing what they may not have is the longest page in this city, that there is not one thing in it they may do, and that in a month with no money in it one of them is going to be a person with no work in a city with no money.**
+**It is about the seventeen. It is this, and it is in a girl's hand and she is reading it off her own slate and not off a page: *you have spent fifty-nine days making sure that not one of them has a job; the page listing what they may not have is the longest page in this city and you wrote it yourself; there is not one thing in it they may do; and in March, when the money ran out and there has not been any since, one of them is going to be a person with no work in a city with no money.***
 
 "Ninety-six days," said a woman of twenty-four.
 

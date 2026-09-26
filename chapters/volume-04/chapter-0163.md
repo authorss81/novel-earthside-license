@@ -44,7 +44,7 @@ Nobody said anything.
 >
 > **The words *to open nothing* are mine. I put them in on the thirty-third day of the month after this one. Nobody else put them in and nobody has taken them out and I would like it entered that I have been asked three times this year to drop them and I have not.**
 >
-> **And I would like it entered why, in my own words and not improved on. In about four months somebody is going to say that a delegation was sent to open something. And I did not write that. I wrote the opposite and I wrote it in a room with about nine people in it, and if I had left the clause out then the account of it would be a page with a place cut out of it, and a page with a place cut out of it is a page somebody can put a name in.**"
+> **And I would like it entered why, in my own words and not improved on. In about four months somebody is going to say that a delegation was sent to open something. And I did not write that. I wrote the opposite and I wrote it in a room with about nine people in it, and if I had left the clause out then the account of it would be a page with a place cut out of it, and a page with a place cut out of it is a page somebody can put a name in.**
 
 **And then, before anybody thanked her, she said the other half of why she wrote the clause, and it is about a sheet of paper she has carried for seven years and has never put in a book.**
 

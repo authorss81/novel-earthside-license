@@ -80,10 +80,6 @@ She looked at him for a while.
 
 ---
 
-**And a fee of eleven ounces of silver is entered as owing in a book in this city, and it was entered for the ninety-first time on the sixty-fourth day of the month after this one and it goes in one a day, and a man of thirty-two said the number out loud in a market on the Friday evening because he was in a mood, and the number is a hundred and two, and a man of about thirty-four who keeps a stall asked him why he was saying it, and he said because it is the only figure in this city that goes up every single day and does not depend on anybody, and a woman of twenty-four wrote that down as the reason a man gave and not as the reason, and she is right.**
-
----
-
 **And he was not rested and the day does not call it growth, and a woman of twenty-four entered that in these words: *he is emptier and it is not a relief, and I have watched him for eight hours and he has got the face of a man who has been given a day off and does not know what a day off is for, and the difference between that and rest is that rest has an end and this has a date, and the date is twenty-four days from today, and I am putting the number in because I keep one and he does not, and that is the whole of the difference between the two of us and it took a hundred and sixty-five days to find out.***
 
-**And the last thing on the tenth day of the Long Month is a chair on a landing outside a room with a door, with no name on it and no date on it and no price under it, and it has been there the whole time, and a man of thirty-two looked at it on his way out at the eleventh hour of the evening and did not go near it.**
+**And the last things on the page are two objects and both of them have been there the whole time: twenty-eight words on a slate lying face down on a shelf in a room with a door, and a chair on a landing outside a room with a door, with no name on it and no date on it and no price under it. A man of thirty-two looked at the second one on his way out at the eleventh hour of the evening and did not go near it, and nobody turned the first one over, and the count of days since he asked one person one question is a hundred and sixty-six, and it goes in one a day.**

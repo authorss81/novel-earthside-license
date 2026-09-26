@@ -1,8 +1,8 @@
 # Chapter 0155 — Two Hours in a Queue
 
-The queue moved, and that is the first thing anybody who was not there would want to know about it, and a woman of about thirty-four who keeps a stall by the wharf stood in it for two hours in the rain on the fourth day of the Long Month and did not say what she thought of it until the second hour of the afternoon the next day, in a market, in front of about forty people.
+A woman of about thirty-four who keeps a stall by the wharf went up the nine miles in the rain on the fourth day of the Long Month with a barrow she did not need, and she was in a queue outside a store on the upper road for two hours before she had said one word to anybody in it, and she came down the same nine miles that evening with wet feet and a barrow she still did not need, and what she thought of it took her until the second hour of the afternoon to say out loud in a market in front of about forty people.
 
-**She went up the nine miles with a barrow she did not need and came down with wet feet, and she had said one thing out loud at the bottom of the road before she started, and it is nine words, and a girl of seventeen who is on no roll of anything wrote the number nine at the top of her slate and not the sentence.**
+**She had said one thing out loud at the bottom of the road before she started, and it is nine words, and a girl of seventeen who is on no roll of anything wrote the number nine at the top of her slate and not the sentence.**
 
 "**I want one true thing to say about it.**"
 
@@ -62,25 +62,7 @@ She had been in the queue twice that morning. She had not been asked anything ei
 
 ---
 
-**And she came down nine miles in the wet with a barrow she had not needed and did not have at the bottom, and she did not say anything to the road.**
-
-At about the sixth hour of the evening she was at a stall by the wharf and a man of about thirty-four who keeps a stall was doing a thing with a slate, and she said the nine words to him before she had decided to say them, and then she said them again a market's width away to nobody at all. A man of about thirty-nine who trades on the Open Hand board heard her say them the second time and did not come over.
-
-"**He knew my name and he never asked me.**"
-
-""That is nine words," said the man of about thirty-four who keeps a stall, "**and it is the truest thing anybody has said about that store, and I am going to write it down whether you want it or not.**"
-
-"Do not write it down."
-
-"**I am writing it down.**"
-
-"You are writing down that I said it and not who said it to me, and that is the only part of it you are allowed to write down, and you are going to do that part and not the other part, and if you do the other part I will not have said it at all and you will have to take it out of a page in about four months, and I will know, because I have been unfindable for nine years and it is the only competence I have.**"
-
-He wrote it down. **And it is entered, by a woman of twenty-four, in her own words, that he wrote down the nine words and that she had asked him not to and that he did it anyway, and that this is the second time in about a week that a person in this city has been asked not to do a thing and has done it, and that the first time was a man of thirty-two and a page in a room.**
-
----
-
-**And at about the second hour of the afternoon on the Friday, in a market, in front of about forty people, she said the nine words again where anybody could hear them, and she did not say whose name was on the cross and she did not say who had asked the man on the roof, and it is entered that she could have and did not.**
+**And she came down nine miles in the wet with a barrow she had not needed and did not have at the bottom, and she did not say anything to the road, and at about the second hour of the afternoon she was in a market in front of about forty people, and she said the nine words where anybody could hear them, and she did not say whose name was on the cross and she did not say who had asked the man on the roof, and it is entered that she could have and did not.**
 
 "**He knew my name and he never asked me.**"
 
@@ -90,10 +72,22 @@ Somebody at the back said *asked who.*
 
 ---
 
-**And the two things she carried down nine miles were both true at once and neither of them cancelled the other, and she has not got rid of either of them and did not expect to.**
+**And at about the sixth hour of the evening she was at her own stall by the wharf, and a man of about thirty-four who keeps a stall was doing a thing with a slate, and she said the nine words to him before she had decided to say them, and a man of about thirty-nine who trades on the Open Hand board heard her and did not come over.**
 
-One: a store pays on time, has water in it, and does not put the name of the person it pays on anything.
+"**He knew my name and he never asked me.**"
 
-Two: **the moment it knew her name, she was in it, and there is a cross with a nail on the end of it on a slate in a store on the upper road, and she has been off every list she has ever been on for nine years, and she stood in the only queue in four hundred miles that works, and both of those are now true and she is going to carry both of them.**
+"That is nine words," said the man of about thirty-four who keeps a stall, "**and it is the truest thing anybody has said about that store, and I am going to write it down whether you want it or not.**"
 
-**And the slate she has carried for nine years and has never written on was in her coat for both of those days, and it is blank, and it is not an oversight, and nobody has been told why,** and about four people asked her about it on the way up and about nine people asked her about it on the way down, and she gave the same one sentence to every one of them and did not improve on it, and nobody in four hundred miles is going to be told why a slate is blank, including her.**
+"Do not write it down."
+
+"**I am writing it down.**"
+
+"**You are writing down that I said it and not who said it to me, and that is the only part of it you are allowed to write down, and you are going to do that part and not the other part, and if you do the other part I will not have said it at all and you will have to take it out of a page in about four months, and I will know, because I have been unfindable for nine years and it is the only competence I have.**"
+
+He wrote it down. **And it is entered, by a woman of twenty-four, in her own words, that he wrote down the nine words and that she had asked him not to and that he did it anyway, and that this is the second time in about a week that a person in this city has been asked not to do a thing and has done it, and that the first time was a man of thirty-two and a page in a room.**
+
+---
+
+**And the two things she carried down nine miles were both true at once and neither of them cancelled the other: a store pays on time, has water in it, and does not put the name of the person it pays on anything, and the moment it knew her name she was in it, and there is a cross with a nail at the end of it on a slate in a store on the upper road, and she has been off every list she has ever been on for nine years, and she stood in the only queue in four hundred miles that works, and she is going to carry both of them and she has not got rid of either and did not expect to.**
+
+**And the slate she has carried for nine years and has never written on was in her coat for both parts of that day, and it is blank, and it is not an oversight, and about four people asked her about it on the way up and about nine people asked her about it on the way down, and she gave the same one sentence to every one of them and did not improve on it, and nobody in four hundred miles is going to be told why a slate is blank, including her.**

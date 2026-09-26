@@ -32,7 +32,7 @@ The form was not anybody's fault. **The Nth day of this flood** ran from the fir
 
 "**I can write a number. A number is not a date. A number is a day counted from something, and if the something is not written down anywhere then in about four months a clerk picks it up and it is the wrong month and there is nothing on the page to be angry at.**"
 
-"**Then it is a chair with a number on it,**" said a man of thirty-two who is on no roster of anything, who had said almost nothing for a hundred and fifty-five days and had said that sentence once, in a yard, in June, in another month entirely.
+"**Then it is a chair with a number on it,**" said a man of thirty-two who is on no roster of anything, who had said almost nothing for a hundred and fifty-five days and had said that sentence once, in a yard, on a day written in a month form nobody in this room uses any more, and it had never been copied and never been improved on.
 
 "It is exactly that," said a notary of fifty, "**and I would like it noticed that you did not have to be asked and that you have not said a word in this room for six hours.**"
 
@@ -42,7 +42,7 @@ The form was not anybody's fault. **The Nth day of this flood** ran from the fir
 
 The first month of the flood had a name before any of them were born, and everybody used it, and nobody in four hundred miles could tell you who had given it to whom. **On the first day of the new month a woman of about thirty-four who keeps a stall by the wharf had stood in a market and worked out, out loud, with three other people, that the fortieth day of the flood was the last day anybody could call a day a way that meant anything, and that the next one would have to be the first day of something, and that four of them were going to have to say the word new at the same time or not at all.** They said it at the same time. It was not a notary and it was not a vote and it was in no book, and the day it happened is on about nine people's memories and in nobody's hand.
 
-**The new month ran sixty-five days, Nobody decided that either. It ran out because that is how long it ran, and the reason it ran sixty-five days is that the water went down over sixty-five days and came back, and the man who worked that out was a water-count, and a notary entered it in a book, and nobody in four hundred miles has ever asked her why, and nobody has ever asked her why sixty-five.
+**The new month ran sixty-five days. Nobody decided that either. It ran out because that is how long it ran, and the reason it ran sixty-five days is that the water went down over sixty-five days and came back, and the man who worked that out was a water-count, and a notary entered it in a book, and nobody in four hundred miles has ever asked her why, and nobody has ever asked her why sixty-five..**
 
 "Then the third one will run sixty-five days as well," said a man of about thirty-four who keeps a stall.
 
@@ -68,7 +68,7 @@ Both were entered, and the woman of seventy went out and down the hill, and a gi
 
 ---
 
-**And then a notary of fifty said the cost out loud before she said the name, and it took nine sentences, and she counted them on her fingers, which is a thing her hands do and not a thing she decides to do, and a girl of seventeen wrote the number nine at the top of her slate and not the number of the sentences.**
+**And then a notary of fifty said the cost out loud before she said the name, and it took nine sentences, and she did not write them down and did not need to, because she is the only person in this city who keeps a count of the days and she had the date of the day she was going to need before anybody came up the hill, and a girl of seventeen wrote the number nine at the top of her slate and not the number of the sentences.**
 
 "**One. A name invented by a notary is a name an office can use. Two. In about four months a clerk nine hundred miles away is going to write *the Long Month* at the top of a page and nobody in that building will be able to tell whether it means the month I mean. Three. And he will not ask me, because I am not in his district and I am a woman who certifies things for money. Four. I have been the only person in this city keeping a count of my own since the fortieth day of this flood and from nothing else. Five. I said that base out loud in a room on the eighty-seventh day of this flood and nobody has asked me since and I am tired of being the only person here who keeps one. Six. A compact between two named communities cannot be dated in a month that has no name. Seven. The alternative is a page with a blank at the top of it and a page with a blank at the top of it is a chair. Eight. And I have certified about nine hundred things in twenty-six years and not one of them was mine. Nine. And I am going to do it anyway and I would like that entered before I do it and not after.**"
 
@@ -98,13 +98,7 @@ Somebody said *Sera* and she did not answer.
 
 **And the rest of the day was ordinary, and a notary of fifty wrote four other dates in the new form before the sixth hour of the evening and got them right four times out of four, and then did the thing she had not done in twenty-six years, which was to certify a thing she had made the name for, and she did it in about four minutes and it took nine people standing in a room and it is the first entry in this city in a hundred and fifty-six days that a person put at the top of it a thing that was hers and not a sentence, and about four people in that room understood what that was and the rest of them went home.**
 
-**And a woman of about thirty-four who keeps a stall by the wharf stood by the window with a slate under her arm that she has carried for nine years and has never written on, and a man of thirty-two who is on no roster of anything asked her about the slate and she gave him one sentence and no more.**
-
-"It is blank because a blank can be anything," she said. "**Write on it and it is a list, and I have been off every list I have ever been on for nine years and I am not going to be handed one by a slate.**"
-
-"It is the third thing in this book you have said to me that I did not have a sentence for," he said.
-
-"**It is the fourth, and you are counting badly, and you are counting because you have nothing else to do, which is what you do for a living, and I am not going to be a thing you practise on.**"
+**And a woman of about thirty-four who keeps a stall by the wharf stood by the window with a slate under her arm, and a man of thirty-two who is on no roster of anything looked at it for a while and did not ask her about it, and that is the whole of what happened between the two of them at the window.**
 
 ---
 

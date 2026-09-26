@@ -1,8 +1,12 @@
 # Chapter 0154 — The Fourth Channel Gets a Name
 
-A shut channel is not a gate, and a woman of about thirty-four who keeps a stall by the wharf said so at the junction at Nine Elms on the third day of the Long Month before anybody else had said anything at all, and a water-count of about fifty said *it is*, and did not say why, and walked out onto it.
+A man of thirty-two and a woman of about thirty-four who keeps a stall by the wharf walked eleven miles on a Friday in the rain to stand in front of a channel that had been shut for forty-six days, and about nine people from Saltwake and about nine from the village had made the same walk for the same reason and there was not room on the bank for all of them, and a woman of about fifty who counts water on the fingers of her left hand had been on that bank since before any of them with a stick in her hand and had not said one word, and the fourth person to arrive said the thing the next two hours were about, and it was not a question, and she said it before anybody had asked her anything.
 
-**It is a Friday and the channel has been shut for forty-six days, and the water has not been received at that junction since the sixty-ninth day of this flood, which is eighty-nine days, and neither of those figures is on a page and both of them are on a board in chalk at the bottom of a slope.**
+"A shut channel is not a gate."
+
+"A water-count of about fifty said *it is*, and did not say why, and walked out onto it."
+
+**The rain had been going on since the fourth hour and it was not going to stop, and there was mud to the ankle at the bottom of the slope and about four people in that group had worked out by then that they had come eleven miles to be in a room, and this was not one.**
 
 ---
 
@@ -45,6 +49,12 @@ There are four channels at the junction and three of them are working and one of
 > **A board, and a chalk, and a speaker's memory, and not a page.**
 
 The chalk went on the board at the junction at about the second hour of the afternoon and the rain took about an inch of it and a man of about thirty-four who keeps a stall said chalk on a board in this weather was a fool's instrument and a water-count said it was a board and boards get wet and that is what a board is.
+
+"**Forty-six days it has been shut,**" she said, "**and the water has not been received at this junction since the sixty-ninth day of this flood, which is eighty-nine days. Both of those are figures in my head and I have never written either of them anywhere, and I am writing them on a board this afternoon because a board is the only thing in this world that a person can be handed, and if the rain takes an inch off it then somebody will read the rest of it.**"
+
+"Nobody has ever written them down before," said a man of about thirty-four who keeps a stall.
+
+"**Nobody has ever wanted them written down before. That is a different thing and it is not a better thing.**"
 
 **And the keeper of the Nine Elms gate was there the whole time and did not come up until she was called, and she came up with her sleeves rolled and mud to the elbow, and she is about thirty-eight and she keeps the gate and she answers with her hands before she answers with her mouth, and about four people in that group noticed the hands and about nine did not.**
 
@@ -108,4 +118,8 @@ He did not write the name on a page. He did not ask one question. He stood on th
 
 **And the woman of about thirty-four who keeps a stall by the wharf said the last thing of the third day of the Long Month at a gate and did not raise her voice, and a water-count wrote it on the flat of her hand and it was gone in the rain in four minutes, and a man of about thirty-four who keeps a stall got it onto paper afterwards and entered that he had done it after the rain and not before.**
 
-"**Then somebody has written it down in this world, and about four of us know it, and that is two more than there were on the day before yesterday, and that is the whole of what happened on the third day of the Long Month.**
+"**Then somebody has written it down in this world, and about four of us know it, and that is two more than there were on the day before yesterday, and that is the whole of what happened today.**"
+
+**Nobody answered her, and the rain came off the chalk, and the name she had put on the board at about the second hour of the afternoon — Nerra Fenn, of this junction — went grey and then went soft and then was a smear with a hook at the end of it, and by the time about nine people had got off the slope in the dark it was not legible at all, and there is no second copy, because a board is a board and a chalk is a chalk and a keeper is a woman and a gate is a place where water goes through.**
+
+**And the channel stayed shut.**

@@ -84,7 +84,7 @@ He did not answer. **And it is entered by a woman of twenty-four that the man of
 
 "How many came this morning."
 
-"**Thirty-nine,**" said forty men, and it is entered that thirty-eight of them said it and one of them said it about a quarter of a second after the others, and that he is a man of about thirty-one with a hand that will not close, and that he has been coming for eighty-one days and that the reason he is a second and not the first is not timidity and is not checked.
+"**Thirty-nine,**" said thirty-nine men, and it is entered that thirty-eight of them said it together and one of them said it about a quarter of a second after the others, and that he is a man of about thirty-one with a hand that will not close, and that he has been coming for eighty-one days and that the reason he is a second and not the first is not timidity and is not checked.
 
 "Where is the fortieth."
 
@@ -92,7 +92,7 @@ Nobody answered her. **And she did not ask again, and it is entered by her in he
 
 ---
 
-**And the last thing on the eleventh day of the Long Month is not a wage at all. It is that thirty-eight men walked back up the hill with nothing, and about nine of them walked slower than the rest, and a man of about thirty-nine who trades on the Open Hand board walked with the slow ones and did not say anything for two hundred yards and then said one sentence, and it is entered that he said it and that nobody wrote it down and that he remembers it.**
+**And the last thing on the page is not a wage at all. It is that thirty-eight men walked back up the hill with nothing, and about nine of them walked slower than the rest, and a man of about thirty-nine who trades on the Open Hand board walked with the slow ones and did not say anything for two hundred yards and then said one sentence, and it is entered that he said it and that nobody wrote it down and that he remembers it.**
 
 "**He did not even want it.**"
 

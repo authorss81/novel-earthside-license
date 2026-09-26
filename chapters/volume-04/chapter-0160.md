@@ -8,7 +8,7 @@ A man from the store on the upper road was standing in a gateway at the bottom f
 
 He got the shape from a stall-keeper and not from anybody in the store, and about four people have worked out how, and it is on the page because it is the least important thing in that room and the most useful.
 
-It is a figure at the end of a line, and the hand, and the date. The payer's name goes on it. **The name of the person being paid does not go on it**, and a woman of twenty-nine from the store asked him why not, and he said that a wage paid out of somebody's own pocket is a favour and a favour is a thing that stops, and a wage paid out of a store by people who owe it is not a favour, and stopping is a different act, and he said that he had learned the difference from a man of about thirty-four who keeps a stall in this city in a market, and that neither of them had thought of it as a lesson.
+It is a figure at the end of a line, and the hand, and the date. The payer's name goes on it. **The name of the person being paid does not go on it**, and a man of about twenty-nine from the store asked him why not, and he said that a wage paid out of somebody's own pocket is a favour and a favour is a thing that stops, and a wage paid out of a store by people who owe it is not a favour, and stopping is a different act, and he said that he had learned the difference from a man of about thirty-four who keeps a stall in this city in a market, and that neither of them had thought of it as a lesson.
 
 "You will not get that from a person from where I come from," said a man of about thirty-four who keeps a stall, who was in the gateway on the Thursday and did not know what he was going to be told.
 
@@ -64,11 +64,11 @@ So the page stands and it is wrong, and today a woman was handed a figure by str
 
 **And at about the fifth hour of the afternoon, in a gateway, in daylight, a man with no mark, on no roster, outside every office in the world, said out loud the thing this is built on, and it took about four minutes, and about nine people were in the gateway and about two hundred and forty could not hear it and it did not matter, and the whole of it is in a book in this city in his own hand with the date on it.**
 
-"**I said on the sixty-fourth day of the month after this one, in a room over a market, in front of about two hundred and forty people, that the next time this city can put anything at all in front of the office that held that hearing is in about five weeks. The hearing was on the sixty-fourth day of the month after this one. The interval is thirty-five days and it is the quarter and the quarter runs out on the two hundred and eighty-ninth day of this flood, which is a Monday. I have had that number in my hand since the sixty-fourth and I have done nothing with it in thirty-five days, which is one day for every day there is, because the interval is one day for every day there is.**"
+"**I said on the sixty-fourth day of the month after this one, in a room over a market, in front of about two hundred and forty people, that the next time this city can put anything at all in front of the office that held that hearing is in about five weeks. The hearing was on the sixty-fourth day of the month after this one. The interval is thirty-five days and it is the quarter, and the quarter runs out on the hundred and eighty-ninth day of this flood, which is a Monday. I have had that number in my hand since the sixty-fourth and I have done nothing with it in thirty-five days, and one day of it for every day there is.**"
 
 Nobody said anything.
 
-"**And I am going to do nothing with it for another twenty-five days on purpose. Twenty-five days from today is the two hundred and eighty-ninth day. That is the day the quarter runs out. The delay is the length of the quarter exactly, and I have not arrived at that by arithmetic, I arrived at it on Tuesday night and then I waited two days to say it.**"
+"**And I am going to do nothing with it for another twenty-five days on purpose. Twenty-five days from today is the hundred and eighty-ninth day. That is the day the quarter runs out. The delay is the length of the quarter exactly, and I have not arrived at that by arithmetic, I arrived at it on Tuesday night and then I waited two days to say it.**"
 
 ---
 
@@ -88,7 +88,7 @@ Nobody said anything.
 
 ---
 
-**And on the Friday morning a woman of twenty-four put the question to him in a gateway without any preamble at all, and it is the first sentence anybody in this city has written down about him that is not a refusal.**
+**And at about the fifth hour of the afternoon, in the same gateway, a woman of twenty-four put the question to him without any preamble at all, and it is the first sentence anybody in this city has written down about him that is not a refusal.**
 
 "Is waiting a plan or a place to stand."
 
@@ -96,4 +96,4 @@ Nobody said anything.
 
 She wrote it down. **And she wrote it in a book on no roll of anything that does not go down a river, and it is in his own words and not hers, and it is the second page anybody in this city has put on the back of a thing, and the first one is wrong, and this one is in a woman's hand in a book on a table in a room and can be taken off it in about four seconds by anybody who wants to.**
 
-**And the last thing on the ninth day of the Long Month is a figure on the end of a line in a gateway, with the payer's name on it and the paid woman's name off it, and a second figure that nobody in four hundred miles can take off the first, and a man of thirty-two who has entered in his own hand that he is going to do nothing about it for twenty-five days, and the twenty-fifth day is the day the quarter runs out, and the second figure is hers and she is not going to be told about either of them by anybody in this city.**
+**And the gateway emptied with the figure still on the end of the line and the payer's name on it and the paid woman's name off it, and Elsa Skell went up the row toward Corrow with a second figure in a book that nobody in four hundred miles can take out of the first, and she is not going to be told about either of them by anybody in this city.**

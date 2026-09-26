@@ -1,8 +1,8 @@
 # Chapter 0170 — The Date Comes Back
 
-A raft came down eleven miles in the dark on the night of the eighteenth day of the Long Month with a short slate and a day on it, and it is the same raft that left on the Thursday morning and has been three days on the water, and what a date in chalk on a gate board is for is not known until about the tenth hour of the morning, which is the nineteenth day of the Long Month, and does not say what the date is for.
+A raft came down eleven miles in the dark on the night of the eighteenth day of the Long Month with a short slate and a day on it, and it is the same raft that left on the Thursday morning and has been three days on the water, and it got in before the light on a Sunday, and what a date in chalk on a gate board is for is not known until about the tenth hour of the morning, and it is not known at the top of this chapter either.
 
-**It is a Sunday. A household is going to be asked on the twenty-fourth day of the Long Month, which is a Friday, and that is five days away, and it is five days away on purpose, and about four people in this city have worked out that it must have been chosen by somebody who was not asked either.**
+**A woman of about thirty-four who keeps a stall by the wharf had walked down with a girl of seventeen and a man of about thirty-nine, and she had come nine feet from a board at the bottom of a channel and read a date off it from there and had not gone any nearer, and about four people in this city have worked out since that whoever chose that day was somebody who has not been asked about anything in a hundred and seventy-four days either.**
 
 ---
 
@@ -14,7 +14,7 @@ The board has two dates on it now. The first is the second day of the Long Month
 
 "You came down here to write a date on a gate board."
 
-"**I came down here to see whether somebody had.**" She looked at it for a while. "**Nobody had. In nine days a settlement is going to ask a household for the days on this gate, and the meeting-ground has said the day has to come back to it, and about four people knew that meant somebody had to choose it, and nobody had chosen it, and it is the nineteenth day of the Long Month and there are five days of weather left and the weather turns on Thursday.**"
+"**I came down here to see whether somebody had.**" She looked at it for a while. "**Nobody had. In five days a settlement is going to ask a household for the days on this gate, and the meeting-ground has said the day has to come back to it, and about four people knew that meant somebody had to choose it, and nobody had chosen it, and it is the nineteenth day of the Long Month and the weather turns on Thursday.**"
 
 ---
 
@@ -58,11 +58,11 @@ And under it, in a different hand, which is the hand of a man of about thirty-fo
 
 She was at the gate with the board under her left arm when he came up. She did not put the board down while she was talking. **She did not put it down once, and at the end she put it on the bench by the door, and that is the tell, and the tell is nine years old and it is on the page and nobody improved on it.**
 
-"Four things," she said, "**and then I am going to the racks. The date is right and I chose it. Nobody in this city has asked me anything in a hundred and seventy-four days and that is not a complaint, because I have not wanted to be asked and I have been right about that for nine years. On the twenty-fourth I am going to be asked, in a room, in daylight, with a date on it, and about nine people will be in it, and my household is going to say yes.**"
+"Four things," she said, "**and then I am going to the racks. The date is right and I chose it. Nobody in this city has asked me anything in a hundred and seventy-four days and that is not a complaint, because I have not wanted to be asked and I have been right about that for nine years. On the twenty-fourth I am going to be asked, in a room, in daylight, with a date on it, and about nine people will be in it, and my household is going to say yes, and I am going to be angry about it for a year, and that is the whole of me and there is not going to be a second day of it.**"
 
 "You do not know that."
 
-"**I know the wage is real and the racks are drying and the weather turns on Thursday, and I have been keeping this channel for nine years for nothing, and there is a boy of eight who has a bed because a store nine miles up this road pays for it, and I am not going to argue with it, and I am not going to stand in a room on Friday and make my household say something else.**"
+"**I know the wage is real and the racks are drying and the weather turns on Thursday, and I have been keeping this channel for nine years for nothing, and there is a boy of eight who has a bed because a store up the road past this city pays for it, and I am not going to argue with it, and I am not going to stand in a room on Friday and make my household say something else.**"
 
 "You have not asked him."
 
@@ -76,7 +76,7 @@ She was at the gate with the board under her left arm when he came up. She did n
 
 "Why."
 
-"**Because the day I chose the twenty-fourth, I chose it about nine days ago, and about four days ago a man of twenty-nine came to my gate and told me the day was going to come back to a meeting-ground and that a meeting-ground cannot set a day, and I understood what that meant, and I worked out the rest of it standing in my own doorway, and I chose the fifth day from today on purpose. It is the day you would be here anyway. And the reason I chose it is that I would rather be asked by a room that has already been told I did not want you in it.**"
+"**Because when a man of twenty-nine came to my gate four days ago and told me the day was going to come back to a meeting-ground, and that a meeting-ground cannot set a day, I stood in my own doorway and worked out the rest of it, and the day I chose is nine days from that and it is five days from today, and I chose it on purpose. It is the day you would be here anyway. And the reason I chose it is that I would rather be asked by a room that has already been told I did not want you in it.**"
 
 "I will not be there."
 
@@ -92,10 +92,8 @@ She was at the gate with the board under her left arm when he came up. She did n
 
 ---
 
-**And the last things on the nineteenth day of the Long Month are these, and there are three of them, and they are all in one place, and none of them is a document and none of them is a page.**
+**And the last things on the page are two, and neither of them is a document.**
 
-A gate board at the bottom of a channel with two dates in chalk on it, the twelfth and the nineteenth, in two hands, and the second hand is a hand that has never written a date on anything in a hundred and seventy-four days, and the board is not on a list of anything and there is no name at the top of it.
+A gate board at the bottom of a channel with two dates in chalk on it, the second and the nineteenth, in two hands, and the second hand is a hand that has never written a date on anything in a hundred and seventy-four days, and the board is not on a list of anything and there is no name at the top of it. The twenty-fourth is not on the board. It is on a slate that came down eleven miles on a raft, and a man of about thirty-four who keeps a stall has it on the back of his own left hand in pencil where anybody on that flat can read it, and he put it there himself and entered that he did it on the Sunday and not on the Thursday.
 
-A bell on a post, rung at about the seventh hour by a boy of eight who was told to ring it and does not know why, and about nine adults on a flat who have arranged their whole morning around it.
-
-And about nine hundred measures of salt standing dry on racks that a settlement pays for, a causeway of four miles and forty days of work standing finished and empty in the dark, and the days on the Redroot gate belonging to nobody yet, and the ground still held, and the rota still running, and the compact of eleven lines untouched, and the crossing still recognised provisionally, and nothing settled and nothing said so, and a man of thirty-two eleven miles away in the rain who is not going to be at a gate on the twenty-fourth and has entered that he will not be asked to be.**
+**And a man of thirty-two eleven miles away in the rain, who is not going to be at a gate on the twenty-fourth and has entered that he will not be asked to be.**

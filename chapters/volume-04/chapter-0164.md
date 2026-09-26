@@ -24,19 +24,19 @@ Somebody at the back of the hall said *read it out anyway* and about nine people
 
 ---
 
-**And then the man of thirty-two conceded the ninth sentence, out loud, in about four minutes, in front of about nine people and about two hundred and forty who could hear, and it is the first time in ninety-six days that anybody has answered it, and it is the first thing he has conceded since the sixty-fourth day of the month after this one, and nobody in the room improved on it and nobody apologised for him either.**
+**And then the man of thirty-two conceded the ninth sentence, out loud, in about four minutes, in front of about nine people and about two hundred and forty who could hear, and it is the first time in a hundred and nine days that he has said any part of it out loud, and it is the first thing he has conceded since the sixty-fourth day of the month after this one, and nobody in the room improved on it and nobody apologised for him either.**
 
-**Here is the ninth sentence. It is Jonah Pike's, said in a yard in front of about two hundred and forty people on the thirty-fourth day of the new month, which was the fifty-ninth day of this flood, and a girl of seventeen has had it written out on her own slate since then, and it is a hundred and thirty-four words long and it is the longest single thing anybody has said in a yard in this city. And it is this: *you have spent fifty-nine days making sure that none of them has a job; you have written the page yourself; it is the longest page in this city and it is a list of things they may not have; and in it there is not one thing they may do; and in a month with no money in it, one of them is going to be a person with no work in a city with no money.***
+**Here is the ninth sentence. It is his own, said in a yard in front of about two hundred and forty people on the thirty-fourth day of the new month, which was the fifty-ninth day of this flood, and a girl of seventeen has had it written out on her own slate since then, and it is seventy-eight words long and it is the longest single thing anybody has said in a yard in this city. And it is this: *you have spent fifty-nine days making sure that not one of them has a job; the page listing what they may not have is the longest page in this city and you wrote it yourself; there is not one thing in it they may do; and in March, when the money ran out and there has not been any since, one of them is going to be a person with no work in a city with no money.***
 
-"Ninety-six days," said a woman of twenty-four.
+"A hundred and nine days," said a woman of twenty-four.
 
-"Ninety-six days," he said.
+"A hundred and nine days," he said.
 
-"**It is the thirteenth day of the Long Month. About nine of the seventeen have work and are paid on a day and were paid this week. I have seen four of them paid. I know what they are paid and I know who pays it. The rest of the page you wrote is correct and I have never said it was not, and I wrote it and I asked for it to be longer than the list of what they have.**"
+"**It is the thirteenth day of the Long Month. About nine of the seventeen have work and are paid on a day and were paid this week. I have seen four of them paid. I know what they are paid and I know who pays it. The rest of the page I wrote is correct and I have never said it was not, and I wrote it and I asked for it to be longer than the list of what they have.**"
 
 Nobody made a sound.
 
-"**So: the ninth sentence is right, and I am not going to argue with it, and I have had it in my hand for ninety-six days and I have carried it about like a man carrying somebody else's parcel, and I am putting it down here in front of about two hundred and forty people, and the reason I am putting it down here and not in a room is that I want about two hundred and forty people to have heard it.**"
+"**So: the ninth sentence is right, and I am not going to argue with it, and I have had it in my hand for a hundred and nine days and I have carried it about like a man carrying somebody else's parcel, and I am putting it down here in front of about two hundred and forty people, and the reason I am putting it down here and not in a room is that I want about two hundred and forty people to have heard it.**"
 
 "And you do not apologise for it," said a man of about thirty-four who keeps a stall.
 
@@ -66,15 +66,15 @@ Nobody made a sound.
 
 "And if I hold it."
 
-"Then you hold it, and in about four months every person in this city who has heard about it will be able to tell that you are the only man in it, and there is no way to be in that thing and not be that, and I have thought about that for two days and I have decided I can live with it and I would like you to decide whether you can.**"
+"**Then you hold it, and in about four months every person in this city who has heard about it will be able to tell that you are the only man in it, and there is no way to be in that thing and not be that, and I have thought about that for two days and I have decided I can live with it and I would like you to decide whether you can.**"
 
 ---
 
 **And he did not refuse it in four seconds, and this is the first change in him since the sixth week of this flood and it is on the page and a man of about thirty-four who keeps a stall said so afterwards, on his way out, and nobody improved on what he said.**
 
-"**It took four minutes,**" said a man of about thirty-four who keeps a stall. "**Four minutes is a long time. Nobody in this city has ever watched a man of thirty-two take four minutes. I have watched him refuse four things in four seconds and I have watched him stand still for four hours, and four minutes is a new thing and I do not know what it is and I am not going to be the one who says.**"
+"**It took four minutes,**" said a man of about thirty-four who keeps a stall. "**Four minutes is a long time. Nobody in this city has ever watched a man of thirty-two take four minutes. I have watched him refuse four things in a quarter of a minute and I have watched him stand still for four hours, and four minutes is a new thing and I do not know what it is and I am not going to be the one who says.**"
 
-"It is the technical part," he said. "**I have said for a hundred and sixty-seven days that a thing that cannot be argued with because it is a day is a chair with no date on it. And this has no date on it. That is the whole difficulty and it is a technical difficulty and it is not about you and it is not about the Crown and it took me the entire four minutes.**"
+"It is the technical part," he said. "**I have said for a hundred and sixty-eight days that a thing that cannot be argued with because it is a day is a chair with no date on it. And this has no date on it. That is the whole difficulty and it is a technical difficulty and it is not about you and it is not about the Crown and it took me the entire four minutes.**"
 
 "And what did you do with the four minutes?"
 
@@ -84,11 +84,11 @@ Nobody made a sound.
 
 **And he asked for four days, and he said why in one sentence, and the sentence is in a book in this city in his own hand.**
 
-"**I need to find out what it is, and a man who takes a thing in four seconds and a man who takes a thing in four days have both said yes, and the difference is not visible afterwards.**"
+"**I need to find out what it is, and a man who takes a thing in a quarter of a minute and a man who takes a thing in four days have both said yes, and the difference is not visible afterwards.**"
 
 "Four days is a long time," said Jonah Pike.
 
-"**It is longer than four seconds.**"
+"**It is longer than a quarter of a minute.**"
 
 ---
 
@@ -102,7 +102,7 @@ Jonah Pike answered it in about nine sentences and every one of them was true.
 
 "Four of those nine sentences are why you are dangerous," said a man of about thirty-four who keeps a stall.
 
-"**Four of those nine sentences are the whole of what this store is, and I have been right about eight sentences out of nine for a hundred and sixty-seven days and you are asking me which four and I am not going to insult you by pretending the other five are a business.**"
+"**Four of those nine sentences are the whole of what this store is, and I have been right about eight sentences out of nine for a hundred and sixty-eight days and you are asking me which four and I am not going to insult you by pretending the other five are a business.**"
 
 ---
 
@@ -132,4 +132,4 @@ Nobody said anything.
 
 **And a man of thirty-two wrote it down, and she asked him not to, and he did it anyway, and it is entered that he did it anyway, and it is the second time in four days, and the finding of that is not about the man, and a woman of twenty-four wrote that in a book and said so.**
 
-**And the last thing on the thirteenth day of the Long Month is a page with no date on it and no name at the top of it, which is a page nobody can be angry at,** on a step at the back of a room, which is not a table, and about four people in that building understood what that object was, and about two hundred and thirty did not, and nothing was signed, and the seat of holder of the pull is vacant and may not be filled without a room in daylight with a date on it, and there is not going to be one in the next four days.**
+**And the last thing on the page is a page with no date on it and no name at the top of it, which is a page nobody can be angry at, on a step at the back of a room, which is not a table, and about four people in that building understood what that object was, and about two hundred and thirty did not, and nothing was signed, and the seat of holder of the pull is vacant and may not be filled without a room in daylight with a date on it, and there is not going to be one in the next four days.**

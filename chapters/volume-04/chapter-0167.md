@@ -1,6 +1,6 @@
 # Chapter 0167 — The Meeting-Ground Floats
 
-A meeting-ground is a raft with a roof on it and it has to be poled to where the people are, and on the morning of the sixteenth day of the Long Month it was poled eleven miles up the Reach to hear a settlement's ask about the days on a gate, and what is asked is not said until about the ninth hour of the morning, and by then the raft has been under way for two hours.
+A meeting-ground is a raft with a roof on it and it has to be poled to where the people are, and on the morning of the sixteenth day of the Long Month it was poled eleven miles up the Reach to hear a settlement's ask about the days on a gate, and it is two hours under way before anybody on it has said a word out loud.
 
 **It is a Thursday. There are about forty people and a boat and a roof and a bench, and it floats, and a body that floats is a body that has to go and find the people, and that is the whole of what this day turns out to be about.**
 

@@ -70,11 +70,11 @@ Nine people were in it and a man of about thirty-four who keeps a stall had put 
 
 "**Because a description is a removal with a column for where the person is.** I have been on a board that goes down a river four times a year since I was thirty-one and I know exactly what a paragraph about nine people does to those nine people in about four months. **And there are about nine households on these flats and about nine of them have never been to a market in this city and have no business in this city and have not been asked about anything, and I have been asked nothing and I am not going to describe them to a room to make a room feel better.**"
 
-"You have just told this city where its money comes from."
+"You have just told this city where its money comes from," said a man of about thirty-four who keeps a stall.
 
 "**I have told this city where a store's money comes from. That is a road and a buyer. It is not anybody's name.**"
 
-"Then what have you told us," said a man of about thirty-nine whose shoulder cannot be set and who was not in the room and whose absence is entered by a woman of twenty-four.
+"Then what have you told us," said the man of about thirty-four who keeps a stall, and he asked it the second time, because the first answer had not been an answer.
 
 "I have told you the shape of it," said the man of about thirty-nine who trades on the board. "**And the shape is worse than the story. The story was that a man from another world was taking ground off a wetland. It is not a story. It is a man from another world paying a wage on a day to nine people, and there is no rule against him doing that, and I have looked.**"
 

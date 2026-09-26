@@ -98,7 +98,7 @@ The rain came across the flat in a sheet and went under a rack and came out the 
 
 ---
 
-Nobody said anything for about nineteen seconds, and the water-count put her hand flat on the gate board over the chalk and left it there, and did not wipe it, and did not add to it.
+Nobody said anything at all, and the water-count put her hand flat on the gate board over the chalk and left it there, and did not wipe it, and did not add to it.
 
 **And a man of about thirty-four who keeps a stall asked her the other thing, which was the thing she has been carrying since the eightieth day of this flood and has not been asked about once.**
 

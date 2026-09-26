@@ -1,6 +1,6 @@
 # Chapter 0168 — The Better Record
 
-A woman of twenty-four had been awake since about the fourth hour of the morning and had copied a wage list for six hours in a hand that is not hers, and what is copied is a copy and not a theft, and whose hand it is in is not said for another three hours.
+A woman of twenty-four had been awake since about the fourth hour of the morning and had copied a wage list for six hours in a hand that is not hers, and the list is on a trestle board in a store on the upper road, and the hand on it belongs to a man of forty-two, and there is nobody in this city who is going to say so for about three hours.
 
 **It is the seventeenth day of the Long Month and it is a Friday. She has been the first public record in this city for a hundred and seventy-two days, and she is on no roll of anything, and there is exactly one other record in four hundred miles and it is on a wall in a converted salt store and it came up a cart in the ordinary course.**
 
@@ -98,4 +98,4 @@ Then he said the other half, and he said it in one sentence, and about four peop
 
 ---
 
-**And the last thing on the seventeenth day of the Long Month is that nine pages of a better record are in four hands in a city that had one record on a wall, and none of the four hands is on a roll of anything, and a man of forty-two has asked for them to go everywhere, and about nine people in a yard did not believe him and one of them has a slate and did.**
+**And the last thing on the page is that nine pages of a better record are in four hands in a city that had one record on a wall, and none of the four hands is on a roll of anything, and a man of forty-two has asked for them to go everywhere, and about nine people in a yard did not believe him and one of them has a slate and did.**

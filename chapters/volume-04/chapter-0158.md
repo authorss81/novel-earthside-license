@@ -1,6 +1,6 @@
 # Chapter 0158 — The Cost, Read Out
 
-Somebody in the settlement's workroom on the upper road had written the cost of a workway on a board in chalk, and had read it out to about nine people, and had read it out wrong on purpose once, to see who would stop him, and about four people stopped him, and one of them was a woman who had come eleven miles to hear a cost read out and had not expected it to be free.
+Somebody in the settlement's workroom on the upper road had written the cost of a workway on a board in chalk, and had read it out to about nine people, and had read it out wrong on purpose once, to see who would stop him, and about four people stopped him, and one of them was a woman who had come nine miles to hear a cost read out and had not expected it to be free.
 
 **It is the seventh day of the Long Month and it is a Tuesday, and two rooms are used, and the second one has about nine people in it, and the board went on a trestle in the first one and was taken to the second one at the fourth hour of the afternoon.**
 
@@ -36,7 +36,7 @@ Nobody said anything, and the woman of about thirty-four who keeps a stall by th
 
 **And he read it wrong on purpose at about the second hour, and the wrongness was small and it was clever and it was the only dishonest thing anybody did on the seventh day of the Long Month.**
 
-He read the fourth line as *abandoning a claimed ground is a matter of the holder's convenience*, and about four people stopped him inside nine seconds, and he put the chalk down and said *thank you* and read the line as it is on the board, and a woman of about fifty-nine who keeps a salt drum on the road said afterwards that the four of them had all stopped him for slightly different reasons and that two of the four had reasons that were not the reason, and that the man of about twenty-nine had listened to both of the wrong reasons as carefully as to the right one, and that this is how you spot the two.
+He read the fourth line as *abandoning a claimed ground is a matter of the holder's convenience*, and about four people stopped him before he got to the end of it, and he put the chalk down and said *thank you* and read the line as it is on the board, and a woman of about fifty-nine who keeps a salt drum on the road said afterwards that the four of them had all stopped him for slightly different reasons and that two of the four had reasons that were not the reason, and that the man of about twenty-nine had listened to both of the wrong reasons as carefully as to the right one, and that this is how you spot the two.
 
 **And then, because about nine people were standing there in the cold with nothing to do, he told them the thing that he is actually for, and it is the reason a settlement of a hundred and forty people can be right about nine things in ten.**
 
@@ -68,7 +68,7 @@ Somebody said the date out loud and a girl of seventeen on no roll of anything w
 
 ---
 
-**And at about the fourth hour of the afternoon, in the second room, with the board on the trestle and about nine people standing in it, a woman who had come eleven miles to hear a cost read out was asked whether she wanted the thing, and she said yes with the cost in front of her, and she said it in nine sentences and the third one was the reason and it is the whole of the day.**
+**And at about the fourth hour of the afternoon, in the second room, with the board on the trestle and about nine people standing in it, a woman who had come nine miles to hear a cost read out was asked whether she wanted the thing, and she said yes with the cost in front of her, and she said it in nine sentences and the third one was the reason and it is the whole of the day.**
 
 > **One. I am going to say yes and I am going to say it once, and I would like it written down that nobody argued with me about it.**
 >
@@ -108,4 +108,4 @@ Somebody said the date out loud and a girl of seventeen on no roll of anything w
 
 "It is entered," said a woman of twenty-four, in a book, in her own words, "**as a fault and not as a virtue, and the man named it before anybody asked him to, and I am not going to soften it, and the relief is his and the wall is not, and on this page both of those are true on the same morning.**"
 
-**And the last thing on the seventh day of the Long Month is that a body with no name and no roll and no officer has a person in it, and the person is a Warden, and a Warden's duty is to a claimed place, and the claimed place is the low ground at the bottom end of a long channel, and nobody in that room can see that yet, and it is on the page anyway.**
+**And the last thing on the page is a gate board lying flat on a table in a room on the upper road with a sleeve of rain still under the edge of it, and a girl of seventeen's book open at a page she has not read back, and neither of those two things is a page.**

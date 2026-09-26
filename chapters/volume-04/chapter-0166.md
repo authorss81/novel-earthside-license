@@ -1,8 +1,8 @@
 # Chapter 0166 — The Name, Asked For
 
-A room with a door at Redroot has a bench in it facing the door, and about four people noticed the bench inside about four minutes of coming into it, and what follows happens to a bench and not to a naming, because a bench facing a door is a seat and a seat is a place to be angry at and this is going to need somewhere to be angry.
+A room with a door at Redroot has a bench in it facing the door, and about four people noticed the bench inside about four minutes of coming into it, and about four of them had been in a hall over a market for a hundred and seventy days with a step at the back of it and no name on the step, and a bench facing a door is a seat, and a seat is a thing a person can sit in and be angry from, and nobody in that room had anywhere to be angry until about the fifth minute.
 
-**It is a room. It is the first real room in this stretch of days that is not a room over a market, and it is a room in a house and a house is not a page and the difference took about nine people four minutes to work out. It is the fifteenth day of the Long Month and it is a Wednesday and about nine people are in it.**
+**It is the first real room in this stretch of days that is not a room over a market, and it is a room in a house, and a house is not a page, and it took about nine people about four minutes to work that out and about four of them got it wrong on the way and one of the four said so.**
 
 ---
 
@@ -20,7 +20,7 @@ The room has a bench, a table, a fire that is out, and a door that shuts. It is 
 
 The reason she asked is a reason that is on the page and it is the reason this whole run of days turns on, and it is short.
 
-"There is a settlement nine miles up this road that wants the days on the gate at the bottom of this channel," she said. "**They will ask. They have not asked yet. They will ask in about a month, because they do everything in a room with a date on it and they have not found out about us yet. And when they do, somebody is going to say we are a commons, and if we are a commons then we are a thing that can be written to.**"
+"There is a settlement up the road past this city that wants the days on the gate at the bottom of this channel," she said. "**They will ask. They have not asked yet. They will ask in about a month, because they do everything in a room with a date on it and they have not found out about us yet. And when they do, somebody is going to say we are a commons, and if we are a commons then we are a thing that can be written to.**"
 
 "We are a commons," said a woman of about sixty-one with a barrow.
 
@@ -34,7 +34,7 @@ The refusal was nine words and it is in a book in this city in the words of the 
 
 "**A thing with a name is a thing that can be written to, and a name on a body is a column with a body in it.**"
 
-"And who wrote to," said a man of about thirty-four who keeps a stall, who had walked up nine miles that morning.
+"And who wrote to," said a man of about thirty-four who keeps a stall, who had walked up the road that morning.
 
 "**About four people in this city have been written to. And one of them is on a desk nine hundred miles away with a question in its eighth column and no name in it, and I would rather be the reason that column is still empty than the reason it is not.**"
 
@@ -42,7 +42,7 @@ The refusal was nine words and it is in a book in this city in the words of the 
 
 "**I say no. That is what a person can do and it is the only thing any of us has got.**"
 
-**And it is entered that about four people in that room agreed with the refusal, and about four did not, and that the four who did not said so out loud, and that one of the four was a man of about twenty-nine from the settlement's workroom who had come up the road to hear how the settlement would be described, and who said that a body with no name is a body that a stranger can say anything about, and that he was not trying to argue, and that he had come nine miles to hear it and not to say it, and that he was going to leave at the second hour of the afternoon.**
+**And about four people in that room agreed with the refusal, and about four did not, and the four who did not said so out loud, and that one of the four was a man of about twenty-nine from the settlement's workroom who had come up the road to hear how the settlement would be described, and who said that a body with no name is a body that a stranger can say anything about, and that he was not trying to argue, and that he had come up the road to hear it and not to say it, and that he was going to leave at the second hour of the afternoon.**
 
 ---
 
@@ -52,7 +52,7 @@ The refusal was nine words and it is in a book in this city in the words of the 
 >
 > **It has no roll and no officer and no seat and no standing, and nobody's workway is a term of it, and no party to it may be asked to give one up.**
 >
-> **And the difference from the word on a wall nine miles up this road, which is the same word and a different thing, is this: that wall is a list and this is a rota.**
+> **And the difference from the word on a wall up the road past this city, which is the same word and a different thing, is this: that wall is a list and this is a rota.**
 >
 > **And the right of any person in it to refuse any part of it, without a reason, is on the wall, in the words of the man who argued it on the seventh day of the new month, who was right and has not been told he was right.**
 
@@ -102,10 +102,14 @@ He said one word.
 
 "Good," he said.
 
-**And the man of about thirty-nine who trades on the Open Hand board said, afterwards, on the road, the thing that about four people in this city understood and that is the reason this day is on the page at all: *you have just said the only good word anybody in this city has said about a body that is not theirs, and you are not in it, and it is better than anything you have made in this city, and I am not going to say that to your face and I have said it on a road.*
+**And the man of about thirty-nine who trades on the Open Hand board said, afterwards, on the road, the thing that about four people in this city understood and that is the reason this day is on the page at all: *you have just said the only good word anybody in this city has said about a body that is not theirs, and you are not in it, and it is better than anything you have made in this city, and I am not going to say that to your face and I have said it on a road.**
 
 ---
 
-**And the last thing on the fifteenth day of the Long Month is a date in chalk on a door at Redroot and a bench facing the door and the word *commons* on a board on the flats with a bell on a post, and the same door has no name on it and nothing written on it but the date, and from about nine feet away a woman of about thirty-four who keeps a stall by the wharf read the date off the door and did not go closer, and said one word to nobody, and it was not *good*.**
+**And the last thing on the page is a date in chalk on a door at Redroot, and the same door has no name on it and nothing written on it but the date, and from about nine feet away a woman of about thirty-four who keeps a stall by the wharf, who has been on nothing for a hundred and seventy days and who had never been to Redroot in her life, read the date off the door and did not go any closer.**
 
-"Right," she said, and went down to the flats.
+"Good," she said.
+
+She waited, to see whether anybody else was going to say it. Nobody was.
+
+"**Good,**" she said again, to nobody, and went down towards the flats.
