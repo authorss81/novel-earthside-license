@@ -82,7 +82,7 @@ He put the bar down on the boards at the edge of that yard, well away from the l
 
 "**It is nothing like a rack. A rack is four lengths and a rope and four people and I cannot get one above my shoulder, and I have just lifted one end of a length of wood off a board to find out whether I still could, and I still could not, and I have not said that out loud and I am not going to, and about four people in this yard have worked it out from about nine feet and about nine of them have not looked up from the boards.**"
 
-Nobody improved on it. The end of the wood went back down on the boards in the same wet print it had been lying in and about four people in that yard saw that and about nine of them had not, and about four people in this city have said since that a woman who cannot lift a rack lifted a length of wood and did not say so, and about nine of them have said that she was about to say so and she was not.
+Nobody improved on it. The end of the wood went back down on the boards in the same wet print it had been lying in and about four people in that yard saw that and about nine of them had not, and nobody in that yard said the thing that would have made it a different afternoon, and about four people in this city have said since that the woman who cannot lift a rack was the only person in it who found out anything.
 
 ---
 

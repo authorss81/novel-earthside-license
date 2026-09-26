@@ -52,13 +52,13 @@ She put both hands flat on the boards on either side of the sack and did not put
 
 "How long has yours been hard."
 
-"**Since the thirty-ninth day of that month. And I paid a figure for those nine measures on the twelfth day of that month and I have not opened them either, and about nine people in this city cannot read and about nine of them come into my shop, and I have not been able to work out since the sixty-ninth day of the Long Month whether I have been keeping salt or a price.**"
+"**Since the thirty-ninth day of that month. And I paid a figure for those nine measures on the twelfth day of that month and I have not opened them either, and about nine people in this city cannot read and about nine of them come into my shop, and I have not been able to work out since the fifty-ninth day of the Long Month whether I have been keeping salt or a price.**"
 
 "Which of those is it."
 
 "**That is the question and I have been carrying it about four streets since Friday and I could not put it down until this morning, and I am not going to answer it on a wharf, and I am not going to answer it on a page either, because the answer is that a thing you pay a figure for and a thing you are given a bag of are not the same object and the only difference between them in this city is a knot.**"
 
-He looked at the knot on his own sack and did not say anything. About four people in that market have said since that she told him the whole of it in a sentence and he did not thank her and she did not ask him to, and about nine of them have said that she told him and he went on carrying it the same four streets he had carried it before.
+He looked at the knot on his own sack and did not say anything. About four people in that market have said since that she told him the whole of it in four sentences and he did not thank her and she did not ask him to, and about nine of them have said that she told him and he went on carrying it the same four streets he had carried it before.
 
 Nobody in that market said anything. A gull went over the wharf and the water under the boards moved on without any wind behind it, and about four people who were standing there had a shop four streets from a market and about nine of them had a stall that sells nothing that anybody in this city can carry away.
 
@@ -110,7 +110,7 @@ The woman of about thirty-four who keeps that stall said one sentence after that
 
 "You could copy a sack."
 
-"**I could copy a sack. I have thought about it on about four walks since the sixty-ninth day of the Long Month and I am not going to, and the reason is that a sack is a thing a person is given and a copy of a sack is a thing a person can be given again, and about nine people in this city cannot read and about four of them come into a shop four streets from here, and I am not going to build a second instrument for the same half of the city that already has one.**"
+"**I could copy a sack. I have thought about it on about four walks since the sixty-first day of the Long Month and I am not going to, and the reason is that a sack is a thing a person is given and a copy of a sack is a thing a person can be given again, and about nine people in this city cannot read and about four of them come into a shop four streets from here, and I am not going to build a second instrument for the same half of the city that already has one.**"
 
 ---
 

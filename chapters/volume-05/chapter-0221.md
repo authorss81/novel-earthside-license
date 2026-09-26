@@ -80,7 +80,7 @@ The sacks in the chest were hard to the touch through the sacking and the salt h
 
 "You do that every time."
 
-"**I do that every time because the day I join a lump of salt to a line on a page is the day this city has a column for salt, and there is not one, and about four hundred and forty people on eleven miles of flats have never been on a rota including the nine of them who have. Write the day and the two sentences and leave the rest of the page.**"
+"**I do that every time because the day I join a lump of salt to a line on a page is the day this city has a column for salt, and there is not one, and about four hundred and forty people dry salt on eleven miles of flats and about nine of them have ever been on a rota and the other four hundred and thirty-one have not. Write the day and the two sentences and leave the rest of the page.**"
 
 ---
 

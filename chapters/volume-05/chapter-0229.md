@@ -76,7 +76,7 @@ She went back down the bank in the dark at about the ninth hour and about four p
 
 ---
 
-**And the keeper of the Redroot gate was at the top of that cut at about the seventh hour of the morning and had been there since the first light, and she worked the channel with the board in her left hand and did not put it down once, and she is fifty days into a year of being angry that has not run out, and she said nothing to anybody about it and nobody in that yard has said her name and nobody went up that bank with a message.**
+**And the keeper of the Redroot gate had been at the top of that cut from first light, and she was still there at about the seventh hour of the morning, and she worked the channel with the board in her left hand and did not put it down once, and she is fifty days into a year of being angry that has not run out, and she said nothing to anybody about it and nobody in that yard has said her name and nobody went up that bank with a message.**
 
 ---
 

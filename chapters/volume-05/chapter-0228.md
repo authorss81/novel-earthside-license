@@ -1,6 +1,6 @@
 # Chapter 0228 — Nobody Takes The Wood
 
-The far pan of the beam came apart in the yard of the store on the upper road at about the ninth hour of the morning on the seventy-third day of the Long Month while a lump of salt was sitting in the near one, and the near pan went over about four inches before the block of stone stopped it, and about nine people in that yard were in it. The crack had gone from the middle of the pan to the rim, and the wood in it was the colour of wet ash, and it came apart in two pieces along the crack and one of the pieces was the length of a hand. The crack had been in that pan since the fifty-ninth day of the Long Month and it has run out under the rim since the sixty-ninth day of that month.
+The far pan of the beam came apart in the yard of the store on the upper road at about the ninth hour of the morning on the seventy-third day of the Long Month while a lump of salt was sitting in the near one, and the near pan went over about four inches before the block of stone stopped it, and about nine people in that yard were in it. The crack had gone from the middle of the pan to the rim, and the wood in it was the colour of wet ash, and it came apart in two pieces along the crack and one of the pieces was the length of a hand. The crack had been in that pan since the fifty-ninth day of the Long Month and it had run out under the rim before the sixty-seventh.
 
 ---
 
@@ -8,7 +8,7 @@ The far pan of the beam came apart in the yard of the store on the upper road at
 
 "That is the pan."
 
-"**That is the pan and it has been cracked since the sixty-seventh day of that month and I have told about four people in one yard about that crack and I have told nobody else, and it went this morning with a quarter of a sack sitting in the other side of it, and about four people in this yard have been waiting three days for me to say something about that and about nine of them have not.**"
+"**That is the pan and it has been cracked since the fifty-ninth day of that month and I told a yard about that crack on the sixty-seventh day of that month and I have told nobody since, and it went this morning with a quarter of a sack sitting in the other side of it, and about four people in this yard have been waiting three days for me to say something about that and about nine of them have not.**"
 
 "You told a yard."
 
@@ -16,7 +16,7 @@ The far pan of the beam came apart in the yard of the store on the upper road at
 
 "Tell me now, then."
 
-"**There is a crack in it. That is all and it is six days old and I have said it in about nine words, and I would like that entered in the order it happened, which is that you asked me and then I said it, and not in the other order.**"
+"**There is a crack in it. That is all and it is fourteen days old and I have said it in about nine words, and I would like that entered in the order it happened, which is that you asked me and then I said it, and not in the other order.**"
 
 ---
 
@@ -68,7 +68,7 @@ Nobody in that yard said anything. The near pan of that beam was still level and
 
 "There is no other page to put it on."
 
-"**Then it goes on a page of its own with nothing under it, and that is the most honest page in this city and I have got about four of them and one of them is a slate that is face down on a chest in the back of that store, and I would like a reader of this book at some point to work out that the four of them are the same shape.**"
+"**Then it goes on a page of its own with nothing under it, and that is the most honest page in this city and I have got about four of them and one of them is a slate that is face down on a chest in the back of that store, and I would like about four people in this yard at some point to work out that the four of them are the same shape.**"
 
 She wrote the day at the top of it and then one line under it, and she did not write why, and about four people in that yard watched her leave the rest of the slate empty.
 

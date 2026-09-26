@@ -84,8 +84,6 @@ He went up the bank with a rack on his shoulder and it went up four lengths at a
 
 ---
 
----
-
 **And about four people in that cut had been counting days to a date they worked out on their own on the sixty-ninth day of that month, and about nine of them had been, and the first one to say it out loud was a woman of about thirty-nine who cannot get a rack above her shoulder, and she said it to him and not to the bank.**
 
 "I have been counting."
@@ -116,7 +114,7 @@ She said no more than that and about four people in that cut understood all of i
 
 ---
 
-**And about the tenth hour the sun came over the bank of that cut about an hour later than it had on the sixty-ninth day of the Long Month and lit the bottom of it, and the rod lying flat in the crack had a shadow along the whole of its length, and about nine people at the top of that cut went down the bank on the side the water used to come in on and about four of them went up.**
+**And about the tenth hour the sun came over the bank of that cut about an hour later than it had on the fifty-ninth day of the Long Month and lit the bottom of it, and the rod lying flat in the crack had a shadow along the whole of its length, and about nine people at the top of that cut went down the bank on the side the water used to come in on and about four of them went up.**
 
 ---
 

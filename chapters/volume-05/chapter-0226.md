@@ -1,6 +1,6 @@
 # Chapter 0226 — A Man Carrying Salt
 
-Adrian Vale picked a sack up off the boards of the back room of the store on the upper road at about the sixth hour of the morning on the seventy-first day of the Long Month, put it on his shoulder and carried it into the corner, and then he did it again. The woman of about thirty-four in that store stood in the doorway and did not tell him where to put any of them, because nobody had told her. There are twelve sacks in that chest and about four of them have a knot on them that is not the knot on the others, and the floor of that back room is boards and the boards have a groove worn in them in the shape of a sack.
+Adrian Vale picked a sack up off the boards of the back room of the store on the upper road at about the sixth hour of the morning on the seventy-first day of the Long Month, put it on his shoulder and carried it into the corner, and then he did it again. The woman of about thirty-four in that store stood in the doorway and did not tell him where to put any of them for about a minute, because nobody had told her, and then she did. There are twelve sacks in that chest and about four of them have a knot on them that is not the knot on the others, and the floor of that back room is boards and the boards have a groove worn in them in the shape of a sack.
 
 ---
 
@@ -18,15 +18,15 @@ She went back out to the yard and left the door open behind her, and about four 
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom was in that back room at about the seventh hour with a slate under his arm that he picked up off the boards of a yard two days ago, and he stood in the doorway and did not come in and about four people in that yard had watched him not come in since the fiftieth day of that month and about nine of them had stopped watching.**
+**And a man of about twenty-nine from the settlement's workroom was in that back room at about the seventh hour with a slate under his arm that he picked up off the boards of a yard on the seventieth day of the Long Month, and he stood in the doorway and did not come in and about four people in that yard had watched him not come in since the fiftieth day of that month and about nine of them had stopped watching.**
 
 "You are on no roster of this building."
 
-"**I am on no roster of any building. That is not a complaint and I am not going to make it one in a doorway, and I came up nine miles on the strength of a decision I wrote on a slate two days ago and I would like it entered that I came up nine miles to see whether there was anything to carry and there is.**"
+"**I am on no roster of any building. That is not a complaint and I am not going to make it one in a doorway, and I came up nine miles on the strength of a decision I wrote on a slate on the seventieth day of that month and I would like it entered that I came up nine miles to see whether there was anything to carry and there is.**"
 
 "There is a man's coat on that wall."
 
-"**There is a man's coat on that wall and there is a woman of about thirty-four in this building who is on no list in it, and about four people in this city have worked out what that shape is and about nine of them have not, and I am not going to say the word for it in a doorway because I wrote a decision on a slate two days ago and I am about nine days away from being a person who says words for things.**"
+"**There is a man's coat on that wall and there is a woman of about thirty-four in this building who is on no list in it, and about four people in this city have worked out what that shape is and about nine of them have not, and I am not going to say the word for it in a doorway because I wrote a decision on a slate on the seventieth day of that month and I am about nine days away from being a person who says words for things.**"
 
 He did not come in and he did not go away, and about four people in that yard said afterwards that a man standing in a doorway is not a man helping and about nine of them said that it is the first time they had watched one stay.
 
@@ -84,7 +84,7 @@ He put the cloth over his shoulder and went out and the boards of that back room
 
 ---
 
-**And the four sacks with a knot on them that is not the knot on the other eleven are the four at the bottom of the chest, and they are the four that were opened and re-tied on the fifty-sixth day of that month, and the salt in them has come up to the stitch line at the mouth and crumbles where you put a thumb on it, and the woman of about thirty-four in that store had not looked at the four of them in fifteen days and had not forgotten which four they were.**
+**And the four sacks with a knot on them that is not the knot on the other eight are the four at the bottom of the chest, and they are the four that were opened and re-tied on the fifty-sixth day of that month, and the salt in them has come up to the stitch line at the mouth and crumbles where you put a thumb on it, and the woman of about thirty-four in that store had not looked at the four of them in fifteen days and had not forgotten which four they were.**
 
 "**Those four are lighter.**"
 

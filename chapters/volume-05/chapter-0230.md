@@ -12,7 +12,7 @@ A man of about fifty-two who digs went down to the bottom of a cut on the Reach 
 
 "Does it stop."
 
-"**It stopped on the sixty-ninth day of the Long Month when the four weeks ran out, and it did not stop with water coming back, and I want that said first and in that order, because about four people in this city are going to say afterwards that a man said four weeks and the water came back on the day he said it would, and there has been no water in this cut since the forty-first day of the Long Month and there is none now.**"
+"**It stops today. Twenty-eight days after the forty-seventh day of the Long Month is the seventy-fifth day of the Long Month, and that is today, and it is not stopping with water coming back, and I want that said first and in that order, because about four people in this city are going to say afterwards that a man said four weeks and the water came back on the day he said it would, and there has been no water in this cut since the forty-first day of the Long Month and there is none now.**"
 
 He put his hands in his pockets and went down the side the water used to come in on. About nine people at the top of that cut watched a man walk into a dry channel on a Sunday morning and about four of them followed him down. The channel bed is hard all the way across and it rings under a boot the way a road does, and about four people in that cut heard it and about nine of them had not.
 
@@ -86,7 +86,7 @@ He said it at the top of a bank and about four people in that cut heard both of 
 
 ---
 
-**And a man of about thirty-two came up that bank at about the eleventh hour and stood at the top of it and did not come down, which is the sixth day in a row he has stood on that bank and the first one that has not been a Monday, and the five Mondays were the five before it, and about four people in this city have worked out what that is and about nine of them have not, and he said four sentences and none of them was about the four weeks.**
+**And a man of about thirty-two came up that bank at about the eleventh hour and stood at the top of it and did not come down, which is the fourth day in a row he has stood on that bank and none of the four of them has been a Monday, and the five Mondays he stood on it were the five Mondays before the seventy-first day of that month and the nearest of the five was six days ago, and about four people in this city have worked out what that is and about nine of them have not, and he said four sentences and none of them was about the four weeks.**
 
 "**I did not come down here this morning. I have been on this bank five Mondays in a row and I said in a market on the forty-eighth day of the Long Month that I am not going to be the man who walks up nine feet and asks a woman whether a thing she said on a date is still the thing she says on the date, and I have not, and I am not going to start on a Sunday with about nine people on a bank above me.**"
 
