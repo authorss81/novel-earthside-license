@@ -1,6 +1,6 @@
 # Chapter 0070 — The Slate
 
-On the forty-fifth day of the new month, which was the seventieth day of the flood and a Monday, eleven questions went onto a slate in the yard under the lock chapel in daylight in front of about two hundred and forty people, five days before a review, with a date on the page, and the reading of it took most of the afternoon, and the last thing that happened on the forty-fifth day of the new month was that a man of thirty-five with a shoulder that cannot be set was put on the nineteenth line of a page about what a person in this city may be asked to turn up for, and a man from another world watched it happen and wrote down that this is what he does instead of asking.
+On the forty-fifth day of the new month, which was the seventieth day of the flood and a Monday, eleven questions went onto a slate in the yard under the lock chapel in daylight in front of about two hundred and forty people, five days before a review, with a date on the page, and the reading of it took most of the afternoon, and the last thing that happened in that yard on the forty-fifth day of the new month was that a man of thirty-five with a shoulder that cannot be set was put on the nineteenth line of a page about what a person in this city may be asked to turn up for, and a man from another world watched it happen and wrote down that this is what he does instead of asking.
 
 **The review is on the fiftieth day of the new month. The date was on the page before the day. The questions are on the page before the day. There is a second page headed *what we are not asking and why*, and it is longer than the first, and it is part of the instrument and not an annexe. It is a review and it is not a queue, and a woman of thirty-eight of the second list named the other shape on the twenty-sixth day of the new month in ten words, and about nine people have understood this month what the difference was.**
 
@@ -12,9 +12,9 @@ On the forty-fifth day of the new month, which was the seventieth day of the flo
 
 "It has to be a slate," said the girl of seventeen. "**A page is in a book and a book goes in a case and a case goes to Aurel. A slate is a thing you can read standing up in the rain, and anybody in this yard can read it, and about two hundred and forty of them cannot read the local language, which is a separate and unsolved problem that I have a page about.**"
 
-Nyla Ferrow read the eleventh question out first, and the eleventh question is Adrian Vale's, and it is the only question on the slate that is about a person rather than about a door.
+Nyla Ferrow read the eleventh question out first, and the eleventh question is Adrian Vale's — **he had it since the twenty-ninth day of the new month and he wrote a different one, and the four words on the back of that slate are a woman of fifty-eight's and not his** — and it is the only question on the slate that is about a person rather than about a door.
 
-Then she read the rest, in order, at the ordinary volume, in the open, the way she reads the binding. Eleven questions. She read them twice. On the second reading about nine people noticed that four of them are questions this city asks when it wants to keep a door and six of them are questions this city asks when it wants to be able to close one, **and the difference is not in the tense and it is not in the mood and it is in who is able to answer, and a notary of fifty who has been reading Crown procedure for twenty-six years worked that out on the forty-third day of the new month and said in nine words that she would not sign a page she cannot read.**
+Then she read the rest, in order, at the ordinary volume, in the open, the way she reads the binding. Eleven questions. She read them twice. On the second reading about nine people noticed that of the other ten, four are questions this city asks when it wants to keep a door and six are questions this city asks when it wants to be able to close one, **and that the eleventh is neither of the two, and that this is the same count she gave on the Saturday and that the reason it still comes out at ten is that there are ten of them, ** and the difference is not in the tense and it is not in the mood and it is in who is able to answer, and a notary of fifty who has been reading Crown procedure for twenty-six years worked that out on the forty-third day of the new month and said in nine words that she would not sign a page she cannot read.**
 
 **And three of the eleven were read out twice, and the third hour of the afternoon is when the yard understood what a review's questions actually are.**
 
@@ -66,7 +66,7 @@ The two at the bottom are the finding of the day and they are the reason a revie
 
 Nobody has asked the girl of sixteen anything this volume. Nobody has asked the woman of thirty-eight anything this volume. The girl is a chalk-marker nine weeks into a wage that a chandler did not pay for, in the wrong weather, on a floor. The woman named a shape in ten words on the twenty-sixth day of the new month and nobody in this city has asked her a single question since.
 
-"You wrote a slate," said Odile Ferrand, thirty-eight, from about nineteen feet back, in a yard, in daylight, to two hundred and forty people. "**You wrote a slate with eleven questions on it and about nine names at the bottom of it, and two of those names are mine and one of them is a girl who is sixteen, and about four of the other names are people who are not in this yard because they are never in this yard.**
+"You wrote a slate," said Odile Ferrand, thirty-eight, from about nineteen feet back, in a yard, in daylight, to two hundred and forty people. "**You wrote a slate with eleven questions on it and about nine names at the bottom of it, and one of those names is mine and one of them is a girl who is sixteen, and about four of the other names are people who are not in this yard because they are never in this yard.**
 
 "**Nobody thought of that on the thirty-eighth day, did they.**"
 
@@ -78,7 +78,7 @@ Nobody has asked the girl of sixteen anything this volume. Nobody has asked the 
 
 ---
 
-**And the eleventh question was written at the last minute, on the back of a slate, with a stub of chalk, by a woman of fifty-eight who cannot read, and she has been asked nine times in sixty days and has answered twice, and it is four words long, and it is the only question on the page that could lose the licence on its own.**
+**The eleventh question was written at the last minute on the Sunday, on the back of a slate, with a stub of chalk, by a woman of fifty-eight who cannot read, and she has been asked nine times in sixty days and has answered twice, and it is four words long, and it is the only question on the page that could lose the licence on its own.**
 
 She had it in her coat for two days. She could not read it, because she cannot read, and she got a mason of fifty to read it to her on the Sunday, and he read it four times, and she asked for it to be read a fifth time and then she asked for the slate.
 
@@ -106,7 +106,7 @@ A man of about thirty-one read it back to her in a yard, out of nine words of co
 
 "I do not like it."
 
-"**Then it should not be on the slate,**" said a man of about forty-four who keeps a stall, who had struck out the first draft on the forty-third day.
+"**Then it should not be on the slate,**" said a man of about forty-four who keeps a stall, who had struck out the first draft on the forty-third day of the new month.
 
 "**No,**" said Renna Ord. "**Because if it comes off the slate then in about four months a room somewhere will write it in a better way and mean something else by it, and they will mean *what do we call the field*, and nobody will have asked, and a person who has never been asked is not a person who has refused, and I have watched this city learn that nine times.**
 
@@ -120,7 +120,7 @@ It is entered that about nine people understood the last clause, and that the pa
 
 ---
 
-**And the review is now a review, and that is the whole of what happened, and it is a small thing, and it is the first time in sixty-nine days that a person from another world has made a thing better in a way that cannot be taken back on a page.**
+**The review is now a review, and that is the whole of what happened, and it is a small thing, and it is the first time in sixty-nine days that a person from another world has made a thing better in a way that cannot be taken back on a page.**
 
 **Five days.** Day seventy-five. A trial licence twenty-five days old, signed and sealed on the twenty-fifth day of the new month, which is day fifty, with two witnesses per opening who may each refuse, a fresh inspection signed by four people before every opening in whatever weather there is, a return mark that belongs to the person who goes, a right of refusal, a right to be asked, a cost record without a figure on the end of it, and a review with a date on the page before the day.
 
@@ -134,7 +134,7 @@ It is entered that about nine people understood the last clause, and that the pa
 
 ---
 
-**And the last thing that happened on the forty-fifth day of the new month was that a man of thirty-five with a shoulder that cannot be set was put on the nineteenth line, and Adrian Vale watched it happen, and wrote it down.**
+**And the last thing that happened in that yard on the forty-fifth day of the new month was that a man of thirty-five with a shoulder that cannot be set was put on the nineteenth line, and Adrian Vale watched it happen, and wrote it down.**
 
 The nineteenth line is a question and not a duty. It says a person may be asked whether he is able to do a thing, and that the answer may be no, and that the answer is entered, and is not a fault, and is not a wage, and does not go in the roll.
 
@@ -158,7 +158,7 @@ And Adrian Vale stood at the back of a yard in a winter and wrote four lines in 
 
 ---
 
-**And at about the fourth hour of the afternoon, on the walk-round, a woman of twenty-nine took the notebook out of his hand again and did not give it back, and it was the second time in nine days.**
+**At about the fourth hour of the afternoon, on the walk-round, a woman of twenty-nine took the notebook out of his hand again and did not give it back, and it was the second time in nine days.**
 
 They went up, not down. The rail is condemned and they went up, and the dressed join in the gate was eight and seven-eighths of an inch below them in the dark and neither of them said anything about it.
 
@@ -194,7 +194,7 @@ She went down the two hundred steps. So did he, an hour later, and neither of th
 
 "**That is the first thing anybody in this city has offered me since the twenty-fifth day of this flood, and it is a line on a slate, and the line is four lines high.**"
 
-**And at about the eleventh hour of the night, on the two hundred steps, a docker of fifty-eight who cannot read was copying a shape out of a slate into a slate, and she had copied about nine of the nineteen, and she had run out of room.**
+**At about the eleventh hour of the night, on the two hundred steps, a docker of fifty-eight who cannot read was copying a shape out of a slate into a slate, and she had copied about nine of the nineteen, and she had run out of room.**
 
 The lamp on the third step of the lower gallery is lit. It is lit more often than it needs to be and has been since the fourth day of this flood, and nobody in this book has ever made it a symbol, including the man who is supposed to.
 
@@ -230,4 +230,4 @@ She did not ask him again. She has not asked him again since. It is entered that
 
 **The black line in his right palm is sixty-nine days old and has not moved one sixteenth of an inch. The dressed join in the gate is eight and seven-eighths of an inch and it does not narrow, it gets dressed, and it has never said a word. There is one ruled line left in the column and it was not filled tonight. The chapel stone is silent and is not repaired. The ground under the chapel is a scar and is not repaired and the boards have not been lifted since the fortieth day of this flood, and the form on the nail beside the slate has four items and a price written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found was knocked on three times on the night of the twenty-ninth day of the new month and four times on the night of the thirty-fifth, both entered and neither deleted, and nobody had to open anything for that to happen and nobody has asked what to do about it, and the second page of the slate says in nineteen lines what this city is not asking and why, and one of those nineteen lines is that a question is a question and not a duty and the day it becomes a duty somebody is to take it off the wall in daylight and say so.**
 
-**In five days, in a room, in daylight, a licence twenty-five days old is going to be reviewed by about nine people against eleven questions and a second page, and the eleventh question on the back of that slate is four words long and it is the only one of the twenty-nine lines that could lose the licence on its own, and it was written by a woman who cannot read, on a slate, in a yard, in the wrong weather, and nobody in this city knows what the answer is.**
+**In five days, in a room, in daylight, a licence twenty-five days old is going to be reviewed by about nine people against eleven questions and a second page, and the eleventh question on the back of that slate is four words long and it is the only one of the thirty lines that could lose the licence on its own, and it was written by a woman who cannot read, on a slate, in a yard, in the wrong weather, and nobody in this city knows what the answer is.**

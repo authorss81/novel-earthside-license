@@ -132,7 +132,7 @@ It goes in the case. The roll of strangers goes to Aurel four times a year in a 
 
 **And the page went on the nail under the chapel arch, beside the form, and a keeper of about seventy read the whole of it out twice at about the ninth hour of the evening in front of about two hundred and forty people, because it is her nail, and she has never had a page on her nail.**
 
-The form on that nail has four items and the price of the salt written under them and a fifth item added on the forty-ninth day of this flood, and none of the five can close anything and none of the five can say where a residue goes and none of the five can say who is in a room, and it is a form and it is not a promise, and there is a price on it and the price is salt.
+The form on that nail has four items and the price of the salt written under them and a fifth item added on the twenty-fourth day of the new month, and none of the five can close anything and none of the five can say where a residue goes and none of the five can say who is in a room, and it is a form and it is not a promise, and there is a price on it and the price is salt.
 
 **And now there is a second page on that nail, and it is longer than the form, and it is the first page anybody has ever put on that nail that anybody has never wanted to read.**
 

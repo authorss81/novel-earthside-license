@@ -94,7 +94,7 @@ And then she said, in English, which she has not done with him before, and it is
 
 "You are going to ask me why I have not spent it, and you are going to write my reason down, and I am going to let you, **and I am going to do it in a language I know so that it is my sentence and not yours.**"
 
-**And here it is, in her own words, and it is seventy-one words, and it is the only thing anybody in this city has said about silver that is not about silver, and nobody in the room understood all of it and about four people understood all of it:**
+**Here it is, in her own words, and it is seventy-one words, and it is the only thing anybody in this city has said about silver that is not about silver, and nobody in the room understood all of it and about four people understood all of it:**
 
 > "My mother was carried out of a yard in the fourth month of a flood year by four men who were owed money by her and they came anyway, and one of them carried her and one of them carried the box, and I was nine, and I have not spent a coin in nine years because **a coin is not a coin, it is the fourth man in a yard.**"
 
@@ -106,7 +106,7 @@ Nobody in the room spoke for about eleven seconds, and the eleven seconds are en
 
 ---
 
-**And about nine people in a yard turn out to have thought about this and had each assumed somebody else was doing it.**
+**About nine people in a yard turn out to have thought about this and had each assumed somebody else was doing it.**
 
 That is the third finding of the day and it is the one that is going to be true in four months, and it is not about silver at all.
 

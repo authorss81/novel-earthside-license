@@ -332,7 +332,7 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48�
 - **Answered a question about the fee in a yard, in about nine seconds, without softening it and without offering anything, and said the sentence the city has needed for four months: *an office that will take your goods for its fee is telling you what it thinks you are, and it is also telling you what it thinks you will be*, and said he had never written a sentence like it and that he did not enjoy the writing of it.**
 - **Said the useful half of the fee question — that he had been in this city eleven weeks and nobody had ever once asked him what a district is — in a yard and not in a room, and asked for that to be entered.**
 - **On the forty-fourth day of the new month he asked Adrian Vale for the first time in two volumes: *what do you want me to be useful for.*** Adrian did not get a clever answer and said so. Marrow then said seventeen words: *I have been useful for a month, and it got me nothing, and I did not notice.* **This is the first sentence anybody has entered about him that is not about the door, and this city has not convicted him of anything and is not going to.**
-- **He has still not mentioned the letter to Hattie Park and it is now forty-four days since the fortieth.**
+- **He has still not mentioned the letter to Hattie Park. The count is flood days from the fortieth, on which the channel was offered: it is thirty at the end of Batch 0002, which is day 70.**
 
 ## Dante Kuo — 35, Hearthguard captain in everything but name
 
@@ -366,7 +366,7 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48�
 
 - **The review, in five days.** Day 75, the fiftieth day of the new month. Eleven questions, a second page, a slate, and four words on the back of the slate.
 - **Nora Vale, 25, of Camden**, above a locksmith's, runs a rota on Tuesdays, Thursdays and Saturdays at the Camberwell Larder. **A letter is in a tin and it is not sent and there is no road.** *Open.*
-- **Hattie Park, of Dunedin.** **Forty-four days since a Crown channel was offered on the fortieth and Marrow has not mentioned it since, and Marrow has now asked for something.** *Open.*
+- **Hattie Park, of Dunedin.** **Thirty days since a Crown channel was offered on the fortieth day of the flood, and Marrow has not mentioned it since, and Marrow has now asked for something.** The count is flood days from the fortieth and nothing else; **at day 75 it is thirty-five and at day 80 it is forty.** *Open.*
 - **Ottoline Vask's two sentences** — the toll and the pattern, and a city cannot spend a thing and be its own foundation at the same time. Unanswered, not put in front of a room in this batch, and must not be resolved.
 - **The nine households of Nine Elms** — refused the credit, lost the quarter, water not received, the whole charge on Adrian, and **March is fifteen days off.**
 - **The six of the first group and the eleven of the second group** are still named, still with no land rights, no class, no standing and no workway, and one of them now has a workway that the page did not forbid and a rate she set for herself that was too low.

@@ -76,11 +76,11 @@ And Sabra Vint said: "I cannot read what is on it."
 
 **And the knock is not the same knock and both of them are on the page and neither of them has been deleted, and that is the whole of the rule that governs it.**
 
-The wall of the second bay is inside the Lock of Salt, at the bottom of the two hundred steps, and the number is chalked on it, and there have been five chalked marks on it since the forty-third day of this flood, and the docker's *nine* is on it, and a boy of nineteen's number is on it about four inches under and nine inches to the left in a hand that pressed the *k* too hard, and the two have been on that wall together for about a month and nobody has moved either.
+The wall of the second bay is inside the Lock of Salt, at the bottom of the two hundred steps, and the number is chalked on it, and there have been five chalked marks on it since the eighteenth day of the new month, and the docker's *nine* is on it, and a boy of nineteen's number is on it about four inches under and nine inches to the left in a hand that pressed the *k* too hard, and the two have been on that wall together for about a month and nobody has moved either.
 
 **On the night of the twenty-eighth day of the new month, at about the second hour, a man who was in the gallery reported three knocks in the dressed join under the chapel floor.**
 
-The join is under the chapel floor and it is dressed and it has been dressed since the forty-ninth day of this flood and it is a black mark in a place and it is not repaired, and the boards over it have not been lifted since the fortieth day of this flood, and the form on the nail says in its fourth line that it cannot say where a residue will go.
+The join is under the chapel floor and it is dressed and it has been dressed since the twenty-fourth day of the new month and it is a black mark in a place and it is not repaired, and the boards over it have not been lifted since the fortieth day of this flood, and the form on the nail says in its fourth line that it cannot say where a residue will go.
 
 Renna Ord entered both facts and deleted neither, and her entry is seventy-three words and it is the standing test for everything anybody has ever heard in this city:
 

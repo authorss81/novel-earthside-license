@@ -94,7 +94,7 @@ Osley looked at him for slightly longer than a man with a count to finish needs 
 
 **And then the answer, and the answer is a number, and it is nineteen lines long, and it is not a list of jobs.**
 
-Ottavia Vask has been in this city thirty-four years and has a bar she does not always carry. She came into the salt store at about the fourth hour of the afternoon and she was told what the question had been, and she did not ask him to say it again, and she took a piece of chalk and the flat of a sawn board and she wrote for about eleven minutes and what she wrote is on a board in a converted salt store and it has been read out in about two hundred and forty people's hearing, and it is this:
+Ottoline Vask has been in this city thirty-four years and has a bar she does not always carry. She came into the salt store at about the fourth hour of the afternoon and she was told what the question had been, and she did not ask him to say it again, and she took a piece of chalk and the flat of a sawn board and she wrote for about eleven minutes and what she wrote is on a board in a converted salt store and it has been read out in about two hundred and forty people's hearing, and it is this:
 
 > **What a person in this city may be asked to turn up for.**
 >
@@ -122,13 +122,13 @@ Line eleven is the one that matters and it is the one Vask said in a yard on the
 
 "It is a widening and not a rota," she said, and put the chalk down. "**And I have said that sentence before in a yard and I have been right about it and I am saying it now about a different thing and I am still right about it, and a mason who is fifty can tell you that a widening is the only kind of page that is not somebody's list.**"
 
-And then she said the second sentence of it, out loud, to about nine people in a converted salt store on the thirty-sixth day of the new month, and it is ten words and it has been in a sealed instrument in this city since the fiftieth day of this flood:
+And then she said the second sentence of it, out loud, to about nine people in a converted salt store on the thirty-sixth day of the new month, and it is ten words and it has been in a sealed instrument in this city since the twenty-fifth day of the new month:
 
 > **A working can be made cheaper without being made private.**
 
 And then she said the rest of the sentence, which is the part that is new:
 
-"And that is the second time anybody has said that sentence in this city. The first time was in a converted salt store on the fiftieth day of this flood about a witness, and it was about a door. **This one is about a person, and it is the first time in sixty days that the sentence has been useful to anybody who is not already standing in a gallery.**"
+"And that is the second time anybody has said that sentence in this city. The first time was in a converted salt store on the twenty-fifth day of the new month about a witness, and it was about a door. **This one is about a person, and it is the first time in sixty days that the sentence has been useful to anybody who is not already standing in a gallery.**"
 
 Nobody argued with her. It is entered that nobody argued with her and that about nine people understood what the sentence was for and that one of the nine was a salt factor of forty-eight who had gone back to his count.
 

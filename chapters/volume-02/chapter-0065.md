@@ -102,7 +102,7 @@ And the ninth of them is the word for the metal the fee of eleven ounces is in, 
 
 ---
 
-**And the twentieth thing this wall has said came up in that room at about the fourth hour and nine minutes of the afternoon, in front of about nine people, and it stood about nineteen seconds, and it is the best offer anybody has been made in this city since the flood, and it was made to a woman who has already said yes to a worse one.**
+**The twentieth thing this wall has said came up in that room at about the fourth hour and nine minutes of the afternoon, in front of about nine people, and it stood about nineteen seconds, and it is the best offer anybody has been made in this city since the flood, and it was made to a woman who has already said yes to a worse one.**
 
 > **A HOLDER'S WORK MAY BE DESCRIBED.**
 >
@@ -140,7 +140,7 @@ The refusal is entered. The refusal is in a book at a table on the fortieth day 
 
 ---
 
-**And the room then did the one thing nobody had done about the workway in eight days, and it is on the page, and nobody was asked anything.**
+**The room then did the one thing nobody had done about the workway in eight days, and it is on the page, and nobody was asked anything.**
 
 The procedure written on the thirty-second day of the new month has nine clauses and nine weaknesses on its face and a review date of **the fourth day of the month after this one**, and that date is not inside this month, and **a document that has a review date and nobody has thought about what happens on it is a document that is going to review itself.**
 
