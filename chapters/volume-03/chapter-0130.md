@@ -1,6 +1,6 @@
 # Chapter 0130 — Twenty-Four Days
 
-On the fortieth day of the month after this one, which was the hundred and thirtieth day of the flood and a Wednesday, about nine people sat in a room over a market at about the ninth hour of the evening and went through what there was, out loud, because that is what they do, and it is on the page, and none of it goes anywhere, and a boy of nine left a slate on a bench with his own handwriting on the back of it and nothing at all on the front, and nobody turned it over, and the case is upstairs, and the wall has said nothing.
+On the fortieth day of the month after this one, which was the hundred and thirtieth day of the flood and a Friday, about nine people sat in a room over a market at about the ninth hour of the evening and went through what there was, out loud, because that is what they do, and it is on the page, and none of it goes anywhere, and a boy of nine left a slate on a bench with his own handwriting on the back of it and nothing at all on the front, and nobody turned it over, and the case is upstairs, and the wall has said nothing.
 
 **The licence is eighty days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-five days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-first time. The black line in his right palm is one hundred and twenty-nine days old and has not moved one sixteenth of an inch.**
 

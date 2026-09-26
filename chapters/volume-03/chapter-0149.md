@@ -8,7 +8,7 @@ On the sixty-first and sixty-second days of the month after this one, which were
 
 She got off at about the second hour of the afternoon and she was on the water for eighteen days and she had a bag and a coat that was not good enough and a folded paper, and about nine people were on the quay because a man of about thirty-nine who trades on the Open Hand board had been standing there since the ninth hour in case anything came.
 
-"The second thing in a hundred and forty years," said a man of about thirty-four who keeps a stall by the wharf, to nobody. "**The first was a box on the twenty-sixth day of the month after this one and it is upstairs with its strap untied.**"
+"The second thing in a hundred and forty years," said a woman of about thirty-four who keeps a stall by the wharf, to nobody. "**The first was a box on the twenty-sixth day of the month after this one and it is upstairs with its strap untied.**"
 
 Nobody said anything for about nineteen seconds.
 
