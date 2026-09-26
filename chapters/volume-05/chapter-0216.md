@@ -1,10 +1,10 @@
 # Chapter 0216 — A Sack, And Nobody Asks
 
-A man of about forty who carries sacks came up a bank eleven miles from this city on the afternoon of the sixty-first day of the Long Month with a sack of salt on a strap across his shoulder, and there is nobody building anything on a Sunday and he came up it anyway, and about four people at the bottom of that bank watched him do it and about nine of them had watched him do it before.
+A man of about forty who carries sacks came up a bank eleven miles from this city on the afternoon of the sixty-first day of the Long Month with a sack of salt on a strap across his shoulder. The strap had worn a groove in the coat and he had put the sack down once on the way and picked it up again. There is nobody building anything on a Sunday and he came up it anyway, and about four people at the bottom of that bank watched him do it and about nine of them had watched him do it before.
 
 ---
 
-**And he put the sack down in the yard of a house at the bottom of the Redroot cut and did not go up to the door, and it is the fourth one he has carried up that bank and nobody in that house has ever asked him where it came from and he has never asked, and it is entered that he counted the four because he carries for a living and not because anybody asked him to.**
+**And he put the sack down in the yard of a house at the bottom of the Redroot cut and did not go up to the door, and the sack sat on the boards and started to lean. It is the fourth one he has carried up that bank and nobody in that house has ever asked him where it came from and he has never asked. He counted the four because he carries for a living and not because anybody asked him to.**
 
 "Nobody is going to ask you."
 
@@ -16,7 +16,7 @@ A man of about forty who carries sacks came up a bank eleven miles from this cit
 
 ---
 
-**And about the second hour of the afternoon a man of about fifty-two who digs came down the bank with his rod under his arm and did not go into the yard, and he stood at the bottom of it and looked at a channel that has been dry for twenty days and said two sentences to about four people and neither of them was about the channel.**
+**And about the second hour of the afternoon a man of about fifty-two who digs came down the bank with his rod under his arm and did not go into the yard, and he stood at the bottom of it and looked at a channel that has been dry for twenty days. He had mud dried on the rod where he had pushed it in, in two places, and he said two sentences to about four people and neither of them was about the channel.**
 
 "I came for the rod back."
 
@@ -28,11 +28,11 @@ A man of about forty who carries sacks came up a bank eleven miles from this cit
 
 "**Because there is a hole nine feet from the one everybody measures and there is a woman of about fifty who counts water standing at the top of a cut who has been looking at the first one, and I have got nothing else to do with a Sunday, and I am not going to say the second half of that out loud because about nine people in this city have started writing down the half of a sentence that somebody did not finish.**"
 
-He did not go into the yard. It is entered that he did not, and that about four people at the bottom of that bank have said since that a man who has walked eleven miles more than once has now done it twice in six days, and that about nine of them think that is about a channel and about four of them think it is not, and that nobody at the bottom of that bank has said so to either of them.
+He did not go into the yard. He turned the rod over in his hands at the bottom of the bank and then put it back the way it had been. About four people there have said since that a man who has walked eleven miles more than once has now done it twice in six days, and that about nine of them think that is about a channel and about four of them think it is not, and nobody at the bottom of that bank has said so to either of them.
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register was on the step of that house with a second slate under her arm, and she has been three times to that step since the forty-first day of the Long Month and about four people in that yard know her, and she said nothing about the sack at all and about nine people in that yard have said since that that was the loudest thing anybody did all afternoon.**
+**And a woman of about twenty-nine who keeps a public register was on the step of that house with a second slate under her arm, and she has been three times to that step since the forty-first day of the Long Month and about four people in that yard know her. She said nothing about the sack at all, and about nine people in that yard have said since that that was the loudest thing anybody did all afternoon.**
 
 "You have been here before."
 
@@ -44,17 +44,17 @@ Somebody in that yard said the word *four*.
 
 ---
 
-**And the boy of eight went out into that yard while the sack was still standing on the boards and untied a length of rope and tied it again and came back in, and nobody in that yard said one word about it, and about four people in that yard have said since that they have been waiting since the seventh week of this flood for somebody to say something about that rope and that nobody ever has, and the woman of about fifty-nine who keeps that house said one sentence to him and it was about his hands and not about the sack.**
+**And the boy of eight went out into that yard while the sack was still standing on the boards and untied a length of rope and tied it again and came back in. He did it with his teeth in the end of it. Nobody in that yard said one word about it, and about four people in that yard have said since that they have been waiting since the seventh week of this flood for somebody to say something about that rope and that nobody ever has. The woman of about fifty-nine who keeps that house said one sentence to him and it was about his hands and not about the sack.**
 
 "Your knot is on the wrong end."
 
 "**My knot is on the right end and you have said that to me since the eighth day of the Long Month and I have tied it the same way about nine times since and you have said it about nine times and I would like it entered that the two of us are the only two people in this yard who are still doing the thing we did on the eighth day of the Long Month and that neither of us has stopped because of a sack.**"
 
-Nobody in that yard improved on it. It is entered that about four people in that yard heard it and about nine of them did not know that the two of them had been doing anything since the eighth day of the Long Month.
+Nobody in that yard improved on it. The boy went back in and the rope went with him, and about four people in that yard heard it and about nine of them did not know that the two of them had been doing anything since the eighth day of the Long Month.
 
 ---
 
-**And a man of about forty-four who keeps a stall came up that bank in the morning with a basket and had come up it on the forty-sixth day of the Long Month and said four sentences about a price in a yard nine miles up the road, and he stood in that yard for about nine minutes looking at a sack under a step and said the thing about it that he had come to say, and it is about his own column and he did not recite it.**
+**And a man of about forty-four who keeps a stall came up that bank in the morning with a basket and had come up it on the forty-sixth day of the Long Month and said four sentences about a price in a yard nine miles up the road. He stood in that yard for about nine minutes looking at a sack under a step, and the basket was still in his hand the whole time and he never put it down. He said the thing about the sack that he had come to say, and it is about his own column and he did not recite it.**
 
 "**I keep a column of what things cost me. I have not opened a new line in it since the thirty-ninth day of the Long Month and I have got a reason for that and the reason is that a line wants a figure at the end of it and there is not one, and I have been arguing with myself about that since the seventh week of this flood.**"
 
@@ -68,7 +68,7 @@ Nobody in that yard improved on it. It is entered that about four people in that
 
 ---
 
-**And a woman of about fifty-nine who keeps that house came out onto the step with a boy of eight behind her, and she has said on the forty-eighth day of the Long Month that the day came and that she is the one who has to be in it for the rest of the year, and she has not said one word since about the year, and she said four sentences about a sack and nobody in that yard improved on one of them.**
+**And a woman of about fifty-nine who keeps that house came out onto the step with a boy of eight behind her, and the step was the only place in that yard with any sun on it. She has said on the forty-eighth day of the Long Month that the day came and that she is the one who has to be in it for the rest of the year, and she has not said one word since about the year. She said four sentences about a sack and nobody in that yard improved on one of them.**
 
 "**That is the one that was due. I am not going to say it is the fourth one because I do not know that it is the fourth one. Nobody in this house has ever counted the sacks that come up that bank and neither have I and that is on purpose and I would like it entered that it is on purpose and why.**"
 
@@ -76,21 +76,21 @@ Nobody in that yard improved on it. It is entered that about four people in that
 
 "**Because a count of sacks is a count of what the days bought. The days went back on the forty-first day of the Long Month, in daylight, on a flat, unasked, and about nine people worked out for themselves which of them they were for about two hours and said it out loud, and I have not worked out anything and I have not asked and I am not going to count what a thing bought, because the day somebody counts that is the day it is a price, and it is not a price, it is a sack on a step.**"
 
-Nobody in that yard asked her the other thing. It is entered that nobody did, and that about four people in that yard have been waiting since the twenty-fifth day of the Long Month for somebody to ask her whether the days that went back were paid for and that about nine of them have said since that they were not going to be the one and that a woman who carries sacks up a bank and does not come up to the door is the reason nobody had to.
+Nobody in that yard asked her the other thing. A man at the bottom of the bank had his mouth open and did not use it, and about four people in that yard have been waiting since the twenty-fifth day of the Long Month for somebody to ask her whether the days that went back were paid for, and about nine of them have said since that they were not going to be the one. A woman who carries sacks up a bank and does not come up to the door is the reason nobody had to.
 
 ---
 
-**And a woman of about thirty-eight who keeps a gate was at the edge of the cut beside that yard with a board in her left hand at about the fourth hour of the afternoon and did not come into it, and she has been thirty-seven days into a year of being angry since the twenty-fourth day of the Long Month and that year is not over and she has not said one word to anybody in that yard about the twenty-fourth, about the year, or about the day, and she said one sentence about the sack and it was about where to put it.**
+**And a woman of about thirty-eight who keeps a gate was at the edge of the cut beside that yard with a board in her left hand at about the fourth hour of the afternoon and did not come into it. She stood where the cut drops away and the wind came up it. She has been thirty-seven days into a year of being angry since the twenty-fourth day of the Long Month and that year is not over, and she has not said one word to anybody in that yard about the twenty-fourth, about the year, or about the day. She said one sentence about the sack and it was about where to put it.**
 
 "Where does it go."
 
 "**Put it under the step.**"
 
-And that is all she said to anybody in that yard about the sack, and about four people in it have said since that they have been waiting since the forty-eighth day of the Long Month for her to say something about the days and that she said where to put a sack, and that about nine of them think that is the same thing said in a different language and about four of them think it is not, and that neither of those four nor those nine has asked her.
+And that is all she said to anybody in that yard about the sack. About four people in it have said since that they have been waiting since the forty-eighth day of the Long Month for her to say something about the days, and that she said where to put a sack. About nine of them think that is the same thing said in a different language and about four of them think it is not, and neither of those four nor those nine has asked her.
 
 ---
 
-**And then the woman of about twenty-nine who keeps a public register took a page out of her own pocket and read it and put it back, and it is the page she tore out of her own book on the fifty-fifth day of the Long Month with two of the four names on it, and nobody in that yard asked her to show it and nobody asked her who the four are and about four people in that yard have said since that they wanted to ask her and did not.**
+**And then the woman of about twenty-nine who keeps a public register took a page out of her own pocket and read it and put it back, and the paper had been folded and unfolded enough that it had gone soft along the fold. It is the page she tore out of her own book on the fifty-fifth day of the Long Month with two of the four names on it, and nobody in that yard asked her to show it and nobody asked her who the four are, and about four people in that yard have said since that they wanted to ask her and did not.**
 
 "There is a date on the back of it."
 
