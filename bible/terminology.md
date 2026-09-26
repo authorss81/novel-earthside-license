@@ -196,6 +196,7 @@ A record whose terms are visible to the people affected and can be challenged, w
 - “God” is a local interpretation, not a confirmed objective fact. The story may show what people believe without confirming a divine creator.
 - “History” is contested in Veyra. A document can preserve an account without proving that the account is the only version that happened.
 - Names are meaningful and should not be casually translated. A System may offer a phonetic approximation, but Tamsin and other locals retain their own names in the record.
+- **How long a month is.** The salt month runs **sixty-five days** and no more. The new month began on the twenty-sixth day of the flood, so its sixty-fifth day is the ninetieth, and **the month after this one began on the ninety-first day of the flood.** A phrase like *the sixty-fifth day of that month* is therefore the last day of the month, not a mistake and not a contradiction, and it runs to day 90 and stops there. The next month after that has not been given a length yet; if a later volume needs one, it must be put on this page before it is used in prose.
 
 ## Terms established in Volume 01 Chapters 11–20
 

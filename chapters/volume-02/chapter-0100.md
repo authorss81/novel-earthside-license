@@ -82,7 +82,7 @@ Nobody in that room argued for asking her.
 
 **And the road is nine miles, and it goes up from Saltwake past the salt works to the fork at Four Elms, and eleven households keep it, and they are not a council and there is no levy and there is no clerk, and the keeping is a day each in a bad week and a quarter of a day in a good one, and it is a promise and not a sum, and the eleven households are named on nothing.**
 
-"**Eleven households keep that road,**" said a man of about forty-four who keeps a stall, "**and nobody has ever asked them to, and they have never once been given a page, and the road was not built by anybody in this city, it was walked by people coming down it, and it is the only thing in ninety-nine days that nobody in this room can be angry at and everybody would miss.**"
+"**Eleven households keep that road,**" said a man of about forty-four who keeps a stall, "**and nobody has ever asked them to, and they have never once been given a page, and the road was not built by anybody in this city, it was walked by people coming down it, and it is the only thing in a hundred days that nobody in this room can be angry at and everybody would miss.**"
 
 "And a man from another world has no road at all," said a woman of twenty-four, "**and that is the cost of the thing he did on the second day of the month after this one, and it is entered, and he is not going to be asked about it today, and nobody in this room is going to say the word loss to him.**"
 
