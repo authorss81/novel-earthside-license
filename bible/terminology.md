@@ -366,3 +366,35 @@ Eli Mercer's four words on the twenty-fifth day of the new month, on coming back
 
 ### I was the first one anybody could see
 Adrian Vale's last line, to a boy of nine on a stair above the Lock of Salt on the twenty-fifth day of the new month, after the boy says *but you were the first one.* **The volume ends on the word *player* being asked by a child and not used by a man**, on a man who has not found an answer that does not make the child smaller, and on the entered note that he is going to find one and **that the answer is not going to be the word.**
+
+## Terms established in Volume 02, Chapters 51–60
+
+### The receiving page
+The page that answers *who is on the other side, and who has agreed to have them.* It is the first instrument in the series that names the absent party, and it exists because the licence cannot go home and the reason had to be written down somewhere a person could be angry at. A request for an opening is entered on it with a name, a date, a person who asked, an answer that is a reason and not a refusal of the person, and a line that is not part of the form: *the person named is not refused, and is not owed, and has asked.* Chapter 0051.
+
+### The honest useless form
+A Crown form filled in truthfully and in the truth's own shape so that it is complete and cannot be acted on. Every column filled, the true hour, the true cost, the true number of men, no rounding, no summary, nothing an office can act on. **A summary is what an office acts on and a summary is where a decision hides.** Its cost is that compliance is still compliance. Sixty-one lines. Chapter 0056.
+
+### A fee is a statement, not a payment
+A Crown office's charge tells a district what the office thinks it is. The office does not charge a fee it cannot collect, so a fee that is entered as owing with no date is a statement about the district rather than about the silver. Chapter 0056.
+
+### The fourth column's work
+The nineteen stones of the upper road. **Not a post. Anybody may pick it up, including a docker, including a mason, including a woman of seventy who cannot read it.** A woman of fifty-eight picked it up on the thirtieth day of the new month and is copying shapes into a slate she cannot read. Chapter 0060.
+
+### A rule that only covers the thing you can see
+Perry Lask's sentence, and the volume's answer to the protagonist's best page: a rule that only covers the thing you can see is a rule about a thing and not about the world. **The bar on Adrian's page of the twenty-sixth day is a bar and not a wall and it does not reach a pale field in a room.** Chapter 0057.
+
+### A fact about a shape
+The third thing a question can be, after a fact and a fault. It has no person to give it to, it cannot be carried by anybody, and it is entered as a fact. A person's own written entry may say the shape of the world and cannot make it be somebody's fault. Chapter 0051.
+
+### A description is a removal with a column for where the person is
+The finding of the thirtieth day of the new month, worked out in chalk on a yard wall: the roll, the quarterly return, the schedule of crossings and the ground-book of a gate are one machine, the last column is the widest one, it is always blank, and the office is nine hundred miles away and has never once sent anybody to fill it in. **No name in Saltwake has come out of one of those cases in nine hundred years.** Chapter 0055.
+
+### The eight of nineteen
+Eleven of the nineteen stones on the upper road carry the same shape in the same cut; eight do not, and they are further down the road and in a different order. **And one of the eight — a name, in a Hearthguard's hand about a hundred and forty years old — is cut on the flat top of the eleventh stone, and it is one of Hettis Roke's eight unstoned graves.** The names were not destroyed. They were moved, nine miles, to a road, by a person with a knife and a reason. Chapter 0060.
+
+### The knocks
+Three on the night of the twenty-ninth day of the new month and four on the night of the thirty-fifth, reported by a man in the lower gallery of the Lock of Salt, in a join that is dressed. **A man who cannot be right about a number hears a number; a join that is dressed does not knock; both are entered and neither is deleted.** A number going up is not a pattern and a number going up is also not nothing. Chapter 0060.
+
+### A door that is a room and not a road
+What the Narrow Mark is. A room with no window and no door anybody has found, about eleven people have stood in it, and the licence opens it for one named person at a time. **It is not a way home and cannot be made into one from this side.** Chapter 0051.
