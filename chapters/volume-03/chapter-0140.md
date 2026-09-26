@@ -54,7 +54,7 @@ She drew it in about forty minutes and read it back once to herself and did not 
 
 "**Line five is the one that matters and it is nine words long and it is a person, and the person is the reason.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and a woman of about thirty-four who keeps a stall by the wharf did not write any of it down.
 
 "**Everything else on that page is a rule about a document. A rule about a document is a rule about a document. Line five is a person asking for something, and I have been a notary for twenty-six years and I have never in twenty-six years had a compact with a person in it, and the reason there has not been one is that in about four hundred years nobody has wanted one badly enough to draw it.**"
 
@@ -78,7 +78,7 @@ Nobody said anything for about nineteen seconds.
 
 "**Then somebody is going to have to stand up.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and she put the slate down on the table face up and left her hands on it.
 
 "**Not you, and not her,**" she said, "**and that is two people out of this room, and it is not a name and it is not a list, and I am not writing it down. I am telling you that on the sixty-fourth day somebody is going to have to stand up in front of about two hundred and forty people and be the account of eleven lines, and about four of us have known that for a hundred and forty days and none of us has wanted to be it, and I have gone round nine kitchens about it and I have not asked anybody and I am not going to.**"
 

@@ -22,7 +22,7 @@ She said what she had to say, which took about four seconds, and then she stood 
 
 "**That is four things. I have not told you a fifth thing and I am not going to and I want it noticed that there is a fifth thing I know.**"
 
-"Why will you not say it," said the woman of the fourth kitchen, on the Saturday afternoon.
+"Why will you not say it," said the woman of the fourth kitchen, on the Monday afternoon.
 
 "**Because you would tell somebody, and somebody would tell somebody, and about four of us would be in a room with a fifth person in it before the sixty-fourth day, and I have had one of those in a hundred and forty-seven days and I did not enjoy it and neither did the girl.**"
 
@@ -46,11 +46,11 @@ She said what she had to say, which took about four seconds, and then she stood 
 
 **And the difference between the eighth kitchen and the ninth kitchen is the whole of the fifty-seventh day of the month after this one, and it is a difference of eight days, and a girl of seventeen noticed it and nobody else did, and it is on the page.**
 
-The ninth household was not told until the Sunday. Everything else had been told on the Saturday or before.
+The ninth household was not told until the Tuesday. Everything else had been told on the Monday or before.
 
-"**Why the last one,**" said a man of about forty-four who keeps a stall, who had walked four miles in the wrong weather to be in a gateway on the Sunday.
+"**Why the last one,**" said a man of about forty-four who keeps a stall, who had walked four miles in the wrong weather to be in a gateway on the Tuesday.
 
-"**Because I could not get there on Saturday without going past it,**" said the girl of seventeen, "**and that is the whole reason and it is not a reason I would put on a page, and I am telling you anyway because about four of us worked out something on the fortieth day of the month after this one about this city not putting its rooms together and I have decided that a thing I have worked out is a thing I have to say out loud at least once.**"
+"**Because I could not get there on Monday without going past it,**" said the girl of seventeen, "**and that is the whole reason and it is not a reason I would put on a page, and I am telling you anyway because about four of us worked out something on the fortieth day of the month after this one about this city not putting its rooms together and I have decided that a thing I have worked out is a thing I have to say out loud at least once.**"
 
 "So the ninth household had a day and the eighth had a week," said a woman of twenty-four, who had walked out.
 
@@ -58,7 +58,7 @@ The ninth household was not told until the Sunday. Everything else had been told
 
 ---
 
-**And on the Sunday she was in a kitchen and somebody asked her the question she has been not asked for a hundred and forty-seven days, and it was a woman of about thirty-four, and it was not the stall-keeper.**
+**And on the Tuesday she was in a kitchen and somebody asked her the question she has been not asked for a hundred and forty-seven days, and it was a woman of about thirty-four, and it was not the stall-keeper.**
 
 "**What will you do if nobody comes?**"
 
@@ -72,13 +72,13 @@ The girl of seventeen did not answer for about nineteen seconds.
 
 ---
 
-**And on the Sunday afternoon about nine people went up a stair to a landing and stood outside a room with a door, and the box is in there, and the strap on it is still untied, and nobody went in.**
+**And on the Tuesday afternoon about nine people went up a stair to a landing and stood outside a room with a door, and the box is in there, and the strap on it is still untied, and nobody went in.**
 
 They had been going up for nine days because of a toll nobody had voted for, and a docker of fifty-eight who cannot read had said she was not going up that stair again and had not gone up it since the thirty-first day of the month after this one, which was nineteen days ago.
 
 The chair is still on the landing. It came from the hall below on the second day of the month after this one and it has no price and no date and no right of refusal and no page under it, and it is the only thing in this city that is allowed to be nothing.
 
-**And a notary of fifty was asked five times in five days about being asked before the box is opened, and has answered none of the five, and the fifth asking was written out on a slate on the thirty-first day of the month after this one and not delivered, and it is twenty-six days since that slate was written, and nobody has asked her a sixth time in a hundred and twenty-six days, and the not-knowing is the entry.**
+**And a notary of fifty was asked five times in five days about being asked before the box is opened, and has answered none of the five, and the fifth asking was written out on a slate on the thirty-first day of the month after this one and not delivered, and it is twenty-six days since that slate was written and then twenty-seven, and nobody has asked her a sixth time in either of them, and the not-knowing is the entry.**
 
 A girl of seventeen stood on the landing and looked at the chair for about nineteen seconds.
 

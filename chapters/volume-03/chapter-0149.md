@@ -20,7 +20,7 @@ She did not say anything else on the quay. She put her bag down and picked it up
 
 ---
 
-**And on the Thursday morning she came into a room over a market that has a shutter off and a step at the back and nothing on the walls, and about nine people were in it, and a man of forty-one in a very good coat was in it, and neither of the two of them had known the other one was coming.**
+**And on the Saturday morning she came into a room over a market that has a shutter off and a step at the back and nothing on the walls, and about nine people were in it, and a man of forty-one in a very good coat was in it, and neither of the two of them had known the other one was coming.**
 
 "It is the man in the good coat," she said, when she saw him, and not as a question.
 
@@ -82,11 +82,11 @@ Nobody said anything for about nineteen seconds, and the light came across the f
 
 "**This room cannot hold it either,**" said a man of about thirty-four who keeps a stall.
 
-"**Then I will say it into the hall,**" said the man of forty-one in a very good coat, "**and the hall has a door on the street, and about two hundred and forty people can hear out of it on a Saturday, and if a clerk of the fourth desk is going to be in this building on the sixty-fourth day of the month after this one then I would like the sentence to have been said in front of her before she is asked to be in a room with us, and not after.**"
+"**Then I will say it into the hall,**" said the man of forty-one in a very good coat, "**and the hall has a door on the street, and about two hundred and forty people can hear out of it on a Monday, and if a clerk of the fourth desk is going to be in this building on the sixty-fourth day of the month after this one then I would like the sentence to have been said in front of her before she is asked to be in a room with us, and not after.**"
 
 ---
 
-**And then the clerk of the fourth desk said the thing that is the sixty-second day of the month after this one, and it is in a book in this city with a date on it, and nobody improved on it, and it is the reason this batch's last two days are not a rescue.**
+**And then the clerk of the fourth desk said the thing that is the sixty-second day of the month after this one, and it is in a book in this city with a date on it, and nobody improved on it, and it is the reason the last two days before the sixty-fourth are not a rescue.**
 
 "**No.**"
 
@@ -100,13 +100,13 @@ She stood in the middle of a room with nothing on the walls for about nineteen s
 
 "**Then say what is going to be asked,**" said the clerk of the fourth desk.
 
-"**Whether you will be in a room on the sixty-fourth day of the month after this one while a man refuses a post and a form is read out in the local language, and whether you will be the one who carries the account of it back down the river, and about four hundred people in this city have not worked out which of those two things they want and I have worked it out on a boat in eighteen days and I want to answer it now and not on Saturday.**"
+"**Whether you will be in a room on the sixty-fourth day of the month after this one while a man refuses a post and a form is read out in the local language, and whether you will be the one who carries the account of it back down the river, and about four hundred people in this city have not worked out which of those two things they want and I have worked it out on a boat in eighteen days and I want to answer it now and not on Monday.**"
 
 "**Then answer it now,**" said the woman of about thirty-four who keeps a stall by the wharf.
 
-"**No,**" said the clerk of the fourth desk. "**I did not come up nine hundred miles to be the account of a thing in a room. I came up nine hundred miles to look at a district. If you want me in that room on Saturday then ask me, and put the question in a room and not in a hall, and I will answer it there and I will not be thanked and I will not improve on the answer, and if the answer is no then there is a room on Saturday with a man from that building in it and a man of forty-one in a good coat and about two hundred and forty people in the hall, and none of the three of you gets to decide that in advance.**"
+"**No,**" said the clerk of the fourth desk. "**I did not come up nine hundred miles to be the account of a thing in a room. I came up nine hundred miles to look at a district. If you want me in that room on Monday then ask me, and put the question in a room and not in a hall, and I will answer it there and I will not be thanked and I will not improve on the answer, and if the answer is no then there is a room on Monday with a man from that building in it and a man of forty-one in a good coat and about two hundred and forty people in the hall, and none of the three of you gets to decide that in advance.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the clerk of the fourth desk sat down on the quay edge like anybody waiting for a boat.
 
 "**And you will not be thanked,**" said a man of about thirty-four who keeps a stall. "**I will put that in writing if you want it in writing.**"
 

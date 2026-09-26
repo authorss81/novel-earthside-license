@@ -36,7 +36,7 @@ Nobody said anything for about nineteen seconds.
 
 "**For whoever has to be able to say they did not agree to it.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the market went on underneath the floor the whole time.
 
 **And it is entered that about four people in that room understood the same sentence and that about four of them had understood it in four different ways, and that the woman of about thirty-four who keeps a stall by the wharf said out loud that she had understood it twice in her life and that both times had been in a kitchen.**
 

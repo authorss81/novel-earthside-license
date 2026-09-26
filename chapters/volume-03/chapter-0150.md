@@ -1,6 +1,6 @@
 # Chapter 0150 — A Room, in Daylight, with a Date On It
 
-On the sixty-fourth day of the month after this one, which was the hundred and fifty-fourth day of the flood and a Monday, about nine people stood in a room over a market in daylight with a date on the door, a man of thirty-two refused a Crown appointment in the local language in front of about two hundred and forty people who could hear him, a woman of twenty-nine read eleven lines out loud and became the account of them, a notary of fifty was asked for the first time in a hundred and thirty-eight days and said no, and the arrivals were recorded as named guests under a compact that can be ended, and none of that is a victory, and three things were left unpaid and one of them is a person. The day before it, which was the sixty-third day of the month after this one, a girl of seventeen stood alone in that room for about four minutes and said out loud that there was nothing in it to look at.
+On the sixty-fourth day of the month after this one, which was the hundred and fifty-fourth day of the flood and a Monday, about nine people stood in a room over a market in daylight with a date on the door, a man of thirty-two refused a Crown appointment in the local language in front of about two hundred and forty people who could hear him, a woman of twenty-nine read eleven lines out loud and became the account of them, a notary of fifty was asked for the first time in thirty-three days and said no, and the arrivals were recorded as named guests under a compact that can be ended, and none of that is a victory, and three things were left unpaid and one of them is a person. The day before it, which was the sixty-third day of the month after this one, a girl of seventeen stood alone in that room for about four minutes and said out loud that there was nothing in it to look at.
 
 **The licence is one hundred and three days old and then one hundred and four. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty-eight days ago and then sixty-nine. The fee of eleven ounces of silver is entered as owing with no date for the ninety-first time. The black line in his right palm is one hundred and fifty-two days old and then one hundred and fifty-three, and it has not moved one sixteenth of an inch.**
 
@@ -20,7 +20,7 @@ The room has a date in chalk on the door and nothing else on it, one shutter ope
 
 **And a man of thirty-two, who is Stage 2 and Passage holder and in the doing and not in a ceremony, and who is unbound and barred from every roster at his own request in his own hand with the date on it, and who holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and for whom there is no office in Saltwake, was asked the question in the local language and answered it in the local language in about nine minutes, and the ninth minute is the whole of it, and nobody improved on the ninth minute and nobody praised him for it.**
 
-"Is there anything you want to say first," said a man of about thirty-four who keeps a stall, and he had said the same words in about nine rooms in a hundred and thirty-nine days.
+"Is there anything you want to say first," said a man of about thirty-four who keeps a stall, and he had said the same words in about nine rooms in a hundred and fifty-four days.
 
 "No."
 
@@ -42,7 +42,7 @@ A notary of fifty said nothing at all.
 
 Nobody said anything.
 
-"**The knowing does not come back. I lost it in about four minutes in this room on the second day of the month after this one and it has not come back in a hundred and thirty-two days and the way home goes through a room with no door. Neither of those was coming back whether I said yes or no, and I want that said, because about four people in this city have thought that saying no brings it back, and it does not.**"
+"**The knowing does not come back. I lost it in about four minutes in this room on the second day of the month after this one and it has not come back in sixty-two days and the way home goes through a room with no door. Neither of those was coming back whether I said yes or no, and I want that said, because about four people in this city have thought that saying no brings it back, and it does not.**"
 
 "**And when the answer to the eighth column comes back in about five weeks it is going to be a number, and there is going to be a clerk nine hundred miles away who may read it, and there is going to be a man in this city who can read what is in front of a clerk, and it is not going to be me, because I chose that about four minutes ago in front of everybody who would have to live with it. Nobody is going to thank me for it and I would like it entered that I said that before it happened.**"
 
@@ -94,11 +94,11 @@ It was entered.
 
 ---
 
-**And then a notary of fifty was asked, in a room, in daylight, with a date on it, by a person, whether she wished to be asked before the box was opened, and it was the sixth asking in a hundred and thirty-eight days, and she answered it, and she said no, and it is on the page.**
+**And then a notary of fifty was asked, in a room, in daylight, with a date on it, by a person, whether she wished to be asked before the box was opened, and it was the sixth asking in thirty-eight days counted from the twenty-sixth, and she answered it, and she said no, and it is on the page.**
 
-"**I have been asked five times in five days and have answered none of the five, and the fifth asking was written out on a slate on the thirty-first day of the month after this one and not delivered, and it is twenty-eight days since, and nobody has asked me a sixth time and nobody was going to, and the not-knowing was the entry, and it had a date on it, and I am not going to say that it was not modesty again.**"
+"**I have been asked five times in five days and have answered none of the five, and the fifth asking was written out on a slate on the thirty-first day of the month after this one and not delivered, and it is thirty-three days since, and nobody has asked me a sixth time and nobody was going to, and the not-knowing was the entry, and it had a date on it, and I am not going to say that it was not modesty again.**"
 
-"Sera Vail," said a man of about thirty-four who keeps a stall, in the local language, and it is the first time anybody in this city has said her name in a room in a hundred and thirty-eight days, and he said it because she had asked to be asked by a person.
+"Sera Vail," said a man of about thirty-four who keeps a stall, in the local language, and it is the first time anybody in this city has said her name in a room in thirty-eight days, and he said it because she had asked to be asked by a person.
 
 She was quiet for about nineteen seconds.
 
@@ -106,7 +106,7 @@ She was quiet for about nineteen seconds.
 
 "The hearing," said a woman of twenty-four.
 
-"**A thing that is opened in a hearing is a thing the hearing is about.**" She put both hands flat on the step at the back, which is not a table. "**And after this morning the only instrument this city has with that office is this room, and it is gone in a day, and if I open a box in it this afternoon then the room is about a box for four hundred years. About nine people in this city have spent a hundred and thirty-eight days building an instrument that cannot be taken away, and I am not going to be the woman who turns it into a box.**"
+"**A thing that is opened in a hearing is a thing the hearing is about.**" She put both hands flat on the step at the back, which is not a table. "**And after this morning the only instrument this city has with that office is this room, and it is gone in a day, and if I open a box in it this afternoon then the room is about a box for four hundred years. About nine people in this city have spent a hundred and fifty-four days building an instrument that cannot be taken away, and I am not going to be the woman who turns it into a box.**"
 
 ""**It is. The cost of it is that I am fifty and I have been a notary for twenty-six years and I am the notary of about nine hundred things and about nine hundred of them were somebody else's sentence, and I have never in twenty-six years been the person who said no to an opening in a room. I wanted to be asked. The thing I wanted and the thing I said are not the same thing and I did not know that this morning.**"
 

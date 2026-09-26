@@ -60,7 +60,7 @@ Nobody said anything for about nineteen seconds, and a girl of seventeen wrote t
 
 "**I have been refused by name four times in four years by that woman,**" said the man of about thirty-nine who trades on the Open Hand board, "**on that board, with nineteen rates on it and no column for a name, and I have asked once in every one of those four years and been refused in four seconds every time, and I said in this room on the thirty-third day of the month after this one that it was a different thing and it was not. It is not a different thing. I am the man who has been left off a page for four years because I trade on it.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the man who had said he would go did not get up.
 
 "**So no,**" he said. "**I said I will go and I am not going to be on it and both of those are true and I would like the second one written down and not the first.**"
 

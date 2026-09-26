@@ -38,7 +38,7 @@ He did it without being asked and without any appearance of having decided to. H
 
 "**I know there is nothing on that side,**" said the boy of nine. "**I wrote on the back because there was nothing on the front.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the slate lay face up on the step with the writing turned away from all of them.
 
 "**Why is it blank,**" said a girl of seventeen, and then said, immediately, "**You do not have to answer that. I am asking because I have been carrying it for a hundred and forty-two days and it is not a good question and I have known that it was not a good question for about four days.**"
 
@@ -80,7 +80,7 @@ Nobody said anything.
 
 "**I have not looked at it for about four days.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the boy of nine looked at the middle of the road the whole time.
 
 "**I have not looked at it for about four days because I do not want to see it there,**" he said, "**and I want that written down and I want it not written down, and I want both.**"
 

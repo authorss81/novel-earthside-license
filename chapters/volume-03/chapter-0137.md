@@ -64,7 +64,7 @@ He put his hand flat on the table the way a notary does and not the way a Hearth
 
 ---
 
-**And then a man of thirty-two said the thing that a hundred and thirty-eight days of this city have been walking towards without knowing that they were walking towards it, and there is a person standing in it, and it is in a book in this city with a date on it, and nobody improved on it, and it is the finding of the forty-seventh day of the month after this one.**
+**And then a man of thirty-two said the thing that a hundred and thirty-seven days of this city have been walking towards without knowing that they were walking towards it, and there is a person standing in it, and it is in a book in this city with a date on it, and nobody improved on it, and it is the finding of the forty-seventh day of the month after this one.**
 
 "**I have wanted for a hundred and thirty-seven days to say that the eight on a boundary page a hundred and forty years old and your grandfather's eight are the same eight, and I have had four chances this week to say it and I have not said it, and I am saying now that I am not going to, and the reason is the reason for everything I have said in a hundred and thirty-seven days.**"
 

@@ -76,7 +76,7 @@ Nobody said anything for about nineteen seconds and the water was somewhere belo
 
 ---
 
-**And a man of thirty-two, who is on no roster of anything and who has entered with the date on it that he has not asked one person one question in a hundred and thirty-five days, said four things in that room and the fourth of them is the one on the page.**
+**And a man of thirty-two, who is on no roster of anything and who has entered with the date on it that he has not asked one person one question in a hundred and thirty-six days, said four things in that room and the fourth of them is the one on the page.**
 
 "**I could ask all nine of them tomorrow and it would take a day and a half and it would be the first real question anybody in this city has asked anybody in a hundred and thirty-six days, and I am not going to, and I have thought about it for two days and a half and I want the reason entered while I still know it.**"
 

@@ -10,7 +10,7 @@ The stone is on the north side of a fork and it is about the height of a man's c
 
 **It has three pages in it. The first has six things and a price and a right of refusal. The second is nineteen lines — twelve names, six lines of count, and a seventh line under them saying it is a count and not a debt — and a quarter of a pound of salt a month written under the list and not as another item on it. The third is a bed and a bowl for anybody travelling, with a date and a price and a right of refusal and a line saying the keeping household may close it for its own reasons on a date written on the page and is not asked why twice.**
 
-Nobody goes near the third one. It has a date on it and nobody has moved it and nobody has closed it and it has not been moved in this batch and is not going to be.
+Nobody goes near the third one. It has a date on it and nobody has moved it and nobody has closed it and it has not been moved since the day that date is on and is not going to be.
 
 **And the second page is wrong. It says a woman of forty-four of Corrow is owed a figure on the end of a cost column and a decision about ninety-one acres, and on the thirtieth day of the month after this one a rule drawn under the eleventh line gave her both without asking her, and a page cannot be told the difference between a person paying a debt and a rule settling it in, and the only correction available to anybody in four hundred miles is to ask this household to take the page down on a date.**
 
@@ -46,15 +46,15 @@ She read it twice. The second time was slower.
 
 ---
 
-Nobody said anything for about nineteen seconds, and a docker of fifty-eight who cannot read had it read out to her twice.
+Nobody said anything for about nineteen seconds, and the woman of about thirty-four who keeps a stall by the wharf had it read out to her twice as well, and did not pretend she had not.
 
-"**I am not telling you not to ask,**" she said. "**I am telling you what a fourth page is and I have been four years getting to it and I have not got there. Three is a shrine and I can say what three is. One is a wall somebody kept and I can say what one is. Two is a mistake. Four is a different thing and I do not have a word for four and I have been up this road two hours thinking about it and I have not got one, and I am sixty-one and I am going to say what I do have.**"
+"**I am not telling you not to ask,**" said Marda Rood. "**I am telling you what a fourth page is and I have been four years getting to it and I have not got there. Three is a shrine and I can say what three is. One is a wall somebody kept and I can say what one is. Two is a mistake. Four is a different thing and I do not have a word for four and I have been up this road two hours thinking about it and I have not got one, and I am sixty-one and I am going to say what I do have.**"
 
-"**Say it,**" said a woman of about thirty-four who keeps a stall by the wharf.
+"**Then say it,**" said a woman of about thirty-four who keeps a stall by the wharf.
 
 "**I have a barrow.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and about four of them looked at the barrow and nobody looked at her.
 
 "**The stone keeps three pages and the stone is nine inches of stone and the household is nobody's servant and a household may take a page down on a date and is not asked why twice. That is the whole of the protection and it is a protection that works because a person can change their mind and nothing in the stone stops them. Now put a fourth page in and the stone has a thing in it that nobody in that household cares about and that a stranger in about four years will need. And when the household stops caring about it, and I am telling you that I will stop caring about it, because it is a village four miles away and it is not mine, then somebody in that household is going to say the stone should come out of the field, and the whole stone goes, and I have argued for three pages for four years on the grounds that a stranger needs them. I am not going to be the woman who lost three pages to a fourth.**"
 
@@ -90,7 +90,7 @@ Nobody said anything for about nineteen seconds, and Marda Rood put her hand fla
 
 "**A wrong page is a thing a person can be angry at,**" said Marda Rood, "**and the woman whose name is on it is forty-four and lives at Corrow and has not been asked about any of it, and if you correct that page you will have to go and ask her, and you will not, and if you do not correct it you will have to look at it every time you come up this road for the next forty years, and that is the point. I am going to have to look at it. That is what I am offering her. I am not going to take it down and I am not going to ask her and I am going to have to look at it.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the road was empty in both directions and it stayed empty.
 
 "**Say that again,**" said a woman of twenty-four.
 

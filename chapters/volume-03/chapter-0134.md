@@ -72,7 +72,7 @@ Nobody said anything.
 
 "**You are not angry,**" said a woman of twenty-four.
 
-"**I am fifty and I have been a notary for twenty-six years and I am not going to be angry in a room on a Sunday about four lines and a chair, and I am also not going to be relieved, and I would like both of those entered, and the second one especially, because relief is what a supplied answer feels like from the inside and I am naming it before somebody else does.**"
+"**I am fifty and I have been a notary for twenty-six years and I am not going to be angry in a room on a Tuesday about four lines and a chair, and I am also not going to be relieved, and I would like both of those entered, and the second one especially, because relief is what a supplied answer feels like from the inside and I am naming it before somebody else does.**"
 
 Both were entered.
 

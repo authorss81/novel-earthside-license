@@ -6,7 +6,7 @@ On the fifty-ninth and sixtieth days of the month after this one, which were the
 
 ---
 
-They started at about the seventh hour on the Monday and the first thing they did was take a table out of the room, and it took about four minutes, and the argument about it had started four days earlier and had gone on for two of those days.
+They started at about the seventh hour on the Wednesday and the first thing they did was take a table out of the room, and it took about four minutes, and the argument about it had started four days earlier and had gone on for two of those days.
 
 **It is the table every room in this city has had in it for a hundred and forty-nine days, and about nine people have sat round it and written things down and read things out and put hands flat on it, and a notary of fifty has used it as a place to stop a conversation, and the table is why a room is an office, and an office is a document.**
 
@@ -22,7 +22,7 @@ They started at about the seventh hour on the Monday and the first thing they di
 
 The floor underneath is boards and there is a mark on it. Nine people have stood round a mark on a floor in this city a very large number of times and the mark is still there and it is not going anywhere and there is no instrument in four hundred miles for taking a mark off a floor, and a man of about thirty-four who keeps a stall found it with his thumb at about the ninth hour and did not say anything about it, and about four other people found it with their eyes in the next nine minutes and none of them said anything.
 
-**And a keeper of a floor for fifty-one years, who is about seventy, who was not asked anything on the thirty-fifth day of the month after this one and has not been asked anything since, was sent for on the Tuesday morning and did not come, and nobody sent a second message, and the reason is on a slate in a book in this city and the reason is *because she asked to be left alone and not because we thought of it*.**
+**And a keeper of a floor for fifty-one years, who is about seventy, who was not asked anything on the thirty-fifth day of the month after this one and has not been asked anything since, was sent for on the Thursday morning and did not come, and nobody sent a second message, and the reason is on a slate in a book in this city and the reason is *because she asked to be left alone and not because we thought of it*.**
 
 ---
 
@@ -30,7 +30,7 @@ The window is the other thing, and it took most of the morning.
 
 There were two shutters and one of them had been nailed shut since before any of them were born, and there is a mark on the frame where a third shutter used to be and nobody in this city knows when it was taken off, and a man of about forty-four who keeps a stall got the second one off at about the eleventh hour with a bar and a boy of nine holding the other end of the bar, and the boy of nine wanted to be the one holding the bar and was not the one holding the bar.
 
-**The light came in from the west, over the market, and at about the second hour of the afternoon on the Monday it came across the floor of a room over a market and hit the wall where a man of about forty-four who keeps a stall had chalked nothing, and a woman of twenty-four said that a hearing is to be in daylight and a room with the shutters nailed shut is a room somebody can say anything in, and a girl of seventeen said that a room with the shutters nailed shut is a room where about nine people can hear each other and about two hundred and forty cannot, and that is a different room and it is a form with people in it.**
+**The light came in from the west, over the market, and at about the second hour of the afternoon on the Wednesday it came across the floor of a room over a market and hit the wall where a man of about forty-four who keeps a stall had chalked nothing, and a woman of twenty-four said that a hearing is to be in daylight and a room with the shutters nailed shut is a room somebody can say anything in, and a girl of seventeen said that a room with the shutters nailed shut is a room where about nine people can hear each other and about two hundred and forty cannot, and that is a different room and it is a form with people in it.**
 
 ---
 
@@ -58,11 +58,11 @@ There were two shutters and one of them had been nailed shut since before any of
 
 "**Then it is not a bench. It is a step.**"
 
-They took it at about the fourth hour of the afternoon on the Monday and it is now a step at the back of the room, about nine inches high, and it is where anybody who cannot stand for two hours sits, and it is against the wall, and it has no name on it, and it is not a seat and nobody is put on it, and a man of about forty-four who keeps a floor said that a step is a thing a floor has and not a thing a room offers.
+They took it at about the fourth hour of the afternoon on the Wednesday and it is now a step at the back of the room, about nine inches high, and it is where anybody who cannot stand for two hours sits, and it is against the wall, and it has no name on it, and it is not a seat and nobody is put on it, and a man of about forty-four who keeps a floor said that a step is a thing a floor has and not a thing a room offers.
 
 ---
 
-**And the room was finished at about the seventh hour on the Tuesday with nothing on the walls, and that is the last of the decisions and it took four minutes and a girl of seventeen said the reason out loud before anybody had argued for it.**
+**And the room was finished at about the seventh hour on the Thursday with nothing on the walls, and that is the last of the decisions and it took four minutes and a girl of seventeen said the reason out loud before anybody had argued for it.**
 
 "No notices," she said. "**Nothing on the wall. Not the date, not the nine, not the eleven lines, not the compact, not the return, not the appointment, not the receipt. A wall in a room that is going to be read by about forty people is the cheapest thing in this city and there is already one. And if there is a thing on this wall then in about four months somebody will say that a thing on a wall in a room is a page, and it is a page, and it will be the first page anybody in this city has put in a room on purpose.**"
 

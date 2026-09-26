@@ -8,7 +8,7 @@ On the fifty-fourth day of the month after this one, which was the hundred and f
 
 They went down to the water because the room over a market had nine people in it and eleven lines on a slate and no way of getting a fifth question into it, and about four hundred yards of river wall in the wrong weather is the best place in this city to have a conversation that nobody wants to be in.
 
-He had a book on a trestle. It is his own and it is not a document and it is not a case and he carried it down and put it on the wall and did not open it in front of anybody, and **a girl of seventeen did not ask to see it and a notary of fifty did not ask to see it, and it is entered that a number was written in it on the fifty-fourth day of the month after this one in his own hand and dated and not read out, and that it is counted from the fortieth day of this flood and from nothing else, and that it is spoken zero times in this batch.**
+He had a book on a trestle. It is his own and it is not a document and it is not a case and he carried it down and put it on the wall and did not open it in front of anybody, and **a girl of seventeen did not ask to see it and a notary of fifty did not ask to see it, and it is entered that a number was written in it on the fifty-fourth day of the month after this one in his own hand and dated and not read out, and that it is counted from the fortieth day of this flood and from nothing else, and that it is spoken zero times since the fortieth day of this flood.**
 
 "A number," said the woman of twenty-four, who writes things down.
 
@@ -16,7 +16,7 @@ He had a book on a trestle. It is his own and it is not a document and it is not
 
 "**I am not asking and you did not say.**"
 
-"**Then it was nobody,**" he said, "**and if it was nobody then it does not matter what it was, and I would like it entered that I did not say, and that a woman of twenty-four said the word number and not the figure, and that I have been right for nine minutes and she has been right for a hundred and forty-nine days.**"
+"**Then it was nobody,**" he said, "**and if it was nobody then it does not matter what it was, and I would like it entered that I did not say, and that a woman of twenty-four said the word number and not the figure, and that I have been right for nine minutes and she has been right for a hundred and forty-four days.**"
 
 ---
 
@@ -88,9 +88,9 @@ It was entered.
 
 "**Then the guest who asks to stop is the only person in it.**"
 
-Nobody said anything for about nineteen seconds.
+Nobody said anything for about nineteen seconds, and the water came along the reach behind them and went on past.
 
-"**Nine people said they would stand in a hearing. About nine of them are guests. Every one of them can be described, counted, housed, moved, and ended by a form with four places in it, and the fifth line is the only line that is a person, and the fifth line is the only line that office cannot do, and it is nine words and it is the whole of what this volume is.**"
+"**Nine people said they would stand in a hearing. About nine of them are guests. Every one of them can be described, counted, housed, moved, and ended by a form with four places in it, and the fifth line is the only line that is a person, and the fifth line is the only line that office cannot do, and it is nine words and it is the whole of what a hearing is for.**"
 
 It is entered that she did not improve on it later, and that a man of forty-four who keeps a stall wrote the nine words down and that a girl of seventeen counted them and that the count was nine and that nobody checked the count.
 
