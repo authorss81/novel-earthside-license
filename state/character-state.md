@@ -1808,3 +1808,146 @@ Compact live state for the next batch. **Updated after Batch 0006 (Chapters 48�
 - **THE KEEPER OF THE REDROOT GATE — FIFTY DAYS, AT THE TOP OF THAT CUT, SAYING NOTHING.** She is on a page once in these ten chapters, on the seventy-fourth day of the Long Month, at fifty days into a year of being angry, at the top of the cut with the board in her left hand, and she said nothing to anybody about it. She is not rescued, is not argued with, has not been given a reason to have done otherwise, has not said she is glad, has not said she would say it again, the phrase *the whole of her* is used about her zero times, no child was sent up that bank with a message, and nobody in that yard has said her name. **The year is not over and a date is not an ending.**
 
 - **AND THE THINGS IN THE OTHER LISTS THAT DID NOT MOVE.** A woman of about fifty-six who keeps a shop four streets down from a market carried a wage nine miles on her arm for ten days and has nine measures under her counter hard since the thirty-ninth day of the Long Month that she paid a figure for on the twelfth day of that month. A man of about thirty-one with a hand that will not close carried a wage four streets twice and did not open it, and asked how many sacks came out of that chest. A man of about twenty-seven who washes the store's board left yesterday's figures standing on a Tuesday morning for the first time since the seventh week of this flood. A man of about forty-four who keeps a stall said a length of wood like that comes off a rack and would not say whose. A man of about fifty-nine said in a market on the thirty-ninth day of the Long Month that a correct page nobody can check is the most dangerous sentence anybody has said in this flood, and is quoted about nine walks later by a man who washes a board. **A man of forty-two opened a chest on the fiftieth day of the Long Month in front of about nine people and on the seventieth came nine miles to stand at the back of his own queue with nothing at the front of it and did not go to the door.**
+
+---
+
+# Character State — Volume 05, Batch 0004 (Chapters 0231–0240, days 231 to 240)
+
+**Compact live state for the next batch. These are the things the last ten days put on a page. Every prohibition standing at the end of Batch 0003 stands here unchanged, and this section does not relax one of them.**
+
+## Adrian Vale — protagonist, Stage 2, Passage holder, in the doing
+
+- **In four of the ten chapters, and doing ordinary work in all four.** He carried a trough out from under a wall and emptied it in a yard about nine times before a queue was a queue on the seventy-seventh day of the Long Month; he stood in a back room and did not lift a sack that was standing in the middle of the floor on the seventy-ninth and said that a groove is not a hole and a sack in the middle of a floor is not a sack on a rota; he sat on a bank about nine feet from the keeper of the Redroot gate for four hours on the eighty-second, said nothing to her, said no name, and did not ask her anything; and he emptied a trough nine times in that yard on the eighty-fifth and did not go into a queue standing nine feet away from him.
+- **A share with the post taken out** was given on the thirteenth day of the Long Month, day 168, and **NO FIGURE FOR IT IS ON A PAGE IN THESE TEN CHAPTERS.** He has taken it out of that coat once, on the seventy-first day of that month, and put it back in about the time it takes to turn a thing over, and he has said out loud that he does not know whether carrying it or carrying a trough is the thing he is better at. **A later writer may not put a number on it without a room, in daylight, with a date on it, and may not answer it.**
+- **Not fetched once in ten days.** About nine people in this city can still fetch him by a name he did not choose and about four of the four who waited for somebody to say a name at the top of that cut on the eighty-second did not say it. **A refusal to fetch is not an unfetchability and about four people in this city know the difference and he is one of them.**
+- **No chapter offered him a workway and he asked for none. No chapter turned the name he did not choose into a qualification. Nobody wrote him a column. No chapter asked him about a gate. He performed no working, no threshold was opened, the other world is not named once in the ten chapters, and nobody stood outside the fourth house at Nine Elms.**
+
+## The man of about thirty-four who keeps a stall and who wrote the ninth line
+
+- **Came up nine miles on the eighty-fourth day of the Long Month with a piece of chalk in his right hand and did not put the date back at the top of the page, and put the chalk in his pocket.** He said that what is left of that page is nine lines in two hands with a date gone off the top of it, and that a page with a date on it is a page about a day while a page with a day on it is a page anybody can be angry at, and that both of those were true for thirty-eight days and only one of them is left.
+- **He has still not said whether the ninth line works, and nobody asked him in the last ten days.** A later writer may not resolve it, may not move the ninth line, and may not have him put the date back.
+- **On the seventy-seventh day of that month he stood in that yard at the ninth hour and read the ninth line without looking up for the whole of a Tuesday and did not say whether it works, and he read his own line from about nine feet under it on the eighty-fourth without moving his head.**
+
+## The man of about twenty-seven who washes the store's board
+
+- **Has not written on that board since the seventieth day of the Long Month and the figures on it are the figures of the sixty-ninth day of that month, which is sixteen days old at the eighty-fifth.** He has washed it every morning and hung it back up every morning.
+- **Put the board back up on the wall on the seventy-sixth day of that month after the wind took it off and about nine feet, and did not write on it, and gave the reason: on the seventieth he decided, and this morning the board came off the wall, and one of those is a person doing a thing and the other is a thing happening to a board.**
+- **Said out loud on the seventy-ninth that the board is the day and the posting is the page, and that a day is a thing that happens once and a page is a thing that stays up, and that he only worked that out when the wind took the day off the wall.** He also said on the eighty-fifth that he is not going to be the man who puts a bag on a page, and that a groove is not a column and a crust is not a figure.
+- **About nine people read that board and about four read the posting, and they are about a foot apart and have been since the forty-sixth day of the Long Month, and the wind takes them at different rates.**
+
+## The woman of about thirty-four in the store on the upper road
+
+- **Swept the floor of the back room for the first time since the fifty-sixth day of that month, on the seventy-ninth, and nobody asked her to, and she asked for that to be said before anything else about the floor.** She is on no list in that building and she is paid out of a chest that has not been opened since the fifty-sixth day of that month.
+- **Has not opened the chest. Did not open it on either Tuesday in the last ten days and said again that she is not a person who gets to say which.**
+- **Did not pick up the bag of salt a man put down on the boards of her yard on the eighty-fifth, and said she has not got anybody in that yard who can say whether a wage is a thing a person is given or a thing a person has, and that about four hundred and forty people on eleven miles of flats have neither.**
+- **The four sacks with a knot that is not the knot on the other eight are still four sacks, are still at the bottom of what she put them at the bottom of on the fifty-sixth day of that month, have still never been weighed, and she says she is not going to find out which sack a crust on the floor came out of from a floor.**
+
+## The woman of about thirty-four from a fourth household on the road
+
+- **Has still not chosen a day to ask in and has not since the fifty-sixth day of the Long Month.** She was at the top of the cut on the Reach on the seventy-eighth and at the top of the Redroot cut on the eighty-second, and she asked for nothing on either morning.
+- **Said on the seventy-eighth that she comes up that road on days that are not Tuesdays because a Tuesday is a day about four hundred and forty people are somewhere else on, and that she would like that written down and not written down, in that order, and has not decided which.**
+- **Saw the keeper turn her board face down against her leg and said she was not going to say a word about it and would like it noticed that she did not say a word about it.** A later writer may not have her ask in a yard and may not have her choose a day in a yard.
+
+## The woman of about thirty-four who keeps a stall by a wharf
+
+- **Did not touch a wage a man of about thirty-one put on the boards of her stall on the eighty-first day of the Long Month, and left a gap about the width of a person between herself and it.** She has been on a page since the forty-fifth day of that month and it is thirty-six days, and about four people in that market know what that is and about nine of them do not, and she asked in advance not to be thanked and has not been. **Nobody in the ten chapters said her name.**
+
+## The man of about thirty-nine who trades on the Open Hand board
+
+- **Carried the same bag against his chest from the sixty-second day of the Long Month to the eighty-fifth, which is twenty-three days, and put it down on the boards of the yard of the store on the upper road on the eighty-fifth and did not open it and did not say what was in it.** Nobody in that yard picked it up.
+- **Said out loud that he put it down and has not decided he is carrying it, and that a man who is carrying a thing in front of himself cannot be told anything by anybody standing behind him, and that the mark the bag left on the front of his coat is still on the coat.**
+- **Break is not open. The salt went hard on the sixty-sixth day of that month and a bar will not go into it and a later writer may not have anybody break it in a room, and may not say what a wage in salt is worth.**
+
+## The man of about fifty-two who digs
+
+- **The hole nine feet from the one four people measure has filled in with the dust off eleven miles of flats and is not a hole, and a rod in it has come up about four inches in its standing since the fifty-ninth day of that month.** He came up the bank on the seventy-eighth and said the hole finished itself and that he is not going to put a rod in a third one for a man who wants a figure.
+- **Has still not said what the one thing was that the second hole was for, and has said out loud that he has not said it because he has not found it out and has not said it because of what it is, and neither.**
+- **The beam with one pan on it has stood in that yard since the seventy-third day of that month with a sack in the pan. He has not carried it home and has not replaced the pan and will not.** He came and looked at it on the eighty-first and said that everything in that yard had happened without him in it for twelve days.
+- **He has not said what day the water comes back and a later writer may not make him say it.** The channel is still dry and the four weeks is still a direction and still unresolved.
+
+## The keeper of the Redroot gate
+
+- **Fifty-eight days into a year of being angry on the eighty-second day of the Long Month, and the year is not over.** She was at the top of the cut from first light and had not put the board down once.
+- **At about the ninth hour she took her left hand off the board, turned it face down against her leg, and put her hand back on the outside of it, and did not stop working the channel, and said no word to anybody about it.** The board is not on a list of anything, it carries two dates in two hands and a set of knife marks, and the twenty-fourth is not on it, and she has not had it out of her hand since the forty-eighth day of the Long Month.
+- **She said out loud that there is not going to be a second page going face down from her, and that a year is a year and it has not run out, and she said the last three sentences of that to the boards of the bank and not to anybody.** About four people at the top of that cut heard all three and about nine of them heard nothing at all.
+- **She is not rescued, not argued with, not given a reason to have done otherwise, has not said she is glad, has not said she would say it again, the phrase *the whole of her* is used about her zero times, no child was sent up that bank with a message, and nobody at the top of that cut said her name.** Adrian Vale sat about nine feet from her for four hours and did not say a word to her and did not ask her anything. **A later writer may not attach a weekday to the twenty-fourth day of the Long Month while the conflict at `bible/power-system.md` §27.14 stands.**
+
+## The man of about thirty-two who stands on the bank
+
+- **Went down the bank of the cut on the Reach on the eighty-third day of the Long Month, which is the seventh Monday in a row he has stood on that bank, and had not come down it since before the fifty-ninth day of that month.** The six Mondays before that one are the forty-first, the forty-eighth, the fifty-fifth, the sixty-second, the sixty-ninth and the seventy-sixth days of the Long Month, and a reader can check the chain.
+- **He has no mark, no workway, no title and no seat and is on no roster of anything, and he is not Adrian Vale, and no chapter of this batch has the two of them in it.**
+- **He did not come up the bank to a woman of about thirty-nine who cannot get a rack above her shoulder and he did not ask her anything, and he touched none of the three things at the bottom of the cut.** A later writer may not have him ask, and may not have him be fetched.
+
+## The woman of about thirty-nine who cannot get a rack above her shoulder
+
+- **Did not clear a hole out with her hand on the seventy-eighth day of that month and gave the reason out loud: that if she clears it this morning then it is a hole a man put his hand in, and it would be the beginning of one by a woman who cannot get a rack above her shoulder, which is a sentence she has not got a use for.** She has a refusal with a date on it that she has not shown anybody and she has not asked anybody anything.
+- **Came down the bank at the bottom of the Redroot cut on the eightieth day of that month after standing at the top of it for an hour, and said that about four people in this city have worked out that she has not come down that bank in twenty-one days and about nine of them have worked out that she has not come down it because of what is at the top of it.**
+- **The man of about fifty-two who digs did not ask her to get a hand under a rack, and said out loud that he had said no about wood three times in that cut and that a man who has said no three times about a thing has to be careful about who he asks a fourth time.**
+
+## The woman of about fifty who counts water
+
+- **Would not take a figure off the second hole on the seventy-eighth day of the Long Month, and would not take one off a channel that has been dry for forty-one days on the eighty-second, and said the reason out loud both times: a figure is a thing she takes and there is no figure in a heap of dust and a figure off a dry channel would be a figure about a hole, and a hole that four people measure is a column about a hole, and she said that out loud twice and would not say it a third time on a Sunday.**
+- **About four people in this city would have a figure off that cut by the second hour of the afternoon and about nine of them would have it by the seventh hour of the evening in a town nine hundred miles from here.** A later writer may not take a reading for her.
+
+## The man of about thirty-one with a hand that will not close
+
+- **Put a wage he has had for twenty-five days on the boards of a stall by a wharf on the eighty-first day of the Long Month, carried it four streets twice on the sixty-eighth day of that month, and has not opened it. At about the sixth hour of the afternoon his hand opened, on its own, and stayed open for about as long as it takes to take a board off a stack, and shut again and did not come open a second time that day.** Nobody in that market said a word about it. He put the hand under the boards where nobody could see it.
+- **He says he will want to say something about it in about four days and will not, and that four people in that market are going to write a word for a hand that opens once and nine of them are not, and he is not going to have his first.**
+- **He has not got a house with a floor he would put that wage on and he has got a coat with a mark on the front of it, and that is the whole of what he has got.**
+
+## The girl of seventeen
+
+- **Stood at the rail of that wharf from the fourth hour of the afternoon on the eighty-first day of the Long Month with a plain slate under her arm and was not asked anything at all, and read the top of it out under her breath and stopped in the middle of a line and put the slate face down on the rail.** She is the only person in that market who is not on the front of any page in this city, and her own slate has her name at the top of it and that is the only reason she is standing there.
+- **She said that a girl of seventeen is not a person anybody comes to with a question, and that about four people in this city have worked out that being unfindable cost her nothing and about nine of them have not, and that she has worked out this cannot go on the way it has been going and she is not going to be the one who writes down the day it stops.** Being unfindable is not a qualification and a later writer may not make it one, may not have anybody ask her whether she is all right as a way of ending a chapter, and may not resolve her.
+
+## The woman of about fifty-nine who keeps the house at the bottom of the Redroot cut
+
+- **Said out loud on the eightieth day of the Long Month that she has gone from a stripe on four boards to four inches of a corner and is not going to say what the four inches are about, and that she wants four inches of a corner on her boards for about nine years and nothing else.** The stripe was there from the sixty-first day of that month and the boards went the colour of the boards under them on the seventy-fourth and the stripe went with them, and nobody scrubbed it out.
+- **She said again that nobody in that yard is going to count the sacks on her step and that a count of sacks is a count of what the days bought and the day somebody counts that is the day it is a price, and it is not a price, it is a sack on a step.** She has not asked the man of about forty who carries sacks where they come from, and has not asked him in the last ten days either. **A later writer may not count them and may not ask.**
+
+## The boy of eight
+
+- **Unties a length of rope off a wall in that yard and ties it again, with his teeth in the end of it, every morning since the seventy-fourth day of the Long Month, and his hands went white at the rope about halfway this morning.** The rope is about nine years old and it is not tied to anything and about nine people in this city know that and about four of them have said it out loud and nobody has said it in that yard.
+- **His step and that rope are nine feet apart and the woman of about fifty-nine who keeps that house said in that yard that nine feet is the right distance and that she is not going to change it.** A later writer may not send him up a bank with a message.
+
+## The man of about forty-two
+
+- **Stood at the back of a queue for the fifth and sixth Tuesdays in the last ten days with his hands in his pockets and did not go to the front of it and did not go into the store.** He has had his hands in his pockets since the forty-fifth day of the Long Month at the back of a line of his own making.
+- **On the seventy-seventh day of that month he said he has been in this flood for two hundred and thirty-one days and has five of those Tuesdays and nothing has come out of that chest since the fifty-sixth day of it, and that a board which has not been written on since the seventieth day of that month is more use to about four hundred and forty people on eleven miles of flats than anything he has ever said, and that he has not got a figure for that and is not going to put one on it.**
+- **He is not a villain, he did not leave, and he is not going to say the second thing the yard is waiting for.** A later writer may not give him a plan and may not have him turn anybody out.
+
+## The woman of about twenty-four who is on no roll of anything
+
+- **Put a slate down on the boards of the yard of the store on the upper road at about the ninth hour on the eighty-fourth day of the Long Month and asked Shall I write this down, and nobody in that yard answered her.** It is the third time in about three weeks that she has asked it in a yard, on the sixty-sixth day of the Long Month and again on the seventy-third, and **about four people in this city have worked out that nobody in this city has ever not answered it, and about nine of them have worked out that this morning somebody did not answer it.** She picked the slate up and put it back under her arm.
+- **She has carried that slate since the forty-sixth day of the Long Month and has never once been told to put it down, and she has written down every decision this city has made since the second day of this flood, and a decision on a slate is a page and she knows what a page is.**
+
+## The man of about twenty-nine from the settlement's workroom
+
+- **Will not put his slate face up a second time, and gave the reason out loud on the seventy-seventh day of the Long Month: a thing anybody can walk up to and look at a second time is a thing about the person who looked and not about the thing, and he would rather be a man whose slate nobody in this city can check.** He changed which side of himself it was on and put it under the other arm.
+- **He is not in that yard, and the man of about thirty-four who wrote the ninth line said out loud on the eighty-fourth that eight of the nine lines on that page are in his hand and the ninth is the man of about thirty-four's.**
+- **His decision on the slate from the seventieth day of the Long Month stands and has not been withdrawn, and about nine people in this city can still fetch Adrian Vale by a name he did not choose and a decision not to fetch is not an unfetchability.**
+
+## The man of about forty-four who keeps a stall
+
+- **Came up the nine miles on the seventy-ninth day of the Long Month with a basket he did not need to bring and stood in a doorway and did not open a twelfth entry in his column of costs.** He has eleven entries and the one that is paid is the thirteenth day of the new month, day 168, and there is no figure at the end of any of them.
+- **He said a sweep could be put against a sack and against a place at a fire and against a day of the queue, and that there is no figure at the end of any of those three sentences, and that he has been trying to write one since the forty-fourth day of the Long Month and has got about nine pages of a slate with nothing on the end of the lines, and that he has come up this road four times to tell about four people in that room that he has got nothing to put on the end of one.**
+- **He is a party to the compact and a cost is what a person says they are paying and a price is what a person says it is worth, and a later writer may not recite the column and may not open a twelfth entry.**
+
+## The woman of about fifty-six who keeps a shop four streets down from a market
+
+- **Has had nine measures under her counter hard since the thirty-ninth day of the Long Month, paid a figure for them on the twelfth day of that month, and has not opened them. She moved them off a shelf against an outside wall on the seventy-sixth day of that month and would not say where they are, and the reason is the one about a shelf and the wind and not the one about the shelf.**
+- **Walked nine miles to the yard of the store on the upper road on the seventy-sixth, the seventy-seventh and the eighty-fourth days of that month and did not go into the yard on any of the three.** She stood at the gate on the last one and said a shopkeeper is the only person in four hundred miles whose whole trade is a thing that happened somewhere else, and that she cares about what she saw at that wharf more than anything in her shop and cannot put it on a shelf without it being a price.
+- **She has never said one word to the man of about thirty-one about a wage, and she has known that they are four streets apart and carrying a thing they have not opened since the fifty-sixth day of that month, and she has not gone four streets and is not going to.**
+
+## The woman of about twenty-nine who keeps a public register
+
+- **Came along the boards of that market at about the fifth hour of the afternoon on the eighty-first day of the Long Month with a page in her own pocket with a date on the back of it, and did not take it out.** It is not a slate and it is not in a book and it has two names on the front of it and no third.
+- **She would not put a date on the back of that page, and gave the reason: a woman standing nine feet from her had asked what a date was in four words at the seventh hour of the evening on the thirtieth day of the Long Month and was told nothing, and she is not going to be the second person in this city to hand a date to a person who is not asking for one.**
+- **The delegation of four people and a question has not left, nobody has been asked whether they will go, a figure of seventy-two days is on it with no owner, and no figure in the last ten chapters is on it. *To open nothing* is her sentence and she will not say it a fourth time and nobody may say it for her, and it is in the prose of none of these ten chapters.**
+
+## Marrow, the keeper of the Redroot gate's year, the trestle man and the others
+
+- **Ivenn Marrow: 0 mentions in these ten chapters and no chapter of this batch mentions the room over a yard, the book on the trestle or the line in it. He is neither convicted nor made useless, nobody asked him about anything, and the trestle count and the line in that book that is not a number are on no page in these ten days.**
+- **The man who carries sacks did not come up the bank at the bottom of the Redroot cut in the last ten days and nobody in that yard said a word about that to anybody. A later writer may not ask and may not say whether the days still buy a sack.**
+- **The man who has carried racks up and down that cut since the second month of this flood put a hand on a rack on the eighty-third day of the Long Month and took it off again and did not give the reason he has been holding since the seventy-second day of that month. The rack is still at the edge of the bottom of that cut with the rope coiled on the top length, and a later writer may not have him put it in and may not have him give the reason in a yard with about nine people in it.**
+- **The thirty-nine men under the near gate of the Lock of Salt are on no line of the posting and no figure for what they are owed is on a page in these last forty days.**
