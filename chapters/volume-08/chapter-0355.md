@@ -80,7 +80,7 @@ It was not filled in and was not sent and did not go back and did not come back,
 
 ---
 
-The light went off the bench nobody was sitting on at about the fourth hour and the man of about thirty-nine said four things, and about four people in that room have worked out since that a man who had his hand flat over his own slate for the whole of a morning in which four places were read out in the local language chose the last hour and not the first, and that he has not been asked anything and has not offered anything.
+The light went off the bench nobody was sitting on at about the fourth hour and the man of about thirty-nine said two things, and about four people in that room have worked out since that a man who had his hand flat over his own slate for the whole of a morning in which four places were read out in the local language chose the last hour and not the first, and that he has not been asked anything and has not offered anything.
 
 "**That is the whole of it.**"
 
@@ -88,4 +88,4 @@ The light went off the bench nobody was sitting on at about the fourth hour and 
 
 "**A form, a heading, four places, and the fourth of them belongs to somebody who is not in this room, and every one of those four is correct, and this is the first room in about a fortnight where I was told what the last of the four was, out loud, before anybody asked me for it, and I am not going to be asked about it.**"
 
-Nobody asked him about it. About four people in that room have worked out since that the man of about thirty-nine has spent a month being the only person in this city who has done the part of a thing that cannot be taken back, and that this morning he said four sentences in the last hour of a room in which about nine people had been told the fourth place out loud for the first time, and that the two of those facts are about the same building and about nothing else in the world, and that nobody in that room was going to say so to him and nobody did.
+Nobody asked him about it. About four people in that room have worked out since that the man of about thirty-nine has spent a month being the only person in this city who has done the part of a thing that cannot be taken back, and that this morning he said two speeches in the last hour of a room in which about nine people had been told the fourth place out loud for the first time, and that the two of those facts are about the same building and about nothing else in the world, and that nobody in that room was going to say so to him and nobody did.

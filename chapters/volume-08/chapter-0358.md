@@ -4,7 +4,7 @@ A room over a market had the forty-third day of that month in chalk on its door 
 
 ---
 
-The form had been on the table since the Saturday and had three of its four places in a condition and one of them in a decision, and about four people in that room have worked out since yesterday that the man who cut salt off a barrow on a set of boards at the bottom of this city answered a question yesterday that the woman standing at this table asked him, and that the answer is not in this room, and that the woman who asked it is.
+The form had been on the table since the Saturday and had three of its four places in a condition and one of them in a decision, and about four people in that room have worked out since yesterday that the man who cut salt off a barrow on a set of boards at the bottom of this city answered a question yesterday that the woman standing at this table asked him, and that the answer is not in this room, and that the woman who asked it is standing on the step at the back of it with a slate under her arm.
 
 A woman of about twenty-one had been written into this room and she had come up the stair at about the seventh hour with a pen in her hand with the nib ground narrow and cut down with a knife, and about four people in that room have worked out since that she walked nine places in three days and wrote nothing on the ninth of them, and that she has stopped waiting to be told what she is for, and that a person who has stopped waiting is the only person in this city who is not owed anything by anybody.
 
@@ -16,7 +16,7 @@ The man of about twenty-five was not in the room either. He had nine words in th
 
 ---
 
-The woman of about twenty-nine who keeps a public register came in at about the second hour of the afternoon with the slate under her arm and went out at about the fourth hour, and about four people in that room have worked out since that her coming and going is the only clock in it, and that a woman who has been in six rooms in about a fortnight and stayed in five of them came in, looked at four places on a form, and left, and that she did not sit down.
+The woman of about twenty-nine who keeps a public register came up to the step at the back with no name on it at about the tenth hour of the day with the slate under her arm and went back down it at about the fourth hour of the afternoon, and about four people in that room have worked out since that her coming and going is the only clock in it, and that a woman who has been in six rooms in about a fortnight and stayed in five of them came up, looked at four places on a form from the step, and went back down, and that she did not come in and she did not sit down.
 
 "The fourth of them is a share and it is a household's."
 
@@ -30,9 +30,9 @@ Nobody in that room said anything for about as long as it takes to fill a pail, 
 
 "Nobody in this room is going to ask you about the Saturday either."
 
-"**Then we will both be here all day saying nothing about the most interesting thing in it, and about four people in this room have noticed that, and about four of them have worked out that neither of us is going to be the one who starts.**"
+"**Then we will both be here saying nothing about the most interesting thing in it, and about four people in this room have noticed that, and about four of them have worked out that neither of us is going to be the one who starts.**"
 
-She looked at Tamsin Quill for about as long as it takes to fill a pail and then she went out at about the fourth hour, and the door stayed open behind her for about as long as it takes to fill a pail and then it was shut, and about four people in that room have worked out since that a woman who has not been thanked for anything in a month left a room without being thanked for walking nine hundred paces in the other direction yesterday, and that it was the same woman standing in both of them and that the arrangement is working.
+She did not look at Tamsin Quill, who had been at the bench with the folded sheet still in her apron since the sixth hour of the morning, and the two of them were about four paces apart for as long as she was there and neither of them said one word to the other at any point in it, and the register-keeper went back down at about the fourth hour of the afternoon, and the door stayed open behind her for about as long as it takes to fill a pail and then it was shut, and about four people in that room have worked out since that a woman who has not been thanked for anything in a month went away from a step without being thanked for having walked nine hundred paces in the other direction on Sunday, and that it was the same woman who did both of those things on two different days, and that the arrangement is working.
 
 ---
 
@@ -58,4 +58,4 @@ Nine hours is a long time in a room with about nine people in it and a form on t
 
 Tamsin Quill did not ask her about the ninth line. Tamsin Quill did not offer the folded sheet to anybody, and about four people in that room have worked out since that a woman who has been in a documented check with a man since the seventeenth day of the Short Month has carried nine places on a sheet in her apron into two rooms this week and has not taken it out in either of them, and that the not-taking is not a courtesy and is not a mood.
 
-The room emptied at about the ninth hour and about four people who had come up the stair stood on the step at the back with no name on it, and about four of them have worked out since that nine hours went past in that room with a form on the table that nobody could fill and a sheet of road in an apron that nobody was given, and that not one person in nine hours asked one other person one question, and that the room over a market now has a day on its door that means a thing nobody can act on, and that the two women of about twenty-nine in this city have been in the same argument for about a month and have still never once been in the same room, and that one of them came in at the second hour and went out at the fourth and the other one was there all day and has not left the step.
+The room emptied at about the ninth hour and about four people who had come up the stair stood on the step at the back with no name on it, and about four of them have worked out since that nine hours went past in that room with a form on the table that nobody could fill and a sheet of road in an apron that nobody was given, and that not one person in nine hours asked one other person one question, and that the room over a market now has a day on its door that means a thing nobody can act on, and that the two women of about twenty-nine in this city have been in the same argument for about a month and have still never once been in the same room, and that one of them stood on the step at the back from the tenth hour of the day until the fourth hour of the afternoon and the other one was at the bench from the sixth hour of the morning until the room emptied, and that neither of the two of them ever once came off the step or left the bench.
