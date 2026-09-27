@@ -36,13 +36,15 @@ The woman of about fifty-one came in a second time and put her hand flat on the 
 
 "We can get on, and I want to be exact about what getting on is, because about four people in this city have spent a month being vague about it." She put the chalk where he had put it and did not pick it up. "**The schedule stands and it is correct and it is on a table in that room, and there are four places in it and three of them are empty, and the third of them wants a person.**" She put her thumb on the slate. "The person who is supposed to be in it is a man with a bar of oak shod with iron and a chain over a pulley about four hundred miles up that road, and this city will not name him, and nobody has asked him, and he has never been asked one question in about four hundred days."
 
+What the third place wants is a holder. What the road has got, at that gate and at every gate the Marches keeps, is a keeper, and the two words have never once been in the same line of the same hand, and the woman of about twenty-four read one of the two rolls out loud on the twenty-fifth of that month and did not read the other one at all.
+
 ---
 
 The man of about thirty-four said that the sentence about the bar and the chain was not his to correct and that about nine people in that room had worked out the same thing over about a month and that none of them had ever written it down, and that a description is a removal with a column for where the person is, and that he had heard that said out loud in a room in daylight with a date on the door about six weeks ago and had not been in the room when it was said and had worked out what it was by himself over about nine days.
 
 "You worked it out by yourself."
 
-"I worked it out by myself and I got here by myself and it took me about nine days and about four hundred miles of road, and I have never once been asked to say it out loud and nobody is going to ask me today." He turned the slate he had brought over, face down, and left it face down. "**And the word on that page is on a page in this city and on a page in the Marches and neither of them has ever been defined by anybody, and I am not going to define it.**" He did not turn the slate over. "If I did it would be the first definition in four hundred miles, and it would be a word invented in a room, and that is a thing a clerk nine hundred miles off can use."
+"I worked it out by myself and I got here by myself and it took me about nine days and about four hundred miles of road, and I have never once been asked to say it out loud and nobody is going to ask me today." He turned the slate he had brought over, face down, and left it face down. "**And the word in the third place of that page is on a page in this city and on a page in the Marches and neither of them has ever been defined by anybody, and I am not going to define it.**" He did not turn the slate over. "If I did it would be the first definition in four hundred miles, and it would be a word invented in a room, and that is a thing a clerk nine hundred miles off can use."
 
 ---
 

@@ -8,13 +8,13 @@ The man of about thirty-eight put his barrow down at the near end of the gate an
 
 "I have been up this road every morning since the first week of the second month and I went up it on the fourth, and I am not going up it this morning and I would like to be told by somebody at this gate that I am not going up it this morning."
 
-"**You are not going up it this morning and I am telling you because you asked me, and you are the first person to ask me anything since the spring.**" She had not taken her hand out of her coat. "And I would like it said that a man with a barrow of boards asked me a question at this gate and got an answer, and that I am not enjoying it as much as I expected to."
+"**You are not going up it this morning and I am telling you because you asked me, and you are the first person to ask me anything in about nine years.**" She had not taken her hand out of her coat. "And I would like it said that a man with a barrow of boards asked me a question at this gate and got an answer, and that I am not enjoying it as much as I expected to."
 
 ---
 
 She put the bar of ash into its two brackets and took her hand out of her coat, and about four people in that lane have said since that a woman who takes her hand out of her coat in front of a stranger has decided the stranger is somebody to be worked with and not somebody to be hidden from, and that what came out of the coat was a brass key on a tarred cord about a foot long, and that she put it into her apron pocket and not back inside the coat.
 
-The man of about thirty-eight looked at the far side of the road for a while and then turned the barrow round, and the boards went up the hill over the stones and the sound of them went off, and the lane was empty and the gate was not.
+The man of about thirty-eight looked at the far side of the road for a while and then turned the barrow round, and the boards went up the hill over the stones and the sound of them went off, and he did not put one of them down anywhere, and the lane was empty and the gate was not.
 
 ---
 
@@ -68,7 +68,7 @@ A cart came up the lane from the south at about the eleventh hour with a load of
 
 ---
 
-The man of about thirty-eight came back down that lane at about the fourth hour with his barrow empty and stopped at the same near end and asked her a second question, and this one was not the same question, and about four people in that lane have said since that a man who comes back down a lane in the afternoon to ask a second thing is a man who has spent the day on the other side of a shut gate doing arithmetic about his own winter and has come back with a question he did not have in the morning.
+The man of about thirty-eight came back down that lane at about the fourth hour with his barrow still loaded and stopped at the same near end and asked her a second question, and this one was not the same question, and about four people in that lane have said since that a man who comes back down a lane in the afternoon to ask a second thing is a man who has spent the day on the other side of a shut gate doing arithmetic about his own winter and has come back with a question he did not have in the morning.
 
 "Does anybody up there know yet."
 

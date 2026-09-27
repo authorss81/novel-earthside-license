@@ -40,7 +40,7 @@ The man of about twenty-six did not write anything down, and a man poling a raft
 
 "That is the whole of it?"
 
-"That is the whole of it and I have said it to nine places and eight of them have said something back and one of them has not, and I am not going to tell you which one and I am not going to tell you the days, and about four people on that water have said since that a raft that goes to nine places on nine days and does not write a day down anywhere is the only instrument anybody has this month that a clerk nine hundred miles off cannot ask to have produced, and that this is the second time in about a fortnight that the answer to that has turned out to be somebody refusing to write something down."
+"That is the whole of it and I have said it to eight places and every one of those eight has said something back, and this is the ninth, and one of the nine is going to say nothing at all, and I am not going to tell you which one and I am not going to tell you the days, and about four people on that water have said since that a raft that goes to nine places on nine days and does not write a day down anywhere is the only instrument anybody has this month that a clerk nine hundred miles off cannot ask to have produced, and that this is the second time in about a fortnight that the answer to that has turned out to be somebody refusing to write something down."
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 0294 — The Days Go Back
 
-A house at the end of a lane past two gates on that road had a sheet of paper on its sill on the thirty-ninth day of the Short Month, a Monday, at about the seventh hour of the morning, with a date in chalk on the door above it and the date two days old, because the sheet went out on the thirty-fifth and the thirty-fifth was four days back, and the light came in off the low ground and did not reach the lane past the first gate, and the cold was out of the wind and in the iron of the second gate's bar, and what was under about four pairs of hands on that lane that morning was a bar, a cart wheel that could not get past a barrow on its side, a slate, a lump of chalk, and a sheet of paper with a question on it in a hand that is a girl's.
+A house at the end of a lane past two gates on that road had a sheet of paper on its sill on the thirty-ninth day of the Short Month, a Monday, at about the seventh hour of the morning, with a date in chalk on the door above it put that morning at about the seventh hour, and the sheet had been on that sill since the thirty-fifth and the thirty-fifth was four days back, and the light came in off the low ground and did not reach the lane past the first gate, and the cold was out of the wind and in the iron of the second gate's bar, and what was under about four pairs of hands on that lane that morning was a bar, a cart wheel that could not get past a barrow on its side, a slate, a lump of chalk, and a sheet of paper with a question on it in a hand that is a girl's.
 
 ---
 
@@ -12,7 +12,7 @@ The man of about thirty-six came down the lane with his bar and a bootful and em
 
 ---
 
-The sheet was on the sill of that door and the woman of about fifty-four had it face up and had been reading it since the thirty-fifth, and about four people on this lane have said since that a woman who has had a sheet face up on a sill for two days has not been waiting to be asked anything, and that the whole of the asking this week has been standing in front of a door with nothing in its hands, and that the two of those facts are the same fact.
+The sheet was on the sill of that door and the woman of about fifty-four had it face up and had been reading it since the thirty-fifth, and about four people on this lane have said since that a woman who has had a sheet face up on a sill for four days has not been waiting to be asked anything, and that the whole of the asking this week has been standing in front of a door with nothing in its hands, and that the two of those facts are the same fact.
 
 Then a man's voice came out of that door, and it was not raised, and it was the voice of a man of about fifty-eight who had answered a carter on the thirty-third with nothing in a hand and had not been asked a single question about the thirty-ninth, and what he said was four sentences long and every one of them was for the lane and not for the man at the gate.
 
@@ -50,7 +50,7 @@ Then a woman of about nineteen came up that lane from the road at about the elev
 
 "**The last one said it about the eleventh hour and you were not in the house, and I was, and I have come down to tell you and I am going to tell you the whole of it because nobody else is going to and I have decided that in about four seconds on the stair.**" She put her hands on her knees and did not go down them. "The house at the end of this lane put a sheet face up on its step and went back in and shut its door, and I was not in it, and I am not going to invent what was in it for a man who was not in it either."
 
-"They have had the sheet since the thirty-fifth and they have not written on it, and the man said it out of the door at about the seventh hour and everybody on this lane heard it, and then the woman came back in and shut the door, and then about four other houses on this lane did the same thing in about the next hour, one after another, and nobody said anything to anybody and nobody was asked, and the last of them was not on this lane at all."
+"They have had the sheet since the thirty-fifth and they have not written on it, and the man said it out of the door at about the seventh hour and everybody on this lane heard it, and then the woman came back in and shut the door, and then about four other houses on this lane did the same thing in about the next hour, one after another, and nobody said anything to anybody and nobody was asked, and that is five houses on a lane, and about four people on this lane have said since that the other four are not on this lane and have not been on it and that nobody in four hundred miles can put a door on any of them, and that a lane with five houses on it is how a ninth of nine gets said on one morning."
 
 ---
 

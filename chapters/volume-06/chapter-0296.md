@@ -8,7 +8,7 @@ The man of about forty-one put his hand inside the good coat and found nothing i
 
 "You have come down that road with a page and you have not said what is on it."
 
-"**It is dated at an office nine hundred miles away and it is dated for the forty-second of that month, which is tomorrow, and it is correct, and it is not signed by anybody in this city.**" He put the sheet down on the table with the writing facing up. "And there are nine sentences on it that I have read out in this room and about nine people in this room heard me read them out on a day in the second week of that month."
+"**It is dated at an office nine hundred miles away and it is dated for the forty-second of that month, which is tomorrow, and it is correct, and it is not signed by anybody in this city.**" He put the sheet down on the table with the writing facing up. "And there are nine sentences on it that I have read out in this room and about nine people in this room heard me read them out on the twenty-sixth day of that month, in a market town nine hundred paces past the last named house, and I have not read one word of it out loud since."
 
 ---
 
@@ -72,8 +72,11 @@ The man of about forty-one turned the sheet over, did not show anybody the back 
 
 "There is a gate at the west end of that road and a man keeps it and this city will not name him."
 
-"**There is a gate at the west end of that road and a man keeps it and I am not going to name him, and your register has never had him in it, and I have never asked you to put him in it, and that is two of us keeping a thing out of a page for nine days and neither of us has ever said so out loud in the same room.**"
+"**There is a gate at the west end of that road and it is not the one on the hill, and a man keeps it, and I am not going to name him, and your register has never had him in it, and I have never asked you to put him in it.**"
 
+And that was two of them keeping a thing out of a page for nine days, and neither of them had ever said so out loud in the same room. The gate at the west end of that road has a bar of oak in it and a chain over a pulley, and the gate on the hill has a bar of ash in two brackets and a hook and a key on a tarred cord, and both of them are in the Marches and neither of them is on a page.
+
+And the thing those two of them have been keeping out of the page was not put on the table either, and it was that the form on that table wants a holder and that the road has got a keeper in it, and that those are two different words and nobody in four hundred miles has ever put them next to each other. The gate on the hill has a woman at it who has not given her name, and that is three things out of a page in this city, and none of the three has been in a room with anybody, and not one of them has been asked a question by somebody who was sent.
 The man of about forty-one put his hand back inside the good coat, and a man who checks an empty coat at the exact point in a conversation where a name was refused is a man who has understood what the coat is for, and the inside of a coat is the only column anybody in this flood has been able to keep a person out of, and it is not a column and it cannot be produced and it is in a man's own hand.
 
 ---
