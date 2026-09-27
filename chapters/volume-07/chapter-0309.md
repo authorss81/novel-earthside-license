@@ -38,7 +38,7 @@ The man of about forty-three put his hand on the table about a foot from the sec
 
 "Then somebody has to write one on the day after that, and that is what I am here about, and I have been waiting since the fourth hour of the afternoon to say it and I could not." He took his hand off the table. "**This happened once before in the middle of this flood. A woman stood in this room and named a month. It was the first day of the one that came after the Long Month, and she did not announce it and nobody asked her to.**" He turned his hand over on the table. "**She said the word, and after that day people wrote the word on things, and that was the whole of the announcement.**"
 
-A man of about thirty-seven who had been at the back of that room with a board of his own under his arm said nothing at all, and about four people in that room have worked out since that a man who keeps a board and says nothing at the point where a room runs out of forms is a man who has watched a room run out of forms before and does not intend to be the first person to say so.
+A man of about thirty-nine who had been at the back of that room with a board of his own under his arm said nothing at all, and about four people in that room have worked out since that a man who keeps a board and says nothing at the point where a room runs out of forms is a man who has watched a room run out of forms before and does not intend to be the first person to say so.
 
 "And what happened when the month she named ran out?"
 

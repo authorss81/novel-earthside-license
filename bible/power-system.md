@@ -1059,33 +1059,35 @@ These are additions to the sections above, not replacements, and they are on the
 
    | Ch | Day | Weekday | Month day | | Ch | Day | Weekday | Month day |
    |---|---|---|---|---|---|---|---|---|
-   | 0351 | 351 | **Tuesday** | **BM 36** | | 0376 | 376 | Tuesday | BM 61 |
-   | 0352 | 352 | Wednesday | BM 37 | | 0377 | 377 | Wednesday | BM 62 |
-   | 0353 | 353 | Thursday | BM 38 | | 0378 | 378 | Thursday | BM 63 |
-   | 0354 | 354 | Friday | BM 39 | | 0379 | 379 | Friday | BM 64 |
-   | 0355 | 355 | Saturday | BM 40 | | 0380 | 380 | Saturday | BM 65 |
-   | 0356 | 356 | Sunday | BM 41 | | 0381 | 381 | Sunday | BM 66 |
-   | 0357 | 357 | Monday | BM 42 | | 0382 | 382 | Monday | BM 67 |
-   | 0358 | 358 | Tuesday | BM 43 | | 0383 | 383 | Tuesday | BM 68 |
-   | 0359 | 359 | Wednesday | BM 44 | | 0384 | 384 | Wednesday | BM 69 |
-   | 0360 | 360 | Thursday | BM 45 | | 0385 | 385 | Thursday | BM 70 |
-   | 0361 | 361 | Friday | BM 46 | | 0386 | 386 | Friday | BM 71 |
-   | 0362 | 362 | Saturday | BM 47 | | 0387 | 387 | Saturday | BM 72 |
-   | 0363 | 363 | Sunday | BM 48 | | 0388 | 388 | Sunday | BM 73 |
-   | 0364 | 364 | Monday | BM 49 | | 0389 | 389 | Monday | BM 74 |
-   | 0365 | 365 | Tuesday | BM 50 | | 0390 | 390 | Tuesday | BM 75 |
-   | 0366 | 366 | Wednesday | BM 51 | | 0391 | 391 | Wednesday | BM 76 |
-   | 0367 | 367 | Thursday | BM 52 | | 0392 | 392 | Thursday | BM 77 |
-   | 0368 | 368 | Friday | BM 53 | | 0393 | 393 | Friday | BM 78 |
-   | 0369 | 369 | Saturday | BM 54 | | 0394 | 394 | Saturday | BM 79 |
-   | 0370 | 370 | Sunday | BM 55 | | 0395 | 395 | Sunday | BM 80 |
-   | 0371 | 371 | Monday | BM 56 | | 0396 | 396 | Monday | BM 81 |
-   | 0372 | 372 | Tuesday | BM 57 | | 0397 | 397 | Tuesday | BM 82 |
-   | 0373 | 373 | Wednesday | BM 58 | | 0398 | 398 | Wednesday | BM 83 |
-   | 0374 | 374 | Thursday | BM 59 | | 0399 | 399 | Thursday | BM 84 |
+   | 0351 | 351 | **Tuesday** | **BM 36** | | 0376 | 376 | Saturday | BM 61 |
+   | 0352 | 352 | Wednesday | BM 37 | | 0377 | 377 | Sunday | BM 62 |
+   | 0353 | 353 | Thursday | BM 38 | | 0378 | 378 | Monday | BM 63 |
+   | 0354 | 354 | Friday | BM 39 | | 0379 | 379 | Tuesday | BM 64 |
+   | 0355 | 355 | Saturday | BM 40 | | 0380 | 380 | Wednesday | BM 65 |
+   | 0356 | 356 | Sunday | BM 41 | | 0381 | 381 | Thursday | BM 66 |
+   | 0357 | 357 | Monday | BM 42 | | 0382 | 382 | Friday | BM 67 |
+   | 0358 | 358 | Tuesday | BM 43 | | 0383 | 383 | Saturday | BM 68 |
+   | 0359 | 359 | Wednesday | BM 44 | | 0384 | 384 | Sunday | BM 69 |
+   | 0360 | 360 | Thursday | BM 45 | | 0385 | 385 | Monday | BM 70 |
+   | 0361 | 361 | Friday | BM 46 | | 0386 | 386 | Tuesday | BM 71 |
+   | 0362 | 362 | Saturday | BM 47 | | 0387 | 387 | Wednesday | BM 72 |
+   | 0363 | 363 | Sunday | BM 48 | | 0388 | 388 | Thursday | BM 73 |
+   | 0364 | 364 | Monday | BM 49 | | 0389 | 389 | Friday | BM 74 |
+   | 0365 | 365 | Tuesday | BM 50 | | 0390 | 390 | Saturday | BM 75 |
+   | 0366 | 366 | Wednesday | BM 51 | | 0391 | 391 | Sunday | BM 76 |
+   | 0367 | 367 | Thursday | BM 52 | | 0392 | 392 | Monday | BM 77 |
+   | 0368 | 368 | Friday | BM 53 | | 0393 | 393 | Tuesday | BM 78 |
+   | 0369 | 369 | Saturday | BM 54 | | 0394 | 394 | Wednesday | BM 79 |
+   | 0370 | 370 | Sunday | BM 55 | | 0395 | 395 | Thursday | BM 80 |
+   | 0371 | 371 | Monday | BM 56 | | 0396 | 396 | Friday | BM 81 |
+   | 0372 | 372 | Tuesday | BM 57 | | 0397 | 397 | Saturday | BM 82 |
+   | 0373 | 373 | Wednesday | BM 58 | | 0398 | 398 | Sunday | BM 83 |
+   | 0374 | 374 | Thursday | BM 59 | | 0399 | 399 | Monday | BM 84 |
    | 0375 | 375 | **Friday** | **BM 60** | | 0400 | 400 | **Tuesday** | **BM 85** |
 
-   **Day 375 is the volume's midpoint under `outline/series.md`'s Volume 08 line as struck and replaced by the Volume 07 close phase, and it is a Friday, and the sixtieth day of the Bare Month.** A volume may not attach a meaning to the sixtieth. **The Bare Month is at thirty-five on day 350 and the thirty-fifth is a Monday, and the forty-ninth is a Sunday, and the eighty-fifth is a Tuesday, and no chapter may say that the month is nearly over or nearly begun or anything at all about it.**
+   **Day 375 is the volume's midpoint under `outline/series.md`'s Volume 08 line as struck and replaced by the Volume 07 close phase, and it is a Friday, and the sixtieth day of the Bare Month.** A volume may not attach a meaning to the sixtieth. **The Bare Month is at thirty-five on day 350 and the thirty-fifth is a Monday, and the forty-ninth is a Monday, and the eighty-fifth is a Tuesday, and no chapter may say that the month is nearly over or nearly begun or anything at all about it.**
+
+   **AND THE WEEKDAY COLUMN OF THE TABLE ABOVE WAS WRONG ON TWENTY-FOUR OF ITS FIFTY ROWS AND IS REPAIRED IN PLACE BY THE REVIEW REPAIR PASS ON THE VOLUME 07 CLOSE, and the repair is arithmetic and not judgement.** The right-hand block as this section was first written began `0376 | 376 | Tuesday`, and a weekday is a figure and day 1 is a Tuesday, so day 376 is a **Saturday**; the block ran the seven days from the wrong end and so every row from 376 to 399 was one step out, and then row 0400 came back to a Tuesday, which is right, so the block was discontinuous with itself and no sum down the column would have caught it. **The wrong value was not random and that is why it survived a writing phase: 376 is a multiple of seven less one, and a column restarted at a round-looking boundary is the most natural thing in the world to write.** All fifty rows are now recomputed from day 1 by the founding rule, **BM numbers were right in all fifty and were not touched, the left-hand block for 351 to 375 was right in all twenty-five and was not touched, and §33A's table for days 301 to 350 was checked with the same formula and stands at zero mismatches, so the fault was in this section's table and not in the instrument.** See `state/volume-07-close.md` §9.1.
 
 4. **THE BARE MONTH DOES NOT END INSIDE VOLUME 08, AND THIS PHASE DOES NOT DECIDE HOW LONG IT IS AND CANNOT.** The reason is the notary's sentence and not a figure. **Chapter 0316 is a page on which Sera Vail, a notary of fifty, names the Bare Month and declines to say how long it is and says why, and the reason is hers, and the protection that bought is that no later volume can inherit an end by accident.** A volume that ended the Bare Month on a chapter boundary would print the end of a month whose length was refused, in the first volume to inherit that refusal, and it would have to do it in one of two ways: **by a sentence in a state file, which is the fault this repository has been repairing for four volumes, or by a chapter that guesses, which §33A item 2 forbids.** So Volume 08 does not touch the end of it.
 
