@@ -687,3 +687,41 @@ These are recorded because a later reader of this file should not have to redisc
 ### The next phase of this block, by path
 
 **`workspace/volume-06/batch-0001/PROMPT.md`, and it is a batch and not an outline. It writes Chapters 0251 to 0260, ten chapters, days 251 to 260, one chapter to one day, ending on a Tuesday.** It exists, and it exists because the decision was on the page first, and the repair pass edited it and did not change what it writes or how many chapters it writes. **The blocks above this one are history and were not restructured; newest block wins and nothing in this file is undone.**
+
+---
+
+## Volume 06, Batch 0001 — TEN CHAPTERS ON DISK. FOUR THREADS ADVANCED, ONE NEW THREAD OPENED, NONE CLOSED, AND THE FIGURES RE-CHECKED.
+
+**The record is `state/batch-summaries/volume-06-batch-0001.md`. Newest block wins and nothing above this one was restructured. `state/volume-05-close.md` §3's twelve live items and §4's prohibitions stand at full length and are not restated here. A writer who has read the *Volume 06 outline phase* block above and this one has everything.**
+
+### 1. THE FOUR THREADS THE OUTLINE PHASE OPENED, AND WHERE EACH OF THEM NOW IS
+
+1. **THE INSTRUMENT. Advanced, and it has done nothing.** A Crown case came up the river on day 251, shut, and is on a table in a room over a market. The four places are a date, a gate, a holder, the days. It is correct, it is signed by a clerk, it is dated nine hundred miles away, and **it does not name the store and that is the only protection this city has and it works by accident.** The schedule is not filled in. **The case has not been opened in ten days and no chapter may open it.**
+2. **THE WORD THAT DOES NOT EXIST. Settled on a page, against the right compact.** Chapter 0258: no word is invented, the company is entered by the name of the place it keeps, and the people from the other side are on that roll one line each as named guests **under the compact read out on day 154, whose fifth line is the guest line, and the chapter says aloud that it means that one and not the other.** A guest is the only instrument in four hundred miles a person can end by asking and a company of guests is not. **The cost stands: a company entered by a place cannot be posted a wage, and a wage that cannot be posted is a favour, and a favour stops in Chapter 0277 and about nine people stop turning up.**
+3. **THE TWO ROLLS. Not discovered, and the asking has happened once.** Roke's own eight have now been asked about **for the first time since day 137, on a day he did not choose**, and he answered with five figures and no feeling and did not improve on them: eight, every year, nineteen years, four times a year, nobody. **The two counts are on two slates and they are not joined up and must not be joined up.** The second roll of the same gates is still nobody's and the question it earns is Volume 07's.
+4. **THE SCAR. Not seen, not measured, not dug.** It is not in these ten chapters and it is Chapter 0299.
+
+### 2. THE NEW THREAD THIS BATCH OPENED, WHICH A LATER PHASE HAS TO INHERIT
+
+5. **NINETY-FOUR GATES, ON A PAGE, IN A MOUTH, AND IT IS NOT A COUNT.** A woman of about twenty-four said it out loud in a market on the hundredth day of the Long Month, and nobody in that market could check it, and about four people wrote it down, and she said in the same breath that nobody in four hundred miles has ever counted them and that she has got it out of about nine people. **It is live as a fact about this city and not as a figure: the first number this volume has put on a page that nobody can check, and the volume's subject rather than a property of the road. NO LATER WRITER MAY TREAT IT AS A COUNT, CORRECT IT, IMPROVE ON IT, OR BUILD ANYTHING ON IT. It is not four hundred and forty and must never be read as a variant of it, and the Marches' roll of gates is a separate thing that has not been found.**
+
+### 3. THE THREE FIGURES A LATER WRITER WILL GET WRONG, KEPT APART
+
+- **The board's figures are the figures of day 224 and are the day less 224. They are twenty-nine days old on day 253 and thirty-one on day 255, and both are on a page. At day 261 they are thirty-seven and the board has stood unwritten thirty-six.**
+- **The wind has been at the wall of the store on the upper road since day 229 and is the day less 229. It is twenty-four days on day 253 and twenty-six on day 255, and both are on a page. At day 261 it is thirty-two.**
+- **The trestle count is the day less forty and it is two hundred and eleven at day 251, two hundred and thirteen at day 253 and two hundred and twenty at day 260. Two hundred and thirteen is the only one of the three on a page, and it is in narration and dated and its anchor is named in the same sentence. `state/batch-summaries/volume-05-batch-0005.md` §13.10's prohibition remains scoped to Chapters 0241 to 0250 and does not reach this batch; `bible/power-system.md` §33.6 item 7 permits a derived value in a chapter that dates it and permits it in a mouth only where a page carries it. The other two are on no page and in no mouth.**
+
+### 4. AND THE TWO DEPARTURES FROM THE CARDS, WHICH A REVIEWER SHOULD FIND DELIBERATE
+
+- **Chapter 0259's card says *he says no in about four seconds* and the page says *he said no before the sentence was finished*, because `outline/volume-06.md` §17.6 forbids the *about N seconds* refrain in a chapter whose finding is a refusal and Chapter 0259's finding is a refusal.**
+- **Card 0258 says the register-keeper reads the nine out loud and stops at the ninth, and the page has her read the eight above the ninth in order and stop and say what the ninth is without reading it, because the standing prohibition on reading the ninth line aloud is absolute and the volume's resolution is built on it.**
+
+**And one card figure that is wrong and was not written: Card 0259's next-chapter pull says the case has been on a table for nine days, which is the day-260 figure, and Chapter 0259 is day 259 and the page says eight.**
+
+### 5. THE CONTROLLER-OWNED ITEM, UNCHANGED AND STILL CONTRADICTING
+
+`state/phase-ledger.json` still reads `phase-000-bootstrap / planned / attempts: 0`. **Nothing functional breaks** — dispatch is `find workspace -name PROMPT.md` in `scripts/novel_runner.sh:40` and `.github/workflows/novels.yml:126` — and the file is controller-owned and was not touched. Recorded so the next review does not spend itself on it.
+
+### The next phase of this block, by path
+
+**`workspace/volume-06/batch-0002/PROMPT.md`,** a batch that writes Chapters 0261 onward, ten chapters, days 261 to 270, one chapter to one day, ending on a Friday. It exists and it names no path that does not exist, and every file this batch wrote names that one path and no other.
