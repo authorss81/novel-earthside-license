@@ -54,8 +54,6 @@ He shifted his weight in the doorway and the stair took it.
 
 "**And there is nobody in this room who has the walking in them and there is nobody in this room who is the other party.**"
 
-"There is a thing on that slate about it this morning. It is four lines long and it is the third thing on it." He did not come further into the room than the door. "You cannot settle a boundary in this city with a return. You cannot settle it with a deed and you cannot settle it with a slate, and the only two ways anybody has ever settled one are somebody walking it and two parties agreeing where it runs. And there is nobody in this room who has the walking in them and there is nobody in this room who is the other party."
-
 Nobody in the room offered him a name to put in either half of that.
 
 "Who are the two parties."
