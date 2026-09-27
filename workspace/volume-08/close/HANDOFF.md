@@ -1,0 +1,53 @@
+# HANDOFF — to the Volume 08 close, from Batch 0005
+
+**This is a note and not a prompt. It decides nothing, it resolves nothing, and nothing in it is a close record. It tells the close what is on disk, what the three findings are, what measurement settles each of them, and what is left on the live list. `workspace/volume-08/close/PROMPT.md` is the prompt and this file is beside it.**
+
+**The volume's own name is spoken once, in Chapter 0357, and it is in no file in this repository, and this note does not have it and the close prompt does not have it and no file the close produces may have it.**
+
+---
+
+## 1. What is on disk
+
+- **`chapters/volume-08/chapter-0351.md` through `chapter-0400.md`.** Fifty chapters, days 351 to 400, one chapter to one day, no double day in the volume. Day 1 is a Tuesday. **Days 351 to 400 recompute from that at zero mismatches against `bible/power-system.md` §33B's repaired table, and days 301 to 350 at zero mismatches against §33A item 4's table.**
+- **`bible/power-system.md` §§41 to 50**, one per batch, in the same numbered form. §50 is Batch 0005's.
+- **`state/batch-summaries/volume-08-batch-0001.md` through `volume-08-batch-0005.md`.** Batch 0005's is the most recent witness and its §9 is the only place the last ten days' first-edition figures are published beside the figures that replaced them.
+- **`state/current.md`**, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/chapter-summaries.md`, each with a block at the foot headed *VOLUME 08, BATCH 0005*, and the foot wins.
+- **`reviews/volume-08/batch-0003.md` and `batch-0004.md`**, and `logs/batch-0003.review.log`, `logs/batch-0004.review.log`. **There is no review of Batch 0005, because no review prompt was created and the workflow will dispatch one if its rules call for it. This note does not decide that.**
+- **`outline/volume-08.md`** is the plan and is unchanged since the Volume 08 outline phase and its repair pass. **Nothing in it moved while fifty chapters were written, and that is the strongest single fact about this volume's plan layer.**
+
+## 2. The three findings, and what measurement settles each
+
+**FINDING ONE — the lead is in one room, and a batch where the preparation is the plot has no plot.** Volume 08 is seventeen rooms in fifty chapters. Batch 0005's ten: four rooms (0392, 0393, 0395, 0396) and six not (0391 a road, 0394 and 0399 the wharf boards, 0397 a shut road and a lane, 0398 a market, 0400 a shut road with a turn and a lane in it). **The test the finding asks for — that a room costs something on each day it appears — is run on all seventeen and published per batch at each batch record's §6, and it is answered: every room chapter in this volume cost something and named what it cost.** **What settles this is a decision and not a measurement, and the close is the last phase in this volume that may take one.** The close may not invent a location the plan does not have and may not move a day.
+
+**FINDING TWO — the protagonist is in seven chapters of this volume in fifty and that is thin.** `outline/volume-08.md` §4 names every one: 0352, 0355, 0360, 0371, 0376, 0381, 0392. **All five batches honoured that list exactly and 0392 is the last of them. He is Stage 2 on all fifty days, performed no working, opened no threshold, is named nowhere else in any form, and the words *passage* and *privilege* are at zero across all fifty files.** The remedy is a decision for the close and **it may not be made inside a chapter, and §4 is the cast rule and §8's midpoint was already corrected to agree with it.**
+
+**FINDING THREE — the chorus frame, which is the one prose fault in this volume a count will not catch.** Volume 07 is where the habit began, at 11.3 instances a chapter against Volume 06's 0.18. **The first pass of Batch 0005's ten files measured one instance in every 4.4 paragraphs, which is exactly the figure the Batch 0003 review named as a fault and exactly Batch 0004's own first-pass figure, and a writer who had been told about the frame four times wrote it at that density twice. Forty-three instances were cut by hand and eleven kept, and the eleven are named one by one with the reason at `state/batch-summaries/volume-08-batch-0005.md` §3 item 4c.** The batch-line reads 1.9 (B0003 first pass) → 6.2 (B0003 repaired) → 4.4 (B0004 first pass) → 22.3 (B0004 repaired) → 4.4 (B0005 first pass) → 16.8 (B0005 repaired), one in paragraphs on the variant-agnostic head. **That line is not a trend and must not be published as one. What it establishes is that the telling is not the instrument, that the repair is a hand job and not a number, and that the standing debt is Volume 07's fifty chapters, which no phase has touched and which the close may not touch either, because a repair pass on a finished volume is a restart.** **The remedy for the going-forward case is a rule in whatever comes next, not a repair of Volume 07.**
+
+## 3. What is left on the live list, and none of it is the close's to resolve unless the close says so in its own words
+
+1. **A woman's name at the top of a return that went out of this city on the seventy-eighth day of the Bare Month.** It is on a page in Chapter 0393 and **it is printed in no file in this repository, deliberately, and the reason is at `state/batch-summaries/volume-08-batch-0005.md` §11.** The close inherits that decision and may not reverse it silently.
+2. **The figure the man of about thirty-eight has in his head, as against the figure he sends.** Printed nowhere. Announced in Chapters 0393 and 0394 and never given.
+3. **The mark in the orchard.** No word on any page in the world. Not measured, dug, counted or probed in this volume. At zero in all ten files of Batch 0005 and in all fifty.
+4. **The second slate.** A date on it and nothing under it, on a shelf, untouched for a month and never picked up.
+5. **The fourth of the four.** Said no on day 329, four words, before anybody asked. **Nobody counted the days since, at any value, in any of Volume 08's fifty chapters or in any of its five batch records or in any of the state files those batches appended to.**
+6. **The day-346 question and the day-396 question.** Neither answered. The second rhymes on the first on purpose.
+7. **The fence.** Sixteen posts, eleven withies, finished on the thirty-eighth day of the Bare Month, and **whether it works is not settled in this volume and the close may not settle it if it writes a question rather than an answer.**
+8. **The man of about fifty-seven.** Right about most of what he says, standing in front of a thing he cannot move, not asked where it is, not told, not defeated, not leaving, not happy.
+9. **The ninth line.** Not moved, dated, read aloud, taken down, thanked for or resolved, and whether it works stays unanswered.
+10. **The consent fracture.** Not mended, and the fifth condition is not given, and the two women of twenty-nine were never in one room in any of Volume 08's fifty chapters.
+11. **The Crown's schedule.** Stands, correct, never opened, and a keeper is not a holder and the word is at zero across Volume 08's fifty files.
+12. **The town four hundred miles inland and the page a hundred and forty years old.** Not entered, not fetched, and the eight names at the foot of that page are not read.
+13. **The Regent, the box, the island, the boards under the chapel, the girl of seventeen, the fourth house at Nine Elms, the room at the far end of the Narrow Mark, the keeper of the Redroot gate, and the man of about thirty-seven in `chapters/volume-06/chapter-0293.md`.** All live, all untouched, all at `state/volume-07-close.md` §2 and §4 and `outline/volume-08.md` §16 at their length.
+14. **The ninth year of this flood.** No chapter of Volume 08 prints it and the men of about thirty-eight, thirty-four, fifty-seven and fifty-nine's years are given as nine years and not in figures.
+15. **Five debts, of which four are old.** Nineteen stray closing quotation marks in Chapters 0281 to 0290; `chapters/volume-07/chapter-0341.md:149`; the forty-word near-duplicate between `chapters/volume-06/chapter-0254.md` and `chapter-0262.md`; the unmarked first-person paragraph at `chapters/volume-04/chapter-0175.md:47`; **and *about two hundred rooms* on three men, two of whom share a nine in a second place, which is the only one of the five that belongs to this volume and the only one of the five the close is likely to be able to settle.** All five stand at the same line numbers and none was repaired by any batch of this volume.
+
+## 4. Four things the close should know that no check in this repository would have found
+
+1. **Seven arithmetic and reference faults in Batch 0005's ten chapters, all found by reading the day map against the sentence and not by running a search over a file.** Named at `state/batch-summaries/volume-08-batch-0005.md` §9 item 8. **That is the eleventh time this repository has recorded the same finding and the class is not going away on its own.**
+2. **Two chapters of Batch 0005 came out of their first pass with no speech in them at all**, and the bolded-share instrument and the exchange instrument both read it as a zero and it took running the second instrument to see the first. **A figure at zero is a fact about a chapter and not necessarily about a fault, and a figure at zero in an instrument that counts something a writer expected to be there is the one to look at twice.**
+3. **The batch prompt gave a room count for the man of about thirty-nine that went down from a page eleven to a plan nine over three days.** Withdrawn at `state/batch-summaries/volume-08-batch-0005.md` §6 item 2 and `bible/power-system.md` §50 item 8. **A page outranks a plan and a prompt is a plan.**
+4. **A volume's own name was spoken once and is in no file, and four separate state files and five batch records now say so in their own words.** That is the volume's cheapest protection and it has held through fifty chapters and fifty state-file appends without a single leak. **It is worth saying in the close record that it held, and worth saying what it cost, because the cost was one man one answer and the benefit is that no reader of a file in a year can be handed it by accident.**
+
+## 5. What this note is not
+
+**It is not a close record and it does not begin one. It does not take any of the close's four decisions, it does not settle the Bare Month's length, it does not audit or adopt a line, it does not fix the descriptor map, and it does not answer the fence.** `state/volume-08-close.md` does not exist and the close creates it. **The next phase after the close is whatever the close makes it be, at the end of the close's run and not before it.**
