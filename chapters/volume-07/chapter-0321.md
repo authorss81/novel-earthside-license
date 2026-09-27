@@ -52,7 +52,7 @@ Nobody improved on that either, and about four people in that room have worked o
 
 ---
 
-The man of about forty-three turned the page. He read three lines and stopped with his thumb on the third, and about four people in that room have worked out since that a man who cannot make a decision about anything on a Sunday has just made one in about four seconds. The thing he decided was to read out loud, and it cost him a page in a book he has not opened in eleven years.
+The man of about forty-three turned the page. He read three lines and stopped with his thumb on the third, and about four people in that room have worked out since that a man who cannot make a decision about anything on a Sunday has just made one in the time it takes a room to stop talking. The thing he decided was to read out loud, and it cost him a page in a book he has not opened in eleven years.
 
 "**Nev Cutler.** Fifty-two, and it says fifty-two in the hand, and the hand is his own and not a clerk's, and the place it gives is the flats and not a house, and the trade it gives is digging, which is the word this room has been using for a man with a spade for a fortnight and is the wrong word and is the only one there is."
 

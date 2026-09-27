@@ -4,7 +4,7 @@ A room over a market had the ninth day of that month in chalk on its door, a Wed
 
 ---
 
-Tamsin Quill put the sheet on the table and turned it so that the fold showed, and did not open ita woman who has walked nine places in three days put a folded sheet on a table the way you put a thing down in front of a dog, and that the reason is that the fold is the part of it anybody can read from across a room.
+Tamsin Quill put the sheet on the table and turned it so that the fold showed, and did not open it. A woman who has walked nine places in three days put a folded sheet on a table the way you put a thing down in front of a dog, and the reason is that the fold is the part of it anybody can read from across a room.
 
 She folded it long way in half, then in half again across, and the corner that came last went under, and she did it in about four seconds without looking at her hands, and about four people in that room have worked out since that a thing a person does without looking at their hands is a thing they have done since before the water, and that the woman who keeps a public register has watched her do it three times this week and has not asked and is not going to.
 
@@ -14,7 +14,7 @@ She folded it long way in half, then in half again across, and the corner that c
 
 Nobody made her, and about four people in that room have worked out since that the woman who has come into this room three mornings this week with a sheet of road in her coat has told the room in advance what she is going to say if she is asked, and that telling a room in advance what you will say under pressure is the one thing in four hundred miles that works and it is the only instrument any of them has that does not need a day on it.
 
-The woman of about twenty-nine who keeps a public register said his name, as she says a name when a person in a room is about to be on a page, and then said nothing else about him for the rest of the morning.
+Tamsin Quill said his name, as she says a name when a person in a room is about to be on a page, and then said nothing else about him for the rest of the morning.
 
 He had the pinned sheet in front of him and read the clerk's hand on it from the top down the way he reads everything, twice, and then turned it over and looked at the back of it, which is blank, and about four people in that room have worked out since that a man who reads a hundred-and-forty-year-old hand and then turns it over to look at the back of it is a man who has run out of the front.
 
@@ -52,7 +52,7 @@ The man of about forty-three had the deed and the sheet out of the box and both 
 
 "What you have said is that we write down that it is not settled."
 
-"**What I have said is that not settled is a thing that can be written down, and that a thing that cannot be written down has been argued about for forty years, and that both of those are the same sentence and you are the only man in this room who has heard the second half of it and I am not going to say it twice.**"
+"**What I have said is that not settled is a thing that can be written down, and that a thing that cannot be written down has been argued about for forty years, and that both of those are the same sentence and you are the only man in this room who has heard the second half of it, and I have said it once to this room and I am not going to lay it out for you.**"
 
 Nobody wrote it down. The woman who keeps a public register was not in that room and about four people in that room have worked out since that the second half of that sentence has now been said in a room with a date on the door and that the person who keeps the register did not hear it, and that the decision of the ninth of that month is therefore a thing that exists in a room and not yet in a book, and that the two of those are different and only one of them is permanent.
 

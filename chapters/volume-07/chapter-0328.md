@@ -8,7 +8,7 @@ The man of about forty-eight came in at about the seventh hour and sat down, and
 
 He had the knife on the table. It is a folding knife with a hinge that has gone stiff and does not spring, and he opens it and shuts it twice with the thumb of the other hand to make the joint take, and then it will hold about nine minutes, and about four people in that room have worked out since that a man who has to do that before he can use a tool has been doing it for years and has never mentioned it and is not going to mention it now.
 
-Nobody asked him anything about it, and about four people in that room have worked out since that the man who keeps a public register has watched him do it four times this month and has written nothing down about it, and that a woman who has kept a register for nine years knows exactly what she is not writing down.
+Nobody asked him anything about it, and about four people in that room have worked out since that the woman who keeps a public register has watched him do it four times this month and has written nothing down about it, and that a woman who has kept a register for nine years knows exactly what she is not writing down.
 
 ---
 
@@ -56,7 +56,7 @@ He sat down again. The knife went on the table in about the place it had been wh
 
 "**I know what you told the room. I am asking a different question and it is the first one anybody has asked you in this city and I would like it noticed that I have asked it and that I am not going to ask you a second one.**"
 
-He turned the knife over on the table and did not open it, and about four people in that room have worked out since that a man who keeps a public register has asked a man one question in a fortnight and that the question was not about the boundary and not about the sheet and not about the four days, and that it cost her something to ask it in front of about nine people and that it cost him more to answer it.
+He turned the knife over on the table and did not open it, and about four people in that room have worked out since that a woman who keeps a public register has asked a man one question in a fortnight and that the question was not about the boundary and not about the sheet and not about the four days, and that it cost her something to ask it in front of about nine people and that it cost him more to answer it.
 
 "Climbing. Ladders, mostly, and a bit of shuttering. I have done about nine days of it since the water and about nine of them have been for people who could pay and about four of them have not, and I am not going to tell this room which is which and neither am I going to tell them at a door."
 

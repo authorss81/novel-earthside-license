@@ -14,7 +14,7 @@ Nobody in that room asked her anything about it. About four people in that room 
 
 "There are four of us."
 
-Nobody in that room improved on ita woman has said the number out loud in a room with a date on the door and has not gone on to say what the four of them are, and that there is no word in this city for what the four of them are, and that about four people in that room would have used one a month ago, and that about four of them have worked out in the last nine days that there is not one, and that they have all arrived at it separately and none of them has said so to anybody.
+Nobody in that room improved on it. A woman has said the number out loud in a room with a date on the door and has not gone on to say what the four of them are, and there is no word in this city for what the four of them are, and about four people in that room would have used one a month ago, and about four of them have worked out in the last nine days that there is not one, and they have all arrived at it separately and none of them has said so to anybody.
 
 "You are not going to be asked anything about that sheet."
 
