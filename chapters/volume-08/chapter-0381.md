@@ -10,7 +10,7 @@ Adrian Vale had the form turned round so that it faced him and it was about nine
 
 Nobody asked him anything. There is no form in four hundred miles with a place for a man who is not asked anything, and the not-asking is the arrangement and is not a courtesy.
 
-The man of about thirty-four who keeps a stall was at the near end of the bench with his hand flat on his own inside breast pocket, and the man of about thirty-nine was against the wall by the step at the back where the light does not reach, with his own slate flat on his knee and his right hand over the face of it, and neither of them had asked the man at the far end of the bench one question in about a fortnight and neither of them was going to.
+The man of about thirty-four who keeps a stall was at the near end of the bench with his hand flat on his own inside breast pocket, and the man of about thirty-nine was against the wall at the end of that bench nearest the step, with his own slate flat on his knee and his right hand over the face of it, and neither of them had asked the man at the far end of the bench one question in about a fortnight and neither of them was going to.
 
 ---
 
@@ -20,7 +20,7 @@ The woman of about twenty-nine who keeps a public register had the book face dow
 
 She said it to the bench and not to him, and then she turned her forearm off the book and did not open it.
 
-The man of about thirty-four said nothing. A man who has been at the back of seven rooms in a fortnight without a question in any of them heard a woman explain out loud, in front of about nine people, why she was not going to ask a man one thing, and the reason she gave was a price and not an excuse, and he did not look round, because a man who is right about pages does not turn round at the sound of another person being careful.
+The man of about thirty-four said nothing. A man who has been at the near end of that bench for about a fortnight without a question in any of it heard a woman explain out loud, in front of about nine people, why she was not going to ask a man one thing, and the reason she gave was a price and not an excuse, and he did not look round, because a man who is right about pages does not turn round at the sound of another person being careful.
 
 "I have not asked because a page in a coat is the only page in this city that cannot be asked for, and if I ask you for it then it stops being that, and then there is nothing in four hundred miles that a person could put a name to and not be able to produce."
 
