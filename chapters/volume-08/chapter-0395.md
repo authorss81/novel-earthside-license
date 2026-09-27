@@ -42,7 +42,7 @@ Nobody put a pen near it.
 
 The pen went back on the table with the nib pointing away from the book, and nobody in that room improved on what either of them had just said, and the two people holding that book open arrived at the same thing from opposite ends of the same morning and neither of them had said the other one's half of it out loud.
 
-A man who writes a line on a board for a living has just heard the second of the three columns of a register described as left empty on purpose by the woman who keeps it, and the third described as left empty on purpose by the same woman, and a room in this city has now had a third empty on purpose, and none of the three empties can be asked to have been produced.
+A man who writes a line on a board for a living has just heard the second of the three columns of a register described as left empty, which is a thing that happens on a morning when nothing has come back, and the third described as left empty on purpose by the woman who keeps it, and a room in this city has now got a day in the first column and two columns empty and one of the two on purpose, and neither of the two empties can be asked to have been produced.
 
 ---
 

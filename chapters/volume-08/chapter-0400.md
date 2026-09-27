@@ -1,6 +1,6 @@
 # Chapter 0400 — A Fence, And A Road Going Away Under It
 
-A shut road above this city has a fence along the top of it, and on the eighty-fifth day of the Bare Month, a Tuesday, the light came up that road from the low ground behind the trees and stopped at the fence and did not come over, the way it has stopped there every morning since the fence was finished, and the wind was up the same road in pushes, and what was under about four pairs of hands that morning was a handcart with a coil of rope in it, a hazel mallet with its head bound in cord, a length of new rope nobody has used over the back of a chair in a room in this city, and a barrow with a hurdle of hazel rods in the bottom of it.
+A shut road out of this city has a fence along the top of it, and on the eighty-fifth day of the Bare Month, a Tuesday, the light came up that road from the low ground behind the trees and stopped at the fence and did not come over, the way it has stopped there every morning since the fence was finished, and the wind was up the same road in pushes, and what was under about four pairs of hands that morning was a handcart with a coil of rope in it, a hazel mallet with its head bound in cord, a length of new rope nobody has used over the back of a chair in a room in this city, and a barrow with a hurdle of hazel rods in the bottom of it.
 
 ---
 
@@ -10,7 +10,7 @@ A man of about fifty-seven has walked the whole length of that fence more than o
 
 ---
 
-There is a gate in this city where a man holds it on a turn, and it has two bars in it, and the second one is on no roll at all.
+Back in this city there is a gate where a man holds it on a turn, and it has two bars in it, and the second one is on no roll at all.
 
 The man of about thirty-four who keeps a stall walked past it on his way up to the market and did not stop, and a man who writes a line on a board for a living has been the only person in this city who could have said out loud where two bars are and has never said, and about four people on that turn have worked out since that a gate is a gate and that the second of the two objects in that gate was cut out of the first one's pattern, and that neither of those facts is on any roll, and that nobody in this city has counted them and no room in this city has asked him to.
 
@@ -20,7 +20,7 @@ Nobody is going to ask him. He has a piece of chalk in his own inside breast poc
 
 From the top of that road you can see down into the lane where the nine houses are, and down one side of that lane there is a wall with the shape of nine boards gone off it and about four inches of dry stone at the foot of it, and the boards came off it on the thirty-second day of the Bare Month, a Friday, and nobody in this city has said whose they were, and there is not a barrow in this city with anything on it and there is not going to be one.
 
-At the end of that lane there is a shut gate, and a woman keeps it, and she has never once been asked anything by anybody. She came out on that morning and wrote a date on the post and did not rub anything out, and she said the date out loud to the post and not to a person, and a date on a post is the only thing in this city that has never once been wrong and that a woman who says it to the wood and not to a man is a woman who has decided what she is for.
+At the end of that lane there is a shut gate, and a woman keeps it, and she has never once been asked anything by anybody. She came out on that morning and wrote a date on the post and did not rub anything out, and she said the date out loud to the post and not to a person, and a date on a post is the only thing on that lane that has never once been wrong and that a woman who says it to the wood and not to a man is a woman who has decided what she is for.
 
 ---
 
@@ -36,7 +36,7 @@ A party of four is four. The fourth of the four is not in this city and is not g
 
 ---
 
-Then the man of about fifty-nine picked his barrow up off the low side and went back down the road he had come up, and he did not stop at the fence and he did not look at it on the way past, and a man who has walked a road four hundred miles long and has never once seen anybody on it came up it with three on it in front of him, and did not go after them, and did not ask, and is not going to.
+Then the man of about fifty-nine picked his barrow up off the low side and went back down the road he had come up, and he did not stop at the fence and he did not look at it on the way past, and a man who has walked a road four hundred miles long and had nobody on it until three days ago came up it with three on it in front of him, and did not go after them, and did not ask, and is not going to.
 
 The light came up the road from the low ground behind the trees and stopped at the fence and did not come over. The sixteen posts stood along the top of the shut road in a line with the wind going through the eleven withies on them, and the cord on them was the same cord that was on the head of a mallet in a handcart, and between that fence and a mark in a field there is the gap a man of about sixty has a number for and has never taken it off anything, and that mark has no word on any page in the world, and there is nobody in four hundred miles who is going to that field and nobody in four hundred miles who can say where it is.
 

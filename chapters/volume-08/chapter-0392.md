@@ -6,7 +6,7 @@ A room over a market had the seventy-seventh day of the Bare Month in chalk on i
 
 The form is going out tomorrow.
 
-That is the whole of what was settled before anybody came up the nine steps. It is the seventy-eighth day of that month, a Tuesday, and the room it is for is the room this is, and the sheet that brought about nine people up these steps went out on the seventy-fourth day, four days, unsigned, with a day on it and a place on it and nothing at the top of it, and the woman who wrote it said out loud on that Friday that it was the seventh of those and that there is not going to be an eighth in this flood.
+That is the whole of what was settled before anybody came up the nine steps. The day the form goes out is the seventy-eighth day of that month, a Tuesday, and the room it is for is the room this is, and the sheet that brought about nine people up these steps went out on the seventy-fourth day, four days before that Tuesday, unsigned, with a day on it and a place on it and nothing at the top of it, and the woman who wrote it said out loud on that Friday that it was the seventh of those and that there is not going to be an eighth in this flood.
 
 Nobody wrote a sheet this morning. There is no eighth one and there is not going to be one, and a room in this city has been living on the warning of a sheet for about a month and is now living on the thing the sheet was for, which is that the warning is over and the form is on the table.
 
