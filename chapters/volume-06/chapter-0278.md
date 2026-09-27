@@ -18,7 +18,7 @@ The woman of about thirty at the stall was at the end of the barrow because she 
 
 ---
 
-They worked the north end for about two hours and it went at the rate of about four feet of drain a day between them, which is about twice what he had said and about a fifth of what nine people had been doing on the Tuesday, and about four people in that market have said since that two people on a Saturday with a barrow that a boy had already knocked a wheel against a ridge is about twice one person and about a fifth of nine, and that the arithmetic in between is the whole of what happened out past the last named house that weekend, and that nobody in four hundred miles has ever put a fraction in a schedule.
+They worked the north end for about two hours and it went at the rate of about four feet of drain a day between them, which is about twice what he had said and about a fifth of what nine people had been doing on the Tuesday, and about four people in that market have said since that two people on a Saturday with a barrow that a boy had already caught a wheel against a ridge is about twice one person and about a fifth of nine, and that the arithmetic in between is the whole of what happened out past the last named house that weekend, and that nobody in four hundred miles has ever put a fraction in a schedule.
 
 "You are going slower than you were on the Thursday."
 
