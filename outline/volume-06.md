@@ -1,0 +1,387 @@
+# Volume 06 Outline — *The Days On A Gate*, Chapters 251–300
+
+**This is a plan and it is not canon.** Nothing in this file is true until a chapter says it in a room, in daylight, with a date on it. Every figure below is a proposed figure, every date is a proposed date, and every person named is a person a chapter has to bring onto a page properly. **A card is a plan. This file is a plan. A state file is a record of a plan. The page is the fact.**
+
+**The series line this volume writes is the Volume 06 line of `outline/series.md` and it is not a version of a plan.** The five beats are: a Regent seizes the bridge under a declaration of emergency; Adrian's plan fails when a local Hearthguard commander refuses a safe route that would expose three villages; the Hearthguard and mixed companies defend the Hearth Marches; Adrian closes a northern threshold and accepts permanent loss of a route; a regional ceasefire leaves the bridge local and contested, and the first Sundering scar becomes visible beneath the Marches.
+
+**`state/volume-05-close.md` is the inheritance and it was read in full before this file was written. Its §3 is the twelve live items, its §4 is the standing prohibitions, its §5 is the shape of the book, its §6 is the four options for this book's voice, and its §7 is the review repair pass that installed the formatting rule. The four decisions of record are in `outline/series.md` under *DECISIONS OF RECORD* and they were taken there before this file was written, because `workspace/volume-06/batch-0001/PROMPT.md` may not exist until they are.**
+
+**And the honest first sentence of this file's work: the drift of the last volume was not an accident and the cause is in §16. A batch is told *do not decide what the volume is* and *do not resolve anything listed as live* and *do not invent a person established by narration*, and then told to write ten chapters. Given those four instructions the only chapters that can be written are chapters about a thing in a yard, and five batches of that produce a volume nobody can outline afterwards. This volume is the first one written after a phase was allowed to decide, and §16 is what it was told instead.**
+
+---
+
+## Volume number and shape
+
+**Volume 06, *The Days On A Gate*, Chapters 251–300, days 251 to 300 of the flood, in four movements of 12, 13, 13 and 12 chapters. Fifty chapters on fifty days, one chapter to one day, and no double day.**
+
+The series title is *The Hearthguard* and it is kept, because the Hearthguard is the body at the centre of the volume and because `outline/ending.md` names Hearthguard chapters. **The volume's own name, chosen on a page, is *The Days On A Gate*, and no chapter states that sentence in narration and the sentence from Chapter 0154 is not said again.** The title is the object of the volume and the object of the volume is the one thing in this world a household can only lose by agreeing to.
+
+**Fifty days and fifty chapters, and §14.2 says in writing why a war volume does not get double days here.**
+
+---
+
+## 1. Central pressure
+
+**A document arrives from nine hundred miles away that wants the days on every gate between this city and the Hearth Marches entered in a column, and it does not ask.**
+
+It comes up the river in a case with a docket on it, the way every other page in this book has come up this river: in a cart going somewhere else, brought by a man who does not go to the door. It is **correct.** It is signed by a clerk and dated at an office that is nine hundred miles away and cannot be reached and cannot be asked anything before a quarter, and **a correct page is a page nobody can argue with and a page nobody can argue with is a page nobody can stop** — which is the sentence this book has been teaching since Volume 04 and which is about to be used against it.
+
+It declares an emergency **in the crossing and the ground adjoining it**, and it does not name the store, and the reason it does not name the store is the only protection anybody in this city has, and the protection works by accident. It requires that **the days on every gate be entered in a schedule: a date, a gate, a holder, the days.** Four columns. A column with a person's name in it is a description, and a description is a removal with a column for where the person is, and that sentence has been in this book since a hearing on day 154 and it is the moral centre of this volume and it is not improved on.
+
+And it provides for **a holding company** to keep the road while the schedule is made up. A company is the Marches' word. A Hearthguard company keeps a place. A holding company holds ground pending a schedule. **Two bodies using one word for two things, in a room, in daylight, with a date on it, is the whole of the first half of this volume, and neither of them is wrong and only one of them has a column in it.**
+
+**Why the Regent cannot come here and does not need to.** The only distances in this world are nine miles, eleven miles and four miles, and a road, and *up the road past this city*. There is no route to Aurel. The delegation of four people and a question has not left. **A state nine hundred miles away cannot seize a gate; it can send a page, and a page is cheaper than a soldier and it cannot be refused by a body, because a body has no door to knock on and no reason that has to be given twice.** That is the pressure, and it is the exact pressure Chapter 0154's sentence was written for, **and the sentence is the weapon and it is not Adrian's and it has no name and nobody in this volume may give it one.**
+
+---
+
+## 2. Starting state
+
+Day 250, the two hundred and fiftieth day of the flood, a Saturday by the founding rule, the ninety-fifth day of the Long Month, and about the tenth hour of the morning a sack of salt is standing on nine feet of ground in a working yard that nobody has walked on.
+
+- **A posting on a wall of the store on the upper road has one line left on it and it is the ninth**, and the ninth is *the store and its queue*, and it was written by the man of about thirty-four who keeps a stall, on purpose, in his own hand, on the wall at about the seventh hour of the morning on day 201. **He has refused five times to say whether it works, the fourth and the fifth inside Volume 05, and the reason changed once and may not be improved on. Nobody may put the date back, put a figure on the wall, take the page down, move the ninth line, or read it aloud.**
+- **The board above the door has not been written on since day 225 and its figures are the figures of day 224.** The man of about twenty-seven washes it and has stopped washing the wall above it, and has said out loud that he decided not to. **He may not write on the board and he may not resume the wall.** At day 251 the figures are twenty-seven days old.
+- **A beam with one pan on it stands in the middle of that yard with a man's coat held over the pan at two corners.** The pan is not replaced, the beam is not carried home, the coat is not taken off, and the pan is not turned out.
+- **The keeper of the Redroot gate is seventy-one days into a year of being angry and the year is not over.** She may not be rescued, argued with, given a reason, made glad, or used. **She is not in this volume's first batch and she is not in this volume's plan at all, and §16 says why in the words the last eleven batches of state files used.**
+- **Hettis Roke, forty-four, of the Hearthguard of the outer ward, nineteen years in**, is one of the four witnesses named in Chapter 0010, where the instrument says of him: *Hearthguard, of the outer ward, who signs also for the Hearthguard and may refuse the whole of the Hearthguard's share of it.* He is the man `bible/characters.md` records as **the reason a route is a negotiated instrument rather than Adrian's private arrangement.** He said no in about four seconds on day 137 and asked to be asked again on a different day and said he would say no again for about four years. **He has sent a roll of the dead of the outer gate to an office four times a year for nineteen years, a clerk wrote the count in a book and the count was eight every year, and nobody came.**
+- **A man of about thirty-two stood on a bank on day 245 at the tenth hour and said he was finished and not stopped and that he was not coming back.** That refusal is four days old at this volume's boundary. **He is not Adrian Vale, he is on no roster, and the two of them may not be put in one room in this volume.**
+- **The compact of eleven lines is not ended. The provisional recognition is not ended. The seat of holder of the pull is vacant and has said nobody five times. The box is shut. The boards under the chapel are not lifted. The twenty-fifth reading of the join-line is not taken. The room at the far end of the Narrow Mark is unlooked at, in the twelfth batch.**
+- **A woman of forty-eight in a fourth house at Nine Elms is not asked and nobody stands outside the fourth house.**
+- **About four hundred and forty people work salt on eleven miles of flats for a buyer nine hundred miles away that no route in this world reaches, nine of them are on a rota, and no instrument in this city has ever mentioned them.**
+- **The trestle count is two hundred and ten on day 250, derived, on no page and in no mouth, and the last two values on any page are one hundred and sixty-five and one hundred and seventy-two.** Nobody in this city knows what a day of it means and nobody can stop it.
+- **The fourth date form ran out of its registered range on day 220 and thirty pages of Volume 05 were written past it.** This volume settles that at §14 and at `bible/power-system.md` §33, and the first batch is where it is settled on a page.
+
+---
+
+## 3. Starting relationships
+
+- **Adrian and Hettis Roke: four refusals and one document.** Adrian has watched this man refuse things since day 137 and has never once got him to say yes to anything. **They are in no scene together in this volume's first batch, and the volume's midpoint is the first time Adrian's own plan is the thing Roke refuses, and it is the fourth thing Roke has refused him and the first one that was Adrian's.**
+- **Adrian and the woman of about twenty-nine who keeps a public register: three refusals, each with a cost named out loud first, and a piece of paper in her pocket with a date on the back and two names on the front and no third.** She is the person who would have to enter a company, and the posting has no line for one, and **she will not invent a word on a page and that is the finding of the volume's word problem.**
+- **Adrian and Tamsin Quill: a mutual, public, documented check, and nothing has been a reconciliation in three volumes.** Her recorded want in the bible is to keep the Lock of Salt **and the Hearth Marches** from being claimed by a Crown, a guild, or a player settlement. **This volume is her want and Adrian does not ask her for it.**
+- **Adrian and the man of about forty-one in a very good coat: a mutual channel that has never once been a favour.** He is the only person in four hundred miles who has been in a room with the person who rules the state nine hundred miles away, and **he is the instrument by which the Regent's name enters this book, and the instrument is a man and not a page.**
+- **Adrian and Jonah Pike: at zero for Volume 05 and coming back in Chapter 0253, **which is day 253, a hundred and fifty-six days after Chapter 0097, which is day 97.**** He runs the only functioning way out of this world, he lost the export and kept the queue, he is right about nine parts in ten, and **he is not a villain and this volume does not defeat him and he does not leave.**
+- **The Marches and Adrian: strangers who keep gates he has never asked anybody about.** The Hearthguard of the outer ward keeps the road out of this city gate by gate and has never been asked by anybody in this city what a gate costs.
+
+---
+
+## 4. Starting power level
+
+**Adrian Vale is Stage 2, Passage holder, in the doing. He does not change stage in this volume and no chapter may move him.**
+
+He performed no working in Volume 05 and no threshold was opened, the Narrow Mark is not opened a third time, the other world is not named once in fifty chapters, no chapter offered him a workway and he asked for none, and his passage privilege is never spent, threatened or named. **A share with the post taken out was given on day 168 and is eighty-three days in a coat at day 251 and the only figure in a mouth for it in this manuscript is fifty-eight, twice, and it is unanswered.**
+
+**What changes in this volume is the kind of thing he is good at, and it is the same move Volume 04 made and it is not a repetition.**
+
+Volume 04 taught him that the only instrument a man with no mark and no roster has is a question, and that the instrument breaks on a body. **This volume is the volume in which the question works, at ninefold scale, on nine households, in one day — and the thing that makes it work is not him. It is that the question was given in writing to every person who would be in the room four days beforehand, and nobody asked anybody whether the day suited them, and the answer came back in a hand.** He carries it into nine kitchens and then stands at the back of nine rooms and does not answer. **And the one person in this volume who is never asked is him, and being never asked is the finding and not a courtesy.**
+
+**The gains of this volume are: a document read out in a room; a form that ran out and a name that replaced it; a word that does not exist and a page that works anyway; a refusal that is correct and costs a season; nine households that spoke first; a road that is closed for good; a ceasefire nobody signed; and a line in the ground that nobody has measured. None of them is a power. One of them is the price of a power. All of them are heavier than a power.**
+
+---
+
+## 5. Major locations
+
+- **This city.** The room over a market with a step at the back and no name on it. The salt wharf and the quay. The near gate where thirty-nine men have not been paid since the first of March. **The store on the upper road, nine miles up: the yard, the board, the posting, the chest, the beam, the nine feet, and the queue.** The chandlery behind which the Open Hand keeps a board. The loft above the river market.
+- **The Reed Reach, eleven miles.** Four Elms, Long Water, Silt Row, Corrow, Black Sluice, Nine Elms and the two gatehouses. The flats, the four hundred and forty racks, the channel that has had no water since day 196. The junction at Nine Elms with its fourth channel shut.
+- **The outer ward and the road west.** The gates the Hearthguard of the outer ward keeps, gate by gate, out of this city. **The road is kept and has never been on a page and this volume is partly about that.**
+- **The Hearth Marches, up the road past this city.** Not one place: a stretch of farms, orchards and small market towns west of here, with a Hearthguard company in some of them and none in others, **at a distance this world can only call *up the road past this city*, because the only distances in this world are nine, eleven and four miles and the Marches are not at any of them.** The three villages whose gate-days are the volume's midpoint. The northern threshold, which is on the north side of the Marches and is a gate on a road that comes down, and it is the thing the climax closes.
+- **A room at the top of the road, nine hundred miles away, which this volume has not entered and is not going to.** A man of forty-one in a very good coat has been in it and describes it, and the description is a description.
+
+---
+
+## 6. The four decisions this outline had to make, and how each is reachable in prose
+
+### 6.1 Decision one — the Volume 05 line. Reconcile, recorded in `outline/series.md`, and the cost is on that page
+
+Taken and dated there. **Route (a). Not carry, not fold, not a blend.** The series' cast is untouched because the cast is in the antagonist ladder and the relationship milestones and neither is the Volume 05 line; what is lost is a slot, and the return crisis is recorded there as a debt owed and written on no volume line. **Nothing in this file depends on *player*, *Earth*, *System*, *quarantine* or *medical*, and no chapter of this volume may use any of them.**
+
+### 6.2 Decision two — the voice, and what it does to a war
+
+Taken and dated in `outline/series.md`. **Fifty-day volumes, about a page and a yard and a wage in salt. Nobody gets stronger. The antagonist is a form with no column in it. There is no narrator frame: the narrator may not say *this chapter*, *this volume* or *the reader*, and Volume 02's frame is named as the one place in the manuscript where a narrator may say *this volume* and nowhere else.**
+
+**And here is what a war is in this book, stated in advance so that no batch has to invent one.** A war in this book is **a season, a road, three villages' salt, and a set of days.** There is no battle in this volume and the outline says so in writing, because a war volume in a book with no monster and no power has to define its own war or it will reach for a sword.
+
+- **The action is work in weather.** Somebody's hands are doing something hard, on ground, at nine and eleven miles, and a load breaks or a boot goes or a channel is a trap. The chapters that carry this are *physical work* chapters and they are marked as such in the day map and in the cards.
+- **The violence, if there is any, is a person arriving.** A page is refused by being ignored. A person is not. **The climax's pressure is one person with a name and a date and a day of her own choosing, standing in a room, and the whole of the resistance to her is that nobody will be entered in a column.** That is the hardest thing in this book to resist and it is not a fight.
+- **The cost is counted in days, wages and salt, and a chapter may not say what a wage in salt is worth and may not break the lump and may not have anybody open a sack.** Break is not open.
+- **The victory is a road that stays shut.** A volume in which the good side wins by winning the road is not a volume in which anybody got stronger, and the road is the most expensive thing in four hundred miles to close.
+
+### 6.3 Decision three — the calendar, and what happens on the hundred and first day
+
+Taken and dated in `outline/series.md` and registered in full at `bible/power-system.md` §33. **The fourth form's range is amended in writing to days 156 to 255. The Long Month was a hundred days and nobody ever said it was sixty-five. The fifth form is *the Nth day of the Short Month*, the Nth being day 255 + N, from day 256, and the Short Month is sixty days and ends on day 315.**
+
+**What happens on the hundred and first day, and this is the question §33 makes the outline answer: day 256 is the hundred and first day of the Long Month by the fourth form and the first day of the Short Month by the fifth, and the two are the same morning, and only one of them was chosen by a person.** A page in this city dated the hundred and first day of the Long Month and a page in this city dated the first day of the Short Month disagree by a month, and both are correct in the form they were written in, and **a reader cannot check them against each other, and a clerk nine hundred miles away can, and the clerk's is the one that will be believed.**
+
+It is established in **Chapter 0256, day 256, a Friday**, in a room, in daylight, with a date on it, by **Sera Vail, a notary of fifty, twenty-six years a notary and the notary of about nine hundred things and about nine hundred of them were somebody else's sentence** — the same notary who named the Long Month on day 156 on the same reasoning, and who says the cost out loud first, and who is refused by one person before she does it, and who asks for it to be entered that she is going to do it anyway. **The name, the reason, the refusal and the reason for the refusal are all in Chapter 0256 and nowhere else.** The chapter also carries **the one panel of this volume**, and §17 says what it is and who refuses it and what it costs.
+
+**And this is why the first batch cannot be any other ten chapters: days 251 to 255 have a form and days 256 onward do not, and the hinge falls inside the first ten days. A batch that did not establish the fifth form on a page would leave **forty-five chapters of Volume 06, days 256 to 300,** with no form to write a date in.**
+
+### 6.4 Decision four — the cast, and the movement that puts it on a page properly
+
+**The rule is `bible/power-system.md`'s own: no name and no place arrives by narration. It is checked for a room, in daylight, with a date on it, by a person.** Four things Volume 06's line needs are at zero, and the outline's first job — not an afterthought, the first thing in the day map — is a movement that puts them there.
+
+**The mechanism is a document, and it is the oldest instrument in this book.** A Crown instrument declaring an emergency comes up the river in a case with a docket. The docket is read out in the local language, in daylight, with a date on it, by a person. It is correct. **And the Regent's name is not on it**, because it is signed by a clerk, and this is the finding that opens the volume: *the document that is going to take the days has arrived and the person said to have sent it cannot be named by anybody in the room.*
+
+- **Why nobody can name her, and why that is on the page and not in narration.** The man who has sent a roll of the dead of his own gate to that office four times a year for nineteen years **has never been in a room with the person said to rule it.** He is asked, in a room, in daylight, with a date on it, in Chapter 0254, whether the instrument is the Crown's, and he says he cannot say, and his reason is nine sentences long and is about a count of eight written in a clerk's book every quarter for nineteen years and nobody on it. **A man who has kept a gate for nineteen years for a state has never been in a room with the state, and the reason is a page nobody came for, and that is the first sentence of this volume's argument with the Crown and it is a man, not a document.**
+- **Who names her, and how.** **The man of forty-one in a very good coat**, in the same room, in the same daylight, with the same date on it. He has been in the room. He gives the name — **Regent Solenne Dary** — and the day he heard it, and what she said, and what she did not say. **What she did not say is the sentence the volume turns on: she has not said the days on a gate are the Crown's to schedule, because nobody has asked her, and the asking is the thing, and it is the one thing a state nine hundred miles away cannot do to itself.**
+- **Hettis Roke is the Hearthguard commander and he is already on the page.** He does not need establishing. `bible/characters.md` records him as the man who **can refuse the route on the Hearthguard's behalf**, and the instrument of Chapter 0010 records that he signs for the whole Hearthguard and may refuse its share. **A commander is a man whose refusal binds a body, and this manuscript has had one on a page since Chapter 0008.**
+- **The Hearth Marches is a place a roadreader walks to, not a map.** It is established in Movement II by going there, and the establishing is physical: a road, gates at intervals, a market town with a company and two villages without one.
+
+**And the word for the people from the other side, which nobody may invent by narration, and which is not in this outline either.** See §6.5, and it is settled in a room on a page in Movement II.
+
+### 6.5 What the people from the other side are called on a page, and by whom
+
+**There is no word for them in this world and this volume does not invent one.** *Player* is at zero in two hundred and fifty chapters and *Earth* and *System* are at zero, and the nine-hundred-chapter frame is not a licence to put them in a chapter. **The series line said *mixed local and player companies* and that was an instruction to write fifty chapters about people who have no word for themselves; the volume's answer is that the absence is the finding and it is paid.**
+
+The problem is concrete and it is on the page: a holding company and then a mixed company has to be entered on a posting, and the posting has eleven lines and the lines are a household, a wage, a day, a fire, a queue, a road, a piece of ground, a refusal, a person, a share, and the store and its queue. **It has no line for a body of people from the other side, and a person is asked to enter one, and the person asked is the woman of about twenty-nine who keeps a public register, and she has refused three things out loud in her life and named the cost first every time.** The eleven lines are a household, a wage, a day, a fire, a queue, a road, a piece of ground, a refusal, a person, a share, and the store and its queue, and the count is eleven and the last two of them were put there on purpose.
+
+**What goes on the page, and this is the whole of the decision:**
+
+1. **No word is invented.** Not on day 251 and not on day 300. A name invented by a person on a Monday is a column, and this is the notary's own reasoning from day 156 pointed at a worse case.
+2. **The company is entered by the name of the place it keeps.** A Marches' company is a company that keeps a place, and the place has a name that was there before anybody came, and the roll has the name of the place at the top of it.
+3. **The people from the other side are on that roll as named guests under the compact of eleven lines, one line each, by the name each of them said out loud in a room in daylight with a date on it, with no class on it.** A guest may ask to stop being a guest and the asking is the whole of it and no reason is asked for and it is not asked twice. **That instrument exists, it is the eleventh shape, and it is exactly the right instrument and it has been on the page since day 154 and has never been used for this.**
+4. **And the cost, which is the finding of the whole second half of the volume: a company entered by the name of a place cannot be counted, and a company that cannot be counted cannot be posted a wage, and a wage that cannot be posted is a favour, and a favour is a thing that stops.** It stops in Chapter 0277 and about nine people stop turning up, and no chapter may repair it by inventing a word.
+
+**Who objects and who is right.** Adrian objects, in a room, in daylight, with a date on it, and he is right: a translation is a description, a description is a removal with a column for where the person is, and a word invented for a class of people is a column. **He is told he is right by a person in a room, and the alternative is stated, and the alternative is that a clerk nine hundred miles away writes the word and the word is the one that is used.** So the local page wins and the local page cannot be posted and the Crown's schedule wins the road. **The volume's own correct answer is the reason the wrong thing works, and that is the shape of this book and not a flaw in the plan.**
+
+---
+
+## 7. Major factions
+
+- **The Marches' Hearthguard companies.** Local, per place, no central command, and they have disagreed with the Crown for longer than this flood. Cooks, herbalists, roadkeepers, and the people who hold a gate. **They keep a roll, and the roll is of gates and not of people, and §12 says why that is the most important fact in the volume.**
+- **The holding company.** A body with a schedule to fill in and no people in it yet. It is not a villain and it has no schedule with a person in it yet, and the whole of the first half of the volume is the argument about whether it needs one.
+- **The woman of about twenty-nine who keeps a public register** and the compact of eleven lines, which is the only instrument in four hundred miles that a person can end by asking.
+- **The Reed Commons and Redroot Commons.** Not re-founded, not re-discovered, not asked to do anything they have not done. **The rule that every household affected by a change must be heard is four hundred years old, has no name, and is the instrument the volume's resolution runs on.**
+- **The office, at a distance.** A man of forty-one in a very good coat, a building nine hundred miles away, and a quarter that is not a date anybody in this city holds.
+- **A settlement on the upper road with a queue and a store and about a hundred and forty people, run by a man of forty-two who is right about nine parts in ten.** Not a villain. Not defeated. Not leaving.
+
+---
+
+## 8. Midpoint reversal
+
+**Chapter 0275, day 275, a Wednesday, the twentieth day of the Short Month, in a room in the Marches, in daylight, with a date on it.**
+
+There are two ways to keep a road open while a schedule is made. One of them is safe. **It is safe for the road, and for the holding company, and for the crossing, and for a clerk nine hundred miles away who needs a column filled in. It pools the three villages' gate-days onto the road's own gates for eleven weeks.**
+
+Adrian's plan is the plan of a man who has watched a household give its days back on a flat in Volume 04 and has drawn from it the one thing he wants: **that the days are the household's, and only the household can give them back, and nobody else may do it.** He has built the one instrument that has ever worked in this city — a question in a person's own words, given in writing to every person who will be in the room four days beforehand, nobody asking the person whether the day suited them — and he is going to use it on the safe route and take the villages' days back before anybody has had to agree to them.
+
+**Hettis Roke refuses it, in about four sentences, in a room, in daylight, with a date on it, and he refuses it on the Hearthguard's behalf and the refusal binds the company.** His reason is his own and is dated to day 137 and may not be improved on: **a question given in writing to everybody four days beforehand cannot be changed afterwards, the first time this city used that instrument the instrument stopped its author, and he was the author that time, and he will not be on the other side of that table again.** And then, in one more sentence, the reason he gives for the safe route, which is that **a rack that has not been worked does not come off**, and that the racks stand in channels, and the channels take their water from gates, and eleven weeks of a channel without a household's water is eleven weeks of a salt season that is not recovered in this flood or the next one.
+
+**The reversal, exactly: Adrian's plan was built out of the one fact that was supposed to make it safe — that only the household can give the days — and he was going to use it to take the days without the household ever agreeing, which is the same act done faster.** Nobody tells him that. He works it out at about the fourth hour of the afternoon, in a yard, on his own, and the chapter says he works it out and does not say he was right.
+
+**And the cost is a season.** Three villages lose eleven weeks of drying. **How many people are in those three villages is a figure on no page and this volume does not supply one and no chapter of the volume may.** The about four hundred and forty on eleven miles of flats are not in the Marches, are not in those three villages, and are not in this midpoint; **they are the second population this instrument has counted, and **the midpoint is on day 275 and their chapter is day 279, four days later, and by then the person who counted them is the enemy.**** Nobody in the room is wrong. **The refusal is correct, the plan was correct, and the season is gone, and a chapter may not rescue anybody and may not make the refusal a lesson.**
+
+---
+
+## 9. Escalation sequence
+
+**Movement I — *The Instrument* (Chapters 0251–0262, days 251–262, one chapter to one day).** The case comes up the river and is read out in a room. It is correct. It wants the days in a column. It is signed by a clerk. The name cannot be said until a man who has been in the room says it, and he says it in Chapter 0254. The form runs out on day 255 and a notary names a month on day 256 and the wall says one plain thing. A safe route is read out and nobody has been asked. A holding company cannot be entered on a posting and will not be paid. Nobody will carry the instrument west. Adrian asks one question in a kitchen eleven miles away. **The instrument is on a table for twelve days and the twelve days are what the movement is.**
+
+**Movement II — *The Marches* (Chapters 0263–0275, days 263–275, one chapter to one day).** The road west, gate by gate, and the finding that no page anywhere says who keeps it. A market town with a company and two villages without one. The three villages and their racks and their channels and their water. A household's days, in a chapter that is about a household. A mixed company that cannot be entered and cannot be paid. The schedule arrives in the Marches in a cart going somewhere else. The safe route is shown to the three villages so that they can be asked, and then it is not asked in time. A recovery chapter in a kitchen with no form in it. **The consent fracture, seeded and not paid: Adrian uses what Tamsin knows about a route without saying what the working will cost, and she catches it, and this volume does not resolve it.** The schedule gains a heading nobody in four hundred miles has a word for. Adrian's question fails on a body, because a body is not a person and the Reach's rule has a hole shaped exactly like a body. **And the midpoint.**
+
+**Movement III — *The Days* (Chapters 0276–0288, days 276–288, one chapter to one day).** The day after the refusal, and the wage is real and there is less of it. **The favour stops**, and about nine people stop turning up, and it cannot be bought out of continuing. The first rack that has not been worked comes off, and the loss falls on the settlement and not on the Reach, and nobody shut anything. The four hundred and forty, and the finding that the only page in four hundred miles that has ever mentioned them is the enemy's. A schedule with a column for the holder, and the eighth column, and Roke's own eight asked about for the first time in nineteen years. Sabra Vint's nineteen shapes and the eight that are different and further down the road and in a different order, and the names that were moved and not lost. **The horror of the second half: a schedule that cannot be filled in by anybody will be filled in from the returns, and the only correct numbers anybody in four hundred miles has are about people who are not in this city, and the schedule goes out correct.** What the Regent would do if the schedule came back empty, and the answer is that she would send a person, and a person is different from a page. The wind, the flats, the dust. The discovery that the Marches keep a roll of gates and the Crown has sent a roll of people, and that this is the second roll of the same gates this city has ever had. A chapter about a person and not a form. The rule that the days are the household's and only the household can give them back, and a body that floats being poled to a date nobody chose. **And a person is sent.**
+
+**Movement IV — *The Line* (Chapters 0289–0300, days 289–300, one chapter to one day).** The person arrives and is a person, with a name and a date and a day of her own choosing, and she is answered. The nine households are asked, in nine kitchens, on nine days, in daylight, with a date on each door, the question given four days beforehand in writing to every person in the room. **Four say yes, and five are not asked in time, and the failure is not repaired and is not the fault of the instrument.** The days go back in one day and the schedule cannot be filled in and the road north of the Marches closes and does not open again. The holding company stands down and the favour cannot be restarted as a wage. The Regent's answer, which is that the schedule stands and no holding company will be sent west of the Marches gate before the season turns, and that costs the Marches the winter road and costs the Crown nothing. The ceasefire administered by a raft poled to nine places on nine days, and nobody signed it. The bridge local and contested, because the one instrument in four hundred miles that cannot be entered in a schedule is a queue, and a man who wrote it on purpose will not say whether it works. **A straight line in the ground, seen from a gate, by a person doing her work, not measured.** And the last image.
+
+---
+
+## 10. Volume climax
+
+**Chapters 0291–0297, days 291–297, Sunday to Saturday, in nine kitchens, nine flats, one road and one raft.**
+
+The thing Adrian does is not a decree, is not a reading, is not a working and is not a threshold. **It is this: he takes a question into nine rooms, and then he stands at the back of nine rooms and does not answer, and on the ninth day the days go back.**
+
+- **He has no standing to give days back.** He is barred from every roster at his own request. The only instrument that can move days is a household's, and a household that has not been asked has not moved them, and four days of notice is what makes the asking real.
+- **So the asking is the working, and it is done nine times, and it fails once.** Four households are asked in nine kitchens on nine days and say yes in their own words. **Five are not asked in time — the notice did not reach them, or the person who would have carried it could not get there, or the four days ran out over eleven miles of road in weather — and the five are the five the season takes hardest, and no chapter supplies a reason that makes it somebody's fault and no chapter makes the four into a happy number.**
+- **The days go back in one day, unasked of anybody, in daylight, on nine flats and nine kitchens, and the households speak first, the way a household on a Reach flat spoke first on day 196.** That act is now at ninefold scale and it is **not a copy of Volume 04's:** in Volume 04 the household was not asked and the finding was that the rule's hole is shaped like a person nobody asked. **Here the households are asked, four days ahead, in writing, by hand, and four of them say yes and five are not reached, and the difference between the two is the whole of what a notice is.**
+- **And the days going back empties the schedule, because a column of days belongs to households and the households have given them back to themselves, and a schedule of a thing nobody is holding is a schedule of a thing nobody can be shown has gone.**
+- **The road north of the Marches closes that night and does not open again in this flood.** That is the permanent loss of the route, paid for by nine households and a season, and it is the volume's cost and not Adrian's, and **he is not in the room when the last of the nine says yes and he is told afterwards, from a person who was in it.**
+- **What is not in the climax and may not be put in it:** no working, no threshold, no panel that opens a route, no mark, no office, no title, no stage, **no spent passage privilege, and no improvement on anything said on day 137 or day 154 or day 250.**
+
+---
+
+## 11. Concrete resolution
+
+**A regional ceasefire that nobody signed, on day 297, a Thursday, the forty-second day of the Short Month, and a bridge that is local and contested because one man would not say whether a line works.**
+
+- **The ceasefire's only sentence: no holding company will be sent west of the Marches gate before the season turns.** It is dated at an office nine hundred miles away, it is correct, it is not signed by anybody in this city, and **it costs the Marches the winter road and it costs the Crown nothing**, and both of those are on the page.
+- **It is administered by a body that floats.** A raft is poled to nine places on nine days, and a household is heard at each, and the instrument is four hundred years old and has no name and may not be given one and may not be replaced by anything a document can do. **A ceasefire that holds because nine people came to a raft is not a treaty and a chapter may not call it one.**
+- **The schedule stands.** Nobody in four hundred miles can withdraw it and the only office that could is nine hundred miles away and the next quarter is not a date anybody in this city holds. **The enemy is not defeated and the document is not taken down.**
+- **The bridge is local and contested, and the reason is the ninth line.** The crossing is the store and its queue, ninth on a posting, on a wall nine miles up the road, with one line left on it out of eleven, and the man who wrote it put it there on purpose and has refused five times to say whether it works. **The one instrument in four hundred miles that cannot be entered in a schedule is a queue, because a queue is a line nobody decided, and the volume in which the bridge survives the winter is the volume in which the man who wrote it would not say whether it works.** Nobody thanks him. He asked in advance not to be thanked, in Volume 04, and he asks again and is not thanked.
+- **The Regent is not defeated, not exposed and not converted.** She is a woman nine hundred miles away who read the same correct numbers Adrian read and reached a different conclusion, and her conclusion is not stupid, and her instrument is not withdrawn, and her successor or a reformed council is Volume 12's problem and not this volume's.
+- **The scar becomes visible, and it is not the chapel's and it is not the boards and it is not the second hole.** A straight line in the ground under about nine hundred paces of orchard, seen from a gate by a keeper doing her work, on a day a keeper would not remember. **Nobody measures it, nobody digs it, and the man of about fifty-two who digs does not come and does not put a rod in it, and the reason he is not asked is that he would say no in about four seconds and there is nothing in this volume that needs him to say yes.**
+
+---
+
+## 12. The one thing the volume finds, and it is about a book
+
+**The Marches keep a roll of gates. The Crown has sent a roll of people. This is the second roll of the same gates this city has ever had, and nobody has ever put the two side by side.**
+
+The Marches' roll is old. It is a roll of gates — a gate, a keeper, a set of days, and nothing else — and it has no column for a person in it, **and that is why the Crown's schedule cannot be reconciled with it and does not need to be: a schedule wants a holder, and the Marches' roll has a keeper, and a keeper and a holder are not the same thing and the difference is four hundred miles of somebody's life.**
+
+**It is discovered in Movement III, in a room, in daylight, with a date on it, by a person, and it is a fact and not an answer.** Nobody knows how old the Marches' roll is. Nobody has ever put the two side by side. Nobody in this volume says what a single version is for, and **Volume 06 may not say it and Volume 07 is the volume that asks.** The one thing the volume may put next to it, once, in a mouth, is the sentence that has been in this book since day 154 — *a description is a removal with a column for where the person is* — and the finding of Movement III is that **the old Crown moved eight names between nineteen stones a hundred and forty years ago and the new Crown is moving days between gates, and it is the same act with a different column, and the man who is owed the eight is the man who has to sign the schedule.**
+
+**Roke's eight, stated exactly and not improved on.** A roll of the dead of the outer gate, entered once in a Hearthguard's hand a hundred and forty years ago. Eight got a stone. Four got a name cut on the stone of a person they were buried with. The book went to Aurel four times a year for nineteen years and a clerk on a quay wrote the count in a book and the count was eight every year and **nobody came.** Roke is asked about his own eight, in a room, in daylight, with a date on it, in this volume, **for the first time since he asked to be asked again on day 137, and he answers, and his answer is four words long and he does not improve on it, and it is not a resolution of anything.**
+
+**And the standing caution on all of it: the nineteen stones, the eight that are different and further down the road and in a different order, the names that were moved and not not lost, Sabra Vint's nine years of paper and a woman of sixty-one who would like somebody to have the date and not her — none of that is resolved in this volume and no chapter may resolve it. A chapter may stand somebody in front of it. A chapter may not put the two rolls side by side and say what the difference is, because that is Volume 07's answer and it is the answer the series is nine volumes from spending.**
+
+---
+
+## 13. New question for the next volume
+
+**What was the old Crown trying to keep in one version?**
+
+Asked once, in a mouth, by a person, and not answered. It is earned by §12: two rolls of the same gates, eight names moved between nineteen stones, a column for a holder where there was a keeper, and a straight line in the ground under an orchard that nobody has measured and that a Hearthguard does not dig.
+
+**The question is larger in consequence and not a stronger enemy appears.** It asks what a single version is *for*, which is the first time this book has asked a question about motive, and the answer is a hundred and forty years of somebody's reasoning, not a monster. **The scar is the evidence, and it is not a new thing: this manuscript has said *the ground is a scar* twice, once under an ordinary wall and once in a passage about a chapel, and neither of those is what this is, and a chapter of this volume may not improve on either.**
+
+**The next volume's plan in `outline/series.md` still says *System*, *quest*, *quests*, *unwritten* and *erasing a false record*, and those words are at zero in two hundred and fifty chapters, and the same drift is waiting at Chapter 0301. It is not this phase's to strike and it is recorded in the state layer as the first live item for the Volume 07 outline phase, which is the next phase in this repository that is allowed to decide.**
+
+---
+
+## 14. The calendar, and the day map
+
+### 14.1 What was settled, and where
+
+`bible/power-system.md` §33 is the calendar and it is the only thing that file's amendment here. **A batch may not make this decision and none of the four Volume 05 batches could, which is why thirty pages of Volume 05 are written in a form whose range had ended.**
+
+- **Days 251 to 255 are the ninety-sixth to the hundredth day of the Long Month**, the fourth form, the Nth being the day less 155. **Five days in that form and then there is no more of it.**
+- **Days 256 to 300 are the first to the forty-fifth day of the Short Month**, the fifth form, the Nth being the day less 255. Established on a page in **Chapter 0256**.
+- **Day 256 is the hundred and first day of the Long Month by the fourth form and the first day of the Short Month by the fifth.** Both are correct in the form they were written in. **A reader cannot check one against the other. A clerk nine hundred miles away can, and the clerk's is the one that will be believed.**
+
+### 14.2 Fifty days and fifty chapters, and why there is no double day
+
+**Volume 04 had four double days. Volumes 04's last movement and all of Volume 05 had none. This volume has none, and the reason is in writing so that no batch treats it as a rule about war volumes.**
+
+1. **The calendar in this book has just broken once.** The fourth form's registered range ended on day 220, thirty pages of the last volume were written past it, and **by day 255 it is thirty-five days out of range.** This volume has to put a new form on a page in its first ten chapters. **A volume that adds a second calendar fault to a calendar repair is a volume in which every day figure is a figure somebody had to check twice, and the interval chain is the largest class of fault in this repository and it is born in outlines.**
+2. **One chapter to a day is the only mapping in which all fifty days can be allocated and each one checked against day 1.** Four double days would leave four days carrying two chapter numbers, and four chapters in this volume have to carry a date that a *person* chose rather than a chapter number, and those are the four chapters the calendar is about.
+3. **What a war volume gets instead, stated plainly: more chapters where somebody's hands are doing something, and more chapters where a person is recovering, and the recovery is not a chapter where nothing happens.** Volume 05 had none of the second kind. This volume has three recovery chapters and two more that are about a person and not a document, and the five are named in the rotation table below.
+
+**A weekday is a figure and day 1 is a Tuesday and every weekday below is derived from that and from nothing else. No chapter may take a weekday from a neighbouring chapter or from a state file.**
+
+| Ch | Day | Weekday | Month day | Movement | Pressure type | Ch | Day | Weekday | Month day | Movement | Pressure type |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0251 | 251 | Sunday | LM 96 | I | action / physical work | 0276 | 276 | Thursday | SM 21 | III | consequence / cost |
+| 0252 | 252 | Monday | LM 97 | I | political / discovery | 0277 | 277 | Friday | SM 22 | III | character / loss |
+| 0253 | 253 | Tuesday | LM 98 | I | political / **a queue that works** | 0278 | 278 | Saturday | SM 23 | III | action / physical work |
+| 0254 | 254 | Wednesday | LM 99 | I | **a name in a room** | 0279 | 279 | Sunday | SM 24 | III | discovery |
+| 0255 | 255 | Thursday | LM 100 | I | action / physical work | 0280 | 280 | Monday | SM 25 | III | **discovery / a column** |
+| 0256 | 256 | Friday | **SM 1** | I | **the fifth form** | 0281 | 281 | Tuesday | SM 26 | III | discovery / a person |
+| 0257 | 257 | Saturday | SM 2 | I | political | 0282 | 282 | Wednesday | SM 27 | III | political |
+| 0258 | 258 | Sunday | SM 3 | I | political / **the word** | 0283 | 283 | Thursday | SM 28 | III | political / discovery |
+| 0259 | 259 | Monday | SM 4 | I | **a refusal** | 0284 | 284 | Friday | SM 29 | III | action / physical work |
+| 0260 | 260 | Tuesday | SM 5 | I | **decision** | 0285 | 285 | Saturday | SM 30 | III | recovery |
+| 0261 | 261 | Wednesday | SM 6 | I | investigation | 0286 | 286 | Sunday | SM 31 | III | character |
+| 0262 | 262 | Thursday | SM 7 | I | political | 0287 | 287 | Monday | SM 32 | III | political |
+| 0263 | 263 | Friday | SM 8 | II | investigation / physical work | 0288 | 288 | Tuesday | SM 33 | III | political / **a person is sent** |
+| 0264 | 264 | Saturday | SM 9 | II | discovery | 0289 | 289 | Wednesday | SM 34 | IV | action / political |
+| 0265 | 265 | Sunday | SM 10 | II | action / physical work | 0290 | 290 | Thursday | SM 35 | IV | discovery |
+| 0266 | 266 | Monday | SM 11 | II | **recovery / a household** | 0291 | 291 | Friday | SM 36 | IV | **a question, nine times** |
+| 0267 | 267 | Tuesday | SM 12 | II | political / the word | 0292 | 292 | Saturday | SM 37 | IV | cost |
+| 0268 | 268 | Wednesday | SM 13 | II | political | 0293 | 293 | Sunday | SM 38 | IV | **cost / five not asked** |
+| 0269 | 269 | Thursday | SM 14 | II | **the safe route, shown** | 0294 | 294 | Monday | SM 39 | IV | **climax / the days go back** |
+| 0270 | 270 | Friday | SM 15 | II | discovery / physical work | 0295 | 295 | Tuesday | SM 40 | IV | consequence |
+| 0271 | 271 | Saturday | SM 16 | II | **recovery** | 0296 | 296 | Wednesday | SM 41 | IV | political / the answer |
+| 0272 | 272 | Sunday | SM 17 | II | character / **the fracture** | 0297 | 297 | Thursday | SM 42 | IV | **a raft and nine days** |
+| 0273 | 273 | Monday | SM 18 | II | political | 0298 | 298 | Friday | SM 43 | IV | **resolution** |
+| 0274 | 274 | Tuesday | SM 19 | II | political / **a body** | 0299 | 299 | Saturday | SM 44 | IV | discovery / **the scar** |
+| 0275 | 275 | Wednesday | SM 20 | II | **midpoint / a refusal** | 0300 | 300 | Sunday | SM 45 | IV | final image |
+
+**The rotation, honestly counted, and the file should say so rather than pretend otherwise.** Every one of the fifty chapters counted once by its primary tag, from the table above:
+
+| Pressure type | Chapters | Count |
+|---|---|---|
+| political or procedural | 0252, 0253, 0257, 0258, 0259, 0262, 0267, 0268, 0269, 0273, 0274, 0282, 0283, 0287, 0288, 0296 | **16** |
+| discovery or investigation | 0254, 0256, 0261, 0264, 0279, 0280, 0281, 0290, 0299 | **9** |
+| physical work in weather | 0251, 0255, 0263, 0265, 0270, 0278, 0284, 0289 | **8** |
+| decision, midpoint, climax, resolution, final image | 0260, 0275, 0291, 0294, 0297, 0298, 0300 | **7** |
+| cost and consequence | 0276, 0292, 0293, 0295 | **4** |
+| recovery | 0266, 0271, 0285 | **3** |
+| character and relationship, not about a form | 0272, 0277, 0286 | **3** |
+
+**The political share is sixteen of fifty and this file says so rather than dressing it up: a Crown instrument is a political pressure and calling it anything else would be the worse failure.** Two things are different from the last volume and both are in the table. **Physical work in weather is eight chapters and roughly a sixth of the volume**, against none in Volume 05, and each of the eight states the light, the cold, the wind and what is under a person's hands in the first paragraph. **And there are five chapters in which a person is the subject and a form is not: three recovery and two that are about a person and not a document, and Volume 05 had none of the five and had four batches of the same shape.**
+
+**And the honest residue: the volume's recovery chapters are three and not four, and the file says three.**
+
+### 14.3 The anchors, and every elapsed count in this volume is a subtraction from one of them
+
+The full anchor table with the value at day 251 and at day 300 is at **`bible/power-system.md` §33.6**, and it is the table a writer subtracts from. **The split between what is on a page and what is merely derived is the split a later writer will quote wrongly, and it is kept:**
+
+**On a page in Volume 05, and reusable:** the trestle count at one hundred and sixty-five (`chapter-0205.md:9`) and one hundred and seventy-two (`chapter-0212.md:7`), the board's figures for day 224, the posting's day 201, the first of March at day 85, the causeway at day 197, the channel at day 196, the keeper's year from day 179, the share with the post taken out from day 168, the delegation from day 145, the bag at day 240, the rope at days 242 and 245, the brooms at days 247 and 249, the coat at day 248, the wind since day 229.
+
+**Derived only, and on no page and in no mouth until a chapter carries it:** the Long Month and Short Month numbers at any day other than their boundaries, the posting's age, the board's age, the unpaid figure, the share's age, the delegation's age, the bag's age, the trestle count at any day after day 250, and the keeper's days. **A derived value may be used in a chapter that dates it and may not be attributed to another chapter or to a mouth.**
+
+**The count of this city's silences: one hundred and fifty-two at day 250, derived, on no page and in no mouth. This volume spends one panel, on day 256, and a day the wall says something on is not a silence. The figure at day 300 is therefore two hundred and one, and the rule is one addition for every day the wall says nothing, and a writer who needs the figure at any other day takes it from the rule and checks it against the last figure printed on a page before writing it down.**
+
+---
+
+## 15. The pressure rotation, and the two kinds of chapter this volume has more of than the last one did
+
+**Two findings are open against Volume 05 and this is the volume that answers them. `reviews/volume-05/batch-0004.md` finding 2 and `reviews/volume-05/batch-0005.md` finding 5 are the same finding and it is the shape of the exchange: 597 of 629 plain speeches in fifty chapters answered in the next line in bold, and the ratio rises as the volume goes.**
+
+**The answer is not a style instruction and it is not a number, and §17.6 is the rule and every card carries its own instance of it. In plain terms, this volume's chapters have a third party, or a task, or a thing that has to be carried somewhere, and the card says which. A chapter that hands four consecutive exchanges to the same two people is the fifty-day two-hander again and the fix for that is the card's and not the writer's.**
+
+**And the second of the two things, which the close record measured and this volume is built to change: the paragraphs that report a person doing something rather than saying something ran at about 0.23 of all paragraphs where the instruction asks for one in three.** This volume's action and physical-work chapters are ten of fifty and each of them states the light, the cold, the wind and what is under a person's hands in the first paragraph, **and the cards name the work, so that a chapter cannot be written in which a person stands in a yard and explains the day.**
+
+---
+
+## 16. What this volume may not resolve, and what it may not touch
+
+The prohibitions of `state/volume-05-close.md` §4 are inherited whole and are not restated at less than their length here. **The four that will bite hardest on a war volume:**
+
+1. **The keeper of the Redroot gate may not be rescued, argued with, given a reason to have done otherwise, made glad, or made to say she would say it again, and *the whole of her* may not be used about her at all.** She is seventy-one days into a year of being angry at day 250, the year is a year and it is not over, and the derived figure at day 300 is a hundred and twenty-one and **no chapter of this volume may count her days, name her year, or use her.** **A Volume 06 with a war in it is exactly the volume in which somebody will want to send somebody up that bank with a message, and the answer is the answer of the last eleven batches of state files and it is no. A child is not sent up that bank. A woman of about thirty-four from a fourth household on the road does not put a third thing down on those boards, and nobody is sent.**
+2. **A line is not owned and what a household has is the days on it** was said once, in Chapter 0154, at a junction, in the local language, **and it is the weapon of this volume and it is not Adrian's and it has no name and no chapter may name it, say it in narration, or improve on it.** What a chapter may do is show the schedule needing a column and show a household deciding, and the sentence is not the finding, the household is.
+3. **A correct number on a wall in a converted salt store, a trestle count on a trestle, and a board nobody has written on since day 225.** Three correct pages, none of which anybody in four hundred miles can unmake, **and the third of which a man in a yard said out loud he would rather look at.** That is what a border looks like from inside a city that cannot write on its own wall, and this volume is the volume where somebody nine hundred miles away writes on it for them.
+4. **The word *knock* is at zero from Chapter 0091 to Chapter 0250 and is NOT at zero in this manuscript**, and no file this outline produces may say it is. It is on a page in Volume 01 and Volume 02, one hundred and sixteen uses in thirty-four files, the last of them at `chapters/volume-02/chapter-0090.md`. **And the word *player* is at zero in all two hundred and fifty chapters, and so are *Earth* and *System* as words, and *Earthside*, *Earthsiders* and *isekai* are at zero and are not licensed by the nine-hundred-chapter frame.** The room at the far end of the Narrow Mark is unlooked at. The boards under the chapel are not lifted. The chapel stone is silent. The main breach is closed, dressed, measured and silent. **The Narrow Mark is not opened a third time.**
+
+**And the rest of it, at the length it needs:**
+
+- **Nobody in this volume gets stronger.** Adrian is Stage 2 for all fifty days. He performs no working, no threshold is opened, the passage privilege is not spent and is not threatened and is not named, and the only figure in a mouth for the share with the post taken out is fifty-eight, twice, and it is unanswered. **A later writer may not answer it without a room, in daylight, with a date on it.**
+- **The ninth line may not be moved, dated, read aloud, taken down, or resolved.** Whether it works stays unanswered and the man who wrote it keeps his five refusals and the man who washes the board keeps not saying a word. **The volume's resolution is built on that and a chapter may not spend it.**
+- **The island is not owned and not resolved.** Nobody picks the bag up, puts a boot on the nine feet, counts the boards under it, puts a day in them, opens the bag or breaks the lump, and **no chapter may say what a wage in salt is worth and Break is not open.** The pan is not replaced, the beam is not carried home, the coat is not taken off, the pan is not turned out.
+- **The two holes nine feet apart may not be measured, cleared or counted, and the man of about fifty-two who digs may not put a rod in a third one, and the scar is not one of those holes.**
+- **The two brooms stay on those boards and nobody names who brought the second.**
+- **A woman of forty-eight in a fourth house at Nine Elms is not asked, not approached, and nobody stands outside the fourth house, and no house is built at Nine Elms in this volume.**
+- **The girl of seventeen cannot be fetched, and being unfindable is not a qualification and no chapter resolves her.** She may read a date out loud from a plain slate, because her own has her name at the top of it, and that is the whole of her use in this volume.
+- **The delegation of four people and a question has not left and nobody has been asked whether they will go, and *to open nothing* is the woman of twenty-nine's sentence and is kept as hers.** A Volume 06 with an expedition tone in it is exactly the volume that will want to send four people four hundred miles inland, and there is nothing in this volume's plan for them and they do not go.
+- **Marrow stays publicly useful and unaccused, and he has still not mentioned the line in his book, and no chapter of this volume has anybody ask him about it.** He is not in the volume's plan and a batch may put him in a room about something else.
+- **The box is shut. The six rooms are six. The eight names at the foot of a hundred-and-forty-year-old page are not read, and the page on the back of a stone stays wrong on purpose, and the twenty-fifth reading is not taken, and the fourth line that cannot be administered is not administered, and the hole in the Reach's own rule is not filled.**
+- **The name at the front of the compact is on a page in the world and on no page you can read**, and `state/batch-summaries/volume-04-batch-0003.md` §8 and `state/batch-summaries/volume-05-batch-0003.md` §8 are binding: no chapter may print it, supply it, or have a person in a room or a yard say it.
+- **The man of about thirty-two who said he was finished and not stopped may not be put in a room with Adrian Vale.** He is four days into not coming back at day 251 and he may stand on a bank and may not be in a room.
+- **And the person of about thirty-one with a hand that will not close, and the woman of about thirty-four in that house at the bottom of the cut, and the woman of about thirty-nine who cannot get a rack above her shoulder, and the woman of about thirty-four who keeps a stall by a wharf, and the man of about thirty-four who keeps a stall, and the man of about thirty-nine who trades on the Open Hand board are five people and not four, and a chapter may not put a fifth woman of about thirty-four on a page.** The map is at `state/volume-05-close.md` §4 and it was rebuilt at sentence level and it holds.
+
+---
+
+## 17. The prose instructions Volume 06 is written under
+
+1. **A chapter may not open by summarising itself, and least of all its ending.** The opening sentence of a Volume 06 chapter states a pressure or an arrival. It does not state the finding, and the finding is the thing the chapter is for.
+2. **The recapping ledger paragraph is gone and it is not coming back in another shape.** A chapter does not open by reciting the standing threads. Where a figure is load-bearing it is paid for once, in a mouth, attached to a decision, and again only when it changes.
+3. **A paragraph of stage direction, a section lead, a date paragraph and a coda are plain.** `bible/power-system.md` §32 is binding: **a narrative paragraph is not wrapped in bold.** Four volumes of this book were set as continuous shouting and nobody noticed for twenty batches, and 2,005 paragraphs had their outer marks removed with not one word of prose changed.
+4. **The measure is the share of a chapter's words inside bold marks, not bold marks per speech.** Volume 01 is the model at 10.4 per cent. **About 35 per cent is the ceiling for a chapter and a chapter over it is telling the writer the speeches are too long.** Volume 05's residual was not a markup fault: the one bolded speaker ran to eighty-two words a turn against Volume 01's thirty-five. **A bolded turn in this volume runs about thirty-five words. A bolded turn of eighty words is the two-hander wearing a different hat and it is cut.**
+5. **A card may specify whose speech is bolded, because the bold is the only speaker marker this manuscript has, and a card that leaves it unspecified produces a chapter with the bold on the wrong voice.** Every card in `outline/batches/volume-06-batch-0001.md` names the bolded voice, and every card alternates the two voices within a section and never gives two speakers one bold mark in an exchange.
+6. **And the one that is the finding and not a style rule, and it is the answer to a review finding left open against the last volume: a chapter in this volume may not contain more than two consecutive exchanges between the same two people.** **Every card names a third party, or a task, or a thing that has to be carried somewhere, and the card says which of the three it is.** A chapter with four people in it is not automatically a chapter with a third party; a third party is somebody who acts while the other two talk. **The counting device, the *about N seconds* refrain, the *a person who does not want to be asked* refrain and the *in about nine seconds* refrain are all declared motifs, all four, and none of them may stand twice in one chapter, and none of them may stand in a chapter whose finding is a refusal.**
+7. **The one panel of this volume, and it is fixed to a day so that the count of silences is computable: Chapter 0256, day 256.** It is plain, it is one line, it is set as its own short block with its own line breaks and carries no emphasis marks, and it gives a rule and not an answer:
+
+   > **A name given to a thing so that the thing can go in a column is not the name of the thing.**
+
+   **It is refused out loud, in about four seconds, by the notary of fifty, and what it costs is specific: she has just invented a name for a month in a room in daylight and she is going to keep the name, and the refusal is entered in the same register as the thirty-two things the wall has said and the three refusals out loud, and a refusal that costs somebody something specific is named as costing it.** The panel does not open a route, does not grant a permission, does not resolve anything, and is not in a chapter whose subject is a figure. **The wall says nothing on the other forty-nine days of this volume.**
+8. **The people who carry the volume get a second handle beside the age and the trade and never instead of it.** Volume 06 gives one to every person it puts at the centre: **Hettis Roke's is a slate he turns over and turns back; the woman of about twenty-nine who keeps a public register's is a second slate she writes on while somebody else reads the first; the man of forty-one in a very good coat's is the inside of a coat he checks before he answers; the notary of fifty's is a date she has to write; the man of about thirty-four who keeps a stall's is a piece of chalk he does not use; Sabra Vint's is a sheet of paper of nineteen shapes in nine years of hands; a Marches gatekeeper's second handle is invented on the page and is the same in every chapter she is in.** The age-and-trade form is not abolished.
+9. **And the one that is not a style instruction, which is the reason the eight exist.** Nobody in Volume 05 got stronger and nobody in Volume 06 does either. A posting lost eight of its nine lines. A sack became an island. **A season is lost, a road is closed for good, and a straight line in the ground is seen by one person and measured by nobody.** None of these is a power. One of them is the price of a power. All of them are heavier than a power.
+
+---
+
+## 18. What this volume is not allowed to become
+
+**It is not allowed to become a war with a sword in it, and it is not allowed to become a mystery about an object.** Those are the two drifts this series has and both of them are cheap. A Crown instrument is a form; if the form stops being the subject and starts being a threat with a face, the volume has become the book `outline/series.md` described before decision two and the reader will be able to feel it happen.
+
+**The pressure of the whole volume is that a document is correct.** Nothing in it is beaten, outfought, outwitted or destroyed. It is outlasted, refused, emptied by a household speaking first, and left standing on a table in a room that nobody can reach from here. **The Crown's only defeat in this volume is that its schedule could not be filled in, and the reason is that nine people gave their days back to themselves, and the Crown's instrument is still correct and still there and the next quarter is not a date anybody in this city holds.**
+
+---
+
+## The next phase, by path
+
+**`workspace/volume-06/batch-0001/PROMPT.md`, and it is a batch and not an outline. It writes Chapters 0251 to 0260, ten chapters, days 251 to 260, one chapter to one day, ending on a Tuesday.** Its cards are in `outline/batches/volume-06-batch-0001.md` and this file is the volume's plan. It carries the calendar amendment at `bible/power-system.md` §33, the fifteen instructions in §17 above, the prohibitions in §16, and the day map in §14.2.
+
+**And the gate is open, because the decision is on the page: the four decisions of record are in `outline/series.md` under *DECISIONS OF RECORD*, in their own words, and a reader of the series outline in a year can find them without this file.**
+
+**The next phase after that one is `workspace/volume-06/batch-0002/PROMPT.md` for Chapters 0261 onward, and it carries the first three days of Movement II, the road west, and then the volume's midpoint on day 275, a Wednesday: a Hearthguard commander refuses a safe route in a room in daylight with a date on it, and the refusal is correct, and three villages lose eleven weeks, and nobody in the room is wrong.**
+
+**Nothing in this file is answered by being planned.** The ninth line does not work and nobody may say whether it does. The schedule stands. The Regent is nine hundred miles away and is not defeated. The bridge is a queue on a wall with one line left on it. The scar is a line in the ground that one person saw and nobody measured and nobody will dig, and the answer to what a single version is for is eight hundred chapters away and is not in this file.
