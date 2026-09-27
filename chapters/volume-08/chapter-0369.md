@@ -10,7 +10,7 @@ The man of about thirty-one who carries things for a living came up the nine ste
 
 "**I have been out to the boards at the bottom of the water end, and I have been out past the last named house twice this week on foot with nothing in my hands, and I am going to tell this room the one thing I have seen out there and I am not going to be asked where I got it from.**"
 
-Nobody in that room said anything, and about four people in that room have worked out since that a man who has not been asked one question in about two hundred rooms in this city has come into one and asked to be the one who says the thing, and that a man who is not going to be asked where he got a thing from is a man who has decided in advance that the price of saying it is his.
+Nobody in that room said anything, and about four people in that room have worked out since that a man who has been in about two hundred rooms in this city and has never once improved on a thing anybody said to him has come into one and asked to be the one who says the thing, and that a man who is not going to be asked where he got a thing from is a man who has decided in advance that the price of saying it is his.
 
 ---
 
@@ -24,7 +24,7 @@ About four people in that room have worked out since that a man has just said a 
 
 "**Twice this week, and on the second time a man with a tally-board was on a barrow in the wind at the eighth hour and did not stop and did not look up. About four people on those boards have worked out that he does not look up when a bird comes over his figures, and a man does not look up when a man with a satchel comes over his figures either.**"
 
-Nobody improved on that. About four people in that room have worked out since that a woman who keeps a public register was told the second half of a thing about her own city by a man who carries things for a living and that she did not improve on it, and that the second half is that a man has not been asked where the salt goes and that a man who has been cutting it off a barrow every morning for about five weeks has not said.
+Nobody improved on that. About four people in that room have worked out since that a woman who keeps a public register was told the second half of a thing about her own city by a man who carries things for a living and that she did not improve on it, and that the second half is that a man has not been asked where the salt goes and that a man who has been cutting it off a barrow every morning of this flood has not said.
 
 ---
 
@@ -48,9 +48,9 @@ Then the man of about thirty-nine said it, and he said it from the wall by the s
 
 "There is one thing that was."
 
-"**There is a household of about nine behind a wall on the low ground and they were asked on the forty-first day of that month, and they are not one of the four hundred and forty. I was not in the room when that was asked and nobody has told me anything since, and that is the correct arrangement and I am not going to be the one who changes it.**"
+"**There are nine households behind a wall on the low ground and they were asked on the forty-first day of that month, and they are not one of the four hundred and forty. I was not in the room when that was asked and nobody has told me anything since, and that is the correct arrangement and I am not going to be the one who changes it.**"
 
-About four people in that room have worked out since that a man has just put two households in one sentence and that one of them is the largest population anybody in this city can name and that the other one is about nine people behind a wall, and that a man who has said a name off his own board in his own hand about nine years back has just said a number out loud in a room, and that he has not thanked anybody and has not been thanked and that both of those are the arrangement.
+About four people in that room have worked out since that a man has just put two populations in one sentence and that one of them is the largest population anybody in this city can name and that the other one is nine households behind a wall, and that a man who has said a name off his own board in his own hand about nine years back has just said a number out loud in a room, and that he has not thanked anybody and has not been thanked and that both of those are the arrangement.
 
 "We are not going to send anything out there."
 

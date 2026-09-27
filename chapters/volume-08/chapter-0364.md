@@ -36,7 +36,7 @@ Nobody asked. About four people who live on that lane have worked out since that
 
 ---
 
-Then the man of about fifty-seven said the thing he had come up the road to say, and he said it to the fence, and about four people who live on that lane have worked out since that a man who has been in seven rooms in a fortnight and has not been asked one question in any of them has walked out to a thing and said the one sentence he had, and that the sentence is not about where it is and is not about what it is for.
+Then the man of about fifty-seven said the thing he had come up the road to say, and he said it to the fence, and about four people who live on that lane have worked out since that a man who has been in ten rooms in a fortnight and has not been asked one question in any of them has walked out to a thing and said the one sentence he had, and that the sentence is not about where it is and is not about what it is for.
 
 "**It is the only thing anybody has put up in this flood that is going to be here after everybody who made it.**"
 
