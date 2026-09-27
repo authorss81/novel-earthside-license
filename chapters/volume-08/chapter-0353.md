@@ -44,6 +44,8 @@ The man of about thirty-one who carries things for a living came up the road at 
 
 "I have been up here three mornings and I have not opened one of the things I carry, and I did not open the one that came up the road on the Tuesday, and I am not going to open anything else this flood, and I would like it noticed that nobody asked me to say that and I have said it four times now to four different people on four different mornings."
 
+The man with the mallet turned it over once in his hand and did not look at it, and about four people on that road have worked out since that a man who has been putting posts in the ground for three mornings has not once asked a man with an empty satchel a single question, and that a man with an empty satchel has answered every one of them that was not asked, and that neither of those two facts has ever been on a page and that this is the first time anybody in four hundred miles has said so out loud on a shut road.
+
 "**You have said it to me twice and I have never asked you for it once, and that is the arrangement and it costs you nothing and it costs me less.**"
 
 "Somebody is going to ask you what a form is for."
@@ -58,4 +60,4 @@ The cart went down the road with the mallet in it and the coil of rope on top of
 
 ---
 
-The light went off the top of that road at about the fourth hour and the fence stood along it in a line with nothing in the middle of it, and a handcart went down it, and about four people in that lane have worked out since that a sheet of paper has to go out of a room over a market in the morning, and that this morning is a Thursday and the room is on the Tuesday, and that four days counted from the Friday is four and counted from this morning is three, and that nobody in this city is going to write one on a Thursday for a room on the Tuesday, and that a three-day thing does not fail and does not arrive late either, and that it arrives warm.
+The light went off the top of that road at about the fourth hour and the fence stood along it in a line with nothing in the middle of it, and a handcart went down it, and about four people in that lane have worked out since that a sheet of paper has to go out of a room over a market in the morning, and that this morning is a Thursday and the room is on the Tuesday, and that the four are counted from the Friday and are four, and that counted from this morning they are five, and that counted from the day after tomorrow they are three, and that nobody in this city is going to write one on a Thursday for a room on the Tuesday, and that a three-day thing does not fail and does not arrive late either, and that it arrives warm.

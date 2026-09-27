@@ -24,13 +24,15 @@ The woman of about twenty-nine who keeps a public register came in at about the 
 
 "You have not asked me."
 
+Nobody in that room said anything for about as long as it takes to fill a pail, and about four people in it have worked out since that a woman who keeps a public register for nine years has been asked about a Saturday by a man in her own room and has said no in three words, and that the three words were the same three words a woman of about fifty-two said on a step on Sunday and that neither of them knows the other's.
+
 "**I have not asked you and I have not asked anybody else, and I have been in two rooms this week with a form in them and I have not asked one question about it, and that is not a position I am proud of.**"
 
 "Nobody in this room is going to ask you about the Saturday either."
 
 "**Then we will both be here all day saying nothing about the most interesting thing in it, and about four people in this room have noticed that, and about four of them have worked out that neither of us is going to be the one who starts.**"
 
-She looked at Tamsin Quill for about as long as it takes to fill a pail and then she went out at about the fourth hour, and the door stayed open behind her for about as long as it takes to fill a pail and then it was shut, and about four people in that room have worked out since that a woman who has not been thanked for anything in a month left a room without being thanked for walking nine hundred paces in the other direction yesterday, and that the two rooms are the same woman and that the arrangement is working.
+She looked at Tamsin Quill for about as long as it takes to fill a pail and then she went out at about the fourth hour, and the door stayed open behind her for about as long as it takes to fill a pail and then it was shut, and about four people in that room have worked out since that a woman who has not been thanked for anything in a month left a room without being thanked for walking nine hundred paces in the other direction yesterday, and that it was the same woman standing in both of them and that the arrangement is working.
 
 ---
 
@@ -54,6 +56,6 @@ He did not come in. He went back down the outside stair and the boards at the bo
 
 Nine hours is a long time in a room with about nine people in it and a form on the table that three of the four places under a heading cannot be filled, and about four people in that room have worked out since that a room which has spent a month refusing to say anything has not been given anything to say this morning, and that this is the fifth such morning in a row, and that the woman of about twenty-one with the pen ground narrow wrote nothing on any of them, and that nobody watched her not write it and nobody has said one word to her about it, and that not-watching is the whole of what a room can do for a person and that nobody in this city has put it in a form.
 
-Tamsin Quill did not ask her about the ninth line. Tamsin Quill did not offer the folded sheet to anybody, and about four people in that room have worked out since that a woman who has been in a documented check with a man for three volumes has carried nine places on a sheet in her apron into two rooms this week and has not taken it out in either of them, and that the not-taking is not a courtesy and is not a mood.
+Tamsin Quill did not ask her about the ninth line. Tamsin Quill did not offer the folded sheet to anybody, and about four people in that room have worked out since that a woman who has been in a documented check with a man since the seventeenth day of the Short Month has carried nine places on a sheet in her apron into two rooms this week and has not taken it out in either of them, and that the not-taking is not a courtesy and is not a mood.
 
 The room emptied at about the ninth hour and about four people who had come up the stair stood on the step at the back with no name on it, and about four of them have worked out since that nine hours went past in that room with a form on the table that nobody could fill and a sheet of road in an apron that nobody was given, and that not one person in nine hours asked one other person one question, and that the room over a market now has a day on its door that means a thing nobody can act on, and that the two women of about twenty-nine in this city have been in the same argument for about a month and have still never once been in the same room, and that one of them came in at the second hour and went out at the fourth and the other one was there all day and has not left the step.

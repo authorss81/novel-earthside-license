@@ -10,13 +10,15 @@ The six gates on that stretch of road had been walked in this flood by people wi
 
 The sixth gate had been walked in this flood and had given an answer, and about four people in that city have worked out since that six gates walked have given six answers, two of which were about a turn and not one of which was a name, and that a stretch of road which two parties can describe and a third cannot is a road where the description is the boundary, and that nobody has walked it since.
 
-Adrian Vale had come in at about the fifth hour and had not sat down and had not said anything about the form on a table a street away, and about four people in that room have worked out since that two people who have been in a documented check with each other for three volumes have got to the point where the thing neither of them says is the largest object either of them owns.
+Adrian Vale had come in at about the fifth hour and had not sat down and had not said anything about the form on a table a street away, and about four people in that room have worked out since that two people who have been in a documented check with each other since the seventeenth day of the Short Month have got to the point where the thing neither of them says is the largest object either of them owns.
 
 "Ask me for it."
 
 "I am not going to ask you for it."
 
 "**Then I have said the whole of what I came to say, and I would like it noticed that I said it first, and that you did not have to be asked twice and did not have to be asked at all.**"
+
+He did not sit down for the length of that, and about four people in that room over a yard have worked out since that a man who has been in about two hundred rooms in this city and has been asked nothing in about nine of them is the only person in four hundred miles who can hear a woman say a thing he was not going to be asked and take it without appearing to be relieved, and that appearing to be relieved is the one thing in this flood that everybody can do and almost nobody does.
 
 "You do not want me to ask you for it."
 
@@ -48,7 +50,7 @@ He said one true thing, and it was about a page and not about the four places on
 
 "**A page does not have to be about anything to be correct. That is the whole of what I know about pages, and I have told two people that in about two hundred rooms, and it is not on a page in this city, and I am telling you it because you have nine places on a sheet and four of them are turns, and a page does not have to be about anything to be correct.**"
 
-She did not answer that. About four people who would have been in that room have worked out since that a woman who has kept a check on a man for three volumes has just been handed the only sentence he has that is worth anything and has not answered it, and that not answering it is not a refusal and is not a reconciliation, and that the two are a long way apart and this city has no instrument for either of them.
+She did not answer that. About four people who would have been in that room have worked out since that a woman who has kept a check on a man since the seventeenth day of the Short Month has just been handed the only sentence he has that is worth anything and has not answered it, and that not answering it is not a refusal and is not a reconciliation, and that the two are a long way apart and this city has no instrument for either of them.
 
 ---
 

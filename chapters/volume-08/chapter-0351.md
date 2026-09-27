@@ -58,6 +58,8 @@ Four lines went onto the wall in a hand that was hers. There was a date in it an
 
 "Suppose it went out on the Thursday instead."
 
+The man of about thirty-one did not answer that one straight away, and about four people in that room have worked out since that a man who has carried five sheets in this flood and opened none of them has never had a three-day instrument explained to him and has never needed one explained to him, and that the two of those facts are the same fact and that he has not been asked which of them he would rather have.
+
 "Then it is three, and a three-day thing does not fail. It arrives warm."
 
 "You have watched three days not work."

@@ -24,6 +24,8 @@ The woman of about fifty-two did not move from the step, and about four people o
 
 "Nobody is going to say anything is wrong."
 
+The chalk stayed in the other woman's hand and the register-keeper did not put it down, and about four people on that step have worked out since that a woman who has been refused let the refusal stand for about as long as it takes to fill a pail before answering it at all, and that the answer she gave was about what she was going to do next and not about what she had been asked.
+
 "**Then I am going to say the thing once, and you are going to write it down, and I want that understood before I say it, because I have got nine people behind this door and about four seconds.**"
 
 ---
@@ -57,6 +59,8 @@ The kitchen had a second room off it with the door open and about four people in
 "**I have written the day and what you said and nothing else, and there is no name on it, and if a clerk four hundred miles off ever asks me who refused a share I am going to have to say that I do not know, and that is the arrangement and I made it.**"
 
 "You are not going to say what a share is."
+
+The second room off the kitchen had about four people in it and the door was open and every one of them had heard all of it, and about four people in that kitchen have worked out since that a household of about nine has an inside and an outside of itself and that the only thing anybody has ever asked in nine years has been asked on the step and not in either.
 
 "**I am not going to say what a share is.**"
 
