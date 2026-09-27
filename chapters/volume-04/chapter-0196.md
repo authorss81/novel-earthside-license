@@ -6,7 +6,7 @@ It is a Wednesday. The store on the upper road was open and the queue works on a
 
 ---
 
-**And the man with the book is Ivenn Marrow, he is about forty-one, and the book is his own and it is not a document and it is not a case, and about four people in this city have said since the eighteenth day of the Long Month that he is the most useful man in it and about nine people have said that nobody can say what for.**
+And the man with the book is Ivenn Marrow, he is about forty-one, and the book is his own and it is not a document and it is not a case, and about four people in this city have said since the eighteenth day of the Long Month that he is the most useful man in it and about nine people have said that nobody can say what for.
 
 He said two words once, in a converted salt store, four days before the four months he had promised, in a room that was not his, and he entered that he cannot tell anybody afterwards whether he said them to help this city or to file it. About four people in this city have been angry about it since. Nobody has asked him to explain either of them and he has not offered, and about nine people have wanted him to and have not asked, and he is not accused of anything, and he is not going to be, and he is not going to be any less useful on a Wednesday than he was on a Monday.
 
@@ -18,7 +18,7 @@ He said two words once, in a converted salt store, four days before the four mon
 
 ---
 
-**And then he opened it, and it is a book and not a case and not a document, and it is in his own hand, and there is a date at the top of every entry, and he read the number out in a room in daylight with a date on the door, and nobody improved on it and nobody wrote it down for about four minutes.**
+And then he opened it, and it is a book and not a case and not a document, and it is in his own hand, and there is a date at the top of every entry, and he read the number out in a room in daylight with a date on the door, and nobody improved on it and nobody wrote it down for about four minutes.
 
 "**One hundred and fifty-eight.**"
 
@@ -36,7 +36,7 @@ Nobody said anything.
 
 ---
 
-**And then about nine people in that room asked the only question that can be asked about it, and it took about four minutes, and he answered it in five words and did not improve on it and has not improved on it since.**
+And then about nine people in that room asked the only question that can be asked about it, and it took about four minutes, and he answered it in five words and did not improve on it and has not improved on it since.
 
 "What is a day of it."
 
@@ -56,7 +56,7 @@ Nobody said anything.
 
 ---
 
-**And then the room tried to do four things with the number in the next hour, and about nine people watched all four of them fail, and it is on the page because a number nobody can do anything with is the only kind of number this city has ever been handed.**
+And then the room tried to do four things with the number in the next hour, and about nine people watched all four of them fail, and it is on the page because a number nobody can do anything with is the only kind of number this city has ever been handed.
 
 A man of about forty-four who keeps a stall asked whether the hundred and fifty-eight were people. Nobody in the room said yes and nobody in the room said no, and a man of about thirty-one with a hand that will not close said the only sentence anybody said about that, and it was five words.
 
@@ -76,7 +76,7 @@ A woman of about thirty-four who keeps a stall by the wharf said the thing about
 
 ---
 
-**And the book has a second thing in it, and it is the only line in nine years of a book that is not a number, and it is a line and not a sentence and it has no date against it and no number against it, and about four people in that room have seen it and about nine have not, and nobody in that room asked about it and the man who keeps the book did not mention it.**
+And the book has a second thing in it, and it is the only line in nine years of a book that is not a number, and it is a line and not a sentence and it has no date against it and no number against it, and about four people in that room have seen it and about nine have not, and nobody in that room asked about it and the man who keeps the book did not mention it.
 
 It is the only line in that book that is not a figure. It is addressed to a person and it is not in this world, and it has not been sent, and there is no route in this world that a letter can travel, and it is in no book, and no office in nine hundred miles knows that it exists, and it has been in a book on a trestle since before this flood and the man who keeps it has never once said a word about it.
 
@@ -86,7 +86,7 @@ A woman of about twenty-four who has written down every decision this city has m
 
 ---
 
-**And a man of about thirty-two was not in that room and had been asked whether the day suited him, and said no, and the reason he gave is nine sentences and it is in a book in this city in his own hand with the date on it, and about four people heard it and about nine did not.**
+And a man of about thirty-two was not in that room and had been asked whether the day suited him, and said no, and the reason he gave is nine sentences and it is in a book in this city in his own hand with the date on it, and about four people heard it and about nine did not.
 
 "**I was asked. I have been asked one question properly in four days and I did not answer it, and this morning somebody asked me whether a Wednesday suited me and I said no, and on Monday I stood on a bank eleven miles above that cut and did not come down to it, and a man of about thirty-four who keeps a stall would not come and get me and I did not ask him to.**"
 
@@ -100,7 +100,7 @@ A woman of about twenty-four who has written down every decision this city has m
 
 ---
 
-**And the finding of the forty-third day of the Long Month was said out loud at about the ninth hour of the morning by a man of about thirty-nine who trades on the Open Hand board, and it is three sentences and it belongs to nobody, and about four people in that room wrote it down in their own hands and about four of them have improved on it and the improvements are wrong.**
+And the finding of the forty-third day of the Long Month was said out loud at about the ninth hour of the morning by a man of about thirty-nine who trades on the Open Hand board, and it is three sentences and it belongs to nobody, and about four people in that room wrote it down in their own hands and about four of them have improved on it and the improvements are wrong.
 
 "**A person who is not findable cannot be checked. A person who is findable is a place to be found in. Marrow is neither, and has never been either.**"
 
@@ -112,7 +112,7 @@ A woman of about twenty-four who has written down every decision this city has m
 
 ---
 
-**And a man of forty-two asked the only question in that room that was about himself, and he asked it standing, and he got nine words, and nobody helped him.**
+And a man of forty-two asked the only question in that room that was about himself, and he asked it standing, and he got nine words, and nobody helped him.
 
 "Is it going to keep going."
 
@@ -122,7 +122,7 @@ He did not ask her to stop it. It is entered that he did not, and that about fou
 
 ---
 
-**And he said one more thing on the way to the door, and it is the sentence that about four people in this city have said is the reason a queue is worth more than a wall, and a woman of about thirty-four said in reply that it was the most dangerous sentence anybody had said in four hundred miles since the seventh week of this flood, and neither of them was wrong.**
+And he said one more thing on the way to the door, and it is the sentence that about four people in this city have said is the reason a queue is worth more than a wall, and a woman of about thirty-four said in reply that it was the most dangerous sentence anybody had said in four hundred miles since the seventh week of this flood, and neither of them was wrong.
 
 "**I have been in about nine rooms in nineteen days and every one of them had a page in it, and I have put three of those pages on tables, and a queue is not a page. A queue is forty people a week going out of a city that cannot get one out. In about four days about nine people are going to sit down with a page and a date and a price on it, and the only thing that is going to make anybody believe that page is that a man stood in a room this morning and read a number out of a book and could not tell anybody what a day of it was.**"
 
@@ -136,4 +136,4 @@ He did not ask her to stop it. It is entered that he did not, and that about fou
 
 ---
 
-**A book shut on a trestle in a room with one window, and nobody in nine people wrote a copy of anything.**
+A book shut on a trestle in a room with one window, and nobody in nine people wrote a copy of anything.

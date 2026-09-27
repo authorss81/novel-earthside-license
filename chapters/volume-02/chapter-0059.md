@@ -4,7 +4,7 @@ On the thirty-fourth day of the new month, which was the fifty-ninth day of the 
 
 ---
 
-**Jonah Pike is forty-two and he arrived dry on the fifth day of this flood and has stayed dry, and he has not had a scene in twenty-nine days, and about nine people in this city have noticed that and about four of them have noticed that nobody has noticed.**
+Jonah Pike is forty-two and he arrived dry on the fifth day of this flood and has stayed dry, and he has not had a scene in twenty-nine days, and about nine people in this city have noticed that and about four of them have noticed that nobody has noticed.
 
 He came up the road from the Measure's yard at about the seventh hour of the morning of the thirty-fourth day of the new month with a ledger under his arm that was four weeks old, and he put it on a trestle in the yard under the lock chapel, and about two hundred and forty people came because a man with a ledger in a yard is a man with an offer in it, and Ottavia Reek came with him and stood four feet to his left and did not speak for about eleven minutes, which is the most anybody has seen her do.
 
@@ -14,7 +14,7 @@ He came up the road from the Measure's yard at about the seventh hour of the mor
 
 It was a page of numbers. Salt, thirty tons, at the works. Timber, four weeks. Iron, for the gauge and for a new shoe on the near gate sill. Rope. Lime. Chalk. A line for a boat to be hired for a fortnight. A line for the rail, and beside the rail a note in a different hand that said **the Measure can do the rail in nine days and will not do it for eleven ounces and will take the list**.
 
-**And the list was the fourth term, and it was not a list any more. It was a column in a materials account. That is what he had done in four weeks with a document that had been refused in a yard in the third week in one sentence, and he had done it himself, and Ottavia Reek had watched him do it, and there is an entry about that.**
+And the list was the fourth term, and it was not a list any more. It was a column in a materials account. That is what he had done in four weeks with a document that had been refused in a yard in the third week in one sentence, and he had done it himself, and Ottavia Reek had watched him do it, and there is an entry about that.
 
 "You put it in a column," said Renna Ord.
 
@@ -30,7 +30,7 @@ And about two hundred and forty people in a yard and Renna Ord said the eleven w
 
 ---
 
-**And then he said nine sentences, in a yard, in about two hundred and forty people's hearing, and about nine people wrote them down, and the girl of seventeen took all nine and has entered that she took them and that she did not agree with eight of them.**
+And then he said nine sentences, in a yard, in about two hundred and forty people's hearing, and about nine people wrote them down, and the girl of seventeen took all nine and has entered that she took them and that she did not agree with eight of them.
 
 > **One. This city is going to be short of salt, timber, iron, lime, rope and boat by the fourth month and every one of those is a thing that is made by somebody and sold by somebody and the somebody is a person with a yard.**
 >
@@ -56,7 +56,7 @@ And the yard went quiet in the way that about two hundred and forty people go qu
 
 ---
 
-**And the man from another world had a tenth sentence and it was ready and it was about a Crown advocate not standing in a gateway in the rain, and he said, out loud, in about two hundred and forty people, that it was the wrong one, and that is the whole of what happened in that yard.**
+And the man from another world had a tenth sentence and it was ready and it was about a Crown advocate not standing in a gateway in the rain, and he said, out loud, in about two hundred and forty people, that it was the wrong one, and that is the whole of what happened in that yard.
 
 "It is ready," he said, in English, and then in the local language, and the woman with the stall by the wharf translated it. "**I have had it ready for three weeks. It is about a man who is expensive and is not on this side of the water, and it was true in the sixth week of the new month and it is still true, and it is the wrong sentence and I have been carrying it around waiting for a man to need a door to be shut and he did not need one, he needed me to be wrong.**
 
@@ -66,7 +66,7 @@ And the yard went quiet in the way that about two hundred and forty people go qu
 
 ---
 
-**And the day's business went on, and about nine people in that yard stayed, and the yard emptied by the second hour of the afternoon, and one woman of twenty-four was in a room over the market at about the fourth hour writing something that she did not show to anybody for eleven days.**
+And the day's business went on, and about nine people in that yard stayed, and the yard emptied by the second hour of the afternoon, and one woman of twenty-four was in a room over the market at about the fourth hour writing something that she did not show to anybody for eleven days.
 
 And the day book for the thirty-fourth day of the new month has this in it, in a narrow column, in a girl's hand of seventeen, and the width of the column is entered as a fact for the second time in that year, and she has entered that she did not know she was writing a list and that a list of names came out of the end of her hand because she had copied nine names off a page in a notebook that a man from another world had shown her in a yard:
 
@@ -86,7 +86,7 @@ And under it, in a different hand and a different ink, because the man from anot
 
 ---
 
-**And at about the ninth hour of the evening, on the two hundred steps, with the lamp on the third step of the lower gallery lit and nobody having gone down to it, a woman of twenty-nine took a notebook out of a man's hand and did not give it back.**
+And at about the ninth hour of the evening, on the two hundred steps, with the lamp on the third step of the lower gallery lit and nobody having gone down to it, a woman of twenty-nine took a notebook out of a man's hand and did not give it back.
 
 She is an anchorwright. She holds a register and not a licence. She was at the anchor side of the second bay for about eleven minutes of decided work on the forty-ninth day of this flood and has entered, in her own words, that she did not feel a working: *a thing with four of the four things and no man in it is not a working, it is forty men doing a Tuesday's job on a named tide, and it closed a join because a Tuesday's job closed it, and I did not do anything.*
 

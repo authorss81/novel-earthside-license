@@ -12,7 +12,7 @@ The list of what is owed for the room is a list of *things.* Nine of the lines a
 
 ---
 
-**The question Adrian Vale asked was not a good question and he entered that himself before anybody answered it.**
+The question Adrian Vale asked was not a good question and he entered that himself before anybody answered it.
 
 He said: "When did the second list last go into a case."
 
@@ -26,11 +26,11 @@ The answer came from a woman of twenty-nine named Nadia Brandt, in about nine se
 
 "The case was not ready," Nadia Brandt said. "**Which is the same as the case was empty. And a case that is empty is a case nobody can charge to carry, and a carrier is paid by the person whose description is in it.**"
 
-**And then everybody in that room was quiet for about four seconds and one of the reasons was that the woman who said it had said it in the wrong direction, on purpose, twice.**
+And then everybody in that room was quiet for about four seconds and one of the reasons was that the woman who said it had said it in the wrong direction, on purpose, twice.
 
 ---
 
-**Here is the machine, and it has no villain in it, and it is a box.**
+Here is the machine, and it has no villain in it, and it is a box.
 
 The roll of strangers is the Lantern Concord's quarterly description of everybody in Saltwake who is not from it. It goes to Aurel four times a year, in a wooden case, on a river boat, carried by a licensed carrier of the Crown's second-table mail. Peth Lammay is that carrier. She is twenty-four and she has run the upper river and the Reach for eleven years and she lives over a boat-yard at Long Water, and she asked the question nobody in the hall asked on the twenty-sixth day of the new month and it was: *a letter is a thing that travels along a road.*
 
@@ -50,11 +50,11 @@ So on the third week of the new month the carrier came, and there was no roll to
 >
 > **She did not send it. She is entering that she did not send it. She is a notary and not a person who is frightened of offices, and she has entered that she was, for two days, both of those things at once, and that a person who is frightened of an office and a person who has a reason are the same person on a bad week, and that the only difference between them is which one gets written down.**
 
-**Nobody ordered the case not to go. Nobody conspired. A woman with a chain and a bad week did not fill in a column, and eleven days later a licensed carrier came to a counter and waited about an hour and went away, and a wooden case is a box and a box does not hold anybody who is not put in it.**
+Nobody ordered the case not to go. Nobody conspired. A woman with a chain and a bad week did not fill in a column, and eleven days later a licensed carrier came to a counter and waited about an hour and went away, and a wooden case is a box and a box does not hold anybody who is not put in it.
 
 ---
 
-**And the man from another world went down to the Concord counter at the salt wharf on the afternoon of the thirty-seventh day and offered to carry the case himself, in a boat he would pay for, and was refused in about nine seconds, and the refusal was correct in all three of its parts.**
+And the man from another world went down to the Concord counter at the salt wharf on the afternoon of the thirty-seventh day and offered to carry the case himself, in a boat he would pay for, and was refused in about nine seconds, and the refusal was correct in all three of its parts.
 
 He is on the roll of strangers. He has been on it since the second day of this flood. His entry says **Unbound**, in his own words, with two dates on it, and neither of those dates is the sixteenth day of the new month, and the reason for that is a woman of twenty-four and twenty-five words.
 
@@ -74,17 +74,17 @@ Nobody answered her for about four seconds.
 
 "That is not what I asked," said Peth Lammay. "**I asked whether anybody in this city wants it to go.**"
 
-**It is entered that nobody answered her, and it is entered that she asked a second time at about the sixth hour of the evening and that nobody answered her then either, and that she said the sentence that closes it and it is thirteen words and it is hers and it has been in the book ever since.**
+It is entered that nobody answered her, and it is entered that she asked a second time at about the sixth hour of the evening and that nobody answered her then either, and that she said the sentence that closes it and it is thirteen words and it is hers and it has been in the book ever since.
 
 > **I will bring a case whatever is in it. Bring me a case.**
 
 And then she added, before she left, in about thirty-nine words and not looking at the ledger: "**And I would rather bring a case with eleven names in it than a case with nothing, and I do not know why, and I have been a carrier for eleven years and I have never once said that.**"
 
-**And that is the ninth sentence anybody in this book has said about a wooden case, and only two of the nine were said by a person who is paid to carry one.**
+And that is the ninth sentence anybody in this book has said about a wooden case, and only two of the nine were said by a person who is paid to carry one.
 
 ---
 
-**And the two things that are true about it are opposite, and both of them are true, and a person cannot have one without the other.**
+And the two things that are true about it are opposite, and both of them are true, and a person cannot have one without the other.
 
 Renna Ord said the first half of it on the thirtieth day of the new month in a yard in about two hundred and forty people's hearing, and it is in the book in her words: **a description is a removal with a column for where the person is.** The last column is the widest one and it is always blank, and the office is nine hundred miles away and it has never once sent anybody to fill it in.
 
@@ -92,7 +92,7 @@ Sera Vail said the second half of it in a room on the thirty-first day of the ne
 
 And Nadia Brandt of the second list, twenty-nine years old, worked the whole of it out in about an hour, sitting on a salt bin in a drying loft with a slate on her knees, and she did not tell anybody for two days.
 
-**She told a woman of twenty-four and not the man.**
+She told a woman of twenty-four and not the man.
 
 That is the fact on the day book for the thirty-seventh day of the new month and it is entered with the reason attached, and the reason was asked for by the girl of seventeen and given by Nadia Brandt in nine words, and the nine are in the book and they are the only sentence in it about a person's motive that is a sentence about a motive and not a sentence about a person:
 
@@ -102,7 +102,7 @@ Priya Shah, twenty-four, was told it in the loft at about the seventh hour of th
 
 ---
 
-**And the two people who are on no roll at all are named, and neither has been asked, and the asking is a form with a date on it, and about nine people signed it and about nine people did not.**
+And the two people who are on no roll at all are named, and neither has been asked, and the asking is a form with a date on it, and about nine people signed it and about nine people did not.
 
 Kirsty Lund, sixteen, of the second list, who came out of a chapel floor four feet beyond the threshold slab on the twenty-fifth day of this flood and was carried out of a yard on the back of a barrow under a blanket and was asleep on it, and who read a line of Adrian's own notebook back to him in a room, and who said *I know. It is what you wrote.*
 
@@ -110,13 +110,13 @@ Odile Ferrand, thirty-eight, of the second list, whose surname is on two lines o
 
 Neither is on the roll of strangers. Neither is on the second list as it goes in a case, because the second list does not go in a case. Neither is on the honest useless form, because that form has a column headed *name of the person who went* and neither of them has been anywhere.
 
-**They are on the two beds, and on the two beds they are on a page with a date on it, and that is the whole of the description either of them has in this world.**
+They are on the two beds, and on the two beds they are on a page with a date on it, and that is the whole of the description either of them has in this world.
 
 The asking is a form. It is four lines high and it says: *that a person on no roll at all is asked, in daylight, in a room, whether they wish to be described; that the answer may be no; that a no is entered and is not asked about again for a year; and that a yes is entered and the person may take the yes back on a date named on the same line.*
 
 Adrian Vale wrote it. It took him about eleven minutes and it is the first thing he has written in sixty-two days that a person of this city could refuse, and it is not entered as an instrument, and the girl of seventeen put it in the book anyway and told him that was not hers to decide.
 
-**About nine people signed it and about nine people did not.**
+About nine people signed it and about nine people did not.
 
 The nine who signed said one thing between them and the thing was: *we would rather be asked, and we have not been asked in a long time, and a yes on a form is not a protection and it is the first thing anybody has offered me that I can refuse.*
 
@@ -132,7 +132,7 @@ And the fourth of the four said nothing at all, and it is entered that he said n
 
 ---
 
-**And the roll of strangers is entered again on the thirty-seventh day of the new month, and it goes into the book with a hole in it, and a clerk at Aurel is going to have a page with a hole in it.**
+And the roll of strangers is entered again on the thirty-seventh day of the new month, and it goes into the book with a hole in it, and a clerk at Aurel is going to have a page with a hole in it.
 
 Sera Vail entered the roll on the thirty-seventh day with the true count and with a page, and the page is not the roll and it is not in the case, and it is in the book in this city, and it reads:
 
@@ -152,4 +152,4 @@ And Ottoline Vask entered the finding, and it is twenty-five words and it is the
 
 > **This city has spent sixty-one days protecting eleven people by describing them. The describing was the whole of the protection. There is no second thing.**
 
-**Nothing was gained. The case has not gone. The fee of eleven ounces of silver is entered as owing with no date and it is the tenth time it has been entered and nobody has worked out what it is about. The trial licence is twelve days old. The route has opened twice in sixty-two days and the second list has asked to go home eleven times in one sentence each and there is no receiving community on the far side of a wall and no instrument in this world can make one from this side. A room with no window and no door anybody has found was knocked on three times on the night of the twenty-ninth day of the new month and four times on the night of the thirty-fifth, both entered and neither deleted, and nobody has to open anything for that to happen, and nobody has asked.**
+Nothing was gained. The case has not gone. The fee of eleven ounces of silver is entered as owing with no date and it is the tenth time it has been entered and nobody has worked out what it is about. The trial licence is twelve days old. The route has opened twice in sixty-two days and the second list has asked to go home eleven times in one sentence each and there is no receiving community on the far side of a wall and no instrument in this world can make one from this side. A room with no window and no door anybody has found was knocked on three times on the night of the twenty-ninth day of the new month and four times on the night of the thirty-fifth, both entered and neither deleted, and nobody has to open anything for that to happen, and nobody has asked.

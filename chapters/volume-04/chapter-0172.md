@@ -14,7 +14,7 @@ She had the printed sheet in her hand for four days before he arrived and she ha
 
 ---
 
-**And the room was a room and not a hall, and it was in daylight, and there was a date on the door, and about nine people were in it, and the cost was read out in full before anything else was said, in the words of the person offering it, and not one word of it was improved on by anybody in that room including the person hearing it.**
+And the room was a room and not a hall, and it was in daylight, and there was a date on the door, and about nine people were in it, and the cost was read out in full before anything else was said, in the words of the person offering it, and not one word of it was improved on by anybody in that room including the person hearing it.
 
 The room is a kitchen with a bench by the door and a table with three legs of equal length and one that is not, and it is nine feet by seven, and the date went on the door in chalk on the Tuesday morning before he arrived because a woman of about twenty-four who is on no roll of anything and keeps a book of what this city has decided since the second day of this flood came down the road on the Monday with nothing else to do and asked the household whether she might stand in their yard, and the household said yes, and she wrote a date on their door in chalk and told them what it was for.
 
@@ -24,7 +24,7 @@ The room is a kitchen with a bench by the door and a table with three legs of eq
 
 "**Then it is in a week,**" she said, and left it up.
 
-**And that exchange is the whole of what a date on a door is for and it took about nine seconds and about nine people have since said that it is the only argument about forms anybody in this city has made in twenty-two days that anybody could actually use.**
+And that exchange is the whole of what a date on a door is for and it took about nine seconds and about nine people have since said that it is the only argument about forms anybody in this city has made in twenty-two days that anybody could actually use.
 
 ---
 
@@ -40,7 +40,7 @@ The cost, in full, was this, and it is in the settlement's own words, and it is 
 >
 > **There is no second page. There is no other clause. You may refuse any part of it at any time and you will not be asked why and you will not be asked twice, and that sentence is on our wall and it is the only thing on it that came from outside this store.**
 
-**And a man of about twenty-nine read all of it out in the local language, slowly, in a kitchen, with the date on the door, and he read it the way he has read it in five rooms since the seventh week, and it took about four minutes, and he did not put the chalk down at the end, and he waited.**
+And a man of about twenty-nine read all of it out in the local language, slowly, in a kitchen, with the date on the door, and he read it the way he has read it in five rooms since the seventh week, and it took about four minutes, and he did not put the chalk down at the end, and he waited.
 
 Nobody said anything for a bit. A kettle was doing somewhere else in the building and about nine people in that room could hear it, and a man of about twenty-nine turned his own sheet over and put his thumb on the fourth line and left it there while she looked at it, which is the only thing he did in that kitchen that was not reading.
 
@@ -60,7 +60,7 @@ Then the woman of the fourth household asked the question, and it is the correct
 
 ---
 
-**And what she had noticed, he said out loud in that kitchen himself, in about nine sentences, before anybody asked him, and he asked for it to be written in a book of his own that goes nowhere, and he wrote it down.**
+And what she had noticed, he said out loud in that kitchen himself, in about nine sentences, before anybody asked him, and he asked for it to be written in a book of his own that goes nowhere, and he wrote it down.
 
 "**I could not tell you today which room I left a line out in.**"
 
@@ -78,7 +78,7 @@ The room stopped.
 
 ---
 
-**And then it happened, and it is the part of the day that about four people in this city found almost impossible to be in the same room with, and it is the reason the settlement is not a villain, and it is not a reason to be comfortable.**
+And then it happened, and it is the part of the day that about four people in this city found almost impossible to be in the same room with, and it is the reason the settlement is not a villain, and it is not a reason to be comfortable.
 
 She took it. The woman of about thirty-four from the fourth household on the road took a workway, in her own words, at about the fourth hour of the afternoon, in a kitchen, in daylight, with a date on the door on it, and she did not consult anybody and nobody asked her to and her reason was three sentences long and all three of them were about a roof and a wage and a Tuesday.
 
@@ -86,29 +86,29 @@ She took it. The woman of about thirty-four from the fourth household on the roa
 
 And one person in that kitchen did not take it, and he is about thirty-nine and he digs, and nobody asked him why and he did not say, and it is entered that he did not say and that two people in that room wanted him to.
 
-**And a man of forty-two stood in the yard for the whole of the reading and did not go into the kitchen, and afterwards he said nine sentences in that yard in daylight with about nine people in it and no date on anything, and eight of them were correct and had been correct on every previous occasion, and the ninth is the reason this settlement is going to be a serious problem for four hundred miles.**
+And a man of forty-two stood in the yard for the whole of the reading and did not go into the kitchen, and afterwards he said nine sentences in that yard in daylight with about nine people in it and no date on anything, and eight of them were correct and had been correct on every previous occasion, and the ninth is the reason this settlement is going to be a serious problem for four hundred miles.
 
 "**One. Nobody in that room was threatened and nobody in that room is being paid yet and both of those are true on the same morning.**
 
-**Two. Our queue works on a Tuesday and I picked Tuesday and the reason I picked it is that Tuesday is the day the pay is due and I have never told anybody that and about nine people have assumed it was the day the pay was easiest to count.**
+Two. Our queue works on a Tuesday and I picked Tuesday and the reason I picked it is that Tuesday is the day the pay is due and I have never told anybody that and about nine people have assumed it was the day the pay was easiest to count.
 
-**Three. A household is not losing a gate on Friday. It is being paid for a duty and the duty is the only thing anybody in four hundred miles has ever been able to offer a person who has nothing.**
+Three. A household is not losing a gate on Friday. It is being paid for a duty and the duty is the only thing anybody in four hundred miles has ever been able to offer a person who has nothing.
 
-**Four. And the whole of the reason this works is that I am not able to do the thing that would make it stop working, which is lie about a cost, and I have found out this week that I do not need to, because a man who reads the same true thing out five times can shorten it by accident and nobody checks him and that is enough.**
+Four. And the whole of the reason this works is that I am not able to do the thing that would make it stop working, which is lie about a cost, and I have found out this week that I do not need to, because a man who reads the same true thing out five times can shorten it by accident and nobody checks him and that is enough.
 
-**Five. That is not a confession about a person. It is a confession about a reader, and every city that has ever been sold anything has found it, and we found it on a Tuesday on a flat, and we found it in about four minutes and only because a woman stopped him and asked whether a cost had got shorter.**
+Five. That is not a confession about a person. It is a confession about a reader, and every city that has ever been sold anything has found it, and we found it on a Tuesday on a flat, and we found it in about four minutes and only because a woman stopped him and asked whether a cost had got shorter.
 
-**Six. I have not been asked to leave and I am not going to leave, and if I leave, the queue stops, and about four hundred and forty people who are not here are drying salt on racks for a buyer nine hundred miles away and somebody has to be at the front of that line.**
+Six. I have not been asked to leave and I am not going to leave, and if I leave, the queue stops, and about four hundred and forty people who are not here are drying salt on racks for a buyer nine hundred miles away and somebody has to be at the front of that line.
 
-**Seven. I would like it entered that the woman stopped me and not the man of thirty-four with the cup, and that the man of thirty-four with the cup stopped me on the seventh day of the Long Month and the woman stopped me today, and that there are two of them and that neither of them is on my wage page.**
+Seven. I would like it entered that the woman stopped me and not the man of thirty-four with the cup, and that the man of thirty-four with the cup stopped me on the seventh day of the Long Month and the woman stopped me today, and that there are two of them and that neither of them is on my wage page.
 
-**Eight. There is no column anywhere in four hundred miles for a person who notices a cost has got shorter and cannot be removed and cannot be paid and does not want to be.**
+Eight. There is no column anywhere in four hundred miles for a person who notices a cost has got shorter and cannot be removed and cannot be paid and does not want to be.
 
 **Nine. And there should be, and I am not the man to build it, and I have been saying for a hundred and seventy days that we do not need a page to find anybody, and I have been right about that eight times out of nine.**"
 
 ---
 
-**And at about the sixth hour of the evening, on the road at the top of the flats, a man of about thirty-nine who trades on the Open Hand board told a man of about thirty-two what the day had been, in nine sentences, without naming a gate, a household or a person, because that is his and it has not changed since the first month of this flood, and then he stopped, and the man of about thirty-nine had been wrong to stop, because there was a ninth sentence and he had not said it.**
+And at about the sixth hour of the evening, on the road at the top of the flats, a man of about thirty-nine who trades on the Open Hand board told a man of about thirty-two what the day had been, in nine sentences, without naming a gate, a household or a person, because that is his and it has not changed since the first month of this flood, and then he stopped, and the man of about thirty-nine had been wrong to stop, because there was a ninth sentence and he had not said it.
 
 "**You were not in the room.**"
 
@@ -128,4 +128,4 @@ And one person in that kitchen did not take it, and he is about thirty-nine and 
 
 ---
 
-**A date in chalk on a door in a yard that a woman of about thirty-four said might be washed off in a week. It is the twenty-first day of the Long Month, there are three days of the quarter left in it, and nobody has washed it off.**
+A date in chalk on a door in a yard that a woman of about thirty-four said might be washed off in a week. It is the twenty-first day of the Long Month, there are three days of the quarter left in it, and nobody has washed it off.

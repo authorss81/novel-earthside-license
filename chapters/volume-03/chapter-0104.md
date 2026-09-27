@@ -2,11 +2,11 @@
 
 On the fourteenth day of the month after this one, which was the hundred and fourth day of the flood and a Sunday, four people finished ten days of trying to write down a room that none of them can get into, and the description is four lines long, and every line of it is about the people who have been in it and not about the room, and they entered that as a finding, and they did not lift the boards, and about nine people watched the last hour of it from a floor that has not been opened since the fortieth day of this flood.
 
-**The licence is fifty-four days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-fifth time. The black line in his right palm is one hundred and three days old and has not moved one sixteenth of an inch.**
+The licence is fifty-four days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-fifth time. The black line in his right palm is one hundred and three days old and has not moved one sixteenth of an inch.
 
 ---
 
-**The four began on the fourth day of the month after this one, which was the ninety-fourth day of the flood, and this is the tenth day of it, and it is a mason of thirty-four years, a man of sixty-one who has copied other men's sentences for nineteen years, a docker of fifty-eight who cannot read, and Curtis Okonkwo, twenty, of the second list, who came out of a floor on the twenty-fifth day of this flood and has said three words since, on a stair on the thirty-fifth day of the new month, which was the sixtieth day of the flood, and that is seventy-nine days.**
+The four began on the fourth day of the month after this one, which was the ninety-fourth day of the flood, and this is the tenth day of it, and it is a mason of thirty-four years, a man of sixty-one who has copied other men's sentences for nineteen years, a docker of fifty-eight who cannot read, and Curtis Okonkwo, twenty, of the second list, who came out of a floor on the twenty-fifth day of this flood and has said three words since, on a stair on the thirty-fifth day of the new month, which was the sixtieth day of the flood, and that is seventy-nine days.
 
 Nobody sent them. The work was picked up, the way the work on the nineteen shapes was picked up, and picking work up is not a post and is not repaid and does not put anybody on a roll, and a girl of seventeen entered that on the fourth day of the month after this one and entered it again on the fourteenth and entered that she had entered it twice.
 
@@ -16,7 +16,7 @@ Nobody sent them. The work was picked up, the way the work on the nineteen shape
 
 ---
 
-**And the thing they were trying to write down is a room at the far end of a seam in the outer wall of the outer channel, eighteen inches by three fingers, which has a room behind it with no window and no door anybody has found, and about eleven people have stood in that room, and the only two ways anybody has got in or out of it in a hundred and four days are both this city's fault and neither of them is the door.**
+And the thing they were trying to write down is a room at the far end of a seam in the outer wall of the outer channel, eighteen inches by three fingers, which has a room behind it with no window and no door anybody has found, and about eleven people have stood in that room, and the only two ways anybody has got in or out of it in a hundred and four days are both this city's fault and neither of them is the door.
 
 One is a floor. On the twenty-fifth day of this flood, at about the fourth hour of the afternoon, eleven people came out of a dressed joint under the lock chapel floor, four feet beyond the threshold stone, in about four seconds, and they were expected that morning on a river wall two hundred steps down and were not there. Nobody had asked them. Nobody knew they were coming. The ground under the chapel is entered in the ledger as **SCARRED** and is not repaired and is not closable, and **the boards have not been lifted since the fortieth day of this flood and were not lifted on the fourteenth day of the month after this one.**
 
@@ -28,7 +28,7 @@ The other is a door. It has been opened twice in a hundred and four days and not
 
 ---
 
-**And the description is four lines and it is on the page and a girl of seventeen read it out twice and nobody improved on it, and here it is.**
+And the description is four lines and it is on the page and a girl of seventeen read it out twice and nobody improved on it, and here it is.
 
 > **A room. No window. No door anybody found in the first four minutes.**
 >
@@ -46,7 +46,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And Curtis Okonkwo said the thing that the other three had not been able to get to, and it took him about four minutes, and he is twenty years old and he has said three words in seventy-nine days and he said the whole of the finding in eleven sentences and about nine people in that room understood all of it and about two hundred and thirty in this city will not.**
+And Curtis Okonkwo said the thing that the other three had not been able to get to, and it took him about four minutes, and he is twenty years old and he has said three words in seventy-nine days and he said the whole of the finding in eleven sentences and about nine people in that room understood all of it and about two hundred and thirty in this city will not.
 
 "**Every line of it is about somebody. The no-window is about the eleven who looked. The no-shadow is about the eleven who disagreed. The four openings are about the seven who went to the first because it was the widest, and the two who came out of the third, and the fourth that was already open. The sound is about the nobody who was asked. I have been in this city seventy-nine days and I came out of a room I was not asked about, and I am the only one of the four of us who has been one of the people it is about, and I am telling you that the four lines are not the room and they are not nothing either. They are the shape of the room after eleven people have been through it.**"
 
@@ -56,7 +56,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then a woman of twenty-four asked the question nobody in that room could answer, and it took about nine minutes and the answer was that nobody could, and the reason nobody could is the one thing in this city that nobody has been willing to say out loud for a hundred and four days, and a mason said it, and it is on the page, and it is the standing rule of a working and not a finding.**
+And then a woman of twenty-four asked the question nobody in that room could answer, and it took about nine minutes and the answer was that nobody could, and the reason nobody could is the one thing in this city that nobody has been willing to say out loud for a hundred and four days, and a mason said it, and it is on the page, and it is the standing rule of a working and not a finding.
 
 "You cannot go and look," she said. "**The only way in is the door, and to get through the door a person has to stand behind it, and for that person to be answered for, the city has to be able to ask them whether they will stand behind it. And there is no instrument in this world that can ask a person standing behind a gate whether they will stand behind it.**"
 
@@ -66,7 +66,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And about nine people went up to the lock chapel at about the fourth hour of the afternoon and stood on the floor above the ground that is entered as a scar, and nobody lifted the boards, and it is entered that nobody lifted them, and that a keeper of about seventy read the five things on the nail in the arch out loud in the wrong order on purpose, which is what she does, and that the fifth thing on the nail is the only one of the five that is a question and not a duty.**
+And about nine people went up to the lock chapel at about the fourth hour of the afternoon and stood on the floor above the ground that is entered as a scar, and nobody lifted the boards, and it is entered that nobody lifted them, and that a keeper of about seventy read the five things on the nail in the arch out loud in the wrong order on purpose, which is what she does, and that the fifth thing on the nail is the only one of the five that is a question and not a duty.
 
 "There was a reason not to lift them on the fortieth day," said a woman of seventy, who keeps the lock chapel and has had a nail in an arch for fifty-one years. "**And I have not lifted them since and it is not mine to lift and neither is it yours. I have watched this city go and look at four things in a hundred and four days and three of them cost somebody something, and I am not saying which three, and I would like it entered that I said that in a room with nine people in it and that nobody asked me which three.**"
 
@@ -74,7 +74,7 @@ And the boards stayed shut, and the ground stayed scarred, and the chapel stone 
 
 ---
 
-**And then a docker of fifty-eight who cannot read asked a question, and it is four words, and a girl of seventeen read it out because it was written on the back of a slate, and it is entered that she was asked and that she said yes before she was asked, which is the second time in a hundred and four days that anybody in this city has said that.**
+And then a docker of fifty-eight who cannot read asked a question, and it is four words, and a girl of seventeen read it out because it was written on the back of a slate, and it is entered that she was asked and that she said yes before she was asked, which is the second time in a hundred and four days that anybody in this city has said that.
 
 "**Who is it about?**"
 
@@ -86,4 +86,4 @@ And nobody answered for about nineteen seconds, and it is entered that nobody an
 
 Adrian Vale is Stage 2, Passage holder, in the doing, and performed no working today, and a line in a wall went eleven inches and stopped on the third day of the month after this one and he may not use it. **There have been twenty-seven things the wall has said in this city, one of them has been refused, and a day in which nobody asked a room anything is a fifteenth silence, and the pattern is fifteen for fifteen.** The black line in his right palm is one hundred and three days old and has not moved one sixteenth of an inch.
 
-**And nobody in that room answered a question of four words, and the question is on the back of a slate, and about nine people in this city now know that the eighth column of a quarterly description is the same shape as a page in a stone and as a room at the far end of a door, and a hearing is in about seven weeks, and about nine people are going up a nine-mile road in five days to look at seven cuts in a wall that nobody has looked at.**
+And nobody in that room answered a question of four words, and the question is on the back of a slate, and about nine people in this city now know that the eighth column of a quarterly description is the same shape as a page in a stone and as a room at the far end of a door, and a hearing is in about seven weeks, and about nine people are going up a nine-mile road in five days to look at seven cuts in a wall that nobody has looked at.

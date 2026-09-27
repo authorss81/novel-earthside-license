@@ -22,7 +22,7 @@ She was at the bench with the board flat on her knees and a knife, and she looke
 
 ---
 
-**And here is what happened in that kitchen on the twenty-sixth day of the Long Month, and it took about four hours, and it is on the page because it is the only day in a hundred and eighty-one on which a man of thirty-two was in a room with the person whose household gave something away and did not do one single thing about it, and everybody in the room including him understood that by the third hour.**
+And here is what happened in that kitchen on the twenty-sixth day of the Long Month, and it took about four hours, and it is on the page because it is the only day in a hundred and eighty-one on which a man of thirty-two was in a room with the person whose household gave something away and did not do one single thing about it, and everybody in the room including him understood that by the third hour.
 
 The first hour was about the boy. The boy of eight was on the floor with about nine feet of rope across his knees and a knife he was not supposed to have, and he was doing the fourth kind of knot, which is the one that is not for tying anything up, and he showed it to a man of about thirty-two at about the seventh hour of the morning without being asked and without explaining it, and the man of thirty-two looked at it for about a minute and said *that is a good one* and nothing else, and a man of thirty-two looked at a knot for a minute and did not make a speech about it, and it is the only thing he has done in four volumes that anybody has wanted to keep.
 
@@ -42,7 +42,7 @@ The third hour was about the day she chose. She had chosen it and she had not to
 
 ---
 
-**And then, at about the second hour of the afternoon, he got it wrong, and the getting of it wrong is on the page, and it is in the book in his own words, and it is the one thing anybody has said in that kitchen in four hours that anybody improved on afterwards.**
+And then, at about the second hour of the afternoon, he got it wrong, and the getting of it wrong is on the page, and it is in the book in his own words, and it is the one thing anybody has said in that kitchen in four hours that anybody improved on afterwards.
 
 He said he was sorry.
 
@@ -68,7 +68,7 @@ He stood up. He did not say anything else. He did not improve on it and about fo
 
 ---
 
-**And then she was not angry for about nine minutes, and in the nine minutes she said the thing, and it is the only time in four hundred miles that anybody has said it about a gate in this flood, and nobody in that kitchen and nobody since has improved on it.**
+And then she was not angry for about nine minutes, and in the nine minutes she said the thing, and it is the only time in four hundred miles that anybody has said it about a gate in this flood, and nobody in that kitchen and nobody since has improved on it.
 
 He was standing by the door with his hat in his hands and she was at the bench with the board and the knife.
 
@@ -84,7 +84,7 @@ He was standing by the door with his hat in his hands and she was at the bench w
 
 ---
 
-**And at about the fifth hour of the afternoon a woman of about fifty-nine who keeps the house came in from the yard with a bucket and asked him one question, and she asked it in four sentences and she did not hurry it and she was not asked.**
+And at about the fifth hour of the afternoon a woman of about fifty-nine who keeps the house came in from the yard with a bucket and asked him one question, and she asked it in four sentences and she did not hurry it and she was not asked.
 
 "You have not been in a room that wanted you since the sixty-fourth day of the month after this one. That is twenty-seven days. My arithmetic is a day and a day plus one and it is wrong every time and I have had it wrong for nine years about other things and I am telling you it is twenty-seven days and you can look."
 
@@ -100,4 +100,4 @@ And the woman who keeps the gate said nothing at all to that, and not saying any
 
 ---
 
-**He walked four hundred yards up off the flats, sat down on a mound of silt that has been there since the fourteenth day of the Long Month, and wrote nothing down. There is no page anywhere in four hundred miles that says a man of thirty-two came eleven miles, sat in a kitchen for four hours, was told to stand up, and wrote nothing down.**
+He walked four hundred yards up off the flats, sat down on a mound of silt that has been there since the fourteenth day of the Long Month, and wrote nothing down. There is no page anywhere in four hundred miles that says a man of thirty-two came eleven miles, sat in a kitchen for four hours, was told to stand up, and wrote nothing down.

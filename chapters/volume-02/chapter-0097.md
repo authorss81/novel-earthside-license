@@ -2,7 +2,7 @@
 
 On the seventh day of the month after this one, which was the ninety-seventh day of the flood and a Sunday, a floor above a chandlery by a wharf was written into a book in about four hours by fourteen people, and the three sentences that hold it together were said for the first time by a woman of about thirty-four who keeps a stall by the wharf and whose name was not on anything, and a man of forty-two argued in about nine minutes that one of the three cannot be administered and was right, and a man from another world was in the room for four hours and said four words and was not asked anything, and the room did not look at him once after the third hour, and that is entered as the first fact of the seventh day of the month after this one.
 
-**The licence is forty-seven days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-six days old and has not moved one sixteenth of an inch.**
+The licence is forty-seven days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-six days old and has not moved one sixteenth of an inch.
 
 ---
 
@@ -16,7 +16,7 @@ The Open Hand is a cooperative of traders from this world and from another, unde
 
 ---
 
-**And the three were said, and the first two were easy, and the third was said by a woman who has never had a name on anything and who has said since the sixty-fourth day of the new month that she is not going to be one of the people who says she tried, and who said that again first, in about nine seconds, before she said anything else, and then said all three of them in about forty seconds without stopping.**
+And the three were said, and the first two were easy, and the third was said by a woman who has never had a name on anything and who has said since the sixty-fourth day of the new month that she is not going to be one of the people who says she tried, and who said that again first, in about nine seconds, before she said anything else, and then said all three of them in about forty seconds without stopping.
 
 "I have no standing and nothing at stake and I have been in nine rooms in four days and nobody asked me what I thought in any of them, and I am saying three sentences and then somebody is going to agree to them, and when they agree I will have a stake, and I have never had a stake in anything in my life, and I would like it entered that I noticed it happening rather than being given it."
 
@@ -40,7 +40,7 @@ Nobody argued with him, and it is entered that nobody argued with him, and that 
 
 ---
 
-**And then, at about the fifth hour of the afternoon, a trader from the Reach asked to buy a whole catch at one price, and one person in the room said no, and the no was honoured in about four seconds by everybody including the trader, and it went on a page in the words of the person who said it, and the page is not a roll.**
+And then, at about the fifth hour of the afternoon, a trader from the Reach asked to buy a whole catch at one price, and one person in the room said no, and the no was honoured in about four seconds by everybody including the trader, and it went on a page in the words of the person who said it, and the page is not a roll.
 
 The person who said it was the woman of about thirty-four who keeps a stall by the wharf, and she is on no roll and is not one of the seventeen and is not one of the four households on the levy of the first Wayhouse, and she pays that levy on what the other four pull, and the reason she was able to say no in about four seconds is that she has been saying no in markets for nine years and nobody has ever once written down what she said, and today somebody did.
 
@@ -58,7 +58,7 @@ The person who said it was the woman of about thirty-four who keeps a stall by t
 
 ---
 
-**And then a girl of seventeen entered the thing that is the finding of the day, and it is four lines high, and about nine people in that room understood all of it and two hundred and thirty will not.**
+And then a girl of seventeen entered the thing that is the finding of the day, and it is four lines high, and about nine people in that room understood all of it and two hundred and thirty will not.
 
 > **A man of thirty-two was in this room for four hours on the seventh day of the month after this one.**
 >
@@ -72,7 +72,7 @@ The person who said it was the woman of about thirty-four who keeps a stall by t
 
 ---
 
-**And then the three sentences were entered, and the name of the woman who said them was entered, and she asked for the second thing to be entered separately, and it is on the page in her own words and nobody improved on it.**
+And then the three sentences were entered, and the name of the woman who said them was entered, and she asked for the second thing to be entered separately, and it is on the page in her own words and nobody improved on it.
 
 "**Enter that I was on nothing at the ninth hour of the morning and that I am on a page at the ninth hour of the evening and that it is a change and not a promotion, and enter that I noticed it happening and not somebody doing it to me.**"
 
@@ -80,7 +80,7 @@ It is on the page in her own words, and nobody improved on it, and the room chec
 
 ---
 
-**A man of about thirty-one asked the question that about nine people in that room had been carrying since the second hour of the afternoon, and it is the question a body of traders asks, and it is the question the Crown asks, and it is the question the Lantern Concord has been asked nine times in ninety-seven days, and it got the same answer here that it gets everywhere, which is that nobody could answer it and then everybody found out they could.**
+A man of about thirty-one asked the question that about nine people in that room had been carrying since the second hour of the afternoon, and it is the question a body of traders asks, and it is the question the Crown asks, and it is the question the Lantern Concord has been asked nine times in ninety-seven days, and it got the same answer here that it gets everywhere, which is that nobody could answer it and then everybody found out they could.
 
 "Then why would anybody join it," he said. "**No share, so there is nothing to get bigger. No interest, so there is nothing to be paid for. And a refusal cannot be bought out, so a person can stop the whole thing any afternoon by saying no. That is three doors shut and one door locked and a fourth one you cannot oil. I have been in four markets this month and I would not put my hand on any of it.**"
 
@@ -94,10 +94,10 @@ And then a keeper of about seventy said the last thing about the third of the th
 
 "**The third sentence is the only one of the three that can be wrong on a Tuesday. I have watched four rules get argued about in fifty-one years and every one of them was a rule somebody was going to check, and a rule nobody checks is a rule that holds until somebody with more salt than sense decides to push it, and I do not care, because the push has to be made in the open, in a room, in daylight, in front of a floor, and everybody in this room can leave. I have a pail and a rail that is going and I leave when I like. That is what a rule with nobody behind it is. It is a rule that everybody can get out from under.**"
 
-**And it is entered that none of the seventeen has land rights, no class, no standing and no workway, except one, and she is not whole, and a cooperative of traders does not change that, and nobody in about nine people in that room pretended that it did, and that a woman of fifty entered that she has been a notary for twenty-six years and that the Open Hand is the first instrument in this city that she is not the notary of, and that she is not going to be asked to be, and that this is the correct arrangement.**
+And it is entered that none of the seventeen has land rights, no class, no standing and no workway, except one, and she is not whole, and a cooperative of traders does not change that, and nobody in about nine people in that room pretended that it did, and that a woman of fifty entered that she has been a notary for twenty-six years and that the Open Hand is the first instrument in this city that she is not the notary of, and that she is not going to be asked to be, and that this is the correct arrangement.
 
 ---
 
-**And at about the ninth hour of the evening the room emptied, and the floor was left with a ledger on the table that nobody had asked for, and about nine people who were going to be trading on it in the morning, and the ledger has rates in it and a date in it and a refusal on it and no names.**
+And at about the ninth hour of the evening the room emptied, and the floor was left with a ledger on the table that nobody had asked for, and about nine people who were going to be trading on it in the morning, and the ledger has rates in it and a date in it and a refusal on it and no names.
 
-**And the ledger is not a roll. And it is not going to Aurel. And it is not an instrument, and it does not answer for the first Wayhouse or for a Wayhouse in another village, and nobody has the key to it except the people in the room, and four of them are from another world and ten of them are not, and none of the ten can be found by any office on it, and the four can, and that is the price of the four and it is on a page.**
+And the ledger is not a roll. And it is not going to Aurel. And it is not an instrument, and it does not answer for the first Wayhouse or for a Wayhouse in another village, and nobody has the key to it except the people in the room, and four of them are from another world and ten of them are not, and none of the ten can be found by any office on it, and the four can, and that is the price of the four and it is on a page.

@@ -4,7 +4,7 @@ On the thirty-fifth day of the new month, which was the sixtieth day of the floo
 
 ---
 
-**The rota is on the wall of the room at the top of two hundred steps. Thirty-one names in four columns, and the fourth column is what the work is for and not what the person is for, on a notary's ruling from the eleventh day of this flood.**
+The rota is on the wall of the room at the top of two hundred steps. Thirty-one names in four columns, and the fourth column is what the work is for and not what the person is for, on a notary's ruling from the eleventh day of this flood.
 
 The fourth column was empty for eleven days and was filled in on the twenty-fifth day of the new month, in two hands, in one cell, and what went into it is the oldest question in this city:
 
@@ -18,7 +18,7 @@ The fourth column was empty for eleven days and was filled in on the twenty-fift
 
 And under the English, in the local language, in a Hearthguard's hand, the same thing again, and the second is a translation and not a second finding.
 
-**The work is not a post. Anybody may pick it up, including a docker, including a mason, and including a woman of seventy who cannot read it. That was said by a keeper of about seventy in a room of nine people on the twenty-fifth day of the new month and it is in the book in her words, and it was said because nobody in that room knew what the work was, including the man who put the wall up.**
+The work is not a post. Anybody may pick it up, including a docker, including a mason, and including a woman of seventy who cannot read it. That was said by a keeper of about seventy in a room of nine people on the twenty-fifth day of the new month and it is in the book in her words, and it was said because nobody in that room knew what the work was, including the man who put the wall up.
 
 A woman of fifty-eight with a barrow picked it up on the thirtieth day of the new month, in about nine seconds, and nobody asked her to, and she said afterwards that she had been waiting four days for somebody to do it and that when nobody did it she got tired of waiting, and that this is not a noble sentence and she would like it entered as a woman being tired.
 
@@ -28,11 +28,11 @@ She has been copying shapes into a slate for three days. She cannot read what sh
 
 ---
 
-**Hettis Roke went up the road on the thirty-fifth day of the new month at about the seventh hour of the morning because he wrote the work on a stranger's wall and a work anybody may pick up is a work, and because a woman of sixty-one who cannot read came down two hundred steps four times in nine years and said the number nineteen out loud in a yard on the twenty-ninth and nobody has asked her why.**
+Hettis Roke went up the road on the thirty-fifth day of the new month at about the seventh hour of the morning because he wrote the work on a stranger's wall and a work anybody may pick up is a work, and because a woman of sixty-one who cannot read came down two hundred steps four times in nine years and said the number nineteen out loud in a yard on the twenty-ninth and nobody has asked her why.
 
 He had not been up the road in nine years. That is in the book as a fact and it is not a fact about distance, because the road is nine miles and a Hearthguard can walk nine miles. It is entered: **that he had not gone up the road in nine years, and that this city read that as grief, and that it was not grief.**
 
-**It was that the eight are further down the road, and that he had worked it out in the second year of the nine, and that if he went up the road he would arrive at them, and that a man of forty-four who has said one sentence about them in nine years is not a man who arrives at things.**
+It was that the eight are further down the road, and that he had worked it out in the second year of the nine, and that if he went up the road he would arrive at them, and that a man of forty-four who has said one sentence about them in nine years is not a man who arrives at things.
 
 He said so, in a yard, in about forty people's hearing, at about the sixth hour of the morning of the thirty-fifth day of the new month, and it is in the book in his own words and it is thirty-one words: "**I did not stay away because of the eight. I stayed away because of the walking, and I have told this city grief for nine years and it was the walking.**"
 
@@ -40,11 +40,11 @@ Sabra Vint walked with him. She is sixty-one, of a house with a burnt lintel, an
 
 They went up together. A docker of fifty-eight went with them because she had the slate and because nobody had asked her not to.
 
-**There are nineteen stones on the upper road above the salt works. Eleven of the nineteen carry the same shape cut into them, in the same cut, in the same hand, and the shape is not a letter and it is not a number and no living person in this city can read it, including the mason of thirty-four years who has measured them and who says it is a ligature and cannot say of what.**
+There are nineteen stones on the upper road above the salt works. Eleven of the nineteen carry the same shape cut into them, in the same cut, in the same hand, and the shape is not a letter and it is not a number and no living person in this city can read it, including the mason of thirty-four years who has measured them and who says it is a ligature and cannot say of what.
 
 The eight that are different are further down the road. They are cut differently, in a different hand, and in a different order.
 
-**And at the eleventh stone, on the near side, about two hundred yards short of where the eleven end and the eight begin, there is a name.**
+And at the eleventh stone, on the near side, about two hundred yards short of where the eleven end and the eight begin, there is a name.
 
 It is not a shape. It is a name, cut into the flat top of the stone, in letters that are about a hundred and forty years old, in a hand that is a Hearthguard's hand of that century, and it is nine miles from an ordinary wall in a yard in Saltwake.
 
@@ -74,11 +74,11 @@ And Sabra Vint said: "I cannot read what is on it."
 
 ---
 
-**And the knock is not the same knock and both of them are on the page and neither of them has been deleted, and that is the whole of the rule that governs it.**
+And the knock is not the same knock and both of them are on the page and neither of them has been deleted, and that is the whole of the rule that governs it.
 
 The wall of the second bay is inside the Lock of Salt, at the bottom of the two hundred steps, and the number is chalked on it, and there have been five chalked marks on it since the eighteenth day of the new month, and the docker's *nine* is on it, and a boy of nineteen's number is on it about four inches under and nine inches to the left in a hand that pressed the *k* too hard, and the two have been on that wall together for about a month and nobody has moved either.
 
-**On the night of the twenty-eighth day of the new month, at about the second hour, a man who was in the gallery reported three knocks in the dressed join under the chapel floor.**
+On the night of the twenty-eighth day of the new month, at about the second hour, a man who was in the gallery reported three knocks in the dressed join under the chapel floor.
 
 The join is under the chapel floor and it is dressed and it has been dressed since the twenty-fourth day of the new month and it is a black mark in a place and it is not repaired, and the boards over it have not been lifted since the fortieth day of this flood, and the form on the nail says in its fourth line that it cannot say where a residue will go.
 
@@ -86,7 +86,7 @@ Renna Ord entered both facts and deleted neither, and her entry is seventy-three
 
 > **Entered at the third hour of the morning of the twenty-ninth day of the new month, at the asking of a man in the gallery: a man who cannot be right about a number hears a number; and a join that is dressed does not knock. Both entered. Neither deleted. It is entered that these are two facts and that neither of them is a reason not to write the next one down.**
 
-**And on the thirty-fifth day of the new month there were four.**
+And on the thirty-fifth day of the new month there were four.
 
 Same man. Same gallery. About the second hour of the morning. It stands in the book as what a person said, and the person's name is entered because he is a person and he is not a machine for hearing things, and the girl of seventeen took it down in a narrow column and the width of the column is entered as a fact for the second time in that year, and the column is four lines high and the entry is four lines:
 
@@ -102,23 +102,23 @@ Same man. Same gallery. About the second hour of the morning. It stands in the b
 
 ---
 
-**And at about the eleventh hour of the night of the thirty-fifth day of the new month, a man of thirty-two went down two hundred steps and stood four feet back on the sill of the third bay with a folding steel rule in his hand that he did not need, and stayed about eleven minutes.**
+And at about the eleventh hour of the night of the thirty-fifth day of the new month, a man of thirty-two went down two hundred steps and stood four feet back on the sill of the third bay with a folding steel rule in his hand that he did not need, and stayed about eleven minutes.
 
 The lamp on the third step of the lower gallery is lit and it has been lit more often than it needs to be since the fourth day of this flood, and it is not a symbol and nobody has made it one.
 
 The dressed join in the gate is eight and seven-eighths of an inch and it is dressed to a line. It was stepped twice, on the eighteenth day of the new month and on the twenty-fourth, and both steps were entered in an unnamed mason's own hand before the number was read, and both readings are eight and seven-eighths, and a crack does not step, and a closed join does not get narrower, it gets dressed.
 
-**There is one ruled line left in that column for a reading that has not been taken, and it is still one ruled line, and it is not going to be filled tonight by anybody, because a number is only taken on the right water at the right hour with the same edge and it is the last hour of the night.**
+There is one ruled line left in that column for a reading that has not been taken, and it is still one ruled line, and it is not going to be filled tonight by anybody, because a number is only taken on the right water at the right hour with the same edge and it is the last hour of the night.
 
 The number on the wall of the second bay is the number on the wall of the second bay. It is on the page in two places and it is a fact and it is not a sentence about anybody.
 
 **And the black line in the heel of his right palm is fifty-nine days old and has not moved one sixteenth of an inch.** It is two inches of hair-thin black under a pale fragment-mark that is in the maintenance seam of a wall in the outer channel, and the two are separate objects, and the pale one thinned and lost its centre and went into the seam in the first ten days of this flood and the black one did not move and did not fade and was exactly as wide on the fiftieth day of the new month as it was on the eighth, and it is the same tonight, and he looked at it in lamplight for about nine seconds and it is the same.
 
-**Neither of those two facts is an answer. Both of them are the only things he has, and he has written that down four times now and it is the sentence he is going to be asked about in about four months by somebody who will not accept it.**
+Neither of those two facts is an answer. Both of them are the only things he has, and he has written that down four times now and it is the sentence he is going to be asked about in about four months by somebody who will not accept it.
 
 ---
 
-**And a man of twenty of the second list came down the two hundred steps at about the eleventh hour of the night of the thirty-fifth day of the new month and asked a question that is not the question a boy of nine asked, and it is a question he has been carrying for thirty-five days and has not asked in a room because there was not one.**
+And a man of twenty of the second list came down the two hundred steps at about the eleventh hour of the night of the thirty-fifth day of the new month and asked a question that is not the question a boy of nine asked, and it is a question he has been carrying for thirty-five days and has not asked in a room because there was not one.
 
 Curtis Okonkwo, twenty, of the second list, warehouse picker, came out of a chapel floor on the twenty-fifth day of this flood and has asked for nothing in thirty-five days, and has not been on any list, and has been fed every day by people who did not ask him whether he wanted the food, and there is an entry about that.
 
@@ -144,7 +144,7 @@ And nobody answered it, and it is entered that nobody answered it, and it is ent
 
 ---
 
-**And the day book for the thirty-fifth day of the new month has five entries and four of them are the ordinary work of a city in winter, and the fifth is in a different ink.**
+And the day book for the thirty-fifth day of the new month has five entries and four of them are the ordinary work of a city in winter, and the fifth is in a different ink.
 
 > **Twenty-first day of the flood.** *closes itself at the top of the tide. Gate crew nineteen and one foreman. Flood crew twenty-one. Forty men, twice, at the ordinary volume, out of the line and not together.*
 >
@@ -168,12 +168,12 @@ And under all five, in a different ink, at the eleventh hour of the night, in a 
 
 ---
 
-**And Tam Crane is nine years old and he is the son of a widow who owns the building the loft is the top of, and he followed a man at six feet from the fifth day of this flood until that man was buried on the sixteenth day of the new month in the ground behind an ordinary wall, and he asked a man from another world on the twenty-fifth day of the new month whether the next ones are going to be players, and the man did not have an answer that did not make the child smaller.**
+And Tam Crane is nine years old and he is the son of a widow who owns the building the loft is the top of, and he followed a man at six feet from the fifth day of this flood until that man was buried on the sixteenth day of the new month in the ground behind an ordinary wall, and he asked a man from another world on the twenty-fifth day of the new month whether the next ones are going to be players, and the man did not have an answer that did not make the child smaller.
 
 **The answer is still not written down.** It is in a private book, in a room over a market, in one line in a man's own hand, and it says that he was asked a question by a boy of nine and that he did not have an answer and that he is going to go and find one, and that the answer is not going to be the word. He has not found it in ten days. It is not on the market wall; what is on the market wall is fifty-nine words in two lines in chalk with a shorter word underneath it that is not going to come off.
 
-**And the main breach is closed and dressed. The ground under the lock chapel is a black mark in a place, watched twice a day by four people under a form with five items on a nail, and is not repaired, and the price on the form is salt, and the salt went up a third on the twenty-seventh day of the new month. The black line in the chapel stone said nothing on the twenty-third, forty-ninth or fiftieth days of this flood and has said nothing since the twenty-fifth, and it is not repaired. The black line in a man's palm is fifty-nine days old and has not moved one sixteenth of an inch.**
+And the main breach is closed and dressed. The ground under the lock chapel is a black mark in a place, watched twice a day by four people under a form with five items on a nail, and is not repaired, and the price on the form is salt, and the salt went up a third on the twenty-seventh day of the new month. The black line in the chapel stone said nothing on the twenty-third, forty-ninth or fiftieth days of this flood and has said nothing since the twenty-fifth, and it is not repaired. The black line in a man's palm is fifty-nine days old and has not moved one sixteenth of an inch.
 
-**Nineteen stones are on a wall above a market in two hands with nobody's name on them, and the meaning of them is unwritten, and on the thirty-fifth day of the new month a docker of fifty-eight began picking the work up and a Hearthguard of forty-four went up the road for the first time in nine years, and at the eleventh stone there was a name in a hand his grandfather taught him to read, and the eight of the nineteen that are different are further down the road, and they have not been looked at, and there is a person who has not been asked and has not refused. A woman of fifty-eight who cannot read has been asked nine times in fifty-nine days and has answered twice. A licence with nobody's name at the top of it has been in force for ten days and has opened a door twice. A workway exists in this city and there is no office for it and there is a document with nine weaknesses under it and a date on it, and a bar that a woman of forty-one went past in four seconds because it was a rule about a thing and not about the world.**
+Nineteen stones are on a wall above a market in two hands with nobody's name on them, and the meaning of them is unwritten, and on the thirty-fifth day of the new month a docker of fifty-eight began picking the work up and a Hearthguard of forty-four went up the road for the first time in nine years, and at the eleventh stone there was a name in a hand his grandfather taught him to read, and the eight of the nineteen that are different are further down the road, and they have not been looked at, and there is a person who has not been asked and has not refused. A woman of fifty-eight who cannot read has been asked nine times in fifty-nine days and has answered twice. A licence with nobody's name at the top of it has been in force for ten days and has opened a door twice. A workway exists in this city and there is no office for it and there is a document with nine weaknesses under it and a date on it, and a bar that a woman of forty-one went past in four seconds because it was a rule about a thing and not about the world.
 
-**And a room with no window and no door that anybody in this city has found is being knocked on, and eleven people in this city want to go out through it, and there is a man who is the reason standing four feet back from a dressed join with a rule in his hand that he does not need, and a boy of nine who has not been given the answer to his question, and a review on the fiftieth day of the new month — fifteen days — in daylight, in a room, with a date on the page before the day and no questions on it, and somebody in this city is going to have to write the questions on it, and the only people who can write are the people who are already in the room, and about nine people in this city are not already in the room, and one of them is a man who has spent fifty-nine days writing down what people may not do, and who was told on a stair last night to go and ask what a person with no work is for, and who has not done it yet, and has fifteen days.**
+And a room with no window and no door that anybody in this city has found is being knocked on, and eleven people in this city want to go out through it, and there is a man who is the reason standing four feet back from a dressed join with a rule in his hand that he does not need, and a boy of nine who has not been given the answer to his question, and a review on the fiftieth day of the new month — fifteen days — in daylight, in a room, with a date on the page before the day and no questions on it, and somebody in this city is going to have to write the questions on it, and the only people who can write are the people who are already in the room, and about nine people in this city are not already in the room, and one of them is a man who has spent fifty-nine days writing down what people may not do, and who was told on a stair last night to go and ask what a person with no work is for, and who has not done it yet, and has fifteen days.

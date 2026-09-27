@@ -2,13 +2,13 @@
 
 On the forty-third day of the month after this one, which was the hundred and thirty-third day of the flood and a Monday, a woman of about thirty-four who keeps a stall by the wharf and a girl of seventeen who had put her own name at the top of a page ten days ago sat down on the back of the stall with a slate between them and found out that the mistake a compact makes is a page with a person's name in every place in it, and neither of them had made the mistake, and both of them had said no to it in about four seconds each, and it is on the page.
 
-**The licence is eighty-three days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-eight days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-fourth time. The black line in his right palm is one hundred and thirty-two days old and has not moved one sixteenth of an inch.**
+The licence is eighty-three days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-eight days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-fourth time. The black line in his right palm is one hundred and thirty-two days old and has not moved one sixteenth of an inch.
 
 ---
 
 The stall was shut and had been shut since the water came up on the twenty-ninth day of the month after this one, and the boards were down and the salt was in a chest under the boards, and the two of them sat on the upturned crate behind it with their backs to a wall, out of the wind, which is the best room in this city in this weather and is not a room.
 
-**And about four people came past the front of that stall on the forty-third day of the month after this one and stopped, and then did not stop, and the reason they did not stop is that a girl of seventeen and a woman of about thirty-four who keeps a stall by the wharf talking to each other on the back of a shut stall is not a thing anybody in this city interrupts, and it has been a rule here for a hundred and thirty-three days without anybody writing it down.**
+And about four people came past the front of that stall on the forty-third day of the month after this one and stopped, and then did not stop, and the reason they did not stop is that a girl of seventeen and a woman of about thirty-four who keeps a stall by the wharf talking to each other on the back of a shut stall is not a thing anybody in this city interrupts, and it has been a rule here for a hundred and thirty-three days without anybody writing it down.
 
 "You have put your name on a page," said the woman.
 
@@ -20,7 +20,7 @@ The stall was shut and had been shut since the water came up on the twenty-ninth
 
 ---
 
-**And then the woman of about thirty-four who keeps a stall by the wharf said the sentence that is the whole of the forty-third day of the month after this one, and it took about nine seconds, and nobody in four hundred miles has improved on it, and it is on a page in a book in this city with a date on it.**
+And then the woman of about thirty-four who keeps a stall by the wharf said the sentence that is the whole of the forty-third day of the month after this one, and it took about nine seconds, and nobody in four hundred miles has improved on it, and it is on a page in a book in this city with a date on it.
 
 "**A compact is a page with a person's name in every place in it.**"
 
@@ -34,7 +34,7 @@ She put her thumb on the slate.
 
 ---
 
-**And a girl of seventeen said the other half, and it is the half that took her the longest and she has said that herself, and it is in the book in her own words and hers alone.**
+And a girl of seventeen said the other half, and it is the half that took her the longest and she has said that herself, and it is in the book in her own words and hers alone.
 
 "**Then nobody writes a compact.**"
 
@@ -54,7 +54,7 @@ Nobody said anything for about nineteen seconds, and the water was against the t
 
 ---
 
-**And then the woman of about thirty-four who keeps a stall by the wharf said what it has cost her to be the person who says the hard thing, and nobody had asked her, and it is in a book with a date on it, and it is four sentences and it is not a speech about anybody.**
+And then the woman of about thirty-four who keeps a stall by the wharf said what it has cost her to be the person who says the hard thing, and nobody had asked her, and it is in a book with a date on it, and it is four sentences and it is not a speech about anybody.
 
 "**I have said no three times in a hundred and thirty-three days and I have said every one of them in a room, in the local language, in front of about nine people. A chair with a date on it. Being made the account of a page. And a name in a compact. That is three rooms and about twenty-seven people and about four of them wrote it down.**"
 
@@ -68,7 +68,7 @@ Nobody improved on that either.
 
 ---
 
-**And about the fourth hour of the afternoon a woman of twenty-four came down the hill with a slate and a book and asked them what they had, and was told, and wrote down four lines and read them back, and did not put a name on them, and then asked the question she had come to ask, which was what a compact says about a person who does not want to be in it.**
+And about the fourth hour of the afternoon a woman of twenty-four came down the hill with a slate and a book and asked them what they had, and was told, and wrote down four lines and read them back, and did not put a name on them, and then asked the question she had come to ask, which was what a compact says about a person who does not want to be in it.
 
 Nobody had an answer to that one for about nine minutes.
 
@@ -84,10 +84,10 @@ Nobody had an answer to that one for about nine minutes.
 
 ---
 
-**And a girl of seventeen wrote the woman's name against one line of a slate in her own hand, and it is on no roll and it is on nothing but a slate on the back of a shut stall by a wharf, and it is the first name a woman of about thirty-four who keeps a stall by the wharf has allowed in a hundred and thirty-three days, and the cost of it is hers and she named it in four seconds, and the finding of the forty-third day of the month after this one is that a person who has refused three things in a row is not safer than a person who has refused none, and that the reason is that a refusal is only a refusal in the room it happened in.**
+And a girl of seventeen wrote the woman's name against one line of a slate in her own hand, and it is on no roll and it is on nothing but a slate on the back of a shut stall by a wharf, and it is the first name a woman of about thirty-four who keeps a stall by the wharf has allowed in a hundred and thirty-three days, and the cost of it is hers and she named it in four seconds, and the finding of the forty-third day of the month after this one is that a person who has refused three things in a row is not safer than a person who has refused none, and that the reason is that a refusal is only a refusal in the room it happened in.
 
 ---
 
-**And nothing else happened on the forty-third day of the month after this one that anybody has written down, and a hearing is in twenty-one days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there seventeen days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five and has not been asked a sixth. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-one days ago, and the water has not been received for sixty-four days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is forty-eight days, and one of the forty has not come for nineteen days and nobody has been told. And a Hearthguard of forty-four has gone twenty-three days without anybody in this city asking him about his own eight, in a room, on a different day. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for forty-eight days, and six disagreements stand. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and thirty-three days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-four, and the count at Aurel is thirteen, and the difference is eleven, and it has never been made smaller. And a Monday on which a woman of about thirty-four who keeps a stall by the wharf allowed one line of a slate to have her name on it, on the back of a shut stall, is the fortieth silence and the pattern is forty for forty.**
+And nothing else happened on the forty-third day of the month after this one that anybody has written down, and a hearing is in twenty-one days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there seventeen days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five and has not been asked a sixth. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-one days ago, and the water has not been received for sixty-four days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is forty-eight days, and one of the forty has not come for nineteen days and nobody has been told. And a Hearthguard of forty-four has gone twenty-three days without anybody in this city asking him about his own eight, in a room, on a different day. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for forty-eight days, and six disagreements stand. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and thirty-three days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-four, and the count at Aurel is thirteen, and the difference is eleven, and it has never been made smaller. And a Monday on which a woman of about thirty-four who keeps a stall by the wharf allowed one line of a slate to have her name on it, on the back of a shut stall, is the fortieth silence and the pattern is forty for forty.
 
-**And the last thing of the forty-third day of the month after this one is a slate on the back of a shut stall with one name on one line of it and a count of nine in a different hand, and the count is a count and not a list, and a hearing is in twenty-one days.**
+And the last thing of the forty-third day of the month after this one is a slate on the back of a shut stall with one name on one line of it and a count of nine in a different hand, and the count is a count and not a list, and a hearing is in twenty-one days.

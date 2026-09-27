@@ -2,11 +2,11 @@
 
 On the third day of the month after this one, which was the ninety-third day of the flood and a Wednesday, a man who had performed a working for the first time in his life in this world came down two hundred steps of a river wall in the wrong weather and could not get to the top of them for about four minutes, and then he stood in the lower gallery in front of a dressed stone and found out in about nine minutes, in daylight, in front of about nine people, what a working had taken off him, and the answer is a person and not a figure, and the person was him.
 
-**The licence is forty-three days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-two days old and has not moved one sixteenth of an inch, and there is nothing in this city that would say by how much it has not moved.**
+The licence is forty-three days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-two days old and has not moved one sixteenth of an inch, and there is nothing in this city that would say by how much it has not moved.
 
 ---
 
-**He had done it yesterday in a converted salt store in front of about two hundred and forty people and he had walked out of the room afterwards and gone up the road to the top of the wall and come down again, and he had slept, and he had not been sick, and there was nothing on him, and it was the first time in ninety-three days that nothing at all had happened to his body and the first time in ninety-three days that something had happened to him.**
+He had done it yesterday in a converted salt store in front of about two hundred and forty people and he had walked out of the room afterwards and gone up the road to the top of the wall and come down again, and he had slept, and he had not been sick, and there was nothing on him, and it was the first time in ninety-three days that nothing at all had happened to his body and the first time in ninety-three days that something had happened to him.
 
 The walk-round is two hundred steps down a river wall with a low parapet and a rail that is half-rotten and condemned, and four people go down it in the wrong weather with a gauge twice a day. He was at about the ninth step from the bottom when his knee went, and he sat down on the stair, which is not a thing anybody in this city does on a walk-round, and about four people who were on the wall above him stopped, and nobody came down.
 
@@ -16,7 +16,7 @@ So they stood on the wall and waited, and it took him about four minutes to get 
 
 ---
 
-**What he could see on the second bay was the pale edge, dressed, and the number, and the two of them at the same time, which he has done since the fourth day of this flood. What he could see that nobody else in the gallery could see was a third thing, and it was not on the wall.**
+What he could see on the second bay was the pale edge, dressed, and the number, and the two of them at the same time, which he has done since the fourth day of this flood. What he could see that nobody else in the gallery could see was a third thing, and it was not on the wall.
 
 "**There is a line in this gallery that I have never seen before,**" he said, "**and it is not in the stone, and it goes from the dressed edge about eleven inches and stops, and it does not go anywhere, and I can see where it would go if it went anywhere, and that is the only reason I know it stops.**"
 
@@ -32,7 +32,7 @@ Nyla Ferrow, seventy, who keeps a floor and has had a nail in an arch for fifty-
 
 ---
 
-**And then, at about the second hour of the afternoon, a woman of about thirty-four who keeps a stall by the wharf asked the question that about nine people in that gallery had been carrying since the first of March, and she asked it because she has been in nine rooms in four days and nobody in any of them has asked her anything, and she asked it in daylight, in front of nine people, and she said afterwards that she was sorry about the room and was not going to apologise twice.**
+And then, at about the second hour of the afternoon, a woman of about thirty-four who keeps a stall by the wharf asked the question that about nine people in that gallery had been carrying since the first of March, and she asked it because she has been in nine rooms in four days and nobody in any of them has asked her anything, and she asked it in daylight, in front of nine people, and she said afterwards that she was sorry about the room and was not going to apologise twice.
 
 "There is no office in Saltwake for a hand that holds things," she said. "**And there has not been one for ninety-three days, and I said on the fifty-eighth day of the new month that a person with no work in this world is the thing the eleventh question was about, and the answer was four words, and they were yours, and they were right.**"
 
@@ -40,7 +40,7 @@ Nyla Ferrow, seventy, who keeps a floor and has had a nail in an arch for fifty-
 
 "Nobody has asked them," said the woman, "**and the man who can now open a single-holder threshold is the man nobody has asked anything, and he is on no roster, and he has no work, and he is not a holder of anything, and I want somebody in this gallery to say out loud what has to be true for a person like him to be allowed to do that, and I do not think anybody in this city knows.**"
 
-**And it took about nine minutes to establish three things, and all three of them are on the page, and none of them is a ceremony, and nobody in that gallery stood up.**
+And it took about nine minutes to establish three things, and all three of them are on the page, and none of them is a ceremony, and nobody in that gallery stood up.
 
 One. **He can open a threshold for one named living person, once, and only if two witnesses who do not live with that person say yes, and only if the place on the other side has agreed to receive them, and only after a fresh inspection, and he may not open the same route twice in a row. That is what a single-holder threshold is and it is four lines and it is not a licence and it is not a page anybody may carry.**
 
@@ -54,13 +54,13 @@ Three. **He has no mark of his own and he is not going to be given one, and Eli 
 
 ---
 
-**At about the third hour of the afternoon, a woman of twenty-nine asked the question that the day turned on, and it is on the page, and she asked it because nobody else in that gallery was going to.**
+At about the third hour of the afternoon, a woman of twenty-nine asked the question that the day turned on, and it is on the page, and she asked it because nobody else in that gallery was going to.
 
 "What did it cost," she said.
 
 "**I do not know,**" said Adrian Vale, "**and I have known that since the fourth hour of yesterday afternoon and I have not slept on it, and I am going to tell you what I do know and then I am going to stop talking.**"
 
-**And what he did know took about nine minutes, and it is on the page in his own words, and about nine people were in that gallery, and nobody may summarise it for him, and it is entered that nobody did.**
+And what he did know took about nine minutes, and it is on the page in his own words, and about nine people were in that gallery, and nobody may summarise it for him, and it is entered that nobody did.
 
 "It is not a door that has closed. I want that first because I have watched this city spend ninety-three days believing that everything is a door.
 
@@ -72,7 +72,7 @@ Three. **He has no mark of his own and he is not going to be given one, and Eli 
 
 ---
 
-**And then the nine people were asked, one at a time, in daylight, in the lower gallery, what he had given up, and it was asked in the local language and then in English, and it was asked by a woman of twenty-four who entered that she was asking because nobody else in the gallery was going to, and that a person who has given something up is the only person in the world who knows what it was.**
+And then the nine people were asked, one at a time, in daylight, in the lower gallery, what he had given up, and it was asked in the local language and then in English, and it was asked by a woman of twenty-four who entered that she was asking because nobody else in the gallery was going to, and that a person who has given something up is the only person in the world who knows what it was.
 
 Eight of the nine could say.
 
@@ -82,7 +82,7 @@ All eight are in the book in their own words and none of them has been improved 
 
 ---
 
-**And the ninth was a man of thirty-five whose right shoulder went on the thirty-first day of this flood, was reduced twice, cannot be set, did not go, was not made whole, and is entered in a page in a stone as a debt with no line that will mend it. He has asked one question in ninety-three days that nobody wanted him to ask and got it asked, on the fifty-eighth day of the new month, which was the eighty-third day of the flood, and a woman of forty-one answered it in nine words because a notary of fifty would not let anybody else do it.**
+And the ninth was a man of thirty-five whose right shoulder went on the thirty-first day of this flood, was reduced twice, cannot be set, did not go, was not made whole, and is entered in a page in a stone as a debt with no line that will mend it. He has asked one question in ninety-three days that nobody wanted him to ask and got it asked, on the fifty-eighth day of the new month, which was the eighty-third day of the flood, and a woman of forty-one answered it in nine words because a notary of fifty would not let anybody else do it.
 
 "**Nobody in this city was told what he had.**"
 
@@ -94,7 +94,7 @@ He wrote it down. **And it is entered that he wrote it down in a column four lin
 
 ---
 
-**And then a notary of fifty said the thing that the eight sentences and the nine words had made, and it took about nine seconds, and about nine people in that gallery were not going to be able to unhear it.**
+And then a notary of fifty said the thing that the eight sentences and the nine words had made, and it took about nine seconds, and about nine people in that gallery were not going to be able to unhear it.
 
 "**Eight people have just said out loud where a man's life is thinner than it was yesterday, and every one of them was asked and every one of them answered, and I have written all eight in their own hands and the ninth in his, and that is a page, and a page is a description, and I have spent twenty-six years telling this city that a description is a removal with a column for where the person is, and there is a column for where eight people are on it, and it is on a slate in a gallery, and it is not going to Aurel, and I would like everybody in this room to notice that the same sentence has been true for ninety-three days and that nobody had ever noticed it until eight people said a sad thing in a row.**"
 
@@ -102,7 +102,7 @@ Nobody argued. **It is entered that about nine people in that gallery understood
 
 ---
 
-**Nothing was gained that anybody can carry away, and the cost is a person, and the person is named on a page in a slate in a gallery, and nobody has asked him anything and nobody is going to.**
+Nothing was gained that anybody can carry away, and the cost is a person, and the person is named on a page in a slate in a gallery, and nobody has asked him anything and nobody is going to.
 
 Adrian Vale is Stage 2, Passage holder, in the doing and not in a ceremony, and nothing in this volume of days will announce it. He can open a single-holder threshold: **one named living person per opening, one return mark carried, willing local witnesses who do not live with the person, and the same route may not be opened twice in a row by him. He has opened none, and there is no clerk in this city who would be told if he did.** He is barred from the trial licence's own rosters, holds no land right and no title and no workway and no seat and no mark of his own, and he is still the man who reads the number off a wall four feet back from it. He does not reach the next stage in this volume and there is no office for what he now is, and there has not been one since the fifty-third day of the new month, and the field that would create one was answered by nobody at all on that day and has not been answered since.
 

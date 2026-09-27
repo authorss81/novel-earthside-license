@@ -2,11 +2,11 @@
 
 On the ninth day of the month after this one, which was the ninety-ninth day of the flood and a Tuesday, the trial licence came up for the flood-season review named on its own page on the twenty-fifth day of the new month, which was the fiftieth day of the flood, forty-nine days before the day it was held, and it survived, and it came out of the room weaker than it went in, and the thing that got weaker was the only part of it that was doing any work, and about nine people in that room noticed and about two hundred and thirty did not, and the door did not open, and the hundredth day is tomorrow.
 
-**The licence is forty-nine days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-eight days old and has not moved one sixteenth of an inch. The fee is owing with no date for the fortieth time.**
+The licence is forty-nine days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-eight days old and has not moved one sixteenth of an inch. The fee is owing with no date for the fortieth time.
 
 ---
 
-**The date was named by nine people who did not know what it would be asked for, and about nine people in this city have said since that a date on a page before the day is the only instrument anybody here has ever built that stops anybody putting a day on something after the day, and that the reason it was a Tuesday in a wet week is that nobody chose it.**
+The date was named by nine people who did not know what it would be asked for, and about nine people in this city have said since that a date on a page before the day is the only instrument anybody here has ever built that stops anybody putting a day on something after the day, and that the reason it was a Tuesday in a wet week is that nobody chose it.
 
 "A review is not a verdict," said Sera Vail, in the flat voice, at about the ninth hour of the morning. "**It is a date. A verdict is a thing a person says about another person. A date is a thing a room keeps. If anybody in this room says the word verdict today I am going to strike it out of my own book in front of about two hundred and forty people, and I have said that in about nine rooms in ninety-nine days and it is the only threat I own.**"
 
@@ -32,7 +32,7 @@ Nobody in that room said anything for about nine seconds, and it is entered that
 
 ---
 
-**And the licence was continued, in a form weaker than the one it went in with, and the pull is not restored, and the seat of holder is still vacant, and no opening is authorised, and the door is shut.**
+And the licence was continued, in a form weaker than the one it went in with, and the pull is not restored, and the seat of holder is still vacant, and no opening is authorised, and the door is shut.
 
 "**The instrument is continued. It is not renewed. It is continued for the term that was on it, with one thing added, and the one thing is the heading, and I am adding it because I have no power not to add it, and I would like the room to notice that I have said that out loud and that the reason I have no power is that nobody in ninety-nine days has written me anything that gives me one.**"
 
@@ -44,7 +44,7 @@ Nobody opened anything. **It is entered that nothing in this city was opened on 
 
 ---
 
-**And the four went down afterwards, because the review requires a fresh inspection and the four have gone down twice a day for ninety-nine days in the wrong weather with a gauge, and the rail is condemned and has been condemned since the fifty-second day of the new month and was found half-rotten then.**
+And the four went down afterwards, because the review requires a fresh inspection and the four have gone down twice a day for ninety-nine days in the wrong weather with a gauge, and the rail is condemned and has been condemned since the fifty-second day of the new month and was found half-rotten then.
 
 They are four and only four, and they are the only four, and a later writer may not name a fifth. **Nyla Ferrow, seventy, who reads the line. Peth Lomas, fifty, a mason, not of the crew, who reads the number. Elsa Skell, forty-four, of Corrow, who reads the edge and came four miles. Renna Ord, fifty-eight, who cannot read and reads the join by standing on it twice a day and knowing whether it has moved, and which she has entered is not reading.**
 
@@ -54,11 +54,11 @@ And they did not agree, for the fourth time since the first of March, and it too
 
 "Say it a fifth," said Peth Lomas, "**I am the one who is a sixteenth under and I have been the one who is a sixteenth under four times and I would like the room to know that I have got no better and I am not going to pretend to.**"
 
-**And it is entered that a woman of forty-four came four miles and did not enter the four miles in the cost column, and that she gave the reason on the page, and that the reason is that the column has eleven entries in one month and no figure on the end of any of them and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason, and that the four miles did not stop, and that she would rather carry it than be the twelfth.**
+And it is entered that a woman of forty-four came four miles and did not enter the four miles in the cost column, and that she gave the reason on the page, and that the reason is that the column has eleven entries in one month and no figure on the end of any of them and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason, and that the four miles did not stop, and that she would rather carry it than be the twelfth.
 
 ---
 
-**And at about the fourth hour of the afternoon a notary of fifty read out what the review had cost, and it took about nineteen minutes, and about nine people in that room understood the whole of it and about two hundred and thirty heard a number.**
+And at about the fourth hour of the afternoon a notary of fifty read out what the review had cost, and it took about nineteen minutes, and about nine people in that room understood the whole of it and about two hundred and thirty heard a number.
 
 Nine Elms' water is not received and has not been received for thirty days, counted from the forty-fourth day of the new month, which was the sixty-ninth day of the flood. The quarter is gone. The fourth line of a term sheet is in force and it is this city's. A village of nine households has refused three times and the credit was refused and the quarter went, and it cannot be refused a fourth time without a document, and the document is the thing that was reviewed this morning, and it went down a river nine days ago, on the eighty-ninth day of the flood, and it is void, and nobody has been told. The whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything. A field of ninety-one acres out of a hundred and forty is not paid. A fee of eleven ounces of silver is owing with no date.
 
@@ -76,4 +76,4 @@ The measurement column has twenty-four readings, both of the last two eight and 
 
 Adrian Vale is Stage 2, Passage holder, in the doing, and holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and he performed no working today. The black line in his right palm is ninety-eight days old and has not moved one sixteenth of an inch. **And there have been twenty-seven things the wall has said in this city, and one of them has now been refused, and a city that reviews a licence and weakens its own protection is an eleventh silence, and the pattern is eleven for eleven.**
 
-**And the four signed the fresh inspection, and the man who reads the number read it off a wall four feet back from it and said it out loud, and the number is eight and seven-eighths, and the number is a number, and the dressed edge is dressed, and there is no field in the air, and the day book says what it cannot do.**
+And the four signed the fresh inspection, and the man who reads the number read it off a wall four feet back from it and said it out loud, and the number is eight and seven-eighths, and the number is a number, and the dressed edge is dressed, and there is no field in the air, and the day book says what it cannot do.

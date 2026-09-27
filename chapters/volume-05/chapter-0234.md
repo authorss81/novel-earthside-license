@@ -4,7 +4,7 @@ The floor of the back room of the store on the upper road was swept for the firs
 
 ---
 
-**And the woman of about thirty-four in that store swept it, and she is on no list in that store and nobody in that building asked her to, and there are eleven sacks along that wall and one sack standing in the middle of the floor with the groove going under it, and it has been standing there since the seventy-first day of that month.**
+And the woman of about thirty-four in that store swept it, and she is on no list in that store and nobody in that building asked her to, and there are eleven sacks along that wall and one sack standing in the middle of the floor with the groove going under it, and it has been standing there since the seventy-first day of that month.
 
 "Nobody asked you to sweep it."
 
@@ -18,7 +18,7 @@ The crust in the groove came up off the boards in a line about the width of a th
 
 ---
 
-**And about four of the twelve sacks in that room have a knot on them that is not the knot on the other eight, and the salt in those four has come up to the stitch line at the mouth and crumbles where you put a thumb on it, and the woman of about thirty-four in that store put those four at the bottom on the fifty-sixth day of that month and has told nobody. About four people in this city have worked out that a woman who can see all four of a thing at once does not need a slate, and about nine of them have worked out that she can count them, and she has never counted them in front of anybody.**
+And about four of the twelve sacks in that room have a knot on them that is not the knot on the other eight, and the salt in those four has come up to the stitch line at the mouth and crumbles where you put a thumb on it, and the woman of about thirty-four in that store put those four at the bottom on the fifty-sixth day of that month and has told nobody. About four people in this city have worked out that a woman who can see all four of a thing at once does not need a slate, and about nine of them have worked out that she can count them, and she has never counted them in front of anybody.
 
 "**That is not off a sack.**"
 
@@ -32,7 +32,7 @@ The crust in the heap went grey where the light from the door came across it and
 
 ---
 
-**And the man of about twenty-seven who washes that store's board stopped in the doorway on his way out with the trough and looked through into the back room at a slate lying face down on a chest, and it is the only page in this city that ever had a date on it that anybody could read, and it went face down on the sixty-fourth day of the Long Month, and nobody has written a replacement. About four people in this city have known that since the sixty-fourth day of that month and about nine of them have stopped bringing nine miles to read it.**
+And the man of about twenty-seven who washes that store's board stopped in the doorway on his way out with the trough and looked through into the back room at a slate lying face down on a chest, and it is the only page in this city that ever had a date on it that anybody could read, and it went face down on the sixty-fourth day of the Long Month, and nobody has written a replacement. About four people in this city have known that since the sixty-fourth day of that month and about nine of them have stopped bringing nine miles to read it.
 
 "You are looking at that."
 
@@ -46,7 +46,7 @@ He went out with the trough and about four people in that back room watched a ma
 
 ---
 
-**And the man of about twenty-seven who washes that store's board came in with the trough under his arm at about the eighth hour and stopped in the doorway, and he has not washed a floor since the fifty-sixth day of that month and he is the only person in that building who washes anything, and the trough is the one that stands under the wall outside.**
+And the man of about twenty-seven who washes that store's board came in with the trough under his arm at about the eighth hour and stopped in the doorway, and he has not washed a floor since the fifty-sixth day of that month and he is the only person in that building who washes anything, and the trough is the one that stands under the wall outside.
 
 "You have taken the dirt out of a groove."
 
@@ -60,7 +60,7 @@ He put the trough down in the doorway and about four people in that back room wa
 
 ---
 
-**And Adrian Vale came in at about the ninth hour and the sack in the middle of that floor had a groove under it about four inches deep at one end and about two at the other and he looked at it for a while and did not lift it, and about four people in that room had been waiting since the seventy-first day of that month for him to lift it and about nine of them had stopped.**
+And Adrian Vale came in at about the ninth hour and the sack in the middle of that floor had a groove under it about four inches deep at one end and about two at the other and he looked at it for a while and did not lift it, and about four people in that room had been waiting since the seventy-first day of that month for him to lift it and about nine of them had stopped.
 
 "You have not lifted it."
 
@@ -74,7 +74,7 @@ He put his hand flat on the boards beside the groove and about four people in th
 
 ---
 
-**And a man of about forty-four who keeps a stall came up that road at about the tenth hour with a slate under his arm and stood in the doorway of that back room and looked at the groove and the heap the sweep had made and about four people in that room knew what he had come up that road for and about nine of them did not.**
+And a man of about forty-four who keeps a stall came up that road at about the tenth hour with a slate under his arm and stood in the doorway of that back room and looked at the groove and the heap the sweep had made and about four people in that room knew what he had come up that road for and about nine of them did not.
 
 "You could put that against a day of the queue."
 
@@ -88,4 +88,4 @@ He put the slate back under his arm and about four people in that back room watc
 
 ---
 
-**And a white crust in the bottom of a groove in a floor, broken into a heap about the length of a sack beside it.**
+And a white crust in the bottom of a groove in a floor, broken into a heap about the length of a sack beside it.

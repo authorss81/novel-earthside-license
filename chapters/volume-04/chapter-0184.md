@@ -8,7 +8,7 @@ There is one day of the quarter left and it is tomorrow, and it is a Sunday, and
 
 Nobody had summoned the meeting-ground and it cannot be summoned, because it is a raft with a roof on it and it has to be poled to where the people are, and a body that floats has to go and find the person, and about four hundred years of the Reed Reach built that rule and it is the only reason the Commons is not a council.
 
-**So somebody has to agree a day with somebody, and both of the men in that room had worked that out on their own, on different days, in different places, and about four people in that workroom have said that this is the first time in a hundred and eighty-eight days that two people who had been arguing for a hundred and eighty-eight days turned up at the same thing by accident.**
+So somebody has to agree a day with somebody, and both of the men in that room had worked that out on their own, on different days, in different places, and about four people in that workroom have said that this is the first time in a hundred and eighty-eight days that two people who had been arguing for a hundred and eighty-eight days turned up at the same thing by accident.
 
 "There is one day of it left," said a man of about thirty-four who keeps a stall.
 
@@ -18,7 +18,7 @@ Nobody had summoned the meeting-ground and it cannot be summoned, because it is 
 
 ---
 
-**And the two things they wanted are here, and neither of them got it, and the room has them in order because a room with a date on it is a room in which a thing gets said in the order it happened.**
+And the two things they wanted are here, and neither of them got it, and the room has them in order because a room with a date on it is a room in which a thing gets said in the order it happened.
 
 The first is that nobody from the store goes to the meeting-ground.
 
@@ -28,7 +28,7 @@ The first is that nobody from the store goes to the meeting-ground.
 
 "**I have got a reason and I have not got a nine-sentence reason and that is a thing I have not said out loud in a room in a hundred and thirty-nine days and I am not going to do it now.**"
 
-**The reason came from the man of about thirty-nine who trades on the Open Hand board, in thirty-one words, and about nine people in that workroom wrote it down and nobody improved on it, and it is on the page because the man of about forty-two did not say it and would have said it wrongly.**
+The reason came from the man of about thirty-nine who trades on the Open Hand board, in thirty-one words, and about nine people in that workroom wrote it down and nobody improved on it, and it is on the page because the man of about forty-two did not say it and would have said it wrongly.
 
 "**He sent people with bars on Saturday and nine of the flats pulled the same rope. If he sends anybody to a raft it is a fact that he was there.**"
 
@@ -44,7 +44,7 @@ The second is that the store shuts.
 
 ---
 
-**And the man of about thirty-two asked for one thing and got it, and got it in a form he did not ask for, and the form it came in is the reason he has not been able to use it.**
+And the man of about thirty-two asked for one thing and got it, and got it in a form he did not ask for, and the form it came in is the reason he has not been able to use it.
 
 "I want four days' notice," he said, "**before anything goes to a meeting-ground. Four days, in writing, to about nine people, with the words in my own hand and not read out of a page, and a date on it, and I will not break it.**"
 
@@ -66,19 +66,19 @@ Jonah Pike wrote something on a printed sheet, which is his, and has been his si
 
 ---
 
-**And the man of about thirty-two took the page and read it and did not say whether it was enough, and the thing that is settled is a date, and neither of them won it, and the reason neither of them won it is that a man of about forty-two has never once in a hundred and thirty-nine days been on his side, and a man of about thirty-two has not been on his own side since the sixty-fourth day of the month after this one, and the two of them arrived at a Sunday in about four minutes each from opposite ends of a question.**
+And the man of about thirty-two took the page and read it and did not say whether it was enough, and the thing that is settled is a date, and neither of them won it, and the reason neither of them won it is that a man of about forty-two has never once in a hundred and thirty-nine days been on his side, and a man of about thirty-two has not been on his own side since the sixty-fourth day of the month after this one, and the two of them arrived at a Sunday in about four minutes each from opposite ends of a question.
 
 "Six days after the quarter runs out."
 
 "**Six days after. I did not choose that and I want that in whatever you have got. I chose a Sunday because about a hundred and forty people work on a Tuesday and a Sunday is the day they do not, and the seventh day from now is the first Sunday, and the quarter running out in between has nothing to do with it.**"
 
-**And a man of about thirty-nine who trades on the Open Hand board said the sentence that about four people in that workroom have said is the reason the whole of a hundred and eighty-eight days ended on a Sunday, and he said it without naming a gate, a household or a person, and he has not improved on it since.**
+And a man of about thirty-nine who trades on the Open Hand board said the sentence that about four people in that workroom have said is the reason the whole of a hundred and eighty-eight days ended on a Sunday, and he said it without naming a gate, a household or a person, and he has not improved on it since.
 
 "**Nobody chose it. A day that both of them found is a day that a raft can be poled to, and that is the only instrument that has ever worked on that water and it is not a compromise and it is not a fudge and it is not a page, and about four people in this room have spent a hundred and eighty-eight days waiting for one of those and it is a Tuesday coming.**"
 
 ---
 
-**One thing was said in that workroom that nobody had asked for, and it was eight words long and it came from a man of about forty-four who keeps a stall, and it is eight words, and about four people in that room have written it down and nobody has told anybody.**
+One thing was said in that workroom that nobody had asked for, and it was eight words long and it came from a man of about forty-four who keeps a stall, and it is eight words, and about four people in that room have written it down and nobody has told anybody.
 
 "**He is going to stand at the back.**"
 
@@ -94,7 +94,7 @@ Nobody asked him how he knew.
 
 ---
 
-**And at about the sixth hour of the evening a girl of seventeen who is on no roll of anything was at the top of nine miles of road with a slate under her arm and a man of about thirty-two next to her, and neither of them said one word about the date, and what she said was about a different day, and it is in a book in this city in her own words and nobody improved on it.**
+And at about the sixth hour of the evening a girl of seventeen who is on no roll of anything was at the top of nine miles of road with a slate under her arm and a man of about thirty-two next to her, and neither of them said one word about the date, and what she said was about a different day, and it is in a book in this city in her own words and nobody improved on it.
 
 "Your twenty-five ends tomorrow."
 
@@ -104,4 +104,4 @@ Nobody asked him how he knew.
 
 "**I do not know. And I have been asked that in a yard and in a gateway and in a room over a market and I have said no four times, and I am not going to say it a fifth time in a fortnight to a person who has not been asked whether today suits her, and she is seventeen and I have said that out loud before and I am saying it again because I want it on a page that is not a page.**"
 
-**A printed sheet with a man's name at the top of it, a day on it, and about a hundred and forty people's day on it, and nothing else on it.**
+A printed sheet with a man's name at the top of it, a day on it, and about a hundred and forty people's day on it, and nothing else on it.

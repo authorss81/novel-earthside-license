@@ -4,7 +4,7 @@ A rod was lying flat in the cracked bottom of a cut on the Reach at about the se
 
 ---
 
-**And he is a man of about thirty-two who has no mark and no workway and no title and no seat and is on no roster of anything, and this is the seventh Monday in a row that he has stood on that bank, and the six Mondays before this one were the forty-first, the forty-eighth, the fifty-fifth, the sixty-second, the sixty-ninth and the seventy-sixth day of the Long Month, and the nearest of the six was seven days back. About four people at the top of that cut had counted them and about nine of them had not, and he has said in a market that he is not going to be a different one because somebody came up eleven miles to ask him in a better light.**
+And he is a man of about thirty-two who has no mark and no workway and no title and no seat and is on no roster of anything, and this is the seventh Monday in a row that he has stood on that bank, and the six Mondays before this one were the forty-first, the forty-eighth, the fifty-fifth, the sixty-second, the sixty-ninth and the seventy-sixth day of the Long Month, and the nearest of the six was seven days back. About four people at the top of that cut had counted them and about nine of them had not, and he has said in a market that he is not going to be a different one because somebody came up eleven miles to ask him in a better light.
 
 "You went down."
 
@@ -14,7 +14,7 @@ He went down the side the water used to come in on and about four people at the 
 
 ---
 
-**And at the bottom of that cut there is a rack standing at the edge with the rope coiled on the top length that a man carried down a bank and refused to put in on the seventy-fifth day of that month, and there is a second hole nine feet from the one everybody measures with about a thumb's depth of the flats in the bottom of it and a rod standing in that. There is a rod lying flat in a crack about eleven feet further in, and none of the three things was moved by anybody this morning.**
+And at the bottom of that cut there is a rack standing at the edge with the rope coiled on the top length that a man carried down a bank and refused to put in on the seventy-fifth day of that month, and there is a second hole nine feet from the one everybody measures with about a thumb's depth of the flats in the bottom of it and a rod standing in that. There is a rod lying flat in a crack about eleven feet further in, and none of the three things was moved by anybody this morning.
 
 "**That hole is done.**"
 
@@ -28,7 +28,7 @@ He put his hand flat on the cracked bed of that cut and the bed rang under his p
 
 ---
 
-**And a woman of about thirty-nine who cannot get a rack above her shoulder was at the top of that bank at about the ninth hour and had been there since the seventh, and she has a refusal with a date on it that she has not shown anybody, and he has said in a market that he is not going to be the man who walks up nine feet and asks a woman whether a thing she said on a date is still the thing she says on the date, and he did not walk up nine feet, and he went down.**
+And a woman of about thirty-nine who cannot get a rack above her shoulder was at the top of that bank at about the ninth hour and had been there since the seventh, and she has a refusal with a date on it that she has not shown anybody, and he has said in a market that he is not going to be the man who walks up nine feet and asks a woman whether a thing she said on a date is still the thing she says on the date, and he did not walk up nine feet, and he went down.
 
 "You came down instead of up."
 
@@ -40,7 +40,7 @@ He put his hand flat on the cracked bed of that cut and the bed rang under his p
 
 ---
 
-**And a man who has carried racks up and down that cut since the second month of this flood was at the top of that bank at about the tenth hour and had come down it to the edge of the bottom and had put his hand on the rack and had not moved it, and a rack is four lengths of wood and a rope and four people, and about nine of the racks that can be worked in this city are on somebody's rota and this one is not. About four people at the top of that cut have known that since the seventy-second day of that month and about nine of them have only known that there is a rack.**
+And a man who has carried racks up and down that cut since the second month of this flood was at the top of that bank at about the tenth hour and had come down it to the edge of the bottom and had put his hand on the rack and had not moved it, and a rack is four lengths of wood and a rope and four people, and about nine of the racks that can be worked in this city are on somebody's rota and this one is not. About four people at the top of that cut have known that since the seventy-second day of that month and about nine of them have only known that there is a rack.
 
 "**That rack is not going in.**"
 
@@ -54,7 +54,7 @@ He took his hand off the top length of that rack and about four people at the to
 
 ---
 
-**And a man of about fifty-two who digs came up that bank at about the eleventh hour and went down it and stood next to him and neither of them said anything for about as long as it takes to walk back up a bank, and the man of about fifty-two looked at the dust in the second hole and at the rack at the edge and at the rod in the crack and about four people at the top of that cut had been counting the days since that man said four weeks in a market on the forty-seventh day of that month and about nine of them had not.**
+And a man of about fifty-two who digs came up that bank at about the eleventh hour and went down it and stood next to him and neither of them said anything for about as long as it takes to walk back up a bank, and the man of about fifty-two looked at the dust in the second hole and at the rack at the edge and at the rod in the crack and about four people at the top of that cut had been counting the days since that man said four weeks in a market on the forty-seventh day of that month and about nine of them had not.
 
 "That is eight days."
 
@@ -68,7 +68,7 @@ He went back up the bank and did not say anything else, and about four people at
 
 ---
 
-**And the man of about thirty-two was still standing in the bottom of that cut when the light came off the flats and went up the far side, and about four people at the top of that cut had been counting the Mondays since the forty-first day of the Long Month and about nine of them had not, and he had come down a bank on the seventh Monday of them and had not come up it, and the second hole was a thumb's depth of dust and a rod was standing in it and a rod was lying flat in a crack about eleven feet further in and a rack was at the edge with the rope coiled on the top length. Nobody had moved the rack or the rod, and the hole had gone by itself.**
+And the man of about thirty-two was still standing in the bottom of that cut when the light came off the flats and went up the far side, and about four people at the top of that cut had been counting the Mondays since the forty-first day of the Long Month and about nine of them had not, and he had come down a bank on the seventh Monday of them and had not come up it, and the second hole was a thumb's depth of dust and a rod was standing in it and a rod was lying flat in a crack about eleven feet further in and a rack was at the edge with the rope coiled on the top length. Nobody had moved the rack or the rod, and the hole had gone by itself.
 
 "You have been down there an hour."
 
@@ -82,4 +82,4 @@ He went up the bank at about the twelfth hour and about four people at the top o
 
 ---
 
-**And a man standing in the cracked bed of a cut with the light going up the far side of it, and nothing in his hands.**
+And a man standing in the cracked bed of a cut with the light going up the far side of it, and nothing in his hands.

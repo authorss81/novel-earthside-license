@@ -4,7 +4,7 @@ A gap about the width of a person had been left on the boards of a stall by a wh
 
 ---
 
-**And the girl of seventeen came along the front of those boards at about the sixth hour of the evening with a broom and stopped at the gap, and about four people in that market had seen her stop there the four times she had come at it since the eighty-first day of that month, and the rest of that market had not been in it at six hour on any day at all.**
+And the girl of seventeen came along the front of those boards at about the sixth hour of the evening with a broom and stopped at the gap, and about four people in that market had seen her stop there the four times she had come at it since the eighty-first day of that month, and the rest of that market had not been in it at six hour on any day at all.
 
 "That is two sweeps behind."
 
@@ -18,7 +18,7 @@ She put the head of the broom on the boards at the near end of the gap and pushe
 
 ---
 
-**And a man came along the front of that stall at about the sixth hour with a basket on his arm and put his near foot straight down into the gap and put his other foot out flat to stop himself going over, and about nine people in that market saw a man put his foot in a place where there was nothing to be, and the rest of that market had been in it long enough to know what it was.**
+And a man came along the front of that stall at about the sixth hour with a basket on his arm and put his near foot straight down into the gap and put his other foot out flat to stop himself going over, and about nine people in that market saw a man put his foot in a place where there was nothing to be, and the rest of that market had been in it long enough to know what it was.
 
 "**And I have swept this stall at the end of every market day for about four years and I have never once had to decide about a gap, and about four people in this market have worked out that a girl of seventeen who decides about gaps is a girl who is going to be asked about them, and nobody has worked out that nobody has asked me about this one and I have told the whole of it to a girl of seventeen and a bag of salt.**"
 
@@ -34,7 +34,7 @@ He got himself upright, laughed at nothing in particular, and put his basket on 
 
 ---
 
-**And the woman of about thirty-four who keeps that stall had been standing at the back of her own boards through all of it with her arms crossed, and she had not said one word until the girl had put the broom back in its corner against the wall.**
+And the woman of about thirty-four who keeps that stall had been standing at the back of her own boards through all of it with her arms crossed, and she had not said one word until the girl had put the broom back in its corner against the wall.
 
 "You will not do it again."
 
@@ -48,7 +48,7 @@ She put her hand flat on the top of the bag where the sacking had gone stiff, an
 
 ---
 
-**And about four people in that market came past that gap on their way out and went round it, and going round it took them the width of a person in a market that is four streets from a room over a market, and the rest of that market went round it without knowing there was anything to go round.**
+And about four people in that market came past that gap on their way out and went round it, and going round it took them the width of a person in a market that is four streets from a room over a market, and the rest of that market went round it without knowing there was anything to go round.
 
 "That is a hole in your boards."
 
@@ -60,7 +60,7 @@ She put her hand flat on the top of the bag where the sacking had gone stiff, an
 
 ---
 
-**And the woman of about thirty-four who keeps that stall put her hand on the bag at about the seventh hour and then took it off, and about four people in that market had been waiting seven days for her to do that, and the rest had worked out in advance that she would do it and be told not to, and she was not told.**
+And the woman of about thirty-four who keeps that stall put her hand on the bag at about the seventh hour and then took it off, and about four people in that market had been waiting seven days for her to do that, and the rest had worked out in advance that she would do it and be told not to, and she was not told.
 
 "You have touched it."
 
@@ -76,7 +76,7 @@ She put her hand flat on the top of the bag where the sacking had gone stiff, an
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from that market stopped at the front of that stall at about the seventh hour with a basket on her arm and looked at the gap and then at the bag and then said a thing that about four people in that row heard and nobody repeated.**
+And a woman of about fifty-six who keeps a shop four streets down from that market stopped at the front of that stall at about the seventh hour with a basket on her arm and looked at the gap and then at the bag and then said a thing that about four people in that row heard and nobody repeated.
 
 "Two days of wind on that cloth and I have not shaken it out."
 
@@ -90,7 +90,7 @@ She went four streets down to her own shop with her nine measures still hard und
 
 ---
 
-**And the girl of seventeen came back at about the seventh hour to put the stall's awning down and found the grit in that gap had a skin on it, and she stood looking at it for about as long as it takes to fold an awning and then she did the awning instead and left the grit, and about nine feet of the front of that stall went into the dark with a finger of the flats in it.**
+And the girl of seventeen came back at about the seventh hour to put the stall's awning down and found the grit in that gap had a skin on it, and she stood looking at it for about as long as it takes to fold an awning and then she did the awning instead and left the grit, and about nine feet of the front of that stall went into the dark with a finger of the flats in it.
 
 "You will tell me in the morning."
 
@@ -102,7 +102,7 @@ She went four streets down to her own shop with her nine measures still hard und
 
 ---
 
-**And the boards of that stall had been swept at the sixth hour for about nine years and a girl of seventeen had been doing it for about four of them, and the boards under the front rail were the colour of boards that get wet, and the grit in the gap was the colour of the flats.**
+And the boards of that stall had been swept at the sixth hour for about nine years and a girl of seventeen had been doing it for about four of them, and the boards under the front rail were the colour of boards that get wet, and the grit in the gap was the colour of the flats.
 
 "How do you do the front."
 
@@ -118,4 +118,4 @@ She went four streets down to her own shop with her nine measures still hard und
 
 ---
 
-**And a finger of grit in the bottom of a gap about the width of a person, with nothing put in it and no hand on it.**
+And a finger of grit in the bottom of a gap about the width of a person, with nothing put in it and no hand on it.

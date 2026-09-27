@@ -2,11 +2,11 @@
 
 On the twelfth day of the month after this one, which was the hundred and second day of the flood and a Friday, about nine people stood in a converted salt store in a yard under a lock chapel and tried for about nine minutes to find out how a page had ended a document, and they did not find out, and the failure was written down with the date on it, and the page was not opened and is not going to be opened, and the number of rooms in this city that have now tried is five.
 
-**The licence is fifty-two days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-third time. The black line in his right palm is one hundred and one days old and has not moved one sixteenth of an inch.**
+The licence is fifty-two days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-third time. The black line in his right palm is one hundred and one days old and has not moved one sixteenth of an inch.
 
 ---
 
-**Five things were tried in nine minutes, and every one of them was a fair thing to try, and every one of them ran out in about a minute and a half, and the room got no further with the fifth than it did with the first, and nobody in that room pretended afterwards that the fifth had been closer.**
+Five things were tried in nine minutes, and every one of them was a fair thing to try, and every one of them ran out in about a minute and a half, and the room got no further with the fifth than it did with the first, and nobody in that room pretended afterwards that the fifth had been closer.
 
 The first thing they tried was what the page says, and the outside of the page is in the book, and it is a heading and seven lines, and it was read back in the local language and then in English, and nobody changed a word of it, and there is nobody in four hundred miles who is qualified to change a word of it.
 
@@ -32,7 +32,7 @@ The first thing they tried was what the page says, and the outside of the page i
 
 ---
 
-**The second thing they tried was what it was laid on, and the answer was a barrel, and a salt store floor, and a yard under a chapel, and a woman of seventy who has washed that floor every Thursday morning for fifty-one years and re-limed it twice since the first day of the month after this one.**
+The second thing they tried was what it was laid on, and the answer was a barrel, and a salt store floor, and a yard under a chapel, and a woman of seventy who has washed that floor every Thursday morning for fifty-one years and re-limed it twice since the first day of the month after this one.
 
 "Thursday," said Nyla Ferrow, seventy, who keeps the floor. "**I have washed that floor on Thursdays since before your mother was born and I washed it on the Thursday in between, and the floor is not evidence of anything and neither is the barrel, and if any one of you had come and asked me for a scrape of it on the second day of the month after this one I would have given it to you, and I did not know to.**"
 
@@ -42,7 +42,7 @@ The first thing they tried was what the page says, and the outside of the page i
 
 ---
 
-**The third thing they tried was who was in the room, and that one turned out to be the only part of the whole of it that anybody can check, and it turned out to be true and completely empty, and a man of thirty-one with a hand that will not close got further with it in one sentence than the rest of the room got in eight minutes.**
+The third thing they tried was who was in the room, and that one turned out to be the only part of the whole of it that anybody can check, and it turned out to be true and completely empty, and a man of thirty-one with a hand that will not close got further with it in one sentence than the rest of the room got in eight minutes.
 
 Nine people. All named in a book. All still living in this city or within four miles of it. A keeper of seventy. A mason of fifty who is not of the crew. A woman of forty-four who came four miles and would not enter the four miles anywhere. A Hearthguard of forty-four. A notary of fifty. A woman of twenty-four. A woman of seventy of Nine Elms who said yes against her own village's interest. A man of sixty-one who said yes before he was asked. And a docker of fifty-eight who cannot read, who named herself, and whose name may be taken back, and which nobody has taken back.
 
@@ -54,7 +54,7 @@ Nobody improved on it. It was not written down, and it is entered that it was no
 
 ---
 
-**The fourth thing they tried was the document, and that one worked, and it took about four minutes, and it is the only thing anybody in this city can hold in their hands about the twelfth day of the month after this one, and holding it is what made the fifth thing impossible.**
+The fourth thing they tried was the document, and that one worked, and it took about four minutes, and it is the only thing anybody in this city can hold in their hands about the twelfth day of the month after this one, and holding it is what made the fifth thing impossible.
 
 A thing that argues for itself is a thing you can check. A thing that is silent can only be believed. The undertaking said out loud in its own first sentence that it was a body and not a person, and it was silent for nineteen years about who would stand at the top of it, and an undertaking is not in force until a person stands at the top of it and answers for it alone. The condition was in the first sentence. The condition was not met. The whole of it took about nineteen minutes in a room with about two hundred and forty people in it and nobody was convicted of anything, and the paper is on a nail in an arch, dry, unmarked, with the string untouched, and the only place in four hundred miles where the voidness exists is a book in this city in a notary's hand.
 
@@ -68,7 +68,7 @@ A thing that argues for itself is a thing you can check. A thing that is silent 
 
 ---
 
-**And they tried the fifth thing. It is the thing that has been tried in five rooms in a hundred and two days, and the morning's contribution to it was that the room noticed it, and the morning's other contribution was a man of sixty-one who has copied other men's sentences for nineteen years and who said, in sixteen words, the whole of what is left.**
+And they tried the fifth thing. It is the thing that has been tried in five rooms in a hundred and two days, and the morning's contribution to it was that the room noticed it, and the morning's other contribution was a man of sixty-one who has copied other men's sentences for nineteen years and who said, in sixteen words, the whole of what is left.
 
 "Why," said the man of thirty-two.
 
@@ -84,7 +84,7 @@ And then nobody said anything for about nineteen seconds, and a man of forty-one
 
 ---
 
-**And the count of rooms was entered, because a girl of seventeen entered everything, and it is four, and this morning is the fifth, and the four are named because a city that has failed at a thing four times and has never written the four down is a city that will fail at it a fifth time in the same place.**
+And the count of rooms was entered, because a girl of seventeen entered everything, and it is four, and this morning is the fifth, and the four are named because a city that has failed at a thing four times and has never written the four down is a city that will fail at it a fifth time in the same place.
 
 One. **The salt store on the first day of the month after this one, which was the ninety-first day of the flood.** Nine witnesses, a page drawn in about eleven minutes, and nobody asked what it was, including the man who drew it, including the man who named the thing it was aimed at, and including a man of forty-one who said two words in that room four days early and asked for all three of those things to be written down.
 
@@ -98,7 +98,7 @@ Four. **The room where the licence was reviewed on the ninth day of the month af
 
 ---
 
-**And then a docker of fifty-eight who cannot read asked the question that a hundred and two days of this city had been standing behind without knowing it, and she asked it in about four seconds, and it is hers, and nobody improved on it.**
+And then a docker of fifty-eight who cannot read asked the question that a hundred and two days of this city had been standing behind without knowing it, and she asked it in about four seconds, and it is hers, and nobody improved on it.
 
 "A form can be refused," she said. "**A slate can be read. A page in a stone can be taken down on a date. A room can be asked a question. And that page is a thing nobody in this city knows how to ask, and it has been sitting in a locked room nine feet from where we are standing for ten days, and the reason nobody has asked it anything is not fear. It is that every one of us has been waiting to be in the room when somebody else does it first. And I have watched four hundred men do that and I have never once watched a woman do it.**"
 
@@ -114,4 +114,4 @@ Nobody asked her anything else. **And the page stayed shut, and the salt store w
 
 Adrian Vale is Stage 2, Passage holder, in the doing, and holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and performed no working today. **There have been twenty-seven things the wall has said in this city, one of them has been refused, and a room in which nine people failed at a page for nine minutes and entered the failure is a thirteenth silence, and the pattern is thirteen for thirteen.** The black line in his right palm is one hundred and one days old and has not moved one sixteenth of an inch.
 
-**And a room is a thing that can be asked and a door is a thing that can be asked, and about nine people went down two hundred steps of a river wall on the morning of the thirteenth day of the month after this one to find out whether a gate is the same kind of thing as a page. It is. Nobody opened it.**
+And a room is a thing that can be asked and a door is a thing that can be asked, and about nine people went down two hundred steps of a river wall on the morning of the thirteenth day of the month after this one to find out whether a gate is the same kind of thing as a page. It is. Nobody opened it.

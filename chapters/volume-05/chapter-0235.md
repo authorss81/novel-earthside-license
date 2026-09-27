@@ -4,7 +4,7 @@ The wet stripe on the boards of the yard of the house at the bottom of the Redro
 
 ---
 
-**And a woman of about fifty-nine who keeps that house came out onto the step and stood on it and looked down at four boards and did not go down into the yard, and a boy of eight came out behind her and stood on the step and looked down at them too, and there is one step in that yard with any sun on it and the sun had not come on to it yet.**
+And a woman of about fifty-nine who keeps that house came out onto the step and stood on it and looked down at four boards and did not go down into the yard, and a boy of eight came out behind her and stood on the step and looked down at them too, and there is one step in that yard with any sun on it and the sun had not come on to it yet.
 
 "**It has gone.**"
 
@@ -18,7 +18,7 @@ She sat down on the step after that and about four people in that yard saw her d
 
 ---
 
-**And a woman of about thirty-four in that house came out onto the step at about the eighth hour, and she is the youngest person in that house and she has been on no rota since the seventh week of this flood, and she went down into the yard and looked at the four inches and did not put anything near them.**
+And a woman of about thirty-four in that house came out onto the step at about the eighth hour, and she is the youngest person in that house and she has been on no rota since the seventh week of this flood, and she went down into the yard and looked at the four inches and did not put anything near them.
 
 "**I am not going to scrub that out.**"
 
@@ -32,7 +32,7 @@ She put her own foot down on the boards beside the four inches and about four pe
 
 ---
 
-**And a woman of about thirty-nine who cannot get a rack above her shoulder was in that yard at about the ninth hour and had come down the bank from the top of the cut, and she has been at the top of that cut about four times since the fifty-ninth day of that month and she has a refusal with a date on it that she has not shown anybody. About four people in that cut have known that since the fifty-ninth day of that month, and about nine of them have only known that she asked.**
+And a woman of about thirty-nine who cannot get a rack above her shoulder was in that yard at about the ninth hour and had come down the bank from the top of the cut, and she has been at the top of that cut about four times since the fifty-ninth day of that month and she has a refusal with a date on it that she has not shown anybody. About four people in that cut have known that since the fifty-ninth day of that month, and about nine of them have only known that she asked.
 
 "You came down for this."
 
@@ -46,7 +46,7 @@ She looked at the four inches for a while and then she looked at the boards on e
 
 ---
 
-**And the boy of eight went out into that yard at about the tenth hour and untied a length of rope off a wall and tied it again and came back in, and it is about nine years old and it is not tied to anything and about nine people in this city know that and about four of them have said it out loud and nobody has said it in this yard, and he has untied it and tied it again every morning since the seventy-fourth day of that month and he did it with his teeth in the end of it this morning and his hands had gone white at the rope about halfway.**
+And the boy of eight went out into that yard at about the tenth hour and untied a length of rope off a wall and tied it again and came back in, and it is about nine years old and it is not tied to anything and about nine people in this city know that and about four of them have said it out loud and nobody has said it in this yard, and he has untied it and tied it again every morning since the seventy-fourth day of that month and he did it with his teeth in the end of it this morning and his hands had gone white at the rope about halfway.
 
 "That rope."
 
@@ -60,7 +60,7 @@ The boy came back in and the boards under his feet were the colour of the boards
 
 ---
 
-**And the woman of about thirty-nine who cannot get a rack above her shoulder asked the woman of about thirty-four in that house one question at about the eleventh hour, and it is the first question anybody has asked in that yard since the seventy-fourth day of that month, and it was about four inches of a corner and it was not about a sack.**
+And the woman of about thirty-nine who cannot get a rack above her shoulder asked the woman of about thirty-four in that house one question at about the eleventh hour, and it is the first question anybody has asked in that yard since the seventy-fourth day of that month, and it was about four inches of a corner and it was not about a sack.
 
 "Is it going to go."
 
@@ -74,7 +74,7 @@ Nobody in that yard said anything after that and about four people in it were st
 
 ---
 
-**And a woman of about fifty-nine who keeps that house said four sentences at about the tenth hour and about nine people at the bottom of that bank heard all four of them, and the fourth one was about a corner of a sack and the first three were about a bank, and nobody in that yard asked her a question about any of it.**
+And a woman of about fifty-nine who keeps that house said four sentences at about the tenth hour and about nine people at the bottom of that bank heard all four of them, and the fourth one was about a corner of a sack and the first three were about a bank, and nobody in that yard asked her a question about any of it.
 
 "**A man carried four of these up this bank and told nobody where they came from, and I have not asked him where they came from once in nineteen days, and the days went back on the forty-first day of the Long Month, unasked, on a flat, in daylight, and the sack did not stop. I have had four sacks come up that bank inside nineteen days and I have had six days of a sack not coming up that bank, and about four people in this city have worked out that I have a number and about nine of them have worked out that the number is the only thing in this yard anybody has, and it is not, because there are four inches of a corner on my boards and the number is not on them.**"
 
@@ -86,4 +86,4 @@ Nobody came up that bank for the rest of that day and about four people in that 
 
 ---
 
-**And four inches of a corner on four boards at the bottom of a bank, in a yard where the boards have gone the colour of the boards under them.**
+And four inches of a corner on four boards at the bottom of a bank, in a yard where the boards have gone the colour of the boards under them.

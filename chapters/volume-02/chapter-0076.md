@@ -2,11 +2,11 @@
 
 On the fifty-first day of the new month, which was the seventy-sixth day of the flood and a Sunday, about forty people met in a converted salt store to write down what a review had changed, and a notary of fifty said in nine words that the instrument she had written was worse than the one she had been asked to write, and then spent the whole day finding out whether worse and honest are the same thing, and in the evening a keeper of about seventy read one new line out in an empty yard to nine people, and one of the nine was a docker of fifty-eight who cannot read, and she asked whether it was on the slate, and she was told that it was on the page and not on the slate, and that this was on purpose.
 
-**The licence is twenty-six days old. The review is behind this city. March is nine days off. A season of a field four miles down the Reach road is still unpaid and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.**
+The licence is twenty-six days old. The review is behind this city. March is nine days off. A season of a field four miles down the Reach road is still unpaid and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.
 
 ---
 
-**The notary said it in the first four minutes, standing up, before she had sat down, and she said it again at the seventh hour of the evening and it was the same nine words both times:**
+The notary said it in the first four minutes, standing up, before she had sat down, and she said it again at the seventh hour of the evening and it was the same nine words both times:
 
 > **This instrument is weaker than the one it replaces.**
 
@@ -18,7 +18,7 @@ Nobody argued with that, because she had written it and she was the notary and i
 
 Then she put the two instruments side by side on a trestle, and about forty people looked at them for about nine minutes, and the whole of the day's argument is what they found.
 
-**The first difference is the weakest thing anybody in that room had ever seen and it took them nine minutes to say it out loud. The instrument that went in on the twenty-fifth day of the new month had a figure-shaped hole in it. The instrument that came out of yesterday has the hole described.**
+The first difference is the weakest thing anybody in that room had ever seen and it took them nine minutes to say it out loud. The instrument that went in on the twenty-fifth day of the new month had a figure-shaped hole in it. The instrument that came out of yesterday has the hole described.
 
 The old one said: *the cost of this instrument is entered at its present size and a season of the bottom field is carried against it, and no figure is on the end of it.*
 
@@ -34,7 +34,7 @@ Nobody argued with that either, and it is entered, and the notary entered that a
 
 ---
 
-**Somebody proposed three, at about the second hour of the afternoon, and it was refused in about nine minutes, and the reason is a sentence from the fortieth day of this flood and it has been in the book since.**
+Somebody proposed three, at about the second hour of the afternoon, and it was refused in about nine minutes, and the reason is a sentence from the fortieth day of this flood and it has been in the book since.
 
 The licence says four to authorise and two to open. Four is the quorum that authorised the route on the fourth day of this flood and four does not change and cannot; two is the count required per opening, and the argument for the reduction is Nell Bray's and it is the volume's standing argument: **a working can be made cheaper without being made private.** A boy of nineteen was asked for nothing and came anyway, and that is the proof of it.
 
@@ -52,7 +52,7 @@ Nell Bray is a docker in a felt hat of about sixty. She was not in the room. She
 
 ---
 
-**And then the thing that was added was not a number, and it is the first thing in seventy-six days that anybody in this city has added to an instrument for the benefit of a person who is not a witness, and it took about four hours and it nearly did not go in at all.**
+And then the thing that was added was not a number, and it is the first thing in seventy-six days that anybody in this city has added to an instrument for the benefit of a person who is not a witness, and it took about four hours and it nearly did not go in at all.
 
 It came from the keeper, and she is seventy and she has had a nail under the chapel arch for fifty-one years and a form on it with four items and a price written under them, and the fifth item was added on the twenty-fourth day of the new month and is the only one of the five that is a question and not a duty.
 
@@ -68,13 +68,13 @@ Nobody in that room had an answer to that, and it is entered that nobody had an 
 
 ---
 
-**So the line is this, and it went on the same page as the question and the answer of yesterday, and not on a separate sheet, because a notary insisted on that in about nine seconds and gave a reason that is in the book:**
+So the line is this, and it went on the same page as the question and the answer of yesterday, and not on a separate sheet, because a notary insisted on that in about nine seconds and gave a reason that is in the book:
 
 > **The person this instrument costs may be asked, once, on a named day, in daylight, in a room, and the answer may be no.**
 >
 > **The refusal is entered. The asking is not repeated on a second day. The person is not entered on any roll by having been asked, and the answer is not a fault and is not a wage and does not go in the roll.**
 
-**And one of the nine names who may stop the working is entered, in her own words, as somebody who may also ask the question.**
+And one of the nine names who may stop the working is entered, in her own words, as somebody who may also ask the question.
 
 She is Renna Ord, fifty-eight, who cannot read, and she is the only one of the nine who is named by herself, and the only one whose name may be taken back, and she read the line out in the local language twice and asked for it to be read to her in English as well, and then she said sixteen words and they are in the book as her sentence and she asked for the striking of the other three of the nine to be left alone.
 
@@ -82,7 +82,7 @@ She is Renna Ord, fifty-eight, who cannot read, and she is the only one of the n
 
 ---
 
-**And the day is not on the line, and the day is the whole of the argument, and it took about nine minutes and the room nearly lost the line over it.**
+And the day is not on the line, and the day is the whole of the argument, and it took about nine minutes and the room nearly lost the line over it.
 
 "There is no date," said Sera Vail.
 
@@ -96,11 +96,11 @@ She is Renna Ord, fifty-eight, who cannot read, and she is the only one of the n
 
 And it is a day a person can be at, and it is named, and it is the reason the line went in at all, and it is a Sunday seven days from today, which is a market day and a day the eleven of the second list are all awake, and it is entered that about nine people worked out the date in about four minutes and that the reason it is a Sunday is that a person who has been asked nothing for seventy-six days can turn up to a market on a Sunday without anybody noticing that they turned up.
 
-**And the cost column was entered for the tenth time in one month, at about the sixth hour of the afternoon, and it has no figure on the end of it, and it is entered that the tenth entry is smaller than the ninth and that a smaller entry is not a cheaper column.**
+And the cost column was entered for the tenth time in one month, at about the sixth hour of the afternoon, and it has no figure on the end of it, and it is entered that the tenth entry is smaller than the ninth and that a smaller entry is not a cheaper column.
 
 ---
 
-**And at about the ninth hour of the evening, in an empty yard under the lock chapel, a keeper of about seventy read one line out to nine people, and one of the nine was a docker of fifty-eight who cannot read.**
+And at about the ninth hour of the evening, in an empty yard under the lock chapel, a keeper of about seventy read one line out to nine people, and one of the nine was a docker of fifty-eight who cannot read.
 
 She had been asked to come and she came and she stood at the back with her hood up, and the keeper read the line out in the local language, at the ordinary volume, in the way she reads the binding, and then a mason of fifty read it in English for the four people who do not speak it.
 
@@ -132,4 +132,4 @@ Then the docker of fifty-eight asked the question, and it is in the book, and it
 
 ---
 
-**Nothing was gained and one line was added. A notary of fifty entered that the instrument she wrote is worse than the one she was asked to write, in nine words, twice. A number was proposed and refused and the refusal is in the book with a docker's name on it and the reason is hers. The cost column is entered for the tenth time in one month and has no figure on the end of it and the tenth entry is smaller than the ninth and a smaller entry is not a cheaper column. A day is named and the day is seven days from now. The review's eleventh question and the review's eleventh answer are on the same page and not on a separate sheet, and the answer is four words long and it is not a noun. A person of the nine who may stop the working is entered as somebody who may also ask the question, in her own words, in sixteen words, and she asked for the other three to be left alone and nobody has touched them. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence twenty-six days old and is given nothing by it. He performed no working today. The black line in his right palm is seventy-five days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the column and it is not filled and it is not going to be filled. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the seventeenth time. March is nine days off. The door is shut.**
+Nothing was gained and one line was added. A notary of fifty entered that the instrument she wrote is worse than the one she was asked to write, in nine words, twice. A number was proposed and refused and the refusal is in the book with a docker's name on it and the reason is hers. The cost column is entered for the tenth time in one month and has no figure on the end of it and the tenth entry is smaller than the ninth and a smaller entry is not a cheaper column. A day is named and the day is seven days from now. The review's eleventh question and the review's eleventh answer are on the same page and not on a separate sheet, and the answer is four words long and it is not a noun. A person of the nine who may stop the working is entered as somebody who may also ask the question, in her own words, in sixteen words, and she asked for the other three to be left alone and nobody has touched them. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence twenty-six days old and is given nothing by it. He performed no working today. The black line in his right palm is seventy-five days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the column and it is not filled and it is not going to be filled. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the seventeenth time. March is nine days off. The door is shut.

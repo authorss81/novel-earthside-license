@@ -4,7 +4,7 @@ A coil of rope on the top length of a rack at the edge of the bottom of the Redr
 
 ---
 
-**And the rack is still at the edge of the bottom of that cut with the top length of it bare where the coil was, and the rack is not in the cut and has not been in the cut, and the man who carries racks was about nine feet up that bank with both hands inside his coat.**
+And the rack is still at the edge of the bottom of that cut with the top length of it bare where the coil was, and the rack is not in the cut and has not been in the cut, and the man who carries racks was about nine feet up that bank with both hands inside his coat.
 
 "That rope is mine."
 
@@ -16,7 +16,7 @@ A coil of rope on the top length of a rack at the edge of the bottom of the Redr
 
 ---
 
-**And she got to the foot of that bank at about the seventh hour and stood in the dust at the bottom of it and looked at nine feet of rope lying along a channel that has not held water since the forty-first day of that month, and the rope was stiff along its whole length and grey with the same dust as the floor of the cut.**
+And she got to the foot of that bank at about the seventh hour and stood in the dust at the bottom of it and looked at nine feet of rope lying along a channel that has not held water since the forty-first day of that month, and the rope was stiff along its whole length and grey with the same dust as the floor of the cut.
 
 "Do not touch it yet."
 
@@ -30,7 +30,7 @@ She crouched where the rope went under a root and got her fingers under it a han
 
 ---
 
-**And the man who carries racks came down four steps of that bank at about the eighth hour, which is as far as he has gone on it since the seventy-second day of that month, and he looked at the rope on the ground and then at the top length of his own rack.**
+And the man who carries racks came down four steps of that bank at about the eighth hour, which is as far as he has gone on it since the seventy-second day of that month, and he looked at the rope on the ground and then at the top length of his own rack.
 
 "A coil opens wrong."
 
@@ -44,7 +44,7 @@ He went back up the four steps and stood where he had been standing and did not 
 
 ---
 
-**And Adrian Vale came down that bank at about the eighth hour because there was a rope on it and he is a person who goes to a thing, and the rope was not his and the bank was not his and the rack was not his, and he turned his hand over on the way down because the grit had got into the seam of it.**
+And Adrian Vale came down that bank at about the eighth hour because there was a rope on it and he is a person who goes to a thing, and the rope was not his and the bank was not his and the rack was not his, and he turned his hand over on the way down because the grit had got into the seam of it.
 
 > **A thing that has gone over an edge of its own accord has not been given up by anybody.**
 
@@ -52,7 +52,7 @@ He read it twice on that bank with the wind at his back, and it did not tell him
 
 ---
 
-**And the woman of about thirty-nine rolled the coil on its side against the foot of the bank and pushed it four inches at a time until it lay along the channel the way rope lies when nobody has opened it, which is not the way it lay on the top length of that rack.**
+And the woman of about thirty-nine rolled the coil on its side against the foot of the bank and pushed it four inches at a time until it lay along the channel the way rope lies when nobody has opened it, which is not the way it lay on the top length of that rack.
 
 "**Nine feet of rope, and it has come apart about a foot from the end, and the foot of it is lying along a channel that has not held water since the forty-first day of that month, and about four people on this bank have worked out that a rope in a dry channel is a rope in a dry channel, and nobody has worked out that it is going to be on a rack again by the tenth hour.**"
 
@@ -66,7 +66,7 @@ He read it twice on that bank with the wind at his back, and it did not tell him
 
 ---
 
-**And the woman of about thirty-nine said four things at the foot of that bank to nobody in particular between the eighth hour and the ninth hour, and about four people on that bank heard three of them and the rest heard none, and none of the four was a question.**
+And the woman of about thirty-nine said four things at the foot of that bank to nobody in particular between the eighth hour and the ninth hour, and about four people on that bank heard three of them and the rest heard none, and none of the four was a question.
 
 "A rack is four lengths of wood and a rope and four people."
 
@@ -82,7 +82,7 @@ He read it twice on that bank with the wind at his back, and it did not tell him
 
 ---
 
-**And Adrian Vale was still on that bank at about the ninth hour and had not offered to lift the coil, and the woman of about thirty-nine looked up at him from the foot of it for about the length of a breath and then asked him why, in a yard, in daylight, on the eighty-seventh day of that month.**
+And Adrian Vale was still on that bank at about the ninth hour and had not offered to lift the coil, and the woman of about thirty-nine looked up at him from the foot of it for about the length of a breath and then asked him why, in a yard, in daylight, on the eighty-seventh day of that month.
 
 "You did not offer."
 
@@ -100,13 +100,13 @@ He put his hand in his pocket and left it there for the rest of the hour, and ab
 
 ---
 
-**And the light came off eleven miles of flats at about the ninth hour and went up the far side of that cut, and the rope lay in the dust at the bottom of it, and nobody came down that bank again that day, and the dust began at about the south end of the coil and worked along it the way dust does on a rope that nobody has moved.**
+And the light came off eleven miles of flats at about the ninth hour and went up the far side of that cut, and the rope lay in the dust at the bottom of it, and nobody came down that bank again that day, and the dust began at about the south end of the coil and worked along it the way dust does on a rope that nobody has moved.
 
 The man of about thirty-nine went up the bank at about the ninth hour and went along the top of it and did not look down, and the man who carries racks went with her for about nine feet and then stopped and let her go on, and neither of them said a word about the rope on the ground or the bare length on the rack, and the two of them were the only people on that bank who had said nothing about it at all.
 
 ---
 
-**And the man of about fifty-two who digs came to the top of that bank at about the ninth hour of that morning and looked at the two people on it and at the channel below and did not go down, and about four people at the top of that cut had been waiting since the seventy-eighth day of that month for him to say what the one thing was, and nobody asked him.**
+And the man of about fifty-two who digs came to the top of that bank at about the ninth hour of that morning and looked at the two people on it and at the channel below and did not go down, and about four people at the top of that cut had been waiting since the seventy-eighth day of that month for him to say what the one thing was, and nobody asked him.
 
 "You came up."
 
@@ -124,4 +124,4 @@ He looked down the bank at nine feet of rope in the dust and did not ask about t
 
 ---
 
-**And a bare top length on a rack at the edge of the cut, with nothing coiled on it and nothing under it either.**
+And a bare top length on a rack at the edge of the cut, with nothing coiled on it and nothing under it either.

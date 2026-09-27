@@ -4,7 +4,7 @@ A man of about thirty-one with a hand that will not close put a sack of salt dow
 
 ---
 
-**And he has had that sack for twelve days, and it came out of the settlement's chest on the fifty-sixth day of the Long Month in a yard in daylight in front of about nine people, and he was one of about a hundred and forty people it came out to, and he has not opened it. There is no seam undone on it and the knot on it is the knot it came out of the chest with.**
+And he has had that sack for twelve days, and it came out of the settlement's chest on the fifty-sixth day of the Long Month in a yard in daylight in front of about nine people, and he was one of about a hundred and forty people it came out to, and he has not opened it. There is no seam undone on it and the knot on it is the knot it came out of the chest with.
 
 "You want it opened."
 
@@ -16,7 +16,7 @@ A man of about thirty-one with a hand that will not close put a sack of salt dow
 
 ---
 
-**And the woman of about thirty-four who keeps that stall came out from behind it with a slate in her hand that she has carried for nine years and has never written on, and she did not touch the sack. She has been on a page since the forty-fifth day of the Long Month and it is twenty-three days, and about four people in this city know what that is and about nine of them do not, and she asked in advance not to be thanked and has not been.**
+And the woman of about thirty-four who keeps that stall came out from behind it with a slate in her hand that she has carried for nine years and has never written on, and she did not touch the sack. She has been on a page since the forty-fifth day of the Long Month and it is twenty-three days, and about four people in this city know what that is and about nine of them do not, and she asked in advance not to be thanked and has not been.
 
 "That is yours."
 
@@ -30,7 +30,7 @@ She put both hands flat on the boards on either side of the sack and did not put
 
 ---
 
-**And a man of about thirty-four who keeps a stall came down those four streets at about the ninth hour with a board under his arm and stopped at about nine feet, and he has not put a sentence on a page since the fiftieth day of the Long Month and the posting on that wall nine miles up the road is twenty-two days old and has not made a wage.**
+And a man of about thirty-four who keeps a stall came down those four streets at about the ninth hour with a board under his arm and stopped at about nine feet, and he has not put a sentence on a page since the fiftieth day of the Long Month and the posting on that wall nine miles up the road is twenty-two days old and has not made a wage.
 
 "You have not opened it."
 
@@ -42,7 +42,7 @@ She put both hands flat on the boards on either side of the sack and did not put
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from that market came along the boards at about the ninth hour and looked at the sack and did not touch it either, and she has said more about the prices on that page than anybody in this city and she said four sentences about this and none of them was about the sack.**
+And a woman of about fifty-six who keeps a shop four streets down from that market came along the boards at about the ninth hour and looked at the sack and did not touch it either, and she has said more about the prices on that page than anybody in this city and she said four sentences about this and none of them was about the sack.
 
 "My salt did this on the thirty-ninth day of that month."
 
@@ -64,7 +64,7 @@ Nobody in that market said anything. A gull went over the wharf and the water un
 
 ---
 
-**And the man of about thirty-one with a hand that will not close put his sack back down on the boards at about the ninth hour and asked the one question he had come four streets for, and about nine people in that market heard it and about four of them answered.**
+And the man of about thirty-one with a hand that will not close put his sack back down on the boards at about the ninth hour and asked the one question he had come four streets for, and about nine people in that market heard it and about four of them answered.
 
 "How many came out of that chest."
 
@@ -90,7 +90,7 @@ The woman of about thirty-four who keeps that stall said one sentence after that
 
 ---
 
-**And the man of about thirty-four who keeps a stall asked her, at about the tenth hour, whether the sack could be left on her boards until the morning, and she said no in one word and then said the rest of it standing behind her own counter with the slate still in her hand.**
+And the man of about thirty-four who keeps a stall asked her, at about the tenth hour, whether the sack could be left on her boards until the morning, and she said no in one word and then said the rest of it standing behind her own counter with the slate still in her hand.
 
 "No."
 
@@ -102,7 +102,7 @@ The woman of about thirty-four who keeps that stall said one sentence after that
 
 ---
 
-**And a man of about forty-four who keeps a stall was in that market at about the tenth hour and he made a copy of the front of a page onto the back of a slate on a table in that same market on the forty-fifth day of the Long Month because he thought a page ought to be in two places, and he said no to a third one on the sixty-first day of that month, and he came down to the wharf on this Sunday with nothing in his hands for the first time since the forty-fourth day of the Long Month.**
+And a man of about forty-four who keeps a stall was in that market at about the tenth hour and he made a copy of the front of a page onto the back of a slate on a table in that same market on the forty-fifth day of the Long Month because he thought a page ought to be in two places, and he said no to a third one on the sixty-first day of that month, and he came down to the wharf on this Sunday with nothing in his hands for the first time since the forty-fourth day of the Long Month.
 
 "You are not carrying anything."
 
@@ -114,8 +114,8 @@ The woman of about thirty-four who keeps that stall said one sentence after that
 
 ---
 
-**And a man of about thirty-nine who trades on the Open Hand board was not in that market and had not come down the four streets, and about four people in this city have said since that he was on the upper road at the ninth hour of the morning with a bag against his chest and about nine of them have not worked out where he was.**
+And a man of about thirty-nine who trades on the Open Hand board was not in that market and had not come down the four streets, and about four people in this city have said since that he was on the upper road at the ninth hour of the morning with a bag against his chest and about nine of them have not worked out where he was.
 
 ---
 
-**And a sack went off a wet board and up four streets with its knot on, and nobody in four hundred miles knows how many came out of that chest.**
+And a sack went off a wet board and up four streets with its knot on, and nobody in four hundred miles knows how many came out of that chest.

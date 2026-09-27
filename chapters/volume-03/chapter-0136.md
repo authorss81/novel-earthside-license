@@ -2,13 +2,13 @@
 
 On the forty-sixth day of the month after this one, which was the hundred and thirty-sixth day of the flood and a Thursday, a girl of seventeen walked four miles in the wrong weather back to the ninth kitchen of nine and did not ask the question, on purpose, and was told why by a person who had been waiting eleven days to be asked it, and the finding of the forty-sixth day of the month after this one is that a refusal that was never asked for is not a refusal, and that a list of remarks is a description, and that the number nine stays nine with nobody at the top of it.
 
-**The licence is eighty-six days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-one days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-seventh time. The black line in his right palm is one hundred and thirty-five days old and has not moved one sixteenth of an inch.**
+The licence is eighty-six days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-one days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-seventh time. The black line in his right palm is one hundred and thirty-five days old and has not moved one sixteenth of an inch.
 
 ---
 
 She had been to nine kitchens in ten days, between the thirty-fifth day of the month after this one and the forty-fourth, and she had written nothing down about any of them, and there is a slate in this city with a date on it and no name and no list on it that says so.
 
-**And on the forty-sixth day she went back to the ninth one, four miles, in the wrong weather, on foot, and the reason is on the page in her own words and it is eleven words long: *I want to be asked not to have asked.***
+And on the forty-sixth day she went back to the ninth one, four miles, in the wrong weather, on foot, and the reason is on the page in her own words and it is eleven words long: *I want to be asked not to have asked.*
 
 "You have not asked me anything," said the woman at the ninth kitchen, before she had the door all the way open.
 
@@ -18,11 +18,11 @@ She had been to nine kitchens in ten days, between the thirty-fifth day of the m
 
 ---
 
-**And the four miles are the first part of what happened, and about half of it is that a person of seventeen who is on no roll of anything walked four miles in the wrong weather to say a sentence of eleven words, and there is no instrument in four hundred miles for a person doing that for herself.**
+And the four miles are the first part of what happened, and about half of it is that a person of seventeen who is on no roll of anything walked four miles in the wrong weather to say a sentence of eleven words, and there is no instrument in four hundred miles for a person doing that for herself.
 
 The Reach road has about nine hundred yards of it in flood and a mile and more of it that is not flood and is simply bad, and she had done it eleven times in ten days and she had done every one of them alone, because a person on no roll who is seen going round nine kitchens in a week is a person being described by about four neighbours who do not mean anything by it.
 
-**And at about the two-mile mark she stopped in the middle of the road and said out loud to nobody the eleven words, to hear whether they were the right eleven words, and they were, and it is entered that a person of seventeen has been practising sentences alone on a road in this city, and that nobody knew about it, and that nobody is going to be told.**
+And at about the two-mile mark she stopped in the middle of the road and said out loud to nobody the eleven words, to hear whether they were the right eleven words, and they were, and it is entered that a person of seventeen has been practising sentences alone on a road in this city, and that nobody knew about it, and that nobody is going to be told.
 
 "**A practice is a toll,**" she said, out loud, at about the two-mile mark, on the forty-sixth day of the month after this one, and nobody heard it, because there was nobody there, and that is the reason she said it.
 
@@ -30,7 +30,7 @@ The Reach road has about nine hundred yards of it in flood and a mile and more o
 
 ---
 
-**And the woman at that door said the thing that is the whole of the forty-sixth day of the month after this one, and it took her about nine seconds, and she said it standing in her own doorway, and nobody has improved on it.**
+And the woman at that door said the thing that is the whole of the forty-sixth day of the month after this one, and it took her about nine seconds, and she said it standing in her own doorway, and nobody has improved on it.
 
 "**I have been ready since the fortieth day of this flood. I have had it ready for forty-nine days. And nobody in this city has ever asked me one question about anything, and I am not complaining about that, because I did not ask either, and a household is a person and a person can refuse and refusing is a thing you do when somebody asks you.**"
 
@@ -40,7 +40,7 @@ The Reach road has about nine hundred yards of it in flood and a mile and more o
 
 ---
 
-**And the girl of seventeen said it back to her in about four seconds, and it is on the page, and it is the finding of the day, and nobody in this city had said it before.**
+And the girl of seventeen said it back to her in about four seconds, and it is on the page, and it is the finding of the day, and nobody in this city had said it before.
 
 "**It is not one, because a refusal answers a question. You have not been asked anything. So there is no question and there is no answer and there is no refusal, and what there is, is a person who has thought about it for forty-nine days, which is a different and better thing and it does not have a shape anybody in four hundred miles can use.**"
 
@@ -58,7 +58,7 @@ Nobody said anything for about nineteen seconds and the water was somewhere belo
 
 ---
 
-**And then the girl of seventeen said the part she had walked four miles to say, and it took her about four minutes, and a docker of fifty-eight who cannot read had it read out to her twice on the way back and did not check it either time.**
+And then the girl of seventeen said the part she had walked four miles to say, and it took her about four minutes, and a docker of fifty-eight who cannot read had it read out to her twice on the way back and did not check it either time.
 
 "**I have got nine of something and it is not nine of anything. Eight households said something to me at a door and one household said nothing and I did not ask any of them a question, and a thing said at a door when you were not asked is a remark, and nine remarks are not nine answers, and if I write down one word of what any of them said then I have made nine answers, and nine answers is a list.**"
 
@@ -76,7 +76,7 @@ Nobody said anything for about nineteen seconds and the water was somewhere belo
 
 ---
 
-**And a man of thirty-two, who is on no roster of anything and who has entered with the date on it that he has not asked one person one question in a hundred and thirty-six days, said four things in that room and the fourth of them is the one on the page.**
+And a man of thirty-two, who is on no roster of anything and who has entered with the date on it that he has not asked one person one question in a hundred and thirty-six days, said four things in that room and the fourth of them is the one on the page.
 
 "**I could ask all nine of them tomorrow and it would take a day and a half and it would be the first real question anybody in this city has asked anybody in a hundred and thirty-six days, and I am not going to, and I have thought about it for two days and a half and I want the reason entered while I still know it.**"
 
@@ -92,6 +92,6 @@ It was entered.
 
 ---
 
-**And nothing else happened on the forty-sixth day of the month after this one that anybody has written down, and a hearing is in eighteen days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five, and on the forty-fourth day of the month after this one she refused an answer four people had agreed she would give. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-four days ago, and the water has not been received for sixty-seven days counted from the sixty-ninth day of this flood, and the fourth line of a term sheet is in force and the undertaking that would have paid for it is void and no office has been told. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-one days, and one of the forty has not come for twenty-two days and nobody has been told, on purpose, and one of the other thirty-nine was paid one day out of a stall on the forty-fifth day of the month after this one with the payer's name on the slate and his own name off it. And a Hearthguard of forty-four has gone twenty-six days without anybody in this city asking him about his own eight, in a room, on a different day. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-one days, and six disagreements stand. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and thirty-six days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-four, and the count at Aurel is thirteen, and the difference is eleven, and it has never been made smaller. And a Thursday on which nine remarks were found to be nine answers and the number stayed at nine is the forty-third silence and the pattern is forty-three for forty-three.**
+And nothing else happened on the forty-sixth day of the month after this one that anybody has written down, and a hearing is in eighteen days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five, and on the forty-fourth day of the month after this one she refused an answer four people had agreed she would give. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-four days ago, and the water has not been received for sixty-seven days counted from the sixty-ninth day of this flood, and the fourth line of a term sheet is in force and the undertaking that would have paid for it is void and no office has been told. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-one days, and one of the forty has not come for twenty-two days and nobody has been told, on purpose, and one of the other thirty-nine was paid one day out of a stall on the forty-fifth day of the month after this one with the payer's name on the slate and his own name off it. And a Hearthguard of forty-four has gone twenty-six days without anybody in this city asking him about his own eight, in a room, on a different day. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-one days, and six disagreements stand. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and thirty-six days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-four, and the count at Aurel is thirteen, and the difference is eleven, and it has never been made smaller. And a Thursday on which nine remarks were found to be nine answers and the number stayed at nine is the forty-third silence and the pattern is forty-three for forty-three.
 
-**And the last thing of the forty-sixth day of the month after this one is a door four miles up a road that a girl of seventeen stood in front of twice and did not put a hand to, and a number nine on a page with a date on it and nobody at the top of it, and a hearing in eighteen days.**
+And the last thing of the forty-sixth day of the month after this one is a door four miles up a road that a girl of seventeen stood in front of twice and did not put a hand to, and a number nine on a page with a date on it and nobody at the top of it, and a hearing in eighteen days.

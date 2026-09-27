@@ -4,7 +4,7 @@ The line that had been going round that sack in the yard of the store on the upp
 
 ---
 
-**And the man of about thirty-nine who trades on the Open Hand board was at the gate of that yard by the ninth hour, the third time he has come up that road since the eighty-sixth day of that month, and he did not come in past the boards, and nobody has worked out that a man who comes nine miles three times in ten days is a man who cannot stop coming.**
+And the man of about thirty-nine who trades on the Open Hand board was at the gate of that yard by the ninth hour, the third time he has come up that road since the eighty-sixth day of that month, and he did not come in past the boards, and nobody has worked out that a man who comes nine miles three times in ten days is a man who cannot stop coming.
 
 "You have come to look at the sack."
 
@@ -20,7 +20,7 @@ The line that had been going round that sack in the yard of the store on the upp
 
 ---
 
-**And the store was open on that morning in the ordinary course and there was no queue in that yard at all, and about four people came up that road before the ninth hour and did business and went away again, and the rest came up that road and went round a sack without knowing why they were going round it.**
+And the store was open on that morning in the ordinary course and there was no queue in that yard at all, and about four people came up that road before the ninth hour and did business and went away again, and the rest came up that road and went round a sack without knowing why they were going round it.
 
 "You have not sold anything today."
 
@@ -32,7 +32,7 @@ The line that had been going round that sack in the yard of the store on the upp
 
 ---
 
-**And the man of about twenty-seven washed that board at about the eighth hour and left the figures of the sixty-ninth day of that month standing on it, and above that board there was one line on the wall where there had been nine, and he hung the cloth on the rim of the trough and stood about nine feet back and looked at the two of them together for about as long as it takes to fill a pail.**
+And the man of about twenty-seven washed that board at about the eighth hour and left the figures of the sixty-ninth day of that month standing on it, and above that board there was one line on the wall where there had been nine, and he hung the cloth on the rim of the trough and stood about nine feet back and looked at the two of them together for about as long as it takes to fill a pail.
 
 "Two pages."
 
@@ -44,7 +44,7 @@ The line that had been going round that sack in the yard of the store on the upp
 
 ---
 
-**And the woman of about thirty-four in that store was at the back of that yard at about the eighth hour with a pail in each hand and looked at nine feet of ground with a sack standing in it, and she did not go out onto it, and a woman will walk round a sack, and she will walk round nine feet of ground as well.**
+And the woman of about thirty-four in that store was at the back of that yard at about the eighth hour with a pail in each hand and looked at nine feet of ground with a sack standing in it, and she did not go out onto it, and a woman will walk round a sack, and she will walk round nine feet of ground as well.
 
 "**And I have been asked three times in the ten days that ground has been standing there why I will not go out onto it and I have answered none of the three, and a woman who answers none of three is a woman who is building something, and she is not building anything. She is waiting for the man who put that sack down to say one word about it.**"
 
@@ -62,13 +62,13 @@ She said that to the boards of that yard and then she went in, and about four pe
 
 ---
 
-**And a beam stood in the middle of that yard with a man's coat held over the pan on it at two corners, and that coat had been on that pan since the ninety-third day of that month, and the wind has been at that wall since the seventy-fourth day of that month and has got under the hem of it and lifted it and let it down, and the coat has not gone off the pan, and the sack was still on its island, and nobody in that yard counted what was under it.**
+And a beam stood in the middle of that yard with a man's coat held over the pan on it at two corners, and that coat had been on that pan since the ninety-third day of that month, and the wind has been at that wall since the seventy-fourth day of that month and has got under the hem of it and lifted it and let it down, and the coat has not gone off the pan, and the sack was still on its island, and nobody in that yard counted what was under it.
 
 She came back inside at about the tenth hour and put her hands on the edge of the trough and left them there, and the eleven sacks along the wall of that back room had not been counted then or on any day in that month, and the groove in that floor with the crust of salt in the bottom of it was still four inches deep at the end the sacks go down at, and about four people in this city have worked out that a groove in a floor is a record of a habit and nobody has worked out that nobody in that building knows which sack the record is of.
 
 ---
 
-**And about four people came up that road at about the tenth hour and stopped at the gate of that yard to look at nine feet of ground with a sack standing in the middle of it, and everybody else went on up to the door, and nobody went in past the boards, and the four at that gate had been waiting two days for the man of about thirty-nine to come up and put his arms round that sack and take it inside, and the others had stopped waiting on the ninety-first day of that month.**
+And about four people came up that road at about the tenth hour and stopped at the gate of that yard to look at nine feet of ground with a sack standing in the middle of it, and everybody else went on up to the door, and nobody went in past the boards, and the four at that gate had been waiting two days for the man of about thirty-nine to come up and put his arms round that sack and take it inside, and the others had stopped waiting on the ninety-first day of that month.
 
 "They are looking at the ground."
 
@@ -82,7 +82,7 @@ He said the one thing to the boards of that yard and it was about four words lon
 
 ---
 
-**And the man of about twenty-seven put the trough back under the wall at about the tenth hour and hung the cloth on it and stood with his back to the wall looking at the two things on that wall above him, and the store was open and there was one person in it and the person was not buying anything.**
+And the man of about twenty-seven put the trough back under the wall at about the tenth hour and hung the cloth on it and stood with his back to the wall looking at the two things on that wall above him, and the store was open and there was one person in it and the person was not buying anything.
 
 "You are looking at the wall again."
 
@@ -102,4 +102,4 @@ He said the one thing to the boards of that yard and it was about four words lon
 
 ---
 
-**And nine feet of ground in a yard that had not been walked on, with a sack standing in the middle of it.**
+And nine feet of ground in a yard that had not been walked on, with a sack standing in the middle of it.

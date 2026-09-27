@@ -4,7 +4,7 @@ A man of about thirty-two came down the bank of the cut on the Reed Reach on the
 
 ---
 
-**And the woman of about thirty-nine who cannot get a rack above her shoulder was at the top of that bank when he went down and was still at the top of it when he came up, and she did not ask him a question on either of the two trips, and about four people at the top of that cut have noticed that and nobody else has.**
+And the woman of about thirty-nine who cannot get a rack above her shoulder was at the top of that bank when he went down and was still at the top of it when he came up, and she did not ask him a question on either of the two trips, and about four people at the top of that cut have noticed that and nobody else has.
 
 "You went down for that."
 
@@ -20,7 +20,7 @@ A man of about thirty-two came down the bank of the cut on the Reed Reach on the
 
 ---
 
-**And he had the coil in his two hands at the bottom of that cut and the dust had got into it and it came apart about a foot from the end, and the length of it that came off lay along the floor of the cut in a shape that nothing had made.**
+And he had the coil in his two hands at the bottom of that cut and the dust had got into it and it came apart about a foot from the end, and the length of it that came off lay along the floor of the cut in a shape that nothing had made.
 
 "It is stiff."
 
@@ -34,7 +34,7 @@ He got his fingers under the coil at four points along it and lifted it off the 
 
 ---
 
-**And there was a rod lying flat in a crack in the floor of that cut where a man had put it on the sixty-ninth day of that month and had not picked it up since, and he went past it twice and did not touch it, and there was about a thumb's depth of the same dust in the crack around it that is in every other crack in that floor.**
+And there was a rod lying flat in a crack in the floor of that cut where a man had put it on the sixty-ninth day of that month and had not picked it up since, and he went past it twice and did not touch it, and there was about a thumb's depth of the same dust in the crack around it that is in every other crack in that floor.
 
 "**And it has been in that crack since the sixty-ninth day of that month and there is about a thumb of the flats in the crack around it now, and about four people in this city have worked out that a rod left flat in a crack is a rod somebody meant to come back for, and nobody has worked out that I have not come back for it in twenty-one days and I have come down that bank twice since the fifty-ninth day of that month.**"
 
@@ -48,7 +48,7 @@ He got his fingers under the coil at four points along it and lifted it off the 
 
 ---
 
-**And the man who carries racks came to the top of that bank at about the tenth hour and looked at the coil on the top length of his own rack, and it was not the coil that had been on it on the eighty-third day of that month, and he did not touch it, and he did not say one word about it to the man of about thirty-two or to the woman of about thirty-nine or to anybody.**
+And the man who carries racks came to the top of that bank at about the tenth hour and looked at the coil on the top length of his own rack, and it was not the coil that had been on it on the eighty-third day of that month, and he did not touch it, and he did not say one word about it to the man of about thirty-two or to the woman of about thirty-nine or to anybody.
 
 "That is not the coil I left."
 
@@ -60,7 +60,7 @@ He got his fingers under the coil at four points along it and lifted it off the 
 
 ---
 
-**And the man of about thirty-two said a thing to nobody at about the tenth hour of that morning while the other two were looking at a coil of rope, and about four people at the top of that cut heard all of it and the rest heard nothing, and it was the only thing he had said all morning that was not a reply.**
+And the man of about thirty-two said a thing to nobody at about the tenth hour of that morning while the other two were looking at a coil of rope, and about four people at the top of that cut heard all of it and the rest heard nothing, and it was the only thing he had said all morning that was not a reply.
 
 "I stand up here on a Monday because it is a Monday."
 
@@ -74,13 +74,13 @@ She did not answer him and he did not say anything else, and about four people a
 
 ---
 
-**And the top length of that rack had nine feet of rope on it at about the tenth hour with the tie in a place it was not tied before, and the rack was still at the edge of the cut and still not in it, and the woman of about thirty-nine did not come down that bank again.**
+And the top length of that rack had nine feet of rope on it at about the tenth hour with the tie in a place it was not tied before, and the rack was still at the edge of the cut and still not in it, and the woman of about thirty-nine did not come down that bank again.
 
 He looked at the coil from about four feet off for a while and then he reached out and took the loose end and pulled it a hand's width tighter and left it, and that was the only thing anybody did to that rack on the ninetieth day of the Long Month, and the light went off the flats at about the eleventh hour and the dust in the bottom of that cut began at the south end of the floor and worked its way up the cut the way it does.
 
 ---
 
-**And the man of about thirty-two went up that bank at about the eleventh hour on the ninetieth day of that month with dust on both knees, and the woman of about thirty-nine went along the top of the cut with him for about nine feet and then stopped, and neither of them looked down at the coil on the rack.**
+And the man of about thirty-two went up that bank at about the eleventh hour on the ninetieth day of that month with dust on both knees, and the woman of about thirty-nine went along the top of the cut with him for about nine feet and then stopped, and neither of them looked down at the coil on the rack.
 
 "Your knees."
 
@@ -94,7 +94,7 @@ She stopped at the place about nine feet along the top of that cut where the ban
 
 ---
 
-**And the cut at the bottom of that Reach has eleven miles of flats above it and about four hundred and forty racks on them, and the whole of that salt is dried by people who are paid in it for a buyer nine hundred miles away, and about four people at the top of that cut had worked out in the last four days that a rope on a rack at the edge of a cut is the only thing in eleven miles that nobody has an owner for.**
+And the cut at the bottom of that Reach has eleven miles of flats above it and about four hundred and forty racks on them, and the whole of that salt is dried by people who are paid in it for a buyer nine hundred miles away, and about four people at the top of that cut had worked out in the last four days that a rope on a rack at the edge of a cut is the only thing in eleven miles that nobody has an owner for.
 
 "You could tell the buyer."
 
@@ -106,4 +106,4 @@ She stopped at the place about nine feet along the top of that cut where the ban
 
 ---
 
-**And a coil of rope on a rack at the edge of a cut, tied the way a person ties one when he has done it once.**
+And a coil of rope on a rack at the edge of a cut, tied the way a person ties one when he has done it once.

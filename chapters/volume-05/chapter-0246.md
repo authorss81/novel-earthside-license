@@ -4,7 +4,7 @@ A queue formed in the yard of the store on the upper road at about the seventh h
 
 ---
 
-**And the man of about thirty-nine who trades on the Open Hand board came up that road at about the seventh hour and stood at the gate of that yard and looked at six days of wind in the boards under a sack he carried nine miles, and he did not go in and pick it up.**
+And the man of about thirty-nine who trades on the Open Hand board came up that road at about the seventh hour and stood at the gate of that yard and looked at six days of wind in the boards under a sack he carried nine miles, and he did not go in and pick it up.
 
 "Six days."
 
@@ -20,7 +20,7 @@ A queue formed in the yard of the store on the upper road at about the seventh h
 
 ---
 
-**And the man of about twenty-seven washed that board at about the seventh hour and left the figures of the sixty-ninth day of that month standing on it, and the chest has not been opened since the fifty-sixth day of that month, and nobody wrote anything on anything in that yard between the seventh hour and the eighth hour of that morning.**
+And the man of about twenty-seven washed that board at about the seventh hour and left the figures of the sixty-ninth day of that month standing on it, and the chest has not been opened since the fifty-sixth day of that month, and nobody wrote anything on anything in that yard between the seventh hour and the eighth hour of that morning.
 
 "Is there anything today."
 
@@ -32,7 +32,7 @@ A queue formed in the yard of the store on the upper road at about the seventh h
 
 ---
 
-**And the queue went round the north side of that sack on its way to the back of it, and the south side of it was used by two or three of the people in it, and by the eighth hour there were two lines in the dust of that yard and neither of them was the one anybody had walked before the eighty-fifth day of that month.**
+And the queue went round the north side of that sack on its way to the back of it, and the south side of it was used by two or three of the people in it, and by the eighth hour there were two lines in the dust of that yard and neither of them was the one anybody had walked before the eighty-fifth day of that month.
 
 "Do we go round it."
 
@@ -44,7 +44,7 @@ A queue formed in the yard of the store on the upper road at about the seventh h
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom stood in that queue four feet behind a man who is not on any rota in this city, with a slate under his arm and the wrong side up, and one of those two men knew the other and the other one did not know him, and nobody said a name.**
+And a man of about twenty-nine from the settlement's workroom stood in that queue four feet behind a man who is not on any rota in this city, with a slate under his arm and the wrong side up, and one of those two men knew the other and the other one did not know him, and nobody said a name.
 
 "I will tell you the truth about the ninety-eighth day of that month, which is that I do not know what day a queue comes, and a man who does not know is not a man anybody can plan a yard around."
 
@@ -62,7 +62,7 @@ He said it to the boards and not to the man, and about four people in that yard 
 
 ---
 
-**And Adrian Vale stood in the pocket between the bent line and the wall with his hands at his sides, which is the only place in that yard where a person can stand and not be in anything, and nine feet of ground there had not been walked on since the sack came down on the eighty-fifth day of that month.**
+And Adrian Vale stood in the pocket between the bent line and the wall with his hands at his sides, which is the only place in that yard where a person can stand and not be in anything, and nine feet of ground there had not been walked on since the sack came down on the eighty-fifth day of that month.
 
 "What is that gap for."
 
@@ -74,7 +74,7 @@ He said it to the boards and not to the man, and about four people in that yard 
 
 ---
 
-**And the man of about thirty-four who keeps a stall and who wrote the ninth line came up that road at about the eighth hour and went to the back of that line and stood behind four people, and there is one line left on the wall of that yard that anybody can read from the ground, and he did not look up at it once in the hour he stood there.**
+And the man of about thirty-four who keeps a stall and who wrote the ninth line came up that road at about the eighth hour and went to the back of that line and stood behind four people, and there is one line left on the wall of that yard that anybody can read from the ground, and he did not look up at it once in the hour he stood there.
 
 "You came up for this."
 
@@ -86,7 +86,7 @@ He said it to the boards and not to the man, and about four people in that yard 
 
 ---
 
-**And the man of about forty-two stood at the back of that line with his hands in his pockets, and the line was not the line he had made, and nobody else in that yard knew that.**
+And the man of about forty-two stood at the back of that line with his hands in his pockets, and the line was not the line he had made, and nobody else in that yard knew that.
 
 "Two lines."
 
@@ -98,7 +98,7 @@ He said it to the boards and not to the man, and about four people in that yard 
 
 ---
 
-**And the woman of about thirty-four in that store came out through to the yard at about the eighth hour with the sleeves of a coat wet to the elbow, and she stood at the edge of the boards and looked at the two lines in the dirt and did not go out onto either of them, and she looked at both of those lines and at neither of them, and nobody in that yard had looked at the ground at all.**
+And the woman of about thirty-four in that store came out through to the yard at about the eighth hour with the sleeves of a coat wet to the elbow, and she stood at the edge of the boards and looked at the two lines in the dirt and did not go out onto either of them, and she looked at both of those lines and at neither of them, and nobody in that yard had looked at the ground at all.
 
 "Two lines is worse than one."
 
@@ -110,7 +110,7 @@ He said it to the boards and not to the man, and about four people in that yard 
 
 ---
 
-**And the girl of seventeen came through that yard at about the ninth hour of the ninety-first day of that month with a basket on her arm and no slate, and she went round the north side of that sack the way everybody went round the north side of it, and the queue's line had become the ordinary way to cross that yard, and a queue is not a way to cross anything at all, it is a way of standing in one place.**
+And the girl of seventeen came through that yard at about the ninth hour of the ninety-first day of that month with a basket on her arm and no slate, and she went round the north side of that sack the way everybody went round the north side of it, and the queue's line had become the ordinary way to cross that yard, and a queue is not a way to cross anything at all, it is a way of standing in one place.
 
 "You are not in the queue."
 
@@ -124,4 +124,4 @@ She went out through the gate and the two lines in the dirt were four feet apart
 
 ---
 
-**And two lines in the dust of that yard going round a sack, and the sack standing where it is on ground nobody has walked on.**
+And two lines in the dust of that yard going round a sack, and the sack standing where it is on ground nobody has walked on.

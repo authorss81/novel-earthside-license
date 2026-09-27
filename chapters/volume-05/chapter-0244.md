@@ -4,7 +4,7 @@ On the eighty-ninth day of the Long Month the posting on the wall of the store o
 
 ---
 
-**And the man of about twenty-seven who washes that store's board was at the foot of that wall at about the eighth hour with the trough and the wet cloth, and he has washed that board every morning since the seventh week of this flood, and he has not written on it since the seventieth day of that month, and the figures on it are the figures of the sixty-ninth day of that month, which was twenty days ago.**
+And the man of about twenty-seven who washes that store's board was at the foot of that wall at about the eighth hour with the trough and the wet cloth, and he has washed that board every morning since the seventh week of this flood, and he has not written on it since the seventieth day of that month, and the figures on it are the figures of the sixty-ninth day of that month, which was twenty days ago.
 
 "You are late."
 
@@ -16,7 +16,7 @@ On the eighty-ninth day of the Long Month the posting on the wall of the store o
 
 ---
 
-**And the man of about thirty-four who keeps a stall and who wrote that ninth line came up that road at about the eighth hour and stood under that wall with his hands behind him, and he had come up here on the eighty-fourth day of that month with a piece of chalk in his hand and had not put the date back and had put the chalk in his pocket instead, and about four people in that yard had been waiting since the eighthieth day of that month for him to say one word about the eight lines that have gone, and the rest had given up waiting on the eighty-eighth.**
+And the man of about thirty-four who keeps a stall and who wrote that ninth line came up that road at about the eighth hour and stood under that wall with his hands behind him, and he had come up here on the eighty-fourth day of that month with a piece of chalk in his hand and had not put the date back and had put the chalk in his pocket instead, and about four people in that yard had been waiting since the eighthieth day of that month for him to say one word about the eight lines that have gone, and the rest had given up waiting on the eighty-eighth.
 
 "You have not washed the wall."
 
@@ -30,7 +30,7 @@ He took it out and looked at it and put it back, and the woman of about thirty-f
 
 ---
 
-**And a woman of about thirty-four in that store came out of the back with her arms wet to the elbow and asked him the thing nobody has asked him since the seventy-fourth day of that month, and she asked it in a yard in daylight with what is left of a date on the wall above it.**
+And a woman of about thirty-four in that store came out of the back with her arms wet to the elbow and asked him the thing nobody has asked him since the seventy-fourth day of that month, and she asked it in a yard in daylight with what is left of a date on the wall above it.
 
 "Does it work."
 
@@ -46,7 +46,7 @@ He took it out and looked at it and put it back, and the woman of about thirty-f
 
 ---
 
-**And the man of about twenty-seven went up four steps of the yard with the cloth in his hand and put his thumb flat on the bare place at the top of that wall where a date had been on the forty-sixth day of that month and had gone in about four places, and he took the thumb away and there was chalk dust on it and about four people in that yard saw a man's thumb find a place where something had been.**
+And the man of about twenty-seven went up four steps of the yard with the cloth in his hand and put his thumb flat on the bare place at the top of that wall where a date had been on the forty-sixth day of that month and had gone in about four places, and he took the thumb away and there was chalk dust on it and about four people in that yard saw a man's thumb find a place where something had been.
 
 "**There are four things on that ground and one of them is me, and I am the only one of the four who is going to ask about any of them.**"
 
@@ -64,7 +64,7 @@ He put his thumb into the wet patch where the pail had gone over this morning an
 
 ---
 
-**And Adrian Vale was at the gate of that yard at about the eighth hour with his hands at his sides, and he had come up nine miles on the eighty-ninth day of that month and there was nothing in that yard for him to carry, and about nine people in that yard knew who he was and nobody said a name and nobody asked him for anything.**
+And Adrian Vale was at the gate of that yard at about the eighth hour with his hands at his sides, and he had come up nine miles on the eighty-ninth day of that month and there was nothing in that yard for him to carry, and about nine people in that yard knew who he was and nobody said a name and nobody asked him for anything.
 
 "You are not on anything."
 
@@ -76,13 +76,13 @@ He put his thumb into the wet patch where the pail had gone over this morning an
 
 ---
 
-**And the man of about twenty-seven wrung the cloth out once with both hands over that trough and stopped, and left the wall above the ninth line unwashed, and the water in that trough was cold and there was a bucket standing in it that nobody in that yard lifted.**
+And the man of about twenty-seven wrung the cloth out once with both hands over that trough and stopped, and left the wall above the ninth line unwashed, and the water in that trough was cold and there was a bucket standing in it that nobody in that yard lifted.
 
 He stood with the cloth in his two hands and did not put it on the rim for about the length of a breath, and then he hung it over the rim of the trough where it has hung every morning since the seventh week of this flood, and the two marks the cloth left on his hands were white at the knuckles, and the woman of about thirty-four in that store went back inside. The man of about thirty-four who keeps that stall went down the nine miles with the chalk still in his coat.
 
 ---
 
-**And the woman of about thirty-four in that store went back through to the back room at about the ninth hour and there were eleven sacks along that wall and a groove in the floor under them with a crust of salt in the bottom of it, and about four of those eleven have a knot on them that is not the knot on the other eight, and somebody in that back room has known about those four knots since the fifty-sixth day of that month and nobody else has.**
+And the woman of about thirty-four in that store went back through to the back room at about the ninth hour and there were eleven sacks along that wall and a groove in the floor under them with a crust of salt in the bottom of it, and about four of those eleven have a knot on them that is not the knot on the other eight, and somebody in that back room has known about those four knots since the fifty-sixth day of that month and nobody else has.
 
 "Nobody has counted those."
 
@@ -94,7 +94,7 @@ He stood with the cloth in his two hands and did not put it on the rim for about
 
 ---
 
-**And the man of about twenty-seven did not wash the wall for the rest of the eighty-ninth day of that month, and the cloth stayed on the rim of the trough, and the ninth line stayed where it was at about the ninth foot of that wall, and the bare place at the top of that wall stayed bare above it.**
+And the man of about twenty-seven did not wash the wall for the rest of the eighty-ninth day of that month, and the cloth stayed on the rim of the trough, and the ninth line stayed where it was at about the ninth foot of that wall, and the bare place at the top of that wall stayed bare above it.
 
 "You will have to say something about that eventually."
 
@@ -106,7 +106,7 @@ He stood with the cloth in his two hands and did not put it on the rim for about
 
 ---
 
-**And the store on the upper road did the ordinary work of a morning in the middle of all that, and a man came in at the ninth hour for a measure of something and got it, and a woman came in at the tenth hour for the same thing and did not get it, and neither of them looked up at the wall while they were in there.**
+And the store on the upper road did the ordinary work of a morning in the middle of all that, and a man came in at the ninth hour for a measure of something and got it, and a woman came in at the tenth hour for the same thing and did not get it, and neither of them looked up at the wall while they were in there.
 
 "Did you write it on the board."
 
@@ -122,4 +122,4 @@ He stood with the cloth in his two hands and did not put it on the rim for about
 
 ---
 
-**And a wet cloth on the rim of a trough going cold, with one line left on the wall at the ninth foot above it.**
+And a wet cloth on the rim of a trough going cold, with one line left on the wall at the ninth foot above it.

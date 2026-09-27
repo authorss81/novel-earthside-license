@@ -4,7 +4,7 @@ A woman of about thirty-four in a store on the upper road turned a slate face do
 
 ---
 
-**And about four people were in the back of that store when she did it, and she did not ask them to leave, and she put the flat of her hand on the back of the slate and left it there for about as long as it takes to decide a thing. About nine people in that yard have said since that she did it in front of them on purpose, and about four people have said she did it in front of them because she could not do it in front of a person she had not met.**
+And about four people were in the back of that store when she did it, and she did not ask them to leave, and she put the flat of her hand on the back of the slate and left it there for about as long as it takes to decide a thing. About nine people in that yard have said since that she did it in front of them on purpose, and about four people have said she did it in front of them because she could not do it in front of a person she had not met.
 
 "Put it back up."
 
@@ -20,7 +20,7 @@ A woman of about thirty-four in a store on the upper road turned a slate face do
 
 ---
 
-**And a man of about thirty-four who keeps a stall was in that yard at about the ninth hour and came into the back of the store and did not ask her to turn it back up. He has been in about nine rooms since the thirty-seventh day of the Long Month and has not put a sentence on a page since the fiftieth day of that month, and about four people in that yard have been waiting since the forty-ninth day of the Long Month for him to say something about a slate.**
+And a man of about thirty-four who keeps a stall was in that yard at about the ninth hour and came into the back of the store and did not ask her to turn it back up. He has been in about nine rooms since the thirty-seventh day of the Long Month and has not put a sentence on a page since the fiftieth day of that month, and about four people in that yard have been waiting since the forty-ninth day of the Long Month for him to say something about a slate.
 
 "You have taken the clock down."
 
@@ -34,7 +34,7 @@ He did not ask her to turn it back up. He looked at the back of the slate and th
 
 ---
 
-**And then Adrian Vale came down that road on foot at about the fourth hour of the afternoon, walked into that yard and stood about nine feet from a slate lying face down on a chest. He had nine miles of road on his boots and he did not sit down. About nine people in that yard knew who he was before he got to the door, and about four of them have said since that they knew because of the way he did not hurry.**
+And then Adrian Vale came down that road on foot at about the fourth hour of the afternoon, walked into that yard and stood about nine feet from a slate lying face down on a chest. He had nine miles of road on his boots and he did not sit down. About nine people in that yard knew who he was before he got to the door, and about four of them have said since that they knew because of the way he did not hurry.
 
 Nobody fetched him. It is entered that nobody did, and that about four people in that yard had been waiting since the fifty-fourth day of the Long Month for somebody to say a name and that about nine of them heard nothing, and that a man who can be fetched by about nine people in this city stood about nine feet from a chest for about nine minutes and was not fetched.
 
@@ -58,7 +58,7 @@ Nobody in that yard said anything. It is entered that about four people in that 
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by a wharf was not in that yard and had not come up the road, and about four people in that yard knew that and about nine did not, and it is entered that nobody in that yard sent for her and that about four people in that yard wanted to.**
+And a woman of about thirty-four who keeps a stall by a wharf was not in that yard and had not come up the road, and about four people in that yard knew that and about nine did not, and it is entered that nobody in that yard sent for her and that about four people in that yard wanted to.
 
 "You have had a share with the post taken out in that coat for a long time."
 
@@ -70,7 +70,7 @@ Nobody in that yard said anything. It is entered that about four people in that 
 
 ---
 
-**And a woman of about twenty-four who is on no roll of anything was in the back of that store with a slate under her arm and she has written down every decision this city has made since the second day of this flood, and she asked one question at about the ninth hour. It was the only question anybody in that yard asked all day that was about a person and not about a page, and she asked it with the chalk already out.**
+And a woman of about twenty-four who is on no roll of anything was in the back of that store with a slate under her arm and she has written down every decision this city has made since the second day of this flood, and she asked one question at about the ninth hour. It was the only question anybody in that yard asked all day that was about a person and not about a page, and she asked it with the chalk already out.
 
 "Shall I write it down."
 
@@ -92,10 +92,10 @@ She wrote it down, and she wrote the date at the top of it before she wrote anyt
 
 ---
 
-**And a man of about thirty-nine who trades on the Open Hand board was in that yard at about the seventh hour of the evening and said nothing at all. He came in after the light had gone off the boards of the yard and stood at the back of it with his hands behind him. About four people in that yard were waiting for him to say something. He said a sentence in a yard on the forty-sixth day of the Long Month about a page with a mistake in it and a wall of good sentences, and about nine people in that yard have said since that he heard about the slate at about the sixth hour, looked at it, and went and stood at the back. He is a party to the compact the posting is bound to, and he asked one question about the ninth line in a market on the sixtieth day of the Long Month and nobody answered him, and he has not said a word about it since.**
+And a man of about thirty-nine who trades on the Open Hand board was in that yard at about the seventh hour of the evening and said nothing at all. He came in after the light had gone off the boards of the yard and stood at the back of it with his hands behind him. About four people in that yard were waiting for him to say something. He said a sentence in a yard on the forty-sixth day of the Long Month about a page with a mistake in it and a wall of good sentences, and about nine people in that yard have said since that he heard about the slate at about the sixth hour, looked at it, and went and stood at the back. He is a party to the compact the posting is bound to, and he asked one question about the ninth line in a market on the sixtieth day of the Long Month and nobody answered him, and he has not said a word about it since.
 
 ---
 
-**And about the seventh hour the slate was still face down on the chest, and the store was still open, and the light had gone off the back room and come back off the yard. About nine people went up that road in the eight days after the fifty-sixth day of the Long Month to read a date that is not there any more, and about four of them asked the woman of about thirty-four what the date was and she said it, because she has not stopped being a person somebody can ask, and that is a different thing and it is not on a slate.**
+And about the seventh hour the slate was still face down on the chest, and the store was still open, and the light had gone off the back room and come back off the yard. About nine people went up that road in the eight days after the fifty-sixth day of the Long Month to read a date that is not there any more, and about four of them asked the woman of about thirty-four what the date was and she said it, because she has not stopped being a person somebody can ask, and that is a different thing and it is not on a slate.
 
-**And a slate face down on a chest in a store nine miles up the road, and a date on the other side of it, and nobody's hand on the front.**
+And a slate face down on a chest in a store nine miles up the road, and a date on the other side of it, and nobody's hand on the front.

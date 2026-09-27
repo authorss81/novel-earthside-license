@@ -4,7 +4,7 @@ There were two brooms on the boards at the top of the cut on the Reed Reach on t
 
 ---
 
-**And the keeper of that gate was about nine feet from him at the top of that cut with the board in her left hand and a thumb's depth of dust off those flats in the channel below her, and about four people at the top of that cut have noticed a man standing on a bank for two hours with nothing in his hands and nobody else has noticed anything at all.**
+And the keeper of that gate was about nine feet from him at the top of that cut with the board in her left hand and a thumb's depth of dust off those flats in the channel below her, and about four people at the top of that cut have noticed a man standing on a bank for two hours with nothing in his hands and nobody else has noticed anything at all.
 
 "You have come a long way."
 
@@ -20,7 +20,7 @@ There were two brooms on the boards at the top of the cut on the Reed Reach on t
 
 ---
 
-**And the boards of that bank are about four feet wide where the two brooms were lying, and the wind has been coming up that bank since the seventy-fourth day of that month, and he went up and down it four times in two hours and put his boots in the same four places each time without knowing he was doing it.**
+And the boards of that bank are about four feet wide where the two brooms were lying, and the wind has been coming up that bank since the seventy-fourth day of that month, and he went up and down it four times in two hours and put his boots in the same four places each time without knowing he was doing it.
 
 "You have walked that four times."
 
@@ -32,7 +32,7 @@ There were two brooms on the boards at the top of the cut on the Reed Reach on t
 
 ---
 
-**And he had the question ready at about the ninth hour and he had it ready at the tenth hour, and at about the tenth hour he turned his hand over because the grit had got into the seam of it, and the wall said one thing, and it said it once.**
+And he had the question ready at about the ninth hour and he had it ready at the tenth hour, and at about the tenth hour he turned his hand over because the grit had got into the seam of it, and the wall said one thing, and it said it once.
 
 > **You wrote a rule for yourself about asking. A rule you wrote is still a rule when the person in front of you would answer.**
 
@@ -40,7 +40,7 @@ He read that on the bank with the wind at his back and then he shut his hand and
 
 ---
 
-**And the keeper of the Redroot gate did not look at him for the whole of those two hours and did not stop working the channel, and at about the eleventh hour she turned her head about nine inches and looked at the two brooms and said one sentence about them and then went back to what she was doing.**
+And the keeper of the Redroot gate did not look at him for the whole of those two hours and did not stop working the channel, and at about the eleventh hour she turned her head about nine inches and looked at the two brooms and said one sentence about them and then went back to what she was doing.
 
 "**And I have not put a second thing down in a place in two hundred and forty-nine days, and if there is a second broom on those boards this morning then somebody in this city has done the thing I have not done, and I have not got a name for them and I have not got a reason why they would.**"
 
@@ -64,7 +64,7 @@ She said that to the boards and not to the man, and then he got up off them and 
 
 ---
 
-**And the second broom had been on the boards of the top of that cut for about an hour when he noticed it, and about four people at the top of that cut had seen a man look at a broom and then look at a woman and then look at a bank, and the rest had not been on that bank at all.**
+And the second broom had been on the boards of the top of that cut for about an hour when he noticed it, and about four people at the top of that cut had seen a man look at a broom and then look at a woman and then look at a bank, and the rest had not been on that bank at all.
 
 "That was not here at the seventh hour."
 
@@ -76,13 +76,13 @@ She said that to the boards and not to the man, and then he got up off them and 
 
 ---
 
-**And the light came off the flats at about the eleventh hour and went up the far side of that cut, and the two brooms were on the boards, and about four people who came up that bank on the ninety-fourth day of that month after the eleventh hour stepped over both of them and the rest did not see either, and the keeper of the Redroot gate had looked at the two of them once at about the eleventh hour and had not looked down at them since.**
+And the light came off the flats at about the eleventh hour and went up the far side of that cut, and the two brooms were on the boards, and about four people who came up that bank on the ninety-fourth day of that month after the eleventh hour stepped over both of them and the rest did not see either, and the keeper of the Redroot gate had looked at the two of them once at about the eleventh hour and had not looked down at them since.
 
 He got to the bottom of that bank at about the twelfth hour and sat down on the boards there for a while, and the channel has had no water in it since the forty-first day of that month and there is a thumb's depth of the dust off those flats in the bottom of it, and the boards he was sitting on were the colour of the boards under them. He did not go down into the cut. He had come eleven miles to ask a question about a thing that is on a page in a town nine hundred miles from here, and he had not asked it, and there is no figure on any page in this city for what a man has lost by not asking one, and he looked for about as long as it takes to get a hand wet and then he got up and went up the road.
 
 ---
 
-**And he had gone up and down that bank four times in two hours and had put his boot in the same four places each time, and before he went down to the boards at the bottom of it he sat on the boards at the top about nine feet from the two brooms with his hands on his knees and the grit worked into the seam of the left one, and about four people at the top of that cut had been on that bank before the seventh hour and the rest had not.**
+And he had gone up and down that bank four times in two hours and had put his boot in the same four places each time, and before he went down to the boards at the bottom of it he sat on the boards at the top about nine feet from the two brooms with his hands on his knees and the grit worked into the seam of the left one, and about four people at the top of that cut had been on that bank before the seventh hour and the rest had not.
 
 "You are not going to ask her."
 
@@ -96,7 +96,7 @@ He put his hand on the boards on the side away from the two brooms and left it t
 
 ---
 
-**And he came eleven miles up that road on the ninety-fourth day of that month and had come eleven miles up it on the eighty-sixth and the eighty-ninth and the ninety-first, and about four people in this city have worked out that a man who walks eleven miles four times in nine days is a man going somewhere, and nobody has worked out that he has not been going anywhere, and the road is nine miles long and the cut at the bottom of it is eleven, and he has not confused the two.**
+And he came eleven miles up that road on the ninety-fourth day of that month and had come eleven miles up it on the eighty-sixth and the eighty-ninth and the ninety-first, and about four people in this city have worked out that a man who walks eleven miles four times in nine days is a man going somewhere, and nobody has worked out that he has not been going anywhere, and the road is nine miles long and the cut at the bottom of it is eleven, and he has not confused the two.
 
 "Four times in nine days."
 
@@ -112,4 +112,4 @@ He put his hand on the boards on the side away from the two brooms and left it t
 
 ---
 
-**And a bank with two brooms on the boards at the top of it, and a man who came eleven miles and went back down without asking.**
+And a bank with two brooms on the boards at the top of it, and a man who came eleven miles and went back down without asking.

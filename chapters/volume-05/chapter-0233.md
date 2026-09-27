@@ -4,7 +4,7 @@ A rod in a hole nine feet from the one everybody measures had come up about four
 
 ---
 
-**And a woman of about fifty who counts water on the fingers of her left hand came down the bank at about the eighth hour with a board under her arm and stood over the second hole and did not go down into the cut, and about four people at the top of that cut have been watching her count since the seventh week of this flood and about nine of them had stopped.**
+And a woman of about fifty who counts water on the fingers of her left hand came down the bank at about the eighth hour with a board under her arm and stood over the second hole and did not go down into the cut, and about four people at the top of that cut have been watching her count since the seventh week of this flood and about nine of them had stopped.
 
 "**That is a rod in a hole.**"
 
@@ -18,7 +18,7 @@ She put her hand flat on the rim of that hole and it gave about an inch under he
 
 ---
 
-**And a woman of about thirty-nine who cannot get a rack above her shoulder came up that bank at about the ninth hour and stood at the top of the cut and looked at the second hole and at the dust in it, and she has been at the top of that cut three times since the fifty-ninth day of that month and she has a refusal with a date on it that she has not shown anybody. About four people in that cut have known that since the fifty-ninth day of that month, and about nine of them have only known that she asked.**
+And a woman of about thirty-nine who cannot get a rack above her shoulder came up that bank at about the ninth hour and stood at the top of the cut and looked at the second hole and at the dust in it, and she has been at the top of that cut three times since the fifty-ninth day of that month and she has a refusal with a date on it that she has not shown anybody. About four people in that cut have known that since the fifty-ninth day of that month, and about nine of them have only known that she asked.
 
 "You could clear it out with your hand."
 
@@ -30,7 +30,7 @@ She put her hand flat on the rim of that hole and it gave about an inch under he
 
 ---
 
-**And the man of about fifty-two who digs came up that bank at about the tenth hour with a rod under his arm and went down the side the water used to come in on and stood over the second hole for a while and did not go down into it, and about four people at the top of that cut had been counting the days since he said four weeks in a market on the forty-seventh day of that month and about nine of them had not.**
+And the man of about fifty-two who digs came up that bank at about the tenth hour with a rod under his arm and went down the side the water used to come in on and stood over the second hole for a while and did not go down into it, and about four people at the top of that cut had been counting the days since he said four weeks in a market on the forty-seventh day of that month and about nine of them had not.
 
 "That hole is done."
 
@@ -44,7 +44,7 @@ He put his hand flat on the rim of the second hole the way the woman of about fi
 
 ---
 
-**And the woman of about thirty-nine who cannot get a rack above her shoulder was still at the top of that cut at about the eleventh hour when the man of about fifty-two who digs looked at the rack standing at the edge of the bottom with the rope coiled on the top length, and about four people at that cut have watched that rack not go in since the seventy-fifth day of that month and about nine of them had stopped counting the days.**
+And the woman of about thirty-nine who cannot get a rack above her shoulder was still at the top of that cut at about the eleventh hour when the man of about fifty-two who digs looked at the rack standing at the edge of the bottom with the rope coiled on the top length, and about four people at that cut have watched that rack not go in since the seventy-fifth day of that month and about nine of them had stopped counting the days.
 
 "You could ask her to get a hand under that."
 
@@ -58,7 +58,7 @@ He did not say anything else about the rack and about four people at the top of 
 
 ---
 
-**And the rod that is lying flat in the cracked bottom of that cut about eleven feet further in had been lying flat in that crack for nine days, and a man of about fifty-two put it down flat instead of in a hole on the sixty-ninth day of that month because a woman of about thirty-four had said a number out loud at the top of that cut and he had found out there was one, and about four people in this city have worked out that a rod lying flat in a crack is a man admitting a thing, and about nine of them have worked out that it is a rod.**
+And the rod that is lying flat in the cracked bottom of that cut about eleven feet further in had been lying flat in that crack for nine days, and a man of about fifty-two put it down flat instead of in a hole on the sixty-ninth day of that month because a woman of about thirty-four had said a number out loud at the top of that cut and he had found out there was one, and about four people in this city have worked out that a rod lying flat in a crack is a man admitting a thing, and about nine of them have worked out that it is a rod.
 
 "**Nobody has picked that up in nine days.**"
 
@@ -70,7 +70,7 @@ He did not say anything else about the rack and about four people at the top of 
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road was at the top of that cut at about the eleventh hour with nothing in her hands, and she has come up that road on days that are not Tuesdays and has not chosen a day to ask in since the fifty-sixth day of that month. About four people in that cut had been waiting since the eighth hour for her to say a number and about nine of them had not been waiting for anything.**
+And a woman of about thirty-four from a fourth household on the road was at the top of that cut at about the eleventh hour with nothing in her hands, and she has come up that road on days that are not Tuesdays and has not chosen a day to ask in since the fifty-sixth day of that month. About four people in that cut had been waiting since the eighth hour for her to say a number and about nine of them had not been waiting for anything.
 
 "You have a rod and a hole and a sack and a yard nine miles up the road."
 
@@ -82,4 +82,4 @@ He did not say anything else about the rack and about four people at the top of 
 
 ---
 
-**And a rod standing in a thumb's depth of the flats at the bottom of a hole that has stopped being a hole, and nobody has cleared it out.**
+And a rod standing in a thumb's depth of the flats at the bottom of a hole that has stopped being a hole, and nobody has cleared it out.

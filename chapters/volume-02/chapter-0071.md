@@ -2,11 +2,11 @@
 
 On the forty-sixth day of the new month, which was the seventy-first day of the flood and a Tuesday, four people went down two hundred steps in ice with a gauge in weather that was the wrong weather, four days before a review, because no inspection was required, and one of the four said out loud on the way down that a thing nobody asked for is the only kind that has ever told anybody anything, and the other three did not argue with her, and the whole of that is entered.
 
-**A review is on the fiftieth day of the new month. The licence is twenty-one days old. Eleven questions and a second page and a slate are on a nail in the lock-chapel arch, and the date was on the page before the day, and the people who drafted the questions know what they have done to a door and no amount of daylight undoes it.**
+A review is on the fiftieth day of the new month. The licence is twenty-one days old. Eleven questions and a second page and a slate are on a nail in the lock-chapel arch, and the date was on the page before the day, and the people who drafted the questions know what they have done to a door and no amount of daylight undoes it.
 
 ---
 
-**They went down at about the seventh hour of the morning, in ice, in the wrong weather, four people who hold a door and who are also the four people who need it.**
+They went down at about the seventh hour of the morning, in ice, in the wrong weather, four people who hold a door and who are also the four people who need it.
 
 The four are the four and there are only four. Nyla Ferrow, seventy, who reads the line. Peth Lomas, fifty, a mason of Saltwake, not of the crew, who reads the number. Elsa Skell, forty-four, of Corrow, who came up four miles in the dark because she is not going to be the one who is not there, who reads the edge. Renna Ord, fifty-eight, who cannot read, who reads the join by standing on it twice a day and knowing whether it has moved, which she has entered is not reading.
 
@@ -18,7 +18,7 @@ That is the reason they went, and Renna Ord said it on the second step, and it i
 
 ---
 
-**They came up at about the ninth hour and they did not agree, and that is the second time, and it is entered, and no person may say the four agreed.**
+They came up at about the ninth hour and they did not agree, and that is the second time, and it is entered, and no person may say the four agreed.
 
 Renna Ord, standing on the third step of the lower gallery with her boots off and her feet wet, said: "**The dressed edge is at the line.**"
 
@@ -36,17 +36,17 @@ Nobody spoke for about nine seconds. The lamp on the third step is lit more ofte
 
 "Then we do not agree," said the keeper, seventy, "and it is entered that we do not agree, and the girl will write it in the column, and the column is four lines high, and the width of it is entered as a fact for the eighth time in this year."
 
-**It is entered: that on the thirty-third day of the new month the four of them went down the same rail in the wrong weather and did not agree, three at a line and one a sixteenth under, and that on the forty-sixth day of the new month the same four went down the same rail in the wrong weather and did not agree in the same place by the same amount, and that both of those are on the page with the date on them and neither has been deleted, and that a disagreement which comes out the same way twice is not a measurement and is also not nothing.**
+It is entered: that on the thirty-third day of the new month the four of them went down the same rail in the wrong weather and did not agree, three at a line and one a sixteenth under, and that on the forty-sixth day of the new month the same four went down the same rail in the wrong weather and did not agree in the same place by the same amount, and that both of those are on the page with the date on them and neither has been deleted, and that a disagreement which comes out the same way twice is not a measurement and is also not nothing.
 
 Adrian Vale was not there. He was told about it at about the tenth hour in a yard and he asked one question and it was the right one, which is that he wanted to know which of the two of them had been under the line on both occasions, and Renna Ord told him, and the answer was the same man both times, and Adrian wrote it down and did not do anything with it.
 
-**And the twenty-fifth reading was not taken. It is not taken. Nobody has asked for it and the one man in this city who could have taken it has said out loud that he is not going to, twice now, and a number is only a number on the right water at the right hour with the same edge, and the water is not what it was.**
+And the twenty-fifth reading was not taken. It is not taken. Nobody has asked for it and the one man in this city who could have taken it has said out loud that he is not going to, twice now, and a number is only a number on the right water at the right hour with the same edge, and the water is not what it was.
 
 There is one ruled line left in that column. A ruled line is a fact and a missing line is a fight, and the fight has been had twice, and the line is still there, and the dressed join is eight and seven-eighths of an inch, and it does not narrow. It gets dressed. It has never said a word.
 
 ---
 
-**At about the eleventh hour of the morning, in a room over a chandlery on the upper road, a girl of seventeen found nine hands.**
+At about the eleventh hour of the morning, in a room over a chandlery on the upper road, a girl of seventeen found nine hands.
 
 She is the one who keeps the entries. She has a column four lines high and the width of that column is entered as a fact more often than any other fact in this book, and she had been sent for nine slates and a stub of chalk, because the second page was going to be copied out nine times before it went into the wooden case, and copying it out nine times was the notary's instruction, and the notary's instructions have been followed to the letter since the fourth day of this flood by about nine people.
 
@@ -62,7 +62,7 @@ Nine people said nothing at all, in a room, at the same moment, and it is entere
 
 ---
 
-**She was a woman of sixty-one of Silt Row and her name is Orla Specht, and she has eleven ounces of silver under a floorboard and has not spent a coin in nine years, and she chose English on the thirty-eighth day of the new month so that the sentence about her mother would be hers and not his.**
+She was a woman of sixty-one of Silt Row and her name is Orla Specht, and she has eleven ounces of silver under a floorboard and has not spent a coin in nine years, and she chose English on the thirty-eighth day of the new month so that the sentence about her mother would be hers and not his.
 
 She had been in four rooms between the forty-third day of the new month and the forty-sixth, and in all four of them Nyla Ferrow had read the second page out in full, nineteen reasons in nineteen lines, at the ordinary volume, in the wrong order on purpose, and in all four of them Orla Specht had understood approximately two-thirds of it and had been asked nothing about the third.
 
@@ -74,15 +74,15 @@ She had been in four rooms between the forty-third day of the new month and the 
 
 She had had it copied out in nine days. She could not read. She paid a woman of about nineteen who marks chalk on a floor for nothing, in labour, two days of it, for the copying, and she paid her in labour and not in anything else, and the entry says that and says that the whole of the arrangement is a wage off a second page and that the wage is in labour and the second page is a slate and that both of those facts are the trouble and neither of them is new.
 
-**It is entered: that the second page of the review, which is part of the instrument and not an annexe, was written out nine times in nine hands in nine days by a woman of this city who cannot read it, and that she is not sorry, and that she said so in a room in about nine seconds, and that she gave her reason, and the reason is her own and it is eleven words long:**
+It is entered: that the second page of the review, which is part of the instrument and not an annexe, was written out nine times in nine hands in nine days by a woman of this city who cannot read it, and that she is not sorry, and that she said so in a room in about nine seconds, and that she gave her reason, and the reason is her own and it is eleven words long:
 
 > **Nobody has handed me a page to keep in seventy-one days.**
 
-**And it is entered: that this is not theft and is not a conspiracy, and that a notary of fifty said the first of those two things out loud in about four seconds and the second of them nobody had to say, and that a page which anybody may copy is a page which anybody may check, and that a document nobody may copy is a document nobody may check.**
+And it is entered: that this is not theft and is not a conspiracy, and that a notary of fifty said the first of those two things out loud in about four seconds and the second of them nobody had to say, and that a page which anybody may copy is a page which anybody may check, and that a document nobody may copy is a document nobody may check.
 
 ---
 
-**Sera Vail had to say the second half of that, and it took her a day and a half, and she has entered that it took her a day and a half.**
+Sera Vail had to say the second half of that, and it took her a day and a half, and she has entered that it took her a day and a half.
 
 The wooden case goes down the river on the next second-table post, with the quarterly roll and the honest useless form and the schedule of crossings in it, and the second page goes with it because the second page goes to Aurel beside eleven questions and a notary of fifty chose the longer answer for them and against herself in nine seconds on the forty-third day of the new month.
 
@@ -96,7 +96,7 @@ The wooden case goes down the river on the next second-table post, with the quar
 
 "**That in four months somebody in a building nine hundred miles away is going to write a sentence about nineteen reasons in a district that could not hold the nine originals in a building at all.**"
 
-**Then she read the copy out, in the yard, in about nine minutes, and said that she could not tell whether the nineteen lines in nine hands were the same nineteen lines, and that if the copies are the instrument from Saturday then somebody is going to have to be responsible for nine pages instead of one, and that she was not going to be that person, and that this was the first time in twenty-six years she had declined a duty she had technically been given.**
+Then she read the copy out, in the yard, in about nine minutes, and said that she could not tell whether the nineteen lines in nine hands were the same nineteen lines, and that if the copies are the instrument from Saturday then somebody is going to have to be responsible for nine pages instead of one, and that she was not going to be that person, and that this was the first time in twenty-six years she had declined a duty she had technically been given.
 
 "Who will be?"
 
@@ -104,7 +104,7 @@ The wooden case goes down the river on the next second-table post, with the quar
 
 ---
 
-**A number on a page is a photograph, and a photograph of a count is wrong by the next morning, and this city found that out at about the second hour of the afternoon and did not enjoy it.**
+A number on a page is a photograph, and a photograph of a count is wrong by the next morning, and this city found that out at about the second hour of the afternoon and did not enjoy it.
 
 The fourth of the eleven questions is the count. It was drafted on the forty-third day of the new month and it went on the page as this:
 
@@ -124,7 +124,7 @@ Then somebody asked whether every number on either page was a photograph, and it
 
 The count was corrected in front of about nine people, from sixty-eight days to seventy-one, and the striking of the old figure and the putting of the new one are both on the page in the same hand, and the old figure is not deleted, on Renna Ord's standing rule, and the entry says so, and the entry says that this is the first time in seventy-one days that a figure on a page of this instrument has been corrected, and that a figure which cannot be corrected without being deleted is not a figure but a gravestone.
 
-**And Adrian Vale asked the question nobody else asked, and it went in the book and it is his, and it is the first time in seventy-one days that this city has noticed a day it uses in its mouth:**
+And Adrian Vale asked the question nobody else asked, and it went in the book and it is his, and it is the first time in seventy-one days that this city has noticed a day it uses in its mouth:
 
 "**Then what is the fortieth day of this flood doing on the second page.**"
 
@@ -164,7 +164,7 @@ She said it in the local language. He does not speak it and he got about a third
 
 ---
 
-**And at about the ninth hour of the night, in the lower gallery of the Lock of Salt, a man read the eleven questions aloud in an empty room, and he is not going to be in the room on Saturday, and he read them badly on purpose, and it is entered that he did it on purpose and that somebody asked him why and that he gave his reason in a room with nobody in it.**
+And at about the ninth hour of the night, in the lower gallery of the Lock of Salt, a man read the eleven questions aloud in an empty room, and he is not going to be in the room on Saturday, and he read them badly on purpose, and it is entered that he did it on purpose and that somebody asked him why and that he gave his reason in a room with nobody in it.
 
 He is the man in the lower gallery who reported three knocks in the dressed join on the night of the twenty-ninth day of the new month and four on the night of the thirty-fifth, both entered and neither deleted, on the standing rule. **His name is in the book because he is a person and not a machine for hearing things, and it is the only reason it is there.**
 
@@ -184,4 +184,4 @@ It is entered. It is entered that a man read eleven questions badly in an empty 
 
 ---
 
-**Nothing was gained. The four did not agree and the disagreement is entered. A second page has been written out nine times by a woman who cannot read it and the notary asked for the copies and has entered why. A review is in four days and the licence is twenty-one days old and nothing has been decided and nothing has to be. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to the trial licence and is given nothing by it. He performed no working today and he is not going to perform one on Saturday. The black line in his right palm is seventy days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word. The ground under the chapel is entered as a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The chapel stone is silent and is not repaired. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue will go or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and nobody had to open anything for either of those to happen, and the second page says in nineteen lines that this city is not asking about it and why. There is one ruled line left in the measurement column and nobody has filled it. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the twelfth time, and a man in a good coat has been in this city about twelve weeks and has still not mentioned a letter to a woman in Dunedin, and it is thirty-one days since he offered a channel and the thirty-first is counted from the fortieth day of this flood and from nothing else. March is fourteen days off and the season of a field four miles down the Reach road is still unpaid and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.**
+Nothing was gained. The four did not agree and the disagreement is entered. A second page has been written out nine times by a woman who cannot read it and the notary asked for the copies and has entered why. A review is in four days and the licence is twenty-one days old and nothing has been decided and nothing has to be. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to the trial licence and is given nothing by it. He performed no working today and he is not going to perform one on Saturday. The black line in his right palm is seventy days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word. The ground under the chapel is entered as a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The chapel stone is silent and is not repaired. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue will go or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and nobody had to open anything for either of those to happen, and the second page says in nineteen lines that this city is not asking about it and why. There is one ruled line left in the measurement column and nobody has filled it. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the twelfth time, and a man in a good coat has been in this city about twelve weeks and has still not mentioned a letter to a woman in Dunedin, and it is thirty-one days since he offered a channel and the thirty-first is counted from the fortieth day of this flood and from nothing else. March is fourteen days off and the season of a field four miles down the Reach road is still unpaid and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.

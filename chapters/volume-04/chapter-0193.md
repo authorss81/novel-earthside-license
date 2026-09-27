@@ -6,11 +6,11 @@ It is a Monday. The store on the upper road opened at the sixth hour and the que
 
 ---
 
-**And about nine people got to that flat in four hours and two of them walked the eleven miles, and the girl of seventeen who is on no roll of anything came up the Reach road behind a man of about thirty-four who keeps a stall and neither of them said anything for nine miles and about four miles of that was in the rain.**
+And about nine people got to that flat in four hours and two of them walked the eleven miles, and the girl of seventeen who is on no roll of anything came up the Reach road behind a man of about thirty-four who keeps a stall and neither of them said anything for nine miles and about four miles of that was in the rain.
 
 She had a slate under her arm and it was not her own. She had asked him, on the Sunday, whether she was going to be needed, and he had said that a meeting-ground is a raft and she would be needed if she could read his own question out on a flat, and she had said that the question was in the local language and she could, and that the woman carrying it was the better person to ask, and that if nobody asked her then she would not ask.
 
-**And the woman of about thirty-four who keeps a stall by the wharf had not asked her, and that is on the page because about four people in this city have spent nineteen days waiting for somebody to ask a girl of seventeen something and nobody has, and the reason nobody has is that the instrument this city built says nobody asks the person whether the day suits them, and the instrument was built about a man of thirty-two and it is now being used on everybody in the room including people who were not in it when it was written.**
+And the woman of about thirty-four who keeps a stall by the wharf had not asked her, and that is on the page because about four people in this city have spent nineteen days waiting for somebody to ask a girl of seventeen something and nobody has, and the reason nobody has is that the instrument this city built says nobody asks the person whether the day suits them, and the instrument was built about a man of thirty-two and it is now being used on everybody in the room including people who were not in it when it was written.
 
 They came onto the flat at about the seventh hour and the raft was not there yet. A man of about thirty-four who keeps a stall put his hand flat on a rack frame and looked at the cut for a while and said one thing that about nine people have written down since.
 
@@ -18,7 +18,7 @@ They came onto the flat at about the seventh hour and the raft was not there yet
 
 ---
 
-**And the rule was said out loud at about the eighth hour of the morning by a man of about thirty-four who keeps a stall, and it took him four sentences, and a woman of about fifty who counts water on the fingers of her left hand then said the half of it that is hers, and nobody improved on either.**
+And the rule was said out loud at about the eighth hour of the morning by a man of about thirty-four who keeps a stall, and it took him four sentences, and a woman of about fifty who counts water on the fingers of her left hand then said the half of it that is hers, and nobody improved on either.
 
 "**Every household affected by a change must be heard. That is the rule. It is the whole of it, it is about four hundred years old, and it is the only thing in this morning that anybody can act on.**"
 
@@ -30,7 +30,7 @@ They came onto the flat at about the seventh hour and the raft was not there yet
 
 ---
 
-**And then the raft said the thing that about four people on that flat had not thought of, and it said it at about the ninth hour, and it is the only thing a body that floats can do with a question it cannot answer, and about nine people in this city have said since that the whole of what this city has built came down to a raft refusing to guess.**
+And then the raft said the thing that about four people on that flat had not thought of, and it said it at about the ninth hour, and it is the only thing a body that floats can do with a question it cannot answer, and about nine people in this city have said since that the whole of what this city has built came down to a raft refusing to guess.
 
 "**I will not name a household.**"
 
@@ -58,7 +58,7 @@ And a man of about thirty-nine who trades on the Open Hand board said the four s
 
 ---
 
-**And the four sentences were on the flat of her left hand from the ninth hour until about the eleventh, and then they were not, and that is the only copy there has ever been and it is on the page.**
+And the four sentences were on the flat of her left hand from the ninth hour until about the eleventh, and then they were not, and that is the only copy there has ever been and it is on the page.
 
 She read them four times. A man of about thirty-four from a fourth household on the road asked her twice to say the third one again and she said it again both times and did not hurry either. At about the tenth hour a woman of about fifty-two who digs asked whether a thing put on a hand could be got wet, and the water-count said it could, and that it had been wet since the ninth hour of the evening before, and that in about an hour it would stop being legible, and that a sentence which is in a wet hand is a thing that four people in four hundred miles can be arguing about for about a year.
 
@@ -72,7 +72,7 @@ She read them four times. A man of about thirty-four from a fourth household on 
 
 ---
 
-**And about nine people did, for about two hours, and nobody convened them and nobody called them to it and nobody wrote a name down, and it is on the page because it is the only time in four hundred years anybody in this city has watched a rule do its own work.**
+And about nine people did, for about two hours, and nobody convened them and nobody called them to it and nobody wrote a name down, and it is on the page because it is the only time in four hundred years anybody in this city has watched a rule do its own work.
 
 It is a hard thing to watch. It is not a vote and there was no count and nothing was minuted and no hand went up. A woman of about fifty-two who digs looked at the water and then looked at the ground. A man of about thirty-four from a fourth household on the road sat down on a rack frame and then stood up again. A woman of about forty-four who cannot get a rack above her shoulder looked at nine feet of somebody else's rail and then at the man of about thirty-nine, and the man of about thirty-nine looked at his own boots.
 
@@ -84,7 +84,7 @@ And a man of about thirty-one with a hand that will not close said the only ques
 
 ---
 
-**And at about the eleventh hour a woman of about thirty-eight came out of the gateway with a board in her left hand, and she had not been on that flat since the eighth hour of the morning, and about nine people saw her come and about nine of them stopped what they were doing, and nobody went to get her and nobody spoke to her.**
+And at about the eleventh hour a woman of about thirty-eight came out of the gateway with a board in her left hand, and she had not been on that flat since the eighth hour of the morning, and about nine people saw her come and about nine of them stopped what they were doing, and nobody went to get her and nobody spoke to her.
 
 She put the board down on the deck of the raft. She did not pick it up.
 
@@ -102,4 +102,4 @@ A man of about thirty-four who keeps a stall sat down on the rail.
 
 "**Then say it. And I am going to sit here and not say one word, and if I say one word you are to take the board off the deck and I will not argue.**"
 
-**A board face up on a deck, and nobody within reach of it.**
+A board face up on a deck, and nobody within reach of it.

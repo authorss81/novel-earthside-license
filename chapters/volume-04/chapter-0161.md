@@ -2,7 +2,7 @@
 
 A room over a market with the table back in it and one shutter open had about nine people in it all day and nobody asked the man of thirty-two anything at all, and on the tenth day of the Long Month that was the first thing that had happened to him in a hundred and sixty-five days and he did not know what to do with his hands for about the first two hours of it.
 
-**It is a Friday and he did nothing on purpose, and nobody is going to apologise for the hours in the middle of it where nothing happens, and a woman of twenty-four has entered that she counted the hours and that there were about nine of them and that she has entered the number because she keeps one.**
+It is a Friday and he did nothing on purpose, and nobody is going to apologise for the hours in the middle of it where nothing happens, and a woman of twenty-four has entered that she counted the hours and that there were about nine of them and that she has entered the number because she keeps one.
 
 ---
 
@@ -10,11 +10,11 @@ Here is the whole of the first two hours and it is not funny and it was not rest
 
 He cleaned the step at the back. He wiped the chalk date on the door with his sleeve and it did not come off and he made a mark of the attempt on the door with his thumb and then rubbed the thumb mark out with his sleeve. He put the chair on the landing where it had been and then took it off the landing and put it back, and the chair is a chair on a landing outside a room with a door and it has no name on it and no date on it and no price under it and it has been there the whole time. He read a page of a book in this city he has read four times. He found that the shutter on the west side has a hinge that needs oil and he oiled it and the shutter went easier and nobody noticed and he told nobody. **And at about the third hour he worked out that there are four ways he has failed at doing nothing in one day, and that the fourth one is the reason the other three happened, and that the fourth one is that he looked for a slate with twenty-eight words on it and did not turn it over.**
 
-**And a man of about forty-four who keeps a stall came at about the tenth hour, saw him standing in the middle of the room with nothing in his hands, said "You have got nothing to do," went out, came back at about the eleventh, said "Still nothing," and went out again, and he did not stay, and it is entered that he came and went four times and that he never once offered to help, and that the reason he came back four times is that he has been in this city for a hundred and sixty-five days and he has never seen a man of thirty-two idle and he wanted to look at it.**
+And a man of about forty-four who keeps a stall came at about the tenth hour, saw him standing in the middle of the room with nothing in his hands, said "You have got nothing to do," went out, came back at about the eleventh, said "Still nothing," and went out again, and he did not stay, and it is entered that he came and went four times and that he never once offered to help, and that the reason he came back four times is that he has been in this city for a hundred and sixty-five days and he has never seen a man of thirty-two idle and he wanted to look at it.
 
 ---
 
-**And at about the second hour of the afternoon a woman of twenty-four came in with a slate under her arm and sat down on the step and said she was going to give him something to do, and she had brought one, and it took her about four minutes to explain why she had brought it and then she took it back.**
+And at about the second hour of the afternoon a woman of twenty-four came in with a slate under her arm and sat down on the step and said she was going to give him something to do, and she had brought one, and it took her about four minutes to explain why she had brought it and then she took it back.
 
 "I have a decision I cannot enter," she said. "**It is a small one and it is about a queue of mine and it is the sort of thing I would normally put in front of you, and I want you to understand that the reason I am not putting it in front of you is that you would do it before I had finished asking and be right about eight parts of it and I would have to spend a day finding the ninth.**"
 
@@ -28,7 +28,7 @@ He cleaned the step at the back. He wiped the chalk date on the door with his sl
 
 ---
 
-**And the third hour is where the day turned, and it turned on a number, and a woman of about twenty-four put the number on a board under the trestle figures in the hall the way she does, and the number is the count of this city's silences and it is seventy-one.**
+And the third hour is where the day turned, and it turned on a number, and a woman of about twenty-four put the number on a board under the trestle figures in the hall the way she does, and the number is the count of this city's silences and it is seventy-one.
 
 "Seventy-one," said a man of about thirty-four who keeps a stall.
 
@@ -38,19 +38,19 @@ He cleaned the step at the back. He wiped the chalk date on the door with his sl
 
 "**It is where I always put it.**"
 
-**And then nothing happened for about an hour and forty minutes, and the man of thirty-two sat on the step at the back with his back against the wall, and about nine people came and went, and a woman of twenty-four wrote four decisions in a book and a girl of seventeen read one of them back and did not read the other three, and a man of thirty-four who keeps a stall brought bread at the first hour of the afternoon and put it on the step and did not put it on anything.**
+And then nothing happened for about an hour and forty minutes, and the man of thirty-two sat on the step at the back with his back against the wall, and about nine people came and went, and a woman of twenty-four wrote four decisions in a book and a girl of seventeen read one of them back and did not read the other three, and a man of thirty-four who keeps a stall brought bread at the first hour of the afternoon and put it on the step and did not put it on anything.
 
 ---
 
-**And here is the finding of the tenth day of the Long Month, and it is the finding of a man doing nothing on purpose for eight hours, and it is that doing nothing is a working and this one has no residue anybody can name.**
+And here is the finding of the tenth day of the Long Month, and it is the finding of a man doing nothing on purpose for eight hours, and it is that doing nothing is a working and this one has no residue anybody can name.
 
 The cost column is unchanged. Eleven entries, no figure on the end of any of them, no twelfth. The field is paid — once, on Thursday, in a gateway, with a figure and a hand and a date. The fourth channel at the junction at Nine Elms is shut and has been shut for fifty-three days. **The number of days he has been owed a season has gone up by one, and it is the only thing about this day that changed, and nobody anywhere in four hundred miles is waiting for him.**
 
-**And at about the second hour of the afternoon he worked out that he does not know a single thing that needs doing today, and that he has not known one since the thirty-third day of the month after this one, and that about nine people in this city have spent a hundred and sixty-five days finding him something to do and that the finding is not that there is nothing to do. The finding is that there is nothing to do that he is the one to do, and that is a different thing, and he has not got a word for the difference and did not find one.**
+And at about the second hour of the afternoon he worked out that he does not know a single thing that needs doing today, and that he has not known one since the thirty-third day of the month after this one, and that about nine people in this city have spent a hundred and sixty-five days finding him something to do and that the finding is not that there is nothing to do. The finding is that there is nothing to do that he is the one to do, and that is a different thing, and he has not got a word for the difference and did not find one.
 
 ---
 
-**And at about the third hour of the afternoon he walked nine miles up a road to a fork, because the fourth page of a stone was on a bench inside a shrine and it had been face up since the fortieth day of this flood, and he did not have any business there and went anyway.**
+And at about the third hour of the afternoon he walked nine miles up a road to a fork, because the fourth page of a stone was on a bench inside a shrine and it had been face up since the fortieth day of this flood, and he did not have any business there and went anyway.
 
 He did not turn the fourth page over. He put his hand flat on the stone beside it and left it there for a while, and it is entered by a woman of about sixty-one with a barrow who was watching from about nine feet away, and she did not come over, and he did not know she was there.
 
@@ -66,7 +66,7 @@ She came over. She is about sixty-one. She keeps the stone because she kept it b
 
 ---
 
-**And this is where he broke the rule, and it is on the page, and he wrote it down at the fork on the Friday afternoon in his own hand with the date on it and the writing is on the fourth page's bench in a book that does not travel, and it is the first thing he has written in this city in a hundred and sixty-five days that is not a refusal.**
+And this is where he broke the rule, and it is on the page, and he wrote it down at the fork on the Friday afternoon in his own hand with the date on it and the writing is on the fourth page's bench in a book that does not travel, and it is the first thing he has written in this city in a hundred and sixty-five days that is not a refusal.
 
 He had entered, in his own hand, with a date, that he is not to ask one person one question. The count is a day and a day plus one and it is a hundred and sixty-six today.
 
@@ -76,10 +76,10 @@ She looked at him for a while.
 
 "No," she said.
 
-**And he wrote it down, and the word she gave him is one word and it is not a noun, and he did not know what to do with it and did not improve on it, and he has not improved on it and has entered that he does not intend to, and it is entered that the count of days since he asked one person one question is a hundred and sixty-six and that he broke the rule he set himself and entered that he broke it, and that a woman of twenty-four entered, in her own words and without being asked, that this is the first time in a hundred and sixty-five days he has done the thing he gave up the reading for, and that she does not know what it was for.**
+And he wrote it down, and the word she gave him is one word and it is not a noun, and he did not know what to do with it and did not improve on it, and he has not improved on it and has entered that he does not intend to, and it is entered that the count of days since he asked one person one question is a hundred and sixty-six and that he broke the rule he set himself and entered that he broke it, and that a woman of twenty-four entered, in her own words and without being asked, that this is the first time in a hundred and sixty-five days he has done the thing he gave up the reading for, and that she does not know what it was for.
 
 ---
 
-**And he was not rested and the day does not call it growth, and a woman of twenty-four entered that in these words: *he is emptier and it is not a relief, and I have watched him for eight hours and he has got the face of a man who has been given a day off and does not know what a day off is for, and the difference between that and rest is that rest has an end and this has a date, and the date is twenty-four days from today, and I am putting the number in because I keep one and he does not, and that is the whole of the difference between the two of us and it took a hundred and sixty-five days to find out.***
+And he was not rested and the day does not call it growth, and a woman of twenty-four entered that in these words: *he is emptier and it is not a relief, and I have watched him for eight hours and he has got the face of a man who has been given a day off and does not know what a day off is for, and the difference between that and rest is that rest has an end and this has a date, and the date is twenty-four days from today, and I am putting the number in because I keep one and he does not, and that is the whole of the difference between the two of us and it took a hundred and sixty-five days to find out.*
 
-**And the last things on the page are two objects and both of them have been there the whole time: twenty-eight words on a slate lying face down on a shelf in a room with a door, and a chair on a landing outside a room with a door, with no name on it and no date on it and no price under it. A man of thirty-two looked at the second one on his way out at the eleventh hour of the evening and did not go near it, and nobody turned the first one over, and the count of days since he asked one person one question is a hundred and sixty-six, and it goes in one a day.**
+And the last things on the page are two objects and both of them have been there the whole time: twenty-eight words on a slate lying face down on a shelf in a room with a door, and a chair on a landing outside a room with a door, with no name on it and no date on it and no price under it. A man of thirty-two looked at the second one on his way out at the eleventh hour of the evening and did not go near it, and nobody turned the first one over, and the count of days since he asked one person one question is a hundred and sixty-six, and it goes in one a day.

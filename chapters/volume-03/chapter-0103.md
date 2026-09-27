@@ -2,11 +2,11 @@
 
 On the thirteenth day of the month after this one, which was the hundred and third day of the flood and a Saturday, about nine people went down two hundred steps of a river wall on a rail that has been condemned since the fifty-second day of the new month, and stood in front of a seam in the outer wall of the outer channel that is eighteen inches by three fingers and closed, and worked out that this city has put a page in front of a door and has never once put a question to the door, and that the two people who have gone through it were not asked, and that the reason nobody is going to find out whether those two facts are connected is that the finding out is the using.
 
-**The licence is fifty-three days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-fourth time. The black line in his right palm is one hundred and two days old and has not moved one sixteenth of an inch.**
+The licence is fifty-three days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-fourth time. The black line in his right palm is one hundred and two days old and has not moved one sixteenth of an inch.
 
 ---
 
-**The rail is condemned, and five of the nine who went down it are not of the four, and the four are the four and only four, and about four people on the wall above said so before anybody was halfway down, and it is entered that they were right and that the five came down anyway.**
+The rail is condemned, and five of the nine who went down it are not of the four, and the four are the four and only four, and about four people on the wall above said so before anybody was halfway down, and it is entered that they were right and that the five came down anyway.
 
 Nyla Ferrow, seventy, who reads the line. Peth Lomas, fifty, a mason, not of the crew, who reads the number. Elsa Skell, forty-four, of Corrow, who reads the edge and came four miles and did not enter the four miles anywhere and gave the reason on the page. Renna Ord, fifty-eight, who cannot read and reads the join by standing on it twice a day and knowing whether it has moved, which she has entered is not reading.
 
@@ -18,7 +18,7 @@ It was said. Nobody argued about it, and it is entered that the four heard it, a
 
 ---
 
-**And the four did what they do twice a day in the wrong weather with a gauge, and they did not agree, and it was the fifth time since the first of March, and all five entries stand and none has been deleted, and the twenty-fifth reading was not taken, and the reason is in a mason's words and has not changed since the first of March.**
+And the four did what they do twice a day in the wrong weather with a gauge, and they did not agree, and it was the fifth time since the first of March, and all five entries stand and none has been deleted, and the twenty-fifth reading was not taken, and the reason is in a mason's words and has not changed since the first of March.
 
 The gauge went down. The gauge came up. The dressed edge was looked at from the fourth step with a straight edge and not touched, and four entries were made in a column four lines high in a girl's book, and three of them were at a line and one of them was a sixteenth under it.
 
@@ -32,7 +32,7 @@ Nobody wrote a number. **And it is entered that the twenty-fifth reading was not
 
 ---
 
-**And then, at about the fourth step, in the wrong weather, with a gauge in one hand and a straight edge in the other, a docker of fifty-eight who cannot read said the thing the morning turned on, and it took her about four seconds, and it is hers, and it is sixteen words, and the room did not check the count, which is entered.**
+And then, at about the fourth step, in the wrong weather, with a gauge in one hand and a straight edge in the other, a docker of fifty-eight who cannot read said the thing the morning turned on, and it took her about four seconds, and it is hers, and it is sixteen words, and the room did not check the count, which is entered.
 
 "**The cost of a gate is the answer. The cost of an answer is a person.**"
 
@@ -44,7 +44,7 @@ Nobody said anything for about nineteen seconds, and it is entered that nobody d
 
 ---
 
-**And what a gate is, nobody in this city had said in a hundred and three days, and it took about nine minutes, and the sentence it turned on was said on the third day of this flood in front of a hundred and fifty people and has not been improved on by anybody since.**
+And what a gate is, nobody in this city had said in a hundred and three days, and it took about nine minutes, and the sentence it turned on was said on the third day of this flood in front of a hundred and fifty people and has not been improved on by anybody since.
 
 A gate is a thing that takes a person standing behind it. **A lock is not a hole and a hole is not a door**, and a foreman of the day crew said that on the third morning of this flood, in a yard, in about nine seconds, and it is in the book.
 
@@ -68,7 +68,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then a man of thirty-two, who is on no roster of anything and holds no mark of his own and performed one working in his life in a converted salt store nine days ago, said the thing that about four people on that wall had not been expecting, and it is entered that two of the four had been expecting it exactly.**
+And then a man of thirty-two, who is on no roster of anything and holds no mark of his own and performed one working in his life in a converted salt store nine days ago, said the thing that about four people on that wall had not been expecting, and it is entered that two of the four had been expecting it exactly.
 
 "No," he said. "**They are not the same kind of thing. A gate has taken two people and it did not ask either of them. A page ended a document and it did not ask the man who stood at the top of it. That is a resemblance. It is not a mechanism, and I am not going to let it become one in a room, and I would like it entered in a column four lines high that a man of thirty-two said no to that in about four seconds on a step.**"
 
@@ -78,7 +78,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then a woman of thirty-four years in this city, who has never read a join in the nineteen stones, said the thing the rest of the morning had been circling for two hours, and she said it flatly and to nobody in particular, and it is in the book in her own words and nobody improved on it.**
+And then a woman of thirty-four years in this city, who has never read a join in the nineteen stones, said the thing the rest of the morning had been circling for two hours, and she said it flatly and to nobody in particular, and it is in the book in her own words and nobody improved on it.
 
 "**Some of us would like to know whether the page and the gate are the same thing. Four of us, and I have watched all four of us want it since the second day of the month after this one, and I have watched three of them get within four minutes of asking it out loud in a yard in front of people.**"
 
@@ -92,17 +92,17 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then nothing happened for about nineteen minutes, which is the longest nothing that has happened on that wall in a hundred and three days, and it is entered that nothing happened, and that about four people in it understood at the end that they had been standing on a step waiting for something to happen.**
+And then nothing happened for about nineteen minutes, which is the longest nothing that has happened on that wall in a hundred and three days, and it is entered that nothing happened, and that about four people in it understood at the end that they had been standing on a step waiting for something to happen.
 
 Nobody opened the door. **The Narrow Mark has been opened twice in a hundred and three days: once on the twenty-eighth day of this flood, in breach of the terms then in force, entered as a breach and not as a precedent; and once on the twenty-fifth day of the new month, which was the fiftieth day of this flood, for one named living person, with two witnesses who did not live with him and a fresh inspection signed that morning, in about eleven minutes. The hundredth day of the flood was not one of them and this day was not one of them.** It is eighteen inches by three fingers. It is called a Mark because a mark is what you make on a thing and a door is what a thing does. It has a room at the far end of it with no window and no door anybody has found, and about eleven people have stood in that room, and every one of them was in there without being asked.
 
 ---
 
-**And then a man of thirty-two went down the last four steps into the lower gallery on his own, in the wrong weather, on a rail that is condemned, and nobody went with him and nobody had been asked to, and he stood four feet back from the wall of the second bay, which is where he has stood every time since the fourth day of this flood, and the dressed edge was where it had always been and there was no number on that wall for him to read.**
+And then a man of thirty-two went down the last four steps into the lower gallery on his own, in the wrong weather, on a rail that is condemned, and nobody went with him and nobody had been asked to, and he stood four feet back from the wall of the second bay, which is where he has stood every time since the fourth day of this flood, and the dressed edge was where it had always been and there was no number on that wall for him to read.
 
 "There is no number," he said, to nobody. "**There is a number on the second bay and I have read it out loud four times in five days and it is eight and seven-eighths and it has not moved, and the dressed edge is dressed, and the number is a number and not a sentence about anybody. And I have said that in this gallery five times now and I am going to stop saying it, because a number is a number.**"
 
-**And he could see, in a wall four feet back from him, a third thing that nobody else in that gallery could see: a line that was not in the stone, going from the dressed edge about eleven inches, and stopping, and not going anywhere, and going exactly where it would go if it went anywhere, and that is the only reason he knew that it stopped. It was there on the third day of the month after this one and it is there on the thirteenth and it will be there in six days, and he may not use it and he is not going to be able to stop seeing it. It is entered that he looked at it for about nine minutes on a Saturday in the wrong weather, and that nothing whatever came of it, and that he has still told nobody in this city what it is except a woman of twenty-four, who wrote down that she would not.**
+And he could see, in a wall four feet back from him, a third thing that nobody else in that gallery could see: a line that was not in the stone, going from the dressed edge about eleven inches, and stopping, and not going anywhere, and going exactly where it would go if it went anywhere, and that is the only reason he knew that it stopped. It was there on the third day of the month after this one and it is there on the thirteenth and it will be there in six days, and he may not use it and he is not going to be able to stop seeing it. It is entered that he looked at it for about nine minutes on a Saturday in the wrong weather, and that nothing whatever came of it, and that he has still told nobody in this city what it is except a woman of twenty-four, who wrote down that she would not.
 
 ---
 
@@ -112,4 +112,4 @@ The undertaking is void and is on a nail and is on a river and no office has bee
 
 Adrian Vale is Stage 2, Passage holder, in the doing, and performed no working today, and a line in a wall went eleven inches and stopped and he may not use it. **There have been twenty-seven things the wall has said in this city, one of them has been refused, and a morning in which a wall said nothing at all to nine people standing in front of it is a fourteenth silence, and the pattern is fourteen for fourteen.** The black line in his right palm is one hundred and two days old and has not moved one sixteenth of an inch.
 
-**And a door takes a person standing behind it and does not ask, and the room at the far end of it cannot be asked either, and on the fourteenth day of the month after this one four people sat down in a room in this city to try to write that room down and could not.**
+And a door takes a person standing behind it and does not ask, and the room at the far end of it cannot be asked either, and on the fourteenth day of the month after this one four people sat down in a room in this city to try to write that room down and could not.

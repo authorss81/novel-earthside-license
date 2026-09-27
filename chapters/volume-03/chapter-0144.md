@@ -2,7 +2,7 @@
 
 On the fifty-fourth day of the month after this one, which was the hundred and forty-fourth day of the flood and a Friday, a man of forty-one in a very good coat went down to the water and was asked, by about nine people over the course of an afternoon, which of eleven lines that office can act on, and he answered all eleven, and he said that he had not drafted the compact and was not going to, and he did not mention a letter.
 
-**The licence is ninety-four days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-nine days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-fifth time. The black line in his right palm is one hundred and forty-three days old and has not moved one sixteenth of an inch.**
+The licence is ninety-four days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-nine days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-fifth time. The black line in his right palm is one hundred and forty-three days old and has not moved one sixteenth of an inch.
 
 ---
 
@@ -20,7 +20,7 @@ He had a book on a trestle. It is his own and it is not a document and it is not
 
 ---
 
-**And then he went through the eleven lines, and he did it in the order they are in, and he said which ones his office can act on and which ones it cannot, and it took about forty minutes, and it is on the page, and nobody improved on any of it, and it is the most useful thing anybody from that office has done in a hundred and forty-four days.**
+And then he went through the eleven lines, and he did it in the order they are in, and he said which ones his office can act on and which ones it cannot, and it took about forty minutes, and it is on the page, and nobody improved on any of it, and it is the most useful thing anybody from that office has done in a hundred and forty-four days.
 
 "**One. The persons arriving are guests. There is no form for a guest. I have looked. Nothing.**"
 
@@ -32,7 +32,7 @@ He had a book on a trestle. It is his own and it is not a document and it is not
 
 ---
 
-**And then he stopped for about nineteen seconds, and the wind came along the reach, and he read the fifth line off the slate that a girl of seventeen was holding and he read it out loud in the local language, which he has not done for a person in a hundred and forty-four days, and it is the fifth line.**
+And then he stopped for about nineteen seconds, and the wind came along the reach, and he read the fifth line off the slate that a girl of seventeen was holding and he read it out loud in the local language, which he has not done for a person in a hundred and forty-four days, and it is the fifth line.
 
 > **Five. A guest may ask to stop being a guest.**
 >
@@ -52,7 +52,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And he went on, because he said he would, and he did all eleven.**
+And he went on, because he said he would, and he did all eleven.
 
 "**Six. No page describes a guest and no guest is entered in a roll. I have a column for that and I would not fill it in and I would not know what to write in it, and I have been asked why not twice this week and this is the answer. A roll is a place where a person is. I do not need a page that says a guest is not on a roll; that is what a roll is.**"
 
@@ -68,7 +68,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then he said the thing that is the fifty-fourth day of the month after this one, and it took about four minutes, and it is in a book in this city with a date on it, and nobody improved on it.**
+And then he said the thing that is the fifty-fourth day of the month after this one, and it took about four minutes, and it is in a book in this city with a date on it, and nobody improved on it.
 
 "**So. Four of the eleven I can act on and six I cannot and one of the six I want to. And that is the shape of the whole thing and I have not been in a room in four hundred miles where one side of a document could do that count.**"
 
@@ -84,7 +84,7 @@ It was entered.
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf said the last thing of the fifty-fourth day of the month after this one and it is the finding, and it is nine words and nobody counted them and nobody is going to.**
+And a woman of about thirty-four who keeps a stall by the wharf said the last thing of the fifty-fourth day of the month after this one and it is the finding, and it is nine words and nobody counted them and nobody is going to.
 
 "**Then the guest who asks to stop is the only person in it.**"
 
@@ -96,6 +96,6 @@ It is entered that she did not improve on it later, and that a man of forty-four
 
 ---
 
-**And nothing else happened on the fifty-fourth day of the month after this one that anybody has written down, and a hearing is in ten days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-eight days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-two days ago, and the water has not been received for seventy-five days counted from the sixty-ninth day of this flood, and there is a page on the back of a stone nine miles up a road that does not name the village. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-nine days, and one of the forty has not come for thirty days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-nine days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty-four days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Friday on which a man from that office counted four of eleven lines and said which six he could not act on is the fiftieth silence and the pattern is fifty for fifty.**
+And nothing else happened on the fifty-fourth day of the month after this one that anybody has written down, and a hearing is in ten days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-eight days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-two days ago, and the water has not been received for seventy-five days counted from the sixty-ninth day of this flood, and there is a page on the back of a stone nine miles up a road that does not name the village. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-nine days, and one of the forty has not come for thirty days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-nine days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty-four days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Friday on which a man from that office counted four of eleven lines and said which six he could not act on is the fiftieth silence and the pattern is fifty for fifty.
 
-**And the last thing of the fifty-fourth day of the month after this one is a book on a trestle with a number in it that was not read out, and a fifth line of nine words, and a hearing in ten days.**
+And the last thing of the fifty-fourth day of the month after this one is a book on a trestle with a number in it that was not read out, and a fifth line of nine words, and a hearing in ten days.

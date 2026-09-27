@@ -2,13 +2,13 @@
 
 On the fifty-seventh and fifty-eighth days of the month after this one, which were the hundred and forty-seventh and hundred and forty-eighth days of the flood and a Monday and a Tuesday, a girl of seventeen went to nine kitchens over two days and told nine households that there was a room, and where it was, and on what day, and that if they came nobody would write down that they had, and if they did not come nobody would write down that they had not, and nothing at all was written down about any of it.
 
-**The licence is ninety-seven days old and then ninety-eight. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty-two days ago and then sixty-three. The fee of eleven ounces of silver is entered as owing with no date for the eighty-eighth time. The black line in his right palm is one hundred and forty-six days old and then one hundred and forty-seven, and it has not moved one sixteenth of an inch.**
+The licence is ninety-seven days old and then ninety-eight. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty-two days ago and then sixty-three. The fee of eleven ounces of silver is entered as owing with no date for the eighty-eighth time. The black line in his right palm is one hundred and forty-six days old and then one hundred and forty-seven, and it has not moved one sixteenth of an inch.
 
 ---
 
-**A hearing is in seven days, and on the second of these two days it is in six, and there is one hearing and one clock, and on the fifty-sixth day of the month after this one about nine people decided in a kitchen not to ask anybody anything in a room, because nine people hearing eight other people's answers is eight other people hearing eight answers.**
+A hearing is in seven days, and on the second of these two days it is in six, and there is one hearing and one clock, and on the fifty-sixth day of the month after this one about nine people decided in a kitchen not to ask anybody anything in a room, because nine people hearing eight other people's answers is eight other people hearing eight answers.
 
-**And nobody broke that, and this is on the page and it is the finding of the fifty-seventh day of the month after this one: a decision not to put nine people in one room is not a decision not to go to nine rooms, and a girl of seventeen went to nine rooms, one at a time, over two days, and no two of them ever met.**
+And nobody broke that, and this is on the page and it is the finding of the fifty-seventh day of the month after this one: a decision not to put nine people in one room is not a decision not to go to nine rooms, and a girl of seventeen went to nine rooms, one at a time, over two days, and no two of them ever met.
 
 ---
 
@@ -32,7 +32,7 @@ She said what she had to say, which took about four seconds, and then she stood 
 
 ---
 
-**And the woman of the fourth kitchen said the thing that made the whole two days turn, and she said it standing at a door in the wrong weather with her hands full, and it is on the page, and nobody improved on it, and it is not about the hearing.**
+And the woman of the fourth kitchen said the thing that made the whole two days turn, and she said it standing at a door in the wrong weather with her hands full, and it is on the page, and nobody improved on it, and it is not about the hearing.
 
 "**Is there salt in it.**"
 
@@ -44,7 +44,7 @@ She said what she had to say, which took about four seconds, and then she stood 
 
 ---
 
-**And the difference between the eighth kitchen and the ninth kitchen is the whole of the fifty-seventh day of the month after this one, and it is a difference of eight days, and a girl of seventeen noticed it and nobody else did, and it is on the page.**
+And the difference between the eighth kitchen and the ninth kitchen is the whole of the fifty-seventh day of the month after this one, and it is a difference of eight days, and a girl of seventeen noticed it and nobody else did, and it is on the page.
 
 The ninth household was not told until the Tuesday. Everything else had been told on the Monday or before.
 
@@ -58,7 +58,7 @@ The ninth household was not told until the Tuesday. Everything else had been tol
 
 ---
 
-**And on the Tuesday she was in a kitchen and somebody asked her the question she has been not asked for a hundred and forty-seven days, and it was a woman of about thirty-four, and it was not the stall-keeper.**
+And on the Tuesday she was in a kitchen and somebody asked her the question she has been not asked for a hundred and forty-seven days, and it was a woman of about thirty-four, and it was not the stall-keeper.
 
 "**What will you do if nobody comes?**"
 
@@ -72,13 +72,13 @@ The girl of seventeen did not answer for about nineteen seconds.
 
 ---
 
-**And on the Tuesday afternoon about nine people went up a stair to a landing and stood outside a room with a door, and the box is in there, and the strap on it is still untied, and nobody went in.**
+And on the Tuesday afternoon about nine people went up a stair to a landing and stood outside a room with a door, and the box is in there, and the strap on it is still untied, and nobody went in.
 
 They had been going up for nine days because of a toll nobody had voted for, and a docker of fifty-eight who cannot read had said she was not going up that stair again and had not gone up it since the thirty-first day of the month after this one, which was nineteen days ago.
 
 The chair is still on the landing. It came from the hall below on the second day of the month after this one and it has no price and no date and no right of refusal and no page under it, and it is the only thing in this city that is allowed to be nothing.
 
-**And a notary of fifty was asked five times in five days about being asked before the box is opened, and has answered none of the five, and the fifth asking was written out on a slate on the thirty-first day of the month after this one and not delivered, and it is twenty-six days since that slate was written and then twenty-seven, and nobody has asked her a sixth time in either of them, and the not-knowing is the entry.**
+And a notary of fifty was asked five times in five days about being asked before the box is opened, and has answered none of the five, and the fifth asking was written out on a slate on the thirty-first day of the month after this one and not delivered, and it is twenty-six days since that slate was written and then twenty-seven, and nobody has asked her a sixth time in either of them, and the not-knowing is the entry.
 
 A girl of seventeen stood on the landing and looked at the chair for about nineteen seconds.
 
@@ -90,6 +90,6 @@ A girl of seventeen stood on the landing and looked at the chair for about ninet
 
 ---
 
-**And nothing else happened on the fifty-seventh and fifty-eighth days of the month after this one that anybody has written down. A hearing is in seven days and then in six, and there is one hearing and one clock. And a box is in a room with a door and has been there thirty-one days and then thirty-two, and is not opened, and the strap on it is still untied. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it and has said he will answer it in a room on a day with a date on it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-five days ago and then thirty-six, and the water has not been received for seventy-eight days and then seventy-nine counted from the sixty-ninth day of this flood, and there is a page on the back of a stone nine miles up a road about it that does not name the village. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is sixty-two days and then sixty-three, and one of the forty has not come for thirty-three days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for sixty-two days and then sixty-three. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch has said nothing in a hundred and forty-eight days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And the fifty-seventh and fifty-eighth days of the month after this one are the fifty-third and fifty-fourth silences and the pattern is fifty-four for fifty-four.**
+And nothing else happened on the fifty-seventh and fifty-eighth days of the month after this one that anybody has written down. A hearing is in seven days and then in six, and there is one hearing and one clock. And a box is in a room with a door and has been there thirty-one days and then thirty-two, and is not opened, and the strap on it is still untied. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it and has said he will answer it in a room on a day with a date on it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-five days ago and then thirty-six, and the water has not been received for seventy-eight days and then seventy-nine counted from the sixty-ninth day of this flood, and there is a page on the back of a stone nine miles up a road about it that does not name the village. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is sixty-two days and then sixty-three, and one of the forty has not come for thirty-three days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for sixty-two days and then sixty-three. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch has said nothing in a hundred and forty-eight days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And the fifty-seventh and fifty-eighth days of the month after this one are the fifty-third and fifty-fourth silences and the pattern is fifty-four for fifty-four.
 
-**And the last thing of the fifty-eighth day of the month after this one is a chair on a landing with no date on it, and a slate that was written on the thirty-first day of the month after this one and not delivered, and a girl of seventeen who went to nine kitchens and wrote nothing down, and a hearing in six days.**
+And the last thing of the fifty-eighth day of the month after this one is a chair on a landing with no date on it, and a slate that was written on the thirty-first day of the month after this one and not delivered, and a girl of seventeen who went to nine kitchens and wrote nothing down, and a hearing in six days.

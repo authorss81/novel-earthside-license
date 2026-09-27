@@ -2,7 +2,7 @@
 
 On the eighth day of the month after this one, which was the ninety-eighth day of the flood and a Monday, the Lantern Concord's quarterly description of its own district went down to a wharf in a wooden case with a strap and a wax and a second strap, and it is complete, and it is true, and it carries nothing that anybody in a building nine hundred miles away can act on, and that is the design and not an accident, and the eighth column of it was answered with a question and not with a name because a Hearthguard of forty-four asked for that and gave a reason that is on the page in his own words.
 
-**The licence is forty-eight days old. The undertaking is void. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the thirty-ninth time, and it has no date today for the first reason anybody in this city has ever been able to give.**
+The licence is forty-eight days old. The undertaking is void. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the thirty-ninth time, and it has no date today for the first reason anybody in this city has ever been able to give.
 
 ---
 
@@ -14,7 +14,7 @@ The description has eight columns. It has gone four times a year for as long as 
 
 ---
 
-**And the eight columns were filled in over four hours by nine people, and about two hundred and thirty people in this city have not seen it and will not see it, and a girl of seventeen read out what went in the seventh column and it is the only column anybody in about nine people in that room considers a lie, and it is not a lie.**
+And the eight columns were filled in over four hours by nine people, and about two hundred and thirty people in this city have not seen it and will not see it, and a girl of seventeen read out what went in the seventh column and it is the only column anybody in about nine people in that room considers a lie, and it is not a lie.
 
 The seventh column is headed *description of persons not belonging to this district* and it says, in sixteen words on the face of the form, and it has said it since the fifty-second day of the new month: **they were described in the quarter last past and nothing has been asked of them since.** And the receiving-party cell carries a cross in the notary's hand with nineteen words underneath, and the nineteen words are on the page and may not be changed: **no receiving party has been asked and none has agreed and this is not the same as none existing.**
 
@@ -26,7 +26,7 @@ The seventh column is headed *description of persons not belonging to this distr
 
 ---
 
-**And the eighth column is headed *person to be asked*, and it is the only seat in eight columns, and it has been answered twice before, and both of the times before it was answered with a refusal, and today it was answered with a question, and the man it is about asked for that himself.**
+And the eighth column is headed *person to be asked*, and it is the only seat in eight columns, and it has been answered twice before, and both of the times before it was answered with a refusal, and today it was answered with a question, and the man it is about asked for that himself.
 
 Hettis Roke is forty-four and has been in the Hearthguard of the outer ward for nineteen years and he is one of the four who signed the inspection on the fourth day of the flood and one of the four who authorised the route, and on the thirtieth day of the new month, which was the fifty-fifth day of the flood, he said in a yard in front of about two hundred and forty people that the names of eight people were written down once, in a book, in his grandfather's hand, in the year the ground was made, and that the book went to Aurel in a wooden case four times a year on a river boat, and that the count was eight every year until the year the gate was taken off the roll, and that **nobody came. Not a clerk, not a stone-cutter, not a woman with a list. The stones stayed, because stones stay, and the names went, because names go.**
 
@@ -42,7 +42,7 @@ That is on the page in his own words and nobody improved on it and it is in the 
 
 ---
 
-**And the question is on the page, and it is four sentences, and it names nobody, and it is the sharpest thing this city has sent out of it in ninety-eight days and it is not answered.**
+And the question is on the page, and it is four sentences, and it names nobody, and it is the sharpest thing this city has sent out of it in ninety-eight days and it is not answered.
 
 > **The count of eight was entered for a gate nineteen times. The gate is off the roll.**
 >
@@ -60,7 +60,7 @@ That is on the page in his own words and nobody improved on it and it is in the 
 
 ---
 
-**And at about the sixth hour of the evening, before the case was carried down, a woman of twenty-nine said the sentence that is the finding of the eighth day of the month after this one, and about nine people in that room understood all of it and about two hundred and thirty people in this city will be told four words of it inside a month, and it has never been said before.**
+And at about the sixth hour of the evening, before the case was carried down, a woman of twenty-nine said the sentence that is the finding of the eighth day of the month after this one, and about nine people in that room understood all of it and about two hundred and thirty people in this city will be told four words of it inside a month, and it has never been said before.
 
 "**A district which describes itself honestly is a district that will be described correctly,**" she said, "**and that is the first time anybody in this city has said anything like it and it is not a finding about honesty. Every office in the world that keeps a roll fills a column from what the place sends it, and this city has been sending a hole on purpose for nine days, and a hole is a place where a number used to be, and an office that gets a hole knows it has been lied to about one thing and can ask about that one thing. The roll of strangers is on a quay in Aurel with a hole in it. If we had filled it, nobody nine hundred miles away would ever have known there was a question here at all. In about eight weeks there is a hearing. We have sent them the question before the hearing, and we did not have to do it, and it is the emptiest thing in the case, and it is the only thing in the case anybody can do anything with.**"
 
@@ -68,7 +68,7 @@ Nobody argued with it. **It is entered that about nine people in that room under
 
 ---
 
-**And then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it is the twenty-seventh thing the wall has said in this city, and it was refused in under a second, out loud, in the local language, and it is the first time in ninety-eight days that anything the wall has said has been registered as a refusal, and the standing that it has never once registered one ends on the eighth day of the month after this one in a room over a market.**
+And then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it is the twenty-seventh thing the wall has said in this city, and it was refused in under a second, out loud, in the local language, and it is the first time in ninety-eight days that anything the wall has said has been registered as a refusal, and the standing that it has never once registered one ends on the eighth day of the month after this one in a room over a market.
 
 > **A description of a district may be completed by any person in the district who has read it.**
 >
@@ -82,9 +82,9 @@ And it is entered that a clerk of the Registry at Aurel, who has sat at a table 
 
 ---
 
-**And at about the seventh hour of the evening the case went down to the wharf with a strap and a wax and a second strap, and the carrier was paid, and about nine people stood on a quay and about two hundred and thirty people in this city knew nothing about it.**
+And at about the seventh hour of the evening the case went down to the wharf with a strap and a wax and a second strap, and the carrier was paid, and about nine people stood on a quay and about two hundred and thirty people in this city knew nothing about it.
 
-**And nobody in this city said the word *budget*, and it is entered that a girl of seventeen waited for it on a quay for about nine minutes and it did not come, and that a man of about forty-four who keeps a stall has been asked to put a figure on the end of a cost column nine times in ninety-eight days and has said no nine times, and that this is the tenth and it is the first time the refusal was on the record before anybody asked.**
+And nobody in this city said the word *budget*, and it is entered that a girl of seventeen waited for it on a quay for about nine minutes and it did not come, and that a man of about forty-four who keeps a stall has been asked to put a figure on the end of a cost column nine times in ninety-eight days and has said no nine times, and that this is the tenth and it is the first time the refusal was on the record before anybody asked.
 
 And the fee of eleven ounces of silver is entered as owing with no date, and it has no date, and the reason is on the page in a woman of fifty's hand and it is eighteen words, and it is new, and it is about a form for the first time in ninety-eight days.
 

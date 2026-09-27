@@ -4,7 +4,7 @@ A man of about thirty-four who keeps a stall put a slate down face down on the b
 
 ---
 
-**And the reason he gave the first time was that a slate is a page and a page is a place a person can be found in, and the reason he gave the second time was that a slate face down on the boards of a stall in a market is the ninth line of a document. He said that out loud and then stood there and let about nine people in that market work out what he had just said about himself.**
+And the reason he gave the first time was that a slate is a page and a page is a place a person can be found in, and the reason he gave the second time was that a slate face down on the boards of a stall in a market is the ninth line of a document. He said that out loud and then stood there and let about nine people in that market work out what he had just said about himself.
 
 "I did it twice because I did not know which one it was."
 
@@ -20,7 +20,7 @@ Nobody in that market stopped working. Somebody four stalls down began planing a
 
 ---
 
-**And what he said was four sentences long and there was no figure in any of them. About nine people in that market heard it, and about four of them have said since that it is the only thing anybody has said in a market in this city in fourteen days that they could not argue with. He has not improved on it.**
+And what he said was four sentences long and there was no figure in any of them. About nine people in that market heard it, and about four of them have said since that it is the only thing anybody has said in a market in this city in fourteen days that they could not argue with. He has not improved on it.
 
 "**The ninth line is worth exactly what the queue was worth before I wrote it down. The queue was worth a sack and a place at a fire and a Tuesday, and it is worth a sack and a place at a fire and a Tuesday, and the page has not changed what it is worth by one grain of salt.**"
 
@@ -34,7 +34,7 @@ Nobody in that market stopped working. Somebody four stalls down began planing a
 
 ---
 
-**And then a man of about thirty-nine who trades on the Open Hand board said the one question he had come for, and he asked it in a market in daylight with his own board shut in front of him and about four people heard it. About nine of them had asked it themselves since the forty-fifth day of the Long Month. It is the question that has not been answered and this chapter did not answer it either.**
+And then a man of about thirty-nine who trades on the Open Hand board said the one question he had come for, and he asked it in a market in daylight with his own board shut in front of him and about four people heard it. About nine of them had asked it themselves since the forty-fifth day of the Long Month. It is the question that has not been answered, and about four people in that market had worked that out before he opened his mouth.
 
 "Does it work."
 
@@ -54,7 +54,7 @@ Nobody in that market stopped working. Somebody four stalls down began planing a
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from that market came in at about the eleventh hour and said one thing, and there was dust on the outside of her sleeves from the four streets again. She has said one thing about a wall in a room over a yard on the fifty-seventh day of the Long Month and about four people in this market have heard both, and she did not improve on the earlier one and she did not repeat it.**
+And a woman of about fifty-six who keeps a shop four streets down from that market came in at about the eleventh hour and said one thing, and there was dust on the outside of her sleeves from the four streets again. She has said one thing about a wall in a room over a yard on the fifty-seventh day of the Long Month and about four people in this market have heard both, and she did not improve on the earlier one and she did not repeat it.
 
 "**A man of about thirty-four has just said in this market that he would take the ninth line off the page and is not going to. I keep a shop four streets from here and I have had about four people in that shop ask me whether the queue is still on the page every day since the forty-sixth day of the Long Month, and every single one of them asked me because they were afraid, and not one of them asked because they wanted to know whether it worked.**"
 
@@ -64,7 +64,7 @@ Nobody in that market stopped working. Somebody four stalls down began planing a
 
 ---
 
-**And a man of about thirty-one with a hand that will not close, who is the only person in a room who says he does not know out loud without being asked, worked out a way to find out what the ninth line is worth in about four minutes in that market. He did it with the hand that closes, moving it over the boards of the stall a span at a time, and it is cheap, and he said it out loud, and about four people in that market said afterwards that they had already worked it out and were not going to do it.**
+And a man of about thirty-one with a hand that will not close, who is the only person in a room who says he does not know out loud without being asked, worked out a way to find out what the ninth line is worth in about four minutes in that market. He did it with the hand that closes, moving it over the boards of the stall a span at a time, and it is cheap, and he said it out loud, and about four people in that market said afterwards that they had already worked it out and were not going to do it.
 
 "**Go and stand in a market on a Tuesday and count how many people come to a stall to ask whether the queue is still on the page. That is the whole of the test. It costs nothing. It takes about four hours. About four people in this city have already told me they are going to do it and not one of them has told me they are not, and about nine of them are going to do it and tell me the number anyway, and I have been the man who says *I do not know* out loud in about nine rooms since the thirty-seventh day of the Long Month and I have never once been able to stop anybody counting something.**"
 
@@ -78,7 +78,7 @@ Nobody in that market stopped working. Somebody four stalls down began planing a
 
 ---
 
-**And a woman of about twenty-four who is on no roll of anything was in that market and had a slate under her arm, and she wrote one sentence down and then stopped writing and did not start again, and she put the chalk down on the boards of the stall rather than back in her pocket. It is entered that about four people in that market saw her do it and about nine of them did not know there was anything to write.**
+And a woman of about twenty-four who is on no roll of anything was in that market and had a slate under her arm, and she wrote one sentence down and then stopped writing and did not start again, and she put the chalk down on the boards of the stall rather than back in her pocket. It is entered that about four people in that market saw her do it and about nine of them did not know there was anything to write.
 
 "What did you write."
 
@@ -90,6 +90,6 @@ Nobody in that market stopped working. Somebody four stalls down began planing a
 
 ---
 
-**And the slate was face up on the boards of that stall at the fourth hour of the afternoon with nothing on it, and the boards had dried and the water in the joints had gone and the slate had them under it. The man who writes on it when he is told not to did not pick it up again, and about nine people in that market walked past it.**
+And the slate was face up on the boards of that stall at the fourth hour of the afternoon with nothing on it, and the boards had dried and the water in the joints had gone and the slate had them under it. The man who writes on it when he is told not to did not pick it up again, and about nine people in that market walked past it.
 
-**And a queue in a yard nine miles up the road with a page with it on at the bottom, and a Saturday with no queue in it anywhere in this city.**
+And a queue in a yard nine miles up the road with a page with it on at the bottom, and a Saturday with no queue in it anywhere in this city.

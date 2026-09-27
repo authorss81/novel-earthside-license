@@ -6,7 +6,7 @@ Nobody builds anything on a Sunday, and the causeway is four miles and four feet
 
 ---
 
-**And about four hundred and forty people dry salt on those flats, and about nine of them are on the settlement's rota in four hands, and the rest have never been on it and are paid in salt and a place at a fire, and this morning about nine of them walked four miles up a road they have worked beside for nine weeks and did not know until Saturday that there was a second way to look at it.**
+And about four hundred and forty people dry salt on those flats, and about nine of them are on the settlement's rota in four hands, and the rest have never been on it and are paid in salt and a place at a fire, and this morning about nine of them walked four miles up a road they have worked beside for nine weeks and did not know until Saturday that there was a second way to look at it.
 
 "Say the number again."
 
@@ -18,7 +18,7 @@ Nobody builds anything on a Sunday, and the causeway is four miles and four feet
 
 ---
 
-**And the man of about fifty-two who digs was at the bottom of the cut at about the ninth hour of the morning, standing in six days of nothing, and he had a rod in his hand and he put the rod down when about nine people came over the bank, and he said the number of days out loud before anybody asked him for it, which is a thing he has done twice now.**
+And the man of about fifty-two who digs was at the bottom of the cut at about the ninth hour of the morning, standing in six days of nothing, and he had a rod in his hand and he put the rod down when about nine people came over the bank, and he said the number of days out loud before anybody asked him for it, which is a thing he has done twice now.
 
 "**Six days.**"
 
@@ -30,7 +30,7 @@ Nobody builds anything on a Sunday, and the causeway is four miles and four feet
 
 ---
 
-**And then a woman of about thirty-four from a fourth household on the road asked the question that the whole of the forty-seventh day of the Long Month turned on, and she asked it in the middle of four miles of causeway with about nine people on it and about four hundred and forty people four miles below them who cannot hear a word of it, and she asked it in the plainest words anybody has used since the seventh week of this flood.**
+And then a woman of about thirty-four from a fourth household on the road asked the question that the whole of the forty-seventh day of the Long Month turned on, and she asked it in the middle of four miles of causeway with about nine people on it and about four hundred and forty people four miles below them who cannot hear a word of it, and she asked it in the plainest words anybody has used since the seventh week of this flood.
 
 "How do I get on it."
 
@@ -50,7 +50,7 @@ And that stopped the four of them on that causeway for longer than the question 
 
 ---
 
-**And about halfway up, where the bank is high enough to look down into the channel, they stopped for a while without any of them deciding to, and there are four hundred and forty racks standing in that channel with reed mats and stones along the top of them, and a rack that has not been worked does not come off, and a rack that has been worked does not stop drying, and salt does not rot.**
+And about halfway up, where the bank is high enough to look down into the channel, they stopped for a while without any of them deciding to, and there are four hundred and forty racks standing in that channel with reed mats and stones along the top of them, and a rack that has not been worked does not come off, and a rack that has been worked does not stop drying, and salt does not rot.
 
 "Then that is the whole of the work."
 
@@ -64,7 +64,7 @@ He put the rod back in the ground where it had been before about nine people cam
 
 ---
 
-**And a third of the way up the causeway a man of about thirty-four who keeps a stall caught up with them, and he had walked up from the store, and he had been in this city since the second month of this flood, and he said the one thing about the seventh line that anybody said that day, and it is the only line in the eleven that says anything at all about a road, and nobody in the room on Friday knew which road it was, and about four people in this city have worked that out since and not said so out loud.**
+And a third of the way up the causeway a man of about thirty-four who keeps a stall caught up with them, and he had walked up from the store, and he had been in this city since the second month of this flood, and he said the one thing about the seventh line that anybody said that day, and it is the only line in the eleven that says anything at all about a road, and nobody in the room on Friday knew which road it was, and about four people in this city have worked that out since and not said so out loud.
 
 "**The road is open to everybody on a posted day.**"
 
@@ -82,7 +82,7 @@ He put the rod back in the ground where it had been before about nine people cam
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from a market said one thing to the man of about thirty-four who keeps a stall as about nine people came past them going down, and she has served him for six years and she does not know what the seventh line says, and she said it to about nine people and it went up the causeway and about four hundred and forty people heard it by the fourth hour of the afternoon.**
+And a woman of about fifty-six who keeps a shop four streets down from a market said one thing to the man of about thirty-four who keeps a stall as about nine people came past them going down, and she has served him for six years and she does not know what the seventh line says, and she said it to about nine people and it went up the causeway and about four hundred and forty people heard it by the fourth hour of the afternoon.
 
 "Then somebody is going to work it out and it is going to be worked out in a yard, and you know what a yard is."
 
@@ -92,7 +92,7 @@ He put the rod back in the ground where it had been before about nine people cam
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road said the thing that about four hundred and forty people have been living inside since the seventh week of this flood and have not been able to say in a room, and she said it in the plainest words she has and she did not improve on it afterwards, and about four of the people on that causeway heard it and about four hundred and thirty-one people four miles below heard nothing.**
+And a woman of about thirty-four from a fourth household on the road said the thing that about four hundred and forty people have been living inside since the seventh week of this flood and have not been able to say in a room, and she said it in the plainest words she has and she did not improve on it afterwards, and about four of the people on that causeway heard it and about four hundred and thirty-one people four miles below heard nothing.
 
 "**There is a man nine hundred miles from here who pays all four hundred and forty of us, and he pays in salt and a place at a fire, and there is no route in this world that gets to him, and no page anywhere that tells him anything, and I have been standing at the end of this causeway about nine times in nine weeks working out how to tell him, and I have not worked it out, and the reason I have not worked it out is that there is no way to tell him and I am not going to pretend that wanting to tell him is the same as being able to.**"
 
@@ -104,4 +104,4 @@ Nobody wrote it down. About four people in that group have said since that they 
 
 ---
 
-**And about four of them stood on the causeway in the middle of the four miles with the wind off the water, and none of them had a load, and one of them was on no line of the posting at all.**
+And about four of them stood on the causeway in the middle of the four miles with the wind off the water, and none of them had a load, and one of them was on no line of the posting at all.

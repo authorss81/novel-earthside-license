@@ -20,7 +20,7 @@ Nobody was asked. That is the whole of the instrument and it was built in about 
 
 ---
 
-**And here is what was said, and it is in the order it happened, and nobody improved on any of it, and the woman of twenty-four wrote none of it down and has not been asked to and did not offer.**
+And here is what was said, and it is in the order it happened, and nobody improved on any of it, and the woman of twenty-four wrote none of it down and has not been asked to and did not offer.
 
 The first was a woman of about thirty-four from a fourth household on the road, and it was four sentences and all four of them were about a roof.
 
@@ -50,21 +50,21 @@ The sixth was a man of about thirty-nine who trades on the Open Hand board, and 
 
 ---
 
-**And the seventh was a woman of about twenty-nine who keeps a public register, and it is short, and the only instruction on it is hers, and about four people in that room knew before she said it that she was going to say it and nobody has improved on it since.**
+And the seventh was a woman of about twenty-nine who keeps a public register, and it is short, and the only instruction on it is hers, and about four people in that room knew before she said it that she was going to say it and nobody has improved on it since.
 
 "**Four people and a question have not left for the ground people call the First Landing. Nobody has been asked whether they will go, and nobody is going to be asked, and the only instruction it has is *to open nothing*, and that is my sentence and I wrote it and I have said four times in a hundred and ninety-two days that I wrote it. The cost is that in about four months somebody is going to say a delegation was sent to open something, and I am the person who wrote the words, and I am on a public register with my name in the second line, and the cost of the cost is that I cannot stop it without making a speech about a person, and a speech about somebody is a thing I do not do.**"
 
-**And the eighth was a woman of about thirty-four who keeps a stall by the wharf, who has been on nothing for a hundred and ninety-two days and who said so first before anybody asked her anything.**
+And the eighth was a woman of about thirty-four who keeps a stall by the wharf, who has been on nothing for a hundred and ninety-two days and who said so first before anybody asked her anything.
 
 "**I have a slate I have not written on in nine years. I have stood in a settlement's queue for two hours in bad weather and copied nothing and brought a cup of water out of a barrel to a woman and did not ask her name. I was the first person in four hundred miles to say that Redroot was a place, and I was the first person to refuse the naming of a commons on a correct principle. I have found the reading of a share with no date on it, and the reading is *it is a queue*. And the cost is that all four of those things are me being useful, and a person who is useful is a person who can be found, and I have spent nine years making sure of exactly the opposite, and on the twenty-fourth day of the Long Month I said good out loud twice to nobody about a door, and a man of about thirty-nine who trades on the Open Hand board has been the only person in this city who knew I was there and he has never once said so.**"
 
-**And the ninth was a woman of about fifty who counts water on the fingers of her left hand, and the room had not been told she was coming, and she had been in about nine rooms in a hundred and ninety-two days, and she said the cost in her own words and it is four sentences and it is on the page because the woman who wrote the fourth line of a term sheet in the eighth week of this flood is standing in a room saying what it cost her.**
+And the ninth was a woman of about fifty who counts water on the fingers of her left hand, and the room had not been told she was coming, and she had been in about nine rooms in a hundred and ninety-two days, and she said the cost in her own words and it is four sentences and it is on the page because the woman who wrote the fourth line of a term sheet in the eighth week of this flood is standing in a room saying what it cost her.
 
 "**The Reach keeps a record of who may use a water gate and I have written most of it myself for nine years and every name on it is alive and it is the only list in four hundred miles that has never been wrong about a person. I asked a woman of thirty-eight at a junction on the third day of the Long Month why she had said no to being asked and she gave me a reason I have not been able to argue with in about thirty-four days. The cost is that I have been the only person in this city who keeps one, and I said the base out loud in a room on the eighty-seventh day of this flood and I am tired of being the only person who keeps one, and about four people in this room have said that sentence nine times in four hundred miles and nobody has done anything about it, and I have done nothing about it, and I am not going to.**"
 
 ---
 
-**And there was a tenth, and she had been in the room since the sixth hour of the morning and had not spoken, and the reason she waited was that she is an anchorwright and that she is the person this city has been using as a check on a man for a hundred and ninety-two days, and a check is not a person, and she has been saying that in her own words in about nine rooms since the second month of this flood.**
+And there was a tenth, and she had been in the room since the sixth hour of the morning and had not spoken, and the reason she waited was that she is an anchorwright and that she is the person this city has been using as a check on a man for a hundred and ninety-two days, and a check is not a person, and she has been saying that in her own words in about nine rooms since the second month of this flood.
 
 Tamsin Quill said her cost in six sentences and it is in a book in this city in her own words and nobody improved on it and about four people in that room did not look at the man of about thirty-two while she said it, on purpose, and he noticed and has entered that he noticed.
 
@@ -92,12 +92,12 @@ He did not say the next thing. It is entered that he did not say it and that abo
 
 ---
 
-**And the eleventh and last was a woman of about twenty-four who is on no roll of anything and who has written down every decision this city has made since the second day of the flood, and she said her cost in two sentences and she said it last, and nobody had asked her and about four people in that room had assumed she would not say it.**
+And the eleventh and last was a woman of about twenty-four who is on no roll of anything and who has written down every decision this city has made since the second day of the flood, and she said her cost in two sentences and she said it last, and nobody had asked her and about four people in that room had assumed she would not say it.
 
 "**I have a cost too and it is the cheapest and it is the only one on this page that is not being paid in something anybody can carry, and it is this: I have been the record for a hundred and ninety-two days and nobody has ever asked me what it costs, and about four people in this room have just done it, and about six days ago I chose not to write down a split in a yard, and I have not written it down since, and I have looked for it about nine times.**
 
 **The cost is that I am the only person in this city who can be checked. Anybody else can be argued with. I cannot, because I do not say what I mean and I do not write what I am told and I am on no roll and I have a slate, and a person who cannot be argued with is a person nobody argues with, including me, and I have been alone with a book for a hundred and ninety-two days and I have just found out in a room that about nine people will now say a thing to me out loud, and I do not know whether that is the beginning of the end of the book or the end of the aloneness, and I am not going to find out in this room.**"
 
-**And then a woman of about thirty-four named nothing and said no more, and a man of about thirty-two was in that room and did not say a word, and a man of thirty-two being in a room where eleven people each said a cost and saying nothing is the third time in a hundred and ninety-two days and the first time nobody has been angry about it.**
+And then a woman of about thirty-four named nothing and said no more, and a man of about thirty-two was in that room and did not say a word, and a man of thirty-two being in a room where eleven people each said a cost and saying nothing is the third time in a hundred and ninety-two days and the first time nobody has been angry about it.
 
-**A slate under a woman's arm with nothing on it, in a room with a table in it and a door with a date in chalk on it.**
+A slate under a woman's arm with nothing on it, in a room with a table in it and a door with a date in chalk on it.

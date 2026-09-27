@@ -2,7 +2,7 @@
 
 On the fifty-fifth day of the month after this one, which was the hundred and forty-fifth day of the flood and a Saturday, about nine people in a room over a market agreed that if the thing on the sixty-fourth day of the month after this one goes the way anybody in this city hopes it goes, it will be a recognition and it will be provisional, and a provisional recognition has a price on it, and the price is four people and a question going to the ruins of the First Landing, and nobody asked a person whether they would go, because a person who is asked whether they would go is a person on a list.
 
-**The licence is ninety-five days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-sixth time. The black line in his right palm is one hundred and forty-four days old and has not moved one sixteenth of an inch.**
+The licence is ninety-five days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-sixth time. The black line in his right palm is one hundred and forty-four days old and has not moved one sixteenth of an inch.
 
 ---
 
@@ -16,7 +16,7 @@ On the fifty-fifth day of the month after this one, which was the hundred and fo
 
 ---
 
-**And then she said the whole of what she had, and it took about four minutes, and it is on the page, and nobody improved on it, and it is the only description of the First Landing that exists anywhere in four hundred miles.**
+And then she said the whole of what she had, and it took about four minutes, and it is on the page, and nobody improved on it, and it is the only description of the First Landing that exists anywhere in four hundred miles.
 
 "**Three things, and I am going to keep them apart, which is a thing I do and which about four people in this city have learned to expect.**"
 
@@ -34,7 +34,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then a man of thirty-two said the part of the fifty-fifth day of the month after this one that is the finding, and it took about four minutes, and nobody improved on it, and it is entered as what a person said and not as a finding.**
+And then a man of thirty-two said the part of the fifty-fifth day of the month after this one that is the finding, and it took about four minutes, and nobody improved on it, and it is entered as what a person said and not as a finding.
 
 "**It is a list.**"
 
@@ -52,7 +52,7 @@ Nobody said anything for about nineteen seconds, and a girl of seventeen wrote t
 
 ---
 
-**And then a man of thirty-nine said the thing that everybody in that room had been waiting about four days for, and it took him about nine seconds, and it is the first thing he has said in this city in a hundred and forty-five days that nobody had to ask him for.**
+And then a man of thirty-nine said the thing that everybody in that room had been waiting about four days for, and it took him about nine seconds, and it is the first thing he has said in this city in a hundred and forty-five days that nobody had to ask him for.
 
 "**I will go.**"
 
@@ -68,7 +68,7 @@ It was written down, without the first.
 
 ---
 
-**And then a man of thirty-two said the thing about himself, and it is on the page, and it is four sentences and nobody in that room argued with any of it, and nobody said it was a pity, and it is entered that about four people in that room wanted to say something else and did not.**
+And then a man of thirty-two said the thing about himself, and it is on the page, and it is four sentences and nobody in that room argued with any of it, and nobody said it was a pity, and it is entered that about four people in that room wanted to say something else and did not.
 
 "**I cannot go.**"
 
@@ -82,7 +82,7 @@ It was written down, without the first.
 
 ---
 
-**And a woman of twenty-nine who keeps a public register then said what the delegation is for, and it is on the page, and it is four lines, and it does not resolve anything and nobody improved on it.**
+And a woman of twenty-nine who keeps a public register then said what the delegation is for, and it is on the page, and it is four lines, and it does not resolve anything and nobody improved on it.
 
 > **To the ground four hundred miles inland that people call the First Landing: to say what is standing on it; to say whether there is a seam in the ground; if there is, to say how long it is and what is in it; to open nothing; to come back; and to say it in a room, in daylight, in the local language, with a date on it.**
 
@@ -94,6 +94,6 @@ It was written down, without the first.
 
 ---
 
-**And nothing else happened on the fifty-fifth day of the month after this one that anybody has written down, and a hearing is in nine days and there is one hearing and one clock, and none of the above is decided. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-nine days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-three days ago, and the water has not been received for seventy-six days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is sixty days, and one of the forty has not come for thirty-one days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for sixty days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty-five days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Saturday on which four people and a question were agreed to a piece of ground four hundred miles inland and nobody was asked is the fifty-first silence and the pattern is fifty-one for fifty-one.**
+And nothing else happened on the fifty-fifth day of the month after this one that anybody has written down, and a hearing is in nine days and there is one hearing and one clock, and none of the above is decided. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-nine days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-three days ago, and the water has not been received for seventy-six days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is sixty days, and one of the forty has not come for thirty-one days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for sixty days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty-five days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Saturday on which four people and a question were agreed to a piece of ground four hundred miles inland and nobody was asked is the fifty-first silence and the pattern is fifty-one for fifty-one.
 
-**And the last thing of the fifty-fifth day of the month after this one is four lines in a woman's hand with a date on them and a clause in it that says not to open it, and a number with legs, and a hearing in nine days.**
+And the last thing of the fifty-fifth day of the month after this one is four lines in a woman's hand with a date on them and a clause in it that says not to open it, and a number with legs, and a hearing in nine days.

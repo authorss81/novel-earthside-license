@@ -2,15 +2,15 @@
 
 On the thirty-eighth day of the month after this one, which was the hundred and twenty-eighth day of the flood and a Wednesday, about nine people walked four miles up the Reach road in the wrong weather to a village of nine households and a woman of about thirty-four who keeps a stall by the wharf asked a woman of seventy a question in a room, in daylight, on a day the woman of seventy did not choose, and got an answer nobody in this city had worked out in sixteen days, and nobody went to a fourth house and nobody stood outside one.
 
-**The licence is seventy-eight days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-three days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-ninth time. The black line in his right palm is one hundred and twenty-seven days old and has not moved one sixteenth of an inch.**
+The licence is seventy-eight days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-three days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-ninth time. The black line in his right palm is one hundred and twenty-seven days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the date is still on the door, and it is the twenty-second day of the month after this one, and it is sixteen days old, and it is in chalk in the same hand on nine doors, and it has not been washed, and nobody in this city can say what happens on a door and nobody washed it.**
+And the date is still on the door, and it is the twenty-second day of the month after this one, and it is sixteen days old, and it is in chalk in the same hand on nine doors, and it has not been washed, and nobody in this city can say what happens on a door and nobody washed it.
 
 The road is the upper road and eleven households keep nine miles of it and nobody has to and nobody has asked them. The left fork goes to a village of nine households and about four of the nine looked at the right fork anyway and nobody said why.
 
-**And there is no ninth household in that village and there have not been nine for thirty years, and the waterboard still counts it as nine because nine is the number that village was assessed at when the boundary was moved a hundred yards downstream at a public act with witnesses a hundred and forty years ago, and that is a Crown number and it is on a Crown page and the page is nine hundred miles away.**
+And there is no ninth household in that village and there have not been nine for thirty years, and the waterboard still counts it as nine because nine is the number that village was assessed at when the boundary was moved a hundred yards downstream at a public act with witnesses a hundred and forty years ago, and that is a Crown number and it is on a Crown page and the page is nine hundred miles away.
 
 "I asked her," said a woman of about thirty-four who keeps a stall by the wharf, in the gateway, before anybody had got their coats off. "**I asked her in my own words and I am not a keeper of a register and I am not a notary and I do not keep a page, and I have been the person who says the hard thing in this city for a hundred and twenty-eight days and nobody has ever once asked me whether I wanted to be that, and this morning I found out that I did want to do one thing and it was this.**"
 
@@ -20,7 +20,7 @@ The road is the upper road and eleven households keep nine miles of it and nobod
 
 ---
 
-**And the asking was done properly, in a room, in daylight, on a different day, and it is entered that it was done properly, and that the room was a kitchen, and that a kitchen is the wrong shape for a hearing and the right shape for an asking.**
+And the asking was done properly, in a room, in daylight, on a different day, and it is entered that it was done properly, and that the room was a kitchen, and that a kitchen is the wrong shape for a hearing and the right shape for an asking.
 
 It is a kitchen with a fire in it and a table with two things on it and a chair with a cushion tied to it with string. **Nobody sat down for about nine minutes because there were not nine chairs, and about four people stood in a kitchen in a village of nine households and a woman of seventy let them stand, and she had been standing since before the light, and it is seventy.**
 
@@ -36,7 +36,7 @@ Then she was quiet for about nineteen seconds, and a docker of fifty-eight who c
 
 ---
 
-**And a woman of seventy of Nine Elms said what a person's fourth refusal is, and it took her about nine minutes, and nobody improved on any of it, and a notary of fifty, who was not in that kitchen, entered three days later that she had noticed.**
+And a woman of seventy of Nine Elms said what a person's fourth refusal is, and it took her about nine minutes, and nobody improved on any of it, and a notary of fifty, who was not in that kitchen, entered three days later that she had noticed.
 
 "**The first three were not mine.**"
 
@@ -58,7 +58,7 @@ Nobody said anything for about nineteen seconds, and a woman of about thirty-fou
 
 ---
 
-**And then she asked for the one thing nobody in that kitchen had come for, and it is on the page in a book in this city with the date on it, and it is the first time in a hundred and twenty-eight days that anybody in this city has asked to be put on a page.**
+And then she asked for the one thing nobody in that kitchen had come for, and it is on the page in a book in this city with the date on it, and it is the first time in a hundred and twenty-eight days that anybody in this city has asked to be put on a page.
 
 "**Then put it on something,**" she said. "**Not on a form. I have not had a form since the sixty-fourth day of the new month and I am not going to have one. Put it on something that is not a document, in a room, with a date on it, and put what I said in it, and put that there is no document under the fourth and that the first three were not mine.**"
 
@@ -68,7 +68,7 @@ Nobody said anything for about nineteen seconds, and a woman of about thirty-fou
 
 ---
 
-**And a man of thirty-two walked four feet back from the second door and read the date off it out loud in the local language, because that is the whole of what he can do in this world, and it is the only mark on anything he touched that day, and a chalk mark is not a document, and he read it and said nothing about it, and it is entered that nobody asked him to.**
+And a man of thirty-two walked four feet back from the second door and read the date off it out loud in the local language, because that is the whole of what he can do in this world, and it is the only mark on anything he touched that day, and a chalk mark is not a document, and he read it and said nothing about it, and it is entered that nobody asked him to.
 
 "And the fourth channel," said a man of about forty-four who keeps a stall.
 
@@ -80,10 +80,10 @@ Nobody said anything for about nineteen seconds, and a woman of about thirty-fou
 
 Nobody said anything for about nineteen seconds, and a girl of seventeen wrote something on the flat of a slate and turned it over, and it is on no roll and it is on nothing, and she is seventeen.
 
-**And nobody went to a fourth house and nobody stood outside one and nobody asked anybody anything about anybody in one, and it is entered that about four of the nine wanted to, and that the reason is on a page in a stone nine miles up a road with a date on it, and that the reason says that this city chose not to ask, and that a woman of seventy of that village, a woman of about thirty-four who keeps a stall by the wharf, a man of about forty-four who keeps a stall and a man of thirty-two are four people and not three, and that about four of them have been getting confused with each other in this city for a hundred and twenty-eight days, and that a woman of forty-eight in a fourth house at that village is a fifth and is not here and was not asked.**
+And nobody went to a fourth house and nobody stood outside one and nobody asked anybody anything about anybody in one, and it is entered that about four of the nine wanted to, and that the reason is on a page in a stone nine miles up a road with a date on it, and that the reason says that this city chose not to ask, and that a woman of seventy of that village, a woman of about thirty-four who keeps a stall by the wharf, a man of about forty-four who keeps a stall and a man of thirty-two are four people and not three, and that about four of them have been getting confused with each other in this city for a hundred and twenty-eight days, and that a woman of forty-eight in a fourth house at that village is a fifth and is not here and was not asked.
 
 ---
 
-**And nothing else happened on the thirty-eighth day of the month after this one, and a hearing is in twenty-six days and there is one hearing and one clock, and about nine people have said out loud that they will stand in it and nobody has been asked whether they will, and a girl of seventeen has been to eight kitchens and has written nothing down. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it is not opened and the strap on it is still untied. And a boundary page of this village, about a hundred and forty years old, is in a fold of oilcloth in a book that cannot travel, and there are eight names at the foot of it and no page in this city is going to carry them, and a man of thirty-two did not read them on the twenty-ninth day of the month after this one, at the asking of a woman of twenty-four first made on the sixteenth, and has not read them since. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for forty-three days. And the main breach is closed, dressed, measured and silent and the Narrow Mark has been opened twice in a hundred and twenty-eight days and the boards under the chapel have not been lifted since the fortieth day of this flood and the stone in the arch has said nothing in a hundred and twenty-eight days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-four, and a Wednesday on which a woman of seventy said a plain sentence about luck is the thirty-fifth silence and the pattern is thirty-five for thirty-five.**
+And nothing else happened on the thirty-eighth day of the month after this one, and a hearing is in twenty-six days and there is one hearing and one clock, and about nine people have said out loud that they will stand in it and nobody has been asked whether they will, and a girl of seventeen has been to eight kitchens and has written nothing down. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it is not opened and the strap on it is still untied. And a boundary page of this village, about a hundred and forty years old, is in a fold of oilcloth in a book that cannot travel, and there are eight names at the foot of it and no page in this city is going to carry them, and a man of thirty-two did not read them on the twenty-ninth day of the month after this one, at the asking of a woman of twenty-four first made on the sixteenth, and has not read them since. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for forty-three days. And the main breach is closed, dressed, measured and silent and the Narrow Mark has been opened twice in a hundred and twenty-eight days and the boards under the chapel have not been lifted since the fortieth day of this flood and the stone in the arch has said nothing in a hundred and twenty-eight days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-four, and a Wednesday on which a woman of seventy said a plain sentence about luck is the thirty-fifth silence and the pattern is thirty-five for thirty-five.
 
-**And the last thing of the thirty-eighth day of the month after this one is a refusal of a person with nothing under it, said in a kitchen in daylight by a woman of seventy of a village of nine households, and the only record of it in four hundred miles is a mark in chalk on a door that nobody can wash off and nobody can explain, and somebody has to ask a household that will not put its name on anything whether it will hold a page about it, and a hearing is in twenty-six days.**
+And the last thing of the thirty-eighth day of the month after this one is a refusal of a person with nothing under it, said in a kitchen in daylight by a woman of seventy of a village of nine households, and the only record of it in four hundred miles is a mark in chalk on a door that nobody can wash off and nobody can explain, and somebody has to ask a household that will not put its name on anything whether it will hold a page about it, and a hearing is in twenty-six days.

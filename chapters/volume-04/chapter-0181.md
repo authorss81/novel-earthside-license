@@ -18,11 +18,11 @@ Nobody in that store had asked it before, and about nine people had wanted to as
 
 ---
 
-**And then he said the thing that about four people in that store have said is the reason a man of forty-two is a serious problem for four hundred miles, and he said it without being asked for it, in a yard, in daylight, with about nine people in it, and it took about four minutes and it is on the page in his own words.**
+And then he said the thing that about four people in that store have said is the reason a man of forty-two is a serious problem for four hundred miles, and he said it without being asked for it, in a yard, in daylight, with about nine people in it, and it took about four minutes and it is on the page in his own words.
 
 "**And I am disappointed, and I want to say that before anybody in this yard says it for me, and I want to say it properly, because about four of you have been carrying it since Friday and one of you has been carrying it badly.**
 
-**Here is the whole of it. In a hundred and thirty-six days I have not lied to anybody about a cost. I have not threatened anybody. I have not moved anybody. I have not written the word *sold* on anything. I have got a queue that works on a Tuesday and a wage that arrives on a Tuesday and a hundred and forty people who are all right, and every one of those things is true, and on Friday morning a woman with a board in her left hand said yes in a kitchen to nine days a week for the rest of the season, and she was not persuaded, and nobody persuaded her, and she was not owed anything and nobody owed her anything and the reason she said yes is that the wage is real and the racks are drying and the weather turns on Thursday.**
+Here is the whole of it. In a hundred and thirty-six days I have not lied to anybody about a cost. I have not threatened anybody. I have not moved anybody. I have not written the word *sold* on anything. I have got a queue that works on a Tuesday and a wage that arrives on a Tuesday and a hundred and forty people who are all right, and every one of those things is true, and on Friday morning a woman with a board in her left hand said yes in a kitchen to nine days a week for the rest of the season, and she was not persuaded, and nobody persuaded her, and she was not owed anything and nobody owed her anything and the reason she said yes is that the wage is real and the racks are drying and the weather turns on Thursday.
 
 **I did not win that. I offered a true thing to a person who was already going to do the work, and she was going to do the work anyway, and I got the days.**"
 
@@ -34,7 +34,7 @@ Nobody in that store had asked it before, and about nine people had wanted to as
 
 ---
 
-**And a girl of seventeen who is on no roll of anything was standing at the back of that yard with a slate under her arm and said a number out loud, and about nine people heard it and about forty did not, and it is the only time in four hundred miles that anybody has said that number in a store.**
+And a girl of seventeen who is on no roll of anything was standing at the back of that yard with a slate under her arm and said a number out loud, and about nine people heard it and about forty did not, and it is the only time in four hundred miles that anybody has said that number in a store.
 
 "Ninety."
 
@@ -58,7 +58,7 @@ Somebody in the yard said *that is not a thing you count.*
 
 ---
 
-**And the practical thing that nobody in that yard had thought about is a rota, and it is on the page because the rota is the instrument this settlement actually runs on, and because the sentence about *the season* has a consequence in about four hours of work.**
+And the practical thing that nobody in that yard had thought about is a rota, and it is on the page because the rota is the instrument this settlement actually runs on, and because the sentence about *the season* has a consequence in about four hours of work.
 
 The rota is copied by hand in four copies and it has been copied in four hands since the fifth day of the Long Month, and the last four days of that copying happened on the flats at Redroot and not here, and a woman of about seventy on those flats said out loud that a thing copied twice is two things, and that has not improved since.
 
@@ -74,7 +74,7 @@ The rota is copied by hand in four copies and it has been copied in four hands s
 
 ---
 
-**And about the seventh hour of the evening a woman of about thirty-four in that store asked a question nobody in that yard had thought of, and she has never been on any list in that store and she has never been paid out of it, and she asked it in four words, and about nine people have written it down since in their own hands.**
+And about the seventh hour of the evening a woman of about thirty-four in that store asked a question nobody in that yard had thought of, and she has never been on any list in that store and she has never been paid out of it, and she asked it in four words, and about nine people have written it down since in their own hands.
 
 "What is the date."
 
@@ -94,8 +94,8 @@ And a man of about forty-two stood in a yard at about the seventh hour of the ev
 
 ---
 
-**A second figure under the hundred and forty on a wall outside the store, in a different chalk and a different hand. It is a hundred and forty-one, and it is right, and a girl of seventeen who is on no roll of anything put it there at about the eighth hour of the evening.**
+A second figure under the hundred and forty on a wall outside the store, in a different chalk and a different hand. It is a hundred and forty-one, and it is right, and a girl of seventeen who is on no roll of anything put it there at about the eighth hour of the evening.
 
-**And a girl of seventeen who is on no roll of anything put it there at about the eighth hour of the evening because about nine people came in that morning and the count on a wall is a count of people and she has been in a city for a hundred and eighty-five days where the only public record anybody has is a number nobody can check, and she wanted to know what happened to a number when somebody checked it, and it turned out that nobody does, and that is why it is still a hundred and forty and not a hundred and forty-four.**
+And a girl of seventeen who is on no roll of anything put it there at about the eighth hour of the evening because about nine people came in that morning and the count on a wall is a count of people and she has been in a city for a hundred and eighty-five days where the only public record anybody has is a number nobody can check, and she wanted to know what happened to a number when somebody checked it, and it turned out that nobody does, and that is why it is still a hundred and forty and not a hundred and forty-four.
 
-**And she has not explained it and about nine people have asked her and she has said the same three words to all nine, and the three words are *somebody had to*.**
+And she has not explained it and about nine people have asked her and she has said the same three words to all nine, and the three words are *somebody had to*.

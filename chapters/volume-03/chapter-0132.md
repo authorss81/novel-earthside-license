@@ -2,13 +2,13 @@
 
 On the forty-second day of the month after this one, which was the hundred and thirty-second day of the flood and a Sunday, about nine people stood on a quay in the wrong weather and worked out that if anybody from the office nine hundred miles away is going to be in a room on the sixty-fourth day of the month after this one, then they left this city on a day that has already been, and there are four days left in the window, and nothing anybody in this city does in any of the four will make a person get into a boat.
 
-**The licence is eighty-two days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-seven days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-third time. The black line in his right palm is one hundred and thirty-one days old and has not moved one sixteenth of an inch.**
+The licence is eighty-two days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-seven days ago. The fee of eleven ounces of silver is entered as owing with no date for the seventy-third time. The black line in his right palm is one hundred and thirty-one days old and has not moved one sixteenth of an inch.
 
 ---
 
 The water was up against the third stone from the quay and had been since the twenty-ninth day of the month after this one, and it was not going down, and the wind came along the reach from the north in a way that made a conversation into a thing two people had to lean into.
 
-**A case went down this river on the eighth day of the month after this one and a case came up on the twenty-sixth. It is eighteen days each way and it has not changed in twenty-four days and nobody in this city has any reason to think it will. A case is a case. It is a foot and a half of wood and a strap and a wax and a second strap, and it does not slow down for weather, and the two cases that have made this journey in a hundred and forty years did not make it at all.**
+A case went down this river on the eighth day of the month after this one and a case came up on the twenty-sixth. It is eighteen days each way and it has not changed in twenty-four days and nobody in this city has any reason to think it will. A case is a case. It is a foot and a half of wood and a strap and a wax and a second strap, and it does not slow down for weather, and the two cases that have made this journey in a hundred and forty years did not make it at all.
 
 "And that is the whole of the arithmetic," said a man of about thirty-nine who trades on the Open Hand board. "**Eighteen down. Eighteen up. Sixty-four minus eighteen is forty-six. So anybody from that office who is going to be in the room left this city on or before the forty-sixth day of the month after this one, and that is the forty-sixth and it is tomorrow.**"
 
@@ -22,7 +22,7 @@ He had a slate under his arm and no chalk and the nineteen rates were in his hea
 
 ---
 
-**And then a woman of twenty-four said the other half of it, and it is in a book in this city with a date on it, and nobody improved on it, and it is the finding of the forty-second day of the month after this one.**
+And then a woman of twenty-four said the other half of it, and it is in a book in this city with a date on it, and nobody improved on it, and it is the finding of the forty-second day of the month after this one.
 
 "**Then there is nothing to do.**"
 
@@ -40,7 +40,7 @@ It was entered.
 
 ---
 
-**And a woman of fifty-eight in a boat-coat, who cannot read and who is not repaid and who is on no roll, said eleven words about it, and a girl of seventeen counted them and the room on the quay did not check her count, and neither did anybody else, and the eleven words are on the page.**
+And a woman of fifty-eight in a boat-coat, who cannot read and who is not repaid and who is on no roll, said eleven words about it, and a girl of seventeen counted them and the room on the quay did not check her count, and neither did anybody else, and the eleven words are on the page.
 
 Renna Ord had her hand flat on the third stone from the quay, which is the one everybody puts a hand on.
 
@@ -52,7 +52,7 @@ Nobody wrote that down, and it is entered that nobody wrote it down, and the rea
 
 ---
 
-**And a man of sixty-eight who has carried nine cases in his life said why a person cannot simply be put in with the mail, and it took him about nine seconds, and it is the ninth reason anybody in this city has given for something and it is the only one anybody has given about a person.**
+And a man of sixty-eight who has carried nine cases in his life said why a person cannot simply be put in with the mail, and it took him about nine seconds, and it is the ninth reason anybody in this city has given for something and it is the only one anybody has given about a person.
 
 He had come down on the third step and had not come further.
 
@@ -68,7 +68,7 @@ He had come down on the third step and had not come further.
 
 ---
 
-**And then a carrier of the second table, twenty-four years old and eleven years in, said the thing that made the number of days into a number of days and not a number of hopes, and she said it in about four seconds and she had walked down from the chandlery before anybody had sent for her because she works on the same quay on a Sunday.**
+And then a carrier of the second table, twenty-four years old and eleven years in, said the thing that made the number of days into a number of days and not a number of hopes, and she said it in about four seconds and she had walked down from the chandlery before anybody had sent for her because she works on the same quay on a Sunday.
 
 "**Then it is not carried at all.**"
 
@@ -82,12 +82,12 @@ He had come down on the third step and had not come further.
 
 ---
 
-**And they stood on that quay until about the third hour of the afternoon, and about nine people did not go back up the hill, and what they did on the rest of the quay was watch the water, and it is entered that the woman of twenty-four wrote one line and did not read it out, and the line says that a person may be in a room on the sixty-fourth day of the month after this one and that this city has four days of not knowing and no power over any of them.**
+And they stood on that quay until about the third hour of the afternoon, and about nine people did not go back up the hill, and what they did on the rest of the quay was watch the water, and it is entered that the woman of twenty-four wrote one line and did not read it out, and the line says that a person may be in a room on the sixty-fourth day of the month after this one and that this city has four days of not knowing and no power over any of them.
 
 Somebody said the word *window* and somebody else said the word *between*, and a docker of fifty-eight who cannot read said the second one was better, and nobody wrote that down either.
 
 ---
 
-**And nothing else happened on the forty-second day of the month after this one, and a hearing is in twenty-two days and there is one hearing and one clock and the next time this city can put anything at all in front of the office that will hold the hearing is about five weeks after the hearing has finished. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it has been there sixteen days and it is not opened and the strap on it is still untied, and a notary of fifty has been asked five times in five days and has answered none of the five and has not been asked a sixth. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and no name in it and it is still on the water and it may not be answered here. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty days ago, and the water has not been received for sixty-three days counted from the sixty-ninth day of this flood, and the fourth line of a term sheet is in force and the undertaking that would have paid for it is void and no office has been told. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is forty-seven days, and one of the forty has not come for eighteen days and nobody has been told. And a Hearthguard of forty-four has gone twenty-two days without anybody in this city asking him about his own eight, in a room, on a different day. And the measurement column has twenty-four readings, both of the last two eight and seven-eighths, one ruled line left, and the twenty-fifth reading has not been taken for forty-seven days, and six disagreements stand and none of them is the number. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch has said nothing in a hundred and thirty-two days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home and has never shown to anybody are twenty-four, and the count at Aurel is thirteen, and the difference is eleven, and it has never been made smaller. And a Sunday on which nine people stood on a quay in the wrong weather and worked out that they had no power over any of the four days that are left is the thirty-ninth silence and the pattern is thirty-nine for thirty-nine.**
+And nothing else happened on the forty-second day of the month after this one, and a hearing is in twenty-two days and there is one hearing and one clock and the next time this city can put anything at all in front of the office that will hold the hearing is about five weeks after the hearing has finished. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it has been there sixteen days and it is not opened and the strap on it is still untied, and a notary of fifty has been asked five times in five days and has answered none of the five and has not been asked a sixth. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and no name in it and it is still on the water and it may not be answered here. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty days ago, and the water has not been received for sixty-three days counted from the sixty-ninth day of this flood, and the fourth line of a term sheet is in force and the undertaking that would have paid for it is void and no office has been told. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is forty-seven days, and one of the forty has not come for eighteen days and nobody has been told. And a Hearthguard of forty-four has gone twenty-two days without anybody in this city asking him about his own eight, in a room, on a different day. And the measurement column has twenty-four readings, both of the last two eight and seven-eighths, one ruled line left, and the twenty-fifth reading has not been taken for forty-seven days, and six disagreements stand and none of them is the number. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch has said nothing in a hundred and thirty-two days. And there have been thirty-one things the wall has said in this city and two of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home and has never shown to anybody are twenty-four, and the count at Aurel is thirteen, and the difference is eleven, and it has never been made smaller. And a Sunday on which nine people stood on a quay in the wrong weather and worked out that they had no power over any of the four days that are left is the thirty-ninth silence and the pattern is thirty-nine for thirty-nine.
 
-**And the last thing of the forty-second day of the month after this one is a quay with the water against the third stone, and a man of sixty-eight on the third step who would carry a person and would not write the household, and a carrier of the second table who would carry a person for nothing and is not allowed to, and four days, and a hearing in twenty-two days.**
+And the last thing of the forty-second day of the month after this one is a quay with the water against the third stone, and a man of sixty-eight on the third step who would carry a person and would not write the household, and a carrier of the second table who would carry a person for nothing and is not allowed to, and four days, and a hearing in twenty-two days.

@@ -6,7 +6,7 @@ There is no queue on a Thursday. The posting has been up five days on a wall in 
 
 ---
 
-**And the shortest sentence on that wall is the one that was read into a page in this city seven days ago in a room with a date in chalk on the door, and about four people in that yard had found it already, and it says that nobody may be bought out of a refusal, and that a refusal does not require a reason and is not asked for twice.**
+And the shortest sentence on that wall is the one that was read into a page in this city seven days ago in a room with a date in chalk on the door, and about four people in that yard had found it already, and it says that nobody may be bought out of a refusal, and that a refusal does not require a reason and is not asked for twice.
 
 "**No.**"
 
@@ -16,7 +16,7 @@ There is no queue on a Thursday. The posting has been up five days on a wall in 
 
 ---
 
-**And a woman of about twenty-four who has written down every decision this city has made since the second day of this flood took a piece of chalk off the ledge under that wall, put it in her hand, and put it back down again, and about nine people in that yard watched her do it, and about four of them have said since that she is the only person in this city who would have been within her rights to.**
+And a woman of about twenty-four who has written down every decision this city has made since the second day of this flood took a piece of chalk off the ledge under that wall, put it in her hand, and put it back down again, and about nine people in that yard watched her do it, and about four of them have said since that she is the only person in this city who would have been within her rights to.
 
 "You did not write it."
 
@@ -28,7 +28,7 @@ There is no queue on a Thursday. The posting has been up five days on a wall in 
 
 ---
 
-**And a man of about thirty-four who keeps a stall said the thing that the fifty-first day of the Long Month turned on, and it is four sentences, and nobody has improved on it, and about four people in that yard wrote it down in their own hands and about four of them have improved on it and the improvements are wrong.**
+And a man of about thirty-four who keeps a stall said the thing that the fifty-first day of the Long Month turned on, and it is four sentences, and nobody has improved on it, and about four people in that yard wrote it down in their own hands and about four of them have improved on it and the improvements are wrong.
 
 "**A refusal that cannot be administered cannot be recorded. A refusal that cannot be recorded cannot be counted. That page has no line for a number of refusals and it is not going to get one, and I do not think that is a fault in the page, and I want about four people in this yard to hear the rest of it before anybody in this city decides anything about Friday.**"
 
@@ -42,7 +42,7 @@ There is no queue on a Thursday. The posting has been up five days on a wall in 
 
 ---
 
-**And the man of about thirty-nine said the rest of it, and it took about four minutes, and he has been refused by name four times in four years and has never once been in a room where a thing he wrote went into a page that did not have his name on it, and that stopped on Friday.**
+And the man of about thirty-nine said the rest of it, and it took about four minutes, and he has been refused by name four times in four years and has never once been in a room where a thing he wrote went into a page that did not have his name on it, and that stopped on Friday.
 
 "Five days ago I said in a yard that a page with a mistake in it is the first thing this city has built since the seventh week of this flood that anybody can be angry at, and I said that I would rather have that than a wall of good sentences, and about four people in that yard wrote it down and about nine of them agreed with me and one of them is standing in front of me now."
 
@@ -54,7 +54,7 @@ Nobody explained. It is entered that about four people in that yard wanted to as
 
 ---
 
-**And then about four people in that yard noticed the other thing, and it took them about four minutes, and it is the second finding of the day and nobody has written it down in any book yet.**
+And then about four people in that yard noticed the other thing, and it took them about four minutes, and it is the second finding of the day and nobody has written it down in any book yet.
 
 "**The page does not say whose labour it is.**"
 
@@ -70,7 +70,7 @@ Nobody counted. A woman of about twenty-four said that was correct and entered t
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road came up the road in the middle of the morning and was told about the refusal by about four people before she got to the wall, and she asked the only question she has ever said she can answer, which is which side of a channel is whose, and about nine people in that yard did not know she had been asked that question before.**
+And a woman of about thirty-four from a fourth household on the road came up the road in the middle of the morning and was told about the refusal by about four people before she got to the wall, and she asked the only question she has ever said she can answer, which is which side of a channel is whose, and about nine people in that yard did not know she had been asked that question before.
 
 "**Then I know the answer to your question and you are not going to like it.**"
 
@@ -84,7 +84,7 @@ Nobody counted. A woman of about twenty-four said that was correct and entered t
 
 ---
 
-**And a man of about thirty-four who keeps a stall said one last thing at about the ninth hour of the morning with his hand flat on the wall under the ninth line, and it is the line that says the store and its queue are on this posting and take their place on it and not above it, and he did not turn the page over or touch it.**
+And a man of about thirty-four who keeps a stall said one last thing at about the ninth hour of the morning with his hand flat on the wall under the ninth line, and it is the line that says the store and its queue are on this posting and take their place on it and not above it, and he did not turn the page over or touch it.
 
 "**I wrote that line on the forty-fourth day of the Long Month, which was a Thursday, and I have read it four times in the seven days since, and I put my hand to it because it is the only line in nine sentences anybody in that room loses something by, and on Monday morning I found out what it costs and it cost me nine sentences in a yard, and this morning I found out the second half of what it costs and it is that a man can say no on that page and nobody can tell whether he is refusing my line or the channel or the road.**"
 
@@ -92,4 +92,4 @@ Nobody counted. A woman of about twenty-four said that was correct and entered t
 
 ---
 
-**And a line on a wall in a yard with no mark beside it, and a piece of chalk on the ledge underneath it.**
+And a line on a wall in a yard with no mark beside it, and a piece of chalk on the ledge underneath it.

@@ -8,7 +8,7 @@ About nine of the seventeen are paid out of the queue at the store up the road p
 
 They have been a coalition for a hundred and eighty-six days and the coalition was never on a page, and this is the only instrument in this world that splits without anybody choosing to split it, and the reason is that there was never a list to break.
 
-**The split is between people who want a wage and people who want a name, and both of those are correct, and the sentence that says so was said in that yard by a person who is on one of the two sides and has not been asked which.**
+The split is between people who want a wage and people who want a name, and both of those are correct, and the sentence that says so was said in that yard by a person who is on one of the two sides and has not been asked which.
 
 "A wage is a day," said a man of about twenty-nine who is on no roll of anything and has no work and is one of the eleven of the second list. "**A day is a day. You get up and there is a thing to do and somebody knows you did it and pays you, and that is the whole of what anybody in this world has ever been able to offer anybody, and I have been on no roll of anything for a hundred and eighty-six days and I would like one of the days.**"
 
@@ -22,7 +22,7 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 ---
 
-**And four of them said a thing out loud, and the four things are the whole of the split, and they are in their own words, and about four people in that city have written them down since in their own hands, and none of the four was asked to say anything and none of the four has been asked to repeat it.**
+And four of them said a thing out loud, and the four things are the whole of the split, and they are in their own words, and about four people in that city have written them down since in their own hands, and none of the four was asked to say anything and none of the four has been asked to repeat it.
 
 "I will not work a gate for nine days a week. I will work a gate for seven and I will be the one who says so out loud on a Tuesday and I will lose the two days and I have done the arithmetic four times."
 
@@ -34,11 +34,11 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 ---
 
-**And the woman of about twenty-four said no, out loud, in a yard, in daylight, on the thirty-first day of the Long Month, in front of about nine people and about two hundred and forty who could hear out of a market under it, and it is in a book in this city in her own words, and it is the fourth thing in a hundred and eighty-six days she has chosen not to write down and the first one she has chosen not to write down because she wanted to.**
+And the woman of about twenty-four said no, out loud, in a yard, in daylight, on the thirty-first day of the Long Month, in front of about nine people and about two hundred and forty who could hear out of a market under it, and it is in a book in this city in her own words, and it is the fourth thing in a hundred and eighty-six days she has chosen not to write down and the first one she has chosen not to write down because she wanted to.
 
 "**No. And I want to say what I am saying so that nobody in this city thinks I have stopped. I have written down every decision this city has made since the second day of the flood. Four times I have not written one down and three of those were a name said out loud in a room. This is different from those and I want it noticed that it is different.**
 
-**A name said out loud in a room is a person. I have never written those down and I never will, and a man of about twenty-nine from a settlement's workroom said out loud in a workroom on the seventeenth day of the Long Month that a person at the top of a page has to be findable, and he was right, and the word is his and I have not improved on it.**
+A name said out loud in a room is a person. I have never written those down and I never will, and a man of about twenty-nine from a settlement's workroom said out loud in a workroom on the seventeenth day of the Long Month that a person at the top of a page has to be findable, and he was right, and the word is his and I have not improved on it.
 
 **This is not a name. This is about nine people saying what they will not do, and if I write it down then a person who is on the wage side of this yard tomorrow is on a page, and a person who is on the name side of it tomorrow is on a page, and in about four months a clerk nine hundred miles away is going to ask whether this city agrees with itself about something, and I will have handed him two columns and no names and it will look like a district.**"
 
@@ -48,7 +48,7 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 ---
 
-**And nobody in that yard said the name of a man of about forty-two for about two hours, and this was the most careful thing anybody did on the thirty-first day of the Long Month, and it was done by accident, and that the first person to say it said it about a heartbeat after somebody else had said something else.**
+And nobody in that yard said the name of a man of about forty-two for about two hours, and this was the most careful thing anybody did on the thirty-first day of the Long Month, and it was done by accident, and that the first person to say it said it about a heartbeat after somebody else had said something else.
 
 "He is not here."
 
@@ -62,7 +62,7 @@ They have been a coalition for a hundred and eighty-six days and the coalition w
 
 ---
 
-**And a man of about thirty-two stood in that yard for about three hours and said nine sentences, and eight of them were the best things anybody in that yard had heard in a hundred and eighty-six days and the ninth one is the only time in this volume that he has been asked to repair something and has said no, and it is on the page in his own hand with the date on it.**
+And a man of about thirty-two stood in that yard for about three hours and said nine sentences, and eight of them were the best things anybody in that yard had heard in a hundred and eighty-six days and the ninth one is the only time anybody in that yard has asked him to repair something and been told no, and it is on the page in his own hand with the date on it.
 
 Nobody asked him. About four people have said that nobody asked him, and that he had prepared for being asked, and that the preparing took him about four days.
 
@@ -86,8 +86,8 @@ Nine. **So this splits. And I am in it, and I am on neither side, and about four
 
 ---
 
-**And at about the fifth hour of the afternoon a man of about forty-four who keeps a stall, who is not one of the seventeen and who has been in this city for a hundred and eighty-six days, said the only thing anybody said in that yard all day that anybody has improved on since, and it is fourteen words.**
+And at about the fifth hour of the afternoon a man of about forty-four who keeps a stall, who is not one of the seventeen and who has been in this city for a hundred and eighty-six days, said the only thing anybody said in that yard all day that anybody has improved on since, and it is fourteen words.
 
 "**Nobody has told either side that the other one is wrong. That is new.**"
 
-**A slate under a woman's arm in a yard in this city with nothing on it, and about two hundred and forty people can hear out of a market under that yard, and not one of them will be able to say in about four months who was on which side.**
+A slate under a woman's arm in a yard in this city with nothing on it, and about two hundred and forty people can hear out of a market under that yard, and not one of them will be able to say in about four months who was on which side.

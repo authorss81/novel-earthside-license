@@ -8,7 +8,7 @@ The weather broke in the night and the flats are holding about nine hundred meas
 
 The nine came down the Reach road in ones and twos between the sixth hour and the ninth hour, and they were carrying bars, and a man of about twenty-nine from the settlement's workroom was with the last of them and had a printed sheet, and there is no cart on that road and there is no road for a cart and about nine people have known that since the seventh week of this flood and about forty people have not.
 
-**And nobody was angry and nobody was glad and about four people have said since that the reason was that there was nothing in the arriving for anybody to have an opinion about, and what she said about it afterwards is thirty-two words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it once.**
+And nobody was angry and nobody was glad and about four people have said since that the reason was that there was nothing in the arriving for anybody to have an opinion about, and what she said about it afterwards is thirty-two words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it once.
 
 "**Nobody came to take anything. That is the whole of it and I have been waiting four days for something to be angry about and there is not one thing in that.**"
 
@@ -18,7 +18,7 @@ The nine came down the Reach road in ones and twos between the sixth hour and th
 
 ---
 
-**And the work is the work and it took a day and a half, and it went wrong once, and none of what anybody said that day was said about the work.**
+And the work is the work and it took a day and a half, and it went wrong once, and none of what anybody said that day was said about the work.
 
 The channel is a foot and a half wide at the top and four feet at the bottom and it goes four hundred yards up off the flats, and it has not been cleared since before the flood, and a channel that is not carrying is a channel that is standing in a bed of its own making, and the silt has to go somewhere and on the fourteenth day of the Long Month it went on the bank and made a mound about four feet high.
 
@@ -36,11 +36,11 @@ That is the whole of the correction. It took about four seconds and about four p
 
 ---
 
-**And the salt went on the low side, and about nine hundred measures came off four hundred and forty racks over the course of the day, and the queue was a queue, and the rope and the bell worked, and a boy of eight rang the bell four times on a Saturday because it went off twice and he fixed it both times himself without being told how.**
+And the salt went on the low side, and about nine hundred measures came off four hundred and forty racks over the course of the day, and the queue was a queue, and the rope and the bell worked, and a boy of eight rang the bell four times on a Saturday because it went off twice and he fixed it both times himself without being told how.
 
 The queue is a queue and this is the thing about it that about four people in this city got wrong on the seventeenth day of the Long Month and have now got right: **it does not matter that the queue is a queue. It matters that it went today.** About thirty people used it on a Saturday in weather that broke in the night and the order on the board in chalk was the order they got, and the board had come off in the rain once and had been put back by a woman of about thirty-eight with a knife, and nobody wrote a copy because nobody thought to and nobody has asked why.
 
-**And the boy of eight has a bed, and the bed is not a gain, and about four people in this city would like that said in a room and nobody said it in a room, and it is on the page instead.**
+And the boy of eight has a bed, and the bed is not a gain, and about four people in this city would like that said in a room and nobody said it in a room, and it is on the page instead.
 
 The bed has been there since the second month of this flood. It came off a cart and it is against the wall of a kitchen at the bottom of a channel and it is a cot and the boy of eight sleeps in it and has slept in it every night since the second month of this flood, and nobody in that household ever said out loud where it came from and nobody has asked since.
 
@@ -52,7 +52,7 @@ The bed has been there since the second month of this flood. It came off a cart 
 
 ---
 
-**And the woman who keeps that gate worked on that channel from the sixth hour to about the fourth hour of the afternoon on the twenty-fifth day of the Long Month with a bar, in the rain, and about nine people from a store she had said yes to on the Friday morning worked about nine feet from her, and she did not say one word to any of them for about five hours, and that is not coldness and it is not sulking and it is in the book in her own words at about the fifth hour of the afternoon.**
+And the woman who keeps that gate worked on that channel from the sixth hour to about the fourth hour of the afternoon on the twenty-fifth day of the Long Month with a bar, in the rain, and about nine people from a store she had said yes to on the Friday morning worked about nine feet from her, and she did not say one word to any of them for about five hours, and that is not coldness and it is not sulking and it is in the book in her own words at about the fifth hour of the afternoon.
 
 "You have not said anything to them."
 
@@ -62,11 +62,11 @@ The bed has been there since the second month of this flood. It came off a cart 
 
 "**The first wage. That is what will make it worse and not better, and it is on a Tuesday, and there are three days of it to run.**"
 
-**And nobody is going to improve on that and nobody has, and it is entered by a woman of twenty-four in her own hand that the whole of what was said by the person who gave away nine days of a week on the twenty-fourth day of the Long Month and on the day after it was forty-one sentences long and none of the forty-one was a reason and none of the forty-one was about being glad.**
+And nobody is going to improve on that and nobody has, and it is entered by a woman of twenty-four in her own hand that the whole of what was said by the person who gave away nine days of a week on the twenty-fourth day of the Long Month and on the day after it was forty-one sentences long and none of the forty-one was a reason and none of the forty-one was about being glad.
 
 ---
 
-**And at about the third hour of the afternoon a woman of about fifty who counts water on the fingers of her left hand came down the flats on foot and stood at the gate for about an hour and did not go onto the flat, and about four people on that flat have said that they had not seen her at Redroot in nine years and that she had never come in nine years, and that a thing a household has kept for nine years has now been looked at by the person whose office it is to write down who may use it.**
+And at about the third hour of the afternoon a woman of about fifty who counts water on the fingers of her left hand came down the flats on foot and stood at the gate for about an hour and did not go onto the flat, and about four people on that flat have said that they had not seen her at Redroot in nine years and that she had never come in nine years, and that a thing a household has kept for nine years has now been looked at by the person whose office it is to write down who may use it.
 
 She wrote nothing down. She counted on the fingers of her left hand and stopped after about four minutes and then stood at the rail.
 
@@ -96,7 +96,7 @@ She went back up the flats and did not write anything down, and it is on the pag
 
 ---
 
-**And at about the seventh hour of the evening a woman of about thirty-four who keeps a stall by the wharf walked down to the gate and stood in front of it for about four minutes, and the gate was open, and the channel was running, and the board was on the bench by the door, and the rope was out, and a boy of eight was on the rail with about nine feet of it across his knees, and she said one thing out loud to nobody and then went back up the flats.**
+And at about the seventh hour of the evening a woman of about thirty-four who keeps a stall by the wharf walked down to the gate and stood in front of it for about four minutes, and the gate was open, and the channel was running, and the board was on the bench by the door, and the rope was out, and a boy of eight was on the rail with about nine feet of it across his knees, and she said one thing out loud to nobody and then went back up the flats.
 
 "**It is still here.**"
 

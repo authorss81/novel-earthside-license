@@ -4,7 +4,7 @@ A beam with one pan on it has stood in the middle of the yard of the store on th
 
 ---
 
-**And he made that beam on the fifty-eighth day of that month and carried it up nine miles and left it in that yard on the seventy-third day of that month and has not carried it home, and he had not been in that yard in twenty days, and a quarter of a sack that is one piece has been in that pan since the sixty-seventh day of that month and went hard on the sixty-fourth day of that month, and it is not the bag the man of about thirty-nine put down on those boards on the eighty-fifth.**
+And he made that beam on the fifty-eighth day of that month and carried it up nine miles and left it in that yard on the seventy-third day of that month and has not carried it home, and he had not been in that yard in twenty days, and a quarter of a sack that is one piece has been in that pan since the sixty-seventh day of that month and went hard on the sixty-fourth day of that month, and it is not the bag the man of about thirty-nine put down on those boards on the eighty-fifth.
 
 "You made it."
 
@@ -20,7 +20,7 @@ A beam with one pan on it has stood in the middle of the yard of the store on th
 
 ---
 
-**And the woman of about thirty-four in that store came out of the back and stood in the doorway of that yard and did not come out onto the boards, and the chest is behind her with eleven sacks along the wall of the back room and a groove in the floor under them with a crust of salt in the bottom of it.**
+And the woman of about thirty-four in that store came out of the back and stood in the doorway of that yard and did not come out onto the boards, and the chest is behind her with eleven sacks along the wall of the back room and a groove in the floor under them with a crust of salt in the bottom of it.
 
 "You have put a coat on my yard."
 
@@ -36,7 +36,7 @@ A beam with one pan on it has stood in the middle of the yard of the store on th
 
 ---
 
-**And he put the coat over that pan by the two corners so that the middle of it stood about a hand's width off the salt, and the wind that has been at that wall since the seventy-fourth day of that month went under the hem of it and the hem lifted and came down and lifted again.**
+And he put the coat over that pan by the two corners so that the middle of it stood about a hand's width off the salt, and the wind that has been at that wall since the seventy-fourth day of that month went under the hem of it and the hem lifted and came down and lifted again.
 
 "That will not stay."
 
@@ -48,7 +48,7 @@ A beam with one pan on it has stood in the middle of the yard of the store on th
 
 ---
 
-**And the pan on that beam is a length of wood like any other length of wood in this city, and every length of wood anybody in this city has been holding came off a rack, and about four people in this city worked that out inside three days and nobody has ever said it out loud in the yard where the beam is standing.**
+And the pan on that beam is a length of wood like any other length of wood in this city, and every length of wood anybody in this city has been holding came off a rack, and about four people in this city worked that out inside three days and nobody has ever said it out loud in the yard where the beam is standing.
 
 "**And I have put my coat on it, and a man who puts a coat on a thing has admitted the thing is worth covering, and I have not decided yet whether I would rather it was worth covering or whether it was a quarter of a sack.**"
 
@@ -66,7 +66,7 @@ He said it to the boards of that yard and then he put both hands back on the two
 
 ---
 
-**And the man of about fifty-two who digs stood in the middle of that yard at about the tenth hour with both hands on the two corners of his own coat and did not take them off, and about four people in that yard had worked out in three days that every length of wood anybody in this city is holding came off a rack, and the rest had worked out that the pan on that beam is one of those lengths, and nobody had put the two facts next to each other in a yard.**
+And the man of about fifty-two who digs stood in the middle of that yard at about the tenth hour with both hands on the two corners of his own coat and did not take them off, and about four people in that yard had worked out in three days that every length of wood anybody in this city is holding came off a rack, and the rest had worked out that the pan on that beam is one of those lengths, and nobody had put the two facts next to each other in a yard.
 
 "You have not taken it off."
 
@@ -78,7 +78,7 @@ He said it to the boards of that yard and then he put both hands back on the two
 
 ---
 
-**And the woman of about thirty-four in that store came out of the back again at about the eleventh hour and looked at that coat on that pan for about as long as it takes to fill a pail, and the beam was crooked on its block of stone and had been crooked since the fifty-eighth day of that month, and the coat had been on it for two hours and had not blown off.**
+And the woman of about thirty-four in that store came out of the back again at about the eleventh hour and looked at that coat on that pan for about as long as it takes to fill a pail, and the beam was crooked on its block of stone and had been crooked since the fifty-eighth day of that month, and the coat had been on it for two hours and had not blown off.
 
 "You have made it crooked."
 
@@ -94,7 +94,7 @@ He said it to the boards of that yard and then he put both hands back on the two
 
 ---
 
-**And the sack of salt on the boards of that yard is about four feet from that beam, and the trough under the wall with the cloth on its rim was about five feet off that sack on the eighty-fifth day of that month and is about nine feet off it this morning, and the man of about fifty-two who digs looked at the two distances for about as long as it takes to fill a pail and said one thing about them and stayed where he was.**
+And the sack of salt on the boards of that yard is about four feet from that beam, and the trough under the wall with the cloth on its rim was about five feet off that sack on the eighty-fifth day of that month and is about nine feet off it this morning, and the man of about fifty-two who digs looked at the two distances for about as long as it takes to fill a pail and said one thing about them and stayed where he was.
 
 "They are further apart than they were on the eighty-fifth day of that month."
 
@@ -110,10 +110,10 @@ He said it to the boards of that yard and then he put both hands back on the two
 
 ---
 
-**And a beam in the middle of that yard on a block of stone about the length of a man's own foot, with a coat held over the pan at two corners and the hem of it going up and coming down on the dust off eleven miles of flats.**
+And a beam in the middle of that yard on a block of stone about the length of a man's own foot, with a coat held over the pan at two corners and the hem of it going up and coming down on the dust off eleven miles of flats.
 
 She went back inside and shut the door behind her to about the width of a hand, and the sack was still on the boards about four feet from the beam and nobody in that yard had picked it up, and the man of about fifty-two who digs did not take his coat off and did not go up the road until about the eleventh hour, and the wind had got under the hem of that coat and lifted it and let it down about nine times in two hours and it had not gone off the pan.
 
 ---
 
-**And the hem of a man's coat going up and coming down on the dust off eleven miles of flats, and not once off the pan.**
+And the hem of a man's coat going up and coming down on the dust off eleven miles of flats, and not once off the pan.

@@ -10,7 +10,7 @@ They had all come for the same reason and not one of them would say the reason o
 
 The board is at the bottom of the channel where it has been since the second day of the Long Month, and it is two feet by one and it has been repainted so many times that the grain has gone, and it carries the second of the Long Month in one chalk and the nineteenth in another, and the two dates are under a rail so that the rain does not take them, and above the rail somebody had cut a third set of marks with a knife because chalk goes.
 
-**And the twenty-fourth, which is Friday, is not on the board, and about nine people learned that on Monday morning by standing in front of it and reading the two dates on it and doing the sum themselves.**
+And the twenty-fourth, which is Friday, is not on the board, and about nine people learned that on Monday morning by standing in front of it and reading the two dates on it and doing the sum themselves.
 
 "Aye," said a woman of about thirty-four who keeps a stall by the wharf, who had come down with a barrow she did not need and had been at the board at nine feet for about a quarter of an hour. "**That is the arithmetic of it. Nine people have stood in front of that board since the seventh hour and about four of them can do that sum and the other five came to ask somebody to do it for them.**"
 
@@ -24,7 +24,7 @@ The board is at the bottom of the channel where it has been since the second day
 
 ---
 
-**And then a boy of eight came out of a door at about the seventh hour with a length of rope in his hands, and the day is partly his, and the reason is that the woman who keeps the gate had told him something at about the sixth hour and had done it herself and had asked for it to be entered that she did it herself, and it is entered.**
+And then a boy of eight came out of a door at about the seventh hour with a length of rope in his hands, and the day is partly his, and the reason is that the woman who keeps the gate had told him something at about the sixth hour and had done it herself and had asked for it to be entered that she did it herself, and it is entered.
 
 She is about thirty-eight and she has a board she holds in her left hand and she is holding it now, and she has been keeping the channel at the bottom of that cut for nine years and she has been paid nothing for it for nine years, and on the seventh day of the Long Month she took a workway from a store up the road past this city, and the fourth line of that workway was read out to her in full and in daylight with a date on it before she said yes, and she said yes in nine sentences and put the board down on a table and did not pick it up again.
 
@@ -70,7 +70,7 @@ She did not answer that, and about four adults on that flat, who were not there 
 
 ---
 
-**And the boy of eight went back to the rope, and the rest of that Monday is not about him, and nothing that happened on that flat for the next four days improved on him, and about nine adults arranged their whole morning around a thing a child was told to do and he has been asked twice what it is for and has told them both, both times, that he does not know.**
+And the boy of eight went back to the rope, and the rest of that Monday is not about him, and nothing that happened on that flat for the next four days improved on him, and about nine adults arranged their whole morning around a thing a child was told to do and he has been asked twice what it is for and has told them both, both times, that he does not know.
 
 He got a blister on his left palm at about the ninth hour and did not stop, and about a woman of about forty-four who cannot get a rack above her shoulder told him to stop and he did not, and she told him to stop twice, and on the third time she said the thing that got him to stop, which was that if his hand went he could not carry the board and the board was the only thing he was good for.
 
@@ -80,7 +80,7 @@ He got a blister on his left palm at about the ninth hour and did not stop, and 
 
 ---
 
-**And at about the eleventh hour of the morning a man of about thirty-nine who trades on the Open Hand board came down the flats on foot, alone, the way he does, and he was asked four times in an hour who he was looking for and he answered the same way four times, and the answer is his and it has not changed since the first month of this flood.**
+And at about the eleventh hour of the morning a man of about thirty-nine who trades on the Open Hand board came down the flats on foot, alone, the way he does, and he was asked four times in an hour who he was looking for and he answered the same way four times, and the answer is his and it has not changed since the first month of this flood.
 
 "**I am not looking for anybody. I am standing on a road. You would stop too.**"
 
@@ -94,7 +94,7 @@ He stood by the channel for about an hour and watched about thirty people clear 
 
 ---
 
-**And in the city, eleven miles away, the same Monday went the way Mondays go, and a man of about thirty-four who keeps a stall said a number out loud in a market and about nine people heard it and about two hundred and forty who could hear it did not.**
+And in the city, eleven miles away, the same Monday went the way Mondays go, and a man of about thirty-four who keeps a stall said a number out loud in a market and about nine people heard it and about two hundred and forty who could hear it did not.
 
 A man of about thirty-four who keeps a stall is the person in this city who made the shape of a wage page, and he has a slate, and he writes on it when he is told not to, and on Monday he wrote two figures on it and did not read them out.
 
@@ -110,7 +110,7 @@ A man of about thirty-one with a hand that will not close was standing at the ne
 
 ---
 
-**And what there is to say about boards is fifty-three words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it to a man of about thirty-four who keeps a stall on a flat at about the sixth hour of the evening with the light going off the water.**
+And what there is to say about boards is fifty-three words long and it belongs to a woman of about thirty-four who keeps a stall by the wharf and she said it to a man of about thirty-four who keeps a stall on a flat at about the sixth hour of the evening with the light going off the water.
 
 "**A date is the only thing anybody in this world has that travels on its own.**"
 
@@ -120,4 +120,4 @@ A man of about thirty-one with a hand that will not close was standing at the ne
 
 ---
 
-**A boy of eight is working a knot that is not for tying anything up. Nobody has asked him what it is for and nobody is going to.**
+A boy of eight is working a knot that is not for tying anything up. Nobody has asked him what it is for and nobody is going to.

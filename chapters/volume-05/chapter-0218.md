@@ -4,7 +4,7 @@ About a hundred and twenty people were in the yard of the store on the upper roa
 
 ---
 
-**And the board was still in the trough at the sixth hour with the day before on it, and about nine people in that yard read it where it lay and about four of them read the posting instead. It is the third Tuesday the queue has run on counting from the forty-ninth day of the Long Month, which is the one it formed on, and the fifty-sixth day of that month was the second, and this is the first one it has run on since there was salt in that chest instead of a wage. About nine people in that yard had walked nine miles on foot to be in it, and about four of them had done it on a Monday and got nothing.**
+And the board was still in the trough at the sixth hour with the day before on it, and about nine people in that yard read it where it lay and about four of them read the posting instead. It is the third Tuesday the queue has run on counting from the forty-ninth day of the Long Month, which is the one it formed on, and the fifty-sixth day of that month was the second, and this is the first one it has run on since there was salt in that chest instead of a wage. About nine people in that yard had walked nine miles on foot to be in it, and about four of them had done it on a Monday and got nothing.
 
 "About nine people were paid on Monday and about a hundred and forty were not."
 
@@ -16,7 +16,7 @@ About a hundred and twenty people were in the yard of the store on the upper roa
 
 ---
 
-**And a woman of about thirty-four in that store, who is on no list in it, came out of the back and stood at the door and said the date out loud in that yard in front of about nine people for the second time. She said it to the boards under the posting rather than to anybody, and the boards took it. About four of them had heard her say it the first time and about nine had not, and she has not been asked by anybody in this yard and she has not offered.**
+And a woman of about thirty-four in that store, who is on no list in it, came out of the back and stood at the door and said the date out loud in that yard in front of about nine people for the second time. She said it to the boards under the posting rather than to anybody, and the boards took it. About four of them had heard her say it the first time and about nine had not, and she has not been asked by anybody in this yard and she has not offered.
 
 "**The sixty-third day of the Long Month. It is a Tuesday and the queue is working and the last Tuesday a wage came out of that chest was the fifty-sixth day of the Long Month, and I am not going to say the date again for a while, and I would like it entered that I said it twice and that the second time was on purpose.**"
 
@@ -26,7 +26,7 @@ About a hundred and twenty people were in the yard of the store on the upper roa
 
 ---
 
-**And then the man who washes the board said the thing that nobody in that yard had said, and it is about a line of work and not about a wage, and it took him about four minutes. He had not dried his hands and there was grey water on the boards where he was standing. About nine people heard it, and about four of them have said since that it is the first time anybody has said out loud what he has been doing at the front of that queue since the seventh week of this flood.**
+And then the man who washes the board said the thing that nobody in that yard had said, and it is about a line of work and not about a wage, and it took him about four minutes. He had not dried his hands and there was grey water on the boards where he was standing. About nine people heard it, and about four of them have said since that it is the first time anybody has said out loud what he has been doing at the front of that queue since the seventh week of this flood.
 
 "**There are about nine people who come to the front of this line on a Tuesday and I am one of them and I have been one of them since the seventh week of this flood, and I wash that board because I wash it, and nobody has ever asked me to and nobody has ever paid me for it, and I would like about four people in this yard to work out what I do it for and then to tell me, because I have been doing it since the seventh week of this flood and I have never once said it out loud to anybody.**"
 
@@ -40,7 +40,7 @@ Somebody said the obvious thing.
 
 ---
 
-**And about the eleventh hour a man of about thirty-four who keeps a stall came up that road and stood under the ninth line of the posting with his back to the queue and read the other eight lines from the bottom up, and he did that for about four minutes and about nine people in that yard watched him do it and about four of them had never seen him do it.**
+And about the eleventh hour a man of about thirty-four who keeps a stall came up that road and stood under the ninth line of the posting with his back to the queue and read the other eight lines from the bottom up, and he did that for about four minutes and about nine people in that yard watched him do it and about four of them had never seen him do it.
 
 "**One of the eight lines can be checked.**"
 
@@ -60,7 +60,7 @@ He did not say anything else about it. He put his hands back in his sleeves, and
 
 ---
 
-**And about the fourth hour of the afternoon a woman of about thirty-four from a fourth household on the road came up that road on foot on a Tuesday, and about nine people in that yard had seen her do it twice before since the fifty-sixth day of the Long Month. She had said on the fifty-ninth day of the Long Month at the top of a cut eleven miles away that she was going to ask a settlement for a line on a page for about four hundred and thirty-one people, and about nine people in that yard knew that and about four of them had said in a market that she was going to be refused.**
+And about the fourth hour of the afternoon a woman of about thirty-four from a fourth household on the road came up that road on foot on a Tuesday, and about nine people in that yard had seen her do it twice before since the fifty-sixth day of the Long Month. She had said on the fifty-ninth day of the Long Month at the top of a cut eleven miles away that she was going to ask a settlement for a line on a page for about four hundred and thirty-one people, and about nine people in that yard knew that and about four of them had said in a market that she was going to be refused.
 
 "You said you would ask."
 
@@ -76,7 +76,7 @@ Somebody in that yard said the man's name.
 
 ---
 
-**And a man of forty-two was at the back of that yard at about the fifth hour and had been at the back of it on the forty-ninth and the fifty-fifth and the fifty-sixth day of the Long Month, and about four people in that yard have noticed and about nine of them had stopped noticing, and he said one sentence and it was not about himself.**
+And a man of forty-two was at the back of that yard at about the fifth hour and had been at the back of it on the forty-ninth and the fifty-fifth and the fifty-sixth day of the Long Month, and about four people in that yard have noticed and about nine of them had stopped noticing, and he said one sentence and it was not about himself.
 
 "Tell her I will be in my own yard on any day of the week."
 
@@ -88,6 +88,6 @@ Nobody in that yard asked him anything else. About four people in that yard want
 
 ---
 
-**And at about the seventh hour the man who washes the board came out, wrote the day's figures on it, washed it again in the trough and hung it back up in the same place. The water in the trough had gone the colour of the figures. The figures on the board were not the figures that had been on it, and about four people in that yard said nothing about it, and about nine of them have said since that they watched him do it twice and that the second time was after he had written.**
+And at about the seventh hour the man who washes the board came out, wrote the day's figures on it, washed it again in the trough and hung it back up in the same place. The water in the trough had gone the colour of the figures. The figures on the board were not the figures that had been on it, and about four people in that yard said nothing about it, and about nine of them have said since that they watched him do it twice and that the second time was after he had written.
 
-**And a queue in a yard nine miles up the road on a Tuesday, and a figure on a wall about that same Tuesday, and nothing in between.**
+And a queue in a yard nine miles up the road on a Tuesday, and a figure on a wall about that same Tuesday, and nothing in between.

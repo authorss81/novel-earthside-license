@@ -2,21 +2,21 @@
 
 Thirty-nine of forty men turn up under the near gate of the Lock of Salt on the eleventh day of the Long Month, which is a Saturday, and they have not been paid since the first of March, which was the eighty-fifth day of this flood, which is eighty-one days, and not one name of the forty is on anything, and there is nothing on any page that any of them is on.
 
-**About nine of them have been talking about the store on the upper road for four days. A settlement came down the road on Thursday. That is the whole of the event.**
+About nine of them have been talking about the store on the upper road for four days. A settlement came down the road on Thursday. That is the whole of the event.
 
 ---
 
 The foreman of the day crew has not come for fifty-two days and has still not been told, on purpose, and the decision is on a slate with a date on it and no name on it, and a woman of twenty-four has entered four times this year that the slate is correct and that the not-telling is a decision and not an oversight, and that nobody in this city is going to be the person who tells him, and that about four people in the crowd under the gate this morning knew that before they got there and said nothing to anybody.
 
-**And a man of about thirty-four who keeps a stall was under the gate at about the seventh hour with a slate of his own, and he had a figure in his hand, and he did not get to use it for about nine minutes, and what happened in those nine minutes is this day.**
+And a man of about thirty-four who keeps a stall was under the gate at about the seventh hour with a slate of his own, and he had a figure in his hand, and he did not get to use it for about nine minutes, and what happened in those nine minutes is this day.
 
 ---
 
-**The near gate is a stone arch with two leaves and one of them has been condemned since the twenty-ninth day of the month after this one and the rail across the leaves is rusted to the arch, and the men do not stand at the gate. They stand two hundred steps down the river wall on the flat place where the chain used to run, because the gate is shut and has been for about two months and there is nothing to stand at, and about forty men stand in a place where there is nothing, every working day, and have for eighty-one days.**
+The near gate is a stone arch with two leaves and one of them has been condemned since the twenty-ninth day of the month after this one and the rail across the leaves is rusted to the arch, and the men do not stand at the gate. They stand two hundred steps down the river wall on the flat place where the chain used to run, because the gate is shut and has been for about two months and there is nothing to stand at, and about forty men stand in a place where there is nothing, every working day, and have for eighty-one days.
 
 There is a lean-to at the flat place with a roof of oiled sail and a fire under it that goes out about the second hour of the afternoon. There is a boy of fourteen who keeps it going and is paid nothing and does not ask. There is a tally on a post — four notches a day, cut, and the notches are not in groups of five because about four people worked that out in the first month and nobody has redone it since. And there is a smell on that flat place that is not the river and is not the fire, and about four hundred people in this city know that smell and nobody has a word for it in a room.
 
-**And the crowd does the arithmetic itself, every morning, before anybody has said anything, and it is the crowd that says the number, and the number has not moved in eighty-one days and it is not a figure anybody keeps, it is a figure forty men say out loud together at about the seventh hour like a thing that is a fact about the morning and not a claim.**
+And the crowd does the arithmetic itself, every morning, before anybody has said anything, and it is the crowd that says the number, and the number has not moved in eighty-one days and it is not a figure anybody keeps, it is a figure forty men say out loud together at about the seventh hour like a thing that is a fact about the morning and not a claim.
 
 ---
 
@@ -34,15 +34,15 @@ A man of about thirty-four who keeps a stall said, "**It is because a wage someb
 
 ---
 
-**And then he asked the forty men, out loud, in the rain, whether anybody objected, and nobody objected, and about nine of them had not been asked anything by anybody in eighty-one days and could not get over it in nine minutes, and a man of about thirty-nine who trades on the Open Hand board was standing at the side of the road and saw the whole of it and has said since that it was the most efficient thing he has ever watched anybody do, and that he would give a year of his life to be able to do it, and that he does not know why it works.**
+And then he asked the forty men, out loud, in the rain, whether anybody objected, and nobody objected, and about nine of them had not been asked anything by anybody in eighty-one days and could not get over it in nine minutes, and a man of about thirty-nine who trades on the Open Hand board was standing at the side of the road and saw the whole of it and has said since that it was the most efficient thing he has ever watched anybody do, and that he would give a year of his life to be able to do it, and that he does not know why it works.
 
 He paid nine of them. A figure on the end of a line in his own hand, and the payer's name, and no names of the paid, and it took him nine minutes for nine men and it took him eleven, and a man of about thirty-one with a hand that will not close took a day of it and said thank you and meant it, and it was the first time in eighty-one days anybody had paid him anything, and he said it once and did not make a speech and did not go and stand at the side afterwards and look at it.
 
-**Thirty-eight are still owed. The eighty-one days is not reduced. The eleven entries in the cost column are not paid and there is no twelfth.**
+Thirty-eight are still owed. The eighty-one days is not reduced. The eleven entries in the cost column are not paid and there is no twelfth.
 
 ---
 
-**And then the man of about thirty-four who keeps a stall did the thing that nobody in this city has stopped thinking about, and he did it before the settlement's man had got his slate back in his coat.**
+And then the man of about thirty-four who keeps a stall did the thing that nobody in this city has stopped thinking about, and he did it before the settlement's man had got his slate back in his coat.
 
 He put his own figure on the end of his own line, on his own slate, for the same man, for one day, and his own name went on it, and the paid man's name did not, and he did it with a stub of pencil and he did it fast and he did not say anything while he did it.
 
@@ -56,7 +56,7 @@ He put his own figure on the end of his own line, on his own slate, for the same
 
 ---
 
-**And nobody in this city has argued with him about that, and one person has, and she did it standing up at a stall by the wharf on the Saturday evening, and she is the woman of about thirty-four who keeps a stall by the wharf and she has been on nothing for a hundred and sixty-six days and she said so first.**
+And nobody in this city has argued with him about that, and one person has, and she did it standing up at a stall by the wharf on the Saturday evening, and she is the woman of about thirty-four who keeps a stall by the wharf and she has been on nothing for a hundred and sixty-six days and she said so first.
 
 "That is not a reason," she said. "**That is a shape. A page with a man on it twice is still one page and there is no protection in a second entry, and you know that, and you did it anyway, and I think you did it because you have been awake since the fourth hour thinking about a queue on the upper road, and about two hours of that thinking has got into your arm.**"
 
@@ -68,7 +68,7 @@ He did not answer. **And it is entered by a woman of twenty-four that the man of
 
 ---
 
-**And at about the fourth hour of the afternoon a girl of seventeen who is on no roll of anything asked the settlement's man a question, and he answered it, and it is the first time in a hundred and sixty-six days that anybody from that store has said a thing in this city that was not better than this city at it.**
+And at about the fourth hour of the afternoon a girl of seventeen who is on no roll of anything asked the settlement's man a question, and he answered it, and it is the first time in a hundred and sixty-six days that anybody from that store has said a thing in this city that was not better than this city at it.
 
 "You wrote your own name twice this morning," she said. "**On two different payments, to two different lines, in one morning, in a hand that is not a clerk's. Do you know what you have done?**"
 
@@ -80,7 +80,7 @@ He did not answer. **And it is entered by a woman of twenty-four that the man of
 
 ---
 
-**And a woman of twenty-four came down to the flat place at about the eleventh hour, on her own, with a book, and asked the crowd one question, and got one answer, and wrote nothing down, and it is on the page because it is the only moment in eighty-one days in which anybody has asked them anything.**
+And a woman of twenty-four came down to the flat place at about the eleventh hour, on her own, with a book, and asked the crowd one question, and got one answer, and wrote nothing down, and it is on the page because it is the only moment in eighty-one days in which anybody has asked them anything.
 
 "How many came this morning."
 
@@ -92,8 +92,8 @@ Nobody answered her. **And she did not ask again, and it is entered by her in he
 
 ---
 
-**And the last thing on the page is not a wage at all. It is that thirty-eight men walked back up the hill with nothing, and about nine of them walked slower than the rest, and a man of about thirty-nine who trades on the Open Hand board walked with the slow ones and did not say anything for two hundred yards and then said one sentence, and it is entered that he said it and that nobody wrote it down and that he remembers it.**
+And the last thing on the page is not a wage at all. It is that thirty-eight men walked back up the hill with nothing, and about nine of them walked slower than the rest, and a man of about thirty-nine who trades on the Open Hand board walked with the slow ones and did not say anything for two hundred yards and then said one sentence, and it is entered that he said it and that nobody wrote it down and that he remembers it.
 
 "**He did not even want it.**"
 
-**And the eighty-one days is not reduced by anything that happened at that gate, and the foreman of the day crew is still not told, and the decision is still on a slate with a date on it and no name on it, and there is no twelfth entry in the cost column, and about four hundred people in a market underneath a room do not know that any of this happened and one of them asked after it in the hall on the Tuesday and could not be told, because a page that cannot be asked about is a page that cannot be corrected.**
+And the eighty-one days is not reduced by anything that happened at that gate, and the foreman of the day crew is still not told, and the decision is still on a slate with a date on it and no name on it, and there is no twelfth entry in the cost column, and about four hundred people in a market underneath a room do not know that any of this happened and one of them asked after it in the hall on the Tuesday and could not be told, because a page that cannot be asked about is a page that cannot be corrected.

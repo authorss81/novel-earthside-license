@@ -2,11 +2,11 @@
 
 On the twenty-third day of the month after this one, which was the hundred and thirteenth day of the flood and a Tuesday, about nine people went to a room where nine other people were trading on a board with rates on it and a refusal on it and no names on it, asked a cooperative of traders under local law to carry nine people nine hundred miles, were refused in about four seconds, and the refusal went on the board with no name on it, and a man of thirty-nine then asked to be added to the board by name and was also refused in about four seconds, and it is the third time in a hundred and thirteen days that a woman of about thirty-four who keeps a stall by the wharf and is on nothing has been asked to put her name on anything at all and said no.
 
-**The licence is sixty-three days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-fourth time. The black line in his right palm is one hundred and twelve days old and has not moved one sixteenth of an inch.**
+The licence is sixty-three days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-fourth time. The black line in his right palm is one hundred and twelve days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the board is a board, and it is four feet by three, and it is sixteen days old, and it has a rate on it for nineteen things and a refusal on it and nothing else, and a girl of seventeen asked for it to be described in four lines in a room and nobody would describe it and she wrote it down herself.**
+And the board is a board, and it is four feet by three, and it is sixteen days old, and it has a rate on it for nineteen things and a refusal on it and nothing else, and a girl of seventeen asked for it to be described in four lines in a room and nobody would describe it and she wrote it down herself.
 
 The rates are in the local hand and there are nineteen of them, and a man of about thirty-nine has traded on those same nineteen rates in four markets for four years without once writing them down, and has wanted his name against his own since the day somebody else wrote them up. There is no column for a name. **There is a line under the last rate that is not a rate and is not a name and says that a person who does not want to be found here has not been found here, and it is the oldest thing on the board, and it is not a rule anybody agreed to, it is a rule nobody broke, and the difference between those two things in four hundred miles is about the whole of this city.**
 
@@ -20,7 +20,7 @@ Nine people were trading on it at the ninth hour of the morning when about nine 
 
 ---
 
-**And the ask was made, and it was made badly, and it was made by a man of thirty-two who is on no roster of anything, and he made it badly on purpose and said so afterward, and the refusal took about four seconds and it is the shortest refusal anybody has entered in a hundred and thirteen days.**
+And the ask was made, and it was made badly, and it was made by a man of thirty-two who is on no roster of anything, and he made it badly on purpose and said so afterward, and the refusal took about four seconds and it is the shortest refusal anybody has entered in a hundred and thirteen days.
 
 "We need nine people in a room nine hundred miles away in forty-one days," he said. "**There is no road. There is no case going until a quarter, and a quarter is five weeks after the hearing. We have a cooperative of traders in this city with a right of refusal that cannot be bought out, and every one of you has been somewhere, and I am asking whether the Open Hand will carry nine people.**"
 
@@ -36,7 +36,7 @@ It was entered. **And a man of about thirty-nine who trades on the rates said ou
 
 ---
 
-**And then the man of thirty-nine asked to be added to it by name, and it was not a surprise, and a girl of seventeen wrote the time on it, and the woman of about thirty-four said no in about four seconds and did not sit down first.**
+And then the man of thirty-nine asked to be added to it by name, and it was not a surprise, and a girl of seventeen wrote the time on it, and the woman of about thirty-four said no in about four seconds and did not sit down first.
 
 "I want my name against my own rate," he said. "**I have traded on those rates for four years and I have never been late and I have never been wrong about one of them, and I have a right to be found.**"
 
@@ -58,7 +58,7 @@ He said nothing for about nineteen seconds. **And it is entered that nobody pers
 
 ---
 
-**And the fee of eleven ounces of silver is entered as owing with no date for the fifty-fourth time, and a carrier of the second table who has been carrying for eleven years stood in the doorway through the whole of it and said the thing nobody in that room had said in a hundred and thirteen days, and she said it in nine seconds, and about four people heard it and about four did not.**
+And the fee of eleven ounces of silver is entered as owing with no date for the fifty-fourth time, and a carrier of the second table who has been carrying for eleven years stood in the doorway through the whole of it and said the thing nobody in that room had said in a hundred and thirteen days, and she said it in nine seconds, and about four people heard it and about four did not.
 
 "A case is a case a carrier is paid for," said Peth Lammay, twenty-four. "**And the emptiest thing in a case is the safest thing in a case, and I have been saying that since before any of you arrived and each time I have said it it has been about a different thing, and today it is about a name. A case with a name in it can be carried.**"
 
@@ -74,8 +74,8 @@ And a woman of twenty-four said out loud that the whole of what a carrier is pai
 
 ---
 
-**And nothing else happened on the twenty-third day of the month after this one, and about nine people went back up a hill in the wrong weather, and the board is still a board, and it has a rate on it for nineteen things and a refusal on it with a date on it and no name on it and four rules that are not rates and have no names on them, and it is not a roll and it is not going to Aurel, and about nine people trade on it in the morning.**
+And nothing else happened on the twenty-third day of the month after this one, and about nine people went back up a hill in the wrong weather, and the board is still a board, and it has a rate on it for nineteen things and a refusal on it with a date on it and no name on it and four rules that are not rates and have no names on them, and it is not a roll and it is not going to Aurel, and about nine people trade on it in the morning.
 
-**And a hearing is in forty-one days. And there is one hearing and one clock. And nine people said out loud on the twenty-first day that they will stand in it, and the number went in a book with no heading and no date, and it is a number of people and not a list. And nine households at Nine Elms refused a fourth time yesterday and nobody in this city can say what the fourth refusal is. And a fee of eleven ounces of silver is owing with no date for the fifty-fourth time and a carrier of the second table has said the only sentence anybody in this city has said about why the city has not sent the eight names, and the sentence is that a name in a case can be carried. And the licence is sixty-three days old and the seat of holder of the pull is vacant and the instrument says nobody and has said nobody five times. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading was not taken and the dressed edge is dressed. And the stone in the arch said nothing today, and there have been twenty-nine things the wall has said in this city and one of them has been refused, and a morning spent standing next to a board with no names on it is the twenty-second silence, and the pattern is twenty-two for twenty-two.**
+And a hearing is in forty-one days. And there is one hearing and one clock. And nine people said out loud on the twenty-first day that they will stand in it, and the number went in a book with no heading and no date, and it is a number of people and not a list. And nine households at Nine Elms refused a fourth time yesterday and nobody in this city can say what the fourth refusal is. And a fee of eleven ounces of silver is owing with no date for the fifty-fourth time and a carrier of the second table has said the only sentence anybody in this city has said about why the city has not sent the eight names, and the sentence is that a name in a case can be carried. And the licence is sixty-three days old and the seat of holder of the pull is vacant and the instrument says nobody and has said nobody five times. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading was not taken and the dressed edge is dressed. And the stone in the arch said nothing today, and there have been twenty-nine things the wall has said in this city and one of them has been refused, and a morning spent standing next to a board with no names on it is the twenty-second silence, and the pattern is twenty-two for twenty-two.
 
-**And the last thing of the twenty-third day of the month after this one is nineteen words said in about four seconds in a market by a woman who is on nothing and is named on nothing and has now said no three times in a hundred and thirteen days, and the nineteen words are on a board in a room and the board does not travel, and that is the whole of the protection and the whole of the trouble.**
+And the last thing of the twenty-third day of the month after this one is nineteen words said in about four seconds in a market by a woman who is on nothing and is named on nothing and has now said no three times in a hundred and thirteen days, and the nineteen words are on a board in a room and the board does not travel, and that is the whole of the protection and the whole of the trouble.

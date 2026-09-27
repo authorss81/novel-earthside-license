@@ -2,11 +2,11 @@
 
 On the thirty-third day of the month after this one, which was the hundred and twenty-third day of the flood and a Friday, a girl of seventeen put her own name at the top of a nineteen-line page headed *the box as received* in about four seconds at about the eighth hour of the evening in a room over a market, and it is the first time in a hundred and twenty-three days that a person in this city has put her own name on a page in a room in daylight with about nine people in it, and the cost of it fell on her and not on anybody else, and she said so, and a man of thirty-two was asked to read it out and said no in about four seconds, and she read it out herself.
 
-**The licence is seventy-three days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is thirty-eight days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-fourth time. The black line in his right palm is one hundred and twenty-two days old and has not moved one sixteenth of an inch.**
+The licence is seventy-three days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is thirty-eight days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-fourth time. The black line in his right palm is one hundred and twenty-two days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the page is nineteen lines long and it is in her own book and it is not a roll and it is not going to Aurel, and three of the nineteen lines are about the box and sixteen of them are about nine people, and the description is the only account of the thing that will exist, which is the cost a pale field put in the grammatical position where a cost goes on the twenty-sixth day of the month after this one and which was paid on the twenty-seventh in about four hours by four people.**
+And the page is nineteen lines long and it is in her own book and it is not a roll and it is not going to Aurel, and three of the nineteen lines are about the box and sixteen of them are about nine people, and the description is the only account of the thing that will exist, which is the cost a pale field put in the grammatical position where a cost goes on the twenty-sixth day of the month after this one and which was paid on the twenty-seventh in about four hours by four people.
 
 She is on no roll, and she has been on no roll since the day she came out of a floor four feet beyond a threshold slab, and nobody in this city has asked her one question about being on no roll in a hundred and twenty-three days, and that is not the same as a person nobody has asked anything about.
 
@@ -22,7 +22,7 @@ It is entered that he did not say it.
 
 ---
 
-**And what it cost is the whole of the thirty-third day of the month after this one, and it took her about nine minutes to say and about four seconds to begin.**
+And what it cost is the whole of the thirty-third day of the month after this one, and it took her about nine minutes to say and about four seconds to begin.
 
 "**Nobody has read the writing round the edge of the wax. One man in this city could have and did not, on the twenty-sixth day, and a second time on the twenty-seventh, and a third time yesterday, and he has said three times in six days that he is not going to say it again this week. And on the twenty-ninth day of the month after this one he read a form out loud in this room in the local language and it turned out to be a description of a district, and a description is a removal with a column for where the person is, and the column was him. He said that in about four minutes and nobody improved on it and he said he was not going to be able to stop.**"
 
@@ -40,7 +40,7 @@ She put her hand flat on the book.
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf and is on nothing and is named on nothing said the thing that nobody in that room had expected from her, and it took nine seconds, and a girl of seventeen wrote it out and did not improve on it.**
+And a woman of about thirty-four who keeps a stall by the wharf and is on nothing and is named on nothing said the thing that nobody in that room had expected from her, and it took nine seconds, and a girl of seventeen wrote it out and did not improve on it.
 
 "**I have been asked four times in a hundred and twenty-three days to put a name on something and I have said no three times and I am going to be glad about this and I am not going to be one of the people who is glad about it in about eight weeks, so I am going to say why in nine seconds and then I am going to sit down.**"
 
@@ -58,7 +58,7 @@ Nobody said anything.
 
 ---
 
-**And a man of thirty-two, who is on no roster of anything, holds no mark of his own and has no workway and no title and no seat and no office in Saltwake for what he is, was asked to read the page out loud in the local language, and said no in about four seconds, and it is the shortest thing anybody said on the thirty-third day of the month after this one.**
+And a man of thirty-two, who is on no roster of anything, holds no mark of his own and has no workway and no title and no seat and no office in Saltwake for what he is, was asked to read the page out loud in the local language, and said no in about four seconds, and it is the shortest thing anybody said on the thirty-third day of the month after this one.
 
 "You have read every page anybody has brought into this room," said a man of about forty-four who keeps a stall.
 
@@ -72,7 +72,7 @@ It is entered. **And nobody in that room improved on it, and a woman of twenty-f
 
 ---
 
-**And so the girl of seventeen read her own page out in the local language to about nine people, in about four minutes, and she read it badly, and it is entered that she read it badly, and nobody corrected her and nobody read it after her.**
+And so the girl of seventeen read her own page out in the local language to about nine people, in about four minutes, and she read it badly, and it is entered that she read it badly, and nobody corrected her and nobody read it after her.
 
 It is a foot and a half long. It came up a river. It is not opened. The strap on it is not tied. **The fourth line is a list of who stood where, the twelfth says that a man of thirty-two read four lines under a seal and did not read the wax, and the seventeenth says that a notary of fifty accepted a thing in four seconds and has been asked about the box five times in five days and has answered none of the five.**
 
@@ -90,6 +90,6 @@ And it is entered that a notary of fifty, who was not in that room and has still
 
 ---
 
-**And nothing else happened on the thirty-third day of the month after this one, and a hearing is in thirty-one days and there is one hearing and one clock, and about nine people have said out loud that they will stand in it and the number nine is on a page with a date on it and no person at the top of it. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it is not opened and the strap is still untied, and there is a chair on the landing with no date on it. And a foreman of a day crew has not come for nine days and it was decided yesterday not to carry a word to him, and that decision is on a slate in a book in this city. And a page in a stone nine miles up a road has a line in it that is now wrong and cannot be corrected and the household that keeps that stone has never been asked what it thinks. And a page that ends a document is spent and five rooms have failed to explain it in the same place. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for thirty-eight days. And the main breach is closed, dressed, measured and silent and the Narrow Mark has been opened twice in a hundred and twenty-three days and the boards under the chapel have not been lifted since the fortieth day of this flood and the stone in the arch has said nothing in a hundred and twenty-three days. And there have been thirty things the wall has said in this city and one has been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-three, and a Friday on which a girl of seventeen wrote her own name at the top of a page is the thirty-first silence and the pattern is thirty-one for thirty-one.**
+And nothing else happened on the thirty-third day of the month after this one, and a hearing is in thirty-one days and there is one hearing and one clock, and about nine people have said out loud that they will stand in it and the number nine is on a page with a date on it and no person at the top of it. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it is not opened and the strap is still untied, and there is a chair on the landing with no date on it. And a foreman of a day crew has not come for nine days and it was decided yesterday not to carry a word to him, and that decision is on a slate in a book in this city. And a page in a stone nine miles up a road has a line in it that is now wrong and cannot be corrected and the household that keeps that stone has never been asked what it thinks. And a page that ends a document is spent and five rooms have failed to explain it in the same place. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for thirty-eight days. And the main breach is closed, dressed, measured and silent and the Narrow Mark has been opened twice in a hundred and twenty-three days and the boards under the chapel have not been lifted since the fortieth day of this flood and the stone in the arch has said nothing in a hundred and twenty-three days. And there have been thirty things the wall has said in this city and one has been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-three, and a Friday on which a girl of seventeen wrote her own name at the top of a page is the thirty-first silence and the pattern is thirty-one for thirty-one.
 
-**And the last thing of the thirty-third day of the month after this one is a bound book on a bench in a room over a market with a name at the top of one page in it and nothing at the top of any other, and the name is not a roll and the page cannot leave the room and the man who could have read it out said no in about four seconds, and the girl read it herself, and nobody in nine people improved on her, and a hearing is in thirty-one days.**
+And the last thing of the thirty-third day of the month after this one is a bound book on a bench in a room over a market with a name at the top of one page in it and nothing at the top of any other, and the name is not a roll and the page cannot leave the room and the man who could have read it out said no in about four seconds, and the girl read it herself, and nobody in nine people improved on her, and a hearing is in thirty-one days.

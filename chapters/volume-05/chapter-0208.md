@@ -6,7 +6,7 @@ The posting has been up seven days on a wall nine miles up the road past this ci
 
 ---
 
-**And he had the back of a slate. There was no slate on the front of it. On the back, in a hand that had been copying all afternoon and had got the spacing wrong in two places, was the front of a page, and there is a name at the top of it, and about nine people nine feet away had worked that out before he got to the stall.**
+And he had the back of a slate. There was no slate on the front of it. On the back, in a hand that had been copying all afternoon and had got the spacing wrong in two places, was the front of a page, and there is a name at the top of it, and about nine people nine feet away had worked that out before he got to the stall.
 
 "I copied it on the forty-fifth day of the Long Month."
 
@@ -18,7 +18,7 @@ Nobody said anything. About nine people nine feet away had heard all of it.
 
 ---
 
-**And she came out from behind the stall, and she has been on a page for eight days, and she asked in advance on the forty-fifth day of the Long Month not to be thanked, and nobody has thanked her, and about four people in that yard have said since that they do not think they could.**
+And she came out from behind the stall, and she has been on a page for eight days, and she asked in advance on the forty-fifth day of the Long Month not to be thanked, and nobody has thanked her, and about four people in that yard have said since that they do not think they could.
 
 "You are the first one."
 
@@ -34,7 +34,7 @@ Nobody said anything. About nine people nine feet away had heard all of it.
 
 ---
 
-**And a man of about thirty-four who keeps a stall came down the wharf at about the ninth hour and stood about four feet off and did not come closer than that, and he said the thing nobody had said, and it is in a book in this city in his own words with the date on it.**
+And a man of about thirty-four who keeps a stall came down the wharf at about the ninth hour and stood about four feet off and did not come closer than that, and he said the thing nobody had said, and it is in a book in this city in his own words with the date on it.
 
 "It did not come from here."
 
@@ -48,7 +48,7 @@ Nobody said anything. About nine people nine feet away had heard all of it.
 
 ---
 
-**And a woman of about twenty-four came down to the wharf at about the ninth hour with a slate under her arm and she had walked four streets and had been standing in a market for about an hour, and she did not go and stand next to either of them, and she said the one sentence about the rule of the Reach that anybody has said about it since the forty-fifth day of the Long Month, and she said it in a yard and not in a room, and it is not a room and nobody asked her a question.**
+And a woman of about twenty-four came down to the wharf at about the ninth hour with a slate under her arm and she had walked four streets and had been standing in a market for about an hour, and she did not go and stand next to either of them, and she said the one sentence about the rule of the Reach that anybody has said about it since the forty-fifth day of the Long Month, and she said it in a yard and not in a room, and it is not a room and nobody asked her a question.
 
 "**The rule of the Reach says every household affected by a change must be heard. It has been in this city for four hundred years, it has no name on it, and it has a hole in it, and the hole is the shape of a household, and I have not been near that household and neither has anybody in this yard and neither is anybody going to.**"
 
@@ -60,7 +60,7 @@ Nobody joined them up. A man of about thirty-four who keeps a stall heard her sa
 
 ---
 
-**And then the man of about forty-four who keeps a stall said the last thing of the morning and he said it to her and not to about nine people nine feet away, and it took about nine seconds and it is the only thing anybody said in that yard that was about the copy itself.**
+And then the man of about forty-four who keeps a stall said the last thing of the morning and he said it to her and not to about nine people nine feet away, and it took about nine seconds and it is the only thing anybody said in that yard that was about the copy itself.
 
 "**I am not going to apologise for it and I am not going to be praised for it and I would like both of those entered. I made a second copy of a page because a page ought to be in two places, and the second copy has been in a market, and a bar of chalk, and a yard nine miles up a road, and a slip with a date cut into the corner of it, and it has not been in my own house once and it is not going to be. Put that in the book and do not put me in it with anything else.**"
 
@@ -70,7 +70,7 @@ Nobody joined them up. A man of about thirty-four who keeps a stall heard her sa
 
 ---
 
-**And at about the second hour of the afternoon a second man came and stood in front of the stall, and he had nothing in his hands at all, and about nine people nine feet away worked out before he had got to the fourth step that he was not the second person anybody had sent and that he was the first person anybody had told.**
+And at about the second hour of the afternoon a second man came and stood in front of the stall, and he had nothing in his hands at all, and about nine people nine feet away worked out before he had got to the fourth step that he was not the second person anybody had sent and that he was the first person anybody had told.
 
 "I heard about it."
 
@@ -92,4 +92,4 @@ She picked the slate up again and did not write on it, and it is the ninth year 
 
 ---
 
-**And a slate with the front of a page on the back of it, lying face up on the boards of a stall by a wharf, and nobody's hand on it.**
+And a slate with the front of a page on the back of it, lying face up on the boards of a stall by a wharf, and nobody's hand on it.

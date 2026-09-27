@@ -4,7 +4,7 @@ A bag of salt came off the front of a man's chest and went down onto the boards 
 
 ---
 
-**And there is a mark on the front of his coat where the bag has sat and it has been there since the sixty-second day of that month, when he counted a quarter of a sack out of his own hand into another one's in a market in this city, and the salt in that bag went hard on the sixty-sixth day of that month and a bar would not go into it, and he said in a yard on that day that the day he breaks it he has got two figures and neither of them is the one he paid. Break is not open.**
+And there is a mark on the front of his coat where the bag has sat and it has been there since the sixty-second day of that month, when he counted a quarter of a sack out of his own hand into another one's in a market in this city, and the salt in that bag went hard on the sixty-sixth day of that month and a bar would not go into it, and he said in a yard on that day that the day he breaks it he has got two figures and neither of them is the one he paid. Break is not open.
 
 "Nobody asked you to put that down."
 
@@ -18,7 +18,7 @@ The mark on the front of that coat was still on it and the coat was hanging in t
 
 ---
 
-**And the man of about twenty-seven who washes that store's board came in with the cloth in his hand at about the ninth hour and looked at a bag of salt standing on the boards and did not pick it up, and the board on that wall has not been written on since the seventieth day of the Long Month and the figures on it are the figures of the sixty-ninth day of that month, and about four people in this city have worked out that a man who washes a board every morning has nothing to say about a mark on the floor of a yard and about nine of them have worked out that he has.**
+And the man of about twenty-seven who washes that store's board came in with the cloth in his hand at about the ninth hour and looked at a bag of salt standing on the boards and did not pick it up, and the board on that wall has not been written on since the seventieth day of the Long Month and the figures on it are the figures of the sixty-ninth day of that month, and about four people in this city have worked out that a man who washes a board every morning has nothing to say about a mark on the floor of a yard and about nine of them have worked out that he has.
 
 "**I am not going to write that down.**"
 
@@ -32,7 +32,7 @@ He wrung the cloth out over the trough and about four people in that yard watche
 
 ---
 
-**And the woman of about thirty-four in that store came out of the back and looked at a bag of salt standing on the boards of her yard and did not pick it up, and she is on no list in that store, and the chest is behind her with twelve sacks in it and about four of them have a knot on them that is not the knot on the other eight.**
+And the woman of about thirty-four in that store came out of the back and looked at a bag of salt standing on the boards of her yard and did not pick it up, and she is on no list in that store, and the chest is behind her with twelve sacks in it and about four of them have a knot on them that is not the knot on the other eight.
 
 "**That is a wage.**"
 
@@ -48,7 +48,7 @@ He wrung the cloth out over the trough and about four people in that yard watche
 
 ---
 
-**And Adrian Vale came out of the back of that store at about the ninth hour with the trough under his arm and carried it to the edge of that yard and emptied it and brought it back and did that about nine times, and about nine people in that yard knew who he was and about four of them had been waiting since the fifty-fourth day of the Long Month for somebody to say a name, and nobody said it, and nobody asked him about a gate and nobody offered him anything.**
+And Adrian Vale came out of the back of that store at about the ninth hour with the trough under his arm and carried it to the edge of that yard and emptied it and brought it back and did that about nine times, and about nine people in that yard knew who he was and about four of them had been waiting since the fifty-fourth day of the Long Month for somebody to say a name, and nobody said it, and nobody asked him about a gate and nobody offered him anything.
 
 "That is the ninth time."
 
@@ -60,7 +60,7 @@ He wrung the cloth out over the trough and about four people in that yard watche
 
 ---
 
-**And the man of about thirty-nine who trades on the Open Hand board was still at the gate of that yard at about the eleventh hour and the bag was still on the boards four feet from where he had put it down, and nobody in that yard had picked it up and nobody had asked him to pick it up, and about four people in that yard had worked out that two people can stand nine feet from a bag for three hours. About nine of them have worked out that one of them is a woman on no list and one of them is a man who wrote an objection to a compact into the page he is party to.**
+And the man of about thirty-nine who trades on the Open Hand board was still at the gate of that yard at about the eleventh hour and the bag was still on the boards four feet from where he had put it down, and nobody in that yard had picked it up and nobody had asked him to pick it up, and about four people in that yard had worked out that two people can stand nine feet from a bag for three hours. About nine of them have worked out that one of them is a woman on no list and one of them is a man who wrote an objection to a compact into the page he is party to.
 
 "Nobody has touched it."
 
@@ -74,7 +74,7 @@ About four people in that yard watched two people stand nine feet from a bag and
 
 ---
 
-**And a beam stood in the middle of that yard on a block of stone with one pan on it and a sack of salt sitting in that pan, and it has stood there since the seventy-third day of that month, and the man of about fifty-two who digs made it on the fifty-eighth day of that month and carried it up that road and left it there and has not carried it home, and about four people in this yard had worked out inside three days that every length of wood anybody in this city has been holding came off a rack.**
+And a beam stood in the middle of that yard on a block of stone with one pan on it and a sack of salt sitting in that pan, and it has stood there since the seventy-third day of that month, and the man of about fifty-two who digs made it on the fifty-eighth day of that month and carried it up that road and left it there and has not carried it home, and about four people in this yard had worked out inside three days that every length of wood anybody in this city has been holding came off a rack.
 
 "That beam is still there."
 
@@ -86,4 +86,4 @@ About four people in that yard watched two people stand nine feet from a bag and
 
 ---
 
-**And a bag of salt standing on the boards of a yard with the wind still at the wall, and the man who brought it already back on the road.**
+And a bag of salt standing on the boards of a yard with the wind still at the wall, and the man who brought it already back on the road.

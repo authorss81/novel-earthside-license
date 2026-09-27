@@ -18,7 +18,7 @@ The wage is a day and a share and a ration, and the ration is a sack and not a f
 
 ---
 
-**And at about the ninth hour of the same morning, three hundred yards away, in a gateway with a door that shuts, a man of about thirty-two asked a question properly for the second time in a hundred and eighty-three days, and the instrument took four days to build and it was used on a Hearthguard of forty-four once, and it worked, and it worked again, and what it got him was nothing.**
+And at about the ninth hour of the same morning, three hundred yards away, in a gateway with a door that shuts, a man of about thirty-two asked a question properly for the second time in a hundred and eighty-three days, and the instrument took four days to build and it was used on a Hearthguard of forty-four once, and it worked, and it worked again, and what it got him was nothing.
 
 The instrument is this and it is in a book in this city: the question in the person's own words, given in writing to everybody who will be in the room four days beforehand, anybody who cannot be given it not going to be in the room, a date on a slate, and nobody asking the person whether the day suited them.
 
@@ -30,7 +30,7 @@ And the question is this.
 
 And the attached page of the trial licence says, in the words of a page that has been on a table in four hundred miles for a hundred and eighty-three days: *no workway of any kind, offered to anybody, to anybody else, now or at any time, by that instrument or by anybody using it.*
 
-**And it is a real question and it is a correct question and nobody in this world can answer it, and the reason nobody can answer it is not a secret and it is not anybody's fault and it is on the page in a gateway with a door that shuts.**
+And it is a real question and it is a correct question and nobody in this world can answer it, and the reason nobody can answer it is not a secret and it is not anybody's fault and it is on the page in a gateway with a door that shuts.
 
 ---
 
@@ -60,11 +60,11 @@ Nobody answered her and about four people in that gateway have said since that n
 
 ---
 
-**And a man of about thirty-two said the next thing himself, and he said it in about four minutes, and it is on the page in his own hand and a woman of twenty-four was not in that room and wrote it down afterwards and did not improve on it, and it is the whole of what happened in that gateway on the twenty-eighth day of the Long Month.**
+And a man of about thirty-two said the next thing himself, and he said it in about four minutes, and it is on the page in his own hand and a woman of twenty-four was not in that room and wrote it down afterwards and did not improve on it, and it is the whole of what happened in that gateway on the twenty-eighth day of the Long Month.
 
 "**Then I have two questions and I have had them for about a week and I have not put them next to each other, and I am putting them next to each other at about the tenth hour of the morning on the twenty-eighth day of the Long Month, in a gateway, in daylight.**
 
-**The first is: is a workway offered in a room by a party to that instrument a breach of the attached page. And the second is: a man of thirty-two on no roster of anything at his own request, in his own hand, with the date on it, holding no mark and no workway and no title and no seat and no wage and no land right, asked a clerk of the fourth desk of an office nine hundred miles away, in a gateway, about a term of an instrument, and the clerk has read it and has said the column exists.**
+The first is: is a workway offered in a room by a party to that instrument a breach of the attached page. And the second is: a man of thirty-two on no roster of anything at his own request, in his own hand, with the date on it, holding no mark and no workway and no title and no seat and no wage and no land right, asked a clerk of the fourth desk of an office nine hundred miles away, in a gateway, about a term of an instrument, and the clerk has read it and has said the column exists.
 
 **The first question is real and the second question is the reason the first one is worth nothing, and I have known the second one since the sixty-fourth day of the month after this one and I have not let the two of them touch in twenty-nine days, and I have let them touch this morning because a woman of about thirty-four who keeps a stall by the wharf said in a yard on Monday that she has been angry at the wrong thing since the first day of this flood, and she was not talking to me and I heard her.**"
 
@@ -82,7 +82,7 @@ Nobody answered her and about four people in that gateway have said since that n
 
 ---
 
-**And then a man of about thirty-nine who trades on the Open Hand board walked about four hundred yards up a road and told the man of about thirty-two one thing about the channel at Nine Elms, and it is on the page because it is the third thing on that water in nine days that nobody can act on, and it is the oldest.**
+And then a man of about thirty-nine who trades on the Open Hand board walked about four hundred yards up a road and told the man of about thirty-two one thing about the channel at Nine Elms, and it is on the page because it is the third thing on that water in nine days that nobody can act on, and it is the oldest.
 
 "**The fourth channel of that junction has been shut seventy-one days. It was shut by a fourth line of a term sheet that is in force and was never given up. The quarter that was to pay for it is gone. The undertaking that was to pay for it is void and is on a nail on a river and no office has been told. And that junction has not taken water in a hundred and fourteen days, and it is the only junction in four hundred miles where a commons keeps a record of who may use a water gate, and the record has been kept for nine years and every name on it is alive, and there is a channel on that junction that is shut and there is nobody in four hundred miles who can open it, and I have walked past it nine times this week and I have not asked anybody anything about it because a description is a removal with a column for where the person is, and I am telling you because you are the only person I know who is not going to write it down.**"
 
@@ -92,4 +92,4 @@ Nobody answered her and about four people in that gateway have said since that n
 
 ---
 
-**The twenty-fifth day of a delay Adrian entered in his own hand on day one hundred and sixty-four runs out on the thirty-fourth day of the Long Month. He has not broken it and it has cost a household nine days of a week.**
+The twenty-fifth day of a delay Adrian entered in his own hand on day one hundred and sixty-four runs out on the thirty-fourth day of the Long Month. He has not broken it and it has cost a household nine days of a week.

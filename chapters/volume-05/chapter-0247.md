@@ -4,7 +4,7 @@ A woman of about thirty-four from a fourth household on the road came up the ban
 
 ---
 
-**And the keeper of the Redroot gate was at the top of that cut from first light with the board in her left hand, where it has been since the forty-eighth day of that month, and she did not stop working the channel, and she did not look at the broom for about the length of a breath and then she looked at it once and did not look at it again.**
+And the keeper of the Redroot gate was at the top of that cut from first light with the board in her left hand, where it has been since the forty-eighth day of that month, and she did not stop working the channel, and she did not look at the broom for about the length of a breath and then she looked at it once and did not look at it again.
 
 "That is yours."
 
@@ -16,7 +16,7 @@ A woman of about thirty-four from a fourth household on the road came up the ban
 
 ---
 
-**And the dust in the bottom of that channel had a shape on it where the wind had come down the cut and turned at the corner, and the shape was the width of a board and about four feet long, and the keeper of that gate had been working that channel for two hours and had not swept it and had not been asked to by anybody.**
+And the dust in the bottom of that channel had a shape on it where the wind had come down the cut and turned at the corner, and the shape was the width of a board and about four feet long, and the keeper of that gate had been working that channel for two hours and had not swept it and had not been asked to by anybody.
 
 "Does that want sweeping out."
 
@@ -32,7 +32,7 @@ A woman of about thirty-four from a fourth household on the road came up the ban
 
 ---
 
-**And the broom lay on the boards of that bank where she had put it, and the handle was about four feet long and the bristles were worn flat on one side, and the wind came down that cut at about the tenth hour and moved the bristles about an inch and left them.**
+And the broom lay on the boards of that bank where she had put it, and the handle was about four feet long and the bristles were worn flat on one side, and the wind came down that cut at about the tenth hour and moved the bristles about an inch and left them.
 
 "You will come back."
 
@@ -44,7 +44,7 @@ A woman of about thirty-four from a fourth household on the road came up the ban
 
 ---
 
-**And the keeper of the Redroot gate worked that channel from the first hour to the eleventh hour on a morning when there was nothing in the channel to work, and about four people who came up that bank after the tenth hour stepped over the broom and the rest did not see it at all.**
+And the keeper of the Redroot gate worked that channel from the first hour to the eleventh hour on a morning when there was nothing in the channel to work, and about four people who came up that bank after the tenth hour stepped over the broom and the rest did not see it at all.
 
 "**Off the flats, and there is nobody on those flats but about four hundred and forty people, and not one of them is in this cut and not one of them can be, and I have known that since the seventy-fourth day of that month and I have said it out loud twice and both times to somebody who had not asked me.**"
 
@@ -58,7 +58,7 @@ The woman of about thirty-four from a fourth household on the road said that to 
 
 ---
 
-**And the woman of about thirty-four from a fourth household on the road had come up that bank four times before the ninety-second day of that month and had asked for nothing on any of them, and about four people in this city have worked that out and the rest have not, and none of the four times was on a day that a queue stood in a yard nine miles up the road.**
+And the woman of about thirty-four from a fourth household on the road had come up that bank four times before the ninety-second day of that month and had asked for nothing on any of them, and about four people in this city have worked that out and the rest have not, and none of the four times was on a day that a queue stood in a yard nine miles up the road.
 
 "You have never come up here with a thing before."
 
@@ -74,17 +74,17 @@ The woman of about thirty-four from a fourth household on the road said that to 
 
 ---
 
-**And the light came off the flats at about the eleventh hour and went up the far side of that cut, and the broom was on the boards of the top of it, and the woman of about thirty-four from a fourth household on the road went down that bank at about the eleventh hour and picked up nothing.**
+And the light came off the flats at about the eleventh hour and went up the far side of that cut, and the broom was on the boards of the top of it, and the woman of about thirty-four from a fourth household on the road went down that bank at about the eleventh hour and picked up nothing.
 
 She got up off the boards where she had been sitting and her knees were white with the dust off the top of that bank, and she beat them once each against the side of her leg and the dust came off in two pale smears and stayed on the cloth of her skirt, and she went down about nine feet of that bank and stopped at a flat stone about four steps from the bottom of it and stood on that instead of the boards. The wind was still coming down that cut and the broom was still on the boards and neither of them moved about an inch in the time it took her to go down, and the keeper of the Redroot gate did not watch her go and did not say one word about the two smears on her skirt.
 
 ---
 
-**And the broom lay on the boards at the top of that cut for the rest of the ninety-second day of that month, and about four people came up that bank after the eleventh hour and stepped over it, and nobody at the top of that cut picked it up and nobody took it away, and the keeper of the Redroot gate walked past it about nine feet once more before the light went off the flats.**
+And the broom lay on the boards at the top of that cut for the rest of the ninety-second day of that month, and about four people came up that bank after the eleventh hour and stepped over it, and nobody at the top of that cut picked it up and nobody took it away, and the keeper of the Redroot gate walked past it about nine feet once more before the light went off the flats.
 
 ---
 
-**And the keeper of the Redroot gate had a knife in her right hand at about the tenth hour of that morning and she was not cutting anything, and the board was under her left arm with the face of it against her sleeve, and about four people at the top of that cut have known for about four years that she keeps that knife for the knife marks and not for anything else.**
+And the keeper of the Redroot gate had a knife in her right hand at about the tenth hour of that morning and she was not cutting anything, and the board was under her left arm with the face of it against her sleeve, and about four people at the top of that cut have known for about four years that she keeps that knife for the knife marks and not for anything else.
 
 "You have not looked at it."
 
@@ -98,7 +98,7 @@ She went back to the channel and the knife went back into her belt and the board
 
 ---
 
-**And the keeper of the Redroot gate was working a channel that has had no water in it since the forty-first day of that month, and about four people at the top of that cut had worked out in about four years what her work is on a day like this and nobody had ever said so out loud, and she said it herself at about the tenth hour to a woman who had not asked.**
+And the keeper of the Redroot gate was working a channel that has had no water in it since the forty-first day of that month, and about four people at the top of that cut had worked out in about four years what her work is on a day like this and nobody had ever said so out loud, and she said it herself at about the tenth hour to a woman who had not asked.
 
 "You are cleaning a dry channel."
 
@@ -110,4 +110,4 @@ She went back to the channel and the knife went back into her belt and the board
 
 ---
 
-**And a broom lying along the boards at the top of a cut, with the bristles toward the water and the handle out.**
+And a broom lying along the boards at the top of a cut, with the bristles toward the water and the handle out.

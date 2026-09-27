@@ -1,10 +1,10 @@
 # Chapter 0056 — What the Description Is For
 
-On the thirty-first day of the new month, which was the fifty-sixth day of the flood and a Monday, a fourth document arrived from a building on a river in Aurel, and it was not a version of the other three, and a notary said so out loud in a room before anybody had finished reading it, and its shape was a table. It asked for every opening of every crossing in the district: the date, the hour, the seam, the name of the person, the two witnesses, the four who inspected, the cost, the receiving party, and one further column that is a seat, quarterly, in a form required, sealed and copied at a fee in silver. This city has salt and no silver. The room then did the thing this book has been built to do and invented a form that is complete and cannot be acted on, and the notary entered that she has been a notary for twenty-six years and has never before entered a page whose purpose is to be unhelpful. The form is dangerous in the exact way Adrian Vale has warned about for fifty-six days, because a form filled in honestly by people who have decided to be unhelpful is still a true document, and a true document says that eleven named people have asked to go home and that there is no road. He put his own name in the last column, under a heading that says *person to be asked*, and a woman of twenty-four told him in twenty-five words what he has done, and he wrote them down. The fee is entered as owing with no date. A clerk of that office said the sentence that makes the politics of the next four volumes legible in fourteen words, and then entered, in his own book and in ours, that the office does not charge a fee it cannot collect, and nobody in that room worked out what it is about, and the reader is allowed one guess better than the room.
+On the thirty-first day of the new month, which was the fifty-sixth day of the flood and a Monday, a fourth document arrived from a building on a river in Aurel, and it was not a version of the other three, and a notary said so out loud in a room before anybody had finished reading it, and its shape was a table. It asked for every opening of every crossing in the district: the date, the hour, the seam, the name of the person, the two witnesses, the four who inspected, the cost, the receiving party, and one further column that is a seat, quarterly, in a form required, sealed and copied at a fee in silver. This city has salt and no silver. The room then did the thing this book has been built to do and invented a form that is complete and cannot be acted on, and the notary entered that she has been a notary for twenty-six years and has never before entered a page whose purpose is to be unhelpful. The form is dangerous in the exact way Adrian Vale has warned about for fifty-six days, because a form filled in honestly by people who have decided to be unhelpful is still a true document, and a true document says that eleven named people have asked to go home and that there is no road. He put his own name in the last column, under a heading that says *person to be asked*, and a woman of twenty-four told him in twenty-five words what he has done, and he wrote them down. The fee is entered as owing with no date. A clerk of that office said the sentence that makes the politics of the next four quarters legible in fourteen words, and then entered, in his own book and in ours, that the office does not charge a fee it cannot collect, and nobody in that room worked out what it is about, and whoever reads this later is allowed one guess better than the room.
 
 ---
 
-**The fourth document is nine lines long and it is a table, and it is the first Crown instrument in fifty-six days that anybody in this city wanted to fill in, and that is the reason it was dangerous.**
+The fourth document is nine lines long and it is a table, and it is the first Crown instrument in fifty-six days that anybody in this city wanted to fill in, and that is the reason it was dangerous.
 
 It came by the second-table on a Saturday and was read aloud in a converted salt store at about the sixth hour of the morning of the thirty-first day of the new month by a woman of twenty-four, in English, and then in the local language, and then again in English for the people who had understood it the first time.
 
@@ -20,7 +20,7 @@ And then a fourth line that nobody expected and that has been the most useful se
 
 > **A fee is charged in respect of the office's work, and an office that is not paid does not work.**
 
-**Nobody in that room wanted the schedule. About nine people wanted it, and one of the nine was the assessor of strangers, and it is entered that he wanted it and did not say so and said something else instead, and the something else was correct.**
+Nobody in that room wanted the schedule. About nine people wanted it, and one of the nine was the assessor of strangers, and it is entered that he wanted it and did not say so and said something else instead, and the something else was correct.
 
 "**That is the fourth one,**" said Sera Vail, in about two hundred and forty people, before anybody had finished the reading, and it is the first thing she said and it is in the book in her own words. "**It is not the notice of the twenty-eighth day of this flood. It is not the third instrument of the seventeenth day of the new month. It is not our second answer of the twenty-second. It is a table and it is new and it is the first Crown document in this city that does not want a person in it.**"
 
@@ -28,7 +28,7 @@ And then a fourth line that nobody expected and that has been the most useful se
 
 ---
 
-**And the sentence that makes the next four volumes legible was said by a clerk of that office, at about the seventh hour of the morning, to about forty people, and it is fourteen words, and he is the second clerk of the Registrar of Crossings and Tides and he has been at a table in this city since the fourth day of this flood and has never once been asked to stop.**
+And the sentence that makes the next four quarters legible was said by a clerk of that office, at about the seventh hour of the morning, to about forty people, and it is fourteen words, and he is the second clerk of the Registrar of Crossings and Tides and he has been at a table in this city since the fourth day of this flood and has never once been asked to stop.
 
 Renner Sallow put his book down. He has been keeping a book since the eighth day of this flood in a stranger's language on every page, and it now has ten fields in it and a second column he keeps at home, and neither book has ever been shown to anybody.
 
@@ -44,7 +44,7 @@ Renner Sallow put his book down. He has been keeping a book since the eighth day
 
 ---
 
-**And the room invented the honest useless form, and it took about four hours, and it is the most satisfying thing anybody has done in this city since the third day of this flood, and it is the first instrument in the history of this book that was designed to be useless on purpose.**
+And the room invented the honest useless form, and it took about four hours, and it is the most satisfying thing anybody has done in this city since the third day of this flood, and it is the first instrument in the history of this book that was designed to be useless on purpose.
 
 It came from Vask in about nine sentences, at about the ninth hour of the morning, standing in a yard with a bar in her hand, and the argument is in the book in her own words and it is the sixth sentence of hers in fifty-six days that this city is going to have to argue about for four months:
 
@@ -62,7 +62,7 @@ And Sera Vail entered, and this is the entry and it is the reason the batch exis
 
 ---
 
-**And the form is dangerous, and it is dangerous in the exact shape Adrian Vale has been warning about since the fourth day of this flood, and about four people in that room said so before he did and he has entered that they did.**
+And the form is dangerous, and it is dangerous in the exact shape Adrian Vale has been warning about since the fourth day of this flood, and about four people in that room said so before he did and he has entered that they did.
 
 > **The honest useless form, filled in for the first quarter: the two openings of the licensed route in this district, which is every opening there has been, across sixty-one lines, sealed, and lodged with a copy at the office of the Lantern Concord in a wooden case with the roll of strangers and the quarterly description.**
 >
@@ -84,7 +84,7 @@ And Sera Vail entered, and this is the entry and it is the reason the batch exis
 
 ---
 
-**And the last column of the table has a heading and the heading is *person to be asked*, and it is the only column in the schedule that is not about a crossing, and about a hundred and forty people in that room did not understand why it was there until a notary read the footnote, and the footnote is four words long and it is a Crown's.**
+And the last column of the table has a heading and the heading is *person to be asked*, and it is the only column in the schedule that is not about a crossing, and about a hundred and forty people in that room did not understand why it was there until a notary read the footnote, and the footnote is four words long and it is a Crown's.
 
 > ***Person to be asked*** — *where the local record is not maintained in the district, the office requires the name of one person who may be asked.*
 
@@ -102,7 +102,7 @@ And the room understood, in about four seconds, what Adrian Vale had understood 
 
 ---
 
-**And he put his own name in it, and nobody made him, and it is the worst week of his life in this world and it lasted about eleven minutes.**
+And he put his own name in it, and nobody made him, and it is the worst week of his life in this world and it lasted about eleven minutes.
 
 "**I am the person who may be asked.** That is not a seat and it is not a licence and it is not a workway and it does not make me anything. There is a document on this table with a column for a person and there is a man in this city who is the reason there is a seam in a wall at all, and the honest thing to put in that column is that man, and if I do not put my name in it then whoever goes in it goes in it without being asked, which is the thing this whole instrument was invented to stop."
 
@@ -116,13 +116,13 @@ And the room understood, in about four seconds, what Adrian Vale had understood 
 
 And he wrote it, in his own hand, in the last line of the sixty-first line of the honest useless form, and it is a name and a date and nothing else, and it is not a title, and it does not survive a quarter, and a man in a good coat read the last line of that form and did not say one word about it, and about nine people noticed that he did not.
 
-**And Priya Shah told him what he had done in twenty-five words, in the yard, at about the third hour of the afternoon, and he wrote them down in the notebook that night and they are in the book in her own words because she made him repeat them twice and then wrote them on the slate he had given her:**
+And Priya Shah told him what he had done in twenty-five words, in the yard, at about the third hour of the afternoon, and he wrote them down in the notebook that night and they are in the book in her own words because she made him repeat them twice and then wrote them on the slate he had given her:
 
 "**You have made yourself the only person in this city an office can write to. Now be honest about how much of that you wanted.**"
 
 ---
 
-**And the fee was entered as owing, with no date, and a clerk of that office entered a sentence into his own book that night and it is in this book too, and it is the last thing on the thirty-first day of the new month, and the sentence at the head of it is ten words, and nobody in that room worked out what it was about:**
+And the fee was entered as owing, with no date, and a clerk of that office entered a sentence into his own book that night and it is in this book too, and it is the last thing on the thirty-first day of the new month, and the sentence at the head of it is ten words, and nobody in that room worked out what it was about:
 
 "**The office does not charge a fee it cannot collect. The fee is not about the silver. Enter that I wrote it, and that I do not know what it is about, and that I have never written that in any book before.**"
 

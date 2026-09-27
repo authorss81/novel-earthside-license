@@ -6,7 +6,7 @@ It is a Thursday. The store on the upper road was open and the queue had run on 
 
 ---
 
-**And the nine sentences are these, and they are in a man of about thirty-four's own hand and he read them out in about four minutes and nobody improved on one of them, and the woman of about twenty-four wrote none of them down and has not been asked to and did not offer.**
+And the nine sentences are these, and they are in a man of about thirty-four's own hand and he read them out in about four minutes and nobody improved on one of them, and the woman of about twenty-four wrote none of them down and has not been asked to and did not offer.
 
 > **The ground stays with the households.**
 >
@@ -30,7 +30,7 @@ It is a Thursday. The store on the upper road was open and the queue had run on 
 
 ---
 
-**And the fourth sentence is the third sentence of a thing called the Open Hand and it cannot be administered, and a man of about thirty-nine who trades on the Open Hand board said that in about nine minutes in the second month of this flood, and he is right, and his objection is in the posting in his own words with the date on it, and nobody took it out and he did not take it out.**
+And the fourth sentence is the third sentence of a thing called the Open Hand and it cannot be administered, and a man of about thirty-nine who trades on the Open Hand board said that in about nine minutes in the second month of this flood, and he is right, and his objection is in the posting in his own words with the date on it, and nobody took it out and he did not take it out.
 
 "**I said in the second month of this flood that a right of refusal that cannot be bought out is a rule nobody is going to check, and I said it in about nine minutes, and about four people wrote it down and about nine of them wrote it down as though I had said it was impossible, and I did not say that and I am not going to say it now.**"
 
@@ -44,7 +44,7 @@ It is a Thursday. The store on the upper road was open and the queue had run on 
 
 ---
 
-**And a man of forty-two took a share, and it was a share on posted days on the same posting as every other share in that page, and he said nine sentences about it and eight of them are the best arguments anybody in this city has heard since the seventh week of this flood and the ninth one is a word.**
+And a man of forty-two took a share, and it was a share on posted days on the same posting as every other share in that page, and he said nine sentences about it and eight of them are the best arguments anybody in this city has heard since the seventh week of this flood and the ninth one is a word.
 
 "**One. I lose the export. That started on Monday night and it is not stopping, and I did not cause it, and I am not going to stand in a room and be praised for it.
 
@@ -68,7 +68,7 @@ The man of about thirty-four who keeps a stall put one hand flat on the page his
 
 ---
 
-**And then a woman of about thirty-four who keeps a stall by the wharf said the price before she said yes, and she has been on nothing for a hundred and ninety-nine days and she said so first, and it is hers and about nine people in this room have said that nobody in four hundred miles gets that right more than twice.**
+And then a woman of about thirty-four who keeps a stall by the wharf said the price before she said yes, and she has been on nothing for a hundred and ninety-nine days and she said so first, and it is hers and about nine people in this room have said that nobody in four hundred miles gets that right more than twice.
 
 "**I have been on nothing for a hundred and ninety-nine days and I am going to be on a page before this morning is over, and I have been on one once in nine years and it was a slate and it cost somebody else the price of it and not me, and I am going to say the price now and then I am going to say yes, and if I say the price after the yes then it is not a price, it is a complaint.**"
 
@@ -98,7 +98,7 @@ Nobody thanked her.
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register said the four sentences she has been carrying, and the only instruction on them is hers, and this compact is not it and does not touch it.**
+And a woman of about twenty-nine who keeps a public register said the four sentences she has been carrying, and the only instruction on them is hers, and this compact is not it and does not touch it.
 
 "**Four people and a question have not left for the ground people call the First Landing, and nobody has been asked whether they will go, and nobody is going to be asked, and the only instruction it has is *to open nothing*, and that is my sentence and I wrote it. This is not that document and it does not end it and it does not touch it, and I would like both halves of that entered.**"
 
@@ -108,4 +108,4 @@ Nobody thanked her.
 
 ---
 
-**A hand on a door in chalk, held there by a man of about thirty-four who keeps a stall for about four minutes after everybody else had gone down the stairs.**
+A hand on a door in chalk, held there by a man of about thirty-four who keeps a stall for about four minutes after everybody else had gone down the stairs.

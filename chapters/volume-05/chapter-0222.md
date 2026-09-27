@@ -4,7 +4,7 @@ The beam went down onto two pans in the yard of the store on the upper road at a
 
 ---
 
-**And the crack was in the pan he had made himself on the fifty-eighth day of that month out of a length of iron and two lengths of wood, and he put his thumb in the crack and showed about nine people in that yard where it went, and nobody in that yard said anything about the crack and about four of them have said since that they did not see it until he put his thumb in it.**
+And the crack was in the pan he had made himself on the fifty-eighth day of that month out of a length of iron and two lengths of wood, and he put his thumb in the crack and showed about nine people in that yard where it went, and nobody in that yard said anything about the crack and about four of them have said since that they did not see it until he put his thumb in it.
 
 "That is my beam."
 
@@ -16,7 +16,7 @@ The beam went down onto two pans in the yard of the store on the upper road at a
 
 ---
 
-**And he had not told anybody about the block of stone. It is about the length of his own foot and it came out of the bottom of a cut on the Reach and he has had it in his yard since the second month of this flood, and the beam sat crooked on it on the sixty-sixth day of the Long Month, and about four people in that yard this morning worked out that he had spent about an hour the evening before getting it flat.**
+And he had not told anybody about the block of stone. It is about the length of his own foot and it came out of the bottom of a cut on the Reach and he has had it in his yard since the second month of this flood, and the beam sat crooked on it on the sixty-sixth day of the Long Month, and about four people in that yard this morning worked out that he had spent about an hour the evening before getting it flat.
 
 "You brought a different thing."
 
@@ -38,7 +38,7 @@ He put his thumb under the low place in the beam and showed them where it was, t
 
 ---
 
-**And he moved the pan along the beam four times and got it to sit, the way he does, and then he put both hands flat on the beam and left them there and looked at the lump for long enough that about four people in that yard had worked out that he was not going to be able to do the thing they had come for.**
+And he moved the pan along the beam four times and got it to sit, the way he does, and then he put both hands flat on the beam and left them there and looked at the lump for long enough that about four people in that yard had worked out that he was not going to be able to do the thing they had come for.
 
 "It balances."
 
@@ -52,7 +52,7 @@ He took his hands off the beam and wiped them on his coat and the salt came off 
 
 ---
 
-**And Adrian Vale came up that road on foot at about the eighth hour of the morning with nine miles on his boots and did not go into that store, and about nine people in that yard knew who he was before he got to the gate and about four of them had worked out that he was there about the sack and not about the ninth line on the wall nine feet above their heads.**
+And Adrian Vale came up that road on foot at about the eighth hour of the morning with nine miles on his boots and did not go into that store, and about nine people in that yard knew who he was before he got to the gate and about four of them had worked out that he was there about the sack and not about the ninth line on the wall nine feet above their heads.
 
 "Give me that."
 
@@ -68,7 +68,7 @@ He picked the lump up off the pan with both arms under it and it went about four
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road came up that road at about the ninth hour with nothing in her hands and stood at the edge of that yard, and she has come up that road with him twice and has not been in that yard at all before the fifty-eighth day of that month, and about four people in that yard had worked out why she was there and about nine of them had not.**
+And a woman of about thirty-four from a fourth household on the road came up that road at about the ninth hour with nothing in her hands and stood at the edge of that yard, and she has come up that road with him twice and has not been in that yard at all before the fifty-eighth day of that month, and about four people in that yard had worked out why she was there and about nine of them had not.
 
 "You have weighed a lump."
 
@@ -80,7 +80,7 @@ He picked the lump up off the pan with both arms under it and it went about four
 
 ---
 
-**And the woman of about twenty-four who is on no roll of anything was in that yard with a slate under her arm and she wrote the day at the top of it before she wrote anything else, and she wrote the two figures on it as two figures with a finger's width of slate between them and did not join them up, and about four people in that yard watched her do it and nobody asked her to read either of them back.**
+And the woman of about twenty-four who is on no roll of anything was in that yard with a slate under her arm and she wrote the day at the top of it before she wrote anything else, and she wrote the two figures on it as two figures with a finger's width of slate between them and did not join them up, and about four people in that yard watched her do it and nobody asked her to read either of them back.
 
 "**A quarter of a sack, and a beam that can tell you what a thing is. That is all that is on this page and I am not putting the two of them together, and the space between them is the width of a finger because that is how wide my finger is and not because it means anything.**"
 
@@ -90,7 +90,7 @@ He picked the lump up off the pan with both arms under it and it went about four
 
 ---
 
-**And a man of about forty-four who keeps a stall was in that yard at about the tenth hour and had come up the road with nothing, and he is the man who copied the front of a page onto the back of a slate on a table in a market on the forty-fifth day of that month and put it down on the boards of a stall by a wharf on the fifty-third, and he said one thing about a crack and about four people in that yard heard all of it.**
+And a man of about forty-four who keeps a stall was in that yard at about the tenth hour and had come up the road with nothing, and he is the man who copied the front of a page onto the back of a slate on a table in a market on the forty-fifth day of that month and put it down on the boards of a stall by a wharf on the fifty-third, and he said one thing about a crack and about four people in that yard heard all of it.
 
 "Whose wood is that."
 
@@ -104,4 +104,4 @@ The woman of about thirty-four from a fourth household on the road was still at 
 
 ---
 
-**And the beam stayed in the yard of the store on the upper road, and there is a crack in the far pan of it that nobody has looked at since the eighth hour of the morning.**
+And the beam stayed in the yard of the store on the upper road, and there is a crack in the far pan of it that nobody has looked at since the eighth hour of the morning.

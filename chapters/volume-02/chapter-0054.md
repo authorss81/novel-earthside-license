@@ -4,7 +4,7 @@ On the twenty-ninth day of the new month, which was the fifty-fourth day of the 
 
 ---
 
-**Gareth Mbeki put it in four minutes and he did it in a room with the door shut and he did it to about nine people and he did not want it to be a speech.**
+Gareth Mbeki put it in four minutes and he did it in a room with the door shut and he did it to about nine people and he did not want it to be a speech.
 
 He is twenty-seven and he is of the second list and he came out of a chapel floor on the twenty-fifth day of this flood and he has not asked for anything in twenty-nine days. On the twenty-ninth day of the new month at about the tenth hour of the morning he stood up in the loft and said: "Right. **Eleven houses.** Not the Measure's, not the Concord's, ours. Ask eleven households. Two to a house, one of us and one of ours is not how it works — one of us, and a household takes the other. Beds, a kitchen, a floor, a door that shuts. Not money. Nobody pays anybody. A household that says no does not have to give a reason and does not go on a page, and if it says no twice we do not ask a third time."
 
@@ -16,7 +16,7 @@ Nobody spoke for about nine seconds.
 
 ---
 
-**And about four people in that room were frightened by it, and one of them was Mina Okoye, and she was the one who said so, and the first thing she said is fifteen words, and she was wrong about one of them and right about three.**
+And about four people in that room were frightened by it, and one of them was Mina Okoye, and she was the one who said so, and the first thing she said is fifteen words, and she was wrong about one of them and right about three.
 
 "I am frightened of it," she said. "**Two of us in a house with a Veyran family who we have not met.** Not of the houses. Of what it means on the sixth week, when the road is closed and there is no way out of this city and nobody has gone anywhere since the twenty-fifth day."
 
@@ -30,11 +30,11 @@ Nobody spoke for about nine seconds.
 
 Adrian Vale wrote it in the notebook that night and the sentence is in the book in his own hand because he put it into the fourth volume himself in the morning: *it is what a person says when they have stopped believing a door home exists. Being settled is the shape of giving up wearing, and this city has watched two people do that and one of them is under a board.*
 
-**He did not say that sentence in the room, and the reason he did not is entered, and the reason is that it is a sentence about a person's belief and he has no standing to have it.**
+He did not say that sentence in the room, and the reason he did not is entered, and the reason is that it is a sentence about a person's belief and he has no standing to have it.
 
 ---
 
-**And the household that offered first was the household that owed an answer, and the reason it offered was a man who is dead, and nobody in that room made them say so twice.**
+And the household that offered first was the household that owed an answer, and the reason it offered was a man who is dead, and nobody in that room made them say so twice.
 
 Delya Crane holds the ground floor of a building on Silt Row and has held it for two years, and she has never charged one of the seventeen a thing for bread or a floor or a wash-tub in fifty-nine days, and she has an entry in the Concord's book about a twelve-month lease that Owen Park signed in his second week here and never met two conditions of, and one of the conditions is a door and one of them is a season's work, and the lease carried two conditions and neither was met and neither ever will be, and both women are owed an answer and have been owed one for thirty-four days.
 
@@ -54,7 +54,7 @@ Hesper Saye, fifty-eight, who was standing in that room because she is asked abo
 
 And Delya Crane said: "I do not know what I am proposing. I am proposing it anyway," and Sesh Brack said the same four words after her, in the same order, and neither of them had practised it, and Saye entered that neither of them had practised it and that was the only evidence in the room.
 
-**And the two beds were accepted, and the eleven-household plan was not, and the difference is nine lines and it is the most important page written in this city so far.**
+And the two beds were accepted, and the eleven-household plan was not, and the difference is nine lines and it is the most important page written in this city so far.
 
 > **Two beds are accepted at the house of Delya Crane and Sesh Brack, Silt Row, from the first hour of the third hour of the afternoon of the twenty-ninth day of the new month, and the names of the two householders are on the page with the date, and the two people going into them are named with the date, and the page can be read by anybody.**
 >
@@ -68,7 +68,7 @@ Gareth Mbeki read it and said: "That is better than mine."
 
 ---
 
-**And at about the fourth hour of the afternoon, in the yard under the lock chapel, in front of about two hundred and forty people, a man from another world said the thing he had said nine times in fifty-four days and then said the rest of it.**
+And at about the fourth hour of the afternoon, in the yard under the lock chapel, in front of about two hundred and forty people, a man from another world said the thing he had said nine times in fifty-four days and then said the rest of it.
 
 He had said it nine times. In the market, in a yard, in a hall, in a room with a burnt lintel, in a converted salt store, always with the same shape: *nobody who comes through that wall is a special kind of person, they are people, and they are in trouble, and the word for them in my own language is a word for somebody who is playing.* He had said it in a market on the ninth day of this flood to six Veyrans and they had repeated the word back at him and he had told them it was their error.
 
@@ -98,7 +98,7 @@ He looked at her.
 
 ---
 
-**And a woman of forty-one of Silt Row had written four sentences the night before and shown them to nobody, and she had read them back to herself twice, and on the twenty-ninth day of the new month at about the fifth hour of the afternoon she stood up in the same yard and read them out in the same voice she has used three times, and it is the fourth statement of error in the history of this book, and every sentence in it is correct.**
+And a woman of forty-one of Silt Row had written four sentences the night before and shown them to nobody, and she had read them back to herself twice, and on the twenty-ninth day of the new month at about the fifth hour of the afternoon she stood up in the same yard and read them out in the same voice she has used three times, and it is the fourth statement of error in the history of this book, and every sentence in it is correct.
 
 "**One. You wrote the word and you told six men it was their error and you have said nine times since that the word is not a fact about them. It is a fact about you, and it has been a fact about you for forty-five days, and you have let a city of eleven hundred people build a suspicion on it while you were being fair in about nine rooms.**
 
@@ -118,7 +118,7 @@ And Adrian Vale stood in about two hundred and forty people and said:
 
 ---
 
-**And Priya Shah got up on a trestle at about the sixth hour of the evening, in the market, in front of about two hundred and forty people, with a stick of chalk, and wrote a longer true thing over a shorter one, and it is on a board in a market and anybody may read it, and it is fifty-nine words long.**
+And Priya Shah got up on a trestle at about the sixth hour of the evening, in the market, in front of about two hundred and forty people, with a stick of chalk, and wrote a longer true thing over a shorter one, and it is on a board in a market and anybody may read it, and it is fifty-nine words long.
 
 She did not scrub the board. She wrote over the top of the word, large, in two lines, and left the word underneath, and anybody standing at that wall reads the two lines first and the word second, and about nine feet of that market now has both.
 
@@ -136,7 +136,7 @@ And he said it, and she said: "**Good. Now the wall has two sentences on it and 
 
 ---
 
-**And on the twenty-ninth day of the new month at about the ninth hour of the evening, in a room over a market, a man of thirty-two got out a notebook and turned back forty-five days to the ninth day of the flood, and this is what he found, and it is in his own hand, in English, in one line, and he wrote it at about the second hour of the morning of the ninth day because he was writing fast and because he was describing other people's error:**
+And on the twenty-ninth day of the new month at about the ninth hour of the evening, in a room over a market, a man of thirty-two got out a notebook and turned back forty-five days to the ninth day of the flood, and this is what he found, and it is in his own hand, in English, in one line, and he wrote it at about the second hour of the morning of the ninth day because he was writing fast and because he was describing other people's error:
 
 *they think it is a game*
 
@@ -152,4 +152,4 @@ And then he wrote, at the bottom of the page, in the same hand, a new line, and 
 
 *Day twenty-nine of the new month. Read this again. It is the only sentence in this book that I quoted back at myself. It is four words long. It is mine.*
 
-**And the yard under the chapel emptied at about the tenth hour and a woman of twenty-four went home and a docker of fifty-eight went to a shift and a man of thirty-one from Leeds went to count a bucket of salt into a slate, and a woman of seventy picked up a pail and went down two hundred steps past a rail that is going, and told nobody, and the four words on a market wall had nineteen mouths by the seventh hour and about nine feet of chalk and a word underneath them that is not going to come off.**
+And the yard under the chapel emptied at about the tenth hour and a woman of twenty-four went home and a docker of fifty-eight went to a shift and a man of thirty-one from Leeds went to count a bucket of salt into a slate, and a woman of seventy picked up a pail and went down two hundred steps past a rail that is going, and told nobody, and the four words on a market wall had nineteen mouths by the seventh hour and about nine feet of chalk and a word underneath them that is not going to come off.

@@ -2,11 +2,11 @@
 
 On the sixty-fifth day of the new month, which was the ninetieth day of the flood and a Sunday, about two hundred and forty people were in a converted salt store and a girl of seventeen read out everything that had not been fixed in ten days, and none of it was good news and all of it is entered, and then a woman of about sixty-one who keeps a shrine on a boundary put a second page inside a stone, and the second page is a list of what is owed and it is owed to named people and not to a body, and it has a date on it and a price under it, and at about the second hour of the afternoon a docker of fifty-eight who cannot read stood at the top of a nine-mile road in daylight with nine people and a wall above a market and seven stones nobody has looked at.
 
-**The licence is forty days old. The door is shut. The field was not paid on the first of March. The undertaking is on a river. Nothing in this chapter is a resolution and every part of it is entered.**
+The licence is forty days old. The door is shut. The field was not paid on the first of March. The undertaking is on a river. Nothing in those forty days is a resolution and every part of it is entered.
 
 ---
 
-**The reading out of what is owed began at about the ninth hour of the morning and it took about nineteen minutes, and it was done by a girl of seventeen because she is seventeen and is on no roll in this city and because she keeps the entries in a column four lines high and because about nine people asked her to and about two hundred and thirty people did not ask her to and came anyway.**
+The reading out of what is owed began at about the ninth hour of the morning and it took about nineteen minutes, and it was done by a girl of seventeen because she is seventeen and is on no roll in this city and because she keeps the entries in a column four lines high and because about nine people asked her to and about two hundred and thirty people did not ask her to and came anyway.
 
 "A case went down the river on Saturday evening," she said, "**and it is unsigned and it is unrefused, and I am going to read out what is still owed and I am not going to say the word but here it is, and I would like a woman of fifty to correct me if I say it.**"
 
@@ -38,11 +38,11 @@ Nobody in that room said anything, and about nine people in that room had come t
 
 ---
 
-**And then a page went inside a stone on the north side of a fork at Four Elms, on the Sunday afternoon, and it is the second page that has gone inside that stone in ten days, and the household that keeps it did not put it there itself this time.**
+And then a page went inside a stone on the north side of a fork at Four Elms, on the Sunday afternoon, and it is the second page that has gone inside that stone in ten days, and the household that keeps it did not put it there itself this time.
 
 Marda Rood is about sixty-one and she keeps it, and her reason is on the page and has been since the fifty-fifth day of the new month and is not counted again here: *a name on a page is a thing that can be found, and I have buried two.* She did not want her name on the first page and she did not want her name on the second one either, and she was asked to have the second page put there by a keeper of about seventy and by a girl of seventeen and by a man of thirty-two, and she said yes to all three and asked them to say why, and about nine people gave about nine reasons and she said that was the most honest thing that had happened at that stone in ten days.
 
-**It is a list of what is owed, it is owed to named people and not to a body, it is dated, and the price of it is written under it and not as another item on it, and about nine people in this city have now built the same thing four times in eighty-nine days and none of them has a name for what it is.**
+It is a list of what is owed, it is owed to named people and not to a body, it is dated, and the price of it is written under it and not as another item on it, and about nine people in this city have now built the same thing four times in eighty-nine days and none of them has a name for what it is.
 
 > **What is owed, on the sixty-fifth day of the new month.**
 >
@@ -68,11 +68,11 @@ Marda Rood is about sixty-one and she keeps it, and her reason is on the page an
 >
 > **And under the list, and not as another item: a quarter of a pound of salt a month, cut out of the keeping household's own winter allotment, the same as the first page, and the household has refused a second price and has given the reason that a favour is a thing that stops, and that reason is written here so that in nine months somebody can check it.**
 
-**It is entered that three people stepped over it, and that a boy of nine did not, and that the boy of nine has been asked about it and said, in fifteen words, that a stone is somebody's and you do not step on a thing that is somebody's.**
+It is entered that three people stepped over it, and that a boy of nine did not, and that the boy of nine has been asked about it and said, in fifteen words, that a stone is somebody's and you do not step on a thing that is somebody's.
 
 ---
 
-**And a notary of fifty said the thing that had to be said, and it took about nine seconds, and it is the cost of the page and it is in the book in her own words and nobody argued with it.**
+And a notary of fifty said the thing that had to be said, and it took about nine seconds, and it is the cost of the page and it is in the book in her own words and nobody argued with it.
 
 "That is a description," she said. "**Twelve named persons and a body of about nine people, on a stone, with a date. I have spent twenty-six years telling this city that a description is a removal with a column for where the person is, and I have said that sentence out loud in about nine rooms, and there is now a column for where twelve people are, cut into a stone that a household keeps, and the household may take it down on a date and is not asked why twice.**"
 
@@ -86,7 +86,7 @@ Marda Rood is about sixty-one and she keeps it, and her reason is on the page an
 
 ---
 
-**And at about the second hour of the afternoon, in daylight, at the top of a nine-mile road, a woman of fifty-eight who cannot read stood with nine people and a wall, and it was not the ninth hour of the evening and it was not two women and it was not a slate, and it was the eleventh time that work has been looked at and the first time anything about it was decided.**
+And at about the second hour of the afternoon, in daylight, at the top of a nine-mile road, a woman of fifty-eight who cannot read stood with nine people and a wall, and it was not the ninth hour of the evening and it was not two women and it was not a slate, and it was the eleventh time that work has been looked at and the first time anything about it was decided.
 
 Sabra Vint is about sixty-one and cannot read and has a house with a burnt lintel on the upper road and nine years of paper with nineteen shapes on it, eight of them different, and she has written the shapes down every year for nine years and has never once written what she thinks they mean, and she said on the nineteenth day of the new month that she is sixty-one and would like to stop, and that somebody has to be the one who writes down what they think they mean, and that is the only thing she has done wrong in nine years.
 
@@ -110,7 +110,7 @@ Nobody said thank you. **It is entered that nobody said thank you, and that a wo
 
 > **I have been the only one doing this for nine years. I would like somebody to have the date, not me.**
 
-**And then a girl of seventeen asked one question, and it was the last question anybody asked anybody that day, and the answer was no, and the no is on the page, and it is in daylight, and it was said by a person and not by a body.**
+And then a girl of seventeen asked one question, and it was the last question anybody asked anybody that day, and the answer was no, and the no is on the page, and it is in daylight, and it was said by a person and not by a body.
 
 "Can I write down what I think the eight of them mean," she said, "**and put it on the wall, in a column, with the date on it, and my name at the bottom of it the way everything in this city ends up with somebody's name at the bottom of it.**"
 
@@ -128,7 +128,7 @@ It is entered that the girl of seventeen wrote nothing at all, and that the slat
 
 ---
 
-**Nothing was gained, and this is the close of ten days, and nothing in it is a resolution.**
+Nothing was gained, and this is the close of ten days, and nothing in it is a resolution.
 
 The licence is in force and weaker, and it is forty days old, and it is the only standing route in this world, and the door is shut and has been opened twice in ninety days. The fee of eleven ounces of silver is entered as owing with no date for the thirty-first time and the salt was not sent. The field was not paid on the first of March and the cost column has eleven entries in one month with no figure on the end of any of them. The review was answered on the fiftieth day of the new month and the answer was four words long and it was not a noun. **The undertaking is on a river and it is neither signed nor refused and it is the most durable answer anybody in ninety days has been offered, and about nine people in this city understand it and about two hundred and thirty have found nothing wrong with it, and it is not going to be settled here.** A hearing is coming. Nine Elms' water is not received and the fourth line of a term sheet is in force and the whole of the Reed Reach's standing charge is on a man of thirty-two.
 

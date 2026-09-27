@@ -2,11 +2,11 @@
 
 On the fifteenth day of the month after this one, which was the hundred and fifth day of the flood and a Monday, about nine people sat in a low room by the salt wharf with a woman of fifty-eight who sets bones and keeps herb jars on a shelf, and worked out in about four hours that every institution in this city is a person and every one of them is tired, and that the reason this city can be argued with is the same reason it can be worn out, and that a woman of forty-four came four miles to say that she would rather be left alone, and everybody left her alone.
 
-**The licence is fifty-five days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-sixth time. The black line in his right palm is one hundred and four days old and has not moved one sixteenth of an inch.**
+The licence is fifty-five days old. The undertaking is void. The field was not paid on the first of March. The fee is owing with no date for the forty-sixth time. The black line in his right palm is one hundred and four days old and has not moved one sixteenth of an inch.
 
 ---
 
-**Hesper Saye is fifty-eight and has told four hundred men a thing about a shoulder or a scalp and has been wrong about ninety of them, and she says the figure herself, in the first minute, before anybody else can, and it is on the page because she has had it entered four times.**
+Hesper Saye is fifty-eight and has told four hundred men a thing about a shoulder or a scalp and has been wrong about ninety of them, and she says the figure herself, in the first minute, before anybody else can, and it is on the page because she has had it entered four times.
 
 "Ninety," she said. "**Out of four hundred. I have been wrong about ninety men and I have never once been wrong about a bone. And I would like whoever is writing this to put the two numbers next to each other and not to put a conclusion under them, because I have watched four hundred men be told a thing and I have watched about nine of them be told a thing and believed it, and the nine is the number that has ever gone wrong.**"
 
@@ -16,7 +16,7 @@ On the fifteenth day of the month after this one, which was the hundred and fift
 
 ---
 
-**And the reason those three people were in that room on the fifteenth day of the month after this one is that every one of them is on somebody else's page and had come to say so, and the woman who came four miles said it in the doorway before she had sat down.**
+And the reason those three people were in that room on the fifteenth day of the month after this one is that every one of them is on somebody else's page and had come to say so, and the woman who came four miles said it in the doorway before she had sat down.
 
 Elsa Skell is forty-four and is of Corrow and came four miles, and she reads the edge of a join and is one of the four, and she was entered on the fresh inspection on the ninth day of the month after this one and did not enter the four miles in the cost column and gave the reason on the page: the column has eleven entries in one month and no figure on the end of any of them, and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason, and the four miles did not stop, and she would rather carry it than be the twelfth.
 
@@ -26,7 +26,7 @@ Elsa Skell is forty-four and is of Corrow and came four miles, and she reads the
 
 ---
 
-**And a woman of thirty-eight who is on no roll at all said the other half of what a person is, and she said it before anybody asked her, because she has learned in this city that nobody asks.**
+And a woman of thirty-eight who is on no roll at all said the other half of what a person is, and she said it before anybody asked her, because she has learned in this city that nobody asks.
 
 Odile Ferrand is thirty-eight and is of the second group and she is one of the two people in this city who are on no roll of anything, and the other is a girl of sixteen, and neither of the two has been asked about that, and about nine people in a yard found out about it in the first week of the second month of this flood and have not done anything about it since.
 
@@ -38,7 +38,7 @@ Odile Ferrand is thirty-eight and is of the second group and she is one of the t
 
 ---
 
-**And at about the fourth hour of the afternoon a woman of twenty-four said the sentence that the room had been building for four hours without knowing it, and it took about nineteen seconds, and it is hers, and it is twenty-five words, and the room did not check the count, which is entered.**
+And at about the fourth hour of the afternoon a woman of twenty-four said the sentence that the room had been building for four hours without knowing it, and it took about nineteen seconds, and it is hers, and it is twenty-five words, and the room did not check the count, which is entered.
 
 "**Every institution in this city is a person and every one of them is tired, and that is not a complaint, it is a list.**"
 
@@ -52,7 +52,7 @@ Nobody asked her to go on and she went on.
 
 ---
 
-**And the cost of being the person who pays is the second half of it, and it is the half that had not been said in a hundred and five days, and a notary of fifty said it, in the flat voice, at about the fifth hour of the afternoon, and then stopped, and about four people in that room wrote it down before she had finished the second sentence.**
+And the cost of being the person who pays is the second half of it, and it is the half that had not been said in a hundred and five days, and a notary of fifty said it, in the flat voice, at about the fifth hour of the afternoon, and then stopped, and about four people in that room wrote it down before she had finished the second sentence.
 
 "A person may carry a cost," said Sera Vail. "**There is no other instrument in this world. It is not a rule anybody made. It is the only shape that fits. A body, a household, a crew, a village, a man — and a person is the only one of them that can be named, and so a person is the only one of them that can be found, and so the moment somebody in this city agrees to carry a cost, this city has written down where that cost is.**"
 
@@ -62,7 +62,7 @@ Nobody asked her to go on and she went on.
 
 ---
 
-**And then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it is the twenty-eighth thing the wall has said in this city, and it was answered in about four seconds, out loud, by a woman of fifty-eight, and it was not refused, and the count of refusals in a second book kept at home and never shown to anybody is still twenty-three and has not moved, and that is the finding of the day.**
+And then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it is the twenty-eighth thing the wall has said in this city, and it was answered in about four seconds, out loud, by a woman of fifty-eight, and it was not refused, and the count of refusals in a second book kept at home and never shown to anybody is still twenty-three and has not moved, and that is the finding of the day.
 
 > **A cost that has no figure on the end of it may be carried by a person who was not there when it was entered.**
 >
@@ -84,7 +84,7 @@ And the notary read the field out twice and entered, in her own words, in a colu
 
 ---
 
-**And then a woman of forty-four of Corrow stood up at about the seventh hour of the evening and asked for one thing, and it was the only thing she asked for in four hours, and it was granted in about four seconds.**
+And then a woman of forty-four of Corrow stood up at about the seventh hour of the evening and asked for one thing, and it was the only thing she asked for in four hours, and it was granted in about four seconds.
 
 "I would like everybody in this room to be entered as somebody who came and were not asked anything," she said, "**and I would like it entered with the date on it, because in about four months somebody is going to say that a cost with no figure on the end of it sat on one man for a hundred and five days and that nobody came, and the reason nobody came is on a page and the reason nobody was asked anything is not on one, and a page about the first is worth nothing without the second.**"
 
@@ -98,4 +98,4 @@ The undertaking is void and is on a nail and is on a river and no office has bee
 
 Adrian Vale is Stage 2, Passage holder, in the doing, and holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and performed no working today, and a woman of fifty-eight was offered a thing that would have taken a cost off him and he did not answer it because it was not aimed at him and because his refusals are spent. **There have been twenty-eight things the wall has said in this city, one of them has been refused, and a day in which a bone-setter accepts a thing in four seconds and nobody argues is not a silence and is not counted as one, because a day the wall speaks on is not a silence however hard the day was.** The black line in his right palm is one hundred and four days old and has not moved one sixteenth of an inch.
 
-**And the page in the stone is a description with a date on it, and the twelve names in it are a column for where twelve people are, and a girl of seventeen has a copy of it in a book, and on the sixteenth day of the month after this one about nine people are going to put the two of them side by side and find out that a question is unanswerable in this city for a reason nobody has said out loud in a hundred and six days.**
+And the page in the stone is a description with a date on it, and the twelve names in it are a column for where twelve people are, and a girl of seventeen has a copy of it in a book, and on the sixteenth day of the month after this one about nine people are going to put the two of them side by side and find out that a question is unanswerable in this city for a reason nobody has said out loud in a hundred and six days.

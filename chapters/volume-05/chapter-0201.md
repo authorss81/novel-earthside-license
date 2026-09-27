@@ -6,7 +6,7 @@ There is no queue on a Saturday and the queue's day is a Tuesday. The store's ow
 
 ---
 
-**And the posting is a page and it is bound to a compact of eleven lines that has been in existence for one day, and the eleventh line of the compact is the posting, and the posting is the only instrument either body has built for itself, and the man who wrote nine of its lines got them onto a wall at about the seventh hour of the morning with a bar of chalk and a wet cloth and about nine people watching him do it.**
+And the posting is a page and it is bound to a compact of eleven lines that has been in existence for one day, and the eleventh line of the compact is the posting, and the posting is the only instrument either body has built for itself, and the man who wrote nine of its lines got them onto a wall at about the seventh hour of the morning with a bar of chalk and a wet cloth and about nine people watching him do it.
 
 The date at the top of it is the forty-sixth day of the Long Month. Under the date there are lines down the page, and under every line there is a price, and the prices are in words. A man of about thirty-nine who trades on the Open Hand board was in that yard and had not been in the room on the Thursday, and he read all of it standing back from the wall and said the first thing anybody said about it, and the man who had written the page answered him.
 
@@ -16,7 +16,7 @@ The date at the top of it is the forty-sixth day of the Long Month. Under the da
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom stood in front of that page for about four minutes and then said the thing that about nine people in that yard had been thinking and nobody had said, and it is in his own book with the date on it, and his book goes nowhere.**
+And a man of about twenty-nine from the settlement's workroom stood in front of that page for about four minutes and then said the thing that about nine people in that yard had been thinking and nobody had said, and it is in his own book with the date on it, and his book goes nowhere.
 
 "**A page with a date on it and a price under every line is what the compact says a posting is, and I put nine of those lines into that page on Thursday in a room over a market, and I have been thinking about it for two nights and about a third of the two nights I have been ashamed of it. And you have put the price on in words, and if there is no figure under any of them then it is not a price under every line. It is a list of intentions.**"
 
@@ -30,7 +30,7 @@ Nobody in that yard answered it for about a minute. The board with the day's fig
 
 ---
 
-**And a woman of about fifty who counts water on the fingers of her left hand came down to the yard at about the eighth hour and read the whole of the page with her fingers on it, which is a thing she does with water and did it here on a page, and about nine people let her, and she then said the part of it that nobody in that yard had said and she said it to the man who had written it and not to anybody else.**
+And a woman of about fifty who counts water on the fingers of her left hand came down to the yard at about the eighth hour and read the whole of the page with her fingers on it, which is a thing she does with water and did it here on a page, and about nine people let her, and she then said the part of it that nobody in that yard had said and she said it to the man who had written it and not to anybody else.
 
 "**You have written the settlement's sentence on a wall.**"
 
@@ -44,7 +44,7 @@ Nobody in that yard answered it for about a minute. The board with the day's fig
 
 ---
 
-**And the man of about thirty-four who keeps a stall stood in front of his own page for a while with his hands in his sleeves and then said out loud, to about nine people, the thing that is the finding of the forty-sixth day of the Long Month, and it is four sentences and nobody has improved on it and a woman of about twenty-four has it in her own hand with the date on it.**
+And the man of about thirty-four who keeps a stall stood in front of his own page for a while with his hands in his sleeves and then said out loud, to about nine people, the thing that is the finding of the forty-sixth day of the Long Month, and it is four sentences and nobody has improved on it and a woman of about twenty-four has it in her own hand with the date on it.
 
 "**Two days ago I read nine sentences into a page and the sixth one of them said that a wage stops being a wage and becomes a favour, and the difference between the two is somebody standing at the end of it. On Monday the thing that paid all of this went out of a yard at the bottom of a four-mile road and it is not coming back by itself. This morning I put a page on a wall with a price under every line and no figure under any price, and there is not one person in this yard who can tell me which of the two things I have done.**"
 
@@ -54,7 +54,7 @@ Nobody answered him. It is entered that about four people in that yard were wait
 
 ---
 
-**And about four people in that yard had wanted the figure. A man of about thirty-nine who trades on the Open Hand board said the one thing about it that he has said in about nine rooms and had not said it in a yard before, and he said it in about nine minutes and then went and stood at the back.**
+And about four people in that yard had wanted the figure. A man of about thirty-nine who trades on the Open Hand board said the one thing about it that he has said in about nine rooms and had not said it in a yard before, and he said it in about nine minutes and then went and stood at the back.
 
 "**Put a number under it.**"
 
@@ -68,7 +68,7 @@ Nobody answered him. It is entered that about four people in that yard were wait
 
 ---
 
-**And the figure went under two lines and not under the rest of it, and it was not one of his numbers, and it came from a woman of about thirty-four from a fourth household on the road who had stood at the end of that causeway about nine times in nine weeks and had asked, and who said before she said it that about four of the figures she has been given about the flats were wrong and about four of them were right and she has not found out which.**
+And the figure went under two lines and not under the rest of it, and it was not one of his numbers, and it came from a woman of about thirty-four from a fourth household on the road who had stood at the end of that causeway about nine times in nine weeks and had asked, and who said before she said it that about four of the figures she has been given about the flats were wrong and about four of them were right and she has not found out which.
 
 She gave the two numbers and she gave them in this order.
 
@@ -82,7 +82,7 @@ And that is entered, and the woman of about twenty-four who has written down eve
 
 ---
 
-**And about four people in that yard found the sentence about refusal before they found either of the numbers, because it is the shortest thing on the wall, and one of them read it out loud to about nine people who had not come within four feet of it, and the man of about thirty-nine who trades on the Open Hand board turned round from the back of the yard and came over, and it is entered that he came over.**
+And about four people in that yard found the sentence about refusal before they found either of the numbers, because it is the shortest thing on the wall, and one of them read it out loud to about nine people who had not come within four feet of it, and the man of about thirty-nine who trades on the Open Hand board turned round from the back of the yard and came over, and it is entered that he came over.
 
 The sentence says that nobody may be bought out of a refusal, and that a refusal does not require a reason and is not asked for twice.
 
@@ -100,10 +100,10 @@ The woman of about twenty-four wrote it down. She also wrote down, under it, and
 
 ---
 
-**And about an hour later a man of about forty-four who keeps a stall came up the road with a basket and stopped in front of the page and read all of it, including the two numbers, and he has a column of his own with eleven entries in it and no figure on the end of any of them, and he has not recited it to anybody since the thirty-ninth day of the Long Month, and he said four sentences about a price and then said he was not going to say the other thing and here they are.**
+And about an hour later a man of about forty-four who keeps a stall came up the road with a basket and stopped in front of the page and read all of it, including the two numbers, and he has a column of his own with eleven entries in it and no figure on the end of any of them, and he has not recited it to anybody since the thirty-ninth day of the Long Month, and he said four sentences about a price and then said he was not going to say the other thing and here they are.
 
 "**A cost with no figure on the end of it is a cost. A price with a figure on the end of it is a promise. I have eleven of the first and I have never had one of the second, and I have not been able to make myself say the difference out loud since the thirty-seventh day of the Long Month, and I have said it this morning at about the ninth hour of the morning to about nine people who did not ask me, which is the only condition under which I have ever said anything of the kind.**"
 
 ---
 
-**And the store's own board, with the day's figures on it, washed and hung on the same wall about a foot to the left of the posting, and about four people in that yard read the posting and did not read the board.**
+And the store's own board, with the day's figures on it, washed and hung on the same wall about a foot to the left of the posting, and about four people in that yard read the posting and did not read the board.

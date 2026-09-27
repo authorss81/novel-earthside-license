@@ -6,7 +6,7 @@ The weather is still holding. It is a Wednesday, the twenty-second day of the Lo
 
 ---
 
-**And here is the whole of the twenty-second day of the Long Month, and it is three-quarters of a list of chores, and the list is nine years old, and it is the list of a household that has kept a channel by itself since before the flood.**
+And here is the whole of the twenty-second day of the Long Month, and it is three-quarters of a list of chores, and the list is nine years old, and it is the list of a household that has kept a channel by itself since before the flood.
 
 The channel is a foot and a half wide at the top and four feet at the bottom and it goes four hundred yards up off the flats, and it has not been cleared since before the flood, and it is the only thing that carries the water off them, and on the twenty-second day of the Long Month the woman who keeps it cleared about forty yards of it between the sixth hour and the second hour of the afternoon, alone, with a bar, because about nine people were on the racks and a rule that came from a store up the road past this city says a person does not work a queue and a rota on the same morning.
 
@@ -16,9 +16,9 @@ The channel is a foot and a half wide at the top and four feet at the bottom and
 
 ---
 
-**And the rope is the queue's, and the queue is about thirty people long on a Wednesday, and the queue has worked every morning since the fifth day of the Long Month, and the bell on the post is rung by a boy of eight who has been told to ring it and does not know why, and on the twenty-second day of the Long Month the boy was not ringing it because he had been given the day off.**
+And the rope is the queue's, and the queue is about thirty people long on a Wednesday, and the queue has worked every morning since the fifth day of the Long Month, and the bell on the post is rung by a boy of eight who has been told to ring it and does not know why, and on the twenty-second day of the Long Month the boy was not ringing it because he had been given the day off.
 
-**And the gate has been on no list for nine years, and the woman who keeps it has never asked to be put on one, and about four people in this city have understood that about her and one of them has understood it in the wrong direction.**
+And the gate has been on no list for nine years, and the woman who keeps it has never asked to be put on one, and about four people in this city have understood that about her and one of them has understood it in the wrong direction.
 
 He had been given the day off by a woman of about fifty-nine who keeps a house and a boy of eight at Redroot and who is his grandmother, and she gave it to him on the Tuesday night, and she had not asked anybody.
 
@@ -32,7 +32,7 @@ Nobody entered it. It is entered here.
 
 ---
 
-**And the boy of eight spent that Wednesday exactly the way a boy of eight spends a Wednesday, and nobody in that kitchen improved on him and about nine adults arranged a great deal of their own morning around it, and here is all of it.**
+And the boy of eight spent that Wednesday exactly the way a boy of eight spends a Wednesday, and nobody in that kitchen improved on him and about nine adults arranged a great deal of their own morning around it, and here is all of it.
 
 He had the rope. He had had the rope since Sunday. It was about nine feet of it and it was not the queue's rope and it was not anybody's, and he was doing something to it that four different people asked him about on that Wednesday and that he answered identically four times, and about four adults on that flat found out what it was in the first minute and let him get on with it.
 
@@ -52,7 +52,7 @@ And that is the whole of what he said that was about himself, and it is on the p
 
 ---
 
-**And the household has three people in it and two of them have been on a wage for about a fortnight, and the third has a bed, and the arithmetic of that household has not been done by anybody including the three of them, and a woman of about fifty-nine who keeps the house did it out loud on a Wednesday afternoon at about the fourth hour because there is no page in that house and there has not been one in nine years, and she has been keeping the figures in her head since before the flood.**
+And the household has three people in it and two of them have been on a wage for about a fortnight, and the third has a bed, and the arithmetic of that household has not been done by anybody including the three of them, and a woman of about fifty-nine who keeps the house did it out loud on a Wednesday afternoon at about the fourth hour because there is no page in that house and there has not been one in nine years, and she has been keeping the figures in her head since before the flood.
 
 "**There are nine years of racks in this household's history and a woman of thirty-eight in it who has been paid nothing for any of them. Since the seventh day of the Long Month there has been a wage on a Tuesday out of a store and it comes to this house and it is enough, and I know it is enough because we have not gone anywhere, and we have not gone anywhere because a woman of fifty-eight who cannot read worked out in about four minutes on the seventh day that a wage which arrives on a day is worth more to a household than a wage which is owed for nine years, and she said it out loud in a kitchen, and nobody argued with her, and she is not in this room and she has not been in this house.**"
 
@@ -66,7 +66,7 @@ And that is the whole of what he said that was about himself, and it is on the p
 
 ---
 
-**And at about the fifth hour of the afternoon about nine people came to that gate who had not been in the queue, and every one of them wanted the same thing, and none of them said it, and she came out of the channel with a bar in her hand and put herself at the gate and answered about nine of them in about four minutes.**
+And at about the fifth hour of the afternoon about nine people came to that gate who had not been in the queue, and every one of them wanted the same thing, and none of them said it, and she came out of the channel with a bar in her hand and put herself at the gate and answered about nine of them in about four minutes.
 
 They wanted to know what she was going to say on Friday.
 
@@ -82,8 +82,8 @@ Somebody at the back said *everybody knows*.
 
 ---
 
-**The woman who keeps the gate picked the board up at about the seventh hour of the evening because the rain had come up off the water and would take chalk, and carried it in, and put it on the bench by the door. It is not on a list of anything. It carries two dates in two hands and a set of knife marks, and the twenty-fourth is not on it.**
+The woman who keeps the gate picked the board up at about the seventh hour of the evening because the rain had come up off the water and would take chalk, and carried it in, and put it on the bench by the door. It is not on a list of anything. It carries two dates in two hands and a set of knife marks, and the twenty-fourth is not on it.
 
-**And there is one more thing on the page and it is nine years old and nobody improved on it, and it is this. There is a record kept by the Reed Reach of who may use a water gate. It has been kept for nine years. Every name on it is alive. It is the only list in four hundred miles that has never once been wrong about a person, and a woman of about thirty-four who keeps a stall by the wharf has read a copy of it and has said out loud, in a yard, on a Wednesday, that she does not know whether that is a good answer and has stopped waiting to find out. And the woman who keeps the Redroot gate is not on it, and has never been on it, and did not ask to be, and a woman of about thirty-nine who trades on the Open Hand board said the reason out loud on the road at the top of the flats at about the seventh hour of the evening and nobody improved on him either, and it is this: *the day her name goes on that list the gate stops being hers and becomes the Reach's, and she has been keeping it for nothing for nine years on purpose, and nobody has ever once asked her to explain that, and I am not going to be the first.***
+And there is one more thing on the page and it is nine years old and nobody improved on it, and it is this. There is a record kept by the Reed Reach of who may use a water gate. It has been kept for nine years. Every name on it is alive. It is the only list in four hundred miles that has never once been wrong about a person, and a woman of about thirty-four who keeps a stall by the wharf has read a copy of it and has said out loud, in a yard, on a Wednesday, that she does not know whether that is a good answer and has stopped waiting to find out. And the woman who keeps the Redroot gate is not on it, and has never been on it, and did not ask to be, and a woman of about thirty-nine who trades on the Open Hand board said the reason out loud on the road at the top of the flats at about the seventh hour of the evening and nobody improved on him either, and it is this: *the day her name goes on that list the gate stops being hers and becomes the Reach's, and she has been keeping it for nothing for nine years on purpose, and nobody has ever once asked her to explain that, and I am not going to be the first.*
 
-**On the back of the gate board there is a boy's handprint. It has been there since the ninth day of the Long Month, nobody has washed it off, and he has never been asked about it and is not going to be.**
+On the back of the gate board there is a boy's handprint. It has been there since the ninth day of the Long Month, nobody has washed it off, and he has never been asked about it and is not going to be.

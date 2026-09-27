@@ -2,11 +2,11 @@
 
 On the fifty-second day of the month after this one, which was the hundred and forty-second day of the flood and a Wednesday, a boy of nine turned one of his own slates over in a yard nine miles up the upper road in the wrong weather, and there was nothing on the other side, and he said one word, and nobody improved on it, and the one that has the twenty-eight words on it is still face down where it has been since the twenty-eighth day of the month after this one.
 
-**The licence is ninety-two days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-seven days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-third time. The black line in his right palm is one hundred and forty-one days old and has not moved one sixteenth of an inch.**
+The licence is ninety-two days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-seven days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-third time. The black line in his right palm is one hundred and forty-one days old and has not moved one sixteenth of an inch.
 
 ---
 
-**A boy of nine's answer to a question asked on the twenty-fifth day of the new month, which was the fiftieth day of this flood, is on the flat of one of his three slates. It is twenty-four days old. It was sixty-eight days late when it was written and it is still sixty-eight days late, because the sixty-eight is the distance between the question and the answer and not the distance between the answer and today, and the question itself is ninety-two days old, and it is entered that two of those figures are about different events and that a girl of seventeen wrote both of them out in a column four lines high and kept them apart.**
+A boy of nine's answer to a question asked on the twenty-fifth day of the new month, which was the fiftieth day of this flood, is on the flat of one of his three slates. It is twenty-four days old. It was sixty-eight days late when it was written and it is still sixty-eight days late, because the sixty-eight is the distance between the question and the answer and not the distance between the answer and today, and the question itself is ninety-two days old, and it is entered that two of those figures are about different events and that a girl of seventeen wrote both of them out in a column four lines high and kept them apart.
 
 A girl of seventeen had said on the fortieth day of the month after this one, at about the ninth hour of the evening, in a room over a market, that she had wanted to turn a blank slate over and had not, and that the wanting was hers.
 
@@ -28,7 +28,7 @@ The twenty-eight words are on the flat of one of the three. **It is face down an
 
 The six words he asked on the sixth mile of a nine-mile road — *who is going to be told* — are on the back of another of the three, in his own hand. **The front of that one is blank. It has been blank since the day he wrote on it and nobody has read the front of it because there is nothing to read.**
 
-**And on the fifty-second day of the month after this one he turned that one over.**
+And on the fifty-second day of the month after this one he turned that one over.
 
 ---
 
@@ -48,7 +48,7 @@ He thought about it for about nineteen seconds, which is a long time.
 
 ---
 
-**And then a docker of fifty-eight who cannot read said nine words about it, and a girl of seventeen counted them and nobody checked her count, and it is the finding of the fifty-second day of the month after this one and nobody in that yard improved on it.**
+And then a docker of fifty-eight who cannot read said nine words about it, and a girl of seventeen counted them and nobody checked her count, and it is the finding of the fifty-second day of the month after this one and nobody in that yard improved on it.
 
 "**That is the only page in this city with an address on it.**"
 
@@ -62,7 +62,7 @@ Nobody said anything.
 
 ---
 
-**And they did not turn the third one over, and it is entered that about four people wanted to and did not, and the reason that is on the page is a reason a girl of seventeen gave out loud in a gateway about nine minutes after they came down the nine miles, and she gave it in her own words and it is hers and nobody has improved on it.**
+And they did not turn the third one over, and it is entered that about four people wanted to and did not, and the reason that is on the page is a reason a girl of seventeen gave out loud in a gateway about nine minutes after they came down the nine miles, and she gave it in her own words and it is hers and nobody has improved on it.
 
 "**There are two words on a slate in about nine rooms in this city and none of those nine rooms has met any of the other eight, and that is the only reason they are not a name. If somebody turns that one over in a yard nine miles up a road and reads twenty-eight words out loud in front of two women, then it is a sentence in a room, and a sentence in a room is a sentence that can be said again, and then it is in two rooms, and I have spent four days working out that the reason a boy's answer has nowhere to go is that nobody has carried it anywhere, and I am not going to be the one who carries it.**"
 
@@ -72,7 +72,7 @@ Nobody said anything.
 
 ---
 
-**And then a boy of nine said the last thing of the fifty-second day of the month after this one, and it is in a book in this city with a date on it, and it took him about four seconds, and nobody thanked him for it and he did not expect to be.**
+And then a boy of nine said the last thing of the fifty-second day of the month after this one, and it is in a book in this city with a date on it, and it took him about four seconds, and nobody thanked him for it and he did not expect to be.
 
 "**My other one is on the wall.**"
 
@@ -88,7 +88,7 @@ It was entered with the date on it and no name on it, and a girl of seventeen re
 
 ---
 
-**And the two of them came back down the nine miles with the empty barrow and about two thirds of the way a woman of fifty-eight stopped in the middle of the road and took a slate out of her pocket and looked at nineteen shapes on it that she cannot read, and said the thing that is the other half of the fifty-second day of the month after this one.**
+And the two of them came back down the nine miles with the empty barrow and about two thirds of the way a woman of fifty-eight stopped in the middle of the road and took a slate out of her pocket and looked at nineteen shapes on it that she cannot read, and said the thing that is the other half of the fifty-second day of the month after this one.
 
 "**He has three and I have one and one of mine is the only one anybody cannot read, and I have said all nineteen of them out loud to four different people over about five weeks and a man of thirty-two entered on the fortieth day of the month after this one that nobody has checked the count and nobody is going to, and I want to say now that I would like somebody to check it and not in a book.**"
 
@@ -98,6 +98,6 @@ It was entered with the date on it and no name on it, and a girl of seventeen re
 
 ---
 
-**And nothing else happened on the fifty-second day of the month after this one that anybody has written down, and a hearing is in twelve days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-six days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty days ago, and the water has not been received for seventy-three days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-seven days, and one of the forty has not come for twenty-eight days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-seven days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty-two days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Wednesday on which a boy of nine turned one of his own slates over and there was nothing on the other side is the forty-eighth silence and the pattern is forty-eight for forty-eight.**
+And nothing else happened on the fifty-second day of the month after this one that anybody has written down, and a hearing is in twelve days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-six days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table two floors down and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty days ago, and the water has not been received for seventy-three days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-seven days, and one of the forty has not come for twenty-eight days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-seven days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty-two days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Wednesday on which a boy of nine turned one of his own slates over and there was nothing on the other side is the forty-eighth silence and the pattern is forty-eight for forty-eight.
 
-**And the last thing of the fifty-second day of the month after this one is a slate face up on a step with nothing on it, and a second slate face down on a hook inside a door one hundred and eighteen days now, and a third in the pocket of a woman of fifty-eight, and a hearing in twelve days.**
+And the last thing of the fifty-second day of the month after this one is a slate face up on a step with nothing on it, and a second slate face down on a hook inside a door one hundred and eighteen days now, and a third in the pocket of a woman of fifty-eight, and a hearing in twelve days.

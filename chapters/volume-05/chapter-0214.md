@@ -4,7 +4,7 @@ A rack came up out of a channel at the top of a cut on the Reach at about the se
 
 ---
 
-**And the man of about fifty-two who digs was at the bottom of that cut with a rod he has not offered anybody, and he did not put it in the hole he has been putting it in since the forty-first day of the Long Month, and he put it in one about nine feet along. It went in the same and it came up the same, wet to the same depth, and about four people at the top of the cut said afterwards that they had not known for about four minutes that they were watching a different hole.**
+And the man of about fifty-two who digs was at the bottom of that cut with a rod he has not offered anybody, and he did not put it in the hole he has been putting it in since the forty-first day of the Long Month, and he put it in one about nine feet along. It went in the same and it came up the same, wet to the same depth, and about four people at the top of the cut said afterwards that they had not known for about four minutes that they were watching a different hole.
 
 "That is not the hole."
 
@@ -16,7 +16,7 @@ A rack came up out of a channel at the top of a cut on the Reach at about the se
 
 ---
 
-**And he said the reason out loud at the top of that cut in front of about nine people and nobody improved on it, and it took him about four minutes. He said it with his back to the wind, which is the wrong way round to say a thing you want heard, and about four of the people there have said since that it is the first reason anybody in this city has given for doing less work.**
+And he said the reason out loud at the top of that cut in front of about nine people and nobody improved on it, and it took him about four minutes. He said it with his back to the wind, which is the wrong way round to say a thing you want heard, and about four of the people there have said since that it is the first reason anybody in this city has given for doing less work.
 
 "**On the fifty-eighth day of the Long Month a sack of salt went onto a beam in a yard nine miles up the road and a ninth of it came off the beam and a woman wrote the ninth on a slate in her own hand, and about nine people have been talking about a figure this city has never had. And I have been standing in a channel for eighteen days waiting to find out whether the salt in that sack came out of this water. I do not know. I cannot find out from a rod. I am going to measure a hole nobody has measured and I am not going to tell anybody the answer, because I have not got one and because about nine people will write a number down instead of it.**"
 
@@ -28,7 +28,7 @@ Nobody at the top of that cut said anything for about a minute. The wind came up
 
 ---
 
-**And then the four people who had carried that rack up put it down on the grass at the top of the cut, and the grass flattened under it and did not come back. About nine racks stood in eleven miles of flats with their feet in a channel that has been dry for eighteen days, and one of the four said the thing about a rack that nobody on those flats has said out loud, and it is five sentences and it is not about the water.**
+And then the four people who had carried that rack up put it down on the grass at the top of the cut, and the grass flattened under it and did not come back. About nine racks stood in eleven miles of flats with their feet in a channel that has been dry for eighteen days, and one of the four said the thing about a rack that nobody on those flats has said out loud, and it is five sentences and it is not about the water.
 
 "**A rack is four lengths of wood and a rope and four people, and it takes a morning, and about nine of them can be worked at all and every one of those nine is on somebody's rota, and the rest of them are standing in a hole in the ground with their feet in nothing. I have been carrying mine up and down this cut since the second month of this flood and I have never once been asked to work one and I am not asking.**"
 
@@ -42,7 +42,7 @@ Nobody at the top of that cut said anything for about a minute. The wind came up
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road said a number out loud once at the top of that cut, and it is a number she has been given and has not checked and about four of the figures she has been given about those flats are wrong and about four of them are right and she has never found out which, and she has never been on a rota and she is on no line of any page in this city. She had the wind on the back of her neck and she did not put her hood up.**
+And a woman of about thirty-four from a fourth household on the road said a number out loud once at the top of that cut, and it is a number she has been given and has not checked and about four of the figures she has been given about those flats are wrong and about four of them are right and she has never found out which, and she has never been on a rota and she is on no line of any page in this city. She had the wind on the back of her neck and she did not put her hood up.
 
 "**About four hundred and forty of us are on eleven miles of this and about nine of us are on a rota, and I have said that number four times since the seventh week of this flood and every time I have said it somebody has written it down and stopped listening, and today I am going to say it one more time and then I am going to say the other thing, and I want the other thing entered.**"
 
@@ -56,7 +56,7 @@ Nobody at the top of that cut said anything for about a minute. The wind came up
 
 ---
 
-**And about four people in that cut tried to talk her out of it in about nine minutes and one of them was a woman of about thirty-nine who cannot get a rack above her shoulder, and she was the one who said the sentence about the room, and it was three words long and nobody improved on it.**
+And about four people in that cut tried to talk her out of it in about nine minutes and one of them was a woman of about thirty-nine who cannot get a rack above her shoulder, and she was the one who said the sentence about the room, and it was three words long and nobody improved on it.
 
 "You will be refused."
 
@@ -68,7 +68,7 @@ Nobody at the top of that cut said anything for about a minute. The wind came up
 
 ---
 
-**And about four of the people at the top of that cut were looking down the four miles of causeway while she was talking, and it is four feet wide at the top of it and it took forty days to put down and there has been nothing on it for seventeen days. The ground under it was taken in the seventh week of this flood without asking anybody, and the man who built it is a party to the compact and is on that posting on the same page as about nine hundred other things. She said the thing about it and it is nine sentences and she did not finish the ninth.**
+And about four of the people at the top of that cut were looking down the four miles of causeway while she was talking, and it is four feet wide at the top of it and it took forty days to put down and there has been nothing on it for seventeen days. The ground under it was taken in the seventh week of this flood without asking anybody, and the man who built it is a party to the compact and is on that posting on the same page as about nine hundred other things. She said the thing about it and it is nine sentences and she did not finish the ninth.
 
 "**This is the only way out of these flats with a load on it, and it is four miles, and it has had nothing on it for seventeen days, and there are about four hundred and forty of us on eleven miles of it. And there is a page nine miles up that road with a line on it that says the road is open to everybody on a posted day.**"
 
@@ -82,7 +82,7 @@ Somebody at the top of that cut said the name of the man who built it.
 
 ---
 
-**And then about the fourth hour of the afternoon a woman of about fifty who counts water on the fingers of her left hand came down onto the flats with a board and stood at the top of the cut for about nine minutes and looked into the first hole and not into the second one. She counted on the fingers of her left hand while she looked and got to a number and did not say it. About four people at the top of that cut watched her do it, and she said two sentences and went back up.**
+And then about the fourth hour of the afternoon a woman of about fifty who counts water on the fingers of her left hand came down onto the flats with a board and stood at the top of the cut for about nine minutes and looked into the first hole and not into the second one. She counted on the fingers of her left hand while she looked and got to a number and did not say it. About four people at the top of that cut watched her do it, and she said two sentences and went back up.
 
 "**There were about nine measures a day going into this channel for the rota and there has been nothing in it for eighteen days, and I have been counting what comes down it since the second month of this flood and I have written every day of it down in my own hand and I have not got anybody to give it to.**"
 
@@ -92,6 +92,6 @@ Somebody at the top of that cut said the name of the man who built it.
 
 ---
 
-**And at about the fifth hour a rod went into a hole about nine feet from the one that had been measured every day since the forty-second day of the Long Month. He pushed it down with the flat of his hand on the top of it and it went in about as far as it had gone in the first hole and stopped, and the sound it stopped making was the same sound the other one had stopped making. About four people at the top of that cut said afterwards that they had expected it to go in further, and nobody at the bottom of the cut said why it did not.**
+And at about the fifth hour a rod went into a hole about nine feet from the one that had been measured every day since the forty-second day of the Long Month. He pushed it down with the flat of his hand on the top of it and it went in about as far as it had gone in the first hole and stopped, and the sound it stopped making was the same sound the other one had stopped making. About four people at the top of that cut said afterwards that they had expected it to go in further, and nobody at the bottom of the cut said why it did not.
 
-**And a hole nine feet from a measured one, with a rod in it, and no figure on it anywhere in four hundred miles.**
+And a hole nine feet from a measured one, with a rod in it, and no figure on it anywhere in four hundred miles.

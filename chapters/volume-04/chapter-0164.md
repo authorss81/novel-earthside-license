@@ -2,7 +2,7 @@
 
 A man of forty-two put a page on a step at the back of a room over a market on the thirteenth day of the Long Month, and the step is not a table, and the page is not a form, and it has no date on it and no place on it, and nothing in the room knows what is on it until the second hour of the afternoon.
 
-**It is a Monday. He asked for four days on the Saturday and was given them and has used two of them to write a thing, and about nine people were in the room, and the hall and the landing and the market below it were full because it is a Monday and about two hundred and forty people can hear out of all three.**
+It is a Monday. He asked for four days on the Saturday and was given them and has used two of them to write a thing, and about nine people were in the room, and the hall and the landing and the market below it were full because it is a Monday and about two hundred and forty people can hear out of all three.
 
 ---
 
@@ -12,7 +12,7 @@ It is one page and it is not printed. It is written in a hand that is not a cler
 
 ---
 
-**And he said what he had come to say, in daylight, in front of about two hundred and forty people who could hear, and it took him the whole of the walk-in, and it is in a book in this city with a date on it, and the shape of it is a post with the post taken out.**
+And he said what he had come to say, in daylight, in front of about two hundred and forty people who could hear, and it took him the whole of the walk-in, and it is in a book in this city with a date on it, and the shape of it is a post with the post taken out.
 
 "**I am not offering you a job. I have not got one and I am not going to invent one at about the second hour of the afternoon on a Monday. I am offering you a share in a thing that works, and I have gone at it from the end rather than the beginning, and I have taken out every part of it that a person could be given and be smaller.**"
 
@@ -24,9 +24,9 @@ Somebody at the back of the hall said *read it out anyway* and about nine people
 
 ---
 
-**And then the man of thirty-two conceded the ninth sentence, out loud, in about four minutes, in front of about nine people and about two hundred and forty who could hear, and it is the first time in a hundred and nine days that he has said any part of it out loud, and it is the first thing he has conceded since the sixty-fourth day of the month after this one, and nobody in the room improved on it and nobody apologised for him either.**
+And then the man of thirty-two conceded the ninth sentence, out loud, in about four minutes, in front of about nine people and about two hundred and forty who could hear, and it is the first time in a hundred and nine days that he has said any part of it out loud, and it is the first thing he has conceded since the sixty-fourth day of the month after this one, and nobody in the room improved on it and nobody apologised for him either.
 
-**Here is the ninth sentence. It is his own, said in a yard in front of about two hundred and forty people on the thirty-fourth day of the new month, which was the fifty-ninth day of this flood, and a girl of seventeen has had it written out on her own slate since then, and it is seventy-eight words long and it is the longest single thing anybody has said in a yard in this city. And it is this: *you have spent fifty-nine days making sure that not one of them has a job; the page listing what they may not have is the longest page in this city and you wrote it yourself; there is not one thing in it they may do; and in March, when the money ran out and there has not been any since, one of them is going to be a person with no work in a city with no money.***
+Here is the ninth sentence. It is his own, said in a yard in front of about two hundred and forty people on the thirty-fourth day of the new month, which was the fifty-ninth day of this flood, and a girl of seventeen has had it written out on her own slate since then, and it is seventy-eight words long and it is the longest single thing anybody has said in a yard in this city. And it is this: *you have spent fifty-nine days making sure that not one of them has a job; the page listing what they may not have is the longest page in this city and you wrote it yourself; there is not one thing in it they may do; and in March, when the money ran out and there has not been any since, one of them is going to be a person with no work in a city with no money.*
 
 "A hundred and nine days," said a woman of twenty-four.
 
@@ -44,11 +44,11 @@ Nobody made a sound.
 
 ---
 
-**And then a man of forty-two asked him a question he had not prepared for, in the plainest sentence anybody has used in that room for a hundred and sixty-eight days, and it is in a book in this city and it is the whole of what happened between them.**
+And then a man of forty-two asked him a question he had not prepared for, in the plainest sentence anybody has used in that room for a hundred and sixty-eight days, and it is in a book in this city and it is the whole of what happened between them.
 
 "**Would you like to be able to do something.**"
 
-**And a man of thirty-two stood on a step in daylight in front of about two hundred and forty people and did not have an answer, and a woman of twenty-four entered that he had had one on the fortieth day of the new month and that it is the sentence he wrote in a notebook with a piece of chalk on the second step of a stair above a lock and that a woman of twenty-nine took out of his hand on the thirty-fourth day of the new month, and that he has not asked anybody since, and that it is the same sentence, and that a man of forty-two has arrived at it from the other end of a road and has not read it off a page and does not know it is twenty-four words long.**
+And a man of thirty-two stood on a step in daylight in front of about two hundred and forty people and did not have an answer, and a woman of twenty-four entered that he had had one on the fortieth day of the new month and that it is the sentence he wrote in a notebook with a piece of chalk on the second step of a stair above a lock and that a woman of twenty-nine took out of his hand on the thirty-fourth day of the new month, and that he has not asked anybody since, and that it is the same sentence, and that a man of forty-two has arrived at it from the other end of a road and has not read it off a page and does not know it is twenty-four words long.
 
 "I have not," he said.
 
@@ -56,7 +56,7 @@ Nobody made a sound.
 
 ---
 
-**And then the offer was made properly, and it is this.**
+And then the offer was made properly, and it is this.
 
 "**A share. No post. No roll. No title. No wage. No conditions. Nothing asked of you, nothing given to you, no place, and no way for me to take it back, because there is nothing to take.**"
 
@@ -70,7 +70,7 @@ Nobody made a sound.
 
 ---
 
-**And he did not refuse it in four seconds, and this is the first change in him since the sixth week of this flood and it is on the page and a man of about thirty-four who keeps a stall said so afterwards, on his way out, and nobody improved on what he said.**
+And he did not refuse it in four seconds, and this is the first change in him since the sixth week of this flood and it is on the page and a man of about thirty-four who keeps a stall said so afterwards, on his way out, and nobody improved on what he said.
 
 "**It took four minutes,**" said a man of about thirty-four who keeps a stall. "**Four minutes is a long time. Nobody in this city has ever watched a man of thirty-two take four minutes. I have watched him refuse four things in a quarter of a minute and I have watched him stand still for four hours, and four minutes is a new thing and I do not know what it is and I am not going to be the one who says.**"
 
@@ -82,7 +82,7 @@ Nobody made a sound.
 
 ---
 
-**And he asked for four days, and he said why in one sentence, and the sentence is in a book in this city in his own hand.**
+And he asked for four days, and he said why in one sentence, and the sentence is in a book in this city in his own hand.
 
 "**I need to find out what it is, and a man who takes a thing in a quarter of a minute and a man who takes a thing in four days have both said yes, and the difference is not visible afterwards.**"
 
@@ -92,7 +92,7 @@ Nobody made a sound.
 
 ---
 
-**And then, with about four days in his hand and no reason on earth to spend any of them, he asked his second question of this stretch of days, and it is a bad one, and it is on the page because it is on the page and nobody improved on it.**
+And then, with about four days in his hand and no reason on earth to spend any of them, he asked his second question of this stretch of days, and it is a bad one, and it is on the page because it is on the page and nobody improved on it.
 
 "**Did the first wage ever come out of anybody's pocket. And if it did, whose. And has that person been paid since.**"
 
@@ -106,7 +106,7 @@ Jonah Pike answered it in about nine sentences and every one of them was true.
 
 ---
 
-**And the man of thirty-two did not improve on the question afterwards, and could not, and a woman of twenty-four entered why, in her own words, and the reason is the finding of the thirteenth day of the Long Month.**
+And the man of thirty-two did not improve on the question afterwards, and could not, and a woman of twenty-four entered why, in her own words, and the reason is the finding of the thirteenth day of the Long Month.
 
 "**He asked a man whether his own good deed was a favour, and the answer was no, and the no was correct. And he is the person in this city who wrote down that a wage paid out of somebody's own pocket is a favour and a favour is a thing that stops. So he asked the one question in a hundred and sixty-eight days that could not be improved on by anybody, including the man he asked, and the finding is not about the store. The finding is that the question was about himself and it was dressed as arithmetic.**"
 
@@ -116,7 +116,7 @@ Jonah Pike answered it in about nine sentences and every one of them was true.
 
 ---
 
-**And at about the seventh hour of the evening, with the hall emptying and the light off the west shutter, a woman of about thirty-four who keeps a stall by the wharf said the one sentence that nobody in that room had thought of, and she said it in one breath, and it is on the page in her own words, and she has been on nothing for a hundred and sixty-eight days and she said so first.**
+And at about the seventh hour of the evening, with the hall emptying and the light off the west shutter, a woman of about thirty-four who keeps a stall by the wharf said the one sentence that nobody in that room had thought of, and she said it in one breath, and it is on the page in her own words, and she has been on nothing for a hundred and sixty-eight days and she said so first.
 
 "**A share with no date on it is a share that goes on for as long as nobody objects.**"
 
@@ -130,6 +130,6 @@ Nobody said anything.
 
 ---
 
-**And a man of thirty-two wrote it down, and she asked him not to, and he did it anyway, and it is entered that he did it anyway, and it is the second time in four days, and the finding of that is not about the man, and a woman of twenty-four wrote that in a book and said so.**
+And a man of thirty-two wrote it down, and she asked him not to, and he did it anyway, and it is entered that he did it anyway, and it is the second time in four days, and the finding of that is not about the man, and a woman of twenty-four wrote that in a book and said so.
 
-**And the last thing on the page is a page with no date on it and no name at the top of it, which is a page nobody can be angry at, on a step at the back of a room, which is not a table, and about four people in that building understood what that object was, and about two hundred and thirty did not, and nothing was signed, and the seat of holder of the pull is vacant and may not be filled without a room in daylight with a date on it, and there is not going to be one in the next four days.**
+And the last thing on the page is a page with no date on it and no name at the top of it, which is a page nobody can be angry at, on a step at the back of a room, which is not a table, and about four people in that building understood what that object was, and about two hundred and thirty did not, and nothing was signed, and the seat of holder of the pull is vacant and may not be filled without a room in daylight with a date on it, and there is not going to be one in the next four days.

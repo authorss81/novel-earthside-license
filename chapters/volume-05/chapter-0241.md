@@ -4,7 +4,7 @@ A sack of salt that came off a man's chest on the eighty-fifth day of the Long M
 
 ---
 
-**And the man of about twenty-seven who washes that store's board came out of the door at about the seventh hour with the trough under his arm and stopped four feet short of going round the sack.**
+And the man of about twenty-seven who washes that store's board came out of the door at about the seventh hour with the trough under his arm and stopped four feet short of going round the sack.
 
 "You are going to move it."
 
@@ -16,7 +16,7 @@ A sack of salt that came off a man's chest on the eighty-fifth day of the Long M
 
 ---
 
-**And the round took nine feet where four would have done it, and the boards between that door and that sack are the boards that everybody in that building walks on, and a foot of them going pale inside a morning is not a mark anybody put there.**
+And the round took nine feet where four would have done it, and the boards between that door and that sack are the boards that everybody in that building walks on, and a foot of them going pale inside a morning is not a mark anybody put there.
 
 "Four feet is a walk."
 
@@ -26,7 +26,7 @@ He put the trough down under the wall. About two fingers of the water in it went
 
 ---
 
-**And the board on that wall has not been written on since the seventieth day of the Long Month, and the figures on it are the figures of the sixty-ninth day of that month, which was seventeen days ago, and the board is about nine inches from the page above it and has been since the forty-sixth day of that month.**
+And the board on that wall has not been written on since the seventieth day of the Long Month, and the figures on it are the figures of the sixty-ninth day of that month, which was seventeen days ago, and the board is about nine inches from the page above it and has been since the forty-sixth day of that month.
 
 "Your board is wrong."
 
@@ -38,7 +38,7 @@ He put the trough down under the wall. About two fingers of the water in it went
 
 ---
 
-**And by the eighth hour there was a line in that yard about the width of a boot going round that sack, and it was not a mark anybody had made, and it is not going to be a mark anybody can read.**
+And by the eighth hour there was a line in that yard about the width of a boot going round that sack, and it was not a mark anybody had made, and it is not going to be a mark anybody can read.
 
 "You are watching dirt."
 
@@ -52,7 +52,7 @@ He crouched and put two fingers on the line where it turned the corner of the sa
 
 ---
 
-**And the woman of about thirty-four in that store came out into that yard with her own wage under her arm, where it has been since the fifty-sixth day of that month, and stood at the corner of the boards where the line turned and put her own boot on the same corner twice.**
+And the woman of about thirty-four in that store came out into that yard with her own wage under her arm, where it has been since the fifty-sixth day of that month, and stood at the corner of the boards where the line turned and put her own boot on the same corner twice.
 
 "That is going to be there longer than that sack is."
 
@@ -68,7 +68,7 @@ He crouched and put two fingers on the line where it turned the corner of the sa
 
 ---
 
-**And the man of about twenty-seven took the trough in to the back room at about the ninth hour because the water in it had gone the colour of the boards, and the woman of about thirty-four in that store told him to leave it where it was, and he left it, and then she had to fill a pail herself.**
+And the man of about twenty-seven took the trough in to the back room at about the ninth hour because the water in it had gone the colour of the boards, and the woman of about thirty-four in that store told him to leave it where it was, and he left it, and then she had to fill a pail herself.
 
 "You could take it in."
 
@@ -88,7 +88,7 @@ She went and got the pail and carried it to the trough and back with the sack in
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom came through the middle of that yard at about the ninth hour with a slate under his arm and the wrong side up, and about nine people in that yard knew that slate and three of them had been carrying something for the man who wrote it.**
+And a man of about twenty-nine from the settlement's workroom came through the middle of that yard at about the ninth hour with a slate under his arm and the wrong side up, and about nine people in that yard knew that slate and three of them had been carrying something for the man who wrote it.
 
 "That is the third time he has come through here since the seventieth day of that month."
 
@@ -100,7 +100,7 @@ She went and got the pail and carried it to the trough and back with the sack in
 
 ---
 
-**And Adrian Vale came in at the eighth hour with the trough full and had to set it down in the open and go round that sack to bring it the last nine feet, and he did the whole of it without stopping and without looking down at his own feet.**
+And Adrian Vale came in at the eighth hour with the trough full and had to set it down in the open and go round that sack to bring it the last nine feet, and he did the whole of it without stopping and without looking down at his own feet.
 
 "You went round it."
 
@@ -114,7 +114,7 @@ He set the trough down against the wall about four feet from the sack. His hands
 
 ---
 
-**And the man of about twenty-seven got the cloth out of the trough at about the ninth hour and wrung it once and stopped, and then he wrung it a second time and hung it on the rim where it hangs every morning, and he did not throw a bucket of water at anything.**
+And the man of about twenty-seven got the cloth out of the trough at about the ninth hour and wrung it once and stopped, and then he wrung it a second time and hung it on the rim where it hangs every morning, and he did not throw a bucket of water at anything.
 
 "You have not done the wall."
 
@@ -130,7 +130,7 @@ He set the trough down against the wall about four feet from the sack. His hands
 
 ---
 
-**And the woman of about thirty-four in that store stood in the doorway of that yard for about as long as it takes to fill a pail and did not go out onto the nine feet, and the boards under the sack were the colour they had been before the sack came down, and the trough was against the wall about four feet from it with a dark ring round its base the width of the trough.**
+And the woman of about thirty-four in that store stood in the doorway of that yard for about as long as it takes to fill a pail and did not go out onto the nine feet, and the boards under the sack were the colour they had been before the sack came down, and the trough was against the wall about four feet from it with a dark ring round its base the width of the trough.
 
 "You are looking at the ground."
 
@@ -146,4 +146,4 @@ He set the trough down against the wall about four feet from the sack. His hands
 
 ---
 
-**And a line about the width of a boot going round a sack in the dirt, with the boards inside it not walked on at all.**
+And a line about the width of a boot going round a sack in the dirt, with the boards inside it not walked on at all.

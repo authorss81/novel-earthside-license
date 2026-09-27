@@ -2,11 +2,11 @@
 
 On the twenty-ninth day of the month after this one, which was the hundred and nineteenth day of the flood and a Monday, a woman of seventy of Nine Elms carried a page into a room over a market in a fold of oilcloth, a man of forty-one in a very good coat could not read it, a man of thirty-two from another world read it out loud in about nine minutes, and it is the finding of the twenty-ninth day of the month after this one that a document which a man can read is a description of a district, and a description is a removal with a column for where the person is, and a translation is a description, and the column is him.
 
-**The licence is sixty-nine days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the sixtieth time. The black line in his right palm is one hundred and eighteen days old and has not moved one sixteenth of an inch.**
+The licence is sixty-nine days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the sixtieth time. The black line in his right palm is one hundred and eighteen days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the page is a boundary page of the village of Nine Elms, and it is about a hundred and forty years old, and it is the ninth shape that has come into this city from anywhere, and it is not one of the seven and it is not the eighth thing that came up a river on the twenty-sixth day of the month after this one, and it is not the notice of the twenty-eighth day of this flood, and it is dated, and the date is the day of a public act with witnesses that is also cut into a stone at a fork at Four Elms, and nobody in that room said the two were the same act and about four of them thought it.**
+And the page is a boundary page of the village of Nine Elms, and it is about a hundred and forty years old, and it is the ninth shape that has come into this city from anywhere, and it is not one of the seven and it is not the eighth thing that came up a river on the twenty-sixth day of the month after this one, and it is not the notice of the twenty-eighth day of this flood, and it is dated, and the date is the day of a public act with witnesses that is also cut into a stone at a fork at Four Elms, and nobody in that room said the two were the same act and about four of them thought it.
 
 She brought it in a fold of oilcloth and she gave it to a girl of seventeen and not to anybody else, and she said why in about nine seconds, and she said it to the room and not to any of them.
 
@@ -18,7 +18,7 @@ It was entered.
 
 ---
 
-**And nobody in that room could read it but one person, and the reason nobody else could read it is not the letters.**
+And nobody in that room could read it but one person, and the reason nobody else could read it is not the letters.
 
 The page is in the ordinary local hand of about a hundred and forty years ago and the letters are the letters anybody in this city writes. **What nobody could do was the form. It is not a sentence. It is a form, and a form is a thing with places in it, and the places are what a form is for, and a person who has spent a hundred and nineteen days learning to tell the difference between what a person said and what a page said about them can read a form the way a person reads a face, and about nine people in this room have never had to do that.**
 
@@ -32,7 +32,7 @@ The page is in the ordinary local hand of about a hundred and forty years ago an
 
 ---
 
-**And a man of thirty-two read it out in about nine minutes, in the local language, in that room, and he read it as it stood and nobody improved on it, and it is entered as what a person said and not as a finding, and a girl of seventeen wrote it down in a column four lines high in his words and not in hers, and that is the whole of what he did on the twenty-ninth day of the month after this one.**
+And a man of thirty-two read it out in about nine minutes, in the local language, in that room, and he read it as it stood and nobody improved on it, and it is entered as what a person said and not as a finding, and a girl of seventeen wrote it down in a column four lines high in his words and not in hers, and that is the whole of what he did on the twenty-ninth day of the month after this one.
 
 "**It is a boundary page. It is headed with the day of the act, and the act is the one cut into a stone at a fork at Four Elms, and the act was a public act with witnesses a hundred and forty years ago, and the same cut is in the stone at the fork. There is a place in the form for the ground and a place for the old water and a place for the new water, and the old water and the new water are both in it, and the difference is a hundred yards.**"
 
@@ -44,7 +44,7 @@ The page is in the ordinary local hand of about a hundred and forty years ago an
 
 "**There is a column of names at the foot of it. There are eight of them. I am not going to read the eight of them and I would like that entered in the same breath as the rest of it, and a woman of twenty-four asked me on the sixteenth day of the month after this one not to put eight names on a page in this city, and I have spent thirteen days agreeing with her.**"
 
-**And it is entered that nobody in that room asked him to read the eight, and that about four people wanted to, and that a woman of twenty-four said the reason nobody was going to was on a page in a room already and had been since the twenty-eighth day of the flood, and that the page said that the reason was that this city has spent a hundred and nineteen days not writing names down and that the not-writing was the protection.**
+And it is entered that nobody in that room asked him to read the eight, and that about four people wanted to, and that a woman of twenty-four said the reason nobody was going to was on a page in a room already and had been since the twenty-eighth day of the flood, and that the page said that the reason was that this city has spent a hundred and nineteen days not writing names down and that the not-writing was the protection.
 
 "The ninth line," said a man of thirty-two.
 
@@ -54,7 +54,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then he said the four sentences that are the reversal of this volume, and it took him about four minutes, and a man of forty-one in a very good coat did not interrupt him once, and a girl of seventeen wrote all of it out and did not improve on it and it is the whole of what is on the page for the twenty-ninth day of the month after this one.**
+And then he said the four sentences that are the reversal of everything before them, and it took him about four minutes, and a man of forty-one in a very good coat did not interrupt him once, and a girl of seventeen wrote all of it out and did not improve on it and it is the whole of what is on the page for the twenty-ninth day of the month after this one.
 
 "**A description of a district is a removal with a column for where the person is, and that is on a page in this city and it is not an opinion. A translation is a description. I have just made one. I read a form out loud in a room in the local language in front of about nine people, and the form is a description, and a description is a removal, and the column is me. I am the only person in that room who could have read it, and the man in the very good coat was standing in that room and had said, before anybody handed it to me, that he has read every book that office keeps and has never held one of these. Nobody in this city teaches what I know and nobody in four hundred miles has heard of it, and that is not a rare thing and it is exactly what makes it dangerous. There is one of me in this city and there has been one in every room I have been in for a hundred and nineteen days, and nobody has ever asked me what it is for, and the answer is that it is for a thing exactly like this, and I have been the instrument for about four people in a hundred and nineteen days and I did not know it until a woman of seventy handed me a page.**"
 
@@ -68,7 +68,7 @@ Nobody said anything for about nineteen seconds.
 
 ---
 
-**And then a notary of fifty said the part that nobody in that room was going to be able to carry, and she had it written in front of her, and it is the fifth clause of the notice of the twenty-eighth day of this flood, and this city cannot answer it and did not write it.**
+And then a notary of fifty said the part that nobody in that room was going to be able to carry, and she had it written in front of her, and it is the fifth clause of the notice of the twenty-eighth day of this flood, and this city cannot answer it and did not write it.
 
 "There is one instrument in four hundred miles that could have asked that village whether it agreed," she said. "**It is the third instrument of the seventeenth day of the new month, a single-author containment, and it was refused in a yard, and the second answer of the twenty-second day of the new month is that office's answer to it, in a form that is not the form required, and the instrument of the twenty-second was answered ninety times with statements of error, and all ninety are entered and none of them has been removed, because no entry of error may be removed except by the person who entered it. And the fifth clause of the notice of the twenty-eighth day of this flood says that a person who could not afford to answer an instrument has not answered it.**"
 
@@ -84,6 +84,6 @@ It was entered. **And a woman of seventy of Nine Elms, who is seventy and has a 
 
 ---
 
-**And a hearing is in thirty-five days and there is one hearing and one clock, and the number nine is on a page with nobody at the top of it. And a box is in a room with a door and is not opened and the strap on it is still untied. And a page that ends a document is spent, and five rooms in this city have failed to work out how it did it and all five failed in the same place, and a sixth was wanted in the room over a market on the twenty-seventh day of the month after this one and was not held, because about four people in that room could not agree in nine minutes on a question and nine minutes is how long the last four took. And the fee of eleven ounces of silver is owing with no date for the sixtieth time. And the licence is sixty-nine days old and the seat of holder of the pull is vacant and the instrument says nobody. And the boards under the chapel have not been lifted since the fortieth day of this flood and the ground is a scar, and the stone in the arch said nothing today. And there have been thirty things the wall has said in this city and one has been refused, and a Monday on which a man of thirty-two read a form out loud and made himself a column is the twenty-seventh silence, and the pattern is twenty-seven for twenty-seven.**
+And a hearing is in thirty-five days and there is one hearing and one clock, and the number nine is on a page with nobody at the top of it. And a box is in a room with a door and is not opened and the strap on it is still untied. And a page that ends a document is spent, and five rooms in this city have failed to work out how it did it and all five failed in the same place, and a sixth was wanted in the room over a market on the twenty-seventh day of the month after this one and was not held, because about four people in that room could not agree in nine minutes on a question and nine minutes is how long the last four took. And the fee of eleven ounces of silver is owing with no date for the sixtieth time. And the licence is sixty-nine days old and the seat of holder of the pull is vacant and the instrument says nobody. And the boards under the chapel have not been lifted since the fortieth day of this flood and the ground is a scar, and the stone in the arch said nothing today. And there have been thirty things the wall has said in this city and one has been refused, and a Monday on which a man of thirty-two read a form out loud and made himself a column is the twenty-seventh silence, and the pattern is twenty-seven for twenty-seven.
 
-**And the last thing of the twenty-ninth day of the month after this one is a boundary page with eight names at the foot of it and a hand at the bottom of that, and the eight names are not on a page in this city, and the page is in a fold of oilcloth in a book that cannot travel, and one man read it aloud this morning and cannot put it down again, and he has said out loud that he is not going to be able to stop, and nobody in that room found one instrument that would let him stop, and it was the twenty-ninth day of the month after this one and there were thirty-five days left.**
+And the last thing of the twenty-ninth day of the month after this one is a boundary page with eight names at the foot of it and a hand at the bottom of that, and the eight names are not on a page in this city, and the page is in a fold of oilcloth in a book that cannot travel, and one man read it aloud this morning and cannot put it down again, and he has said out loud that he is not going to be able to stop, and nobody in that room found one instrument that would let him stop, and it was the twenty-ninth day of the month after this one and there were thirty-five days left.

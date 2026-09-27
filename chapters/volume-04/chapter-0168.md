@@ -2,7 +2,7 @@
 
 A woman of twenty-four had been awake since about the fourth hour of the morning and had copied a wage list for six hours in a hand that is not hers, and the list is on a trestle board in a store on the upper road, and the hand on it belongs to a man of forty-two, and there is nobody in this city who is going to say so for about three hours.
 
-**It is the seventeenth day of the Long Month and it is a Friday. She has been the first public record in this city for a hundred and seventy-two days, and she is on no roll of anything, and there is exactly one other record in four hundred miles and it is on a wall in a converted salt store and it came up a cart in the ordinary course.**
+It is the seventeenth day of the Long Month and it is a Friday. She has been the first public record in this city for a hundred and seventy-two days, and she is on no roll of anything, and there is exactly one other record in four hundred miles and it is on a wall in a converted salt store and it came up a cart in the ordinary course.
 
 ---
 
@@ -16,11 +16,11 @@ The copy is nine pages. It is in the local language and it is in the hand of a m
 
 **Four: a reason.** Every refused thing on nine pages has a reason under it, in the words of the person who refused it, and no reason on any of the nine pages has a person at the end of it.
 
-**The three it is worse at, and she wrote those down at the eleventh hour and did not improve on them, are these. There is no column for who is owed. There is no place to put a person who wants something and is owed nothing and has not refused anything. And there is no roll of the seventeen, and there never has been, and a man of about twenty-nine from the workroom said so out loud in a room in about nine sentences on the second day of the Long Month, and it is the best thing anybody from that store has said about anything, and it is on a page in this city now because she copied it.**
+The three it is worse at, and she wrote those down at the eleventh hour and did not improve on them, are these. There is no column for who is owed. There is no place to put a person who wants something and is owed nothing and has not refused anything. And there is no roll of the seventeen, and there never has been, and a man of about twenty-nine from the workroom said so out loud in a room in about nine sentences on the second day of the Long Month, and it is the best thing anybody from that store has said about anything, and it is on a page in this city now because she copied it.
 
 ---
 
-**And the first hour in that store is on the page, because it is the first time in a hundred and seventy-two days that anybody from another world has asked her for anything instead of telling her.**
+And the first hour in that store is on the page, because it is the first time in a hundred and seventy-two days that anybody from another world has asked her for anything instead of telling her.
 
 She came in at the seventh hour with nine days of a question and got about nine steps into a yard before a man of about twenty-nine came out of a door and said:
 
@@ -36,15 +36,15 @@ She came in at the seventh hour with nine days of a question and got about nine 
 
 ---
 
-**And here is the sentence that the man of about twenty-nine said in a workroom at about the ninth hour of the morning, and the copy has it, and it is the reason a woman of about thirty-four who keeps a stall by the wharf heard something wrong in a room and did not say anything about it until a road.**
+And here is the sentence that the man of about twenty-nine said in a workroom at about the ninth hour of the morning, and the copy has it, and it is the reason a woman of about thirty-four who keeps a stall by the wharf heard something wrong in a room and did not say anything about it until a road.
 
 "There is no name at the top of it," he said, "**and there is no name in the middle of it, and I have been asked in about nine rooms since the seventh week why we do not keep a roll of the seventeen, and the answer is the same every time and I will say it once. A person at the top of a page has to be *findable*. And we do not need a page to find anybody. We have a man at the front of a queue who learned nine hundred names in a hundred days without writing one of them down, and if he dies on a Tuesday then a person who kept a page would have it and he does not, and that is the trade and I have thought about it for two days and I have not got a better answer and I am not going to pretend I have.**"
 
-**And the word was *findable*, and the man said it in the local language the way a man says a word he has had to build out of two other words, and it came out about half a syllable long, and about four people in that workroom heard it and about nine did not, and a woman of about thirty-four who keeps a stall by the wharf was in that workroom and she is the only one in the room who has spent nine years making sure she cannot be found, and she heard it, and she did not correct it, and she has not corrected it, and it is entered that she did not correct it and that she gave a reason for that at a road on the Friday afternoon and the reason is that a man from another world built a word out of two local words in about four seconds in a room where a local woman was standing, and that she has spent nine years being unfindable and that she is not going to be the person who teaches a stranger the word for it.**
+And the word was *findable*, and the man said it in the local language the way a man says a word he has had to build out of two other words, and it came out about half a syllable long, and about four people in that workroom heard it and about nine did not, and a woman of about thirty-four who keeps a stall by the wharf was in that workroom and she is the only one in the room who has spent nine years making sure she cannot be found, and she heard it, and she did not correct it, and she has not corrected it, and it is entered that she did not correct it and that she gave a reason for that at a road on the Friday afternoon and the reason is that a man from another world built a word out of two local words in about four seconds in a room where a local woman was standing, and that she has spent nine years being unfindable and that she is not going to be the person who teaches a stranger the word for it.
 
 ---
 
-**And she copied the whole of it in six hours, on a board, on her knees, on the floor of a room with a door, and about nine people watched her do it and none of them stopped her, and at the end of the sixth hour she had nine pages and they were in her own hand and they were undated by her and they carried a date in the other hand on every line.**
+And she copied the whole of it in six hours, on a board, on her knees, on the floor of a room with a door, and about nine people watched her do it and none of them stopped her, and at the end of the sixth hour she had nine pages and they were in her own hand and they were undated by her and they carried a date in the other hand on every line.
 
 She asked first. She asked at the fifth hour of the afternoon, in a yard, in daylight, in front of about nine people, and a man of about twenty-nine said no.
 
@@ -64,7 +64,7 @@ A man of about twenty-nine looked at her for a while.
 
 ---
 
-**And she said it in the yard, in daylight, in front of about forty people, on the seventeenth day of the Long Month, and it is in a book in this city in her own words, and about nine people in that yard did not believe the settlement's man when he said it was fine, and one of the forty was him.**
+And she said it in the yard, in daylight, in front of about forty people, on the seventeenth day of the Long Month, and it is in a book in this city in her own words, and about nine people in that yard did not believe the settlement's man when he said it was fine, and one of the forty was him.
 
 "Nine pages of a store's week, copied out by hand in six hours by a woman of twenty-four who is on no roll of anything and has never been asked about that and has not been asked about it today. The store is on the upper road, nine miles, since the seventh week of this flood. I am giving them away. I am not selling them and I am not holding them. I took them without asking and I asked before I took them and was refused and asked a second time, and the second time a man of about twenty-nine from the workroom said I could have them if I said where they came from, and I am saying it in front of about forty people so that nobody has to take anybody's word for it."
 
@@ -74,7 +74,7 @@ Somebody said *she said yes and she did not say she was refused.*
 
 ---
 
-**And then a woman of about thirty-four who keeps a stall by the wharf said the thing that nobody in that yard had thought of, and she has been on nothing for a hundred and seventy-two days and she said so first, and she is the only one in the room who heard a word said wrong in a workroom that morning and has not corrected it.**
+And then a woman of about thirty-four who keeps a stall by the wharf said the thing that nobody in that yard had thought of, and she has been on nothing for a hundred and seventy-two days and she said so first, and she is the only one in the room who heard a word said wrong in a workroom that morning and has not corrected it.
 
 "**You have made nine pages that are better than mine,**" she said, "**and you made them by copying a rival, and that is theft, and I am not going to pretend it is not, and I am also not going to stand in this yard and let anybody use it. Because a record that is better because a rival made it is still a record that ends when whoever holds the pen stops holding it, and the pen is the whole of the argument and there is one pen in this city and it is hers.**"
 
@@ -84,7 +84,7 @@ Somebody said *she said yes and she did not say she was refused.*
 
 ---
 
-**And at about the eighth hour of the evening, in the rain, a man of forty-two came down nine miles on foot to a yard in this city, and a girl of seventeen on no roll of anything was standing in the gateway with a slate under her arm and nine pages under the other one, and he asked her one question.**
+And at about the eighth hour of the evening, in the rain, a man of forty-two came down nine miles on foot to a yard in this city, and a girl of seventeen on no roll of anything was standing in the gateway with a slate under her arm and nine pages under the other one, and he asked her one question.
 
 "Is the copy accurate."
 
@@ -98,4 +98,4 @@ Then he said the other half, and he said it in one sentence, and about four peop
 
 ---
 
-**And the last thing on the page is that nine pages of a better record are in four hands in a city that had one record on a wall, and none of the four hands is on a roll of anything, and a man of forty-two has asked for them to go everywhere, and about nine people in a yard did not believe him and one of them has a slate and did.**
+And the last thing on the page is that nine pages of a better record are in four hands in a city that had one record on a wall, and none of the four hands is on a roll of anything, and a man of forty-two has asked for them to go everywhere, and about nine people in a yard did not believe him and one of them has a slate and did.

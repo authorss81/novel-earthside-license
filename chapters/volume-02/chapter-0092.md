@@ -2,11 +2,11 @@
 
 On the second day of the month after this one, which was the ninety-second day of the flood and a Tuesday, about two hundred and forty people were in a converted salt store in daylight, a man of forty-two who had said on the sixty-third day of the new month that the man who proposed nineteen words would do it was in the room and said so again, and at about the fourth hour and nine minutes of the afternoon a pale field came up in front of about nine people and stood for about nineteen seconds and was answered by a person, and then the whole of the voiding of the undertaking of the Lantern Concord took about nineteen minutes, and nobody was convicted of anything.
 
-**The licence is forty-two days old. The undertaking was on a nail and on a river and is void from this day and the nail still has it on it. The field was not paid on the first of March. Nine Elms' water is not received and has not been received for twenty-three days, counted from the forty-fourth day of the new month, which was the sixty-ninth day of the flood.**
+The licence is forty-two days old. The undertaking was on a nail and on a river and is void from this day and the nail still has it on it. The field was not paid on the first of March. Nine Elms' water is not received and has not been received for twenty-three days, counted from the forty-fourth day of the new month, which was the sixty-ninth day of the flood.
 
 ---
 
-**The argument had been named on the sixty-third day of the new month in a yard for a Tuesday, and it was had on the day it was named, and a girl of seventeen read the nineteen words out from a slate in about nine seconds because the slate is on a nail in an arch and she had not taken it down.**
+The argument had been named on the sixty-third day of the new month in a yard for a Tuesday, and it was had on the day it was named, and a girl of seventeen read the nineteen words out from a slate in about nine seconds because the slate is on a nail in an arch and she had not taken it down.
 
 "**Put a person at the top of it, and make that person able to say no, out loud, here.**"
 
@@ -26,7 +26,7 @@ And then a woman of twenty-nine of the second list said the thing that had to be
 
 ---
 
-**And then a woman of about thirty-four said the rule, and it is hers, and she said it once in ninety-two days, on the fifty-third day of the new month, in about nine seconds, about a person who is not her, and nobody claimed it then and nobody claims it now, and about four people in that room had been waiting for her to say it again since.**
+And then a woman of about thirty-four said the rule, and it is hers, and she said it once in ninety-two days, on the fifty-third day of the new month, in about nine seconds, about a person who is not her, and nobody claimed it then and nobody claims it now, and about four people in that room had been waiting for her to say it again since.
 
 > **A hold is a working without a witness, and the residue of one goes into the person who did it.**
 
@@ -44,7 +44,7 @@ And then a woman of twenty-nine of the second list said the thing that had to be
 
 ---
 
-**And Adrian Vale asked her whether she meant it, and he asked her and nobody else did. It is entered that nobody else was permitted to ask on his behalf, and that a woman of twenty-four tried and was refused in one sentence by the notary, whose reason is on the page: *he is not the person it is about and he does not get to have it asked for him on her behalf, and if I let him do that in this city then every page in it is a page he arranged.***
+And Adrian Vale asked her whether she meant it, and he asked her and nobody else did. It is entered that nobody else was permitted to ask on his behalf, and that a woman of twenty-four tried and was refused in one sentence by the notary, whose reason is on the page: *he is not the person it is about and he does not get to have it asked for him on her behalf, and if I let him do that in this city then every page in it is a page he arranged.*
 
 "Did you mean it," he said. "**About me. And not about the person you said it about the first time.**"
 
@@ -52,7 +52,7 @@ And then a woman of twenty-nine of the second list said the thing that had to be
 
 ---
 
-**And then a pale field came up in the air in front of about nine people and stood for about nineteen seconds, and it is the twenty-sixth thing the wall has said in this city, and it was answered by a person, and the person is the man it is about.**
+And then a pale field came up in the air in front of about nine people and stood for about nineteen seconds, and it is the twenty-sixth thing the wall has said in this city, and it was answered by a person, and the person is the man it is about.
 
 > **A document may be ended by any person who stands at the top of it and answers for it alone.**
 >
@@ -66,7 +66,7 @@ And the girl of seventeen asked which book it goes in, which is the fifth time i
 
 ---
 
-**And then the voiding took about nineteen minutes, and it is entered that there was no ceremony, and that the room knew what was being done in the first minute and not in the last, and that the whole of it was the reading of one thing and the writing of one.**
+And then the voiding took about nineteen minutes, and it is entered that there was no ceremony, and that the room knew what was being done in the first minute and not in the last, and that the whole of it was the reading of one thing and the writing of one.
 
 Adrian Vale brought the page out of the lockable room at about the fourth hour and forty minutes of the afternoon. The inside of it was folded twice. He did not read it out, and he was asked why not, and his reason is the first sentence of what follows, and it is fifteen words as it stands, and the rest of it is about ninety.
 
@@ -102,7 +102,7 @@ Nobody argued about that. **It is entered that nobody argued, and that about nin
 
 ---
 
-**And nothing was convicted, and the Concord did not lose the lock, the roll, the notary or the gauge, and it gained a term it has never had.**
+And nothing was convicted, and the Concord did not lose the lock, the roll, the notary or the gauge, and it gained a term it has never had.
 
 "**The lock, the roll, the notary and the gauge are not in the undertaking,**" said Sera Vail. "**They are in the instrument of the twenty-second day of the new month and they were never in this. And the fourth clause of the thing I have just ended said it could be ended in a room in daylight with a date on it, and nobody in this room needed that clause and nobody read it before today, and I would like that entered. A document ended by a clause in itself has been overruled. This one has been found not to have started.**"
 
@@ -112,7 +112,7 @@ Nobody argued about that. **It is entered that nobody argued, and that about nin
 
 ---
 
-**And then a woman of seventy from Nine Elms asked a man of sixty-one a question, and it is the only thing that happened in that room anybody in it will still be able to say in four months, and nobody had asked him before, and she asked him once, and the answer went in, and the difference between those two facts is what this volume has been doing.**
+And then a woman of seventy from Nine Elms asked a man of sixty-one a question, and it is the only thing that happened in that room anybody in it will still be able to say in four months, and nobody had asked him before, and she asked him once, and the answer went in, and the difference between those two facts is what this volume has been doing.
 
 "You copied it out," said Ilda Marsh. "**Did you understand what you were copying.**"
 
@@ -124,7 +124,7 @@ He was not convicted of anything. **It is entered that nobody asked him before, 
 
 ---
 
-**And the cost of it is not a figure, and it is the thing in the fourth clause, which returns the charge to whoever is carrying it on the day it ends.**
+And the cost of it is not a figure, and it is the thing in the fourth clause, which returns the charge to whoever is carrying it on the day it ends.
 
 Nine Elms' water is not received, and the quarter is gone and has been gone for twenty-three days, and the drain in the fourth channel is being cleared by one woman of forty-eight, by herself, every morning since the twenty-ninth day of the new month, and the undertaking was going to stop that, and it did not, and nobody in about two hundred and forty people said her name out loud.
 
@@ -136,7 +136,7 @@ And the whole of the Reed Reach's standing charge is on a man of thirty-two who 
 
 ---
 
-**And at about the sixth hour of the evening a form of four lines came off a shelf in a room over a market, and somebody finished it, and it is not a person, and this is the fifth time anybody in this city has built the same kind of thing and the fifth of the five is a hole with four lines in it.**
+And at about the sixth hour of the evening a form of four lines came off a shelf in a room over a market, and somebody finished it, and it is not a person, and this is the fifth time anybody in this city has built the same kind of thing and the fifth of the five is a hole with four lines in it.
 
 > **This undertaking is offered to me by name.**
 >
@@ -152,11 +152,11 @@ And the whole of the Reed Reach's standing charge is on a man of thirty-two who 
 
 "**It is a form with a person at the top of it for the first time and nobody has filled it in, and the heading is a person who does not exist. A page in ninety-two days of this city has finally got a person at the top of it, and the person is nobody.**"
 
-**And it is entered that about nine people in this city have now built the same kind of thing five times in ninety-two days and none of them has a name for what it is, and that the page in the lockable room is not one of the five, because it has been used and a thing that has been used is not a thing anybody is building any more.**
+And it is entered that about nine people in this city have now built the same kind of thing five times in ninety-two days and none of them has a name for what it is, and that the page in the lockable room is not one of the five, because it has been used and a thing that has been used is not a thing anybody is building any more.
 
 ---
 
-**Nothing was gained, and one document was ended, and the ending took about nineteen minutes, and the finding is entered as a record and not a finding, and nobody in that room and nobody in this city is going to be able to say why it worked.**
+Nothing was gained, and one document was ended, and the ending took about nineteen minutes, and the finding is entered as a record and not a finding, and nobody in that room and nobody in this city is going to be able to say why it worked.
 
 The undertaking of the Lantern Concord is void from the second day of the month after this one, on the ground that its own condition was not met, and its own condition is in its own first sentence, and it is a thing the document said about itself. **Nobody was convicted of anything. The man of sixty-one is not convicted of anything and was asked a question he has wanted for nineteen years. The man of forty-one in a very good coat is not convicted of anything and was not in the room when it was decided. The man of forty-two is not convicted of anything and was right.** The Concord does not lose the lock, the roll, the notary or the gauge, and gains a term it has never had: a day on it that it did not choose. **The page is spent, it can be used once and it has been used once, and it does not say why it worked and it is not going to be asked.**
 

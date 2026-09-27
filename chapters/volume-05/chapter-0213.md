@@ -4,7 +4,7 @@ A sack came down onto a beam and two pans in the yard of the store on the upper 
 
 ---
 
-**And he moved the pan along the beam four times and got it to sit. The beam dipped under the weight and came back, and he put his thumb under the low place in it and showed them where it was. He did not say the number, and about four people in that yard had to ask him for it twice before he said it out loud, and he said it in a mouth, once, and nobody improved on it.**
+And he moved the pan along the beam four times and got it to sit. The beam dipped under the weight and came back, and he put his thumb under the low place in it and showed them where it was. He did not say the number, and about four people in that yard had to ask him for it twice before he said it out loud, and he said it in a mouth, once, and nobody improved on it.
 
 "**That is a sack and a ninth of a sack, and I have got that beam wrong by about a ninth and I have been getting it wrong since the second month of this flood, and everybody within nine miles of this yard has been weighing salt in a bucket since the seventh week of this flood, and I am telling you the ninth and not the number so that whoever writes it down has to put a thing in their own hand on it.**"
 
@@ -16,7 +16,7 @@ Somebody in that yard wanted it in a hand and said so in one word.
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road was in that yard, and she has come up the road with him twice since the forty-fourth day of the Long Month and had not been in this yard at all before today. She had the figure from him in a sentence and gave it back in a sentence, and about four people heard both.**
+And a woman of about thirty-four from a fourth household on the road was in that yard, and she has come up the road with him twice since the forty-fourth day of the Long Month and had not been in this yard at all before today. She had the figure from him in a sentence and gave it back in a sentence, and about four people heard both.
 
 "**One and a ninth, and not one and a half, and the reason he is telling us the ninth is that he would rather have a page with a mistake in it than a whole of good sentences, and a man of about thirty-nine who trades on the Open Hand board said that in this yard on the forty-sixth day of the Long Month and did not do it, and I have carried that ninth up nine miles in my head since the fifty-sixth day of the Long Month and I am the one who is saying it out loud today, and neither of those two men is in this yard.**"
 
@@ -26,7 +26,7 @@ Somebody in that yard wanted it in a hand and said so in one word.
 
 ---
 
-**And then the man of about fifty-two who digs said the thing that the sack on the beam had been in the yard for, and it took him about four minutes. He said it with his hands still white to the wrist from the salt, and about nine people heard it, and about four of them have said since that it is the first time anybody has put those three words next to each other in daylight. He said himself that it was not a finding.**
+And then the man of about fifty-two who digs said the thing that the sack on the beam had been in the yard for, and it took him about four minutes. He said it with his hands still white to the wrist from the salt, and about nine people heard it, and about four of them have said since that it is the first time anybody has put those three words next to each other in daylight. He said himself that it was not a finding.
 
 "**A sack is a thing I can put on a beam. A place at a fire is a thing a person can be found at, because somebody has to see a person to give them one, and about nine people in this city have worked that out since the forty-fourth day of the Long Month and not one of them has written it down. A day of the queue is a thing a person can be found in, for the same reason, and since the seventh week of this flood.**"
 
@@ -42,7 +42,7 @@ Nobody in that yard had a piece of chalk in their hand. They had come nine miles
 
 ---
 
-**And the man of about thirty-four who wrote nine of the eleven lines of that page came into that yard at about the eleventh hour and read the ninth off a slate that a woman of about thirty-four from a fourth household on the road was holding, and he did not touch it. There was mud on the side of one boot and not on the other, and it is entered that he had come nine miles on foot. About four people in that yard watched him not touch it.**
+And the man of about thirty-four who wrote nine of the eleven lines of that page came into that yard at about the eleventh hour and read the ninth off a slate that a woman of about thirty-four from a fourth household on the road was holding, and he did not touch it. There was mud on the side of one boot and not on the other, and it is entered that he had come nine miles on foot. About four people in that yard watched him not touch it.
 
 "That is a figure under one of my lines."
 
@@ -56,7 +56,7 @@ He did not say the rest of it to her. He turned about nine feet away from her an
 
 ---
 
-**And a woman of about twenty-four who is on no roll of anything came up that road in the middle of the afternoon and put the ninth on a slate of her own in her own hand and did not put it on the wall. The chalk she had brought was in her fist and she put it in her pocket instead, and about nine people in that yard watched a figure appear in this city that was not on any page, and nobody in that yard told her she should not.**
+And a woman of about twenty-four who is on no roll of anything came up that road in the middle of the afternoon and put the ninth on a slate of her own in her own hand and did not put it on the wall. The chalk she had brought was in her fist and she put it in her pocket instead, and about nine people in that yard watched a figure appear in this city that was not on any page, and nobody in that yard told her she should not.
 
 "Nobody has said that is a price."
 
@@ -68,7 +68,7 @@ He did not say the rest of it to her. He turned about nine feet away from her an
 
 ---
 
-**And about four people in that yard asked whose beam it was before the end of the afternoon, and the man of about fifty-two who digs answered them in four sentences, and it is entered that about nine people in that yard have said since that it is the first true thing anybody has said about where a thing in this city comes from and that nobody acted on it.**
+And about four people in that yard asked whose beam it was before the end of the afternoon, and the man of about fifty-two who digs answered them in four sentences, and it is entered that about nine people in that yard have said since that it is the first true thing anybody has said about where a thing in this city comes from and that nobody acted on it.
 
 "That is not your beam."
 
@@ -86,7 +86,7 @@ He did not say whose it was again. He wiped his hands on his coat, which put mor
 
 ---
 
-**And at about the fourth hour of the afternoon the woman of about thirty-four who keeps a stall by a wharf came up the road for the second time since the fifty-sixth day of the Long Month and stood in front of that beam, and the sun had come over the roof of the store by then and the wet had gone off the top of the sack. She has been on a page for thirteen days and she asked in advance not to be thanked, and about four people in that yard looked at her to see whether she would say the thing all of them wanted her to say and she did not.**
+And at about the fourth hour of the afternoon the woman of about thirty-four who keeps a stall by a wharf came up the road for the second time since the fifty-sixth day of the Long Month and stood in front of that beam, and the sun had come over the roof of the store by then and the wet had gone off the top of the sack. She has been on a page for thirteen days and she asked in advance not to be thanked, and about four people in that yard looked at her to see whether she would say the thing all of them wanted her to say and she did not.
 
 "You can be found at a fire now."
 
@@ -100,4 +100,4 @@ Nobody in that yard said a word about it. The sack settled on the boards with a 
 
 ---
 
-**And a beam and two pans in a yard nine miles up the road with a ninth of a weight on a slate in a woman's hand, and nothing at all on the other two.**
+And a beam and two pans in a yard nine miles up the road with a ninth of a weight on a slate in a woman's hand, and nothing at all on the other two.

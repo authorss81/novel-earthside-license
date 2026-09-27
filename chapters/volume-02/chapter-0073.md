@@ -2,11 +2,11 @@
 
 On the forty-eighth day of the new month, which was the seventy-third day of the flood and a Thursday, two days before a review, a woman of seventeen was written on a page for the first time in this volume, and in a yard behind a chandlery at about the third hour and forty-one minutes of the afternoon the wall said the same true thing it said on the forty-second day of the new month, in a better coat, and refused to be a new thing, and the refusal was correct, and the interesting half was not the refusal.
 
-**The licence is twenty-three days old. The review is on the fiftieth day of the new month. Eleven questions, a second page, a slate, and four words on the front of a slate with the question they answer on the back of it, and about nine people in this city know that and about two hundred and thirty do not.**
+The licence is twenty-three days old. The review is on the fiftieth day of the new month. Eleven questions, a second page, a slate, and four words on the front of a slate with the question they answer on the back of it, and about nine people in this city know that and about two hundred and thirty do not.
 
 ---
 
-**The girl of seventeen was written on a page on the morning of the forty-eighth day of the new month, and she noticed, and she asked, and the answer was given by a notary and it was true and the notary entered that she does not know whether it is.**
+The girl of seventeen was written on a page on the morning of the forty-eighth day of the new month, and she noticed, and she asked, and the answer was given by a notary and it was true and the notary entered that she does not know whether it is.
 
 The page is the copying list for the review. Nine slates and one page are going into the wooden case, and the second page is written out nine times in nine hands, and the list says who wrote which one, and her name is on it in a column four lines high.
 
@@ -34,7 +34,7 @@ The width of that column is entered as a fact for the eleventh time in this year
 
 ---
 
-**Then the twenty-second field came up in the yard behind the chandlery at about the third hour and forty-one minutes of the afternoon, in about nine people, and it stood about nineteen seconds, and about nine of the nine saw it, and it was not a new thing.**
+Then the twenty-second field came up in the yard behind the chandlery at about the third hour and forty-one minutes of the afternoon, in about nine people, and it stood about nineteen seconds, and about nine of the nine saw it, and it was not a new thing.
 
 > **THE DISTRICT MAY BE DESCRIBED, IN ANY RETURN, AS A DISTRICT THAT SETTLES ITS ACCOUNTS IN KIND.**
 >
@@ -52,7 +52,7 @@ It is the twenty-first. The twenty-first was on the forty-second day of the new 
 
 The twenty-second says the same four things and takes the condition off.
 
-**That is the whole of the difference and it is one clause, and it is the difference between a leash and a gift, and a gift is worse.**
+That is the whole of the difference and it is one clause, and it is the difference between a leash and a gift, and a gift is worse.
 
 "The twenty-first was right and this one is harmless," said a man of about thirty-one with a hand that will not close, and about eight other people in that yard said one version or another of the same sentence in about the next minute.
 
@@ -76,7 +76,7 @@ The yard was quiet for about nine seconds.
 
 ---
 
-**Adrian Vale refused it in under a second, out loud, in the local language, before he knew who it was for, and he has entered that for the second time in seventy-three days he has said no first and understood later and that it is still the worst habit he owns.**
+Adrian Vale refused it in under a second, out loud, in the local language, before he knew who it was for, and he has entered that for the second time in seventy-three days he has said no first and understood later and that it is still the worst habit he owns.
 
 "No."
 
@@ -102,7 +102,7 @@ And Renner Sallow added his own, because he has been counting in a book at Aurel
 
 ---
 
-**And then Priya Shah, twenty-four, said the sentence that the next instrument written in this city will need, in a yard behind a chandlery, in about four seconds, and she wrote it on the back of the copying list because there was nothing else to write on, and it is in the book in her own hand and it is her sentence and nobody has claimed it:**
+And then Priya Shah, twenty-four, said the sentence that the next instrument written in this city will need, in a yard behind a chandlery, in about four seconds, and she wrote it on the back of the copying list because there was nothing else to write on, and it is in the book in her own hand and it is her sentence and nobody has claimed it:
 
 > **A form that repeats itself is not asking twice. It is establishing that it may.**
 
@@ -112,11 +112,11 @@ Nobody argued with it. It is entered that nobody argued with it, and that it was
 
 ---
 
-**And the twenty-second field is entered in the book as a repetition, and the entry is the entry, and nobody may move it.**
+And the twenty-second field is entered in the book as a repetition, and the entry is the entry, and nobody may move it.
 
 > **The twenty-second field is the twenty-first again with the condition removed. It is entered as a repetition. It is entered as a repetition by a man who has refused four of these and who entered that refusal in under a second without reading it, and who has entered, in the same line, in his own hand, that he does not know why he can still do that and that he does not believe it is a talent.**
 
-**And the last thing on that page is the line the girl of seventeen wrote at about the seventh hour of the evening, at his request, in a column four lines high, and he asked for it himself and it is sixteen words long:**
+And the last thing on that page is the line the girl of seventeen wrote at about the seventh hour of the evening, at his request, in a column four lines high, and he asked for it himself and it is sixteen words long:
 
 > **I have never once asked what happens to the ones that are not answered by me.**
 
@@ -124,8 +124,8 @@ There are four of them. Three were refused: a man of thirty-one in about four se
 
 He did not go and ask her. It is entered that he did not go and ask her, on the forty-eighth day of the new month, at about the seventh hour of the evening, in a room over a chandlery with about nine people in it and a woman of forty-one in the next room with a slate on her knee, and that he wrote down that he was not going to, and that the reason he wrote down is that he has been a man who asks for eleven days running about this city and has been wrong about the asking twice and right about it once, and that the once was a question on a stair to a woman of twenty-four and the answer took nine days and four kitchens, and that a review is in two days and there is no time and he is not going to pretend there is no time.
 
-**In two days a page is going to be read out in daylight in a room to about two hundred and forty people, and nine of them will know that the answer to the eleventh question was on the front of a slate three days ago, and a woman of forty-one will hear a question about a person read out in a language she does not speak, and he does not know what she will do, and he is not going to find out by asking her tonight.**
+In two days a page is going to be read out in daylight in a room to about two hundred and forty people, and nine of them will know that the answer to the eleventh question was on the front of a slate three days ago, and a woman of forty-one will hear a question about a person read out in a language she does not speak, and he does not know what she will do, and he is not going to find out by asking her tonight.
 
 ---
 
-**Nothing was gained. A field was refused in under a second and the refusal is the fourth interesting half in seventy-three days and it is not the interesting half. A mechanism was identified a second time in a better coat by a clerk who had four years in a building to be able to say it about his own office. Fifteen words were written on the back of a copying list by a woman of twenty-four and they are the next problem in this city. A girl of seventeen is on a page with a date on it for the first time in this volume and a notary of fifty has told her she is probably safe and has entered that she does not know. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence twenty-three days old and is given nothing by it. He performed no working today. The black line in his right palm is seventy-two days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the column and it is not filled. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the fourteenth time. March is twelve days off, the season of a field four miles down the Reach road is still unpaid, and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.**
+Nothing was gained. A field was refused in under a second and the refusal is the fourth interesting half in seventy-three days and it is not the interesting half. A mechanism was identified a second time in a better coat by a clerk who had four years in a building to be able to say it about his own office. Fifteen words were written on the back of a copying list by a woman of twenty-four and they are the next problem in this city. A girl of seventeen is on a page with a date on it for the first time in this volume and a notary of fifty has told her she is probably safe and has entered that she does not know. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence twenty-three days old and is given nothing by it. He performed no working today. The black line in his right palm is seventy-two days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the column and it is not filled. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the fourteenth time. March is twelve days off, the season of a field four miles down the Reach road is still unpaid, and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.

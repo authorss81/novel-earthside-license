@@ -2,11 +2,11 @@
 
 On the forty-seventh day of the new month, which was the seventy-second day of the flood and a Wednesday, three days before a review, a man from another world went into four kitchens, a market, a boat-yard at Long Water and a converted salt store, and asked nine people the same question in nine different rooms, and got nine answers, and every one of the nine was true, and none of the nine was the answer.
 
-**The answer was not found. The not-finding is entered, in nine lines, in the hand of a girl of seventeen, in a column four lines high, and the width of that column is entered as a fact for the ninth time in this year.**
+The answer was not found. The not-finding is entered, in nine lines, in the hand of a girl of seventeen, in a column four lines high, and the width of that column is entered as a fact for the ninth time in this year.
 
 ---
 
-**He started at about the fifth hour of the morning in a kitchen with a blue door in Silt Row, because the keeper of that kitchen has not spent a coin in nine years and had told him a thing about her mother in seventy-one words and he had not earned the right to ask her anything and asked her anyway, and she let him.**
+He started at about the fifth hour of the morning in a kitchen with a blue door in Silt Row, because the keeper of that kitchen has not spent a coin in nine years and had told him a thing about her mother in seventy-one words and he had not earned the right to ask her anything and asked her anyway, and she let him.
 
 Orla Specht, sixty-one, had been in four rooms between the forty-third and the forty-sixth day of the new month and had written out a second page nine times in her own hand, and could not read a word of it, and Adrian Vale had spent two days being quietly furious about a different thing and had come to her kitchen to be told something.
 
@@ -24,7 +24,7 @@ Orla Specht, sixty-one, had been in four rooms between the forty-third and the f
 
 ---
 
-**Nine rooms, and the nine answers, and the shape they make.**
+Nine rooms, and the nine answers, and the shape they make.
 
 He wrote them on nine separate pieces of paper because the girl of seventeen asked him to, and then kept them apart, and the page in the book reads:
 
@@ -48,7 +48,7 @@ He wrote them on nine separate pieces of paper because the girl of seventeen ask
 
 ---
 
-**And the shape of the nine answers is the finding of the forty-seventh day of the new month, and it took about nine minutes, and it is a girl's, and she is seventeen.**
+And the shape of the nine answers is the finding of the forty-seventh day of the new month, and it took about nine minutes, and it is a girl's, and she is seventeen.
 
 She did it in a yard, on a slate, in chalk, with the slate held flat on an upturned pail because the wind was coming off the river, and she did it in about nine minutes and then she asked the room a question, and the question is the whole of the chapter.
 
@@ -60,7 +60,7 @@ She did it in a yard, on a slate, in chalk, with the slate held flat on an uptur
 
 Nobody said anything for about nine seconds. There are about two hundred and forty people in this city who cannot read the local language and about nine hundred who can, and the finding was made on a slate in chalk on a pail by a girl who is on no roll at all and is seventeen, and it went into the book in her own words and in a column four lines high, and the width of that column is a fact.
 
-**She said it again, slower, because about nine people had not followed it the first time and she is seventeen and she had not been asked to explain anything in her life:**
+She said it again, slower, because about nine people had not followed it the first time and she is seventeen and she had not been asked to explain anything in her life:
 
 "**A word is a thing. A heading is a place a thing can be found in.** And this question is not asking us what to call the people the door costs. **It is asking us what to write at the top of the column they go in.**
 
@@ -80,7 +80,7 @@ A man of about forty-four who keeps a stall said a heading, and he said it befor
 
 ---
 
-**The shape of the answer, and not the answer, is in this city already. It is in a document this city wrote on the forty-first day of the new month, in four lines, in a keeper's hand, and it is on a slate on the nail under the chapel arch, and about two hundred and forty people have walked past it nine times a day for three days.**
+The shape of the answer, and not the answer, is in this city already. It is in a document this city wrote on the forty-first day of the new month, in four lines, in a keeper's hand, and it is on a slate on the nail under the chapel arch, and about two hundred and forty people have walked past it nine times a day for three days.
 
 Nineteen lines went on that slate on the forty-first day of the new month at about the eighth hour of the evening, and Nyla Ferrow read the nineteenth one out and then read the eleventh one out, and the eleventh was the one that did the work. They are the nineteen lines of what a person in this city may be asked to turn up for, written by a woman of thirty-four with a bar in about eleven minutes, and a widening and not a rota, and the seventeenth of them is a person's answer going nowhere.
 
@@ -102,7 +102,7 @@ A mason of fifty read it again in a yard in the wrong weather.
 
 ---
 
-**Nobody in that city could put the two together, and that is the honest end of the forty-seventh day of the new month, and it is entered, and it is nine lines long.**
+Nobody in that city could put the two together, and that is the honest end of the forty-seventh day of the new month, and it is entered, and it is nine lines long.
 
 Adrian Vale stood in the yard and said the true thing out loud, because it was the third day out of three and he had promised himself on a stair that he would say the true thing by Saturday, and about nine people heard him and two hundred and thirty were not in the room.
 
@@ -122,7 +122,7 @@ Nadia Brandt, twenty-nine, who worked out a whole case with nothing in it in abo
 
 ---
 
-**At about the seventh hour of the evening, in a yard under the lock chapel, in about two hundred and forty people, a woman of fifty-eight who cannot read was asked what she thought the answer was.**
+At about the seventh hour of the evening, in a yard under the lock chapel, in about two hundred and forty people, a woman of fifty-eight who cannot read was asked what she thought the answer was.
 
 She had been asked nine times in seventy-two days and had answered five times and owes nothing and was going to be asked again. She said she would answer this one and she said it before anybody had put the question to her, which is a thing she has done twice in seventy-two days and both times it was on a slate.
 
@@ -160,4 +160,4 @@ Then she said the other half, and it is thirty-one words and it is in the book:
 
 ---
 
-**Nothing was gained. Nine answers in nine rooms, nine of them true, and none of them the answer. The shape of the answer is in four lines on a slate on a nail and about two hundred and forty people have walked past it nine times a day for three days. The not-finding is entered in nine lines. Four words are on the front of a slate and the question they answer is on the back of it and the two are three days apart and about nine feet of weather apart and nobody has turned it over. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence twenty-two days old and is given nothing by it. He performed no working today. The black line in his right palm is seventy-one days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and there is one ruled line left in the column and it is not filled and it is not going to be filled. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue will go or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the thirteenth time. March is thirteen days off, and the season of a field four miles down the Reach road is still unpaid, and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.**
+Nothing was gained. Nine answers in nine rooms, nine of them true, and none of them the answer. The shape of the answer is in four lines on a slate on a nail and about two hundred and forty people have walked past it nine times a day for three days. The not-finding is entered in nine lines. Four words are on the front of a slate and the question they answer is on the back of it and the two are three days apart and about nine feet of weather apart and nobody has turned it over. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence twenty-two days old and is given nothing by it. He performed no working today. The black line in his right palm is seventy-one days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and there is one ruled line left in the column and it is not filled and it is not going to be filled. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue will go or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why. Nine Elms' water is not received. The fee of eleven ounces of silver is entered as owing with no date for the thirteenth time. March is thirteen days off, and the season of a field four miles down the Reach road is still unpaid, and the whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything.

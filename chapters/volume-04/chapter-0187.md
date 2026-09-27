@@ -18,11 +18,11 @@ The field is not a light. It is in front of him and it is not in front of anybod
 
 "No," he said.
 
-**And the count is ninety-five this morning and it was ninety-five yesterday, and there have been thirty-four things the wall has said in this city and four of them have been refused out loud, and a man of about thirty-two has refused two of them in nine days and the fourth refusal cost somebody something specific and is on this page, and the count does not move today and nobody in four hundred miles is going to be able to say that the fifth refusal did not count because the day was hard.**
+And the count is ninety-five this morning and it was ninety-five yesterday, and there have been thirty-four things the wall has said in this city and four of them have been refused out loud, and a man of about thirty-two has refused two of them in nine days and the fourth refusal cost somebody something specific and is on this page, and the count does not move today and nobody in four hundred miles is going to be able to say that the fifth refusal did not count because the day was hard.
 
 ---
 
-**The cost was named before anything else was said, by the woman of about thirty-four who keeps a stall by the wharf, and she has been on nothing for a hundred and ninety-one days and she said so first, and it is hers and it is the fourth time in this city and it is not going to be improved on by anybody including her.**
+The cost was named before anything else was said, by the woman of about thirty-four who keeps a stall by the wharf, and she has been on nothing for a hundred and ninety-one days and she said so first, and it is hers and it is the fourth time in this city and it is not going to be improved on by anybody including her.
 
 "**It costs the name. It costs the name you did not choose.**"
 
@@ -42,7 +42,7 @@ The field is not a light. It is in front of him and it is not in front of anybod
 
 ---
 
-**And then the rest of the day takes eleven hours, and what is in it is not a gain, and a woman of about twenty-four entered that in her own words and would not be asked for it twice.**
+And then the rest of the day takes eleven hours, and what is in it is not a gain, and a woman of about twenty-four entered that in her own words and would not be asked for it twice.
 
 It did not give a date. It did not give a room. It did not name a person. It did not say what happens if a household says no. It did not say what a gate is. **It said nine sentences in four lines that this city had worked out for itself in about nine days and it said them in the plainest language anybody has used in this world, and it put two of them in one field, and it did not do a single thing that a person in that room had to do.**
 
@@ -56,7 +56,7 @@ It did not give a date. It did not give a room. It did not name a person. It did
 
 ---
 
-**And a girl of seventeen who is on no roll of anything was in the hall and did not come up, and she was in the hall because she wanted to be in the room when it was said and not in the room when it was written down, and about four people in that hall have said that this is the third time and that on the eighteenth day of the Long Month she said it in her own words and that nobody has improved on it and that she has not either.**
+And a girl of seventeen who is on no roll of anything was in the hall and did not come up, and she was in the hall because she wanted to be in the room when it was said and not in the room when it was written down, and about four people in that hall have said that this is the third time and that on the eighteenth day of the Long Month she said it in her own words and that nobody has improved on it and that she has not either.
 
 Somebody in the hall asked her what she thought it meant.
 
@@ -64,7 +64,7 @@ Somebody in the hall asked her what she thought it meant.
 
 ---
 
-**And at about the third hour of the afternoon a man of about thirty-four who keeps a stall found a man of about thirty-two in a gateway with a slate and no writing on it, and asked him what he was going to do with the four days a man of forty-two gave him on the Sunday, and got an answer that is in a book in this city in his own hand with the date on it.**
+And at about the third hour of the afternoon a man of about thirty-four who keeps a stall found a man of about thirty-two in a gateway with a slate and no writing on it, and asked him what he was going to do with the four days a man of forty-two gave him on the Sunday, and got an answer that is in a book in this city in his own hand with the date on it.
 
 "**Three of the four are gone and I have the Sunday in four days and I have got nothing in my hand.**"
 
@@ -80,7 +80,7 @@ Somebody in the hall asked her what she thought it meant.
 
 "**I do not know. And I have asked one person one question properly twice in a hundred and ninety-one days and both times it was to a person, and on Sunday it is going to have to go to a body, and a body is not a person and a body floats and it has to be poled to where the people are, and I have been told by about four people this week that a body that can be sent anywhere is a body that turns into a post.**"
 
-**And the man of about thirty-four who keeps a stall said the thing that about four people in this city have said is the last useful sentence anybody said on the thirty-sixth day of the Long Month, and it is nine words, and it is about himself and he did not improve on it.**
+And the man of about thirty-four who keeps a stall said the thing that about four people in this city have said is the last useful sentence anybody said on the thirty-sixth day of the Long Month, and it is nine words, and it is about himself and he did not improve on it.
 
 "**Then write it and do not read it out.**"
 
@@ -88,7 +88,7 @@ Somebody in the hall asked her what she thought it meant.
 
 ---
 
-**And at about the fourth hour of the afternoon the count was said out loud in that room for the fourth time in about nine days, and it is ninety-five, and a man of about thirty-nine who trades on the Open Hand board asked a question nobody had asked.**
+And at about the fourth hour of the afternoon the count was said out loud in that room for the fourth time in about nine days, and it is ninety-five, and a man of about thirty-nine who trades on the Open Hand board asked a question nobody had asked.
 
 "**Does it know the count.**"
 
@@ -100,8 +100,8 @@ Somebody in the hall asked her what she thought it meant.
 
 "**I do not know. And I have been refused by name four times in four years and I have stood on a quay for four days in case anything came and what came was salt, and I have spent a hundred and ninety-one days deciding that a thing I cannot check is not a thing I should be afraid of, and I am afraid of that, and I am going to say so in five words and then I am going to go and stand on a road.**"
 
-**And he said five words and they were: *I cannot check that either.***
+And he said five words and they were: *I cannot check that either.*
 
 ---
 
-**Ninety-five on a slate under a girl's arm, and it did not go in one today, and there are four days between here and the Sunday a raft has to be poled on.**
+Ninety-five on a slate under a girl's arm, and it did not go in one today, and there are four days between here and the Sunday a raft has to be poled on.

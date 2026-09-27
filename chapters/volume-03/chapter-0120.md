@@ -2,11 +2,11 @@
 
 On the thirtieth day of the month after this one, which was the hundred and twentieth day of the flood and a Tuesday, about nine people sat in a room over a market and entered that a field of ninety-one acres out of a hundred and forty has been settled in a second time, that the first was on the first of March at a gateway in daylight by the person the field is on, that this one was in a room, off a board, by a rule, by nobody, that nobody was asked either time, and what the second one cost, and that a hearing is in thirty-four days and there is one hearing and one clock, and that about nine people are going to be asked to be in a room nine hundred miles away and there is no road in this world that reaches it.
 
-**The licence is seventy days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is thirty-five days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-first time. The black line in his right palm is one hundred and nineteen days old and has not moved one sixteenth of an inch.**
+The licence is seventy days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is thirty-five days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-first time. The black line in his right palm is one hundred and nineteen days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the season was settled in at about the fourth hour of the afternoon for the second time in thirty-five days, by a man of about forty-four who keeps a stall, who read the bottom of a board out loud, stopped, and then said the sentence that is now the entry, and the person the field is on was standing in the room the whole time and nobody asked her anything and she did not say anything. It was settled in the first time at a gateway four miles down the Reach road on the first of March at about the eighth hour of the morning, in daylight, in the local language, by the woman it is on, and a number was said once and then not said again, and about four people in that room had been in one or the other of the two and nobody said which.**
+And the season was settled in at about the fourth hour of the afternoon for the second time in thirty-five days, by a man of about forty-four who keeps a stall, who read the bottom of a board out loud, stopped, and then said the sentence that is now the entry, and the person the field is on was standing in the room the whole time and nobody asked her anything and she did not say anything. It was settled in the first time at a gateway four miles down the Reach road on the first of March at about the eighth hour of the morning, in daylight, in the local language, by the woman it is on, and a number was said once and then not said again, and about four people in that room had been in one or the other of the two and nobody said which.
 
 The board is the one by the near gate. There are eleven entries in the column and a date and a hand against every one of them, and there is no figure on the end of any of the eleven, and below the eleventh there is a ruled line and the rule is ruled and it has been empty since the first of March.
 
@@ -26,7 +26,7 @@ The board is the one by the near gate. There are eleven entries in the column an
 
 ---
 
-**And a woman of forty-four of Corrow, who reads the edge of a join and who came four miles on the fifteenth day of the month after this one and asked to be left alone and was left alone for four hours, said the number, and it is five words, and a girl of seventeen counted it, and the room did not check her count.**
+And a woman of forty-four of Corrow, who reads the edge of a join and who came four miles on the fifteenth day of the month after this one and asked to be left alone and was left alone for four hours, said the number, and it is five words, and a girl of seventeen counted it, and the room did not check her count.
 
 "**A figure and a decision.**"
 
@@ -44,7 +44,7 @@ And it is entered that the woman of forty-four of Corrow heard that, and that sh
 
 ---
 
-**And at about the seventh hour of the evening a notary of fifty said the thing that has been standing in a book since the twenty-sixth day of the month after this one, and it is in her own words and nobody improved on it, and she has been asked about it four times in four days and has answered none of the four.**
+And at about the seventh hour of the evening a notary of fifty said the thing that has been standing in a book since the twenty-sixth day of the month after this one, and it is in her own words and nobody improved on it, and she has been asked about it four times in four days and has answered none of the four.
 
 "I entered on the twenty-sixth day of the month after this one that I would like to be asked before it is opened," she said, "**in a room, in daylight, with a date on it, by a person, and the reason is that I have been the notary of about nine hundred things and about nine hundred of them were somebody else's sentence. I have been asked about it four times in four days by four different people and a girl of seventeen wrote the four times down and I have not answered any of them.**"
 
@@ -56,7 +56,7 @@ Nobody asked her to be. **And a woman of about thirty-four who keeps a stall by 
 
 ---
 
-**And about nine people sat in that room on the thirtieth day of the month after this one and went through what there was, out loud, because that is what they do, and it is on the page, and none of it goes anywhere.**
+And about nine people sat in that room on the thirtieth day of the month after this one and went through what there was, out loud, because that is what they do, and it is on the page, and none of it goes anywhere.
 
 The hearing is in thirty-four days. There is one hearing and one clock, and it was given by that office as about eleven weeks on the fifty-second day of the new month, which was the seventy-seventh day of the flood, and eleven weeks is seventy-seven days, and the two figures agree exactly. **About nine people have said out loud that they will stand in it. The number nine is entered on a page with a date on it and no person at the top of it, and it is a count and not a list, and there are no names on it anywhere in this city, and about four people have asked for names and have not been given them and a girl of seventeen said no to the first of the four in under a second and to the other three more slowly.**
 
@@ -80,8 +80,8 @@ The main breach is closed, dressed, measured and silent and has never said a wor
 
 **There have been thirty things the wall has said in this city and one of them has been refused, and the refusals in a clerk of the Registry's second book, which is kept at home and has never been shown to anybody, are twenty-three and did not move in these ten days, and the count at Aurel is thirteen, and the difference is ten, and it was nine before the first registered refusal, and a clerk entered on the seventeenth day of the month after this one that he could close his half of that difference alone tonight and did not.** And the thirtieth day of the month after this one is the twenty-eighth silence and the pattern is twenty-eight for twenty-eight, counted silences and not days, and the wall spoke once in these ten days and a person answered it in about four seconds and it was not refused.
 
-**And a man of forty-one in a very good coat is in a room in about eleven weeks, and he has not been convicted of anything, and he is not going to be, and he has said on the page twice that he is not going to explain either of the two names anybody in this city has, and he has not mentioned a letter.**
+And a man of forty-one in a very good coat is in a room in about eleven weeks, and he has not been convicted of anything, and he is not going to be, and he has said on the page twice that he is not going to explain either of the two names anybody in this city has, and he has not mentioned a letter.
 
 ---
 
-**And about nine people went to sleep in four buildings in this city on the thirtieth day of the month after this one, and the first of the nine to go was a boy of nine who left a slate face down on a bench in a room over a market, and there is nothing on the other side of that one and there has not been since the twenty-eighth day of the month after this one, and the six words are on the back of another of his three and are not the twenty-eight, and nobody turned either of them over, and the case is upstairs in a room with a door, and the strap on it is still untied, and there is a hearing in thirty-four days, and there is one hearing and one clock, and the number nine is on a page with nobody at the top of it.**
+And about nine people went to sleep in four buildings in this city on the thirtieth day of the month after this one, and the first of the nine to go was a boy of nine who left a slate face down on a bench in a room over a market, and there is nothing on the other side of that one and there has not been since the twenty-eighth day of the month after this one, and the six words are on the back of another of his three and are not the twenty-eight, and nobody turned either of them over, and the case is upstairs in a room with a door, and the strap on it is still untied, and there is a hearing in thirty-four days, and there is one hearing and one clock, and the number nine is on a page with nobody at the top of it.

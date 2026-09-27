@@ -4,7 +4,7 @@ On the twenty-sixth day of the new month, which was the fifty-first day of the f
 
 ---
 
-**He started at the sixth hour in the morning in a room over a chandlery on the upper road, because a girl of sixteen asked him at the fifth hour of the evening on the fiftieth day and he had not slept, and because the second list of eleven had been told on the fiftieth that anybody in the room above the market could put a name forward, and had not been asked whether any of them wanted to.**
+He started at the sixth hour in the morning in a room over a chandlery on the upper road, because a girl of sixteen asked him at the fifth hour of the evening on the fiftieth day and he had not slept, and because the second list of eleven had been told on the fiftieth that anybody in the room above the market could put a name forward, and had not been asked whether any of them wanted to.
 
 The room was three rooms and a drying loft over a rope store, dry, with a list of what is owed for it on the wall and a key and nothing else. Eleven people live in it. There are eleven names on the list and the list has been on the wall for thirty-one days and the handwriting on it is the girl of seventeen's and she has not been asked to keep it either.
 
@@ -20,7 +20,7 @@ He looked at it for a while.
 
 ---
 
-**The first person to ask him that day was a man of twenty-four called Sam Iyer, and he was the ninth person in this city to ask it, and he came at about the fourth hour of the morning, which is two hours before the girl of sixteen. He had come out of a chapel floor four feet beyond a threshold slab at eleven minutes past the eleventh hour of the twenty-fifth day of this flood with somebody's blood on his sleeve, and he had spent twenty-six days being cheerful about it on purpose, and he stopped being cheerful at about the fourth hour of the morning of the twenty-sixth day of the new month and did not start again.**
+The first person to ask him that day was a man of twenty-four called Sam Iyer, and he was the ninth person in this city to ask it, and he came at about the fourth hour of the morning, which is two hours before the girl of sixteen. He had come out of a chapel floor four feet beyond a threshold slab at eleven minutes past the eleventh hour of the twenty-fifth day of this flood with somebody's blood on his sleeve, and he had spent twenty-six days being cheerful about it on purpose, and he stopped being cheerful at about the fourth hour of the morning of the twenty-sixth day of the new month and did not start again.
 
 He asked it in the market, in the open, standing up, with a barrow behind him.
 
@@ -42,7 +42,7 @@ And the docker of fifty-eight, who has not been paid in six weeks and who cannot
 
 ---
 
-**The one who asked him the question that was actually a different question was a woman of thirty-eight whose surname does not fit a column, and she has been entered in full across two lines of a narrow column twice, and the width of the column is entered as a fact, and she is Odile Ferrand of the second list, and she came to the loft at about the ninth hour of the morning on the twenty-sixth day of the new month and shut the door, which is the first time anybody in that room has shut the door.**
+The one who asked him the question that was actually a different question was a woman of thirty-eight whose surname does not fit a column, and she has been entered in full across two lines of a narrow column twice, and the width of the column is entered as a fact, and she is Odile Ferrand of the second list, and she came to the loft at about the ninth hour of the morning on the twenty-sixth day of the new month and shut the door, which is the first time anybody in that room has shut the door.
 
 "You are not going to tell me there is a plan," she said.
 
@@ -66,7 +66,7 @@ And Adrian Vale wrote that down, in his own hand, in a notebook, at about the ni
 
 ---
 
-**And the reason was read out loud in a converted salt store at about the eleventh hour of the morning, and the clause that does the work in it is nine words, and it is the second paragraph of page two of the licence, and it has been there since the twenty-fifth day of the new month, and about two hundred and forty people had signed it without reading that paragraph, and a woman of fifty who has been a notary for twenty-six years said so.**
+And the reason was read out loud in a converted salt store at about the eleventh hour of the morning, and the clause that does the work in it is nine words, and it is the second paragraph of page two of the licence, and it has been there since the twenty-fifth day of the new month, and about two hundred and forty people had signed it without reading that paragraph, and a woman of fifty who has been a notary for twenty-six years said so.
 
 Sera Vail read it. She did not read it from the licence, because the licence is on a wall and anybody may read it, and she read it off her own copy, and she said the nine words first and then the rest of the paragraph, and then she stopped and waited for the room.
 
@@ -84,7 +84,7 @@ Then she said: "**Nineteen people signed this. I have the signatures. I did not 
 
 ---
 
-**And the eleven were asked, one at a time, with the door shut, from about the first hour of the afternoon to about the sixth hour of the evening of the twenty-sixth day of the new month, and the girl of seventeen took the answers down in a narrow column, and the widths of the column are entered as a fact for the second time in the same year, and the answers are entered as what each person said and not as what they wanted.**
+And the eleven were asked, one at a time, with the door shut, from about the first hour of the afternoon to about the sixth hour of the evening of the twenty-sixth day of the new month, and the girl of seventeen took the answers down in a narrow column, and the widths of the column are entered as a fact for the second time in the same year, and the answers are entered as what each person said and not as what they wanted.
 
 Eight of the eleven said the same thing. Not in the same words — the widest difference between two of those eight answers was nine words — and the girl of seventeen has entered that the eight are entered as eight and not as one, because a thing eight people said is not a thing one person said, and the widest difference between two of them is in the book.
 
@@ -108,7 +108,7 @@ And the girl of seventeen wrote that down, and read it back to him, and asked hi
 
 ---
 
-**And the first request for an opening was entered as a request at about the seventh hour of the evening of the twenty-sixth day of the new month, in the yard under the lock chapel, and it has a name on it and a date on it and a person who asked on it, and the answer on it is a reason and not a refusal of the person, and the girl of seventeen took it down and the width of the column is entered as a fact for the second time in one day.**
+And the first request for an opening was entered as a request at about the seventh hour of the evening of the twenty-sixth day of the new month, in the yard under the lock chapel, and it has a name on it and a date on it and a person who asked on it, and the answer on it is a reason and not a refusal of the person, and the girl of seventeen took it down and the width of the column is entered as a fact for the second time in one day.
 
 It is four lines long. It says a person named Bern Zolt, of the second list, of no address in this world, asks that the route be opened for him once, toward the place he was born in. It says he is not asking anybody to come with him and is not asking for anybody's mark. It says the answer is that a controlled opening requires a receiving community that understands the purpose, and that **there is none, and that this instrument cannot make one, and that the reason is on page two and has been since the twenty-fifth day of the new month.**
 
@@ -130,7 +130,7 @@ Wenna Cray, forty-one, of Silt Row, stood up in about two hundred and forty peop
 
 ---
 
-**And the letter came up at about the sixth hour of the evening, and it came up because a woman who is a channel and not a person said so, and about forty people were in the loft, and the sentence took about nine seconds and it is in the book in her own words.**
+And the letter came up at about the sixth hour of the evening, and it came up because a woman who is a channel and not a person said so, and about forty people were in the loft, and the sentence took about nine seconds and it is in the book in her own words.
 
 Peth Lammay, twenty-four, licensed carrier of the Crown's second-table mail, eleven years in it, living over a boat-yard at Long Water, has carried documents into places that have no Crown documents and has never once been asked what happens when the answer on the fourth page is no. She was in the loft because the second list's page is going into a case in a wooden box and she carries the box when it goes.
 
@@ -154,7 +154,7 @@ And Adrian Vale said: "Enter that I was asked as well and that I have known abou
 
 ---
 
-**And then the date came off the nail, and it was read out, and a question was asked in about two hundred and forty people that nobody had thought to ask in fifty-one days, and the answer was worse than anybody expected and the notary entered it and did not editorialise, which is her office and which she has done every day for fifty-one days.**
+And then the date came off the nail, and it was read out, and a question was asked in about two hundred and forty people that nobody had thought to ask in fifty-one days, and the answer was worse than anybody expected and the notary entered it and did not editorialise, which is her office and which she has done every day for fifty-one days.
 
 The slate is on a nail inside the arch of the lock chapel, under the eave where the rain runs. It has **four** items on it, in a keeper's words, entered by a girl of seventeen with a word *form* written next to a name: a line of salt in a cut in the boarding, changed by whoever is nearest; four chalk depths taken with a straight edge and never wiped; four people twice a day with no list and no name at the top of anything; and a slate any passer-by can read. **And the price of the salt is written under the four items, and not as a fifth of them, and the price is a double handful twice a day, and the reason it is under and not on the slate is in the fourth item in a keeper's words: in nine months somebody will ask what a form costs, and a form with no price on it is a favour, and a favour is a thing that stops.** And at the bottom of it, added on the forty-ninth day, a fifth item, and then a date, in a second hand.
 
@@ -182,7 +182,7 @@ And nobody in that yard found it funny, and about nine people understood all of 
 
 ---
 
-**The dressed join in the gate of the Lock of Salt is eight and seven-eighths of an inch and it is dressed to a line and it does not narrow; it gets dressed. It has never said a word. It said nothing on the twenty-third day of this flood, nothing on the forty-ninth, nothing on the fiftieth, and nothing on the twenty-sixth day of the new month at any hour, and the black line in the chapel threshold stone, which said twelve words of English to a man from another world on the twenty-fifth day of this flood and has not said anything since, is not repaired.**
+The dressed join in the gate of the Lock of Salt is eight and seven-eighths of an inch and it is dressed to a line and it does not narrow; it gets dressed. It has never said a word. It said nothing on the twenty-third day of this flood, nothing on the forty-ninth, nothing on the fiftieth, and nothing on the twenty-sixth day of the new month at any hour, and the black line in the chapel threshold stone, which said twelve words of English to a man from another world on the twenty-fifth day of this flood and has not said anything since, is not repaired.
 
 The ground under the lock chapel is a black mark in a place and the boards over it have not been lifted since the fortieth day of this flood. Nobody can say where a working's residue goes, and the form on the nail says so, in the fourth item, in a keeper's words, and the price of the salt is written under the four items, and the salt went up a third yesterday and that is tomorrow's problem and not tonight's.
 

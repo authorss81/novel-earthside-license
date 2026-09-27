@@ -12,7 +12,7 @@ He had been on the road since the fourth hour of the morning and before that on 
 
 ---
 
-**The sheet is one page and it is printed, and about nine people read it in a room in daylight, and it has a date on it and a figure at the bottom of every line and a hand at the end of every figure, and it is the first page anybody in this city has been handed by a person who came nine miles in the rain to hand it over.**
+The sheet is one page and it is printed, and about nine people read it in a room in daylight, and it has a date on it and a figure at the bottom of every line and a hand at the end of every figure, and it is the first page anybody in this city has been handed by a person who came nine miles in the rain to hand it over.
 
 > **THE WHITE LEDGER, UPPER ROAD. The sixty-fifth day of the month after this one.**
 >
@@ -24,7 +24,7 @@ He had been on the road since the fourth hour of the morning and before that on 
 >
 > **Ground: one hundred and forty acres of the low ground at the bottom end of a long channel, taken in the seventh week of this flood. We did not ask. We are saying so in front of nine people on a Tuesday and we are not going to pretend it is a lease.**
 
-**And the name of the ground is on the sheet, in the fourth line, printed, and it is a name this city has never had in a room, and about four people in that room could not say afterwards whether they had heard it before.**
+And the name of the ground is on the sheet, in the fourth line, printed, and it is a name this city has never had in a room, and about four people in that room could not say afterwards whether they had heard it before.
 
 "I can," said the woman of about thirty-four who keeps a stall by the wharf. "**I can say I heard it, and I heard it about a quarter of an hour ago, off a piece of paper, standing on a step, and that is all I have got.**"
 
@@ -36,7 +36,7 @@ He had been on the road since the fourth hour of the morning and before that on 
 
 ---
 
-**And the thing that a room could not get past was not the ground and not the wage. It was the fourth line of the sheet, and it took the rest of the afternoon.**
+And the thing that a room could not get past was not the ground and not the wage. It was the fourth line of the sheet, and it took the rest of the afternoon.
 
 "A man who takes your paper money," said a woman of twenty-four, who is the first public record in this city and is on no roll of anything, "**has been paid in something he cannot spend, cannot carry to a market nine miles away, and cannot leave this world with, and you have said so yourself, unprompted, on a printed sheet, in a room.**"
 
@@ -52,7 +52,7 @@ He had been on the road since the fourth hour of the morning and before that on 
 
 ---
 
-**And then the figures went on a board on two trestles in the hall below, for one day, and a girl of seventeen who is on no roll of anything wrote them in a narrow column in her own hand, and the shape of what she wrote was not given to her by anybody.**
+And then the figures went on a board on two trestles in the hall below, for one day, and a girl of seventeen who is on no roll of anything wrote them in a narrow column in her own hand, and the shape of what she wrote was not given to her by anybody.
 
 She put the payer's name at the top of every line.
 
@@ -70,7 +70,7 @@ Jonah Pike looked at it for a while and then he said a thing that about four peo
 
 ---
 
-**And the day went on, and about nine people were in and out of the room from the second hour of the afternoon to the ninth hour of the evening, and there was no table in it and nothing on the walls, and bread was brought and did not go on anything, and the woman of about thirty-four who keeps a stall by the wharf sat on the step at the back with the printed sheet in her lap the whole time and did not let go of it, and at about the fifth hour somebody came up the hill who was not expected, and it was a man of about thirty-nine who trades on the Open Hand board, and he was let in and stood against the shutter with his hat in his hands.**
+And the day went on, and about nine people were in and out of the room from the second hour of the afternoon to the ninth hour of the evening, and there was no table in it and nothing on the walls, and bread was brought and did not go on anything, and the woman of about thirty-four who keeps a stall by the wharf sat on the step at the back with the printed sheet in her lap the whole time and did not let go of it, and at about the fifth hour somebody came up the hill who was not expected, and it was a man of about thirty-nine who trades on the Open Hand board, and he was let in and stood against the shutter with his hat in his hands.
 
 Nobody asked what the settlement wanted. It came out in pieces over five hours, the way water comes out of a crack, and nobody arranged it and nobody improved on it. **The queue is a queue and it works and it works on a Tuesday. There is water in it. There is a dry place to sit that is not a bed and a bed that is not a favour. The rota is a rota and it is copied by hand. The salt on the drying line is not theirs. And the money is salt, except that nobody in that room had worked out where the salt goes until a man of about thirty-four asked, twice.**
 
@@ -84,17 +84,17 @@ Nobody asked what the settlement wanted. It came out in pieces over five hours, 
 
 ---
 
-**And at about the ninth hour of the evening, in front of about nine people, with the trestle board still standing in the hall and the bread gone and the light off the west shutter, a man of forty-two answered the ninth sentence.**
+And at about the ninth hour of the evening, in front of about nine people, with the trestle board still standing in the hall and the bread gone and the light off the west shutter, a man of forty-two answered the ninth sentence.
 
 Nobody had asked him to. A girl of seventeen had it written out on her own slate in her own hand because she had been in the yard when it was said, and she read the date of it out before she read the sentence, and the date is the thirty-fourth day of the new month and it is the fifty-ninth day of the flood and it is a Thursday, and it is seventy-eight words long and it is the longest single thing anybody has said in a yard in this city.
 
-**It is about the seventeen. It is this, and it is in a girl's hand and she is reading it off her own slate and not off a page: *you have spent fifty-nine days making sure that not one of them has a job; the page listing what they may not have is the longest page in this city and you wrote it yourself; there is not one thing in it they may do; and in March, when the money ran out and there has not been any since, one of them is going to be a person with no work in a city with no money.***
+It is about the seventeen. It is this, and it is in a girl's hand and she is reading it off her own slate and not off a page: *you have spent fifty-nine days making sure that not one of them has a job; the page listing what they may not have is the longest page in this city and you wrote it yourself; there is not one thing in it they may do; and in March, when the money ran out and there has not been any since, one of them is going to be a person with no work in a city with no money.*
 
 "Ninety-six days," said a woman of twenty-four.
 
 "Ninety-six days," said Jonah Pike.
 
-**And he answered it in nine sentences, and eight of them were the best arguments anybody had made in this city in a hundred and fifty-five days, and the ninth one was not an argument at all.**
+And he answered it in nine sentences, and eight of them were the best arguments anybody had made in this city in a hundred and fifty-five days, and the ninth one was not an argument at all.
 
 "**Nine. This is what I have got instead of an answer, and I am giving it to you because it is a figure and a date and a hand and not a feeling.**"
 
@@ -108,7 +108,7 @@ The hall did not make a sound.
 
 ---
 
-**A man of thirty-two stood at the back of a room with his hands behind him and did not answer it.**
+A man of thirty-two stood at the back of a room with his hands behind him and did not answer it.
 
 He did not answer it in four seconds and he did not answer it in four minutes. He looked at the trestle board in the hall, at the six lines with a figure and a hand and a date on each of them and no name on any of them and no name at the top, and then he looked at the printed sheet, which was still in the lap of a woman of about thirty-four who keeps a stall by the wharf and who had not let go of it since the second hour of the afternoon, and he said nothing at all until about a quarter past the ninth hour, when he said one thing to nobody in particular and it was not to the man of forty-two.
 
@@ -118,14 +118,14 @@ He did not answer it in four seconds and he did not answer it in four minutes. H
 
 "That is the ninth sentence answered," said a woman of twenty-four, "**and it is the first time in ninety-six days that anybody has answered it in a figure instead of a feeling, and it is not a good answer, and it is the only one anybody has, and I am entering that a man of thirty-two said nothing for five hours on the sixty-fifth day of the month after this one and that I noticed and that nobody improved on it.**"
 
-**And a man of about thirty-four who keeps a stall, who has paid one day of a wage out of a stall in this city before and who put his own name on the slate and the paid man's name off it, looked at the trestle board for a long time afterwards and did not say anything either, and the reason he did not say anything is entered by a woman of twenty-four and it is that he has been beaten at his own shape by a store and there is no column in this city for that.**
+And a man of about thirty-four who keeps a stall, who has paid one day of a wage out of a stall in this city before and who put his own name on the slate and the paid man's name off it, looked at the trestle board for a long time afterwards and did not say anything either, and the reason he did not say anything is entered by a woman of twenty-four and it is that he has been beaten at his own shape by a store and there is no column in this city for that.
 
 ---
 
-**And the woman of about thirty-four who keeps a stall by the wharf went down the hill at about the tenth hour with the printed sheet folded in four inside her coat, and a girl of seventeen on no roll went with her as far as the wharf because nobody had asked her to and she wanted to know what a sheet was worth.**
+And the woman of about thirty-four who keeps a stall by the wharf went down the hill at about the tenth hour with the printed sheet folded in four inside her coat, and a girl of seventeen on no roll went with her as far as the wharf because nobody had asked her to and she wanted to know what a sheet was worth.
 
 "It is nothing," said the woman of about thirty-four. "**A sheet is a place a person can be found in and I have been unfindable for nine years and it took a man nine miles in the rain to undo it in one Tuesday.**"
 
-**And a woman of twenty-four wrote the count of this city's silences on the board under the trestle figures, because she keeps one and nobody else in four hundred miles does, and the figure is sixty-one, which is one more than it was on the sixty-fourth day of the month after this one, and a day the wall says nothing on is a silence and a day it says something on is not one however hard the day was.**
+And a woman of twenty-four wrote the count of this city's silences on the board under the trestle figures, because she keeps one and nobody else in four hundred miles does, and the figure is sixty-one, which is one more than it was on the sixty-fourth day of the month after this one, and a day the wall says nothing on is a silence and a day it says something on is not one however hard the day was.
 
-**And a form ran out at midnight, and a woman of twenty-four has to write a date on the morrow, and there is no month left to write it in.**
+And a form ran out at midnight, and a woman of twenty-four has to write a date on the morrow, and there is no month left to write it in.

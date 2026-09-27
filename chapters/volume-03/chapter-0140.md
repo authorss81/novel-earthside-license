@@ -2,19 +2,19 @@
 
 On the fiftieth day of the month after this one, which was the hundred and fortieth day of the flood and a Monday, about nine people drafted a compact in a room over a market in daylight and did not read it out and did not sign it, and the difference between the form they drafted and a boundary page of a village of nine households a hundred and forty years old is four lines, and the four lines are the whole of what this city has learned in a hundred and forty days.
 
-**The licence is ninety days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-five days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-first time. The black line in his right palm is one hundred and thirty-nine days old and has not moved one sixteenth of an inch.**
+The licence is ninety days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-five days ago. The fee of eleven ounces of silver is entered as owing with no date for the eighty-first time. The black line in his right palm is one hundred and thirty-nine days old and has not moved one sixteenth of an inch.
 
 ---
 
 Nobody could draw it. That is the first thing on the page and it took about nine minutes.
 
-**A girl of seventeen has drawn four forms in a hundred and forty days and can read two systems of writing and is on no roll. A man of about forty-four who keeps a stall has kept a cost column in his own book for four years and will not touch it. A notary of fifty has drawn about nine hundred in twenty-six years and has said, in about four seconds, that she is not going to draw this one.**
+A girl of seventeen has drawn four forms in a hundred and forty days and can read two systems of writing and is on no roll. A man of about forty-four who keeps a stall has kept a cost column in his own book for four years and will not touch it. A notary of fifty has drawn about nine hundred in twenty-six years and has said, in about four seconds, that she is not going to draw this one.
 
 "Then who draws it," said a man of about thirty-four who keeps a stall.
 
 "**Somebody who is going to be in the room on the sixty-fourth day of the month after this one,**" said the notary, "**and it is not going to be me, and I have entered that I noticed and I am entering that it is not modesty, and I am going to go and sit at the end of the table and say nothing and if anybody asks me a question about a clause I am going to tell them what it is for and not whether it is right.**"
 
-**And a woman of twenty-four drew it, and she is on no roll of anything, and it is entered that the person who drew it in a hundred and forty days is the same person who has written down every decision this city has made since the second day of the flood, and that nobody had noticed that until the notary said it out loud.**
+And a woman of twenty-four drew it, and she is on no roll of anything, and it is entered that the person who drew it in a hundred and forty days is the same person who has written down every decision this city has made since the second day of the flood, and that nobody had noticed that until the notary said it out loud.
 
 ---
 
@@ -36,7 +36,7 @@ She drew it in about forty minutes and read it back once to herself and did not 
 
 ---
 
-**And then the room found out what it had actually made, and it took about nine minutes, and nobody improved on it, and it is the finding of the fiftieth day of the month after this one.**
+And then the room found out what it had actually made, and it took about nine minutes, and nobody improved on it, and it is the finding of the fiftieth day of the month after this one.
 
 "**That is the form,**" said a man of thirty-two, who is on no roster of anything, and who had not said anything for forty minutes. "**Not the words. The shape. A form with one place for the count and one place for the assent, and the two are not the same place, and a number went in the count place and did not go in the assent place. That is what a village of nine households was recorded by a hundred and forty years ago and I read it out in this room on the twenty-ninth day of the month after this one and turned out to be a description of a district.**"
 
@@ -50,7 +50,7 @@ She drew it in about forty minutes and read it back once to herself and did not 
 
 ---
 
-**And a notary of fifty, who had said she was going to say nothing, said one sentence, from the end of the table, and it is on the page.**
+And a notary of fifty, who had said she was going to say nothing, said one sentence, from the end of the table, and it is on the page.
 
 "**Line five is the one that matters and it is nine words long and it is a person, and the person is the reason.**"
 
@@ -60,7 +60,7 @@ Nobody said anything for about nineteen seconds, and a woman of about thirty-fou
 
 ---
 
-**And then a girl of seventeen was asked to read it out, because she is the only person in that room who can read two systems of writing and it is what she does, and a man of thirty-two said no in about four seconds, and it is the third time in a hundred and forty days he has refused a thing he is the only person in the city able to do, and nobody improved on his reason and he did not improve on it either.**
+And then a girl of seventeen was asked to read it out, because she is the only person in that room who can read two systems of writing and it is what she does, and a man of thirty-two said no in about four seconds, and it is the third time in a hundred and forty days he has refused a thing he is the only person in the city able to do, and nobody improved on his reason and he did not improve on it either.
 
 "**No.**"
 
@@ -70,11 +70,11 @@ Nobody said anything for about nineteen seconds, and a woman of about thirty-fou
 
 "**Then who reads it,**" said a man of about thirty-four who keeps a stall.
 
-"**Not tonight,**" said a man of thirty-two. "**It is a proposal and it is not a compact until about nine people have been in a room with it, and the room is the sixty-fourth day, and the reader has to be somebody who is in that room, and I am not going to be the one who chooses and neither is anybody else, and there is no line on that page that lets me choose, and I would like it noticed that there is no line on that page that lets me choose.**"
+"**Not tonight,**" said a man of thirty-two. "**It is a proposal and it is not a compact until about nine people have been in a room with it, and the room is the sixty-fourth day, and the person it is for has to be somebody who is in that room, and I am not going to be the one who chooses and neither is anybody else, and there is no line on that page that lets me choose, and I would like it noticed that there is no line on that page that lets me choose.**"
 
 ---
 
-**And a girl of seventeen said one thing about that, and it is the last thing she said on the fiftieth day of the month after this one and it is in a book in this city with a date on it, and it took her about four seconds.**
+And a girl of seventeen said one thing about that, and it is the last thing she said on the fiftieth day of the month after this one and it is in a book in this city with a date on it, and it took her about four seconds.
 
 "**Then somebody is going to have to stand up.**"
 
@@ -86,6 +86,6 @@ Nobody said anything for about nineteen seconds, and she put the slate down on t
 
 ---
 
-**And nothing else happened on the fiftieth day of the month after this one that anybody has written down, and a hearing is in fourteen days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-four days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five, and on the forty-fourth day of the month after this one she refused an answer that four people had agreed she would give. And a printed appointment of an interpreter with nine terms on it is on a table in that room and a man of thirty-two has not answered it. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water, and a receipt says received, carried, not closed, and no answer due before the quarter. And a correct number about a district is on a wall in a converted salt store and cannot be stopped by anybody in this city. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-eight days ago, and the water has not been received for seventy-one days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-five days, and one of the forty has not come for twenty-six days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-five days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Monday on which eleven lines were drawn and not read out and not signed is the forty-sixth silence and the pattern is forty-six for forty-six.**
+And nothing else happened on the fiftieth day of the month after this one that anybody has written down, and a hearing is in fourteen days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-four days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five, and on the forty-fourth day of the month after this one she refused an answer that four people had agreed she would give. And a printed appointment of an interpreter with nine terms on it is on a table in that room and a man of thirty-two has not answered it. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water, and a receipt says received, carried, not closed, and no answer due before the quarter. And a correct number about a district is on a wall in a converted salt store and cannot be stopped by anybody in this city. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-eight days ago, and the water has not been received for seventy-one days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-five days, and one of the forty has not come for twenty-six days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-five days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and forty days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Monday on which eleven lines were drawn and not read out and not signed is the forty-sixth silence and the pattern is forty-six for forty-six.
 
-**And the last thing of the fiftieth day of the month after this one is eleven lines in a woman's hand with a date on it, and the second place and the third place, and a reading that has not happened, and a hearing in fourteen days.**
+And the last thing of the fiftieth day of the month after this one is eleven lines in a woman's hand with a date on it, and the second place and the third place, and a reading that has not happened, and a hearing in fourteen days.

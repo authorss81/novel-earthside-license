@@ -6,7 +6,7 @@ The queue is a Tuesday thing and about nine of the people standing under that pa
 
 ---
 
-**And the store's queue is the ninth line of the posting and it is the last line, and the last line is in the hand of a man of about thirty-four who keeps a stall, and about four people in that yard worked out which line it was inside about four minutes and about nine did not work it out at all until a man of about thirty-one with a hand that will not close read the whole of it out loud with his finger.**
+And the store's queue is the ninth line of the posting and it is the last line, and the last line is in the hand of a man of about thirty-four who keeps a stall, and about four people in that yard worked out which line it was inside about four minutes and about nine did not work it out at all until a man of about thirty-one with a hand that will not close read the whole of it out loud with his finger.
 
 He got to the ninth line and stopped with his finger on it.
 
@@ -20,7 +20,7 @@ He got to the ninth line and stopped with his finger on it.
 
 ---
 
-**And the wage came out of the store at about the sixth hour of the morning in the ordinary course and about nine people were paid and the chest it came out of has one week left in it, and a woman of about thirty-four in that store, who is on no list in it, stood at the door of the store and read the number off the slate that hangs on the chest and said it out loud to about nine people, and about four of them did not know it and about nine of them did.**
+And the wage came out of the store at about the sixth hour of the morning in the ordinary course and about nine people were paid and the chest it came out of has one week left in it, and a woman of about thirty-four in that store, who is on no list in it, stood at the door of the store and read the number off the slate that hangs on the chest and said it out loud to about nine people, and about four of them did not know it and about nine of them did.
 
 "**One week. The last Tuesday that can come out of this chest is the fifty-sixth day of the Long Month, and I put that date on a slate on Saturday morning, three days ago, and hung it on the chest so that nobody has to ask and nobody has to be told a number they did not ask for.**"
 
@@ -30,7 +30,7 @@ He got to the ninth line and stopped with his finger on it.
 
 ---
 
-**And then a man of about thirty-four who keeps a stall said what it costs, and it took about nine minutes, and it is in a book in this city in his own words, and a woman of about twenty-four was in the yard and wrote none of it down and has not been asked to and did not offer.**
+And then a man of about thirty-four who keeps a stall said what it costs, and it took about nine minutes, and it is in a book in this city in his own words, and a woman of about twenty-four was in the yard and wrote none of it down and has not been asked to and did not offer.
 
 "**One. I put the only thing in this city that works at the bottom of a page.**"
 
@@ -50,7 +50,7 @@ Nobody in that yard said anything. The queue moved about two feet along the wall
 
 ---
 
-**And a man of forty-two stood at the back of his own queue at about the seventh hour of the morning with his hands in his pockets, and about nine people in that queue had read the posting, and about four of them had read the ninth line and worked out what it was before anybody said it, and he said the thing he has said in about nine rooms and he said it standing, and he did not put a page on anything.**
+And a man of forty-two stood at the back of his own queue at about the seventh hour of the morning with his hands in his pockets, and about nine people in that queue had read the posting, and about four of them had read the ninth line and worked out what it was before anybody said it, and he said the thing he has said in about nine rooms and he said it standing, and he did not put a page on anything.
 
 "**The wage went out at six. It does not matter what line it is on. I have got one week of it in a chest and I have got a share on the same page as about nine hundred other things and I did not write one word of the page and I would like that said in a yard at about the seventh hour of a Tuesday morning because in about four months somebody is going to say I put a queue at the bottom of a document, and I did not, and the man who did is standing about nine feet from me and he has just said seven sentences about it.**"
 
@@ -62,7 +62,7 @@ He did not ask for the posting to be changed. It is entered that he did not, and
 
 ---
 
-**And a woman of about twenty-four, who has written down every decision this city has made since the second day of this flood, stood at the sixth hour of the morning and wrote the order of that queue down on a slate in about four minutes, and then at the seventh hour she wrote it down again, and the two lists are not the same list, and she has entered that she has two.**
+And a woman of about twenty-four, who has written down every decision this city has made since the second day of this flood, stood at the sixth hour of the morning and wrote the order of that queue down on a slate in about four minutes, and then at the seventh hour she wrote it down again, and the two lists are not the same list, and she has entered that she has two.
 
 "**Thirty-eight names on the first and forty-one on the second, and eleven of the forty-one were not on the first at all, and I have not asked a single one of them a question, and I want that entered. I stood in that yard with a slate at the sixth hour and again at the seventh and I wrote down what I could see and it was not the same yard.**"
 
@@ -78,7 +78,7 @@ She put both slates in her bag and did not join them and did not read either of 
 
 ---
 
-**And a man of about thirty-four who keeps a stall said a hundred and nineteen days at about the eighth hour of the morning in that yard, in a mouth, once, and nobody improved on it and nobody joined it up to anything, and it is a different debt and it did not change this week.**
+And a man of about thirty-four who keeps a stall said a hundred and nineteen days at about the eighth hour of the morning in that yard, in a mouth, once, and nobody improved on it and nobody joined it up to anything, and it is a different debt and it did not change this week.
 
 "**A hundred and nineteen days is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and the first of March was the sixtieth day of the new month, and they are not in this yard and they are not on the ninth line and they are not on any line of that page, and I am not going to stand here and join that up to anything because joining it up to anything is the only thing anybody has done about it for a hundred and nineteen days.**"
 
@@ -88,6 +88,6 @@ She put both slates in her bag and did not join them and did not read either of 
 
 ---
 
-**And the queue went along the wall for about two hours under a page that had it ninth, and about four people in that yard read the posting and did not read the store's board, and about nine read the board and did not read the posting, and about nine people read both and one of them was a woman of about thirty-four who keeps a stall by the wharf and she said nothing at all about either of them.**
+And the queue went along the wall for about two hours under a page that had it ninth, and about four people in that yard read the posting and did not read the store's board, and about nine read the board and did not read the posting, and about nine people read both and one of them was a woman of about thirty-four who keeps a stall by the wharf and she said nothing at all about either of them.
 
-**And a slate with a date on it hung on a chest in the back of that store, and the date on it is the fifty-sixth day of the Long Month.**
+And a slate with a date on it hung on a chest in the back of that store, and the date on it is the fifty-sixth day of the Long Month.

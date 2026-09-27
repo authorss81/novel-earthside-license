@@ -6,7 +6,7 @@ A man of thirty-two and a woman of about thirty-four who keeps a stall by the wh
 
 "A water-count of about fifty said *it is*, and did not say why, and walked out onto it."
 
-**The rain had been going on since the fourth hour and it was not going to stop, and there was mud to the ankle at the bottom of the slope and about four people in that group had worked out by then that they had come eleven miles to be in a room, and this was not one.**
+The rain had been going on since the fourth hour and it was not going to stop, and there was mud to the ankle at the bottom of the slope and about four people in that group had worked out by then that they had come eleven miles to be in a room, and this was not one.
 
 ---
 
@@ -24,7 +24,7 @@ There are four channels at the junction and three of them are working and one of
 
 ---
 
-**And here is the thing about a gate that four people in this city did not know on the Friday morning, and it took a woman who counts water on the fingers of her left hand to say, and it is the whole of what the rest of this day is for.**
+And here is the thing about a gate that four people in this city did not know on the Friday morning, and it took a woman who counts water on the fingers of her left hand to say, and it is the whole of what the rest of this day is for.
 
 "**A gate is not owned and it cannot be bought and it is not a thing that sits in one place and belongs to somebody. The water goes through in the season and that is all a gate is: a place where water goes through. What a household has of a gate is the days on it. Which days of which week that household's share may be let through. And a board, and a keeping of it, and a name in a speaker's record.**"
 
@@ -38,7 +38,7 @@ There are four channels at the junction and three of them are working and one of
 
 ---
 
-**And then the naming, which is the reason eleven miles were walked, and it took four minutes and it was done in daylight at the thing itself, and it was on a board and not on a page, and about nine people were there.**
+And then the naming, which is the reason eleven miles were walked, and it took four minutes and it was done in daylight at the thing itself, and it was on a board and not on a page, and about nine people were there.
 
 > **The fourth channel of the junction at Nine Elms is the Nine Elms gate, of the Reed Reach.**
 >
@@ -56,7 +56,7 @@ The chalk went on the board at the junction at about the second hour of the afte
 
 "**Nobody has ever wanted them written down before. That is a different thing and it is not a better thing.**"
 
-**And the keeper of the Nine Elms gate was there the whole time and did not come up until she was called, and she came up with her sleeves rolled and mud to the elbow, and she is about thirty-eight and she keeps the gate and she answers with her hands before she answers with her mouth, and about four people in that group noticed the hands and about nine did not.**
+And the keeper of the Nine Elms gate was there the whole time and did not come up until she was called, and she came up with her sleeves rolled and mud to the elbow, and she is about thirty-eight and she keeps the gate and she answers with her hands before she answers with her mouth, and about four people in that group noticed the hands and about nine did not.
 
 "That is my name on your board," she said.
 
@@ -68,7 +68,7 @@ The chalk went on the board at the junction at about the second hour of the afte
 
 ---
 
-**And here is the part of the day that about four people in this city found uncomfortable and that nobody has been able to write down in a way that makes it smaller, and it is this.**
+And here is the part of the day that about four people in this city found uncomfortable and that nobody has been able to write down in a way that makes it smaller, and it is this.
 
 The Reach keeps a record of who may use a water gate. It has kept one for nine years. It is a list of persons.
 
@@ -84,7 +84,7 @@ The Reach keeps a record of who may use a water gate. It has kept one for nine y
 
 ---
 
-**And the keeper of the Nine Elms gate answered before the water-count did, and she answered with her hands first, which is a thing she does, and the hands stopped in the air about a foot above the board and came down.**
+And the keeper of the Nine Elms gate answered before the water-count did, and she answered with her hands first, which is a thing she does, and the hands stopped in the air about a foot above the board and came down.
 
 "I am not on it," she said.
 
@@ -102,13 +102,13 @@ The water-count had the chalk out. She did not write on the board. She wrote on 
 
 ---
 
-**And that was the end of the uncomfortable part, and nobody resolved it, and about four people in that group went home with it and about nine put it down as a thing about a village that has nothing to do with them, and both of those are wrong, and a woman of twenty-four entered that she thought both of those were wrong and entered it as her own opinion and not as a finding.**
+And that was the end of the uncomfortable part, and nobody resolved it, and about four people in that group went home with it and about nine put it down as a thing about a village that has nothing to do with them, and both of those are wrong, and a woman of twenty-four entered that she thought both of those were wrong and entered it as her own opinion and not as a finding.
 
-**And it is entered on the same afternoon, at the junction, by a woman of about fifty who counts water on her fingers, that about four of the nine people at that junction wanted to go down the row and ask a woman of forty-eight in a fourth house a question, and that nobody did it, and that nobody went near the fourth house, and that the reason is on a page in a stone nine miles up a road and it says that this city chose not to ask, and that the reason was written by a woman with a barrow who offered the woman whose name is on that page the only thing she had, which was that she would not take it down, and would not ask her, and would have to look at it every time she came up the road for the next forty years.**
+And it is entered on the same afternoon, at the junction, by a woman of about fifty who counts water on her fingers, that about four of the nine people at that junction wanted to go down the row and ask a woman of forty-eight in a fourth house a question, and that nobody did it, and that nobody went near the fourth house, and that the reason is on a page in a stone nine miles up a road and it says that this city chose not to ask, and that the reason was written by a woman with a barrow who offered the woman whose name is on that page the only thing she had, which was that she would not take it down, and would not ask her, and would have to look at it every time she came up the road for the next forty years.
 
 ---
 
-**And a man of thirty-two who is on no roster of anything stood at a junction for two hours and did not do one thing, and it is the second time in two days he has come a long way and left with a fact and an instrument that does not exist.**
+And a man of thirty-two who is on no roster of anything stood at a junction for two hours and did not do one thing, and it is the second time in two days he has come a long way and left with a fact and an instrument that does not exist.
 
 He did not write the name on a page. He did not ask one question. He stood on the wrong side of the bar and looked at a shut channel that has a name now and a keeper now and a day now, and there is nothing whatsoever that can be done with any of the three of them, and the fourth line of a term sheet is in force and the quarter is gone and the undertaking is void and no office has been told and the next time this city can put anything at all in front of that office is in thirty-one days.
 
@@ -116,10 +116,10 @@ He did not write the name on a page. He did not ask one question. He stood on th
 
 "**It was worth the walk,**" said a man of thirty-two, "**because when I walked out onto it this morning it was a hole with a rope on it and now it is a gate, and in about a month somebody is going to want the days on it, and if it is a hole then that is a thing they can take and if it is a gate then it is a thing a community has to be asked about. That is all I came for. I have not got the days and I cannot get the days and nobody in four hundred miles can be asked whether they are owed.**"
 
-**And the woman of about thirty-four who keeps a stall by the wharf said the last thing of the third day of the Long Month at a gate and did not raise her voice, and a water-count wrote it on the flat of her hand and it was gone in the rain in four minutes, and a man of about thirty-four who keeps a stall got it onto paper afterwards and entered that he had done it after the rain and not before.**
+And the woman of about thirty-four who keeps a stall by the wharf said the last thing of the third day of the Long Month at a gate and did not raise her voice, and a water-count wrote it on the flat of her hand and it was gone in the rain in four minutes, and a man of about thirty-four who keeps a stall got it onto paper afterwards and entered that he had done it after the rain and not before.
 
 "**Then somebody has written it down in this world, and about four of us know it, and that is two more than there were on the day before yesterday, and that is the whole of what happened today.**"
 
-**Nobody answered her, and the rain came off the chalk, and the name she had put on the board at about the second hour of the afternoon — Nerra Fenn, of this junction — went grey and then went soft and then was a smear with a hook at the end of it, and by the time about nine people had got off the slope in the dark it was not legible at all, and there is no second copy, because a board is a board and a chalk is a chalk and a keeper is a woman and a gate is a place where water goes through.**
+Nobody answered her, and the rain came off the chalk, and the name she had put on the board at about the second hour of the afternoon — Nerra Fenn, of this junction — went grey and then went soft and then was a smear with a hook at the end of it, and by the time about nine people had got off the slope in the dark it was not legible at all, and there is no second copy, because a board is a board and a chalk is a chalk and a keeper is a woman and a gate is a place where water goes through.
 
-**And the channel stayed shut.**
+And the channel stayed shut.

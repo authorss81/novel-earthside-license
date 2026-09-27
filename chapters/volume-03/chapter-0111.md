@@ -2,11 +2,11 @@
 
 On the twenty-first day of the month after this one, which was the hundred and eleventh day of the flood and a Sunday, about nine people came in through the salt gate in the wrong weather carrying a count of seven cuts that is cut into a stone nine miles up a road, and inside two hours they had worked out the one thing nobody in this city had been working out for a hundred and eleven days, which is that the only clock in this story runs the wrong way round, and that a hearing is in forty-three days, and that the last time this city can put anything at all in front of the office which is going to hold that hearing is about five weeks after the room in which it would have mattered sits down and goes home, and that not one of about nine people could think of a single thing to send, and that this is what the twenty-first day of the month after this one is for.
 
-**The licence is sixty-one days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-second time. The black line in his right palm is one hundred and ten days old and has not moved one sixteenth of an inch.**
+The licence is sixty-one days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-second time. The black line in his right palm is one hundred and ten days old and has not moved one sixteenth of an inch.
 
 ---
 
-**A count went into a stone on Saturday and came back into the room this morning as a number with nothing in it, and a number is safe, and this is the first morning in a hundred and eleven days on which a thing this city built has come back into the room where it was made, and what came back is a number, and about nine people looked at it and did not know what to do with it.**
+A count went into a stone on Saturday and came back into the room this morning as a number with nothing in it, and a number is safe, and this is the first morning in a hundred and eleven days on which a thing this city built has come back into the room where it was made, and what came back is a number, and about nine people looked at it and did not know what to do with it.
 
 The room was over a market and it is the same room, because it is the one room in this city a person can be in without being asked anything, and a woman of twenty-four said that out loud before anybody had decided to be in it.
 
@@ -20,7 +20,7 @@ Nobody said anything for about nineteen seconds. It is entered that nobody said 
 
 ---
 
-**And the arithmetic is the finding, and it went onto the back of a slate in four lines, and a girl of seventeen copied them out afterwards because she is the only person in that room who copies things, and the slate it went on is not one of the four that the nineteen shapes are in, and one of those four belongs to a docker of fifty-eight who cannot read and is not repaid and is on no roll.**
+And the arithmetic is the finding, and it went onto the back of a slate in four lines, and a girl of seventeen copied them out afterwards because she is the only person in that room who copies things, and the slate it went on is not one of the four that the nineteen shapes are in, and one of those four belongs to a docker of fifty-eight who cannot read and is not repaid and is on no roll.
 
 "There is a hearing," she said, "**in forty-three days. That office gave it as about eleven weeks on the fifty-second day of the new month, which was the seventy-seventh day of this flood, and eleven weeks is seventy-seven days, and the two numbers agree exactly, and that is the last good piece of arithmetic anybody in this city has had. Forty-three days is about six weeks. The next case goes out at the quarter. A quarter is about thirteen weeks. So the next time this city can put anything at all in front of that office is about five weeks after the hearing has finished and the room has gone home.**"
 
@@ -36,7 +36,7 @@ She put the charcoal down.
 
 ---
 
-**And then a man of thirty-two said the thing the whole morning had been standing on, and he said it in about four seconds, and about four people in that room understood it and about four did not, and it is entered afterwards which of the two groups he had been in, and it was the second.**
+And then a man of thirty-two said the thing the whole morning had been standing on, and he said it in about four seconds, and about four people in that room understood it and about four did not, and it is entered afterwards which of the two groups he had been in, and it was the second.
 
 "A hearing is a room," he said.
 
@@ -52,7 +52,7 @@ A woman of twenty-four wrote that down. **She wrote *he would rather be in the r
 
 ---
 
-**And the resistance came from a man who keeps a stall and from a woman of twenty-four at the same time, and they wanted the same thing, and the same thing was a list, and neither of them said the word list for about nine minutes.**
+And the resistance came from a man who keeps a stall and from a woman of twenty-four at the same time, and they wanted the same thing, and the same thing was a list, and neither of them said the word list for about nine minutes.
 
 "What I want," said the man with the stall, "**is to know how many of us are going to be in it. Not a list. I do not want a list. I want a number, so that when somebody in four months says that nobody from this city stood in that room, there is a number sitting there against it.**"
 
@@ -64,7 +64,7 @@ A woman of twenty-four wrote that down. **She wrote *he would rather be in the r
 
 ---
 
-**And about nine people got to a number in about nine minutes and could not get past it, and the number is nine, and four separate people said it out loud before anybody wrote it, and it is entered as a number of people and not as a plan.**
+And about nine people got to a number in about nine minutes and could not get past it, and the number is nine, and four separate people said it out loud before anybody wrote it, and it is entered as a number of people and not as a plan.
 
 "Nine," said a docker of fifty-eight who cannot read.
 
@@ -78,7 +78,7 @@ A girl of seventeen wrote *nine* in a column in a book and put no heading on it 
 
 ---
 
-**And a man of thirty-two said the half of it that nobody else had said, in about nineteen seconds, and then stood at the end of the room with his hands in the pockets of a coat he has not been able to replace since the first week and did not say anything else for two hours.**
+And a man of thirty-two said the half of it that nobody else had said, in about nineteen seconds, and then stood at the end of the room with his hands in the pockets of a coat he has not been able to replace since the first week and did not say anything else for two hours.
 
 "The two people in this room who can carry nothing are the reason," he said. "**A girl of seventeen is on no roll in this city. I am on no roster of anything in this city. Between us we have a hundred and eleven days of this city and not one of those days is a day anybody outside this room can act on, and if both of us are right then nothing happens at all, and if both of us are wrong then about nine people find out about it on the same morning in a building nine hundred miles away.**"
 
@@ -94,7 +94,7 @@ A girl of seventeen wrote *nine* in a column in a book and put no heading on it 
 
 ---
 
-**And at about the seventh hour of the evening the twenty-first day of the month after this one did what the twentieth one did, which is that four people went down two hundred steps of a river wall in the wrong weather on a rail that is condemned, because that is what they do twice a day whatever the weather is, and the twenty-fifth reading was not taken, and one ruled line in a column is still ruled and still empty, and the dressed edge is dressed and does not narrow and has never said a word.**
+And at about the seventh hour of the evening the twenty-first day of the month after this one did what the twentieth one did, which is that four people went down two hundred steps of a river wall in the wrong weather on a rail that is condemned, because that is what they do twice a day whatever the weather is, and the twenty-fifth reading was not taken, and one ruled line in a column is still ruled and still empty, and the dressed edge is dressed and does not narrow and has never said a word.
 
 "Twenty-five," said a woman of fifty-eight, who cannot read and reads the join by standing on it and knowing whether it has moved, which she has entered is not reading.
 
@@ -102,6 +102,6 @@ A girl of seventeen wrote *nine* in a column in a book and put no heading on it 
 
 "Entered," said a girl of seventeen.
 
-**And a hearing is in forty-three days, and there is one hearing and one clock, and the clock runs the wrong way round, and about nine people know it and one of them is a man of thirty-two who is on no roster of anything. And nine went in a column in a book with no heading and no date. And the undertaking is void and is on a nail and is on a river and no office has been told. And the fee of eleven ounces of silver is owing with no date for the fifty-second time. And the chair of holder of the pull is vacant and the instrument says nobody and has said nobody five times. And the ground under the chapel is a scar and the boards over it have not been lifted since the fortieth day of this flood. And the stone in the arch has said nothing in a hundred and eleven days, and there have been twenty-nine things the wall has said in this city and one of them has been refused, and a morning on which about nine people found out that they have nothing whatever to send is the twentieth silence, and the pattern is twenty for twenty.**
+And a hearing is in forty-three days, and there is one hearing and one clock, and the clock runs the wrong way round, and about nine people know it and one of them is a man of thirty-two who is on no roster of anything. And nine went in a column in a book with no heading and no date. And the undertaking is void and is on a nail and is on a river and no office has been told. And the fee of eleven ounces of silver is owing with no date for the fifty-second time. And the chair of holder of the pull is vacant and the instrument says nobody and has said nobody five times. And the ground under the chapel is a scar and the boards over it have not been lifted since the fortieth day of this flood. And the stone in the arch has said nothing in a hundred and eleven days, and there have been twenty-nine things the wall has said in this city and one of them has been refused, and a morning on which about nine people found out that they have nothing whatever to send is the twentieth silence, and the pattern is twenty for twenty.
 
-**And a boy of nine asked a question yesterday on the sixth mile of a nine-mile road, and it was six words, and it is on the back of a slate in his own hand, and a girl of seventeen read it out because he cannot be sure of the local hand, and a man of thirty-two answered it in about four seconds there and then and said four more words in the local language that nobody counted and is entered that nobody counted them, and it is the only answer anybody in this city has given out loud to a question anybody asked out loud, and it is on a boy's slate and not in any book, and nobody has improved on it, and it has not been repeated since, and nobody in about nine people this morning wanted to say it again worse than they wanted anything else.**
+And a boy of nine asked a question yesterday on the sixth mile of a nine-mile road, and it was six words, and it is on the back of a slate in his own hand, and a girl of seventeen read it out because he cannot be sure of the local hand, and a man of thirty-two answered it in about four seconds there and then and said four more words in the local language that nobody counted and is entered that nobody counted them, and it is the only answer anybody in this city has given out loud to a question anybody asked out loud, and it is on a boy's slate and not in any book, and nobody has improved on it, and it has not been repeated since, and nobody in about nine people this morning wanted to say it again worse than they wanted anything else.

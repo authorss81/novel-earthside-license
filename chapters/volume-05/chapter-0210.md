@@ -6,7 +6,7 @@ The posting has been up nine days on a wall in that yard and about four hundred 
 
 ---
 
-**And a woman of about thirty-four in that store, who is on no list in it, was standing at the door with a slate in her hand, and the slate has a date on it and the date is tomorrow, and she has been standing there since about the sixth hour and about four people have asked her what the date is and she has said it four times.**
+And a woman of about thirty-four in that store, who is on no list in it, was standing at the door with a slate in her hand, and the slate has a date on it and the date is tomorrow, and she has been standing there since about the sixth hour and about four people have asked her what the date is and she has said it four times.
 
 "**The fifty-sixth day of the Long Month. It is tomorrow and it is a Tuesday and it is the last Tuesday a wage can come out of that chest, and I put the date on a slate on Saturday morning nine days ago and hung it on the chest so that nobody had to ask and nobody had to be told a number they did not ask for, and about nine people have walked nine miles to read it in nine days and about four hundred and forty people on some flats have not heard of it and never will.**"
 
@@ -16,7 +16,7 @@ The posting has been up nine days on a wall in that yard and about four hundred 
 
 ---
 
-**And a man of about thirty-four who keeps a stall came up the road at about the seventh hour and stood in the yard and looked at the ninth line at the bottom of that page for about four minutes without saying anything, and about nine people watched him do it, and about four of them have said since that they were waiting to see whether he would take it off the wall.**
+And a man of about thirty-four who keeps a stall came up the road at about the seventh hour and stood in the yard and looked at the ninth line at the bottom of that page for about four minutes without saying anything, and about nine people watched him do it, and about four of them have said since that they were waiting to see whether he would take it off the wall.
 
 He did not take it off the wall.
 
@@ -34,7 +34,7 @@ He did not say that anybody should take it down. It is entered that he did not, 
 
 ---
 
-**And a man of about thirty-four who keeps a stall said a hundred and twenty-five days at about the eighth hour of the morning in that yard, in a mouth, once, and nobody improved on it and nobody joined it up to anything, and it is a different debt and it did not change this month.**
+And a man of about thirty-four who keeps a stall said a hundred and twenty-five days at about the eighth hour of the morning in that yard, in a mouth, once, and nobody improved on it and nobody joined it up to anything, and it is a different debt and it did not change this month.
 
 "**A hundred and twenty-five days is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid. The first of March was the sixtieth day of the new month. They are not on that page. They have not been on it since the day it went up. And tomorrow is the last Tuesday a wage can come out of that chest, and about a hundred and forty people in this yard are going to be told something about their own wages in a room, and those thirty-nine men are not in this yard and nobody is going to tell them anything, and I am not going to stand here and work out what that is because I have worked it out four times in nine days and I do not have a fifth answer.**"
 
@@ -44,7 +44,7 @@ He did not say that anybody should take it down. It is entered that he did not, 
 
 ---
 
-**And a man of about fifty-two who digs was in that yard at about the tenth hour of the morning with a rod he had not offered anybody and did not explain, and he had come down the road for something else and stayed, and a woman of about thirty-four from a fourth household on the road was with him and about four people in that yard had seen them come up together and about nine had not.**
+And a man of about fifty-two who digs was in that yard at about the tenth hour of the morning with a rod he had not offered anybody and did not explain, and he had come down the road for something else and stayed, and a woman of about thirty-four from a fourth household on the road was with him and about four people in that yard had seen them come up together and about nine had not.
 
 "**Fourteen days.**"
 
@@ -62,7 +62,7 @@ He did not say that anybody should take it down. It is entered that he did not, 
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register was in that yard for about nine minutes and said the only thing she said, and it is hers, and she has now given it in a room twice and in a yard once, and she said at the start of it that she was not going to improve on any of it.**
+And a woman of about twenty-nine who keeps a public register was in that yard for about nine minutes and said the only thing she said, and it is hers, and she has now given it in a room twice and in a yard once, and she said at the start of it that she was not going to improve on any of it.
 
 "**Four people and a question have not left for the ground people call the First Landing. Nobody has been asked whether they will go. Nobody is going to be asked. The only instruction it has is *to open nothing*, and that is my sentence and I wrote it and I am not going to say it a fourth time because I have said it three times and about nine people in this city are now able to say it, and that is the correct outcome and it is the only thing in nine weeks that has gone the way I wanted it to.**"
 
@@ -74,7 +74,7 @@ Nobody in that yard was angry with her. It is entered that about four people tri
 
 ---
 
-**And at about the ninth hour a man of forty-two stood at the back of that yard, and he has been at the back of it on a Friday and on a Monday and on a Tuesday and about four of the people in that yard have noticed that, and about nine of them have read the posting this morning and about four of them have read the ninth line and worked out whose share is on it, and about nine people in that yard know that a man of forty-two is a party to a compact with a date on it and a share on that page and nothing above anybody.**
+And at about the ninth hour a man of forty-two stood at the back of that yard, and he has been at the back of it on a Friday and on a Monday and on a Tuesday and about four of the people in that yard have noticed that, and about nine of them have read the posting this morning and about four of them have read the ninth line and worked out whose share is on it, and about nine people in that yard know that a man of forty-two is a party to a compact with a date on it and a share on that page and nothing above anybody.
 
 "**I am not going anywhere.**"
 
@@ -88,6 +88,6 @@ Nobody asked him.
 
 ---
 
-**And about the fourth hour of the afternoon about nine people in that yard were still there and the queue's day was tomorrow and the store was open and about nine people were paid out of what was in it on the last Tuesday and one week of that is still in the chest, and about four hundred and forty people were on eleven miles of flats with about nine racks that could still be worked and no line on any page in this city, and nobody in that yard said any of that out loud, and about four of them had said all of it on a causeway about eight days ago.**
+And about the fourth hour of the afternoon about nine people in that yard were still there and the queue's day was tomorrow and the store was open and about nine people were paid out of what was in it on the last Tuesday and one week of that is still in the chest, and about four hundred and forty people were on eleven miles of flats with about nine racks that could still be worked and no line on any page in this city, and nobody in that yard said any of that out loud, and about four of them had said all of it on a causeway about eight days ago.
 
-**And a slate with a date on it hung on a chest in the back of a store, and the date is tomorrow, and a man of forty-two at the back of the yard nine miles from here does not have to be told.**
+And a slate with a date on it hung on a chest in the back of a store, and the date is tomorrow, and a man of forty-two at the back of the yard nine miles from here does not have to be told.

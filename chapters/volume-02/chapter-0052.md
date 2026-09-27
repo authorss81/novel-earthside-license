@@ -4,7 +4,7 @@ On the twenty-seventh day of the new month, which was the fifty-second day of th
 
 ---
 
-**The market on the river sells four things in winter and two of them are salt.**
+The market on the river sells four things in winter and two of them are salt.
 
 That is the finding of the twenty-seventh day of the new month and it is in the book in the words of a woman of thirty-four who has been in this city thirty-four years and who has never once entered a price without saying where it came from. Ottoline Vask does not sell salt. She has a bar and she reads join-lines and she wrote two sentences in the second week of this flood that this whole volume is built out of, and the third one this morning was said on a wharf in the middle of an argument and is sixty-eight words long:
 
@@ -14,7 +14,7 @@ That is the finding of the twenty-seventh day of the new month and it is in the 
 
 ---
 
-**The bucket is under the arch of the lock chapel and it is a salt bucket and its price is on a slate on a nail, written under the four items and not as a fifth of them.**
+The bucket is under the arch of the lock chapel and it is a salt bucket and its price is on a slate on a nail, written under the four items and not as a fifth of them.
 
 The slate has four items and a keeper's hand and the word *form* written beside a name, and under the four of them is **the price of the salt**, and the price is a double handful twice a day, and it has cost the keeper of the chapel eleven weeks' worth of her own ration since the forty-ninth day, which is a figure entered in the book and not a complaint, because a keeper who complains about a form is a keeper who has made it a favour, and a form with no price on it is a favour and a favour is a thing that stops.
 
@@ -32,7 +32,7 @@ On the twenty-seventh day of the new month she was in the yard at about the sixt
 
 ---
 
-**And then the Brass Measure came, and it came because the Brass Measure is very good at this and not because anybody in it is a villain.**
+And then the Brass Measure came, and it came because the Brass Measure is very good at this and not because anybody in it is a villain.
 
 Ottavia Reek is second of the Brass Measure. She offered Jonah Pike forty elms, twenty of bar, a set of shoring oak and six weeks of rope in the second week of this flood for priority on every working at the lock, and it was refused in one sentence in a yard, and she came back in the sixth week with four sheets and a fourth term, and the fourth term was that the dockers' labour be drawn from the Brass Measure's own list, entered as a standing order and not an agreement, and a docker of fifty-eight who cannot read had it read aloud and said nine words: *that is a lock that a guild can close.*
 
@@ -58,7 +58,7 @@ And Ottavia Reek took her sheet off the trestle, and said: "Then the rail is you
 
 ---
 
-**And the salt was bought with labour, and the labour came out of the crew's shift, and that is how a room of about two hundred and forty people found out something that had been true for four days without anybody noticing.**
+And the salt was bought with labour, and the labour came out of the crew's shift, and that is how a room of about two hundred and forty people found out something that had been true for four days without anybody noticing.
 
 The boy's plan was simple and it took about eleven minutes to write. Hesk, the foreman of the day crew, who said the four words under the near gate for the first time in his life at the sixth hour of the morning of the forty-sixth day before anybody had asked him for anything and then voted against the same thing fourteen hours later, put it in forty-nine words: the crew's shift is a day of work, and the salt is a day of work, and a day of work for the wall can be a day of work for the salt, and it is the same forty men either way and it is not a new cost.
 
@@ -82,7 +82,7 @@ And the sentence that the room took away was Renna Ord's, and she said it in nin
 
 ---
 
-**And nobody asked the four, and the one who is seventy is the reason it was not asked, and the reason is on the page in her own words and she gave it in a doorway in about nineteen seconds and she did not give it in the yard.**
+And nobody asked the four, and the one who is seventy is the reason it was not asked, and the reason is on the page in her own words and she gave it in a doorway in about nineteen seconds and she did not give it in the yard.
 
 "You did not tell us you were four of the four," said Adrian Vale, in a doorway under the chapel arch, on the twenty-seventh day of the new month, at about the tenth hour of the morning.
 
@@ -96,7 +96,7 @@ And she went down the two hundred steps with a pail of salt, and about four feet
 
 ---
 
-**And the rail went on ice, at about the third hour of the afternoon, and it was half-rotten, and it had been half-rotten for years, and the man who owns it is a good man and has not got the money.**
+And the rail went on ice, at about the third hour of the afternoon, and it was half-rotten, and it had been half-rotten for years, and the man who owns it is a good man and has not got the money.
 
 The walk-round is two hundred steps down a river wall with a low parapet and a rail. It has been in the book since the first week. The rail is oak and it is fastened at the top and at the bottom and it is fastened in the middle, and the middle fastening is into a post that is not rotted, and the rail itself is rotted through for about four feet at about the fortieth step, and nobody has put a hand on it in the wrong weather with a body against it until the twenty-seventh day of the new month.
 
@@ -132,7 +132,7 @@ And the paragraph under it, which is the girl of seventeen's and which she read 
 
 ---
 
-**And the rail was condemned at about the sixth hour of the evening, and the mending of it is a cost, and the cost went on the column for the eighth time in one month, and there is still no figure on the end of it.**
+And the rail was condemned at about the sixth hour of the evening, and the mending of it is a cost, and the cost went on the column for the eighth time in one month, and there is still no figure on the end of it.
 
 Vask's sentence about a dressed joint is on the page from the forty-ninth day: *a closed join does not get narrower, it gets dressed.* It is about stone and it is the only sentence anybody in this city has that is true about wood as well, and she said so and was not thanked for it.
 
@@ -144,7 +144,7 @@ And a man of nineteen who has had eight watches in three weeks, and who wrote *w
 
 ---
 
-**And on the twenty-seventh day of the new month the word on the market board was on three boards, and the man who wrote it counted them, and he had not told anybody he had written it.**
+And on the twenty-seventh day of the new month the word on the market board was on three boards, and the man who wrote it counted them, and he had not told anybody he had written it.
 
 The board is on the market wall by the wharf, in a mason's chalk, in a hand that is not a Veyran hand, and the word is *player*, and it went up on the ninth day of this flood in the second week, and about forty people have copied it since, and Adrian Vale has known it was there for six weeks and has not said one word about it in public, and on the twenty-seventh day of the new month, at about the eighth hour of the evening, on his way back from the condemned rail, he stopped and counted, and it was three boards, and one of the three had the word twice on it in two different hands, and about nine feet of market had it in chalk and one shop had it painted.
 

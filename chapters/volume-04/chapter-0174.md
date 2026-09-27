@@ -20,11 +20,11 @@ It went up in a hand that is not any of the four. It went up in a hand that is a
 
 ---
 
-**And then the weather did the thing it had been going to do since Wednesday, and about four hundred and forty racks took about five hours to cover, and the covering is a job and not a thought, and here is the whole of it.**
+And then the weather did the thing it had been going to do since Wednesday, and about four hundred and forty racks took about five hours to cover, and the covering is a job and not a thought, and here is the whole of it.
 
 Each rack is eleven feet off the ground and about nine measures go on it and the salt comes off the shelf in slabs the size of a floorboard and it has to be levered and not lifted, and the cover is a reed mat that has to go on the windward side first and be weighted along the top with stones, because a mat that lifts takes a rack of salt into the channel, and the channel is the thing that carries the water off the flats and a channel with a hundred and forty measures of salt in the bottom of it is a channel that has to be dug out by hand in a wet month.
 
-**And the promise that has been made about the racks for nine days is a promise about a person, and not about the weather, and the person is up the road past this city.**
+And the promise that has been made about the racks for nine days is a promise about a person, and not about the weather, and the person is up the road past this city.
 
 *We will hold the channel and clear the drain and stand the racks in any weather.*
 
@@ -38,7 +38,7 @@ Each rack is eleven feet off the ground and about nine measures go on it and the
 
 ---
 
-**And the racks were covered, and it took about nine people and about five hours and about nine people who were not allowed to be on the rota were on the racks, and a rule from a store that is not on this flat cost that flat about an hour and a half of labour on the day before the day a household gave away its days, and nobody resented it, and it is entered that nobody resented it.**
+And the racks were covered, and it took about nine people and about five hours and about nine people who were not allowed to be on the rota were on the racks, and a rule from a store that is not on this flat cost that flat about an hour and a half of labour on the day before the day a household gave away its days, and nobody resented it, and it is entered that nobody resented it.
 
 And the boy of eight was on that flat all day, and he had been told about the day off that morning and had not known what to do with a day off, and he spent it on the windward side of about nine racks with a stone in each hand, because he is the fastest person on that flat at carrying a stone and has been since the sixth day of the Long Month, and about nine adults discovered that fact on the Thursday and nobody had arranged it.
 
@@ -46,7 +46,7 @@ He was not improving on anybody. He was faster than a woman of about forty-four 
 
 ---
 
-**And eleven miles away, in the city, on the same Thursday, a man of about thirty-four who keeps a stall found a man of about thirty-two in a gateway and said one thing to him and it took about four minutes and neither of them improved on it.**
+And eleven miles away, in the city, on the same Thursday, a man of about thirty-four who keeps a stall found a man of about thirty-two in a gateway and said one thing to him and it took about four minutes and neither of them improved on it.
 
 "You have not been asked anything in four days."
 
@@ -68,7 +68,7 @@ He was not improving on anybody. He was faster than a woman of about forty-four 
 
 ---
 
-**And at about the ninth hour of the evening, in a kitchen, in daylight by a lamp, a woman of about thirty-eight put a board down on a bench by a door and sat down on the bench and told a boy of eight what she had told him on Monday she would tell him on Thursday night, and she did it herself, and nobody else was in the room, and it is entered that she asked for it to be entered that she did it herself.**
+And at about the ninth hour of the evening, in a kitchen, in daylight by a lamp, a woman of about thirty-eight put a board down on a bench by a door and sat down on the bench and told a boy of eight what she had told him on Monday she would tell him on Thursday night, and she did it herself, and nobody else was in the room, and it is entered that she asked for it to be entered that she did it herself.
 
 He had the rope. He had had it all day and he had it in his lap on the bench and he had eleven knots in nine feet of it and about four of them were the sort that comes undone if somebody is in a hurry and he had done them again anyway.
 
@@ -110,4 +110,4 @@ He thought about that for a while, on a bench, in a kitchen, at about the ninth 
 
 "**You have the rope.**"
 
-**Nobody improved on a child of eight, and on a bench by a door there is about nine feet of rope.**
+Nobody improved on a child of eight, and on a bench by a door there is about nine feet of rope.

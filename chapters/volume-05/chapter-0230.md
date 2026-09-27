@@ -4,7 +4,7 @@ A man of about fifty-two who digs went down to the bottom of a cut on the Reach 
 
 ---
 
-**And he said nothing at all about what he expected to find, because he said at the top of that cut on the sixty-ninth day of that month that he was going to be at the bottom of it on this day in daylight and was not going to say a single thing about what he expected, and he has not improved on it in six days, and about four people at the top of that cut have been counting since the seventh hour and about nine of them have not.**
+And he said nothing at all about what he expected to find, because he said at the top of that cut on the sixty-ninth day of that month that he was going to be at the bottom of it on this day in daylight and was not going to say a single thing about what he expected, and he has not improved on it in six days, and about four people at the top of that cut have been counting since the seventh hour and about nine of them have not.
 
 "Six days you had to get here."
 
@@ -18,7 +18,7 @@ He put his hands in his pockets and went down the side the water used to come in
 
 ---
 
-**And at the bottom of that cut he turned round and said the thing he has not said in two hundred and thirty days, and it was not what about four people at the top of that cut had come eleven miles for, and about nine of them had not come for anything.**
+And at the bottom of that cut he turned round and said the thing he has not said in two hundred and thirty days, and it was not what about four people at the top of that cut had come eleven miles for, and about nine of them had not come for anything.
 
 "What was the four weeks about."
 
@@ -32,7 +32,7 @@ He said it at the bottom of a dry channel with his hands in his pockets and did 
 
 ---
 
-**And a man who has carried racks up and down that cut since the second month of this flood was at the top of it and had brought a rack with him, and he had said on the seventy-second day of that month that the rest of it was worth a day of walking and that he was not going to say it in a cut with about nine people in it, and he came down the bank with it and put it down at the edge of the bottom and did not say the rest of it.**
+And a man who has carried racks up and down that cut since the second month of this flood was at the top of it and had brought a rack with him, and he had said on the seventy-second day of that month that the rest of it was worth a day of walking and that he was not going to say it in a cut with about nine people in it, and he came down the bank with it and put it down at the edge of the bottom and did not say the rest of it.
 
 "That is no use down there."
 
@@ -46,7 +46,7 @@ He left it at the edge of the bottom with the rope coiled on the top length, and
 
 ---
 
-**And Adrian Vale came up that road at about the ninth hour of the morning with eleven miles on his boots and went down the side of that cut on his own without being asked by anybody, and about nine people at the top of it had not known he was in the city and about four of them had, and nobody in that cut asked him anything about a gate and nobody offered him anything and he asked for nothing.**
+And Adrian Vale came up that road at about the ninth hour of the morning with eleven miles on his boots and went down the side of that cut on his own without being asked by anybody, and about nine people at the top of it had not known he was in the city and about four of them had, and nobody in that cut asked him anything about a gate and nobody offered him anything and he asked for nothing.
 
 "You came eleven miles to stand in a dry channel."
 
@@ -60,7 +60,7 @@ He stood at the edge of the bottom of that cut for about as long as it takes to 
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road and a woman of about thirty-nine who cannot get a rack above her shoulder and a woman of about fifty who counts water were all three at the top of that cut at about the tenth hour of the morning, and the three of them have been at the top of it twice each since the fifty-ninth day of that month, and about four people in this city have worked out that they come up here on a day that is not a Tuesday and about nine of them have not worked out why.**
+And a woman of about thirty-four from a fourth household on the road and a woman of about thirty-nine who cannot get a rack above her shoulder and a woman of about fifty who counts water were all three at the top of that cut at about the tenth hour of the morning, and the three of them have been at the top of it twice each since the fifty-ninth day of that month, and about four people in this city have worked out that they come up here on a day that is not a Tuesday and about nine of them have not worked out why.
 
 "Twenty-eight days."
 
@@ -74,7 +74,7 @@ The woman of about thirty-four from a fourth household on the road said nothing 
 
 ---
 
-**And a man of about thirty-four who keeps a stall came up that bank at about the tenth hour of the morning and stood at the top of it and did not come down, and about four people at the top of that cut had been waiting for him to say whether the ninth line on a wall nine miles up the road works, and about nine of them had not been waiting for anything, and he said two sentences and neither of them was about a line.**
+And a man of about thirty-four who keeps a stall came up that bank at about the tenth hour of the morning and stood at the top of it and did not come down, and about four people at the top of that cut had been waiting for him to say whether the ninth line on a wall nine miles up the road works, and about nine of them had not been waiting for anything, and he said two sentences and neither of them was about a line.
 
 "**I have been asked that in a market and I have not answered it, and I came up here this morning to stand on a bank and I have not answered it, and about four people in this city have worked out that a man who will not answer a question on a Tuesday will not answer it on a Sunday either, and I am not going to be a different one because somebody came up eleven miles to ask me in a better light.**"
 
@@ -86,7 +86,7 @@ He said it at the top of a bank and about four people in that cut heard both of 
 
 ---
 
-**And a man of about thirty-two came up that bank at about the eleventh hour and stood at the top of it and did not come down, which is the fourth day in a row he has stood on that bank and none of the four of them has been a Monday, and the five Mondays he stood on it were the five Mondays before the seventy-first day of that month and the nearest of the five was six days ago, and about four people in this city have worked out what that is and about nine of them have not, and he said four sentences and none of them was about the four weeks.**
+And a man of about thirty-two came up that bank at about the eleventh hour and stood at the top of it and did not come down, which is the fourth day in a row he has stood on that bank and none of the four of them has been a Monday, and the five Mondays he stood on it were the five Mondays before the seventy-first day of that month and the nearest of the five was six days ago, and about four people in this city have worked out what that is and about nine of them have not, and he said four sentences and none of them was about the four weeks.
 
 "**I did not come down here this morning. I have been on this bank five Mondays in a row and I said in a market on the forty-eighth day of the Long Month that I am not going to be the man who walks up nine feet and asks a woman whether a thing she said on a date is still the thing she says on the date, and I have not, and I am not going to start on a Sunday with about nine people on a bank above me.**"
 
@@ -96,4 +96,4 @@ He said it at the top of a bank and about four people in that cut heard both of 
 
 ---
 
-**And a rod was lying flat in the cracked bottom of a cut on the Reach where a man had left it six days before, and there was no water in it.**
+And a rod was lying flat in the cracked bottom of a cut on the Reach where a man had left it six days before, and there was no water in it.

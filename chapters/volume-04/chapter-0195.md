@@ -8,7 +8,7 @@ It is a Tuesday. The queue's day is a Tuesday. There were about a hundred and fo
 
 Nobody had shut anything. **And that is the whole of it, and about four people in this city have said since that this is the first crossing in this flood that has closed without a person standing in the way of it.**
 
-**And the water is the reason, and the water comes through a gate, and the gate is at the bottom of that cut, and the days on it went back yesterday at about the eighth hour of the evening, in daylight, on a flat, with about nine people on it and nobody standing in a doorway.**
+And the water is the reason, and the water comes through a gate, and the gate is at the bottom of that cut, and the days on it went back yesterday at about the eighth hour of the evening, in daylight, on a flat, with about nine people on it and nobody standing in a doorway.
 
 "**Then the racks do not work.**"
 
@@ -20,7 +20,7 @@ Nobody had shut anything. **And that is the whole of it, and about four people i
 
 ---
 
-**And a man of about thirty-four who keeps a stall said nine sentences at about the second hour of the afternoon at the foot of that causeway, and about nine people heard them and about four hundred and forty people on the flats heard them by the fourth hour, and nobody has improved on them.**
+And a man of about thirty-four who keeps a stall said nine sentences at about the second hour of the afternoon at the foot of that causeway, and about nine people heard them and about four hundred and forty people on the flats heard them by the fourth hour, and nobody has improved on them.
 
 "**The salt is not going up today.**"
 
@@ -34,7 +34,7 @@ Nine pairs of hands stayed on the barrows and not one of them picked one up.
 
 ---
 
-**And the woman of about thirty-four from a fourth household on the road said what about four hundred and forty people are, and it is the only time in this flood that anybody has counted them and it took her about four minutes and she counted people and not racks and she said so before she started.**
+And the woman of about thirty-four from a fourth household on the road said what about four hundred and forty people are, and it is the only time in this flood that anybody has counted them and it took her about four minutes and she counted people and not racks and she said so before she started.
 
 "**Four hundred and forty people work salt on these flats. I know that because I have stood at the end of this causeway about nine times in nine weeks and asked, and nobody ever said no, and about four of them have given me a figure and the figure was four hundred and forty every time, and about four of those figures are wrong and about four of them are right and I have not found out which.**"
 
@@ -48,7 +48,7 @@ Nine pairs of hands stayed on the barrows and not one of them picked one up.
 
 ---
 
-**And a man of about fifty-two who digs went down into the cut after the water had stopped, at about the second hour of the afternoon, and came back up about forty minutes later and said seven words, and about nine people wrote them down in their own hands.**
+And a man of about fifty-two who digs went down into the cut after the water had stopped, at about the second hour of the afternoon, and came back up about forty minutes later and said seven words, and about nine people wrote them down in their own hands.
 
 "**It will silt. There is no water in it now and a channel with no water in it is a hole with a smell in it, and in about four weeks there will be nothing at the bottom of this cut that anybody can put a rack into, and I am not saying that to frighten anybody. I am saying it because it is what I do and I do not know another way to say it.**"
 
@@ -58,7 +58,7 @@ Nine pairs of hands stayed on the barrows and not one of them picked one up.
 
 ---
 
-**And the buyer is the reason the flats are not the loser, and a man of about thirty-nine who trades on the Open Hand board said so on the causeway at about the third hour of the afternoon, and he did not name a gate, a household or a person while he said it, and about four people have written it down since in their own hands.**
+And the buyer is the reason the flats are not the loser, and a man of about thirty-nine who trades on the Open Hand board said so on the causeway at about the third hour of the afternoon, and he did not name a gate, a household or a person while he said it, and about four people have written it down since in their own hands.
 
 "**The loss is his. That is the whole of the finding, and about nine people in this city have been waiting two days for a person to say it and nobody had. The ground under this causeway was taken in the seventh week of this flood without asking anybody. The racks on it are his. The people working them are on his rota in four hands. The salt is his until it is somebody's and it is not anybody's.**"
 
@@ -72,7 +72,7 @@ Nine pairs of hands stayed on the barrows and not one of them picked one up.
 
 ---
 
-**And at about the fourth hour of the afternoon a man of forty-two came four miles on foot down the causeway and stood at the bottom of it in the salt, and he did not go up, and about nine people there had expected him to say something and he did not say anything for about two minutes.**
+And at about the fourth hour of the afternoon a man of forty-two came four miles on foot down the causeway and stood at the bottom of it in the salt, and he did not go up, and about nine people there had expected him to say something and he did not say anything for about two minutes.
 
 "**I built this. It is four miles and it took forty days and about forty people who were not from here built it, and I did not ask whose ground this was and I have said so myself in about four rooms and I am not going to say it a fifth time today, because saying it again is not the same as having asked.**"
 
@@ -90,7 +90,7 @@ He stood in the salt at the foot of his own road.
 
 ---
 
-**And at about the fifth hour of the afternoon a man of forty-two went up into his own store and stood at the front of it and did not say anything for about four minutes with about a hundred and forty people in the yard, and then he said he would say it on Friday with a date on the door, and about four people in that yard said the order was right and one of them said it was not his to decide.**
+And at about the fifth hour of the afternoon a man of forty-two went up into his own store and stood at the front of it and did not say anything for about four minutes with about a hundred and forty people in the yard, and then he said he would say it on Friday with a date on the door, and about four people in that yard said the order was right and one of them said it was not his to decide.
 
 "It is not yours to decide."
 
@@ -102,7 +102,7 @@ He stood in the salt at the foot of his own road.
 
 ---
 
-**And at about the sixth hour of the evening a man of about thirty-four who keeps a stall said the thing that about four people in this city have said is the difference nobody in four hundred miles had written down, and he said it to a man of forty-two in a yard nine miles up the road, and a woman of about twenty-nine who keeps a public register wrote it in her own book with the date on it and read it back once and did not read it back twice.**
+And at about the sixth hour of the evening a man of about thirty-four who keeps a stall said the thing that about four people in this city have said is the difference nobody in four hundred miles had written down, and he said it to a man of forty-two in a yard nine miles up the road, and a woman of about twenty-nine who keeps a public register wrote it in her own book with the date on it and read it back once and did not read it back twice.
 
 "**A wage that stops is not a favour that stops. I have said the other half of that in about nine rooms since the second month of this flood and I have never had to say this half, and the difference is that a favour is a thing somebody does out of what they happen to have, and a wage is a thing somebody promised, and taking a promised thing back is a different act and it has a person in it, and about nine people in this city are going to work out which act this was inside four days.**"
 
@@ -110,12 +110,12 @@ He stood in the salt at the foot of his own road.
 
 ---
 
-**And about a hundred and twelve days is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and a man of about thirty-four who keeps a stall said that number in a market at about the seventh hour and nobody improved on it and nobody joined it up to anything, and it is a different debt and it did not change today.**
+And about a hundred and twelve days is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and a man of about thirty-four who keeps a stall said that number in a market at about the seventh hour and nobody improved on it and nobody joined it up to anything, and it is a different debt and it did not change today.
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf stood at the foot of that causeway at about the seventh hour of the evening with nine hundred measures of salt behind her and said four sentences and then went up the road.**
+And a woman of about thirty-four who keeps a stall by the wharf stood at the foot of that causeway at about the seventh hour of the evening with nine hundred measures of salt behind her and said four sentences and then went up the road.
 
 "**The racks on the other side of the channel are still being worked and about nine of those people are not his and I am not going to stand here and count whose is whose, and I have been asked by three people in four days which side of a channel is whose and the answer is that I do not know and I have never known and it is the only question anybody has asked me this month that I can answer.**"
 
-**Reed mats and stones along the top, in a yard at the foot of four miles of causeway, in the last hour of the light, and nobody moving them.**
+Reed mats and stones along the top, in a yard at the foot of four miles of causeway, in the last hour of the light, and nobody moving them.

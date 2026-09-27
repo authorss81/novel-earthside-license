@@ -22,7 +22,7 @@ And the man of forty-two could not do it, and said so in about four seconds, and
 
 ---
 
-**And nine households watched it, and the watching is the chapter, and it was not watching a triumph and it was not watching a defeat, and the reason is that nobody on that flat knows what to do with the sight of nine hundred measures of salt going away, because the thing it does is the only thing anybody has ever been able to do with salt.**
+And nine households watched it, and the watching is the chapter, and it was not watching a triumph and it was not watching a defeat, and the reason is that nobody on that flat knows what to do with the sight of nine hundred measures of salt going away, because the thing it does is the only thing anybody has ever been able to do with salt.
 
 There are about nine hundred measures a week and one buyer nine hundred miles away who has never been on this side of the water, and the settlement is not a trading post and says so itself, and there is no other way out of the Reach flats with a load on it, and any other route is four miles of causeway and forty days.
 
@@ -38,7 +38,7 @@ Nobody went and looked at the quay.
 
 ---
 
-**And the load went up the causeway and through the gate, and the gate is at the bottom of the channel, and the days on it belong to a household of three, and about nine hundred measures went through it between the tenth hour and about the fourth hour of the afternoon, and a woman of about thirty-eight who keeps that gate stood at it for the whole of that time and did not stop one barrow and did not say one word to anybody.**
+And the load went up the causeway and through the gate, and the gate is at the bottom of the channel, and the days on it belong to a household of three, and about nine hundred measures went through it between the tenth hour and about the fourth hour of the afternoon, and a woman of about thirty-eight who keeps that gate stood at it for the whole of that time and did not stop one barrow and did not say one word to anybody.
 
 The board was in her left hand. It was in her left hand all afternoon. The board was in her left hand for the whole of the twenty-seventh day of the Long Month, the tell is nine years old, and nobody improved on it, and that a barrow of nine measures went past her about four hundred times and that she counted none of them and that this is the only thing she did all day.
 
@@ -56,7 +56,7 @@ A man of about thirty-four who keeps a stall came past at about the fifth hour o
 
 ---
 
-**And a man of about thirty-nine who trades on the Open Hand board walked the whole of that causeway on the twenty-seventh day of the Long Month, up and back, four miles each way, alone, on foot, on a Monday, and came down off the top of it at about the second hour of the afternoon and said the thing that about four people in this city have said is the sharpest thing anybody has found in a hundred and eighty-two days, and he said it in a yard with about nine people in it and it took him about four minutes.**
+And a man of about thirty-nine who trades on the Open Hand board walked the whole of that causeway on the twenty-seventh day of the Long Month, up and back, four miles each way, alone, on foot, on a Monday, and came down off the top of it at about the second hour of the afternoon and said the thing that about four people in this city have said is the sharpest thing anybody has found in a hundred and eighty-two days, and he said it in a yard with about nine people in it and it took him about four minutes.
 
 He had walked it before. He said so, and he said how many times, and he did not say what for.
 
@@ -94,6 +94,6 @@ And that is the sentence, and it is in a book in this city in his own words, and
 
 ---
 
-**And at about the seventh hour of the evening, in a yard in this city eleven miles away, a man of about thirty-four who keeps a stall wrote nine hundred and nine on a slate and did not read it back, and about nine people in that yard said that the first thing anybody in four hundred miles has ever been able to buy from the Reach is on a slate in a yard in a market, and the second thing is that the payer's name is on it and the paid man's is not, and that both of those things came from this city and neither of them was told to anybody.**
+And at about the seventh hour of the evening, in a yard in this city eleven miles away, a man of about thirty-four who keeps a stall wrote nine hundred and nine on a slate and did not read it back, and about nine people in that yard said that the first thing anybody in four hundred miles has ever been able to buy from the Reach is on a slate in a yard in a market, and the second thing is that the payer's name is on it and the paid man's is not, and that both of those things came from this city and neither of them was told to anybody.
 
-**A barrow of nine measures went past a woman at the gate about four hundred times on the twenty-seventh day of the Long Month and she counted none of them. The board was in her left hand for the whole of it.**
+A barrow of nine measures went past a woman at the gate about four hundred times on the twenty-seventh day of the Long Month and she counted none of them. The board was in her left hand for the whole of it.

@@ -16,37 +16,37 @@ Jonah Pike put a printed sheet on the table before he said a word, which is his 
 
 ---
 
-**And here is the offer, in nine sentences, in his own words, in the local language, in a room with a date on the door on it, and eight of the nine are the best arguments anybody in that store has made since the seventh week and the ninth one is the reason he is not going to lose.**
+And here is the offer, in nine sentences, in his own words, in the local language, in a room with a date on the door on it, and eight of the nine are the best arguments anybody in that store has made since the seventh week and the ninth one is the reason he is not going to lose.
 
 "**One. There is a question about a term of an instrument that is real and correctly framed and there is a column for it, and the column is the seventh, and the column goes to a desk, and the desk is a room, and the room is nine hundred miles away.**
 
-**Two. A person has to ask it. I am not asking it and I am not able to ask it, and the reason I am not able to ask it is that I am in no roll and I have said so out loud in front of about two hundred and forty people, and a settlement that is in no roll is a thing nobody can put a question in front of.**
+Two. A person has to ask it. I am not asking it and I am not able to ask it, and the reason I am not able to ask it is that I am in no roll and I have said so out loud in front of about two hundred and forty people, and a settlement that is in no roll is a thing nobody can put a question in front of.
 
-**Three. And there is a cost to asking it, and the cost is not a fee. The cost is that whoever asks it is a person with a standing, and a person with a standing in four hundred miles has about nine other things to do, and four months of that is about four months of not doing them.**
+Three. And there is a cost to asking it, and the cost is not a fee. The cost is that whoever asks it is a person with a standing, and a person with a standing in four hundred miles has about nine other things to do, and four months of that is about four months of not doing them.
 
-**Four. So I am offering to pay it. Not a fee. The wage of a person with a standing, for four months, out of a store, so that they can stand in a room nine hundred miles away with nothing else to do and ask one question in a column.**
+Four. So I am offering to pay it. Not a fee. The wage of a person with a standing, for four months, out of a store, so that they can stand in a room nine hundred miles away with nothing else to do and ask one question in a column.
 
-**Five. I am not doing it for the people it would be asked about. I have not met a household at the bottom of that channel and I have not walked the causeway and I am not going to, and if you want that in the offer, it is in the offer, and you can have it, and it will be the first true thing anybody has said about me that I have not already said.**
+Five. I am not doing it for the people it would be asked about. I have not met a household at the bottom of that channel and I have not walked the causeway and I am not going to, and if you want that in the offer, it is in the offer, and you can have it, and it will be the first true thing anybody has said about me that I have not already said.
 
-**Six. Every word of the cost I read out to that household on the seventh day of the Long Month is true and so is this, and the reason I am telling you the reason is that you have spent a hundred and eighty-four days being careful about who pays for what and I would like to be careful about it in front of you rather than after.**
+Six. Every word of the cost I read out to that household on the seventh day of the Long Month is true and so is this, and the reason I am telling you the reason is that you have spent a hundred and eighty-four days being careful about who pays for what and I would like to be careful about it in front of you rather than after.
 
-**Seven. And I have not threatened anybody and I am not going to, and I have not moved anybody and I am not going to, and about four people in that workroom have said to me this week that the not-threatening is the frightening part, and I have not worked out what to do about that and I have not got to the bottom of it in a hundred and thirty-five days.**
+Seven. And I have not threatened anybody and I am not going to, and I have not moved anybody and I am not going to, and about four people in that workroom have said to me this week that the not-threatening is the frightening part, and I have not worked out what to do about that and I have not got to the bottom of it in a hundred and thirty-five days.
 
-**Eight. A wage paid out of somebody's own pocket is a favour and a favour is a thing that stops, and a wage paid out of a store by people who owe it is not a favour. This one is neither. This one is four months of a man who does not have to answer anybody.**
+Eight. A wage paid out of somebody's own pocket is a favour and a favour is a thing that stops, and a wage paid out of a store by people who owe it is not a favour. This one is neither. This one is four months of a man who does not have to answer anybody.
 
 **Nine. And the reason I am offering it, which is the only reason, is that I would like to stop being the only person in four hundred miles who pays people on a day. There is no way to do that except to be somebody who can be asked a question about a term, and I cannot be asked a question about a term, and the day a clerk nine hundred miles away writes the answer in a column I stop being a settlement and start being a party, and I worked that out in about four minutes in this workroom on a Wednesday and I am telling you that it is the reason and not a better one.**"
 
 ---
 
-**And the silence after that was the longest anybody in that store has ever been silent, and it was not silence because they were thinking. One of them put a hand flat on the table and left it there, and about nine of them had not been ready for a man to say the true reason out loud on purpose.**
+And the silence after that was the longest anybody in that store has ever been silent, and it was not silence because they were thinking. One of them put a hand flat on the table and left it there, and about nine of them had not been ready for a man to say the true reason out loud on purpose.
 
 Then a woman of about thirty-four who keeps a stall by the wharf named the price, and she named it before anybody said yes or no, and that is her and has been hers for a hundred and eighty-four days, and she was on nothing and she said so first.
 
 "**I am on nothing. I have a slate I have not written on in nine years. I am going to say what this costs and I am not going to be asked to say it and I am not going to be thanked for it.**
 
-**Here is the price. If that store pays for that question, then every wage that goes out of it between the day the question goes and the day the answer comes is, in the eyes of about nine people, a wage paid for an answer. And that is not true. It will not be true in about four months and it will not be untrue in about four months either, because nobody can prove a thing was not a bribe, and nobody needs to prove it, and a thing that cannot be proved is a thing that is in a person's head for the rest of their life.**
+Here is the price. If that store pays for that question, then every wage that goes out of it between the day the question goes and the day the answer comes is, in the eyes of about nine people, a wage paid for an answer. And that is not true. It will not be true in about four months and it will not be untrue in about four months either, because nobody can prove a thing was not a bribe, and nobody needs to prove it, and a thing that cannot be proved is a thing that is in a person's head for the rest of their life.
 
-**About a hundred and forty people get paid out of that store. Not one of them has done anything. And in about four months, when a clerk writes a word in a column, about a hundred and forty people who have been paid a wage on a day will find out that the wage was on a list, and they will not be able to get off the list, and there is no instrument in four hundred miles that takes a person off a list they were not put on.**
+About a hundred and forty people get paid out of that store. Not one of them has done anything. And in about four months, when a clerk writes a word in a column, about a hundred and forty people who have been paid a wage on a day will find out that the wage was on a list, and they will not be able to get off the list, and there is no instrument in four hundred miles that takes a person off a list they were not put on.
 
 **That is the price and it is not a small one and it is not the household's price and the household does not pay it and will never know they paid it.**"
 
@@ -56,7 +56,7 @@ Then a woman of about thirty-four who keeps a stall by the wharf named the price
 
 ---
 
-**And a man of about thirty-two did not refuse it in four seconds and did not refuse it in four minutes either, and it took about nine, and about four people in that workroom counted, and the count is on the page because the count is the finding.**
+And a man of about thirty-two did not refuse it in four seconds and did not refuse it in four minutes either, and it took about nine, and about four people in that workroom counted, and the count is on the page because the count is the finding.
 
 He asked one question, and he asked it properly, which is a thing he built in four days and used twice, and he gave it in writing to about nine people four days before and did not ask the person whether the day suited her.
 
@@ -74,7 +74,7 @@ And the woman of about thirty-six who is a public official and is on nobody's si
 
 ---
 
-**And he said the thing that was said in about four hundred miles in the second month of this flood by a man of about thirty-four who keeps a stall, and he said it in one sentence, and it is on the page, and it is not a new sentence and it is the oldest one anybody in that room has.**
+And he said the thing that was said in about four hundred miles in the second month of this flood by a man of about thirty-four who keeps a stall, and he said it in one sentence, and it is on the page, and it is not a new sentence and it is the oldest one anybody in that room has.
 
 "**I am not going to let a thing be bought that is a question. That is the whole of my answer and I have had it since the second month of this flood and I have never had to use it before.**"
 
@@ -84,4 +84,4 @@ Nobody in that workroom improved on it, and a man of about forty-two said one th
 
 ---
 
-**A printed sheet on a trestle board in a workroom nine miles up the upper road, with one page on it and nothing on that page.**
+A printed sheet on a trestle board in a workroom nine miles up the upper road, with one page on it and nothing on that page.

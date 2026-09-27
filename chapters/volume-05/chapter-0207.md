@@ -6,7 +6,7 @@ The posting has been up six days on a wall nine miles up the road past this city
 
 ---
 
-**And the slip is a copy of a line off the posting with a date cut into the corner of it, and there is a hand against the line, and the hand is his, and he wrote it on the forty-fourth day of the Long Month in a room over a market in about four minutes, and then went back down to his own stall and opened it up for the day.**
+And the slip is a copy of a line off the posting with a date cut into the corner of it, and there is a hand against the line, and the hand is his, and he wrote it on the forty-fourth day of the Long Month in a room over a market in about four minutes, and then went back down to his own stall and opened it up for the day.
 
 "You put a price under a line with your name on it."
 
@@ -22,7 +22,7 @@ The posting has been up six days on a wall nine miles up the road past this city
 
 ---
 
-**And he walked about four streets and went into a room over a market with a date in chalk on the door, and about nine people were in it, and about two hundred and forty could hear out of the hall and the landing and the market below it, and it is the seventh time about two hundred and forty people have heard a thing said in that room and nobody counted and about four people have said since that it is the seventh and that nobody will be able to say in about four months which seven.**
+And he walked about four streets and went into a room over a market with a date in chalk on the door, and about nine people were in it, and about two hundred and forty could hear out of the hall and the landing and the market below it, and it is the seventh time about two hundred and forty people have heard a thing said in that room and nobody counted and about four people have said since that it is the seventh and that nobody will be able to say in about four months which seven.
 
 "You have a slip with a date on it."
 
@@ -32,7 +32,7 @@ Nobody improved on that. It is entered that about four people in that room had b
 
 ---
 
-**And then about four people in that room asked him the same question in four different ways in about nine minutes, and it was one question, and it is the price under his own line, and he could not answer any of the four, and the finding of the fifty-second day of the Long Month is in what he said when he stopped trying.**
+And then about four people in that room asked him the same question in four different ways in about nine minutes, and it was one question, and it is the price under his own line, and he could not answer any of the four, and the finding of the fifty-second day of the Long Month is in what he said when he stopped trying.
 
 "**A sack, a place at a fire, and a day of the queue.**"
 
@@ -48,7 +48,7 @@ Nobody improved on that. It is entered that about four people in that room had b
 
 ---
 
-**And a man of about forty-four who keeps a stall, who was in that room and who has a column of his own with eleven entries in it and no figure on the end of any of them, said the sentence that about nine people in that room had been waiting six days for without knowing they were waiting for it.**
+And a man of about forty-four who keeps a stall, who was in that room and who has a column of his own with eleven entries in it and no figure on the end of any of them, said the sentence that about nine people in that room had been waiting six days for without knowing they were waiting for it.
 
 "**Then it is a cost and not a price, and I said the difference out loud on Saturday morning to about nine people who did not ask me, and about nine people in this city have written it down since and about four of them have written it down wrong.**"
 
@@ -60,7 +60,7 @@ Nobody improved on that. It is entered that about four people in that room had b
 
 ---
 
-**And then a woman of about twenty-four who has written down every decision this city has made since the second day of this flood put her hand flat on the first line of a copy of the compact in that room, in daylight, with a date on the door, did not read that line out, read the second name out loud, and then stopped, and about nine people in that room had their hands on the table and did not move them, and about four hundred people in that room could not have told you which name she had not read.**
+And then a woman of about twenty-four who has written down every decision this city has made since the second day of this flood put her hand flat on the first line of a copy of the compact in that room, in daylight, with a date on the door, did not read that line out, read the second name out loud, and then stopped, and about nine people in that room had their hands on the table and did not move them, and about four hundred people in that room could not have told you which name she had not read.
 
 "**There are four names on the front of that page and there are about nine people in this room whose hands are on the table, and I have been in this city since the second day of this flood and I am the person who writes things down, and I have been telling nine rooms in three weeks that a name on a page is a place a person can be found in, and I have never once been on one, and this morning I have been on one, and I did not put myself there, and I did not know I was going to be on one until the forty-fifth day of the Long Month.**"
 
@@ -72,7 +72,7 @@ Nobody improved on that. It is entered that about four people in that room had b
 
 ---
 
-**And a girl of seventeen who is on no roll of anything was at the back of that room with a plain slate under her arm and her own in her bag, and she had heard the whole of the morning, and she said the thing that about nine people in that room had not thought of, and she said it in about four sentences and then sat down.**
+And a girl of seventeen who is on no roll of anything was at the back of that room with a plain slate under her arm and her own in her bag, and she had heard the whole of the morning, and she said the thing that about nine people in that room had not thought of, and she said it in about four sentences and then sat down.
 
 "There is one of us in this room who is not on the front of that page. It is me. I read it out twice from a plain slate because my own has my name at the top of it, and I have said that reason in about nine rooms this week and I am not going to say it again, and I am not saying it now. I am saying the other thing."
 
@@ -84,7 +84,7 @@ Nobody in that room answered her. It is entered that about four people wanted to
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register said the one thing she came to say, and she said it in about four sentences and it is hers and it has not improved in seven days, and about two hundred and forty people heard it.**
+And a woman of about twenty-nine who keeps a public register said the one thing she came to say, and she said it in about four sentences and it is hers and it has not improved in seven days, and about two hundred and forty people heard it.
 
 "**Four people and a question have not left for the ground people call the First Landing. Nobody has been asked whether they will go and nobody is going to be asked. The only instruction it has is *to open nothing*, and that is my sentence and I wrote it. This page does not send it, this room does not send it, and nothing that was read out on the forty-fifth day of the Long Month ends it or touches it, and I would like both halves of that entered.**"
 
@@ -94,4 +94,4 @@ Nobody in that room answered her. It is entered that about four people wanted to
 
 ---
 
-**And a slip of paper with a date cut into the corner of it, and three words on it in a hand that is not the hand that cut the date, and the three words are a line number and nothing else.**
+And a slip of paper with a date cut into the corner of it, and three words on it in a hand that is not the hand that cut the date, and the three words are a line number and nothing else.

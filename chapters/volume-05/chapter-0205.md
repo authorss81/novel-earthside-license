@@ -6,7 +6,7 @@ There is no queue today. The posting on the wall nine miles up the road went up 
 
 ---
 
-**And he wrote one line, and it is the second line in that book with a week between them, and the number at the top of it is one hundred and sixty-five, and the wall in that room has one hundred and fifty-eight on it with the forty-third day of the Long Month at the top of the column, and there are seven days between the two figures and there are seven in the difference, and about four people in that room had a hand on the edge of the trestle and about nine of them did not.**
+And he wrote one line, and it is the second line in that book with a week between them, and the number at the top of it is one hundred and sixty-five, and the wall in that room has one hundred and fifty-eight on it with the forty-third day of the Long Month at the top of the column, and there are seven days between the two figures and there are seven in the difference, and about four people in that room had a hand on the edge of the trestle and about nine of them did not.
 
 "**One hundred and sixty-five.**"
 
@@ -18,7 +18,7 @@ There is no queue today. The posting on the wall nine miles up the road went up 
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom came up the road for it and stood in front of the wall with his own slate and copied one hundred and sixty-five under one hundred and fifty-eight, and the column on that wall now has two figures in it and two dates, and a gap of seven days between the dates and a difference of seven between the figures, and he read the wall from the top down and then from the bottom up and then put the slate down and did not put it away.**
+And a man of about twenty-nine from the settlement's workroom came up the road for it and stood in front of the wall with his own slate and copied one hundred and sixty-five under one hundred and fifty-eight, and the column on that wall now has two figures in it and two dates, and a gap of seven days between the dates and a difference of seven between the figures, and he read the wall from the top down and then from the bottom up and then put the slate down and did not put it away.
 
 "**I copied the first one. That was on the forty-third, in chalk, and it was the first time anything of mine had ever left me and gone somewhere somebody else could stand in front of it, and I have said that before in about four rooms and I am not going to say it again today.**"
 
@@ -28,7 +28,7 @@ There is no queue today. The posting on the wall nine miles up the road went up 
 
 ---
 
-**And then about four people in that room asked the only question anybody can ask about a number, and it has been asked in this room before and it took about four minutes, and he answered it in the same five words and did not improve on them and nobody in the room improved on them either.**
+And then about four people in that room asked the only question anybody can ask about a number, and it has been asked in this room before and it took about four minutes, and he answered it in the same five words and did not improve on them and nobody in the room improved on them either.
 
 "What is a day of it."
 
@@ -42,7 +42,7 @@ And about four people in that room looked at the floor, and about nine of them h
 
 ---
 
-**And a man of about fifty-two who digs was in that room and had not come up the road for the number, and he said the thing about it that nobody else in that room had thought of, and it took him about four minutes, and about nine people heard it and about four of them have said since that it is the first time anybody has said what it would cost instead of whether it can be done.**
+And a man of about fifty-two who digs was in that room and had not come up the road for the number, and he said the thing about it that nobody else in that room had thought of, and it took him about four minutes, and about nine people heard it and about four of them have said since that it is the first time anybody has said what it would cost instead of whether it can be done.
 
 "**I do not know what a day of it is either and I am not going to guess. I am going to tell you what it would take, and then you can decide whether anybody in this city is going to do it.**"
 
@@ -58,7 +58,7 @@ Nobody in that room said anything for about a minute, and about four of them hav
 
 ---
 
-**And a girl of seventeen who is on no roll of anything was in that room, and she keeps the other count, and she said the thing about it that is not the thing she said on the forty-third day of the Long Month, and about nine people heard it and about four of them did not know there was a second count.**
+And a girl of seventeen who is on no roll of anything was in that room, and she keeps the other count, and she said the thing about it that is not the thing she said on the forty-third day of the Long Month, and about nine people heard it and about four of them did not know there was a second count.
 
 "**They both go up one a day. That is all I am going to say about them in this room and I am not going to say my figure, and the reason I am not is that the last time I was in this room I gave a different reason and the reason was true then. His goes up whatever a wall does and mine goes up when a wall says nothing, and about four people in this city have added the two of them together and about nine of them have taken the one from the other, and not one of those two figures is written in either book, and about four of them have said the two numbers are about the same sort of thing, and they are not, and one of them counts days and the other counts days that a wall did not speak on, and those are not the same day.**"
 
@@ -74,13 +74,13 @@ Nobody in that room asked her. It is entered that nobody did, and that about fou
 
 ---
 
-**And nobody in that room asked him about the page, and the book was open on the trestle for about four minutes with a finger holding it, and he turned past a page going the other way and about four people in that room saw him do it and about nine did not, and it is the only line in that book that is not a figure and it is addressed to a person in another hemisphere and it has not been sent and there is no route in this world that a letter can travel and it is in no book and no office in nine hundred miles knows it exists, and he has not mentioned it and about four people in that room have not asked and about nine have not noticed.**
+And nobody in that room asked him about the page, and the book was open on the trestle for about four minutes with a finger holding it, and he turned past a page going the other way and about four people in that room saw him do it and about nine did not, and it is the only line in that book that is not a figure and it is addressed to a person in another hemisphere and it has not been sent and there is no route in this world that a letter can travel and it is in no book and no office in nine hundred miles knows it exists, and he has not mentioned it and about four people in that room have not asked and about nine have not noticed.
 
 It is entered that a woman of about twenty-four noticed, and that she did not ask, and that on the forty-third day of the Long Month she noticed the same page in the same book and did not ask then either, and that she has entered both times and joined them up not at all.
 
 ---
 
-**And a man of about thirty-four who keeps a stall was in that room and asked one question, and it is the only question anybody in that room asked about the number that was not about what a day of it is, and he asked it standing up, and he put both hands in his sleeves afterwards and left them there.**
+And a man of about thirty-four who keeps a stall was in that room and asked one question, and it is the only question anybody in that room asked about the number that was not about what a day of it is, and he asked it standing up, and he put both hands in his sleeves afterwards and left them there.
 
 "Is it going to keep going."
 
@@ -90,4 +90,4 @@ He did not ask her to stop it. It is entered that he did not, and that about fou
 
 ---
 
-**And a wall with a date at the top of a column and two figures in it, seven days apart, and nobody in this city can say what a day of either of them is.**
+And a wall with a date at the top of a column and two figures in it, seven days apart, and nobody in this city can say what a day of either of them is.

@@ -20,7 +20,7 @@ He went back to copying. The board came off the wall at about the fifth hour of 
 
 ---
 
-**And the day was in chalk on the door of the store, in the hand that has been at the front of that queue since the seventh week of this flood, and that is the first thing this settlement has put on a door since the day it opened, and a settlement is a settlement made out of pages, and about four people in that yard worked that out in about four minutes and said it out loud.**
+And the day was in chalk on the door of the store, in the hand that has been at the front of that queue since the seventh week of this flood, and that is the first thing this settlement has put on a door since the day it opened, and a settlement is a settlement made out of pages, and about four people in that yard worked that out in about four minutes and said it out loud.
 
 "**You have put the one thing that matters on a door.**"
 
@@ -40,7 +40,7 @@ The woman who keeps the store put her thumb on the bottom edge of the rota and l
 
 ---
 
-**And a girl of seventeen who is on no roll of anything was in that yard, having come up the road in the afternoon with a slate she wanted to have in her hand in the morning, and she said the number, and it is the only time anybody has said it on the upper road.**
+And a girl of seventeen who is on no roll of anything was in that yard, having come up the road in the afternoon with a slate she wanted to have in her hand in the morning, and she said the number, and it is the only time anybody has said it on the upper road.
 
 "Ninety-eight."
 
@@ -56,7 +56,7 @@ A man of about thirty-four who keeps a stall wrote it on the back of his own han
 
 ---
 
-**And at about the sixth hour of the evening, nine hundred miles from that yard, in a room with a window that does not open, a man of forty-one in a very good coat was told a figure he had not asked for.**
+And at about the sixth hour of the evening, nine hundred miles from that yard, in a room with a window that does not open, a man of forty-one in a very good coat was told a figure he had not asked for.
 
 It came on a sheet with a heading and a date on it and a line that said the district assented, and the figure was not this city's, and the man had asked a different question in the spring and had been told the answer was not available, and the sheet was on the desk in front of him at about six in the evening and nobody in that room would say where it had come from except that it had come in the ordinary course, which is the only way anything has ever come to anywhere.
 
@@ -66,7 +66,7 @@ There is no road in this world that reaches that room. Nothing can be sent to it
 
 ---
 
-**And at about the seventh hour of the evening a woman of about thirty-four who keeps a stall by the wharf started walking, and she had four sentences in her hand and not on anything, and it is eleven miles.**
+And at about the seventh hour of the evening a woman of about thirty-four who keeps a stall by the wharf started walking, and she had four sentences in her hand and not on anything, and it is eleven miles.
 
 She had said, in a room over a market, that she would carry it in her hand and not on a slate, and the reason she gave was that a question has to go somewhere and a slate is the wrong shape for a walk, and that she has carried a slate for nine years that she has never written on and was not going to put four sentences on it at the last mile.
 
@@ -84,7 +84,7 @@ She walked. The road past the flats is four miles of causeway and then the bank,
 
 ---
 
-**And at about the ninth hour of the evening she came off the road at the bottom of a long cut and onto a low place where the red root grows in the bank, and there was a woman standing on that bank with a stick in her hand who had been standing there since before dark, and about four people in this city have said since that a water-count of the Reed Reach knew at about the sixth hour of the evening that a question was coming up that road and stood on a bank in the cold for three hours to be at the bottom of it.**
+And at about the ninth hour of the evening she came off the road at the bottom of a long cut and onto a low place where the red root grows in the bank, and there was a woman standing on that bank with a stick in her hand who had been standing there since before dark, and about four people in this city have said since that a water-count of the Reed Reach knew at about the sixth hour of the evening that a question was coming up that road and stood on a bank in the cold for three hours to be at the bottom of it.
 
 "You are late."
 
@@ -108,4 +108,4 @@ The water-count put her hand flat against her own coat and did not write anythin
 
 "**Twenty sentences is the most that has ever been on my hand and it is four and a half lines and it is in a wet hand. I will be able to read it at first light and I will be able to read it at noon and I will not be able to read it after that, and I am telling you that now so that nobody in this city can say in four days that the question was never on the Reach.**"
 
-**Four sentences on the flat of a wet left hand, held up against a coat on a bank at the bottom of a long cut, and nobody in four hundred miles able to check them in about four days.**
+Four sentences on the flat of a wet left hand, held up against a coat on a bank at the bottom of a long cut, and nobody in four hundred miles able to check them in about four days.

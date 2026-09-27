@@ -1,8 +1,8 @@
 # Chapter 0170 — The Date Comes Back
 
-A raft came down eleven miles in the dark on the night of the eighteenth day of the Long Month with a short slate and a day on it, and it is the same raft that left on the Thursday morning and has been three days on the water, and it got in before the light on a Sunday, and what a date in chalk on a gate board is for is not known until about the tenth hour of the morning, and it is not known at the top of this chapter either.
+A raft came down eleven miles in the dark on the night of the eighteenth day of the Long Month with a short slate and a day on it, and it is the same raft that left on the Thursday morning and has been three days on the water, and it got in before the light on a Sunday, and what a date in chalk on a gate board is for is not known until about the tenth hour of the morning, and it is not known at first light either.
 
-**A woman of about thirty-four who keeps a stall by the wharf had walked down with a girl of seventeen and a man of about thirty-nine, and she had come nine feet from a board at the bottom of a channel and read a date off it from there and had not gone any nearer, and about four people in this city have worked out since that whoever chose that day was somebody who has not been asked about anything in a hundred and seventy-four days either.**
+A woman of about thirty-four who keeps a stall by the wharf had walked down with a girl of seventeen and a man of about thirty-nine, and she had come nine feet from a board at the bottom of a channel and read a date off it from there and had not gone any nearer, and about four people in this city have worked out since that whoever chose that day was somebody who has not been asked about anything in a hundred and seventy-four days either.
 
 ---
 
@@ -18,7 +18,7 @@ The board has two dates on it now. The first is the second day of the Long Month
 
 ---
 
-**And here is what the slate said, and it is nine words and a date, and it came down eleven miles on a raft and it is the whole of the answer the meeting-ground gave, and the meeting-ground did not give an answer.**
+And here is what the slate said, and it is nine words and a date, and it came down eleven miles on a raft and it is the whole of the answer the meeting-ground gave, and the meeting-ground did not give an answer.
 
 > **The household must be asked. The day is not ours. The day must come back to us.**
 
@@ -36,7 +36,7 @@ And under it, in a different hand, which is the hand of a man of about thirty-fo
 
 ---
 
-**And at about the second hour of the afternoon, on the flats, a man of about twenty-nine from the settlement's workroom put the settlement's whole position into about nine sentences, and it is the best thing anybody in that store has said, and it is on a page in this city in his own words, and about four people in this city have wanted to argue with it and cannot.**
+And at about the second hour of the afternoon, on the flats, a man of about twenty-nine from the settlement's workroom put the settlement's whole position into about nine sentences, and it is the best thing anybody in that store has said, and it is on a page in this city in his own words, and about four people in this city have wanted to argue with it and cannot.
 
 "**A household is not losing a gate. It is being paid for a duty. The duty is holding a channel that four hundred and forty racks drain, and the drain is the settlement's problem and the racks are the households' income and both of those are true. We will hold the channel and clear the drain and stand the racks in any weather. A household that has been keeping one channel for nine years by itself is not losing anything it had a right to. The days are not a gate and they are not a purchase and nobody in my store is going to write the word *sold* on anything this month, and if anybody in this world thinks a gate can be sold then I would like to be told how and I will put it on a board.**"
 
@@ -54,7 +54,7 @@ And under it, in a different hand, which is the hand of a man of about thirty-fo
 
 ---
 
-**And the keeper of the Redroot gate told a man of thirty-two all of it herself, at a door, in daylight, on the Sunday, in about four minutes, and she did not ask him for anything, and about four people in this city have said that a person who asks a man of thirty-two for nothing is doing something they have never seen anybody do, and she is the first.**
+And the keeper of the Redroot gate told a man of thirty-two all of it herself, at a door, in daylight, on the Sunday, in about four minutes, and she did not ask him for anything, and about four people in this city have said that a person who asks a man of thirty-two for nothing is doing something they have never seen anybody do, and she is the first.
 
 She was at the gate with the board under her left arm when he came up. She did not put the board down while she was talking. **She did not put it down once, and at the end she put it on the bench by the door, and that is the tell, and the tell is nine years old and it is on the page and nobody improved on it.**
 
@@ -70,7 +70,7 @@ She was at the gate with the board under her left arm when he came up. She did n
 
 ---
 
-**And the fifth thing, which she said last, and which is the reason this day is on the page, and which she said in one breath and did not soften and has not repeated since.**
+And the fifth thing, which she said last, and which is the reason this day is on the page, and which she said in one breath and did not soften and has not repeated since.
 
 "You are going to be somewhere on the fifth day from now," she said. "**I do not want you there. I am telling you that now, in advance, so that it is not a thing that has to be worked out in a room by about nine tired people on a Friday, and I would like it entered that I said it in advance and that I did not want you there, and I would like the entering of that to happen whether I asked for it or not.**"
 
@@ -84,7 +84,7 @@ She was at the gate with the board under her left arm when he came up. She did n
 
 ---
 
-**And a man of thirty-two stood at a gate for about another half an hour in weather that was not fit for it and said one thing before he went, and it is on the page because it is the only thing he said in three hours, and because a woman of twenty-four entered it in her own hand and did not improve on it, and because about four people who heard it have said since that they would rather he had said nothing and have not given a reason.**
+And a man of thirty-two stood at a gate for about another half an hour in weather that was not fit for it and said one thing before he went, and it is on the page because it is the only thing he said in three hours, and because a woman of twenty-four entered it in her own hand and did not improve on it, and because about four people who heard it have said since that they would rather he had said nothing and have not given a reason.
 
 "I have entered that I am going to do nothing about this for twenty-five days, and the twenty-fourth day of the Long Month is the fifteenth day of those twenty-five, and there are ten of them left after it, and I am not going to break my own entry to be in a room, and I am telling you that so that you do not have to decide whether to ask me."
 
@@ -92,8 +92,8 @@ She was at the gate with the board under her left arm when he came up. She did n
 
 ---
 
-**And the last things on the page are two, and neither of them is a document.**
+And the last things on the page are two, and neither of them is a document.
 
 A gate board at the bottom of a channel with two dates in chalk on it, the second and the nineteenth, in two hands, and the second hand is a hand that has never written a date on anything in a hundred and seventy-four days, and the board is not on a list of anything and there is no name at the top of it. The twenty-fourth is not on the board. It is on a slate that came down eleven miles on a raft, and a man of about thirty-four who keeps a stall has it on the back of his own left hand in pencil where anybody on that flat can read it, and he put it there himself and entered that he did it on the Sunday and not on the Thursday.
 
-**And a man of thirty-two eleven miles away in the rain, who is not going to be at a gate on the twenty-fourth and has entered that he will not be asked to be.**
+And a man of thirty-two eleven miles away in the rain, who is not going to be at a gate on the twenty-fourth and has entered that he will not be asked to be.

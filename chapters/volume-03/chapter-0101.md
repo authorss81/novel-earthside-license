@@ -2,11 +2,11 @@
 
 On the eleventh day of the month after this one, which was the hundred and first day of the flood and a Thursday, nine people stood on a wharf in the wrong weather and worked out that this city is not going to hear one single word about a case it has sent, and that the reason is not a clerk being busy and is not weather, and that a document was ended in a converted salt store nine days ago and no office on the river knows it, and that about eight weeks of whatever is coming is not going to be moved one inch by anything that happens on this wharf, and that a boy of nine asked who was going up the road and nobody answered him, and the answer was entered as a count and not as a list.
 
-**The licence is fifty-one days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the forty-second time. The black line in his right palm is one hundred days old and has not moved one sixteenth of an inch.**
+The licence is fifty-one days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the forty-second time. The black line in his right palm is one hundred days old and has not moved one sixteenth of an inch.
 
 ---
 
-**A case goes down a river and the only thing that has ever come back up one is a count, and this city has been putting cases on that river four times a year for a hundred and forty years and has never once seen one return, and the first fact of the eleventh day of the month after this one is that nobody on that wharf found this surprising and that about nine people on that wharf have known it for a long time and have never put it in the same sentence as a question they were asking.**
+A case goes down a river and the only thing that has ever come back up one is a count, and this city has been putting cases on that river four times a year for a hundred and forty years and has never once seen one return, and the first fact of the eleventh day of the month after this one is that nobody on that wharf found this surprising and that about nine people on that wharf have known it for a long time and have never put it in the same sentence as a question they were asking.
 
 The wharf was wet through at the seventh hour. The boards outside the chandlery by the water were the colour of a wet road and the mooring rings had a skin on them, and the boat that had carried the quarterly description out on the eighth day of the month after this one was gone and would be back in the spring, and a girl of seventeen said that out loud before anybody asked her, which is her habit and has been for a hundred and one days.
 
@@ -16,7 +16,7 @@ The wharf was wet through at the seventh hour. The boards outside the chandlery 
 
 ---
 
-**And what they found out was that there is no column in this world for an answer, and that this city has known that for a hundred and forty years and has been protected by it, and that the protection has a cost which nobody has ever put on a page because the protection is that nothing comes back.**
+And what they found out was that there is no column in this world for an answer, and that this city has known that for a hundred and forty years and has been protected by it, and that the protection has a cost which nobody has ever put on a page because the protection is that nothing comes back.
 
 Nine days ago a case went down this river with eight columns in it, and the eighth column is headed *person to be asked*, and it is answered with a question and not with a name, and the question is four sentences long and it names nobody, and the man it is about read it out twice in a room in daylight before it went in the case and asked for that to be entered.
 
@@ -28,7 +28,7 @@ Nobody read it out. It is entered that nobody read it out, and that about four p
 
 ---
 
-**And the second thing about the wharf was worse than the first, and it took about nine minutes, and it is this: the document that was ended in a converted salt store nine days ago went down the same river on the eighty-ninth day of the flood, and no office has been told, and the reason no office has been told is that there is nowhere to tell them.**
+And the second thing about the wharf was worse than the first, and it took about nine minutes, and it is this: the document that was ended in a converted salt store nine days ago went down the same river on the eighty-ninth day of the flood, and no office has been told, and the reason no office has been told is that there is nowhere to tell them.
 
 "There is no column for it," said Sera Vail, fifty, a notary of twenty-six years, in the flat voice. "**A quarterly description describes a district. I have eight columns and seven of them are about this district and the eighth one is a question about a gate taken off a roll in a year that nobody living was in. The voidness of the undertaking is not a description of a district. It is a description of a document. And the only place in four hundred miles in which the voidness of that document exists is a book in this city, in my hand, on the second day of the month after this one, which was the ninety-second day of the flood.**"
 
@@ -42,7 +42,7 @@ Nobody improved on that. It is entered that nobody improved on it, and that a no
 
 ---
 
-**And then the room tried the only two things left, and the first was to send a second case, and the second was to send a person, and both of them were found to be impossible in about four minutes each, and neither of them took anybody anywhere.**
+And then the room tried the only two things left, and the first was to send a second case, and the second was to send a person, and both of them were found to be impossible in about four minutes each, and neither of them took anybody anywhere.
 
 The next case goes out at the quarter. **Four times a year.** A quarter is three months, and three months is about thirteen weeks, and the hearing is about eight, and so the next time this city can put anything at all in front of that office is about five weeks after the room in which it would have mattered sits down and goes home.
 
@@ -56,7 +56,7 @@ And the second thing is a person, and the finding is that there is no road in th
 
 ---
 
-**And the ninth person on that wharf had been standing at the end of it with his hands in the pockets of a coat he has not been able to replace since the first week, and he had not said anything for about nineteen minutes, and the reason he had not said anything is that for nineteen minutes there was nothing in it he could do, and that is a thing about him that a hundred and one days of this city have not had an occasion to notice.**
+And the ninth person on that wharf had been standing at the end of it with his hands in the pockets of a coat he has not been able to replace since the first week, and he had not said anything for about nineteen minutes, and the reason he had not said anything is that for nineteen minutes there was nothing in it he could do, and that is a thing about him that a hundred and one days of this city have not had an occasion to notice.
 
 "There is one thing," he said at last. "**I have been standing here being the man who reads numbers off walls, and there is no wall on this wharf. So I am going to say the number and then stop. There is no column in eight columns for a thing that comes back, and that is the finding, and the finding is a hundred and forty years old, and this city has been protected by it for a hundred and forty years.**"
 
@@ -66,7 +66,7 @@ And the second thing is a person, and the finding is that there is no road in th
 
 ---
 
-**And at about the ninth hour of the morning a woman of twenty-four said out loud that this shape has a name, and the name was given in a room on the first day of the month after this one, in daylight, with a date on it, in his own hand, four days early, and about nine people on that wharf heard it and a docker of fifty-eight who cannot read was one of the nine, and about four people standing at the end of the wharf had not been in that room, and one of those four asked what the two words were and was answered by the woman of about thirty-four who keeps a stall, and it is entered that she did not say them.**
+And at about the ninth hour of the morning a woman of twenty-four said out loud that this shape has a name, and the name was given in a room on the first day of the month after this one, in daylight, with a date on it, in his own hand, four days early, and about nine people on that wharf heard it and a docker of fifty-eight who cannot read was one of the nine, and about four people standing at the end of the wharf had not been in that room, and one of those four asked what the two words were and was answered by the woman of about thirty-four who keeps a stall, and it is entered that she did not say them.
 
 "They are on a page," she said. "**In his own hand. With the date on them. And they are two words and I am not going to say them to you in the rain because I was not asked to be the person who repeats them, and I have been in nine rooms in four days and I have watched what happens when a person repeats a name somebody else gave out loud in a place with people in it.**"
 
@@ -82,7 +82,7 @@ And the man with the good coat, who was standing at the end of the wharf and had
 
 ---
 
-**And then it was about the ninth hour of the morning and the rain had not stopped, and a boy of nine was standing at the end of the boards with a slate under his arm, and a woman of twenty-nine asked him what he was doing there, and he said he was waiting to be told, and everybody on that wharf understood in about four seconds what a nine-year-old means by that, because this city has been putting children on roads with documents in it for a hundred and one days.**
+And then it was about the ninth hour of the morning and the rain had not stopped, and a boy of nine was standing at the end of the boards with a slate under his arm, and a woman of twenty-nine asked him what he was doing there, and he said he was waiting to be told, and everybody on that wharf understood in about four seconds what a nine-year-old means by that, because this city has been putting children on roads with documents in it for a hundred and one days.
 
 "You carried a cost column eleven miles," said a woman of twenty-four. "**In the wrong weather. On the first of March, which was the sixtieth day of the new month and the eighty-fifth day of the flood. It is in a book and it says *a boy of about nine who ran* and it does not say Tam and that is the only reason I have known for sixteen days who carried it.**"
 
@@ -104,4 +104,4 @@ It was written. **And it is entered that nobody on that wharf asked him anything
 
 Adrian Vale is Stage 2, Passage holder, in the doing, and holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and performed no working today. **There have been twenty-seven things the wall has said in this city, one of them has been refused, and a morning on a wharf in the rain in which a man of thirty-two found out that nothing he is can move anything is a twelfth silence, and the pattern is twelve for twelve.** The black line in his right palm is one hundred days old and has not moved one sixteenth of an inch.
 
-**And nine people are going up a nine-mile road on the nineteenth day of the month after this one, in a month that is not March, and a boy of nine asked who was going and said yes before he was asked, and nobody wrote a list.**
+And nine people are going up a nine-mile road on the nineteenth day of the month after this one, in a month that is not March, and a boy of nine asked who was going and said yes before he was asked, and nobody wrote a list.

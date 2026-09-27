@@ -16,13 +16,13 @@ The water did not come from the Reach. It came from about two days of rain on th
 
 ---
 
-**And the clearing of it is a job and not a thought, and it took six hours, and it went wrong twice, and the wrongness of it is what the day was.**
+And the clearing of it is a job and not a thought, and it took six hours, and it went wrong twice, and the wrongness of it is what the day was.
 
 First: about nine people from the store put nine barrows on the causeway at the top end and carried nothing, because the top end is four feet above the low end and the low end is under water, and a barrow cannot be carried into water, and about nine people had to stand at the low end in it and pull, which is the worst work on a causeway and the settlement has never once asked anybody to do it and did not know until the Saturday morning that it was going to have to.
 
 Second, and this is the one that matters: at about the first hour of the afternoon about nine people from the flats came down off the channel without being asked and started pulling, and nobody from the store had asked them, and nobody from the flats had offered, and about nine people in two groups stood about nine feet apart and pulled on the same rope for about two hours and did not discuss it.
 
-**And a man of about thirty-nine who trades on the Open Hand board stood at the low end and said where the silt goes, and it is the same sentence he said on the twenty-fifth day of the Long Month about a mound on a flat four hundred yards away, and this time there was no mound, because there is no bank at the bottom of a causeway. It goes in the water. And about nine people stopped, and the man of about thirty-nine said a second sentence, and it is in the ordinary course of a day of work and it is fifty-seven words.**
+And a man of about thirty-nine who trades on the Open Hand board stood at the low end and said where the silt goes, and it is the same sentence he said on the twenty-fifth day of the Long Month about a mound on a flat four hundred yards away, and this time there was no mound, because there is no bank at the bottom of a causeway. It goes in the water. And about nine people stopped, and the man of about thirty-nine said a second sentence, and it is in the ordinary course of a day of work and it is fifty-seven words.
 
 "**It goes in the channel and the channel takes it to the racks and the racks have got four hundred and forty of them and nine days' work on them, and if a hundred and forty measures of silt goes down that channel this week then the racks stop draining and the salt on them is gone.**"
 
@@ -30,7 +30,7 @@ Then a man of about forty-two said, in about four seconds, that he would pay for
 
 ---
 
-**And then the thing that happened is the reason a Warden exists, and it is on the page, and it is not a scene, and it took about four minutes and it is the fourth line of a cost read out in full on the seventh day of the Long Month and in daylight with a date on it.**
+And then the thing that happened is the reason a Warden exists, and it is on the page, and it is not a scene, and it took about four minutes and it is the fourth line of a cost read out in full on the seventh day of the Long Month and in daylight with a date on it.
 
 A woman of about thirty-eight who keeps the gate at the bottom of that channel came out of the gateway with a bar in her hand and put herself at the low end of the causeway, and nobody had asked her to, and nobody had thought of asking her, and the whole of what a groundkeeper's workway is for arrived at a gate on a Saturday morning without anybody organising it.
 
@@ -46,7 +46,7 @@ The fourth line, in the words of the person who offered it, in a room, in daylig
 
 ---
 
-**And at about the fourth hour of the afternoon a man of about thirty-four who keeps a stall came down the flats on foot and watched about nine people from a store pull a rope with about nine people from the flats, and then he said the only thing he said all day, and nobody improved on it.**
+And at about the fourth hour of the afternoon a man of about thirty-four who keeps a stall came down the flats on foot and watched about nine people from a store pull a rope with about nine people from the flats, and then he said the only thing he said all day, and nobody improved on it.
 
 "They are being paid."
 
@@ -58,7 +58,7 @@ The fourth line, in the words of the person who offered it, in a room, in daylig
 
 ---
 
-**And the six hours themselves are on the page, and everything anybody said that day is a thing said about the work.**
+And the six hours themselves are on the page, and everything anybody said that day is a thing said about the work.
 
 Pulling a rope in about a foot of water at the bottom of a causeway is about nine people doing a thing that cannot be done well, and it got done the way things get done in a hundred and eighty-seven days in this world, which is that about four people who have watched it get good at it and about five who have not. The salt silt at the low end is not silt. It is fine and it is heavy and it goes down a boot and comes up in a cake, and about nine people had no boots and about nine of them had boots they did not want to ruin and about four people ruined a pair and about nine people have not been repaid for two pairs and a woman of about thirty-four who keeps a stall by the wharf has written down that she will pay for them out of her own hand and a man of about thirty-four who keeps a stall has told her twice that a favour is a thing that stops.
 
@@ -74,7 +74,7 @@ And a man of about twenty-nine from the settlement's workroom wrote both of thos
 
 ---
 
-**And at about the seventh hour of the evening the causeway was clear enough to walk a barrow down and not enough to take a load up, and the store did not send anybody to look at it, and the store did not tell the flats it was clear, and about four people on the flats went up and looked at it themselves at about the eighth hour, in the dark, with a lamp, and about nine measures of salt had gone into the water and about nine hundred and nine measures were on the page and both numbers were right.**
+And at about the seventh hour of the evening the causeway was clear enough to walk a barrow down and not enough to take a load up, and the store did not send anybody to look at it, and the store did not tell the flats it was clear, and about four people on the flats went up and looked at it themselves at about the eighth hour, in the dark, with a lamp, and about nine measures of salt had gone into the water and about nine hundred and nine measures were on the page and both numbers were right.
 
 The next load goes up on the thirty-fifth day of the Long Month, which is a Tuesday, and the queue at the store works on a Tuesday, and about nine people in that store have not stopped working and about nine people on those flats have not stopped working either, and a man of about forty-two has entered in a book of his own that goes nowhere that the thirty-second day of the Long Month cost the store about nine measures of salt and about a day and a half of two grounds' worth of labour, and that he will not be writing the other half of that sentence down.
 
@@ -82,6 +82,6 @@ The next load goes up on the thirty-fifth day of the Long Month, which is a Tues
 
 ---
 
-**And a man of about thirty-two was eleven miles away in this city on the thirty-second day of the Long Month and did not know any of it until about the ninth hour of the evening, and about four people have said that the thing he did not predict was not the water and was not the causeway, and that it is not going to be possible to write in about four months that nobody in this city could have predicted it, and that being right on a page about a thing that was going to happen anyway is not being right, and that nobody has worked out how to say that in a column yet.**
+And a man of about thirty-two was eleven miles away in this city on the thirty-second day of the Long Month and did not know any of it until about the ninth hour of the evening, and about four people have said that the thing he did not predict was not the water and was not the causeway, and that it is not going to be possible to write in about four months that nobody in this city could have predicted it, and that being right on a page about a thing that was going to happen anyway is not being right, and that nobody has worked out how to say that in a column yet.
 
-**Nine hundred and nine on a page in a hand that is not a clerk's, and nine measures in the water, and both numbers are right.**
+Nine hundred and nine on a page in a hand that is not a clerk's, and nine measures in the water, and both numbers are right.

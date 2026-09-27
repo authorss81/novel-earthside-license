@@ -20,7 +20,7 @@ About nine people were in it at about the eighth hour of the morning. About two 
 
 ---
 
-**And about the ninth hour of the morning a man of about thirty-four who keeps a stall asked whether anybody had written down what this city was going to do today, and about nine people in that room looked at each other, and nobody had, and about four of them had written down what they were going to do and about five had not, and that is the finding in a form anybody could check.**
+And about the ninth hour of the morning a man of about thirty-four who keeps a stall asked whether anybody had written down what this city was going to do today, and about nine people in that room looked at each other, and nobody had, and about four of them had written down what they were going to do and about five had not, and that is the finding in a form anybody could check.
 
 "Nobody has written it down because there is nothing on it."
 
@@ -34,7 +34,7 @@ And the nine sentences are these, and they are in his own hand and he read them 
 
 ---
 
-**At about the eleventh hour a man of about forty-four who keeps a stall stood at the back of that room and said something that about four people in this city have said is the only thing anybody got right in a hundred and eighty-nine days, and he said it once and has not said it since.**
+At about the eleventh hour a man of about forty-four who keeps a stall stood at the back of that room and said something that about four people in this city have said is the only thing anybody got right in a hundred and eighty-nine days, and he said it once and has not said it since.
 
 "**I have been asked one question properly in a hundred and eighty-nine days. It was on the forty-seventh day of the month after this one, in a room, in daylight, on a day I did not choose, and the question was given to me in writing four days beforehand, and I said no, and it took about four seconds, and I asked in advance not to be thanked and nobody thanked me, and the fifty-two days since that day are not going to be counted again.**"
 
@@ -46,7 +46,7 @@ And the nine sentences are these, and they are in his own hand and he read them 
 
 ---
 
-**And the whole of the day is the day, and here is what it was, and it is on the page because a day that a city waits for is a thing nobody has written down in a hundred and eighty-nine days.**
+And the whole of the day is the day, and here is what it was, and it is on the page because a day that a city waits for is a thing nobody has written down in a hundred and eighty-nine days.
 
 **The morning.** A man of about thirty-two stood at the back of the room for about four hours and said almost nothing and about four people have said that the almost-nothing is the first time in a hundred and eighty-nine days that he has been in a room for a whole day and has not tried to be in it, and that nobody thought of asking him whether the day suited him, because the day was not a thing he was party to.
 
@@ -70,7 +70,7 @@ And the nine sentences are these, and they are in his own hand and he read them 
 
 ---
 
-**And at about the sixth hour of the evening a man of about thirty-two said one thing out loud in that room and it is on the page because it is the only sentence in a hundred and eighty-nine days that anybody has improved on, and it is six words, and a woman of twenty-four entered it in her own hand with the date on it and did not read it back.**
+And at about the sixth hour of the evening a man of about thirty-two said one thing out loud in that room and it is on the page because it is the only sentence in a hundred and eighty-nine days that anybody has improved on, and it is six words, and a woman of twenty-four entered it in her own hand with the date on it and did not read it back.
 
 "**It ends at the last hour.**"
 
@@ -82,13 +82,13 @@ Nobody asked what ended.
 
 "**A man of thirty-nine who trades on the Open Hand board said at about the seventh hour this evening that a thing that was going to arrive on a day and did not is a different kind of information from a thing that arrives, and he is right, and the other half of it is that a thing that was going to happen on a day and did not is a different kind of information from a thing that happens, and about four people in this room have been counting the first one all day and not one of you has counted the second one, and the second one is me, and it is the twenty-fifth day, and it ends at the seventh hour, and about two hundred and forty people can hear me and I would like that entered and I would like the entering of it to happen whether I asked for it or not.**"
 
-**And a man of about thirty-four who keeps a stall said that nobody had counted the second one because a thing that was going to happen and did not is a thing a person does, and not a thing an office does, and that a room over a market in this city had spent a hundred and eighty-nine days building an instrument for offices and had one person in it who was going to find out on his own account, and that this was not going to be a thing anybody wrote down and it was going to be the only thing that happened today, and he was right, and about four people in that room did not argue with him, and about four of them have said since that the reason they did not argue is that he had said *a person* and a man of about thirty-four who keeps a stall has been careful with that word since the second month of this flood.**
+And a man of about thirty-four who keeps a stall said that nobody had counted the second one because a thing that was going to happen and did not is a thing a person does, and not a thing an office does, and that a room over a market in this city had spent a hundred and eighty-nine days building an instrument for offices and had one person in it who was going to find out on his own account, and that this was not going to be a thing anybody wrote down and it was going to be the only thing that happened today, and he was right, and about four people in that room did not argue with him, and about four of them have said since that the reason they did not argue is that he had said *a person* and a man of about thirty-four who keeps a stall has been careful with that word since the second month of this flood.
 
 ---
 
 ---
 
-**And at about the seventh hour of the evening, something that was due did not happen, and a man of about thirty-nine who trades on the Open Hand board said what that is, in about nine sentences, and he did not name a gate, a household or a person.**
+And at about the seventh hour of the evening, something that was due did not happen, and a man of about thirty-nine who trades on the Open Hand board said what that is, in about nine sentences, and he did not name a gate, a household or a person.
 
 "**A return was due today.**"
 
@@ -110,7 +110,7 @@ Somebody at the back of the market said *how is it different.*
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf said the half of it that nobody had said, and she has been on nothing for a hundred and eighty-nine days and she said so first, and she is the person in this city who names a price before anybody says yes.**
+And a woman of about thirty-four who keeps a stall by the wharf said the half of it that nobody had said, and she has been on nothing for a hundred and eighty-nine days and she said so first, and she is the person in this city who names a price before anybody says yes.
 
 "**It is not bad and it is not good and I am not going to have either word in a yard tonight, and about four people in this city have been waiting a hundred and eighty-nine days for a thing to come back from nine hundred miles and I am telling them now that when it comes it will be a figure and a form and a name that is not anybody's, and that nobody in four hundred miles can act on it and nobody in nine hundred miles can be asked anything about it before the next quarter.**"
 
@@ -122,4 +122,4 @@ Nobody made a sound and about four people in a yard in this city have said since
 
 ---
 
-**A slate in a hand that is not a clerk's and is not a woman's hand either, with a date on it that is four days behind the day the return came up a river. The woman of twenty-four entered it in her own hand and did not read it back.**
+A slate in a hand that is not a clerk's and is not a woman's hand either, with a date on it that is four days behind the day the return came up a river. The woman of twenty-four entered it in her own hand and did not read it back.

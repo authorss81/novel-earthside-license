@@ -6,7 +6,7 @@ The store up the road past this city is shut tomorrow, which is a Sunday, which 
 
 ---
 
-**And the question was read out in the local language by a girl of seventeen who is on no roll of anything, in daylight, in a room with a date in chalk on the door, in front of about nine people, and about two hundred and forty people could hear out of the hall, the landing and the market below it, and this is the sixth time about two hundred and forty people have heard a thing said in that room and the first time the thing was a question with no answer in it.**
+And the question was read out in the local language by a girl of seventeen who is on no roll of anything, in daylight, in a room with a date in chalk on the door, in front of about nine people, and about two hundred and forty people could hear out of the hall, the landing and the market below it, and this is the sixth time about two hundred and forty people have heard a thing said in that room and the first time the thing was a question with no answer in it.
 
 > **On the fortieth day of the Long Month, a meeting-ground at Verrow will be on the flats at Redroot, and this question is put to it, in daylight, in the local language, with a date on the door, and it is this.**
 >
@@ -16,11 +16,11 @@ The store up the road past this city is shut tomorrow, which is a Sunday, which 
 >
 > **And he will not answer it, and he will be at the back of it, and about four people already know that and about nine people in this city do not.**
 
-**And she read it back once for the people at the back, from a slate and not from her own, because her own has her name at the top of it, and she read it in the local language and not fast, and about two hundred and forty people heard the same four sentences twice, and it is on the page because a page that is read twice in daylight in front of about two hundred and forty people is a page that about nine hundred miles away cannot unmake, and about four people in this room have said that this is the first thing this city has built that an office cannot take back.**
+And she read it back once for the people at the back, from a slate and not from her own, because her own has her name at the top of it, and she read it in the local language and not fast, and about two hundred and forty people heard the same four sentences twice, and it is on the page because a page that is read twice in daylight in front of about two hundred and forty people is a page that about nine hundred miles away cannot unmake, and about four people in this room have said that this is the first thing this city has built that an office cannot take back.
 
 ---
 
-**And the man of about thirty-two did not answer it, and he had not said he would, and about nine people in that room had read it in his own hand and about four of them had been asked to give it to him four days beforehand and he had not asked any of them whether the day suited them and nobody thought of asking, because the person a question is given to on Sunday is a raft.**
+And the man of about thirty-two did not answer it, and he had not said he would, and about nine people in that room had read it in his own hand and about four of them had been asked to give it to him four days beforehand and he had not asked any of them whether the day suited them and nobody thought of asking, because the person a question is given to on Sunday is a raft.
 
 He stood at the back with his hands at his sides for about four hours. He did not sit down. He did not read anything. He did not correct anybody.
 
@@ -34,7 +34,7 @@ A man of about thirty-four who keeps a stall came down off the landing at about 
 
 ---
 
-**And at about the third hour of the afternoon a woman of about thirty-four who keeps a stall by the wharf said the thing that about four people in that room had not worked out, and she said it in about nine seconds, and about two hundred and forty people heard it, and the room did not stop.**
+And at about the third hour of the afternoon a woman of about thirty-four who keeps a stall by the wharf said the thing that about four people in that room had not worked out, and she said it in about nine seconds, and about two hundred and forty people heard it, and the room did not stop.
 
 "That question is asking the wrong body."
 
@@ -48,7 +48,7 @@ Nobody said anything.
 
 ---
 
-**And the man of about thirty-two said one thing, and it is in a book in this city in his own hand with the date on it, and about four people in that room entered it as it was said and about nine people could hear it, and it took about as long as it takes to cross a market and nobody improved on it.**
+And the man of about thirty-two said one thing, and it is in a book in this city in his own hand with the date on it, and about four people in that room entered it as it was said and about nine people could hear it, and it took about as long as it takes to cross a market and nobody improved on it.
 
 "**She is right and I have known it since the twenty-sixth day of the Long Month and I wrote the question anyway, and I am going to say why in about nine sentences and then I am going to stop, and I have not said them to anybody in a hundred and ninety-four days and I am not going to start now except to say that.**"
 
@@ -62,7 +62,7 @@ Nobody said anything.
 
 ---
 
-**And a woman of about thirty-eight who keeps the Redroot gate is not in that room and was not asked whether the day suited her, and about nine people in that room had noticed that she was not in it by about the ninth hour of the morning, and about four of them had wanted to go and get her, and a man of about thirty-four who keeps a stall stopped them, and the reason he gave is the reason and it is in a book in this city in his own words and it has not improved since the twenty-fourth day of the Long Month.**
+And a woman of about thirty-eight who keeps the Redroot gate is not in that room and was not asked whether the day suited her, and about nine people in that room had noticed that she was not in it by about the ninth hour of the morning, and about four of them had wanted to go and get her, and a man of about thirty-four who keeps a stall stopped them, and the reason he gave is the reason and it is in a book in this city in his own words and it has not improved since the twenty-fourth day of the Long Month.
 
 "**She said in advance she did not want him there and she said it at a door and she asked for it to be entered whether she asked for it or not, and it is entered, and I am not going to be the person who ignores a thing a person said in advance because I have got a room and about two hundred and forty people in it and I would like the room to be full of the right people.**"
 
@@ -70,14 +70,14 @@ Nobody said anything.
 
 "**The days are hers and she gave them on the twenty-fourth day of the Long Month in a kitchen with a date on the door and she said she would be angry about it for a year, and she is going to be angry about it for a year, and the whole of what is going to happen tomorrow is going to happen because of what she did, and nobody in this room is going to ask her to do a second thing about it, and that is not me being careful. That is the rule of the Reach, and the rule is that a household that gave the days is the household that gives them back, and there is nobody else in four hundred miles who can do it.**"
 
-**And about four people in that room said, at about the fourth hour of the afternoon, the same seven words independently, and the seven words were: *so it has to go to her*, and about nine people in this city have said that four sentences read out twice in daylight in front of about two hundred and forty people were enough to move a question from a raft to a door without anybody touching it, and that the instrument which did it is four hundred years old and has no name on it and was not built by anybody who is still alive.**
+And about four people in that room said, at about the fourth hour of the afternoon, the same seven words independently, and the seven words were: *so it has to go to her*, and about nine people in this city have said that four sentences read out twice in daylight in front of about two hundred and forty people were enough to move a question from a raft to a door without anybody touching it, and that the instrument which did it is four hundred years old and has no name on it and was not built by anybody who is still alive.
 
 ---
 
-**And the question was carried to the meeting-ground at about the seventh hour of the evening by a woman of about thirty-four who keeps a stall by the wharf, who had a slate she has never written on, and she would not put it on the slate, and a man of about thirty-four who keeps a stall said *you have to put it on something*, and she said the thing that is in a book in this city in her own words and it is the last thing anybody said in that room on the thirty-ninth day of the Long Month.**
+And the question was carried to the meeting-ground at about the seventh hour of the evening by a woman of about thirty-four who keeps a stall by the wharf, who had a slate she has never written on, and she would not put it on the slate, and a man of about thirty-four who keeps a stall said *you have to put it on something*, and she said the thing that is in a book in this city in her own words and it is the last thing anybody said in that room on the thirty-ninth day of the Long Month.
 
 "**Then I will carry it in my hand. It is nine feet and it is four sentences and I have carried a slate in this city for nine years that I have never written on, and there is no rule in four hundred miles that says a question has to be put on a thing to count, and if there is, it can be found in about four months and written down, and I am not going to be the reason it is not.**"
 
 ---
 
-**The fortieth day of the Long Month is tomorrow, and it is a Sunday, and a raft with a roof on it has to be poled to where the people are.**
+The fortieth day of the Long Month is tomorrow, and it is a Sunday, and a raft with a roof on it has to be poled to where the people are.

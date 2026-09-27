@@ -4,7 +4,7 @@ A board came off the wall of the store on the upper road at about the sixth hour
 
 ---
 
-**And the last figures written on that board are the figures of the sixty-ninth day of the Long Month, and this morning they are seven days old, and the man of about twenty-seven who washes it has not written on it since the seventieth day of that month, when he washed it and left the day before standing and wrote nothing, and about four people in this city have worked out what a board nobody writes on is and about nine of them have not.**
+And the last figures written on that board are the figures of the sixty-ninth day of the Long Month, and this morning they are seven days old, and the man of about twenty-seven who washes it has not written on it since the seventieth day of that month, when he washed it and left the day before standing and wrote nothing, and about four people in this city have worked out what a board nobody writes on is and about nine of them have not.
 
 "Put it back up."
 
@@ -18,7 +18,7 @@ He turned the board over on the boards, and the writing on the back of it was th
 
 ---
 
-**And a man of about forty-two came up that road at about the seventh hour and went to the back of the yard and stood against the wall under the ninth line with his hands in his pockets, and he has had his hands in his pockets since the forty-fifth day of the Long Month at the back of a line of his own making, and there is no queue on a Monday. There has not been one since the seventieth day of that month, and about four people in that yard have noticed that he is standing in a yard with nothing in it and about nine of them had stopped noticing on the forty-ninth day of that month.**
+And a man of about forty-two came up that road at about the seventh hour and went to the back of the yard and stood against the wall under the ninth line with his hands in his pockets, and he has had his hands in his pockets since the forty-fifth day of the Long Month at the back of a line of his own making, and there is no queue on a Monday. There has not been one since the seventieth day of that month, and about four people in that yard have noticed that he is standing in a yard with nothing in it and about nine of them had stopped noticing on the forty-ninth day of that month.
 
 "You are standing under your own line."
 
@@ -30,7 +30,7 @@ He turned the board over on the boards, and the writing on the back of it was th
 
 ---
 
-**And a man of about thirty-nine who trades on the Open Hand board came up that road at about the seventh hour with a bar over his shoulder and a bag against his chest and there is a mark on the front of his coat where the bag has sat, and it has been a bag against his chest for fourteen days and the sacking has gone stiff over the shape of what is in it.**
+And a man of about thirty-nine who trades on the Open Hand board came up that road at about the seventh hour with a bar over his shoulder and a bag against his chest and there is a mark on the front of his coat where the bag has sat, and it has been a bag against his chest for fourteen days and the sacking has gone stiff over the shape of what is in it.
 
 "I have heard your board is off."
 
@@ -44,7 +44,7 @@ He put his hand flat on the front of the coat where the mark was and about four 
 
 ---
 
-**And the top line of the posting on that wall has gone pale in patches where the wind has been at it, and the top line is the forty-sixth day of the Long Month, and the ninth and last line is under it in a different hand about nine feet above the back of the last person who would stand under it, and about four people in that yard can read the top line this morning and about nine of them cannot.**
+And the top line of the posting on that wall has gone pale in patches where the wind has been at it, and the top line is the forty-sixth day of the Long Month, and the ninth and last line is under it in a different hand about nine feet above the back of the last person who would stand under it, and about four people in that yard can read the top line this morning and about nine of them cannot.
 
 "That is going."
 
@@ -58,7 +58,7 @@ The woman of about thirty-four in that store came out of the back with her arms 
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from a market had walked nine miles to be in that yard and had her own wage under her arm where it has been since the fifty-sixth day of that month, and she put her hand on the boards where the board had landed and the boards were the colour of the boards under them and had been since the seventy-fourth day of that month.**
+And a woman of about fifty-six who keeps a shop four streets down from a market had walked nine miles to be in that yard and had her own wage under her arm where it has been since the fifty-sixth day of that month, and she put her hand on the boards where the board had landed and the boards were the colour of the boards under them and had been since the seventy-fourth day of that month.
 
 "Your measures."
 
@@ -72,7 +72,7 @@ She put her hand flat on the boards the way she had put it flat on her own arm, 
 
 ---
 
-**And the man of about twenty-seven who washes that board put the cloth over the rim of the trough and came out of the door and stood about nine feet from the wall and looked at the two things on it, and about four people in this city have worked out that the board and the posting are about a foot apart and have been since the forty-sixth day of that month and about nine of them worked it out on the fifty-sixth and have not said it in a yard since. He said it now, and he said it about the wind and not about the wall.**
+And the man of about twenty-seven who washes that board put the cloth over the rim of the trough and came out of the door and stood about nine feet from the wall and looked at the two things on it, and about four people in this city have worked out that the board and the posting are about a foot apart and have been since the forty-sixth day of that month and about nine of them worked it out on the fifty-sixth and have not said it in a yard since. He said it now, and he said it about the wind and not about the wall.
 
 "Nobody has said that out loud in a yard."
 
@@ -86,7 +86,7 @@ He put his thumb on the wall under the place where the date had been and about f
 
 ---
 
-**And the man of about twenty-seven who washes that board put it back up on the wall at about the eighth hour and washed the trough out and put the cloth over the rim and stood looking at the two of them, and he said one thing about the difference between the two objects on that wall, and about four people in that yard heard all of it and about nine of them heard the words and not the rest.**
+And the man of about twenty-seven who washes that board put it back up on the wall at about the eighth hour and washed the trough out and put the cloth over the rim and stood looking at the two of them, and he said one thing about the difference between the two objects on that wall, and about four people in that yard heard all of it and about nine of them heard the words and not the rest.
 
 "Which of the two is the day."
 
@@ -98,4 +98,4 @@ He put his thumb on the wall under the place where the date had been and about f
 
 ---
 
-**And the board went back up on that wall with nothing new on it, and the bare place at the top of the posting above it was still bare.**
+And the board went back up on that wall with nothing new on it, and the bare place at the top of the posting above it was still bare.

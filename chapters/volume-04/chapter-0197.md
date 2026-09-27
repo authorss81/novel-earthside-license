@@ -6,7 +6,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 ---
 
-**And it went up as a column, one line a week, dated, with the number against each, and it is on a wall in a room in this city, and about four people in this city have said since that a wall in a room is the cheapest thing in it and there is already one and this one is now a page.**
+And it went up as a column, one line a week, dated, with the number against each, and it is on a wall in a room in this city, and about four people in this city have said since that a wall in a room is the cheapest thing in it and there is already one and this one is now a page.
 
 "**You have put a hundred and fifty-eight days of a man's pencil on a wall in a room where anybody can come in.**"
 
@@ -22,7 +22,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 ---
 
-**And the man of about forty-four who keeps a stall came up nine miles at about the sixth hour of the evening to see a column on a wall, and he did not like it, and he said the one thing about it that about four people in this city have said is the correct thing to say about a correct number, and it is in a book in this city in his own words.**
+And the man of about forty-four who keeps a stall came up nine miles at about the sixth hour of the evening to see a column on a wall, and he did not like it, and he said the one thing about it that about four people in this city have said is the correct thing to say about a correct number, and it is in a book in this city in his own words.
 
 "**I have kept a cost column in my own book for four years. Eleven entries in one month and no figure on the end of any of them and no twelfth, and one field was paid on the thirteenth day of the Long Month and the column did not move, and that is thirty days ago and it has not moved since and it is not going to. I have never shown that book to anybody. About four people in this city know I keep it. And I have come up nine miles today to stand in front of a number somebody else has written on a wall in chalk, and I would like it entered that the two of those things are the same thing and that I have not been able to make myself say so in a room.**"
 
@@ -32,7 +32,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 ---
 
-**And it went up the wall in about four minutes, one line a week, dated, and the chalk was his own, and about four people in that room have said that the fastest hand in this city is a man of twenty-nine who has spent nineteen days finding out that he cannot get anything sent anywhere.**
+And it went up the wall in about four minutes, one line a week, dated, and the chalk was his own, and about four people in that room have said that the fastest hand in this city is a man of twenty-nine who has spent nineteen days finding out that he cannot get anything sent anywhere.
 
 "**I have a book of my own that goes nowhere. It has got the fourth line read out wrong on purpose in it and the twenty-first day of the Long Month in it and the thirty-eighth in it, and about nine entries, and I have read it back twice this month and I have shown it to nobody, and today I am going to write a hundred and fifty-eight on a wall in somebody else's room, and that is the first time anything of mine has left me and gone somewhere somebody else can stand in front of it.**"
 
@@ -42,7 +42,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf said the whole of the forty-third day of the Long Month at about the fifth hour of the afternoon in four sentences, and nobody improved on them and a man of about twenty-nine wrote the first one on the wall under the column without being asked.**
+And a woman of about thirty-four who keeps a stall by the wharf said the whole of the forty-third day of the Long Month at about the fifth hour of the afternoon in four sentences, and nobody improved on them and a man of about twenty-nine wrote the first one on the wall under the column without being asked.
 
 "**A correct page is a page nobody can argue with. A page nobody can argue with is a page nobody can stop. I have been angry at pages since the seventh week of this flood and I have got about nine of them to be angry at and I have never once managed it, and the reason is that a page that is right does not have a person in it to be angry with.**"
 
@@ -52,7 +52,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 ---
 
-**And a woman of about thirty-four who keeps a stall and the woman of about thirty-four who keeps a stall by the wharf had the argument about a column on the same staircase at about the sixth hour of the afternoon, and neither of them conceded one word of it, and about four people who were in the hall heard both halves and have not resolved it since.**
+And a woman of about thirty-four who keeps a stall and the woman of about thirty-four who keeps a stall by the wharf had the argument about a column on the same staircase at about the sixth hour of the afternoon, and neither of them conceded one word of it, and about four people who were in the hall heard both halves and have not resolved it since.
 
 "**A number on a wall in the ordinary course is the most dangerous thing that has happened in this flood and I have been waiting since the seventh week of this flood for it.**"
 
@@ -64,7 +64,7 @@ It is a Wednesday. A man of about thirty-four who keeps a stall had asked the ma
 
 ---
 
-**And at about the seventh hour of the evening, in a yard with a market under it, about nine people who came through a wall in the second week of this flood each said one sentence, and about eight of them said a different one, and nobody made a count and nobody wrote anything down and nobody voted.**
+And at about the seventh hour of the evening, in a yard with a market under it, about nine people who came through a wall in the second week of this flood each said one sentence, and about eight of them said a different one, and nobody made a count and nobody wrote anything down and nobody voted.
 
 They had split once already, on the thirty-first day of the Long Month, between people who want a wage and people who want a name, and there had been no roll and no count and no vote then either, and the one person who could have written it down said no and gave a reason, and she said no again tonight, in nine words, and nobody argued with her.
 
@@ -78,7 +78,7 @@ They had split once already, on the thirty-first day of the Long Month, between 
 
 ---
 
-**And the woman of about thirty-four who keeps a stall by the wharf said the thing that had happened underneath it, and she said it before anybody asked her anything, and it is the reason nine and eight came out of a yard on the forty-third day of the Long Month and it is not anybody's number.**
+And the woman of about thirty-four who keeps a stall by the wharf said the thing that had happened underneath it, and she said it before anybody asked her anything, and it is the reason nine and eight came out of a yard on the forty-third day of the Long Month and it is not anybody's number.
 
 "**You have both read a number you cannot understand this morning and you have both decided something about it. Eight of you have decided that the man who can get forty people a week out of a city that cannot get one out is the safer answer to it. Nine of you have decided that a board with a date on it is. Nobody in this yard was asked to decide anything and about four of you have not realised that you did.**"
 
@@ -92,7 +92,7 @@ They had split once already, on the thirty-first day of the Long Month, between 
 
 ---
 
-**And a man of about thirty-four who keeps a stall said one thing at the end of it that is on the page because he said it in front of about nine people and about two hundred and forty who could hear, and nobody has improved on it, and it is the sentence this city has been arguing towards since the seventh week of this flood and it turns out to be four words.**
+And a man of about thirty-four who keeps a stall said one thing at the end of it that is on the page because he said it in front of about nine people and about two hundred and forty who could hear, and nobody has improved on it, and it is the sentence this city has been arguing towards since the seventh week of this flood and it turns out to be four words.
 
 "**Nobody has made a list.**"
 
@@ -104,4 +104,4 @@ They had split once already, on the thirty-first day of the Long Month, between 
 
 "**Then it is wrong and it will go on being wrong at one a day and there is no column anywhere in four hundred or nine hundred miles for the person who is wrong, and the girl of seventeen has been looking for one for about two days and there is not one and she has stopped looking.**"
 
-**No hand went up in that yard, and the salt on four hundred and forty racks went on drying, because salt does not stop drying.**
+No hand went up in that yard, and the salt on four hundred and forty racks went on drying, because salt does not stop drying.

@@ -6,7 +6,7 @@ It is a Friday. There has been no load up that road since the morning of the for
 
 ---
 
-**And about nine people were on that flat at about the fourth hour of the afternoon, and they were the same nine that had been on it on Sunday, and a rope and a bell and a board went up on the rail in the ordinary course at about the seventh hour of the morning, and the date on the board was the forty-fifth and the date under it was the forty-fourth and the date under that was the forty-first.**
+And about nine people were on that flat at about the fourth hour of the afternoon, and they were the same nine that had been on it on Sunday, and a rope and a bell and a board went up on the rail in the ordinary course at about the seventh hour of the morning, and the date on the board was the forty-fifth and the date under it was the forty-fourth and the date under that was the forty-first.
 
 The bell went twice and a boy of eight rang it both times and fixed it once without being told how, and about nine adults on that flat have not said anything about him since the twenty-fourth day of the Long Month, and about four of them have not been able to stop looking at the rail.
 
@@ -20,7 +20,7 @@ A woman of about thirty-four from a fourth household on the road stood at the en
 
 ---
 
-**And the whole of what is on that causeway is a road, and the whole of what is not on it is a gate eleven feet away from it, and a man of about thirty-four who keeps a stall stood at the foot of it at about the fifth hour of the afternoon with nine hundred measures in a yard behind him and said one thing to about nine people and did not improve on it and has not.**
+And the whole of what is on that causeway is a road, and the whole of what is not on it is a gate eleven feet away from it, and a man of about thirty-four who keeps a stall stood at the foot of it at about the fifth hour of the afternoon with nine hundred measures in a yard behind him and said one thing to about nine people and did not improve on it and has not.
 
 "**Nothing is going up it and nobody has stopped anything. That is the whole of what has happened on this road since Monday, and about nine people in this city are going to try to make it into something with a villain in it and there is not one, and I have been angry at this road since the seventh week of this flood and I am not going to stop being angry at it, and it is not a man, it is four miles of ground somebody took in the seventh week without asking.**"
 
@@ -30,7 +30,7 @@ A woman of about thirty-four from a fourth household on the road stood at the en
 
 ---
 
-**And the market under the room over the market was full at about the fifth hour of the afternoon on the forty-fifth day of the Long Month, and about two hundred and forty people were in it, and two sentences were said in it that afternoon that about two hundred and forty people in it had heard before, and neither of them was said to the other.**
+And the market under the room over the market was full at about the fifth hour of the afternoon on the forty-fifth day of the Long Month, and about two hundred and forty people were in it, and two sentences were said in it that afternoon that about two hundred and forty people in it had heard before, and neither of them was said to the other.
 
 A woman who dries salt on the flats said, to a woman standing next to her with a basket: **"A compact nobody can check is better than a list anybody can be angry at."**
 
@@ -38,9 +38,9 @@ And about an hour later a man with a barrow said, to nobody, at the other end of
 
 Both of them were right, and about four people in that market had heard both sentences, and about nine people have said since that neither of them helps anybody, and about four of those nine have said it in a market and about five have said it in a yard, and nobody has said it to a man of forty-one in a very good coat nine hundred miles away, and he is not going to be told.
 
-**And about four people in that market also said afterwards that a woman of fifty-eight who cannot read had been standing in it for about an hour, and that they had worked out at the same time where a man of forty-two was, and that the two of them have now been in a room on Thursday and in a market today and have found out nothing in either, and about nine of those four have stopped saying it out loud.**
+And about four people in that market also said afterwards that a woman of fifty-eight who cannot read had been standing in it for about an hour, and that they had worked out at the same time where a man of forty-two was, and that the two of them have now been in a room on Thursday and in a market today and have found out nothing in either, and about nine of those four have stopped saying it out loud.
 
-**And about two hundred and forty people in that market had heard eleven lines read out twice that morning, and about nine of them had heard a name said once, and neither of those things was on a board anywhere, and about four people in the market had tried all afternoon to find somebody who had not heard it and had not found anybody, and about nine of those four have said that a thing everybody has heard is not a thing anybody can be quietly against.**
+And about two hundred and forty people in that market had heard eleven lines read out twice that morning, and about nine of them had heard a name said once, and neither of those things was on a board anywhere, and about four people in the market had tried all afternoon to find somebody who had not heard it and had not found anybody, and about nine of those four have said that a thing everybody has heard is not a thing anybody can be quietly against.
 
 A woman of about thirty-four who keeps a stall by the wharf was in that market at about the fourth hour of the afternoon and she was not on the front of anything, and she had said her own name out loud once in a room that morning for the first time in nine years, and a woman of about fifty-six she had served for six years came up to her and said the name, and the woman of about thirty-four said it back to her, and about four people in that market saw it happen.
 
@@ -54,13 +54,13 @@ A woman of about thirty-four who keeps a stall by the wharf was in that market a
 
 ---
 
-**And nine miles up the road past this city the store was open and the queue was working, and the queue's day is a Tuesday and this is a Friday, and about thirty people had come anyway, and the wage came out of the store on a Tuesday, and about a hundred and forty people had been paid on the last one out of what was in it, and there are two weeks of that in a chest, and after two weeks nobody in that store knows.**
+And nine miles up the road past this city the store was open and the queue was working, and the queue's day is a Tuesday and this is a Friday, and about thirty people had come anyway, and the wage came out of the store on a Tuesday, and about a hundred and forty people had been paid on the last one out of what was in it, and there are two weeks of that in a chest, and after two weeks nobody in that store knows.
 
 A queue is a queue, and the thing about it that about four people in this city got wrong in the last three weeks and have now got right is that it does not matter that it is a queue. **It matters that it went.** About thirty people used that store today and the figures on the board were the day's own and not last Tuesday's, and about nine people were paid, and the wage came out of a chest that has two weeks in it, and about four people in that yard have said that this is the only functioning way out of this world, and it is a queue, and it works, and nobody in this city has any idea what to do about that.
 
 The board was washed and put up with the day's figures on it in a hand that has been at the front of that queue since the seventh week of this flood, and about a hundred and forty people read it standing in front of it, and a man of about twenty-nine from a workroom had copied it in four hands and one of the four was wrong by the figure nine and he had entered that he was the one who was wrong, and nobody took it off the wall.
 
-**And a man of about thirty-four who keeps a stall came up the road at about the fifth hour of the afternoon and stood in the yard of that store and did not go in, and about nine people saw him and about four of them came out, and he said the two things he had come to say and both of them were about a figure and neither of them was about the compact.**
+And a man of about thirty-four who keeps a stall came up the road at about the fifth hour of the afternoon and stood in the yard of that store and did not go in, and about nine people saw him and about four of them came out, and he said the two things he had come to say and both of them were about a figure and neither of them was about the compact.
 
 "**A hundred and fifteen days. That is what the thirty-nine men under the near gate of the Lock of Salt have gone unpaid, and the first of March was the sixtieth day of the new month, and that is a different debt from the one you are thinking about, and it did not change this week and it is not going to change this month.**"
 
@@ -78,4 +78,4 @@ A man of about thirty-one with a hand that will not close was in the queue with 
 
 ---
 
-**And at about the sixth hour of the evening a man of forty-two stood at the back of his own queue with his hands in his pockets, and there was nothing at the front of it that needed him and he was not going anywhere, and about nine people in that queue worked out where he was standing and about four of them worked out that he had come down the road on foot, and nobody turned him out.**
+And at about the sixth hour of the evening a man of forty-two stood at the back of his own queue with his hands in his pockets, and there was nothing at the front of it that needed him and he was not going anywhere, and about nine people in that queue worked out where he was standing and about four of them worked out that he had come down the road on foot, and nobody turned him out.

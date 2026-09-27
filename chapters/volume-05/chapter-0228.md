@@ -4,7 +4,7 @@ The far pan of the beam came apart in the yard of the store on the upper road at
 
 ---
 
-**And the lump went across the boards on its own and stopped against the leg of a trestle about nine feet away, and about four people in that yard went after it and about nine of them did not, and the woman of about thirty-four in that store was in the yard and did not go after it because she does not chase salt in front of about nine people. The man of about fifty-two who digs was standing at the beam with his hand still open and he did not go after it either.**
+And the lump went across the boards on its own and stopped against the leg of a trestle about nine feet away, and about four people in that yard went after it and about nine of them did not, and the woman of about thirty-four in that store was in the yard and did not go after it because she does not chase salt in front of about nine people. The man of about fifty-two who digs was standing at the beam with his hand still open and he did not go after it either.
 
 "That is the pan."
 
@@ -20,7 +20,7 @@ The far pan of the beam came apart in the yard of the store on the upper road at
 
 ---
 
-**And a man of about thirty-nine who trades on the Open Hand board came up that road at about the tenth hour with a bar over his shoulder and a bag against his chest and about nine people in that yard had been waiting for him since the seventy-second day of that month because there is a length of wood in this city and there is a beam and there is a lump, and he stopped at the gate and did not come in.**
+And a man of about thirty-nine who trades on the Open Hand board came up that road at about the tenth hour with a bar over his shoulder and a bag against his chest and about nine people in that yard had been waiting for him since the seventy-second day of that month because there is a length of wood in this city and there is a beam and there is a lump, and he stopped at the gate and did not come in.
 
 "**I have heard about the pan. I heard it at the top of a cut on the seventy-second day of the Long Month from a man who brought a length of wood up a bank and would not say whose rack it came off, and about four people in this yard are going to want me to say that I heard it from a rack, and I am not going to say that either, because I did not and he did not.**"
 
@@ -36,7 +36,7 @@ He put his hand flat on the near pan of that beam, which was sound, and about fo
 
 ---
 
-**And the woman of about thirty-four in that store said one thing about the pan and it was in a yard in daylight in front of about nine people and it was about a length of wood and not about a beam, and about four people in that yard had been waiting for her to say something about a beam and about nine of them had not.**
+And the woman of about thirty-four in that store said one thing about the pan and it was in a yard in daylight in front of about nine people and it was about a length of wood and not about a beam, and about four people in that yard had been waiting for her to say something about a beam and about nine of them had not.
 
 "**A beam is a length of iron and two lengths of wood. I have known that since the fifty-eighth day of that month and I did not know it until the lid was off a sack in a yard, and this morning one of the two lengths of wood is in two pieces on the floor of my yard, and there is no other length of wood in this city that a man can get without taking it off a rack, and I am not going to be the one who says that out loud a second time in a yard where about nine people have just heard it at the top of a cut.**"
 
@@ -48,7 +48,7 @@ Nobody in that yard said anything. The near pan of that beam was still level and
 
 ---
 
-**And a man of about thirty-two came up that road at about the eleventh hour and stopped at the gate of that yard and looked at the two pieces of a pan on the boards and about four people in that yard knew what he was and about nine of them had not, and he said one sentence and then stood there for about as long as it takes to say a thing twice.**
+And a man of about thirty-two came up that road at about the eleventh hour and stopped at the gate of that yard and looked at the two pieces of a pan on the boards and about four people in that yard knew what he was and about nine of them had not, and he said one sentence and then stood there for about as long as it takes to say a thing twice.
 
 "You could carry a length of wood up eleven miles in an afternoon."
 
@@ -60,7 +60,7 @@ Nobody in that yard said anything. The near pan of that beam was still level and
 
 ---
 
-**And a woman of about twenty-four who is on no roll of anything was in that yard at about the tenth hour with a slate under her arm and she has written down every decision this city has made since the second day of this flood, and she asked one question and about nine people in that yard heard it.**
+And a woman of about twenty-four who is on no roll of anything was in that yard at about the tenth hour with a slate under her arm and she has written down every decision this city has made since the second day of this flood, and she asked one question and about nine people in that yard heard it.
 
 "Shall I write this down."
 
@@ -72,7 +72,7 @@ Nobody in that yard said anything. The near pan of that beam was still level and
 
 She wrote the day at the top of it and then one line under it, and she did not write why, and about four people in that yard watched her leave the rest of the slate empty.
 
-**And about four people in that yard had wanted that yard to become a place where a pan broke on a Friday and about nine of them had wanted nothing to happen in it at all, and neither of those is written on the slate and neither of them is a thing anybody is going to be able to check in about nine years, and the woman of about twenty-four said so and nobody improved on it.**
+And about four people in that yard had wanted that yard to become a place where a pan broke on a Friday and about nine of them had wanted nothing to happen in it at all, and neither of those is written on the slate and neither of them is a thing anybody is going to be able to check in about nine years, and the woman of about twenty-four said so and nobody improved on it.
 
 "Who will know that it happened."
 
@@ -80,7 +80,7 @@ She wrote the day at the top of it and then one line under it, and she did not w
 
 ---
 
-**And the man of about fifty-two who digs picked the two pieces of the far pan up off the boards at about the eleventh hour and put them on the block of stone, and then he looked at the beam with one pan on it for a while, and about nine people in that yard had been waiting for him to say he would make another one and about four of them had been waiting for him to say he would not.**
+And the man of about fifty-two who digs picked the two pieces of the far pan up off the boards at about the eleventh hour and put them on the block of stone, and then he looked at the beam with one pan on it for a while, and about nine people in that yard had been waiting for him to say he would make another one and about four of them had been waiting for him to say he would not.
 
 "You will make another."
 
@@ -94,4 +94,4 @@ He left the beam on the block of stone in the middle of that yard with a sack in
 
 ---
 
-**And a beam stood in a yard nine miles up the upper road with one pan on it, and nobody took the wood.**
+And a beam stood in a yard nine miles up the upper road with one pan on it, and nobody took the wood.

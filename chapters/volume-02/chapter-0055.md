@@ -4,7 +4,7 @@ On the thirtieth day of the new month, which was the fifty-fifth day of the floo
 
 ---
 
-**The keeper's board is washed every Sunday morning and on the thirtieth day of the new month it was washed at about the seventh hour in front of about a hundred and forty people, and what went on afterwards was the four words and the fifth and nothing else on the keeper's side.**
+The keeper's board is washed every Sunday morning and on the thirtieth day of the new month it was washed at about the seventh hour in front of about a hundred and forty people, and what went on afterwards was the four words and the fifth and nothing else on the keeper's side.
 
 Nyla Ferrow does it herself, with a bucket and a cloth, and she reads out what comes off before she takes it off, and that is a rule she set herself in the first week and has never broken. On the sixteenth day of the new month she washed three lines that were her own, and she did not wash off a sentence a man had written about himself, and the reason is in the book in her words: *washing a man's own writing off a board is a decision and not a keeping.* On the sixteenth Adrian Vale washed off his own sentence with the same cloth, after reading it aloud, and the book has his reason for having written it: he wrote it because a man asked for the true reason and he did not have the man's.
 
@@ -12,7 +12,7 @@ On the thirtieth she washed the two days' worth of tide notes off the slate face
 
 Ottoline Vask's four items are on the other side of the door and were not washed and are not washed, and there is a reason for that on the page from the sixteenth day of the new month and the reason is hers: *if a name goes at the top of it I will read it out in a yard, and I have said that about a list before and I have been right about it.*
 
-**And the fifth item of the form on the nail was not the four words and it was not a keeper's labour, and it was added on the forty-ninth day of this flood by a docker of fifty-eight, and it is this:**
+And the fifth item of the form on the nail was not the four words and it was not a keeper's labour, and it was added on the forty-ninth day of this flood by a docker of fifty-eight, and it is this:
 
 > **That the person who reads the join-line in this city is told and asked, may say no, that the refusal is entered, that a refusal is asked again on a different day, and that it is a question and not a duty, and the day it becomes a duty somebody is to take it off the wall in daylight and say so.**
 
@@ -20,7 +20,7 @@ It is on a slate on a nail inside the arch of the lock chapel with a date on the
 
 ---
 
-**He did not put his hand up, which was the phrase, and the phrase was wrong, and the man who used it was a woman of fifty-eight who has never used it wrongly before.**
+He did not put his hand up, which was the phrase, and the phrase was wrong, and the man who used it was a woman of fifty-eight who has never used it wrongly before.
 
 Renna Ord stood in about two hundred and forty people at about the sixth hour and forty minutes of the morning of the thirtieth day of the new month and said: "Hettis Roke. **You have not put your hand up in nine years, so I am going to stop asking for a hand.** The fifth item says the person who reads the join-line is told and asked and may say no. There is a line of join under this chapel that has been dressed since the forty-ninth day and there are four of us who read it, and we are the four, and the slate says four people with no list and no name at the top of anything. Nyla Ferrow, who is seventy and keeps this floor and reads the line. Peth Lomas, who is fifty and a mason and is not of the crew and reads the number. Elsa Skell, who is forty-four and works the bottom field and reads the edge. And me. I cannot read. I read the join by standing on it twice a day for fifty-eight days and knowing whether it has moved, and that is not reading, and it is the only one of the four of us that anybody here has ever asked me how I do. I am reading that list out in a yard in daylight because it is a question and not a duty and I have been on a roll of nine for three days and I would like to be on one for this as well.
 
@@ -30,7 +30,7 @@ And the yard did what about two hundred and forty people do, which is to go comp
 
 Hettis Roke is forty-four years old. He is of the Hearthguard of the outer ward, nineteen years in. He read nineteen shapes aloud in a yard in front of about two hundred and ten people on the fortieth day of this flood. He cut a name upside down on a slab in the ordinary ground behind the ordinary wall on the sixteenth day of the new month because he is not a mason and nobody in that ground said so to him, and he said in advance that nobody was to come and say so to him and not to the man under it. He entered that he has watched about four hundred men be told a true thing in a yard and has never once seen a face do nothing on a true thing until a man in a good coat's face did nothing on the nineteenth day of the new month. He wrote the work in the fourth column of a stranger's rota wall on the twenty-fifth day and put a single number at the bottom of it and said nine seconds about why.
 
-**He said no, and then he said the other thing, and the other thing took about forty seconds, and it is the longest answer he has given in nine years and it is in the book in his own words and it is in the language of the room and it is not a sentence anybody had prepared for.**
+He said no, and then he said the other thing, and the other thing took about forty seconds, and it is the longest answer he has given in nine years and it is in the book in his own words and it is in the language of the room and it is not a sentence anybody had prepared for.
 
 "No," he said. "**Put me down. I do not want to read a line under a chapel on a Sunday and I have never wanted to and I am not going to pretend to you at seven in the morning in front of this many people that I have been waiting to be asked.**
 
@@ -38,13 +38,13 @@ Hettis Roke is forty-four years old. He is of the Hearthguard of the outer ward,
 
 "Then that is the entry," said Renna Ord, and made it, and the girl of seventeen took it down and the width of the column is entered as a fact for the second time in that year.
 
-**And then he said the other thing, and he said it to the yard and not to her, and about nine people noticed that he had changed the subject on purpose and about two hundred and thirty did not.**
+And then he said the other thing, and he said it to the yard and not to her, and about nine people noticed that he had changed the subject on purpose and about two hundred and thirty did not.
 
 "There is a thing I have not said in nine years and you have not asked me and I am going to say it, and I am not saying it because you asked, because you did not ask. **I am saying it because you have been reading a list out in a yard and a man is going to be on it, and there is a name on that list who has a thing in his ground, and if I am on that list then somebody will be able to find out what is in my ground, and I would rather say it in daylight in front of two hundred and forty people than have it found out in a room by a clerk.**"
 
 ---
 
-**And what he said was that the eight names were written down once.**
+And what he said was that the eight names were written down once.
 
 "**My grandfather held this gate. That is on the board and it has been on the board since before I was in the guard. When a man holds a gate he is given a roll of the dead of that gate, and he gives it to the Crown twice a year, and he keeps a copy, and the Crown takes the copy and the stones stay.**
 
@@ -58,7 +58,7 @@ The yard was in about two hundred and forty people and a man of forty-four had s
 
 ---
 
-**And the room worked it out in about one afternoon, and the working out is the most frightening thing that has happened in this city since the twenty-fifth day of this flood, and it is not frightening because it is new.**
+And the room worked it out in about one afternoon, and the working out is the most frightening thing that has happened in this city since the twenty-fifth day of this flood, and it is not frightening because it is new.
 
 Adrian Vale did the arithmetic out loud, on the wall of the lock yard, with a stick of chalk, at about the eleventh hour of the morning, and about forty people watched him do it, and then about two hundred and forty people came.
 
@@ -72,7 +72,7 @@ Adrian Vale did the arithmetic out loud, on the wall of the lock yard, with a st
 
 ---
 
-**And a woman of twenty-four asked the question that reorganises the next two months, and she asked it in a converted salt store at about the third hour of the afternoon in front of about two hundred and forty people, and it is in the book in her own words, and it is four questions and none of them has a rhetorical trick in it.**
+And a woman of twenty-four asked the question that reorganises the next two months, and she asked it in a converted salt store at about the third hour of the afternoon in front of about two hundred and forty people, and it is in the book in her own words, and it is four questions and none of them has a rhetorical trick in it.
 
 Priya Shah, twenty-four, of the first group, who has produced the sentence that made a thing possible in this city three times, and who took a Crown assessor of strangers' pen out of his hand on the twenty-fifth day of the new month and would not give it back until he had written four lines that fit his column, said:
 
@@ -96,7 +96,7 @@ And about two hundred and forty people stood in a converted salt store on the th
 
 Not one. Not in fifty-five days. Not in nine years. Not in the nineteen years before that, when a case went down a river four times a year and a clerk on a quay wrote a count in a book and the count was eight.
 
-**A docker of fifty-eight who cannot read had it read to her and said thirty-five words, and they are the ninth sentence she has said in this city that has been entered whole, and they are the shortest account of this winter that anybody in this city has given.**
+A docker of fifty-eight who cannot read had it read to her and said thirty-five words, and they are the ninth sentence she has said in this city that has been entered whole, and they are the shortest account of this winter that anybody in this city has given.
 
 "**That is the price. Salt goes up a third. The Measure wants a list. And the whole of what we are worth is written down four times a year by people who are not coming.**"
 
@@ -104,7 +104,7 @@ And the man in a good coat was in that room for the whole of the afternoon, and 
 
 ---
 
-**And at about the ninth hour of the evening, in a yard under the chapel, a woman of twenty-four told a woman of sixty-one what a man had said about eight graves, and the woman of sixty-one said a number out loud, twice, and nobody has asked her why, and the yard emptied.**
+And at about the ninth hour of the evening, in a yard under the chapel, a woman of twenty-four told a woman of sixty-one what a man had said about eight graves, and the woman of sixty-one said a number out loud, twice, and nobody has asked her why, and the yard emptied.
 
 Sabra Vint is sixty-one, of the upper road, in a house with a burnt lintel. She cannot read. She has kept a sheet recording the shapes cut on **nineteen stones** on the upper road every year for nine years, and eleven of the nineteen shapes are the same and eight of them are not, and the eight that are not are further down the road and in a different order, and a mason of thirty-four years has never been able to get her hands on them, and she writes the shapes down every year and has never once written down what she thinks the shapes mean.
 

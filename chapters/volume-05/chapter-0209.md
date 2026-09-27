@@ -6,7 +6,7 @@ There is no queue on a Sunday. The posting has been up eight days on a wall in t
 
 ---
 
-**And he is Adrian Vale, and the name she said is the one that was given to him in nine sentences in a room on the thirty-sixth day of the Long Month, and it is in about four mouths in this city, and about four of those mouths are in that yard, and the page it is on was written down nine days ago in a room with a date on the door, and the front of it is on the back of a slate in this city and on about nine other things, and not one of the ten of them is on a wall.**
+And he is Adrian Vale, and the name she said is the one that was given to him in nine sentences in a room on the thirty-sixth day of the Long Month, and it is in about four mouths in this city, and about four of those mouths are in that yard, and the page it is on was written down nine days ago in a room with a date on the door, and the front of it is on the back of a slate in this city and on about nine other things, and not one of the ten of them is on a wall.
 
 "You came for me."
 
@@ -18,7 +18,7 @@ There is no queue on a Sunday. The posting has been up eight days on a wall in t
 
 ---
 
-**And they walked to a room over a market with a date in chalk on the door, and about nine people were in it, and about two hundred and forty could hear out of the hall and the landing and the market below it, and it is the eighth time about two hundred and forty people have heard a thing said in that room and a man who is on no roster of anything walked nine miles on foot to be in it, and a girl of seventeen with a plain slate under her arm and her own in her bag was at the side of it, and she was the only person in that room who was not on the front of a page, and about four people in that room had worked that out in about four seconds and about nine of them already knew it.**
+And they walked to a room over a market with a date in chalk on the door, and about nine people were in it, and about two hundred and forty could hear out of the hall and the landing and the market below it, and it is the eighth time about two hundred and forty people have heard a thing said in that room and a man who is on no roster of anything walked nine miles on foot to be in it, and a girl of seventeen with a plain slate under her arm and her own in her bag was at the side of it, and she was the only person in that room who was not on the front of a page, and about four people in that room had worked that out in about four seconds and about nine of them already knew it.
 
 "Say your name."
 
@@ -44,7 +44,7 @@ Nobody asked him about a gate.
 
 ---
 
-**And the woman of about twenty-four put her hand off the slate, and about nine people in that room waited for her to say something about it, and she said the thing she said on the forty-fifth day of the Long Month with about four words changed, and about four people in that room heard the change.**
+And the woman of about twenty-four put her hand off the slate, and about nine people in that room waited for her to say something about it, and she said the thing she said on the forty-fifth day of the Long Month with about four words changed, and about four people in that room heard the change.
 
 "**I am not going to write it down. I wrote a name at the top of a copy nine days ago and did not read it out and said I was the only person who could have stopped it. This morning I am the person who said a name in a yard to fetch a man, and I am not going to write this one down either, and about four people in this room are going to remember it and about nine of them are not going to and that is the whole of the difference and it is a worse instrument than mine.**"
 
@@ -52,7 +52,7 @@ Nobody asked him about a gate.
 
 ---
 
-**And then about four people in that room asked him the question they had actually come for, and it took about nine minutes, and it was not about a work and it was not about a gate, and he could not answer it, and the reason he could not answer it is the finding of the fifty-fourth day of the Long Month.**
+And then about four people in that room asked him the question they had actually come for, and it took about nine minutes, and it was not about a work and it was not about a gate, and he could not answer it, and the reason he could not answer it is the finding of the fifty-fourth day of the Long Month.
 
 "The compact says a person may be found. We want to know whether that line works."
 
@@ -70,7 +70,7 @@ Nobody in that room had a better sentence. It is entered that about four people 
 
 ---
 
-**And a man of about thirty-one with a hand that will not close was in the market under that room at about the fifth hour of the afternoon and said the sentence of the fifty-fourth day of the Long Month, and it is the only thing anybody said in that market that was about the day and not about the man, and about nine people heard it and about four of them have said since that it is the worst true thing anybody has said this week and that it is about a person who is not in the market.**
+And a man of about thirty-one with a hand that will not close was in the market under that room at about the fifth hour of the afternoon and said the sentence of the fifty-fourth day of the Long Month, and it is the only thing anybody said in that market that was about the day and not about the man, and about nine people heard it and about four of them have said since that it is the worst true thing anybody has said this week and that it is about a person who is not in the market.
 
 "**A man said his own name out loud in a room today and about nine people in this city can now fetch him. I do not know if that is good or bad and I have been the one who says *I do not know* out loud in about nine rooms in four weeks and I am going to say it about this as well and I am not going to be embarrassed about it, because everybody else in this market has decided and about nine of them decided this morning.**"
 
@@ -80,10 +80,10 @@ Nobody in that market answered him. It is entered that about four people wanted 
 
 ---
 
-**And nobody offered him anything, and he did not ask for anything, and it is entered in three hands that nobody did, and a man of about thirty-four who keeps a stall said one sentence about that in a market at about the fourth hour of the afternoon and would not improve on it and has not.**
+And nobody offered him anything, and he did not ask for anything, and it is entered in three hands that nobody did, and a man of about thirty-four who keeps a stall said one sentence about that in a market at about the fourth hour of the afternoon and would not improve on it and has not.
 
 "**He came nine miles on foot, he said his name in a room, he could not answer the question he was fetched for, and he left. Nobody in this city has offered that man a wage, a post, a seat, a roster, a column or a shift since the sixth week of this flood, and I have been watching very carefully since the sixth week of this flood and I would like that written in the record and not said out loud again, because every time it is said out loud in a room it sounds like a thing that is being withheld from him, and it is not, and I have never seen anybody try and I would like that on a page where it can be checked.**"
 
 ---
 
-**And a slate in a bag with nothing on it, and about nine people in that hall who will say the name if anybody asks them.**
+And a slate in a bag with nothing on it, and about nine people in that hall who will say the name if anybody asks them.

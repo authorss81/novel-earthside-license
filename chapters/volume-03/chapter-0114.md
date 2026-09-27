@@ -2,11 +2,11 @@
 
 On the twenty-fourth day of the month after this one, which was the hundred and fourteenth day of the flood and a Wednesday, thirty-nine of forty men stood under the near gate at the second hour of the morning in the wrong weather and did the work, and have done every working day since the first of March, which was the sixtieth day of the new month and the eighty-fifth day of the flood, and it is twenty-nine days since any of them was paid anything, and there is no column in four hundred miles that can say they are owed it, and one man who has said the same four words under that gate every working day since the forty-sixth day of the new month did not come this morning, and a docker of fifty-eight who cannot read said thirteen words about him and nobody improved on them.
 
-**The licence is sixty-four days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-fifth time. The black line in his right palm is one hundred and thirteen days old and has not moved one sixteenth of an inch.**
+The licence is sixty-four days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-fifth time. The black line in his right palm is one hundred and thirteen days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the cost column has eleven entries in one month, and there is no figure on the end of any of the eleven, and there is no twelfth, and the reason there is no twelfth is that the join stopped being worked on the first of March, and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason, and it is on the page in a notary of fifty's hand and nobody has ever found a way round it.**
+And the cost column has eleven entries in one month, and there is no figure on the end of any of the eleven, and there is no twelfth, and the reason there is no twelfth is that the join stopped being worked on the first of March, and a cost that stops is a cost that has stopped and is never to be entered as paid by anybody on any day for any reason, and it is on the page in a notary of fifty's hand and nobody has ever found a way round it.
 
 The column is on a board that hangs on a post by the gate and has hung there for a hundred and fourteen days. There is a date against every line. There is a hand against every line. **There is a space at the bottom of the column for a twelfth line and there is a rule drawn under it, and the rule is ruled, and it is empty, and it is the only thing on that board anybody has looked at twice in a month.**
 
@@ -20,7 +20,7 @@ The column is on a board that hangs on a post by the gate and has hung there for
 
 ---
 
-**And the crew came, and they came at the second hour, and there were thirty-nine of them out of forty, and they have not been paid since the first of March, and nobody at the gate said anything about it to any of them, because there is nothing at the gate to say.**
+And the crew came, and they came at the second hour, and there were thirty-nine of them out of forty, and they have not been paid since the first of March, and nobody at the gate said anything about it to any of them, because there is nothing at the gate to say.
 
 They came the second hour and they worked the wall side of the road and a carter came the other way with a barrow of reed and gave them the wall side without being asked, the way a carter has given that side of that road to about nine people for a month. **A woman of about thirty-four who keeps a stall by the wharf was at the gate with a barrow of her own and gave out eleven cups of something hot to about eleven of them without asking one of them a question, and it is entered that no man of the forty said thank you, and that this was not resented by anybody, and that a girl of seventeen entered both of those things.**
 
@@ -40,7 +40,7 @@ Nobody said anything for about nineteen seconds. **And a man of thirty-two, who 
 
 ---
 
-**And then at about the sixth hour of the morning four people went down two hundred steps of a condemned rail with a gauge, because that is what they do twice a day, and the four disagreed for the sixth time since the first of March, and the twenty-fifth reading was not taken, and one ruled line in a column is still ruled and still empty, and the sixth time was not about the number.**
+And then at about the sixth hour of the morning four people went down two hundred steps of a condemned rail with a gauge, because that is what they do twice a day, and the four disagreed for the sixth time since the first of March, and the twenty-fifth reading was not taken, and one ruled line in a column is still ruled and still empty, and the sixth time was not about the number.
 
 It is still twenty-five and has been for nine days, said a woman of fifty-eight, who cannot read, and who reads the join by standing on it twice a day and knowing whether it has moved, which she has entered is not reading.
 
@@ -54,7 +54,7 @@ The sixth entry went in and the fifth entry from before it stayed where it was, 
 
 ---
 
-**And at about the seventh hour of the evening a woman of fifty-eight who cannot read stood at the top of the two hundred steps in the wrong weather and said thirteen words, and a girl of seventeen counted them, and the room did not check the count, and it is entered that the room did not check the count.**
+And at about the seventh hour of the evening a woman of fifty-eight who cannot read stood at the top of the two hundred steps in the wrong weather and said thirteen words, and a girl of seventeen counted them, and the room did not check the count, and it is entered that the room did not check the count.
 
 "**A man who has stopped coming is not a cost that has stopped.**"
 
@@ -70,6 +70,6 @@ It is entered that a girl of seventeen wrote the four words on the back of a sla
 
 ---
 
-**And nothing else happened on the twenty-fourth day of the month after this one. The thirty-nine men did their day. A man of fifty, a mason, not of the crew, said in the yard that he is a sixteenth under five times out of six and is going to be a sixteenth under on the day somebody writes the twenty-fifth, and that he will not read it alone. And a hearing is in forty days, and there is one hearing and one clock, and nine people said out loud they will stand in it and the number is in a book with no heading and no date. And a field of ninety-one acres out of a hundred and forty is not paid and has not been paid since the first of March, which is the eighty-fifth day of the flood, and twenty-nine days ago. And the fee of eleven ounces of silver is owing with no date for the fifty-fifth time. And the licence is sixty-four days old and the seat of holder of the pull is vacant and the instrument says nobody. And the Narrow Mark has been opened twice in a hundred and thirteen days and was not opened today in front of thirty-nine men and about nine other people. And the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch said nothing today. And there have been twenty-nine things the wall has said in this city and one of them has been refused, and a day on which thirty-nine men turn up unpaid and one does not is the twenty-third silence, and the pattern is twenty-three for twenty-three.**
+And nothing else happened on the twenty-fourth day of the month after this one. The thirty-nine men did their day. A man of fifty, a mason, not of the crew, said in the yard that he is a sixteenth under five times out of six and is going to be a sixteenth under on the day somebody writes the twenty-fifth, and that he will not read it alone. And a hearing is in forty days, and there is one hearing and one clock, and nine people said out loud they will stand in it and the number is in a book with no heading and no date. And a field of ninety-one acres out of a hundred and forty is not paid and has not been paid since the first of March, which is the eighty-fifth day of the flood, and twenty-nine days ago. And the fee of eleven ounces of silver is owing with no date for the fifty-fifth time. And the licence is sixty-four days old and the seat of holder of the pull is vacant and the instrument says nobody. And the Narrow Mark has been opened twice in a hundred and thirteen days and was not opened today in front of thirty-nine men and about nine other people. And the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch said nothing today. And there have been twenty-nine things the wall has said in this city and one of them has been refused, and a day on which thirty-nine men turn up unpaid and one does not is the twenty-third silence, and the pattern is twenty-three for twenty-three.
 
-**And the last thing of the twenty-fourth day of the month after this one is a rule with no room left in it, and a ruled line at the bottom of a column on a board by a gate, and it is still ruled, and it is still empty, and thirty-nine men went home at the seventh hour and one man did not come at the second hour, and neither of those two facts is on the board, and the board is the only instrument in four hundred miles that this city built for this.**
+And the last thing of the twenty-fourth day of the month after this one is a rule with no room left in it, and a ruled line at the bottom of a column on a board by a gate, and it is still ruled, and it is still empty, and thirty-nine men went home at the seventh hour and one man did not come at the second hour, and neither of those two facts is on the board, and the board is the only instrument in four hundred miles that this city built for this.

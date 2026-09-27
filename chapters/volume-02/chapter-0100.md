@@ -2,19 +2,19 @@
 
 On the tenth day of the month after this one, which was the hundredth day of the flood and a Wednesday, a boundary shrine on a fork at Four Elms was given back to the household that keeps it, with a third page nailed to the inside of the stone, and a question that this city owes to a woman of forty-eight in a fourth house eleven miles away was entered on that page as unasked, on purpose, with a date on it, and nobody in about nine people in that room argued for asking her, and at the top of a nine-mile road a woman of about sixty-one who cannot read read nineteen shapes aloud to a docker who had a slate, and on a river wall a man from another world read a number off a wall four feet back from it and said it out loud, and it was a number and not a sentence about anybody.
 
-**The licence is fifty days old. The undertaking is void. The field was not paid on the first of March. The cost column has eleven entries in one month and no figure on the end of any of them and there is no twelfth. The measurement column has twenty-four readings and one ruled line left. The fee is owing with no date for the forty-first time. The black line in his right palm is ninety-nine days old and has not moved one sixteenth of an inch.**
+The licence is fifty days old. The undertaking is void. The field was not paid on the first of March. The cost column has eleven entries in one month and no figure on the end of any of them and there is no twelfth. The measurement column has twenty-four readings and one ruled line left. The fee is owing with no date for the forty-first time. The black line in his right palm is ninety-nine days old and has not moved one sixteenth of an inch.
 
 ---
 
-**A shrine is a record, and a record that cannot be removed, and a page can be put inside one, and a boundary stone on the north side of a fork at Four Elms has been keeping a page for twenty days, counted from the fifty-fifth day of the new month, which was the eightieth day of the flood, and a second page for ten days, counted from the sixty-fifth day of that month, which was the ninetieth day of the flood.**
+A shrine is a record, and a record that cannot be removed, and a page can be put inside one, and a boundary stone on the north side of a fork at Four Elms has been keeping a page for twenty days, counted from the fifty-fifth day of the new month, which was the eightieth day of the flood, and a second page for ten days, counted from the sixty-fifth day of that month, which was the ninetieth day of the flood.
 
 It is a stone with a cut in the flat of it, and the cut is where the water was before the boundary was moved a hundred yards downstream at a public act with witnesses, and it has been saying so for a hundred and forty years, and it is not on paper. **Nothing may be worked at it. There is no pattern in it and nobody has ever worked at one. It is not an instrument and it is not going to be one.** A page with no price on it is a favour and a favour is a thing that stops, and the first page has carried a price since the day it went in, and the second page carries a quarter of a pound of salt a month cut out of the keeping household's own winter allotment and written under the list and not as another item on it, and the household refused a second price and gave the reason that a favour is a thing that stops, and the reason is written on the page so that in nine months somebody can check it.
 
-**And the household that keeps it did not want her name on the first page and did not want her name on the second one, and she said no twice, and her reason has been on the page since the eightieth day of the flood and is not counted again here: *a name on a page is a thing that can be found, and I have buried two.***
+And the household that keeps it did not want her name on the first page and did not want her name on the second one, and she said no twice, and her reason has been on the page since the eightieth day of the flood and is not counted again here: *a name on a page is a thing that can be found, and I have buried two.*
 
 ---
 
-**And on the hundredth day of the flood, about nine people went up nine miles in the wrong weather to give it back, and giving it back is not a thing anybody in this city has ever done, and there is no procedure for it, and the finding of the day is that a thing this city built and put in another household's stone ought to be handed back before somebody dies and takes the permission with her.**
+And on the hundredth day of the flood, about nine people went up nine miles in the wrong weather to give it back, and giving it back is not a thing anybody in this city has ever done, and there is no procedure for it, and the finding of the day is that a thing this city built and put in another household's stone ought to be handed back before somebody dies and takes the permission with her.
 
 "**It is not the Lock of Salt's,**" said a woman of about sixty-one. "**The Lock of Salt's is a building and it has a salt line and four chalk depths and a keeper. This is a stone on somebody's fork and the somebody has a name and the name is on no page of ours, and if the Lock of Salt's wants a shrine on the boundary then the Lock of Salt's can go and ask her, and I am not going to be the instrument that asks her, and I have said that out loud and about nine people heard it.**"
 
@@ -30,7 +30,7 @@ Nobody argued with her, and it is entered that about nine people in that room un
 
 ---
 
-**And the page that went in on the hundredth day of the flood carries a date, a price and a right of refusal, and it is the second Wayhouse, and it is not the Lock of Salt's, and nobody in about nine people in that room asked a man from another world to write it and he did not write it.**
+And the page that went in on the hundredth day of the flood carries a date, a price and a right of refusal, and it is the second Wayhouse, and it is not the Lock of Salt's, and nobody in about nine people in that room asked a man from another world to write it and he did not write it.
 
 > **The second Wayhouse, at the fork at Four Elms.**
 >
@@ -50,7 +50,7 @@ Nobody argued with her, and it is entered that about nine people in that room un
 
 ---
 
-**And then the third thing went on the page, and it is not a debt, and it is the reason the page was worth a nine-mile walk.**
+And then the third thing went on the page, and it is not a debt, and it is the reason the page was worth a nine-mile walk.
 
 > **To a woman of forty-eight in the fourth house at Nine Elms: one question, asked once, in daylight, in a room, whether she will carry any part of the standing charge. The answer may be no. It has not been asked.**
 >
@@ -70,7 +70,7 @@ Nobody in that room argued for asking her.
 
 ---
 
-**And about nine people were in the room who kept it, and they are the people who kept it, and that is the whole of the account: a keeper of about seventy with fifty-one years of a nail in an arch, a woman of about thirty-four who keeps a stall by the wharf and is on nothing, a man of forty-four of the outer ward whose grandfather's hand is on a stone nine miles up the road, a woman of twenty-nine of the second list, a girl of seventeen, a woman of twenty-eight who is of the first group and has no work, a keeper of about fifty-one of the first house on the upper road, a man of sixty-one who keeps a book of this city's words and is owed a sentence from a man who read it, and a man of thirty-two from another world who is on no roster of anything and put none of this in writing.**
+And about nine people were in the room who kept it, and they are the people who kept it, and that is the whole of the account: a keeper of about seventy with fifty-one years of a nail in an arch, a woman of about thirty-four who keeps a stall by the wharf and is on nothing, a man of forty-four of the outer ward whose grandfather's hand is on a stone nine miles up the road, a woman of twenty-nine of the second list, a girl of seventeen, a woman of twenty-eight who is of the first group and has no work, a keeper of about fifty-one of the first house on the upper road, a man of sixty-one who keeps a book of this city's words and is owed a sentence from a man who read it, and a man of thirty-two from another world who is on no roster of anything and put none of this in writing.
 
 "**You did not write it,**" said the woman of about thirty-four.
 
@@ -80,7 +80,7 @@ Nobody in that room argued for asking her.
 
 ---
 
-**And the road is nine miles, and it goes up from Saltwake past the salt works to the fork at Four Elms, and eleven households keep it, and they are not a council and there is no levy and there is no clerk, and the keeping is a day each in a bad week and a quarter of a day in a good one, and it is a promise and not a sum, and the eleven households are named on nothing.**
+And the road is nine miles, and it goes up from Saltwake past the salt works to the fork at Four Elms, and eleven households keep it, and they are not a council and there is no levy and there is no clerk, and the keeping is a day each in a bad week and a quarter of a day in a good one, and it is a promise and not a sum, and the eleven households are named on nothing.
 
 "**Eleven households keep that road,**" said a man of about forty-four who keeps a stall, "**and nobody has ever asked them to, and they have never once been given a page, and the road was not built by anybody in this city, it was walked by people coming down it, and it is the only thing in a hundred days that nobody in this room can be angry at and everybody would miss.**"
 
@@ -98,7 +98,7 @@ It was entered. **And it is entered that the Bright Pilgrims question is one que
 
 ---
 
-**And at about the ninth hour of the evening, at the top of the upper road, in the wrong weather, a woman of about sixty-one who cannot read stood in front of a wall above a market and read nineteen shapes aloud to a docker of fifty-eight who has a slate, because anybody may pick the work up, and the work is not a post, and a person who picks it up is not repaid and is not on a roll and is not a holder of anything.**
+And at about the ninth hour of the evening, at the top of the upper road, in the wrong weather, a woman of about sixty-one who cannot read stood in front of a wall above a market and read nineteen shapes aloud to a docker of fifty-eight who has a slate, because anybody may pick the work up, and the work is not a post, and a person who picks it up is not repaid and is not on a roll and is not a holder of anything.
 
 Sabra Vint is sixty-one and has a house with a burnt lintel on this road and nine years of paper with nineteen shapes on it, and eleven of them are the same and eight are different, and she has written them down every year for nine years and has never once written down what she thinks they mean. The copying is finished: all nineteen are in four slates that four different people can read out loud, and a docker of fifty-eight who cannot read has one of the four, and the meaning is still unwritten, and the date on a slate is the nineteenth day of the month after this one and it is the only thing on it, and nobody has written anything on that wall.
 
@@ -110,6 +110,6 @@ Sabra Vint is sixty-one and has a house with a burnt lintel on this road and nin
 
 And then a man of thirty-two went down two hundred steps of a river wall by himself, in the wrong weather, on a rail that is condemned, and nobody went with him and nobody had been asked to, and he stood four feet back from the wall of the second bay, which is where he has stood every time since the fourth day of this flood, and read the number out loud in an empty gallery.
 
-**The number is eight and seven-eighths. It is the twenty-fourth reading and the twenty-third was the same, and there are two steps in the column in an unnamed mason's hand on the eighteenth and the twenty-fourth day of the new month, and there is one ruled line left in it, and it is not filled, and the twenty-fifth reading has not been taken and was not taken on the first of March and was not taken on the ninth day of the month after this one and is not going to be taken in this volume of days.**
+The number is eight and seven-eighths. It is the twenty-fourth reading and the twenty-third was the same, and there are two steps in the column in an unnamed mason's hand on the eighteenth and the twenty-fourth day of the new month, and there is one ruled line left in it, and it is not filled, and the twenty-fifth reading has not been taken and was not taken on the first of March and was not taken on the ninth day of the month after this one and is not going to be taken in this volume of days.
 
-**The joined edge is dressed. There is no field in the air. The number is a number and not a sentence about anybody. The day book says what it cannot do, and it says it in four lines, and the four lines are as wide as the column they are written in, and not one word of them is a summary.**
+The joined edge is dressed. There is no field in the air. The number is a number and not a sentence about anybody. The day book says what it cannot do, and it says it in four lines, and the four lines are as wide as the column they are written in, and not one word of them is a summary.

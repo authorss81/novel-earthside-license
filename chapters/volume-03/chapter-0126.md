@@ -2,11 +2,11 @@
 
 On the thirty-sixth day of the month after this one, which was the hundred and twenty-sixth day of the flood and a Monday, a boy of nine sat under a wall above a market in the wrong weather with a slate on his knees, and two of the about nine people who have been thinking about what he wrote eight days ago found out in about nineteen seconds that they had both been saying the same two words to other people in this city, and neither of them said the other one first, and the afternoon turned on that, and nobody wrote any of it down.
 
-**The licence is seventy-six days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-one days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-seventh time. The black line in his right palm is one hundred and twenty-five days old and has not moved one sixteenth of an inch.**
+The licence is seventy-six days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is forty-one days ago. The fee of eleven ounces of silver is entered as owing with no date for the sixty-seventh time. The black line in his right palm is one hundred and twenty-five days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the answer is on the flat of a slate in his own hand and it is eight days old, and it is sixty-eight days late, and the sixty-eight days is the number everybody in this city knows and the eight days is the number nobody is keeping, and it is entered that about four people in this city have thought about that slate every day since the twenty-eighth day of the month after this one and not one of them has been keeping the small one.**
+And the answer is on the flat of a slate in his own hand and it is eight days old, and it is sixty-eight days late, and the sixty-eight days is the number everybody in this city knows and the eight days is the number nobody is keeping, and it is entered that about four people in this city have thought about that slate every day since the twenty-eighth day of the month after this one and not one of them has been keeping the small one.
 
 The question was whether the next ones are going to be players. He asked it on a step on the twenty-fifth day of the new month, which was the fiftieth day of this flood, and a man from another world did not have an answer that did not make the child smaller, and the answer went onto the flat of a slate in about nineteen seconds on the twenty-eighth day of the month after this one, which was the hundred and eighteenth day of the flood, and a girl of seventeen read it out because he could not be sure of the local hand.
 
@@ -14,11 +14,11 @@ The question was whether the next ones are going to be players. He asked it on a
 >
 > **And I have got an answer to a different question. Every one of you was somewhere before you were here. That is not coming. That is only arriving.**
 
-**Nobody improved on it. It is not a lesson. It is not an instruction. It settles nothing, he was not thanked, he did not expect to be thanked, and a woman of about thirty-four who keeps a stall by the wharf entered on the twenty-eighth day of the month after this one that she is not going to use it in about eight weeks and is not going to let anybody else use it, and a woman of twenty-four entered in advance the shame of being the person who would.**
+Nobody improved on it. It is not a lesson. It is not an instruction. It settles nothing, he was not thanked, he did not expect to be thanked, and a woman of about thirty-four who keeps a stall by the wharf entered on the twenty-eighth day of the month after this one that she is not going to use it in about eight weeks and is not going to let anybody else use it, and a woman of twenty-four entered in advance the shame of being the person who would.
 
 ---
 
-**And the two words are in ordinary use in about nine rooms in this city, and they are not a name, and nobody in this city has said they are a name, and the reason they are not a name is not that anybody is guarding them. The reason is that a name is a thing two people have said in one room.**
+And the two words are in ordinary use in about nine rooms in this city, and they are not a name, and nobody in this city has said they are a name, and the reason they are not a name is not that anybody is guarding them. The reason is that a name is a thing two people have said in one room.
 
 "You said the two words to a man on a quay on Saturday," said a woman of twenty-four, at about the third hour of the afternoon, to a docker of fifty-eight who cannot read, and said it in about four seconds, and then said, in the same breath, that she had wanted to have asked her a week ago and had not.
 
@@ -38,7 +38,7 @@ Nobody said anything for about nineteen seconds, and a docker of fifty-eight who
 
 ---
 
-**And a man of thirty-two was under that wall at about the fourth hour of the afternoon and had not come to look at the nineteen shapes on it, and everybody assumed he had, and he did not, and he was asked about it in about four seconds and said no in about four seconds and then stood there for about nine minutes.**
+And a man of thirty-two was under that wall at about the fourth hour of the afternoon and had not come to look at the nineteen shapes on it, and everybody assumed he had, and he did not, and he was asked about it in about four seconds and said no in about four seconds and then stood there for about nine minutes.
 
 "You are not looking at them," said a man of about forty-four who keeps a stall.
 
@@ -52,13 +52,13 @@ It is entered. **And a man of about forty-four who keeps a stall did not improve
 
 ---
 
-**And then the other thing came out, and it came out because a man of thirty-two was standing under a wall with a boy of nine and a docker of fifty-eight and a girl of seventeen, and it is the thing the thirty-sixth day of the month after this one is for.**
+And then the other thing came out, and it came out because a man of thirty-two was standing under a wall with a boy of nine and a docker of fifty-eight and a girl of seventeen, and it is the thing the thirty-sixth day of the month after this one is for.
 
 The boy has four slates. **One of the four is nineteen shapes and it belongs to the docker of fifty-eight who cannot read and is not repaid and is on no roll. The other three are his.** The answer is on the flat of one of the three, and it has nothing on the other side. On the back of another of the three, in his own hand, are six words he asked on the sixth mile of a nine-mile road on the twentieth day of the month after this one, and a girl of seventeen says out loud, when she is asked how she knows it is the same slate, that it is not.
 
 Those six words are *who is going to be told?*
 
-**They were answered on the sixth mile in about four seconds, by the man standing under this wall, and the answer is *that is the hearing*, and then four more words in the local language which nobody counted and which is entered that nobody counted them, and then *we will stand there*.**
+They were answered on the sixth mile in about four seconds, by the man standing under this wall, and the answer is *that is the hearing*, and then four more words in the local language which nobody counted and which is entered that nobody counted them, and then *we will stand there*.
 
 "It has an answer," said a man of about forty-four who keeps a stall. "**It has had an answer since the twentieth day of the month after this one. I have been in about nine rooms in ten days and I have said in three of them that nobody has ever told anybody in this city who is going to be told anything, and I was wrong, and a boy of nine has had it in his hand for eight days.**"
 
@@ -78,7 +78,7 @@ Nobody said anything for about nineteen seconds, and the man of about forty-four
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf asked the boy one question, at about the fifth hour of the afternoon, in the wrong weather, with about nine people standing about, and the question was five words, and it was not about the players and it was not about the arriving, and it was the only question anybody in this city has asked him since the twenty-eighth day of the month after this one that was not about what he thought.**
+And a woman of about thirty-four who keeps a stall by the wharf asked the boy one question, at about the fifth hour of the afternoon, in the wrong weather, with about nine people standing about, and the question was five words, and it was not about the players and it was not about the arriving, and it was the only question anybody in this city has asked him since the twenty-eighth day of the month after this one that was not about what he thought.
 
 "Has anybody read it back."
 
@@ -88,6 +88,6 @@ And he said nothing else. **It is entered that he said nothing about having been
 
 ---
 
-**And nothing else happened on the thirty-sixth day of the month after this one, and a hearing is in twenty-eight days and there is one hearing and one clock, and about nine people have said out loud that they will stand in it and nobody has been asked whether they will, and a girl of seventeen has gone to eight kitchens so far and nothing has been written down. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it is not opened and the strap on it is still untied. And nine households of a village refused a fourth time on the twenty-second day of the month after this one and the water has not been received for fifty-seven days. And a page that ends a document is spent and five rooms have failed to explain it in the same place and a sixth was wanted on the twenty-seventh day of the month after this one and was not held. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for forty-one days. And the main breach is closed, dressed, measured and silent and the Narrow Mark has been opened twice in a hundred and twenty-six days and the boards under the chapel have not been lifted since the fortieth day of this flood and the stone in the arch has said nothing in a hundred and twenty-six days. And there have been thirty things the wall has said in this city and one has been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-three, and a Monday on which two people found out they had been saying the same two words is the thirty-fourth silence and the pattern is thirty-four for thirty-four.**
+And nothing else happened on the thirty-sixth day of the month after this one, and a hearing is in twenty-eight days and there is one hearing and one clock, and about nine people have said out loud that they will stand in it and nobody has been asked whether they will, and a girl of seventeen has gone to eight kitchens so far and nothing has been written down. And a box came up this river on the twenty-sixth day of the month after this one and it is in a room with a door on the second floor of a building over a market and it is not opened and the strap on it is still untied. And nine households of a village refused a fourth time on the twenty-second day of the month after this one and the water has not been received for fifty-seven days. And a page that ends a document is spent and five rooms have failed to explain it in the same place and a sixth was wanted on the twenty-seventh day of the month after this one and was not held. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for forty-one days. And the main breach is closed, dressed, measured and silent and the Narrow Mark has been opened twice in a hundred and twenty-six days and the boards under the chapel have not been lifted since the fortieth day of this flood and the stone in the arch has said nothing in a hundred and twenty-six days. And there have been thirty things the wall has said in this city and one has been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-three, and a Monday on which two people found out they had been saying the same two words is the thirty-fourth silence and the pattern is thirty-four for thirty-four.
 
-**And the last thing of the thirty-sixth day of the month after this one is a slate face down in a boy's coat with nothing on the other side of it, and six words on the back of a different one of his three, and a third one with nineteen shapes on it in the pocket of a docker of fifty-eight who cannot read and is not repaid and is on no roll, and about nine rooms in this city have two words in them and none of those nine rooms has met any of the other eight, and a hearing is in twenty-eight days.**
+And the last thing of the thirty-sixth day of the month after this one is a slate face down in a boy's coat with nothing on the other side of it, and six words on the back of a different one of his three, and a third one with nineteen shapes on it in the pocket of a docker of fifty-eight who cannot read and is not repaid and is on no roll, and about nine rooms in this city have two words in them and none of those nine rooms has met any of the other eight, and a hearing is in twenty-eight days.

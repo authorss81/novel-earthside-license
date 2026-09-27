@@ -4,7 +4,7 @@ A rod came up out of a hole at the bottom of a cut on the Reach at about the sev
 
 ---
 
-**And it is his own hole, the one everybody measures, and he has put the rod in it on and off since the forty-first day of the Long Month, and the second hole is nine feet from it with a rod in it as well, and neither of them has ever given anybody a figure. He said the number of days out loud before anybody asked him for it, which is a thing he has done about nine times in this flood.**
+And it is his own hole, the one everybody measures, and he has put the rod in it on and off since the forty-first day of the Long Month, and the second hole is nine feet from it with a rod in it as well, and neither of them has ever given anybody a figure. He said the number of days out loud before anybody asked him for it, which is a thing he has done about nine times in this flood.
 
 "Twenty-eight."
 
@@ -16,7 +16,7 @@ Somebody at the top of that cut asked him not to.
 
 ---
 
-**And the woman of about thirty-four from a fourth household on the road said it herself, at about the eighth hour, standing at the top of that cut with nothing in her hands, and about nine people heard it and about four of them had it before she said it.**
+And the woman of about thirty-four from a fourth household on the road said it herself, at about the eighth hour, standing at the top of that cut with nothing in her hands, and about nine people heard it and about four of them had it before she said it.
 
 "The seventy-fifth day of the Long Month."
 
@@ -30,7 +30,7 @@ He put the rod down flat on the cracked bottom of the cut instead of putting it 
 
 ---
 
-**And a woman of about fifty who counts water stood at the top of that cut at about the eighth hour with a board in her left hand and she counts on the fingers of that hand and she had got to a day and stopped, and about four people in that cut have been watching her count since the seventh week of this flood and about nine of them have stopped.**
+And a woman of about fifty who counts water stood at the top of that cut at about the eighth hour with a board in her left hand and she counts on the fingers of that hand and she had got to a day and stopped, and about four people in that cut have been watching her count since the seventh week of this flood and about nine of them have stopped.
 
 "How many days."
 
@@ -44,7 +44,7 @@ She put her hand flat on the board and did not write anything on it, and about f
 
 ---
 
-**And a man who has carried racks up and down this cut since the second month of this flood said the thing that everybody at the top of that cut had been standing in for four days, and about nine people heard it and about four of them had worked it out and had not said it, and he said it once and did not say it again.**
+And a man who has carried racks up and down this cut since the second month of this flood said the thing that everybody at the top of that cut had been standing in for four days, and about nine people heard it and about four of them had worked it out and had not said it, and he said it once and did not say it again.
 
 "**A rack goes in the water. That is the whole of a rack. Four lengths of wood and a rope and four people, and the water is what holds it up, and there has been no water in this cut since the forty-first day of that month, and a rack that is not in the water is a frame, and a frame goes in the mud, and I have been standing on the bank on about nine days telling people to be patient and there is nothing to be patient about and I have not said it.**"
 
@@ -60,7 +60,7 @@ He went up the bank with a rack on his shoulder and it went up four lengths at a
 
 ---
 
-**And a man of about thirty-two stood on the bank above that cut and did not come down to it, which is the fifth Monday in a row that he has stood on that bank, and about four people at the top of that cut had counted them and about nine of them had not, and he has no mark and no workway and no title and no seat and he is on no roster of anything, and he said one sentence and nobody in that cut improved on it.**
+And a man of about thirty-two stood on the bank above that cut and did not come down to it, which is the fifth Monday in a row that he has stood on that bank, and about four people at the top of that cut had counted them and about nine of them had not, and he has no mark and no workway and no title and no seat and he is on no roster of anything, and he said one sentence and nobody in that cut improved on it.
 
 "You have a date you did not choose."
 
@@ -72,7 +72,7 @@ He went up the bank with a rack on his shoulder and it went up four lengths at a
 
 ---
 
-**And a woman of about thirty-nine who cannot get a rack above her shoulder came up that bank at about the ninth hour and stood at the top of the cut and looked at the rod lying flat on the cracked bottom of it, and about four people in that cut have known since the fifty-ninth day of that month that she has a refusal with a date on it and about nine of them have only known that she asked.**
+And a woman of about thirty-nine who cannot get a rack above her shoulder came up that bank at about the ninth hour and stood at the top of the cut and looked at the rod lying flat on the cracked bottom of it, and about four people in that cut have known since the fifty-ninth day of that month that she has a refusal with a date on it and about nine of them have only known that she asked.
 
 "You have taken the rod out."
 
@@ -84,7 +84,7 @@ He went up the bank with a rack on his shoulder and it went up four lengths at a
 
 ---
 
-**And about four people in that cut had been counting days to a date they worked out on their own on the sixty-ninth day of that month, and about nine of them had been, and the first one to say it out loud was a woman of about thirty-nine who cannot get a rack above her shoulder, and she said it to him and not to the bank.**
+And about four people in that cut had been counting days to a date they worked out on their own on the sixty-ninth day of that month, and about nine of them had been, and the first one to say it out loud was a woman of about thirty-nine who cannot get a rack above her shoulder, and she said it to him and not to the bank.
 
 "I have been counting."
 
@@ -98,7 +98,7 @@ He went up the bank about nine feet and stopped and did not go on, and about fou
 
 ---
 
-**And the woman of about thirty-four from a fourth household on the road did not ask anybody anything for the rest of that morning, and about four people in that cut were waiting for her to, and about nine of them have said since that a woman who came up a bank eleven miles to say a number somebody else said and then said nothing at all for about four hours has done harder work than the man who did not come down off the bank.**
+And the woman of about thirty-four from a fourth household on the road did not ask anybody anything for the rest of that morning, and about four people in that cut were waiting for her to, and about nine of them have said since that a woman who came up a bank eleven miles to say a number somebody else said and then said nothing at all for about four hours has done harder work than the man who did not come down off the bank.
 
 "The day I chose."
 
@@ -114,8 +114,8 @@ She said no more than that and about four people in that cut understood all of i
 
 ---
 
-**And about the tenth hour the sun came over the bank of that cut about an hour later than it had on the fifty-ninth day of the Long Month and lit the bottom of it, and the rod lying flat in the crack had a shadow along the whole of its length, and about nine people at the top of that cut went down the bank on the side the water used to come in on and about four of them went up.**
+And about the tenth hour the sun came over the bank of that cut about an hour later than it had on the fifty-ninth day of the Long Month and lit the bottom of it, and the rod lying flat in the crack had a shadow along the whole of its length, and about nine people at the top of that cut went down the bank on the side the water used to come in on and about four of them went up.
 
 ---
 
-**And a rod lying flat on the cracked bottom of a cut on the Reach at about the ninth hour of the morning, and the water twenty-eight days from coming back, and a day neither of them chose.**
+And a rod lying flat on the cracked bottom of a cut on the Reach at about the ninth hour of the morning, and the water twenty-eight days from coming back, and a day neither of them chose.

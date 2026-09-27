@@ -6,7 +6,7 @@ It is a Sunday. The store on the upper road shut at first light and did not open
 
 ---
 
-**And about nine miles up the road past this city, at about the sixth hour of the same morning, about a hundred and forty people were standing about in a yard on a day with nothing in it, and the rota did not go up, and the board was washed and blank and hanging on the wall, and about nine of them put on their coats at about the seventh hour and went out of the gate on the Reach road and not one of them was carrying anything.**
+And about nine miles up the road past this city, at about the sixth hour of the same morning, about a hundred and forty people were standing about in a yard on a day with nothing in it, and the rota did not go up, and the board was washed and blank and hanging on the wall, and about nine of them put on their coats at about the seventh hour and went out of the gate on the Reach road and not one of them was carrying anything.
 
 A man of about forty-two was in that yard. He had been in it since the sixth hour. He did not stop anybody and he did not send anybody and he did not say a word to about nine people about where they were going, and about four people in that yard said afterwards that they had been on that road out past this city each and that he had watched all of them go and had not said one word to any of them, and that about four of those nine asked him why afterwards and he gave the same answer four times.
 
@@ -20,7 +20,7 @@ He washed the board again at about the ninth hour, because it had started to run
 
 ---
 
-**And the raft is a raft with a roof on it, nine feet of standing room and a rail, and it cannot be summoned, and about four hundred people in this world have learned that in the same way and by the same method, which is by waiting for it to go somewhere else.**
+And the raft is a raft with a roof on it, nine feet of standing room and a rail, and it cannot be summoned, and about four hundred people in this world have learned that in the same way and by the same method, which is by waiting for it to go somewhere else.
 
 It was two men with poles and a woman with a line, and it went the four miles of causeway and then eleven miles of Reach road's cousin, the bank, and every hour of it was poling, and twice it had to be held while the pole went round something on the bottom that nobody could see and could feel through the deck.
 
@@ -34,7 +34,7 @@ Nobody sent for it. Nobody could.
 
 ---
 
-**And the poling took four hours and most of it was against something, and about nine people on the raft and about nine people on the bank and nobody was in a hurry, because a raft cannot be hurried and everybody in four hundred miles who has ever tried has found that out on a morning with a pole in their hands.**
+And the poling took four hours and most of it was against something, and about nine people on the raft and about nine people on the bank and nobody was in a hurry, because a raft cannot be hurried and everybody in four hundred miles who has ever tried has found that out on a morning with a pole in their hands.
 
 The two men with poles were from Verrow and about nine people in this city have seen them at a bank in four months and about four of them know where Verrow is, and neither of them came the whole way. The woman with the line came the whole way because a raft with a roof on it cannot be walked across eleven miles of road and the line is the only thing that holds it if it gets into a cut.
 
@@ -42,7 +42,7 @@ At about the seventh hour it stuck. It stuck in a place where the channel narrow
 
 ---
 
-**And the four sentences were read out on that flat in the local language at about the ninth hour of the morning by a water-count of about fifty who had them on the flat of her left hand, and the chalk on a board at the bottom of the cut was about two feet away and was not used.**
+And the four sentences were read out on that flat in the local language at about the ninth hour of the morning by a water-count of about fifty who had them on the flat of her left hand, and the chalk on a board at the bottom of the cut was about two feet away and was not used.
 
 > **On the fortieth day of the Long Month, a meeting-ground at Verrow will be on the flats at Redroot, and this question is put to it, in daylight, in the local language, with a date on the door, and it is this.**
 >
@@ -54,9 +54,9 @@ At about the seventh hour it stuck. It stuck in a place where the channel narrow
 
 It took about two minutes and there was no hall and no landing and no market under that flat, and about nine people heard it, and about four hundred and forty people were on the flats in front of it with their hands on racks and heard nothing at all.
 
-**And the third sentence of it says there is a date on the door, and there is, in chalk, on the door of the house at the bottom of that cut, put there on Saturday morning by a hand about thirty-eight years old, and about nine people on that flat had walked past it a dozen times that morning without reading it, and nobody improved the question, and nobody has changed one word of it since it was written on a workroom table on the thirty-eighth, because the instrument says a question given in writing four days beforehand cannot be changed afterwards, and the first thing it did when it was built was stop its author.**
+And the third sentence of it says there is a date on the door, and there is, in chalk, on the door of the house at the bottom of that cut, put there on Saturday morning by a hand about thirty-eight years old, and about nine people on that flat had walked past it a dozen times that morning without reading it, and nobody improved the question, and nobody has changed one word of it since it was written on a workroom table on the thirty-eighth, because the instrument says a question given in writing four days beforehand cannot be changed afterwards, and the first thing it did when it was built was stop its author.
 
-**And the four sentences went off a wet hand at about the eleventh hour, which is the only copy there has ever been, and a woman of about thirty-four who keeps a stall by the wharf was standing nine feet away when it went and did not copy it and said why in four words, and nobody argued with her.**
+And the four sentences went off a wet hand at about the eleventh hour, which is the only copy there has ever been, and a woman of about thirty-four who keeps a stall by the wharf was standing nine feet away when it went and did not copy it and said why in four words, and nobody argued with her.
 
 "**I do not copy things I can hear.**"
 
@@ -66,11 +66,11 @@ It took about two minutes and there was no hall and no landing and no market und
 
 ---
 
-**And a woman of about thirty-eight who keeps the Redroot gate was standing at the mouth of the cut with a board in her left hand when the raft came round the bend, and she had counted it coming, and she said nothing to anybody about it and she has said since that she was not going to.**
+And a woman of about thirty-eight who keeps the Redroot gate was standing at the mouth of the cut with a board in her left hand when the raft came round the bend, and she had counted it coming, and she said nothing to anybody about it and she has said since that she was not going to.
 
 The boy of eight was not on the flat. Nobody had sent him anywhere and nobody had told him to be somewhere and a woman of about fifty-nine who keeps a house at that place had given him a day off in advance on purpose, without being asked, and had asked for it to be entered that she had done it in advance.
 
-**And a man of about thirty-two was not on the flat and was eleven miles away in a room over a market, and nobody asked him whether the day suited him, and the reason nobody asked is that the day is not a thing he is party to, and a man of about thirty-four who keeps a stall said that out loud at about the second hour of the afternoon and about four people heard it and one of them wrote it down.**
+And a man of about thirty-two was not on the flat and was eleven miles away in a room over a market, and nobody asked him whether the day suited him, and the reason nobody asked is that the day is not a thing he is party to, and a man of about thirty-four who keeps a stall said that out loud at about the second hour of the afternoon and about four people heard it and one of them wrote it down.
 
 "**He is not here because he cannot be sent to a gate, and he is not answering it because he is not in the room, and both of those are the same thing, and the whole of the thirty-eighth and the thirty-ninth of the Long Month was him finding that out in public and this morning is the first morning it has cost anybody anything.**"
 
@@ -80,7 +80,7 @@ The boy of eight was not on the flat. Nobody had sent him anywhere and nobody ha
 
 ---
 
-**And the raft said one thing, and it said it at about the fourth hour of the afternoon, and it is short, and a man of about thirty-nine who trades on the Open Hand board wrote it on the back of his own hand and did not improve on it and has not improved on it since.**
+And the raft said one thing, and it said it at about the fourth hour of the afternoon, and it is short, and a man of about thirty-nine who trades on the Open Hand board wrote it on the back of his own hand and did not improve on it and has not improved on it since.
 
 "**I cannot answer that.**"
 
@@ -102,4 +102,4 @@ Nobody said anything.
 
 ---
 
-**And a woman of about fifty who counts water on the fingers of her left hand, sitting on the deck of a raft tied at the bottom of that cut with her left hand flat on her knee, and nobody on it but her.**
+And a woman of about fifty who counts water on the fingers of her left hand, sitting on the deck of a raft tied at the bottom of that cut with her left hand flat on her knee, and nobody on it but her.

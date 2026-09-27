@@ -2,7 +2,7 @@
 
 On the forty-ninth day of the month after this one, which was the hundred and thirty-ninth day of the flood and a Sunday, a printed appointment came out of a cart that had been standing in a lane since Saturday morning, and a man of forty-one in a very good coat put it on a table in a room over a market and said that he was required to put it and that he was putting it, and it is a Crown-appointed interpreter with unlimited authority, offered to a man of thirty-two in daylight and in the local language with about nine people in the room, and he did not answer it, and nobody in that room did.
 
-**The licence is eighty-nine days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-four days ago. The fee of eleven ounces of silver is entered as owing with no date for the eightieth time. The black line in his right palm is one hundred and thirty-eight days old and has not moved one sixteenth of an inch.**
+The licence is eighty-nine days old. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is fifty-four days ago. The fee of eleven ounces of silver is entered as owing with no date for the eightieth time. The black line in his right palm is one hundred and thirty-eight days old and has not moved one sixteenth of an inch.
 
 ---
 
@@ -14,7 +14,7 @@ It is a single sheet. It is printed. It has a seal on it that is the seal of tha
 
 ---
 
-**And a man of forty-one in a very good coat read it out in the local language in about four minutes and then said the thing nobody in that room had expected him to say, and it is in a book in this city with a date on it.**
+And a man of forty-one in a very good coat read it out in the local language in about four minutes and then said the thing nobody in that room had expected him to say, and it is in a book in this city with a date on it.
 
 "**I am required to put it. I am putting it. I said in this city on the thirty-ninth day of the month after this one that my office has no name for a document that is in a room and not in a case, and that I have been trying since about the fourteenth week of this flood to find a way to act on one and have not found it. This is a way to act on a room. I have had it since Friday morning and I do not like it and I am putting it anyway, and I would like the room to notice that the man who has spent nineteen days failing to act on something has just been handed the means, and that the means is a person.**"
 
@@ -41,7 +41,7 @@ It is a single sheet. It is printed. It has a seal on it that is the seal of tha
 
 ---
 
-**And then a woman of about thirty-four who keeps a stall by the wharf said the thing that four people in that room had been carrying for a hundred and thirty-nine days and had not said, and it is on the page, and it is the finding of the forty-ninth day of the month after this one.**
+And then a woman of about thirty-four who keeps a stall by the wharf said the thing that four people in that room had been carrying for a hundred and thirty-nine days and had not said, and it is on the page, and it is the finding of the forty-ninth day of the month after this one.
 
 "**That is not the first shape anybody in this world has ever built that puts a whole cost on one named person and calls it fair. It is not even the second. And I am not going to say what it is called in this room, because the name has to be said in a room in daylight with a date on it and in the local language, and that is not this room, and about four people in this city know what that shape is called and two of them are sitting at this table.**"
 
@@ -49,7 +49,7 @@ It is a single sheet. It is printed. It has a seal on it that is the seal of tha
 
 ---
 
-**And then a man of thirty-two said one of the two words out loud, in the local language, in a room, with a date on it, and did not explain it, and nobody asked him to, and it is the first time either of them has been said out loud in a hundred and thirty-nine days.**
+And then a man of thirty-two said one of the two words out loud, in the local language, in a room, with a date on it, and did not explain it, and nobody asked him to, and it is the first time either of them has been said out loud in a hundred and thirty-nine days.
 
 "**Single witness,**" he said. "**One person, whose word is the reading, and nothing may say a different reading. That is what is on the table. I am not going to explain it because I have watched two people in this city refuse to explain it and I am not going to be the third.**"
 
@@ -59,7 +59,7 @@ It is a single sheet. It is printed. It has a seal on it that is the seal of tha
 
 ---
 
-**And at about the fifth hour of the afternoon a pale field came up in the air in front of about nine people in that room and stood there for about nineteen seconds, and it is the thirty-second thing the wall has said in this city, and a notary of fifty read it out in the local language in about nine seconds, and it was answered in about four seconds, out loud, in the local language, by a woman of twenty-nine who keeps a public register, and it was not accepted.**
+And at about the fifth hour of the afternoon a pale field came up in the air in front of about nine people in that room and stood there for about nineteen seconds, and it is the thirty-second thing the wall has said in this city, and a notary of fifty read it out in the local language in about nine seconds, and it was answered in about four seconds, out loud, in the local language, by a woman of twenty-nine who keeps a public register, and it was not accepted.
 
 > **One person may be made the reading of this district.**
 >
@@ -85,7 +85,7 @@ It was entered.
 
 ---
 
-**And then a man of thirty-two said the part of the forty-ninth day of the month after this one that is the finding, and it took about four minutes, and nobody improved on it, and it is the shape of what the next sixteen days are for.**
+And then a man of thirty-two said the part of the forty-ninth day of the month after this one that is the finding, and it took about four minutes, and nobody improved on it, and it is the shape of what the next sixteen days are for.
 
 "**Then here is what the post does and does not do, and I have worked it out twice since Friday and I got it wrong the first time.**"
 
@@ -95,7 +95,7 @@ It was entered.
 
 ---
 
-**And he said the last thing about it himself, and nobody asked him and nobody in that room was going to get anything else out of him, and it is on the page, and he stood up when he said it, which he does not do.**
+And he said the last thing about it himself, and nobody asked him and nobody in that room was going to get anything else out of him, and it is on the page, and he stood up when he said it, which he does not do.
 
 "**I am not going to say no today. I have been asked once in a hundred and thirty-nine days about a thing I can do and I said no in about four seconds, and I am not going to do that in a room where nobody would have to live with it afterwards, and there are people in this city who would have to live with it for the rest of their lives.**"
 
@@ -107,6 +107,6 @@ It was entered.
 
 ---
 
-**And nothing else happened on the forty-ninth day of the month after this one that anybody has written down, and a hearing is in fifteen days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-three days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five, and on the forty-fourth day of the month after this one she refused an answer that four people had agreed she would give. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water, and on the forty-eighth day a receipt came up the Reach road saying received, carried, not closed, and no answer due before the quarter. And a correct number about a district is on a wall in a converted salt store and cannot be stopped by anybody in this city. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-seven days ago, and the water has not been received for seventy days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-four days, and one of the forty has not come for twenty-five days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-four days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and thirty-nine days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Sunday on which the wall spoke and a person refused it in about four seconds is the forty-fifth silence and the pattern is forty-five for forty-five, and the count stands where it stood.**
+And nothing else happened on the forty-ninth day of the month after this one that anybody has written down, and a hearing is in fifteen days and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there twenty-three days and is not opened and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five, and on the forty-fourth day of the month after this one she refused an answer that four people had agreed she would give. And a case went down this river on the eighth day of the month after this one with a question in its eighth column and it names nobody and it is still on the water, and on the forty-eighth day a receipt came up the Reach road saying received, carried, not closed, and no answer due before the quarter. And a correct number about a district is on a wall in a converted salt store and cannot be stopped by anybody in this city. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is twenty-seven days ago, and the water has not been received for seventy days counted from the sixty-ninth day of this flood. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is fifty-four days, and one of the forty has not come for twenty-five days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for fifty-four days. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the stone in the arch has said nothing in a hundred and thirty-nine days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And a Sunday on which the wall spoke and a person refused it in about four seconds is the forty-fifth silence and the pattern is forty-five for forty-five, and the count stands where it stood.
 
-**And the last thing of the forty-ninth day of the month after this one is a printed sheet with nine terms on it and a seal on it and a man of thirty-two who has not answered it and has said he will answer it in a room, in daylight, in the local language, on a day with a date on it, and a hearing in fifteen days.**
+And the last thing of the forty-ninth day of the month after this one is a printed sheet with nine terms on it and a seal on it and a man of thirty-two who has not answered it and has said he will answer it in a room, in daylight, in the local language, on a day with a date on it, and a hearing in fifteen days.

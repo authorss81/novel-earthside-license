@@ -22,7 +22,7 @@ Nobody said anything.
 
 ---
 
-**And a woman of about fifty-nine who keeps the house at the bottom of that cut said four sentences, and they are the four sentences that nobody in four hundred miles has a right to and everybody on that flat needed, and she did not raise her voice and she did not ask anybody for anything.**
+And a woman of about fifty-nine who keeps the house at the bottom of that cut said four sentences, and they are the four sentences that nobody in four hundred miles has a right to and everybody on that flat needed, and she did not raise her voice and she did not ask anybody for anything.
 
 "**I am fifty-nine. I keep that house. There is a woman of thirty-eight in it and a boy of eight in it and I have been in that house for thirty-one years and I am the one who has to live in it for the next year, and nobody on this flat has said that out loud yet and I have just said it.**"
 
@@ -40,7 +40,7 @@ Nobody said anything.
 
 ---
 
-**And then she said the rest of it, and it is the whole of the forty-first day of the Long Month, and she has not improved on it and is not going to, and about four people on that flat have entered it in their own hands and about nine will.**
+And then she said the rest of it, and it is the whole of the forty-first day of the Long Month, and she has not improved on it and is not going to, and about four people on that flat have entered it in their own hands and about nine will.
 
 "**I am giving the days back. All of them. Nine days of a week, every one, for the rest of the season, and not the first one and not four of them, and there is no date on this that says when it starts because it starts now and it goes on to the end of the season the way the first one did.**"
 
@@ -62,7 +62,7 @@ Nobody was on a bank as far as she could see.
 
 ---
 
-**And then a woman of about fifty who counts water on the fingers of her left hand said nine words, and they were the shortest thing anybody said on that flat, and a man of about thirty-four who keeps a stall asked her afterwards whether she had meant to say them and she said she had meant to say them and she was not going to say them again.**
+And then a woman of about fifty who counts water on the fingers of her left hand said nine words, and they were the shortest thing anybody said on that flat, and a man of about thirty-four who keeps a stall asked her afterwards whether she had meant to say them and she said she had meant to say them and she was not going to say them again.
 
 "**I enter the days back against the household.**"
 
@@ -76,7 +76,7 @@ Nobody was on a bank as far as she could see.
 
 ---
 
-**And about the eighth hour of the afternoon the days went back into the rota on the board at the bottom of that cut, in a fifth hand, and the board went up on the rail with the date on it under the twenty-third and the twenty-fourth, and about four people stood and read it and about nine people did not know it had gone up.**
+And about the eighth hour of the afternoon the days went back into the rota on the board at the bottom of that cut, in a fifth hand, and the board went up on the rail with the date on it under the twenty-third and the twenty-fourth, and about four people stood and read it and about nine people did not know it had gone up.
 
 The rota is a page and it is copied in four hands on the upper road. This one was not copied. There was nothing to copy it into: a woman of about thirty-four from a fourth household on the road asked, out loud, whether the four copies on the upper road would be brought up to date, and a man of about thirty-four who keeps a stall said no, and gave the reason, and it is nine words.
 
@@ -94,9 +94,9 @@ And nobody on the flats in front of that cut knew it that evening, and they foun
 
 ---
 
-**And a man of about thirty-two was on the bank above that cut at about the fourth hour of the afternoon and had been there since the second hour, and he did not come down, and about nine people on that flat did not know he was there until about the sixth hour, and a girl of seventeen who is on no roll of anything saw him and did not go up and has not said since that she saw him and did not go up and is not going to.**
+And a man of about thirty-two was on the bank above that cut at about the fourth hour of the afternoon and had been there since the second hour, and he did not come down, and about nine people on that flat did not know he was there until about the sixth hour, and a girl of seventeen who is on no roll of anything saw him and did not go up and has not said since that she saw him and did not go up and is not going to.
 
-**And nobody had gone to get him, and nobody had asked him whether the day suited him, and a woman of about thirty-four who keeps a stall by the wharf said the whole of that in nine sentences on the deck of the raft at about the seventh hour and it is in a book in this city in her own words.**
+And nobody had gone to get him, and nobody had asked him whether the day suited him, and a woman of about thirty-four who keeps a stall by the wharf said the whole of that in nine sentences on the deck of the raft at about the seventh hour and it is in a book in this city in her own words.
 
 "**He walked eleven miles to be able to see nine feet of water and he is the only man in four hundred miles that a room believes, and he cannot be sent to a gate, and both of those are the same fact and he has known it since the thirty-sixth of the Long Month and has said it out loud in front of about two hundred and forty people, and I am not going to say it again, and the next time is the one I would like to stop having to say.**"
 
@@ -106,8 +106,8 @@ And nobody on the flats in front of that cut knew it that evening, and they foun
 
 ---
 
-**And at about the eighth hour of the evening the keeper of the Redroot gate put the board on the bench by the door and took the chalk out of her coat and put a date on the rail, and it is the forty-first day of the Long Month, and it is a fifth hand, and the twenty-third is still under it and the twenty-fourth is under that, and about four people on that flat stood and watched her do it and about nine people did not know until the morning.**
+And at about the eighth hour of the evening the keeper of the Redroot gate put the board on the bench by the door and took the chalk out of her coat and put a date on the rail, and it is the forty-first day of the Long Month, and it is a fifth hand, and the twenty-third is still under it and the twenty-fourth is under that, and about four people on that flat stood and watched her do it and about nine people did not know until the morning.
 
 The salt did not stop drying. Salt does not stop drying.
 
-**A date in chalk on a rail, in a fifth hand, and nothing under it but the two dates before it.**
+A date in chalk on a rail, in a fifth hand, and nothing under it but the two dates before it.

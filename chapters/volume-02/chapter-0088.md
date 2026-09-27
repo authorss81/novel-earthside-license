@@ -2,11 +2,11 @@
 
 On the sixty-third day of the new month, which was the eighty-eighth day of the flood and a Friday, a Hearthguard of forty-four said three sentences about a piece of paper in a yard in daylight in front of about two hundred and forty people in about nine minutes, and all three of them were correct, and a man of thirty-two said out loud in the same yard that the correct ones were the problem, and was asked to say it again, and said it again worse, and both readings went in the book and neither of them is above the other, and at about the seventh hour of the evening a man of about forty-four who keeps a stall asked him what he would do instead, and he gave an answer of nineteen words, and a girl of seventeen wrote it on a slate and put the slate on a nail in a chapel arch.
 
-**The licence is thirty-eight days old. The undertaking has been on a nail for two days and has been read aloud about nine times and nobody has signed it and nobody has refused it. The field is not paid.**
+The licence is thirty-eight days old. The undertaking has been on a nail for two days and has been read aloud about nine times and nobody has signed it and nobody has refused it. The field is not paid.
 
 ---
 
-**The document was not withdrawn, and that happened first, and it happened in about nine seconds, and about nine people in that yard had spent the night hoping it would.**
+The document was not withdrawn, and that happened first, and it happened in about nine seconds, and about nine people in that yard had spent the night hoping it would.
 
 It is entered that the first thing anybody said about the undertaking on the sixty-third day of the new month was *it is not being withdrawn*, and that it was said by a man of forty-one in a very good coat, and that he had carried two benches down to the yard in the wrong weather and put them at the side and not at the back, and that about nine people noticed the benches and about two hundred and thirty did not, and that he offered no document and said nothing wrong and is not convicted of anything and is not going to be.
 
@@ -18,7 +18,7 @@ It is entered that the first thing anybody said about the undertaking on the six
 
 ---
 
-**And then the Hearthguard said three sentences, and it took about nine minutes, and the three of them are the whole of the shape and he has said them all before and none of them in this order.**
+And then the Hearthguard said three sentences, and it took about nine minutes, and the three of them are the whole of the shape and he has said them all before and none of them in this order.
 
 Hettis Roke is forty-four and has been in the Hearthguard of the outer ward for nineteen years and he is one of the four who signed the inspection on the fourth day of the flood and one of the four who authorised the route, and he moved a seat for the fourth time in twenty-five days on the fiftieth day of the new month, in daylight, in about two hundred and forty people, and lost it, and asked for the moving and the losing to be in the record. On the fifty-fourth day of the new month, in a yard at Four Elms, in about two hundred and forty people, he said two sentences about the man who wrote the page. It is the first time he has said all three about a thing that is not a person, and it is in the book in his own words, and the yard did not go quiet between them, which is entered, because a yard going quiet is a thing this city has done eleven times in eighty-eight days and this time it did not.
 
@@ -32,7 +32,7 @@ Hettis Roke is forty-four and has been in the Hearthguard of the outer ward for 
 
 ---
 
-**And then about two hundred and forty people were asked whether anybody was going to answer that, and a man of thirty-two was four feet back, and he said nothing for about nine seconds, and about nine people counted them.**
+And then about two hundred and forty people were asked whether anybody was going to answer that, and a man of thirty-two was four feet back, and he said nothing for about nine seconds, and about nine people counted them.
 
 He holds no office, no seat, no workway, no mark of his own, no land right and no class privilege. He is on no roster of the licence and on no roster of the instrument of the twenty-second day of the new month, at his own request, in his own hand, with the date on it. **There is no post, no office, no bench, no guild, no Crown instrument and no instrument of this city's own that has his name at the top of it.** He was asked the question and he could not answer it and then he answered a different question, and the different question is in the book and it is twenty-one words long and it is his own, and it is the same sentence he has had on the page since the fifty-fourth day of the new month:
 
@@ -44,7 +44,7 @@ He holds no office, no seat, no workway, no mark of his own, no land right and n
 
 ---
 
-**And then he said the other thing, and it is the batch's finding, and about nine people in that yard understood what he had just done and about two hundred and thirty heard a man be honest about a thing he cannot fix.**
+And then he said the other thing, and it is the batch's finding, and about nine people in that yard understood what he had just done and about two hundred and thirty heard a man be honest about a thing he cannot fix.
 
 "**All three of those are correct,**" he said, "**and I have spent nine days in this city putting sentences on a page and asking whether they are true, and they are all true, and I have never once asked whether a true sentence is a problem, and I am asking now, in front of about two hundred and forty people, and the answer is that the correct ones are the problem.**"
 
@@ -60,7 +60,7 @@ He said it again. It was worse. It took about nine seconds longer and he left ou
 
 ---
 
-**Then a notary of fifty entered a finding that has no number in it, and it is the only finding in eighty-eight days with no number in it, and she declined to put it in the book twice.**
+Then a notary of fifty entered a finding that has no number in it, and it is the only finding in eighty-eight days with no number in it, and she declined to put it in the book twice.
 
 "A document with no person in it can be argued about only by people who have time," she said, "**and in this city about nine people have time and about two hundred and thirty do not, and that is not a fault of anybody and it is the whole of the problem, and I am not going to put it in the book because a finding may not be entered by anybody who is standing in the room it was found in, and I am standing in the room.**"
 
@@ -72,7 +72,7 @@ Nobody argued. **It is entered that about nine people in that yard were given a 
 
 ---
 
-**And at about the seventh hour of the evening, in the yard, in the wrong weather, in front of about two hundred and forty people who had come back for the end of it, a man of about forty-four who keeps a stall asked him a question, and about nine people heard it and about two hundred and thirty heard a question.**
+And at about the seventh hour of the evening, in the yard, in the wrong weather, in front of about two hundred and forty people who had come back for the end of it, a man of about forty-four who keeps a stall asked him a question, and about nine people heard it and about two hundred and thirty heard a question.
 
 "What would you do instead."
 
@@ -92,16 +92,16 @@ Nobody said anything for about nine seconds.
 
 "**You will do it,**" said Jonah Pike, "**because there is nothing else on the table, and because I have spent two months trying to build a structure that does not come round to one man and you have just proposed one, and I am not going to pretend you did not.**"
 
-**It is entered that nobody in that yard argued about that and that the argument about it is on Tuesday, and that about nine people in that yard understood that a man from another world had proposed in front of two hundred and forty people the one thing this volume has been refusing for eighty-eight days, and that he had done it in nineteen words, and that he had done it as a proposal, and that nobody thanked him for it and nobody has forgiven him for it.**
+It is entered that nobody in that yard argued about that and that the argument about it is on Tuesday, and that about nine people in that yard understood that a man from another world had proposed in front of two hundred and forty people the one thing this volume has been refusing for eighty-eight days, and that he had done it in nineteen words, and that he had done it as a proposal, and that nobody thanked him for it and nobody has forgiven him for it.
 
 ---
 
-**And a girl of seventeen wrote the nineteen words on a slate in a yard in daylight and carried it up two hundred steps to a lock-chapel arch and put it on a nail, and the arch now has a form on it with four items and the price of the salt written under them, a slate with a question on the front and an answer on the back, a page with seven clauses and a date, and a second slate.**
+And a girl of seventeen wrote the nineteen words on a slate in a yard in daylight and carried it up two hundred steps to a lock-chapel arch and put it on a nail, and the arch now has a form on it with four items and the price of the salt written under them, a slate with a question on the front and an answer on the back, a page with seven clauses and a date, and a second slate.
 
-**It is entered that about nine people in this city have now put a second slate on that arch, and that a keeper of about seventy who has had a nail in it for fifty-one years did not stop any of them, and that she said one sentence to the girl of seventeen when she came down the steps, and the sentence is seventeen words and it is hers:**
+It is entered that about nine people in this city have now put a second slate on that arch, and that a keeper of about seventy who has had a nail in it for fifty-one years did not stop any of them, and that she said one sentence to the girl of seventeen when she came down the steps, and the sentence is seventeen words and it is hers:
 
 > **Two slates and a form and a page. That is not a wall. That is a Wednesday.**
 
 ---
 
-**Nothing was gained, and three sentences were used on a document, and all three were correct, and a man of thirty-two said out loud in about two hundred and forty people that the correct ones were the problem, and said it again worse, and both readings are in the book side by side with neither above the other. A Hearthguard of forty-four said all three descriptions of a shape for the first time about a thing that is not a person. A man of thirty-two could not answer a question about a document because he holds no office, no seat, no workway, no mark, no land right and no class privilege, and said so in twenty-one words that have been on the page since the fifty-fourth day of the new month. **A document with no person in it was entered as arguable only by people who have time, and a notary of fifty declined to enter it twice and said why.** A man of forty-two said the proposal on the table is the old form of the oath with a person in it and that the man who proposed it will do it, and nobody argued. **Nineteen words went on a slate on a nail in a chapel arch, and the arch is not a wall, and about nine people in this city have now put a second slate on it.** The undertaking is not withdrawn, is unsigned, is unrefused, and is on a nail. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence thirty-eight days old and is given nothing by it. He performed no working today. The black line in his right palm is eighty-seven days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the measurement column and it is not filled and the twenty-fifth reading has not been taken. The Narrow Mark was not opened. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and nothing was knocked this week and nothing was used as a reason to open anything. The fee of eleven ounces of silver is entered as owing with no date for the twenty-ninth time and the salt was not sent. Nine Elms' water is not received, the fourth line of a term sheet is in force, and the whole of the Reed Reach's standing charge is on a man of thirty-two. The field was not paid on the first of March.**
+Nothing was gained, and three sentences were used on a document, and all three were correct, and a man of thirty-two said out loud in about two hundred and forty people that the correct ones were the problem, and said it again worse, and both readings are in the book side by side with neither above the other. A Hearthguard of forty-four said all three descriptions of a shape for the first time about a thing that is not a person. A man of thirty-two could not answer a question about a document because he holds no office, no seat, no workway, no mark, no land right and no class privilege, and said so in twenty-one words that have been on the page since the fifty-fourth day of the new month. **A document with no person in it was entered as arguable only by people who have time, and a notary of fifty declined to enter it twice and said why.** A man of forty-two said the proposal on the table is the old form of the oath with a person in it and that the man who proposed it will do it, and nobody argued. **Nineteen words went on a slate on a nail in a chapel arch, and the arch is not a wall, and about nine people in this city have now put a second slate on it.** The undertaking is not withdrawn, is unsigned, is unrefused, and is on a nail. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence thirty-eight days old and is given nothing by it. He performed no working today. The black line in his right palm is eighty-seven days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the measurement column and it is not filled and the twenty-fifth reading has not been taken. The Narrow Mark was not opened. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and nothing was knocked this week and nothing was used as a reason to open anything. The fee of eleven ounces of silver is entered as owing with no date for the twenty-ninth time and the salt was not sent. Nine Elms' water is not received, the fourth line of a term sheet is in force, and the whole of the Reed Reach's standing charge is on a man of thirty-two. The field was not paid on the first of March.

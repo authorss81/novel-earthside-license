@@ -2,7 +2,7 @@
 
 A man of thirty-two was standing at a gate in the wrong weather with a woman of about thirty-four who keeps a stall by the wharf, and the woman said the word out loud, once, at the gate, before anybody had asked her anything, and then said she was not going to say it again that day and did not know why she had said it.
 
-**It is the second day of the Long Month and it is a Thursday and about four people are at a gate at the bottom end of a long channel, and the word is Redroot, and it is the first time in a hundred and fifty-seven days that a place anybody in this world can reach has been said out loud by somebody who did not have to.**
+It is the second day of the Long Month and it is a Thursday and about four people are at a gate at the bottom end of a long channel, and the word is Redroot, and it is the first time in a hundred and fifty-seven days that a place anybody in this world can reach has been said out loud by somebody who did not have to.
 
 ---
 
@@ -16,7 +16,7 @@ The woman of about thirty-four who keeps a stall by the wharf had a printed shee
 
 ---
 
-**The place is a low place at the bottom end of a long channel and the red root grows in the cut bank where the water has been eating since the water came, and it grows there because the bank is the only thing on the Reach that is not salt, and it comes up in March and it is not a plant anybody eats and it is the reason a place nine miles from a town has a name at all.**
+The place is a low place at the bottom end of a long channel and the red root grows in the cut bank where the water has been eating since the water came, and it grows there because the bank is the only thing on the Reach that is not salt, and it comes up in March and it is not a plant anybody eats and it is the reason a place nine miles from a town has a name at all.
 
 There are racks on the flats at the bottom, in rows, and they belong to about nine households, and the rows are old and the wood is silver and the salt on them is white and hard and it is the best salt anybody in this world has seen and about four of the racks have a settlement's mark on the corner of the base, cut, not written, and the mark is a bar and a line and nothing else.
 
@@ -26,7 +26,7 @@ There are racks on the flats at the bottom, in rows, and they belong to about ni
 
 ---
 
-**And the woman who was waiting at the gate had been there since the fifth hour of the morning and had watched two people walk out onto a bank that is not a road, and she did not turn round when they came up.**
+And the woman who was waiting at the gate had been there since the fifth hour of the morning and had watched two people walk out onto a bank that is not a road, and she did not turn round when they came up.
 
 She was about fifty. She had a board under her arm that was not a page and a stick of chalk in her hand, and she counted water on the fingers of her left hand while she was standing there, which she has done for nine years, and she has said one thing about a fourth line out loud in four rooms since the eightieth day of this flood and has not been asked about it once.
 
@@ -56,7 +56,7 @@ And the no was short, and it was not about the man of thirty-two, and it is ente
 
 ---
 
-**And then she said it, and it was the second time, and it was to four people, in daylight, at a gate, with a date on it, and the date went on the gate board in chalk and not on a page, and that was on purpose and she said so before she did it.**
+And then she said it, and it was the second time, and it was to four people, in daylight, at a gate, with a date on it, and the date went on the gate board in chalk and not on a page, and that was on purpose and she said so before she did it.
 
 > **The second day of the Long Month. At the Redroot gate, at the bottom end of the channel.**
 >
@@ -66,7 +66,7 @@ And the no was short, and it was not about the man of thirty-two, and it is ente
 
 The chalk went on and it did not come off in the rain for about nine hours and a boy of eight took a cloth to it at the seventh hour because he thought boards should be wiped, and a woman of about thirty-four told him not to and did not explain and he did not ask her again.
 
-**And it is entered that the man of thirty-two was not asked anything and asked nothing and was told, and that he noticed he was not asked, and that a woman of twenty-four entered that she noticed him notice it and did not improve on it.**
+And it is entered that the man of thirty-two was not asked anything and asked nothing and was told, and that he noticed he was not asked, and that a woman of twenty-four entered that she noticed him notice it and did not improve on it.
 
 "You did not ask me a question," he said.
 
@@ -78,7 +78,7 @@ The chalk went on and it did not come off in the rain for about nine hours and a
 
 ---
 
-**And then the argument of the day started, and it was not an argument anybody had chosen, and it is the whole of the day.**
+And then the argument of the day started, and it was not an argument anybody had chosen, and it is the whole of the day.
 
 "Nine households," said a man of about thirty-four who keeps a stall, who had walked up with them and had said nothing for an hour. "**About nine households on it and the Reach's salt racks on the flats at the bottom and a gate, and it is not on the list.**"
 
@@ -100,7 +100,7 @@ The rain came across the flat in a sheet and went under a rack and came out the 
 
 Nobody said anything at all, and the water-count put her hand flat on the gate board over the chalk and left it there, and did not wipe it, and did not add to it.
 
-**And a man of about thirty-four who keeps a stall asked her the other thing, which was the thing she has been carrying since the eightieth day of this flood and has not been asked about once.**
+And a man of about thirty-four who keeps a stall asked her the other thing, which was the thing she has been carrying since the eightieth day of this flood and has not been asked about once.
 
 "The fourth channel," he said. "**At Nine Elms. You have said something about a fourth line four times this year and nobody has ever asked you which line or whose.**"
 
@@ -126,6 +126,6 @@ Nobody said anything at all, and the water-count put her hand flat on the gate b
 
 ---
 
-**And a man of thirty-two who is on no roster of anything did not go and stand in a field. He stood at a gate for about another hour in weather that was not fit for it, and he did not say the name again, and he did not write it down, and a girl of seventeen who was not there and who is on no roll of anything was told about it and wrote down the date and the word and nothing else.**
+And a man of thirty-two who is on no roster of anything did not go and stand in a field. He stood at a gate for about another hour in weather that was not fit for it, and he did not say the name again, and he did not write it down, and a girl of seventeen who was not there and who is on no roll of anything was told about it and wrote down the date and the word and nothing else.
 
-**And the finding of the second day of the Long Month is that a water-count who records who may use a water gate has spent a day writing a place on a board instead, on purpose, in chalk, in the rain, at a gate, to four people, and nobody asked her to and nobody will be able to take it off, and she said out loud why, and the reason is that a board is a thing and a page is a place a person can be found in, and that a man is not a place.**
+And the finding of the second day of the Long Month is that a water-count who records who may use a water gate has spent a day writing a place on a board instead, on purpose, in chalk, in the rain, at a gate, to four people, and nobody asked her to and nobody will be able to take it off, and she said out loud why, and the reason is that a board is a thing and a page is a place a person can be found in, and that a man is not a place.

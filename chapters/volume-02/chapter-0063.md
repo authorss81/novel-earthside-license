@@ -8,7 +8,7 @@ About forty ounces are in private hands. That is the whole of it. That is the to
 
 ---
 
-**Where the forty ounces are, and every one of these five facts was true this morning before anybody looked for it.**
+Where the forty ounces are, and every one of these five facts was true this morning before anybody looked for it.
 
 > **One. A chest in a chandlery on the upper road, under a floor that was lifted in the flood, with about nineteen ounces in it, and a woman of sixty-one who knows the number and has not counted it since the flood.**
 >
@@ -22,15 +22,15 @@ About forty ounces are in private hands. That is the whole of it. That is the to
 
 **About eleven people in this city know the total.** That is the finding of the day and it is not an elite. It is nine householders, one chandler, one docker and the man from another world, and the reason none of the eleven has ever said the number out loud is not fear and not loyalty and not a conspiracy.
 
-**It is that saying the number out loud is making a list.**
+It is that saying the number out loud is making a list.
 
 It is a list of about eleven people who each know how much money there is in a private house, and a list of houses with money in them is exactly the shape that this city spent sixty-two days learning to be afraid of, and the fear is real, and the fear is of persons, and the eleven are persons.
 
-**Nobody in Saltwake has ever seen a name come out of one of those cases in nine hundred years, and that is the only protection anybody has ever been offered by that office, and a number said out loud in a yard would not be a page and would go nowhere and would be in about nine mouths by the following morning.**
+Nobody in Saltwake has ever seen a name come out of one of those cases in nine hundred years, and that is the only protection anybody has ever been offered by that office, and a number said out loud in a yard would not be a page and would go nowhere and would be in about nine mouths by the following morning.
 
 ---
 
-**And the man from another world asked four people that day and got the same sentence out of three of them, and it is not the sentence he was expecting, and it took him until the second hour of the afternoon to hear what it was.**
+And the man from another world asked four people that day and got the same sentence out of three of them, and it is not the sentence he was expecting, and it took him until the second hour of the afternoon to hear what it was.
 
 He expected *no*. He got *ask me why*.
 
@@ -52,7 +52,7 @@ The fourth person he asked was Ivenn Marrow, in a yard, at about the fifth hour 
 
 ---
 
-**The Measure offered eleven ounces as a loan against the crew's shift list, in a yard, at about the second hour of the afternoon, and it was refused in about eleven seconds, and it is the fourth term in a fifth coat, and the coat is now a receipt.**
+The Measure offered eleven ounces as a loan against the crew's shift list, in a yard, at about the second hour of the afternoon, and it was refused in about eleven seconds, and it is the fourth term in a fifth coat, and the coat is now a receipt.
 
 Ottavia Reek is the second of the Brass Measure. She has been refused four times. She drafted the last one herself, as a materials account with forty men in it and the fourth term in a note in another hand, and entered that she knew before she opened it and brought it anyway, and she is not a villain and she is a factor with a quarter and the price of salt went up a third on the twenty-seventh day of the new month.
 
@@ -74,11 +74,11 @@ Reek did not argue. It is entered that she did not argue and that she folded the
 
 "**A receipt is the only one of the five she ever brought us that we were not allowed to be angry about, and I would like it written down that I noticed that on the day and not afterwards.**"
 
-**The receipt is on a table in a yard in the office of the Concord at the salt wharf. Nobody has torn it up. About nine people have looked at it.**
+The receipt is on a table in a yard in the office of the Concord at the salt wharf. Nobody has torn it up. About nine people have looked at it.
 
 ---
 
-**And the woman who has not spent a coin in nine years said why, and it is not about money, and she has never said it to anybody, and she said it to a man from another world because he asked her a question she could answer in one sentence.**
+And the woman who has not spent a coin in nine years said why, and it is not about money, and she has never said it to anybody, and she said it to a man from another world because he asked her a question she could answer in one sentence.
 
 Orla Specht is sixty-one and keeps a kitchen in Silt Row with a blue door that has to be lifted on its hinge. She has eleven ounces in a box under a floorboard and she has not spent a coin in nine years and she buys what she needs on a slate from two doors down and settles it in kind, by carrying two crates of salt a week for a man two doors down who has never once asked what they are for.
 
@@ -94,7 +94,7 @@ And then she said, in English, which she has not done with him before, and it is
 
 "You are going to ask me why I have not spent it, and you are going to write my reason down, and I am going to let you, **and I am going to do it in a language I know so that it is my sentence and not yours.**"
 
-**Here it is, in her own words, and it is seventy-one words, and it is the only thing anybody in this city has said about silver that is not about silver, and nobody in the room understood all of it and about four people understood all of it:**
+Here it is, in her own words, and it is seventy-one words, and it is the only thing anybody in this city has said about silver that is not about silver, and nobody in the room understood all of it and about four people understood all of it:
 
 > "My mother was carried out of a yard in the fourth month of a flood year by four men who were owed money by her and they came anyway, and one of them carried her and one of them carried the box, and I was nine, and I have not spent a coin in nine years because **a coin is not a coin, it is the fourth man in a yard.**"
 
@@ -102,11 +102,11 @@ Nobody in the room spoke for about eleven seconds, and the eleven seconds are en
 
 "I have never said that to anybody," said Orla Specht. "Not to my sister, and my sister has been dead four years. **You asked me a question I could answer in one sentence and that is the only reason I said it, and it is not a reason you get very often and I would like it entered that I would have said no to a person who had asked me a better question.**"
 
-**The silver exists. That is the finding of the thirty-eighth day of the new month. Adrian Vale entered in the book that he had spent two days treating an absence as a fact about currency, and that the absence was not in the currency, and that forty ounces of silver in eleven private places in a city of eleven hundred people is not a treasury and has never been one.**
+The silver exists. That is the finding of the thirty-eighth day of the new month. Adrian Vale entered in the book that he had spent two days treating an absence as a fact about currency, and that the absence was not in the currency, and that forty ounces of silver in eleven private places in a city of eleven hundred people is not a treasury and has never been one.
 
 ---
 
-**About nine people in a yard turn out to have thought about this and had each assumed somebody else was doing it.**
+About nine people in a yard turn out to have thought about this and had each assumed somebody else was doing it.
 
 That is the third finding of the day and it is the one that is going to be true in four months, and it is not about silver at all.
 
@@ -120,7 +120,7 @@ Peth Lammay's was that a carrier is paid by the person whose description is in a
 
 Wenna Cray's was that the fee is a statement about what an office thinks a district is, and that the sentence she wanted to say about it was four words long, and that she had said it once already on the twenty-ninth day of the new month and would not say it twice for a fee.
 
-**Adrian Vale's was the reason of the day and he entered it in his own hand in a private book at about the eleventh hour of the night, and it is thirty-three words, and it is the sentence the whole day stands on:**
+Adrian Vale's was the reason of the day and he entered it in his own hand in a private book at about the eleventh hour of the night, and it is thirty-three words, and it is the sentence the whole day stands on:
 
 > **Everything I have written for sixty-three days about a roll is a roll of a different kind, and I have been standing in it, and I did not know it was a floor.**
 
@@ -128,7 +128,7 @@ He wrote it and then he wrote underneath it, and the second line is not entered 
 
 > **The credit of this city is not a chest of silver. It is a list of about eleven people who each believe they are the reason something happened.**
 
-**And at about the ninth hour of the evening, under the arch of the lock chapel, four people changed a line of salt in a cut in the boarding and took four chalk depths with a straight edge, and a fifth person asked the obvious question out loud, and got told, correctly, that it was not the same thing.**
+And at about the ninth hour of the evening, under the arch of the lock chapel, four people changed a line of salt in a cut in the boarding and took four chalk depths with a straight edge, and a fifth person asked the obvious question out loud, and got told, correctly, that it was not the same thing.
 
 Nyla Ferrow is seventy and keeps that ground and she reads the join-line. Peth Lomas is fifty and a mason and not of the crew and he reads the number. Elsa Skell is forty-four and of Corrow and she reads the edge, and she has not spoken to Adrian since the eighteenth day of the new month, and she spoke to him now. Renna Ord is fifty-eight and cannot read and reads the join by standing on it twice a day and knowing whether it has moved, which she has entered is not reading. They are the four and the only four, and they are also the four who sign the fresh inspection.
 
@@ -141,4 +141,4 @@ Elsa Skell said: "**We have one price in this city and it is on that slate, unde
 "That is not the same thing."
 
 "**No,**" said Nyla Ferrow, and put the chalk down, and said nothing else, and it is entered that she was asked whether she thought the office would take salt, and that she said four words: "**Ask them and find out.**" And it is entered that about nine people heard those four words and wrote them down, and that about two hundred and thirty did not hear them, because they were under an arch at the ninth hour of the evening on a Monday in the middle of a winter.
-**Nothing was gained. The fee is entered as owing with no date. The Measure's receipt is on a table in a yard in the office of the Concord at the salt wharf and it has not been torn up and about nine people have looked at it. The trial licence is thirteen days old. The main breach is closed and dressed and has never said a word; the ground under the chapel is a scar and is not repaired; the boards have not been lifted since the fortieth day of this flood. The nineteen lines of what a person in this city may be asked to turn up for were read to about two hundred and forty people yesterday, and about nine of them understood that it was a widening. Adrian Vale is Stage 1, Witness, Unbound, on no roster, has performed no working, and is party to a licence that gives him nothing. The black line in his right palm is sixty-two days old and has not moved one sixteenth of an inch. A room with no window and no door anybody has found is four knocks into being knocked on and nobody has to open anything for that to happen and nobody has asked what to do about it. The review is in twelve days, on a slate on a nail, with a date on it and no questions on it.**
+Nothing was gained. The fee is entered as owing with no date. The Measure's receipt is on a table in a yard in the office of the Concord at the salt wharf and it has not been torn up and about nine people have looked at it. The trial licence is thirteen days old. The main breach is closed and dressed and has never said a word; the ground under the chapel is a scar and is not repaired; the boards have not been lifted since the fortieth day of this flood. The nineteen lines of what a person in this city may be asked to turn up for were read to about two hundred and forty people yesterday, and about nine of them understood that it was a widening. Adrian Vale is Stage 1, Witness, Unbound, on no roster, has performed no working, and is party to a licence that gives him nothing. The black line in his right palm is sixty-two days old and has not moved one sixteenth of an inch. A room with no window and no door anybody has found is four knocks into being knocked on and nobody has to open anything for that to happen and nobody has asked what to do about it. The review is in twelve days, on a slate on a nail, with a date on it and no questions on it.

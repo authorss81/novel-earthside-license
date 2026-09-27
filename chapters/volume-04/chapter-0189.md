@@ -8,7 +8,7 @@ The store on the upper road is open and about a hundred and forty people are pai
 
 The instrument is this and it is in a book in this city and it was built in four days in the second month of this flood and has been used on a Hearthguard of forty-four on a day he did not choose, and on a woman of about thirty-six in a gateway ten days ago, and now on a body that floats:
 
-**The question in the person's own words. Given in writing to everybody who will be in the room four days beforehand. Anybody who cannot be given it is not going to be in the room. Nobody asks the person whether the day suits them.**
+The question in the person's own words. Given in writing to everybody who will be in the room four days beforehand. Anybody who cannot be given it is not going to be in the room. Nobody asks the person whether the day suits them.
 
 And the question is this, and it is four sentences long, and it is in a hand that is not a clerk's, and a girl of seventeen has it on her own slate and has read it once and has not read it back.
 
@@ -22,7 +22,7 @@ And the question is this, and it is four sentences long, and it is in a hand tha
 
 ---
 
-**And about nine people received that page on the thirty-fifth day of the Long Month, and every one of them had it in their own hand by the sixth hour of the evening of that day, and the instrument says that anybody who cannot be given it is not going to be in the room, and exactly one person could not be given it, and this is the first time the instrument has been used on a body, and it broke on the body and did not break on a person.**
+And about nine people received that page on the thirty-fifth day of the Long Month, and every one of them had it in their own hand by the sixth hour of the evening of that day, and the instrument says that anybody who cannot be given it is not going to be in the room, and exactly one person could not be given it, and this is the first time the instrument has been used on a body, and it broke on the body and did not break on a person.
 
 The one who could not be given it is about sixty-one years old and has a barrow and keeps a stone nine miles up a road with four pages on it, and the fourth page has a date in chalk on it and the second page is wrong and is going to stay wrong on purpose, and nobody in this city has ever taken any of the four down.
 
@@ -32,13 +32,13 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 "**I am a household that keeps a page for a woman whose name is on that page, and I offered her the only thing I had, which was that I would not take it down and would not ask her and would have to look at it every time I came up this road for the next forty years. And that offer was made in the second month of this flood and it is a standing offer and it is not a page and it is not in any instrument anybody has built, and if a man of thirty-two has built an instrument that says everybody affected must be in the room then he has built it about me and not for me, and I am not going to be in the room and I am not going to be angry about it, and I have written the day on the back of the fourth page in chalk and it is the thirty-eighth day of the Long Month and nobody has to read it.**"
 
-**And a man of about thirty-two wrote her refusal into his own book with the date on it, in his own hand, and did not improve on it, and about four people in this city have said that a man who has spent a hundred and ninety-three days building an instrument has been refused by it by a woman of about sixty-one with a barrow, and that he wrote it down.**
+And a man of about thirty-two wrote her refusal into his own book with the date on it, in his own hand, and did not improve on it, and about four people in this city have said that a man who has spent a hundred and ninety-three days building an instrument has been refused by it by a woman of about sixty-one with a barrow, and that he wrote it down.
 
 ---
 
 ---
 
-**And a man of about forty-two read it four times at about the eleventh hour of the morning and put it down and said the thing that is the reason a man of about forty-two is a serious problem for four hundred miles and is not a defeat and is not going to be one.**
+And a man of about forty-two read it four times at about the eleventh hour of the morning and put it down and said the thing that is the reason a man of about forty-two is a serious problem for four hundred miles and is not a defeat and is not going to be one.
 
 "I cannot answer that."
 
@@ -56,7 +56,7 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 ---
 
-**And then a man of about twenty-nine from the settlement's workroom did the thing he has done twice in a hundred and ninety-three days, which is to say the thing out loud that nobody in the room had thought of, and it took him about four minutes, and about nine people have written it down since in their own hands and about four have improved on it and the improvements are wrong.**
+And then a man of about twenty-nine from the settlement's workroom did the thing he has done twice in a hundred and ninety-three days, which is to say the thing out loud that nobody in the room had thought of, and it took him about four minutes, and about nine people have written it down since in their own hands and about four have improved on it and the improvements are wrong.
 
 "You have written that you can be sent into any room and be believed, and that you can be sent to no gate at all, and both of those are the same fact written twice, and about four people in this workroom have read it as two facts and it is one."
 
@@ -70,7 +70,7 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 ---
 
-**The one thing that had to be said about a raft in a room in a hundred and ninety-three days was said by a woman of about twenty-nine who keeps a public register, and she said it in four sentences and it is hers and it is in a book in this city and nobody improved on it and it is not the same sentence as the one she said in the second month of this flood, though it is about the same raft.**
+The one thing that had to be said about a raft in a room in a hundred and ninety-three days was said by a woman of about twenty-nine who keeps a public register, and she said it in four sentences and it is hers and it is in a book in this city and nobody improved on it and it is not the same sentence as the one she said in the second month of this flood, though it is about the same raft.
 
 "**A delegation of four people and a question has not left for the ground people call the First Landing, and nobody has been asked whether they will go, and I am not going to say why, because the reason is that a person who is asked is a person on a list, and a delegation is a number with legs and you can send a number and you cannot send a page.**
 
@@ -82,7 +82,7 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 ---
 
-**And a share with the post taken out has been in a man's coat for about twenty-five days and nobody in that workroom mentioned it and about four people in that workroom wanted to, and a man of about thirty-four who keeps a stall asked him about it in a yard at about the sixth hour of the evening and got four sentences and about nine people heard them and nobody can be written to for having it.**
+And a share with the post taken out has been in a man's coat for about twenty-five days and nobody in that workroom mentioned it and about four people in that workroom wanted to, and a man of about thirty-four who keeps a stall asked him about it in a yard at about the sixth hour of the evening and got four sentences and about nine people heard them and nobody can be written to for having it.
 
 "You have not answered it."
 
@@ -92,10 +92,10 @@ The one who could not be given it is about sixty-one years old and has a barrow 
 
 "**No. I have given that up on the seventeenth day of the Long Month and I did not tell anybody and it is on the page that I gave it up. I am not going to hold a page in my coat for a hundred and ninety-three days to be the only man in it, and I am not going to give it up in a yard, and it is going to sit in a coat and about four people are going to know it is there and about four hundred people are not, and that is the whole of the price of that page and I have paid it and I am not going to be thanked for it because I said in advance I would not be.**"
 
-**And a woman of about thirty-four who keeps a stall by the wharf said one thing in a yard about that, and it is six words, and it is the last thing anybody said in that room about a man of thirty-two.**
+And a woman of about thirty-four who keeps a stall by the wharf said one thing in a yard about that, and it is six words, and it is the last thing anybody said in that room about a man of thirty-two.
 
 "**Then stop being the only one.**"
 
 ---
 
-**A plain slate with four sentences on it in a girl's own hand, and it is not her own, and she has not read it back and is not going to.**
+A plain slate with four sentences on it in a girl's own hand, and it is not her own, and she has not read it back and is not going to.

@@ -2,17 +2,17 @@
 
 On the sixty-first day of the new month, which was the eighty-sixth day of the flood and a Wednesday, about two hundred and forty people sat in a converted salt store and were read a document properly, clause by clause, twice, in the local language and then in English, and about nine of them found the clause that is the document and about two hundred and thirty of them found nothing wrong with it at all, and it is entered that the man who copied it out of this city's own book stood up in about the ninth minute of the reading and said nine words and sat down again.
 
-**The licence is thirty-six days old. The field was not paid yesterday and it is not going to be paid today. The door is shut. The undertaking is neither refused nor accepted and both of those are entered.**
+The licence is thirty-six days old. The field was not paid yesterday and it is not going to be paid today. The door is shut. The undertaking is neither refused nor accepted and both of those are entered.
 
 ---
 
-**It was read properly because a notary of fifty said that it had been read once, in a chapel, nine miles up a road, and that is not a reading, and that a document read once by a man who found it is a document nobody has checked.**
+It was read properly because a notary of fifty said that it had been read once, in a chapel, nine miles up a road, and that is not a reading, and that a document read once by a man who found it is a document nobody has checked.
 
 Sera Vail is fifty and she is the notary of this city and she has held the office for twenty-six years, and she wrote the line on the fifty-first day of the new month, and she drafted the third question of the review and may not grade her own paper, and she has said twice in nine words that the instrument she wrote is worse than the one she was asked to write.
 
 "**We are going to read it in this order,**" she said, "**all seven clauses, then the date, then the line at the bottom, and then all seven clauses again, and the second time round the room is going to be asked to say what each clause is doing, and not what it says. What it says is easy. What it is doing is the whole of what is on the table and nobody in this room has asked for it until now.**"
 
-**It is entered that about two hundred and forty people were in that store and that the doors were open on both sides because it is a store and it is March and it is cold, and that about nine people had a slate and about two hundred and thirty did not.**
+It is entered that about two hundred and forty people were in that store and that the doors were open on both sides because it is a store and it is March and it is cold, and that about nine people had a slate and about two hundred and thirty did not.
 
 The seven clauses were read. The date was read. The line at the bottom was read, which is: **Copied out of this city's own book by a hand that is not named on it.**
 
@@ -20,7 +20,7 @@ And then in the ninth minute of the second reading, a man of sixty-one at the ba
 
 ---
 
-**He is Garret Slee and he has kept the Lantern Concord's bound book of this city's own words for nineteen years and his name is not at the top of it and has never been at the top of anything.**
+He is Garret Slee and he has kept the Lantern Concord's bound book of this city's own words for nineteen years and his name is not at the top of it and has never been at the top of anything.
 
 He is a clerk of nothing. He is not on the roll of strangers and he is not on the roll of the Concord and he is not on the roll of the forty and he is not one of the nine names who may stop the working. He copies out what people say. He has done it for nineteen years. **He is the reason a sentence in this city can be looked up, and he has never been asked to be anything by anybody, and he has never once asked to be.**
 
@@ -36,7 +36,7 @@ Nobody stopped him. The girl of seventeen wrote, and he dictated, and it is on t
 
 "**I did not ask him and he did not tell me and I am not going to guess in a room,**" said Garret Slee, "**and I would like it entered that I have been asked that question twice in four days and that I have not answered it twice, and that a man who copies things out for nineteen years is a man who knows that a book is a book.**"
 
-**And then a woman of twenty-four asked the question that about nine people in that room had been carrying since the Monday, in a salt town, nine miles up a road, and it took about four seconds to say and about nine minutes to be finished with.**
+And then a woman of twenty-four asked the question that about nine people in that room had been carrying since the Monday, in a salt town, nine miles up a road, and it took about four seconds to say and about nine minutes to be finished with.
 
 "You were not asked to be the holder of anything," she said.
 
@@ -48,7 +48,7 @@ Nobody stopped him. The girl of seventeen wrote, and he dictated, and it is on t
 
 ---
 
-**And then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it was the twenty-fourth thing the wall had ever said in this city, and nobody in that room answered it, and it went away.**
+And then a pale field came up in the air in front of about nine people and stood there for about nineteen seconds, and it was the twenty-fourth thing the wall had ever said in this city, and nobody in that room answered it, and it went away.
 
 It said, in the plainest words anybody in this city has ever had put in front of them:
 
@@ -58,11 +58,11 @@ It said, in the plainest words anybody in this city has ever had put in front of
 
 > **I am not answering for a room, not even this one.**
 
-**And a girl of seventeen counted it at about the fifth hour of the afternoon and could not tell anybody which book it goes in, which is the third time in eighty-six days that she has been in that position, and the second book kept at home, which has never been shown to anybody, still says twenty-two and did not go up, because a field that nobody answers is in neither book.**
+And a girl of seventeen counted it at about the fifth hour of the afternoon and could not tell anybody which book it goes in, which is the third time in eighty-six days that she has been in that position, and the second book kept at home, which has never been shown to anybody, still says twenty-two and did not go up, because a field that nobody answers is in neither book.
 
 ---
 
-**And then the document was read a third time, and the third reading is the one that is on the page, and it took about nine minutes, and about nine people in that room heard a thing about it and about two hundred and thirty heard a document.**
+And then the document was read a third time, and the third reading is the one that is on the page, and it took about nine minutes, and about nine people in that room heard a thing about it and about two hundred and thirty heard a document.
 
 The third reading is the girl's, because she asked for it and because she is seventeen and is on no roll in this city and because nobody could think of a reason to stop her.
 
@@ -88,9 +88,9 @@ Nobody in that store said anything for about nine seconds.
 
 ---
 
-**Then the room did the thing that rooms do, and it did it in about nine minutes, and the entry is that about nine people understood the document and about two hundred and thirty did not, and that nobody moved.**
+Then the room did the thing that rooms do, and it did it in about nine minutes, and the entry is that about nine people understood the document and about two hundred and thirty did not, and that nobody moved.
 
-**It is not refused. It is not accepted. It is entered, and it is entered as a document and not as an instrument, and entering it is the first step of using it, and about nine people in that room understood that at the moment Sera Vail read it into the book and one of the nine was the notary herself and she said so before anybody asked her.**
+It is not refused. It is not accepted. It is entered, and it is entered as a document and not as an instrument, and entering it is the first step of using it, and about nine people in that room understood that at the moment Sera Vail read it into the book and one of the nine was the notary herself and she said so before anybody asked her.
 
 "Nine people against two hundred and thirty," said Garret Slee, from the back. "**I have been in this city nineteen years copying things out and that is the first time I have watched that happen and I would like it written down that the two hundred and thirty are not wrong. They have not understood it. Understanding is not the test. The test is whether anybody in the room can be angry at it, and nobody in that room can be angry at it, including me, and I put it in a book with my own hand.**"
 
@@ -100,7 +100,7 @@ Nobody in that store said anything for about nine seconds.
 
 ---
 
-**And at about the seventh hour of the evening the document went on a nail in the lock-chapel arch, beside the form, and about nine people watched it go up, and the arch has a form on it with four items and the price of the salt written under them and a fifth item that is a question and not a duty, and it has a slate on it with a question on the front and an answer on the back, and it now has a third thing on it.**
+And at about the seventh hour of the evening the document went on a nail in the lock-chapel arch, beside the form, and about nine people watched it go up, and the arch has a form on it with four items and the price of the salt written under them and a fifth item that is a question and not a duty, and it has a slate on it with a question on the front and an answer on the back, and it now has a third thing on it.
 
 **A page on a nail is a page people read. A page in a stone is a page people have to come and ask for.** That is a keeper of about seventy's, said in this yard on the fifty-first day of the new month to a docker of fifty-eight who cannot read, and it is in the book in her words and I am not going to take it off her by saying it again. **A page on a nail beside a form is two instruments in one arch**, and it is entered that about nine people in this city worked that out on the evening of the sixty-first day of the new month and about two hundred and thirty did not, and that a keeper of about seventy who has had a nail in that arch for fifty-one years said one sentence about it, and the sentence is fifteen words and it is hers:
 
@@ -108,4 +108,4 @@ Nobody in that store said anything for about nine seconds.
 
 ---
 
-**Nothing was gained, and a document was read properly, three times, in a converted salt store, in daylight, in about two hundred and forty people, and it is neither refused nor accepted. A man of sixty-one who has kept a body of this city's own words for nineteen years stood up in the ninth minute of the reading and said nine words in his own hand and sat down again. A woman of twenty-four established that he was never asked to be the holder of anything and that he copied it out anyway. A pale field came up in front of about nine people and put a body of persons in the place where a person goes, and nobody refused it and nobody accepted it, and the count in the second book kept at home is unchanged at twenty-two because a field that nobody answers is in neither book. **A girl of seventeen, on no roll, found in about nine minutes that the document does not say what the people the door costs are called, and that it does not have to, and that a document which does not have to answer the eleventh question has already answered it, and that the answer it gave on Monday was four words long and was not a noun.** About nine people in that store understood the document and about two hundred and thirty found nothing wrong with it, and nobody moved, and the test is not understanding, and the test is whether anybody in the room can be angry at it, and nobody can, including the man whose hand is at the bottom of it. The undertaking went on a nail in the lock-chapel arch beside a form, and the arch is a place, and a place is a room. The instrument continues. The door is shut. Nine Elms' water is not received, the fourth line of a term sheet is in force, and the whole of the Reed Reach's standing charge is on a man of thirty-two. The field was not paid on the first of March. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence thirty-six days old and is given nothing by it. He performed no working today. The black line in his right palm is eighty-five days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the measurement column and it is not filled and the twenty-fifth reading has not been taken. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and nothing was knocked this week and nothing was used as an instrument, a signal, a proof, a rescue, or a reason to open anything. The fee of eleven ounces of silver is entered as owing with no date for the twenty-seventh time and the salt was not sent.**
+Nothing was gained, and a document was read properly, three times, in a converted salt store, in daylight, in about two hundred and forty people, and it is neither refused nor accepted. A man of sixty-one who has kept a body of this city's own words for nineteen years stood up in the ninth minute of the reading and said nine words in his own hand and sat down again. A woman of twenty-four established that he was never asked to be the holder of anything and that he copied it out anyway. A pale field came up in front of about nine people and put a body of persons in the place where a person goes, and nobody refused it and nobody accepted it, and the count in the second book kept at home is unchanged at twenty-two because a field that nobody answers is in neither book. **A girl of seventeen, on no roll, found in about nine minutes that the document does not say what the people the door costs are called, and that it does not have to, and that a document which does not have to answer the eleventh question has already answered it, and that the answer it gave on Monday was four words long and was not a noun.** About nine people in that store understood the document and about two hundred and thirty found nothing wrong with it, and nobody moved, and the test is not understanding, and the test is whether anybody in the room can be angry at it, and nobody can, including the man whose hand is at the bottom of it. The undertaking went on a nail in the lock-chapel arch beside a form, and the arch is a place, and a place is a room. The instrument continues. The door is shut. Nine Elms' water is not received, the fourth line of a term sheet is in force, and the whole of the Reed Reach's standing charge is on a man of thirty-two. The field was not paid on the first of March. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence thirty-six days old and is given nothing by it. He performed no working today. The black line in his right palm is eighty-five days old and has not moved one sixteenth of an inch. The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the measurement column and it is not filled and the twenty-fifth reading has not been taken. The chapel stone is silent and is not repaired. The ground under the chapel is a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and nothing was knocked this week and nothing was used as an instrument, a signal, a proof, a rescue, or a reason to open anything. The fee of eleven ounces of silver is entered as owing with no date for the twenty-seventh time and the salt was not sent.

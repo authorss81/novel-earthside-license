@@ -4,7 +4,7 @@ Adrian Vale picked a sack up off the boards of the back room of the store on the
 
 ---
 
-**And the two of them are the only people in that building doing a thing that is on nothing. She is on no list in that store. He is on no roster of any document in four hundred miles at his own request and in his own hand with the date on it, and about nine people in this city have known that since the twenty-second day of the new month and about four of them have been waiting for him to need a place to put eleven sacks.**
+And the two of them are the only people in that building doing a thing that is on nothing. She is on no list in that store. He is on no roster of any document in four hundred miles at his own request and in his own hand with the date on it, and about nine people in this city have known that since the twenty-second day of the new month and about four of them have been waiting for him to need a place to put eleven sacks.
 
 "You have not asked me where to put them."
 
@@ -18,7 +18,7 @@ She went back out to the yard and left the door open behind her, and about four 
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom was in that back room at about the seventh hour with a slate under his arm that he picked up off the boards of a yard on the seventieth day of the Long Month, and he stood in the doorway and did not come in and about four people in that yard had watched him not come in since the fiftieth day of that month and about nine of them had stopped watching.**
+And a man of about twenty-nine from the settlement's workroom was in that back room at about the seventh hour with a slate under his arm that he picked up off the boards of a yard on the seventieth day of the Long Month, and he stood in the doorway and did not come in and about four people in that yard had watched him not come in since the fiftieth day of that month and about nine of them had stopped watching.
 
 "You are on no roster of this building."
 
@@ -32,7 +32,7 @@ He did not come in and he did not go away, and about four people in that yard sa
 
 ---
 
-**And Adrian Vale put eleven sacks along that wall and the twelfth he did not, and his hands had gone white at the prints twice by the ninth hour and the second time they did not come back, and he got it up off the boards about four inches and put it down again, and about four people in that back room were in there and about nine of them were not and all four of them saw it and none of the four said a word.**
+And Adrian Vale put eleven sacks along that wall and the twelfth he did not, and his hands had gone white at the prints twice by the ninth hour and the second time they did not come back, and he got it up off the boards about four inches and put it down again, and about four people in that back room were in there and about nine of them were not and all four of them saw it and none of the four said a word.
 
 "That is the twelfth."
 
@@ -46,7 +46,7 @@ He sat down on the edge of the chest with his hands open on his knees, and the p
 
 ---
 
-**And about the tenth hour he took a piece of paper out of the inside of that coat and looked at it and put it back, and about four people in that back room knew what it was and about nine of them did not, and nobody asked him and about four people in this city have been waiting since the thirteenth day of the Long Month for somebody to ask him and about nine of them have said they are not going to be the one.**
+And about the tenth hour he took a piece of paper out of the inside of that coat and looked at it and put it back, and about four people in that back room knew what it was and about nine of them did not, and nobody asked him and about four people in this city have been waiting since the thirteenth day of the Long Month for somebody to ask him and about nine of them have said they are not going to be the one.
 
 "You have had that a long time."
 
@@ -60,7 +60,7 @@ He put his hand into the coat and took it out again without looking at it, and a
 
 ---
 
-**And the woman of about thirty-four in that store came back in at about the eleventh hour and looked at eleven sacks along a wall and one sack in the middle of a floor and a man sitting on a chest with his hands open, and about four people in this city have said since that she is not a person who says thank you and about nine of them have said that she is not a person who says anything at all, and she said four sentences and none of them was about him.**
+And the woman of about thirty-four in that store came back in at about the eleventh hour and looked at eleven sacks along a wall and one sack in the middle of a floor and a man sitting on a chest with his hands open, and about four people in this city have said since that she is not a person who says thank you and about nine of them have said that she is not a person who says anything at all, and she said four sentences and none of them was about him.
 
 "**Eleven along the wall is right. I have been putting them in a heap since the fifty-sixth day of the Long Month because a heap is what came out of a chest and a wall is what I have to find them in the morning of. That is not a plan and I am not going to call it one, and I have been doing it alone for fifteen days and I have stopped apologising for it on the seventy-first day of the Long Month.**"
 
@@ -70,7 +70,7 @@ He put his hand into the coat and took it out again without looking at it, and a
 
 ---
 
-**And the man of about twenty-seven who washes the store's own board stood in the doorway of that back room at about the eleventh hour with the cloth in his hand and looked at the groove worn in the boards for about a minute before he said anything, and the groove is the shape of a sack and it is fifteen days old and nobody in that building had made it.**
+And the man of about twenty-seven who washes the store's own board stood in the doorway of that back room at about the eleventh hour with the cloth in his hand and looked at the groove worn in the boards for about a minute before he said anything, and the groove is the shape of a sack and it is fifteen days old and nobody in that building had made it.
 
 "Somebody has been dragging them."
 
@@ -84,7 +84,7 @@ He put the cloth over his shoulder and went out and the boards of that back room
 
 ---
 
-**And the four sacks with a knot on them that is not the knot on the other eight are the four at the bottom of the chest, and they are the four that were opened and re-tied on the fifty-sixth day of that month, and the salt in them has come up to the stitch line at the mouth and crumbles where you put a thumb on it, and the woman of about thirty-four in that store had not looked at the four of them in fifteen days and had not forgotten which four they were.**
+And the four sacks with a knot on them that is not the knot on the other eight are the four at the bottom of the chest, and they are the four that were opened and re-tied on the fifty-sixth day of that month, and the salt in them has come up to the stitch line at the mouth and crumbles where you put a thumb on it, and the woman of about thirty-four in that store had not looked at the four of them in fifteen days and had not forgotten which four they were.
 
 "**Those four are lighter.**"
 
@@ -98,4 +98,4 @@ About four people in that back room looked at the four knots and about nine of t
 
 ---
 
-**And eleven sacks along a wall and one in the middle of a floor, and a groove in the boards in the shape of a sack.**
+And eleven sacks along a wall and one in the middle of a floor, and a groove in the boards in the shape of a sack.

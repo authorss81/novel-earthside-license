@@ -4,7 +4,7 @@ Nobody came up the bank at the bottom of the Redroot cut on the afternoon of the
 
 ---
 
-**And a woman of about fifty-nine who keeps that house came out onto the step at about the fifth hour of the afternoon and stood on it and looked up the bank, and a boy of eight came out behind her and stood on the step and looked up the bank too, and about four people in that yard had been waiting since the second hour of the afternoon for one of the two of them to say something and about nine of them had been waiting since the fourth.**
+And a woman of about fifty-nine who keeps that house came out onto the step at about the fifth hour of the afternoon and stood on it and looked up the bank, and a boy of eight came out behind her and stood on the step and looked up the bank too, and about four people in that yard had been waiting since the second hour of the afternoon for one of the two of them to say something and about nine of them had been waiting since the fourth.
 
 "He is not coming."
 
@@ -20,7 +20,7 @@ The step is the only place in that yard with any sun on it and the sun had gone 
 
 ---
 
-**And a boy of eight went out into that yard at about the fifth hour of the afternoon and untied a length of rope off the wall and tied it again and came back in, and he did it with his teeth in the end of it, and nobody in that yard said one word about it, and about four people in that yard have said since that they have been waiting since the seventh week of this flood for somebody to say something about that rope and that nobody ever has.**
+And a boy of eight went out into that yard at about the fifth hour of the afternoon and untied a length of rope off the wall and tied it again and came back in, and he did it with his teeth in the end of it, and nobody in that yard said one word about it, and about four people in that yard have said since that they have been waiting since the seventh week of this flood for somebody to say something about that rope and that nobody ever has.
 
 "That rope."
 
@@ -32,7 +32,7 @@ The woman of about fifty-nine who keeps that house said one sentence to the boy 
 
 ---
 
-**And a woman of about thirty-four in that house came out onto the step at about the fourth hour of the afternoon, before the light had gone off it, and she is the youngest person in that house and she has been on no rota since the seventh week of this flood, and she said one sentence and it was about the wet stripe on the boards and about nine people at the bottom of that bank heard it.**
+And a woman of about thirty-four in that house came out onto the step at about the fourth hour of the afternoon, before the light had gone off it, and she is the youngest person in that house and she has been on no rota since the seventh week of this flood, and she said one sentence and it was about the wet stripe on the boards and about nine people at the bottom of that bank heard it.
 
 "**That stripe is going to be there on Monday. Nobody in this yard is going to scrub it out and I am not going to scrub it out, and if a sack comes up this bank on Monday then there will be two stripes and if it does not then there will be one, and I am not going to be in a yard counting stripes, and about four people in this city would call that a column and about nine of them would call it a Tuesday.**"
 
@@ -42,7 +42,7 @@ The woman of about fifty-nine who keeps that house said one sentence to the boy 
 
 ---
 
-**And about the seventh hour of the evening the woman of about fifty-nine who keeps that house came out onto the step again and said four sentences and about nine people at the bottom of that bank heard all four of them, and the fourth one was about a sack and the first three were about a bank, and nobody in that yard asked her a question about any of it.**
+And about the seventh hour of the evening the woman of about fifty-nine who keeps that house came out onto the step again and said four sentences and about nine people at the bottom of that bank heard all four of them, and the fourth one was about a sack and the first three were about a bank, and nobody in that yard asked her a question about any of it.
 
 "**A man carried four of these up this bank and he told nobody where they came from, and I have not asked him where they came from once in thirteen days. About nine people in four hundred miles would say that is a strange thing not to ask, and it is not strange. It is a man who is not going to be a second mouth for a thing that comes up a bank. The days went back on the forty-first day of the Long Month, unasked, on a flat, in daylight, and the sack did not stop. I have had four sacks come up that bank inside thirteen days and I have had one day of a sack not coming up that bank, and the difference between those two days is a man with a strap and a groove in a coat.**"
 
@@ -62,7 +62,7 @@ A man of about thirty-two was at the bottom of that bank at about the eighth hou
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road came up that bank at about the eighth hour of the evening with nothing in her hands and stood at the bottom of it and did not go up, and about four people in that yard knew why she was there and about nine of them had worked out that she had walked eleven miles to stand at the bottom of a bank, and she has not chosen a day to ask in a room and this was not a day she had chosen.**
+And a woman of about thirty-four from a fourth household on the road came up that bank at about the eighth hour of the evening with nothing in her hands and stood at the bottom of it and did not go up, and about four people in that yard knew why she was there and about nine of them had worked out that she had walked eleven miles to stand at the bottom of a bank, and she has not chosen a day to ask in a room and this was not a day she had chosen.
 
 "They will not tell you where it comes from."
 
@@ -76,8 +76,8 @@ She went back down the bank in the dark at about the ninth hour and about four p
 
 ---
 
-**And the keeper of the Redroot gate had been at the top of that cut from first light, and she was still there at about the seventh hour of the morning, and she worked the channel with the board in her left hand and did not put it down once, and she is fifty days into a year of being angry that has not run out, and she said nothing to anybody about it and nobody in that yard has said her name and nobody went up that bank with a message.**
+And the keeper of the Redroot gate had been at the top of that cut from first light, and she was still there at about the seventh hour of the morning, and she worked the channel with the board in her left hand and did not put it down once, and she is fifty days into a year of being angry that has not run out, and she said nothing to anybody about it and nobody in that yard has said her name and nobody went up that bank with a message.
 
 ---
 
-**And at about the ninth hour of the evening the boards of that yard had gone the colour of the boards under them, and about four people were still standing in it and about nine had gone, and the step was empty.**
+And at about the ninth hour of the evening the boards of that yard had gone the colour of the boards under them, and about four people were still standing in it and about nine had gone, and the step was empty.

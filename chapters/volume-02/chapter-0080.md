@@ -2,11 +2,11 @@
 
 On the fifty-fifth day of the new month, which was the eightieth day of the flood and a Thursday, a page went on the inside of a shrine on a boundary at Four Elms that somebody else had put there, with a date on it and a price under it and a right of refusal in it, and about nine people kept it, and it is the first page in this city that has been put somewhere that is not this city's building, and nobody here has ever done that, and there is no procedure for it, and March is five days off and the review did not pay the field.
 
-**The licence is thirty days old. It is in force and it is weaker than the one it went in with. The door is shut. The fee of eleven ounces of silver is entered as owing with no date for the twenty-first time and the salt was not sent. Nine Elms' water is not received. The whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything, and that is not resolved, and is not going to be resolved before March.**
+The licence is thirty days old. It is in force and it is weaker than the one it went in with. The door is shut. The fee of eleven ounces of silver is entered as owing with no date for the twenty-first time and the salt was not sent. Nine Elms' water is not received. The whole of the Reed Reach's standing charge is on a man of thirty-two who is on no roster of anything, and that is not resolved, and is not going to be resolved before March.
 
 ---
 
-**A shrine is not an instrument, and the argument about that took nine minutes, and the woman who kept it made it in about four sentences and has not been asked anything about it in thirty-nine years.**
+A shrine is not an instrument, and the argument about that took nine minutes, and the woman who kept it made it in about four sentences and has not been asked anything about it in thirty-nine years.
 
 It is a stone about the height of a man's chest with a cut in the flat of it, on the north side of a road that forks at Four Elms where the ground drops away. It has stood where it stood for a hundred and forty years. The cut in it is not the boundary; the boundary was moved a hundred yards downstream once, in living memory, at a public act with witnesses, and the cost column says the bottom field failed and four hundred people were rehoused. **The line in the shrine is where the water was before that, and the shrine is a thing that says so, and it has been saying so since before anybody alive was born, and it is not on paper.**
 
@@ -26,7 +26,7 @@ Marda Rood is about sixty-one. She keeps it. She kept it before her husband was 
 
 ---
 
-**The page has six things on it, and the six things are the six things of the first Wayhouse with the middle taken out and a stone put in, and the price is written under the six and is not a seventh, and that arrangement is on a nail in a lock-chapel arch in this city and it is not a decision anybody made for this page.**
+The page has six things on it, and the six things are the six things of the first Wayhouse with the middle taken out and a stone put in, and the price is written under the six and is not a seventh, and that arrangement is on a nail in a lock-chapel arch in this city and it is not a decision anybody made for this page.
 
 > **First. It is a stone and it is not an instrument, and nothing may be worked at it, and nobody may make it into a working site, and there is no pattern in it.**
 >
@@ -50,7 +50,7 @@ Marda Rood is about sixty-one. She keeps it. She kept it before her husband was 
 
 ---
 
-**And the Reed Commons' position hardened on the Thursday morning, in a converted salt store, in a document that took about nineteen minutes and is the fourth page of a thing nobody in this volume has read end to end, and the fourth line is in it and it is Ilda Marsh's and it is in force.**
+And the Reed Commons' position hardened on the Thursday morning, in a converted salt store, in a document that took about nineteen minutes and is the fourth page of a thing nobody in this volume has read end to end, and the fourth line is in it and it is Ilda Marsh's and it is in force.
 
 Hessa Ruun is the water-count of the Reed Reach and she is the closest thing the wetland has to a notary and nothing like one. She came up the Reach road on the Thursday with the answer of the meeting-ground at Verrow and read it out in nineteen minutes in a converted salt store in about forty people, and it is a refusal, and the refusal is of Adrian Vale's page.
 
@@ -74,17 +74,17 @@ Nobody argued. **And it is entered that the fourth line of the term sheet of the
 
 ---
 
-**And at about the eleventh hour of the morning, on the north side of a fork at Four Elms, a page went on the inside of a stone.**
+And at about the eleventh hour of the morning, on the north side of a fork at Four Elms, a page went on the inside of a stone.
 
 Marda Rood put it there herself. She is about sixty-one and cannot be managed and she had it in a piece of cloth and she put it in against the inner face of the stone, under the lip where rain does not get, and the cut in the flat of the stone is on the other side and is a hundred and forty years old and has nothing to do with it.
 
-**Nobody stepped over it. That is entered, and it was asked about, and a woman of seventy who keeps the lock chapel asked about it on the Thursday afternoon in about nine seconds and was told the answer in twenty-five words and the twenty-five words are hers:**
+Nobody stepped over it. That is entered, and it was asked about, and a woman of seventy who keeps the lock chapel asked about it on the Thursday afternoon in about nine seconds and was told the answer in twenty-five words and the twenty-five words are hers:
 
 "**A page on a nail is a page people read. A page in a stone is a page people have to come and ask for.**"
 
 ---
 
-**At about the sixth hour of the evening, in the yard under the lock chapel, the license, the door, the fee, the field and the review were all said out loud in about two hundred and forty people's hearing, by a girl of seventeen reading a page, and none of it was good news and all of it is entered.**
+At about the sixth hour of the evening, in the yard under the lock chapel, the license, the door, the fee, the field and the review were all said out loud in about two hundred and forty people's hearing, by a girl of seventeen reading a page, and none of it was good news and all of it is entered.
 
 "A trial licence thirty days old, in force, continued, and weaker than the one it went in with." "A door that is shut and is not going to be opened and has been opened twice in eighty days." "A fee of eleven ounces of silver owing with no date for the twenty-first time, and the office has been told what this district has and this district has been told what the office will take, and neither of those is on any page the office has sent." "Nine Elms' water not received for the coming quarter, and the credit refused, and the quarter gone." "A season of a field four miles down the Reach road, unpaid, entered ten times in one month, with no figure on the end of it, and **March is five days off and a woman in Corrow has five days in which to decide how much of her life to put in the ground.**"
 
@@ -96,7 +96,7 @@ Marda Rood put it there herself. She is about sixty-one and cannot be managed an
 
 ---
 
-**And at about the ninth hour of the evening, at the top of the upper road, a woman of sixty-one who cannot read was reading nineteen shapes aloud to a docker who has a slate, because anybody may pick the work up, and eight of them are different and further down the road and have not been looked at, and one of them is not a shape.**
+And at about the ninth hour of the evening, at the top of the upper road, a woman of sixty-one who cannot read was reading nineteen shapes aloud to a docker who has a slate, because anybody may pick the work up, and eight of them are different and further down the road and have not been looked at, and one of them is not a shape.
 
 Sabra Vint is about sixty-one. She has a house with a burnt lintel on the upper road and nine years of paper with nineteen shapes on it and eight of them different, and she has never once written down what she thinks the shapes mean, and she has come down two hundred steps four times in nine years, and she said on the nineteenth day of the new month, in a room with a burnt lintel, that she is sixty-one and would like to stop, and that somebody has to be the one who writes down what they think they mean, and that is the only thing she has done wrong in nine years.
 
@@ -122,14 +122,14 @@ At the eleventh stone, about two hundred yards short of where the eleven end, th
 
 ---
 
-**Nothing was gained, and the batch closes on a road.**
+Nothing was gained, and the batch closes on a road.
 
 The licence is in force and weaker. The door is shut. The fee is owing with no date for the twenty-first time and the salt was not sent. The field is unpaid and March is five days off and the review did not pay it. The fourth line of a term sheet is in force and the whole of the Reed Reach's standing charge is on a man of thirty-two and a page that would have spread it was refused by the meeting-ground that wrote the line, and that is not resolved and is not going to be resolved in this volume.
 
-**A page is in a stone on the north side of a fork at Four Elms, with a date on it and a price under it and a right of refusal in it and six things on it, and the first of the six says it is a stone and not an instrument and nothing may be worked at it, and the sixth says anybody may come and ask what it is at the door and be answered there, and a household may take it down on a date and is not asked why twice.**
+A page is in a stone on the north side of a fork at Four Elms, with a date on it and a price under it and a right of refusal in it and six things on it, and the first of the six says it is a stone and not an instrument and nothing may be worked at it, and the sixth says anybody may come and ask what it is at the door and be answered there, and a household may take it down on a date and is not asked why twice.
 
 The main breach is closed, dressed, measured and silent and has never said a word, and one ruled line is left in the measurement column and it is not filled and the twenty-fifth reading has not been taken. The chapel stone is silent and is not repaired. The ground under the chapel is entered as a scar, is not repaired, and the boards have not been lifted since the fortieth day of this flood. The form on the nail has four items with the price of the salt written under them and a fifth item that is a question and not a duty, and none of the five can close anything or say where a residue goes or say who is in a room. A room with no window and no door anybody has found is three knocks and four knocks into being knocked on, both entered and neither deleted, and the second page says in nineteen lines that this city is not asking about it and why.
 
 Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument, holds no mark of his own, no workway, no title, no land right, no class privilege and no seat, and is party to a trial licence thirty days old and is given nothing by it. He performed no working in ten days. The black line in his right palm is seventy-nine days old and has not moved one sixteenth of an inch. A woman of forty-one is not whole and will not be asked what happened. A woman of forty-eight in a village of nine households has not been asked whether she will carry a charge that is on a man.
 
-**And about nine people are going up the road in the five days that are left in a month that is not March, and eight of the nineteen shapes are further down it, and seven of the eight have never been looked at, and one of them is a name.**
+And about nine people are going up the road in the five days that are left in a month that is not March, and eight of the nineteen shapes are further down it, and seven of the eight have never been looked at, and one of them is a name.

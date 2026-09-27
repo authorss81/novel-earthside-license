@@ -2,7 +2,7 @@
 
 On the sixty-first and sixty-second days of the month after this one, which were the hundred and fifty-first and hundred and fifty-second days of the flood and a Friday and a Saturday, a woman of about thirty-six came up this river in a passenger place and stepped off at a quay in front of about nine people who had gone down to look at the water, and she is the second thing in a hundred and fifty-one days to come up this river and the first one that is a person, and she is a clerk of the fourth desk, and she came because a case with a question in its eighth column has been on her desk for forty-three days and she may neither ask a question about it nor refuse one.
 
-**The licence is one hundred and one days old and then one hundred and two. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty-six days ago and then sixty-seven. The fee of eleven ounces of silver is entered as owing with no date for the ninetieth time. The black line in his right palm is one hundred and fifty days old and then one hundred and fifty-one, and it has not moved one sixteenth of an inch.**
+The licence is one hundred and one days old and then one hundred and two. The undertaking is void and no office has been told. The field was not paid on the first of March, which was the eighty-fifth day of this flood, and that is sixty-six days ago and then sixty-seven. The fee of eleven ounces of silver is entered as owing with no date for the ninetieth time. The black line in his right palm is one hundred and fifty days old and then one hundred and fifty-one, and it has not moved one sixteenth of an inch.
 
 ---
 
@@ -20,7 +20,7 @@ She did not say anything else on the quay. She put her bag down and picked it up
 
 ---
 
-**And on the Saturday morning she came into a room over a market that has a shutter off and a step at the back and nothing on the walls, and about nine people were in it, and a man of forty-one in a very good coat was in it, and neither of the two of them had known the other one was coming.**
+And on the Saturday morning she came into a room over a market that has a shutter off and a step at the back and nothing on the walls, and about nine people were in it, and a man of forty-one in a very good coat was in it, and neither of the two of them had known the other one was coming.
 
 "It is the man in the good coat," she said, when she saw him, and not as a question.
 
@@ -32,7 +32,7 @@ She did not say anything else on the quay. She put her bag down and picked it up
 
 ---
 
-**And a man of forty-one in a very good coat said the thing nobody in that room could have said, and it is the finding of the sixty-first day of the month after this one, and he said it in about nine seconds, and it is on the page and nobody improved on it.**
+And a man of forty-one in a very good coat said the thing nobody in that room could have said, and it is the finding of the sixty-first day of the month after this one, and he said it in about nine seconds, and it is on the page and nobody improved on it.
 
 "Your case came up the Reach road in a cart on the forty-eighth day of the month after this one. Four lines. Received, carried, not closed, and no answer due before the quarter. **That receipt is mine. I have had a hand in that form for nineteen years and I did not know it was on your desk, and if I had known I would have said something, and I would like the room to notice that I am saying something now, and I would like it noticed that this is the fourth time in a hundred and fifty-one days and it is the first one I have said to a person rather than to a room.**"
 
@@ -46,7 +46,7 @@ She looked at him for about four seconds.
 
 ---
 
-**And then she said the thing that everybody in that room had wanted to ask her and that nobody in that room was going to ask her, and she said it herself, in about four minutes, and it is the whole of what she said on the sixty-first day of the month after this one.**
+And then she said the thing that everybody in that room had wanted to ask her and that nobody in that room was going to ask her, and she said it herself, in about four minutes, and it is the whole of what she said on the sixty-first day of the month after this one.
 
 "**There is a case on my desk that came down this river on the eighth day of the month after this one and it has been there forty-three days. It has eight columns. The eighth one carries a question and not a name, and there is no person named in the whole of it, and I am not permitted to ask a question about it and I am not permitted to refuse one, and I have been sitting in front of it for forty-three days with a question I am not allowed to ask.**"
 
@@ -72,7 +72,7 @@ Nobody said anything for about nineteen seconds, and the light came across the f
 
 ---
 
-**And then a man of forty-one in a very good coat did the only thing anybody in this city has seen him do in a hundred and fifty-one days that was worth the nineteen years, and it took about four minutes, and it is on the page, and it is in a book in this city with a date on it, and a girl of seventeen read it back and did not improve on it.**
+And then a man of forty-one in a very good coat did the only thing anybody in this city has seen him do in a hundred and fifty-one days that was worth the nineteen years, and it took about four minutes, and it is on the page, and it is in a book in this city with a date on it, and a girl of seventeen read it back and did not improve on it.
 
 "**I am going to say a thing out loud in a room, in daylight, in the local language, with a date on it, and I am going to say it as myself and not as that office, and I want the room to understand exactly what it is worth.**"
 
@@ -86,7 +86,7 @@ Nobody said anything for about nineteen seconds, and the light came across the f
 
 ---
 
-**And then the clerk of the fourth desk said the thing that is the sixty-second day of the month after this one, and it is in a book in this city with a date on it, and nobody improved on it, and it is the reason the last two days before the sixty-fourth are not a rescue.**
+And then the clerk of the fourth desk said the thing that is the sixty-second day of the month after this one, and it is in a book in this city with a date on it, and nobody improved on it, and it is the reason the last two days before the sixty-fourth are not a rescue.
 
 "**No.**"
 
@@ -116,6 +116,6 @@ It was entered, and the clerk of the fourth desk read it, and said that it was t
 
 ---
 
-**And nothing else happened on the sixty-first and sixty-second days of the month after this one that anybody has written down, and a hearing is in three days and then in two, and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there thirty-five days and then thirty-six, and is not opened, and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table in the hall below and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-nine days ago and then forty, and the water has not been received for eighty-two days and then eighty-three counted from the sixty-ninth day of this flood, and there is a page on the back of a stone nine miles up a road about it that does not name the village. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is sixty-six days and then sixty-seven, and one of the forty has not come for thirty-seven days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for sixty-six days and then sixty-seven. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch has said nothing in a hundred and fifty-two days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And the sixty-first and sixty-second days of the month after this one are the fifty-seventh and fifty-eighth silences and the pattern is fifty-eight for fifty-eight.**
+And nothing else happened on the sixty-first and sixty-second days of the month after this one that anybody has written down, and a hearing is in three days and then in two, and there is one hearing and one clock. And a box is in a room with a door on the second floor of a building over a market and has been there thirty-five days and then thirty-six, and is not opened, and the strap on it is still untied, and a notary of fifty has been asked five times and has answered none of the five. And a printed appointment of an interpreter with nine terms on it is on a table in the hall below and a man of thirty-two has not answered it. And a compact of eleven lines is drafted and is not read out and is not signed. And a correct number about a district is on a wall in a converted salt store. And nine households of a village refused a fourth time on the twenty-second day of the month after this one, which is thirty-nine days ago and then forty, and the water has not been received for eighty-two days and then eighty-three counted from the sixty-ninth day of this flood, and there is a page on the back of a stone nine miles up a road about it that does not name the village. And thirty-nine of forty men turn up under the near gate and have not been paid since the first of March, which is sixty-six days and then sixty-seven, and one of the forty has not come for thirty-seven days and nobody has been told. And the measurement column has twenty-four readings and one ruled line left and the twenty-fifth reading has not been taken for sixty-six days and then sixty-seven. And the main breach is closed, dressed, measured and silent and has never said a word, and the Narrow Mark has been opened twice and not a third time, and the boards under the chapel have not been lifted since the fortieth day of this flood, and the ground is a scar, and the stone in the arch has said nothing in a hundred and fifty-two days. And there have been thirty-two things the wall has said in this city and three of them have been refused, and the refusals in the second book a clerk of the Registry keeps at home are twenty-five, and the count at Aurel is thirteen, and the difference is twelve, and it has never been made smaller. And the sixty-first and sixty-second days of the month after this one are the fifty-seventh and fifty-eighth silences and the pattern is fifty-eight for fifty-eight.
 
-**And the last thing of the sixty-second day of the month after this one is a clerk of the fourth desk in a room with nothing on the walls who has not been asked anything yet, and a sentence that was going to be said in a hall and was not, and a hearing in two days.**
+And the last thing of the sixty-second day of the month after this one is a clerk of the fourth desk in a room with nothing on the walls who has not been asked anything yet, and a sentence that was going to be said in a hall and was not, and a hearing in two days.

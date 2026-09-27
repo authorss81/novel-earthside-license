@@ -4,23 +4,23 @@ On the thirty-third day of the new month, which was the fifty-eighth day of the 
 
 ---
 
-**It was the fourth hour of the morning and it was ice, and there is no clause anywhere in this world about ice.**
+It was the fourth hour of the morning and it was ice, and there is no clause anywhere in this world about ice.
 
 Ovin Sarr is nineteen and is of the day crew and has had eight watches in three weeks. He wrote *works* in the last column of the tide table on the forty-third day of this flood with a stick of chalk, small, with the k pressed too hard, and he asked whether that was the right word and was told that it was the only word anybody had ever written in that column, and he said *it is not the only word*, and the whole exchange is in the book. Then he declined to write it a second time and put the chalk down on a ledge, and the box against the forty-ninth day is still empty because of that decision, and a man from another world has entered four times that wanting to ask him about it is a thing this book now has a rule about.
 
 He also had his own name struck off the top of the second page of the roll of forty names in daylight on the twenty-third day of the new month for a true reason, and the date he put there stayed, and he is the only person in this city who has been both on a roll and off one in the same month.
 
-**The day's work is the ordinary maintenance of the Lock of Salt. Nineteen of the day crew and twenty-one of the flood crew, twice, at the ordinary volume, out of the line and not together, because that is the ordinary work of this lock and it is what the bottom field pays for. The working on the tide is once a month now that the join is shut. Hesk is the foreman and he does not go under the near gate, and has not gone under it once since the twenty-fifth day of this flood, and the reason is on the page and it is *it is not the tide*.**
+The day's work is the ordinary maintenance of the Lock of Salt. Nineteen of the day crew and twenty-one of the flood crew, twice, at the ordinary volume, out of the line and not together, because that is the ordinary work of this lock and it is what the bottom field pays for. The working on the tide is once a month now that the join is shut. Hesk is the foreman and he does not go under the near gate, and has not gone under it once since the twenty-fifth day of this flood, and the reason is on the page and it is *it is not the tide*.
 
 At about the fourth hour of the morning on the thirty-third day of the new month they went under, and it was a shoring beam, and it is the sort of beam that is put in by two men and is the sort of thing that a man of nineteen puts his shoulder under because he is the fastest one there, and the beam was wet, and there was ice on the sill, and it went about four inches.
 
-**It was not anybody's fault and there is a sentence in the book that says so, and the sentence is the girl of seventeen's, and it is fourteen words, and Vask entered that she has not in twenty-six years entered a fault that was not a fault and has entered nine of them that were:**
+It was not anybody's fault and there is a sentence in the book that says so, and the sentence is the girl of seventeen's, and it is fourteen words, and Vask entered that she has not in twenty-six years entered a fault that was not a fault and has entered nine of them that were:
 
 > **Nobody did a wrong thing. The beam was wet and the boy was fast.**
 
 ---
 
-**And the instrument was not suspended, and the record said what it says, and a page did the four things it was written to do, in public, in about two hundred and forty people's hearing, at about the ninth hour of the morning of the thirty-third day of the new month.**
+And the instrument was not suspended, and the record said what it says, and a page did the four things it was written to do, in public, in about two hundred and forty people's hearing, at about the ninth hour of the morning of the thirty-third day of the new month.
 
 The fourth page of the instrument of the twenty-second day of the new month is the page nobody wanted. It is a page that says what happens on the day the crew does not turn up. It was written on the twenty-third day of the new month by a notary of fifty who has been in this city all her life and who entered in her own words that she had never in twenty-six years entered a page whose purpose is to be read by somebody who is angry, and a man from another world said that was the point.
 
@@ -36,7 +36,7 @@ The fourth page of the instrument of the twenty-second day of the new month is t
 
 And the word that Renna Ord got changed is **not owing**, and not *refused*, and the line on the page is: *the record of that day says that the crew were not owed, and did not come, and that there is no fault and no name and no door.*
 
-**Ovin Sarr was not sent for. Nobody went to his door. He was carried to a room above the salt weavers' chapel and a woman of fifty-eight and a woman of twenty-nine looked at the shoulder, and the shoulder is out again, and it will be out again, and by the third time it will not be set at all, and that is entered as a prediction and not as a finding.**
+Ovin Sarr was not sent for. Nobody went to his door. He was carried to a room above the salt weavers' chapel and a woman of fifty-eight and a woman of twenty-nine looked at the shoulder, and the shoulder is out again, and it will be out again, and by the third time it will not be set at all, and that is entered as a prediction and not as a finding.
 
 And in the yard under the chapel, at about the ninth hour of the morning, Sera Vail read the fourth page out in full to about two hundred and forty people, and then she said the thing she is fifty years old and has been a notary for twenty-six of them and is entitled to:
 
@@ -52,7 +52,7 @@ And in the ninth second a docker of fifty-eight with a barrow said the thing the
 
 ---
 
-**And the day's work was not done, and was not pretended to be, and there is an entry about that which is the shortest one in the fourth volume.**
+And the day's work was not done, and was not pretended to be, and there is an entry about that which is the shortest one in the fourth volume.
 
 > **At the ninth hour of the morning of the thirty-third day of the new month, the day crew of this lock was one man short, and the day crew of this lock is nineteen men and one foreman and the foreman does not go under the near gate.**
 >
@@ -68,7 +68,7 @@ And in the ninth second a docker of fifty-eight with a barrow said the thing the
 
 ---
 
-**And at about the eighth hour of the evening of the thirty-third day of the new month, in about two hundred and forty people in a yard under a chapel, in the wrong weather, with a rail that is condemned two hundred steps below, a man from another world said the sentence he had been avoiding for fifty-eight days.**
+And at about the eighth hour of the evening of the thirty-third day of the new month, in about two hundred and forty people in a yard under a chapel, in the wrong weather, with a rail that is condemned two hundred steps below, a man from another world said the sentence he had been avoiding for fifty-eight days.
 
 He had said it in the first week. He had said it in a yard on the walk-round on the twentieth day of the new month and a woman of fifty-eight had named it and put it in the book and about four people had understood it and about two hundred had not. He had said it out loud in a room of about two hundred and forty people on the seventeenth day of the new month and a Crown assessor had wanted to put it in a column and had been stopped.
 
@@ -90,7 +90,7 @@ Renna Ord was standing at the back of that yard in a boat coat. She is fifty-eig
 
 "**That is what I said in a yard in the third week and it is what I am saying now. You have written it down. That has not made it smaller and it has not made it somebody else's. It is the same price and it will be the same price in March and I would like the man who wrote the four in a room to stop finding new ways of saying that he is not the one who wrote it.**"
 
-**And about nine people in that yard agreed with her and about two hundred and thirty were uncomfortable, and a docker of fifty-eight with a barrow asked, out loud, the question that has to be asked, and it is in the book in her own words and it is eleven words long:**
+And about nine people in that yard agreed with her and about two hundred and thirty were uncomfortable, and a docker of fifty-eight with a barrow asked, out loud, the question that has to be asked, and it is in the book in her own words and it is eleven words long:
 
 "Then is the four a number or is it a prediction?"
 
@@ -108,7 +108,7 @@ And it was entered, and the entry is nineteen lines long and it is in the fourth
 
 ---
 
-**And at about the seventh hour of the evening, before the tide, a man who cannot lift anything with his right arm came down the two hundred steps to the gallery and asked for the chalk, and the tide table is on the wall of the lower gallery, and its last column is what happened on the day, and it has five words in it in fifty-eight days, written by whoever was in the gallery, and nobody may be put on a roster of people who write it.**
+And at about the seventh hour of the evening, before the tide, a man who cannot lift anything with his right arm came down the two hundred steps to the gallery and asked for the chalk, and the tide table is on the wall of the lower gallery, and its last column is what happened on the day, and it has five words in it in fifty-eight days, written by whoever was in the gallery, and nobody may be put on a roster of people who write it.
 
 The words are *works*. Five of them, in five hands, and only three of the five hands are named in the book. A docker with a barrow wrote the one against the thirty-third day of the flood. Ovin Sarr wrote the one against the forty-third and then put the chalk down. Ferris, a gate-hand of about fifty who had not been paid in five weeks and did not come back for a second shift on the forty-ninth, wrote the one against the fiftieth at about the seventh hour of the evening without stopping and did not ask anybody whether it was the right word, and nobody has asked him what he wrote and a man from another world has entered four times that he wants to.
 

@@ -2,11 +2,11 @@
 
 On the twenty-fifth day of the month after this one, which was the hundred and fifteenth day of the flood and a Thursday, about nine people spent four hours in a room over a market doing arithmetic about a hearing in thirty-nine days, got as far as a list inside about nine minutes, worked out in about nine minutes that a list of who will stand in a room is a removal with a column for where the person is, crossed the list out, entered a number instead, asked a woman of seventy to be that number, were refused by her in about four seconds, and entered the refusal and did not ask her again.
 
-**The licence is sixty-five days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-sixth time. The black line in his right palm is one hundred and fourteen days old and has not moved one sixteenth of an inch.**
+The licence is sixty-five days old. The undertaking is void and no office has been told. The field was not paid on the first of March. The fee of eleven ounces of silver is entered as owing with no date for the fifty-sixth time. The black line in his right palm is one hundred and fourteen days old and has not moved one sixteenth of an inch.
 
 ---
 
-**And the thirty-nine days had thirty-nine things in them, because about nine people had spent a morning writing them down, and then they ran out of days before they ran out of things, and a man of about forty-four who keeps a stall said the sentence that made the rest of the day.**
+And the thirty-nine days had thirty-nine things in them, because about nine people had spent a morning writing them down, and then they ran out of days before they ran out of things, and a man of about forty-four who keeps a stall said the sentence that made the rest of the day.
 
 "Thirty-nine days," he said. "**And we have thirty-nine things. That is a list. That is the only thing thirty-nine days and thirty-nine things makes. I have been in about nine rooms in fourteen days and every one of them ended with somebody writing down what we are going to do, and not one of those nine pages has ever been a list, and I would like one.**"
 
@@ -32,7 +32,7 @@ He kept it. **It is entered that a man of about forty-four who keeps a stall has
 
 ---
 
-**And the number was entered at about the fourth hour of the afternoon, with a date on it, and it is nine, and for the first time in a hundred and fifteen days there is a page in this city with a number at the top of it and no person at the top of that, and a woman of twenty-four said out loud that this is the opposite of the most dangerous page in this city and that the two of them are the same kind of page and the reason one of them worked and the other one cannot is that this one has nobody on it.**
+And the number was entered at about the fourth hour of the afternoon, with a date on it, and it is nine, and for the first time in a hundred and fifteen days there is a page in this city with a number at the top of it and no person at the top of that, and a woman of twenty-four said out loud that this is the opposite of the most dangerous page in this city and that the two of them are the same kind of page and the reason one of them worked and the other one cannot is that this one has nobody on it.
 
 "Nine," said a girl of seventeen, and wrote it, and put the date on it, and did not put a name on it.
 
@@ -50,7 +50,7 @@ He kept it. **It is entered that a man of about forty-four who keeps a stall has
 
 ---
 
-**And then a man of thirty-two said the part of it that the room had been building towards for an hour, and it took him about nine minutes, and he was not the only person in the room who had worked it out, and he said so, and then he said it anyway, and about four people let him finish.**
+And then a man of thirty-two said the part of it that the room had been building towards for an hour, and it took him about nine minutes, and he was not the only person in the room who had worked it out, and he said so, and then he said it anyway, and about four people let him finish.
 
 "**We have spent a hundred and fifteen days learning that a person is the only shape that can be named, and so the only shape that can be found, and so the moment somebody agrees to carry a cost this city writes down where the cost is. That is the law and it is about nine days old and it is correct. And every one of us in this room has been applying it to a household all morning without noticing, and a household is a person.**"
 
@@ -68,7 +68,7 @@ He kept it. **It is entered that a man of about forty-four who keeps a stall has
 
 ---
 
-**And at about the sixth hour of the evening about nine people went and asked a woman of seventy to be the number, and it was a Thursday, and she was washing a floor, and she said no in about four seconds without stopping, and the reason was about herself and not about the number, and nobody in about nine people asked her a second question and nobody asked her again for the rest of that day.**
+And at about the sixth hour of the evening about nine people went and asked a woman of seventy to be the number, and it was a Thursday, and she was washing a floor, and she said no in about four seconds without stopping, and the reason was about herself and not about the number, and nobody in about nine people asked her a second question and nobody asked her again for the rest of that day.
 
 Nyla Ferrow has kept the floor of the lock chapel for fifty-one years. **She washes it on Thursdays. She has re-limed it twice since the first day of the month after this one. She is one of the four who read the join-line and reads the line, and she is on one page in a stone nine miles up a road exactly once, and she is the only one of the nine witnesses whose name may be taken back.**
 
@@ -90,6 +90,6 @@ Nobody asked her again that day. **It is entered that about four people in that 
 
 ---
 
-**And nothing else happened on the twenty-fifth day of the month after this one, and the four went down two hundred steps at the seventh hour and did not take the twenty-fifth reading, which is the thirtieth day since the first of March that they have not taken it, and one ruled line is still ruled and still empty, and the sixth disagreement stands with the other five, and the dressed edge is dressed. And a hearing is in thirty-nine days, and there is one hearing and one clock, and the number nine is entered on a page with a date on it and no person at the top of it, and it is not a roll and it is not going to Aurel in a case. And a village of nine households refused a fourth time on the twenty-second day and nobody can say what that is. And a board by the near gate has a ruled line at the bottom of it that is still empty, and thirty-nine men turned up and one did not. And the fee of eleven ounces of silver is owing with no date for the fifty-sixth time. And the licence is sixty-five days old and the seat of holder of the pull is vacant and the instrument says nobody. And the boards under the chapel have not been lifted since the fortieth day of this flood and the ground is a scar, and the stone in the arch said nothing today. And there have been twenty-nine things the wall has said in this city and one of them has been refused, and a Thursday on which a woman of seventy said no in four seconds is the twenty-fourth silence, and the pattern is twenty-four for twenty-four.**
+And nothing else happened on the twenty-fifth day of the month after this one, and the four went down two hundred steps at the seventh hour and did not take the twenty-fifth reading, which is the thirtieth day since the first of March that they have not taken it, and one ruled line is still ruled and still empty, and the sixth disagreement stands with the other five, and the dressed edge is dressed. And a hearing is in thirty-nine days, and there is one hearing and one clock, and the number nine is entered on a page with a date on it and no person at the top of it, and it is not a roll and it is not going to Aurel in a case. And a village of nine households refused a fourth time on the twenty-second day and nobody can say what that is. And a board by the near gate has a ruled line at the bottom of it that is still empty, and thirty-nine men turned up and one did not. And the fee of eleven ounces of silver is owing with no date for the fifty-sixth time. And the licence is sixty-five days old and the seat of holder of the pull is vacant and the instrument says nobody. And the boards under the chapel have not been lifted since the fortieth day of this flood and the ground is a scar, and the stone in the arch said nothing today. And there have been twenty-nine things the wall has said in this city and one of them has been refused, and a Thursday on which a woman of seventy said no in four seconds is the twenty-fourth silence, and the pattern is twenty-four for twenty-four.
 
-**And the last thing of the twenty-fifth day of the month after this one is a page with a number on it and a date on it and nobody at the top of it, and it is the safest page in this city and the only one anybody here can be certain of, and about four feet away from it a woman of seventy was washing a floor and will not be asked again.**
+And the last thing of the twenty-fifth day of the month after this one is a page with a number on it and a date on it and nobody at the top of it, and it is the safest page in this city and the only one anybody here can be certain of, and about four feet away from it a woman of seventy was washing a floor and will not be asked again.

@@ -4,7 +4,7 @@ On the twenty-eighth day of the new month, which was the fifty-third day of the 
 
 ---
 
-**The room above the salt weavers' chapel has four beds, a table, a bench, a shelf of instruments that belong to a woman of fifty-eight, and a window that does not shut. On the twenty-eighth day of the new month at about the fourth hour of the afternoon it had nineteen people in it, which was too many, and the reason it had nineteen people in it was that a man of twenty-nine who has not slept properly since the fortieth night had said the night before that he would like the man with the hand to be in a room and not on his own, and nobody had asked the man with the hand.**
+The room above the salt weavers' chapel has four beds, a table, a bench, a shelf of instruments that belong to a woman of fifty-eight, and a window that does not shut. On the twenty-eighth day of the new month at about the fourth hour of the afternoon it had nineteen people in it, which was too many, and the reason it had nineteen people in it was that a man of twenty-nine who has not slept properly since the fortieth night had said the night before that he would like the man with the hand to be in a room and not on his own, and nobody had asked the man with the hand.
 
 Teodor Blaz is thirty-one. He is of the second list and he came out of a chapel floor four feet beyond a threshold slab at eleven minutes past the eleventh hour of the twenty-fifth day of this flood. He was a warehouse supervisor in Leeds, which in his own account means he counted things for a living and was good at it, and on the sixth day of this flood he measured four openings for a ratio he cannot explain and wrote the ratio down, and on the twenty-fifth day of this flood, in the same yard where the eleven came out of a floor four feet beyond a threshold slab, he put his right hand into wet stone while about four hundred people were moving, and the hand stopped working, and nobody wrote a page about it, and the page that exists is four lines long and it is about somebody else.
 
@@ -20,7 +20,7 @@ The right hand went on the twenty-fifth day of this flood, in a chapel yard, at 
 
 He has been, since, the person in this city who counts. He counts the double handfuls of salt into the bucket under the chapel arch on the twenty-seventh day of the new month, and he had counted nine weeks of them on a slate, and he had counted the crew's shift, and on the twenty-eighth day of the new month at about the fourth hour of the afternoon he was holding a slate in his left hand and a stick of chalk in the middle of his fingers because a person of nineteen had shown him in the second week that a chalk stick does not need a fist.
 
-**The field came up at about the fourth hour and eleven minutes of the afternoon, in front of about nine people, and stood about nineteen seconds.**
+The field came up at about the fourth hour and eleven minutes of the afternoon, in front of about nine people, and stood about nineteen seconds.
 
 > **A WORKWAY MAY BE GIVEN TO ONE PERSON IN THIS ROOM.**
 >
@@ -38,7 +38,7 @@ He refused it in under a second and he was the wrong man to refuse it, and he ha
 
 "It is for me," said Teodor Blaz. "I have not accepted it."
 
-**Then nobody in that room could say what the work was, and it took about eleven minutes, and it is the finding of the twenty-eighth day of the new month and it is in Sera Vail's hand and it is a finding and findings may not be entered, and so it is entered as a record of what nine people said, and the record is long, and the girl of seventeen took it down.**
+Then nobody in that room could say what the work was, and it took about eleven minutes, and it is the finding of the twenty-eighth day of the new month and it is in Sera Vail's hand and it is a finding and findings may not be entered, and so it is entered as a record of what nine people said, and the record is long, and the girl of seventeen took it down.
 
 "Because a workway is not a power," said Mina Okoye, and it is her sentence and it is in the book as hers and the whole of it is thirty-eight words and she has said it once and it is not going to be improved on. "**It is a job. Somebody in the world is entitled to expect a thing of the person who has it, and to be angry if they do not get it, and to go somewhere else if they stop.** And the person who has it cannot stop, which is the second line of the field and which is the sentence that should have stopped me and did not, because the field is right. A job does not stop. A person can."
 
@@ -62,7 +62,7 @@ And the girl of seventeen opened a column for it and then shut the column again,
 
 ---
 
-**And he refused it out loud, and the reason he gave was not the good one, and about four people in that room knew that.**
+And he refused it out loud, and the reason he gave was not the good one, and about four people in that room knew that.
 
 "Then I will say the true reason and not the one you would all like," said Teodor Blaz, "which is that I have been in this city twenty-eight days and I have not once been angry at anybody, and I have been counting for four weeks because counting is the only thing I can do and I have got very good at it, and if I take that field I will be a man with a job in nine days and I will not have to count anything again, and there is about four people in this room who would be glad of that and I do not blame them and it is not why I am saying no."
 
@@ -80,7 +80,7 @@ And Adrian Vale said the standing answer, and the sentence that does the work in
 
 ---
 
-**And after that, in the yard under the chapel, at about the sixth hour of the evening, in private, a man of thirty-one asked the question that makes the middle of the next two months possible, and Adrian Vale wrote the answer down and gave it to him, and about nine people in this city now know the list and none of them know what it is for.**
+And after that, in the yard under the chapel, at about the sixth hour of the evening, in private, a man of thirty-one asked the question that makes the middle of the next two months possible, and Adrian Vale wrote the answer down and gave it to him, and about nine people in this city now know the list and none of them know what it is for.
 
 They stood at the bottom of the two hundred steps, because Teodor Blaz wanted to see the rail that had gone on ice, and there was a lamp on the third step of the lower gallery and the dressed join in the gate was eight and seven-eighths and had not narrowed.
 
@@ -120,7 +120,7 @@ Teodor Blaz read it twice, in the lamplight, on the steps, with his left hand, a
 
 ---
 
-**Renner Sallow was in Saltwake and he had been at a table in this city since the fourth day of the flood and had never once been asked to stop, and this city has not convicted him of anything and is not going to, and on the twenty-eighth day of the new month at about the seventh hour of the evening he was in the loft and he was keeping a book.**
+Renner Sallow was in Saltwake and he had been at a table in this city since the fourth day of the flood and had never once been asked to stop, and this city has not convicted him of anything and is not going to, and on the twenty-eighth day of the new month at about the seventh hour of the evening he was in the loft and he was keeping a book.
 
 He is the second clerk of the Registrar of Crossings and Tides at Aurel. He has counted every pale field anybody in this city has reported since the eighth day of the flood, in a book, in a stranger's language, on every page, and the count is now ten.
 
@@ -132,6 +132,6 @@ He is the second clerk of the Registrar of Crossings and Tides at Aurel. He has 
 
 ---
 
-**And that night, in a room over a market, a man of thirty-two wrote down the sentence he had been avoiding for forty days, and it is seventy-six words long, and it is in a private book, and it is the last thing in that notebook for the twenty-eighth day of the new month and it is the first thing anybody is going to say to him about it.**
+And that night, in a room over a market, a man of thirty-two wrote down the sentence he had been avoiding for forty days, and it is seventy-six words long, and it is in a private book, and it is the last thing in that notebook for the twenty-eighth day of the new month and it is the first thing anybody is going to say to him about it.
 
 > *The thing I refused three times is the only thing I was ever going to be offered. I refused it because it worked. A man whose hand does not close has not got that luxury, and nobody in this city has thought about what he gets instead, and I have been in this world fifty-three days and today it was shown to me by a warehouse supervisor from Leeds with a chalk stick in three fingers.*

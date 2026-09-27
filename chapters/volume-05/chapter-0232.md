@@ -4,7 +4,7 @@ The queue formed along the wall of the store on the upper road at about the sixt
 
 ---
 
-**And the man of about twenty-seven who washes the store's own board came out at the seventh hour with the cloth and washed the board and did not write on it and hung it back up, and the figures on it are the figures of the sixty-ninth day of the Long Month and this morning they are eight days old, and the posting is about a foot to the left of it and the top of the posting has gone pale across about four words.**
+And the man of about twenty-seven who washes the store's own board came out at the seventh hour with the cloth and washed the board and did not write on it and hung it back up, and the figures on it are the figures of the sixty-ninth day of the Long Month and this morning they are eight days old, and the posting is about a foot to the left of it and the top of the posting has gone pale across about four words.
 
 "I have nothing to write."
 
@@ -20,7 +20,7 @@ The water in the trough had a skin of the old chalk across the top of it gone gr
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom was in that yard with a slate under his arm that he has carried since the forty-sixth day of the Long Month and has not put down, and it has a decision on the front of it that he wrote on the seventieth day of that month, and this morning he came to the edge of that yard and looked at the board and did not put the slate down.**
+And a man of about twenty-nine from the settlement's workroom was in that yard with a slate under his arm that he has carried since the forty-sixth day of the Long Month and has not put down, and it has a decision on the front of it that he wrote on the seventieth day of that month, and this morning he came to the edge of that yard and looked at the board and did not put the slate down.
 
 "You are not going to put it up again."
 
@@ -34,7 +34,7 @@ He put the slate under the other arm and about four people in that yard saw a ma
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from a market had walked nine miles to that yard for the second morning running and had her own wage under her arm where it has been since the fifty-sixth day of that month, and she put her back against the wall on the far side of the yard from the board because there is a nail in that wall about the height of a person's shoulder and she did not want the sacking against it.**
+And a woman of about fifty-six who keeps a shop four streets down from a market had walked nine miles to that yard for the second morning running and had her own wage under her arm where it has been since the fifty-sixth day of that month, and she put her back against the wall on the far side of the yard from the board because there is a nail in that wall about the height of a person's shoulder and she did not want the sacking against it.
 
 "You have come two days running."
 
@@ -48,7 +48,7 @@ She shifted her weight off the nail and about four people in that yard saw a wom
 
 ---
 
-**And at about the seventh hour the man of about forty-two came up that road and went into the back of that queue instead of the front of it and stopped, and did not go into the store, and he has not taken his hands out of his pockets since the forty-fifth day of the Long Month, when he stood at the back of a line of his own making, and about four people in that yard noticed him come in, and about nine of them had not looked up off the boards since the forty-ninth day of that month.**
+And at about the seventh hour the man of about forty-two came up that road and went into the back of that queue instead of the front of it and stopped, and did not go into the store, and he has not taken his hands out of his pockets since the forty-fifth day of the Long Month, when he stood at the back of a line of his own making, and about four people in that yard noticed him come in, and about nine of them had not looked up off the boards since the forty-ninth day of that month.
 
 "Five Tuesdays."
 
@@ -62,7 +62,7 @@ He took his hands out of his pockets and put them back and about four people in 
 
 ---
 
-**And a man of about thirty-four who keeps a stall came up that road at about the ninth hour, and he wrote the ninth and last line of that page in his own hand on the forty-fourth day of the Long Month, and he read that line under the ninth every morning that week without looking up, and this morning he stood under the top of the page instead and looked at the bare place where a date had been for about as long as it takes to wash a board.**
+And a man of about thirty-four who keeps a stall came up that road at about the ninth hour, and he wrote the ninth and last line of that page in his own hand on the forty-fourth day of the Long Month, and he read that line under the ninth every morning that week without looking up, and this morning he stood under the top of the page instead and looked at the bare place where a date had been for about as long as it takes to wash a board.
 
 "You have not looked at the ninth line."
 
@@ -76,7 +76,7 @@ He looked at the ninth line then, from about nine feet under it, without moving 
 
 ---
 
-**And Adrian Vale came up that road on foot at about the sixth hour of the morning before the queue was a queue and got the trough out from under the wall and carried it out to the edge of that yard and emptied it and brought it back. He did it again about nine times, and about nine people in that yard knew who he was before he got to the gate and about four of them had been waiting since the fifty-fourth day of the Long Month for somebody to say a name.**
+And Adrian Vale came up that road on foot at about the sixth hour of the morning before the queue was a queue and got the trough out from under the wall and carried it out to the edge of that yard and emptied it and brought it back. He did it again about nine times, and about nine people in that yard knew who he was before he got to the gate and about four of them had been waiting since the fifty-fourth day of the Long Month for somebody to say a name.
 
 "You are on no rota in this building."
 
@@ -90,7 +90,7 @@ He put the trough back under the wall at the eighth hour with the cloth over the
 
 ---
 
-**And the woman of about thirty-four in that store came out of the back with her arms wet to the elbow again and there are twelve sacks in that chest and about four of them have a knot on them that is not the knot on the other eight, and about a hundred and forty people were in that yard and nobody asked her what was in it, and about four of them had decided before the seventh hour that they were not going to.**
+And the woman of about thirty-four in that store came out of the back with her arms wet to the elbow again and there are twelve sacks in that chest and about four of them have a knot on them that is not the knot on the other eight, and about a hundred and forty people were in that yard and nobody asked her what was in it, and about four of them had decided before the seventh hour that they were not going to.
 
 "You are not opening it."
 
@@ -102,4 +102,4 @@ He put the trough back under the wall at the eighth hour with the cloth over the
 
 ---
 
-**And a board and a page about a foot apart on one wall, and a trough under the one that has not been written on.**
+And a board and a page about a foot apart on one wall, and a trough under the one that has not been written on.

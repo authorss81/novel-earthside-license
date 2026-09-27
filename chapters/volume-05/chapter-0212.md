@@ -4,7 +4,7 @@ The man who keeps the number came into the room over the yard at about the seven
 
 ---
 
-**And he opened the book on the trestle and turned to the page he turns to and put his thumb on it, and the number he wrote was one hundred and seventy-two. It is the third line in that book with a week in it. He wrote it with the heel of his hand steadying the page against the grain of the trestle, and about four people in that room had their own hands on the edge of the trestle and about nine of them did not.**
+And he opened the book on the trestle and turned to the page he turns to and put his thumb on it, and the number he wrote was one hundred and seventy-two. It is the third line in that book with a week in it. He wrote it with the heel of his hand steadying the page against the grain of the trestle, and about four people in that room had their own hands on the edge of the trestle and about nine of them did not.
 
 "**One hundred and seventy-two.**"
 
@@ -16,7 +16,7 @@ The man who keeps the number came into the room over the yard at about the seven
 
 ---
 
-**And the wall in that room has two figures in a column with a date at the top of each, and both of them are in a hand that is not his. The top of the column says the forty-third day of the Long Month and one hundred and fifty-eight, and the one under it says the fiftieth day of the Long Month and one hundred and sixty-five. There is nothing under the second one, and there is no column anywhere in that room or in this city for a week.**
+And the wall in that room has two figures in a column with a date at the top of each, and both of them are in a hand that is not his. The top of the column says the forty-third day of the Long Month and one hundred and fifty-eight, and the one under it says the fiftieth day of the Long Month and one hundred and sixty-five. There is nothing under the second one, and there is no column anywhere in that room or in this city for a week.
 
 Nobody in that room said anything about the wall for about a minute. The two figures were in chalk and the top one had been gone over twice, and a man at the back read the top one out under his breath and then read the one under it. It is entered that about four people in that room looked at the book and then at the wall and then at the book, and that the man who keeps the number did not look at either.
 
@@ -28,7 +28,7 @@ Nobody in that room said anything about the wall for about a minute. The two fig
 
 ---
 
-**And then a man of about thirty-one with a hand that will not close, who is the only person in a room who says he does not know out loud without being asked, asked the question nobody in that room had asked anybody. It was not about what a day of it is. It took him about four minutes, and about nine people heard it, and about four of them have said since that it is the first thing anybody has put next to that figure in nine years that is not another figure.**
+And then a man of about thirty-one with a hand that will not close, who is the only person in a room who says he does not know out loud without being asked, asked the question nobody in that room had asked anybody. It was not about what a day of it is. It took him about four minutes, and about nine people heard it, and about four of them have said since that it is the first thing anybody has put next to that figure in nine years that is not another figure.
 
 "What did it cost."
 
@@ -48,7 +48,7 @@ Nobody in that room said anything, and about four people in it had been waiting 
 
 ---
 
-**And a woman of about fifty-six who keeps a shop four streets down from a market came up to that room at about the ninth hour, and about nine people had seen her walk the four streets. She keeps prices on slates behind a counter and has never had one of them wrong and has never had one of them checked, and she came in with dust on the outside of her sleeves from the road and took one slate out from under her arm and set it on the trestle and did not let go of it. She asked the only question anybody in that room had asked a person rather than a figure.**
+And a woman of about fifty-six who keeps a shop four streets down from a market came up to that room at about the ninth hour, and about nine people had seen her walk the four streets. She keeps prices on slates behind a counter and has never had one of them wrong and has never had one of them checked, and she came in with dust on the outside of her sleeves from the road and took one slate out from under her arm and set it on the trestle and did not let go of it. She asked the only question anybody in that room had asked a person rather than a figure.
 
 "How much is it."
 
@@ -66,9 +66,9 @@ Nobody in that room explained it to her. The man of about thirty-nine who trades
 
 ---
 
-**And a girl of seventeen who is on no roll of anything came up the road with the woman of about twenty-four and stood outside that room at the rail of the yard for about nine minutes and did not come in, and the rail was wet and she took her hands off it and then put them back on it. About four people inside that room saw her through the door, and nobody in that room said her name and nobody asked her anything, and it is entered that on the fiftieth day of the Long Month about nine people in that room would have asked her if anybody had and that today nobody did and about four of them have said since that they noticed.**
+And a girl of seventeen who is on no roll of anything came up the road with the woman of about twenty-four and stood outside that room at the rail of the yard for about nine minutes and did not come in, and the rail was wet and she took her hands off it and then put them back on it. About four people inside that room saw her through the door, and nobody in that room said her name and nobody asked her anything, and it is entered that on the fiftieth day of the Long Month about nine people in that room would have asked her if anybody had and that today nobody did and about four of them have said since that they noticed.
 
-**And then a man of about thirty-four who keeps a stall came to the door of that room at about the tenth hour, and he did not go in. He said one sentence to the man who keeps the number through the open door and then stood in the yard and did not come in either, and about four people in that yard have said since that they have never seen two men in this city not go into the same room.**
+And then a man of about thirty-four who keeps a stall came to the door of that room at about the tenth hour, and he did not go in. He said one sentence to the man who keeps the number through the open door and then stood in the yard and did not come in either, and about four people in that yard have said since that they have never seen two men in this city not go into the same room.
 
 "You have a Wednesday."
 
@@ -78,7 +78,7 @@ He did not go in. It is entered that he did not, and that about four people in t
 
 ---
 
-**And the book stayed open on the trestle for about nine minutes after that with a finger holding it down, and the finger went past a page going the other way, and the paper moved under it with the draught from the door. A woman of about twenty-four who is on no roll of anything was in that room and saw it happen and did not ask, and it is the only line in that book that is not a figure and it is addressed to a person in another hemisphere and it has not been sent and there is no route in this world that a letter can travel.**
+And the book stayed open on the trestle for about nine minutes after that with a finger holding it down, and the finger went past a page going the other way, and the paper moved under it with the draught from the door. A woman of about twenty-four who is on no roll of anything was in that room and saw it happen and did not ask, and it is the only line in that book that is not a figure and it is addressed to a person in another hemisphere and it has not been sent and there is no route in this world that a letter can travel.
 
 She has seen that page before in that room and did not ask then either, and it is entered that she did not ask on the fiftieth day of the Long Month and did not ask on the fifty-fourth and did not ask today, and that she has written all three of those dates down and joined them up not at all, and that the man who keeps the number has not looked up.
 
@@ -94,7 +94,7 @@ Nobody in that room asked him. It is entered that nobody did.
 
 ---
 
-**And the woman of about fifty-six who keeps a shop said the thing she had come for, at about the eleventh hour, on her way out, and it is four sentences long and nobody in that room improved on it and about nine people have heard it.**
+And the woman of about fifty-six who keeps a shop said the thing she had come for, at about the eleventh hour, on her way out, and it is four sentences long and nobody in that room improved on it and about nine people have heard it.
 
 "**I have a day of the week that I keep my counts on and it is a Thursday, and I could not tell you why it is a Thursday, and I know exactly what I counted and what I did not count, and if you asked me on any Wednesday of this flood what I had in my shop that day I could tell you to a sack and I would be right. And you cannot tell me one thing you counted, and it is not because you are careless, and I would like somebody in this room to write down that the two of those are not the same problem and that I have not got an answer to either of them.**"
 
@@ -104,4 +104,4 @@ Nobody in that room asked him. It is entered that nobody did.
 
 ---
 
-**And a book on a trestle with three lines in it, and a wall behind it with two, and the space between them is about the width of a hand and nobody is going to measure it.**
+And a book on a trestle with three lines in it, and a wall behind it with two, and the space between them is about the width of a hand and nobody is going to measure it.

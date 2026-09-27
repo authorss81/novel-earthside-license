@@ -4,7 +4,7 @@ The queue formed along the wall of the store on the upper road at about the sixt
 
 ---
 
-**And the man of about twenty-seven who washes the store's own board came out at the seventh hour with the cloth and washed it and did not write anything on it and left the figures of the day before standing, which was a Monday, and about nine people were paid on that Monday and about a hundred and forty were not. The posting is on the same wall about a foot to the left of it and is twenty-four days old. He said one thing in that yard at the seventh hour and about four people heard all of it and about nine of them heard the words and not the rest.**
+And the man of about twenty-seven who washes the store's own board came out at the seventh hour with the cloth and washed it and did not write anything on it and left the figures of the day before standing, which was a Monday, and about nine people were paid on that Monday and about a hundred and forty were not. The posting is on the same wall about a foot to the left of it and is twenty-four days old. He said one thing in that yard at the seventh hour and about four people heard all of it and about nine of them heard the words and not the rest.
 
 "I have nothing to write."
 
@@ -20,7 +20,7 @@ He put the trough back under the board and the water in it had a skin of chalk g
 
 ---
 
-**And the woman of about thirty-four in that store came out of the back with the slate face down against her thigh, where it has been since the sixty-fourth day of that month, and about a hundred and forty people were in that yard and nobody asked her what was in the chest, and about four of them had decided before the seventh hour that they were not going to.**
+And the woman of about thirty-four in that store came out of the back with the slate face down against her thigh, where it has been since the sixty-fourth day of that month, and about a hundred and forty people were in that yard and nobody asked her what was in the chest, and about four of them had decided before the seventh hour that they were not going to.
 
 "You are not opening it."
 
@@ -34,7 +34,7 @@ She went back inside and left the door open behind her, and about four people in
 
 ---
 
-**And a man of about thirty-four who keeps a stall was in that yard at about the seventh hour and stood under the ninth line and read it without looking up, because he does not need to look up at a page he wrote, and it is in a different hand from the other eight lines and it is nine feet above the back of the last person standing under it. He said two sentences and then did not say anything else for the rest of the morning.**
+And a man of about thirty-four who keeps a stall was in that yard at about the seventh hour and stood under the ninth line and read it without looking up, because he does not need to look up at a page he wrote, and it is in a different hand from the other eight lines and it is nine feet above the back of the last person standing under it. He said two sentences and then did not say anything else for the rest of the morning.
 
 "**That is the only reason about nine people in this yard are standing here and I wrote it there on purpose and I would write it there again, and it is the reason and it is not the wage, and about four people in this yard have worked that out and about nine of them have worked out the other half of it, which is that if the ninth line comes off that wall then the only thing anybody has ever said out loud about a queue being the only functioning way out of this world is said in about nine rooms by about four people who remember it.**"
 
@@ -46,7 +46,7 @@ He put his hands in his sleeves and went to the back of the yard and stood there
 
 ---
 
-**And a man of forty-two came up that road at about the seventh hour and went to the back of that queue and did not come to the front of it and did not go into the store, and he had his hands in his pockets, which is where he has had them since the forty-fifth day of the Long Month at the back of a line of his own making. About four people in that yard noticed him come in and about nine of them had stopped noticing on the forty-ninth day of that month.**
+And a man of forty-two came up that road at about the seventh hour and went to the back of that queue and did not come to the front of it and did not go into the store, and he had his hands in his pockets, which is where he has had them since the forty-fifth day of the Long Month at the back of a line of his own making. About four people in that yard noticed him come in and about nine of them had stopped noticing on the forty-ninth day of that month.
 
 "You opened it on the fifty-sixth."
 
@@ -60,7 +60,7 @@ He took his hands out of his pockets and put them back and about four people in 
 
 ---
 
-**And Adrian Vale came up that road on foot at about the eighth hour of the morning and there was a place at the back of that queue that would have held him, and he did not stand in it, and about nine people in that yard knew who he was before he got to the gate and about four of them had been waiting since the fifty-fourth day of the Long Month for somebody to say a name.**
+And Adrian Vale came up that road on foot at about the eighth hour of the morning and there was a place at the back of that queue that would have held him, and he did not stand in it, and about nine people in that yard knew who he was before he got to the gate and about four of them had been waiting since the fifty-fourth day of the Long Month for somebody to say a name.
 
 "You said it would not form."
 
@@ -76,7 +76,7 @@ Nobody in that yard said a word. A man at the front of the queue put his hand fl
 
 ---
 
-**And a man of about twenty-nine from the settlement's workroom was in that yard with a slate he has carried since the forty-sixth day of the Long Month and has not put down, and he put it down. He put it face up on the boards of that yard at about the ninth hour and about four people in that yard watched him do it and about nine of them had been carrying a slate for him since the forty-sixth day of that month and had never been asked to put it down.**
+And a man of about twenty-nine from the settlement's workroom was in that yard with a slate he has carried since the forty-sixth day of the Long Month and has not put down, and he put it down. He put it face up on the boards of that yard at about the ninth hour and about four people in that yard watched him do it and about nine of them had been carrying a slate for him since the forty-sixth day of that month and had never been asked to put it down.
 
 "I am not going to say it."
 
@@ -92,4 +92,4 @@ He picked the slate up off the boards about a minute later and put it back under
 
 ---
 
-**And the queue was still in that yard at the tenth hour with nothing at the front of it, and a man at the front had his hand flat on the boards where he had put it, and nobody fetched anybody.**
+And the queue was still in that yard at the tenth hour with nothing at the front of it, and a man at the front had his hand flat on the boards where he had put it, and nobody fetched anybody.

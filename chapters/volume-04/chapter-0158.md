@@ -2,7 +2,7 @@
 
 Somebody in the settlement's workroom on the upper road had written the cost of a workway on a board in chalk, and had read it out to about nine people, and had read it out wrong on purpose once, to see who would stop him, and about four people stopped him, and one of them was a woman who had come nine miles to hear a cost read out and had not expected it to be free.
 
-**It is the seventh day of the Long Month and it is a Tuesday, and two rooms are used, and the second one has about nine people in it, and the board went on a trestle in the first one and was taken to the second one at the fourth hour of the afternoon.**
+It is the seventh day of the Long Month and it is a Tuesday, and two rooms are used, and the second one has about nine people in it, and the board went on a trestle in the first one and was taken to the second one at the fourth hour of the afternoon.
 
 ---
 
@@ -16,7 +16,7 @@ The man who read it out was about twenty-nine and he was not Jonah Pike and he h
 
 ---
 
-**And the board, and the whole of what was on it, and it is in the settlement's own words and it was written there and nowhere else, and a woman of about twenty-four asked for it to be copied exactly and it was.**
+And the board, and the whole of what was on it, and it is in the settlement's own words and it was written there and nowhere else, and a woman of about twenty-four asked for it to be copied exactly and it was.
 
 > **A WORKWAY IS A PERMISSION AND NOT A TRADE.**
 >
@@ -34,21 +34,21 @@ The man who read it out was about twenty-nine and he was not Jonah Pike and he h
 
 Nobody said anything, and the woman of about thirty-four who keeps a stall by the wharf — who had not come up the road that day and had sent her slate and got nothing back, and who has never in nine years sent a slate anywhere — was not in that room, and about four people in the second room noticed that the two hours of reading had produced no objection from anybody at all, and entered that as a fact about nine people and not as a fact about the board.
 
-**And he read it wrong on purpose at about the second hour, and the wrongness was small and it was clever and it was the only dishonest thing anybody did on the seventh day of the Long Month.**
+And he read it wrong on purpose at about the second hour, and the wrongness was small and it was clever and it was the only dishonest thing anybody did on the seventh day of the Long Month.
 
 He read the fourth line as *abandoning a claimed ground is a matter of the holder's convenience*, and about four people stopped him before he got to the end of it, and he put the chalk down and said *thank you* and read the line as it is on the board, and a woman of about fifty-nine who keeps a salt drum on the road said afterwards that the four of them had all stopped him for slightly different reasons and that two of the four had reasons that were not the reason, and that the man of about twenty-nine had listened to both of the wrong reasons as carefully as to the right one, and that this is how you spot the two.
 
-**And then, because about nine people were standing there in the cold with nothing to do, he told them the thing that he is actually for, and it is the reason a settlement of a hundred and forty people can be right about nine things in ten.**
+And then, because about nine people were standing there in the cold with nothing to do, he told them the thing that he is actually for, and it is the reason a settlement of a hundred and forty people can be right about nine things in ten.
 
 "**Everything I know how to say properly, I learned from a woman in this city who would not sell me anything. In six weeks I asked her about a word a man from where I come from would have used, and she told me the word does not exist here, and told me what exists instead, and it was not the same word and it was not less of a word. It was better. And I have been selling that to about nine people all winter and every one of them is right. And I still get the tenth part wrong, because the tenth part is not a word anybody can hand me. It is a thing a woman of about thirty-four says in a market that four of us can hear and one of us can translate and the other three have to sit there and be useless, and that is the trade, and there is no way round it and there is no way to be paid for it.**"
 
 ---
 
-**And the reason nobody objected is not that the cost is small. The cost is enormous. The reason nobody objected is that a true cost read out completely is still a cost, and the person hearing it has been hearing prices for nine years and has never once had a price read out to her before, and the Reach keeps its gates by argument and the argument does not have a price on it, and she has been keeping one for nothing since the year her husband died and the gate board in her left hand is nine years old and has never been worth anything to anybody.**
+And the reason nobody objected is not that the cost is small. The cost is enormous. The reason nobody objected is that a true cost read out completely is still a cost, and the person hearing it has been hearing prices for nine years and has never once had a price read out to her before, and the Reach keeps its gates by argument and the argument does not have a price on it, and she has been keeping one for nothing since the year her husband died and the gate board in her left hand is nine years old and has never been worth anything to anybody.
 
 ---
 
-**And the fourth thing that happened in that room is the one that is on the page, and it is a man of about twenty-nine saying that the offer may be a breach of a term, in front of about nine people, in daylight, in the local language, and it is the best thing anybody from that store has ever said about itself.**
+And the fourth thing that happened in that room is the one that is on the page, and it is a man of about twenty-nine saying that the offer may be a breach of a term, in front of about nine people, in daylight, in the local language, and it is the best thing anybody from that store has ever said about itself.
 
 "There is a page attached to the licence Adrian Vale is a party to," he said. "**It is entered as a term and it has a date on it. It says no workway of any kind, offered to anybody, to anybody else, now or at any time, by that instrument or by anybody using it. About four of us are parties to that instrument. I have just offered a workway in a room on the upper road. So the question is whether that is a breach.**"
 
@@ -62,13 +62,13 @@ He read the fourth line as *abandoning a claimed ground is a matter of the holde
 
 Somebody said the date out loud and a girl of seventeen on no roll of anything wrote it down and did not read it back, and the date is the hundred and eighty-ninth day of the flood, and it is the day the quarter runs out, and it is a Monday, and in that room it is a figure and not a plan.
 
-**And the man of about twenty-nine said the other half of it, and he said it in about four seconds, and it is the reason the keeper of the Redroot gate came up the road the next morning with her board under her arm.**
+And the man of about twenty-nine said the other half of it, and he said it in about four seconds, and it is the reason the keeper of the Redroot gate came up the road the next morning with her board under her arm.
 
 "**It is a real question and it is a correct question and it is worth nothing to a woman who keeps a gate, and I am going to keep asking it anyway, because I would rather be the man who asked it.**"
 
 ---
 
-**And at about the fourth hour of the afternoon, in the second room, with the board on the trestle and about nine people standing in it, a woman who had come nine miles to hear a cost read out was asked whether she wanted the thing, and she said yes with the cost in front of her, and she said it in nine sentences and the third one was the reason and it is the whole of the day.**
+And at about the fourth hour of the afternoon, in the second room, with the board on the trestle and about nine people standing in it, a woman who had come nine miles to hear a cost read out was asked whether she wanted the thing, and she said yes with the cost in front of her, and she said it in nine sentences and the third one was the reason and it is the whole of the day.
 
 > **One. I am going to say yes and I am going to say it once, and I would like it written down that nobody argued with me about it.**
 >
@@ -90,13 +90,13 @@ Somebody said the date out loud and a girl of seventeen on no roll of anything w
 
 ---
 
-**And then she put the gate board down on a table in the middle of that room, in front of about nine people, and she did not pick it up again for the rest of the afternoon, and she did not lean on it and she did not hold it against her and she put her hands in her apron, and nobody in that room said one word about any of it, and it is entered by a woman of twenty-four in her own hand that she noticed, and that she has kept that tell for nine years and has never once seen it used, and that she did not improve on it and did not explain it and is not going to.**
+And then she put the gate board down on a table in the middle of that room, in front of about nine people, and she did not pick it up again for the rest of the afternoon, and she did not lean on it and she did not hold it against her and she put her hands in her apron, and nobody in that room said one word about any of it, and it is entered by a woman of twenty-four in her own hand that she noticed, and that she has kept that tell for nine years and has never once seen it used, and that she did not improve on it and did not explain it and is not going to.
 
-**And a girl of seventeen who is on no roll of anything wrote the whole of it in her book, all of it, including the board going down, and she did not read it back, and when a man of about thirty-four who keeps a stall said *read it back* she said no, and gave a reason, and the reason is that a thing that has just been put down on a table in a room is a thing about nine people in a room and reading it back in a hall is turning it into a page, and she is not going to be the one who does that on the same day.**
+And a girl of seventeen who is on no roll of anything wrote the whole of it in her book, all of it, including the board going down, and she did not read it back, and when a man of about thirty-four who keeps a stall said *read it back* she said no, and gave a reason, and the reason is that a thing that has just been put down on a table in a room is a thing about nine people in a room and reading it back in a hall is turning it into a page, and she is not going to be the one who does that on the same day.
 
 ---
 
-**And a man of thirty-two who is on no roster of anything heard about all of it on the Wednesday morning at a gate, from a man of about thirty-four who keeps a stall, in about nine sentences, and he was not in either room and had not been asked to be and could not have been, because a workway is not offered to a man who has asked in his own hand to be off every roster there is.**
+And a man of thirty-two who is on no roster of anything heard about all of it on the Wednesday morning at a gate, from a man of about thirty-four who keeps a stall, in about nine sentences, and he was not in either room and had not been asked to be and could not have been, because a workway is not offered to a man who has asked in his own hand to be off every roster there is.
 
 "What did you feel," said the man of about thirty-four who keeps a stall, and he asked it because he had known him for a hundred and sixty-two days.
 
@@ -108,4 +108,4 @@ Somebody said the date out loud and a girl of seventeen on no roll of anything w
 
 "It is entered," said a woman of twenty-four, in a book, in her own words, "**as a fault and not as a virtue, and the man named it before anybody asked him to, and I am not going to soften it, and the relief is his and the wall is not, and on this page both of those are true on the same morning.**"
 
-**And the last thing on the page is a gate board lying flat on a table in a room on the upper road with a sleeve of rain still under the edge of it, and a girl of seventeen's book open at a page she has not read back, and neither of those two things is a page.**
+And the last thing on the page is a gate board lying flat on a table in a room on the upper road with a sleeve of rain still under the edge of it, and a girl of seventeen's book open at a page she has not read back, and neither of those two things is a page.

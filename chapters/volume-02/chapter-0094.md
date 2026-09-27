@@ -2,11 +2,11 @@
 
 On the fourth day of the month after this one, which was the ninety-fourth day of the flood and a Thursday, a woman of forty-one of the second list was given a day she had been given in a hurry thirty-seven days before, in a room over a chandlery on the upper road, in daylight, in front of about nine people, and she used it, and about nine people in that room understood that a bad procedure had just been made worse on purpose by the person it was about, and a man of thirty-two offered himself a seat with a name on it and was told by an instrument that there is nobody, and said eleven words, and did not say anything else about himself for the rest of the volume of days.
 
-**The licence is forty-four days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-three days old and has not moved one sixteenth of an inch.**
+The licence is forty-four days old. The undertaking is void. The field was not paid on the first of March. The black line in his right palm is ninety-three days old and has not moved one sixteenth of an inch.
 
 ---
 
-**The date was put on the page in about a day by nine people on the thirty-second day of the new month, which was the fifty-seventh day of the flood, because about four of them said that was the soonest it could be reviewed, and it is the fourth day of the month after this one, and the page says the review is a day on which the holder may say one thing.**
+The date was put on the page in about a day by nine people on the thirty-second day of the new month, which was the fifty-seventh day of the flood, because about four of them said that was the soonest it could be reviewed, and it is the fourth day of the month after this one, and the page says the review is a day on which the holder may say one thing.
 
 Nobody in that room asked her anything else. It is entered that nobody did, and that this was not kindness and not tact, and that the line which stops the asking was fought for in about two hours and ten minutes on the fortieth day of the new month, which was the sixty-fifth day of the flood, and stands, and that the person it belongs to is not going to be asked anything on this date or on any other.
 
@@ -24,7 +24,7 @@ Nobody in that room asked her whether she wanted to take it back.
 
 ---
 
-**And she did not take it back, and she did not say it again, and at about the second hour of the afternoon she did a third thing, and the procedure of nine clauses and nine weaknesses had no line for it, and she said so before she did it, which nobody in ninety-four days has ever done in a room.**
+And she did not take it back, and she did not say it again, and at about the second hour of the afternoon she did a third thing, and the procedure of nine clauses and nine weaknesses had no line for it, and she said so before she did it, which nobody in ninety-four days has ever done in a room.
 
 "I am going to say one thing," she said. "**And I am going to say it before anybody asks me anything, because if anybody asks me anything first then what I say is an answer, and it is not an answer. Write it down in my words. And do not make it a form. And if anybody in this room makes it a form then it is not what I said and you should strike it.**"
 
@@ -40,7 +40,7 @@ It is entered that nobody in that room asked her a question about any part of it
 
 ---
 
-**And then a notary of fifty said the thing that had to be said, and it took about nine seconds, and about nine people in that room had already worked it out and about two hundred and thirty people in this city have not.**
+And then a notary of fifty said the thing that had to be said, and it took about nine seconds, and about nine people in that room had already worked it out and about two hundred and thirty people in this city have not.
 
 "I drafted the procedure of nine clauses and nine weaknesses on the thirty-second day of the new month, and I drafted the amendment of one line this afternoon, and I have not told anybody either of those things until now, and I am telling them now, and I am entering that **I may not grade my own paper.** I have been the notary of every instrument in this city for twenty-six years and I have never once been the person who decides whether my own page is any good, and I am not going to start on the fourth day of the month after this one, and if nobody in this room is able to say whether the amendment is any good then the amendment stands ungraded and that is the correct outcome and I would like it entered that I think the correct outcome is the worst one available."
 
@@ -50,7 +50,7 @@ It is entered that nobody in that room asked her a question about any part of it
 
 ---
 
-**And then a man of thirty-two offered a seat, and the offer was the fifth, and the four before it had all come in the five weeks before the seventy-fifth day of the flood, which was the fiftieth day of the new month, and the instrument has said nobody four times, and it said nobody this time in about four seconds, and this time the seat was not offered by nine people and it was not a Crown advocate and it was not a stipend and it was not a quarterly sitting.**
+And then a man of thirty-two offered a seat, and the offer was the fifth, and the four before it had all come in the five weeks before the seventy-fifth day of the flood, which was the fiftieth day of the new month, and the instrument has said nobody four times, and it said nobody this time in about four seconds, and this time the seat was not offered by nine people and it was not a Crown advocate and it was not a stipend and it was not a quarterly sitting.
 
 It was a seat with a name on it and a review date and a standing in this city, in this city's own book, in this city's own words, and the person who put it there was the man it was for, and he wrote it out in his own hand on the back of a copying list and put it on the table face up, and about nine people in that room looked at the hand before they looked at the words.
 
@@ -66,7 +66,7 @@ And it is entered that nobody improved on that sentence, and that it is eleven w
 
 "Then it is done," said Adrian Vale.
 
-**And it is entered that he said nothing else about himself that day, or on any day after it, and that he noticed he had done it, and said so, and that a woman of twenty-four asked him whether he was all right and he said a thing that was not about himself, and that nobody thanked him for the seat and nobody congratulated him on the refusal, and that a man of sixty-one said later that the fifth refusal is the first one anybody in this city has been able to check, because a man who offers a seat to himself has put his own name at the top of it, and because a name at the top of a thing is what makes it a thing that can be angry at, and because nobody has done that in ninety-four days.**
+And it is entered that he said nothing else about himself that day, or on any day after it, and that he noticed he had done it, and said so, and that a woman of twenty-four asked him whether he was all right and he said a thing that was not about himself, and that nobody thanked him for the seat and nobody congratulated him on the refusal, and that a man of sixty-one said later that the fifth refusal is the first one anybody in this city has been able to check, because a man who offers a seat to himself has put his own name at the top of it, and because a name at the top of a thing is what makes it a thing that can be angry at, and because nobody has done that in ninety-four days.
 
 ---
 

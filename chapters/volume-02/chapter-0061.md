@@ -10,7 +10,7 @@ He had been holding it for two days. It is in a private book on the last page in
 
 ---
 
-**The first kitchen was above a chandlery and the woman who keeps it offered him a chair.**
+The first kitchen was above a chandlery and the woman who keeps it offered him a chair.
 
 He had been in the room about nine seconds. There were two other people in it and both of them were eating and neither of them had stopped, and the woman put a third cup on the table, and the cup was not for him, and she put it in the place where a guest's cup goes, which is a place at a table that means a person is answerable for what is said in the room for as long as the cup is there.
 
@@ -22,7 +22,7 @@ He apologised for about nine words and went down the stairs, and it is entered t
 
 ---
 
-**The second kitchen was in Silt Row and a boy of about fifteen offered him a day's work before he had finished sitting down.**
+The second kitchen was in Silt Row and a boy of about fifteen offered him a day's work before he had finished sitting down.
 
 The boy had a barrow and a list of nine errands on a slate and the slate was the boy's own and the list was of things that had to be carried between two places that Adrian could not name in either language without help.
 
@@ -44,7 +44,7 @@ There is no word in the ordinary speech of this city for a person who has nothin
 
 ---
 
-**The third was at a chandler's counter on the market, and a docker offered him a place in a queue.**
+The third was at a chandler's counter on the market, and a docker offered him a place in a queue.
 
 This was the worst one and it was nearly the best one, and the reason it was nearly the best one is that it came closest to the truth.
 
@@ -60,7 +60,7 @@ That is true. Adrian wrote it down that night in six lines and one of them is th
 
 ---
 
-**The fourth kitchen is where he asked the question properly, and it was not a kitchen.**
+The fourth kitchen is where he asked the question properly, and it was not a kitchen.
 
 Marek Osley is a salt factor of about forty-eight with a waxed tablet and he keeps the count the Lock's stores draw on, and he was standing in a converted salt store at about the second hour of the afternoon with four other people in it, and in about eleven minutes he taught Adrian Vale the difference between a work and a wage, which is the difference between the page of the seventeenth day of the new month and the page of the twenty-sixth day of this flood: **the first of those two asked for a seat, and the second one banned a seat, and neither of them said a word about a turning up.**
 
@@ -92,7 +92,7 @@ Osley looked at him for slightly longer than a man with a count to finish needs 
 
 ---
 
-**And then the answer, and the answer is a number, and it is nineteen lines long, and it is not a list of jobs.**
+And then the answer, and the answer is a number, and it is nineteen lines long, and it is not a list of jobs.
 
 Ottoline Vask has been in this city thirty-four years and has a bar she does not always carry. She came into the salt store at about the fourth hour of the afternoon and she was told what the question had been, and she did not ask him to say it again, and she took a piece of chalk and the flat of a sawn board and she wrote for about eleven minutes and what she wrote is on a board in a converted salt store and it has been read out in about two hundred and forty people's hearing, and it is this:
 
@@ -134,7 +134,7 @@ Nobody argued with her. It is entered that nobody argued with her and that about
 
 ---
 
-**And the two beds in Silt Row are the test case, and they fail the first time they are used, and the page does not say what happens, and nothing in this city has ever said what happens.**
+And the two beds in Silt Row are the test case, and they fail the first time they are used, and the page does not say what happens, and nothing in this city has ever said what happens.
 
 Delya Crane owns the building the loft is the top of and has held the ground floor on a rent-free lease for eleven years. Sesh Brack is her tenant. On the twenty-ninth day of the new month the two of them offered two beds, and the reason was entered as a reason and not a debt, and both of them said *I do not know what I am proposing* and then said it anyway, in that order, and neither of them had practised it, and a woman of twenty-nine made them say both halves.
 
@@ -144,7 +144,7 @@ Underneath the offer there were three clauses and the clauses are the reason the
 
 Every one of those is correct. Every one of those is in the book. Every one of those was written by a city that spent nine days learning that a list of houses with two strangers in each is a roll, and a roll goes to Aurel in a wooden case four times a year, and the fear of the word *list* in this city is a fear of persons.
 
-**So on the night of the thirty-sixth day of the new month, one of the two beds was slept in and the other was not, and there was nothing anywhere in this city to be done about the bed that was not slept in.**
+So on the night of the thirty-sixth day of the new month, one of the two beds was slept in and the other was not, and there was nothing anywhere in this city to be done about the bed that was not slept in.
 
 Delya Crane could not ask. Asking is the third thing the page forbids and the page is hers.
 
@@ -172,7 +172,7 @@ And the girl of seventeen asked for one more line and got it, and it is her own,
 
 ---
 
-**And at about the sixth hour of the evening, in a yard under the lock chapel, in about two hundred and forty people, the first of the nineteen lines was read out, and it was a Saturday, and nobody had asked for it, and the yard had filled up because it is a yard and it is Saturday and there is salt in it.**
+And at about the sixth hour of the evening, in a yard under the lock chapel, in about two hundred and forty people, the first of the nineteen lines was read out, and it was a Saturday, and nobody had asked for it, and the yard had filled up because it is a yard and it is Saturday and there is salt in it.
 
 The first line is the first line and it is the shortest:
 
@@ -180,10 +180,10 @@ The first line is the first line and it is the shortest:
 
 It was read by a woman of seventy who keeps that ground and who has the four words and a fifth in chalk on one side of a door and four generations of women behind them, and she read it the way she reads the binding, in the open, at the ordinary volume, and she read it twice, and the second time was not for the yard.
 
-**About nine people in that yard understood that it was a widening. About two hundred and thirty thought it was a job.**
+About nine people in that yard understood that it was a widening. About two hundred and thirty thought it was a job.
 
 It is entered that both numbers are entered as what a man said and not as a count, neither above the other, that no hand was raised in that yard on either side of it, and that a woman of fifty-eight who was present said afterward, in eight words, that a widening does not look like a job, and that about nine people had to stand still to hear her.
 
-**Nothing was gained. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument of the twenty-second day of the new month, at his own request, in his own hand, with the date on it. He holds no mark of his own, no workway, no title, no land right, no class privilege and no seat. He performed no working today and he was offered a chair in the first kitchen and he did not take it. He is party to the trial licence, which is eleven days old today, and is given nothing by it. The main breach is closed and dressed and has never said a word. The ground under the chapel is a scar and is not repaired and the boards have not been lifted since the fortieth day of this flood. The black line in his right palm is sixty days old and has not moved one sixteenth of an inch. The review is in fourteen days, on a slate on a nail, with a date on it and no questions on it, and a room with no window and no door anybody has found is three knocks into being knocked on and nobody has to open anything for that to happen.**
+Nothing was gained. Adrian Vale is Stage 1, Witness, Unbound, on no roster of the licence and on no roster of the instrument of the twenty-second day of the new month, at his own request, in his own hand, with the date on it. He holds no mark of his own, no workway, no title, no land right, no class privilege and no seat. He performed no working today and he was offered a chair in the first kitchen and he did not take it. He is party to the trial licence, which is eleven days old today, and is given nothing by it. The main breach is closed and dressed and has never said a word. The ground under the chapel is a scar and is not repaired and the boards have not been lifted since the fortieth day of this flood. The black line in his right palm is sixty days old and has not moved one sixteenth of an inch. The review is in fourteen days, on a slate on a nail, with a date on it and no questions on it, and a room with no window and no door anybody has found is three knocks into being knocked on and nobody has to open anything for that to happen.
 
-**And a girl of sixteen and a woman of thirty-eight are on no roll at all, and neither has been asked, and the roll of strangers has not gone into a wooden case since the third week of the new month, and a woman of twenty-nine of the second list has two days of a thing worked out in her head and has not told anybody.**
+And a girl of sixteen and a woman of thirty-eight are on no roll at all, and neither has been asked, and the roll of strangers has not gone into a wooden case since the third week of the new month, and a woman of twenty-nine of the second list has two days of a thing worked out in her head and has not told anybody.

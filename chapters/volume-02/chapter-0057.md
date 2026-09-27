@@ -4,7 +4,7 @@ On the thirty-second day of the new month, which was the fifty-seventh day of th
 
 ---
 
-**Perry Lask is forty-one and she has been careful for fifty-seven days and she has asked for nothing, and the record of what she said in the first week is on the page and it is four sentences, entered in her own words, on the ninth day of this flood, in a yard, in front of about sixty people.**
+Perry Lask is forty-one and she has been careful for fifty-seven days and she has asked for nothing, and the record of what she said in the first week is on the page and it is four sentences, entered in her own words, on the ninth day of this flood, in a yard, in front of about sixty people.
 
 "I said *this is a closed beta*, because that is what it is where I am from, and I want it written down that I said it before anybody else did and that I was not the first person to think it and I was not the last.
 
@@ -14,13 +14,13 @@ On the thirty-second day of the new month, which was the fifty-seventh day of th
 
 She arrived on the twenty-fifth day of this flood, out of a chapel floor, four feet beyond a threshold slab, and she has been the person in this city who asks the questions nobody wants answered, and the questions are never rude and are always four minutes too late, and Adrian Vale wrote in his notebook on about the twentieth day of the new month that she is the second most useful person in this city and that the first is a docker who cannot read, and that he has never once said either of those things out loud.
 
-**On the thirty-second day of the new month at about the fourth hour of the afternoon, in a room over a chandlery, in front of about nine people, she said yes in about four seconds, and she said one thing first, and the thing she said first is sixty-one words and it is in the book in her own words.**
+On the thirty-second day of the new month at about the fourth hour of the afternoon, in a room over a chandlery, in front of about nine people, she said yes in about four seconds, and she said one thing first, and the thing she said first is sixty-one words and it is in the book in her own words.
 
 "I have been waiting since the ninth day of this flood for the wall to say something I recognise, and I am not going to pretend to a room that I checked it first. **It is recognisable. That is the whole of my qualification and I have been alive forty-one years and I have never once been asked for one before.**"
 
 ---
 
-**The field came up at about the fourth hour and nine minutes of the afternoon, in front of about nine people, and it stood about nineteen seconds, and it is the nineteenth thing this wall has said in this city and it is the second of the two that have no lie in them.**
+The field came up at about the fourth hour and nine minutes of the afternoon, in front of about nine people, and it stood about nineteen seconds, and it is the nineteenth thing this wall has said in this city and it is the second of the two that have no lie in them.
 
 > **A WORKWAY MAY BE GIVEN TO ONE PERSON IN THIS ROOM.**
 >
@@ -42,13 +42,13 @@ Nobody in that room saw it but about nine people, and one of the nine was asleep
 
 "**I did not check it. There is nothing in this world to check it against. I have a licence in my own head with a page in it that says what I may not have, and that page says no workway, and this field did not come from the page and did not come from the instrument and nobody used anything. So the page has not been broken. And I have read that page in four languages in my life and I have broken every one of them, and a rule that only covers the thing you can see is a rule about a thing and not about the world.**"
 
-**And Adrian Vale put his hand over his eyes for about four seconds in a room over a chandlery on the thirty-second day of the new month, and about four people saw him do it, and it is entered, and nobody asked him about it, and what he wrote that night is thirty-one words and it is in a private book and it is the sentence the whole day stands on:**
+And Adrian Vale put his hand over his eyes for about four seconds in a room over a chandlery on the thirty-second day of the new month, and about four people saw him do it, and it is entered, and nobody asked him about it, and what he wrote that night is thirty-one words and it is in a private book and it is the sentence the whole day stands on:
 
 > *I wrote a rule about a thing and I did not write a rule about the world, and I have spent fifty-seven days telling a city that the difference is pedantry.*
 
 ---
 
-**And the discovering of what a workway is in Saltwake took about eleven minutes and it is the finding of the thirty-second day of the new month and it is entered as a record of what nine people said and not as a finding, because findings may not be entered, and because on the sixteenth day of the new month a notary stopped a man in the middle of the best speech he has given in this city and made him say it as what he said, and the reason is that the sentence is a finding and findings may not be entered.**
+And the discovering of what a workway is in Saltwake took about eleven minutes and it is the finding of the thirty-second day of the new month and it is entered as a record of what nine people said and not as a finding, because findings may not be entered, and because on the sixteenth day of the new month a notary stopped a man in the middle of the best speech he has given in this city and made him say it as what he said, and the reason is that the sentence is a finding and findings may not be entered.
 
 It is in the book as follows.
 
@@ -72,11 +72,11 @@ It is in the book as follows.
 
 ---
 
-**And they put it through a room, because a woman of twenty-four said six words in about two seconds, and it is the sixth time she has produced the sentence that made a thing possible in this city, and it is the shortest of the six.**
+And they put it through a room, because a woman of twenty-four said six words in about two seconds, and it is the sixth time she has produced the sentence that made a thing possible in this city, and it is the shortest of the six.
 
 "Then put it through a room," said Priya Shah.
 
-**And they wrote a procedure in about a day and it is bad, and the badness is the point, and this is the whole of it, and it is entered as a single instrument with nine weaknesses under it, and it has a date, and the date is the fourth day of the month after this one, and the four is because about four people said that is the soonest it can be reviewed.**
+And they wrote a procedure in about a day and it is bad, and the badness is the point, and this is the whole of it, and it is entered as a single instrument with nine weaknesses under it, and it has a date, and the date is the fourth day of the month after this one, and the four is because about four people said that is the soonest it can be reviewed.
 
 > **A holder of a workway in this city.**
 >
@@ -106,7 +106,7 @@ And the nine weaknesses were entered under it, in Vail's hand, and the first two
 
 ---
 
-**And a man of thirty-one from Leeds was in that room for the fourth clause and did not say anything for about nine minutes, and then said one sentence, and it is in the book in his own words, and it is seventy-one words, and it is the reason the room did not finish its business that day.**
+And a man of thirty-one from Leeds was in that room for the fourth clause and did not say anything for about nine minutes, and then said one sentence, and it is in the book in his own words, and it is seventy-one words, and it is the reason the room did not finish its business that day.
 
 "I gave you that list of nine names on Friday and you have written nine clauses and about nine weaknesses, and **none of them is the thing that happened to me.**" He held up his right hand and did not make a fist, because he cannot, and about four people in that room had watched him fail to make a fist for thirty-two days and about nine had stopped noticing. "**Nobody was angry about my hand. What happened is that there was nothing for me to be angry about. You have written a document about what happens when a person is angry and there is not one word in nine clauses about what happens when a person has nothing to be angry about, and I have been in this city thirty-two days and that is the entire condition I am in.**"
 
@@ -116,7 +116,7 @@ And the nine weaknesses were entered under it, in Vail's hand, and the first two
 
 ---
 
-**And on the thirty-second day of the new month at about the ninth hour of the evening, in a room over a chandlery, in front of about nine people, Adrian Vale said the thing that has been true since the fourth day of this flood and that nobody had ever put in the same sentence, and it is two hundred words and it is his, and about two of the nine people in that room understood all of it immediately and about seven understood about half of it and will understand the rest in about four months.**
+And on the thirty-second day of the new month at about the ninth hour of the evening, in a room over a chandlery, in front of about nine people, Adrian Vale said the thing that has been true since the fourth day of this flood and that nobody had ever put in the same sentence, and it is two hundred words and it is his, and about two of the nine people in that room understood all of it immediately and about seven understood about half of it and will understand the rest in about four months.
 
 "**The instrument of the twenty-second day of the new month, and the page of the twenty-sixth day of this flood, and the licence of the twenty-fifth day of the new month, all say the same thing in the same words. No workway of any kind, offered now or ever, by this instrument or by anybody using it, to anybody named on the page of the seventeen.**
 
@@ -130,7 +130,7 @@ And the nine weaknesses were entered under it, in Vail's hand, and the first two
 
 "Then I will say it in a yard," said Adrian Vale, "**and I will be asked afterwards why I built a rule about a thing and called it a wall, and the answer is that I have been in this world fifty-seven days and I was wrong about one thing today, and I am going to be wrong about about nine more before the fiftieth day of the new month, and the only instrument I have for that is a page that says what I am wrong about.**"
 
-**And the girl of seventeen entered it, in the day book for the thirty-second day of the new month, in her own hand, in four lines, and the width of the column is entered as a fact for the fourth time in the same year, and what she wrote is this, and it is the last entry of the day:**
+And the girl of seventeen entered it, in the day book for the thirty-second day of the new month, in her own hand, in four lines, and the width of the column is entered as a fact for the fourth time in the same year, and what she wrote is this, and it is the last entry of the day:
 
 > **The holder of the workway asked what she is expected to do.**
 >

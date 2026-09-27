@@ -6,7 +6,7 @@ It is a Friday, and it is the sixth time about two hundred and forty people have
 
 ---
 
-**And here is who was in the room, and it is about nine, and the reason it is nine and not forty is the rule of the Reach, which is that every household affected by a change must be heard, and which nobody in that room was in a position to improve on, and one of the two bodies in this document is eleven miles away and is in the room by a road and not by a roll.**
+And here is who was in the room, and it is about nine, and the reason it is nine and not forty is the rule of the Reach, which is that every household affected by a change must be heard, and which nobody in that room was in a position to improve on, and one of the two bodies in this document is eleven miles away and is in the room by a road and not by a roll.
 
 **One.** A woman of about thirty-four who keeps a stall by the wharf, who is on no roll of anything and has been on nothing for two hundred days and whose name is on the front of it.
 
@@ -16,11 +16,11 @@ It is a Friday, and it is the sixth time about two hundred and forty people have
 
 **Four to nine, and nobody in that room could have told you which of them was which without being told:** a woman of about fifty who counts water on the fingers of her left hand, who brought the Reed Commons to it and who is not the Reed Commons; a woman of about thirty-four from a fourth household on the road, who brought Redroot Commons to it and who took a workway on the twenty-first day of the Long Month with the whole cost of it read out first; a man of about thirty-four who keeps a stall; a woman of about twenty-four who has written down every decision this city has made since the second day of this flood; and a man of forty-two, who lost the export on Monday night and has a share on the same posting as everybody else.
 
-**And a notary of fifty was not asked and did not come, and about four people in that room have said that a thing in a room and not in a case has no name in any office in nine hundred miles, and that is correct, and nobody in that room did anything about it, and nobody improved on it.**
+And a notary of fifty was not asked and did not come, and about four people in that room have said that a thing in a room and not in a case has no name in any office in nine hundred miles, and that is correct, and nobody in that room did anything about it, and nobody improved on it.
 
 ---
 
-**And a woman of about thirty-four who keeps a stall by the wharf read it out, and she is on no roll of anything, and she has been on nothing for two hundred days and she said so first, in her own words, before anybody asked her anything, and about nine people in that room have said that nobody in four hundred miles gets that right more than twice.**
+And a woman of about thirty-four who keeps a stall by the wharf read it out, and she is on no roll of anything, and she has been on nothing for two hundred days and she said so first, in her own words, before anybody asked her anything, and about nine people in that room have said that nobody in four hundred miles gets that right more than twice.
 
 "**I have been on nothing for two hundred days. I have been on a page once in nine years and it is going to be twice this morning, and I am going to read this out and I am not going to do it well and I am not going to hurry, and I am not going to thank anybody and I asked in a room yesterday for nobody to thank me and nobody did and I would like that entered twice.**"
 
@@ -30,7 +30,7 @@ It is a Friday, and it is the sixth time about two hundred and forty people have
 
 ---
 
-**And here are the eleven lines, and she read them out in the local language, and a girl of seventeen who is on no roll of anything read the whole of them back twice afterwards for the people at the back, from a plain slate and not from her own, because her own has her name at the top of it, and nobody has asked her for a third.**
+And here are the eleven lines, and she read them out in the local language, and a girl of seventeen who is on no roll of anything read the whole of them back twice afterwards for the people at the back, from a plain slate and not from her own, because her own has her name at the top of it, and nobody has asked her for a third.
 
 > **The ground stays with the households, and no land right of any kind is transferred.**
 >
@@ -60,7 +60,7 @@ Nobody made a sound.
 
 ---
 
-**And the girl of seventeen read the whole of it back twice, and she read it out of a plain slate and not out of her own, and the reason she gave for that has been the reason since the second month of this flood and has not improved and she did not give it again.**
+And the girl of seventeen read the whole of it back twice, and she read it out of a plain slate and not out of her own, and the reason she gave for that has been the reason since the second month of this flood and has not improved and she did not give it again.
 
 The first reading was for the back of the hall and the second was for the landing and the market below it, and between the two readings about nine people who had been standing at the front of the hall went out through the market and about nine other people came up, and neither reading was stopped and neither was shortened, and about two hundred and forty people heard the same eleven lines four times in one morning, and about four of them have said since that they heard it wrong the first time and right the second and have not been able to say which of the two was the reading.
 
@@ -74,7 +74,7 @@ The first reading was for the back of the hall and the second was for the landin
 
 ---
 
-**And about four people in that room had noticed inside ten minutes that the name at the front of that page had been said once and had not been written down in front of them, and nobody said so until a woman of about twenty-four said it out loud in front of about nine people, and it is in a book in this city in her own words.**
+And about four people in that room had noticed inside ten minutes that the name at the front of that page had been said once and had not been written down in front of them, and nobody said so until a woman of about twenty-four said it out loud in front of about nine people, and it is in a book in this city in her own words.
 
 "**I have written the name at the top of the copy. I have not read it out. Nobody in this room has asked me to and about four of us have looked at it, and there is a name in that page which about two hundred and forty people have heard said once in a room in daylight and which about nine people in this city have seen written, and I am the only person in this city who could have stopped that happening this morning and I did not stop it, and I want that entered and I am not going to be thanked for entering it.**"
 
@@ -88,7 +88,7 @@ The first reading was for the back of the hall and the second was for the landin
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register said the five sentences she said on Thursday she would say on Friday, and they are hers and it is in a book in this city in her own words and nobody improved on it, and about two hundred and forty people heard it.**
+And a woman of about twenty-nine who keeps a public register said the five sentences she said on Thursday she would say on Friday, and they are hers and it is in a book in this city in her own words and nobody improved on it, and about two hundred and forty people heard it.
 
 "**I read a compact of eleven lines out in this room in the second month of this flood. It is on a wall nine miles back down a road in a hall and it has been read out six times since, and the fifth line of it is a person, and the person in the fifth line is a guest who may ask to stop being a guest, and the asking is the whole of it, and it needs no reason, and it is not asked twice, and it is the only line anybody in nine hundred miles can act on.**"
 
@@ -102,7 +102,7 @@ The first reading was for the back of the hall and the second was for the landin
 
 ---
 
-**And a man of about thirty-nine who trades on the Open Hand board read the fifth line out again in his own words and nobody improved on it, and then he read the ninth line out and did not say anything about it, and about four people in that room have said that the whole of this morning is in that silence.**
+And a man of about thirty-nine who trades on the Open Hand board read the fifth line out again in his own words and nobody improved on it, and then he read the ninth line out and did not say anything about it, and about four people in that room have said that the whole of this morning is in that silence.
 
 "**That is my sentence with my name on it and the date on it, in a page I am a party to, and I have been refused by name four times in four years and this is the first one of mine that has gone into anything. It does not work. I said so before it went in. It is in.**"
 
@@ -112,7 +112,7 @@ The first reading was for the back of the hall and the second was for the landin
 
 ---
 
-**And a man of about thirty-four who keeps a stall said one thing at about the second hour of the afternoon, and it is the only thing anybody said all morning that was about what it costs, and about two hundred and forty people heard it and about nine of them have written it down.**
+And a man of about thirty-four who keeps a stall said one thing at about the second hour of the afternoon, and it is the only thing anybody said all morning that was about what it costs, and about two hundred and forty people heard it and about nine of them have written it down.
 
 "**A gate is a gate. A road is a road. A page is a page. A person is a person. And since the seventh week of this flood this city has found out that the only instrument anybody has is other people, and the price of it is that other people can be found, and about four of us have been on a page this morning for the first time in our lives and I am not going to pretend that is free.**"
 
@@ -122,10 +122,10 @@ The first reading was for the back of the hall and the second was for the landin
 
 ---
 
-**And a woman of about thirty-eight who keeps the Redroot gate was not in that room and was not asked whether the day suited her, and about four people in that room noticed it by about the ninth hour of the morning and about nine of them did not, and a man of about thirty-four who keeps a stall did not go and fetch her, and the reason he gave is the reason he gave on the thirty-ninth of the Long Month and it has not improved.**
+And a woman of about thirty-eight who keeps the Redroot gate was not in that room and was not asked whether the day suited her, and about four people in that room noticed it by about the ninth hour of the morning and about nine of them did not, and a man of about thirty-four who keeps a stall did not go and fetch her, and the reason he gave is the reason he gave on the thirty-ninth of the Long Month and it has not improved.
 
 "**She gave the days back on Monday in daylight on a flat with about nine people on it and she has said she is going to be angry about it for a year, and it is the forty-fifth day of the Long Month, and nobody is going to go and get her, and if that is a failure then it is a failure and I am not going to call it anything else at the end of a week in which she gave nine days of a week back for nothing.**"
 
 ---
 
-**A plain slate with eleven lines on it in a hand that is not a girl's, lying face up on a table in a room with nothing on the walls.**
+A plain slate with eleven lines on it in a hand that is not a girl's, lying face up on a table in a room with nothing on the walls.

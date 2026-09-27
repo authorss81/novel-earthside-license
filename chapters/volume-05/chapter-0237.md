@@ -4,7 +4,7 @@ A man came eleven miles up the road at the bottom of the Redroot cut on the eigh
 
 ---
 
-**And the keeper of the Redroot gate was at the top of that cut from first light and had not put the board down once, and it is not on a list of anything, and it carries two dates in two hands and a set of knife marks, and the twenty-fourth is not on it, and nobody at the top of that cut has asked her about any of that in fifty-eight days and nobody is going to today.**
+And the keeper of the Redroot gate was at the top of that cut from first light and had not put the board down once, and it is not on a list of anything, and it carries two dates in two hands and a set of knife marks, and the twenty-fourth is not on it, and nobody at the top of that cut has asked her about any of that in fifty-eight days and nobody is going to today.
 
 "You have come up the bank."
 
@@ -14,7 +14,7 @@ He sat down on the bank above her and about four people at the top of that cut w
 
 ---
 
-**And a woman of about fifty who counts water on the fingers of her left hand was at the top of that cut at about the eighth hour and looked down into a channel that has been dry for forty-one days and did not go down it, and about four people at the top of that cut have been watching her count since the seventh week of this flood and about nine of them had stopped and had started again since the seventy-eighth day of that month.**
+And a woman of about fifty who counts water on the fingers of her left hand was at the top of that cut at about the eighth hour and looked down into a channel that has been dry for forty-one days and did not go down it, and about four people at the top of that cut have been watching her count since the seventh week of this flood and about nine of them had stopped and had started again since the seventy-eighth day of that month.
 
 "**There is nothing in it and there has been nothing in it since the forty-first day of that month and about four people in this city have worked out that a channel with nothing in it is not a channel that has gone and about nine of them have worked out that it is a channel that is waiting, and I have been standing at the top of this cut four times since the fifty-ninth day of that month and I have not taken one figure off it, and a figure is a thing I take and I have not taken one, and I would like about four people in this cut to notice that I have not taken one this morning without saying anything about it.**"
 
@@ -26,7 +26,7 @@ She put her hand flat on the rail of the bank and about four people at the top o
 
 ---
 
-**And at about the ninth hour the keeper of the Redroot gate took her left hand off the board and turned the board over and put it face down against her leg and put her hand back on the outside of it, and she did not stop working the channel. About four people at the top of that cut saw her do it, and about nine of them did not, and nobody said one word to her about it, and she has not said one word to anybody about the twenty-fourth, about the year, or about the fifty-eight days of it.**
+And at about the ninth hour the keeper of the Redroot gate took her left hand off the board and turned the board over and put it face down against her leg and put her hand back on the outside of it, and she did not stop working the channel. About four people at the top of that cut saw her do it, and about nine of them did not, and nobody said one word to her about it, and she has not said one word to anybody about the twenty-fourth, about the year, or about the fifty-eight days of it.
 
 "What is on the other side."
 
@@ -40,7 +40,7 @@ She said the last three sentences to the boards of the bank and not to anybody, 
 
 ---
 
-**And a woman of about thirty-four from a fourth household on the road was at the top of that cut at about the tenth hour with nothing in her hands and she saw the board go face down against a leg and about four people in that cut had seen her see it and about nine of them had not, and she has not chosen a day to ask in since the fifty-sixth day of that month and has not chosen one today.**
+And a woman of about thirty-four from a fourth household on the road was at the top of that cut at about the tenth hour with nothing in her hands and she saw the board go face down against a leg and about four people in that cut had seen her see it and about nine of them had not, and she has not chosen a day to ask in since the fifty-sixth day of that month and has not chosen one today.
 
 "You saw that."
 
@@ -52,7 +52,7 @@ She said the last three sentences to the boards of the bank and not to anybody, 
 
 ---
 
-**And a man of about fifty-two who digs was at the top of that cut at about the tenth hour of the morning and had come up that bank to look at a channel and had looked at it and had not gone down, and he has not put a rod in a hole since the fifty-ninth day of that month and the hole nine feet from the one everybody measures has filled in with the wind since the seventy-eighth day of that month, and about four people at the top of that cut have known both of those things and about nine of them have only known one.**
+And a man of about fifty-two who digs was at the top of that cut at about the tenth hour of the morning and had come up that bank to look at a channel and had looked at it and had not gone down, and he has not put a rod in a hole since the fifty-ninth day of that month and the hole nine feet from the one everybody measures has filled in with the wind since the seventy-eighth day of that month, and about four people at the top of that cut have known both of those things and about nine of them have only known one.
 
 "Is that hole still there."
 
@@ -66,7 +66,7 @@ He said the last two sentences to the woman of about thirty-four and not to anyb
 
 ---
 
-**And Adrian Vale was still sitting on that bank at about the eleventh hour when the light came off the flats and went up the far side, and about four people at the top of that cut had been waiting since the fifty-fourth day of the Long Month for somebody to say a name and about nine of them said nothing, and nobody asked him about a gate and nobody offered him anything and he asked for nothing.**
+And Adrian Vale was still sitting on that bank at about the eleventh hour when the light came off the flats and went up the far side, and about four people at the top of that cut had been waiting since the fifty-fourth day of the Long Month for somebody to say a name and about nine of them said nothing, and nobody asked him about a gate and nobody offered him anything and he asked for nothing.
 
 "You have been sitting there four hours."
 
@@ -84,4 +84,4 @@ He got up off the bank and went down it and about four people at the top of that
 
 ---
 
-**And a board turned face down against a leg at the top of a cut, with a hand flat on the outside of it.**
+And a board turned face down against a leg at the top of a cut, with a hand flat on the outside of it.

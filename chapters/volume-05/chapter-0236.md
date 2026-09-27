@@ -4,7 +4,7 @@ A man of about thirty-one with a hand that will not close put a wage he had had 
 
 ---
 
-**And the woman of about thirty-four who keeps that stall came out from behind it and did not touch the sack, and she has been on a page since the forty-fifth day of the Long Month and it is thirty-six days, and about four people in this market know what that is and about nine of them do not, and she asked in advance not to be thanked and has not been.**
+And the woman of about thirty-four who keeps that stall came out from behind it and did not touch the sack, and she has been on a page since the forty-fifth day of the Long Month and it is thirty-six days, and about four people in this market know what that is and about nine of them do not, and she asked in advance not to be thanked and has not been.
 
 "You have not opened it."
 
@@ -18,7 +18,7 @@ She went back behind the stall and left a gap about the width of a person betwee
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register came along the boards of that market at about the fifth hour of the afternoon with a page in her own pocket with a date on the back of it, and it is not a slate and it is not in a book and it has two names on the front of it and no third. About four people in this market have known that since the forty-fourth day of the Long Month and about nine of them have never been in a room she was in.**
+And a woman of about twenty-nine who keeps a public register came along the boards of that market at about the fifth hour of the afternoon with a page in her own pocket with a date on the back of it, and it is not a slate and it is not in a book and it has two names on the front of it and no third. About four people in this market have known that since the forty-fourth day of the Long Month and about nine of them have never been in a room she was in.
 
 "You keep a page in a pocket."
 
@@ -32,7 +32,7 @@ She went on along the boards and about four people in that market watched a woma
 
 ---
 
-**And at about the sixth hour of the afternoon his hand opened, and it was not put anywhere and nothing happened to it, and it stayed open for about as long as it takes to take a board off a stack and then it shut again and did not come open a second time that day.**
+And at about the sixth hour of the afternoon his hand opened, and it was not put anywhere and nothing happened to it, and it stayed open for about as long as it takes to take a board off a stack and then it shut again and did not come open a second time that day.
 
 Nobody in that market said a word about it. About four people in that market were looking at his hand and about nine of them were looking at the sack, and the woman of about thirty-four who keeps that stall was looking at the boards.
 
@@ -48,7 +48,7 @@ He put the hand down on his knee under the boards of the stall where nobody coul
 
 ---
 
-**And a girl of seventeen stood at the rail of that wharf at about the seventh hour of the evening with a plain slate under her arm that has her name at the top of it, and she is the only person in this market who is not on the front of any page in this city, and about four people in that market knew that and about nine of them did not, and nobody asked her anything at all. She read the top of it out under her breath and stopped in the middle of a line and put the slate face down on the rail and left her hand on it.**
+And a girl of seventeen stood at the rail of that wharf at about the seventh hour of the evening with a plain slate under her arm that has her name at the top of it, and she is the only person in this market who is not on the front of any page in this city, and about four people in that market knew that and about nine of them did not, and nobody asked her anything at all. She read the top of it out under her breath and stopped in the middle of a line and put the slate face down on the rail and left her hand on it.
 
 "That is not on the front of any page."
 
@@ -62,7 +62,7 @@ She put her hand on the slate and left it there, and about four people in that m
 
 ---
 
-**And four streets down from that wharf a woman of about fifty-six who keeps a shop had nine measures on a shelf that is not against an outside wall and had moved them there on the seventy-sixth day of that month and told nobody, and she has said more about the prices on a page nine miles up the road than anybody in this city and she has not said one word in this shop about a hand.**
+And four streets down from that wharf a woman of about fifty-six who keeps a shop had nine measures on a shelf that is not against an outside wall and had moved them there on the seventy-sixth day of that month and told nobody, and she has said more about the prices on a page nine miles up the road than anybody in this city and she has not said one word in this shop about a hand.
 
 "You were at the wharf."
 
@@ -78,7 +78,7 @@ She put her hand on the slate and left it there, and about four people in that m
 
 ---
 
-**And the man of about thirty-one stayed at that stall until the light went off the boards and did not pick the sack up and did not open it and about four people in that market had watched his hand and about nine of them had not, and the boards of that stall are the colour of the boards under them and the sack standing on them is going to leave a mark in about four days and about four people in this market have worked that out and about nine of them have not.**
+And the man of about thirty-one stayed at that stall until the light went off the boards and did not pick the sack up and did not open it and about four people in that market had watched his hand and about nine of them had not, and the boards of that stall are the colour of the boards under them and the sack standing on them is going to leave a mark in about four days and about four people in this market have worked that out and about nine of them have not.
 
 "You have been there since the fourth hour."
 
@@ -92,4 +92,4 @@ The light went off the boards of that stall and about four people were still at 
 
 ---
 
-**And a hand that opened once on the boards of a stall by a wharf, and a gap about the width of a person left standing behind the sack.**
+And a hand that opened once on the boards of a stall by a wharf, and a gap about the width of a person left standing behind the sack.

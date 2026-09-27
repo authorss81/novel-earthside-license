@@ -6,7 +6,7 @@ The store up the road past this city is open and there is no queue today, becaus
 
 ---
 
-**And this is the day a woman of about thirty-eight who keeps that gate said in a kitchen on the twenty-fourth day of the Long Month that she would be angry about it on, and it is the forty-eighth, and about nine people in this city had it in a book and about four of them had said the date out loud in the last three days to somebody who did not need it said.**
+And this is the day a woman of about thirty-eight who keeps that gate said in a kitchen on the twenty-fourth day of the Long Month that she would be angry about it on, and it is the forty-eighth, and about nine people in this city had it in a book and about four of them had said the date out loud in the last three days to somebody who did not need it said.
 
 Nobody went.
 
@@ -26,7 +26,7 @@ That is the whole of the first half of the forty-eighth day of the Long Month an
 
 ---
 
-**And a woman of about twenty-nine who keeps a public register, who came up the road on the same errand and for the same reason, wrote the two sentences down on a slate in the road outside that house in about four minutes, and read them back once and did not read them back twice, and then she said one more thing and put the slate down.**
+And a woman of about twenty-nine who keeps a public register, who came up the road on the same errand and for the same reason, wrote the two sentences down on a slate in the road outside that house in about four minutes, and read them back once and did not read them back twice, and then she said one more thing and put the slate down.
 
 "**I have written it. The day came and nobody went and she is the one who is in the house. I am going to take this slate to the room over the market and put it on the table where about two hundred and forty people saw the last one, and I am not going to improve it, and I am not going to read it out, and if anybody in this city wants to say that somebody ought to have gone, they can say it to a board and not to her.**"
 
@@ -38,7 +38,7 @@ The woman of about fifty-nine who keeps that house wrote it herself, on the step
 
 ---
 
-**And the household at the bottom of that cut is nine people poorer of a week's work than it was on the twenty-fourth day of the Long Month, and about four of them asked the woman of about fifty-nine who keeps it a question about a sack at about the eighth hour of the morning, and she gave them the only answer there is and it took her about four minutes.**
+And the household at the bottom of that cut is nine people poorer of a week's work than it was on the twenty-fourth day of the Long Month, and about four of them asked the woman of about fifty-nine who keeps it a question about a sack at about the eighth hour of the morning, and she gave them the only answer there is and it took her about four minutes.
 
 "**A sack came on the twenty-fifth. There is one due and I have not asked and about four of us have not asked. The days went back on the forty-first. Nobody in four hundred miles has worked out whether a thing that was given in exchange for days that have been given back is a thing that still comes, and the two of those sentences have been sitting in my kitchen since Monday morning and I have said them out loud to about four people this morning, which is the first time I have said either of them.**"
 
@@ -54,7 +54,7 @@ A woman of about twenty-nine who keeps a public register wrote it down on the se
 
 ---
 
-**And a woman of about thirty-eight who keeps that gate came down to the cut at about the ninth hour of the morning to work the channel beside about four people from the store she had said yes to the day before, and she had the board in her left hand and she did not put it down once, and she did not say one word to any of them about the forty-eighth day of the Long Month, or about the twenty-fourth, or about a year.**
+And a woman of about thirty-eight who keeps that gate came down to the cut at about the ninth hour of the morning to work the channel beside about four people from the store she had said yes to the day before, and she had the board in her left hand and she did not put it down once, and she did not say one word to any of them about the forty-eighth day of the Long Month, or about the twenty-fourth, or about a year.
 
 She worked. She is good at it and she has been doing it for nine years and about four people in this cut have said so since the twenty-fourth day of the Long Month and she has never once said so back.
 
@@ -62,7 +62,7 @@ A boy of eight was on the bank with nine feet of rope across his knees and eleve
 
 ---
 
-**And a man of about thirty-one with a hand that will not close came up that road at about the second hour of the afternoon with about four other people behind him, and he had walked eleven miles for the same reason as the rest of them and he stood at the top of the cut and looked down at about nine people working a channel with no water in it, and he said the only sentence anybody said on that road all day that anybody is going to remember.**
+And a man of about thirty-one with a hand that will not close came up that road at about the second hour of the afternoon with about four other people behind him, and he had walked eleven miles for the same reason as the rest of them and he stood at the top of the cut and looked down at about nine people working a channel with no water in it, and he said the only sentence anybody said on that road all day that anybody is going to remember.
 
 "**Two things have happened on this cut in six days. A household gave nine days of a week back, and a woman who keeps a gate has been angry for a year, and about nine people in this city have only been able to talk about one of them, and it is the one that does not cost anybody anything this week.**"
 
@@ -74,7 +74,7 @@ Nobody wrote them on the same line. A woman of about twenty-nine who keeps a pub
 
 ---
 
-**And at about the eleventh hour a man of about thirty-four who keeps a stall came up the road with about nine people behind him, and he had been told the same thing about that Monday by about four people on it, and he stood about nine feet back from the cut and said the sentence of the day, and it is five words and it is not about her.**
+And at about the eleventh hour a man of about thirty-four who keeps a stall came up the road with about nine people behind him, and he had been told the same thing about that Monday by about four people on it, and he stood about nine feet back from the cut and said the sentence of the day, and it is five words and it is not about her.
 
 "**Nobody went. Write it down.**"
 
@@ -84,7 +84,7 @@ Nobody wrote them on the same line. A woman of about twenty-nine who keeps a pub
 
 ---
 
-**And a man of about thirty-two stood on the bank above that cut on the Monday morning and did not come down to it, which is the second Monday in a row and the second time in seven days, and about four people in that group worked out who he was and about nine of them did not say anything, and he said one sentence to a man of about thirty-four who keeps a stall and neither of them improved on it afterwards.**
+And a man of about thirty-two stood on the bank above that cut on the Monday morning and did not come down to it, which is the second Monday in a row and the second time in seven days, and about four people in that group worked out who he was and about nine of them did not say anything, and he said one sentence to a man of about thirty-four who keeps a stall and neither of them improved on it afterwards.
 
 "You are not going either."
 
@@ -98,4 +98,4 @@ And it is entered that the man of about thirty-two said three hundred days, and 
 
 ---
 
-**And a board with a date washed onto the top of it, three dates under that, no rota on it, and a wet cloth hanging off the rail beside it, and nobody's hand on the cloth.**
+And a board with a date washed onto the top of it, three dates under that, no rota on it, and a wet cloth hanging off the rail beside it, and nobody's hand on the cloth.
