@@ -132,7 +132,9 @@ He was at the stair when the man of about fifty-seven said it.
 
 "**Then you have been in six rooms and not one of them, and I am not going to be thanked and I am not going to be talked to on a stair, and there is a cloth in my hand and it is going down in my coat and that is the whole of what I have done today.**"
 
-I would like it said that the word was on that slate for thirty-two days. On the fifty-fifth day of the Short Month it was the only page in four hundred miles that could not be shown to anybody, and there has not been one since, and that is the whole of what a man with a cloth in his hand has bought with it.
+**I would like it said that the word was on that slate for thirty-two days. On the fifty-fifth day of the Short Month it was the only page in four hundred miles that could not be shown to anybody, and there has not been one since, and that is the whole of what a man with a cloth in his hand has bought with it.**
+
+He was on the fourth of nine steps with the cloth in his hand and nobody in that room stopped him, and about four people in that room worked out since that a man who has said out loud what a thing cost him has not said who paid it, and that nobody in that room is going to ask him.
 
 "You put it there in the first place."
 

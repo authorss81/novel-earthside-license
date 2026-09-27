@@ -88,7 +88,9 @@ The man of about fifty-seven put his hand flat on the table and left it there, a
 
 The room had gone very quiet in the way a room goes quiet when a man has been about to say the rest of a thing and has not said it, and about four people in it worked out at the same moment that the rest of it was a thing he was not going to say here, and that about nine people in this city who have been in nine rooms have each got one of those, and that this is the first one anybody in four hundred miles has heard the end of.
 
-I am not going to tell the room what I stood there for and the room is not going to ask me.
+**I am not going to tell the room what I stood there for and the room is not going to ask me.**
+
+The barrow was still at the bottom of the stair where he had left it and had not been brought in past the step, and about four people in that room worked out at the same moment that a man who has said out loud that he is not going to tell a room a thing has not touched the thing, and that those two took about four seconds each and neither of them is the other.
 
 "Did anybody see you."
 

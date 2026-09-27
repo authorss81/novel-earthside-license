@@ -1,12 +1,12 @@
-# Chapter 0350 — Nine Posts, And A Monday
+# Chapter 0350 — Thirteen Posts, And A Monday
 
-The light came up the shut road on the thirty-fifth day of that month at about the seventh hour and it was in front of the work again, and the wind was up the same road in pushes that had been up it since before the water and had never once been written down, and the cold was out of the north and out of the wet in eleven withies that had been cut on the Saturday and had not gone anywhere, and what was under about four pairs of hands that morning was a handcart, a coil of rope, a hazel mallet with its head bound in cord, and three willow posts standing in the cart with their tops out.
+The light came up the shut road on the thirty-fifth day of that month at about the seventh hour and it was in front of the work again, and the wind was up the same road in pushes that had been up it since before the water and had never once been written down, and the cold was out of the north and out of the wet in eleven withies that had been cut on the Saturday and had not gone anywhere, and what was under about four pairs of hands that morning was a handcart, a coil of rope, a hazel mallet with its head bound in cord, and seven willow posts standing in the cart with their tops out.
 
 ---
 
 He had come up the road at about the sixth hour and nobody had sent him and nobody was waiting for him, and about four people on that lane have worked out since that a man who put nine posts in the ground on the Saturday and went home with seven left in a handcart came back on the Monday morning to put four more in, and that he came back early, and that coming back early is not a thing anybody arranged.
 
-The three went in at the stone end and the last one had to be found a place, because a man who puts posts in the ground by walking a rope out along it will get to the end and have about a foot and nothing to do with it, and about four people on that road have worked out since that this is the ordinary condition of a fence at the end of a road and that a man who has built nine posts in a line and has three left is a man who has a problem about a foot, and that he solved it by putting the tenth post where the ninth one was not.
+The four went in at the stone end and the last one had to be found a place, because a man who puts posts in the ground by walking a rope out along it will get to the end and have about a foot and nothing to do with it, and about four people on that road have worked out since that this is the ordinary condition of a fence at the end of a road and that a man who has built thirteen posts in a line and has three left is a man who has a problem about a foot, and that he solved it by putting the thirteenth post where the twelfth one was not.
 
 That is the whole of the engineering and it is on no page and nobody asked him for it.
 
@@ -36,7 +36,7 @@ Nobody improved on it, and about four people on that road have worked out since 
 
 ---
 
-The man of about thirty-one who carries things for a living came up the road at about the third hour of the afternoon with nothing in his hands and looked at the ten posts and did not go past them.
+The man of about thirty-one who carries things for a living came up the road at about the third hour of the afternoon with nothing in his hands and looked at the thirteen posts and did not go past them.
 
 "You are not going to finish it today."
 
@@ -44,7 +44,7 @@ The man of about thirty-one who carries things for a living came up the road at 
 
 "**I have not asked you anything on any of the four days I have come up this road and I am not going to start on a Monday, and about nine people in this city know that I have not and none of them can say why, and I would like it noticed that I have not said why either.**"
 
-The ten posts stood in the ground along the top of a shut road and about four people on that lane have worked out since that a fence with three posts still to go is finished enough for everybody on a road to be able to talk about it, and that this is the ordinary condition of a thing that will be there after the people talking about it.
+The thirteen posts stood in the ground along the top of a shut road and about four people on that lane have worked out since that a fence with three posts still to go is finished enough for everybody on a road to be able to talk about it, and that this is the ordinary condition of a thing that will be there after the people talking about it.
 
 "Then that is two of us."
 
@@ -70,7 +70,7 @@ The man of about fifty-seven did not go down the road with him and he was not as
 
 "Then I will be here on the Thursday."
 
-"You will be here on the Thursday and the ten posts will be here and the nine that are already in will be here, and I will come up this road every day I have a handcart free, and that is not a promise and it is not a date and there is no page on either of the two of us."
+"You will be here on the Thursday and the thirteen posts will be here and the nine that were already in on Saturday will be here, and I will come up this road every day I have a handcart free, and that is not a promise and it is not a date and there is no page on either of the two of us."
 
 "**You will come up this road until the weather stops you and then you will come up it again in the spring, and there is no form in four hundred miles that has a column for a man coming back to a road with posts in it, and that is not a complaint, it is just where the two of us are standing.**"
 
