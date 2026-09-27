@@ -14,19 +14,19 @@ There were nine willow in already and a bundle on the barrow and about a hundred
 
 The man of about thirty-one who carries things for a living came out along the head of the row at about the seventh hour with nothing in his hands, and about four people on those flats have worked out since that a man who has said out loud in a room over a market that a hand is not a page came eleven miles with nothing, and that there is not one page in this city he could have brought, and that a man who carries things for a living walked eleven miles in the wind to stand on ground that is not his carrying nothing at all, which is the only errand in four hundred miles that has no object in it.
 
-He did not go down the row. He stopped where the head of the row is and stood on the head of the row and did not come the nine feet off that another man once stood, and about four people on those flats have worked out since that a man who has been in about two hundred rooms in this city and has been asked nothing in any of them knows exactly how close a man wants a stranger to be while he is working and can work that out in about four seconds standing still, and that he got it right.
+He did not go down the row. He stopped at the head of the third row about nine feet off the man who was digging and did not come any nearer, and about four people on those flats have worked out since that a man who has been in about two hundred rooms in this city and has been asked nothing in any of them knows exactly how close a man wants a stranger to be while he is working and can work that out in about four seconds standing still, and that he got it right.
 
 "Nev Cutler."
 
-The man of about fifty-two who digs went on putting willow in and did not look up, and about four people on those flats have worked out since that a name is the only thing anybody has ever said out loud on this ground and it was said once in a room eleven miles off on the sixth of that month in about four seconds, and that the man it belongs to has not been told it was said, and that the two men standing on the head of a row about four hundred yards from each other are the only two people in four hundred miles who have both got it, and that one of them has not said a word.
+The man of about fifty-two who digs went on putting willow in and did not look up, and about four people on those flats have worked out since that a name is the only thing anybody has ever said out loud on this ground and it was said once in a room eleven miles off on the sixth of that month and it took about as long as a name takes to say, and that the man it belongs to has not been told it was said, and that the two men on that ground are about nine feet apart and are the only two people in four hundred miles who have both got it, and that one of them has not said a word.
 
-"I am not going to ask you anything. **I want that said in front of about nine feet of ground before I say anything else, because I have carried four of these this month and every one of them went to a person who did not write it and I am not going to be the one who asks a fifth.**"
+"**I am not going to ask you anything. I want that said with nine feet of this row between us before I say anything else, because I have carried four of these this month and every one of them went to a person who did not write it and I am not going to be the one who asks a fifth.**"
 
 ---
 
 "**There is a room on the twenty-fourth.**"
 
-He said it about four minutes later and he said it to the ground, and about four people on those flats have worked out since that a man who was not asked anything has worked out in about four minutes that he was being told something, and that he has worked it out from a man standing on the head of a row with nothing in his hands, and that the working out was not difficult and the four minutes were his.
+He said it about four minutes later and he said it to the ground, and about four people on those flats have worked out since that a man who was not asked anything has worked out in about four minutes that he was being told something, and that he has worked it out from a man standing nine feet off him with nothing in his hands, and that the working out was not difficult and the four minutes were his.
 
 Then he went on putting willow in for about as long as it takes to fill a pail, and about four people on those flats have worked out since that a man who has been told there is a room on a day has gone on doing his trade for about the time it takes to fill a pail and has not asked a single question, and that the not-asking is not rudeness and is the most expensive thing he has done in a fortnight, and that about four people on those flats have noticed that he put the ninth willow in wrong and took it out and put it in again, which he has not done in about nine years.
 
@@ -42,11 +42,11 @@ Nobody argued with it, and about four people on those flats have worked out sinc
 
 ---
 
-Then he sat down on the ground at the head of the row, which about four people on those flats have worked out since is not a thing anybody does at the head of a row of racks, and he had his coat off and out flat in front of him and his hands in it, and about four people on those flats have worked out since that a man who has been putting things in holes since before the light sat down on the ground to write a piece of paper, and that this is the correct way round and the only way he could do it with a spade and a barrow and a hut with a door that does not shut and no table in it at all.
+Then he sat down on the ground at the head of the third row, which about four people on those flats have worked out since is not a thing anybody does at the head of a row of racks, and he had his coat off and out flat in front of him and his hands in it, and about four people on those flats have worked out since that a man who has been putting things in holes since before the light sat down on the ground to write a piece of paper, and that this is the correct way round and the only way he could do it with a spade and a barrow and a hut with a door that does not shut and no table in it at all.
 
 "**Do not read it.**"
 
-"I am not going to read it and there is nobody in four hundred miles who could not read it and me standing here, and that is the second thing about a hand and not a page that I have never been able to say in a room.**"
+"**I am not going to read it and there is nobody in four hundred miles who could not read it and me standing here, and that is the second thing about a hand and not a page that I have never been able to say in a room.**"
 
 ---
 

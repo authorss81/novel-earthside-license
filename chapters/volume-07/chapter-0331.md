@@ -66,7 +66,7 @@ She said it to the table and not to the man, and about four people in that room 
 
 The man of about twenty-five looked at her for the first time that morning.
 
-"**That is the first useful thing anybody has said in this city about a piece of paper, and it is nine months old, and I have not said it back and I am not going to.**"
+"**That is the first useful thing anybody has said in this city about a piece of paper, and it is nine years old, and I have not said it back and I am not going to.**"
 
 Nobody in that room said anything about that, and two people in this city have said out loud, in the same room, on the same morning, that a thing is nine years old and is theirs and is not going to be argued about, and one of them said it to a sheet of road and the other to a person, and that the fracture between them is a month old and is not in this room and is not going to be mended in this room, and that nobody apologised in it and nobody was going to and it was not a fault and nobody in that room has ever thought it was one.
 

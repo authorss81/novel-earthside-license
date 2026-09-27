@@ -14,13 +14,13 @@ Nobody asked him, and about four people in that room have worked out since that 
 
 "**Yes. That is the whole of it and it took me about nine seconds and I have not said the word to anybody else in this city and I am saying it to about nine people in a room with a date on the door, and I would like the room to notice the order of those two things.**"
 
-He said it before anybody had sat down properly, and a man who says yes in the first nine seconds of a morning has been carrying the yes with him and has not needed a room to make it in, and the four days he has had were not for deciding and were for carrying.
+He said it before anybody had sat down properly, and a man who says yes before a room has finished sitting down has been carrying the yes with him and has not needed a room to make it in, and the four days he has had were not for deciding and were for carrying.
 
 ---
 
 Then he got up and did the skylight.
 
-Nobody asked him to and about four people in that room have worked out since that this city has had a window in a room over a market that had not shut for nine years until a man with a stiff knife took the catch off it in about four minutes with a knife and his thumbnail, and that the room over a market has had a shut window for about four days now and about four people in that room know why and nobody has ever said it out loud in either room, and that a man who has fixed one has come to a second one and has not asked whether the second one is wanted.
+Nobody asked him to and about four people in that room have worked out since that this city has had a window in a room over a market that had not shut for nine years until a man with a stiff knife took the catch off it on the thirteenth, and that the room over a market has had a shut window for about four days now and about four people in that room know why and nobody has ever said it out loud in either room, and that a man who has fixed one has come to a second one and has not asked whether the second one is wanted.
 
 The catch on that frame had not moved since before the water and the frame itself had moved, because the roof had, and that is what about four people in that room had been calling a draught for about nine days without ever having a word for it. It took him about four minutes. He used the knife and his thumbnail and a length of tarred twine and he did not ask anybody for a tool and about four people in that room have worked out since that a man who can find a screw in a frame he has never worked on is a man who has done it a great many times and that the second time is always faster than the first and it was.
 
@@ -70,11 +70,15 @@ He did not say anything else about the stones and about four people in that room
 
 ---
 
-The man of about thirty-one who carries things for a living was at the back of the room and had not sat down at any point in nine hours, and he had carried the third of these four out on the Sunday and had not read it and had told nobody he had not read it, and this morning the man of about forty-eight said yes in about nine seconds and did not say what was on the sheet, and that the two men are a carrier and a person and there is no arrangement between them and neither of them suggested one.
+The man of about thirty-one who carries things for a living was at the back of the room and had not sat down at any point in nine hours, and he had carried the third of these four out on the Sunday and had not read it and had told nobody he had not read it, and this morning the man of about forty-eight said yes before he had sat down and did not say what was on the sheet, and that the two men are a carrier and a person and there is no arrangement between them and neither of them suggested one.
 
 He came forward at about the fourth hour of the afternoon and asked one question, which was whether the catch on the skylight was going to be oiled by somebody or left, and about four people in that room have worked out since that a man who carries things for a living has spent nine hours in a room and the one thing he took out of it was about a catch, and that he is the only person in four hundred miles whose trade is a thing being in the right place by the time it is wanted, and that a catch that will not be oiled is a catch that will be found by somebody else in about a year and paid for by somebody else.
 
-"Nobody is going to oil it. **And I am not asking you to and I am not telling you not to, and I will tell you why there is a difference: an oiled catch is a thing somebody did and it goes in a book, and a catch that gets a drop of oil off a hinge because somebody was on a ladder is a thing somebody did and it goes nowhere, and there are about nine of the second kind in this city this week and nobody in four hundred miles can ask for any of them.**"
+"**Nobody is going to oil it. And I am not asking you to and I am not telling you not to, and I will tell you why there is a difference.**"
+
+He did not look up when he said it, and about four people in that room have worked out since that a man who carries things for a living has put a question and taken it back in the same breath, and that the taking back was the answer and that he had not been asked it twice.
+
+"**An oiled catch is a thing somebody did and it goes in a book, and a catch that gets a drop of oil off a hinge because somebody was on a ladder is a thing somebody did and it goes nowhere, and there are about nine of the second kind in this city this week and nobody in four hundred miles can ask for any of them.**"
 
 Nobody improved on that, and a man who has said out loud in a room over a market that a hand is not a page has just told a room that the work of this flood is being kept in hinges and in boots and in a window on a road, and it is not going anywhere, and that this is the second time this month he has said it and both times he has said it to about nine people who will not write it down.
 

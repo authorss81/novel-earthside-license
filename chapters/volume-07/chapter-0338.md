@@ -18,7 +18,7 @@ The pails went through and came back at the fourth hour with the ground colour o
 
 "The twenty-third day of the Bare Month."
 
-He said it to the boy's back, the way he has said it about nineteen times, and about four people on that road have worked out since that a man who holds gates on a turn began saying the day out loud at this gate on the fourth day of that month and has said it every day since, and that he said the first one to a child carrying water because the child was the only person on that road who could not be asked to keep a page about it.
+He said it to the boy's back, the way he has said it about nineteen times, and about four people on that road have worked out since that a man who holds gates on a turn began saying the day out loud at this gate on the fifth day of that month and has said it every day since, and that he said the first one to a child carrying water because the child was the only person on that road who could not be asked to keep a page about it.
 
 The boy put the yoke up on his shoulder inside the gate and turned round.
 

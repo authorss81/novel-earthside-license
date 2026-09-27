@@ -16,7 +16,7 @@ The room did not make a sound and about four people in that room have worked out
 
 ---
 
-What Jonah Pike proposed took him four minutes and it was a good thing and it was correct, and a man who has been wrong about one thing in ten for about nine months got this one right in four minutes, and what he proposed was that the man of about fifty-seven should write out in his own hand what he had paid for and what he could not show anybody, and put his own name at the top of it, and that the sheet should be the one kind of page in four hundred miles that a person in a house four hundred miles inland can ask to have produced, and that everything in this city that settles anything is that kind of page and nothing else has ever settled anything.
+What Jonah Pike proposed took him four minutes and it was a good thing and it was correct, and a man who has been wrong about one thing in ten for as long as anybody in this city has been able to check got this one right in four minutes, and what he proposed was that the man of about fifty-seven should write out in his own hand what he had paid for and what he could not show anybody, and put his own name at the top of it, and that the sheet should be the one kind of page in four hundred miles that a person in a house four hundred miles inland can ask to have produced, and that everything in this city that settles anything is that kind of page and nothing else has ever settled anything.
 
 The man of about fifty-seven let him finish and then he took the rope off his arm and put it on the table.
 
@@ -46,7 +46,7 @@ Jonah Pike took the copy back and did not fold it, and a man who came into a roo
 
 "**And the winter. And the winter is mine and I have paid for it and I am not going to be argued out of it, and I would like it said in this room that a man who is right about the winter and right about the name has just given up the only instrument that would have got the winter back, and that both of those things happened in about four minutes and in one room and neither of them was arranged.**"
 
-Nobody wrote that down, and a woman in this city has spent a fortnight asking for things to be entered in a room and not in a book, and the man who asked for this one is the only person in about nine days who has wanted a thing put on a page and then been told no by a man who was right, and that the reason nobody wrote it down is not that it does not deserve a page.
+Nobody wrote that down, and a woman in this city has spent a fortnight asking for things to be entered in a room and not in a book, and the man who asked for this one is the only person in about nine days who has wanted a thing put on a page and then been told no by a man who was right, and that the reason nobody wrote it down is not that it does not deserve a page, and not that anybody in that room thought it was settled, and that the reason is that a thing said in a room in daylight with about nine people in it has nowhere to go afterwards, and that this room has known that for a fortnight, and that nobody in it said so.
 
 ---
 

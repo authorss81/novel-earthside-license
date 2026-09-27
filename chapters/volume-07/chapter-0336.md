@@ -32,7 +32,7 @@ He washed it. He started at the top left corner and went along the top and came 
 
 Then he put the pail down and looked up at the wall.
 
-**That is the whole of what he did not do and he did not do it the way a man does a thing he has decided not to do, which is quickly.** The wall above that board is the wall the posting is on, and the posting went up on a wall in this city about a hundred and thirty days ago with nine lines on it, and eight of them cannot be read from the ground, and the ninth is the only one anybody can.
+That is the whole of what he did not do and he did not do it the way a man does a thing he has decided not to do, which is quickly. The wall above that board is the wall the posting is on, and the posting went up on a wall in this city about a hundred and thirty days ago with nine lines on it, and eight of them cannot be read from the ground, and the ninth is the only one anybody can.
 
 "I am not going to be asked about that wall."
 
@@ -66,4 +66,4 @@ Two brooms were on their boards against the end wall where they had been since b
 
 ---
 
-The cloth went into the pail and the pail went through the door and the board stood there with four figures on it and nothing else and the wall above it stood with whatever is on it on it, and a board in this city has now not been written on for longer than it takes a man to wash it, and the man who washes it has said out loud this morning that he is not going to be the reason it looks like anything, and that the two of those facts have been true for a fortnight and that this morning is the first one of them that has been said out loud in the open air on a road nine miles up a hill, and that a woman who folds a sheet of road in the same way every time stood in the yard and did not ask, and that the not-asking was hers and was about nine seconds long and he has not noticed it and there was no date on anything in the yard for either of them to put it on.
+The cloth went into the pail and the pail went through the door and the board stood there with four figures on it and nothing else and the wall above it stood with whatever is on it on it, and a board in this city has now not been written on for longer than it takes a man to wash it, and the man who washes it has said out loud this morning that he is not going to be the reason it looks like anything, and that the two of those facts have been true for a fortnight and that this morning is the first one of them that has been said out loud in the open air on a road nine miles up a hill, and that a woman who folds a sheet of road in the same way every time stood in the yard and did not ask, and that the not-asking was hers and took about as long as a woman takes to decide not to ask, and he has not noticed it and there was no date on anything in the yard for either of them to put it on.
