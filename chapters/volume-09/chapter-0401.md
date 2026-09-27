@@ -16,7 +16,7 @@ Nobody in that room watched him turn it over. About four people in this city hav
 
 "You have brought it up the road."
 
-"**I have brought it up the road, and it came in the satchel the return came in on the fifty-first day of this flood, and it came off the same round, and the hand at the top of it is not a hand anybody in this city writes.**"
+"**I have brought it up the road, and it came in the satchel the return came in on the three hundred and fifty-first day of this flood, and it came off the same round, and the hand at the top of it is not a hand anybody in this city writes.**"
 
 She did not look at the satchel. She looked at the sheet, face down, and there was a bone mark down each of two creases and a third line pressed across the paper that was not a fold in half.
 
@@ -62,7 +62,7 @@ She turned the sheet over at about the eighth hour and read the heading and did 
 
 The man of about thirty-one who carries things for a living watched her read it and then he took his hand off the satchel.
 
-"I have carried five of these in a coat and a return in a satchel on the fifty-first day of this flood and this one, and I have not opened one of the seven of them, and I am not going to open this one either, and you can put that on the table or you can leave it off, and I would rather you left it off."
+"I have carried five of these in a coat and a return in a satchel on the three hundred and fifty-first day of this flood and this one, and I have not opened one of the seven of them, and I am not going to open this one either, and you can put that on the table or you can leave it off, and I would rather you left it off."
 
 "I am not going to write it in the book."
 

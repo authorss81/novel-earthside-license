@@ -12,7 +12,7 @@ The hurdle in the bottom of the barrow is one he made and the bar across the top
 
 The fence is sixteen willow posts cut in a copse about four miles the other way, and eleven withies bound along it with the same cord that is on the head of the mallet in the cart behind him. Nine of the posts went into the ground on a Saturday, which is the three hundred and forty-eighth day of this flood. Four more went in on the Monday after that, which is the three hundred and fiftieth day, and that made thirteen. The last three went in on the Thursday after that, which is the three hundred and fifty-third day, and there has not been a seventeenth and nobody in four hundred miles has said there is going to be one.
 
-A man of about fifty-seven has walked the whole length of that fence more than once with his hand flat on every post and got sixteen both times, and has said the figure out loud to nobody on a shut road, and has never once been asked how he knew it, and is not going to be. A man of about sixty put it up, was not sent for, and nobody is going to ask him about it either.
+A man of about fifty-seven has gone that fence end to end more than once with his palm flat on every post as he went and got sixteen both times, and he has said the figure out loud to nobody on a shut road, and nobody has ever put the question to him of how he came by it, and nobody is going to. A man of about sixty put it up, was never sent for, and nobody is going to ask him about that either.
 
 There are about four hundred paces between that fence and a mark in a field, and about four feet is a number a man of about sixty has in his mouth and it is not a number he took off anything, and nobody in this flood is going to that field and the mark has no word on any page in the world.
 
@@ -24,7 +24,7 @@ They had not asked each other anything for about a fortnight and neither of them
 
 "Nobody is going to ask you."
 
-"**Nobody is going to ask me, and there are three people on this road and I have not been asked one question on it in nine years, and I am not going to ask about the fence and I am not going to be asked about the fence, and I would like it said out loud on a shut road that a man has seen three people go by and has not asked and is not going to.**"
+"**Nobody is going to ask me, and there are three people on that road, and in nine years of walking it nobody has put one question to me, and I am not going to ask about the fence and nobody is going to ask me about the fence, and I would like it said out loud, here, on a shut road, that a man has watched three people go past him and has not asked them one thing and is not going to.**"
 
 He said it to his barrow. The man of about fifty-nine does not address people, and a man who has walked a road four hundred miles long with nobody on it until the three of them came up it has nobody to address, and the only thing on that road that can hear him is the thing he is holding.
 
@@ -54,7 +54,7 @@ He put his hand flat on the top of the sixteenth post on his way past and did no
 
 ---
 
-Then the man of about fifty-nine picked his barrow up off the low side and went back down the road he had come up, and he did not stop at the fence and he did not look at it on the way past, and the light came up the road from the low ground behind the trees and stopped at the fence and did not come over.
+Then the man of about fifty-nine shouldered his barrow off the low side and went back down the road he had come up on, and he did not halt at the fence and he did not look at it going past, and the light came up the road from the low ground behind the trees and stopped at the fence and did not come over.
 
 Sixteen posts and eleven withies, and the man who built them was not sent, and nobody standing in front of that fence has been asked a single question about any of it, and none of that has changed in fifty days.
 

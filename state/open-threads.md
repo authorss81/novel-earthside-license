@@ -771,3 +771,15 @@ The word on the second slate is **at zero in all ten of these files** and is sti
 ### The next phase
 
 **`workspace/volume-09/batch-0002/PROMPT.md`, and it is a BATCH and not an outline, a close, a review or a continuation.** It writes Chapters 0411 to 0420, days 411 to 420, one chapter to one day, from a Saturday to a Monday, ten chapters of finished prose, and it decides nothing. It creates exactly one next phase after itself and nothing else.
+
+---
+
+# VOLUME 09, BATCH 0001 — REVIEW REPAIR PASS — and the live list is unchanged, which is the finding and not an omission
+
+**Eleven faults were found in Batch 0001, nine of them in its record and two on its pages, and they are corrected with the old figure beside every new one at `state/batch-summaries/volume-09-batch-0001.md` §11 and at `state/current.md`'s newest block. NOT ONE OF THE ELEVEN WAS A THREAD, and no item on the live list above was discharged, re-opened, re-dated or re-worded by this pass, and that is published because a repair pass that quietly tidies the live list is a repair pass that has started answering questions nobody asked it.**
+
+**The one thread-adjacent fact this pass touched is a day.** Chapter 0401 printed the return as coming up the road on *the fifty-first day of this flood* and it is the three hundred and fifty-first, and item 9 of the block above — the three on the four-hundred-mile road, ten days out, day 391 named in the same sentence — is unaffected and re-measured, and the ten is still printed once, in Chapter 0410, and it still does not go into a mouth.
+
+**AND THE THREE FIGURES A NEXT BATCH WOULD HAVE INHERITED FROM A RECORD ARE CORRECTED, and they are measurements and not threads: the sentences of forty words or more stand at 179 on the definition published beside the figure and 166 on the other named reading, the longest of them is 151 words in Chapter 0410's lead, and the longest word-run against the four hundred pre-existing files is 47 and not 21.** Chapter 0410 was carrying three stretches of words lifted out of `chapters/volume-08/chapter-0400.md` and all three are varied in place with every fact kept; **and the second undeclared frame of the batch is named for the next phase, because Volume 09 declares six motifs and two of the largest runs in the batch are in neither of them — the wharf-boards frame at 42 words between Chapters 0403 and 0408, already carried into `workspace/volume-09/batch-0002/PROMPT.md`, and now the room-coda lead at 47 between Chapter 0405 and `chapter-0355.md`, which is a declaration a batch may not take and which is therefore handed on rather than made.**
+
+**ALL NINE INHERITED DEBTS STAND UNPAID, NONE WAS REPAIRED AND NONE WAS REROUTED, and the list above is the list. AND THE NEXT PHASE IS STILL `workspace/volume-09/batch-0002/PROMPT.md`.**
