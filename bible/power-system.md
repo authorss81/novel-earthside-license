@@ -954,6 +954,95 @@ These are additions to the sections above, not replacements, and they are on the
 
 ---
 
+## 33A. THE MONTH MAP, THE SIXTH FORM, AND THE INTERVAL ANCHORS FOR DAYS 301 TO 350 — decided by the Volume 07 outline phase
+
+**This section was added by the Volume 07 outline phase, which is the second phase in this repository permitted to make a decision, and it is the calendar for the whole of Volume 07. It is a decision of an outline phase and it is entered here in numbered subsections so that a batch may not make it and a later writer may check it in one place. Every day figure in it is derived from the two founding figures and from nothing else. §§1 to 32 are not changed. §33 IS NOT CHANGED, and its five forms, its weekday anchors, its fourth-form amendment and its interval table all stand exactly as the Volume 06 outline phase wrote them. §§34 to 40 are not changed. §§41 to 45 are RESERVED for the five Volume 07 batches, one per ten chapters, and the outline phase wrote no chapter, so they do not exist yet and this section is not one of them.**
+
+1. **THE MONTH MAP, COMPLETE, AND IT IS THE ONLY THING A DAY MAP MAY BE BUILT ON.** Six months of the flood are now accounted for and five of them have a form:
+
+   | The month of the flood | Days | Length | Name on a page | Form and its range |
+   |---|---|---|---|---|
+   | the first | **1–25** | — | none | *the Nth day of this flood*, 1–40 |
+   | the second | **26–90** | — | *the new month* | *the Nth day of the new month*, N = day − 25 |
+   | the third | **91–155** | — | *the month after this one* | *the Nth day of the month after this one*, N = day − 90 |
+   | the fourth | **156–255** | a hundred days | **the Long Month** | *the Nth day of the Long Month*, N = day − 155 |
+   | the fifth | **256–315** | sixty days | **the Short Month** | *the Nth day of the Short Month*, N = day − 255 |
+   | the sixth | **316–** | **of no stated length** | **the Bare Month** | *the Nth day of the Bare Month*, N = day − 315 |
+
+   **TWO FAULTS THIS MAP EXISTS TO STOP, AND BOTH HAVE BEEN PAID FOR IN THIS REPOSITORY.** First, **the fourth month is the Long Month and not the fifth.** `state/volume-06-close.md` §7.1, in the sentence that repaired the Chapter 0300 page fault, calls the Long Month *the fifth month*; by the map in that same file's §4 and by the map above, the second month is the new month, days 26 to 90, the third is days 91 to 155, and the Long Month at days 156 to 255 is the **fourth**. That file's arithmetic about the second month is right and its ordinal for the Long Month is out by one. **The map above is the map both files agree on and the map above is the one.** Second, and therefore: **NO CHAPTER IN THIS MANUSCRIPT MAY USE AN ORDINAL FOR A MONTH.** Not *the second month*, not *the fourth month*, not *the fifth month*, not *the sixth month*. The only two instruments that cannot be got wrong are a count of days of the flood and a named month with its own form, and the four that carry an ordinal are *this flood*, *the new month*, *the month after this one*, *the Long Month* and *the Short Month* — of which only the last two are named. **March is a month and is never a date number.** *Never* *of this month*, *of the month*, *of next month*, *of this new month*, or a form like *the last day of the month before this one*.
+
+2. **THE SIXTH FORM IS *THE NTH DAY OF THE BARE MONTH*, THE NTH BEING DAY 315 + N, FROM DAY 316, AND THE MONTH HAS NO STATED LENGTH.** The Short Month is sixty days and ends on **day 315, a Monday, which is its sixtieth day.** The Bare Month begins on **day 316, a Tuesday.** The name, the reason, the refusal that precedes it and the reason for the refusal are given on a page in a room, in daylight, with a date on it, by a person, in **Chapter 0316**, and in no other chapter and in no other file, and the person is **Sera Vail, a notary of fifty, twenty-six years a notary**, who named the Short Month on day 256 on the same reasoning and who says the cost out loud first and who is refused by a person before she does it.
+
+   **AND NO LENGTH IS STATED, AND THAT IS THE DECISION INSIDE THE DECISION.** §33.2 records that the Long Month was a hundred days and that nobody ever said it was sixty-five, because a notary registered a span on the pattern of the two months she could see and the month did not stop at the end of the pattern. **The Bare Month is registered with no span at all: the notary names it and declines to say how long it is, and says why, and the reason is hers.** Consequences, and they bind: a chapter may write an ordinal for any day of it; **no chapter may say what the month does at its end, how many days it has, or whether it is long or short**; and a later volume that needs a sixth month form may not assume this one has sixty days in it or a hundred. **A named month of no stated length is the cheapest protection in this section and it costs one sentence in a notary's mouth.**
+
+3. **THERE ARE NOW FOUR MONTH NAMES IN THIS WORLD AND NOT TWO, and that is a change to a fact registered at `outline/volume-04.md` §14, made here and on a page in Chapter 0316 and not by narration: *March*, *the Long Month*, *the Short Month*, *the Bare Month*.**
+
+4. **A WEEKDAY IS A FIGURE, DAY 1 IS A TUESDAY, AND EVERY WEEKDAY IN DAYS 301 TO 350 IS DERIVED BY ARITHMETIC AND NEVER FROM A NEIGHBOURING CHAPTER, A CARD, A DAY MAP OR A STATE FILE.** **Day 300 is a Sunday, which is on the founding rule and on the page of Chapter 0300, and therefore day 301 is a Monday.** Day 315 is a Monday and day 316 is a Tuesday. Day 350 is a Monday. **The run, all fifty, and every one of them was recomputed from day 1 and from nothing else and the run was validated by recomputing days 251 to 300 out of the same two founding figures and reproducing §33.5's published run before it was used on any day of this volume's own:**
+
+   | Ch | Day | Weekday | Month day | Ch | Day | Weekday | Month day |
+   |---|---|---|---|---|---|---|---|
+   | 0301 | 301 | Monday | SM 46 | 0326 | 326 | Friday | BM 11 |
+   | 0302 | 302 | Tuesday | SM 47 | 0327 | 327 | Saturday | BM 12 |
+   | 0303 | 303 | Wednesday | SM 48 | 0328 | 328 | Sunday | BM 13 |
+   | 0304 | 304 | Thursday | SM 49 | 0329 | 329 | Monday | BM 14 |
+   | 0305 | 305 | Friday | SM 50 | 0330 | 330 | Tuesday | BM 15 |
+   | 0306 | 306 | Saturday | SM 51 | 0331 | 331 | Wednesday | BM 16 |
+   | 0307 | 307 | Sunday | SM 52 | 0332 | 332 | Thursday | BM 17 |
+   | 0308 | 308 | Monday | SM 53 | 0333 | 333 | Friday | BM 18 |
+   | 0309 | 309 | Tuesday | SM 54 | 0334 | 334 | Saturday | BM 19 |
+   | 0310 | 310 | Wednesday | SM 55 | 0335 | 335 | Sunday | BM 20 |
+   | 0311 | 311 | Thursday | SM 56 | 0336 | 336 | Monday | BM 21 |
+   | 0312 | 312 | Friday | SM 57 | 0337 | 337 | Tuesday | BM 22 |
+   | 0313 | 313 | Saturday | SM 58 | 0338 | 338 | Wednesday | BM 23 |
+   | 0314 | 314 | Sunday | SM 59 | 0339 | 339 | Thursday | BM 24 |
+   | 0315 | 315 | **Monday** | **SM 60** | 0340 | 340 | Friday | BM 25 |
+   | 0316 | 316 | **Tuesday** | **BM 1** | 0341 | 341 | Saturday | BM 26 |
+   | 0317 | 317 | Wednesday | BM 2 | 0342 | 342 | Sunday | BM 27 |
+   | 0318 | 318 | Thursday | BM 3 | 0343 | 343 | Monday | BM 28 |
+   | 0319 | 319 | Friday | BM 4 | 0344 | 344 | Tuesday | BM 29 |
+   | 0320 | 320 | Saturday | BM 5 | 0345 | 345 | Wednesday | BM 30 |
+   | 0321 | 321 | Sunday | BM 6 | 0346 | 346 | Thursday | BM 31 |
+   | 0322 | 322 | Monday | BM 7 | 0347 | 347 | Friday | BM 32 |
+   | 0323 | 323 | Tuesday | BM 8 | 0348 | 348 | Saturday | BM 33 |
+   | 0324 | 324 | Wednesday | BM 9 | 0349 | 349 | Sunday | BM 34 |
+   | 0325 | 325 | **Thursday** | BM 10 | 0350 | 350 | **Monday** | BM 35 |
+
+   **Days 301 to 315 are the forty-sixth to the sixtieth day of the Short Month and the Nth is the day less 255. Days 316 to 350 are the first to the thirty-fifth day of the Bare Month and the Nth is the day less 315.** The volume's midpoint is day 325, a Thursday; its climax is day 342, a Sunday; its resolution is day 346, a Thursday; **and its first and last days are both Mondays with forty-nine days and a hand in a cloth between them.**
+
+5. **THE INTERVAL ANCHORS FOR DAYS 301 TO 350, extending item 6 above in the same order and in the same numbered form, and every one of them is a subtraction from a day the thing happened, looked up in a file and not remembered.** A day of this flood is inclusive. The Long Month day and the Short Month day are as in item 4 above. **Every value in this item is derived, and a derived value may be used in a chapter that dates it and may not be attributed to a chapter or to a mouth unless a page carries it.** The two values are at day 301, the volume's first day, and at day 350, its last, and the third is at the day this outline names.
+
+   | The thing | The day it happened | At day 301 | At day 350 | On a page? |
+   |---|---|---|---|---|
+   | the Long Month day | day less 155 | in range to day 255 only | in range to day 255 only | the forms are |
+   | the Short Month day | day less 255 | 46 | 60 | 60 is a boundary |
+   | the Bare Month day | day less 315 | not in range | 35 | 1 is a boundary |
+   | the posting went up on a wall | day 201 | **100** | 149 | the day is, at `chapter-0251.md` |
+   | the store's board carries the figures of | day 224 | 77 | 126 | the day is |
+   | the board has stood unwritten | day 225 | 76 | 125 | **one value is on a page, twenty-seven at day 252** |
+   | the wind has been at that wall | day 229 | 72 | 121 | the day is |
+   | the trestle count | day 40 | 261 | 310 | the last two on a page are 165 and 172 |
+   | the thirty-nine men under the near gate unpaid | day 85 | 216 | 265 | the day is |
+   | the share with the post taken out | day 168 | 133 | 182 | the day is |
+   | the keeper of the Redroot gate's year | day 179 | **122** | **171** | **NOTHING. No chapter of Volume 07 may count it, name her year, print her or use her, and the two figures here are for the state layer only** |
+   | the delegation has not left | day 145 | **156** | **205** | the day is |
+   | the bag went down on the boards | day 240 | 61 | 110 | the day is |
+   | the man of about thirty-two on the bank | day 245 | 56 | 105 | the day is, and he is in no chapter |
+   | the case came up the river | day 251 | 50 | 99 | the day is |
+   | **the days went back and the road north of the Marches shut** | **day 294** | **7** | **56** | the day is, and the day is a Monday |
+   | **the line in the ground was first on a page** | **day 299** | **2** | **51** | the day is, and it is a Saturday |
+   | the chalk was put on a table nobody is going to use | day 298 | 3 | 52 | the day is |
+   | a barrow of boards has stood against the wall of that gate | day 296 counted inclusively, or day 295 | **5, or 6** | **54, or 55** | the day is not, and the page says *for five days* at day 300 and **that is two figures and a chapter that prints one has to name which of the two it is using**, and the arrangement was for a Thursday, **which is day 304** |
+
+   **AND THREE ROUND FIGURES FALL INSIDE VOLUME 07 AND ALL THREE ARE TRAPS, AND ALL THREE ARE NAMED HERE SO THAT NO BATCH WALKS INTO ONE: the posting is exactly a hundred days old at day 301; the trestle count is exactly three hundred at day 340; and the bag on the boards is exactly a hundred days old at day 340.** A figure that comes out round has been checked twice and not once.
+
+6. **AND THE COUNT OF SILENCES, WHICH IS THE ONE DERIVED FIGURE IN THIS SECTION THAT CANNOT BE GOT BY ADDING, AND IT IS PUBLISHED HERE BECAUSE A LATER WRITER WILL ADD IT WRONG.** The rule is one addition for every day the wall says nothing, and **the wall said something on day 256, which spent Volume 06's one panel, and that day is therefore not a silence.** One hundred and fifty-two is on a page at `chapter-0250.md` and is the figure at day 250. **Two hundred and one at day 300 is that base plus fifty less one and it is the figure Volume 06 published. Two hundred and two at day 301 is the same base plus fifty-one less one. Two hundred and forty-nine at day 350 is the same base plus one hundred less two, because Volume 07 spends its one panel on day 340 and that is the second day this flood on which the wall said something.** The figure is for the state layer and is not for a chapter, and no chapter of Volume 07 prints it.
+
+7. **AND THE SIX NOTICES OF VOLUME 07, BECAUSE THE FOUR DAYS OF NOTICE IS AN INSTRUMENT AND NOT A COURTESY AND A CHECK OF NUMERALS CANNOT SEE IT.** A notice on any day other than the fourth day before the room is a three-day instrument, and a three-day instrument does not fail, it arrives warm, and a batch that has written one has produced a chapter with every figure in it correct and an instrument in it that does not exist. Four batches in a row in Volume 06 paid for that. **All six of Volume 07's notices are here, and every one of them is on the page in the chapter the outline names, with the morning named inside that chapter:** the household on the lane, room on day 305, notice on day 301, which is Chapter 0301 and is the volume's first page; the first of the four, room on day 330 a Tuesday, notice on **day 326** in Chapter 0326; the second, room on day 331, notice on **day 327** in Chapter 0327; the third, room on day 332, notice on **day 328** in Chapter 0328; the fourth, room on day 333, notice on **day 329** in Chapter 0329; **and the man who digs, room on day 339 a Thursday, notice on day 335 in Chapter 0335.** Six notices, six chapters, four days each, unsigned, with no name at the top of any of them. **A notice goes to a place and not to a house.**
+
+8. **AND THE STANDING RULE CARRIED FORWARD UNCHANGED, AND IT IS THE LARGEST CLASS OF FAULT IN THIS MANUSCRIPT.** Four interval faults in Volume 06 Batch 0001, six in 0002, four in 0003, six in 0004 and eleven in 0005, against twenty-one, seventeen, eleven, nineteen, seven and eleven in Volume 05's five batches and its repair pass. **An outline is where those counts are born. A value at a chapter boundary is derived; a derived value may be used in a chapter that dates it and may not be attributed to another chapter or to a mouth. Where two elapsed counts sit in one sentence, the event each is measured from has to be named in the sentence. And where a figure has two plausible anchors, name both anchors in the same sentence.**
+
+---
+
 ## 34. Rules established in Volume 06, Chapters 0251–0260 — WHAT THE FIRST TEN DAYS OF THE VOLUME PUT ON A PAGE
 
 **These are additions to the sections above and not replacements. They are on the page in the first ten days of Volume 06. §33 IS THE CALENDAR AND IS NOT CHANGED BY THIS SECTION, and in particular §33.1's amendment of the fourth form's range, §33.3's registration of the fifth form, §33.4's five forms and §33.5's weekday anchors all stand exactly as the outline phase wrote them. §32 is the house formatting rule and is not changed. §27.14's conflict about the twenty-fourth day of the Long Month is STILL LIVE and is not settled here and no chapter of Chapters 0251 to 0260 attaches a weekday to that day or mentions it at all. §§23 to 31 are not changed. The batch's record is `state/batch-summaries/volume-06-batch-0001.md` and the volume's close record for Volume 05 is `state/volume-05-close.md`, which is not superseded by this section.**
