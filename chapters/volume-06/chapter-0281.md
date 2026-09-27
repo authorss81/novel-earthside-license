@@ -12,7 +12,7 @@ He sat down and did not put his hands on the table, and the woman of about fifty
 
 "I have come to say one thing, and it is about a building and not about a road, and it is nine sentences, and I have said all nine of them in a room in daylight with a date on it, and the first of them is that when a form goes back to an office with a place in it left empty, the office does not send the form again."
 
-The woman of about fifty-one came back in with a second armful and set it down against the wall and went out again, and about four people in that market town have said since that a woman who sells kindling and is in and out of a room while the important part of a morning is being said has heard most of it, and that nobody has once asked her what she makes of it, and that about four people in this market have worked out that the quickest way for a thing to be got wrong in a market is for everybody in it to be carrying something.
+The woman of about fifty-one came back in with a second armful and set it down against the wall and went out again, and about four people in that market town have said since that a woman who sells kindling and is in and out of a room while the important part of a morning is being said has heard most of it, and that nobody has once asked her what she makes of it, and that the quickest way for a thing to be got wrong in a market is for everybody in it to be carrying something.
 
 "That is the first one, and you said it in a room in this city about nine days ago, and one of the people in that room was me, and nothing has happened in this market since, and a thing that has been said once and not picked up is not a rule. It is a thing somebody said."
 
@@ -28,17 +28,17 @@ Nobody said anything for a while, and the man of about forty-one turned his righ
 
 "And the third of the four places wants a person in it."
 
-The woman of about fifty-one put her head round the door with the withy over her shoulder and said that the second village had come down to half a load and would take the rest on a Tuesday, and went out again, and about four people in that market town have said since that a woman who interrupts a room with a load of kindling does it four times a day and has never once been asked to stop, and that about four people in this market have worked out that the fastest way to be a person somebody can talk to in this flood is to be carrying something while they are talking.
+The woman of about fifty-one put her head round the door with the withy over her shoulder and said that the second village had come down to half a load and would take the rest on a Tuesday, and went out again, and about four people in that market town have said since that a woman who interrupts a room with a load of kindling does it four times a day and has never once been asked to stop, and that the fastest way to be a person somebody can talk to in this flood is to be carrying something while they are talking.
 
 "**The third of the four places has to have a person in it, and this city will not put anybody there, and nobody has been asked.**" He did not lower his voice and he did not raise it either. "About four people in four hundred miles have worked out that a column nobody will fill is a column somebody else fills, and I have been in the room where that gets decided, and I am not going to tell you what it looks like in there, and I would like that entered."
 
 "Then say the rest of it, because a man who stops in the middle of a sentence has put the whole weight of it on the person he stopped in front of."
 
-"**I stopped on purpose, and I would like it entered that I stopped on purpose, and about four people in this market have noticed that a man who came nine hundred miles to say nine things got as far as the eighth, and that the eighth was the only one of the nine about a person, and that he put his hand inside the coat when he said it.**"
+"**I stopped on purpose, and I would like it entered that I stopped on purpose.**" About four people in this market have noticed that a man who came nine hundred miles to say nine things got as far as the eighth, and that the eighth was the only one of the nine about a person, and that he put his hand inside the coat when he said it."
 
 ---
 
-The woman of about twenty-four turned the slate over and wrote the day on the back of it and wrote nothing under it, which is a thing she does, and then she put the chalk down on the table and left it lying there, and about four people in that room have said since that a woman who puts a date on the back of a slate and nothing under it has decided that what is said in that room does not belong to the room, and that a woman who then puts the chalk down and leaves it has decided something else besides.
+The woman of about twenty-four turned the slate over and wrote the day on the back of it and wrote nothing under it, which is a thing she does, and then she put the chalk down on the table and left it lying there, and a woman who puts a date on the back of a slate and nothing under it has decided that what is said in that room does not belong to the room, and that a woman who then puts the chalk down and leaves it has decided something else besides.
 
 "That is entered, and it is the first of three things I am going to say, and the second of them is the thing you did not bring with you, because you have never stood in nine kitchens in a week." She put two fingers on the corner of the slate. "**A page is answered with a page. A person is answered with a person, and the only instrument in four hundred miles that a person can be answered with is a question in their own words, and it has to reach them four days before the day, and the four days are not a courtesy. The four days are the instrument.**"
 
@@ -46,7 +46,7 @@ The woman of about twenty-four turned the slate over and wrote the day on the ba
 
 "That is the instrument, and it has four parts, and one of the four is a question written in the words of the person it is about." She did not look at him. "**A question written in the words of the person it is about cannot be written by a person standing in this room, and that is the whole of the difficulty, and there is nothing in four hundred miles that gets round it except legs.**"
 
-The woman of about fifty-one put her head round that door with the withy over her shoulder and said the second village would take the rest of a load on a Tuesday, and the man of about forty-one did not turn round, and about four people in that room have said since that a man in a good coat who does not turn round at a door has worked out that the woman at the door is not the woman he is in there with, and that about four people in this market have noticed that he was right.
+The woman of about fifty-one put her head round that door with the withy over her shoulder and said the second village would take the rest of a load on a Tuesday, and the man of about forty-one did not turn round, and about four people in that room have said since that a man in a good coat who does not turn round at a door has worked out that the woman at the door is not the woman he is in there with, and that he was right.
 
 "Say the third thing."
 
@@ -62,7 +62,7 @@ That is the ninth sentence and he said it at the same speed as the other eight a
 
 "You have said nine sentences and I have not heard eight of them."
 
-"**I have said nine sentences and eight of them I have said twice and the ninth I have said once, and I am not going to say a tenth, and about four people in this market have worked out that a man who stops talking has usually said the expensive thing last and not the first, and that this morning it was the first.**"
+"**I have said nine sentences and eight of them I have said twice and the ninth I have said once, and I am not going to say a tenth.**" About four people in this market have worked out that a man who stops talking has usually said the expensive thing last and not the first, and that this morning it was the first."
 
 ---
 
@@ -72,15 +72,15 @@ The woman of about twenty-four wrote nine things on a slate in a column and turn
 
 "And I am to walk to four of those houses before tomorrow is out."
 
-The man of about forty-one turned the slate back so that the writing faced the woman again, which is a thing he had not done all day, and about four people in that room have said since that a man who turns a page of somebody else's writing back towards the person who wrote it has stopped arguing with the writing and started arguing with the writer, and that about four people in this market have worked out that this is what it looks like when a man from nine hundred miles off runs out of other places to say a thing.
+The man of about forty-one turned the slate back so that the writing faced the woman again, which is a thing he had not done all day, and a man who turns a page of somebody else's writing back towards the person who wrote it has stopped arguing with the writing and started arguing with the writer, and that this is what it looks like when a man from nine hundred miles off runs out of other places to say a thing.
 
 "**You are to walk to however many of them will let you stand in their kitchen long enough to be asked, and you are going to have to leave the coat on a chair four times in a day, and a coat is what a person is identified by at about nine hundred paces from where the person is.**"
 
 "Then I will go tonight and not tomorrow, because tomorrow is the day the first sheet goes out."
 
-"**Then you will go tonight, and you will not get four of them, and about four people in this market have said since that a man who tries to be a day early with a thing that takes four days ends up doing it three days early, and that a three-day instrument is not a four-day one and does not fail, it only arrives warm.**"
+"**Then you will go tonight, and you will not get four of them.**" About four people in this market have said since that a man who tries to be a day early with a thing that takes four days ends up doing it three days early, and that a three-day instrument is not a four-day one and does not fail, it only arrives warm."
 
-The chalk was still lying across the last figure on that slate, and the woman of about twenty-four did not pick it up, and about four people in that room have said since that a woman who leaves a piece of chalk lying across a figure she has just written has decided that the figure is not finished and that she is not the one who will finish it.
+The chalk was still lying across the last figure on that slate, and the woman of about twenty-four did not pick it up, and a woman who leaves a piece of chalk lying across a figure she has just written has decided that the figure is not finished and that she is not the one who will finish it.
 
 ---
 
