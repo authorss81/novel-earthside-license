@@ -45,7 +45,7 @@ Five things were required and all five are on a page.
 
 ## 3. The figures, and where each was subtracted from
 
-**A DAY IS INCLUSIVE AND AN AGE IS A SUBTRACTION, and every one of the ten leads names the event it measures from, in the same sentence, which is the rule Batch 0001 was given and the reason the ten leads are longer than the ten leads behind them.**
+**A DAY IS INCLUSIVE AND AN AGE IS A SUBTRACTION, and every one of the ten leads names the event it measures from, in the same sentence, which is the rule Batch 0001 was given. THE SECOND HALF OF THAT SENTENCE — that this is why the ten leads are longer than the ten leads behind them — WAS THE MISTAKE, and it is the finding at §14.1: the ten leads were built to the rule and in building them to the rule the batch wrote one paragraph ten times with the numerals changed, and `outline/volume-06.md` §17.2 forbids exactly that in any shape. The leads have been rewritten. They still carry the forty figures and they still name the anchor in the same sentence, and no two of them share a sentence, and that is the whole of the repair.**
 
 | Figure | Anchor | Values in these ten | On a page before this batch? |
 |---|---|---|---|
@@ -62,7 +62,7 @@ Five things were required and all five are on a page.
 | The repair the market town quoted | Chapter 0264 | **about nine days of hands and one post**, in two mouths, agreed by two men who have never spoken | a private figure, not an interval |
 | A man's arm | Chapter 0265 | **nine days**, agreed in three chapters by two people and a stranger's Saturday estimate | a private figure, not an interval |
 
-**NOT ONE of the ten leads uses a figure that is already on a page.** The ten derived values are all in narration in the lead paragraph, all with the day they are measured from named in the same sentence, and none of them is in a mouth. **The posting's age, the trestle count, the unpaid figure, the share, the bag, the delegation, the delegation's age, the keeper of the Redroot gate and the count of this city's silences are all at zero across the ten files, and the last of those is published at §6.4 for the next batch and not in a chapter.**
+**NOT ONE of the ten leads uses a figure that is already on a page.** The forty derived values are all in narration, all with the day they are measured from named in the same sentence, and none of them is in a mouth. **They are in the ten leads and that is a choice the volume's own §17.2 does not like, and it is kept anyway, because the alternative is a figure with no anchor and an anchor with no figure, and §14.1 records the debt: the leads now differ in shape, in order and in which of the four figures they open on, and the next ten days should carry these four figures in a mouth attached to a decision and not in a lead.** **The posting's age, the trestle count, the unpaid figure, the share, the bag, the delegation, the delegation's age, the keeper of the Redroot gate and the count of this city's silences are all at zero across the ten files, and the last of those is published at §6.4 for the next batch and not in a chapter.**
 
 ---
 
@@ -167,7 +167,7 @@ Five things were required and all five are on a page.
 
 **`bible/power-system.md` §32 is binding and `outline/volume-06.md` §17 is nine numbered items and is not truncated.**
 
-1. **A narrative paragraph is not wrapped in bold.** Checked mechanically across the ten files: **zero narration paragraphs carry an outer bold wrap, every `**` is inside a quoted speech, and markdown parity is zero unbalanced marks across all ten files.**
+1. **A narrative paragraph is not wrapped in bold.** Checked mechanically across the ten files: **zero narration paragraphs carry an outer bold wrap, and markdown parity is zero unbalanced marks across all ten files.** **THE CLAUSE THAT EVERY `**` IS INSIDE A QUOTED SPEECH WAS HERE AND IT WAS FALSE: three narrative paragraphs carried bold, at Chapter 0262's coda, Chapter 0263's coda and Chapter 0269's last argument, and a reviewer found all three by hand in an afternoon. It is struck and the three paragraphs are plain. A search for a string cannot tell a bolded clause in a speech from a bolded clause in a paragraph, and this file printed a check as passed when it had only been run against one of the two things it was looking for.**
 2. **The measure is the share of a chapter's words inside bold marks and the ceiling is about thirty-five per cent.** Re-measured on the files as they stand: **the ten run 9.5 to 21.6 per cent, mean 14.7, and the highest is 21.6 in Chapter 0267.** Volume 01 is the model at 10.4 and two of the ten are inside a point of it (0265 at 9.5 and 0266 at 10.0). **No chapter lifted its ratio by bolding a short statement, and the four lowest chapters in the batch are the four physical-work and household chapters, which is the shape the rule was asking for.**
 3. **A speech may not carry two speakers in one exchange, and within a section the bold marks one voice and the two voices alternate.** Every section names its bold voice before it was written, and the ten chapters are written in four and five voice sections. **The bold marks the good-coat man in 0264 and 0269, the man of about thirty-four in 0262, the boy of thirteen in 0261, the gatekeeper in 0263, the man of about thirty-six in 0264, 0265, 0266 and 0270, the woman of about twenty-four in 0261, 0267 and 0268, the woman of about thirty at the stall in 0265 and 0266, the woman of about forty-six in 0266 and 0270, and Tamsin Quill in 0270.** The mule man, the man of about twenty-six, and the man of about fifty-five's brief appearances are recorded at §11.1.
 4. **No more than two consecutive exchanges between the same two people.** **The longest uninterrupted run of speech paragraphs in any of the ten is FOUR, which is two exchanges, and it is four in seven of the ten and three in two and two in one.** And **every one of the ten chapters has a third party acting while two people talk**: a boy on a cart with a knotted string, a man on his knees with a trowel and a sack, a man with a bar in two hands and a chain over a pulley, eleven people and two barrows and a drain, nine houses and a pail line, a woman with a sieve for six hours, a woman with a needle and a net for two hours, a carter in the hub of a wheel and a boy carrying a sheet into a kitchen, two mules and nine sacks, and Tamsin Quill's unopened bag on a bench.
@@ -179,49 +179,53 @@ Five things were required and all five are on a page.
 
 ### 8.1 The exchange shape, and the number a later writer can check
 
+**Re-measured after the review repair pass of §14, and the definition is stated because the first version of this table did not state it and the number underneath it was therefore not checkable by anybody. A *plain speech* is a paragraph that carries a quotation and carries no bold mark. It is *answered* when the very next non-blank paragraph is a paragraph that carries a quotation and a bold mark. A *run* is a count of consecutive paragraphs that carry a quotation, and four paragraphs is two exchanges, which is the ceiling in `outline/volume-06.md` §17.6.**
+
 | Ch | Plain speeches | Plain speeches answered by a bolded speech in the next line | Longest uninterrupted run of speech paragraphs |
 |---|---|---|---|
-| 0261 | 19 | 6 | 4 |
-| 0262 | 16 | 1 | 3 |
-| 0263 | 18 | 3 | 4 |
-| 0264 | 16 | 3 | 4 |
-| 0265 | 12 | 1 | 4 |
-| 0266 | 18 | 2 | 3 |
-| 0267 | 20 | 4 | 4 |
-| 0268 | 17 | 3 | 4 |
-| 0269 | 14 | 0 | 2 |
-| 0270 | 16 | 2 | 4 |
-| **Total** | **166** | **25 — fifteen per cent** | **4** |
+| 0261 | 13 | 12 | 4 |
+| 0262 | 13 | 3 | 3 |
+| 0263 | 15 | 4 | 4 |
+| 0264 | 14 | 3 | 4 |
+| 0265 | 9 | 2 | 4 |
+| 0266 | 14 | 4 | 3 |
+| 0267 | 13 | 8 | 4 |
+| 0268 | 12 | 7 | 4 |
+| 0269 | 10 | 0 | 2 |
+| 0270 | 11 | 6 | 4 |
+| **Total** | **124** | **49 — forty per cent** | **4** |
 
-**Batch 0001's ten chapters are 78 of 384, twenty per cent, and the last ten chapters of Volume 05 are 175 of 176. The figure a later writer has to beat is twenty-five of one hundred and sixty-six, fifteen per cent, and this batch beat it, and the run is four in seven of the ten against four in all ten behind it. A number is not a substitute for the reading and this one is offered so that a reviewer can check it rather than take it.**
+**THE FIGURE WENT UP BY TWENTY-FOUR POINTS AND THAT IS THE POINT OF §14 FINDING 4, NOT AN IMPROVEMENT IN THE WRITING.** The first version of this table printed 25 of 166, fifteen per cent, and it printed that against a manuscript in which the bold had stopped marking a speaker: two of Tamsin Quill's turns in the volume's own two-hander climax carried no mark at all, a bolded mark changed voice three paragraphs after the last one without a section break, and three narrative paragraphs carried bold that `outline/volume-06.md` §17.3 forbids and that §7.1 of this file denied in writing. **A batch cannot score well on an exchange metric by leaving half its turns unmarked, and the fifteen per cent was a measure of the markup, not of the prose.** The repaired figures are 49 of 124, forty per cent, the longest run is still four in seven of the ten, and **the number a later batch has to beat is forty per cent, not fifteen.** The run figures are unchanged, which is the one measurement the first version of this table did get right and the reason §14.4 was not a bigger job.
 
 ### 8.2 Bold
 
+**Re-measured after the review repair pass of §14.**
+
 | Ch | Words | Words in bold | Share | Spans | Mean span | Longest span |
 |---|---|---|---|---|---|---|
-| 0261 | 2,906 | 578 | 19.9% | 13 | 44 | 55 |
-| 0262 | 2,795 | 483 | 17.3% | 9 | 54 | 65 |
-| 0263 | 2,791 | 339 | 12.1% | 8 | 42 | 57 |
-| 0264 | 2,497 | 358 | 14.3% | 7 | 51 | 65 |
-| 0265 | 2,564 | 243 | 9.5% | 5 | 49 | 72 |
-| 0266 | 2,759 | 275 | 10.0% | 10 | 28 | 78 |
-| 0267 | 2,557 | 553 | 21.6% | 11 | 50 | 69 |
-| 0268 | 2,488 | 416 | 16.7% | 8 | 52 | 83 |
-| 0269 | 2,451 | 297 | 12.1% | 5 | 59 | 78 |
-| 0270 | 2,458 | 323 | 13.1% | 7 | 46 | 72 |
-| **Total / mean** | **26,266** | **3,864** | **14.7%** | **83** | **47** | **83** |
+| 0261 | 2,886 | 578 | 20.0% | 13 | 44 | 55 |
+| 0262 | 2,840 | 418 | 14.7% | 8 | 52 | 64 |
+| 0263 | 2,801 | 295 | 10.5% | 7 | 42 | 57 |
+| 0264 | 2,501 | 358 | 14.3% | 7 | 51 | 65 |
+| 0265 | 2,604 | 243 | 9.3% | 5 | 48 | 72 |
+| 0266 | 2,841 | 456 | 16.0% | 14 | 33 | 78 |
+| 0267 | 2,688 | 553 | 20.6% | 11 | 50 | 69 |
+| 0268 | 2,486 | 376 | 15.1% | 8 | 47 | 61 |
+| 0269 | 2,504 | 226 | 8.7% | 5 | 45 | 69 |
+| 0270 | 2,607 | 399 | 15.3% | 8 | 50 | 72 |
+| **Total / mean** | **26,758** | **3,893** | **14.5%** | **84** | **46** | **78** |
 
-**Ceiling thirty-five per cent, highest chapter twenty-one point six, no chapter lifted by bolding a short statement, and the house model of Volume 01 at 10.4 is matched inside one point by two chapters. The mean bolded turn is forty-seven words against Volume 01's thirty-five and Batch 0001's forty, and the longest is eighty-three in Chapter 0268, which is a wheel in a hub and a tarpaulin and a man who did not know what was under the sacking, and which is one person, one turn and a fact, and which is the fourth time this volume has published a maximum instead of a range ceiling.**
+**Ceiling thirty-five per cent, highest chapter twenty point six, no chapter lifted by bolding a short statement, and the house model of Volume 01 at 10.4 is matched inside one point by two chapters (0265 at 9.3 and 0269 at 8.7). The mean bolded turn is forty-six words against Volume 01's thirty-five. THE LONGEST BOLDED SPAN IN THE TEN IS NOW SEVENTY-EIGHT AND IT IS IN CHAPTER 0266, and the first version of this table printed eighty-three in Chapter 0268 as a maximum and defended it in prose, and `outline/volume-06.md` §17.4 says a bolded turn of eighty words is the two-hander wearing a different hat and it is cut. Two breaches have been cut: the eighty-three-word turn in 0268, which is now a forty-five-word bolded span with the rest of the speech plain, and a hundred-and-twenty-one-word speech in 0266 that carried no bold at all and so was invisible to this statistic, which is now three marked spans of 37, 52 and 31 words. A metric that cannot see an unmarked turn is not a metric and §14.5 says so.**
 
 ### 8.3 Length
 
-**26,266 words in ten chapters, median 2,561, range 2,451 to 2,906.** The house band is 2,400 to 3,100 and **all ten are inside it and none is near the 3,200 line at which a chapter is said to have two scenes in it.** Two chapters are above Batch 0001's median of 2,935 and eight are below it, and the ten were written to the band and not to the batch behind them.
+**26,758 words in ten chapters, median 2,648, range 2,486 to 2,886.** The house band is 2,400 to 3,100 and **all ten are inside it and none is near the 3,200 line at which a chapter is said to have two scenes in it.** Two chapters are above Batch 0001's median of 2,935 and eight are below it. The batch is four hundred and ninety-two words longer than the first version of this table recorded and every word of the increase is the repair pass: the ten leads were rewritten (§14.1), three speech beats were added to make an unmarked speaker legible (§14.4), and the gate bar was given a state that three chapters can agree on (§14.8).
 
 ### 8.4 The searches that returned zero
 
 Run across the ten files: *player* and *players*; *Earth*; *System*; *knock* in any case; *of this month*; *of the month*; *of next month*; *of this new month*; *this chapter*; *this volume*; *in this batch*; *the reader*; *the last day of the month*; *Nine Elms*; *Narrow Mark*; *chapel*; *Marrow*; *Redroot*; *invert*; *broom*; *Alys*; *Kern*; *silence*; *about about*; *the twenty-fourth day of the Long Month*; *Solenne*; *hundred and first day of the Long Month*; a wrapped narration paragraph; an unbalanced bold mark; **a sentence of forty words or more appearing verbatim in more than one of the ten files or twice inside one of them**. **All zero.**
 
-**And the four that are NOT zero and are not faults, published so a later writer does not spend a pass on them.** *The Long Month* stands twelve times across the ten files and every one of them is a reference to a day already on a page — the sixty-ninth day the board carries, the ninety-ninth day a Hearthguard sat in a room, the second day of that month — and a reference to a day that is on a page is not a date in the fourth form. *Tamsin Quill* stands once and is on a page from Chapter 0252. *The second way* and *the fifth sheet* stand and are on a page from Chapter 0257. *A gate* and *a bar* stand and are the ordinary nouns of an ordinary road.
+**And the four that are NOT zero and are not faults, published so a later writer does not spend a pass on them.** *The Long Month* stands across the ten files and every one of them is a reference to a day already on a page — the sixty-ninth day the board carries, the ninety-sixth day the case came up the river, the second day of that month — and a reference to a day that is on a page is not a date in the fourth form. **THE LIST NAMED THE NINETY-NINTH DAY A HEARTHGUARD SAT IN A ROOM, AND THAT WAS WRONG AND IT WAS WRONG IN THE DIRECTION THAT PROTECTS A MISTAKE: the Hearthguard of forty-four said his nine words in that room on the fourth day of the Short Month, which is Chapter 0259, and the ninety-ninth day of the Long Month is five days before it. Two chapters had taken the error over from the room's own memory and the file then certified it. A state file that publishes a slip as a non-fault is worse than the slip, and a later writer must re-derive every interior date in these ten from Chapter 0259 and not from this paragraph.** *Tamsin Quill* stands once and is on a page from Chapter 0252. *The second way* and *the fifth sheet* stand and are on a page from Chapter 0257. *A gate* and *a bar* stand and are the ordinary nouns of an ordinary road.
 
 ### 8.5 The two checks this list needed and Batch 0001's list did not have
 
@@ -233,7 +237,7 @@ Run across the ten files: *player* and *players*; *Earth*; *System*; *knock* in 
 ## 9. The checks that were run, and what they returned
 
 1. **The calendar was recomputed from day 1 being a Tuesday, and every weekday in the ten was recomputed from that and not from the batch prompt's table, not from a neighbouring chapter and not from a state file.** Days 261 to 270 are Wednesday, Thursday, Friday, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and the Short Month days are six to fifteen, and the fourth form dates nothing. **Zero faults remaining after the five repairs at §2.**
-2. **Every elapsed count in the ten chapters was re-derived from its anchor and read against the sentence it stands in.** The ten leads were then checked mechanically for the four figures they carry, board, unwritten, wind, and the case's age, against the day less 224, 225, 229 and 251. **All forty figures present and all forty correct.** Six interval faults were found and repaired, at §2.
+2. **Every elapsed count in the ten chapters was re-derived from its anchor and read against the sentence it stands in.** The ten leads were then checked mechanically for the four figures they carry, board, unwritten, wind, and the case's age, against the day less 224, 225, 229 and 251. **All forty figures are present and all forty are the right number, and THAT WAS NOT THE SAME AS BEING RIGHT, and the check that produced the sentence only looked at numerals. The case's age was ten in Chapter 0261 and twelve in Chapter 0263, both correct, and both measured from the first day of the Short Month, which is day 256, and the case came up the river on day 251. Two chapters were counting from a day the thing did not happen on, in a sentence that read perfectly, and the file said forty for forty.** Six interval faults were found and repaired by the writer's own pass, and two anchor faults were found afterwards by a reviewer and are repaired at §14.2, and the check is now a check of anchors and not only of numerals.
 3. **Every *Nth day of the Short Month* phrase was parsed and checked against the chapter's own day by arithmetic.** Ten phrases, all correct, and the six cross-references inside them are all past days and were checked: the tenth day of the Short Month in 0266 and 0270, the fourteenth in 0270, the twelfth in 0268, the sixth in 0269 and 0270.
 4. **Every interior weekday token was extracted with its context and read against the day it names.** Twenty-one tokens in the ten, all correct, and §2 says which is which.
 5. **The people were read one by one for the physical signature the volume has ruled out, and the four women of about thirty-four and the man of about thirty-four were checked for co-presence and for mis-description.** **The pass found five faults and repaired all five:** Chapter 0267 had a man of about thirty-four who is not the man who keeps a stall, and Chapter 0268 then called the same person a **woman** of about thirty-four and so put a fifth woman of about thirty-four and the woman of the stall by a wharf in one batch; **the person who asked to stop being a guest is now a man of about twenty-six in both chapters; the man of about thirty-six who said the name of the gate is now correctly off the roll and not on it; and Chapter 0267's count of who had come from this city was four and nine out of nine and is now four and five.** Chapter 0268's bread board woman is a woman of about thirty-three, not thirty-one, so that she cannot be confused with the man of about thirty-one at a stall by the wharf. **This is the second time this repository has found a gender or age slip in a chapter about a roll, and it is the same family as the Open Hand trader in Chapter 0254, and it is why the check is a reading and not a string.**
@@ -306,6 +310,86 @@ Run across the ten files: *player* and *players*; *Earth*; *System*; *knock* in 
 | **0268** | **268** | **Wednesday** | **SM 13** | **II** | **A schedule read out in four kitchens because the rain got at it** |
 | **0269** | **269** | **Thursday** | **SM 14** | **II** | **The first way, on the ground, and a road that cannot supply four days** |
 | **0270** | **270** | **Friday** | **SM 15** | **II** | **A rack that has not been worked, a third thing, and a fracture unpaid** |
+
+---
+
+## 14. THE REVIEW REPAIR PASS ON CHAPTERS 0261 TO 0270, and what it changed and what it did not
+
+**A reviewer read the ten chapters, the outline, this file, the three state blocks and the next prompt, and returned twelve findings and five secondary notes. All twelve are repaired. The batch was not restarted, no plot beat was moved, no day was changed, no card was edited, and the outline was not touched. What follows is the pass in the order the findings were given, with the page and the reason, and then the list of things a later writer must know are now different from what §1 to §13 of this file say.**
+
+**THE ONE SENTENCE THAT GOVERNS THE WHOLE PASS: a repair fixes the finding and keeps the sentence.** Where a reviewer's finding could be met by deleting a line, a line was rewritten instead, and where a finding was a fault in a state file, the state file was corrected and the fault is named in the file that made it. Nothing in these ten chapters was taken out to make a number look better.
+
+### 14.1 The ten lead paragraphs, and it is the largest thing in the pass
+
+**FINDING: every chapter opened with a paragraph sharing a twenty-eight-word byte-identical frame, on a mechanical +1 per chapter, against `outline/volume-06.md` §17.2 — *the recapping ledger paragraph is gone and it is not coming back in another shape*. `chapter-0261.md` and `chapter-0270.md` were the same sentence with two numerals changed.**
+
+**REPAIRED, ALL TEN, AND THE FIGURES STAYED.** Each lead was rewritten so that no two of the ten share a sentence, so that the four figures arrive in a different order and against a different subject in each, and so that each lead opens on an arrival or a pressure and not on a finding, which is §17.1. **The forty derived figures are all still on the page, all still derived, and all still have the day they are measured from named in the same sentence.** The anchors are now named three ways instead of one: *the sixty-ninth day of the Long Month* for the board's figures, which is on a page; *the day after them* for the board unwritten, which is the same clause; *the ninety-sixth day of the Long Month* for the case, which is on a page at Chapter 0251 and which is the correction at §14.2; and *the two hundred and twenty-ninth day of this flood* for the wind, which is a new anchor and is the only new date form this pass adds. **A later writer may use the two hundred and twenty-ninth day; a later writer may not treat a mention of it as a date in the fourth form.**
+
+**AND THE DEBT IS RECORDED RATHER THAN PAID.** These four figures are standing threads and §17.2 says a standing thread is paid for once, in a mouth, attached to a decision, and again only when it changes. They have not changed in ten days. **The next ten days should carry the board, the wind and the case in mouths and not in leads, and if a later batch wants the interval chains on a page it should date them where a decision needs them.**
+
+### 14.2 The case's age was right and its anchor was five days out, in two chapters
+
+**FINDING: `chapter-0261.md` and `chapter-0263.md` measured the case from the first day of the Short Month. The first day of the Short Month is day 256. The case came up the river on day 251, the ninety-sixth day of the Long Month, and is on a page at Chapter 0251. The figures, ten and twelve, were correct. The events they were measured from were not, and §9.2 of this file printed forty figures for forty correct.** Repaired by the §14.1 rewrite, which names the ninety-sixth day in both leads. **The lesson is in §9.2 and it is a check of anchors and not of numerals: a check that validates the number cannot find this, and this is the same family as every one of the six interval faults the writer's own pass found.**
+
+### 14.3 Hettis Roke's refusal was dated twice, wrongly, and this file canonised one of them
+
+**FINDING: the refusal is on the fourth day of the Short Month, Chapter 0259, and `chapter-0268.md` dated it to the ninth day of the Long Month, ninety-five days out, while `chapter-0262.md` dated it to the ninety-ninth day of the Long Month, five days out. §8.4 of this file then listed the ninety-ninth day among four references that were *not zero and not faults*, which is the worst of the three outcomes available: a slip that a state file has certified.** All three sites repaired — two chapters and the list at §8.4. `chapter-0262.md` also said the room had taken five days to come round to the same place, and the room took three, and it is three.
+
+### 14.4 The bold had stopped being a speaker marker, in the volume's own climax
+
+**FINDING, and it is the finding that moved the number in §8.1 by twenty-five points: in the Adrian and Tamsin exchange at the end of Chapter 0270, eight turns, Tamsin is marked at the first and the last and **unmarked at the two in the middle**, so the reader cannot tell that the two unmarked turns are hers at all. The same defect appeared in Chapter 0267, where a marked turn changes speaker three paragraphs later with no section break and no attribution, and in Chapter 0266, where a mark opened and closed inside a clause.** Also, three narrative paragraphs carried bold at `chapter-0262.md`, `chapter-0263.md` and `chapter-0269.md`, and §7.1 of this file denied in writing that any existed.
+
+**REPAIRED, and the repair is attribution rather than markup.** The two unmarked turns in 0270 are marked. The mark in 0270 that had been sitting on the gatekeeper of the first village is taken off him, so that the mark runs on one voice — the woman of about forty-six — from the first exchange to the last, and changes to Tamsin Quill only across a section break, which is where §17.5 wants a change of marked voice. In 0267 a beat naming the woman at the stall is put in front of her turn so the change of mark is legible. In 0266 a mark that closed inside a clause now closes at a sentence boundary, and the three cases that remain in that chapter close at a sentence boundary too, which is this manuscript's established pattern and not a defect. In 0270 two unattributed lines in the village scene are given their speakers. The three narrative paragraphs are plain, with not one word of their prose changed.
+
+### 14.5 Two speeches over the house measure, one of which the measure could not see
+
+**FINDING: `outline/volume-06.md` §17.4 — a bolded turn of eighty words is cut. `chapter-0268.md` had an eighty-three-word marked turn, and §8.2 of this file published it as a maximum and defended it in prose. `chapter-0266.md` had a hundred-and-twenty-one-word speech carrying no mark at all, which is longer than the eighty-three and is invisible to a statistic that counts marks.** Both cut. The 0268 turn is a forty-five-word marked span with the rest of the speech plain. The 0266 speech is three marked spans of 37, 52 and 31 words. **The longest marked span in the ten is now seventy-eight, in Chapter 0266, and it is under the measure. A metric that cannot see an unmarked turn is not a metric, and the next batch should count unmarked speeches, not only marked ones.**
+
+### 14.6 Six distance violations, the same fault the last review removed
+
+**FINDING: the only distances in this world are nine miles, eleven miles and four miles and a road, and no chapter may put a number on the distance to the Marches. `chapter-0269.md` put nine hundred miles on a room that the same chapter measures at nine hundred paces away, twice; `chapter-0270.md` had a woman carry a book nine hundred miles up a nine-hundred-pace road, twice; `chapter-0264.md` put the market town at nine miles where two other chapters put it at nine hundred paces; `chapter-0268.md` gave one cart both about nine hundred miles of nothing and a town nine days up **the coast road**, and a coast road is not a road in this world.** All six repaired. The Crown's own distance is nine hundred miles and is untouched in nineteen places, and every one of the nineteen is a reference to the page, the office, the clerk or the reading, which is the one thing that distance is for in this book.
+
+### 14.7 The woman of about thirty contradicted herself about the batch's best new beat
+
+**FINDING: on the tenth day of the Short Month she says she got nine houses to send down a pail line and *I made the line myself*. On the eleventh she says the line *was not organised and it was not written down and it was not mine*. One day apart, on the central action of Chapter 0265.** **Repaired as a person and not as a slip: the woman now takes it back in her own mouth on the Monday, names the day and the hour she said it, and gives the reason, which is that she said it to a stranger and it was not true.** Both pages stand, the beat gets a second half instead of losing one, and it is the only place in the batch where somebody changes their mind about something they claimed. **It also now agrees with the pail line she describes in Chapter 0265, which ran itself.**
+
+### 14.8 The second village's gate had three states
+
+**FINDING: `chapter-0269.md` had a post, a chain and no bar *because the village has nobody keeping it*; `chapter-0270.md` had a bar put back on it the next day by a man who has kept it for nine years; `chapter-0264.md` and `chapter-0265.md` had already implied a bar and a post.** **The states were three and the reason was one, and the reason was the wrong one. Reconciled to one, and the reconciliation is the post, which four chapters already had out at the bottom:** the bar has been lying on the floor of the ninth house since the second week, there has been nothing to hang it on, and the gate is a post, a chain and no bar. On the fourteenth day the bar is carried two hundred paces up the lane **and laid across the chain and not hung on the post**, which is what lets the water down, and it is put back across the chain at the fourth hour, and the chain takes the weight and the post takes none of it. **Four chapters now agree and the fix made the bar's return cost the man more rather than less, which is the beat Chapter 0270 was built on.**
+
+### 14.9 A chapter published the figure its room had spent the day refusing
+
+**FINDING: `chapter-0262.md` is built on the register-keeper refusing to put a number of copies on a slate, and its coda then says in narration that the page has been multiplied into *four hands*. The refusal is the chapter and the coda undid it.** The count is now out of the narrator's mouth entirely: the coda says the page has been copied by men who could read it, and that how many is a figure that has been said in a room and is on no page anywhere in four hundred miles. **The chapter's title still holds, because four is what the man of about thirty-four said in the room, and a thing said in a mouth is not the thing the room refused to write down — which is the chapter's own distinction, and it now holds in the narration and not only in her speech.**
+
+**And the other half of the finding, in `chapter-0267.md`: a roll entered under the name of a gate was said to be countable by anybody standing in front of the wall, which reverses `outline/volume-06.md` §6.5 — a company entered by the name of a place cannot be counted.** Corrected: anybody can read the nine names and **nobody in four hundred miles can count the wall, because the thing that would make it a number is the word above the names and there is no word above the names.** The batch's own chapter at §10 had it right and the page had it wrong.
+
+### 14.10 The narrator stepped outside the world twice
+
+**FINDING: *the first household in this book* and *the oldest instrument in this book* — in both cases the narrator claiming a fact about the manuscript's own history. This book is the Register in this world and it is licensed as a phrase nowhere else.** Both repaired inside the world: the first household **out past the last named house**, and a page on a wall in a market that is **the oldest instrument anybody in that town has seen and older than the sheet on the cart**.
+
+### 14.11 Two authorial errors inside a chapter
+
+**FINDING: `chapter-0270.md` had *about four of the three before you wanted something*, a corrupted copy of a good sentence in `chapter-0265.md`; and `chapter-0268.md` repeated a twenty-one-word sentence verbatim two lines apart.** Both repaired. The 0270 line now says the fifth, because the man in the good coat is the fourth and is named as such in Chapter 0265, and the two chapters now agree about how many people have been up that road. The 0268 repetition is gone and the second instance became a beat about the four children instead.
+
+### 14.12 Two state files were not updated at all
+
+**FINDING: `state/chapter-summaries.md` stopped at Chapter 0260 and `state/character-state.md` had no Volume 06 Batch 0002 block, and the next prompt points a writer at `state/character-state.md` as one of the four files holding the four-women-of-about-thirty-four ruling, while this batch put twelve new descriptors and one gender-and-age repair on a page that lived only in this batch record.** Both files now carry a block for this batch, and the block in the character file carries the descriptor map, because a descriptor that exists only in a batch record is a descriptor the next volume will re-invent.
+
+### 14.13 The five secondary notes, and what was done about each
+
+1. **The chorus frame runs eight to fifteen times a chapter.** It is a real growth — Chapter 0260 had ten — and it is not one of the four declared motifs in §17.6. **Not thinned, and that is a decision and not an oversight: the frame is load-bearing in a volume whose finding is that nobody has ever heard a thing said and repeated it, and a later batch should either declare it as a fifth motif in the outline or spend it down. The one place it had become self-parody — Chapter 0270's nested *about nine people have said that sentence out loud* — is unwound and now says only that the nine had it from somebody else.**
+2. **The fourth house was two houses.** The kitchen in Chapter 0266 is the fourth household of Chapter 0265, and three lines in 0266 pointed at a different house as *the fourth house up the lane*. **The lane house is now *the woman at the top of the lane* in all three, and the fourth house is one house for the batch.**
+3. **Chapter 0266's lead said nobody in that kitchen had heard of the case, and Chapter 0266 then had a man describe a page coming up the river.** **The man now describes a Crown office that wants days set against gates and a page on its way up that river or not on it, which is what a household four hundred miles out would have heard, and it separates the demand from the document, which the chapter wants.**
+4. **Chapter 0262's chalk was *not touched again for the rest of that day*, and was then turned end for end, and was then picked up by the register-keeper.** The claim is narrowed to what the page shows — after the first putting down, the only hands that went near it were his own — and the register-keeper now has a chalk in her hand for a second and does not use it, which is the better beat and keeps the motif.
+5. **Chapter 0270's fracture was seeded without its cost being named, which left Adrian as the object of the fracture rather than its author going into Chapter 0272.** The seed is untouched and the record at §10 and the prompt for the next batch both say the cost is named in Chapter 0272. **This pass did not move it, and a later batch may not pay it early.**
+
+### 14.14 What the pass did not touch, and it is the list that matters
+
+**No plot beat, no day, no weekday, no month day, no anchor, no live thread, no cast member, no ending, no card and no outline was edited. `outline/volume-06.md`, `outline/batches/volume-06-batch-0001.md` and `workspace/volume-06/batch-0002/PROMPT.md` are closed phases' records and were left alone. `state/phase-ledger.json` is controller-owned and was not touched.** The ninth line was not moved, dated, read aloud or resolved; the board was not written on; nobody put a boot on the nine feet and nobody opened the bag; the keeper of the Redroot gate is at zero in every form including her working and the check was a reading; the delegation has not left; the about four hundred and forty are not in these ten chapters and their chapter is Chapter 0279; the Regent has not been put into the schedule; the consent fracture is still unpaid and is still Chapter 0272; and **nothing in these ten chapters decided anything except one woman's decision to put a date on an unnamed line, which is still the only decision, and one woman's decision to take back what she had said about a pail line, which is new and is small and is hers.**
+
+### 14.15 The re-run, and it is clean
+
+**Word counts 2,486 to 2,886, total 26,758, median 2,648, all ten inside the house band of 2,400 to 3,100 and none near the 3,200 two-scene line. The marked share of words is 8.7 to 20.6 per cent, mean 14.5, against Volume 01's 10.4 and a ceiling of about 35. The longest marked span in the ten is seventy-eight. Zero marked narration paragraphs and zero unbalanced marks. A hundred and twenty-four plain speeches of which forty-nine are answered by a marked speech in the next line, forty per cent. The longest run of speech paragraphs is four in seven of the ten, three in two and two in one. Zero panels. All forty derived interval figures present and correct and every one of them now has its anchor named in its own sentence. All ten leads name their own Short Month day, all ten weekdays recompute from day 1 being a Tuesday, and forty-one interior weekday tokens were read against the day each names and all forty-one are a recurring day that belongs to no date or a day checked against the founding figure. There are 269 sentences of forty words or more across the ten files and zero duplicated, against 281 and zero before the pass, and the fall is the twenty-eight-word frame that was carried ten times.**
 
 ---
 

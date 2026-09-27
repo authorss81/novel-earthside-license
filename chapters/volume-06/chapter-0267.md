@@ -1,6 +1,6 @@
 # Chapter 0267 — Eight Names And One Person
 
-A room over a market in a market town nine hundred paces past the last named house had a date in chalk on the door on the twelfth day of the Short Month, and the day was a Tuesday, and the date was the twelfth day of the Short Month in the hand of a woman of about twenty-four who had come up that road on her own errand and had not been sent by anybody. The board over the door of the store on the upper road has not been written on since the day after the sixty-ninth day of the Long Month and the figures on it belong to that sixty-ninth day and are forty-three days old, and it has stood unwritten forty-two. The wind has been at that wall for thirty-eight days. A case from nine hundred miles away has been shut on a table in a room over a market in this city for sixteen days and has not been carried up that road and has not been opened.
+Nine people came into a room over a market in a market town nine hundred paces past the last named house on the twelfth day of the Short Month, a Tuesday, and a woman of about twenty-four who had come up that road on her own errand and had not been sent by anybody put the date on the door in chalk, read the fifth line of eleven out loud, and read nothing else. The wind has been at the wall of the store on the upper road for thirty-eight days, and it has been there since the two hundred and twenty-ninth day of this flood. The board over that door carries the figures of the sixty-ninth day of the Long Month, forty-three days old, and has stood unwritten for the forty-two days since the day after them. And a case from nine hundred miles away has been shut on a table in a room over a market in this city for sixteen days, counted from the ninety-sixth day of the Long Month, and has not been carried up that road and has not been opened.
 
 ---
 
@@ -38,7 +38,9 @@ The bench on the left had about nine people on it and none of them had moved in 
 
 "Where is the word for them."
 
-"**There is no word for them and there is not going to be one made in this room.**" The woman of about thirty at the stall had a needle and a net in her hands and had not looked up once in about half an hour. "The word is *guest*. It has been a word for about a hundred and forty years and it is on the fifth line of a page that eleven lines long, and if anybody in this room invents a better one then a clerk nine hundred miles away will take the better one and use it, and about four people in this city have worked that out in the last ten days and none of them liked it."
+The woman of about thirty at the stall had a needle and a net in her hands and had not looked up once in about half an hour, and about four people in that room have said since that a woman who goes on mending through the whole of a company's first hour is a woman who has decided in advance what the answer is going to be worth.
+
+"**There is no word for them and there is not going to be one made in this room.**" She drew the needle through and put it back without looking at the eye of it. "The word is *guest*. It has been a word for about a hundred and forty years and it is on the fifth line of a page that eleven lines long, and if anybody in this room invents a better one then a clerk nine hundred miles away will take the better one and use it, and about four people in this city have worked that out in the last ten days and none of them liked it."
 
 "And the wage."
 
@@ -50,7 +52,7 @@ Nobody in that room said anything for about a minute, and about nine people in t
 
 "And nobody here has ever been paid by a page."
 
-"Nobody here has ever been paid by a page and nobody here expected to be, and that is the whole of what the Crown's schedule is going to cost, and I want it said out loud in this room, because about four people in a city nine hundred miles down that road have spent ten days being frightened of it." The needle went through the net and came out the other side. "A thing a person has never had does not frighten anybody when it is taken away."
+"Nobody here has ever been paid by a page and nobody here expected to be, and that is the whole of what the Crown's schedule is going to cost, and I want it said out loud in this room, because about four people four hundred miles down that road have spent ten days being frightened of it." The needle went through the net and came out the other side. "A thing a person has never had does not frighten anybody when it is taken away."
 
 Nobody in that room had said anything, and about nine people in it have said since that the sentence went round that room and came back changed, and that the change was that it was not about a wage at all any more and everybody in the room knew it and nobody said so.
 
@@ -58,7 +60,7 @@ Nobody in that room had said anything, and about nine people in it have said sin
 
 "Four offices that do not exist."
 
-"**Four offices that do not exist, and a road that keeps, and about nine hundred miles of water in between, and I would like the man from down that road to write those four things on whatever he has and I would like about four of these people to see him do it.**"
+"**Four offices that do not exist, and a road that keeps, and about four hundred miles of road in between, and I would like the man from down that road to write those four things on whatever he has and I would like about four of these people to see him do it.**"
 
 ---
 
@@ -80,6 +82,6 @@ The man of about thirty-six, who was not on that roll and had said the name of t
 
 "I am not on it and I am the man who said the name of the gate out loud, and those are two facts about this room and only one of them is on the wall." He put his hand flat on the table again. "**About four people in this village have said that a name at the top of a page with nobody's name under it is a company, and that it is the only kind there is out here, and that the man who named the gate is not in it, and that is correct and it is not a fault and I am not going to be asked about it again.**"
 
-The wall that roll went up on had been a wall with about four nail holes in it and nothing else, and about nine people in that town have said since that a page on a wall in a market is the oldest instrument in this book and that nobody in that town has ever been asked what it is for.
+The wall that roll went up on had been a wall with about four nail holes in it and nothing else, and about nine people in that town have said since that a page on a wall in a market is the oldest instrument anybody in that town has seen, and that it is older than the sheet on the cart, and that nobody in that town has ever been asked what it is for.
 
-The roll went up on the wall of that room at about the sixth hour of the evening with the name of a gate at the top of it and nine lines under it, of which eight were guests and one was not, and about four people in this city have said since that the number of names on it is nine and the number of classes on it is none, and that a company of eight guests and one person can be counted by anybody who stands in front of the wall, and that it cannot be posted a wage, and that the man of about thirty-six who said the name of the gate out loud is not one of the nine, and that the man of about twenty-six who asked to stop being a guest is, and that the bar in that gate is still on the far side of the road because it is not his week.
+The roll went up on the wall of that room at about the sixth hour of the evening with the name of a gate at the top of it and nine lines under it, of which eight were guests and one was not, and about four people in this city have said since that the number of names on it is nine and the number of classes on it is none, and that anybody standing in front of that wall can read every one of the nine names and that not one person in four hundred miles can count that wall, because the thing that would make it a number is the word above the names and there is no word above the names, and that a company entered by the name of the place it keeps is therefore not a number and cannot be posted a wage, and that the man of about thirty-six who said the name of the gate out loud is not one of the nine, and that the man of about twenty-six who asked to stop being a guest is, and that the bar in that gate is still on the far side of the road because it is not his week.
