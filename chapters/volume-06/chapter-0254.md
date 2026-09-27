@@ -16,7 +16,7 @@ Roke turned the waxed slate over and turned it back. It is a thing a man does wi
 
 "**I am. Nineteen years in the Hearthguard of the outer ward, and I keep the ground behind the ordinary wall.**"
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+Nobody in that room moved for about as long as it takes to boil a pail, and the one window went on laying a bar of light across four feet of boards floor, and nobody stood in it.
 
 "And the slate."
 
@@ -26,7 +26,7 @@ Nobody in that room moved for a while, and the light in it went off the flats an
 
 "Can you answer them."
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about twenty-four turned her slate over, wrote the date on the back of it, and wrote the four days underneath the date, because the question had gone out four days before the room, and about four people in that room saw her do it and none of them said a word.
 
 "**No.**"
 
@@ -36,17 +36,17 @@ A woman of about twenty-four turned her slate over and wrote the date on the bac
 
 "You have a slate."
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The wind came up the outside of that stair and stopped at the door and went away again, and about nine people in that room have said since that they had stopped hearing it on that stair some time before they stopped hearing it in the room.
 
 "I have a slate with a count on it, and the count is not an answer to any of the four, and I have not dressed it up as one for nineteen years and I am not going to start this morning."
 
 "Who is not in this room."
 
-"**A woman of about thirty-nine at the top of that cut, who cannot get a rack above her shoulder, and a man of about thirty-one in a house by the wharf, who cannot make a hand close.**"
+"**A woman of about thirty-nine at the top of that cut, who cannot get a rack above her shoulder, and a man of about thirty-one at a stall by the wharf, with a hand that will not close.**"
 
 "They are not in this room."
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+A man at the back of that room shifted his weight from one boot to the other and said nothing at all, and about four people in that room have said since that they counted it because they were waiting for something else.
 
 "**Neither of them could be given the question in writing in four days and neither of them is here, and you have not asked me why I did not put their names on the paper and I am telling you before you ask. A list of who was not asked is a list.**"
 
@@ -66,7 +66,7 @@ Nobody said anything, and the one window put a bar of light across four feet of 
 
 "And the rest of the page."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Somebody said one word in the doorway and the person next to them said it back, and neither of them came in, and about four people in that room heard both halves and about nine did not.
 
 "The district has no rota on it. The district has no share on it."
 
@@ -76,7 +76,7 @@ Somebody at the door said something to somebody else and neither of them came in
 
 "Go on, then."
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+A chair went about four inches along the boards of that floor and nobody had asked the person in it to move it, and the man of forty-one in a very good coat went on with his nine sentences as though it had not happened.
 
 "There is no name on any roll she can find for that district, and she has had clerks looking for four quarters."
 
@@ -104,7 +104,7 @@ Then Roke put the waxed slate on the table, face up, and did not push it towards
 
 "You send the roll."
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The waxed slate lay face up on that table and nobody in that room asked to turn it over, and about four people in that room have said since that they wanted to and did not.
 
 "**Four times a year for nineteen years, to the office this docket came from.**"
 
@@ -114,7 +114,7 @@ The page on the table was turned so that the writing faced the man who could not
 
 "Nineteen years of a count that comes back the same."
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+Two of the people at that table got a figure out onto the back of their own hands without looking down, and about four people in that room have said that they have each done that about nine times in nine weeks and that not one of them has ever written the figure down.
 
 "**Nineteen years of a count that comes back the same, and a clerk who does the writing is not a villain and is not going to be asked anything about it, and the eight is the same eight every year because the eight is the eight.**"
 
@@ -158,7 +158,7 @@ Then the man of forty-one in a very good coat put his hand inside his coat befor
 
 "**It is. The figure is on a page in a building nine hundred miles from this table and this room is not that building, and about four people in this city would put it on a slate today if I said it, and a figure on a slate is a figure in four months.**"
 
-A woman of about thirty-nine who trades on the Open Hand board put his own hand over a thing on the table and left it there, and about four people in that room have said that he has done that four times in nine days and that nobody has ever asked him what was under it.
+A man of about thirty-nine who trades on the Open Hand board put his own hand over a thing on the table and left it there, and about four people in that room have said that he has done that four times in nine days and that nobody has ever asked him what was under it.
 
 "And the thing she did not say."
 

@@ -4,7 +4,7 @@ About a hundred and twenty people went through one door in the yard of the store
 
 ---
 
-Jonah Pike has run a warehouse on a river in another country for nineteen years and has been wrong about about one thing in ten for as long as anybody in this city has been able to check, which is since about the fortieth day of this flood. He came up that road at about the seventh hour with a printed sheet in his hand and gave it to the man of about thirty-four who keeps a stall before he said a word, and the man of about thirty-four took it, looked at the wage at the top of it, and did not say whether that was right.
+Jonah Pike has run a warehouse on a river in another country for nineteen years and has been wrong about one thing in ten for as long as anybody in this city has been able to check, which is since about the fortieth day of this flood. He came up that road at about the seventh hour with a printed sheet in his hand and gave it to the man of about thirty-four who keeps a stall before he said a word, and the man of about thirty-four took it, looked at the wage at the top of it, and did not say whether that was right.
 
 "You are early."
 
@@ -54,7 +54,7 @@ The ninth line is the only line on that wall anybody can read from the ground. I
 
 The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
 
-"I have run a store for nineteen years in another country and I am right about about nine parts in ten of the things I look at, and here are three things I think about that docket, and two of them are right and the third one I cannot finish."
+"I have run a store for nineteen years in another country and I am right about nine parts in ten of the things I look at, and here are three things I think about that docket, and two of them are right and the third one I cannot finish."
 
 "Go on."
 

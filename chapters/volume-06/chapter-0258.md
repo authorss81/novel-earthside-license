@@ -1,12 +1,12 @@
 # Chapter 0258 — Nobody Can Enter The Holding Company
 
-On the third day of the Short Month a company had to be entered somewhere in this city, and the only two pages in this city that anybody can enter anything on were both in the room over a market, and one of them has nine lines on it and the other has eleven, and the question of the day was which of the two a company goes on. The wind has been at the wall of the store on the upper road for twenty-nine days. The board above that door carries the figures of the sixty-ninth day of the Long Month, which are thirty-four days old, and has not been written on since the day after them, and the posting on that wall has one line left on it of the nine it went up with.
+On the third day of the Short Month a company had to be entered somewhere in this city, and the only two things anybody in this city can enter anything on are a compact of eleven lines in a room over a market and a posting of nine lines on a wall nine miles up the road, and the question of the day was which of the two a company goes on. The wind has been at the wall of the store on the upper road for twenty-nine days. The board above that door carries the figures of the sixty-ninth day of the Long Month, which are thirty-four days old, and has not been written on since the day after them, and the posting on that wall has one line left on it of the nine it went up with.
 
 ---
 
 The woman of about twenty-nine who keeps a public register had refused three things out loud in two hundred and fifty-eight days and she had named the cost before she said it every time, and she said the cost first on this one as well, standing at the table with a piece of chalk in her hand, and about nine people in that room have said that she is the only person in this city who has never once said a thing out loud before saying what it costs.
 
-"**It is the register's slate, the second one, and I have carried it since the second month of this flood, and I am going to put a company on it, and there is no line on either page for one.**"
+"**It is the register's slate, the second one, and I have carried it since the second month of this flood, and I am going to put a company on it, and there is no line on either of the two things for one.**"
 
 "That is the whole of the cost."
 
@@ -14,7 +14,7 @@ The woman of about twenty-nine who keeps a public register had refused three thi
 
 "Have you had a reason the other three times."
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+Nobody in that room sat forward while she was saying it, and about nine people in the hall outside had to lean on the rail to hear whether the room was saying anything, and the room was not.
 
 "I have had a reason the other three times and the reason is always the same one, which is that somebody is about to write it down and nobody with standing is going to say no. That is the reason. It has worked three times and about four people in this city have told me that a thing which works three times is a rule, and I am not going to be a fourth rule by accident."
 
@@ -22,7 +22,9 @@ Nobody in that room moved for a while, and the light in it went off the flats an
 
 "I have not said I cannot. I have said there is no line."
 
-She read the posting out once, in the local language, in the order it is written, and she read the eight above the ninth and then she stopped, and about four people in that room waited for the ninth and none of them said anything, and she put her hand flat on the slate and left it there.
+Before she read anything, the man of about thirty-nine who trades on the Open Hand board put a slate on the table with nine lines on it in the order they are on the wall, one under another, and the ninth of them was not on it, and about four people in that room wanted to know who had copied it and about nine did not ask. He had gone up that road before the room opened and read it off the wall with a cloth, because a wall of chalk nine miles up a road is not a thing anybody can carry into a room and there is no other copy of that wall in four hundred miles.
+
+She read what was on that slate once, in the local language, in the order the wall has it, and she read the eight above the ninth and then she stopped, and about four people in that room waited for the ninth and none of them said anything, and she put her hand flat on the slate and left it there.
 
 "That is eight of nine."
 
@@ -38,23 +40,23 @@ Then she read the compact out, once, in the local language, and gave the count o
 
 "And after the eighth."
 
-"**Then a person may be found. Then a share. Then a date and two commons, and that last one is the only line on either page that says who made it, and it says two bodies made it and neither can be ended by anybody who is not a party to it.**"
+"**Then a person may be found. Then a share. Then a date and two commons, and that last one is the only line of the eleven that says who made it, and it says two bodies made it and neither can be ended by anybody who is not a party to it.**"
 
 "And the posting."
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about twenty-four turned her slate over on that table, wrote the date on the back of it, and put the chalk down beside the slate and not on it, and about four people in that room saw her do all three of those things.
 
-"**The posting is nine of those eleven. It carries the same eight, and the store and its queue has been put at the bottom of the wall as the ninth.**"
+"**The posting is nine of those eleven. It carries the first seven of them in the order this page has them, and the date and the two commons is the eighth on that wall because somebody put it there, and the store and its queue was written last, at the bottom, in a harder chalk, as the ninth.**"
 
 "Which two are missing."
 
-"**The ninth of the compact and the tenth, which are a person who may be found and a share. Nine on the wall and eleven in the compact, and the difference between them is a person and a share, and not one line of either of them is a company.**"
+"**The ninth of this page and the tenth, which are a person who may be found and a share. Nine on the wall and eleven on the page, and the difference between them is a person and a share, and not one line of either of them is a company.**"
 
 "Somebody will ask which the ninth is."
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The second slate was not moved while she was saying it and the chalk in her hand was not used, and about four people in that room have said since that a woman who has a thing to say and a piece of chalk in her hand and does not use it has already decided what the page is.
 
-"About four people in this room have already worked out that the same line is a different number on two pages, and about nine have not, and I am not going to say which is which tonight, because a line that changes its number between two pages is exactly the thing a clerk nine hundred miles away would pay for."
+"About four people in this room have worked out that the store and its queue is the eighth line of one of those two things and the ninth line of the other, and about nine have not, and I have said both numbers out loud in this room and I am not going to say which wall or which page either of them belongs to without the one in front of me, because a clerk nine hundred miles away would pay for a number without a page and that is the whole of what I am refusing to do."
 
 ---
 
@@ -74,7 +76,7 @@ She turned the slate round and read it out, and it said that a page with a perso
 
 "It is that I have been right about this in about nine rooms for a hundred days and it has never once stopped anybody writing, and today somebody has written it on a slate in a room and I did not have to be in the room, and about four people have said that is the first time the sentence has been in a document instead of a mouth."
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+A man at the back of that room had a coat over his arm and put it down on the floor at his feet and then picked it up again, and about four people in that room have said since that they have seen him do that in four rooms in four days.
 
 "About nine people in this room think you are wrong."
 
@@ -90,7 +92,7 @@ The woman of about thirty-four who keeps a stall by a wharf said the third thing
 
 "Who is that for."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Somebody at the door said a thing to somebody in the passage and neither of them came in, and the woman of about thirty-four who keeps a stall by a wharf did not turn round, and about four people in that room have said since that she is the only person in it who has not turned round once all day.
 
 "It is for the man who wrote the ninth line, and he is four streets away, and he is not in this room, and I have not asked him."
 
@@ -100,7 +102,7 @@ The step at the back of that room took the light until about the fifth hour and 
 
 Jonah Pike came up the road at about the fourth hour with nine people behind him who had said they would go into a company, and he counted them on his fingers in that yard, out loud, in front of about nine of them, and the number was nine.
 
-"Two. Three. Four. Nine. That is nine and I have counted them twice and it is nine both times, and about four people in this yard have worked out that I have counted them twice because the first count was a number and the second count was a list."
+"One, two, three, four, five, six, seven, eight, nine. That is nine and I have counted them twice and it is nine both times, and about four people in this yard have worked out that I have counted them twice because the first count was a number and the second count was a list."
 
 "It is a list."
 
@@ -108,7 +110,7 @@ Jonah Pike came up the road at about the fourth hour with nine people behind him
 
 "You have not put it on anything and you have said it out loud, and out loud is a place a person can be found in, and about four people in this city have worked out that a thing said in a yard on a Sunday is on about nine walls by Tuesday."
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+A chair went about four inches along the boards of that room and Jonah Pike looked at it and then at the yard, and about four people in that room have said since that he was the only person in it who looked at both.
 
 "Then it is on about nine walls by Tuesday and it is not on any page, and I would like that entered as the reason I said it out loud and not as a defence of it."
 
@@ -118,7 +120,7 @@ A chair was moved about four inches along a boards floor by a person who had not
 
 "That is a favour."
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The slate under Jonah Pike's hand was turned so that the writing on it faced him, and he read a line of it and did not say that he had, and about nine people in that room have said since that he has never in nineteen years read a page a person had not offered him.
 
 "**A wage paid out of a store by people who owe it is not a favour. A wage paid out of a pocket is a favour. And a favour is a thing that stops. I can pay it and I cannot post it, and both of those are true on the same morning, and I have run a store for nineteen years and I have never had those two things be true on the same morning before today.**"
 
@@ -134,7 +136,7 @@ They entered it at about the seventh hour of the evening. The heading at the top
 
 "Not the other one. The other compact's ninth line is a person who may be found, and that document cannot be ended by asking at all, and about four people in this room have been using the two of them as though they were the same page since the second month and I am not going to let it happen on my slate."
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+Nine went onto the back of a hand at the back of that room and then the hand went into a pocket, and about four people in that room have said since that they have each done that about nine times in nine weeks and that none of them has ever said where the number came from.
 
 "And a company of guests cannot be ended by asking."
 

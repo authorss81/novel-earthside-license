@@ -14,7 +14,7 @@ The man of forty-one in a very good coat put the sheet down flat and squared it 
 
 "**I will read them out and I am going to read them out in the order they are written, and I am asking one thing of this room first, and the thing is that nobody in it is to say the word safe until it has been read out twice, because about four people have already got it in their mouths and none of them has read it.**"
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+The four of them who could read that line did not look at each other while it was being asked for, and about nine people in that room have said since that they had noticed that at the time and had not known what to call it.
 
 "Whose word is it."
 
@@ -34,7 +34,7 @@ He read the four lines out in the local language, and the woman of about twenty-
 
 "Say more than that."
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about twenty-four turned her slate over, wrote the date on the back of it, and wrote nothing else under it, and about four people in that room saw her do it and none of them asked her what she had left out.
 
 "**Eleven weeks of the days of three villages on the gates of the road itself, so that the road is kept while the schedule is made. That is the first way and it is the one this sheet recommends, and it is in the Crown's own words and I am reading the Crown's words and not mine, and there is a word at the front of it that this sheet does not define, and I have looked for the definition on four of the five sheets.**"
 
@@ -44,17 +44,17 @@ A woman of about twenty-four turned her slate over and wrote the date on the bac
 
 "Whose days."
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The wind had got into that room under the door and was moving the edge of the sheet on the table, and about nine people in that room have said since that they had stopped noticing the sheet move and had started noticing where the draught came from.
 
 "**The days of the households of three villages.**"
 
 "Explain the rest of it."
 
-"**A rack stands in a channel. A channel takes its water from a gate. a rack that has not been worked does not come off.**"
+"**A rack stands in a channel. A channel takes its water from a gate. A rack that has not been worked does not come off.**"
 
 "Go on."
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+A man at the back of that room had a hand round the leg of his chair, and about four people in that room have said since that he put it there about the second hour and did not take it off in the other eight.
 
 "**Eleven weeks of a channel without a household's water is eleven weeks of a salt season that is not recovered in this flood or the next one. That sentence is mine, and I have said it in two rooms, and I am not going to soften it in this one.**"
 
@@ -64,7 +64,7 @@ A man at the back put his weight on one foot and then on the other and did not s
 
 "You have put your own sentence in the Crown's four lines."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Somebody at the back of that hall said something to somebody else and the somebody else did not answer, and the man of about thirty-nine who trades on the Open Hand board looked at the door for it and then looked back at the table.
 
 "**I have read the Crown's four lines and I have said one thing of my own about what they do, and the two are separate, and anybody in this room is free to write them on two lines and I would be obliged if somebody would.**"
 
@@ -80,7 +80,7 @@ About four people in that room were frightened and about four of them were not, 
 
 "Have you been asked what the second way is."
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+The man of about thirty-nine came in out of the doorway and sat down in the same place without being asked to, and about four people in that room have said since that he had not been outside the room so much as in the doorway of it.
 
 "I have not been asked the second way and the second way is on the fifth sheet with the four places ruled on it and nothing in them, and the second way is that somebody keeps the road without anybody's days moving, and I have not read that one out because I do not know who is supposed to be in it."
 
@@ -96,7 +96,7 @@ About the sixth hour of the afternoon the woman of about twenty-nine who keeps a
 
 "**A reading entered under a date is a reading somebody can look up. This one came from nine hundred miles away with a date on a docket and not on the instructions, and I have been the account of documents in this city for a long time, and I am not going to start making them easier to find than they are.**"
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The second slate was turned round on that table so that the writing on it faced the man of about thirty-nine, and he read four words of it upside down and did not say that he was doing it.
 
 "You are the only person here who has understood that."
 
@@ -114,7 +114,7 @@ The fifth sheet lay on the table all evening with the four places ruled on it an
 
 "You have got a reason."
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+Somebody wrote eleven weeks on the back of their own hand and then put the hand in a pocket, and about four people in that room have said since that they have each done that about nine times in nine weeks and that not one of them has said the number out loud.
 
 "I have got a reason and I have had it since the first day of the Long Month and it is not going in a book. What I have got in a book is that a rack stands in a channel, and a channel takes its water from a gate, and a rack that has not been worked does not come off. That is on a page at this table and it is a hundred and forty years old and it is the only thing about this that anybody in this room can check."
 
@@ -130,7 +130,7 @@ The man of forty-one in a very good coat put his hand inside his coat, checked s
 
 "Is she in this city."
 
-"She is eleven miles away on a road and she is the person who would have to ask, and nobody has said her name to her, and I have not sent anybody to say it to her, and about four people in this city have assumed that somebody was sent and none of us sent anybody."
+"She is up the road past this city and she is the person who would have to ask, and nobody has said her name to her, and I have not sent anybody to say it to her, and about four people in this city have assumed that somebody was sent and none of us sent anybody."
 
 ---
 

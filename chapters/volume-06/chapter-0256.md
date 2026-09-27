@@ -14,7 +14,7 @@ Sera Vail has been a notary for twenty-six years and has certified about nine hu
 
 "Today is a hundred and one, and there is no hundred and first day of anything in this world, and there has never been one, because a month is not a thing that goes on for ever. I have run out of month."
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+Nobody in that room moved for about as long as it takes to say a thing twice, and the hall outside stopped giving the room's voices back, and the two of those happened within about four seconds of each other.
 
 "Then write the flood."
 
@@ -24,7 +24,7 @@ Nobody in that room moved for a while, and the light in it went off the flats an
 
 "I write what I am given, and there is a difference between a recorder and a notary that took me nine years to learn. A recorder writes down the day it is. A notary certifies the day a thing was done. This morning I have been asked to certify a day and there is no day to certify, and I have been asked it in a room with a date on the door that I did not write and cannot certify either."
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about twenty-four turned her slate over, wrote the date on the back of it, and then went on holding the chalk in her other hand without using it, and about four people in that room saw her do both and none of them said a word.
 
 "Who should be asked about a name for it."
 
@@ -42,7 +42,7 @@ The woman of about seventy against that wall is from a village of nine household
 
 "It is my reason and it is not good, it is correct, and I have been asked nothing for a long time and I am not going to be asked this. I have said no four times in about nine years and every one of the four was correct and I would like the four of them left where they are."
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The cart the woman of about seventy had come up the road in had gone back down it by the tenth hour, and about nine people in that room have said since that they had stopped watching the door for it and had started watching the wall instead.
 
 "You may be asked to hear the name."
 
@@ -60,7 +60,7 @@ The notary stood at the table and did not sit down and put her slate flat on it,
 
 "Say the rest of the cost."
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+A man at the back of that room changed his foot and the boards went under it, and the notary went on with the cost as though the boards had not.
 
 "**I have been the only person in this city keeping a count of my own counting since the fortieth day of this flood and from nothing else, and I am tired of it.**"
 
@@ -70,17 +70,17 @@ A man at the back put his weight on one foot and then on the other and did not s
 
 "You did this before."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Somebody in the hall said one word to the person beside them and the person beside them said it back, and about four people in that room heard it and about nine did not, and none of the three turned round.
 
 "I did this before, on the first day of the Long Month, in a room with a date on the door, and about nine people were in it and about two hundred and forty could hear out of the hall, and nobody refused me that morning, and I have thought about that on about nine days since and I have got to the bottom of it this week. Nobody refused me because there was nothing to refuse. There was no page with a column in it, so there was nothing to put a name into, and a person will refuse a name for a thing that is only a name and will not refuse a name for a thing that is going into a page."
 
 "Then that is what has changed."
 
-"That is exactly what has changed and I would like it entered in those words, because about four people in this room came here to watch a woman name a month and what has actually happened is that a column arrived from nine hundred miles away three days before I did this."
+"That is exactly what has changed and I would like it entered in those words, because about four people in this room came here to watch a woman name a month and what has actually happened is that a column arrived from nine hundred miles away five days before I did this."
 
 "Name it."
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+Nobody in that room sat down, and about nine people in the hall had to stand up because the front row stood up, and the notary waited for that to finish before she said it.
 
 "The Short Month. It is sixty days long and it ends on the sixtieth day of it. The hundred and first day of the Long Month and the first day of the Short Month are this morning, and both of those are true, and a page that says one of them is wrong."
 
@@ -98,7 +98,7 @@ About four minutes later the wall said one thing, and it said it once, and it is
 
 "You will keep the name."
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The docket at the other end of that table was turned so that the writing on it faced a man who could not read it, and about four people in that room have said since that it was done for him and that he did not look up.
 
 "I will keep the name. I have put my own name on a month twice in a hundred days now, and the first time was because there was no page at all and the second time is because a page had a column in it, and I have not improved on either and I am not going to."
 
@@ -112,7 +112,7 @@ Then the woman of about seventy against that wall spoke for the second time in t
 
 "The fifth is a name."
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+About four people in that room wrote something on the back of their own hands in that half-minute and about nine wrote nothing, and the woman of about seventy against the wall watched all of it from where she was sitting and did not ask them what they had written.
 
 "**The fifth is a name at the head of a page and not a thing anybody has done. I am not going to take it back to them and tell them it was nothing, and I am not going to tell them it was a good thing either, because I do not know.**"
 
@@ -122,7 +122,7 @@ Somebody wrote a figure on the back of their own hand and then put their hand in
 
 "Then let it be recorded."
 
-A page was put down flat on a table and about four hands went towards it and about nine hands stayed where they were, and about four people in that room have said since that the nine hands were the ones that would have to answer for it.
+The woman of about twenty-four put the page down flat in the middle of that table, and about four hands came towards it and about nine stayed where they were, and the woman of about seventy against the wall looked at the nine and not at the four.
 
 "**Then let it be recorded in a room and not in a book, because a book is what the clerk writes the number in, and about nine households behind me have found out once already what a book with a number in it does.**"
 

@@ -14,7 +14,7 @@ The question had been written out and given by hand four days before that room, 
 
 "**I am going to give a reason and it is nine words long and it is going to be the whole of it. Nobody here carries a Crown case but the Hearthguard.**"
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+The room did not move, and about four people in it have said since that they had come in ready to argue and had not been told what they were arguing about yet.
 
 "That is nine words."
 
@@ -24,7 +24,7 @@ Nobody in that room moved for a while, and the light in it went off the flats an
 
 "**I could put this coat on a bench and take the case up that road as a man who is not a Hearthguard, and a case carried that way is a case carried by nobody.**"
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about twenty-four turned her slate over, wrote the date on the back of it, and put the chalk into her apron, and about four people in that room saw her do it and nobody asked her what the date was for.
 
 "That is worse."
 
@@ -34,7 +34,7 @@ A woman of about twenty-four turned her slate over and wrote the date on the bac
 
 "I have thought about that before and I have not done it and I am not going to. The Hearthguard's share of a thing is the only part of it anybody can refuse, and if I take the coat off then nobody in four hundred miles can refuse the rest of it."
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The window of that room had been shut since the morning and the air in it had gone thick, and about nine people in that room have said since that they had stopped noticing the shut window and had started noticing what Roke had said.
 
 "You are not refusing the case. You are refusing the carrying of it."
 
@@ -54,7 +54,7 @@ The room waited for the rest of it. There was no rest of it. He put his hand fla
 
 "**A Crown case is not going up that road. About four people in this room have worked out that a case which does not go is a case which is not read, and they are right, and that is the cost of it, and the cost belongs to three villages and not to this room.**"
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+The man of forty-one in a very good coat put his hand inside his coat and left it there, and about four people in that room have said since that he had not taken it out once in that hour and that the second hour was the worse one.
 
 "Whose season is it."
 
@@ -76,7 +76,7 @@ A woman of about thirty-four from a fourth household on the road wrote something
 
 "He has refused to carry it and he has asked for it to be read, and about four people in this room have been in this city for two hundred and fifty-nine days and nobody has ever asked for that."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Two people at the door said one word between them and the second of them said nothing back, and about four people in that room heard it and about nine did not, and the woman of about thirty-four from a fourth household on the road did not look up from the slate.
 
 "Has it been asked for anywhere."
 
@@ -86,7 +86,7 @@ Somebody at the door said something to somebody else and neither of them came in
 
 "**I have wanted to ask it myself about four times since the second month of this flood and I have not, because I have never once been the one carrying anything to anybody, and asking for it on another person's behalf is a thing a person does when they want the credit of it.**"
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+A chair went about four inches along that floor and the register-keeper let it go, and about four people in that room have said since that she is the only person in it who lets a chair go.
 
 "That is not a good enough reason."
 
@@ -96,7 +96,7 @@ A chair was moved about four inches along a boards floor by a person who had not
 
 "He does not want it. He wants the asking entered, and he said so in four words and then he sat down, and I have been in rooms with men who want things for nineteen years and that was not it."
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The second slate was turned so that the writing on it faced away from Roke, and the register-keeper did not turn it back, and about four people in that room have said since that the man of forty-one in a very good coat noticed and said nothing.
 
 "What did you think he wanted."
 
@@ -118,7 +118,7 @@ The man of about forty-one in a very good coat was in that room and had his hand
 
 "I have never tried and I am not going to try inside a hundred days. A man who has not tried a thing is not a man who has decided against it, and about four people in this city have said that to me and they are right, and I have not decided against it and I have not got to it either, and those are two different sentences and this city keeps not hearing both of them."
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+Somebody wrote four times a year on the back of their own hand and then put the hand away, and about four people in that room have said since that they have each done that about nine times in nine weeks and that the figure on the hand is always one of his five and never their own.
 
 "You want to try it."
 

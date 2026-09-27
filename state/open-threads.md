@@ -725,3 +725,48 @@ These are recorded because a later reader of this file should not have to redisc
 ### The next phase of this block, by path
 
 **`workspace/volume-06/batch-0002/PROMPT.md`,** a batch that writes Chapters 0261 onward, ten chapters, days 261 to 270, one chapter to one day, ending on a Friday. It exists and it names no path that does not exist, and every file this batch wrote names that one path and no other.
+
+---
+
+## Volume 06, Batch 0001 — REVIEW REPAIR PASS. NO THREAD CLOSED, NO THREAD OPENED, TWO THREADS GIVEN A RULING THEY DID NOT HAVE, AND THE FIGURES RE-CHECKED AGAIN.
+
+**The record is `state/batch-summaries/volume-06-batch-0001.md` §14. Newest block wins and nothing above this one was restructured. Every thread the four blocks above left open is open, and the two rulings below are not new threads: they are the answers to two questions a thread of the outline's own raising.**
+
+### 1. THE FOUR THREADS THE OUTLINE PHASE OPENED ARE UNCHANGED IN STATE
+
+1. **THE INSTRUMENT. On a table, correct, and it has done nothing.** The case has not been opened, the schedule is not filled in, and the four places are a date, a gate, a holder, the days. The ninth line is unmoved, undated and unread aloud and whether it works is unanswered.
+2. **THE WORD THAT DOES NOT EXIST. Settled on a page in Chapter 0258 against the day-154 compact.** A company is entered by the name of the place it keeps and cannot be posted a wage, a wage that cannot be posted is a favour, and a favour stops in Chapter 0277 and about nine people stop turning up. **The repair pass added no word and removed none.**
+3. **THE TWO ROLLS. Not discovered.** Roke's own eight were asked about on day 254 on a day he did not choose and he answered with five figures and no feeling, on two slates, unjoined. The second roll of the same gates is still nobody's and the question it earns is Volume 07's.
+4. **THE SCAR. Not seen, not measured, not dug.** It is Chapter 0299.
+
+### 2. THE NEW THREAD THIS BATCH OPENED IS UNCHANGED, AND IT IS STILL NOT A COUNT
+
+5. **NINETY-FOUR GATES, on a page, in a mouth, and not a count.** Said out loud in a market on the hundredth day of the Long Month by a woman of about twenty-four who said in the same breath that nobody in four hundred miles has ever counted them. **No later writer may treat it as a count, correct it, improve on it, or build anything on it, and it is not four hundred and forty and must never be read as a variant of it.** The repair pass did not touch it.
+
+### 3. TWO RULINGS, BOTH OF WHICH A THREAD OF THIS VOLUME'S OWN HAS BEEN LEANING ON WITHOUT BEING GIVEN
+
+6. **THE KEEPER OF THE REDROOT GATE IS NOT IN THE NEXT BATCH, AND THE TEST IS PHYSICAL.** The string *Redroot* was at zero across Batch 0001's ten files and that was printed as proof, **and it proved nothing, because her whole presence in this manuscript is a woman working the invert of a channel with a stick in silence at the top of a cut. Chapter 0260 gave the Marches' gatekeeper that entire silhouette and a reader would have read her as the keeper.** She is now taken apart from her in verb, tool, material, room and light. **The standing rule for every chapter of the rest of this volume: no chapter may give the Redroot keeper's working, her tool, her silence-with-somebody-else, her boards or her light to anybody, and the check is a person-by-person read and not a search.**
+
+7. **THE FOUR WOMEN OF ABOUT THIRTY-FOUR ARE FOUR, AND TWO OF THEM WERE ON A PAGE IN CONSECUTIVE CHAPTERS WITH NOTHING SAYING SO.** **The woman from a fourth household on the road** (Chapter 0259, silent, writes the asking, and put the first broom down on the boards at the top of the Redroot cut on the ninety-second day of the Long Month) **and the woman who keeps a stall by a wharf** (Chapter 0260, writes the question, her name on a page in the world and on no page you can read) **are two people.** The other two are the woman in the store on the upper road, who is on no list in it, and the woman in the house at the bottom of the cut. **The man of about thirty-four who keeps a stall and wrote the ninth line is a fifth person and is never in a sentence with any of the four.** The map is `state/volume-05-close.md` §4 and it is now written into four files instead of one.
+
+8. **AND THE STANDING FIGURE THAT IS NOT A THREAD AND THAT A WRITER WILL GET WRONG: no chapter of Volume 06 may put a number on the distance to the road west.** The only distances in this world are nine, eleven and four miles, and `outline/volume-06.md` §5 says the Marches are at none of them. **Nine is the store up the road past this city, eleven is the Reach and the flats, four is the causeway, and the Marches are *up the road past this city* in words and at no distance in figures.** Two sentences in the plan layer said eleven and the page no longer does.
+
+### 4. THE FIGURES, RE-CHECKED AFTER THE REPAIR PASS
+
+- **The board's figures are the figures of day 224 and are the day less 224. Twenty-nine days old on day 253 and thirty-one on day 255, and both are on a page. At day 261 they are thirty-seven, and the board has stood unwritten thirty-six.** Chapter 0251 names the figures' own day and the day after them and states no age.
+- **The wind has been at the wall of the store on the upper road since day 229 and is the day less 229. Twenty-four days on day 253 and twenty-six on day 255, and both are on a page. At day 261 it is thirty-two.**
+- **The trestle count is the day less forty and is two hundred and eleven at day 251, two hundred and thirteen at day 253 and two hundred and twenty at day 260. Two hundred and thirteen is the only one of the three on a page, and it is in narration and dated and its anchor is named in the same sentence.**
+- **The case's age is the day less 251 and is eight at day 259. Eight is the only value of that figure on a page in this manuscript, and a state file that said nine was on a page in Chapter 0260 was wrong and is corrected.**
+- **The count of silences is one hundred and sixty-one at day 260, derived, on no page, in no mouth, and is not in any of these ten chapters.**
+
+### 5. AND THE TWO CHECKS THAT WERE MISSING, WHICH ARE THE POINT OF THIS BLOCK
+
+**A cross-file string comparison of every sentence of forty words or more, and a person-by-person read of the physical signature of everyone a volume has ruled out of a chapter.** **The first found sixty-seven repeats in eight chapters of ten and the second found the Redroot keeper in Chapter 0260 while a search for her name returned nothing.** Both are in `state/batch-summaries/volume-06-batch-0001.md` §14.14, and both are cheap, and **a batch that writes a recurring set of interstitial beats on purpose should expect the first warning and should vary the sentences rather than the beats.**
+
+### 6. THE CONTROLLER-OWNED ITEM, UNCHANGED AND STILL CONTRADICTING
+
+`state/phase-ledger.json` still reads `phase-000-bootstrap / planned / attempts: 0`. **Nothing functional breaks** — dispatch is `find workspace -name PROMPT.md` in `scripts/novel_runner.sh:40` and `.github/workflows/novels.yml:126` — **and the file is controller-owned and was not touched by this pass either.** Recorded so the next review does not spend itself on it.
+
+### The next phase of this block, by path
+
+**`workspace/volume-06/batch-0002/PROMPT.md`,** a batch that writes Chapters 0261 onward, ten chapters, days 261 to 270, one chapter to one day, ending on a Friday. It exists, it is corrected in six places by this pass, and every file this batch wrote names that one path and no other.

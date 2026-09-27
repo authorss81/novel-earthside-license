@@ -1,6 +1,6 @@
 # Chapter 0251 — A Case Comes Up The River
 
-A case the size of a bread chest came off a barge at the salt wharf at about the sixth hour of the morning on the ninety-sixth day of the Long Month, and the barge was going on to Silt Row and would not lie alongside again that day, and the man who took the case off it put it on a handcart and has not taken his hand off it since. The light on that quay was flat, the cold came up off the water and not down out of the sky, the wind was coming across the flats and had been at the wall of the store on the upper road for twenty-two days, and what was under that man's hands all morning was an oak lid, a cold bar and a knot of oiled cloth tied twice. About four hundred people were on that quay, and the posting on the wall of that store has been up fifty days and carries one line of the nine it went up with, and the board above that door has not been written on since the day before.
+A case the size of a bread chest came off a barge at the salt wharf at about the sixth hour of the morning on the ninety-sixth day of the Long Month, and the barge was going on to Silt Row and would not lie alongside again that day, and the man who took the case off it put it on a handcart and has not taken his hand off it since. The light on that quay was flat, the cold came up off the water and not down out of the sky, the wind was coming across the flats and had been at the wall of the store on the upper road for twenty-two days, and what was under that man's hands all morning was an oak lid, a cold bar and a knot of oiled cloth tied twice. About four hundred people were on that quay, and the posting on the wall of that store has been up fifty days and carries one line of the nine it went up with, and the board above that door carries the figures of the sixty-ninth day of that month and has not been written on since the day after them.
 
 ---
 
@@ -96,7 +96,7 @@ About four people in that room had been waiting all morning for him to say who h
 
 "Nine sentences is what I have heard you say today."
 
-"**Then you have counted. I have kept the count, and I am not going to say the ninth one in front of a room, because in twenty-six years I have never found out afterwards what I said in the tenth.**"
+"**Then you have counted. I have kept the count, and I am not going to say the ninth one in front of a room, because in nine years of keeping it I have never once found out afterwards what I said in the tenth.**"
 
 He put his hand inside his coat, checked something there, and took his hand out again, and nobody in that room remarked on either half of that.
 

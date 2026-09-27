@@ -66,9 +66,9 @@ A man of about thirty-nine who trades on the Open Hand board wrote the four plac
 
 "Read them again."
 
-A man of about thirty-nine at the back wrote the four places out on his own hand and then put his hand flat over it, and about four people in that room saw him do it.
+The man of about thirty-nine who trades on the Open Hand board had not moved and had not taken his hand off the four places, and about four people in that room have said since that the two of them are the only two people in it who have heard the same thing twice and said nothing about either of the times.
 
-"I am not reading them again. I said them once, slowly. I am not going to say them a third time this morning, because a thing said three times in a room is a thing being agreed to, and nothing in that docket has been agreed to by anybody in this city."
+"I am not reading them again. I said them once, slowly, and I have said that twice this morning and a third time is a thing being agreed to, and nothing in that docket has been agreed to by anybody in this city."
 
 "You are not going to let anybody write them down."
 
@@ -94,11 +94,15 @@ A woman of about twenty-four on the second step of the stair wrote nothing at th
 
 "I have read it, and I find it correct." He said it without turning round from the window. About four people in that room looked at the back of a good coat and did not ask him anything else. He was in that room until about the eleventh hour and after that he was in the hall, and what he did in the hall is entered and not described.
 
-"What is the second line."
+"What is the first line."
 
-"The second line is the crossing and the ground adjoining it, and an emergency declared in both, and the crossing is not this room and the ground adjoining it is not a street you can point at from a window, and that will not be got past today."
+"The first line is the crossing and the ground adjoining it, and an emergency declared in both, and the crossing is not this room and the ground adjoining it is not a street you can point at from a window, and that will not be got past today."
 
 A woman of about thirty-four who keeps a stall by a wharf said out loud that a ground you cannot point at from a window is a ground about nine hundred people are going to be told somebody else is standing on, and the man of forty-one in a very good coat did not answer her, and about four people in that room have said since that that was the first sentence of the day with a person in it, and that it was hers.
+
+"The second line."
+
+"The second line is the days. Every gate between this city and the gates of the west road, and the days on it to be entered in a schedule, and that is the line the other three are for, and it is the only line of the four that anybody in this room can put a hand on. About nine people on that landing have just heard it said out loud for the first time this morning and about two hundred and forty have not, and it is entered that I read it in the local language and did not translate it."
 
 "The third line is a company."
 
@@ -114,7 +118,7 @@ The light in that room went off the flats and up the far wall of it while she wa
 
 "**A company that holds a place pending a schedule is a thing I have read about once, and it was nine hundred miles from here.**"
 
-The light in that room went off the flats and up the far wall of it while she was standing there, and nobody moved out of it.
+The light in that room moved off her and onto the wall behind her, and about four people in that hall have said since that they watched it happen and that they could not afterwards have said what had changed.
 
 He turned round at that and looked at the room for the first time since the ninth hour, and about four people in that room found that they had been looking at the back of a good coat for two hours and had not noticed.
 

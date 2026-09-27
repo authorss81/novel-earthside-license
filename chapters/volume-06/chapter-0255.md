@@ -10,13 +10,13 @@ She got the first one out at about the seventh hour on her knees with a flat tro
 
 "You are not to break them."
 
-"Nobody has told me I may break them. Nobody has told me I may not either, and I have gone a hundred days in this flood without being told I may do a great many things, and I have worked out that the safest way to live is to do the ordinary day's work and to stop where the ordinary day's work stops."
+"Nobody has told me I may break them. Nobody has told me I may not either, and I have gone two hundred and fifty-five days in this flood without being told I may do a great many things, and I have worked out that the safest way to live is to do the ordinary day's work and to stop where the ordinary day's work stops."
 
 "They are under your counter."
 
 "They are under my counter and the damp is coming up the wall on that side. It came up that wall on the thirty-eighth day of that month and it has not stopped, and salt that takes damp is salt that has got about four weeks in it, and a shop that has got four weeks in its salt is a shop for about a month and then is not a shop."
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+The light in that shop came off the street flat and went over the top of the counter and off the front of her forearms, and for as long as it takes to boil a pail nobody in that shop moved and the second measure was where it was.
 
 "How long is a month."
 
@@ -32,7 +32,7 @@ The man of about thirty-nine who trades on the Open Hand board was at the back d
 
 "You said it once and you have not said it again and that is twice in a way, and I am not going to argue about it with a man in my back door. I know why you are not."
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about twenty-four turned her slate over on the boards of that back room, wrote the date on the back of it, and left it face down, and about four people in that shop saw her do it and none of them said a word about leaving it face down.
 
 "Do you."
 
@@ -42,7 +42,7 @@ A woman of about twenty-four turned her slate over and wrote the date on the bac
 
 "**That is the reason and it is a good one. I have traded with you for about two hundred days and I have never once seen you late for anything, and I would rather say the reason than say thank you, and I am aware that those are not the same and I have thought about it.**"
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The wind in that street had gone round the corner by about the ninth hour and come back with a different edge on it, and about nine people in that shop have said since that they had stopped noticing which way it came from and had started noticing when it stopped.
 
 "I would have said that."
 
@@ -66,7 +66,7 @@ About four people who came into that shop between the ninth hour and the elevent
 
 "**It was on a wall somewhere, and if it was on a wall for a reason then it has been on my floor for a quarter of an hour for a reason, and I do not think the two reasons are the same one, and I would like to be wrong about that.**"
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+The man of about thirty-nine in the back door moved a boot about a foot to the left so that he could see past her, and then moved it back again, and neither time did he say anything.
 
 "There is salt on the ninth of the flats in a yard nine miles up that road and nobody has been near it since the day it went down, and there is a coat over a pan in the same yard, and there is salt in this shop, and I have been trying for about two days to work out how many sets of salt there are in this city and I cannot, and I have stopped trying, and I have never said that out loud to anybody."
 
@@ -90,7 +90,7 @@ At about the fourth hour of the afternoon she took out the day-book of that shop
 
 "I could write the flood, and then a person reading that page in about four months would not know which of the four hundred days of it it was, and I have not been doing that since the fortieth day of this flood and I am not going to start on a Thursday with nine measures of salt on the floor."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Somebody put their head in at the door of that shop and said a thing to the person beside them and neither of them came in, and the woman of about fifty-six did not stop with the chalk in her hand.
 
 "Then what goes at the head of it."
 
@@ -100,7 +100,7 @@ Somebody at the door said something to somebody else and neither of them came in
 
 "**That is a page with nothing at the head of it, and a page like that is a page a clerk nine hundred miles away can put anything at the head of, and there is a docket on a table in a room over a market in a form nobody in this city writes.**"
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+A chair went about four inches along that shop floor and the woman of about fifty-six did not ask who had moved it, and about four people in that shop have said since that she asks about everything else before breakfast.
 
 "Does it match."
 
@@ -118,7 +118,7 @@ She carried the day-book to the market at about the fourth hour of the afternoon
 
 "A notary can. There is one and she is fifty and she has been a notary for twenty-six years, and she named the month this one on its first day in a room with a date on the door, and she did it out loud in front of about nine people."
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The day-book on that stall was turned round so that the blank at the head of the page faced out, and about four people in that market have said since that they have never known what to do with a page somebody has turned round on purpose.
 
 "And she will name another one."
 
@@ -134,7 +134,7 @@ Then the woman of about twenty-four said a figure out loud, to the stall and not
 
 "Write it down."
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+Ninety-four went onto about four hands and the chalk went back into the front of the shopkeeper's coat without anybody being asked to do anything with it, and about four people in that market have said that they have each watched a figure go onto a hand that week and that not one of them has looked at it since.
 
 "About four people have already written it down, which is what I said I wanted and I have got it inside a minute, and I would like it entered that I said I wanted it and got it inside a minute, because a number wanted in a market and a number given in a market are not the same thing and nobody in this market knows which of the two they have just watched."
 

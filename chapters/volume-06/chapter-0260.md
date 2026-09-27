@@ -1,26 +1,26 @@
 # Chapter 0260 — The Question Goes Into A Kitchen
 
-A man of thirty-two walked eleven miles on the fifth day of the Short Month with nothing in his hands and sat down at a table in a kitchen at about the tenth hour of the morning and did not ask anything, and the keeper of the gate had been working the invert of a channel at the end of that kitchen since first light and did not stop for him. There is a room, a table, a floor of stone, a broom, a board, and a channel that takes its water from a gate, and the light came in on the north side and went off the flats and off the far side of the cut by about the second hour of the afternoon. The wind has been at the wall of the store on the upper road for thirty-one days. The board above that door carries the figures of the sixty-ninth day of the Long Month, which are thirty-six days old, and has not been written on since the day after them.
+A man of thirty-two walked up the road past this city on the fifth day of the Short Month with nothing in his hands, and past the last of the houses out here on the road west he sat down at a table in a kitchen at about the tenth hour of the morning and did not ask anything, and the keeper of the gate had been packing the side of a channel at the end of that kitchen since first light and did not stop for him. There is a room, a table, a floor of stone, a hearth, a bench, and a channel that takes its water from a gate, and the light came in on the north side and went off the flats and off the top of the road by about the second hour of the afternoon. The wind has been at the wall of the store on the upper road for thirty-one days. The board above that door carries the figures of the sixty-ninth day of the Long Month, which are thirty-six days old, and has not been written on since the day after them.
 
 ---
 
-The woman of about thirty-four who keeps a stall by a wharf was at that table when he came in, and she had walked in before him and she did not explain how, and he did not ask. She had come up that road in the fourth hour of the morning and it is eleven miles, and she had a piece of paper in the front of her coat with nothing on the top of it and nothing at all on the rest of it, and she had had it for a long time, and about four people in this city have worked out that a person who keeps a piece of paper for a long time is a person who intends to use it for one thing.
+The woman of about thirty-four who keeps a stall by a wharf was at that table when he came in, and she had walked in before him and she did not explain how, and he did not ask. She had come up that road in the fourth hour of the morning, which is the whole of it, and she had a piece of paper in the front of her coat with nothing on the top of it and nothing at all on the rest of it, and she had had it for a long time, and about four people in this city have worked out that a person who keeps a piece of paper for a long time is a person who intends to use it for one thing.
 
-"You have walked eleven miles."
+"You have walked up the road past this city."
 
-"I have walked eleven miles and I have not asked you for anything and I am not going to, and I have not asked the woman working at that channel for anything either, and I would like both of those entered before I say what I came for."
+"I have walked the whole of it and I have not asked you for anything and I am not going to, and I have not asked the woman working at that channel for anything either, and I would like both of those entered before I say what I came for."
 
 "You came for something."
 
 "I came to hand something over, and I have not got it written yet, and I have got about five hours to write it, and you are not going to like the four things I am going to write and I am going to write them anyway."
 
-Nobody in that room moved for a while, and the light in it went off the flats and up the far wall of it while they were not moving.
+Nobody at that table said anything for a while and the channel went on at the other end of the kitchen, and about four people on that road have said since that it is easier to say nothing in a kitchen than in any other room in this city.
 
 "You are not going to like them."
 
 "**I have not got to like them. I have got to stand behind them, and standing behind four things is a thing I have done twice in this city and I am about to do it a third time and on the third time I am not going to be the one who wrote the question.**"
 
-The keeper of that gate worked the invert with a stick the whole time he was in that kitchen. The channel had water in it up to the depth of a hand and not much more, and the invert is the bottom of a channel where the stuff that does not go down settles, and she worked it in a rhythm that had nothing to do with anybody in the room, and about four people who were on that road at about the seventh hour have said that a woman working a channel is the only person in that kitchen who is not waiting for anything.
+The keeper of that gate packed the side of that channel the whole time he was in that kitchen. The channel had water in it up to the depth of a hand and not much more, and the stones along the side of it had been coming out since before this flood and she was putting them back in with a bar and a bucket of rubble between them, and she worked in a rhythm that had nothing to do with anybody in the room, and about four people who were on that road at about the seventh hour have said that a woman packing a channel wall is the only person in that kitchen who is not waiting for anything.
 
 He put a slate on the table and a chalk beside it and turned it so that the writing side was towards her, and then he did not write on it for a while, and she let him.
 
@@ -32,19 +32,19 @@ He put a slate on the table and a chalk beside it and turned it so that the writ
 
 "And the second time."
 
-A woman of about twenty-four turned her slate over and wrote the date on the back of it, and about four people in that room saw her do it and none of them said a word.
+The woman of about thirty-four put the piece of paper face down on that table and wrote the date on the back of it, and about four people in that kitchen have said since that she wrote the date and not the question, and that nobody has asked her about that either.
 
 "**At a meeting-ground in about two hundred and forty people, where the first thing the instrument did was stop the man who wrote it.**"
 
 "Stop you."
 
-"Stop me in about four minutes, in front of about two hundred and forty people, and about nine people in this city have said that an instrument that stops its author on the first try is not a fair instrument, and they are right, and I would use it again on Monday."
+"Stop you in about four minutes, in front of about two hundred and forty people, and about nine people in this city have said that an instrument that stops its author on the first try is not a fair instrument, and they are right, and I would use it again without changing anything in it."
 
-"You were the answer."
+"The first time you used it, did it stop you."
 
-The wind came at that wall from the same quarter it had been coming from for a month, and about nine people in that room have said since that they had stopped noticing it and had started listening to it.
+The channel at the other end of that kitchen went on without a break through all of it, and about four people on that road have said since that a room with a noise in it is the only kind of room in this city where the worst thing a person knows can be said out loud to one other person and to nobody else.
 
-"I was the answer and I have not improved on being the answer."
+"It stopped the man who wrote it, and the man who wrote it was me, and about four people in this city have worked out that an instrument which has never once been kind to the man who built it has still never been wrong about anything, and that I have not worked out how those two are supposed to fit together, and that I have had long enough to try."
 
 "That is not a thing anybody would want to have written about them."
 
@@ -68,7 +68,7 @@ He turned the slate round.
 
 "Did you get the answer."
 
-A man at the back put his weight on one foot and then on the other and did not say anything for about as long as it takes to get a hand wet.
+The woman of about thirty-four turned her head about a quarter of the way towards the door and then turned it back, and about four people in that kitchen have said since that it was the only thing she did for about an hour.
 
 "**I did not ask and I am not going to say today whether I would have got one, and there is nobody in this room who is going to ask me, and I have thought about that for two days and I have not worked out a way to want it.**"
 
@@ -80,21 +80,21 @@ He pushed the slate across the table and she took it and read it and did not say
 
 "I want you to write the question in your own words and I do not know what the question is and I am not going to be told, and the reason I am giving it to you and not to a clerk is that a clerk writes the question somebody else dictated, and a dictated question is the ninth line on a wall in a yard nine miles back down that road."
 
-"You have walked eleven miles to hand me four lines."
+"You have walked the whole way up the road past this city to hand me four lines."
 
-"I have walked eleven miles to hand you four lines and to sit at this table until about the fourth hour of the afternoon."
+"I have walked it to hand you four lines and to sit at this table until about the fourth hour of the afternoon."
 
-Somebody at the door said something to somebody else and neither of them came in, and the room did not turn round.
+Somebody called out to somebody in that yard and the somebody called back and neither of them came to the door, and the two people at that table did not turn round, and about four people on that road have said since that they are the only two people on it who have never once answered a call.
 
 "That is a long way to bring four lines."
 
-"**I would like it entered that I came eleven miles and got nothing for it and that I asked for nothing. About nine people in this city have said that a man who walks eleven miles and gets nothing is a man being tested, and I have not been tested by anybody and would not know the answer if it were happening.**"
+"**I would like it entered that I came the whole way and got nothing for it and that I asked for nothing. About nine people in this city have said that a man who walks up there with nothing in his hands and gets nothing is a man being tested, and I have not been tested by anybody and would not know the answer if it were happening.**"
 
 "You would know if it were happening."
 
 "I would not. I have been on that road about nine times in ten days and I have not once been able to say what for, and about four people in this city have said that is the shape of a man doing something for no reason and that the only difference between that and a man with a reason is that one of them can say what it is."
 
-Then the keeper of that gate put a board down across the mouth of the channel and wiped her hands down the front of her apron, where a key hung on a string that went over her shoulder, and she did not look at the table, and she did not say one word at any point of that day, and she went back to the invert and worked it with a stick.
+Then the keeper of that gate put a hurdle down across the side of that channel and wiped her hands down the front of her apron, where a key hung on a string that went over her shoulder, and she did not look at the table, and she did not say one word at any point of that day, and she went back to the stones and went on packing them in.
 
 The woman of about thirty-four read the four lines again and then took the piece of paper out of the front of her coat and put it on the table and squared it to the edge, the way a person does with a page they are going to write on, and she wrote the question on it, in her own hand, at about the fourth hour of the afternoon, and it took her about as long as it takes to boil a pail, and she read it back once and did not read it back twice.
 
@@ -106,7 +106,7 @@ The woman of about thirty-four read the four lines again and then took the piece
 
 "I have not signed it and the reason is mine and it is nine years old."
 
-A chair was moved about four inches along a boards floor by a person who had not been asked to move it, and about four people in that room have said since that they have never found out who moved it.
+A chair went about four inches along that kitchen floor and neither of the two of them asked about it, and about four people on that road have said since that they have been in a great many kitchens and never one where nobody asked about a chair.
 
 "Nine years is a long time to carry a piece of paper."
 
@@ -116,7 +116,7 @@ A chair was moved about four inches along a boards floor by a person who had not
 
 "Nobody, and that is the first time a piece of paper of mine has belonged to nobody, and about four people in this city have said that the only page in four hundred miles that cannot be entered in a schedule is a line nobody decided, and I have not been able to think about that this afternoon because I have been watching her work that channel since the tenth hour."
 
-The page on the table was turned so that the writing faced the man who could not read it, and about nine people in that room have said that this happened and that nobody has said out loud who turned it.
+The paper on that table was turned so that the writing on it faced away from him and towards the middle of the kitchen, and neither of the two people at that table read it again, and about four people on that road have said since that a page left face up between two people who have both read it is the only kind of page in this world that is being shown to nobody.
 
 "Then nobody can check it came from you."
 
@@ -134,7 +134,7 @@ He said that he was not going out on that road again until the question was in a
 
 "**It was the third time and this is the first one where I did it on purpose. There is a date on the four lines, and nobody in this room is going to thank me for it, and I would rather be thanked for nothing than be thanked for that.**"
 
-Somebody wrote a figure on the back of their own hand and then put their hand in a pocket, and about four people in that room have said that they have each done that about nine times in about nine weeks.
+Somebody wrote four on the back of their own hand and then put the hand in a pocket, and about four people on that road have said since that they have each done that about nine times in nine weeks and that not one of them has ever told anybody what the four was for.
 
 "You have given away the only thing you are good at."
 
@@ -142,16 +142,16 @@ Somebody wrote a figure on the back of their own hand and then put their hand in
 
 "What did you get it from."
 
-"From about nine days of a man coming eleven miles with nothing in his hands and not asking anything, and I would like it entered that I did not explain it and that you worked it out."
+"From about nine days of a man coming up that road with nothing in his hands and not asking anything, and I would like it entered that I did not explain it and that you worked it out."
 
-A page was put down flat on a table and about four hands went towards it and about nine hands stayed where they were, and about four people in that room have said since that the nine hands were the ones that would have to answer for it.
+A page was put down flat on that table and about four hands went towards it and about nine hands stayed where they were, and about four people on that road have said since that the nine hands were the ones that would have to answer for it, and that on that road nobody has answered for anything in a month.
 
-"You came eleven miles."
+"You came the whole way up here."
 
-"I came eleven miles and I handed over four lines and a piece of paper, and the piece of paper has a question on it and nothing at the top of it, and I am going to walk eleven miles back up that road tonight with nothing in my hands, and the four lines are going to be the only thing I have ever given away that somebody else wrote."
+"I came the whole way and I handed over four lines and a piece of paper, and the piece of paper has a question on it and nothing at the top of it, and I am going to walk the whole way back up that road tonight with nothing in my hands, and the four lines are going to be the only thing I have ever given away that somebody else wrote."
 
 "You have given away a question."
 
 "I have given away the four things that make a question work and I have kept none of them, and about four people in this city will say that is the third time and that the first two were accidents, and I would like it entered that the third one was not."
 
-At about the sixth hour of the evening he got up off the bench and put his hands in the empty pockets of his coat and told the woman of about thirty-four to keep the paper, and she put it back in the front of her coat with nothing at the top of it, and the keeper of that gate was still at the invert with her stick, and he did not ask the keeper of that gate one single question that day and he was not going to, and he went up the eleven miles with nothing in his hands, and about four people who were on that road at about the seventh hour have said since that a man walking back up it alone with his hands in his pockets is a man carrying something, and that whatever it was he is not going to tell anybody about it until it has been used.
+At about the sixth hour of the evening he got up off the bench and put his hands in the empty pockets of his coat and told the woman of about thirty-four to keep the paper, and she put it back in the front of her coat with nothing at the top of it, and the keeper of that gate was still packing the side of that channel, and he did not ask the keeper of that gate one single question that day and he was not going to, and he went up the road past this city with nothing in his hands, and about four people who were on that road at about the seventh hour have said since that a man walking back up it alone with his hands in his pockets is a man carrying something, and that whatever it was he is not going to tell anybody about it until it has been used.
