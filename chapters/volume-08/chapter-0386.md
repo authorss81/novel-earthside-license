@@ -4,9 +4,9 @@ The bottom step of nine steps that go up to a room over a market in this city is
 
 ---
 
-Tamsin Quill took it out of her apron and did not put it on her knees. She put it down on the step beside her and opened it there, on the boards, in the open, which is the second time in this flood she has opened that sheet in front of anybody and the first time she has opened it in front of one person.
+Tamsin Quill took it out of her apron and did not put it on her knees. She put it down on the step beside her and opened it there, on the boards, in the open, which is the third time in this flood she has opened that sheet in front of anybody and the first time she has opened it in front of one person.
 
-About four people on those boards worked out since that a woman who has carried a page in an apron for about a month and has put it on a bench in a room in front of about nine people has now put it on a step in front of one woman, and that a sheet put down in front of one person is a different act from a sheet put down in front of nine, and that the second one is the older of the two.
+About four people on those boards worked out since that a sheet put down in front of one person is a different act from a sheet put down in front of nine, and that the second one is the older of the two.
 
 The woman of about twenty-one came along the boards at about the eighth hour and stopped about nine feet off, which is the distance a man who keeps the first stall stands at, and then came the rest of the way, because she was not that man and there was no reason for her to be nine feet off a step.
 
@@ -16,15 +16,21 @@ The woman of about twenty-one came along the boards at about the eighth hour and
 
 "I am not going to take it."
 
-The woman of about twenty-one said it standing, and she said it before Tamsin Quill had got the fourth crease open, and about four people on those boards have worked out since that a person who has been asked one question in this flood, once, in a room, and not asked a second time by anybody, has just said no to a page in about the time it takes to open a fold, and that she was not waiting for it.
+The woman of about twenty-one said it standing, and she said it before Tamsin Quill had got the fourth crease open, and she was not waiting for it. She had been asked one question in this flood, once, in a room, and not asked a second time by anybody, and a person in that position does not have to be got ready before she says a thing like that.
 
 Tamsin Quill went on opening it. She got the fourth crease flat and the fourth crease went about half of what it used to go and she put her thumb in it to make it take.
 
 "**You have not even asked me whether I wanted to give it to you.**"
 
-"**I have not asked you that, and that is the part of it I would like to say out loud before anything else, because you did not say no to a thing I put in front of you. You said no to a thing I had already decided, and you worked that out from about nine feet off and then from nine inches, and I opened it on this step in the open because a thing said on a step is a thing said in the open, and not because I wanted you to have it.**"
+"**I have not asked you that, and that is the part of it I would like to say out loud before anything else, because you did not say no to a thing I put in front of you.**"
 
-She did not say that was not the case. A woman who has a page in an apron that is not going anywhere and has said so out loud in a room in front of about nine people has about four seconds' worth of nothing to add to that and she added none of them, and about four people on those boards have worked out since that the oldest arrangement in this city between two people is one of them putting a thing in front of the other one on purpose.
+"Then what did I say no to."
+
+She had the fourth crease open now and her thumb was in it and she did not look up while she was doing it, and the boards at the foot of that market had nobody on them at all except the two of them and a man taking trestles down nine feet off.
+
+"**You said no to a thing I had already decided, and you worked that out from about nine feet off and then from nine inches, and I opened it on this step in the open because a thing said on a step is a thing said in the open, and not because I wanted you to have it.**"
+
+She did not say that was not the case. A woman who has a page in an apron that is not going anywhere and has said so out loud in a room in front of about nine people had nothing to add to that, and the oldest arrangement in this city between two people is one of them putting a thing in front of the other one on purpose.
 
 ---
 
@@ -38,10 +44,10 @@ The man of about thirty-four who keeps a stall was taking his trestles down two 
 
 "**There are about nine of them and I counted them from here for the second time and I am telling you that I counted them for the second time and that I did not ask you anything for the second time either, and that those are the only two arrangements either of us has ever had with anybody and I have never once improved on one of them.**"
 
-She said something back to him about a man's counting, and it was short, and it was not unkind, and about four people on those boards who were within earshot have worked out since that a man who counts a page from nine feet off and says so out loud has been answered for it twice now by two different people, and that neither of them handed him anything.
+She said something back to him about a man's counting, and it was short, and it was not unkind. A man who counts a page from nine feet off and says so out loud has now been answered for it twice, by two different women, and neither of them handed him anything.
 
 ---
 
 The light went off the boards at about the fourth hour the way it does on a day when nothing is being sold, and the sheet went back into the front of an apron folded in four with the same four creases, and the fourth one is the one that gives, and it went into the apron anyway.
 
-Three people have been asked nothing this morning and one of them said no to a page, and the fourth of the four is not in this city and is not going to be asked about anything by anybody, and a party of four is four, and the sheet that is not going anywhere has now been on a step in the open in front of one person and has been refused, and about four people on the boards at the foot of that market have worked out since that the refusals of a page in this city are now more public than its refusals to be given, and that a woman who has offered the only page anybody here has with a road on it to three people has been refused by two of them and has not offered it to the third, and that the third is not in this city and is not going to be asked about anything by anybody, and that the crease that goes soft is the only part of that page anybody in four hundred miles is losing.
+Three people have been asked nothing this morning and one of them said no to a page, and the fourth of the four is not in this city and is not going to be asked about anything by anybody, and a party of four is four, and the sheet that is not going anywhere has now been on a step in the open in front of one person and has been refused. The refusals of a page in this city are now more public than its refusals to be given. A woman who has offered the only page anybody here has with a road on it to three people has been refused by two of them and has not offered it to the third, and the third of them is going to be asked for nothing for as long as the asking lasts. The crease that goes soft is the only part of that page anybody in four hundred miles is losing.

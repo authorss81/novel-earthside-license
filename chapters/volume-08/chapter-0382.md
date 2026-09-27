@@ -8,7 +8,7 @@ The rain came at about the second hour and it came across the boards from the wa
 
 The man of about thirty-eight worked his own barrow with his left hand on the shaft the way he had worked it every morning of this flood, and the man of about thirty-one who carries things for a living had the end of the rope because a man who has carried things for a living knows what a rope is for, and neither of them said anything about the arrangement while they were making it.
 
-The two barrows that belong to nobody were at the bottom end of the wharf boards with their handles up and their wheels dry, and they had been there since before the water, and about four people on those boards had worked out since that a man who has walked past two barrows every morning of this flood has not asked whose they are and has not offered them to anybody, and that on this Friday he was going to be asked nothing about it either, because he was the one offering them.
+The two barrows that belong to nobody were at the bottom end of the wharf boards with their handles up and their wheels dry, and they had been there since before the water, and about four people on those boards had worked out since that a man who has walked past two barrows every morning for about seven weeks has not asked whose they are and has not offered them to anybody, and that on this Friday he is the one offering them and nobody is going to ask him a thing about it first.
 
 ---
 
@@ -26,7 +26,7 @@ The man of about thirty-four who keeps a stall was at the head of the boards wit
 
 The man of about thirty-four put his right hand on the shaft of the first one.
 
-Nobody said anything about which hand that was. The man of about thirty-four has carried a stall up and down nine steps every morning of this flood and has opened trestles with a hand that has to be a right hand, and a man with a piece of chalk in his own inside breast pocket has taken the weight of a barrow on a wet board on a Friday morning with the right one and did not say why, and the man of about thirty-eight, who has been working boards for nine years, did not ask him why, and about four people standing in the rain have worked out since that the two of them had arranged in about four seconds who was going to suffer and neither of them had said so out loud.
+Nobody said anything about which hand that was. The man of about thirty-four has carried a stall up and down nine steps every morning of this flood and has opened trestles with a hand that has to be a right hand, and a man with a piece of chalk in his own inside breast pocket has taken the weight of a barrow on a wet board on a Friday morning with the right one and did not say why, and the man of about thirty-eight, who has been working boards for nine years, did not ask him why, and between the two of them the question of who was going to suffer was settled in the time it took to say nothing about it.
 
 ---
 
@@ -44,7 +44,7 @@ The man of about thirty-nine was still at the bottom end with his board under hi
 
 The handcart came up the boards at about the fourth hour behind the man of about sixty, and nobody in this city had sent for it and nobody was going to. The cart came up on two wheels and a man walking, and in it there was a hazel mallet with its head bound in cord and a coil of rope, and the two of those things are the whole of what the man of about sixty has brought with him this flood, and he has not used the rope and nobody has asked him about it and the cord on the mallet is the same cord that is on the fence at the top of a shut road, and that is a fact about a piece of cord and is not joined to anything.
 
-He put the cart at the top of the boards and took the mallet out and stood with it in his hand and did not hit anything, and the man of about thirty-eight looked at the mallet and looked away, and about four people on those boards have worked out since that a man who has brought a mallet up a wet hill in a flood and is not going to use it has come to be seen carrying it, and that the carrying is the whole of what he came for, and that nobody is going to say so to him.
+He put the cart at the top of the boards and took the mallet out and stood with it in his hand and did not hit anything, and the man of about thirty-eight looked at the mallet and looked away. A man who has carried a mallet up a wet hill in a flood and is not going to use it has come to be seen carrying it, and the carrying is the whole of what he came for, and nobody is going to say so to him.
 
 ---
 

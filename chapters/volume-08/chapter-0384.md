@@ -20,11 +20,11 @@ Then she read the fourth one.
 
 "**A share.**"
 
-The room did not make a sound. A share is a figure. A share is a number a man puts in a place on a page four times a year, and a man who has been putting numbers in that place for about nine years has never once gone to find out what a share is, and he said so out loud in this room a fortnight ago and nobody asked him why.
+The room did not make a sound. A share is a figure. A share is a number a man puts in a place on a page four times a year, and a man who has been putting numbers in that place for about nine years has never once gone to find out what a share is, and he said so out loud in this room twelve days ago and nobody asked him why.
 
 "**And that is the whole of what is on the form, and I have said the fourth one out loud in the local language in a room with the day on the door, and about nine people have just heard a word they have been reading for a month, and a share is a figure, and I would like it said out loud by somebody in this room that a share is not a figure.**"
 
-The man of about thirty-four who keeps a stall had his hand flat on his own inside breast pocket and did not take it out, and he had been in a room where a share was read out before and had said nothing about it then and said nothing about it now, and about four people in that room worked out since that the two of them had not looked at each other and were not going to.
+The man of about thirty-four who keeps a stall had his hand flat on his own inside breast pocket and did not take it out, and he had been in a room where a share was read out before and had said nothing about it then and said nothing about it now. The two of them did not look at each other, and neither of them was going to.
 
 ---
 
@@ -44,7 +44,13 @@ Nobody in that room asked the household. That is the whole of what happened at a
 
 The woman of about twenty-nine who keeps a public register put the pen down flat on the table beside the book.
 
-"**Then the fourth place goes out empty and it goes out with a heading on it, and about four people in this room have worked out since that a return that goes out correct is the only thing in four hundred miles that this city has ever been able to do, and I would like it said out loud that the cost of it is that the reason the fourth place is empty is a woman on a step and not a column, and no office nine hundred miles off is ever going to be able to tell the difference.**"
+"**Then the fourth place goes out empty and it goes out with a heading on it.**"
+
+"Both of those at once."
+
+The man of about thirty-four had his hand flat on his own inside breast pocket and did not look up, and the woman who keeps the register turned the pen so that the nib was pointing away from the book.
+
+"**Both of those at once, and a return that goes out correct is the only thing in four hundred miles that this city has ever been able to do, and I would like it said out loud that the cost of it is that the reason the fourth place is empty is a woman on a step and not a column, and no office nine hundred miles off is ever going to be able to tell the difference.**"
 
 Nobody improved on that either. A room over a market has now read out loud, in the local language, in daylight, with a date in chalk on the door, the whole of a form that is going out on somebody else's calendar, and has established in front of about nine people that the fourth place is a household's and that the household is not going to be asked, and both of those are a thing a form cannot carry and only a room can, and a room is not a thing anybody four hundred miles off can ask to have produced.
 
@@ -54,7 +60,7 @@ Then somebody at the back said the other thing, and it was said by the man of ab
 
 "There are two empty thirds in this room. The third of the four places on that form has been empty, and the third column of that book has been empty on purpose since a Thursday in that month, and they are not the same empty and I am not going to sit here and be asked whether they are."
 
-The woman of about twenty-nine who keeps a public register did not argue with it and did not look at him. She has been in about nine rooms in a fortnight and has said nothing in five of them, and the not-saying is not a position and is not going to be described by anybody in that room as one, and about four people in that room worked out since that the man at the back had just said a true thing out loud and that not one of them was going to be the second one to agree with him.
+The woman of about twenty-nine who keeps a public register did not argue with it and did not look at him. She has been in about nine rooms in a fortnight and has said nothing in five of them, and the not-saying is not a position and is not going to be described by anybody in that room as one. The man at the back had said a true thing out loud, and not one of them was going to be the second one to agree with him.
 
 ---
 

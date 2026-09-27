@@ -44,11 +44,11 @@ The man of about thirty-nine took his hand off the face of his slate, which he h
 
 He put his hand back on the slate. The man of about thirty-four sat back against the bench and did not say anything else about it for the rest of the morning, and neither did the other one, and the two of them had gone from a room in which neither of them had ever asked the other one anything to a room in which one of them had, and neither of the two things that happened had anything to do with a page.
 
-The man of about thirty-four said the reason out loud before he was asked for it, which is a thing a man who keeps a stall does and has done about nine times in this flood, and this time the condition was that nobody was to say anything about it afterwards, and the room agreed to that in about four seconds.
+The man of about thirty-four said the reason out loud before he was asked for it, which is a thing a man who keeps a stall does and has done about nine times in this flood, and this time the condition was that nobody was to say anything about it afterwards, and the room agreed to it without a word being said about the agreeing.
 
 ---
 
-The woman of about twenty-one was at the bench with her hands in her apron and the pen with the nib ground narrow and cut down with a knife in the apron with them. She had been asked one question in this flood, once, in this room, on a Friday a week ago, and nobody in this room was going to be the second one to ask her anything and nobody after that morning was going to be the second one either. She did not take the pen out. She listened to two men settle a thing about nine steps and looked at the form on the table the whole time, and it was not on the form, it was on the two of them.
+The woman of about twenty-one was at the bench with her hands in her apron and the pen with the nib ground narrow and cut down with a knife in the apron with them. She had been asked one question in this flood, once, in this room, on a Friday six days ago, and nobody in this room was going to be the second one to ask her anything and nobody after that morning was going to be the second one either. She did not take the pen out. She listened to two men settle a thing about nine steps and looked at the form on the table the whole time, and it was not on the form, it was on the two of them.
 
 The man of about twenty-five had his coat on and his hands in the pockets of it, and nine words he wrote himself are in the inside of that coat, and a man with nine words of his own in his coat does not sit in a room and watch two other men work out what a stair is for. He was not asked anything either.
 
