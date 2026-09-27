@@ -52,7 +52,7 @@ She worked the gate to and the thirty feet of ash came against its stop and made
 
 The boy of about eight was still at the end of that lane with the creel on his hip, and he had been there for about as long as it takes to fill a pail and had not asked her anything, and about four people in four hundred miles have worked out this month that a child who waits at the end of a lane for a thing that is not going to be given to him is being taught something by the waiting.
 
-The key on the tarred cord fits a lock on the inside of the second gate, which is a gate into a yard and not a gate onto a road, and she took it out of the apron pocket and held it in her palm for a moment and then put it back and did not go through the yard, and it has not been turned since about the second month of this flood, and a key that has not been turned in three months is not a key anybody has thrown away, it is a key somebody has decided to keep working.
+The key on the tarred cord fits a lock on the inside of the second gate, which is a gate into a yard and not a gate onto a road, and she took it out of the apron pocket and held it in her palm for a moment and then put it back and did not go through the yard, and it has not been turned since about the second month of this flood, and a key that has not been turned in eight months is not a key anybody has thrown away, it is a key somebody has decided to keep working.
 
 ---
 
