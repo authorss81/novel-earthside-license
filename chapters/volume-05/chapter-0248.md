@@ -4,7 +4,7 @@ A beam with one pan on it has stood in the middle of the yard of the store on th
 
 ---
 
-**And he made that beam on the fifty-eighth day of that month and carried it up nine miles and left it in that yard on the seventy-third day of that month and has not carried it home, and he had not been in that yard in twenty days, and a quarter of a sack that is one piece has been in that pan since the sixty-seventh day of that month and went hard on the sixty-sixth.**
+**And he made that beam on the fifty-eighth day of that month and carried it up nine miles and left it in that yard on the seventy-third day of that month and has not carried it home, and he had not been in that yard in twenty days, and a quarter of a sack that is one piece has been in that pan since the sixty-seventh day of that month and went hard on the sixty-fourth day of that month, and it is not the bag the man of about thirty-nine put down on those boards on the eighty-fifth.**
 
 "You made it."
 
@@ -90,15 +90,15 @@ He said it to the boards of that yard and then he put both hands back on the two
 
 "Three times for what."
 
-"**For a ninth of a sack, for a quarter of a sack, and for the piece that is in that pan now, and nobody has worked out that three is the number of things in this yard that cannot be divided, and that is not a fact about the yard.**"
+"**Two of the three I can name. A sack on the fifty-eighth day of that month, and the piece that is in that pan now, and the third one I could not tell you what it was, and nobody has worked out that three is the number of things in this yard that cannot be divided, and that is not a fact about the yard.**"
 
 ---
 
-**And the sack of salt on the boards of that yard was eight feet from the beam on the ninety-third day of that month and about four feet from it on the ninety-fifth, and nobody in that yard moved it, and the man of about fifty-two who digs looked at the distance between the two things and said one thing about it and then went up the road.**
+**And the sack of salt on the boards of that yard is about four feet from that beam, and the trough under the wall with the cloth on its rim was about five feet off that sack on the eighty-fifth day of that month and is about nine feet off it this morning, and the man of about fifty-two who digs looked at the two distances for about as long as it takes to fill a pail and said one thing about them and stayed where he was.**
 
-"They are further apart than they were."
+"They are further apart than they were on the eighty-fifth day of that month."
 
-"**They are, and nobody has moved either of them, and about four people in this city have worked out that two things in a yard drift apart on their own when the yard is used, and nobody has worked out that they drift together when the yard is not used, and there is no third thing that happens, and I have got a coat on one of them and it has not moved and that is the whole of what I did today.**"
+"**They are, and nobody has moved that sack, and about four people in this city have worked out that two things in a yard drift apart on their own when the yard is used, and nobody has worked out that they drift together when the yard is not used, and there is no third thing that happens, and I have got a coat on a third thing in that yard and it has not moved and that is the whole of what I did today.**"
 
 "You could have put the sack on the pan."
 
@@ -112,8 +112,8 @@ He said it to the boards of that yard and then he put both hands back on the two
 
 **And a beam in the middle of that yard on a block of stone about the length of a man's own foot, with a coat held over the pan at two corners and the hem of it going up and coming down on the dust off eleven miles of flats.**
 
-She went back inside and shut the door behind her to about the width of a hand, and the sack was still on the boards about four feet from the beam and nobody in that yard had picked it up, and the man of about fifty-two who digs did not take his coat off and did not go up the road until about the eleventh hour, and the wind had not got under the hem of it once in two hours.
+She went back inside and shut the door behind her to about the width of a hand, and the sack was still on the boards about four feet from the beam and nobody in that yard had picked it up, and the man of about fifty-two who digs did not take his coat off and did not go up the road until about the eleventh hour, and the wind had got under the hem of that coat and lifted it and let it down about nine times in two hours and it had not gone off the pan.
 
 ---
 
-**And the hem of a man's coat going up and coming down on the dust off eleven miles of flats, and not once under.**
+**And the hem of a man's coat going up and coming down on the dust off eleven miles of flats, and not once off the pan.**

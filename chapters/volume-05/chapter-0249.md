@@ -1,6 +1,6 @@
 # Chapter 0249 — What He Did Not Ask
 
-There were two brooms on the boards at the top of the cut on the Reed Reach on the ninety-fourth day of the Long Month, laid side by side with their bristles toward the water and about four inches between them, and the first one has been on those boards since the ninety-second day of that month and nobody at the top of that cut has said one word about it and nobody has picked it up. Adrian Vale came up that bank at about the ninth hour of the morning with nothing in his hands, and he stood at the top of it for about two hours and walked its length four times, and he did not ask the keeper of the Redroot gate a single question, and the light came off eleven miles of flats and went up the far side of that cut while he was standing on it.
+There were two brooms on the boards at the top of the cut on the Reed Reach on the ninety-fourth day of the Long Month, laid side by side with their bristles toward the water and about four inches between them, and the first one has been on those boards since the ninety-second day of that month and nobody at the top of that cut has said one word about it and nobody has picked it up. Adrian Vale came up that bank at about the ninth hour of the morning with nothing in his hands, and he stood at the top of it for about two hours and went up and down it four times, and he did not ask the keeper of the Redroot gate a single question, and the light came off eleven miles of flats and went up the far side of that cut while he was standing on it.
 
 ---
 
@@ -20,7 +20,7 @@ There were two brooms on the boards at the top of the cut on the Reed Reach on t
 
 ---
 
-**And the boards of that bank are about four feet wide where the two brooms were lying, and the wind has been coming up that bank since the seventy-fourth day of that month, and he walked the length of it four times in two hours and put his boots in the same four places each time without knowing he was doing it.**
+**And the boards of that bank are about four feet wide where the two brooms were lying, and the wind has been coming up that bank since the seventy-fourth day of that month, and he went up and down it four times in two hours and put his boots in the same four places each time without knowing he was doing it.**
 
 "You have walked that four times."
 
@@ -44,11 +44,11 @@ He read that on the bank with the wind at his back and then he shut his hand and
 
 "**And I have not put a second thing down in a place in two hundred and forty-nine days, and if there is a second broom on those boards this morning then somebody in this city has done the thing I have not done, and I have not got a name for them and I have not got a reason why they would.**"
 
-He said that to the boards and not to the woman, and then he got up off the boards and brushed the grit off the back of his coat with the flat of his hand and the grit went into the dust and stayed there.
+She said that to the boards and not to the man, and then he got up off them and brushed the grit off the back of his coat with the flat of his hand and the grit went into the dust and stayed there.
 
-"**And I have come up this bank four times since the eighty-sixth day of that month and I have not put a thing on it on any of the four, and about four people in this city have worked out that a man who comes to a place empty-handed four times is a man being tested, and nobody has worked out that I have not been tested by anybody and I would not know how to answer if I were.**"
+"And I have come up this bank four times since the eighty-sixth day of that month and I have not put a thing on it on any of the four, and about four people in this city have worked out that a man who comes to a place empty-handed four times is a man being tested, and nobody has worked out that I have not been tested by anybody and I would not know how to answer if I were."
 
-"There is a second one."
+"**There is a second one.**"
 
 "I did not bring it."
 
@@ -76,13 +76,13 @@ He said that to the boards and not to the woman, and then he got up off the boar
 
 ---
 
-**And the light came off the flats at about the eleventh hour and went up the far side of that cut, and the two brooms were on the boards, and about four people who came up that bank on the ninety-fourth day of that month after the eleventh hour stepped over both of them and the rest did not see either, and the keeper of the Redroot gate did not look down at them once.**
+**And the light came off the flats at about the eleventh hour and went up the far side of that cut, and the two brooms were on the boards, and about four people who came up that bank on the ninety-fourth day of that month after the eleventh hour stepped over both of them and the rest did not see either, and the keeper of the Redroot gate had looked at the two of them once at about the eleventh hour and had not looked down at them since.**
 
 He got to the bottom of that bank at about the twelfth hour and sat down on the boards there for a while, and the channel has had no water in it since the forty-first day of that month and there is a thumb's depth of the dust off those flats in the bottom of it, and the boards he was sitting on were the colour of the boards under them. He did not go down into the cut. He had come eleven miles to ask a question about a thing that is on a page in a town nine hundred miles from here, and he had not asked it, and there is no figure on any page in this city for what a man has lost by not asking one, and he looked for about as long as it takes to get a hand wet and then he got up and went up the road.
 
 ---
 
-**And he had walked the length of that bank four times in two hours and had put his boot in the same four places each time, and at about the eleventh hour he sat down on the boards at the top of it about nine feet from the two brooms with his hands on his knees and the grit worked into the seam of the left one, and about four people at the top of that cut had been on that bank before the seventh hour and the rest had not.**
+**And he had gone up and down that bank four times in two hours and had put his boot in the same four places each time, and before he went down to the boards at the bottom of it he sat on the boards at the top about nine feet from the two brooms with his hands on his knees and the grit worked into the seam of the left one, and about four people at the top of that cut had been on that bank before the seventh hour and the rest had not.**
 
 "You are not going to ask her."
 

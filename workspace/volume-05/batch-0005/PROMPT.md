@@ -1,5 +1,7 @@
 # PROMPT — Volume 05, Batch 0005, Chapters 0241 onward
 
+**COMPLETED PHASE. THIS IS WHAT THE BATCH WAS TOLD AND IT IS LEFT AS IT WAS TOLD. Line 13 of this file instructed the batch to create `workspace/volume-05/batch-0006/PROMPT.md` and the batch obeyed. That prompt was wrong: `outline/series.md:143` fixes Volume 05 at Chapters 201–250 and all fifty chapters were on disk when it was written, so it would have written Chapters 0251 to 0260 outside the volume. The review repair pass deleted it and put a volume close in its place — `workspace/volume-05/close/PROMPT.md` — and the record of that is `reviews/volume-05/batch-0005.md` blocking finding 4 and `state/batch-summaries/volume-05-batch-0005.md` §20.1. **The text below is unedited history. Do not execute it and do not restore the path it names.**
+
 **This is a batch. It writes chapters of prose and it writes no outline and no cards.**
 
 **`outline/volume-05.md` DOES NOT EXIST. This run does not create it and this run does not decide what Volume 05 is, because that is an outline phase's work and it has not happened.** The prompt below therefore fixes the *inheritance* and the *rules* and leaves the *subject* open, and it says so three times, because a batch that invents its volume's subject from a close record is a batch that has already overwritten a plan it never read.

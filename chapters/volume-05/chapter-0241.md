@@ -26,7 +26,7 @@ He put the trough down under the wall. About two fingers of the water in it went
 
 ---
 
-**And the board on that wall has not been written on since the seventieth day of the Long Month, and the figures on it are the figures of the sixty-ninth day of that month, which was seventeen days ago, and the board is about a foot from the page above it and has been since the forty-sixth day of that month.**
+**And the board on that wall has not been written on since the seventieth day of the Long Month, and the figures on it are the figures of the sixty-ninth day of that month, which was seventeen days ago, and the board is about nine inches from the page above it and has been since the forty-sixth day of that month.**
 
 "Your board is wrong."
 
@@ -60,7 +60,7 @@ He crouched and put two fingers on the line where it turned the corner of the sa
 
 "Then put a date on it."
 
-"**You are asking me to do the thing I have done every morning for eleven weeks to a board, and I have never done it to the ground. If I did it to the ground it would be a date about nine feet long, and a date about nine feet long is not a date. I would be putting the eighty-first of nothing on the dirt so that in a year somebody could be angry at a sack.**"
+"**You are asking me to do the thing I have done every morning since the seventh week of this flood to a board, and I have never done it to the ground. If I did it to the ground it would be a date about nine feet long, and a date about nine feet long is not a date. I would be putting the eighty-first of nothing on the dirt so that in a year somebody could be angry at a sack.**"
 
 "And what will they be angry at."
 
@@ -92,7 +92,7 @@ She went and got the pail and carried it to the trough and back with the sack in
 
 "That is the third time he has come through here since the seventieth day of that month."
 
-"**It is, and he has not stopped at that trough and he has not stopped at that wall and he has not stopped at that sack, and about four people in this city wrote a thing down on a slate on the seventieth day of that month about a name they were not going to say, and he has carried that slate for twenty-one days with the wrong side up and has not put it down once.**"
+"**It is, and he has not stopped at that trough and he has not stopped at that wall and he has not stopped at that sack, and about four people in this city wrote a thing down on a slate on the seventieth day of that month about a name they were not going to say, and he has carried that slate for sixteen days with the wrong side up and has not put it down once.**"
 
 "He is not on anything either."
 
@@ -108,7 +108,7 @@ She went and got the pail and carried it to the trough and back with the sack in
 
 "You could say that to the man."
 
-"**The man is nine miles down that road and he has come up it twice since the eighty-sixth day of that month and I do not know that he has come up it twice, and I am not going to walk after somebody to tell him what I think about his own sack. He put it down on the eighty-fifth day of that month and I have been in this city two hundred and forty-one days and I have learned exactly one thing about sacks and it is that they are heavier when they are not open.**"
+"**The man is nine miles down that road and he has come up it once since the eighty-sixth day of that month and I do not know that he has come up it once, and I am not going to walk after somebody to tell him what I think about his own sack. He put it down on the eighty-fifth day of that month and I have been in this city two hundred and forty-one days and I have learned exactly one thing about sacks and it is that they are heavier when they are not open.**"
 
 He set the trough down against the wall about four feet from the sack. His hands were wet to the wrist and the water in the trough was the colour of the water in the channel at the bottom of the Redroot cut, which is the colour of nothing at all, and it put a ring on those boards the width of the trough, and the ring and the boot-line and the nine feet were three marks in one yard inside two hours.
 
@@ -134,11 +134,11 @@ He set the trough down against the wall about four feet from the sack. His hands
 
 "You are looking at the ground."
 
-"**I am looking at the ground and I have been looking at it since the sixth hour, and there are four things on it now and about nine feet of it that nobody has walked on, and about four of those four things are mine.**"
+"**I am looking at the ground and I have been looking at it since the sixth hour, and there are four things on it now and about nine feet of it that nobody has walked on, and two of those four things came off you.**"
 
 "Which four."
 
-"**The ring round that trough, the wet patch where the pail went over this morning, the heel of my own boot on that sacking, and the line your boots have made going round it. That is four, and I have not put a date on one of them, and I have been in this building since the seventh week of this flood and I have never once seen a mark come up in a yard that I could read the way I can read a board.**"
+"**The ring round that trough, the wet patch where the pail went over this morning, the heel of your own boot on that sacking, and the line my boots have made going round it. That is four, and two of the four came off you this morning and one came off a trough and the fourth came off my own boots, and I have not put a date on one of them, and I have been in this building since the seventh week of this flood and I have never once seen a mark come up in a yard that I could read the way I can read a board.**"
 
 "Could you read a groove."
 

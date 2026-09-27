@@ -48,9 +48,9 @@ A woman of about thirty-four from a fourth household on the road came up the ban
 
 "**Off the flats, and there is nobody on those flats but about four hundred and forty people, and not one of them is in this cut and not one of them can be, and I have known that since the seventy-fourth day of that month and I have said it out loud twice and both times to somebody who had not asked me.**"
 
-She said it to the boards at the top of that bank and then she went back to the edge of the channel and picked the stick up again and went on with the invert, and the keeper of the Redroot gate did not look up and did not say one word about four hundred and forty people.
+The woman of about thirty-four from a fourth household on the road said that to the boards at the top of that bank and not to the keeper, and the keeper of the Redroot gate picked the stick up again and went on with the invert and did not look up and did not say one word about four hundred and forty people.
 
-"**And I have worked that channel from the first hour today and there is a thumb of the flats in the bottom of it, and about four people in this cut have worked out that a keeper is a person who keeps a thing, and nobody has worked out that there is no water in it to keep and I have kept the grit off a stone instead.**"
+"And I have worked that channel from the first hour today and there is a thumb of the flats in the bottom of it, and about four people in this cut have worked out that a keeper is a person who keeps a thing, and nobody has worked out that there is no water in it to keep and I have kept the grit off a stone instead."
 
 "You are not going to move it."
 

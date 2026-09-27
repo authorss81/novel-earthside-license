@@ -46,7 +46,7 @@ A queue formed in the yard of the store on the upper road at about the seventh h
 
 **And a man of about twenty-nine from the settlement's workroom stood in that queue four feet behind a man who is not on any rota in this city, with a slate under his arm and the wrong side up, and one of those two men knew the other and the other one did not know him, and nobody said a name.**
 
-"**I will tell you the truth about the ninety-eighth day of that month, which is that I do not know what day a queue comes, and a man who does not know is not a man anybody can plan a yard around.**"
+"I will tell you the truth about the ninety-eighth day of that month, which is that I do not know what day a queue comes, and a man who does not know is not a man anybody can plan a yard around."
 
 He said it to the boards and not to the man, and about four people in that yard heard it, and the man of about forty-two at the back of that line put his hands deeper into his pockets and did not turn round.
 
@@ -54,11 +54,11 @@ He said it to the boards and not to the man, and about four people in that yard 
 
 "That is the man."
 
-"**That is the man, and he is four feet behind me, and he wrote a thing down on a slate on the seventieth day of that month saying he was not going to say my name, and it is the twenty-first day of that thing, and he has not said it, and he wrote that down for his own.**"
+"**That is the man, and he is four feet behind me, and about four people in this city wrote a thing down on a slate on the seventieth day of that month about a name they were not going to say, and that slate has not been in my hand and I am not going to ask him for it, and it is the twenty-first day of that thing, and he has not said it, and he wrote that down for his own.**"
 
 "Does he want you to hear it."
 
-"**He does not want me to hear it and I have not asked him a thing, and I have been in this yard eleven times in ten days and there are people in this city who can fetch me by a name I did not choose and not one of them has done it, and there is a man four feet behind me who could have done it this morning at about the seventh hour and did not, and I am not going to say one word about that either, because a man who says a word about a man not fetching him has asked to be fetched.**"
+"**He does not want me to hear it and I have not asked him a thing, and I have stood in this yard three times since the eighty-fifth day of that month and there are people in this city who can fetch me by a name I did not choose and not one of them has done it, and there is a man four feet behind me who could have done it this morning at about the seventh hour and did not, and I am not going to say one word about that either, because a man who says a word about a man not fetching him has asked to be fetched.**"
 
 ---
 

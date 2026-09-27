@@ -12,7 +12,7 @@ A man of about thirty-two came down the bank of the cut on the Reed Reach on the
 
 "And now it is going up."
 
-"**And now it is going up, and that is the whole of the day so far, and I am not going to tell you what I would have done with a Monday morning if there had not been a rope in it, because there was a rope in it. This is the eighth Monday in a row I have stood on this bank and I have not been down it once before the fifty-ninth day of that month, and about four of those eight have been about a hole and about nine of them have not been about anything.**"
+"**And now it is going up, and that is the whole of the day so far, and I am not going to tell you what I would have done with a Monday morning if there had not been a rope in it, because there was a rope in it. This is the eighth Monday in a row I have stood on this bank and I have not been down it once before the fifty-ninth day of that month, and about four of those eight have been about a hole and about four of them have not been about anything.**"
 
 "You have come down it twice."
 
@@ -36,7 +36,7 @@ He got his fingers under the coil at four points along it and lifted it off the 
 
 **And there was a rod lying flat in a crack in the floor of that cut where a man had put it on the sixty-ninth day of that month and had not picked it up since, and he went past it twice and did not touch it, and there was about a thumb's depth of the same dust in the crack around it that is in every other crack in that floor.**
 
-"**And it has been in that crack since the sixty-ninth day of that month and there is about a thumb of the flats in the crack around it now, and about four people in this city have worked out that a rod left flat in a crack is a rod somebody meant to come back for, and nobody has worked out that I have not come back for it in twenty-one days and I have come down a bank four times since the fifty-ninth day of that month.**"
+"**And it has been in that crack since the sixty-ninth day of that month and there is about a thumb of the flats in the crack around it now, and about four people in this city have worked out that a rod left flat in a crack is a rod somebody meant to come back for, and nobody has worked out that I have not come back for it in twenty-one days and I have come down that bank twice since the fifty-ninth day of that month.**"
 
 "That is yours."
 

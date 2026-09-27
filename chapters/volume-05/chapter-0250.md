@@ -46,9 +46,9 @@ The line that had been going round that sack in the yard of the store on the upp
 
 **And the woman of about thirty-four in that store was at the back of that yard at about the eighth hour with a pail in each hand and looked at nine feet of ground with a sack standing in it, and she did not go out onto it, and a woman will walk round a sack, and she will walk round nine feet of ground as well.**
 
-"**And I have been asked about that hand three times in fourteen days and I have answered none of the three, and a woman who answers none of three is a woman who is building something, and she is not building anything. She is waiting for the person whose hand it is to say one word about it.**"
+"**And I have been asked three times in the ten days that ground has been standing there why I will not go out onto it and I have answered none of the three, and a woman who answers none of three is a woman who is building something, and she is not building anything. She is waiting for the man who put that sack down to say one word about it.**"
 
-She said that to the boards of that bank and then she went in, and the man of about thirty-one had gone nine feet down the bank by then and had not turned round, and about four people at the top of that cut heard all of it.
+She said that to the boards of that yard and then she went in, and about four people in that yard heard all of it and the rest of them were at the door.
 
 "**And I have watched that sack since the eighty-fifth day of that month from a doorway, and about four people in this city have worked out that a woman who watches a thing from a doorway is a woman who has not decided about it, and nobody has worked out that I have not been watching it, I have been keeping the record of it in my own head where there is no board.**"
 
@@ -62,23 +62,23 @@ She said that to the boards of that bank and then she went in, and the man of ab
 
 ---
 
-**And a beam stood in the middle of that yard with a man's coat held over the pan on it at two corners, and that coat had been on that pan since the ninety-third day of that month, and the wind has been at that wall since the seventy-fourth day of that month and had not got under the hem of it once, and the sack was still on its island, and nobody in that yard counted what was under it.**
+**And a beam stood in the middle of that yard with a man's coat held over the pan on it at two corners, and that coat had been on that pan since the ninety-third day of that month, and the wind has been at that wall since the seventy-fourth day of that month and has got under the hem of it and lifted it and let it down, and the coat has not gone off the pan, and the sack was still on its island, and nobody in that yard counted what was under it.**
 
 She came back inside at about the tenth hour and put her hands on the edge of the trough and left them there, and the eleven sacks along the wall of that back room had not been counted then or on any day in that month, and the groove in that floor with the crust of salt in the bottom of it was still four inches deep at the end the sacks go down at, and about four people in this city have worked out that a groove in a floor is a record of a habit and nobody has worked out that nobody in that building knows which sack the record is of.
 
 ---
 
-**And a man of about thirty-one came along the front of that gate at about the tenth hour of the ninety-fifth day of that month with his hand shut and did not open it, and about four people at that gate had been waiting two days for him to open it and the rest had stopped waiting on the eighty-second day of that month, and he went through the gate without looking at his own hand and did not say a word to anybody about it and neither did the keeper.**
+**And about four people came up that road at about the tenth hour and stopped at the gate of that yard to look at nine feet of ground with a sack standing in the middle of it, and everybody else went on up to the door, and nobody went in past the boards, and the four at that gate had been waiting two days for the man of about thirty-nine to come up and put his arms round that sack and take it inside, and the others had stopped waiting on the ninety-first day of that month.**
 
-"Was that him."
+"They are looking at the ground."
 
-"**That was him, and about four people in this city have been writing a word for that hand since the eighty-first day of that month and the rest of them have not, and I am not going to be the first one, and I have not got a word for it and I have not looked for one, and the two of those are the whole of what I have done about it in fourteen days.**"
+"**They are, and about four people in this city have worked out that a thing nobody will move is a thing a yard gets looked at, and the rest of them have not, and I am not going to be the first one to say what that thing is, and I have not got a word for that sack and I have not looked for one, and the two of those are the whole of what I have done about it in ten days.**"
 
 "You have got nothing to say about it."
 
-"**I have got one thing to say about it and I am going to say it to a bank and not to you, because a man in a yard who says a thing about a hand is a man who has decided what the hand is, and about four people in this city have worked out that a decision about a hand is a decision about a person, and I have not got the standing for that decision and I have not got a page for it either.**"
+"**I have got one thing to say about it and I am going to say it to the boards and not to you, because a man in a yard who says a thing about a sack is a man who has decided what the sack is, and about four people in this city have worked out that a decision about a sack is a decision about a person, and I have not got the standing for that decision and I have not got a page for it either.**"
 
-She said the one thing to the boards of the bank and it was about four words long and it was not a word for a hand, and about four people at the top of that cut heard all of it and the rest heard nothing at all, and the man of about thirty-one had gone nine feet down the bank by then and had not turned round.
+He said the one thing to the boards of that yard and it was about four words long and it was not a word for a sack, and about four people at that gate heard all of it and the rest heard nothing at all, and the trough with the cloth on its rim was against the wall and the sack was about nine feet off it and neither of them was any nearer than it had been at the seventh hour.
 
 ---
 
