@@ -22,7 +22,7 @@ The sheet lay flat on the table where it had lain since the morning it came up t
 
 At about the tenth hour a voice came up the bottom of the nine steps and stopped where the stair turns, and it was not one of the nine, and it said one sentence and then it went back down.
 
-"Your board was shut on Tuesday and it was shut on Sunday."
+"Your board was shut on Monday and it was shut on Tuesday."
 
 The man of about thirty-four who keeps a stall was at the back with his hand flat on his own inside breast pocket, and the piece of chalk in that pocket did not move, and he did not get up, and he did not say one word back down the stair to the man who had said it, and about four people in that room have worked out since that a man who has a stall in a market has not got anybody to leave a message with and that the only instrument in this city for saying a thing to a man who is not in a room is a person who walks up nine steps and says it, and that this one had done that and had gone away again, and that the man it was for had not gone down.
 

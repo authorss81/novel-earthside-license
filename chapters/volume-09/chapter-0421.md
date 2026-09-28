@@ -52,7 +52,7 @@ Then she said the thing that had been sitting under all of the rest of it, and s
 
 Nobody said anything to that.
 
-"**I have said it so many mornings that it has gone flat. I am going to stop saying it on Saturday morning, and there is no morning after Saturday to say it in.**"
+"**I have said it so many mornings that it has gone flat. I am going to stop saying it on Saturday morning, and on the Saturday I am going to say the other thing instead.**"
 
 About four people in that room have worked out since that a woman who puts a day on a thing out loud in a room with a date on the door has done the same thing a page does, and that nobody had asked her to, and that a person who says a day out loud in this city is not thanked for it either.
 

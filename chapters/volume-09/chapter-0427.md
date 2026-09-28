@@ -20,7 +20,7 @@ The man of about thirty-nine who trades on a board was in that room that morning
 
 ---
 
-Nobody in that room asked him for the second figure and nobody in that room asked him where the first one came from, and about four people in that room have worked out since that a man who has been putting one number into a column four times a year for nine years without anybody ever asking him what the column was for has worked out by himself in one morning that the safest thing he can do with a page is stop managing what it shows, and that this is the whole of what has happened in this room today and it is not a decision anybody took.
+Nobody in that room asked him for the second figure and nobody in that room asked him where the first one came from, and about four people in that room have worked out since that a man who has been putting one number into a column four times a year for nine years, and who was asked what that column was for twice and gave no answer on the boards and gave one in a room in seven words, and who has never once been asked which of the two figures he puts in it, has worked out by himself in one morning that the safest thing he can do with a page is stop managing what it shows, and that this is the whole of what has happened in this room today and it is not a decision anybody took.
 
 Then he put his hand flat on the face of the tally-board and left it there, and the knife stayed on the table beside it where he had put it down, and a man who puts a hand flat on a page and says nothing about it is doing what a woman who keeps a column empty on purpose is doing, and that neither of them has ever explained it to the other and neither of them is going to.
 
