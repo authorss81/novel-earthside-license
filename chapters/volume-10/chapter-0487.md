@@ -14,7 +14,9 @@ A man at the end of that row said the thing that is said.
 
 "**It is going to sound well and it is not going to be well, and I would rather it sounded well than have it not sound well at all, because a thing that sounds well is a thing people carry.**"
 
-"**A man who sells off a board is a man whose hands are on a board all day long, and not one of them has ever been on a door. If I went out onto those flats I should have stood in a gateway and counted, and I should have come back with the same figure the first man has, and I should have had to say so in front of about nine people.**"
+He said the rest of it to his own board and not to the man at the end of the row.
+
+"**I have got a board of my own on a string and I have not been on a door since I was a boy in this market, and if I went out onto those flats I should have stood in a gateway and counted, and I should have come back with the same figure the first man has, and I should have had to say so in front of about nine people.**"
 
 Nobody thanked him for saying it and nobody argued with him about it. The man of about thirty-one took his hand off the flap of the satchel and put both hands behind his back, and he said it with his back to the row, and he did not turn round while he said it.
 
@@ -26,7 +28,7 @@ Nobody improved on either of those. The man at the end of that row put his hand 
 
 "**I could have gone and not knocked, and I would have come back with a figure, and I would not have known what I had done. There is nobody in four hundred miles who could have told me afterwards, and that is the part of it I cannot put my hand to, and I am not going to stand here being admired for a thing I have not done.**"
 
-The woman at the stall two along from the store turned to the man beside her at about the middle of that and did not say what she had been going to say. She put her hand over the edge of her own board and left it there, and she has not said it to anybody. The man of about thirty-four picked his stone up off the foot of the string, turned it once in his hand, and put it back down where it had been, and went back behind his own board and did not come out to the front of it again that day.
+The woman at the stall two along from him turned to the man beside her at about the middle of that and did not say what she had been going to say. She put her hand over the edge of her own board and left it there, and she has not said it to anybody. The man of about thirty-four picked his stone up off the foot of the string, turned it once in his hand, and put it back down where it had been, and went back behind his own board and did not come out to the front of it again that day.
 
 ---
 

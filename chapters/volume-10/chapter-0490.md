@@ -6,7 +6,7 @@ The box on the step beside the store's door had its lid off at about the ninth h
 
 She put the chalk on the board on the right of the old figures and a hand's width clear of them. She wrote one figure, and there was a stroke in the second place of it, and she wrote it the way a person writes a thing they have looked at a great many times and not in a hurry. She did not rub anything out. The figures of the two hundred and twenty-fourth day were on that board when she started and they were on that board when she finished, and there is no place on that board that has been wiped. The wall above the board was not washed, and the washing of it stopped where the board stopped.
 
-About four people at that end of the market read that board that morning. About four of the nine who read it worked out that the two sets of figures on it do not agree, and not one of the nine of them can say which set of the two is right, and the reason none of them can is a word, and the word is not on the board. A man at the end of the row said the thing that is said.
+About four people at that end of the market read that board that morning, and about five of the nine who were standing at that end of it did not. Everybody who read it worked out that the two sets of figures on it do not agree, and not one of the nine of them can say which set of the two is right, and the reason none of them can is a word, and the word is not on the board. A man at the end of the row said the thing that is said.
 
 "Which one is the new one."
 

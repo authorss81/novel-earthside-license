@@ -8,7 +8,7 @@ He put two fingers on the near corner of it and turned it over, once, the way a 
 
 He said it once, in his own mouth, to the room, and he did not say it again for the rest of that morning.
 
-"**There is a figure on the back of it as well, and the two of them are not the same figure, and they are the same kind of thing, and the two of them are the same. There is not one false word in that, and I have never in my life had to say the same about two numbers.**"
+"**There is a figure on the back of it as well, and the two of them are not the same figure, and they are the same kind of thing. There is not one false word in that, and I have never in my life had to say the same about two numbers.**"
 
 A woman at the back said the thing that is said.
 

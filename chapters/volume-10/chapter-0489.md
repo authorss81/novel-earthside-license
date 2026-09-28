@@ -14,7 +14,7 @@ He put his thumb under the loose turn of the eleventh withy again and lifted it 
 
 "**There is one of the eleven come loose at the top of the ninth post, and I have looked at it four times, and I have not bound it up again and I am not going to. There is nobody within four hundred miles of this lane who could come and tell me which two of those posts it is that this argument is about.**"
 
-Nobody said anything to him about that, on that road or anywhere else. The only other man in this city who has ever said those numbers out loud is a man who paid for half of a holding about forty years ago, and he was not asked about them and has not said them again. The two of them have never seen one another, and neither of them has ever given those figures to anybody who was going to write them down.
+Nobody said anything to him about that, on that road or anywhere else. The other man in this city who has ever said those numbers out loud is a man who paid for half of a holding about forty years ago, and he has said them out loud twice and neither of those two times was because anybody had asked him for them. The two of them have never seen one another, and neither of them has ever given those figures to anybody who was going to write them down.
 
 He put the bar up under the wheel of that handcart and shouldered it back down the lane a foot or two until the wheel came up against the bar. The cart stayed where it was with the bar against it, and the loose withy hung where it had been hanging.
 

@@ -1,6 +1,6 @@
 # Chapter 0484 — A Man At The End Of A Lane
 
-There was a lane past two gates with about nine households in it, and a wall at the top of the lane with nine boards gone off it. On the hundred and sixty-ninth day of the Bare Month, a Tuesday, a man was going up that lane with a stick in his hand putting a notch on the frame of every door he came to. The notches he was cutting were the same cut on every frame, and they were not anybody's tally, and they were not on any page. He had started at the gate end, and he was two thirds of the way up when Tamsin Quill came out onto the bottom step of that lane and stood on it with the fold of the sheet of road showing in the inside of her coat and about nine places on it. She did not take it out.
+There was a lane past two gates with about nine households in it, and a wall at the top of the lane with nine boards gone off it. On the hundred and sixty-ninth day of the Bare Month, a Tuesday, a man was going up that lane with a stick in his hand putting a notch on the frame of every door he came to. The notches he was cutting were the same cut on every frame, and they were not anybody's tally, and they were not on any page. He had started at the gate end, and he was a third of the way up when Tamsin Quill came out onto the bottom step of that lane and stood on it with the fold of the sheet of road showing in the inside of her coat and about nine places on it. She did not take it out.
 
 ---
 
@@ -16,7 +16,7 @@ A woman at a door said the thing that is said to the man with the stick and not 
 
 "Are you doing the whole of it or just this side."
 
-"**The whole of it, and it is not a count of anything that anybody has asked me for, and I am doing it because a man came down this lane with a stick and told me to and did not tell me what for, and I have cut eight notches and there is one frame left and I am going to do that one as well unless the frame says otherwise.**"
+"**The whole of it, and it is not a count of anything that anybody has asked me for, and I am doing it because a man came down this lane with a stick and told me to and did not tell me what for, and I have cut seven notches and there are two frames left and I am going to do those two as well unless a frame says otherwise.**"
 
 He went on up the lane and cut the eighth notch in the eighth frame and stood in front of the ninth.
 
