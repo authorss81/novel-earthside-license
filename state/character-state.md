@@ -1351,3 +1351,15 @@ The other came up a lane with a barrow of boards and a rope hooked back over the
 **AND THE TWO FAULTS THIS LAYER HAS NOW COMMITTED TWICE, named so that a later phase inherits the reason and not only the rule: a descriptor map counts occurrences and does not decide which occurrence is the same person, which is how two men of about thirty-eight nearly became one man in Volume 07 and how a woman of about fifty-four nearly became a new person in Volume 09; and a measurement taken on a window is a fact about the window, which is how thirty-seven people came to be described as a pool of unused descriptors.**
 
 **AND THE ONE THING NO FILE THIS PHASE WROTE MAY PRINT: the name of Volume 09 and the words the man of about thirty-four says in Chapter 0428; the volume's one rule said on day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393, whose six words also stand at `bible/power-system.md:1684` and at `outline/volume-08.md:208`; and the day-154 sentence. NAMED WHERE EACH OF THEM IS, PRINTED NONE OF THEM, NO ABSENCE CERTIFIED. A PLAN IS NOT A PAGE AND A PERMANENT WITNESS SECTION IS NOT A PAGE, AND THE HOLD IS ON THIS PHASE'S OWN FILES.**
+
+---
+
+## THE REVIEW REPAIR PASS ON `volume-10-outline`, WHICH ADDED NOBODY AND TOOK NOBODY OFF A PAGE
+
+**This block is at the foot and wins over every block above it.**
+
+**THE ONLY CAST FACT THAT CHANGED IS A PLACEMENT THAT WAS ALREADY ASSERTED FOUR TIMES AND DENIED ONCE, and the denial was the error.** **Adrian Vale is in Chapter 0453 and in Chapter 0454, and he is named in those two chapters on a barrow of stall boards and on a satchel respectively, and in neither of them does he speak to the woman who walked a market and in neither of them does she speak to him.** The relationship between the two of them is nothing and is still nothing, and it was nothing before the repair and is nothing after it, and the sentence that said he was absent from 0453 was the sentence that was wrong.
+
+**NO DESCRIPTOR WAS ADDED TO ANYBODY. NO AGE WAS ADDED TO ANYBODY. THE POOL AT §19.5 IS STILL EMPTY AND STILL MEASURED ON ALL FOUR HUNDRED AND FIFTY FILES, and the woman who walked a market still has no number, no age and no descriptor, and the man of about twenty-seven still has exactly one second handle, a bucket and a rag and a wall he has decided not to wash, and the man of about thirty-four still has a piece of chalk he does not use.** No new person was invented by this pass and none was removed, and the count of persons on pages in this volume is unchanged at the one the outline published.
+
+**AND THE FIFTEEN ARE STILL FIFTEEN AND THE STAGE IS STILL STAGE 2 ON ALL FIFTY DAYS: he is aged nowhere, he performs no working, no threshold is opened, nobody offers him a workway and he asks for none, and the words *passage* and *privilege* are at zero across this volume's fifty files.**
