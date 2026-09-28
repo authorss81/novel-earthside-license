@@ -24,7 +24,7 @@ He took his hand off the lid and looked down the row at the flags, where the wat
 
 At about the seventh hour the man of about thirty-four went down that row to the far end of it and got both hands under that trough and lifted it and carried it back the length of that row himself, with a foot under the bottom of it every few paces so that it did not catch on the flags, and he put it back against that wall under the board on its own spot and he left it there. Nobody asked him to do that and nobody told him to, and the man of about twenty-seven who washes that board was at the step with the rag on the stone lip and did not look at him do it.
 
-About four people at that end of the market saw a man carry a trough back the length of a row and put it where it had always been, and about four did not, and nobody in that row thanked him and nobody asked him why. His own piece of chalk stayed in his own inside breast pocket all the way down that row and all the way back up it, and he did not put a hand into that box on the step at any hour of that morning.
+There were about four people at that end of the market who saw a man carry a trough back the length of a row and put it where it had always been and about four more who did not, and nobody in that row thanked him and nobody asked him why. His own piece of chalk stayed in his own inside breast pocket all the way down that row and all the way back up it, and he did not put a hand into that box on the step at any hour of that morning.
 
 ---
 

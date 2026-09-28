@@ -14,7 +14,7 @@ Nobody in that room said that he was right. A man at the far end of that bench s
 
 "Nineteen rates is a lot of writing for one board."
 
-"**It is nineteen rates and it has been nineteen rates for nine years and it will be nineteen rates on this board in nine years, and nobody in this room has ever once offered me a second board to put them on.**"
+"**It has been nineteen rates for nine years and it will be nineteen rates on this board in nine years, and nobody in this room has ever once offered me a second board to put them on.**"
 
 He sat down at the near end of that bench after that and did not say one word more. A man at the far end put his finger on the top rate of that board and counted four rates down it and did not say anything, and the woman at the near end went back along the top row and counted them the other way and did not say anything either. About four people in that room had worked out that both of those surfaces carry figures of this city's own and about four of them had not.
 

@@ -14,7 +14,7 @@ A woman at the last named house said the thing that is said, to the road.
 
 "It was a good fence before the water."
 
-"**It was a good fence before the water and it is a fence now, and I did not ask anybody to put me on this road and nobody asked me why I put it here, and I would rather it stayed like that between the two of us.**"
+"**It is a fence now, and I did not ask anybody to put me on this road and nobody asked me why I put it here, and I would rather it stayed like that between the two of us.**"
 
 ---
 
@@ -26,7 +26,7 @@ A woman at the last named house said the thing that is said, to the road.
 
 "There is nothing up there for you."
 
-"**There is nothing up there for me and there was nothing up there for me the other nine years, and a man who has carried nothing up a road for nine years can stand at the top of it in the rain without anybody making a speech about it.**"
+"**There was nothing up there for me the other nine years, and a man who has carried nothing up a road for nine years can stand at the top of it in the rain without anybody making a speech about it.**"
 
 ---
 

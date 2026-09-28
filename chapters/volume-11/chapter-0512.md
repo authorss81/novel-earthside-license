@@ -16,7 +16,7 @@ A woman at the stall two along looked at the silt in the trough and said the thi
 
 "You could carry it back."
 
-"**I could carry it back. I have not carried it back and I am not going to, and I am not going to stand in this row and explain to anybody what a trough is for either, because the last man who did that in this market got a bucket turned over his head for it.**"
+"**I have not carried it back and I am not going to. And I am not going to stand in this row and explain to anybody what a trough is for either, because the last man who did that in this market got a bucket turned over his head for it.**"
 
 Nobody asked him who had moved the trough and nobody told him. He took the board up in both arms and put it flat on the flags under the wall on its own edge with the figures up, and he filled the bucket at the channel and carried it the length of that row to the trough and tipped it in and carried the empty one back, and did that three more times before the seventh hour.
 

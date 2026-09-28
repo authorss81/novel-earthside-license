@@ -16,7 +16,7 @@ A woman at the end of that row said the thing that is said, to the flags.
 
 "You are up here at the second hour."
 
-"**I am up here at the second hour on every morning that I send one, and there is nobody standing at this end of the row at the second hour to watch me send it, and that is the whole of why I come at this hour and it is not a better hour for it.**"
+"**Every morning that I send one I come up here at the second hour, and there is nobody standing at this end of the row at the second hour to watch me send it, and that is the whole of why I come at this hour and it is not a better hour for it.**"
 
 He put his hand flat on those boards again and said one word more, to the boards and not to her.
 

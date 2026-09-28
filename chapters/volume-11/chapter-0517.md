@@ -22,7 +22,7 @@ A woman at the near end of that row said the thing that is said, to the water.
 
 "It is somebody's plank."
 
-"**It is somebody's plank and it is laid across two thirds of that channel and it is not going to reach the far side and I have got a barrow to get to the end of that row with, and I am not going to stand here working out whose it is.**"
+"**It is laid across two thirds of that channel and it is not going to reach the far side, and I have got a barrow to get to the end of that row with, and I am not going to stand here working out whose it is.**"
 
 He did not look at the plank and he did not look down at the flags on the near side, and nobody in that row said whose hands had been on it.
 

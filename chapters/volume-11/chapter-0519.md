@@ -18,7 +18,7 @@ A woman standing at the end of that row said the thing that is said, to the boar
 
 "You have left your figure face down on a pile of wood in the open."
 
-"**I have left my figure face down on a pile of wood in the open, and the four hundred and forty is on the other side of it where the sun does not get to it, and if anybody in this city wants to find it they can come and turn it over, and nobody in this city is going to and neither am I.**"
+"**The four hundred and forty is on the other side of it where the sun does not get to it, and if anybody in this city wants to find it they can come and turn it over, and nobody in this city is going to and neither am I.**"
 
 Then he took his barrow up the row by the shafts and did not stop, and he did not look back at the stack of boards on his way to the end of it.
 

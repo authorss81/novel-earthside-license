@@ -16,7 +16,7 @@ A man at the near end of the bench said the thing that is said, to the table.
 
 "You do not know that."
 
-"**I do not know that and I have written it on a slate that goes in and out of this room on a barrow, and the man who carries that barrow is not going to be asked, and that is the whole of what I have to say about it and I have said it.**"
+"**I have written it on a slate that goes in and out of this room on a barrow, and the man who carries that barrow is not going to be asked, and that is the whole of what I have to say about it and I have said it.**"
 
 Nobody in that room said one word about the difference between the two figures and nobody in that room was asked anything that morning. Behind the bench the second slate stood on its edge on the shelf with a day across the head of it and nothing whatever under that day, and it was not picked up and it was not turned over and it was not written on, and no hand but the keeper's went near that shelf all day and hers did not go near it either.
 
