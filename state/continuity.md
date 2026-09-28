@@ -1603,3 +1603,49 @@ The seven checks and their definitions and their figures are at `outline/volume-
 ### 7. The one thing no file this batch wrote may print
 
 **The name of the volume before the last, and the words the man of about thirty-four says in Chapter 0428; that volume's one rule, the panel of day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393, whose six words are also reproduced at `bible/power-system.md:1684` and at `outline/volume-08.md:208`; the day-154 sentence; the count of chapters carrying the day-154 beat, which the Volume 09 plan withdrew; AND THE WORDS THE MAN OF ABOUT TWENTY-SEVEN SPEAKS IN CHAPTER 0486. NAMED WHERE EACH OF THEM IS, PRINTED NONE OF THEM, NO ABSENCE CERTIFIED, AND THE MEASUREMENT OF THE HOLD WAS NOT RE-RUN BECAUSE RE-RUNNING IT REQUIRES PRINTING THE SPANS. THE VOLUME'S OWN NAME IS SPOKEN ON DAY 534 AND IS NOT ONE OF THESE TEN DAYS AND NO FILE THIS BATCH WROTE SAYS WHERE IT STANDS OR THAT IT IS IN NO FILE.**
+
+---
+
+# VOLUME 11, BATCH 0001 — REVIEW REPAIR PASS, the authoritative block, and it wins over everything above it
+
+**A REVIEW RAN ON CHAPTERS 0501 TO 0510 AND ITS FINDINGS ARE ALL ACTED ON OR PUBLISHED. FOUR EDITS WERE MADE TO TWO CHAPTER FILES AND EIGHT FIGURES AND ONE FALSE STATEMENT WERE CORRECTED IN THE RECORD AND IN `state/current.md`. EVERYTHING BELOW IS A CHANGE TO STATE AND NOT A CHANGE TO THE PLAN.**
+
+## 1. The two blocking faults, and what each was
+
+**Chapter 0507's hours ran backwards. The page stood the seventh hour, then the eighth, and then `At about the fourth hour the store's board came down off its two nails`, and the fourth hour is the earliest hour the chapter names. The card is *the whole morning*. THE SECTIONS WERE REORDERED INTO THE ORDER THE DAY RAN: the trough turned over at the second hour, the board washed at the fourth, the man of about sixty in the row from the seventh, and the close. The card named the fourth hour and the page still prints the fourth hour, and the eighth hour that the first edition put the trough at is now the second, which is a page figure and never a card figure. THE CLAUSE THAT READ *by the middle of the day* IN THE FOURTH-HOUR PARAGRAPH NOW READS *an hour before*.**
+
+**Chapter 0507 put the three sets of figures on the wall. THE FIGURES ARE ON THE BOARD, in Chapter 0501's own opening sentence and in `outline/volume-11.md` §20.6's store's-board row, and the wall is the surface above that board which is not washed on any of the fifty days. The page now reads *on that board*, and the wall above it is still unwashed, and THE VOLUME'S ONE UNWASHED SURFACE IS THE SURFACE IT WAS AND IS NOT A SECOND SURFACE BECAUSE A CHAPTER MISPLACED A FIGURE.**
+
+## 2. The two prose faults
+
+**The not-noticing frame — about four people look, and not one of the nine says — ran three times in Chapter 0501 and twice in Chapter 0507 in near-identical form, and the word-run check cannot see it because every file is excluded from its own comparison. TWO OF THE FIVE WERE REWRITTEN and the three that stand are the paragraph where the man of about twenty-seven's marked turn answers nobody, the trestle moving a foot, and the asking about which of the three sets of figures ought to be read. NO COUNT, NO DESCRIPTOR AND NO FACT MOVED.**
+
+**Chapter 0505 said *left it there for the length of about as long as it takes a man to count nine*, which is a duration written as a length and then written as a duration again. IT NOW READS *about as long as it takes a man to count nine*, the same figure and the same anchor and four words shorter.**
+
+## 3. The false statement, which is the finding that was not a typo
+
+**The batch record asserted, at its head and again in §2, and `state/current.md` echoed it, that the batch's own brief marked Chapter 0509 as carrying the protagonist. THE BRIEF'S TABLE DOES NOT. It leaves that cell blank in exactly the way it leaves 0502's, 0503's and 0505 to 0510's blank, and the brief's sentence and the brief's table agree with each other and both say two. WHAT CARRIES 0509 IS `outline/volume-11.md` §14.3'S ADRIAN COLUMN AND §4.1'S TABLE OF THE ELEVEN WANTS, AND A CARD MAY TAKE A WANT FROM §4.1 AND MAY NOT SUPPLY ONE. THE THREE CHAPTERS REMAIN 0501, 0504 AND 0509; ONLY THE DOCUMENT NAMED AS CARRYING THE THIRD CHANGED; NO CHAPTER WAS ADDED OR REMOVED AND NO DAY MOVED.**
+
+## 4. The figures, all re-measured, and none of them a target
+
+| The figure | Was published | Is | The unit, or what happened |
+|---|---|---|---|
+| bolded share, per chapter, in order | 11.07, 11.98, 15.67, 3.41, 10.06, 20.90, 9.65, 17.68, 8.83, 13.83 | 10.97, 11.98, 15.67, 3.41, 10.10, 20.90, 9.65, 17.68, 8.83, 13.83 | 0501 and 0505 moved because of the two prose repairs |
+| bolded share series in `state/current.md` | 0501's 11.07 printed LAST | printed FIRST | the same fault class already repaired once in the Volume 08 batch-0001 pass |
+| paragraph total | 238 | **180** | a block between blank lines, heading and `---` rules not counted; 190, 225 and 235 on the other three readings |
+| plain speeches answered | 19 | **18** | the record's own ten rows and its own sentence under them said 18 |
+| free-standing one-sentence narration | 57 | **13** | the old column double-counted the whole one-sentence narration column |
+| physical-action subset vs whole | equal in 2, smaller in 8 | equal in **3** (0504, 0506, 0508), smaller in 7 | its own table always showed three |
+| runs at sixteen words | 106, no unit | **53**, and the unit named | 106 was the (file, other-file) pair count of the same 53; the 40 distinct strings is unchanged |
+| marked turns in 0507 | 4 in 21 paragraphs | **3 in 15** | 21 counted the heading and the rules |
+| man of about twenty-seven | 5 | **6** | 0507 now names him in a second section; the map still holds 8 descriptors, none new |
+
+**Seven rows of §1.11's head table were also wrong and are corrected with the per-file row published beside each: `the nine people` 3→2, `nine people` 12→11, `about nine people` files 4→6, the case-insensitive count, `four hundred miles` 11→10 with 0501 missing from its own list, `one place` 40→44 with 0508 missing from its own list, `nineteen rates` 2→4 because a file count was in the occurrence column, and `sixteen willow posts` 1→0 case-sensitive because the string stands once and stands capitalised. NONE OF THE EIGHT WAS MADE WRONG BY THIS PASS.**
+
+## 5. What re-ran clean, and is therefore not a figure that moved
+
+**The calendar: Bare-Month ordinals one hundred and eighty-sixth to one hundred and ninety-fifth, every one resolving to its own chapter's day, day less 315, fifteen phrases in ten files, and no ordinal for a month on any of nine forms. The elapsed count: exactly one, a hundred and seventeen days out at Chapter 0508, measured from day 391 named in the same sentence. The word-run check: zero at forty words and the longest run anywhere in the ten is thirty-five words, and the 35-word run stands in 0504 and 0508 and is a required declaration of the day-on-the-door row. The zeros: no panel, no notice written, no room count, `dozen` at zero, `nine steps` at zero, the fourth of the four said no uncounted, the second slate never picked up, never turned over and never written on. The descriptor map: eight distinct descriptors and not one new.**
+
+## 6. What this pass did not do
+
+**It did not touch a card, an outline, a bible file, a controller file, a chapter outside Volume 11, or the next phase's prompt. It did not move a day, a weekday, an ordinal, a pressure tag or an ending; it did not decide which of the three sets of figures anybody ought to be reading; it did not wash the wall above that board; it did not spend the volume's one panel, which is fixed to day 540; it did not pick up the second slate; it created no next phase; and it introduced no new final enemy of any kind. The eleven inherited debts carry whole and unpaid, and `chapters/volume-10/chapter-0475.md` is still not on disk.**
