@@ -508,3 +508,72 @@
 10. **Chapter 0450 is still the volume's last image and it is still an image and not a resolution.** Nobody was sent for and nobody was waiting to be sent for. **The man of about thirty-nine still had his slate on his knee and said nothing that morning at all.** The register-keeper still stands at about the ninth hour, puts her hand flat on the table beside the sheet, does not touch it, and says the one ordinary thing she says about the third of the four places being empty on purpose. **The register is still on its shelf with its third column empty, the second slate is still on that shelf and is still not picked up and not turned over and not written on, the four places under the heading still stay as they are, and nobody still says one word about the hundred and thirty-fifth day of the Bare Month or about what it is or what comes after it.** The road with three barrows on it is still the last thing in the volume, and there is still nobody in this city who can be shown one person on that road.
 
 **AND THE ONE THING A LATER CHAPTER MAY STILL NOT DO, which is inherited and is a rule and not a thread.** A narrator in this volume does not say a chapter number and does not map a day of the flood onto a chapter number. **No chapter of these ten did it before this pass and no chapter of these ten does it now, and the twenty-three weekday tokens across the ten were re-read in the sentence each stands in, and every one of them is correct.**
+
+---
+
+# VOLUME 09 — CLOSE — and this block is at the foot of this file and it wins over every block above it
+
+**A close ran on Volume 09. It wrote no chapter and revised no chapter summary, and every summary above this line stands as the batch that wrote it wrote it. The five batch records are at `state/batch-summaries/volume-09-batch-0001.md` through `-0005.md` and they are the witnesses; the close record at `state/volume-09-close.md` is the court, and where a record and a file disagree the file is right.**
+
+## 1. THE FIFTY, IN ONE LINE EACH, AND THE LINE IS THE THING THE CHAPTER IS FOR AND NOT A SUMMARY OF ITS ENDING
+
+| Ch | Day | Weekday | BM | The thing the chapter is for |
+|---|---|---|---|---|
+| 0401 | 401 | Wednesday | 86 | A second sheet comes up the road in a satchel and is put on a table face down, and a room works out in Chapter 0401 that there is no sheet of paper in this city going to say a day is coming, and the four days of notice are named as the cooling. |
+| 0402 | 402 | Thursday | 87 | The narrator establishes the rule that governs the volume: he addresses rooms and not people. |
+| 0403 | 403 | Friday | 88 | The three four-place forms are named and kept apart in a room by a person. |
+| 0404 | 404 | Saturday | 89 | A kitchen at the end of a lane and a tin and a condition attached to it, and a page said out loud to be the plainest claim in this flood. |
+| 0405 | 405 | Sunday | 90 | The sheet is read out in the local language in front of about nine people and the third of the four places is a person, and the date on the door is the ninetieth and the reading is on the ninetieth and the reading is in this room. |
+| 0406 | 406 | Monday | 91 | A third place that is a person goes on a page for the first time in this flood. |
+| 0407 | 407 | Tuesday | 92 | The man of about thirty-four and his chalk, and a hand flat on an inside breast pocket. |
+| 0408 | 408 | Wednesday | 93 | Wharf boards, a tally-board and a strip of clear board, and the man of about thirty-eight working them. |
+| 0409 | 409 | Thursday | 94 | A room with a page on it and nobody sent for, and the register on its shelf. |
+| 0410 | 410 | Friday | 95 | A fence of sixteen posts and eleven withies, and a mark in a field nobody is going to, and a man of about fifty-seven who says he is not moving it and is not being asked. |
+| 0411 | 411 | Saturday | 96 | A line that is going to be hers, said by her before anybody has said so. |
+| 0412 | 412 | Sunday | 97 | A page that came out of a fold, and three of four and one. |
+| 0413 | 413 | Monday | 98 | A wall the rain washes and a board nobody has written on. |
+| 0414 | 414 | Tuesday | 99 | About four hundred and forty, and the figure the man of about thirty-eight has is on no page. |
+| 0415 | 415 | Wednesday | 100 | A man of about forty-one in a very good coat with a document inside the coat and no local language, and he does not describe the room where anything got decided. |
+| 0416 | 416 | Thursday | 101 | A first thing a man is not going to say, and **the one room count printed in this volume, a dozen, in narration, on a line this close publishes as a debt.** |
+| 0417 | 417 | Friday | 102 | A page nobody in the room has read, and a man of about sixty packing cart-track in weather. |
+| 0418 | 418 | Saturday | 103 | A man who has been in a great many rooms and been asked nothing in any of them, and the longest bolded turn in the volume. |
+| 0419 | 419 | Sunday | 104 | A page and a room and a count of three and one. |
+| 0420 | 420 | Monday | 105 | **A woman of about fifty-four is asked, in a room, in daylight, with a date on the door, where her line is, and answers correctly, and a length of blue thread tied round her wrist is invented on the page. This is the volume's one new person.** |
+| 0421 | 421 | Tuesday | 106 | A room with no instrument for asking anybody anything in advance of anything, and a page carried out onto a step. |
+| 0422 | 422 | Wednesday | 107 | A man who cannot move a thing, and a withie put back on. |
+| 0423 | 423 | Thursday | 108 | Two ordinary questions asked and not made into anything. |
+| 0424 | 424 | Friday | 109 | The third place left empty is coming, and a man does not say the first thing he is not going to say. |
+| 0425 | 425 | **Saturday** | 110 | **The midpoint. A woman decides out loud, in a room, in daylight, with a date on the door, to leave the third of the four places empty, names the cost first in her own words, and is thanked by nobody. Adrian Vale is not in the chapter.** |
+| 0426 | 426 | Sunday | 111 | A board face up on a table, and the man of about thirty-eight turning boards. |
+| 0427 | 427 | Monday | 112 | The practical half of everything gets said, and a tally-board put face up on knees for the first time. |
+| 0428 | 428 | **Tuesday** | 113 | **The name of this volume is spoken, once, in four to eight words, in the local language, in a room in daylight with a date on the door, by the man of about thirty-four who keeps a stall, asked by the woman of about twenty-nine who keeps the public register. It is on that page and in no file. Nobody is thanked and nobody improves on it.** |
+| 0429 | 429 | Wednesday | 114 | A voice at the bottom of a stair, and a practical question about a fold. |
+| 0430 | 430 | Thursday | 115 | The four places read out again and the third one still empty. |
+| 0431 | 431 | Friday | 116 | A room with a hand on a page and no instrument in it for asking anybody anything. |
+| 0432 | 432 | **Saturday** | 117 | **Four lines are drawn on the sheet and the man of about fifty-seven reads one of them out loud because it is in front of him, and he does not say it is his, and nobody asks him, and the third place stays empty.** |
+| 0433 | 433 | Sunday | 118 | A man with a barrow and a bar he replaced, going up a shut road. |
+| 0434 | 434 | Monday | 119 | A man carries a stall board up nine steps and puts it against a wall, **and the sheet with the four marks on it is lying on the table the whole chapter and is not its subject.** |
+| 0435 | 435 | Tuesday | 120 | About nine yards of cart-track and a rain that takes the first third of it back. |
+| 0436 | 436 | **Wednesday** | 121 | **The morning Adrian Vale reads nothing. A wharf, a stack higher than a man, a tally-board, a knife, a barrow, and nothing on any of it that anybody has to fill in. Nobody asks him anything, nobody declines to ask him anything, and the chapter does not say he was right.** |
+| 0437 | 437 | Thursday | 122 | A cost and a consequence, and a page that nobody has folded. |
+| 0438 | 438 | **Friday** | 123 | **The climax and the volume's one panel. The sheet goes out on its date with four lines on it and nothing in the third column, the wall says one thing in its own block and it gives a rule and not an answer, the man of about thirty-four refuses it in about four seconds and what it costs him is his own ninth line, and the man of about thirty-nine is right in about four seconds and the chapter does not say so.** |
+| 0439 | 439 | Saturday | 124 | Recovery, and a page that has been up a road. |
+| 0440 | 440 | **Sunday** | 125 | **The sheet comes back and one of the four marks is not where it went out. Nobody traces it, nobody investigates it, nobody guesses at it, nobody reports it to a room, and no chapter says in any mouth that anybody moved it.** |
+| 0441 | 441 | Monday | 126 | A cart nobody in this city knows the day of, and Adrian Vale reads a page and says nothing at all and is thanked for nothing. |
+| 0442 | 442 | Tuesday | 127 | A rain that takes the work back while a man is still on the last of it, and he does not go back to it. |
+| 0443 | 443 | **Wednesday** | 128 | **The resolution. The register takes a second line with a day in it and nothing under it, the day on the line is day 438, both days are named in one sentence in one mouth, and no name goes under either day.** |
+| 0444 | 444 | Thursday | 129 | **Four stalls in a market that did not change hands, a man told he was wrong in front of about nine people, and not told he was right, and a board that is not a stall.** |
+| 0445 | 445 | **Friday** | 130 | **The new question, asked to the room and not to anybody, by the woman of about sixty-nine, and answered by nobody. About four of the nine had an answer and about four said nothing, and a page with a place in it for a person was lying on the table the whole time and was not used.** |
+| 0446 | 446 | Saturday | 131 | A man who stopped at a stall front for the second time in this flood and bought cord with no measure said out loud. |
+| 0447 | 447 | Sunday | 132 | A page waiting for a round, and Adrian Vale says the same five words and is not answered. |
+| 0448 | 448 | Monday | 133 | A barrow that does not stop, a hurdle and a bar, and the high side of a shut road holding what a man did to it. |
+| 0449 | 449 | Tuesday | 134 | **A chair is moved and the rope goes onto the floor and the man it belongs to picks it up and puts it back, and nobody in that room says one word about it.** |
+| 0450 | 450 | **Wednesday** | 135 | **The last image. A page lying on a table with a crease down the length of the third of its four places and the first and the third and the fourth all empty, a woman with her hand flat beside it and not touching it, nobody thanked, and a road out of this city with three barrows on it and nobody in this city who can be shown one person on that road. Nothing is said about the hundred and thirty-fifth day, or about what it is, or about what comes after it.** |
+
+## 2. WHAT THE FIFTY DID NOT DO, IN ONE PARAGRAPH, BECAUSE A LIST OF CHAPTERS THAT OMITS IT IS A SALES PAGE
+
+**Nothing was resolved. No document was defeated. Nobody was rescued and nobody was defeated. Nobody got stronger. No thread was discharged: the one of the four marks that came back out of place is not traced, the three questions are not answered, the day-154 sentence is not said, the fence is not measured and whether it works is not settled, the ninth line is not read aloud and whether it works is not settled, the days since the fourth of the four said no were not counted at any value, the town four hundred miles inland is not entered and the page a hundred and forty years old is not read and its eight names are not read, the word on the second slate is not printed, the man of about fifty-seven is not asked where the fence is, the two rolls of the same gates are not compared, the Crown's schedule is never opened, the keeper of the Redroot gate is not counted, the girl of seventeen is not fetched, the boards under the chapel are not lifted, the island is not owned, the box is shut, and the Bare Month does not end and is not given a length by anything any of the fifty printed or by this record.**
+
+## 3. THE NEXT PHASE, BY PATH
+
+**`workspace/volume-10/outline/PROMPT.md`, a volume outline phase and not a batch. It writes `outline/volume-10.md`, Volume 10's first batch's cards at `outline/batches/volume-10-batch-0001.md`, and no prose, and it writes no chapter, and the next chapter in this series is Chapter 0451 on day 451, a Thursday, the hundred and thirty-sixth day of the Bare Month, and no phase in this repository has written it.**
