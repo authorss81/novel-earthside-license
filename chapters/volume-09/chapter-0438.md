@@ -8,11 +8,11 @@ The page went out of the room at about the ninth hour. The woman of about twenty
 
 "**It goes down to the end of the market and on to the Friday cart and nobody in this city is going to see it after that, and I am not going to say anything else about it in a room with a date on the door.**"
 
-Nobody in that room thanked her. The man of about thirty-nine who trades on a board had his own board under his arm and was at the wall end of the bench, and the man of about thirty-four who keeps a stall was at the back with his hand flat on his own inside breast pocket, and about four people in that room had watched a woman hand a page to a man who carries things and had not worked out what any of them were going to do about it.
+Nobody in that room thanked her. The man of about thirty-nine who trades on a board had his own board under his arm and was at the wall end of the bench, and the man of about thirty-four who keeps a stall was at the back with his own hand pressed flat on his coat over the pocket, and about four people in that room had watched a woman hand a page to a man who carries things and had not worked out what any of them were going to do about it.
 
 ---
 
-The wall said one thing, and it said it once, and nobody in that room has ever been able to tell anybody where it came from. The woman against the wall did not go the colour of the wall and nothing else in the room moved at all.
+The wall said one thing, and it said it once, and nobody in that room has ever been able to tell anybody where it came from. Nothing happened to the woman against the wall. She did not go the colour of that wall, and nothing else in the room moved at all.
 
 > A line on a page is not a claim until somebody puts their name to it,
 > and a page with a line on it and no name on it belongs
@@ -34,7 +34,7 @@ Nobody in that room improved on what he said. Nobody in that room thanked him fo
 
 The man of about thirty-nine who trades on a board said the other thing that morning, and it was said to the middle of the room and not to anybody in it, and it was said flat.
 
-"**Four of them drew those four and there is not one of their names on any of them, and the one place that could have put one there is folded down and empty on purpose, and anybody who comes along that road next can put a hand on any one of the four and there is nothing on that page to stop them.**"
+"**Four of them drew those four and there is not one of their names on any of them, and the one place that could have put one there is empty on purpose with the crease still pressed the whole length of it, and anybody who comes along that road next can put a hand on any one of the four and there is nothing on that page to stop them.**"
 
 Nobody in that room told him he was right. Nobody in that room told him he was wrong. Nobody in that room thanked him, and a man who has been asked nothing in this flood for about a month said what he said in a room with a date on the door and the room let him have the whole of it and said nothing, and about four people in that room worked out afterwards that the page was going anyway and that they had all known it before the man at the wall end of the bench had said a word.
 
@@ -46,4 +46,4 @@ A woman near the step said the last thing anybody said in that room that morning
 
 "**Then that is all that has happened, and there is a stall at the market end that goes up at the seventh hour, and I am going to be standing behind it, and that is not a thing any of you have to do anything about.**"
 
-Nobody said thank you on that morning. The sheet went out of this city on the hundred and twenty-third day of the Bare Month with four lines on it and nothing in the third of its four places, in a satchel with a flap, under a stone off a doorstep, in the hands of a man who carries things for a living and did not open it, and that day is not a silence in this city and the count of them is one lower because of it, and the day on the door was the hundred and twenty-third day of the Bare Month and about nine people went down nine steps by the fourth hour, and the man of about thirty-four who keeps a stall went down first.
+Nobody said thank you on that morning. The sheet went out of this city on the hundred and twenty-third day of the Bare Month with four marks on it and nothing in the third of its four places, in a satchel with a flap, under a stone off a doorstep, in the hands of a man who carries things for a living and did not open it, and that day is not a silence in this city and the count of them is one lower because of it, and the day on the door was the hundred and twenty-third day of the Bare Month and about nine people went down nine steps by the fourth hour, and the man of about thirty-four who keeps a stall went down first.

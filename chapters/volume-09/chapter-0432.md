@@ -6,7 +6,7 @@ A Saturday, and the hundred and seventeenth day of the Bare Month went into the 
 
 The woman of about fifty-two was the first one in that room to put anything on the page, and she did it at about the eighth hour without being asked and without asking, and she had told the room on a Saturday a fortnight and more before that morning that one of the four lines on that page was going to be hers, and she said that before anybody said it so that nobody in that room could afterwards say she had been asked. She had come up the nine steps that morning without saying one word to anybody on them, and she was not asked where her line went, and she was not asked how she knew it.
 
-She put a mark in the second of the four places. The second of the four is a line, and a line is a thing a person can put down whether or not anybody is standing on either side of it, and about four people in that room watched a woman put one down without appearing to think about where to start.
+She put a mark in the second of the four places. The second of the four is a line, and a line can be put down by whoever puts it down, with nobody standing on the other side of it and nobody on this one either, and about four people in that room watched a woman put one down without appearing to think about where to start.
 
 "**I knew before I came up those steps that I was going to put a mark on that page, and I have said that out loud in this room before, and nobody has asked me since how I knew, and I am not going to be thanked for the mark either.**"
 
@@ -28,7 +28,7 @@ The man of about fifty-seven came up those steps about the eleventh hour with a 
 
 He did not say it was his.
 
-Nobody in that room suggested it. Nobody in that room asked him, and the man of about thirty-four who keeps a stall was at the back with his hand flat on his own inside breast pocket and did not turn round, and the woman of about fifty-two was at the end of the bench and did not look up, and about four people in that room have worked out since that four people drew four lines in one room in one morning and that one of the four read his out loud and did not say it was his, and that there is no way anybody in that room will ever be able to say afterwards which of the four lines is his, including the four of them who drew them.
+Nobody in that room suggested it. Nobody in that room asked him, and the man of about thirty-four who keeps a stall was at the back of that room with his own hand shut inside his coat over the pocket and did not turn round, and the woman of about fifty-two was at the end of the bench and did not look up, and about four people in that room have worked out since that four people drew four lines in one room in one morning and that one of the four read his out loud and did not say it was his, and that there is no way anybody in that room will ever be able to say afterwards which of the four lines is his, including the four of them who drew them.
 
 ---
 

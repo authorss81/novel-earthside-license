@@ -1,6 +1,6 @@
 # Chapter 0431 — A Room Works Out It Has Nothing To Put A Mark On The Page With
 
-A room over a market had the hundred and sixteenth day of the Bare Month in chalk on its door from the sixth hour, and by eight o'clock the stair had been up four times and down four times and nobody in that room had sent for anybody, and the light came in over the step at the back and lay along a bench and stopped short of the middle of the table. On that table there was a sheet of paper lying flat with a heading on it and four places ruled under the heading and a crease pressed down the length of the third of them and nothing at all in any of the four, and on the edge of that table, where it has lain every morning since the page came up the road, there was a lump of chalk.
+A room over a market had the hundred and sixteenth day of the Bare Month in chalk on its door from the sixth hour, and by eight o'clock the stair had been up four times and down four times and nobody in that room had sent for anybody, and the light came in over the step at the back and lay along a bench and stopped short of the middle of the table. On that table lay the sheet, flat as it has lain since it came up the road, a heading on it and four places ruled under that heading, a crease pressed the whole length of the third of them and nothing whatever in any of the four, and on the edge of that table, on the same spot it has been on every morning of this flood, there was a lump of chalk.
 
 ---
 
@@ -8,7 +8,7 @@ A woman at the far end of the bench said the practical thing out loud at about t
 
 "Then what is it going to be drawn with."
 
-Nobody took it up straight away. About nine people in that room had looked at the edge of that table on every working morning since the page came up the road, and every one of them had looked at the chalk on it, and not one of them had picked it up, and about four of them have worked out since that that was not because any of them thought of it after the next.
+Nobody took it up straight away. About nine people in that room had looked at the edge of that table on every working morning since the page came up the road, and every one of them had looked at the chalk on it, and not one of them picked it up, and the not doing it was not a thing that any of them had decided against.
 
 ---
 
@@ -34,8 +34,8 @@ The woman of about twenty-nine who keeps a public register was the only other pe
 
 "**Then it will have to be four of the nine who were in this room on the Sunday it was read out, because those are the only nine anybody in this city is able to name.**"
 
-She sat down. The book stayed shut on its shelf, and the second slate behind the table stayed where it lies with a date on it and nothing under the date, and about four people in that room have worked out since that a woman who keeps a shelf in a room where a day is put on a door in chalk every morning is the one person in this city who could have had a day written on a slate for anybody coming up those nine steps, and that a second one of those is not going to be written either, and that nobody in that room has asked her for one.
+She sat down. The book stayed shut on its shelf, and the second slate behind the table was where it had lain since the page came up the road, with a date on it and nothing under the date. About four people in that room have worked out since that a woman who keeps a shelf in a room where a day is put on a door in chalk every morning is the one person in this city who could have had a day written on a slate for anybody coming up those nine steps, and that a second one of those is not going to be written either, and that nobody in that room has asked her for one.
 
 ---
 
-The chalk stayed on the edge of the table where it had lain every morning. Nobody in that room picked it up and nobody in that room said out loud why not, and the four places under the heading were as empty at the fourth hour as they had been at the seventh, and the bone crease pressed down the third of them had not been deepened and had not been opened out. A room in this city has been looking at a page for about a month of mornings and has worked out this morning that it has nothing on its own table to put a mark on that page with except a lump of chalk that belongs to the woman who keeps the book, and the day on the door was the hundred and sixteenth day of the Bare Month and about nine people went down nine steps by the fourth hour and not one of them went anywhere else first.
+The chalk stayed on the edge of the table where it had lain every morning. Nobody in that room picked it up and nobody in that room said out loud why not, and the four places under the heading were as empty at the fourth hour as they had been at the seventh, and the bone crease pressed down the third of them had not been deepened and had not been opened out. The woman at the far end of the bench had asked that room one question that morning and had been told out loud, in front of nine people, that it was not going to be asked, and she did not ask it a second time, and by the fourth hour she had stopped looking at the edge of that table. The day on the door was the hundred and sixteenth day of the Bare Month and about nine people went down nine steps by the fourth hour and not one of them went anywhere else first.
