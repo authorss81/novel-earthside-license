@@ -50,4 +50,4 @@ By the middle of the afternoon that room was about nine people again and the doo
 
 ---
 
-The light in that room comes in at the one window, and it lay along the flags the whole of that morning with the door shut. Every one of the people who came up that stair put a hand on the back of the door as they came through it and shut it behind them, and about nine of them were still in there at the end of it with the light coming in past them from the side, and the door had been shut every minute of it.
+The light in that room comes in at the one window, and the whole of that morning it lay along the flags with the door shut. Every one of the people who came up that stair put a hand on the back of the door as they came through it and shut it behind them, and about nine of them were still in there at the end of it with the light coming in past them from the side, and the door had been shut every minute of it.
