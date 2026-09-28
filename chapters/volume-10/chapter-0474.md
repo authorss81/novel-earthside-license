@@ -4,7 +4,7 @@ The man of about thirty-four who keeps a stall came up the stair at the back of 
 
 ---
 
-He stood it against the wall on the far side of the room with the face of it turned out, the way it stands on its string at the end of the row, and he took his hand off it and put his hand at his side. The man of about thirty-nine who trades on a board was on the other side of that room with his own board under his arm and looked at it and did not go over to it, and nobody in that room said one word about either board. The register was on its shelf behind the bench with its spine to the wall and was not opened, and the second slate was on the shelf behind it with a date on it and nothing under the date.
+He stood it against the wall on the far side of the room with the face of it turned out, the way it stands on its string at the end of the row, and he took his hand off it and put his hand at his side. The man of about thirty-nine who trades on a board was on the other side of that room with his own board under his arm and looked at it and did not go over to it, and nobody in that room said one word about either board. The register stood on its shelf behind the bench with its spine to the wall and was not opened. The second slate was lying on the shelf behind that register with the face of it turned in against the wall, a date on that face and nothing whatever under the date.
 
 The man of about thirty-nine said it plainly and to the room and not to the man who had come up the stair.
 

@@ -8,7 +8,7 @@ He gave the count out because he is the man who paid for the half of it, and not
 
 "**Sixteen willow posts and eleven withies, and the withies are bound with the same cord, and a man cut them with a handcart he brought up the shut road and nobody sent him, and in about forty years not one person in this city has come out and asked me where the whole of it stands, and I have not been asked today either and I had stopped waiting for it.**"
 
-Nobody in that room improved on that. Nobody agreed with him out loud and nobody disagreed with him out loud, and the woman of about twenty-nine who keeps a public register did not say one word about the posts or the withies or the road, and the register was on its shelf behind the bench and was not opened and the second slate was on the shelf behind it with a date on it and nothing under the date.
+Nobody in that room improved on that. Nobody agreed with him out loud and nobody disagreed with him out loud, and the woman of about twenty-nine who keeps a public register did not say one word about the posts or the withies or the road, and the register was on its shelf behind the bench and was not opened, and the second slate was on the shelf behind that register with the date on it and nothing whatever under the date.
 
 Then he said the other thing, and he said it once and he did not say it again for the rest of that morning.
 
