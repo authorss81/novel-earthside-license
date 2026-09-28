@@ -1,6 +1,6 @@
 # Chapter 0412 — A Space At The Top Of Some Boards About The Length Of A Barrow
 
-The boards of a salt wharf at the bottom of this city were wet at the bottom end at about the seventh hour on the ninety-seventh day of the Bare Month, a Sunday, and the wet came up through the seams about an inch and went down again about the middle of the afternoon, and the light lay along them off the water without moving all morning, and what was under about four pairs of hands that day was a tally-board, a knife, a stack higher than a man at the top end, a strip of clear board about as long as a cart lying at the bottom of that stack, and a space at the top of the boards about the length of a barrow where nothing was.
+The boards of a salt wharf at the bottom of this city were wet at the bottom end at about the seventh hour on the ninety-seventh day of the Bare Month, a Sunday, and the wet came up through the seams about an inch and went down again about the middle of the afternoon, and the light lay along them off the water without moving all morning. Two men were on them. There was a tally-board, a knife, a stack higher than a man at the top end, a strip of clear board about as long as a cart lying at the bottom of that stack, and a space at the top of the boards about the length of a barrow where nothing was, and by the middle of the morning the two of them were the only hands on that wharf and had been since the light came off the water.
 
 ---
 
@@ -30,4 +30,12 @@ He went on working until about the middle of the afternoon. The man of about thi
 
 "**There is no day they go, and there is no form for one, and a sheet of paper with a place for a person in it is not a barrow and it does not need one, and you are asking me a question about a thing I have already answered once this morning in a longer sentence than I am going to use again.**"
 
-He put the knife down flat on the boards and picked it up again and went back to the end he had been at, and the man of about thirty-nine went up off the wharf with his board under his arm, and the space at the top of those boards was about the length of a barrow and was empty and was going to be empty in the afternoon.
+The man of about thirty-nine got the board out from under his arm and laid it flat on the wharf at the bottom end and squared one end of it with his heel, and the man of about thirty-eight turned his tally-board face down onto the boards, put his thumb about a third of the way along that board and ran the knife down it once, and one length came off it and went over on its side on the wet boards.
+
+It came off about a forearm long. The man of about thirty-eight laid the knife flat where he had been working and went back to the end he had been at without waiting to be told how long to cut it, and the man of about thirty-nine stood at the bottom of the boards and looked at the length lying there before he picked it up.
+
+"I did not tell you how long and you did not ask me."
+
+"**Then you have got it too long and you will have to saw it yourself.**"
+
+The man of about thirty-nine put the length under his arm on top of the board he had come down with and went up off the wharf, and behind him the space at the top of that stack was about the length of a barrow and was empty and was going to be empty in the afternoon, and the wet had come back up through the seams to the height of a first board while neither of them was watching it.

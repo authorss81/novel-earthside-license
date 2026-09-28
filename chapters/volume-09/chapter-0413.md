@@ -18,7 +18,7 @@ The man of about thirty-four who keeps a stall came up the nine steps at about t
 
 "**I am not saying it is folded now, I am saying it was folded twice, and I have had it in front of me since Sunday without opening or touching it, and I am not asking for anything, and one of the two folds is the one down the third of the four places and the other one is along the top, which means somebody nine hundred miles off put that sheet together so that the third of the four places fell on a fold.**"
 
-Nobody answered him. The register-keeper had her right hand flat on the table on the side of the paper away from the crease and she did not put it on the crease, and about four people in that room have worked out since that a woman who has been reading forms out loud for nine years looked at a crease for about as long as it takes to count nine and did not put a finger on it.
+Nobody answered him. The register-keeper had her right hand flat on the table on the side of the paper away from the crease and she did not put it on the crease, and about four people in that room have worked out since that a woman who has been reading forms out loud for nine years looked at a crease the way a person looks at a thing they are not going to touch, and did not put a finger on it.
 
 "A crease is a crease. It is not a line. It goes when a page is opened."
 

@@ -18,7 +18,7 @@ The man of about thirty-four who keeps a stall said it, and he said it at the ba
 
 "We worked it out about an hour ago and none of us said anything for about forty minutes."
 
-The woman of about twenty-nine who keeps a public register said that to the table and not to anybody in it, and a woman who has kept a column empty on purpose for fifty days was the first one in that room to admit that the room had been wrong, and nobody in that room thanked her for it either.
+The woman of about twenty-nine who keeps a public register said that to the table and not to anybody in it, and a woman who has kept a column empty on purpose for fifty days was the first one in that room to admit that the room had been wrong, and nobody in that room thanked her for it either, and the man of about thirty-four who keeps a stall did not answer her, and said the next thing himself, at the back of the room, and not to her.
 
 "**We all worked it out at the same moment and nobody in this room is going to arrange for you to have the language, and nobody is going to say it to you, and that is what this room is and I am the one who has said it out loud.**"
 

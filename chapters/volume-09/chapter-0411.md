@@ -22,7 +22,7 @@ The woman of about fifty-two did not look at her when she said it, and she said 
 
 "**I can see it from where I am sitting, and I have been able to see it since I came up those steps, and nobody in this room has asked me to look at it and nobody is going to, and I would like it said out loud in here this morning that I read a page nobody gave me.**"
 
-The register-keeper did not say anything for about as long as it takes to fill a pail. She put her right hand flat on the table on the side of the sheet that is away from the crease, and she did not move the sheet, and about four people in that room have worked out since that a woman who puts her hand down next to a thing instead of on it is a woman who has decided where the thing is and not what is in it.
+The register-keeper did not say anything at all until the light off the low ground had finished coming up under the eaves. She put her right hand flat on the table on the side of the sheet that is away from the crease, and she did not move the sheet, and about four people in that room have worked out since that a woman who puts her hand down next to a thing instead of on it is a woman who has decided where the thing is and not what is in it.
 
 A page with four places ruled under a heading is four things waiting, and the second of the four is a line, and a page with four places on it does not divide itself. A woman who had been able to count them from the far end of a bench since she came up the steps had counted them before anybody in the room had said one word about them.
 

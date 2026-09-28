@@ -1,6 +1,6 @@
 # Chapter 0417 — A Squall Over A Market And A Wall That Washes Itself
 
-A market at the bottom of this city had a squall come across it at about the sixth hour on the hundred and second day of the Bare Month, a Friday, and the squall did the thing that weather does to a market with boards over it, and what was under about four pairs of hands that morning was a stall board with chalk dust in the grain of it, a bucket and a rag, a barrow standing at the end of the stall with nothing in it, and a wall above the outside board of a store that has not been washed for about a month.
+A squall came across a market at the bottom of this city at about the sixth hour on the hundred and second day of the Bare Month, a Friday, and it did the thing that weather does to a market with boards over it. A stall board with chalk dust in the grain of it stood on its string at the edge of the weather, a bucket and a rag were in a doorway, a barrow stood at the end of the stall with nothing in it, and a wall above the outside board of a store had not been washed for about a month. Two men were out in it and the rest of that market came through on foot and went on through.
 
 ---
 
@@ -20,7 +20,7 @@ He was not under anything. That was the thing about him in that squall. The man 
 
 "**I know what is above my head.**"
 
-The rain was coming down the wall in one sheet about as wide as a man and it was going straight over the board and the figures on it, and the man of about twenty-seven did not move for about as long as it takes to count nine, and about four people who came through that market in that weather have worked out since that he was not standing there doing nothing, he was standing there letting it happen to a wall he had decided about a month ago and letting it not happen to a board that had a day in front of it, and that a man who has decided a thing and then has weather decide it for him does not get the credit for it and knows it.
+The rain was coming down the wall in one sheet about as wide as a man and it was going straight over the board and the figures on it, and the man of about twenty-seven did not move at all, and about four people who came through that market in that weather have worked out since that he was not standing there doing nothing, he was standing there letting it happen to a wall he had decided about a month ago and letting it not happen to a board that had a day in front of it, and that a man who has decided a thing and then has weather decide it for him does not get the credit for it and knows it.
 
 ---
 

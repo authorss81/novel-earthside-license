@@ -1,6 +1,6 @@
 # Chapter 0414 — A Book With Three Columns In It And One Line
 
-A room over a market had the ninety-ninth day of the Bare Month in chalk on its door at about the eighth hour, a Tuesday, and by then the light had come round off the low ground and onto the middle of the table and was the only warm thing in the room, and what was under about four pairs of hands that morning was a book with three columns ruled in it lying open at a page, a tally-board under a man's arm, a knife with the edge gone blunt on it, and a sheet of paper with a crease pressed down the third of the four places under its heading.
+A room over a market had the ninety-ninth day of the Bare Month in chalk on its door at about the eighth hour, a Tuesday, and by then the light had come round off the low ground and onto the middle of the table and was the only warm thing in the room. On that table there was a book with three columns ruled in it, lying open at a page, and a sheet of paper with a crease pressed down the third of the four places under its heading, and a tally-board was under a man's arm with a knife with the edge gone blunt on it in the same hand, and eight hands were in that room before the light reached the stair, and one of the eight had come up to read the book and had not said so.
 
 ---
 
@@ -8,7 +8,7 @@ Adrian Vale came up the nine steps at about the eighth hour and was not asked wh
 
 The book was open on the table at a page and the page had three columns ruled in it. The first column had a day in it and nothing under the day. The second column was empty. The third column was empty, and it has been empty on purpose for fifty days and the woman who keeps it has said so out loud in that room once and has not been asked about it by anybody since, and it is the one thing in this city that everybody in that room has agreed about without ever once saying so.
 
-He read it where it lay. He did not lift the book and he did not turn a page and he did not put a hand on the frame of the shelf it lives on, and his right hand stayed on the table beside the open page for about as long as it takes to count nine and then he took it off.
+He read it where it lay. He did not lift the book and he did not turn a page and he did not put a hand on the frame of the shelf it lives on, and his right hand stayed on the table beside the open page, flat, until the light off the low ground had crossed a third of the table, and then he took it off.
 
 The man of about thirty-eight at the salt wharf came up at about the ninth hour with the tally-board under his arm and the knife in his hand, because he had brought the knife up the nine steps with him, and nobody in that room has ever worked out why, and he sat down at the end of the bench and put the tally-board on his knees.
 
@@ -46,4 +46,4 @@ Adrian Vale put his hand flat on the open page beside the three columns and left
 
 Nobody in that room asked him for the rest of it. Nobody thanked him. A man who stops one step short of a thing is not a man who does not know what the next step is, and the woman who keeps that book has never once asked him anything and is not going to start.
 
-The book went back on the shelf it lives on with the three columns ruled in it, and the second column was empty and the third was empty and the first had a day in it and nothing under the day, and the man of about thirty-eight went back down the nine steps with his tally-board under his arm and the knife in his hand, and nobody in that room asked him anything else that day.
+The book went back on the shelf it lives on with the three columns ruled in it, and the second column was empty and the third was empty and the first had a day in it and nothing under the day. The man of about thirty-eight went back down the nine steps with his tally-board under his arm and the knife in his hand, and the stair was colder than the room had been, and the knife was still blunt.
