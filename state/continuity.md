@@ -1459,3 +1459,79 @@ The seven checks and their definitions and their figures are at `outline/volume-
 ## 4. The hold, and the one thing no file of this phase may print
 
 **The name of the volume before the last, and the words the man of about thirty-four says in Chapter 0428; that volume's one rule, the panel of day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393, whose six words are also reproduced at `bible/power-system.md:1684` and at `outline/volume-08.md:208`; the day-154 sentence; the count of chapters carrying the day-154 beat, which the Volume 09 plan withdrew; AND THE WORDS THE MAN OF ABOUT TWENTY-SEVEN SPEAKS IN CHAPTER 0486. NAMED WHERE EACH OF THEM IS, PRINTED NONE OF THEM, NO ABSENCE CERTIFIED. The measurement with the file paths and the counts and no span is at `state/volume-10-close.md` §7.8, where two rows are published as disagreements rather than resolved — the refusal of Chapter 0393, published as three files and returned in two, and the panel of day 438, whose whole forty words stand on its page and of which only a twelve-word prefix stands in a plan — and where the day-154 row reproduces its published figure of seventeen chapter files across Volumes 02 to 06 exactly. NO CHAPTER OF THE FIFTY CONNECTS HIS TWO ACTS, NO CHAPTER HAS HIM SAY HE KNOWS WHAT HE SAID, AND NO CHAPTER MAKES THE TWO SETS OF FIGURES THE SAME FIGURES.**
+
+
+## THE VOLUME 11 OUTLINE — continuity, the authoritative block, and it wins over everything above it
+
+**Volume 11 is planned and unwritten. Days 501 to 550, one chapter to one day, no double day, no day moved. The plan is `outline/volume-11.md`; the first batch's cards are `outline/batches/volume-11-batch-0001.md`; the next phase is `workspace/volume-11/batch-0001/PROMPT.md`, a BATCH, writing Chapters 0501 to 0510.**
+
+### 1. The calendar, re-derived and validated
+
+**Day 1 is a Tuesday. The run for days 501 to 550 was rebuilt from that and from nothing else, and the fifty rows of `bible/power-system.md` §58 were then checked against it on three things at once — chapter-equals-day, the weekday, and the Bare-Month ordinal being day less 315 — and agree at FIFTY ROWS AND ZERO MISMATCHES. NEITHER §57'S TABLE NOR §58'S TABLE WAS CONSULTED UNTIL AFTER THE RUN WAS BUILT, and §58 IS UNAMENDED. Day 501 is a Friday and the hundred and eighty-sixth day of the Bare Month; day 550 is a Friday and the two hundred and thirty-fifth, because 550 − 501 = 49 = 7 × 7.**
+
+| Ch | Day | Weekday | Month day | Pressure | Adrian | Ch | Day | Weekday | Month day | Pressure | Adrian |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0501 | 501 | **Friday** | **BM 186** | political | **yes** | 0526 | 526 | Tuesday | BM 211 | physical | |
+| 0502 | 502 | Saturday | BM 187 | character | | 0527 | 527 | Wednesday | BM 212 | character | |
+| 0503 | 503 | **Sunday** | BM 188 | discovery | | 0528 | 528 | Thursday | BM 213 | physical | |
+| 0504 | 504 | **Monday** | BM 189 | political | **yes** | 0529 | 529 | Friday | BM 214 | political | **yes** |
+| 0505 | 505 | Tuesday | BM 190 | character | | 0530 | 530 | **Saturday** | **BM 215** | physical | |
+| 0506 | 506 | **Wednesday** | BM 191 | political | | 0531 | 531 | **Sunday** | BM 216 | political | |
+| 0507 | 507 | Thursday | BM 192 | recovery | | 0532 | 532 | **Monday** | BM 217 | discovery | |
+| 0508 | 508 | Friday | BM 193 | character | | 0533 | 533 | Tuesday | BM 218 | character | |
+| 0509 | 509 | **Saturday** | BM 194 | discovery | **yes** | 0534 | 534 | **Wednesday** | **BM 219** | character | |
+| 0510 | 510 | **Sunday** | BM 195 | political | | 0535 | 535 | Thursday | BM 220 | physical | **yes** |
+| 0511 | 511 | **Monday** | BM 196 | physical | | 0536 | 536 | **Friday** | **BM 221** | political | |
+| 0512 | 512 | Tuesday | BM 197 | physical | **yes** | 0537 | 537 | **Saturday** | BM 222 | discovery | |
+| 0513 | 513 | **Wednesday** | BM 198 | political | | 0538 | 538 | **Sunday** | **BM 223** | cost | |
+| 0514 | 514 | Thursday | BM 199 | physical | | 0539 | 539 | **Monday** | BM 224 | character | |
+| 0515 | 515 | **Friday** | BM 200 | physical | | 0540 | 540 | **Tuesday** | **BM 225** | **decision** | |
+| 0516 | 516 | **Saturday** | BM 201 | character | | 0541 | 541 | **Wednesday** | BM 226 | cost | |
+| 0517 | 517 | **Sunday** | BM 202 | recovery | **yes** | 0542 | 542 | Thursday | BM 227 | recovery | |
+| 0518 | 518 | **Monday** | BM 203 | character | | 0543 | 543 | **Friday** | BM 228 | political | **yes** |
+| 0519 | 519 | Tuesday | BM 204 | physical | | 0544 | 544 | **Saturday** | BM 229 | character | |
+| 0520 | 520 | **Wednesday** | BM 205 | political | | 0545 | 545 | **Sunday** | **BM 230** | **decision** | |
+| 0521 | 521 | Thursday | BM 206 | physical | **yes** | 0546 | 546 | **Monday** | BM 231 | physical | **yes** |
+| 0522 | 522 | **Friday** | BM 207 | discovery | | 0547 | 547 | Tuesday | BM 232 | cost | |
+| 0523 | 523 | **Saturday** | BM 208 | character | | 0548 | 548 | **Wednesday** | **BM 233** | **decision** | |
+| 0524 | 524 | **Sunday** | BM 209 | political | | 0549 | 549 | Thursday | BM 234 | character | **yes** |
+| 0525 | 525 | **Monday** | **BM 210** | **decision** | | 0550 | 550 | **Friday** | **BM 235** | **decision** | |
+
+**THE ROTATION SUMS TO FIFTY OVER FIFTY DISTINCT CHAPTERS AND WAS CHECKED CELL BY CELL AGAINST THE COLUMN ABOVE BEFORE IT WAS PUBLISHED: eleven physical work in weather, twelve character and relationship not about a figure, eleven political or procedural, five discovery, five decision, three cost and consequence, three recovery. THE CHECK FOUND A DISAGREEMENT ON ITS FIRST PASS — the rotation table carried 0529 under physical work and the day map carried it as political — and the day map is right and the table was corrected, and the day map's own Adrian column was also missing 0529 on its first pass and was corrected, and BOTH FAULTS WERE FOUND BY RUNNING TWO TABLES AGAINST EACH OTHER AND NOT BY READING EITHER, WHICH IS THE WHOLE ARGUMENT FOR HAVING BOTH.**
+
+### 2. The eleven, and the wants, and where they came from
+
+**Adrian Vale is in eleven of the fifty, in no chapter in which he reads a page, with no quoted word in any of them, aged nowhere, and Stage 2 on all fifty days. He is in 0501, 0504, 0509, 0512, 0517, 0521, 0529, 0535, 0543, 0546 and 0549. The thing his hands are on and WHAT HE WANTED THE THING FOR are published for each of the eleven in `outline/volume-11.md` §4.1, one row per chapter, and a card supplies neither.** In every one of the eleven he must be the cause of at least one thing that happens to somebody else; nobody thanks him; nobody tells him he was right; nobody in that chapter is waiting for him to be useful and he is not useful to them. **ELEVEN AND NOT FIFTEEN, and the reason is that this volume's work is on feet and on flats and not in a market: four mornings of a count made on foot, one form filled once, one figure leaving the city once.**
+
+### 3. The four structural days, and the new anchors, and the standing interval rule
+
+- **The midpoint, day 525, a Monday, the two hundred and tenth, the nearer of two middle days and NEITHER MAY BE CALLED THE MIDPOINT.** The register-keeper decides, in daylight, with a date on the door, about nine people, after naming the cost out loud first, and the cost is hers.
+- **The name is spoken, day 534, a Wednesday, the two hundred and nineteenth**, by the man of about thirty-nine, asked by the man of about thirty-four. **The words are on that page and in no file and this block does not say where they stand.**
+- **The climax and the volume's one panel, day 540, a Tuesday, the two hundred and twenty-fifth.** **AND DAY 540 IS ALSO THE TWO HUNDRED AND TWENTY-FIFTH DAY OF THE BARE MONTH, AND THE TWO HUNDRED AND TWENTY-FIFTH DAY OF THIS FLOOD IS THE DAY THE STORE'S BOARD WAS LAST LEFT UNWRITTEN, AND THE TWO ARE DIFFERENT NUMBERS THAT LOOK THE SAME, AND NO CHAPTER MAY PRINT BOTH, JOIN THEM, OR GIVE EITHER A MEANING.**
+- **The resolution, day 545, a Sunday, the two hundred and thirtieth**, when the form goes out of this city. **The new question is asked, day 548**, to the man of about fifty-nine, and is not answered. **The last image is day 550, a Friday, the two hundred and thirty-fifth.**
+
+**NEW ANCHORS, each to be put on a page by its own chapter with its own day named before any other chapter may use it: the second form came up the road on 504; it was read out on 506; the first morning of the count on foot was 511 and the fourth was 528; all four were entered in the second column on 530; a figure went in the one place on 538; the wall said something on 540; the form went out of this city on 545; the new question was asked on 548. THE STANDING RULE IS UNCHANGED AND IS THE LARGEST CLASS OF FAULT IN THIS MANUSCRIPT: every value at a chapter boundary is derived, a derived value may be used in a chapter that dates it and may not be attributed to a chapter or to a mouth unless a page carries it, where two elapsed counts sit in one sentence the event each is measured from is named in that sentence, where a figure has two plausible anchors both are named in the same sentence, and a figure that comes out at exactly half of the right one is a subtraction taken across the wrong boundary.**
+
+**THE COUNT OF THIS CITY'S SILENCES IS NOW A FIGURE AND NOT A FORMULA, because the panel's day is decided at 540. IT IS A STATE-LAYER FIGURE, IT IS PRINTED IN NO CHAPTER, IT IS NOT CARRIED INTO THE BATCH PROMPT, AND IT IS AT `outline/volume-11.md` §14.6 WITH BOTH ROUTES, WHICH AGREE. **Route one continues the chain the close published: three hundred and ninety-seven at day 500, plus fifty days from 501 to 550, less the one day inside that range on which the wall says something, which is 540. Route two is off a page: 152 at day 250, plus three hundred days from 251 to 550, less the six panel days, which are 256, 340, 393, 438, 490 and 540. THE TWO AGREE, and the first edition of route one in the plan was written from the base at day 450 instead of the base at day 500 and came out at exactly the figure the close publishes for day 500, which is a subtraction taken across the wrong boundary arriving at a figure that is true of a different day, and it was found by running the two routes against each other after they were written and is published with its first edition at §14.6.** The withdrawn figure of three hundred and forty-nine plus fifty less one has been withdrawn in the plan that printed it, in one cell, with its first edition beneath the correction.**
+
+### 4. What is fixed to a day, and what is not to travel
+
+**The volume's one panel is at `outline/volume-11.md` §6.7 and its words are reprinted in NO prompt and NO batch record. The volume's own name is spoken once, on day 534, in the man of about thirty-nine's mouth, in four to eight words, in the local language, in answer to one question, and no file this phase wrote prints, paraphrases, improves on, describes or certifies the absence of them.**
+
+### 5. The figures this phase re-measured, with the reading and the corpus beside each, because a figure with no reading is a claim
+
+| Figure | This phase's reading | The published figure beside it | Verdict |
+|---|---|---|---|
+| descriptor count, whole manuscript | **80 distinct on 499 chapter files**, instrument validated at 15 of 15 on Volume 09's own map | **85** in `state/volume-10-close.md` §7.9 | **published both, resolved by nobody; the corpus is the same 499 files and the instrument reproduces the published map, so the difference is the number resolver and not the corpus** |
+| descriptor count, Volume 10's forty-nine | **14 distinct** | **15** in the same record, which itself names a possessive-form artefact | published both, resolved by nobody |
+| *woman of about fifty-four*, Volume 09 validation cell | **3 in 1** | **4 in 1** in the close's validation list, **3 in 1** in the Volume 10 plan's own table | the plan's figure reproduces; named, published, resolved by nobody |
+| the inherited list of fifty-six zeros | **55 of 56 at exactly zero on 499**, word-bounded, case-sensitive, letters only; *sledge* at **7 in 2** files of Volume 04 | the same | reproduces exactly, and *sledge* is not available to this volume |
+| the volume before this one's own zero column | **20 of 21 at exactly zero on 499; the word it turned on at 2 in 1 file** | zero | **the published zero is false; the plan's cell was amended in place with its first edition preserved** |
+| the clean descriptor pool | **arithmetic 21, reading 0** | **0** in three earlier records | **published separately for the first time; the zero is the reading and the reading is about thirty-one lines in seven volumes** |
+| the pressure rotation | **12/12/10/5/5/3/3 = 50 over 50 distinct chapters**, checked cell by cell against the day map | — | agrees with the map at fifty of fifty |
+| the round-looking figures in range | **10 multiples of fifty and 11 multiples of twenty-five that are not of fifty, 21 in all**, run off §58's anchor table | §58 item 3 is the authority | published as a trap table with the anchor named in every row |
+| recurring heads | **published in three parts with both case flags, whole-manuscript and the volume behind** — e.g. *about nine people* 1,478 in 378 case-sensitive and 1,575 in 383 case-insensitive on 499 | — | the case flag is worth 97 occurrences and 5 files on that one head, which is the seventh time that flag has moved a published count here |
+
+### 6. What this phase did not do
+
+**No chapter was written and no chapter was repaired, and `chapters/volume-10/chapter-0475.md` was neither written nor routed. No day, no weekday, no month day, no anchor, no form, no notice, no object count that holds, no cast member and no decision of record moved. `bible/power-system.md` was not amended in §§32, 33, 33A, 33B, 51, 57 or 58. `outline/ending.md` was not opened: no new final enemy, cosmic layer, antagonist or world. `outline/volume-10.md` was not re-planned; two cells of it were amended in place with their first editions preserved and nothing else in it was touched. No card file was written for any batch but this outline's own first one. No new person was invented, no descriptor was taken, no person arrived by narration. The seventh form was not made and was not guessed at. No controller file was touched and no marker file was created or removed.**
