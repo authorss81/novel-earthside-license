@@ -1,0 +1,71 @@
+# Volume 10, Batch 0001 — Chapters 0451 to 0460, days 451 to 460
+
+**You are a BATCH. You are not an outline and you are not a close. You write ten chapters and you decide nothing.**
+
+**BEFORE YOU READ ANYTHING ELSE, GO AND LOOK FOR YOUR OWN CARD FILE AT `outline/batches/volume-10-batch-0001.md`. IT EXISTS. TEN CARDS. IF IT IS NOT THERE, STOP, SAY SO IN YOUR RECORD, AND WRITE NO CHAPTER.** Four of the last volume's five batches were told to read a card file first, found none, wrote from the volume outline alone, and disclosed it four times; the fifth disclosure was not a remedy, and the remedy was a phase, and this is the batch that phase was made for. **Do not reconstruct the card file. Do not create it. Do not write it. A card file written after the ten chapters are on disk is a reconstruction and it puts a second account of a finished batch into the repository beside the first.**
+
+## What you write
+
+**Ten chapters: `chapters/volume-10/chapter-0451.md` through `chapter-0460.md`, in that order, in one run, with no gap and no double day. Day 451 is a Thursday and the hundred and thirty-sixth day of the Bare Month; day 460 is a Saturday and the hundred and forty-fifth. One chapter to one day. A chapter may not write another chapter's day.**
+
+## What you read, in this order
+
+1. **`outline/batches/volume-10-batch-0001.md` — YOUR TEN CARDS. Read them before anything else.**
+2. `outline/volume-10.md` — the volume's plan. §14.3 the day map and the Adrian column. §16 the fifteen prohibitions. §17 the seventeen prose instructions. §20 the seven checks and the three this phase added.
+3. `state/volume-09-close.md` — the inheritance, read in full. It is the page a writer reads before planning anything and it is not a plan and it is not a record of pages.
+4. The ten chapters immediately before yours: `chapters/volume-09/chapter-0441.md` through `chapter-0450.md`. **Read them for voice, continuity, and what the last chapter of the last volume ends on. Do not continue any of their sentences.**
+5. `outline/series.md` at the foot of the file, under *DECISIONS OF RECORD, VOLUME 10 — ADDED AND AMENDED BY THE VOLUME 10 OUTLINE PHASE*. **Read the decisions there rather than from memory.**
+
+**Do not open `outline/ending.md`. Do not open a controller file: not `scripts/`, not `.github/workflows/`, not `.opencode/agent/`, not `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, `state/phase-ledger.json`. Do not edit `bible/power-system.md` at all, and in particular not §§32, 33, 33A, 33B, 51 or 57.**
+
+## THE FIRST THING, and it is a rule and not a warning, and four written warnings did not remove the habit it replaces
+
+**NO FILE YOU WRITE MAY PRINT ANY OF THESE, AND YOU MAY NOT PARAPHRASE ANY OF THEM, AND YOU MAY NOT IMPROVE ON ANY OF THEM, AND YOU MAY NOT SAY IN ANY FILE THAT ANY OF THEM IS IN NO FILE.** The name of Volume 09 and the words the man of about thirty-four says in Chapter 0428; the volume's one rule, the panel of day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393, **whose six words also stand at `bible/power-system.md:1684` and at `outline/volume-08.md:208`**; and the day-154 sentence. **Name where each of them is. Print none of them. Certify no absence** — a record once asserted one of these was in no file and was wrong, and a false absence in a batch record is inherited as permission by every phase that reads it. **The hold is on YOUR OWN FILES and not on where a string stands: a plan is not a page, and a permanent witness section is not a page either.** If you need one of them for a chapter, go and read the page it is on and do not copy it into anything.
+
+## The five things your ten days are
+
+- **Day 451: a board washed and a satchel up the road.** The store's board has not been written on since the two hundred and twenty-fifth day of this flood and the figures on it are the figures of the two hundred and twenty-fourth day, and a man of about twenty-seven has washed it every morning since the seventh week. **It is not blank. It is stale, and that is a harder thing to write on.** **THIS IS THE MOST DANGEROUS PAGE IN THE VOLUME'S RANGE: four of the twenty round figures fall on day 451. The better chapter prints none of them and is not required to mention an anchor it does not use.** If you print one, name the day you measured it from in the same sentence.
+- **Day 453: the woman who walked a market is asked something she can answer.** She is on a page once already, in Chapter 0441. **She has no age and no descriptor on any page of this manuscript and you give her none. A card that gives her a number is a card that has invented a person.** She answers correctly, she goes on working the morning, nobody says she is good at it. **Nobody asks her why she stopped and she does not say.**
+- **Day 455: the one-place sheet is read out.** A heading and **ONE place under it, and the one is a figure**, and the name of the thing the figure is about is **not on the page** — the reader says out loud what it is for before anybody asks, in the local language, in daylight, with a date in chalk on the door, about nine people. **This is the first form in this flood with one place under a heading instead of four. The return has four places. The Crown's schedule has four places. The sheet that went out on day 438 has four places. THE FOUR ARE NEVER JOINED, NEVER CONFLATED AND NEVER COMPARED OUT LOUD, and a chapter that reorders the four places of any of the other three has got a different document.**
+- **Day 458: Adrian Vale is handed a rag.** He is in three of your ten chapters — **0453, 0454 and 0458 — and no others, and he reads no page in any of the three.** In 0458 the man of about twenty-seven does not teach him and does not stop him and does not say one word about it. **A card may not put him in a chapter unless it names the thing his hands are on. No hands, no chapter. And a chapter may let him work something out and must then not say he was right.**
+- **Day 459: a woman who has asked this series' question three times does not ask a fourth.** She comes up the nine steps with an empty tin in her two hands and nobody in that room remarks on it, and **the not-remarking is the chapter.** **No chapter may say the three rhyme, may improve the rhyme, or may say the rhyme is the point.**
+
+## The thirteen things you may not do, and the prohibitions in `outline/volume-10.md` §16 are at their length there and are not restated here at less than their length
+
+1. **Do not trace the mark that came back out of place, do not investigate it, do not guess at it, do not report it to a room, and do not say in any mouth that anybody moved it.** Volume 10's plan decided not to trace it and paid for that decision with a hole in the book. It is still a hole in your ten days. Do not fill it.
+2. **Do not print the word on the register-keeper's second slate as the name of the mark, in any form, in any mouth, in your chapters or in your record.** **The second slate is never picked up, never turned over and never written on, and no hand goes near the shelf.** It is named in the plan and that is all it is named for.
+3. **Do not ask the fourth of the four about the four words she said on day 329, and do not count the days since she said no, in narration or in a mouth, at any value.** A party of four is four.
+4. **Do not answer the questions of day 346, day 396 or day 445, and do not put an answer in anybody's mouth.** The question of day 498 belongs to Chapter 0498 and is not yours.
+5. **Do not say, restate, paraphrase, improve on or put into a second mouth the day-154 sentence.** A man may be right about the thing in about four seconds, once in a chapter, and is not thanked and is not argued with, and the chapter does not say he was right. **The count of chapters carrying that beat is not published and you may not publish it.**
+6. **Do not ask the man of about fifty-seven where the fence is, do not tell him, and do not defeat him.** He is not a villain, is not converted, does not leave and is not happy. **His length of new rope is never used and no chapter has him cut it or take it up.** Whether the fence stands between the right two things is not settled and is not yours to settle.
+7. **Do not join, conflate or compare out loud any two of the four documents. A keeper is not a holder and the word is defined by nobody.**
+8. **Do not go to the town four hundred miles inland, describe it from inside, or bring anybody back from it. Do not read the page a hundred and forty years old or the eight names at the foot of it. Do not go to the three on the road, ask about them, catch up with them or bring anybody news of them.** The two figures that fall in this volume are sixty at day 451 and one hundred and nine at day 500, measured from day 391; **if you print either you name day 391 in the same sentence, and printing neither is better.**
+9. **Do not ask the woman who walked a market why she stopped, and do not give her a number, a descriptor, an age or a name.**
+10. **Do not attach a descriptor to anybody who does not already have one.** The pool of descriptors a new person may be drawn from is empty and your batch adds no person. **There is no eighth notice in this flood and your ten chapters write none.**
+11. **The box is shut, the island is not owned, the boards under the chapel are not lifted, the girl of seventeen is not fetched, the keeper of the Redroot gate is not used, the Regent is not defeated, and no chapter may say what a wage in salt is worth.**
+12. **The consent fracture is not mended and nobody may mend it, apologise for it, refuse an apology for it, forgive it or ask for it to be forgiven, and the fifth condition is not given. The two women of twenty-nine are never in one room. The two men of about thirty-eight are two people and a chapter may not merge them.**
+13. **Nobody gets stronger.** No working, no threshold, no workway offered or asked for, **the words *passage* and *privilege* at zero across your ten files**, the other world not named once, and Adrian Vale aged nowhere.
+
+**AND THE TWO FIGURES THIS BATCH MAY NOT PRINT AT ALL: a room count for anybody, in narration or in a mouth, on a list of cardinals or on a list that includes *dozen*, and the count of this city's silences.** The first because the standing reason is a figure that goes down from ten to nine over three days by a subtraction across the wrong boundary, and one room count is already a routed debt in the volume before this one. The second because it is a figure for the state layer and is on no page and in no mouth.
+
+**AND NO CHAPTER MAY USE AN ORDINAL FOR A MONTH** — not *the second month*, not the third, not the fourth, not the fifth, not the sixth, never *of this month*, *of the month*, *of next month*, *of this new month*. **Every chapter of your ten names the Bare Month in full at least once**, in the form *the Nth day of the Bare Month*, and **no chapter writes a day after the hundred and eighty-fifth of that month, says the month is nearly over, says what it is a month of, or converts a count into a span.**
+
+## The three checks this volume added, and they are checks and not warnings
+
+1. **Every figure you publish carries the reading that produced it.** A published definition with an unstated boundary is not a definition, and two instruments that differ by anything are two instruments. A figure without a reading is a claim and not a measurement.
+2. **Every figure you publish about a vocabulary, a descriptor, a phrase or a habit is published over the whole manuscript and not over a window**, and a figure published over a window says so in the same line and says what the window is. **A descriptor at zero in two consecutive volumes of this manuscript is not unused, it is between uses.**
+3. **Every figure you publish at zero is run a second time on a different reading**, and a zero that comes back non-zero is published in your record rather than passed. *Sledge* is in a list of fifty-six published zeros and it is at seven occurrences in two files of Volume 04, and it is not at zero, and that is how it got through.
+
+## What your record owes, and what it may not set
+
+**Your record publishes, with a definition beside each figure and with no target set on any of them: the ten Bare-Month ordinals, resolving at ten of ten; the ten weekdays, resolving at ten of ten against the run from day 1 being a Tuesday; the bolded share per chapter with its range and its unweighted mean; the count of paragraphs carrying neither speaker marker, which is a fault and not a statistic and must be ZERO in all ten; the exchange count; the longest bolded turn, under a working ceiling of about ninety and a hard one of ninety-five, and NO TURN CUT TO MAKE A NUMBER; the long-sentence count on a stated reading; the word-run check across your ten, naming which of the declared motifs each run is; the recurring-number list with one line per number saying whether the chapter was about it; and the object inventory's second column re-read against your ten files with every departure from its third column published.**
+
+**The mean is a consequence and not a plan and no reviewer may certify or fail your batch on one. Every recurring number your ten chapters used is named in your record and the volume's rule about them is at `outline/volume-10.md` §17.12.**
+
+**AND THE ONE SENTENCE THAT IS THE POINT OF THIS PROMPT: A BATCH THAT FINDS ITS OWN CARD FILE MISSING IS TO STOP AND SAY SO, AND NOT TO WRITE FROM THE OUTLINE ALONE.**
+
+## And at the end
+
+**You may not create a next phase of any kind.** No continuation directory, no review prompt, no close prompt, no second Volume 10 batch prompt, no `workspace/volume-10/batch-0002`, no `outline/batches/volume-10-batch-0002.md`, and nothing at all for Volume 11. **The phase that comes after yours is chosen by the harness and is not a batch's to name. A card file for the next batch is the next outline's to write and the close's to require, and the remedy for this repository's missing cards is made in one place only, which is an outline, and you are not one.**
+
+**Write the ten chapters. Then write the record. Then stop.**
