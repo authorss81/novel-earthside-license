@@ -1371,3 +1371,54 @@ The word on the second slate is **at zero in all ten of these files** and is sti
 **WHAT IS STILL OPEN AND IS NOT TOUCHED. `chapters/volume-10/chapter-0475.md` IS STILL NOT ON DISK AND IS STILL OWED TO AN OUTLINE PHASE OR TO A VOLUME 11 CLOSE, and this repair did not write it and does not summarise what was decided in it and does not route it, and Chapters 0476, 0477, 0478, 0479 and 0480 still refer to a room on a Sunday that no page in this repository supplies. The card-file debt for Batches 0002 to 0005 is unpaid and is owed by the next OUTLINE phase and by no writer and by no repair pass, and this repair neither paid nor renamed nor touched it. The eleven inherited debts at `state/volume-09-close.md` §7.7 are all unpaid, all carried, none taken, none repaired and none rerouted. The six questions a Volume 11 outline owes an answer to are the same six, and none of them was answered here and none of them was previewed in the three chapters that grew.** The three that grew are Chapters 0491, 0494 and 0496, they say the same things they said before they grew, and neither the question of day 498 nor the man of about twenty-seven nor the mark that came back out of place on the sheet of day 440 is touched in any of them.
 
 **AND THE ONE THING NO FILE THIS REPAIR WROTE MAY PRINT, unchanged and printed here in its name only: the name of Volume 09 and the words the man of about thirty-four says in Chapter 0428; the volume's one rule, said on day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393, whose six words also stand at `bible/power-system.md:1684` and at `outline/volume-08.md:208`; the day-154 sentence; and the words the man of about twenty-seven speaks in Chapter 0486. NAMED WHERE EACH OF THEM IS, PRINTED NONE OF THEM, NO ABSENCE CERTIFIED. THE REPAIR DID NOT TOUCH THAT PAGE, DID NOT PRINT THOSE WORDS IN ANY FILE, DID NOT DESCRIBE THEM, DID NOT PARAPHRASE THEM INTO RECOGNISABILITY, AND CERTIFIED NO ABSENCE OF THEM, and the close prompt that hands the hold to the next phase now carries the same sentence with the corrected silence figure beside it.**
+
+
+---
+
+# VOLUME 10 CLOSE — the threads live at day 500, and this block is at the foot of this file and it wins over every block above it
+
+**A reader of this block is reading threads and not measurements, and the measurements are in `state/volume-10-close.md` and in the five batch records of this volume.**
+
+## 1. A BOARD WITH THREE SETS OF FIGURES ON IT, TWO OF THEM THIS CITY'S OWN AND NOT AGREEING. THREAD, OPEN.
+
+**None of the three is rubbed out, all three are washed at the fourth hour every morning, the wall above it is not washed, and nothing on that board says which of the three is the one anybody should be reading. THREAD, OPEN: which of the three a person in that market will read as a count of them is not settled, the man of about thirty-nine has said on a page what a public figure does to the people it is about and has not been thanked for it, and the board's being unwritten is a figure that became false on day 490 and will be a lie in any chapter that prints it without the correction in the same sentence.**
+
+## 2. A REGISTER WITH A THIRD LINE IN IT, A FIGURE UNDER THE DAY, AND A THIRD COLUMN EMPTY ON PURPOSE. THREAD, OPEN.
+
+**The day on the line is the four hundred and ninetieth and the day of the entering is the four hundred and ninety-third, both named in one sentence in one mouth, and they are three days apart. THREAD, OPEN: there is no column in that book for a day and a figure under the day together, and she said so out loud and nobody answered her, and that is a fact about a book and not an answer to anything.**
+
+## 3. A QUESTION ASKED TO ONE MAN AND NOT ANSWERED, AND THE ROOM DID NOT HEAR IT. THREAD, OPEN.
+
+**On the hundred and eighty-third day of the Bare Month the woman who walked a market on two feet, and who has stopped, and who has no name and no number and no descriptor on any page in this manuscript, put one question to the man of about thirty-nine who trades on a board and to nobody else. He did not answer it, the room did not hear it, and the chapter says so in the next line. He put his thumb on the space on his own board where a name is not and took his hand off it again. THREAD, OPEN: the space is on a page, a second man has seen it, a third man has put his thumb on it, and nobody has asked him about it, and nobody has asked her why she stopped and nobody is going to.**
+
+## 4. A MAN'S BOARD IS FACE IN AGAINST HIS OWN TRESTLE AND STAYS FACE IN. THREAD, OPEN.
+
+**He took it down on the hundred and eightieth day of the Bare Month and did not put it up again, and a man who has gone down that row for nine years came to the end of it, looked at a post and a bare back of a board, and went on without stopping. On the day before that, a hand that is nobody's put a piece of wood under the near corner of it and moved the stone off wet flags onto dry ones. THREAD, OPEN: the string and the stone are on the post with nothing on the string, his piece of chalk is in his pocket, nobody has said whose hands did the wood, and the woman two stalls along has not said so either.**
+
+## 5. TWO FIGURES ON ONE FACE OF ONE SLATE, AND A PLACE WHERE A THING IS A DOOR ON ONE SIDE AND A WALL ON THE OTHER. THREAD, OPEN.
+
+**The count made on foot across eleven miles of flats came out different again, and the reason is neither the weather nor a knock, and it is a place about two thirds of the way along a line of doorways. NEITHER FIGURE IS PRINTED ANYWHERE IN THIS VOLUME and the two are on one face of the register-keeper's own working slate with neither rubbed out, and the slate came back into this city face up on a barrow. THREAD, OPEN: nobody has walked that line from the far side, and the man who did walk it is not going to go back, and that is on a page.**
+
+## 6. A SHEET OF PAPER WITH A FIGURE ON IT FACE DOWN ON A TABLE. THREAD, OPEN.
+
+**A man copied the figure off that wall in his own hand and carried it up a stair and put it face down and stood at the window with his back to it. Nobody in that room turned it over, about four of the nine knew what was on it, and about four had come up that stair without knowing. THREAD, OPEN: it is the only copy of that figure in this city and it is face down, it has no heading and no place on it for the person who wrote it, and the man who made it is unnamed and is not the man of about thirty-nine.**
+
+## 7. THE FENCE, THE MAN OF ABOUT FIFTY-SEVEN, AND THE LENGTH OF NEW ROPE. THREAD, OPEN AND UNTOUCHED.
+
+**A fence is named in six of the forty-nine files and in four of the six the count is sixteen posts and eleven withies spelled out and in the sixth it stands with no post and no withy and no total. The man of about fifty-seven is named in four of the forty-nine and in three of the four nobody asks him anything, and a fifth man looked at the rope over the back of his chair in Chapter 0478 and did not ask him what it was for. Nobody asks him where the fence is, nobody tells him, nobody defeats him, and about four feet is printed in no chapter of the fifty. THREAD, OPEN, exactly as it stood.**
+
+## 8. THE THREE ON THE ROAD. THREAD, OPEN, AND ONE FIGURE PRINTED.
+
+**Three barrows are on a four-hundred-mile road out of this city, a hundred and nine days out at day 500, measured from day 391 and with the anchor named in the same sentence. There is not one person on that road anybody in this city can be shown, and there never has been. A party of four is four and no chapter of the fifty counts the days since anybody said no. THREAD, OPEN: a road that can be shown is a road that can be put in a column as empty.**
+
+## 9. THE SIX QUESTIONS, WHICH ARE THE SIX THINGS THIS VOLUME LEFT OPEN ON PURPOSE, AND NONE OF THEM IS A MYSTERY AND NONE OF THEM IS A HUNT.
+
+**What is a word for, in a count, when the only thing anybody will use it for is to make two numbers the same — asked once on day 498 and not answered. The one of four marks that came back out of place on day 440, which is not traced. The fence, and whether it stands between the right two things, which is not settled. The man of about fifty-seven, the length of new rope he has never used, and the fact that nobody in this city asked him about either. The three on a four-hundred-mile road. And the seventh form of the calendar, which does not exist and which comes onto a page the moment the end of the Bare Month is on one, by a person, in a room, in daylight, with a date on the door. A later volume may ask the first of the six again in a mouth in a room in daylight with a date on the door and MAY NOT ANSWER IT. A later volume may not trace the second unless tracing it is a decision to trace it. It may not make the seventh form, and neither may an outline phase or a close phase, and this close did not make it and did not guess at it and gave the Bare Month nothing.**
+
+## 10. THE FOUR DEBTS, named at a close and paid by nobody.
+
+**`chapters/volume-10/chapter-0475.md` DOES NOT EXIST AND IS OWED TO THE NEXT OUTLINE PHASE OR TO A VOLUME 11 CLOSE, AND TO NO WRITER AND TO NO REPAIR PASS. The four card files at `outline/batches/` are owed to the next OUTLINE phase, with `volume-10-batch-0002.md` batch-authored, pending ratification and not ratified. The published zero for the word this volume turned on, at `outline/volume-10.md` §19.3, is owed to the next OUTLINE phase. The declared-motif list at `outline/volume-10.md` §20.3, which seventy of this volume's own required declarations do not appear in, is owed to the next OUTLINE phase. THE ELEVEN INHERITED DEBTS AT `state/volume-09-close.md` §7.7 ARE ALL UNPAID, ALL CARRIED, NONE TAKEN, NONE REPAIRED AND NONE REROUTED, AND THIS CLOSE ADDED TWO MORE TO THEM AND PAID NONE.**
+
+## 11. The one thing no file this close wrote may print
+
+**The name of the volume before the last, and the words the man of about thirty-four says in Chapter 0428; that volume's one rule, the panel of day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393, whose six words are also reproduced at `bible/power-system.md:1684` and at `outline/volume-08.md:208`; the day-154 sentence; the count of chapters carrying the day-154 beat, which the Volume 09 plan withdrew; AND THE WORDS THE MAN OF ABOUT TWENTY-SEVEN SPEAKS IN CHAPTER 0486. NAMED WHERE EACH OF THEM IS, PRINTED NONE OF THEM, NO ABSENCE CERTIFIED. The measurement is at `state/volume-10-close.md` §7.8 with the file paths and the counts and no span. NO CHAPTER OF THE FIFTY CONNECTS HIS TWO ACTS AND NO CHAPTER MAKES THE TWO SETS OF FIGURES THE SAME FIGURES.**
