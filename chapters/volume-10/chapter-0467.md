@@ -4,9 +4,7 @@ The man of about thirty-one had the flap of a satchel under his right hand on th
 
 ---
 
-The satchel had come up that road on the quarterly round in the same week as a sheet with a heading and one place ruled under it, and the sheet had been read out in that room on the Monday of the week before, and the satchel had been put on a table and gone round the room in four hands and come back, and it was on the table on that Saturday with its flap down.
-
-The woman of about twenty-nine who keeps a public register was at the bench and the register was on its shelf behind the bench and was not opened, and the second slate was on the shelf behind it with a date on it and nothing under the date.
+The satchel had come up that road on the quarterly round in the same week as a sheet with a heading and one place ruled under it, and the sheet had been read out in that room on the Monday of the week before, and the satchel had been put on a table and gone round the room in four hands and come back, and it was on the table on that Saturday with its flap down. The woman of about twenty-nine who keeps a public register was at the bench and the register was on its shelf behind the bench and was not opened, and the second slate was on the shelf behind it with a date on it and nothing under the date.
 
 A man at the foot of that stair, who had come up without knocking and had come up on his own, said the thing that is said at the end of a stair on a Saturday.
 

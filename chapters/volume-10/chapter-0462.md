@@ -22,7 +22,7 @@ A woman at the back of that room said the thing that is said in that room on a M
 
 "**Then somebody has put it up and nobody knows whose it is, and I have had about forty years to get used to that, and what I have not got used to is that nobody in four hundred miles has ever walked up that road to look at it, including me.**"
 
-Nobody improved on that. A man who has been right about most of what he says for two volumes of a book in a room where nobody is going to act on any of it is a man the room has learned how to leave alone, and about four people in that room had worked that out a long time before this Monday.
+Nobody improved on that. A man who has been right about most of what he says in a room where nobody is going to act on any of it is a man the room has learned how to leave alone, and about four people in that room had worked that out a long time before this Monday.
 
 The register-keeper wiped her slate with the cloth and set the cloth down and did not write anything on it, and she said the one thing she said that morning, and she said it to the room and not to him.
 
