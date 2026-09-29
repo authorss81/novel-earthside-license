@@ -1,6 +1,6 @@
 # Chapter 0563 — One Ruled Place And Another Ruled Place
 
-The woman of about twenty-nine who keeps a public register had her own right hand flat on the wood of the table under the one window at about the eighth hour on the two hundred and forty-eighth day of the Bare Month, a Thursday, and then she took it off and put it flat on the spine of the register on the shelf behind that bench, and then she took that off as well and left both hands on the wood. The date was in chalk on the door at the foot of the stair at the back of that room and no name has ever been written under a date on that door. About nine people were in that room at the eighth hour and every one of them came up that stair on their own two feet.
+The woman of about twenty-nine who keeps a public register had her own right hand flat on the wood of the table under the one window at about the eighth hour on the two hundred and forty-eighth day of the Bare Month, a Thursday, and then she took it off and put it flat on the spine of the register on the shelf behind that bench, and then she took that off as well and left both hands on the wood. That stair at the back of that room has a date chalked on the door at the foot of it, and no name has ever gone under a date on that door. About nine people were in that room at the eighth hour and every one of them came up that stair on their own two feet.
 
 The sheet that came up that road in a satchel with a flap is on that table with a heading at the top of it and one place ruled under that heading, and the one place is not empty. There is one place on that sheet and there has never been a second one. A figure of this city is in it in a hand that is not the hand of anybody in that room, and that figure is right, and there is no page in four hundred miles that has it written out on it, and there is nothing else on that sheet anywhere and nothing under that figure and nothing beside it and no place on that sheet for the person who made it.
 
@@ -18,7 +18,7 @@ The man of about thirty-four who keeps a stall came up that stair at about the e
 
 That sentence was not agreed with by anybody. Nobody improved on it, nobody thanked the man who said it, nobody put a second question to him about it, and the woman of about twenty-nine who keeps a public register was in that room and was not asked what she made of it and did not say. The man of about thirty-nine who trades on a board was at that window with his own board under his arm and looked at that sheet once and then at the back of that bench and said nothing at all.
 
-A woman near the step said the thing that is said, to the table.
+A woman at the step said the thing that is said, to the table.
 
 "Then put one in the other and we will have the same thing on one sheet."
 

@@ -2,11 +2,11 @@
 
 Adrian Vale got both hands under the far end of that plank at about the seventh hour on the two hundred and forty-sixth day of the Bare Month, a Tuesday, and lifted it off the ground it had been lying in since the night before, and the wet came off the bottom of it in one piece and left the edge of the wood bare, and he turned round with it on his own shoulder and carried it along the stones on the high side of the channel and set it down with the near end of it at the sill of the second row and the far end of it out over the place where the ground under that row has gone.
 
-Eleven miles of flats went either side of him that morning with the wind along them off the low side and no rain in it. The channel in the middle of them was carrying about what it carries at the seventh hour every day and no more. There is no line in the ground along eleven miles of flats and there is no post on them and there has never been a mark on that ground that a person could stand in front of. About four people walked that ground in the ordinary course between the sixth hour and the ninth hour and none of them stopped.
+Eleven miles of flats went either side of him that morning with the wind along them off the low side and no rain in it. The channel in the middle of them was carrying about what it carries at the seventh hour every day and no more. No line runs in the ground along those flats, there is no post on them and there is no stake driven into them, and nothing has ever been marked on that ground that a person could stand in front of. About four people walked that ground in the ordinary course between the sixth hour and the ninth hour and none of them stopped.
 
 ---
 
-He laid that plank with his own two hands, one at each end, and he put the near end of it on the sill and the far end of it on the stone on the other side of the gap, and the gap is about as long as two men laid end to end and about a foot wide and there is water at the bottom of it that is not going anywhere. The far end went down onto the stone. The near end stood up about the width of a hand and stayed standing up. He took his own weight onto the near end of it and it came down about half that and the far end of it went a little, and it stayed where it was, and he was able to walk out on it and stand on it and come back without it moving, and that took him about as long as it takes a man to walk from the near end of that row to the far end of it and back.
+He laid that plank with his own two hands, one at each end, and he put the near end of it on the sill and the far end of it on the stone on the other side of the gap, and the gap is about as long as two men laid end to end and about a foot wide and there is water at the bottom of it that is not going anywhere. The far end went down onto the stone. The near end stood up about the width of a hand and stayed standing up. He took his own weight onto the near end of it and it came down about half that and the far end of it went a little, and it stayed where it was, and he was able to walk out on it and stand on it and come back without it moving, and that took him the length of that row and back again.
 
 Then he put the near end of it back on the sill and left it.
 
@@ -18,15 +18,15 @@ A man in a coat open at the front with a bundle under his own arm came along the
 
 "**It will hold a man for about as long as it takes to walk to the far door and back, and you are not going to put anything on it that you would be sorry to see in the water, and there is no other way along the front of that row and there has not been one since the water came.**"
 
-Nobody on that ground said that he was right. Nobody improved on him and nobody thanked him and nobody on that ground asked him who had put that plank there, and the man with the bundle under his own arm came along the stones to the near end of that plank and put his own right foot on it and went out onto it the way a man goes onto a thing he has been told about, and about a third of the way out on it the near end of it went off the sill, and the plank turned about the width of a hand at the far end and the whole of it went over.
+Nobody on that ground said that he was right. Nobody improved on him and nobody thanked him and nobody on that ground asked him who had put that plank there, and the man with the bundle under his arm came along the stones to the near end of that plank and put his right foot on it and went out onto it the way a man goes onto a thing he has been told about, and about a third of the way out on it the near end of it went off the sill, and the plank turned about the width of a hand at the far end and the whole of it went over.
 
 ---
 
 The man went into the gap up to his chest and came out of it at the far side on his hands and knees with the bundle under his arm the whole time and the water going past him on both sides. He got up, and he stood on the stones on the far side of that gap about as long as it takes a man to wring a coat out, and then he turned round and went back the way he had come and took the long way round at the near end of that row, and by the time he was going round it the light had moved about the width of a hand along the front of the row above him.
 
-A woman with a fold of sacking over her own arm had been at the far end of that same sill at about the same hour waiting to come the other way, and she turned about where she was standing when she saw the plank go over, and she went back up her own way, and there was nothing else in that gap for about as long as it takes a man to walk to the end of that row and back after that.
+A woman with a fold of sacking over her own arm had been at the far end of that same sill at about the same hour waiting to come the other way, and she turned about where she was standing when she saw the plank go over, and she went back up her own way, and there was nothing else in that gap for a good while after that.
 
-Nobody on that ground said a word to Adrian Vale about any of it. He was on the high side of the channel with the empty end of nothing in his hands and his own coat to the chest, and he was not asked about the plank and he was not thanked and nobody on that ground said that he was right.
+Nobody on that ground said a word to Adrian Vale about any of it. He was on the high side of the channel with the empty end of nothing in his hands and his coat to the chest, and he was not asked about the plank and he was not thanked and nobody on that ground said that he was right.
 
 ---
 
