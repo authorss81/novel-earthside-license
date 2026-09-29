@@ -1941,3 +1941,50 @@ The other came up a lane with a barrow of boards and a rope hooked back over the
 **AND WHAT WAS NOT DONE: no name was given to anybody, no age was changed, no descriptor was taken from the pool or added to it, no relationship milestone was touched, no antagonist moved, and no new person arrived by narration. `outline/series.md`'s antagonist ladder and its relationship milestones are byte for byte what the outline phase left, and the two were not opened by this pass beyond the heading level of one decisions block.**
 
 **THE NEXT PHASE IS `workspace/volume-12/batch-0001/PROMPT.md` AND IT IS A BATCH.**
+
+
+## VOLUME 12, BATCH 0001 — newest block in this file. A batch wrote it, from pages, and it gave no person a new name, a new age, a new number or a new descriptor.
+
+**AND THE FIRST THING THIS BLOCK SAYS IS WHAT IT DID NOT DO. NO NEW PERSON WAS INVENTED, NO DESCRIPTOR WAS TAKEN, NO PERSON ARRIVED BY NARRATION, AND EVERY PERSON BELOW IS A PERSON WITH A PAGE IN A FINISHED VOLUME. The plan's clean pool for a new person is zero, by a reading and not by an arithmetic, and this batch took none of it.**
+
+### Adrian Vale
+
+**He is in two of the ten days and in no other, on 0551 and 0557, and the day map's column is the authority and was not edited by a card. HE IS STAGE 2 ON ALL TEN DAYS, HE PERFORMED NO WORKING, NO THRESHOLD WAS OPENED, THE OTHER WORLD IS NOT NAMED ONCE IN THESE TEN FILES, NOBODY OFFERED HIM A WORKWAY AND HE ASKED FOR NONE, HE IS AGED NOWHERE, AND THE WORDS *PASSAGE* AND *PRIVILEGE* ARE AT ZERO IN ALL TEN. The count of marked turns in these ten files in which his name appears in the text of the turn is ZERO.**
+
+**In 0551 his hands are on the board, the trough, the rag, the string and the second pass, and he wanted the second pass to be the last thing he does before the light comes off the flags, and he got it. HE IS THE CAUSE OF A WOMAN AT A STALL TWO ALONG LOSING ABOUT A QUARTER OF AN HOUR OF THE FRONT OF THAT STALL TO WATER HE PUT DOWN THAT ROW AT THE SEVENTH HOUR. Nobody in that row said a word to him about it, nobody thanked him, nobody told him he was right, nobody in that chapter was waiting for him to be useful, and he was not useful to anybody in it.**
+
+**In 0557 his hands are on the lid and the grit and nothing else, and he wanted the lid to shut, and it shut, and the only reason it shut is that he carried the grit off the flags in front of it and nobody asked him to and nobody noticed. HE IS THE CAUSE OF THE SAME WOMAN'S WATER RUNNING PAST HER STALL IN A NARROW LINE INSTEAD OF STANDING IN A SHEET ACROSS THE FRONT OF IT. She said one sentence out loud about somebody having put the water off her front, she said she did not know who and was not going to stand there and work it out, and NOBODY IN THAT ROW ANSWERED HER, nobody thanked him, nobody told him he was right, nobody in that chapter was waiting for him to be useful, and he was not useful to anybody in it. THE MAN WHOSE OWN BOARD STANDS FACE IN TWO STALLS ALONG DID NOT KNOW IT HAPPENED AND THIS BATCH DID NOT TELL HIM.**
+
+**NEITHER OF THE TWO IS A REWARD AND NEITHER IS A LESSON, and a review may not read the two as the volume getting better.**
+
+### The man of about twenty-seven who washes that board
+
+**A bucket and a rag, and a decision about a wall. In 0551 he washes the board at the fourth hour as he does every morning, and Adrian Vale washes it a second time at the seventh hour, and about four people at that end of that market were watching him at that hour and about four were not, and the two did not speak. In 0556 he is at his own trough with his own hands in the water and his back to the row and is asked nothing. In 0557 he puts the board flat across the mouth of the trough, turns it over once and carries it back up on its two nails. HE WASHED THE WALL ONCE, ON A DAY THAT IS NOT ONE OF THESE TEN, AND NO CHAPTER OF THESE TEN WASHES IT AND NO SECOND PERSON PUT A HAND ON IT. HE IS ASKED NOTHING IN ANY OF THESE THREE CHAPTERS AND HE IS NOT GOING TO BE.**
+
+### The man of about thirty-four who keeps a stall
+
+**A board standing face in against his own trestle, and a piece of chalk he does not use. HE IS IN 0552, 0553, 0554, 0555, 0557, 0559 AND 0560 AND HE IS NOT THE BOLDED VOICE IN ALL OF THEM. His chalk has been in his own inside breast pocket since the two hundred and ninety-eighth day of this flood, which is the forty-third day of the Short Month, and the full form of that day is printed at full length in the two chapters of this batch that carry it and is shortened in neither, AND IT WAS NOT OUT OF THAT POCKET AT ANY HOUR OF ANY OF THESE TEN DAYS. He says one thing in 0554, in about nine words, and nobody in that room said he was right and nobody improved on him and nobody thanked him. He says one thing in 0557 about a lid, and nobody in that row said he was right, and in 0557 he comes out from behind his own trestle to get a length of string off a nail with his back to a man on the flags and neither of them says a word to the other at any hour of that morning. In 0559 he comes up that stair to move a chair out from under a shelf, looks along the underside of the shelf from the floor, finds two brackets and a nail, and puts the chair back. NOBODY IN ANY OF THESE TEN CHAPTERS ASKED HIM ABOUT HIS CHALK, ABOUT HIS BOARD, ABOUT THE WALL, OR ABOUT ANYTHING ELSE.**
+
+### The woman of about twenty-nine who keeps a public register
+
+**Her second slate, and a right-hand column she leaves empty. SHE IS IN 0552, 0553, 0554, 0555, 0559 AND 0560. She counts papers out loud in 0553 and gets a number and says it once and will not say it a second time, and a man in that room says a different number and neither is corrected. SHE READS THE THIRD ONE-PLACE FORM OUT ON DAY 555 IN THE LOCAL LANGUAGE, SAYS WHAT IT IS FOR OUT LOUD BEFORE ANYBODY ASKS, AND SAYS IT TWICE THE SAME WAY, AND NOBODY IN THAT ROOM SAID SHE WAS RIGHT AND NOBODY THANKED HER. The second slate was not picked up, not turned over and not written on on any of these ten days, and her own hand did not go near it either. The column on the right of that page is empty from the top of the page to the bottom on all ten of these days and NOTHING WAS PUT IN IT AND SHE WAS NOT ASKED ABOUT IT AND SHE IS NOT GOING TO BE. In 0554 she did not put her own hand flat on the wood beside that sheet, which is what she does. In 0560 she counted that room's own papers in her own head while she was shutting the book and got a number and did not say it.**
+
+### The man of about thirty-nine who trades on a board
+
+**A board under an arm, nineteen rates, and one name that is not on it. HE IS THE BOLDED VOICE IN 0552, 0555, 0556 AND 0560 AND HE IS IN 0553 AND 0558 AS WELL. IN 0556 HE IS RIGHT ABOUT A WALL AND A BOOK IN ABOUT FOUR SECONDS AND NOBODY IN THAT ROW SAID HE WAS RIGHT AND NOBODY IMPROVED ON HIM AND NOBODY THANKED HIM AND NOBODY IN THAT ROW ASKED HIM WHICH OF THE THREE SETS OF FIGURES ON THAT BOARD A PERSON IS MEANT TO BE READING. IN 0560 HE IS RIGHT ABOUT A COUNT IN ABOUT FOUR SECONDS AND NOBODY SAID HE WAS RIGHT. IN 0558 HE IS ON ELEVEN MILES OF FLATS WITH HIS OWN BOARD UNDER HIS ARM AND DOES NOT TRADE AND SAYS ONE THING ABOUT THE WIND THAT NOBODY ACTS ON. The space about two fingers wide where a name is not was in that space in his own hand about nine years ago and he took it off himself and has not said so to anybody since, and NOBODY IN THESE TEN CHAPTERS ASKED HIM WHAT IT WAS.**
+
+### The man of about thirty-one who carries things for a living
+
+**A satchel with a flap. HE CARRIES THE THIRD ONE-PLACE FORM UP THE ROAD AND SETS IT ON THE TABLE IN 0552 AND IS IN 0553, 0554, 0555 AND 0560, AND NOBODY IN ANY OF THESE TEN CHAPTERS ASKED HIM WHAT IS IN THE SATCHEL AND HE DID NOT OPEN IT AND HE IS NOT GOING TO. In 0560 he takes the satchel back down that stair with the flap hanging open and nothing in it.**
+
+### The person with a slate under an arm and a tin in two hands
+
+**SHE IS ON ONE PAGE OF VOLUME 12 AND IT IS CHAPTER 0558, ON ELEVEN MILES OF FLATS, IN THE OPEN, ON FOOT, WITH NOBODY COUNTING ANYTHING. SHE IS GIVEN NO NAME, NO AGE, NO NUMBER AND NO DESCRIPTOR AND SHE HAS NONE ON THAT PAGE, SHE IS IN NO ROOM, NOBODY ON THAT GROUND SPOKE TO HER, NOBODY ASKED HER ANYTHING AT ANY HOUR OF THAT DAY, NOBODY THANKED HER FOR ANYTHING, AND SHE WAS NOT THANKED. THE PLAN'S OWN CAST AND PROHIBITION SECTIONS SAY SHE IS ON NO PAGE OF THIS VOLUME'S FIFTY AND THE PLAN'S OWN DAY MAP AND ITS OWN CARD FOR THAT CHAPTER PUT HER ON THAT DAY, AND THE DISAGREEMENT IS PUBLISHED AND RESOLVED BY NOBODY.**
+
+### People named in these ten chapters and not in them
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THE SALT WHARF IS IN NONE OF THESE TEN AND WAS ASKED NOTHING AND SAID NOTHING. THE MAN OF ABOUT THIRTY-EIGHT WHO CAME UP A LANE WITH A BARROW OF BOARDS IS IN NONE OF THESE TEN AND THE TWO MEN OF ABOUT THIRTY-EIGHT ARE TWO PEOPLE AND WERE NOT MERGED. THE MAN OF ABOUT THIRTY-SEVEN IS IN NONE OF THESE TEN AND IS NOT AVAILABLE TO ANYBODY. THE MAN OF ABOUT FIFTY-SEVEN IS IN NONE OF THESE TEN AND WAS ASKED NOTHING, AND THE LENGTH OF NEW ROPE OVER THE BACK OF A CHAIR IS NAMED ONCE, IN 0560, AND IS UNUSED AND NO HAND LIFTS IT. THE MAN OF ABOUT FIFTY-NINE WHO WALKS THE FOUR-HUNDRED-MILE ROAD IS IN NONE OF THESE TEN AND THE QUESTION PUT TO HIM ONCE BEFORE IS NOT PUT TO HIM AGAIN IN ANY OF THEM. THE MAN OF ABOUT SIXTY AND HIS HANDCART ARE IN NONE OF THESE TEN. THE MAN OF ABOUT SIXTY-THREE, THE MAN OF ABOUT SIXTY-FOUR, THE WOMAN OF ABOUT FIFTY-TWO, WHOSE DOOR WAS NOT OPENED, THE WOMAN OF ABOUT FIFTY-FOUR, WHO WAS ASKED NOTHING, AND THE WOMAN OF ABOUT SIXTY-NINE, WHO ASKED NO QUESTION FOR THE FIFTH VOLUME RUNNING, ARE IN NONE OF THESE TEN. THE MAN OF ABOUT FORTY-ONE IN A VERY GOOD COAT IS IN NONE OF THESE TEN.**
+
+**NOBODY IN THESE TEN CHAPTERS GOT STRONGER, AND THAT IS THE FINDING AND THE WARNING, AND IT IS THE TENTH VOLUME THAT HAS SAID THAT SENTENCE IN THOSE WORDS.**
+
+**THE NEXT PHASE IS `workspace/volume-12/batch-0002/PROMPT.md` AND IT IS A BATCH, AND IT DECIDES NOTHING.**
