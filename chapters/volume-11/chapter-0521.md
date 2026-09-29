@@ -12,7 +12,7 @@ Those four figures are of the same kind of thing. They were counted on the same 
 
 Adrian Vale took the store's chalk out of the box on that step, and the box has a lid that does not shut and that chalk is not his, and he put a mark on each of the four corners of the top step with it and then laid a string along the front edge of that step and weighted the near end of the string with a stone so that it lay straight, and he took the string up again and laid it along the back edge of the same step and weighted that end with the same stone. The top of that step is worn down at the front lip by a hand's width of depth where the water has been going over it, and the front edge of that step comes out shorter than the back edge of it by the depth of that wear. The two did not come out the same.
 
-He wrote both of them on the stone of that step with the stub of that chalk, the first one low down and the second one above it, and he wrote the day beside each of them, and that was the last of that chalk. He put the string back across the top of that step and put the stone on it and went off up the row and did not stand there to see whether it stayed.
+He wrote both of them on the stone of that step with the stub of that chalk, the first one low down and the second one above it, and he wrote the day beside each of them, and then he put that stub back in the box on that step, and there was more of that chalk in the box than he took out of it. He put the string back across the top of that step and put the stone on it and went off up the row and did not stand there to see whether it stayed.
 
 ---
 
