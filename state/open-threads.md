@@ -1686,3 +1686,17 @@ The word on the second slate is **at zero in all ten of these files** and is sti
 **4. AND THE DEBTS CARRY WHOLE.** The eleven inherited debts at `outline/volume-11.md` §21.2, none taken, none repaired, none rerouted. `chapters/volume-10/chapter-0475.md` is still not on disk and is owed to a Volume 11 close and to no writer and to no repair pass. The two unbalanced bold marks named by the outline phase were not repaired and neither line was edited. The card-file debt of the volume is carried and not paid. **And two new ones stand: the within-file pass is still not part of the standard word-run instrument, and the sixteen-word reading is unsettled with three figures standing in one record.** Both are owed to the same close.
 
 **5. AND THE ONE THING NO FILE OF THIS PASS WROTE MAY PRINT, NAMED AT THE HEAD OF THE BATCH'S OWN RECORD AND NOT REPEATED HERE.** This pass wrote none of the held strings, paraphrased none, described none and certified no absence of any of them, and the measurement of the hold was not re-run, because re-running it requires printing the spans. The words of Volume 11's own one panel and the four-word answer of day 534 stand in their own chapters and in no file this pass wrote.
+
+---
+
+# VOLUME 11 CLOSE
+
+**This block is at the foot of the file and it wins over every block above it. The full record is `state/volume-11-close.md`.**
+
+**OPEN AND CARRIED, twelve threads, each on a page in Volume 11 and counted in `state/volume-11-close.md` §9.** A board with three sets of figures and no word for which one to read. A register whose middle column is full and whose right-hand column is empty. A second slate nobody has touched in fifty chapters. A question asked to one man on day 548 and not answered, and a space on a board where a name is not. A name spoken once on day 534 by a man who trades a board and thanked by nobody. A man who took a name off his own board nine years ago and never said so. A length of new rope nobody has lifted. Three barrows one hundred and fifty-nine days out on a road nobody can be shown a person on. **A woman with a slate and a tin and no name, no age, no number and no descriptor, whose four figures do not agree and whose figure is outside this city without her on it — NO PHASE THAT IS NOT ENTITLED MAY GIVE HER A NAME, AN AGE, A NUMBER OR A DESCRIPTOR, AND NOBODY ASKS HER WHY SHE STOPPED.** A figure four hundred miles off on a wall and a figure this city made on a morning by a person, one kind of thing and not the same figure, and a book that reads down against a wall that reads across. A tally-board face down on a stack of boards with a figure on the side the sun does not get to. And the days, which is a figure and not a thing.
+
+**THE TWO UNBALANCED BOLD MARKS AT THE HEAD OF THIS FILE ARE STILL PRESENT AND WERE NOT REPAIRED BY THIS CLOSE, and this file's third line is one of them and `state/continuity.md` at its forty-eighth is the other. NAMED AND ROUTED, NOT TAKEN.**
+
+**AND THE DEBT THAT IS OWED BY A VOLUME 12 OUTLINE AND BY NOBODY ELSE: the two one-place forms in one room on five days of Volume 11, against a plan row that says they are never in one room. Five chapters named in `state/volume-11-close.md` §7.9 and none of them moved, and the measured finding is that in all five neither sheet was laid beside the other, neither was in one hand, and neither was compared out loud.**
+
+**THE NEXT PHASE IS `workspace/volume-12/outline/PROMPT.md` AND IT IS A VOLUME OUTLINE PHASE.**
