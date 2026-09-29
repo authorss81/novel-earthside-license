@@ -1,5 +1,41 @@
 # Power System: The Earthside License and Veyran Weave
 
+> **HOW TO USE THIS FILE. Added by a review repair pass, because a file of one hundred and
+> eighty thousand words with no map at the front of it is not a bible, it is a filing cabinet.**
+>
+> **§§1 to 9 are the power system.** Three thousand words. They are what the License is, what it
+> can and cannot do, what a threshold requires, what a working costs, what a workway is, where
+> Adrian stands on the ladder, and how a System panel is written. **If you are writing a chapter
+> and you do not know what the License can do, read §2, §4 and §9 and stop.**
+>
+> **§§10 to 60 are the witness record**, in the order the phases wrote them: one section per
+> volume per batch, plus a calendar section at each hundredth day. They exist so that no volume
+> silently contradicts the one before it, and they are the *evidence* for the rules, not the rules.
+> **You do not read them to write a chapter.** You read one when a review says two files disagree,
+> and you read the section the other file names.
+>
+> **THE MAP, AND IT IS SHORT ON PURPOSE.**
+>
+> | What you need | Where it is |
+> |---|---|
+> | What the License can and cannot do | §2 |
+> | What a System panel looks like and how it is worded | §3, and §9 for the house rules on panels |
+> | What a threshold requires, what a breach is, what passage costs | §4 |
+> | Return marks, and the six ways a working fails | §5 |
+> | Workways and what each one obligates its holder to | §6 |
+> | Where Adrian is, Stage 0 to Stage 7 | §7 |
+> | How power is earned and why nobody gets stronger | §8 |
+> | The date forms, the weekday rule, and the Bare-Month calendar | §§33, 33A, 33B, 51, 57, 58, 59, 60 |
+> | The day map for the volume you are writing | The plan's own §14.3, not this file |
+> | The strings no file may print | The prompt, and `state/volume-11-close.md` §7.11 for the measurement |
+>
+> **TWO RULES ABOUT THIS FILE THAT A WRITER WHO HAS NOT READ IT WILL BREAK.** First, the day
+> tables below are tables, and a batch re-derives its own days from the plan's map rather than
+> transcribing them; a table that has been checked once is not a table that can be copied. Second,
+> a later section never quietly overwrites an earlier one. Where they disagree, both are published
+> and the disagreement is the finding — so a writer who finds two sections saying different things
+> is not confused, is holding the actual state of this world.
+
 ## 1. The two interacting systems
 
 Veyra already has magic before Adrian arrives. Its practitioners use **Weave**, a consent-sensitive discipline that changes patterns in the world. The **Earthside License** is a separate interface laid over that world by a fragment of the ancient **First Grammar**. It does not replace Weave. It translates, limits, and records a crossing so that a person from Earth can survive contact with it.
@@ -2327,7 +2363,7 @@ These are additions to the sections above, not replacements, and they are on the
 11. **AND THE ONE FAULT IN THIS SECTION THAT IS PUBLISHED RATHER THAN FIXED, because a section that silently edits its own table is a section that has been checked once.** **THE FIFTY-ONE ROWS IN ITEM 2'S TABLE INCLUDE CHAPTER 0575 TWICE: once in its place in the left column and once as a duplicated row at the foot of that column, and the duplicate prints the same three figures as the row above it, which are the run's own and are correct. THE COUNT OF ROWS IS FIFTY-ONE, THE COUNT OF DISTINCT CHAPTERS IS FIFTY, THE COUNT OF DISTINCT DAYS IN THE FIFTY ROWS THAT ARE NOT THE DUPLICATE IS FIFTY, AND THE COUNT OF DISTINCT DAYS IN THE TABLE AS PRINTED IS FIFTY.** **IT IS LEFT IN AND NOT DELETED, and the correction of the count is published here, and item 2 carried the wrong count of distinct days as well and carried it for one phase, and it is corrected there now with its first edition preserved in its own words, so that the two items of this section agree and a reader who opens either one is not handed a figure the other one contradicts, and a measurement run on the printed table by a later phase returned twenty-six rows in the left column, twenty-five in the right, fifty-one data rows, fifty distinct chapters and fifty distinct days, at zero mismatches on every weekday and every Bare-Month ordinal, and it is published in the state record and not here twice over, and it agreed with this item and not with item 2, and the fault was in the item and not in the table. The instruction to a batch is at item 2: re-derive the run from day 1 being a Tuesday and do not transcribe this table.** A fault found in this section by the phase that wrote it, published in the section that contains it, with the correct count beside the wrong one, is the cheapest possible version of the rule this repository has been repairing for seven volumes and it costs one row.
 ## 60. THE CALENDAR FOR DAYS 601 TO 650 — decided by the Volume 12 close phase's successor, the Volume 13 outline phase, and it is a NEW SECTION and NOT AN AMENDMENT OF §59 OR §58 OR §57 OR §51 OR §33A OR §33B
 
-**This section was written by the Volume 13 outline phase, which is the twelfth phase in this repository permitted to decide, and it is the calendar for Volume 13. §§1 to 32 are not changed. §33 IS NOT CHANGED, and its five forms, its weekday anchors, its fourth-form amendment and its interval table all stand exactly as the Volume 06 outline phase wrote them. §33A IS NOT CHANGED, and every one of its eight items stands, including item 1's rule against an ordinal for a month, item 2's refusal to state a length, item 5's anchors, item 6's register item, item 7's register of notices and item 8's standing interval rule. §33B IS NOT CHANGED. §§34 to 50 are not changed and they are Volume 06's and Volume 08's batch sections and they are the volumes' permanent witness. §51 IS NOT CHANGED BY THIS SECTION, INCLUDING ITEM 9. §§52 to 56 are not changed. §57 IS NOT CHANGED BY THIS SECTION AND IS NOT AMENDABLE BY ANY BATCH AND IS NOT AMENDABLE BY THIS PHASE, AND EVERY DAY FIGURE IN IT STANDS AS IT STANDS. §58 IS NOT CHANGED BY THIS SECTION, NO DAY IN IT MOVED, AND NONE OF ITS FIFTY ROWS IS CORRECTED OR REPLACED. §59 IS NOT CHANGED BY THIS SECTION, NO DAY IN IT MOVED, AND NONE OF ITS FIFTY-ONE ROWS IS CORRECTED, REPLACED OR DELETED, INCLUDING THE DUPLICATED ROW AT THE FOOT OF ITS LEFT COLUMN WHICH ITEM 2 OF THAT SECTION DOCUMENTS AND LEAVES IN ON PURPOSE.** Every day figure in this section is derived from the two founding figures and from nothing else. **A BATCH MAY NOT MAKE, AMEND OR EXTEND ANY OF IT, AND NEITHER MAY A LATER OUTLINE PHASE SAVE THE ONE THAT NAMED IT.**
+**This section was written by the Volume 13 outline phase, which is the twelfth phase in this repository permitted to decide, and it is the calendar for Volume 13. **IT AMENDS NOTHING.** Every one of §§1 to 59 stands as it stands: the five date forms and the weekday anchors of §33, all eight items of §33A including the rule against an ordinal for a month and the refusal to state the Bare Month's length, §33B, the Volume 06 and Volume 08 batch sections at §§34 to 50, §51 including item 9, the Volume 09 sections at §§52 to 56, and the three calendars at §§57, §58 and §59, **in which no day moved and not one row is corrected, replaced or deleted, including §59's duplicated row at the foot of its left column, which §59 item 2 documents and leaves in on purpose.** Every day figure in this section is derived from the two founding figures and from nothing else. **A BATCH MAY NOT MAKE, AMEND OR EXTEND ANY OF IT, AND NEITHER MAY A LATER OUTLINE PHASE SAVE THE ONE THAT NAMED IT.**
 
 1. **VOLUME 13 IS FIFTY DAYS ON FIFTY DAYS, DAYS 601 TO 650, ONE CHAPTER TO ONE DAY, NO DOUBLE DAY.** The form is ***the Nth day of the Bare Month***, **the Nth being day less 315, which is the sixth form and is the one registered at §33A item 2 and named on a page in Chapter 0316 by Sera Vail, a notary of fifty, twenty-six years a notary, and in no other chapter and in no other file.** **Day 601 is the two hundred and eighty-sixth day of the Bare Month and day 650 is the three hundred and thirty-fifth.** The range is a decision, and a later volume that wants a double day has to argue for it in its own outline against the rule that is now the default, exactly as Volume 04's is the recorded exception and is not reopened. **A chapter of Volume 13 may not write another chapter's day, may not write a day before the two hundred and eighty-sixth or after the three hundred and thirty-fifth of that month, and may not use an ordinal for a month.**
 

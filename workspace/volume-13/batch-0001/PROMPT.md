@@ -4,7 +4,23 @@
 
 **A VOLUME 12 IS COMPLETE AT CHAPTER 0600. YOU ARE WRITING THE FIRST TEN CHAPTERS OF THE VOLUME THAT COMES AFTER IT. A WRITER WHO STARTS A SIXTH BATCH OF VOLUME 12 HAS WRITTEN PAST THE END OF A VOLUME, AND THAT IS A REPAIR AND NOT A CHAPTER. YOU ARE NOT DOING THAT.**
 
-**THE READING ORDER IS: your own ten cards first, then `outline/volume-13.md`, then `state/volume-12-close.md`, then Chapters 0591 to 0600. `outline/ending.md` IS NOT READ AND NOT WRITTEN.**
+**THE READING ORDER IS: your own ten cards first at `outline/batches/volume-13-batch-0001.md`, then the four live state files, then `outline/volume-13.md`, then `state/volume-12-close.md`, then Chapters 0591 to 0600. `outline/ending.md` IS NOT READ AND NOT WRITTEN.**
+
+**AND THE ORDER ABOVE WAS CORRECTED BY A REVIEW REPAIR, because the first edition of this prompt read the cards, the plan, the close and ten chapters and named none of the four state files, and a batch that reads no state file writes a batch with no idea what the last four volumes did. The four are small and they are the whole of the current state:**
+
+| # | File | What you get from it | Size |
+|---|---|---|---|
+| 1 | `outline/batches/volume-13-batch-0001.md` | your ten cards, written before Chapter 0601 existed | 49 KB |
+| 2 | `state/current.md` | what this repository is right now; the Volume 12 close and this outline's own block | 26 KB |
+| 3 | `state/continuity.md` | the continuity of the manuscript; the same two blocks | 18 KB |
+| 4 | `state/open-threads.md` | the live thread list; the same two blocks | 17 KB |
+| 5 | `state/character-state.md` | the cast as it stands, with every second handle; the same two blocks | 22 KB |
+| 6 | `state/volume-12-close.md` | the finished volume behind this one, read whole | 102 KB |
+| 7 | Chapters 0591 to 0600 | the ten days before yours | 54 KB |
+
+**`outline/volume-13.md` IS TWO HUNDRED AND FORTY KILOBYTES AND YOU DO NOT NEED ALL OF IT.** Read the sections this prompt names — §§4.1, 6.5, 6.7, 6.11, 14.3, 14.4, 14.5, 16, 17, 20, 20.3, 20.5, 20.6, 20.7, 20.9 and 21.1 — and read the head of the file for the fourteen things it names and prints nowhere. Everything else in it is a check you are not running and a table you are told not to transcribe.
+
+**IF A FIGURE YOU WANT IS NOT IN THE FOUR STATE FILES, IT IS IN `state/archive/`, WHICH IS WHERE EVERY SUPERSEDED BLOCK WENT WHEN THOSE FOUR FILES WERE COMPACTED. THE ARCHIVE IS NOT GONE AND IT IS NOT THE SAME AS THE LIVE FILE. A LINE NUMBER WRITTEN INTO A RECORD OF AN OLDER PHASE POINTS INTO THE ARCHIVE AND NOT INTO THE LIVE FILE.**
 
 ---
 
