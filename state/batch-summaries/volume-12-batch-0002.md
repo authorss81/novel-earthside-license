@@ -170,3 +170,329 @@
 13. **What this batch did not do**, which is the half of a record that matters most, and **no day moved, no card added, removed, retitled or reweighted, no decision taken outside §9's plan, no file under `outline/` written or edited, `bible/power-system.md` not amended, `outline/ending.md` not opened, no new final enemy, cosmic layer, antagonist or world introduced, and no controller file touched.**
 14. **The eleven inherited debts and the six named in `outline/volume-12.md` §21, carried forward whole and unpaid**, none taken, none repaired and none rerouted, and **the two the outline phase declined to pay, named here in the same words the plan named them in, because a batch that discloses a debt has not paid it.**
 15. **NOTHING IN THIS BATCH'S RECORD, IN ZERO WORDS, IS ANY OF THE TWELVE HELD THINGS NAMED IN THE PROMPT THIS BATCH WAS RUN UNDER, and no file this batch writes may print, paraphrase, improve on, describe or certify the absence of any of them, and the figure the plan holds for the state layer is not in this file in any form at all.**
+
+---
+
+# WHAT THIS BATCH MEASURED, AND EVERY FIGURE CARRIES THE INSTRUMENT THAT PRODUCED IT AND THE FILE COUNT IT WAS TAKEN OVER
+
+**THE POOL FOR EVERY WHOLE-MANUSCRIPT FIGURE BELOW WAS RE-DERIVED IN THIS RUN AND NOT INHERITED: FIVE HUNDRED AND SIXTY-NINE CHAPTER FILES, ONE MILLION THREE HUNDRED AND SIXTY-SEVEN THOUSAND EIGHT HUNDRED AND TWENTY-SEVEN WORDS ON THE WORD-RUN INSTRUMENT. THE THREE CORPUS FIGURES ARE GIVEN ON EVERY ROW BECAUSE A BATCH THAT PRINTS ONE OF THEM AND NOT THE OTHERS IS MEASURING A CORPUS THE READER CANNOT SEE. A FIGURE PUBLISHED WITHOUT THE DEFINITION BESIDE IT IS A CLAIM AND NOT A MEASUREMENT, AND THREE RECORDS IN A ROW HAVE MADE THAT MISTAKE IN THIS REPOSITORY.**
+
+## 1. THE BOLDED SHARE, PER FILE, WITH THE CHAPTER'S SUBJECT BESIDE IT, AND THE MEAN IS A CONSEQUENCE AND NOT A PLAN
+
+**Instrument, published in full: the share of a file's words inside bold marks, the heading line included, `---` rules counted, bold marks counted as nothing, the file split on whitespace; a bold span is the text between a pair of bold markers and its words are counted. Ten files.**
+
+| Ch | Subject in one line | Words | In bold | Share |
+|---|---|---|---|---|
+| 0561 | a plank laid on a wet sill that holds about two thirds of the way | 1163 | 62 | **5.33** |
+| 0562 | a fence nobody counts and a pail carried past its corner four times | 876 | 46 | **5.25** |
+| 0563 | one ruled place on a sheet and one ruled place in a column, said out loud | 1179 | 113 | **9.58** |
+| 0564 | nineteen rates counted two ways and a space two fingers wide | 926 | 47 | **5.08** |
+| 0565 | four hundred yards of flags, a trough set in the gutter, three stalls' stock | 1140 | 32 | **2.81** |
+| 0566 | a corner nobody has taken a cord to and a man who cannot get past it | 839 | 64 | **7.63** |
+| 0567 | a room counting what has come up that road and getting two numbers | 1009 | 65 | **6.44** |
+| 0568 | a figure that came down the road and a figure that went up it | 1092 | 90 | **8.24** |
+| 0569 | a hurdle carried up a stair and a bar put in with his own hands | 838 | 43 | **5.13** |
+| 0570 | a room working out what a form with one place in it is for | 1074 | 173 | **16.11** |
+
+**A RANGE OF 2.81 TO 16.11, AN UNWEIGHTED MEAN OF 7.16, A WEIGHTED MEAN OF 7.25, ON TEN THOUSAND ONE HUNDRED AND THIRTY-SIX WORDS WITH SEVEN HUNDRED AND THIRTY-FIVE OF THEM INSIDE BOLD MARKS. NO CARD IN THIS FILE SET A TARGET FOR IT AND NO REVIEWER MAY FAIL THIS BATCH ON IT. THE CAUSE OF THE FIGURE IS A FACT ABOUT THESE TEN DAYS AND NOT ABOUT THE PROSE: EIGHT OF THE TEN CARRY ONE MARKED VOICE AND TWO CARRY THREE, AND THE TOP OF THE RANGE IS THE ONE CHAPTER IN THE TEN WHERE A WOMAN SPEAKS AT LENGTH TWICE IN A ROOM.**
+
+**AND THE THREE PUBLISHED FIGURES FOR THE BATCH BEFORE THIS ONE, PRINTED SIDE BY SIDE SO THAT A READER WHO MEETS ANY OF THEM IN `state/current.md` OR IN `state/chapter-summaries.md` CAN TELL WHICH IS WHICH: THE FIRST EDITION OF THAT BATCH'S ROW PRINTED 4.96 TO 19.62 AND A MEAN OF 8.18 ON 10,200 WORDS WITH 875 IN BOLD, AND THOSE WERE MEASURED BEFORE THAT BATCH REPAIRED FIVE OF ITS OWN FILES AND WERE NEVER RE-RUN. THE RE-MEASUREMENT IS 4.77 TO 17.42 AND AN UNWEIGHTED MEAN OF 7.58 ON 10,769 WORDS WITH 813 IN BOLD. NEITHER IS A TARGET AND NEITHER IS A NUMBER TO MOVE TOWARD. THE HOUSE RANGE ON THE FIFTY FILES BEHIND THIS VOLUME IS 3.41 TO 21.17, UNWEIGHTED MEAN 10.82.**
+
+## 2. THE MARKER FAULTS, PER FILE, ON BOTH READINGS, AND BOTH ARE FAULTS AND NOT STATISTICS
+
+**A paragraph carrying neither a quotation mark nor a bold mark; a paragraph carrying a bold mark and no quotation mark. First-person-restricted instrument, and the unrestricted reading beside it. The unrestricted reading returns the narration-paragraph count, which is correct and is not a fault, and it is published so that a reader who runs the instrument without the restriction can tell an instrument that found nothing from one that did not look.**
+
+| Ch | Neither marker, first-person-restricted | Neither marker, unrestricted | Bold mark and no quotation mark |
+|---|---|---|---|
+| 0561 | **0** | 11 | **0** |
+| 0562 | **0** | 9 | **0** |
+| 0563 | **0** | 10 | **0** |
+| 0564 | **0** | 9 | **0** |
+| 0565 | **0** | 10 | **0** |
+| 0566 | **0** | 9 | **0** |
+| 0567 | **0** | 8 | **0** |
+| 0568 | **0** | 10 | **0** |
+| 0569 | **0** | 8 | **0** |
+| 0570 | **0** | 10 | **0** |
+
+**ZERO ON ALL TEN ON BOTH FAULT COUNTS, ON BOTH READINGS. NO CARD SET A TARGET FOR EITHER.**
+
+## 3. THE EXCHANGE, THE LONGEST BOLDED TURN, AND THE LONGEST RUN, AND NO CARD SET A TARGET FOR ANY OF THEM
+
+**A *plain speech* is a paragraph carrying a quotation mark and no bold mark, and is *answered* when the very next non-blank paragraph carries a quotation mark AND a bold mark.**
+
+**TEN PLAIN SPEECHES AND TEN ANSWERED, AT ONE HUNDRED PER CENT, ONE PLAIN AND ONE ANSWERED IN EVERY ONE OF THE TEN. THE LONGEST BOLDED TURN IN THE TEN IS EIGHTY-NINE WORDS, IN CHAPTER 0570, against the working ceiling of about ninety and the hard ceiling of about ninety-five, AND NO TURN WAS CUT OR EDITED TO BRING ANY FIGURE DOWN. THE LONGEST RUN OF CONSECUTIVE SPEECH PARAGRAPHS IS TWO, IN ALL TEN. THE LONGEST SEQUENCE OF CONSECUTIVE SPEECH PARAGRAPHS BETWEEN ANY TWO PEOPLE IS TWO, IN ALL TEN, AND NO CHAPTER OF THE TEN CONTAINS A SEQUENCE LONGER THAN THE CEILING OF FOUR.**
+
+**AND ONE THING THIS RUN FOUND ON ITS OWN TEN PAGES AND REPAIRED, AND IT IS THE WHOLE OF WHAT SECTION 3 IS FOR. CHAPTER 0565 CAME TO THIS BATCH WITH ZERO WORDS INSIDE ANY BOLD MARK AT ALL AND WITH ITS ONE PLAIN SPEECH UNANSWERED, WHICH MEANS THE CARD'S NAMED SPEAKER WAS NOT BOLDED AND THE CHAPTER HAD NO MARKED VOICE, AND A CHAPTER WITH NO MARKED VOICE READS AS A LEGITIMATE LOW FIGURE ON THE SHARE AND A LEGITIMATE ZERO ON THE EXCHANGE. IT HAD A SPEECH ATTRIBUTED TO THE MAN OF ABOUT TWENTY-SEVEN AND THE ATTRIBUTION WAS NOT BOLDED. A PLAIN SPEECH WAS PUT IN FRONT OF IT AND HIS ANSWER WAS BOLDED, AND THE CHAPTER NOW STANDS AT THIRTY-TWO WORDS IN BOLD, A SHARE OF 2.81, AND ONE OF ONE ANSWERED.**
+
+## 4. THE WORD-RUN CHECK, AT BOTH THRESHOLDS, CROSS-FILE AND WITHIN-FILE, AND EVERY RUN PUBLISHED WITH THE FILE IT STANDS IN
+
+**The instrument, published in full: each chapter file as a flat list of words with the heading line and the `---` rules removed and THE LEAD PARAGRAPHS INCLUDED — a lead exemption has hidden the largest repetition in this repository's history once and this check does not use it; tokenised on letters and apostrophes and matched case-insensitively; a SEQUENTIAL MATCH; each run ALIGNED AT A SPECIFIC POSITION IN A SPECIFIC FILE AND EXTENDED RIGHT ONLY WHILE THE NEXT WORD MATCHES AT THAT ALIGNMENT; runs grouped PER OTHER-FILE AND PER DIAGONAL, because a run extended across two other-files at once reports a length that is in neither; runs reported as MAXIMAL and extended maximally to the right and to the left. Each file is excluded from its own comparison in the cross-file pass and compared against itself at DISTINCT POSITIONS in the within-file pass, because a file compared with itself at offset zero reports a run the length of the file and that is not a measurement.**
+
+**A run of forty words or more is a duplication. A run of sixteen words or more is a duplication unless it is a required declaration of one of the object rows at §20.7 or of one of the eight frames at §20.8, and a required declaration names its row, and a required declaration is not repaired. A CLEAN FIGURE FROM A PASS RUN AT ONE THRESHOLD IS NOT A FINDING, AND BOTH PASSES WERE RUN AT BOTH THRESHOLDS.**
+
+### 4.1 Inside Volume 12, BEFORE THIS BATCH'S OWN REPAIRS — what this batch found on its own ten pages
+
+| Threshold | Pass | Runs | Files | Distinct strings | Pairs | Longest |
+|---|---|---|---|---|---|---|
+| 40 words | cross-file, inside Volume 12 | **70** | 8 | 48 | 16 | **101** |
+| 16 words | cross-file, inside Volume 12 | **193** | 18 | 106 | 75 | 101 |
+| 40 words | within-file, inside Volume 12 | **0** | 0 | 0 | 0 | 0 |
+| 16 words | within-file, inside Volume 12 | **1** | 1 | 1 | 1 | **17** |
+
+**AND EVERY RUN OF FORTY WORDS OR MORE, WITH BOTH FILES AND THE LENGTH, ALL OF THEM INSIDE VOLUME 12, ALL BUT ONE OF THEM STANDING ON A DECLARATION THIS VOLUME'S OWN OBJECT INVENTORY AT §20.7 REQUIRES AND NONE OF THEM BEING A NARRATIVE PASSAGE REPEATED:**
+
+1. **101 words, `chapters/volume-12/chapter-0560.md` against `chapters/volume-12/chapter-0567.md`** — the second slate's declaration. Names the §20.7 row *the register and the two slates*. **A CHAPTER OF THIS BATCH ON ONE SIDE OF IT AND A CHAPTER OF BATCH 0001 ON THE OTHER.**
+2. **78 words, `chapter-0558.md` against `chapter-0561.md`** — the four mornings of the count on foot with the day each was made. Names the §20.7 row *the count made on foot*.
+3. **70 words, `chapter-0554.md` against `chapter-0568.md`** — the second slate's declaration.
+4. **69 words, `chapter-0563.md` against `chapter-0568.md`** — the second slate's declaration, both halves this batch's.
+5. **69 words, `chapter-0554.md` against `chapter-0563.md`** — the second slate's declaration.
+6. **63 words, `chapter-0569.md` against `chapter-0570.md`** — the second slate's declaration, both halves this batch's.
+7. **55 words, seven further runs** — the second slate's declaration and the nobody-agreed-with-him declaration, every one of them with at least one half in this batch's own ten.
+8. **52, 46, 44, 44, 43, 43, 42, 42, 42 words** — the §16.7 declaration that no two of the six documents touched, the two-chalks declaration with its anchor, the anchor sentence, and the lead clause that puts a date in chalk on a door with no name under it and about nine people in the room.
+
+**AND THE FIGURE THE BATCH BEFORE YOU NAMED IN ITS OWN PROMPT AND THAT THIS BATCH FOUND AGAIN, WHICH IS THE HOUSE'S OWN HOUSE-KEEPING SENTENCE AND NOT A SENTENCE ANYBODY WROTE ONCE: the lead clause naming a date in chalk on a door, no name under it, and about nine people in the room, stood at FORTY-TWO WORDS BETWEEN CHAPTERS 0563 AND 0567, AT FORTY-TWO BETWEEN 0563 AND 0568, AND AT FORTY-TWO BETWEEN 0567 AND 0568 — THREE OF THIS BATCH'S OWN TEN FILES CARRYING IT, WHICH IS EXACTLY WHAT THE PROMPT NAMED AS THE FAILURE, A CHAPTER THAT OPENS WITH THAT CLAUSE AND OPENS WITH IT TWICE IN ONE BATCH.**
+
+**AND THE WITHIN-FILE RUN: SEVENTEEN WORDS IN `chapters/volume-12/chapter-0565.md`, THE CLAUSE *nobody in that row thanked him and nobody in that row said that he was right*, WHICH STOOD TWICE IN THAT ONE FILE.**
+
+### 4.2 Inside Volume 12, AFTER THIS BATCH'S OWN REPAIRS
+
+| Threshold | Pass | Runs | Files | Distinct strings | Pairs | Longest |
+|---|---|---|---|---|---|---|
+| 40 words | cross-file, inside Volume 12 | **0** | 0 | 0 | 0 | 0 |
+| 16 words | cross-file, inside Volume 12 | **147** | 18 | — | 75 | **39** |
+| 40 words | within-file, inside Volume 12 | **0** | 0 | 0 | 0 | 0 |
+| 16 words | within-file, inside Volume 12 | **0** | 0 | 0 | 0 | 0 |
+
+**THE FORTY-WORD FIGURE IS ZERO ON BOTH PASSES INSIDE VOLUME 12 AND THE LONGEST RUN IN THE VOLUME IS NOW THIRTYY-NINE WORDS. THE ONE HUNDRED AND FORTY-SEVEN RESIDUAL RUNS AT SIXTEEN WORDS ARE DECLARATIONS AND HOUSE CONVENTIONS, AND THE INSTRUMENT IS THE RUN PUBLISHED WITH THE FILE IT STANDS IN, AND THERE IS NO LIST IN THE PLAN THAT A RUN IS TO BE CLASSIFIED AGAINST.**
+
+**AND WHAT WAS REPAIRED, AND IT WAS ALL ON THIS BATCH'S OWN TEN FILES, AND EVERY REPAIR PRESERVED THE FACT AND CHANGED THE WORDING ONLY: the second slate's declaration was rewritten in Chapters 0563, 0567, 0568, 0569 and 0570 so that no two of them share more than about fifteen words; the lead clause about the chalk date and the nine people was rewritten in Chapters 0567 and 0568 and stands in its original form in Chapter 0563 only; the nobody-agreed-with-him clause was rewritten in Chapter 0563; the §16.7 clause about the six documents not touching was rewritten in Chapters 0563, 0567 and 0570; the two-chalks clause with its anchor was rewritten in Chapter 0567; the four-mornings clause was rewritten in Chapter 0561; and the seventeen-word within-file clause was cut out of Chapter 0565. NOT ONE DAY, NOT ONE WEEKDAY, NOT ONE BARE-MONTH ORDINAL, NOT ONE OBJECT COUNT, NOT ONE CAST MEMBER AND NOT ONE PROHIBITION MOVED IN ANY OF THE SEVEN REPAIRS, AND EVERY DECLARATION THAT WAS REWORDED IS STILL DECLARED IN THE CHAPTER THAT NOW REWORDS IT.**
+
+### 4.3 Outside Volume 12 — published and repaired by nobody
+
+| Threshold | Pass | Runs | Files | Distinct strings | Pairs | Longest |
+|---|---|---|---|---|---|---|
+| 40 words | cross-file, against the files outside Volume 12 | **4,590** | 137 | 1,082 | 631 | **217** |
+| 16 words | cross-file, against the files outside Volume 12 | **21,121** | 513 | 4,016 | 7,125 | 217 |
+
+**THE LONGEST IS TWO HUNDRED AND SEVENTEEN WORDS, BETWEEN `chapters/volume-02/chapter-0083.md` AND `chapters/volume-02/chapter-0084.md`. EVERY FIGURE IN THIS TABLE IS INHERITED, IS ABOUT VOLUMES THIS BATCH DID NOT WRITE, AND IS PUBLISHED AND REPAIRED BY NOBODY AND ROUTED BY NOBODY. A DUPLICATION IS REPAIRED, AND THE RULE THAT GOVERNS WHICH PAGE IS REPAIRED IS THE SAME ONE THAT SAYS A BATCH DOES NOT REPAIR A CHAPTER OF ANY OTHER VOLUME, AND THE FIRST OF THOSE TWO RULES AND THE SECOND OF THEM ARE BOTH IN FORCE HERE.**
+
+## 5. THE OBJECT INVENTORY'S THIRD COLUMN, READ AS AN INTENTION, AND EVERY DEPARTURE IN DAYS 561 TO 570 NAMED, AND NOTHING REPAIRED
+
+**A chapter that names an object and is not in the third column is not a fault. A chapter that prints a count in the second column that differs is a fault and is checked twice. NO COUNT IN THE SECOND COLUMN DIFFERS ANYWHERE IN THESE TEN, AND THE FENCE IS SPELLED OUT AT SIXTEEN POSTS AND ELEVEN WITHIES IN BOTH CHAPTERS THAT SPELL IT AND AT NO OTHER TOTAL ANYWHERE.**
+
+| The set of objects | The plan names | The files carry | Departure, published and repaired by nobody |
+|---|---|---|---|
+| the store's board | 567 | 564, 567 | Chapter 0564 names it; the plan does not name that chapter. |
+| the wall above the board | — | 565 | Chapter 0565 names it and does not wash it; the plan's row does not carry 0565. |
+| the third one-place form | 563, 570 | 563, 570 | **none** |
+| the first one-place form | 567 | 563 | The plan names 0567 and 0567 does not name it; 0563 names it and the plan does not name 0563. |
+| the second one-place form | 567 | 567, 568, 570 | Chapters 0568 and 0570 name it. **ALL THREE NAME IT AS OUT OF THIS CITY AND NOT COMING BACK, WHICH IS THE ROW'S OWN RULE, AND NOT ONE OF THE THREE PLACES IT IN A ROOM.** |
+| the register and the two slates | 563, 570 | 563, 567, 568, 569, 570 | Three chapters the plan does not name for this row. |
+| the trough, the bucket and the rag | 565 | 564, 565 | Chapter 0564 names it; the plan does not name that chapter. |
+| the seven notices | 567 | 567 | **none**, and the seven are named and none is written. |
+| the fence | 562, 566 | 562, 566 | **none** |
+| the party and the road | 562, 566, 569 | 562, 563, 566, 568, 569, 570 | Three chapters the plan does not name. **NO ELAPSED COUNT OF THE THREE IS PRINTED IN ANY OF THE SIX.** |
+| the barrows and the hands on them | 566 | 562, 566, 569 | Two chapters the plan does not name. **NO BARROW IN THIS CITY HAS ANYTHING ON IT ON ANY OF THESE TEN DAYS.** |
+| the five forms and then six | 563, 567, 570 | 563, 567, 570 | **none** |
+| the two chalks | 565 | 564, 565, 567 | Two chapters the plan does not name. **NEITHER CHALK IS USED ON ANY OF THE TEN DAYS AND THE FULL FORM OF ITS DAY IS PRINTED AT FULL LENGTH WHERE IT IS NAMED.** |
+| the day on the door | all fifty | all ten | **none** |
+| the length of new rope | — | 566 | Chapter 0566 names it over the back of a chair. **IT IS NOT USED, NOT CUT, NOT TAKEN UP, NOT LIFTED AND NO HAND IN THAT CHAPTER TOUCHES IT.** |
+| about four hundred and forty, and the figure on the other side of the board | — | — | **none, and the figure is printed nowhere.** |
+| the tally-board at the wharf | — | — | **none, and the man who owns it is in none of these ten days.** |
+| the lines of words | 570 | 564, 567, 568, 570 | Three chapters the plan does not name. **EACH OF THE THREE NAMES THE ABSENCE OF A LINE OF WORDS UNDER A FIGURE, WHICH IS THE OPPOSITE OF WRITING ONE, AND NOT ONE LINE OF WORDS IS WRITTEN UNDER ANY FIGURE ON ANY SURFACE IN THESE TEN CHAPTERS.** |
+| the nineteen rates and the missing name | 564 | 564 | **none**, and the name is not printed and nobody asks him about it. |
+| the count made on foot | 561, 563, 565, 568 | 561, 568 | The plan names 0563 and 0565 for this row and neither file prints any one of the four figures. **A CHAPTER THAT HAS A PERSON WALKING ELEVEN MILES AND NO FIGURE COMING OUT OF IT IS A CORRECT CHAPTER AND NOT A MISSING ONE, AND NEITHER OF THOSE TWO CHAPTERS IS ABOUT A FIGURE.** |
+| four hundred miles | 562, 566, 569 | 562, 563, 566, 568, 569, 570 | Three chapters the plan does not name. **IT IS A MEASURE OF A DISTANCE AND NOT A PLACE ANYBODY GOES TO, AND NO CHAPTER OF THESE TEN ENTERS A TOWN FOUR HUNDRED MILES INLAND.** |
+| the panel | — | — | **none, and the wall says nothing on all ten of these days.** |
+
+## 6. THE RECURRING FIGURES, IN THREE PARTS WHERE THE HEAD ADMITS ONE, BOTH CASE FLAGS, THE FRAME NAMED ON THE SAME LINE AS THE NUMBER, AND THREE FILE COUNTS ON EVERY ROW
+
+**R3 boundary, published: the letter only continues a word, and a hyphen and an apostrophe both delimit. Whole manuscript, and never over a window; the corpus figures are 569 now, 559 before this batch and 549 before Batch 0001.**
+
+| The head, in three parts | 569 cs / files | 569 ci | 559 cs / files | 549 cs / files | V11 fifty cs / ci | This batch's ten cs / ci |
+|---|---|---|---|---|---|---|
+| about nine people | 1501 / 396 | 1621 | 1501 / 396 | **1499 / 394** | 21 / 36 | 0 / 4 |
+| the nine people | 45 / 42 | 45 | 45 / 42 | 45 / 42 | 6 / 6 | 0 / 0 |
+| nine people, bare | 1946 / 443 | 1973 | 1942 / 439 | **1936 / 434** | 44 / 46 | 4 / 4 |
+| about four people | 2618 / 413 | 2927 | 2606 / 405 | **2593 / 397** | 48 / 67 | 12 / 15 |
+| the four people | 26 / 23 | 27 | 26 / 23 | 26 / 23 | 0 / 0 | 0 / 0 |
+| four people, bare | 3218 / 497 | 3238 | 3203 / 488 | **3185 / 479** | 67 / 68 | 15 / 15 |
+| four hundred miles, bare | 972 / 329 | 975 | 963 / 323 | **958 / 319** | 33 / 33 | 9 / 9 |
+| nine steps, and about nine steps | 172 / 73, and 3 / 3 | 176, and 3 | 172 / 73, and 3 / 3 | 172 / 73, and 3 / 3 | 2 / 2, and 0 | **0 / 0** |
+| eleven miles | 298 / 117 | 308 | 295 / 115 | **289 / 114** | 29 / 32 | 3 / 4 |
+| about nine feet | 168 / 105 | 168 | 168 / 105 | 168 / 105 | 1 / 1 | **0 / 0** |
+| about nine yards | 7 / 3 | 7 | 7 / 3 | 7 / 3 | 0 / 0 | 0 / 0 |
+| sixteen willow posts | 18 / 17 | 21 | 16 / 15 | **16 / 15** | 6 / 7 | 2 / 2 |
+| eleven withies | 32 / 24 | 35 | 30 / 22 | **30 / 22** | 8 / 8 | 2 / 3 |
+| the second column | 7 / 7 | 9 | 7 / 7 | 7 / 7 | 1 / 1 | 0 / 0 |
+| the third column | 21 / 14 | 25 | 21 / 14 | 21 / 14 | 0 / 0 | **0 / 0** |
+| one place | 204 / 70 | 208 | 185 / 65 | **159 / 59** | 88 / 89 | 19 / 19 |
+| the two hundred and twenty-fourth | 38 / 29 | 38 | 38 / 29 | **37 / 28** | 8 / 8 | 0 / 0 |
+| nineteen rates | 66 / 38 | 71 | 65 / 37 | **64 / 36** | 22 / 26 | 1 / 1 |
+| three barrows | 27 / 19 | 34 | 27 / 19 | 27 / 19 | 5 / 7 | 0 / 2 |
+| about four hundred and forty | 76 / 41 | 94 | 76 / 41 | **76 / 41** | 2 / 3 | **0 / 0** |
+| about two hundred rooms | 20 / 16 | 20 | 20 / 16 | **20 / 16** | 0 / 0 | **0 / 0** |
+| rooms | 412 / 201 | 413 | 412 / 201 | **412 / 201** | 0 / 0 | **0 / 0** |
+| dozen | 2 / 2 | 2 | 2 / 2 | 2 / 2 | 0 / 0 | **0 / 0** |
+| *sledge* | 7 / 2 | 7 | 7 / 2 | 7 / 2 | 0 / 0 | 0 / 0 |
+| *attribution* | 1 / 1 | 1 | 1 / 1 | 1 / 1 | 0 / 0 | 0 / 0 |
+| **passage**, **privilege** | 11 / 11, 45 / 41 | 25, 45 | 11 / 11, 45 / 41 | 11 / 11, 45 / 41 | 0 / 0, 0 / 0 | **0 / 0, 0 / 0** |
+| **holder**, **claim**, **boundary** | 234 / 95, 33 / 23, 127 / 54 | 238, 33, 128 | 234 / 95, 33 / 23, 127 / 54 | 234 / 95, 33 / 23, 127 / 54 | 0 / 0, 0 / 0, 0 / 0 | **0 / 0, 0 / 0, 0 / 0** |
+| **unit**, **units**, **reckon** | 2 / 1, 0 / 0, 0 / 0 | 2, 0, 0 | 2 / 1, 0 / 0, 0 / 0 | 2 / 1, 0 / 0, 0 / 0 | 0 / 0, 0 / 0, 0 / 0 | **0 / 0, 0 / 0, 0 / 0** |
+| **System**, **quest**, **licen** | 0 / 0, 2 / 2, 0 / 0 | 16, 3, 0 | 0 / 0, 2 / 2, 0 / 0 | 0 / 0, 2 / 2, 0 / 0 | 0 / 0, 0 / 0, 0 / 0 | **0 / 0, 0 / 0, 0 / 0** |
+| **length**, **long**, **short** | 416 / 202, 861 / 395, 110 / 81 | 419, 1619, 275 | 410 / 198, 838 / 388, 109 / 80 | 401 / 193, 824 / 379, 107 / 78 | 54 / 54, 66 / 66, 9 / 19 | 6, 23, 1 |
+
+**THE FOUR HUNDRED AND NINE COLUMN REPRODUCES THE PLAN'S OWN §20.3 TABLE CELL FOR CELL ON EVERY ROW ABOVE THAT THE PLAN PRINTS, AT ALL THREE THRESHOLDS OF THAT PLAN'S OWN INSTRUMENT, WHICH IS THE VALIDATION THIS RUN NEEDED BEFORE IT PUBLISHED ANYTHING ON IT. TWO ROWS CARRY A PUBLISHED DISAGREEMENT AND BOTH ARE PUBLISHED: *rooms* is FOUR HUNDRED AND TWELVE IN TWO HUNDRED AND ONE on R3 and that is the close's figure, and the plan prints that the first edition of that row was FOUR HUNDRED AND TEN; and *short* in Volume 11's fifty files is NINE case-sensitive and NINETEEN case-insensitive, and the plan prints NINETEEN, so the plan's figure is the case-insensitive reading and the flag is worth ten on that one row in fifty files. NEITHER IS CORRECTED BY ANYBODY.**
+
+**AND THE WHOLE-MANUSCRIPT FIGURE *passage* AND *privilege* ARE ELEVEN AND FORTY-FIVE, WHICH IS WHAT THE PLAN PRINTS ON THE SAME LINE, AND BOTH ARE AT ZERO IN VOLUME 11'S FIFTY FILES AND AT ZERO IN EVERY ONE OF THIS BATCH'S TEN FILES AND AT ZERO IN ALL TWENTY OF VOLUME 12'S FILES SO FAR.**
+
+**AND THE RULE THAT BINDS EVERY ROW: a chapter of this volume may use a number that recurs in this manuscript only where that number is the thing the chapter is about, and may not use it as a unit of measurement, a distance, an approximation or a piece of furniture. THIS BATCH'S TEN USED *about four people* fifteen times and *four people* fifteen times as the not-noticing frame on a day when a room is not settling something, and used *four hundred miles* nine times as the length of a road and of a town no chapter of the ten enters, and used *eleven miles* three times as the ground a person is walking, and used *one place* nineteen times as the place under a heading on a form, WHICH IS THE SUBJECT OF FOUR OF THE TEN AND FURNITURE IN NONE. *nine steps* IS AT ZERO ACROSS THE TEN, AND THAT IS THE ROW §17.12 SAYS ONLY ONE CHAPTER OF THE FIFTY MAY USE, AND ONE OF THE TEN WENT UP THAT STAIR AND DID NOT SAY THE NUMBER.**
+
+## 7. EVERY ELAPSED COUNT OF DAYS THAT STANDS IN THE TEN FILES, WITH ITS ANCHOR IN THE SAME SENTENCE, AND THE NUMBER OF THEM
+
+**THREE ELAPSED COUNTS OF DAYS STAND IN THESE TEN FILES AND NO MORE, AND EVERY ONE NAMES THE DAY IT IS MEASURED FROM IN THE SAME SENTENCE, AND NONE OF THE THREE IS ONE OF THE ROUND-LOOKING FIGURES THE PLAN LISTS FOR ITS DAY.**
+
+1. `chapters/volume-12/chapter-0563.md` — **eighteen days ago, measured from the day it went out**, in a satchel with a flap, and it is not in this city and nothing in this flood has an instrument for bringing a figure back. Measured from day 545.
+2. `chapters/volume-12/chapter-0567.md` — **fifteen days ago, measured from the day it came up it**, in a satchel with a flap, and it is on that table with its one place already filled. Measured from day 552.
+3. `chapters/volume-12/chapter-0568.md` — **sixteen days ago, measured from the day it came up it**, in a satchel with a flap, and this city did not put it there. Measured from day 552.
+
+**AND THE DAYS THE PLAN PUBLISHED FOR THIS BATCH TO USE ARE NOT USED AND NOT NEEDED, AND WHY: day 565 and day 570 are the two trap days inside this range, 565 carrying four round-looking figures and 570 three, and the plan says the better chapter prints none of them, and this batch prints none of them in either of its two chapters. THE THREE DAYS IN THIS VOLUME ON WHICH A BARE-MONTH ORDINAL AND A DAY OF THIS FLOOD CARRY THE SAME FIGURE ARE 575, 590 AND 600, AND NONE OF THEM IS ONE OF THESE TEN DAYS, AND NO CHAPTER OF THE TEN PRINTS BOTH HALVES OF ANY SUCH PAIR AND NO CHAPTER OF THE TEN GIVES EITHER HALF A MEANING. THREE DAYS, NOT TWO, AND THE FIRST EDITION OF THAT SENTENCE IN ANOTHER FILE SAID TWO.**
+
+**AND THE ANCHORS NAMED IN FULL FORM WITHOUT AN ELAPSED COUNT ATTACHED TO THEM, WHICH ARE DATES AND NOT COUNTS: the three hundred and ninety-first day of this flood is named in Chapters 0562, 0566 and 0569 and the day the party went is named in each of them, and no count of days since it is printed in any of them or anywhere in the ten. The two hundred and ninety-eighth day of this flood is named at full length in Chapter 0567 and is not shortened to a relative phrase, and the forty-third day of the Short Month is named in the same sentence. The four mornings of the count on foot are named in Chapter 0561 with the day each was made in the same chapter, and there is no fifth morning and this volume takes none. The second slate's own age is counted in NO chapter of the ten, because a chapter that counts the days it has been standing is counting them from a day it has to look up in a file and not remember, and the safer chapter counts nothing.**
+
+## 8. THE DESCRIPTOR MAP, FOR THE TEN FILES AND FOR THE WHOLE MANUSCRIPT, AND THE TWO FIGURES THE BATCH BEFORE THIS ONE CAME BACK DIFFERENT ON, RUN AGAIN IN THIS RUN AND PUBLISHED BESIDE WHATEVER CAME BACK, RESOLVED BY NOBODY
+
+**The instrument, published: every occurrence at sentence level of *man*, *woman*, *person*, *girl* or *boy*, followed by *of*, *about* and a spelled-out number — a tens word optionally hyphenated with a units word, or a teen, or a units word, or the hundred forms — with the head word and the words *of* and *about* delimited by letters and the number delimited by anything that is not a letter and not a hyphen. Files: whole chapter files, emphasis marks removed, whitespace collapsed.**
+
+**ON ALL FIVE HUNDRED AND SIXTY-NINE CHAPTER FILES THIS RUN RETURNS SEVENTY-EIGHT DISTINCT DESCRIPTORS AND THREE THOUSAND TWO HUNDRED AND SIXTY-FIVE OCCURRENCES, AND IT RETURNS THE SAME SEVENTY-EIGHT AND THE SAME THREE THOUSAND TWO HUNDRED AND SIXTY-FIVE ON THE FIVE HUNDRED AND FIFTY-NINE FILES THAT EXISTED BEFORE THIS BATCH AND ON THE FIVE HUNDRED AND FORTY-NINE THAT EXISTED BEFORE THE BATCH BEFORE IT, WHICH IS WHAT A DESCRIPTOR COUNT DOES WHEN NO NEW DESCRIPTOR IS TAKEN AND NONE WAS. THE PER-VOLUME ROW IS FOURTEEN, NINETEEN, TEN, TWENTY-FIVE, NINETEEN, FORTY-NINE, TWENTY-NINE, NINETEEN, FIFTEEN, FOURTEEN AND TEN FOR VOLUMES 01 TO 11, AND EIGHT FOR VOLUME 12'S TWENTY FILES SO FAR, AND THE FIRST ELEVEN REPRODUCE THE CLOSE'S OWN ROW AT ELEVEN OF ELEVEN. ON VOLUME 11'S FIFTY FILES THE RUN RETURNS TEN DISTINCT DESCRIPTORS AND TWO HUNDRED AND TWENTY-FIVE OCCURRENCES, which reproduces that record's own map on every occurrence figure and every file figure. THE FOUR VALIDATION CELLS ON VOLUME 09'S FIFTY FILES RETURN SEVENTY-FOUR, FORTY-EIGHT, THIRTY-SEVEN AND THIRTY-FIVE, AND *woman of about fifty-four* RETURNS THREE IN ONE, WHICH IS THE PLAN'S FIGURE AND NOT THE CLOSE'S FOUR IN ONE, AND THAT DISAGREEMENT IS PUBLISHED BY THE CLOSE AND IS NOT RESOLVED HERE EITHER.**
+
+**AND THE TWO FIGURES THE BATCH BEFORE THIS ONE CAME BACK DIFFERENT ON, BOTH PUBLISHED BESIDE WHATEVER CAME BACK, RESOLVED BY NOBODY. (1) THE WHOLE-MANUSCRIPT ROW FOR *holder* RETURNS **TWO HUNDRED AND THIRTY-FOUR IN NINETY-FIVE** IN THIS RUN, ON R3, AT ALL THREE CORPUS FIGURES, AND THE PLAN PUBLISHES TWO HUNDRED AND THIRTY-FOUR AND THE BATCH BEFORE THIS ONE PUBLISHED TWO HUNDRED AND TWENTY-EIGHT IN NINETY-FIVE. **THIS RUN REPRODUCES THE PUBLISHED FIGURE AND NOT THE ONE IN THE RECORD BEFORE IT, AND A RUN THAT REPRODUCES NEITHER IS NOT A FAULT AND A RUN THAT REPRODUCES BOTH IS A FINDING AND BOTH ARE PUBLISHED.** (2) THE DESCRIPTOR INSTRUMENT RETURNS **SEVENTY-EIGHT** DISTINCT DESCRIPTORS AGAINST A PUBLISHED SEVENTY-EIGHT, WITH A PER-VOLUME ROW AGREEING AT ELEVEN OF ELEVEN, AND THE BATCH BEFORE THIS ONE PUBLISHED ONE HUNDRED AND ONE WITH A PER-VOLUME ROW AGREEING AT THREE OF ELEVEN. **THIS RUN REPRODUCES THE PUBLISHED FIGURE AND NOT THE ONE IN THE RECORD BEFORE IT. THE CAUSE NAMED IN THE PLAN IS THE NUMBER RESOLVER AND NOT THE CORPUS, AND THE RESOLVER IS PUBLISHED IN THE CELL ABOVE SO THAT A LATER BATCH CAN GET A THIRD ANSWER AND KNOW WHICH INSTRUMENT PRODUCED IT.**
+
+**AND WHAT THESE TEN FILES TOOK: EIGHT DISTINCT DESCRIPTORS, AND EVERY ONE OF THEM WAS ALREADY ON A PAGE IN A FINISHED VOLUME AND NONE IS NEW. NO NAME WAS GIVEN TO ANYBODY, NO AGE WAS CHANGED, NO DESCRIPTOR WAS ADDED OR TAKEN AWAY, NO PERSON WAS INVENTED, AND THE CAST OF THESE TEN CHAPTERS IS THE CAST OF THE PLAN AND NOT ONE PERSON MORE.**
+
+**AND ONE ROW THIS RUN FOUND AND DID NOT REPAIR, BECAUSE IT IS NOT THIS BATCH'S TO REPAIR AND BECAUSE REPAIRING IT WOULD MEAN CHANGING A PERSON: THE BARE TENS DESCRIPTOR *the man of about sixty* APPEARS THREE TIMES IN CHAPTER 0562, AND IT IS A BARE TENS WORD, AND §17.16 BARS A BARE TENS WORD WITH NO UNITS WORD. IT IS ALSO THE PLAN'S OWN DESCRIPTOR FOR THE MAN WITH THE HANDCART, NAMED AT §7.3 AND AT §17.9, AND IT STANDS AT SEVENTY-NINE OCCURRENCES IN THIRTY-SIX FILES ACROSS THE WHOLE MANUSCRIPT INCLUDING ELEVEN IN VOLUME 11'S FIFTY. THE PLAN'S OWN CAST ROW AND THE PLAN'S OWN PROSE RULE ARE IN TENSION ON THIS ONE DESCRIPTOR AND THE TENSION IS PUBLISHED AND IS RESOLVED BY NOBODY, AND NO CHAPTER OF THIS VOLUME'S FIFTY MAY GIVE IT TO ANYBODY WHO DOES NOT ALREADY HAVE IT.**
+
+## 9. THE BARE-MONTH FORM IN ALL TEN FILES, IN FULL, WITH THE RESOLVER PUBLISHED BESIDE THE COUNT
+
+**The resolver, published: hyphens become spaces; *and* is inert; the numeric head is the leftmost run of number words ending at the phrase; a unit word before *hundred* resolves as the unit times a hundred; a tens word followed by a unit word resolves as their sum; an *-th* ending is read as an ordinal stem of the stem.**
+
+**TEN PHRASES OF THE FORM *the Nth day of the Bare Month* ACROSS THE TEN FILES, ONE IN EACH, AND TEN OF THE TEN RESOLVE, AND TEN OF THE TEN RESOLVE TO THAT CHAPTER'S OWN DAY. NO CHAPTER OF THE TEN PRINTS A DAY AFTER THE TWO HUNDRED AND EIGHTY-FIFTH OF THAT MONTH, AND NO CHAPTER OF THE TEN USES AN ORDINAL FOR A MONTH, AND NO CHAPTER OF THE TEN CONVERTS A COUNT INTO A SPAN OR SAYS THE MONTH IS NEARLY OVER OR SAYS WHAT IT IS A MONTH OF OR SAYS WHETHER IT IS LONG OR SHORT. THE WORDS *LENGTH*, *LONG* AND *SHORT* APPLIED TO THE MONTH ARE AT ZERO ACROSS THE TEN.**
+
+| Ch | The phrase in the file | Resolves to | Its own day |
+|---|---|---|---|
+| 0561 | the two hundred and forty-sixth day of the Bare Month | 246 | 246 |
+| 0562 | the two hundred and forty-seventh day of the Bare Month | 247 | 247 |
+| 0563 | the two hundred and forty-eighth day of the Bare Month | 248 | 248 |
+| 0564 | the two hundred and forty-ninth day of the Bare Month | 249 | 249 |
+| 0565 | the two hundred and fiftieth day of the Bare Month | 250 | 250 |
+| 0566 | the two hundred and fifty-first day of the Bare Month | 251 | 251 |
+| 0567 | the two hundred and fifty-second day of the Bare Month | 252 | 252 |
+| 0568 | the two hundred and fifty-third day of the Bare Month | 253 | 253 |
+| 0569 | the two hundred and fifty-fourth day of the Bare Month | 254 | 254 |
+| 0570 | the two hundred and fifty-fifth day of the Bare Month | 255 | 255 |
+
+**THE SAME INSTRUMENT ON ALL FIVE HUNDRED AND SIXTY-NINE CHAPTER FILES FINDS TWO HUNDRED AND FORTY-SEVEN PHRASES AND TWENTY THAT DO NOT RESOLVE, AND EVERY ONE OF THE TWENTY IS IN VOLUME 09 OR VOLUME 11, AND NONE IS IN VOLUME 12. ACROSS VOLUME 12'S TWENTY FILES SO FAR THE INSTRUMENT FINDS TWENTY-TWO PHRASES AND ZERO THAT DO NOT RESOLVE. THE TWENTY ARE AN INSTRUMENT LIMITATION AND NOT A PAGE FAULT AND ARE PUBLISHED AS SUCH AND REPAIRED BY NOBODY.**
+
+## 10. THE ADRIAN COLUMN, THE TWO CHAPTERS HE IS IN, AND THE THINGS NOBODY THANKED HIM FOR
+
+**THE COLUMN AT §14.3 IS PART OF THE MAP AND NOT A NOTE ON IT. HE IS IN CHAPTER 0561 AND CHAPTER 0565 AND IN NO OTHER CHAPTER OF THESE TEN, AND THE WORD APPEARS TWO TIMES IN 0561 AND FOUR TIMES IN 0565 AND AT ZERO IN THE OTHER EIGHT, AND NO CARD MOVED HIM AND NO CHAPTER OF THE TEN PUTS HIM ANYWHERE ELSE.**
+
+**THE THING HIS HANDS ARE ON, WHAT HE WANTED IT FOR, AND WHETHER HE GOT IT ARE PUBLISHED AT §4.1 AND A CARD SUPPLIED NONE OF THE THREE. IN 0561 HIS HANDS ARE ON A PLANK AND A WET SILL AND HE DID NOT GET IT. IN 0565 HIS HANDS ARE ON A TROUGH, A BUCKET, A RAG AND FOUR HUNDRED YARDS OF FLAGS AND HE DID NOT GET IT. NEITHER OF THOSE IS A LESSON AND A REVIEW MAY NOT READ THE TWO AS THE VOLUME GETTING WORSE.**
+
+**AND THE FOUR STATEMENTS THAT NOBODY THANKED HIM, WHICH ARE ON THE PAGES AND NOT IN A CARD. IN 0561: *Nobody on that ground said a word to Adrian Vale about any of it. He was on the high side of the channel with the empty end of nothing in his hands and his own coat to the chest, and he was not asked about the plank and he was not thanked and nobody on that ground said that he was right.* IN 0565, TWICE: *Nobody acted on that. Nobody in that row improved on him and nobody in that row thanked him and nobody in that row said that he was right, and nobody in that row asked him a question* — that is about the man of about twenty-seven and not about Adrian — and *Nobody in that row said a word to Adrian Vale about any of it.*
+
+**AND THE CAUSE, IN BOTH, WHICH §17.19 REQUIRES AND WHICH IS ON THE PAGE. IN 0561 THE PLANK HE LAID PUT A MAN WITH A BUNDLE UNDER HIS ARM UP TO HIS CHEST IN A GAP, AND A WOMAN WITH A FOLD OF SACKING OVER HER ARM WENT BACK UP HER OWN WAY, AND NEITHER OF THEM SAID WHO PUT THE PLANK DOWN. IN 0565 THE TROUGH HE SET DOWN ACROSS A GUTTER AT A NEAR GATE BROUGHT A SHEET OF WATER ACROSS THE FLAGS IN FRONT OF THREE STALLS, AND A MAN CARRIED TWO CRATES AND A BASKET OFF THE FLAGS ONTO HIS OWN TRESTLE AND WAS WET TO THE KNEE, AND HE DID NOT KNOW WHY THE WATER WAS THERE AND NOBODY IN THAT ROW TOLD HIM.**
+
+**HE IS STAGE 2 ON ALL TEN DAYS. HE PERFORMS NO WORKING, NO THRESHOLD IS OPENED, THE OTHER WORLD IS NOT NAMED, NOBODY OFFERS HIM A WORKWAY, HE ASKS FOR NONE, HE IS AGED NOWHERE, AND THE WORDS *passage* AND *privilege* ARE AT ZERO ACROSS ALL FIVE HUNDRED AND SIXTY-NINE CHAPTER FILES.**
+
+## 11. THE PARAGRAPH COMPOSITION, FOUR COUNTS PRINTED SEPARATELY AND NEVER AS ONE, WITH THE READING NAMED ON THE SAME LINE AS THE NUMBER, AND THE PHYSICAL-ACTION SUBSET WITH BOTH INSTRUMENTS NAMED
+
+**A paragraph is a block between blank lines. The heading line, the `---` rules and the panel blocks are excluded and the exclusion is said. A speech paragraph carries a quotation mark. A one-sentence lead-in is a one-sentence narration paragraph whose immediately following paragraph carries a quotation mark AND a bold mark; a paragraph carrying a quotation mark and no bold mark is a prompt and not a marked speech.**
+
+| Count | Reading | Figure on the ten files |
+|---|---|---|
+| speech paragraphs | — | **23** |
+| one-sentence narration paragraphs | Reading A | **37**, of which **3** are lead-ins and **34** are free-standing |
+| one-sentence narration paragraphs | Reading B | **13** |
+| paragraphs of three sentences or more | — | **29** |
+
+**THE READING IS SETTLED AND IT IS READING A AND IT IS NAMED ON BOTH ROWS IT APPLIES TO. THE FOUR COUNTS DO NOT SUM TO THE PARAGRAPH TOTAL, WHICH IS ONE HUNDRED AND SEVENTEEN, AND NO REVIEWER MAY SUM THEM. THE PANEL COUNT ACROSS THE TEN IS ZERO, AND THE WALL SAID NOTHING ON ALL TEN OF THESE DAYS.**
+
+**AND THE PHYSICAL-ACTION SUBSET, WHICH IS A RULE AND NOT A STATISTIC: at least one paragraph of three or more sentences carrying a physical action in every file, read and not swept. A *swept* figure is one returned by a keyword sweep over those paragraphs; a *read* figure is the one in which a paragraph carries a physical action if some body in it does something to a thing, including an act the paragraph says was not done. BOTH FIGURES ARE PUBLISHED BECAUSE THEY ARE TWO INSTRUMENTS AND PUBLISHING ONE WITHOUT THE OTHER IS THE FAULT §20.4 IS ABOUT.**
+
+| Ch | Paragraphs of 3+ sentences | Swept | Read |
+|---|---|---|---|
+| 0561 | 3 | 3 | 3 |
+| 0562 | 2 | 2 | 2 |
+| 0563 | 5 | 5 | 5 |
+| 0564 | 3 | 3 | 3 |
+| 0565 | 1 | 1 | 1 |
+| 0566 | 1 | 1 | 1 |
+| 0567 | 4 | 4 | 4 |
+| 0568 | 3 | 3 | 3 |
+| 0569 | 4 | 4 | 4 |
+| 0570 | 3 | **2** | **3** |
+| **total** | **29** | **28** | **29** |
+
+**THE ONE PARAGRAPH THE SWEEP MISSED IS THE THIRD PARAGRAPH OF CHAPTER 0570, WHICH CARRIES NO KEYWORD AND CARRIES THE ACT: one of the six documents going out of this city in a satchel with a flap, and the room's not touching any two of them. THE RULE IS AT LEAST ONE PER FILE AND BOTH FIGURES ARE AT LEAST ONE IN EVERY ONE OF THE TEN FILES, WHICH IS THE PART OF IT THAT BINDS.**
+
+## 12. THE TEN CLOSING PARAGRAPHS, PRINTED SIDE BY SIDE, AND THE READING, WHICH WAS DONE BY A PERSON
+
+| Ch | The closing paragraph, in its own words |
+|---|---|
+| 0561 | The near end of that plank is on the sill of the second row and the far end of it is in the gap, and about two thirds of the way along the top of it there is a wet line on the wood where the water came over the edge of it, and that line is on the top face of that plank and not underneath it. |
+| 0562 | The wind came off the low side along that shut road at about the ninth hour and moved the top wire of that fence about the width of a thumb and let it go twice, and the corner at the far end of it stood open on the inside, and the withies on the last two posts of it had slack in them that a hand could have taken up in about as long as it takes a man to walk from the corner to the near end of that fence and back. |
+| 0563 | The near edge of that sheet on the table and the near edge of the page of that book, lying open with the head of that column showing, are about a hand's width apart on that wood, and the same width is ruled on both of them, and there is nothing at all in the gap between them and nobody in that room put anything there. |
+| 0564 | A fourth person came along that row at about the ninth hour and read that board from the far end of it with his own head the other way up, and about four people in that row saw him do that and about four did not, and there was no number on that board for anybody to write down. |
+| 0565 | Nobody counted anything on that row on that day. The water at that near gate went down on its own by the time the light came off the flags, and the stock of those three stalls went back onto the flags in the order it had come off, and the man in the middle of those three put his own crates down on the same flat stone he had lifted them off and stood looking at that gutter for a while without going down to it. |
+| 0566 | At about the ninth hour the wind came along that shut road and there were three sets of wheel-ruts in the wet of it with standing water in all three, and the deepest of the three was the middle one, and the corner of that fence stood open above all three of them with nothing at all round it. |
+| 0567 | From inside that room, through the one window, the store's board is on its two nails on the outside wall at the end of that market with three sets of figures on it and none of the three of them rubbed out and not one of the three of them carrying a line of words under it, and about four people at that end of that market walk to the end of that row every morning and read one of them and go on. Neither of the two numbers said out loud in that room was about any of the three. |
+| 0568 | Two floors down and one stair down from that table there is a figure of this city at the head of a column of a book in a room, and on the outside wall at the end of the market there is the same figure again at the foot of that column, and on the table in that room there is a figure of this city in a single place under a heading with nothing under it, and there is no instrument in four hundred miles that carries one of them out of the place it is in and puts it in the order the other two are in. |
+| 0569 | He put his own right hand flat on that new bar and pressed it down about as far as the wood would go, and took it off again, and the marks that the old bar had left were still in the wood underneath his own hand and nothing had been planed out of them and nothing was going to be. |
+| 0570 | On the outside of that door at the foot of the stair, under the date, there is a bare piece of door about as wide as a hand, and nothing has ever been written on it, and nothing was written on it that morning, and there is nowhere in this city that says which week the road goes up. |
+
+**AND THE READING, AND IT IS FOUR SHAPES ACROSS TEN CLOSINGS AND NO TWO OF THE TEN SHARE ONE.**
+
+**0561** closes on a mark water left on a surface and on which face of it the mark is. **0562** closes on a force acting on a fence and on slack a hand did not take up. **0563** closes on two near edges and a gap of a hand's width. **0564** closes on a person reading a thing upside down and on there being no number to write down. **0565** closes on a man putting crates back on a stone and not going down to the gutter. **0566** closes on three ruts and an open corner above them. **0567** closes on three figures on a board that people read and walk on from. **0568** closes on three figures in three places that no instrument can put in one order. **0569** closes on a hand pressed on a bar and marks not planed out. **0570** closes on a bare piece of door and on a week nobody has written down.
+
+**AND NONE OF THE TEN IS THE SHAPE §20.11 PUTS OFF LIMITS FOR A VOLUME 12 CLOSING, WHICH IS A BOOK ON A SHELF WITH FIVE FIGURES IN ONE COLUMN AND AN EMPTY COLUMN BESIDE THEM: the only book in a closing of the ten is in 0563, it is lying open on a bench and not on a shelf, the column it shows is the full one, and the closing names a gap in the air between two edges and not a second column. THREE OF THE TEN ARE THE NEAR APPROACHES THE PLAN NAMES IN ADVANCE, AND THEY ARE PUBLISHED AS NEAR APPROACHES AND NOT AS USES: 0567 and 0568 are figures on surfaces, and 0568 is two or more surfaces that are not in one order, and the plan warns against closing three of ten on one shape and two of ten is under that. THE ONE A REVIEWER SHOULD LOOK AT FIRST IS 0563, BECAUSE IT IS THE ONLY ONE THAT PUTS A SHEET AND A BOOK SIDE BY SIDE IN A CLOSING.**
+
+**AND ONE CLOSING THIS BATCH REPAIRED, AND THE REASON IS THE PLAN'S OWN ROW: 0565 CAME TO THIS RECORD CLOSING ON A TROUGH STANDING WHERE IT HAD BEEN SET DOWN, AND §20.11 NAMES A TROUGH AS ONE OF THE FOUR SHAPES IN USE AND SAYS THAT A VOLUME 12 BATCH THAT CLOSES A CHAPTER ON THAT TROUGH HAS CLOSED ON THE MOST-WRITTEN CLOSING POSITION IN THE VOLUME BEHIND THIS ONE. THE CLOSING WAS REWRITTEN TO STAND ON A MAN AND A STONE AND A GUTTER HE DID NOT GO DOWN TO, THE FACT THE CLOSING HAD TO STATE IS STILL STATED, AND NO OTHER CLOSING OF THE TEN IS A CONTAINER OR A TOOL LEFT IN A PLACE.**
+
+**AND THE SHAPE THE BATCH BEFORE THIS ONE SPENT, WHICH IS A CONTAINER LEFT EMPTY IN A ROOM WHERE A SHEET IS, IS NOT SPENT AGAIN IN ANY OF THE TEN.**
+
+## 13. WHAT THIS BATCH DID NOT DO, WHICH IS THE HALF OF A RECORD THAT MATTERS MOST
+
+**NO DAY MOVED. NO WEEKDAY MOVED. NO BARE-MONTH ORDINAL MOVED. NO ANCHOR MOVED. NO OBJECT COUNT IN THE SECOND COLUMN OF THE INVENTORY MOVED, AND THE FENCE IS SIXTEEN AND ELEVEN IN BOTH CHAPTERS THAT SPELL IT. NO CARD WAS ADDED, REMOVED, RETITLED OR REWEIGHTED. NO DECISION WAS TAKEN OUTSIDE THE PLAN'S OWN §9 SEQUENCE, AND THE DECISION DAY OF THIS VOLUME IS NOT ONE OF THESE TEN DAYS AND THIS BATCH TOOK NO DECISION. NO FILE UNDER `outline/` WAS WRITTEN OR EDITED, AND NO CARD FILE WAS WRITTEN UNDER `outline/` BY THIS BATCH BECAUSE NO CARD FILE EXISTS FOR IT AND §21.4 GIVES IT NO PERMISSION TO MAKE ONE. `bible/power-system.md` WAS NOT AMENDED AND WAS NOT OPENED FOR ANY PURPOSE BUT THE COMPARISON OF THE FOUR TABLES BEHIND THE DAY RUN. `outline/ending.md` WAS NOT OPENED. NO NEW FINAL ENEMY, NO NEW COSMIC LAYER, NO NEW ANTAGONIST AND NO NEW WORLD WAS INTRODUCED. NO CONTROLLER FILE WAS TOUCHED: NOT `scripts/`, NOT `.github/workflows/`, NOT `.opencode/agent/`, AND NOT `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` OR `state/phase-ledger.json`. NO WORKFLOW DISPATCH, PHASE SELECTION, TIMEOUT, RETRY OR CHECKPOINT LOGIC WAS ALTERED. NO MARKER FILE WAS CREATED OR REMOVED BY THIS BATCH.**
+
+**AND THE THING THIS BATCH'S OWN PROMPT DISCLOSED, AND THE DISCLOSURE IS REPEATED HERE BECAUSE A BATCH THAT REPEATS IT HAS PAID IT: THE WRITABLE SET FOR THIS BATCH IS ITS TEN CHAPTERS AND ITS OWN RECORD AND THE FOUR STATE FILES ITS PROMPT NAMES, AND `state/chapter-summaries.md` IS NOT AMONG THEM. THE BATCH BEFORE THIS ONE WROTE TWENTY-EIGHT LINES TO IT ANYWAY AND ITS OWN PROMPT DID NOT LIST IT, AND A RUN THAT LAYS AN OVERRUN INSIDE ITS OWN INSTRUCTIONS IS AN OVERRUN THAT HAS BEEN LAUNDERED. THIS BATCH DID NOT WRITE TO `state/chapter-summaries.md`, AND IT WROTE TO FIVE FILES AND NOT TO SIX.**
+
+**AND THE REPAIRS, WHICH WERE ALL ON THIS BATCH'S OWN TEN FILES AND WERE ALL PROSE FAULTS FOUND BY THIS BATCH'S OWN INSTRUMENTS, AND EACH IS PUBLISHED ABOVE WITH THE FILE IT STANDS IN AND THE LENGTH: SIX NARRATOR-FRAME PHRASES, IN CHAPTERS 0561, 0563, 0566, 0567, 0568 AND 0570, OF WHICH THE PLAN'S OWN §6.1 BARS *this chapter*, *this volume*, *in this batch* AND *the reader*, AND THE CHAPTER ALSO PRINTED A CLAIM ABOUT WHERE A CERTAIN FIGURE IS WRITTEN THAT NO FIGURE OF THIS CITY IS; ONE INTERNAL CONTRADICTION AND ONE §20.7 VIOLATION IN CHAPTER 0565, WHERE THE RAG WAS BOTH ON THE STONE LIP AND INSIDE THE TROUGH; ONE CHAPTER WITH NO MARKED VOICE AT ALL, ALSO 0565; ONE CHAPTER WITH NO PARAGRAPH OF THREE OR MORE SENTENCES, ALSO 0565; TWENTY-SEVEN FORTY-WORD-OR-LONGER RUNS ACROSS THE BATCH'S OWN FILES; ONE SEVENTEEN-WORD WITHIN-FILE RUN IN 0565; AND ONE CLOSING ON A TROUGH, ALSO 0565. CHAPTER 0565 CARRIED FIVE SEPARATE FAULTS AND EVERY ONE OF THEM WAS FOUND BY RUNNING AN INSTRUMENT AND NOT BY READING.**
+
+**AND THE ONE REPAIR THIS BATCH DID NOT MAKE AND PUBLISHED INSTEAD: THE NARRATOR-FRAME PHRASE IN `chapters/volume-12/chapter-0555.md`, WHICH IS THE ONLY ONE IN THE EIGHT FILES BATCH 0001 WROTE AND WHICH SAYS THAT A FIGURE IS NOT ON A PAGE OF THIS BOOK. THAT FILE IS NOT THIS BATCH'S, ITS OWN BATCH REPAIRED ITS OWN FIVE FILES AND PUBLISHED EVERY ONE OF THEM, AND THIS BATCH PUBLISHES THE FINDING AND DOES NOT TOUCH THE PAGE. THE WHOLE-MANUSCRIPT SWEEP FINDS THIS PHRASE IN SEVENTY-FIVE FILES, SIXTY-ONE IN VOLUME 01, SEVENTY-EIGHT IN VOLUME 02, EIGHT IN 03, THREE IN 04, ONE IN 05, TWO IN 06, SEVEN IN 07, TWO IN 08, FOUR IN 10, ONE IN 11 AND SEVEN IN 12, OF WHICH SIX ARE THIS BATCH'S AND ARE REPAIRED ABOVE AND ONE IS 0555 AND IS NOT. THE FIGURE IS PUBLISHED AND THE REMAINING SIXTY-EIGHT ARE A DEBT OWED BY A REVIEW REPAIR PASS AND BY NOBODY ELSE, AND THIS BATCH TOOK NONE OF IT.**
+
+## 14. THE ELEVEN INHERITED DEBTS AND THE SIX NAMED IN THE PLAN, CARRIED FORWARD WHOLE AND UNPAID, NONE TAKEN, NONE REPAIRED AND NONE ROUTED
+
+**THE ELEVEN ARE THE PLAN'S OWN §21.2 LIST AT ITS OWN LENGTH AND NONE OF THE ELEVEN IS RESTATED HERE, AND NONE IS TAKEN, REPAIRED OR ROUTED BY THIS BATCH: the nineteen stray closing quotation marks in Chapters 0281 to 0290; the figure on the slate in `chapters/volume-07/chapter-0341.md:149`; the long run shared by `chapters/volume-06/chapter-0254.md` and `chapter-0262.md`; the unmarked first-person paragraph at `chapters/volume-04/chapter-0175.md:47`; the unpaid attribution of *about two hundred rooms*; the three sentences that put the shut road at the top of this city; the two figures in a bible section that read as a conflict; the stray mark and the unbalanced marks on a state file; the record that certified an absence and was wrong; the one room count printed in Volume 09; and the count in a mouth of a word a plan gave as the one its answer must not contain.**
+
+**AND THE SIX, AND THE TWO THE OUTLINE PHASE DECLINED TO PAY ARE NAMED HERE IN THE SAME WORDS THE PLAN NAMED THEM IN, BECAUSE A BATCH THAT DISCLOSES A DEBT HAS NOT PAID IT: the four missing card files of Volume 11, which a batch may not write as plans and may not write as reconstructions; and `chapters/volume-10/chapter-0475.md`, which does not exist, which this batch may name and may not write, may not summarise and may not decide anything in and may not route. BOTH DECLINALS ARE CARRIED. NONE OF THE SIX IS PAID AND NONE IS REROUTED.**
+
+**AND THE FIGURE FOR THE STATE LAYER THAT THE PLAN HOLDS AND THIS BATCH'S OWN PROMPT DID NOT CARRY: this batch did not compute it, did not print it, does not name its subject, and no number standing for it stands in this record in any form. It is not in any chapter of this volume and it was not needed to write a chapter.**
+
+## 15. THE HELD THINGS, AND THE ONE THING THIS RECORD DOES NOT DO WITH THEM
+
+**NOTHING IN THIS BATCH'S RECORD, IN ZERO WORDS, IS ANY OF THE TWELVE HELD THINGS NAMED IN THE PROMPT THIS BATCH WAS RUN UNDER, AND NO FILE THIS BATCH WROTE PRINTS, PARAPHRASES, IMPROVES ON, DESCRIBES OR CERTIFIES THE ABSENCE OF ANY OF THEM. THE MEASUREMENT OF THE HOLD IS AT `state/volume-11-close.md` §7.11 AND TWO OF ITS ROWS STAND THERE AS DISAGREEMENTS RATHER THAN RESOLVED, AND THIS PHASE DID NOT RE-RUN IT, BECAUSE RE-RUNNING IT REQUIRES PRINTING THE SPANS AND A PHASE THAT COULD NOT MEASURE THE HOLD AND SAID SO IS BETTER THAN A PHASE THAT MEASURED IT AND LEAKED IT. THIS VOLUME'S OWN NAME IS SPOKEN ON A DAY THAT IS NOT ONE OF THESE TEN AND NO WORD OF IT, NO DESCRIPTION OF IT AND NO CLAIM ABOUT WHERE IT STANDS APPEARS IN THIS RECORD, IN ANY CHAPTER THIS BATCH WROTE, OR IN THE PROMPT THIS BATCH CREATED. THE WORDS OF THIS VOLUME'S ONE RULE ARE IN THE PLAN AND ON A PAGE THAT IS NOT ONE OF THESE TEN, AND THIS RECORD DOES NOT REPRINT THEM AND DOES NOT SAY WHETHER THEY ARE ANYWHERE.**
+
+---
+
+## 16. ONE FINDING THIS BATCH'S OWN HOLD CHECK TURNED UP ABOVE ITS OWN BLOCK, PUBLISHED AND NOT REPAIRED
+
+**RUNNING THE HOLD CHECK OVER THE FIVE FILES THIS BATCH WROTE AND OVER THE PROMPT IT CREATED RETURNED ZERO MATCHES ON THE SPANS IT IS NOT PERMITTED TO PRINT. THE SAME CHECK OVER THE WHOLE REPOSITORY RETURNED ONE PARAPHRASE OF THIS VOLUME'S ONE RULE AT `state/open-threads.md:1727`, WHICH IS ABOVE THIS BATCH'S OWN BLOCK AND WHICH THIS BATCH DID NOT WRITE AND DID NOT MOVE. IT IS A LINE IN A STATE FILE, PUT THERE BY AN EARLIER PHASE, AND IT PARAPHRASES THE SUBSTANCE OF THE PANEL RATHER THAN REPEATING ITS WORDS. THIS BATCH PUBLISHES IT, REPAIRS IT NOT, AND ROUTES IT NOT. A PHASE THAT QUIETLY REWRITES A LINE ABOVE ITS OWN BLOCK IN A FILE ANOTHER PHASE WROTE IS THE FAILURE THIS REPOSITORY HAS PAID FOR FIVE TIMES, AND THE LINE IS NOT A BATCH'S TO TAKE, AND IT IS ALSO NOT A PAGE AND IS NOT ONE OF THE FIFTY.**
+
+
+---
+
+**AND THE ONE DAY A WRITER OF DAYS 571 TO 580 CANNOT MISS, WHICH THIS BATCH CARRIES FOR IT AND DOES NOT SPEND: day 575 IS THE NEARER OF THIS VOLUME'S TWO MIDDLE DAYS AND IT IS THE DAY THE DECISION IS TAKEN, AND NEITHER MIDDLE DAY MAY BE CALLED THE MIDPOINT, AND THE DECISION IS THE MAN OF ABOUT THIRTY-EIGHT'S, IT IS MADE OUT LOUD, THE COST IS NAMED OUT LOUD FIRST BY THE PERSON WHO DECIDES, THERE IS NO VOTE, THE FOUR DAYS THAT WOULD HAVE BEEN THE COOLING ARE NOT AVAILABLE, NOBODY FILLS A PLACE, NOBODY WRITES A WORD UNDER ANYTHING, THE FIGURE HE SENDS IS PRINTED NOWHERE, AND THE REGISTER-KEEPER'S SECOND SLATE IS ON THE SHELF BEHIND HER WITH A DAY ON IT AND NOTHING UNDER IT AND NOBODY IN THE ROOM GOES NEAR IT. A DAY THAT IS ALSO THE NAME OF A DAY OF A DAY IS A DAY ON WHICH NO CHAPTER MAY PRINT BOTH HALVES OF THAT PAIR AND NO CHAPTER MAY GIVE EITHER HALF A MEANING, AND THAT IS THE DAY, AND IT IS NOT ONE OF THESE TEN DAYS, AND THE WORDS SAID ON A DAY THAT IS ALSO NOT ONE OF THESE TEN DAYS ARE NOT DESCRIBED, NOT PARAPHRASED AND NOT CERTIFIED AS ABSENT FROM ANY FILE ANYWHERE.**
+
+**AND WHAT THIS BATCH CREATED, AND IT IS ONE FILE: `workspace/volume-12/batch-0003/PROMPT.md`, A BATCH WRITING CHAPTERS 0571 TO 0580, DAYS 571 TO 580, ONE CHAPTER TO ONE DAY, DECIDING NOTHING AND INVENTING NO PERSON, CARRYING THE SAME CARD-FILE RULE, WHICH IS THAT BATCH 0003 HAS NO CARD FILE UNDER `outline/` AND WRITES ITS TEN CARDS AT THE HEAD OF ITS OWN STATE RECORD BEFORE CHAPTER 0571 EXISTS, AND A CARD BLOCK WRITTEN AFTER THE CHAPTERS ARE ON DISK IS A RECONSTRUCTION AND NOT A PLAN.**

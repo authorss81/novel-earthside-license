@@ -24,7 +24,7 @@ Nobody on that ground said that he was right. Nobody on that ground improved on 
 
 Three barrows went down the four hundred miles of that road in this flood with a man on the wheel of each, and the day they went was the three hundred and ninety-first day of this flood, and nobody in this city can be shown one person standing on that road and nobody on that ground that morning said anything about the three. The shut road is not that road. The shut road runs out past the last named house and stops being a road about where that fence stops, and it has been shut since the water came, and about four people were on that ground in the ordinary course and about four were not, and the fence is between that ground and the far end of that shut road and it is the fence and not anything else.
 
-Whether that fence stands between the right two things is a question this chapter does not answer and does not ask anybody to answer and did not take a measure of in order to ask it.
+Whether that fence stands between the right two things is a question nobody on that ground asked that morning and nobody answered, and nobody took a measure of that fence in order to ask it.
 
 ---
 
