@@ -24,23 +24,25 @@ A woman at the stall next along said the thing that is said, to him, and she wan
 
 "**I am not moving in off the front of anybody's stall, and a person who wants the figures on a wall read has come to the wrong end of this row.**"
 
-Nobody in that row improved on that and nobody thanked her for saying it and nobody said that she was right. The man of about thirty-nine took his board up off the front of that stall and stood with it against his own hip, and nobody in that row looked at the space at the foot of the column between the other two on it.
+Nobody in that row said that she was right and nobody in that row took the front of her stall for her, and about four people in that row had a view about the board on that wall and about four had not. The man of about thirty-nine took his board up off the front of that stall and stood with it against his own hip, and nobody in that row looked at the space at the foot of the column between the other two on it.
 
 A man at the near end of that row said the thing that is said, to that board on the wall, and it was short.
 
 "Three on it. Which one."
 
-"**Nobody in this row is going to say which of the three is the one to read, and there is nothing under any of them to help anybody work it out.**"
+The man of about thirty-nine answered him without taking his hand off the string at the top of his own board, and it took him about as long as it took the other man to ask.
+
+"Nobody in this row is going to say which of the three is the one to read, and there is nothing under any of them to help anybody work it out."
 
 Nobody in that row improved on that and nobody thanked him for it. The man of about thirty-nine took his right hand off the string at the top of his own board and put it flat on the face of it and did not say a second thing about those three figures that day, and nobody in that row asked him what was in the space at the foot of the column between the other two on his own board, and nobody in this city is going to.
 
 ---
 
-Seven sheets have gone out of this city in this flood, every one of them written by somebody who sat down in this city to write it, and there has not been an eighth and there is not going to be one. The man of about thirty-nine said the thing that is said again, to the end of that row, and it was short.
+Seven notices have gone out of this city in this flood, every one of them written by somebody who sat down in this city to write it, and there has not been an eighth and there is not going to be one. The man of about thirty-nine said the thing that is said again, to the end of that row, and it was short.
 
 "**Seven went out and none has gone out since, and the sheet that went up that road on the round is not one of the seven.**"
 
-Nobody in that row improved on that and nobody thanked him for it and nobody in that row told him he was right. The man of about twenty-seven picked his bucket up and carried it the length of that row to the channel and came back with it full, and nobody in that row said one word to him about a book on a shelf or a sheet on a table or a column with nothing in it.
+Nobody in that row told him he was right and nobody in that row argued with him about it, and about four people in that row had worked out before he finished the sentence what he was going to say. The man of about twenty-seven picked his bucket up and carried it the length of that row to the channel and came back with it full, and nobody in that row said one word to him about a book on a shelf or a sheet on a table or a column with nothing in it.
 
 The date on the outside of the door at the foot of the stair at the back of the room over that market was in chalk that morning, and the two hundred and ninety-first day of the Bare Month was written in full on it, and there is no name under it, and nobody in that row went up that stair that day.
 

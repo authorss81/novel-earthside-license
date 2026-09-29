@@ -20,13 +20,17 @@ A woman at the far end of that bench said the thing that is said, to the table, 
 
 "It is going to wear if it keeps going round on that wood."
 
+The man of about thirty-four had not moved from the near end of that table and he said the thing that is said, to her, and it was short.
+
 "**A sheet wears at the fold and not on the face, and this one has two folds in it and the near one has the bone lying in it, and nobody in this room is going to say what to put in that one place.**"
 
 Nobody in that room said that she was right and nobody improved on what he said and nobody thanked him for it. About four people in that room wanted somebody in that room to say out loud what that one place was for, and about four wanted nobody to say it, and the two groups went on being in that room all morning without either of them saying so.
 
-A man at the near end of the bench said the thing that is said, to the room, and it was short.
+A man further along that bench said the thing that is said, to the room, and it was short.
 
 "That came up the road for this room."
+
+The man of about thirty-four turned his head about on the same seat and said the thing that is said, to that man, and it took him no longer than it had taken the woman.
 
 "**Nothing in this room has been told what it came up that road for, and a man that says it came for this room has not been told anything, and he is not the first one to say it and he will not be the last.**"
 
@@ -34,7 +38,7 @@ Nobody in that room argued with him about that and nobody improved on it and nob
 
 ---
 
-The register was on its shelf behind that bench the whole of that morning and it did not come off that shelf. The column of that page which holds figures stands full from the head of that page to the foot of it with five figures in it, one under another, in the order they were made in, with the day written in beside each of them, and not one of the five has been struck. The column on the right of that page is empty from the head of that page to its foot, and it was empty at the eighth hour and it was empty at the eleventh hour and nobody in that room put a word in it at any hour of that day. The second slate stands on that shelf up on its edge with its written face to the plaster, a day cut across the head of it and nothing whatever under that day, and it did not move at any hour of that morning and no hand but the keeper's came near it.
+The register was on its shelf behind that bench the whole of that morning and it did not come off that shelf. That page is ruled into three columns, the one at the left-hand edge of it, the one in the middle, and the one on the right, and the middle of those three stands full from the head of that page to the foot of it with five figures in it, one under another, in the order they were made in, with the day written in beside each of them, and not one of the five has been struck. The column on the right of that page is empty from the head of that page to its foot, and it was empty at the eighth hour and it was empty at the eleventh hour and nobody in that room put a word in it at any hour of that day. The second slate stands on that shelf up on its edge with its written face to the plaster, a day cut across the head of it and nothing whatever under that day, and it did not move at any hour of that morning and no hand but the keeper's came near it.
 
 Seven documents have come up that road into this city or gone out of it in this flood. Three of them have four places on them in the order they are printed. Four of them have one place, and the fourth of those four is the one that was lying on that table, and three of those four are in this city or are not in this city, and nothing in that room put any two of them next to each other and nothing in that room said one word about how any two of them are related.
 

@@ -16,19 +16,19 @@ The man of about thirty-four who keeps a stall stood at the near end of that tab
 
 "A word. And nobody here has got one."
 
-"**Nobody in this room has been told what that place is a place of, and a person who has not been told should not decide what goes in it.**"
+"Nobody in this room has been told what that place is a place of, and a person who has not been told should not decide what goes in it."
 
 Nobody in that room said that he was right and nobody thanked him for saying it and nobody came at him afterwards with a second question about it. A woman at the far end of that bench said the thing that is said, to the table, and she wanted to know what happened to a sheet that went back with the place still empty.
 
 "That goes back empty or it does not go back."
 
-"**How it goes back with the word in it is not settled in this room, and the four days that would have been the settling are not available in this city.**"
+"How it goes back with the word in it is not settled in this room, and the four days that would have been the settling are not available in this city."
 
 Nobody in that room improved on that. Nobody in that room said that she was right, and nobody asked her what the four days were and nobody in this city has ever been told what they are.
 
 The man of about thirty-nine who trades on a board was at the one window with his board under his arm and the face of it turned out into the room, and he has nineteen rates on it and one name that is not on it, and a space about as wide as two of his fingers at the foot of the column between the other two. He said the thing that is said, to the sheet, and it took him about four seconds.
 
-"**There is no day on it, not on the face of it and not on the back of it, and no day by which it has to be up that road.**"
+"There is no day on it, not on the face of it and not on the back of it, and no day by which it has to be up that road."
 
 Nobody in that room thanked him for that and nobody argued with him about it and nobody said that he was right. Nobody in that room improved on it. About four people in that room had not looked at the day on that sheet before he said it and about four had, and he went on holding his board under his arm with the face of it out into the room and did not say one word about the space at the foot of the column between the other two and nobody asked him about it.
 

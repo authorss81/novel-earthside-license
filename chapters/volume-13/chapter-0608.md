@@ -14,7 +14,7 @@ The man at the far end of that trough said the thing that is said, across the wi
 
 "**Here is where the silt is deepest and in an hour nobody on this ground is going to get a shoulder under it, and nobody is coming back out for it either.**"
 
-Nobody on that ground improved on what he said and nobody thanked him for it and nobody argued the other one out of the spot he had chosen. They put that trough down in the lee of the bank and stepped back from it and the water in it came up over both sides at once and settled.
+Nobody on that ground improved on what he said and nobody thanked him for it and nobody on that ground argued with the other one about the spot he had chosen. They put that trough down in the lee of the bank and stepped back from it and the water in it came up over both sides at once and settled.
 
 The man carrying the near end of it said the thing that is said, to the other one, and it was short.
 
@@ -22,7 +22,7 @@ The man carrying the near end of it said the thing that is said, to the other on
 
 "**We go out along the bottom because that is where a trough has to be emptied, and the top row is the long way at every hour, and nobody on this ground is going the long way for the sake of dry feet.**"
 
-Nobody on that ground improved on that and nobody thanked him for saying it and nobody argued him out of it and nobody argued the other one out of the top row either. The two of them carried that trough to the end of the bottom row and emptied it there and the other one said nothing about it, and about four people along that row heard the whole of that and about four did not, and the man with the board under his arm was not in that part of the ground and heard none of it.
+Nobody on that ground improved on that and nobody thanked him for saying it and nobody on that ground argued with him about the way back either. The two of them carried that trough to the end of the bottom row and emptied it there and the other one said nothing about it, and about four people along that row heard the whole of that and about four did not, and the man with the board under his arm was not in that part of the ground and heard none of it.
 
 ---
 
