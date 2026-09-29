@@ -1,6 +1,6 @@
 # Chapter 0531 — A Sheet Named And One Of The Same Shape Not Named
 
-The woman of about twenty-nine who keeps a public register put the flat of her right hand on the sheet lying on the table under the one window and turned it over so that the ruled place on it came up to the light, and the two hundred and sixteenth day of the Bare Month was in chalk on the door at the foot of the stair at the back of that room and there was no name on that door. About nine people were in that room by about the ninth hour and none of them had been sent for anything. The register stood on its shelf behind the bench with its spine to the wall and the cover shut, and behind the register a second slate stood on its edge with its face in to the wall and a day across the head of it and nothing whatever under that day. Neither of them was picked up. Neither of them was turned over. Nothing was written on either of them, and no hand in that room but the keeper's went near that shelf, and hers did not go near it that morning either.
+The woman of about twenty-nine who keeps a public register put the flat of her right hand on the sheet lying on the table under the one window and turned it over so that the ruled place on it came up to the light. The date on that morning was chalked on the door at the foot of the stair at the back of that room, the two hundred and sixteenth day of the Bare Month, and no name has ever been written under it. There were about nine people in that room by the ninth hour and every one of them was there of their own going. The register had not come off its shelf behind the bench, where it stood with its spine to the wall and its cover shut, and standing on its edge behind the register was a second slate with its face in to the wall, a day scratched across the head of it and nothing whatever under that day. Nobody picked it up. Nobody turned it over. Nothing was written on it. No hand in that room but the keeper's went near that shelf, and hers did not go near it that morning either.
 
 ---
 
@@ -20,7 +20,7 @@ A woman near the step said the thing that is said, to the table.
 
 "**It is for one figure of this city, in the one place under that heading, and it goes back down that road filled, and I am telling this room what it is for before anybody in it asks me, and the name of the thing it is a figure of is not on that sheet and it is not coming out of my head.**"
 
-Nobody improved on that and nobody thanked her for saying it. She put the flat of her hand down on the wood beside the ruled place and left it there, and the hand did not go into the place.
+Nobody in that room improved on that and nobody in that room thanked her for saying it. She put the flat of her hand down on the wood beside the ruled place and left it there, and the hand did not go into the place.
 
 A man at the far end of that bench said the thing that is said, to the bench behind him rather than to the table.
 
@@ -32,7 +32,7 @@ Nobody improved on that either and nobody asked her why the two of them are not 
 
 ---
 
-At about the tenth hour the two hands that may carry that sheet carried it down the stair at the back of that room and out along the flags of the row and back up that stair again. It went down with the one place under its heading showing nothing whatever in it, and it came back up with the one place under its heading showing nothing whatever in it, and the fold in it was pressed out with a bone on the way up and there is no bone in this room that has been used on any other sheet.
+At about the tenth hour the two hands that may carry that sheet carried it down the stair at the back of that room and out along the flags of the row and back up that stair again. It went down with the one place under its heading showing nothing whatever in it, and it came back up with the one place under its heading showing nothing whatever in it, and the fold in it was pressed out with a bone on the way up and there is no bone in this room that has been used on any other sheet. The flags on that stair are worn pale in the middle of each tread and darker at the nosing, and by the time those two hands came back up the second time the sun had moved off the row and onto the stones at the far end of it.
 
 The man of about thirty-four who keeps a stall was at the window with his own board face in against his own trestle two stalls along in the row and the bare back of it out in that row, and he did not come away from that window. The man of about thirty-nine who trades on a board was at the near end of that bench with his own board under his arm and the face of it turned out into the room, and nobody in that room asked him anything, and the nineteen rates were still on the face of it and the space about two fingers wide where a name had been in his own hand about nine years ago was not filled.
 

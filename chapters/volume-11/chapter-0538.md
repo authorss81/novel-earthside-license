@@ -1,6 +1,6 @@
 # Chapter 0538 — One Figure In One Place And Nothing Else In It
 
-About the ninth hour on the two hundred and twenty-third day of the Bare Month, a Sunday, the woman of about twenty-nine who keeps a public register had the register off its shelf behind the bench and open on the table under the one window at the page it is always opened at, standing on its spine with the two covers holding it, and the second one-place form was lying on that same table at the far end of it with its heading to the wall and its one place ruled under that heading showing nothing whatever in it. That day was in chalk on the door at the foot of the stair at the back of that room and there was no name on that door. About nine people were in that room by that hour and none of them had been sent for anything, and no other hand in that room went near either of those two things.
+About the ninth hour on the two hundred and twenty-third day of the Bare Month, a Sunday, the woman of about twenty-nine who keeps a public register had the register off its shelf behind the bench and open on the table under the one window at the page it is always opened at, standing on its spine with the two covers holding it, and the second one-place form was lying on that same table at the far end of it with its heading to the wall and its one place ruled under that heading showing nothing whatever in it. There is no name on that door at the foot of the stair and there never has been one. Nine people, more or less, stood about that room by that hour, every one of them by their own choice, and besides the keeper's no hand in it went near either of the two things on that table.
 
 ---
 
@@ -12,7 +12,7 @@ A man at the far end of that bench said the thing that is said, to the table.
 
 "**I am going to put the one off the most recent of the four mornings into the one place under that heading, and it is going to be a figure of this city and nothing else, and there is no second place under that heading for anything else to go in, and I have been the one who says what that sheet is for every time anybody in this room has asked, and I am saying it again this morning because nobody has asked.**"
 
-Nobody improved on that and nobody thanked her for it. About four people in that room had worked out before she opened the book that she was going to do that and about four had not.
+Nobody in that room improved on that and nobody in that room thanked her for it, and the ink was still in the bottle with the pen lying across the top of it. About four people in that room had worked out before she opened the book that she was going to do that and about four had not.
 
 ---
 
@@ -36,6 +36,6 @@ A man at the near end of that bench said the thing that is said, to the book on 
 
 Nobody in that room said that she was right. Nobody improved on her and nobody thanked her, and the man of about thirty-nine who trades on a board was at the near end of that bench with his own board under his arm and the nineteen rates on the face of it, and he looked at that sheet and did not say one word about it, and nobody in that room asked him anything about it. The man of about thirty-four who keeps a stall was at the window with his own piece of chalk in his own inside breast pocket and did not come away from that window, and the store's chalk was in its box on the step below with a thumb's length of it showing and neither of those two chalks was used that morning.
 
-About the eleventh hour the woman of about twenty-nine who keeps a public register closed that register and carried it back to its shelf behind the bench and put it down with its spine to the wall and the cover shut, and she was the only pair of hands in that room that touched it and she went near that shelf exactly once. The sheet was left face up on that table at the far end of it with the writing side up.
+At about the eleventh hour she shut the book, took it up off that table in her own two hands, and set it back on its own shelf behind the bench, spine to the wall, cover shut. Nobody else in that room had touched it since she opened it, and she went to that shelf once in the whole morning. The sheet stayed where it was, face up at the far end of that table with the writing side up.
 
 The sheet is face up on the table under that window with one figure in the one place under its heading and nothing whatever else on it, and the other three of the four are in a book on a shelf behind that bench with a column full above them and an empty column beside them, and nobody in this city can be shown who made the figure that is in that one place.

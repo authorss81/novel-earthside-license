@@ -1,6 +1,6 @@
 # Chapter 0532 — Four Figures And A Word Nobody Had Needed Before
 
-The woman of about twenty-nine who keeps a public register took the working slate out from under the table at about the ninth hour on the two hundred and seventeenth day of the Bare Month, a Monday, and carried it the length of that table and set it down on the wood with the one face of it that takes a figure turned up, and the two hundred and seventeenth day of the Bare Month was in chalk on the door at the foot of the stair at the back of that room and there was no name on that door and no second person in this city has ever put one there. About nine people were in that room by that hour and none of them had been sent for anything. The register stood on its shelf behind the bench with its spine to the wall and the cover shut, and behind the register a second slate stood on its edge with its face in to the wall and a day across the head of it and nothing whatever under that day. Neither of them was picked up. Neither of them was turned over. Nothing was written on either of them, and no hand in that room but the keeper's went near that shelf, and hers did not go near it that morning either.
+The woman of about twenty-nine who keeps a public register took the working slate out from under the table at about the ninth hour on the two hundred and seventeenth day of the Bare Month, a Monday, and carried it the length of that table and set it down on the wood with the one face of it that takes a figure turned up. That day was chalked on the door at the foot of the stair at the back of that room, and no name has ever been written under a date on that door, and there is no second person in this city who could put one there. Nine people were in that room by that hour and every one of them had come up that stair on their own two feet. The register was where the register is, on its own shelf behind the bench, shut, spine to the wall. On the same shelf, standing on its edge behind it, a second slate kept its face in to the wall, a day scratched across the head of it and nothing whatever under that day. It was not picked up, it was not turned over, and nothing was written on it. No hand in that room but the keeper's went to that shelf, and hers did not go that morning.
 
 ---
 
@@ -14,7 +14,7 @@ A man at the near end of that bench said the thing that is said, to the slate.
 
 "Those four do not agree and not one of them has been struck out."
 
-"**They came off the same eleven miles in the same week in the same weather by the same person, and the first of them and the last of them are about a fifth apart, and it is not the weather, and it is not a knock, and there is no error in any one of the four of them, and I have not found one and I have looked.**"
+"**They came off the same eleven miles inside ten days in the same weather by the same person, and the first of them and the last of them are about a fifth apart, and it is not the weather, and it is not a knock, and there is no error in any one of the four of them, and I have not found one and I have looked.**"
 
 Nobody improved on that and nobody thanked him for saying it, and he has said in that market that he would rather nobody did.
 

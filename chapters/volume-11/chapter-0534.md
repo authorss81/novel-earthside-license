@@ -16,7 +16,7 @@ A man at the far end of that bench said the thing that is said, to the man who c
 
 "**Nobody has, and nobody is going to, and that is not what I came up here about this morning, so I would rather somebody asked me the thing they actually wanted than that we went round it for a quarter of an hour first.**"
 
-Nobody improved on that and nobody thanked him for it. The man of about thirty-four who keeps a stall stood where he was with his hands in his pockets and looked at the middle column of that board and did not say one word for about as long as it takes a man to count nine, and nobody in that room said anything at all while he did it, and nobody in that room had any idea what was going to be asked.
+Nobody improved on that and nobody thanked him for it, and he has not asked to be thanked in this city in nine years. The man of about thirty-four who keeps a stall stood where he was with his hands in his pockets and looked at the middle column of that board and did not say one word for about as long as it takes a man to count nine, and nobody in that room said anything at all while he did it, and nobody in that room had any idea what was going to be asked.
 
 He took his hands out of his pockets and put one of them flat on the edge of the bench near that board and he said it once, to the man and not to the room, and it was the first question either of those two men had ever asked the other, and he said in the same breath that he would rather nobody thanked him for it.
 
