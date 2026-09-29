@@ -1,0 +1,33 @@
+# Chapter 0592 — A Line Of Grit Across The Figure On The Top Of That Stack
+
+Adrian Vale had the flat of his own left hand on the near edge of the tally-board on the top of that stack and his own right thumb laid along the chalk line where a figure of this city stood, at about the seventh hour on the two hundred and seventy-seventh day of the Bare Month, a Friday, and a man at the far end of that stack had both his own hands on a length of cord that was coming off a cleat and was being drawn taut along the length of those boards, and those boards had been cut to one length and the ends of them were all in a line and there was about a hand's width of grit in the joints of them. The man who owns that stack is the man of about thirty-eight at that salt wharf and he was at the foot of it with a knife in his own right hand and the handle of it turned away from him, and the sun was on the top of that stack and had been on it since it was put out of the shade.
+
+About four people walked past the open end of that yard between the seventh hour and the eleventh hour in the ordinary course and not one of them came into it, and every one of them could have read the number on the top face of that board without stopping, and the man of about thirty-eight at that salt wharf has had a figure of this city on that side of that board since before the seventh week of this flood and nobody in this city has ever been shown the working of it and nobody in this city is going to be.
+
+---
+
+That cord came across the top of that stack at about the height of a man's knee and went over the near edge of it and across the face of that tally-board, and Adrian Vale kept his own hand on that board's edge and his own thumb on that chalk line and did not know the cord was over it until a man at the far end of that stack said the word for stop. The grit that works out of the joints of those boards when they are wet and then dry has been coming off them onto whatever is laid across them since the day they were cut, and that cord was down on the top face of that tally-board for the time it took to mark off one length against it. The man at the far end of that stack pulled it up off that face and shook it once and coiled it and threw the coil over the post of the trestle, and the man of about thirty-eight at that salt wharf turned his own knife over in his own hand and put the flat of that hand flat on the top board of that stack and then took it off again, and there is a line of grey grit across the figure on that board that was not on it at the seventh hour.
+
+Nobody in that yard said a word about it at the time.
+
+---
+
+The man of about thirty-eight at that salt wharf said the thing that is said, to the open end of his own yard, and it was short.
+
+"**Nobody has ever stopped at that figure and a line of grit across it is not going to make anybody stop at it, and I have never once asked anybody to.**"
+
+Nobody in that yard improved on that and nobody in that yard thanked him for it and nobody in that yard said that he was right, and the man of about thirty-eight at that salt wharf went back to the foot of that stack and looked at the face of that board for a while and did not put his own hand on it and did not turn it over.
+
+---
+
+A man with a satchel with a flap across his own body came to the open end of that yard about the ninth hour and stopped there and looked in at the top of that stack and the man of about thirty-eight at that salt wharf looked back at him and neither of them said anything to the other about anything, and then the man with the satchel said the thing that is said, to the yard, and it was short.
+
+"**A thing in a satchel with a flap is shut and there is no more to it than that, and the man carrying it knows what is in it and nobody else does, and that has been the arrangement for every day of this flood.**"
+
+Nobody in that yard thanked him for saying it and nobody in that yard improved on it and nobody in that yard asked him what was in it, and the man of about thirty-one who carries things for a living went on up the row with the strap of that satchel across his own chest and did not open it.
+
+---
+
+The man of about thirty-eight at that salt wharf is a man of about thirty-eight and the man of about thirty-eight who came up a lane with a barrow of boards is a different man, and nothing in this city has ever put the two of them in a yard, and the barrow standing in that yard has nothing in it and nothing ever goes on a barrow in this city. The four mornings on which a figure of this city's own was counted on foot out along eleven miles of flats, on the five hundred and eleventh, fifteenth, seventeenth and twenty-first day of this flood, are four mornings and there is not a fifth one in this city and there is not going to be one, and nobody in that yard knew how many of those four there were and nobody in that yard asked.
+
+That line of grit across the figure on that board is going to be on it until the rain takes it off, which it will not, because there has not been rain on that yard in this flood, and about four people will walk past the open end of that yard tomorrow and about four will walk past the day after, and the figure on that board is a shade harder to read than it was at the seventh hour and not one of the four will know that it ever was not, and the man who owns that board has not wiped it and is not going to and has not said one word to anybody about the line across it.

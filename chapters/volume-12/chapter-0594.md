@@ -1,0 +1,33 @@
+# Chapter 0594 — A Book Carried To A Table And Six Documents Named And None Of Them Joined
+
+The woman of about twenty-nine who keeps a public register took the register off its shelf behind that bench at about the ninth hour on the two hundred and seventy-ninth day of the Bare Month, a Sunday, with both of her own hands under it, and set it down on the table under the one window, and opened it at the head of the column that holds figures, and put the flat of her own left hand flat on the open page to keep it open. The date on that morning was chalked on the door at the foot of the stair at the back of that room and there is no name under it. About nine people were in that room at that hour, and not one of them had been sent for anything, and every one of them was in that room before the book was opened, and the man of about thirty-eight at the salt wharf was at the near end of that bench with his own two hands on his own knees and was not asked anything by anybody in that room at any hour of that morning.
+
+Nobody asked that man where the figure on his own tally-board came from. He did not say it. Nothing in that room made it come up on that morning, and nobody has ever found out why.
+
+---
+
+The man of about thirty-four who keeps a stall said the thing that is said, to that open book, and he said it in about nine words.
+
+"**That book keeps the order those five were made in and not what any one of them counts, and about four of us here could say and about four could not.**"
+
+No mouth in that room told him he was right, and nobody in that room improved on what he said, nobody thanked him for it, and nobody came at him afterwards with a second question about it, and his own piece of chalk was in his own inside breast pocket and it was not in his own hand at any hour of that morning.
+
+The woman of about twenty-nine who keeps a public register said the thing that is said, to that book, and it was short.
+
+"**I keep it because they were made and not because I know what any of them is, and nobody in this city has ever been told which of those two is the better reason for keeping a book.**"
+
+Nobody in that room improved on that and nobody in that room thanked her for it and nobody in that room said that she was right, and the man of about thirty-nine who trades on a board was at the one window with his own board under his own arm and said nothing whatever about the book.
+
+---
+
+Six documents have come up that road into this room in this flood or gone out of it. The first is a return with a district, a population, a rota and a share on it, and it went out on the three hundred and ninety-third day of this flood. The second is a schedule with a date, a gate, a place for whoever keeps that gate, and the days on it, and it stands where it stands and it is not opened and it is not filled in and it is not withdrawn. The third is a sheet with a place, a line, a day and a person on it, and it went out of this city on the four hundred and thirty-eighth day of this flood. The fourth is a sheet of one shape, a heading and a single ruled place, with a figure in that one place, and it was read out on the four hundred and fifty-fifth day of this flood and it was never returned and it has never been withdrawn and it is in this city. The fifth is a sheet of the same shape as the fourth, a heading, a single ruled place under it, and a figure in that place, and it was filled on the five hundred and thirty-eighth day of this flood and it went out of this city on the five hundred and forty-fifth day in a satchel with a flap, and it is not in that room and it is not in this city and nothing in this flood has an instrument for bringing a figure back. The sixth is on that table in front of them, shut, with a heading across the top of it and one ruled place under that heading, a figure of this city's own standing in that one place and a line of words set under that figure, and the figure is written out on no page in four hundred miles and the words under it are on no page either.
+
+None of the six was laid beside another, none of the six was in the same hand as another, and nobody in that room said out loud one word about how the six of them are related to each other. The fifth of them and the sixth of them are of one shape each and were standing on the same table at the same hour with a hand's width and more of bare wood between them, and nobody in that room compared them, and the first of them is on a shelf in this city and did not come off it.
+
+---
+
+Seven sheets have gone out of this city in this flood, every one of them written by somebody who sat down in this city to write it, and not one has gone out since, and there is no eighth on its way. The woman of about twenty-nine who keeps a public register turned the page at the head of that column with the flat of her own thumb and read down the five figures in the order they were made in and read the day written beside each of them, and about four people at that table had the days in their own heads and about four did not, and nobody in that room said one word about what any of those five is a figure of. She shut that book at about the half hour after the tenth and put it back on its shelf with its spine to the wall, and the column on the right of that page runs the whole height of that page with nothing whatever in it from the top of the page to the bottom, and the second slate on the same shelf stands edge up with its face to the plaster and a day cut into the head of it and nothing whatever under that day, and it did not move at any hour of that morning and the only hand in that room that came near that shelf all morning was the keeper's and she put her own hand flat on the back of the book and not on that.
+
+---
+
+The man of about thirty-eight at that salt wharf went down the stair at the back of that room about the half hour after the tenth with his own two hands empty and hung about his own sides, and about four people at that end of the market below saw him go past the end of that row and not one of them said a word to him about the figure on his own board, and he read none of the five days that were read out in that room that morning, and he did not turn a page of that book and he did not ask for one, and an open book on a table in front of a man in this city has never once made anybody ask him one thing, and nobody in that room is going to be the one who asks him.
