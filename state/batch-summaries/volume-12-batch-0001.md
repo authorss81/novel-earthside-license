@@ -2,6 +2,8 @@
 
 **A record and not a plan. A card is a plan and this file is a record. The page is the fact.**
 
+**AND THIS FILE HAS BEEN REPAIRED TWICE, AND BOTH EDITIONS ARE IN IT. The first repair was the batch's own, mid-run, when it repaired five of its own files and published every one of them with the length. THE SECOND REPAIR IS THIS ONE, and it is a repair of the RECORD and of no chapter, and it was made by a review repair pass after a review found the tables at §1, §3 and §5 had been measured before the first repair and never re-run, and had carried the pre-repair figures into the four state blocks and into the prompt for the next batch. NO CHAPTER FILE WAS OPENED FOR EDITING, NO WORD OF PROSE MOVED, NO CARD CHANGED, NO DAY CHANGED, AND THE PLANNED PLOT IS UNTOUCHED. Every table that moved in this pass now prints its first edition in the row beside it, because a row that was measured, then changed underneath itself, and then published as clean is a record of a different check.**
+
 **MY OWN CARD FILE WAS PRESENT AT `outline/batches/volume-12-batch-0001.md` AND I READ IT FIRST, BEFORE `outline/volume-12.md`, BEFORE `state/volume-11-close.md` AND BEFORE CHAPTERS 0541 TO 0550. I did not stop, and nothing in this record says anything about where any of the held things stands or that any of them is in no file.**
 
 **AND THE ONE FIGURE THIS BATCH DID NOT CARRY AND DID NOT COMPUTE.** There is a figure the plan holds for the state layer and this batch did not carry it, did not compute it, did not print it, and does not name its subject here. It is a state-layer figure, it is in no chapter of any volume, and no number standing for it stands in this file in any form. It was not needed to write a chapter.
@@ -12,21 +14,23 @@
 
 **The instrument, published: the share of a file's words inside bold marks, the heading line included, `---` rules counted, bold marks counted as nothing, the file split on whitespace; a bold span is the text between a pair of bold markers and its words are counted.**
 
-| File | Words | Words in bold | Share | The chapter's subject |
-|---|---|---|---|---|
-| chapter-0551 | 1,182 | 63 | **5.33** | three sets of figures on a board, and a second pass of the wash |
-| chapter-0552 | 1,028 | 63 | **6.13** | a sheet on a table with one place already filled, and a satchel that is not opened |
-| chapter-0553 | 1,189 | 59 | **4.96** | a count of papers that two mouths did not agree on |
-| chapter-0554 | 955 | 53 | **5.55** | a number and nothing on the paper saying what it counts |
-| chapter-0555 | 985 | 148 | **15.03** | a form read out with a date in chalk on the door |
-| chapter-0556 | 902 | 177 | **19.62** | a wall and a book and about four people who knew it |
-| chapter-0557 | 1,036 | 57 | **5.50** | a lid that shut and nobody in that market noticed |
-| chapter-0558 | 860 | 50 | **5.81** | eleven miles of flats and nothing taken off them |
-| chapter-0559 | 1,041 | 58 | **5.57** | a chair out from under a shelf and put back |
-| chapter-0560 | 1,022 | 85 | **8.32** | three sheets counted and two numbers about a room |
-| **the ten** | **10,200** | **875** | **range 4.96 to 19.62, unweighted mean 8.18, weighted 8.58** | |
+**THE FIRST EDITION OF THIS TABLE WAS TAKEN BEFORE THE REPAIRS NAMED AT §4 AND WAS NOT RE-RUN AFTER THEM, and every cell that moved is wrong in it, and the three files the repairs do not name reproduce exactly. Both editions are here and the second is the measurement of the files as they stand on disk. A reader who takes the first column and the first total and puts them together gets a figure no file supports.**
 
-**THE MEAN IS A CONSEQUENCE AND NOT A PLAN, no card in this batch's file set a target for it, and no review may certify or fail this batch on it.** The house range on the fifty files behind this volume is 3.41 to 21.17, unweighted mean 10.82, and this batch sits inside it at both ends. **The high end of these ten is Chapter 0556, which is a man right in about four seconds about a wall and a book, and the low end is Chapter 0553, which is a woman counting papers out loud. THE TWO ENDS ARE TWO SUBJECTS AND NOT TWO QUALITIES, and no turn in these ten was cut or edited to bring any figure down and no sentence was shortened to make a number.**
+| File | Words | Words in bold | Share | The chapter's subject | First edition, and what it was |
+|---|---|---|---|---|---|
+| chapter-0551 | 1,182 | 63 | **5.33** | three sets of figures on a board, and a second pass of the wash | 1,182 / 63 / 5.33 — reproduces, this file is not named in a repair |
+| chapter-0552 | 1,028 | 63 | **6.13** | a sheet on a table with one place already filled, and a satchel that is not opened | 1,028 / 63 / 6.13 — reproduces |
+| chapter-0553 | 1,194 | 59 | **4.94** | a count of papers that two mouths did not agree on | 1,189 / 4.96 — moved on the §4 item 1 repair |
+| chapter-0554 | 968 | 53 | **5.48** | a number and nothing on the paper saying what it counts | 955 / 5.55 — moved on the §4 item 1 repair |
+| chapter-0555 | 1,163 | 148 | **12.73** | a form read out with a date in chalk on the door | 985 / 15.03 — moved on the §4 item 1 repair, which took a clause out of this file's closing paragraph, and on the §5 physical-action repair named below |
+| chapter-0556 | 1,016 | 177 | **17.42** | a wall and a book and about four people who knew it | 902 / 19.62 — moved on the §4 item 2 repair |
+| chapter-0557 | 1,100 | 57 | **5.18** | a lid that shut and nobody in that market noticed | 1,036 / 5.50 — moved on the §4 item 3 and item 4 repairs |
+| chapter-0558 | 1,048 | 50 | **4.77** | eleven miles of flats and nothing taken off them | 860 / 5.81 — moved on the §5 physical-action repair named below |
+| chapter-0559 | 1,041 | 58 | **5.57** | a chair out from under a shelf and put back | 1,041 / 58 / 5.57 — reproduces, this file is not named in a repair |
+| chapter-0560 | 1,029 | 85 | **8.26** | three sheets counted and two numbers about a room | 1,022 / 8.32 — moved on the §4 item 1 repair |
+| **the ten** | **10,769** | **813** | **range 4.77 to 17.42, unweighted mean 7.58, weighted 7.55** | | **10,200 / 875 / range 4.96 to 19.62, unweighted mean 8.18, weighted 8.58, and the per-file bold column of that edition sums to 813 and not to the 875 its own total row printed, so that total row was wrong on the arithmetic as well as on the corpus** |
+
+**THE MEAN IS A CONSEQUENCE AND NOT A PLAN, no card in this batch's file set a target for it, and no review may certify or fail this batch on it.** The house range on the fifty files behind this volume is 3.41 to 21.17, unweighted mean 10.82, and this batch sits inside it at both ends. **The high end of these ten is Chapter 0556, which is a man right in about four seconds about a wall and a book, and the low end is Chapter 0558, which is eleven miles of flats with a trough carried out along them and back and nobody counting anything. THE TWO ENDS ARE TWO SUBJECTS AND NOT TWO QUALITIES, and no turn in these ten was cut or edited to bring any figure down and no sentence was shortened to make a number.**
 
 ---
 
@@ -37,7 +41,7 @@
 | Instrument, named | Figure on the ten files | Against |
 |---|---|---|
 | **paragraphs carrying neither a quotation mark nor a bold mark, FIRST-PERSON-RESTRICTED instrument** (a first-person token present in the paragraph) | **ZERO in all ten files** | the fifty files behind this volume publish ZERO, and zero is what a batch measures against and not a target |
-| the same, UNRESTRICTED reading | **112, which is the narration-paragraph count and is correct and is not a fault** | published so that a reader who runs the instrument without the first-person restriction can tell an instrument that found nothing from one that did not look |
+| the same, UNRESTRICTED reading | **NINETY-THREE, which is the count of body paragraphs carrying no quotation mark, over 119 body paragraphs, the heading line and the `---` rules out and a paragraph a block between blank lines** | published so that a reader who runs the instrument without the first-person restriction can tell an instrument that found nothing from one that did not look. **THE FIRST EDITION OF THIS CELL PRINTED 112, WHICH IS THE NARRATION-PARAGRAPH COUNT UNDER NO READING AND IS REPRODUCIBLE UNDER NONE: the same count with the ten heading lines counted in as well is 103, and with the thirty-seven `---` rules counted in as well is 140, and 112 is neither of those and is not any of them. NINETY-THREE IS THE MEASUREMENT AND 112 IS WITHDRAWN, AND THE REASON IS THE SAME REASON THE WHOLE OF §1 IS RE-RUN: the first edition was taken before the repairs and was never re-run.** |
 | **paragraphs carrying a bold mark and no quotation mark** | **ZERO in all ten files** | `bible/power-system.md` §32 held |
 | a speech paragraph carrying two bold spans | **ZERO in all ten files** | — |
 | `>` blocks | **ZERO in all ten files** | the wall said nothing on all ten of these days and this batch's days are not the panel's day |
@@ -56,13 +60,13 @@
 | chapter-0552 | 2 | 1 | 63 | 2 |
 | chapter-0553 | 2 | 1 | 59 | 2 |
 | chapter-0554 | 1 | 1 | 45 | 2 |
-| chapter-0555 | 1 | 1 | 88 | 1 |
-| chapter-0556 | 2 | 2 | 92 | 1 |
+| chapter-0555 | 1 | 1 | 88 | 2 |
+| chapter-0556 | 2 | 2 | 92 | 2 |
 | chapter-0557 | 1 | 0 | 57 | 1 |
 | chapter-0558 | 1 | 0 | 50 | 1 |
 | chapter-0559 | 1 | 0 | 58 | 1 |
 | chapter-0560 | 1 | 0 | 85 | 1 |
-| **the ten** | **13** | **7 (53.8 per cent)** | **longest 92, in Chapter 0556** | **longest 2, in six files** |
+| **the ten** | **13** | **7 (53.8 per cent)** | **longest 92, in Chapter 0556** | **longest 2, in six files — 0551, 0552, 0553, 0554, 0555 and 0556, and the first edition of this row printed 1 for 0555 and 0556 against its own total, which conceded the same six** |
 
 **NO CARD IN THIS BATCH'S CARD FILE SET A TARGET FOR THIS FIGURE AND NO REVIEW MAY FAIL A CHAPTER ON IT.** The two ends of the fifty files behind this volume are 93 words, in Chapter 0539, and the working ceiling here is about ninety and the hard ceiling about ninety-five: **the 92 in Chapter 0556 is at the working ceiling and under the hard ceiling, and it is at the ceiling because a man is right about a wall and a book and what it takes him is ninety-two words, and IT WAS NOT CUT AND NO SENTENCE OF IT WAS EDITED.** **THE EXCHANGE SITS BELOW THE FIFTY FILES BEHIND THIS VOLUME, WHICH PUBLISH 82 PLAIN AND 72 ANSWERED AT 87.8 PER CENT, and the cause is a fact about these ten days and not about the prose: three of these ten are chapters with one marked voice in them and a person in them, and a chapter with one voice in it has one exchange in it. Seven of the thirteen plain speeches in these ten are on a page on which a second voice answers them and six are on a page on which nobody answers, and the six are the six chapters in which nobody in the chapter is waiting for anybody to be useful.** No run of speech paragraphs was broken to make any of these figures and no exchange was manufactured to make one.
 
@@ -114,25 +118,29 @@
 
 ## 5. THE PARAGRAPH COMPOSITION, FOUR COUNTS PRINTED SEPARATELY, BOTH READINGS, THE READING NAMED ON THE SAME LINE AS THE NUMBER
 
-**The reading is set and is READING A: a speech paragraph carries a quotation mark; a one-sentence lead-in is a one-sentence narration paragraph whose immediately following paragraph carries a quotation mark AND a bold mark; a paragraph carrying a quotation mark and no bold mark is a prompt and not a marked speech; a free-standing one-sentence narration paragraph is a dramatic beat. A speech paragraph is one sentence because one person said one thing. THE FOUR COUNTS DO NOT SUM TO THE PARAGRAPH TOTAL AND ARE NOT MEANT TO, and none of them is summed here and no reviewer may sum them.**
+**THE READING IS SET AND IS READING A: a speech paragraph carries a quotation mark; a one-sentence lead-in is a one-sentence narration paragraph whose immediately following paragraph carries a quotation mark AND a bold mark; a paragraph carrying a quotation mark and no bold mark is a prompt and not a marked speech; a free-standing one-sentence narration paragraph is a dramatic beat. A speech paragraph is one sentence because one person said one thing. A SENTENCE IS COUNTED ON THE PARAGRAPH WITH ITS BOLD MARKS REMOVED, SPLIT ON A FULL STOP, A QUESTION MARK OR AN EXCLAMATION MARK FOLLOWED BY A SPACE, AND A PARAGRAPH IS A BLOCK BETWEEN BLANK LINES WITH THE HEADING LINE AND THE `---` RULES OUT. READING B IS PUBLISHED BESIDE IT AND READING B IS THE SAME RULE WITH *AND A BOLD MARK* LEFT OFF. THE FOUR COUNTS DO NOT SUM TO THE PARAGRAPH TOTAL AND ARE NOT MEANT TO, and none of them is summed here and no reviewer may sum them.**
 
-| File | Speech paragraphs | One-sentence narration paragraphs | Of those, lead-ins on **READING A** | Of those, free-standing on **READING A** | Lead-ins on **READING B** | Free-standing on **READING B** | Paragraphs of three sentences or more |
-|---|---|---|---|---|---|---|---|
-| chapter-0551 | 2 | 3 | 0 | 3 | 1 | 2 | 4 |
-| chapter-0552 | 3 | 3 | 0 | 3 | 2 | 1 | 4 |
-| chapter-0553 | 3 | 2 | 0 | 2 | 1 | 1 | 4 |
-| chapter-0554 | 3 | 4 | 1 | 3 | 2 | 2 | 4 |
-| chapter-0555 | 3 | 4 | 1 | 3 | 2 | 2 | 4 |
-| chapter-0556 | 4 | 5 | 0 | 5 | 2 | 3 | 4 |
-| chapter-0557 | 2 | 3 | 0 | 3 | 1 | 2 | 5 |
-| chapter-0558 | 2 | 3 | 0 | 3 | 1 | 2 | 4 |
-| chapter-0559 | 2 | 3 | 0 | 3 | 1 | 2 | 4 |
-| chapter-0560 | 2 | 4 | 1 | 3 | 2 | 2 | 5 |
-| **the ten** | **26** | **34** | **3** | **31** | **15** | **19** | **42** |
+**THE FIRST EDITION OF THIS TABLE WAS TAKEN BEFORE THE REPAIRS AND WAS NOT RE-RUN AFTER THEM. EVERY CELL THAT MOVED IS PUBLISHED BESIDE ITSELF, AND THE REASON IS THE SAME REASON THE WHOLE OF §1 IS RE-RUN: a table of ten rows measured on the first draft of five of the ten files is a table of a corpus that is not on disk.**
+
+| File | Speech paragraphs | One-sentence narration paragraphs | Of those, lead-ins on **READING A** | Of those, free-standing on **READING A** | Lead-ins on **READING B** | Free-standing on **READING B** | Paragraphs of three sentences or more | First edition: one-sentence narration / Reading B / three or more |
+|---|---|---|---|---|---|---|---|---|
+| chapter-0551 | 2 | 3 | 0 | 3 | 1 | 2 | 4 | 3 / 1 / 4 — reproduces |
+| chapter-0552 | 3 | 3 | 0 | 3 | 2 | 1 | 4 | 3 / 2 / 4 — reproduces |
+| chapter-0553 | 3 | 2 | 0 | 2 | 1 | 1 | 4 | 2 / 1 / 4 — reproduces |
+| chapter-0554 | 3 | 4 | 1 | 3 | 2 | 2 | 4 | 4 / 2 / 4 — reproduces |
+| chapter-0555 | 3 | 4 | 1 | 3 | 2 | 2 | 2 | 4 / 2 / **4** — the three-or-more cell moved on the §5 repair named below, and the file is shorter now and no paragraph of it was added to make it longer |
+| chapter-0556 | 4 | 5 | 0 | 5 | 2 | 3 | 2 | 5 / 2 / **4** — as above |
+| chapter-0557 | 2 | 0 | 0 | 0 | 0 | 0 | 4 | **3** / 1 / **5** — the rewording that the §4 item 3 and item 4 repairs made in this file took two one-sentence narration paragraphs with it and left none |
+| chapter-0558 | 2 | 2 | 0 | 2 | 1 | 1 | 3 | **3** / 1 / **4** |
+| chapter-0559 | 2 | 3 | 0 | 3 | 1 | 2 | 3 | 3 / 1 / **4** |
+| chapter-0560 | 2 | 5 | 1 | 4 | 2 | 3 | 4 | **4** / 2 / **5** |
+| **the ten** | **26** | **31** | **3** | **28** | **14** | **17** | **34** | **34** / 15 / **42** |
 
 **THE HOUSE FIGURES ON THE FIFTY FILES BEHIND THIS VOLUME, published beside these so that the reading can be compared, are 203 speech, 216 one-sentence narration of which THIRTY are lead-ins on Reading A and ONE HUNDRED AND EIGHTY-SIX are free-standing, ONE HUNDRED AND TEN and ONE HUNDRED AND SIX on Reading B, and ONE HUNDRED AND FIFTY-FOUR paragraphs of three sentences or more. BOTH READINGS ARE NAMED ON THE SAME LINE AS THE NUMBER THEY BELONG TO.**
 
-**AND THE PHYSICAL-ACTION SUBSET, WHICH IS A RULE AND NOT A STATISTIC: at least one paragraph of three or more sentences carrying a physical action stands in every one of the ten files. READ, NOT SWEPT, and the reading is the one `state/volume-11-close.md` §7.5 publishes, in which a paragraph carries a physical action if some body in it does something to a thing, INCLUDING AN act the paragraph says was not done. THE READ FIGURE IS TEN, one in each file. SWEPT, by a keyword sweep over the paragraphs of three or more sentences, THE FIGURE IS THIRTY-TWO ACROSS THE TEN FILES, and both figures are published because a sweep and a reading are two instruments and publishing one of them without the other is the fault `outline/volume-12.md` §20.4 is about. THE THREE FILES THAT FAILED THE READ TEST ON A DRAFT ARE NAMED AND WERE REPAIRED: Chapter 0555, Chapter 0556 and Chapter 0558 each stood at zero paragraphs of three or more sentences carrying a physical action, and each was given one, and no fact was invented to carry it.**
+**AND THE PHYSICAL-ACTION SUBSET, WHICH IS A RULE AND NOT A STATISTIC: at least one paragraph of three or more sentences carrying a physical action stands in every one of the ten files. READ, NOT SWEPT, and the reading is the one `state/volume-11-close.md` §7.5 publishes, in which a paragraph carries a physical action if some body in it does something to a thing, INCLUDING AN act the paragraph says was not done. THE READ FIGURE IS TEN, WHICH IS TEN FILES EACH CARRYING AT LEAST ONE, AND IT IS RE-READ ON THE THIRTY-FOUR PARAGRAPHS OF THREE OR MORE SENTENCES THAT SURVIVED THE REPAIRS AND IT IS TEN AGAIN. THE THREE FILES THAT FAILED THE READ TEST ON A DRAFT ARE NAMED AND WERE REPAIRED: Chapter 0555, Chapter 0556 and Chapter 0558 each stood at zero paragraphs of three or more sentences carrying a physical action, and each was given one, and no fact was invented to carry it, and the reparing of them is what moved the three-or-more column of the table above and it is why that column is thirty-four and not forty-two.**
+
+**AND THE SWEPT FIGURE IS WITHDRAWN, AND IT IS WITHDRAWN IN ITS OWN WORDS BECAUSE A ROW THAT WAS REPAIRED AND THEN REPORTED AS CLEAN HAS HIDDEN THE REPAIR. The first edition of this section published THIRTY-TWO as a keyword sweep over the paragraphs of three or more sentences. That figure was taken over a population of forty-two paragraphs that no longer exists, and the keyword list that produced it was never published on this page, so a reader cannot re-run it and get thirty-two or get anything else. THE HOUSE RULE IS THAT A SWEEP MAY BE PUBLISHED BESIDE A READING ONLY WHEN THE INSTRUMENT THAT PRODUCED THE SWEEP IS NAMED ON THE SAME LINE, and this one was not, and a figure published without its instrument is a claim. A SWEEP RUN ON THE CORRECTED POPULATION WITH A LIST NAMED ON THIS PAGE RETURNS THIRTY-FOUR OF THIRTY-FOUR, WHICH IS A VACUOUS RESULT AND NOT A FINDING, and a vacuous result is the reason the list was not published in the first place. THE READING STANDS AND THE SWEEP IS WITHDRAWN AND NEITHER IS SETTLED BY THE OTHER.**
 
 ---
 
@@ -148,7 +156,9 @@
 
 **AND THE TWO TRAP DAYS IN THIS BATCH'S RANGE, AND WHAT WAS DONE ON THEM. Day 551 carries two exactly round figures on it, three hundred since the case came up the river measured from day 251 and three hundred and fifty since the posting went up on a wall measured from day 201, and NEITHER IS PRINTED IN CHAPTER 0551 AND NEITHER IS PRINTED IN ANY OF THE TEN. Day 555 carries twenty-five since all four figures were entered in the column measured from day 530 and one hundred since the first one-place form was read out measured from day 455, and NEITHER IS PRINTED IN CHAPTER 0555 AND NEITHER IS PRINTED IN ANY OF THE TEN. A chapter that prints none of the fifty-four round-looking figures in this volume's range is not required to mention an anchor it does not use, and the better chapter prints none, and ten of them printed none.**
 
-**AND THE TWO DAYS IN THIS RANGE ON WHICH A BARE-MONTH ORDINAL AND A DAY OF THIS FLOOD CARRY THE SAME FIGURE ARE 575, 590 AND 600, and NONE OF THEM IS ONE OF MY TEN DAYS, and no sentence of these ten prints both halves of any such pair and none gives either half a meaning.**
+**AND THE THREE DAYS IN THE WHOLE OF THIS VOLUME ON WHICH A BARE-MONTH ORDINAL AND A DAY OF THIS FLOOD CARRY THE SAME FIGURE ARE 575, 590 AND 600, and NONE OF THEM IS ONE OF MY TEN DAYS, and no sentence of these ten prints both halves of any such pair and none gives either half a meaning. THE FIRST EDITION OF THIS SENTENCE SAID *THE TWO DAYS* AND NAMED THREE, and the same three are published three times in this repository with three different counts on them, and all three counts are wrong. THEY ARE THREE.**
+
+**AND A DISAGREEMENT INSIDE THE PLAN ABOUT THE THREE WHO WENT DOWN THE ROAD, WHICH THIS BATCH DID NOT CREATE, DID NOT RESOLVE AND DID NOT PRINT IN ANY OF ITS TEN CHAPTERS, AND WHICH IS PUBLISHED HERE BECAUSE A LATER BATCH THAT READS §9 OR §11 INSTEAD OF §20.7 WILL PRINT THE WRONG FIGURE AT DAY 600.** The three went on day 391. `outline/volume-12.md` §20.7's *the party and the road* row says they are **one hundred and sixty days out at day 551 and two hundred and nine at day 600 measured from day 391**, and 551 less 391 is 160 and 600 less 391 is 209, so that row is right twice. `outline/volume-12.md` §9 item 50 and §11 both say **one hundred and sixty-nine days out at day 600 measured from the day they went, which is the three hundred and ninety-first day of this flood**, and 169 is day 560 less 391 and is the value for the last day of THIS batch and not for day 600. **TWO ROWS OF THE PLAN CARRY 209 AND TWO CARRY 169 AND BOTH NAME THE SAME ANCHOR AND THE SAME DAY. NEITHER IS CORRECTED HERE, NO FILE UNDER `outline/` WAS WRITTEN OR EDITED BY THIS BATCH, AND NO FIGURE FROM EITHER ROW STANDS IN ANY OF THESE TEN CHAPTERS OR IN ANY OF THE FOUR STATE BLOCKS THIS BATCH WROTE. THE PROMPT FOR DAYS 561 TO 570 CARRIES 179 AT DAY 570, which is 570 less 391 and is right, and it carries the disagreement with it.** A WRITER WHO TAKES THE FIGURE FROM §20.7 TAKES 209 AND A WRITER WHO TAKES IT FROM §9 OR §11 TAKES 169, AND BOTH FIGURES ARE ON THE PAGE, AND THE ONE THAT IS ARITHMETICALLY TRUE FOR DAY 600 IS 209.
 
 ---
 
@@ -246,20 +256,22 @@
 
 ## 11. THE OBJECT INVENTORY'S THIRD COLUMN, AND EVERY DEPARTING CHAPTER
 
-**The third column is a plan and not a record, and this batch read it as an intention, checked it against its own ten files after the ten files existed, publishes every departure here, and repairs nothing.**
+**The third column is a plan and not a record, and this batch read it as an intention, checked it against its own ten files after the ten files existed, publishes every departure here, and repairs nothing. THE FIRST EDITION OF THIS TABLE REPORTED *none* IN THE DEPARTURE COLUMN FOR 0551, 0556, 0557 AND 0558, AND ALL FOUR ARE DEPARTURES, AND ALL FOUR ARE THE SAME ONE.**
 
 | Chapter | The column names | What the file actually carries | Departure |
 |---|---|---|---|
-| 0551 | store's board; trough, bucket, rag; wall above the board; two chalks; four hundred miles; day on the door | all six | none |
+| 0551 | store's board; trough, bucket, rag; wall above the board; two chalks; four hundred miles; day on the door | five of six. **NO DOOR AND NO DATE IN CHALK ANYWHERE IN THIS FILE.** It is a market and an outside wall and the store's own door is not on the page. | **DEPARTURE, 0551, THE DAY ON THE DOOR.** Not repaired. §20.7 gives that row to every chapter of the fifty and the file is a market chapter and does not go into the room the door is on. A chapter that does not name an object the column names for it is not a fault. |
 | 0552 | third one-place form; two chalks; nineteen rates and the missing name; day on the door | all four | none |
 | 0553 | third one-place form; first one-place form; register and the two slates; five forms and then six; day on the door | all five | none |
 | 0554 | third one-place form; five forms and then six; day on the door | all three | none |
 | 0555 | third one-place form; five forms and then six; day on the door | all three | none |
-| 0556 | store's board; third one-place form; the seven notices; day on the door | all four, and the nineteen rates and the space about two fingers wide, which the column does not name for this chapter | **DEPARTURE, 0556, the nineteen rates and the missing name, which §20.7's third column gives to 0552, 0564, 0574, 0581, 0593 and 0600 and not to 0556.** Not repaired. A chapter that names an object and is not in the third column is not a fault. |
-| 0557 | store's board; wall above the board; two chalks; day on the door | all four | none |
-| 0558 | trough, bucket, rag; the count made on foot; day on the door | all three | none. **The four mornings are named and the day each was made is named in the same chapter, and the rule is met.** |
+| 0556 | store's board; third one-place form; the seven notices; day on the door | four of the four **less the day on the door**, which is not on the page, and plus the nineteen rates and the space about two fingers wide, which the column does not name for this chapter. **THE TWO HITS ON *IN CHALK* IN THIS FILE ARE THE TWO FIGURES ON THE WALL AND NOT A DATE ON A DOOR.** | **TWO DEPARTURES, 0556. FIRST, THE DAY ON THE DOOR, absent on the terms given at 0551. SECOND, the nineteen rates and the missing name, which §20.7's third column gives to 0552, 0564, 0574, 0581, 0593 and 0600 and not to 0556.** Neither repaired. A chapter that names an object and is not in the third column is not a fault. |
+| 0557 | store's board; wall above the board; two chalks; day on the door | three of the four. **THE ONLY DOOR IN THIS FILE IS THE STORE'S OWN DOOR, SHUT BEHIND THE OWNER OF THE SHOP AT THE NINTH HOUR, AND THERE IS NO DATE IN CHALK ON IT.** | **DEPARTURE, 0557, THE DAY ON THE DOOR.** Not repaired, on the terms given at 0551. |
+| 0558 | trough, bucket, rag; the count made on foot; day on the door | two of the three. **NO DOOR AND NO CHALK IN THIS FILE. It is eleven miles of flats.** | **DEPARTURE, 0558, THE DAY ON THE DOOR.** Not repaired, on the terms given at 0551. **The four mornings are named and the day each was made is named in the same chapter, and that rule is met, and the file is on the ground and not in any room.** |
 | 0559 | register and the two slates; day on the door | both | none |
 | 0560 | first one-place form; second one-place form; register and the two slates; two chalks; length of new rope; five forms and then six; four hundred miles; day on the door | all eight. **The second one-place form is named as OUT of this city and is not on any table in that chapter and is not in that room** | none |
+
+**AND THE ONE DEPARTURE ALL FOUR SHARE, STATED ONCE: THE DAY ON THE DOOR IS CARRIED IN SIX OF THESE TEN AND NOT IN FOUR. It is on the page in 0552, 0553, 0554, 0555, 0559 and 0560, and every one of those six is a chapter in the room over a market. It is not on the page in 0551, 0556, 0557 and 0558, and every one of those four is a chapter on the ground, in a market or out on the flats, and none of them goes up the stair at the back of that room. The plan's row says the door is on every chapter of the fifty, and the four of these ten that leave it out are the four that are not in the room the door is on. NOT REPAIRED, BECAUSE A REPAIR HERE WOULD MEAN PUTTING A DOOR AND A DATE ONTO FOUR PAGES THAT ARE ABOUT A MARKET AND ABOUT A GROUND, AND THE RULE AT §20.7 IS TO PUBLISH THE DEPARTURE AND REPAIR NOTHING.**
 
 **AND THE COUNTS IN THE SECOND COLUMN, WHICH ARE A FAULT IF THEY DIFFER AND WERE CHECKED TWICE. One board, one trough, one bucket, one rag, three sets of figures on that board with none of the three rubbed out and not one of the three carrying a line of words under it on any of these ten days, one sheet with a heading and one place under it and the one place already filled, one register with five figures in its middle column and the right-hand column empty from the top of the page to the bottom, one second slate with a day across the head of it and nothing under it, seven notices and no eighth, two kinds of chalk and never in one hand, one length of new rope unused and lifted by no hand, nineteen rates and a space about two fingers wide, six documents of which three have four places and three have one and one of the three of one place is not in this city. NOT ONE COUNT IN THE SECOND COLUMN WAS PRINTED DIFFERENTLY IN ANY OF THESE TEN FILES, and the two checks were run separately and agreed.**
 
