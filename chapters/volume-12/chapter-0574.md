@@ -4,7 +4,7 @@ The woman of about twenty-nine who keeps a public register had a cloth in her ow
 
 ---
 
-The register stands on that shelf with its spine to the wall. That book has three columns on its page and the one of them that holds figures holds five of them, set one under another in the order they were made, with the day each was made written down beside it, and the most recent of those five is at the top of that column and the least recent is at the bottom of it, and not one of them has been struck through. The column on the right of that page is the full height of that page from its head to its foot and there is nothing whatever in it at any hour of any day, and nobody in this city has ever asked her what that column is for.
+Behind that bench there is a book standing on that shelf with its spine turned to the wall. That book has three columns on its page and the one of them that holds figures holds five of them, set one under another in the order they were made, with the day each was made written down beside it, and the most recent of those five is at the top of that column and the least recent is at the bottom of it, and not one of them has been struck through. The column on the right of that page is the full height of that page from its head to its foot and there is nothing whatever in it at any hour of any day, and nobody in this city has ever asked her what that column is for.
 
 She looked at that column at about the eighth hour. She looked at it again about half an hour after that, with her own two hands flat on the closed cover of that book. She looked at it a third time when a man at the far end of that bench said the thing that is said about a fence, to the room, and she looked at it a fourth time at about the tenth hour with the cloth still in her own hand, and she did not say one word about it on any of those four times and nobody in that room said one word to her about it either.
 
@@ -14,11 +14,11 @@ The fence stands along the top of a shut road out past the last named house and 
 
 The road that goes up out of this city and away in the other direction is four hundred miles long and is open from end to end and has been since the water came, and three people went down it in this flood with a barrow each on the three hundred and ninety-first day of this flood, out of a party of four of whom one said no before anybody was asked, and a party of four is four. Nobody in that room asked about the three and nobody in that room said where they were and no mouth in that room said anything about the days since the four of them were asked.
 
-Over the back of the chair at the far end of that bench there is a length of new rope. It has not been used and no hand in that room lifted it at any hour of that morning and nobody in that room looked at it once and nobody in that room asked the man it belongs to anything at all.
+Over the back of the chair at the far end of that bench there is a length of new rope, and it is still as good as the day it was brought in, and no hand in that room picked it up or cut it or asked the man it belongs to one thing about it at any hour of that morning.
 
 ---
 
-The man of about thirty-nine who trades on a board was at that window with his own board under his own arm and the face of it turned out into that room, and there are nineteen rates on the face of it in three columns down it with the rows going across, and along the bottom of the middle column of it there is a space about two fingers wide with nothing whatever in it. A man at the near end of that bench said the thing that is said, to that space.
+The man of about thirty-nine who trades on a board was at that window with his own board under his own arm and the face of it turned out into that room, and there are nineteen rates on the face of it in three columns down it with the rows going across, and along the bottom of the column between the other two there is a space about two fingers wide with nothing whatever in it. A man at the near end of that bench said the thing that is said, to that space.
 
 "Nobody in this city knows what was in that."
 

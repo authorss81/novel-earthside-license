@@ -6,7 +6,7 @@ The sheet that came up that road twenty-one days ago, measured from the day it c
 
 ---
 
-The woman of about twenty-nine who keeps a public register said the thing that is said, to the table.
+The woman of about twenty-nine who keeps a public register said the thing that is said, to that table, and then she sat down.
 
 "**We have to find out what a figure of this city has to be a figure of before anybody puts one in that place, and there is nothing in this room that can find that out, and there is nothing outside this room either.**"
 
