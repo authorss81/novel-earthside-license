@@ -16,7 +16,7 @@ Nobody in that room improved on that and nobody in that room thanked her for it 
 
 ---
 
-The man of about thirty-four who keeps a stall said the thing that is said, to that sheet, and it took him about four seconds to say it.
+What the man of about thirty-four who keeps a stall said to that sheet was what he says to a page, and the whole of it took him about four seconds.
 
 "**Nobody in four hundred miles is going to see whose hand that is, and the two of those facts are on the same piece of paper and neither of them is.**"
 

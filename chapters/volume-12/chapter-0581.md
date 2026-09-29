@@ -36,7 +36,7 @@ A man at the step said the thing that is said, to that book.
 
 "**A column of five is a full column and a full column does not take a sixth thing in the middle of a morning, and I have not been asked what the other one on that page is for and nobody in this city is going to ask me.**"
 
-Nobody in that room said that she was right. Nobody in that room improved on that and nobody in that room thanked her for saying it and nobody in that room asked her a second question about it, and the column on the right of that page is the full height of that page and is empty in it this morning and will be empty in it at the end of that day, and nobody in that room put a word in it, and nobody in that room said what it is for.
+Not one of the nine in that room said that she was right. Nobody in that room improved on that and nobody in that room thanked her for saying it and nobody in that room asked her a second question about it, and the column on the right of that page is the full height of that page and is empty in it this morning and will be empty in it at the end of that day, and nobody in that room put a word in it, and nobody in that room said what it is for.
 
 On the same shelf as that book there is a second slate standing on its edge with its face turned in to the wall, and a day is cut across the head of it and nothing whatever is under that day, and it was not picked up and it was not turned over and it was not written on at any hour of that day, and the only hand in that room that came near where it stands is the keeper's.
 

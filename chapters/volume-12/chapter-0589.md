@@ -34,4 +34,6 @@ Over the back of the chair at the far end of that bench there is a length of new
 
 ---
 
-Nobody said a word about what he had read out, and that sheet is on the table under that window with the figure in the one place and the line of words under that figure, and it is not going to that road for four more days, and for four more days those words are in this city and about nine people have heard them, and about four hundred miles off there is nobody who has, and there is going to be a man in a satchel with a flap carrying them up that road with them and he is not going to open it.
+Nobody said a word about what he had read out, and that sheet is on the table under that window with the figure in the one place and the line of words under that figure, and it is not going to that road until the round goes up it, and until that round goes up it those words are in this city and about nine people have heard them, and about four hundred miles off there is nobody who has, and there is going to be a man in a satchel with a flap carrying them up that road with them and he is not going to open it.
+
+That line was in about nine heads in this city before the ninth hour was out of that room and it is in no book in this city, and the man who read it did not write down that he had read it and nobody in that room wrote it down for him, and a thing said once in one room is not a record of anything, and about four hundred miles off there is nobody who is ever going to be told that it was said.
