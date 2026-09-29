@@ -4,7 +4,7 @@ Adrian Vale came up that stair at about the ninth hour on the two hundred and tw
 
 ---
 
-That table has a folded sheet on it. There is a heading at the top of that sheet and one place ruled under that heading, and there is one place only and there has never been a second one, and a figure of this city is in that one place and there is nothing else on that sheet anywhere. That figure went out of this city two days ago in a satchel with a flap and it is not in this room and nothing in this flood has an instrument for bringing a figure back, and nobody in that room said one word this morning about what that figure was a figure of, because there is no place on that sheet for it.
+That table has a folded sheet on it. There is a heading at the top of that sheet and one place ruled under that heading, and there is one place only and there has never been a second one, and a figure of this city is in that one place and there is nothing else on that sheet anywhere. That figure has not been outside this city and it is lying on that table under the one window and it is not in any other room, and nothing in this flood has an instrument for bringing a figure back once one has gone out of it, and nobody in that room said one word this morning about what that figure was a figure of, because there is no place on that sheet for it.
 
 The bone was still lying where it had been put down on the day that sheet was folded and had not been moved since, and the string Adrian Vale had put down lay along the wood on the near corner of the table with the far end of it still loose and going over the edge.
 

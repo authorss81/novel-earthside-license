@@ -6,7 +6,7 @@ At about the fourth hour on the two hundred and thirty-first day of the Bare Mon
 
 The flags at that end of that row were wet to the near gate at the third hour. They had been wet at the fourth hour the day before and they had been wet at the fourth hour the day before that, and the water comes off that row and along the length of it and stands in the hollow of the flags at the end nearest the channel and does not go off them, and about four people in that row work at those flags with something flat and about four do not.
 
-Adrian Vale was on those flags before the man of about twenty-seven who washes that board was. He had the rag in his right hand and his left hand flat on the rim of the trough, and he worked the rag along the top of the flags from the store towards the near gate, pushing the standing water ahead of him in a long flat sheet about the width of a board, and the water went along the row ahead of his hand and off the end of it into the channel at the near end of that row. He got to the near gate and worked back the other way, and the flags behind him were wetter than the flags in front of him had been.
+Adrian Vale was on those flags after the man of about twenty-seven who washes that board had been on them at the third hour and had gone up the row out of them. He had the rag in his right hand and his left hand flat on the rim of the trough, and he worked the rag along the top of the flags from the store towards the near gate, pushing the standing water ahead of him in a long flat sheet about the width of a board, and the water went along the row ahead of his hand and off the end of it into the channel at the near end of that row. He got to the near gate and worked back the other way, and the flags behind him were wetter than the flags in front of him had been.
 
 ---
 
@@ -16,7 +16,7 @@ The flags were not dry at the fourth hour. The board went down into that trough 
 
 ---
 
-The man of about sixty was at the near end of that row at about the sixth hour with the handcart behind him and its bar down, and in the bottom of that cart there is a hazel mallet with its head bound in cord and there is a coil of rope over the side of it, and that cart is not one of the three barrows that went down a road four hundred miles long with a man on the wheel of each of them, and it did not go down that road and nobody in that row has ever asked him what it is doing in that market.
+The man of about sixty was at the near end of that row at about the sixth hour with the handcart behind him and its bar down, and in the bottom of that cart there is a hazel mallet with its head bound in cord and there is a coil of rope over the side of it, and that cart is not one of the three barrows on the road four hundred miles long with a man on the wheel of each of them, and it has never been up that road, and nobody in that row has ever asked him what it is doing in that market.
 
 He came up that row at the sixth hour with the cart and Adrian Vale's bucket was standing in the middle of that row on the flags where the water had been pushed off them, and the front wheel of that cart could not get past it. He took the shafts up in both hands, lifted the front of that cart over the bucket, set it down again on the far side of it, and went on up that row that way with one wheel off the ground for about as long as it takes a man to count nine.
 
@@ -38,4 +38,4 @@ The man of about twenty-seven who washes that board was at the step with his bac
 
 The bucket went back into the trough at about the ninth hour and the trough was on its own spot against that wall the whole morning and did not move, and the rag went on the stone lip of the step and did not go in the trough at any hour of that day. No figure was put on that board at any hour of that day and no mouth in that row said which of the three sets of figures on it is the one anybody should be reading, and the stone above the top of that board was not washed and no second person put a hand on it.
 
-The channel at the near end of that row is carrying more water than it was carrying at the fourth hour and the flags from the step to the near gate are wet, and there is a handcart two rows up that row with one wheel of it off the ground, and a man at the near gate who has not said to anybody where that water came from.
+The channel at the near end of that row is carrying more water than it was carrying at the fourth hour and the flags from the step to the near gate are wet, and there is a handcart standing at the near gate with the shafts down in the wet and a man beside it who has not said to anybody where that water came from.

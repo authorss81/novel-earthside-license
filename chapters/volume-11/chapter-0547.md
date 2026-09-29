@@ -4,15 +4,17 @@ The woman of about twenty-nine who keeps a public register stood the register op
 
 ---
 
-Five figures stand in the column of that book that holds figures and the day is written beside each of them in her hand, and the figure at the head of those five is the one that went out of this city in a satchel with a flap two days ago. That column has five lines ruled into it and there is not room in it for a sixth. On the right of that page the other column runs the whole height of the page with nothing in it from the top to the bottom, and it has had nothing in it since the day it was decided empty, and nobody in this room has ever mentioned it.
+Five figures stand in the column of that book that holds figures and the day is written beside each of them in her hand, and the figure at the head of those five is the one that went out of this city in a satchel with a flap two days ago. That column is full from the head of it to the foot of it and there is not room in it for a sixth. On the right of that page the other column runs the whole height of the page with nothing in it from the top to the bottom, and it has had nothing in it since the day it was decided empty, and nobody in this room has ever mentioned it.
 
-On the shelf behind the bench, where that book lives, there is a second slate standing on its edge with a day cut across the head of it. Under that day the slate is bare, and it was bare when the water came, and it is bare now. It has not been lifted or turned over or written on at any hour of this flood, and no hand in that room but the keeper's has ever gone near that shelf, and hers did not go near it that morning either.
+On the shelf behind the bench, where that book lives, there is a second slate standing on its edge with a day cut across the head of it. Under that day the slate is bare, and it was bare when the water came, and it is bare now. It has not been lifted or turned over or written on at any hour of this flood, and no hand in that room but the keeper's has ever gone near that shelf, and no hand of hers went near that slate at any hour of that morning either.
 
 ---
 
 A man at the near end of that bench said the thing that is said, to the book.
 
 "Four of those came off the same ground by the same person and there is no name anywhere in this room."
+
+A woman at the middle of that bench said it to the book, and she said it once, and she is not the person it is about.
 
 "**The four of them came off eleven miles of flats on four mornings inside ten days and the person who made them is not in this room and is not on anything in this city, and there is no place on that sheet for her and there never was one, and the one that went out on Sunday is right and that is the whole of what is wrong with it, because right is the last thing anybody four hundred miles off can do anything about.**"
 
@@ -21,6 +23,8 @@ Nobody in that room improved on that and nobody thanked her for saying it. Nobod
 A man near the step said the thing that is said, to the open book.
 
 "You have said what it is. Nobody has said who it was."
+
+The woman at the middle of that bench said it to that man and not to the room, and she said it once.
 
 "**I have said what it is and I am not going to say who it was, and there is nobody in this room who can say who it was, and one of us is going to have to stand in the middle of that room and let the other eight work that out on their own, and that is going to happen whether I say it or not.**"
 
@@ -34,7 +38,7 @@ That person walked eleven miles of flats on four mornings of this flood with a s
 
 ---
 
-Nobody in that room said her name because nobody in that room can say it. About four people in that room had tried to say it out loud in their own heads on some morning of this flood and about four have not, and not one of the nine of them said one word about that, and the ninth line on a board in this city is not in this room and nobody in this room is going to bring it here.
+Nobody in that room said her name because nobody in that room can say it. About four people in that room had tried to say it out loud in their own heads on some morning of this flood and about four have not, and not one of the nine of them said one word about that, and there is no place in that room where a name like hers could be written down, and nobody in that room is going to bring her into it.
 
 The man of about thirty-four who keeps a stall was at the window with his own hand flat over his own inside breast pocket, and the man of about thirty-nine who trades on a board was at the near end of that bench with his own board under his arm and the two fingers of bare board along the bottom of the middle column of it not filled, and the man of about thirty-one who carries things for a living was at the far end of that bench with his hands on his knees and the satchel with the flap on the seat beside him and the strap of it over the back of the bench.
 

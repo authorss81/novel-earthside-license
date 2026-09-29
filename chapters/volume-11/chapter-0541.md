@@ -1,6 +1,6 @@
 # Chapter 0541 — A Bill Named By Somebody Who Did Not Pay It
 
-The woman of about twenty-nine who keeps a public register put the flat of her right hand down on the table under the one window, palm on the wood, beside the bone, and left it there. The two hundred and twenty-sixth day of the Bare Month was in chalk on the door at the foot of the stair at the back of that room and it was a Wednesday, and no name has ever been written under a date on that door. About nine people were in that room by the ninth hour and not one of them had been sent for anything. The sheet that is shut on that table with two folds in it was where it was put down two days ago with the bone beside it, and nobody in that room had opened it since it was folded.
+The woman of about twenty-nine who keeps a public register put the flat of her right hand down on the table under the one window, palm on the wood, beside the bone, and left it there. The two hundred and twenty-sixth day of the Bare Month was in chalk on the door at the foot of the stair at the back of that room and it was a Wednesday, and no name has ever been written under a date on that door. About nine people were in that room by the ninth hour and not one of them had been sent for anything. The sheet that is shut on that table with two folds in it was where it was put down the day before with the bone beside it, and nobody in that room had opened it since it was folded.
 
 ---
 
@@ -40,6 +40,6 @@ Nobody in that room counted anything out loud. Nobody in that room asked her whe
 
 Nobody wrote any of it down. There is nothing in that room to write it on and nobody went to the shelf behind that bench for anything at any hour of that morning, and the register was not opened and nothing was entered anywhere in that room on that morning, and the column that has been empty since it was decided empty was still empty.
 
-The bone lay on that table where it was put down two days ago and nobody picked it up and did not move it, and the folded sheet lay beside it with its two folds in it and its one place against the wood, and the window light stopped a hand's width short of the far edge of that table and the man of about thirty-four who keeps a stall kept his hand on that sill and did not turn round.
+The bone lay on that table where it was put down the day before and nobody picked it up and did not move it, and the folded sheet lay beside it with its two folds in it and its one place against the wood, and the window light stopped a hand's width short of the far edge of that table and the man of about thirty-four who keeps a stall kept his hand on that sill and did not turn round.
 
 The bill is in the air in a room where nothing has been written down, and about four people in that room know which of them paid it and about four do not, and the woman near the far end of that bench has not said it again and is not going to.
