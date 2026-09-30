@@ -4,7 +4,7 @@ Adrian Vale had both hands on the near end of the length of cord where it lay al
 
 The top of that silt was level with the stone of the causeway on the day before and it is not level with it now, and there is no figure for that anywhere in this city and no person in this city has been shown one, and the four counts that were taken on foot on four mornings out of this row are still four and this morning is not the fifth of them.
 
-A man who trades on a board comes along that row at his own hour every day with a barrow and nothing on it, and the man of about thirty-eight at the salt wharf came along it at the eighth hour with his barrow empty and a knife in a belt at his hip, and he was not asked anything that morning and he asked nothing.
+A man with a barrow comes along that row at his own hour every day and there has never been anything on it, and the man of about thirty-eight at the salt wharf came along it at the eighth hour with his barrow empty and a knife in a belt at his hip, and he was not asked anything that morning and he asked nothing.
 
 ---
 
@@ -30,4 +30,4 @@ Nobody said anything back to him and nobody said he was right, and about four pe
 
 ---
 
-Adrian Vale took his own two hands off the cord and put the flat of them on the top of the heap he had made, and worked the top of it flat with the side of his own boot until a boot would stand on it, and he put his own boot on it and the silt went under the sole of it and took the boot a little way down. He left it standing there on the high side of that row where the water comes off the stone, and a person going up that row that morning had to go round it.
+Adrian Vale took his own two hands off the cord and put the flat of them on the top of the heap he had made and worked the top of it level with the side of his own boot. He put his own boot flat on it and the silt went down under the sole, and he took the boot off again and the heel of it came up with a grey print of the heap on it, which he looked at and wiped on the stone beside his own foot. He left the heap standing there on the high side of that row where the water comes off the stone, and a person going up that row that morning had to go round it.
