@@ -16,7 +16,7 @@ The man at the far end of that room came the length of that bench and put his ri
 
 "**There is one thing in this city that can leave a mark you cannot get off again, and it is on me in this room, in a coat, and it has been in that coat the whole of this flood, and that is me telling you where a thing is and not telling you what it is for.**"
 
-Four of them said out loud, in that room, that they did not know what he was on about, and everybody else in it said nothing at all, and nobody thanked him for saying where a thing was, and nobody asked him what it was for.
+Four of them, in that room, said out loud that they did not know what he was on about, and everybody else in it said nothing at all, and nobody thanked him for saying where a thing was, and nobody asked him what it was for.
 
 Nobody got up out of that room and left it, and nobody went to the end of the row and asked a man behind a trestle one question about a coat.
 
@@ -28,6 +28,6 @@ The woman the finding was about kept the book open in front of all of them the w
 
 "**A room that wants to know which hand wrote a word has to ask the hands, and it is not going to, and I am not going to stand in the middle of it and be the answer to a thing nobody has asked me.**"
 
-That went to the bench and about four of them did nothing with it and about four went on talking about something else behind him, and nobody in that room said he was right and nobody said he was wrong, and the woman at the near end of the bench did not look up.
+It reached the bench and about four of them did nothing with it and about four went on talking about something else behind him, and nobody in that room said he was right and nobody said he was wrong, and the woman at the near end of the bench did not look up.
 
 At the end of that hour he took his own board off the floor beside the leg of that bench and carried it the whole length of that room and down the stair, and stood it against the end wall of that row with the bare back of it out to the weather and nobody's eyes on the face of it, and went back up to his own front two stalls along and set his own two hands flat on the top of his own trestle and stayed there while the light went off the store.

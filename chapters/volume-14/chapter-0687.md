@@ -14,7 +14,7 @@ There have been seven notices out of this city in this flood and every one of th
 
 "**I have cleared this bench because a room with nine people in it needs the whole length of it, and I am not doing it for a reason anybody could put down anywhere, because there is no page in this room and there is not going to be one.**"
 
-Nobody in that room thanked her for clearing a bench and nobody improved on it, and about four people went on doing what they had been doing and about four moved their own things off the bench because she had cleared it.
+Not one person in that room thanked her for clearing a bench and nobody improved on it, and about four people went on doing what they had been doing and about four moved their own things off the bench because she had cleared it.
 
 She took the two things that had been standing at the middle of it off and put them on the shelf beside the second slate without touching the slate, and she went along the length of that bench with the cloth in her hand and wiped the wood where the book had stood every morning of this flood, and she did not wipe the middle of it.
 
