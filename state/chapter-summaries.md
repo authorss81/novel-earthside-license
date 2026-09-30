@@ -1527,3 +1527,257 @@ without the reading on the same line is not a measurement.**
 **AND WHAT THE CHAPTER REFUSES TO DO. It prints no figure, not the two hundred and twenty-fourth day's and not this city's own. It names no place. It fills no column and produces no document. Nobody goes near the second slate. Adrian Vale is not in it, and `outline/volume-10.md` §4 is the reason and that section was written to stop exactly this. The man of about thirty-four is not named in it either, his board is in the room twice and the man is not, and the chapter does not say where he was. The figure is NOT on the board at that morning, because the decision is on day 475 and the chalk goes on that wall on day 490, and a chapter that put it on the board on the day it was decided would have moved the day the plan fixed. Nobody thanks her, nobody improves on what she says, nobody argues with it, and nobody comes at her afterwards with a second question about it. About four people in that room have worked out since the Saturday that the reason is not that it is the smaller of the two and about four have not, and about four are not going to forgive her for it and about four are not going to blame her, and nobody in that room says which of those two groups of four was which.**
 
 **AND THE CHAPTER ON THE OTHER SIDE OF IT IS NOW TRUE. `chapters/volume-10/chapter-0476.md` has said since it was written that a thing had been said out loud on the Sunday in the room over the market, and that a figure on a wall in chalk cannot be taken off by anybody at all, and that the difference between the two is a woman's whole trade. Until this file existed, that sentence pointed at nothing on any page. It points at this one now, and nothing in 0476 was edited to make it point here, because it was always pointing here and there was no here.**
+
+---
+
+# VOLUME 13, BATCH 0004 — CHAPTERS 0631 TO 0640, DAYS 631 TO 640, AND THIS BLOCK IS AT THE FOOT OF THIS FILE AND IT WINS OVER EVERY BLOCK ABOVE IT
+
+**Ten chapters, ten days, one chapter to one day. Days 631 to 640 are a Tuesday through a Thursday across
+a week, the three hundred and sixteenth to the three hundred and twenty-fifth of that run of days. The
+figures this block was built against are in `state/batch-summaries/volume-13-batch-0004.md` and are
+not restated here.**
+
+**Chapter 0631 — A Board Carried Up A Stair And Back Down It And Nobody At Either End Asked Him A
+Thing.** Day 631, a Tuesday, the three hundred and sixteenth. The room over a market, the eighth to
+the twelfth hour. **The man of about thirty-nine who trades on a board is the bolded voice and he is
+alone in the bold marks of this chapter. He carried his board up the stair at the back of that room
+with the string over his left shoulder and the palm of his right hand on the face of it, and he said
+out loud that nineteen of his rates have a day standing against them somewhere else in this city and
+one does not, and that the one that has not is the one he would have to answer for, and that nobody
+has asked him.** He said out loud that he does not set it down in a room and has never set it down in
+a room and there is nobody in that room it is for. **The register stands on its shelf behind that
+bench with five figures in the column that holds them, a day written in beside each, not one struck
+out. The column on the right of that page is the same width as the one beside it and is bare from the
+head of it to its foot. The second slate stands behind that register on its own shelf with a day cut
+across the head of it and nothing whatever under that day, and nothing in that room lifted it or
+turned it or wrote on it, and the only hand that came near that shelf was the keeper's.** He told a
+man in that room to go down and trade and not stand at a window, and about the twelfth hour he went
+back down that stair the way he had come up it. Change: a man gives up a morning at his own front
+two floors below a bench to carry a board up a stair and say what is missing from it, and the woman
+who keeps that front has nobody at it from about the half hour after the ninth, and she does not
+carry her basket up that stair to ask anybody where he went.
+
+**Chapter 0632 — A Trough The Length Of A Row And A Rag Put Back On A Stone Lip Before The Light Came
+Off The Flags.** Day 632, a Wednesday, the three hundred and seventeenth. Eleven miles of flats, the
+fourth to the ninth hour. **ADRIAN.** He carried a trough the length of that row with the bucket
+hanging out of his right hand and a rag over his own shoulder, set it square at the far end against
+the foot of the wall the store's board is nailed to, wiped the outside of it down its length with
+that rag, put the rag back on the stone lip of the step and left it lying the way he had found it.
+**He wanted that rag back on that lip before the light came off those flags, and it is there at the
+fourth hour, at the seventh and at the ninth, and the man who washes that board found it where he had
+left it and did not look for it anywhere else and was not told by anybody on that ground whose hands
+had carried it out and put it back.** The man of about thirty-eight at the salt wharf is the bolded
+voice and he is alone in the bold marks. He said out loud that he has never asked anybody in this city
+where their barrow is to stand and is not going to start with this trough, and that he goes up past
+that wharf and does not come down that row with other people's crates on his own barrow. **Adrian
+put the flat of his own hand against the stone at the foot of that wall to hold the trough where he
+had set it, and his hand did not go above the top edge of that board, and no rag went to that stone,
+and nothing was washed.** Change: a heap of chalk on the flags at the end of that row is short by
+about as much as would cover a coin, and two people want the trough moved and one wants it where it
+is, and the man with the barrow tells them to put it to whoever set it there.
+
+**Chapter 0633 — A Woman Names Out Loud What A Word In That Column Is Going To Cost And It Is Not Her
+Own Cost.** Day 633, a Thursday, the three hundred and eighteenth. The room over a market, the seventh
+to the tenth hour. **ADRIAN.** The woman of about twenty-nine who keeps a public register is the
+bolded voice and she is alone in the bold marks. She stood at the near end of that bench with her
+hands flat on the wood and she was not behind it, and about nine people were in that room and not one
+had been sent for anything. **She named out loud that the word going in that column is the man's to
+put in and not hers, and that in about a year nobody in this city will be able to show that a person
+chose to leave that column alone, and she said it as the cost of a thing and not as her own cost, and
+about four people in that room had worked out what it was going to be and about four had not, and
+nobody told the four who had not.** She said out loud that the slate lies there because she wrote on
+it and she is not turning it over and not reading it out, and told him to go and do the thing he came
+up that stair for. **Adrian carried the lump of chalk that was not his down that stair in his own
+closed hand, and nobody had asked him to read a word on that slate and he had not offered to.** The
+column on the right of that page was bare at the seventh hour and bare at the tenth and nothing was
+put in it. Change: a woman tells a room what a word in a column will cost, and the man it goes from
+is standing in the room, and he goes down the stair with his hands empty and the woman who sells at
+the front of two stalls along his own takes that morning with nobody standing at it.
+
+**Chapter 0634 — A Second Line Of Grey Grit On A Board Nobody Ever Reads Where It Is Lying.** Day 634,
+a Friday, the three hundred and nineteenth. A yard at the near end of eleven miles of flats, the
+seventh hour to the half hour after the eleventh. **The man of about thirty-four who keeps a stall is
+the bolded voice and he is alone in the bold marks. He went down on one knee at the foot of a stack
+so his own eye came level with the top face of it, and there was a board on the top of that stack
+with a figure of this city's own cut into the side the sun gets to, a line of grey grit lying across
+that figure, and a second line lying across the first at an angle to it.** The first line came off
+those boards on the five hundred and ninety-second day of this flood and nobody wiped it, the second
+came off the same boards and nobody wiped that either, and nobody has ever been told which of the two
+boards it came off and it is not going to be. He said out loud that a page is the only surface in this
+city that a person four hundred miles off can pick up and look at the back of. **A line of words set
+under a figure on a form is a different kind of thing from a word in a place on a page, and this
+flood has sent that kind out of this city once, on the five hundred and ninety-fifth day, and it is
+outside this city and came back with nothing and the words themselves are on no page in this city.
+HIS OWN CHALK WAS IN HIS OWN INSIDE BREAST POCKET AND HAD NOT BEEN OUT OF IT SINCE THE TWO HUNDRED
+AND NINETY-EIGHTH DAY OF THIS FLOOD, and he did not go down on one knee at that stack a second time
+that day.** That yard did not get the man of about thirty-eight at the salt wharf at any hour of that
+morning and no page in this flood prints what that figure is. Change: a second line of grit lies
+across a figure nobody has read, and about four people a day walk past the open end of that yard and
+not one of them has ever stopped at it.
+
+**Chapter 0635 — Eleven Miles Of Flats And A Person With A Slate Under Her Arm Who Was Not Asked Why
+She Stopped.** Day 635, a Saturday, the three hundred and twentieth. Eleven miles of flats, the fifth
+to the ninth hour. **The man of about twenty-seven who washes
+that board is the bolded voice and he is alone in the bold marks.** He walked the top row out along
+those flats with his own bucket going from side to side with every step he took, and the trough and
+the rag were at the market end of those flats and not on that ground at all. He said out loud that he
+has walked this ground every morning in this flood and has taken nothing off it and is not going to
+open a bank for a barrow with nothing in it at the seventh hour on a Saturday, and that four people
+walked this ground on four mornings in this flood and every one of them went back the same way and he
+has met them coming the other way and not one of them ever stopped where he was standing. **A
+channel of wet silt runs along the bottom row and the bank on the near side has cut back into the
+stone of a sill since the water came and has not cut back again since, and he said out loud that
+taking that bank down would give this water somewhere to go that it has not got at the moment and
+that the next place it has is a doorway a good way back along that row.** Out past the last of that
+row stands the room over the market with a date in chalk on the outside of the door at the foot of
+the stair and no name under it. **A person with a slate under her arm and a tin in her two hands
+walked that bottom row and stopped, and the tin is not opened at any hour of that day, and nobody on
+that ground asked her why she stopped and nobody on that ground is going to be told where she stopped
+or what was in the tin or what was on the slate.** She has no name, no age, no number and no
+descriptor on any page of this batch. Change: a person stops on eleven miles of flats and is not
+asked.
+
+**Chapter 0636 — A Plank Laid Across A Wet Sill And A Man With A Handcart Who Did Not Know Whose
+Hands Laid It.** Day 636, a Sunday, the three hundred and twenty-first. A second row of flats, the
+sixth to the ninth hour. **ADRIAN.** He turned that plank about on the flags and laid it across the
+wet sill, and he took the end of a rope off his own belt that has been round a gatepost and a post
+and a barrow and a great deal else in this flood and is not new, and put one turn of it round the
+middle of the plank and one round the sill end nearest the top row and knotted it. **He wanted the
+second row to be crossed by something a person could walk on, and it is, and a man with a handcart
+went back up that row about as far as a man goes to fetch a thing and back again with it, and he did
+not know whose hands laid it there and nobody told him.** The man of about thirty-eight at the salt
+wharf is the bolded voice and he is alone in the bold marks. He came along that row at about the
+seventh hour with his barrow on its shafts and nothing on it and his tally-board turned in against
+his ribs and a knife in the belt of his coat, and there was a gap in front of him where the plank was
+not yet. He said out loud that a thing a person has laid across a wet sill is a thing a person walks
+on and not a thing a barrow goes over, and that he is not asking who laid it and is not going to be
+told, and that he has a figure cut into a board of his own that nobody has checked and nobody is
+going to check. **He did not put his hand on the plank and did not look at the rope on it, and he
+took his barrow round the far end of that gap along the top row where the ground is higher.** That
+tally-board is not turned over on its face on any day of this flood, because a board turned over
+carries what is lying on it to the other side and leaves it lying there, and no figure on it is
+printed in any chapter of this volume. **By the ninth hour the near end of that plank stood about a
+foot higher than the stone because the stone had gone down under it. Nobody on that row was thanked
+for it and nobody was told what it was for, and the trough and the rag were at the market end of
+those eleven miles and the bucket went back up the top row with his own hands empty.** Change: a
+person can walk on it, and nobody who walks on it will ever know whose hands laid it.
+
+**Chapter 0637 — A Board Down At The Fourth Hour And Up Again By The Tenth And A Bench Cleared For A
+Sheet Nobody Turned.** Day 637, a Monday, the three hundred and twenty-second. One end of a market,
+the fourth to the tenth hour. **The man of about twenty-seven who washes that board is the bolded
+voice and he is alone in the bold marks. He lifted that board off the two nails it hangs on and
+stood it on its lower edge against the foot of the wall with its face turned in to the stone.** He
+took the rag off the stone lip of that step where he had put it down himself the evening before and
+carried it to that board with it, and the trough was standing against the foot of that wall with about
+a foot of water in it from the night before and the bucket was beside it on the flags, and none of
+the three was in the trough at any hour of that day. **That board carries three sets of figures of
+this city's own, none of the three rubbed out, and not one of the three carrying a line of words under
+it, and from the day after a sheet went up that road carrying a line of words set under a figure there
+has been no surface in this city with a line of words under a figure on it at all.** He said out
+loud that nobody at this end of this market has ever said which of the three is the one to read, and
+that he washes a board and goes back to his own front and is not standing there for anybody to look
+at him while he does it, and that he has never worked out which of two things people mean when they
+say somebody keeps a place clean. **The stone above the top edge of that board went on up in the
+colour it keeps and nothing was washed on it that morning, by him or by anybody at all.** The man of
+about thirty-nine who trades on a board went up that row with his board and was stopped at two places
+in it and set that board down on the flags both times, and he did not go into the room over that
+market at any hour of that day. Change: a bench was cleared at about the seventh hour and a sheet
+laid on it in the position it was already in, and a man came up that stair to fetch a thing he had
+left on a chair, saw the cleared bench and the sheet, said nothing whatever about either, and went
+back down with the thing he came for.
+
+**Chapter 0638 — A Piece Of Chalk Out Of A Pocket And One Word At The Head Of A Column That Nobody
+Read Out.** Day 638, a Tuesday, the three hundred and twenty-third. The room over a market, the
+seventh to the thirteenth hour. **The man of about thirty-four who keeps a stall is the bolded voice
+and he is alone in the bold marks. He was on that stair with the flat of his own right hand over his
+own inside breast pocket and his left hand on the top rail of that bench, and he did not take the
+right hand off the pocket while he was standing there.** **The piece of chalk came out of that pocket
+on this day and this is the only day in the volume it comes out of it, and the chalk in the store's
+own box on the step is a different piece and the two are not in one hand anywhere.** The register
+was off its shelf and lying open on the bench at the head of the column that holds figures, put there
+by the keeper's own two hands: five figures, a day written in beside each, not one struck out, and no
+sixth entered and none taken out. He said out loud that one word goes at the head of that column and
+no word is to be read out of it, and that after this morning nobody in this city will be able to tell
+whether that column was ever left alone on purpose, and that he is not going to tell anybody what it
+says and is not going to be asked, and that there is one word at the head of that column and there is
+not going to be another. **At the ninth hour the column on the right of that page was bare from the
+head of it to its foot. At the tenth hour there was one word near the head of it and nothing
+whatever anywhere else on that page, and the five figures in the column beside it were the same five
+at the thirteenth hour that they were at the ninth. The only person in that room who could have said
+what that column was for was standing at the near end of that bench in her own sleeves, and about
+nine people had been in that room from the seventh hour, and none of them asked her.** Change: a
+column stops being able to say what it is, because a person put a word in it, and no one asked the
+person who kept it.
+
+**Chapter 0639 — A Cost Named Out Loud By The Man Whose Chalk It Was And Then A Word In The One
+Place On That Sheet.** Day 639, a Wednesday, the three hundred and twenty-fourth. The room over a
+market, the ninth to the thirteenth hour. **The man of about thirty-four who keeps a stall is the
+bolded voice and he is alone in the bold marks, and this is the second cost of the volume and the
+longest single marked turn in the batch at fifty-five words.** He came up that stair before the light
+and stood at the near end of that bench with his two hands on the top rail and the flat of his own
+right thumb along it. **He named the cost out loud and said it is not his and that he is saying it
+in that room so that the person it goes from is standing in it: from that day no page in this city
+can show that a place was left alone on purpose, and the woman who keeps that book is the one it goes
+from.** He said out loud that nobody has asked her what she is going to put in it and nobody is going
+to, and that she is going to do it anyway and is not going to be thanked for it, and that that is the
+whole of what he knows about a page. **The one place under the heading on that sheet had a word in it
+that had not been in it the day before, and it went in after his and in another hand and in another
+mouth and neither of them read it out. The five figures in the column beside it were the same five
+the day before and not one was struck out and no sixth was entered and none was taken out. The
+second slate stood on its shelf with a day cut across the head of it and nothing whatever under that
+day, and nothing in that room lifted it or turned it over or wrote on it and the only hand that came
+near that shelf was the keeper's.** Over the back of the chair at the far end of that bench there is
+a length of new rope, as good as the day it came into this city, and nobody in that room looked at
+it once and no hand lifted it or cut it or took it up, and the man it belongs to is not in that room
+and has not been asked one thing about it by anybody in this city at any hour of this flood.
+**Nobody turned that sheet over at any hour of that afternoon and it is not going up that road on any
+day before the quarterly round comes round again. Her own name is not on that sheet and was not going
+to be, and nothing she says about it four hundred miles off will come back down that road.** Change:
+a man names a second cost out loud so that the person it goes from is in the room, and a word goes
+into the one place on that sheet, and nobody read it out.
+
+**Chapter 0640 — The Wall Of That Room Said One Thing And A Man Agreed With It In About Four Seconds
+And Went Down The Stair.** Day 640, a Thursday, the three hundred and twenty-fifth. The room over a
+market, the ninth to the thirteenth hour. **The man of about thirty-nine who trades on a board is the
+bolded voice and he is alone in the bold marks, and his board is under his arm with nineteen rates in
+three columns and a space about as wide as two of his fingers at the foot of the column between the
+other two, and he did not put a finger in it.** **The wall of that room said one thing, plain, in its
+own block, with no emphasis marks, and it answers nothing.** He agreed with it in four seconds and
+said out loud that it is right and that he has said so out loud and is not going to say it again,
+and that he has been right about a page in about nine words five volumes running and nobody in this
+city has ever thanked him for one of them and he is not going to be thanked for this either. **Nobody
+in that room improved on his handful of words, and nobody asked him one thing about the space at the
+foot of the column between the other two on his own board, and nobody has ever asked him one thing
+about it in this flood. What the agreement costs him is that space and the two are not joined by
+anybody including the narrator.** That sheet was lying shut on the table under the one window with the
+bone still in the near fold of it, and nobody in that room had opened it at any hour of that morning.
+About nine people at that end of the market below knew there was a room over them and not one of them
+knew what was being said in it. **About the twelfth hour he went down that stair and did his own
+trading at the far end of that city. That wall said nothing else on that day and is not going to say
+anything else in this flood, and nothing in that room was settled and nothing was granted and no road
+was opened. The word going four hundred miles is the name of that room and it is on a sheet on a table
+and not on that door, and it is not going on that door, and nobody in that room wrote it there.** The
+door at the foot of that stair had a date in chalk on it at the end of that day and nothing under the
+date but a bare piece of door about as wide as a hand. Change: a man agrees with a wall out loud,
+pays for it in a space on his own board, and goes back to work.
+
+**AND THE THING THE TEN DAYS DID AND DID NOT DO.** Two costs were named out loud in front of about
+nine people and neither was thanked for. One word went into the one place on that sheet and it went
+in after the man whose chalk it was, in another hand, in another mouth, unread. One word went at the
+head of a column on the eighth day and one word went into a place on the ninth, and from the ninth no
+page in this city can show that a place was left alone on purpose. One man agreed with a wall in
+four seconds and went back to his trading. Nobody in this city is ever shown who took the plank off
+the second row on day 611, and on day 636 a man walks on a plank and does not know whose hands laid
+it. **Adrian Vale is in three of these ten — 0632, 0633 and 0636 — and performs no working, opens no
+threshold, ages nowhere, and is thanked by nobody and told by nobody that he was right, and the three
+outcomes are three different things. A figure on a tally-board lying face up on a stack is printed in
+no chapter of this volume. A length of new rope over the back of a chair is named once and no hand in
+this volume lifts it, cuts it or takes it up. No new person, no new descriptor, no new name and no new
+place was introduced. The one panel in this volume is the one in Chapter 0640 and it is the only
+instrument this volume uses, which is what `outline/series.md` DECISION TWO clause 3 requires and not
+a shortage.**
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, DAYS
+641 TO 650, WITH ITS TEN CARDS AT `outline/batches/volume-13-batch-0005.md`, AND BOTH WERE WRITTEN
+BEFORE CHAPTER 0641 EXISTED. DAY 645 IS THE RESOLUTION AND DAY 650 IS THE LAST IMAGE, AND NEITHER OF
+THEM IS A THING A BATCH DECIDES.**
