@@ -1,3 +1,19 @@
+# SUPERSEDED FILE — READ THIS BEFORE ANYTHING BELOW IT. THIS IS NOT A VOLUME 13 PLAN AND IT IS NOT A VOLUME 14 PLAN.
+
+**THE REVIEW REPAIR PASS OF BATCH 0005 PUT THIS NOTICE HERE AND REWROTE NOTHING ELSE IN THIS FILE BUT THE TEN CARD HEADINGS AND ONE SENTENCE OF THE INSTRUMENT, FOR THE REASON GIVEN IN THE LAST PARAGRAPH OF THIS NOTICE. EVERYTHING ELSE BELOW IS THE FIRST EDITION AND IS LEFT AS IT WAS WRITTEN, BECAUSE A CORRECTION PUBLISHED BESIDE ITS OWN FIRST EDITION IS THE CONVENTION THIS REPOSITORY ALREADY USES AND A RECORD QUIETLY REWRITTEN IS A RECORD NOBODY CAN AUDIT.**
+
+**WHY THIS FILE IS SUPERSEDED, AND IT IS FOUR THINGS AND THEY ARE ONE FAULT. `outline/series.md` gives Chapters 0651 TO 0700 to the volume after this one, with its central pressure, its midpoint, its climax and its resolution all published, AND `outline/volume-14.md` DOES NOT EXIST. SO THE TEN DAYS THIS FILE PLANS ARE NOT VOLUME 13'S, AND THEY HAVE NO PLAN BEHIND THEM, AND A CARD FILE WITH NO VOLUME BEHIND IT IS THE THING THE FIRST EDITION ITSELF KEEPS SAYING IN FOUR DIFFERENT PLACES.**
+
+**AND THE FIRST EDITION ASSERTS, AS FLAT FACTS, THAT THERE IS NO NAME, NO RULE AND NO DECISION COLUMN FOR THE VOLUME AFTER THIS ONE. THAT IS NOT TRUE AND IT IS WRONG IN THE DIRECTION THAT MATTERS MOST, BECAUSE A VOLUME'S NAME, ITS CENTRAL PRESSURE, ITS MIDPOINT, ITS CLIMAX AND ITS RESOLUTION ARE ALL PUBLISHED AT `outline/series.md` AND A PHASE THAT READS THE THREE DENIALS BELOW INSTEAD OF THAT WILL WRITE A BATCH THAT FORBIDS THE NEXT VOLUME'S OWN MATERIAL IN THE NEXT VOLUME'S OWN WORDS. THE ONE HALF OF THE SENTENCE THAT IS TRUE IS THAT THE OUTLINE FILE HAS NOT BEEN WRITTEN, AND THE SIXTH FORM, THE DAY MAP, THE OBJECT INVENTORY, THE ANCHOR TABLE, THE PROHIBITION LIST AND THE CAST DECISION ALL COME WITH THAT FILE AND NONE OF THEM EXISTS YET. THE SIX DECISIONS THE FIRST EDITION NAMES AS ABSENT ARE NOT ABSENT, THEY ARE UNWRITTEN, AND THE DIFFERENCE IS THE WHOLE FAULT.**
+
+**THE CORRECT NEXT PHASE IS THE VOLUME 13 CLOSE, AT `workspace/volume-13/close/PROMPT.md`, AND THE PHASE AFTER THAT IS AN OUTLINE PHASE FOR THE VOLUME AFTER THIS ONE, WHICH HAS NOT RUN. A CLOSE PHASE WRITES NO CHAPTER AND A WRITER WHO CAME HERE FOR TEN DAYS HAS FOUND THE NEXT VOLUME'S FIRST BATCH BEFORE THE NEXT VOLUME HAS A PLAN, WHICH IS THE FAULT THE FIRST EDITION DESCRIBED AT LENGTH AND THEN WROTE ANYWAY.**
+
+**WHAT A LATER PHASE MAY TAKE FROM THIS FILE AS RAW MATERIAL, AND IT IS NOT NOTHING: the standing object counts in the table below, which are a reading of the day 650 state and are worth re-deriving and not worth trusting; the four held questions, which are unanswered and stay unanswered; the seven disagreements, which are carried and resolved by nobody; the prose instruments, several of which are good and are the best of anything in this file; the fourteen named debts; and the ten card SHAPES as ten mornings that a future volume may or may not want. WHAT A LATER PHASE MAY NOT TAKE: the volume attribution, the day range, the claim that no plan covers those days, the claim that a decision day is impossible, and the whole of the paragraph that tells a writer that wanting one has gone outside every plan in this repository.**
+
+**AND THE ONE EDIT MADE INSIDE THE FIRST EDITION, WHICH IS FINDING 4, AND IT IS THE WHOLE OF IT. `workspace/volume-13/batch-0005/PROMPT.md` §6.4 and `workspace/volume-13/batch-0006/PROMPT.md` §1 both say in capitals that NO CARD MAY USE AN ORDINAL FOR A MONTH, AND THIS FILE USED ONE IN ALL TEN CARD HEADINGS AND THREE TIMES ELSEWHERE, WHICH IS A STANDING HOUSE RULE BROKEN BY THE FILE THAT ORDERS IT TO BE KEPT. THE ORDINAL HAS BEEN STRUCK OUT OF THE TEN HEADINGS AND OUT OF THE ONE SENTENCE IN THE INSTRUMENT THAT CONTRADICTED ITS OWN PROHIBITION TWO CLAUSES LATER. NO DAY, NO WEEKDAY, NO CARD, NO OBJECT COUNT, NO CAST MEMBER AND NO DECISION MOVED, AND THE ARITHMETIC THAT WAS IN THOSE HEADINGS WAS CORRECT BEFORE THIS EDIT AND IS CORRECT AFTER IT: DAY 651 IS A MONDAY AND DAY 660 IS A WEDNESDAY, BUILT FROM DAY 601 BEING A SUNDAY. THE INSTRUMENT BELOW STILL GOVERNS THE SHAPE OF A DAY AND THE RESOLVER FAULTS BELOW ARE STILL WORTH CARRYING, AND THE READER WHO NEEDS A PLAN FOR THOSE DAYS NEEDS ONE THAT HAS NOT BEEN WRITTEN YET.**
+
+---
+
 # Volume 13, Batch 0006 — TEN CARDS, days 651 to 660, Chapters 0651 to 0660
 
 **A card is a plan. This file is a plan. `outline/volume-13.md` is a plan. A state file is a record of a plan. The page is the fact.**
@@ -24,7 +40,7 @@
 
 **Every figure a card gives is a figure a writer can check, and where a card prints a number the card prints the day it is measured from in the same sentence.**
 
-- **Day 651 is a Monday and the three hundred and thirty-sixth day of the Bare Month. Day 660 is a Wednesday and the three hundred and forty-fifth.** **BUILD THE DAY FROM DAY 601 BEING A SUNDAY AND FROM NOTHING ELSE, AND DO NOT TRANSCRIBE A TABLE, AND DAY 601 IS A SUNDAY BECAUSE DAY 600 IS A SATURDAY AND `bible/power-system.md` §60 IS THE CALENDAR FOR DAYS 601 TO 650 AND NOT FOR THE DAYS THIS FILE PLANS.** **THE SIXTH FORM IS THE BARE MONTH AND THE PLAN'S OWN REGISTER IS OPEN AT THE SIXTH FORM: DAYS 651 TO 660 ARE THE THREE HUNDRED AND THIRTY-SIXTH TO THE THREE HUNDRED AND FORTY-FIFTH DAYS OF THAT MONTH UNLESS A SEVENTH FORM HAS COME ONTO A PAGE BEFORE THEM. NO CARD MAY USE AN ORDINAL FOR A MONTH AND NO CARD MAY SAY WHAT THAT MONTH IS, HOW MANY DAYS IT HAS, OR WHETHER IT IS LONG OR SHORT, AND *of this month*, *of the month*, *of next month* and *of this new month* ARE AT ZERO.** A seventh form comes onto a page the way every other one has, in daylight, in a room, with a date on the door, by a person, who says the cost out loud first and is refused, and who then declines to say how long it is. **A BATCH THAT NEEDS A SEVENTH FORM AND DOES NOT HAVE THE END OF THE BARE MONTH ON A PAGE WRITES INSIDE THE BARE MONTH AND IT MAY NOT DECLARE ANYTHING OVER.**
+- **Day 651 is a Monday. Day 660 is a Wednesday.** **THE ORDINAL WAS STRUCK FROM THIS SENTENCE BY THE REVIEW REPAIR PASS OF BATCH 0005, BECAUSE THIS FILE FORBIDS AN ORDINAL FOR A MONTH NINE WORDS LATER AND USED ONE HERE, AND THE FIRST EDITION OF THE SENTENCE IS AT `outline/batches/volume-13-batch-0006.md` IN THE COMMIT THAT WROTE IT.** **BUILD THE DAY FROM DAY 601 BEING A SUNDAY AND FROM NOTHING ELSE, AND DO NOT TRANSCRIBE A TABLE, AND DAY 601 IS A SUNDAY BECAUSE DAY 600 IS A SATURDAY AND `bible/power-system.md` §60 IS THE CALENDAR FOR DAYS 601 TO 650 AND NOT FOR THE DAYS THIS FILE PLANS.** **THE SIXTH FORM IS THE BARE MONTH AND THE PLAN'S OWN REGISTER IS OPEN AT THE SIXTH FORM, AND **THE TWO HUNDRED-YARD RUN OF ORDINALS THAT OPENED THIS CLAUSE IN THE FIRST EDITION WAS STRUCK BY THE REVIEW REPAIR PASS OF BATCH 0005 FOR THE SAME REASON THE SENTENCE ABOVE IT WAS, AND IT IS NOT HALF-KEPT: A CLAUSE THAT FORBIDS AN ORDINAL ELEVEN WORDS AFTER PRINTING ONE IS NOT A RULE, IT IS A SELF-CONTRADICTION, AND THE FIRST EDITION IS IN THE COMMIT THAT WROTE IT.** NO CARD MAY USE AN ORDINAL FOR A MONTH AND NO CARD MAY SAY WHAT THAT MONTH IS, HOW MANY DAYS IT HAS, OR WHETHER IT IS LONG OR SHORT, AND *of this month*, *of the month*, *of next month* and *of this new month* ARE AT ZERO.** A seventh form comes onto a page the way every other one has, in daylight, in a room, with a date on the door, by a person, who says the cost out loud first and is refused, and who then declines to say how long it is. **A BATCH THAT NEEDS A SEVENTH FORM AND DOES NOT HAVE THE END OF THE BARE MONTH ON A PAGE WRITES INSIDE THE BARE MONTH AND IT MAY NOT DECLARE ANYTHING OVER.**
 - **NO CHAPTER OF THIS BATCH MAY PRINT BOTH HALVES OF ANY SUCH PAIR IN ONE SENTENCE, MAY JOIN THEM, AND MAY GIVE EITHER A MEANING.** The pair that day 650 is was written by a batch that is behind this one and it is carried and it is not resolved here.
 - **Every chapter of this batch names the Bare Month in full at least once, in the form *the Nth day of the Bare Month*, and no chapter prints a day after the three hundred and forty-fifth of that month, converts a count into a span, says the month is nearly over, says what it is a month of, or says whether it is long or short.** The words *length*, *long* and *short* applied to the month stay at zero, **and every occurrence of those three words in these ten chapters is read and named at its row, because all three stand in this manuscript in the ordinary English sense and a sweep that cannot tell the two apart reports its own fault and not the page's.**
 - **THE READING ON THE MARKER FAULT, NAMED HERE BECAUSE THREE BATCHES RUNNING HAVE FOUND IT.** **UNRESTRICTED, over every prose paragraph, a paragraph carrying neither a quotation mark nor a bold mark is the narration-paragraph count and is not a fault; on the ten files of the batch behind this one it stands at 223 of 263.** **RESTRICTED TO PARAGRAPHS IN THE FIRST PERSON, reading: the paragraph's first word is I, the same count is ZERO OF ZERO, because those ten files carry no such paragraph, and a count of zero out of zero is a true zero and is not replaced by the looser reading; on the looser reading, any bounded I token anywhere in the paragraph, it stands at 0 of 24 and every one of the twenty-four carries a marker. BOTH READINGS ARE NAMED BESIDE THEIR NUMBERS AND A ZERO OUT OF ZERO IS PUBLISHED AS A TRUE ZERO.** A paragraph carrying a bold mark and no quotation mark is a fault and is zero across the six hundred and forty files behind this batch and must be zero on these ten.
@@ -83,7 +99,7 @@
 
 ## THE TEN CARDS
 
-### CARD 1 — Chapter 0651, day 651, a Monday, the three hundred and thirty-sixth day of the Bare Month
+### CARD 1 — Chapter 0651, day 651, a Monday
 
 - **Hour and place:** about the seventh hour to the eleventh, the room over a market, the bench, and the shelf behind it.
 - **Counted under:** recovery — **it is the first morning after the last image of a volume, and nothing is decided in it and nothing is sent.**
@@ -93,7 +109,7 @@
 - **What it must not resolve:** it must not print either word, must not put a second word in that column, must not put a name on that door, must not bring any form back into this city, must not answer the question of day 648, must not write a notice, and **must not send anything anywhere, and the better chapter has a person doing something in that room that costs her something and settles nothing.**
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a woman who has spent a thing and is standing in the room the thing was spent in with nothing to do about it. **It is for the first morning after a decision, where the decision is finished and the room has not caught up, and where the only available act is a person putting a book back on a shelf and going on doing the ordinary work of a keeper of a book.**
 
-### CARD 2 — Chapter 0652, day 652, a Tuesday, the three hundred and thirty-seventh day of the Bare Month
+### CARD 2 — Chapter 0652, day 652, a Tuesday
 
 - **Hour and place:** from about the fourth hour to about the ninth, the outside wall at one end of that market, a step, and a row of flags.
 - **Counted under:** character and relationship, not about a word.
@@ -103,7 +119,7 @@
 - **What it must not resolve:** it must not wash that wall, must not have a second person put a hand on the stone above that board's top edge, must not put a line of words under a figure anywhere, must not fill any place, must not put a word in that column, and the wall says nothing in this chapter.
 - **What the chapter is for, in three sentences that are not its ending:** a man does the same work he has done every morning of this flood and the chapter is about his own hands and nobody in the row. **It is for the ordinary morning after a volume, where the instrument that ran the whole volume is a bucket and a rag and neither has been asked about by anybody.**
 
-### CARD 3 — Chapter 0653, day 653, a Wednesday, the three hundred and thirty-eighth day of the Bare Month
+### CARD 3 — Chapter 0653, day 653, a Wednesday
 
 - **Hour and place:** from about the sixth hour to about the eleventh, a wharf yard, a stack of boards, and a barrow.
 - **Counted under:** physical work in weather.
@@ -113,7 +129,7 @@
 - **What it must not resolve:** it must not print that figure, must not say where it came from, must not turn that board face down and cannot, must not wipe anything, **must not take the number of the people who walk past that yard in either direction, must not count the lines of grit, and must not turn the standing figure of about four people a day into a number taken that morning.**
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a man moving a length of cord from one place on a stack to another and putting it back. **It is for a surface nobody reads where it lies, and for the man who owns it saying nothing about the fact that the grit came off the boards and not off the figure.**
 
-### CARD 4 — Chapter 0654, day 654, a Thursday, the three hundred and thirty-ninth day of the Bare Month
+### CARD 4 — Chapter 0654, day 654, a Thursday
 
 - **Hour and place:** from about the sixth hour to about the tenth, a market row, a trestle, and out past the last named house.
 - **Counted under:** character and relationship, not about a word.
@@ -123,7 +139,7 @@
 - **What it must not resolve:** it must not lift that rope, must not ask the man of about fifty-seven anything, must not print a days-out figure for that road, must not count the days since one of the four said no, must not ask the man of about thirty-nine what the missing name is, **must not say what is on any thumb, and must not print an interval that no page in a finished volume carries.**
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a man walking a road he has walked before with a board under his arm and putting it back where it was. **It is for a thing that has happened to him that he has never told anybody about and that no chapter of this batch resolves, and the chapter says nobody asked and does not say why.**
 
-### CARD 5 — Chapter 0655, day 655, a Friday, the three hundred and fortieth day of the Bare Month
+### CARD 5 — Chapter 0655, day 655, a Friday
 
 - **Hour and place:** about the ninth hour to the thirteenth, the room over a market, the bench, and the table under the one window.
 - **Counted under:** political or procedural — **and it decides nothing, because there is no plan here that fixes a decision in it.**
@@ -133,7 +149,7 @@
 - **What it must not resolve:** it must not put a sheet on that table, must not write a notice, must not name a day on which the next one goes out, must not ask the woman of about twenty-nine what the column on the right of that page is for, **she does not say, and the chapter says in narration that nobody asked and does not say why**; it must not print either word, must not put a second word in that column, and must not settle the question of day 648.
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a table with nothing on it and a room that keeps coming to it. **It is for a document that has gone and a room that still has the habit of the document, and for the person who keeps the habit and is not asked to keep it or to stop.**
 
-### CARD 6 — Chapter 0656, day 656, a Saturday, the three hundred and forty-first day of the Bare Month
+### CARD 6 — Chapter 0656, day 656, a Saturday
 
 - **Hour and place:** about the tenth hour to the twelfth, the room over a market, the bench, and the step at the back.
 - **Counted under:** character and relationship, not about a word.
@@ -143,7 +159,7 @@
 - **What it must not resolve:** it must not ask the man of about thirty-nine what the name on his own board is, must not put a word in that space, must not join his space to the column on the right of that page, must not print a line of words under a figure anywhere, must not answer the question of day 648, and must not put a name on that door.
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a man putting a board down on a bench and picking it up again. **It is for a place on a surface that has been left alone for nine years, and this batch's standing position is that the two are not joined by anybody including the narrator, and the chapter is better for saying nothing about it at all.**
 
-### CARD 7 — Chapter 0657, day 657, a Sunday, the three hundred and forty-second day of the Bare Month
+### CARD 7 — Chapter 0657, day 657, a Sunday
 
 - **Hour and place:** from about the sixth hour to about the eleventh, eleven miles of flats, a channel of wet silt in them, and a near gate.
 - **Counted under:** recovery.
@@ -153,7 +169,7 @@
 - **What it must not resolve:** it must not print the word, must not have anybody open that satchel, must not give him a reason for not opening it, must not say which sheet it is in a way that puts it back in this city, **must not print an elapsed figure for the shut road at any day, must not count anything on those flats, and must not make a fifth morning of the count.**
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a man carrying water a long way and coming back with it and a person walking the same ground at another hour. **It is for a walk with nothing coming off it, and for a chapter in which the person who walked eleven miles with a slate and a tin is not asked anything and is not on a page.**
 
-### CARD 8 — Chapter 0658, day 658, a Monday, the three hundred and forty-third day of the Bare Month
+### CARD 8 — Chapter 0658, day 658, a Monday
 
 - **Hour and place:** about the ninth hour to the thirteenth, the room over a market, the bench, and the shelf behind it.
 - **Counted under:** character and relationship, not about a word.
@@ -163,7 +179,7 @@
 - **What it must not resolve:** it must not print the word, must not put a second word in that column, must not add a sixth figure, must not strike one of the five, must not print a fifth morning of the count, **must not ask her why she left the column empty until day 638, must not ask her what the word in that column means, and must not answer the question of day 648.**
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a keeper of a book doing the ordinary business of a keeper of a book in a room of about nine people. **It is for a person inside her own sentences rather than beside the argument, and the best thing available in this chapter is something she does for a stranger that costs her an hour and that nobody thanks her for.**
 
-### CARD 9 — Chapter 0659, day 659, a Tuesday, the three hundred and forty-fourth day of the Bare Month
+### CARD 9 — Chapter 0659, day 659, a Tuesday
 
 - **Hour and place:** from about the sixth hour to about the tenth, a road out of that city and the near end of it.
 - **Counted under:** physical work in weather.
@@ -173,7 +189,7 @@
 - **What it must not resolve:** it must not print an elapsed figure for that road, must not count the days since one of the four said no, must not ask him anything, must not have anybody open that satchel, must not give anybody a reason for not opening it, and must not bring anybody back from that road or send anybody news of the three who went.
 - **What the chapter is for, in three sentences that are not its ending:** the chapter is a man on a road with a bar under his arm and a satchel that is shut. **It is for the road this manuscript has not gone down, and for a man who walks it and is not asked what it is like and does not say, and the better chapter has him do a piece of work and go on.**
 
-### CARD 10 — Chapter 0660, day 660, a Wednesday, the three hundred and forty-fifth day of the Bare Month
+### CARD 10 — Chapter 0660, day 660, a Wednesday
 
 - **Hour and place:** from about the fourth hour to about the tenth, a market, a wall, a step, a yard at the near end of eleven miles of flats, a room, and a road out of that city.
 - **Counted under:** recovery, **and it is the last day of this batch and not a last image of anything, because a last image is a thing a volume decides and this file has no volume to decide one and no plan that fixes one.**
