@@ -12,7 +12,7 @@ The man of about thirty-one who carries things for a living was on the bottom st
 
 He has carried four sheets of that shape up that road in this flood and he has never opened one of them. He knows what is in one thing he has carried and he is not going to be asked what is in this one, and nobody in that room asked him.
 
-She said it out loud to that room, in the local language, at about the seventh hour, and she said it before she touched the sheet, and it was the whole of what she said about it.
+She put it out loud to that room, in the local language, at about the seventh hour, and she put it before she touched the sheet, and it was the whole of what she said about it.
 
 "**I am folding this along the two folds it came up that road in and pressing the bone down the length of both of them, and my name is not on it and is not going on it, and nobody in this room is going to open it, and the word in it goes four hundred miles and I am not going with it.**"
 
@@ -50,6 +50,6 @@ That register was back on its shelf behind that bench with its spine to the wall
 
 The second slate stood on that shelf on its edge with its written face to the plaster and a day cut across the head of it and nothing whatever under that day, and it did not move at any hour of that morning and the only hand which came near that shelf was hers.
 
-That sheet is four hundred miles up a road that goes out of this city, in a satchel with a flap, and it is the second thing this flood has sent out of this city with words on it, and it is not withdrawn and it is not coming back.
+That sheet is four hundred miles up a road that goes out of this city, in a satchel with a flap, folded along the two folds it came up that road in with the bone lying in the near fold of it, and it went out of this city this morning and it is not coming back to this table.
 
-The room it came from has a name on that sheet and on nothing else at all, and there is a date in chalk on the outside of the door at the foot of that stair with nothing under it, and nobody in this city is going to be told what that name is.
+The room it came from has a name on that sheet and on nothing else at all, and the word that went four hundred miles is the name of that room and it is on a sheet in a satchel with a flap and not on anything else in this city, and nobody in this city is going to be told what that name is or where it has got to.

@@ -30,13 +30,11 @@ Nobody in that room improved on that and nobody argued with it and nobody thanke
 
 That morning produced two people in that room who wanted opposite things out of it, and neither of the two of them got what it was.
 
-There are nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it. There is no name on any page in this city that belongs in that space, and nobody in that room has ever asked him what was in it.
+There are nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it, and there is no name on any page in this city that belongs in that space, and nobody in that room has ever asked him what was in it.
 
 A man at the step wanted a copy of the number at the head of that column on the right of that page, on the grounds that a thing nobody can copy is a thing that is not there. He asked for that twice, once at about the ninth hour and once at about the tenth, and he asked the keeper both times, and nobody in that room copied it onto anything.
 
 "Write it out on anything and I will take it down to my own front myself."
-
-There are nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it, and there is no name on any page in this city that belongs in that space, and nobody in that room has ever asked him what was in it.
 
 A man who trades rates on a board went past the open door of that room at about the tenth hour on his way down to that market and did not come in, and nobody in that room saw him go past and nobody in that row is going to be told that he did not come in.
 
@@ -54,6 +52,6 @@ She shut that book at about the half hour after the tenth hour and put it back o
 
 ---
 
-At about the eleventh hour that room over that market was empty except for the woman of about twenty-nine and the second slate on its shelf behind that bench, standing up on its edge with its written face to the plaster, with a day cut across the head of it and nothing whatever under that day.
+At about the eleventh hour that room over that market was empty except for the woman of about twenty-nine, and the light off the one window had come across the top of that bench and across the place where that book had been lying, and the second slate was on its shelf behind that bench standing up on its edge with its written face to the plaster and a day cut across the head of it and nothing whatever under that day.
 
-Nobody in this city will be able to say afterwards whether the column on the right of that page was ever left alone on purpose, and the only person in this city who could have said what it was for had that room to herself in it at the half hour after the tenth hour of the three hundred and thirty-fourth day of the Bare Month, and nobody came up that stair.
+The only person in this city who could have said what that column was for had that room to herself in it at the half hour after the tenth hour of the three hundred and thirty-fourth day of the Bare Month, and nobody came up that stair.

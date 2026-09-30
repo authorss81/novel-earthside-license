@@ -6,7 +6,7 @@ It was about the seventh hour on the three hundred and twenty-seventh day of the
 
 That yard is a rectangle of beaten ground between a wall and the top of those flats. A stack of boards stands along the wall with its ends squared off and its top face about as high on a man as his own chest.
 
-On the top of that stack, squared with the boards under it and with nothing else in that yard, is that board, and a line of grey grit lies across the figure on it from one end of that figure to the other, and a second line lies across the first at an angle to it.
+On the top of that stack, squared with the boards under it and with nothing else in that yard, is that board, and a line of grey grit lies across the figure on it from one end of that figure to the other.
 
 No person in this city has ever been shown where that figure came from, and no person in this city has ever put a question to him about it. No page in this flood prints what that figure is, and nobody in that yard said one word about it at any hour of that morning.
 
@@ -20,7 +20,7 @@ A man with a barrow of his own came into that yard at about the half hour after 
 
 The man of about thirty-eight said it to the length of cord and not to the man with the barrow, and he did not pick it up off the boards to say it.
 
-"**That cord has been lying at the foot of this stack every morning since the water came and it is not mine and it is not yours, and you are going round the far end of that stack the same as everybody else, and I am not going to move a rope off that ground for a barrow that has nothing in it.**"
+"**That cord has been lying at the foot of this stack every morning since the water came and it is not mine and it is not yours, and you are going round the far end of that stack the same as everybody else, and I am not going to move a rope off that ground for a barrow that has nothing in it, and I have not moved it for a woman with a basket either.**"
 
 Nobody in that yard improved on that and nobody thanked him for it, and nobody in that yard said that he was right. The man with the barrow went round the far end of that stack with the shafts of his own barrow on his shoulder and came back out at the open end of that yard, and there is no barrow in this city with anything on it on any day of this flood.
 
@@ -32,11 +32,11 @@ A woman with a hand-basket came to the open end of that yard at about the eighth
 
 Adrian Vale put that trough down against the foot of that wall and came to the top of that stack with his hand out. He did not take the tally-board up and he did not turn it over, because a board turned over carries what is lying on it to the other side and leaves it lying there.
 
-He took hold of the near end of that length of cord where it lay on the top face of the stack and lifted it, and grit came off the boards above and came down onto that cord where his own hand was holding it, and it stayed on the cord. It did not come off that board. He put the cord down again along the near edge of the topmost board, where it had been, and the grit lay along it, and the two lines across the figure on that tally-board were not wiped and were not added to.
+He took hold of the near end of that length of cord where it lay on the top face of the stack and lifted it, and grit came off the boards above and came down onto that cord where his own hand was holding it, and it stayed on the cord. It did not come off that board. He put the cord down again along the near edge of the topmost board, where it had been, and the grit lay along it, and the line across the figure on that tally-board was not wiped and was not added to.
 
 He said one thing out loud at about the ninth hour, to the top of that stack and not to the man at the foot of it, and nobody in that yard had asked him for it.
 
-"**I came out here to get a cord off that figure and it is not going to come off it, and I am not going to wipe a board that has been lying face up in the weather since the water came, and I have been out on these flats since before the light and I am not going to be told by a yard what is on the top of a stack.**"
+"I came out here to get a cord off that figure and it is not going to come off it, and I am not going to wipe a board that has been lying face up in the weather since the water came, and I have been out on these flats since before the light and I am not going to be told by a yard what is on the top of a stack."
 
 Nobody in that yard improved on that either and nobody thanked him for it, and the man of about thirty-eight at the foot of that stack did not look up at him and did not say a word back.
 
@@ -52,9 +52,9 @@ The trough, the bucket and the rag are one of each in this city and there is no 
 
 The man of about thirty-eight said one more thing at about the half hour after the ninth, to the length of cord on the boards, and it was the second time that morning he had said anything at all in that yard and nobody had asked him for either of the two of them.
 
-"**Two lines across that figure and neither of them wiped, and about four people a day go past the open end of this yard and not one of them has ever stopped, and I am the man who owns that board and nobody in this city has ever asked me where the number on it came from and I am not going to start this morning.**"
+"**Grit across that figure since the water came and not one of it wiped, and about four people a day go past the open end of this yard and not one of them has ever stopped, and I am the man who owns that board and nobody in this city has ever asked me where the number on it came from and I am not going to start this morning, and the cord on my boards can lie there until it rots as far as I am concerned.**"
 
-Nobody answered him and nobody thanked him and nobody in that city is going to be told any of it. The two lines lay across that figure where they had lain, and the third of them lay along a length of cord on the topmost board, and nothing in that yard was turned over and nothing was wiped.
+Nobody answered him and nobody thanked him and nobody in that city is going to be told any of it. That line lay across that figure where it had lain, and another of that grit lay along a length of cord on the topmost board where it had come down, and nothing in that yard was turned over and nothing was wiped.
 
 ---
 

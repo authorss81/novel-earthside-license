@@ -12,7 +12,7 @@ A fence stands along the top of a road that is shut, out past that last named ho
 
 The road under that fence goes out of this city and it is four hundred miles long. Three barrows stand on it with nothing on any of them and a party of four is four, three of them went and one of them said no before anybody was asked, and nobody in this city can be shown one person standing on that road. No chapter of this flood prints how far along that road anybody is, and nobody in this city is going to be told.
 
-He said one thing out loud at the near end of that fence, to the near post and not to the man of about thirty-eight who had gone on up the row, and nobody there had asked him for it.
+He put one thing out loud at the near end of that fence, at the near post and not at the man of about thirty-eight who had gone on up the row, and nobody there had asked him for it.
 
 "**Sixteen of them and eleven of the other and nobody has ever put a hand on the top of this one, and I am not the man who starts it, and I am going back down that row the same way I came out.**"
 
@@ -32,7 +32,7 @@ A man with a board under his own arm stopped at that end of the row at about the
 
 The man of about thirty-four said it to the ground between his own two feet, and he did not turn about to say it, and it was the last time he said anything at all that day.
 
-"**I have never asked her what that column is for and I am not going to ask her on a Sunday morning, and a man who has not asked her is not a man anybody has to be told anything about, and I am that man and I have been that man for a week.**"
+"**I have never asked her what that column is for and I am not going to ask her on a Sunday morning, and a man who has not asked her is not a man anybody has to be told anything about, and that is me, and it has been me since that column got a word in it.**"
 
 Nobody in that row made a better thing of that either and nobody thanked him for it, and nobody asked the man with the board what was in that space at the foot of the column between the other two, and the man with the board went on along that row and did not ask him a second thing.
 
@@ -46,7 +46,7 @@ Nobody in that row answered him and nobody told him to mind his own business and
 
 There are two pieces of chalk in this flood and they are not one chalk, and no hour of that day put both of them in one hand. One of them is the store's own, in a heap on the flags at the end of that market row, with about a third of it gone into the channel, and its box is on the step above those flags with the lid of it lying down on the rim of it, and that lid has never shut.
 
-The other one is in that man's own inside breast pocket, and it came out of that pocket once in three hundred and forty days and went back the same afternoon, and the man of about thirty-four put the flat of his own hand over that pocket at about the tenth hour and at about the eleventh and did not open it.
+The other one is in that man's own inside breast pocket, and it came out of that pocket once, on the six hundred and thirty-eighth day of this flood, and went back the same afternoon, and the man of about thirty-four put the flat of his own hand over that pocket at about the tenth hour and at about the eleventh and did not open it.
 
 Over the back of a chair at the far end of that bench in the room over that market there is a length of new rope, and it is as good as the day it came into this city. Nobody in that room looked at it once on that day and nobody in this city has ever asked the man it belongs to one single thing about it.
 

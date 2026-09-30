@@ -24,7 +24,7 @@ She answered three other questions in that hour, twice for a figure of this city
 
 The man of about thirty-nine took his hand off the face of his own board and put it flat on the top rail of that bench and said it to the middle of that room, and it took him about four seconds, and about four people in that room were near enough to have taken all of it in.
 
-"**I have never asked her what that column on the right of that page is for, and I have said so out loud twice this week already, and I am saying it a third time this morning because it is a Monday and I would rather say it three times and be wrong once than say it twice and be asked why I stopped.**"
+"**I have never asked her what that column on the right of that page is for, and I have said so out loud twice already this week, and I am saying it a third time this morning because it is a Monday and I would rather say it three times and be wrong once than say it twice and be asked why I stopped.**"
 
 Nobody in that room improved on that and nobody said that he was right and nobody thanked him for saying it the third time, or for saying it either of the two times before it, and nobody came at him afterwards with a second question about it.
 

@@ -14,7 +14,7 @@ The sheet on the table under the one window is shut along the two folds it came 
 
 The woman of about twenty-nine said it at about the ninth hour, in the local language, to the middle of that room and not to any one person in it. She took her own hands off the rail and put them flat on the top of the bench instead, and she did not raise her voice.
 
-"**Ten days every person in this room has looked at me and not at the book, and I am the only one here who could have said what that column was for, and none of you asked, and I am saying it now so that it is in the air and not in my own head, and that is the whole of what I get out of it.**"
+"**Every day of this flood every person in this room has looked at me and not at the book, and I am the only one here who could have said what that column was for, and none of you asked, and I am saying it now so that it is in the air and not in my own head, and that is the whole of what I get out of it.**"
 
 Nobody improved on that and nobody argued with it and nobody in that room thanked her for saying it, and the man it was about was not in that room and did not thank her either.
 
@@ -62,4 +62,4 @@ Nobody in that room wrote a notice that day, and there is not going to be an eig
 
 At about the twelfth hour there were about four people left in that room. The man at the far end of that bench who had said a cost out loud is a different thing from a cost out loud, and he had said so once and had not said it twice, and the woman who keeps that book let him have said it and did not agree with it and did not argue with it either.
 
-A thing said out loud in a room is not the same as the thing being in the room. The cost was named at the ninth hour on the three hundred and twenty-sixth day of the Bare Month by the person it falls on, in her own mouth, in front of about nine people, and nobody thanked her for naming it, and nothing in that room was done about it at any hour of that day, and the sheet on the table under the one window stayed shut and went nowhere at all that morning.
+A thing said out loud in a room is not the same as the thing being in the room. The cost was named at the ninth hour on the three hundred and twenty-sixth day of the Bare Month by the person it falls on, in her own mouth, in front of about nine people, and nobody thanked her for naming it, and nothing in that room was done about it at any hour of that day.

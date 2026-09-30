@@ -28,7 +28,7 @@ She stood at the near end of that bench with her own hands flat on the wood in f
 
 Two people in that room wanted two different things out of the rest of that morning and neither of them got what it was.
 
-A man at the step wanted that room settled before the light went off the one window, on whatever it was that room had been doing for a week, and he put it to the middle of that room in the ordinary way at about the eleventh hour. About four people in that room told him that nobody in that room had been told what to settle, and about four told him nothing at all, and nobody in that room settled anything.
+A man at the step wanted that room settled before the light went off the one window, on whatever it was that room had been doing for days, and he put it to the middle of that room in the ordinary way at about the eleventh hour. About four people in that room told him that nobody in that room had been told what to settle, and about four told him nothing at all, and nobody in that room settled anything.
 
 "Then what is it we are all standing in this room for."
 

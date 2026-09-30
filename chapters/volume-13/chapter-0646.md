@@ -10,15 +10,21 @@ That board is on the outside wall of a store at one end of that market. Three se
 
 ---
 
-He washed that board at the fourth hour and put it back up on those two nails at about the half hour after the fourth, and then he washed it again at about the ninth hour because there was grit on it that had not been on it at the fourth.
+He washed that board at the fourth hour and put it back up on those two nails at about the half hour after the fourth, and that was the whole of what he did to it that morning.
 
-Then he took his own two hands off it and stood looking at it, and it was washed twice that morning and he had washed it once every morning of this flood before that, and nobody in that row had asked him for the second one and nobody in that row was going to be thanked for the first one.
+He came back along that row at about the ninth hour with the bucket in his own right hand and the rag over his own shoulder, and he stood in front of that wall and looked at it, and there was grit on the face of that board that had not been on it at the fourth, and he put his own hand flat on the top edge of it and left it there where it was, and he took his own hand off it again and carried the bucket on down that row.
 
-He said it out loud to that board with his own hand flat on its face, and it was about the tenth hour, and nobody in that row had asked him for it.
+Nobody in that row asked him why he was standing in front of that board at the ninth hour with a wet rag over his own shoulder and nothing in his own hands, and nobody in that row is going to be told.
 
-"**That board has been washed once every morning since the water came and I washed it twice this morning for the sake of a line of grit that was on it, and it is going to be once tomorrow, and nobody in this row has ever asked me how many times I do it and nobody in this row is going to be told.**"
+He said it out loud to that board at about the tenth hour, with his own hand flat on its face and the grit still on it, and nobody in that row had asked him for it.
+
+"**That board has been washed in two passes every morning since the water came and I washed it once this morning, and there is grit on the face of it now and it can have that until tomorrow, and nobody in this row has ever asked me how many times I do it and nobody in this row is going to be told.**"
 
 Nobody in that row improved on that and nobody thanked him for it and nobody asked him which of the three sets of figures on that board was the one they should be reading. Nobody in this city is going to be told either, and that board is not blank and it is not clean and it is stale, and it is going to be washed again in the morning.
+
+He said one more thing out loud at about the half hour after the tenth, to the rag on that stone lip and not to anybody standing at a front, and nobody in that row had asked him for that one either.
+
+"**That rag goes on that stone lip every morning and comes off it every morning and nobody in this row has ever asked me what it is for, and it is not for the trough, and I have not got a second one and I am not going to say where a second one would come from.**"
 
 ---
 
@@ -38,7 +44,7 @@ Two people at that end of that market wanted two different things out of that mo
 
 A woman who keeps a stall two along wanted that trough moved off the high ground of that row and put down at the end of it by the step, on the grounds that a trough on high ground is a trough that does nothing. She said so once, standing at her own front, and he said it to the trough and not to her.
 
-"**That trough is on the high ground because the low ground of this row is under, and you have a front of your own to stand behind, and I am not moving a thing off the ground for a person who is not standing in the water.**"
+"That trough is on the high ground because the low ground of this row is under, and you have a front of your own to stand behind, and I am not moving a thing off the ground for a person who is not standing in the water."
 
 Nobody in that row improved on that and nobody thanked him for it, and she went on standing at her own front and did not come back to that end of the row that day.
 
@@ -46,7 +52,7 @@ A man at the end of the row wanted a line of words put under the bottom set of f
 
 "Put a line under the bottom one. One line, and the row can read it."
 
-Neither of them got it. That trough stayed on the high ground of that row, and that board went up on its two nails and came down again and went up again with nothing under any of the three sets of figures on it, and the wall above the top edge of that board was not washed by anybody at any hour of the three hundred and thirty-first day of the Bare Month.
+Neither of them got it. That trough stayed on the high ground of that row, and that board went up on its two nails at the half hour after the fourth hour and was still on them at the ninth with grit on the face of it and nothing under any of the three sets of figures on it, and the wall above the top edge of that board was not washed by anybody at any hour of the three hundred and thirty-first day of the Bare Month.
 
 ---
 
@@ -54,4 +60,6 @@ A line of words set under a figure on a form is a kind of thing that went out of
 
 Not one hand in that row went up onto the stone above the top edge of that board at any hour of that day, and there was nobody at that end of that market in the middle of that morning that anybody in that row had not already seen standing at his own front, and about four people along that row noticed the trough go past the step and about four did not.
 
-The rag went back on the stone lip of that step at about the tenth hour, and the trough went back against the foot of that wall to drip, and a man two stalls along went on serving his front all afternoon with the flat of his own hand down, and nobody in that row has looked at that hand and nobody is going to.
+The rag went back on the stone lip of that step at about the tenth hour and the trough went back against the foot of that wall to drip, and a man two stalls along went on serving his front all afternoon with the flat of his own hand down and has not washed that hand, and nobody in that row has looked at it and nobody is going to.
+
+That board is on its two nails at one end of that market with grit on the face of it that was not on it at the fourth hour, and it is going to be washed once in the morning and not twice, and nobody in that row was told that is why, and there is nobody in that row who is going to be told.

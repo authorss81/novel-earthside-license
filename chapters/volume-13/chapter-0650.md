@@ -26,17 +26,19 @@ The man of about thirty-nine who trades on a board went up the stair at the back
 
 He came into that room, stood at the far end of that bench for a quarter of an hour, and went back down that stair again without saying one word in that room at any hour of that morning.
 
+A woman who keeps a stall in the market below came up that stair behind him at about the eighth hour with her own basket in her own hand and asked whether the man who had just gone down had said anything in that room, and the woman of about twenty-nine said that she had not heard him say anything, and the woman with the basket said that a man who comes up a stair and says nothing is a man who has been told to say nothing, and then she went back down it.
+
+"He was up there a quarter of an hour and he never opened his mouth."
+
 The woman of about twenty-nine who keeps a public register was at the near end of that bench from about the seventh hour to about the tenth with her own hands flat on the wood in front of her.
 
 On the shelf behind her that book stands with its spine to the wall, five figures down the column in the middle of that page with a day written in beside each of them and not one of the five struck out, and the column on the right of that page carrying one word near the head of it and nothing anywhere else on that page. Behind that book on the same shelf a second slate stands up on its edge with its written face to the plaster, a day cut across the head of it and nothing whatever under that day, and the only hand which came near that shelf that morning was hers.
 
-Nobody in that room asked her anything at any hour of that day.
-
-Nobody in that room asked her anything at any hour of that day.
+Nobody in that room asked her anything at any hour of that day, and nobody in that room is going to be told what she did with that morning.
 
 ---
 
-At the near end of eleven miles of flats there is a yard, and a stack of boards stands in it with the ends squared off. On the top of that stack lies a tally-board, face up, with a figure of this city's own cut into the side of it that the sun gets to, and two lines of grey grit lie across that figure and neither of them has been wiped. Nobody in this city has ever been shown where that figure came from and nobody has ever asked him about it, and that board is not turned over on its face and cannot be, and no page in this flood prints what is on it.
+At the near end of eleven miles of flats there is a yard, and a stack of boards stands in it with the ends squared off. On the top of that stack lies a tally-board, face up, with a figure of this city's own cut into the side of it that the sun gets to, and a line of grey grit lies across that figure and has not been wiped. Nobody in this city has ever been shown where that figure came from and nobody has ever asked him about it, and that board is not turned over on its face and cannot be, and no page in this flood prints what is on it.
 
 One kind of thing in this flood was counted on foot out along those flats on four mornings and there is no fifth morning of it. The four figures those four mornings came out with are in that book with a day written in beside each of them, and the four of them do not agree with one another and were not allowed to, and nothing came off those flats on that Sunday.
 
@@ -47,6 +49,14 @@ The man of about thirty-four said it out loud at about the ninth hour, at the ba
 "**That board went up on two nails this morning and the one beside it is face in against my own trestle and the piece of chalk in my own pocket went in on the two hundred and ninety-eighth day of this flood and came out once, and nobody in this row is going to be told what is on my thumb and nobody is going to thank me for a morning I spent standing at a fence.**"
 
 Nothing in that row improved on that and nobody in that row said he was right and nobody in that row thanked him, and a woman at the front of the stall next along said that she had been at that front since before the light, and he did not say anything back to her about it.
+
+A man at the front two along wanted to know whether the board that was face in against that trestle was going to stay that way all morning, on the grounds that a board stood face in is a board nobody can read a price off. He said it once, across that row, and he said it to the front of his own stall and not to the man with the board.
+
+He answered it to the bare back of his own board and he did not turn about to answer it, and it was the second time that morning he had said anything at all in that row and nobody had asked him for either of the two of them.
+
+"**It has been that way since the day I took it down and nobody at that end of this row has asked me why, and it is going to be that way at the fourth hour tomorrow, and there is nobody in this row who is going to be told what a board is for until somebody in it asks me and does not get an answer.**"
+
+Nothing in that row improved on that either and nobody thanked him for it, and the man at the front two along went back to his own front and did not ask him a second thing about it.
 
 ---
 
@@ -60,6 +70,8 @@ Over the back of a chair at the far end of that bench in that room there is a le
 
 ---
 
-At about the tenth hour that man of about thirty-four turned about at the back of his own trestle and put that board face in against it with the bare back of it out in that row, and walked the length of that row with his own right hand in his own pocket and his own left hand empty, past the trough standing against the foot of that wall and past the rag lying on that stone lip and past the store where the flags were beginning to dry. Nobody in that row stopped him and nobody in that row said one word to him about the fence or about the board or about the pocket.
-
 At the foot of the stair at the back of that room over that market there is a date in chalk on the outside of the door, in full, and nothing whatever under it, and a bare piece of door about as wide as a hand below that date.
+
+At about the tenth hour that man of about thirty-four turned about at the back of his own trestle and put that board face in against it with the bare back of it out in that row, and then he walked the length of that row with his own right hand in his own pocket.
+
+He went past the trough standing against the foot of that wall and past the rag lying on that stone lip and past the store where the flags were beginning to dry, and nobody in that row stopped him and nobody in that row said one word to him about the fence or about the board or about the pocket, and nobody in that row thanked him for the morning.
