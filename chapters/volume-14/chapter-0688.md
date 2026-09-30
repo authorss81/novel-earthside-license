@@ -12,9 +12,9 @@ Seven notices have gone out of this city in this flood, and not one has been wri
 
 "**I have been in this room every morning of this flood and it does the same thing on all of them, and I have not once gone out of it able to show anybody where anything was settled, because there has not been anything settled in it to show anybody.**"
 
-She got no thank of it out of anybody in that room and nobody improved on what she had said, and she went on sitting at the far end of that room with her own hands where they had been.
+The woman of about twenty-nine who keeps a public register opened her own register at the fourth hour the way she opens it every morning of this flood, at the angle she always opens it to, and put her two hands flat on the bench on either side of it. She did not write in it. She turned no page. She sat with it open in front of her for the whole of that hour while the light off the one window came across it and went off it again as the cloud came over, and four of the people in that room looked at the open page and the rest of them did not, and not one of them asked her what it was for.
 
-The woman of about twenty-nine who keeps a public register opened that register at the fourth hour the way she opens it every morning of this flood, at the angle she always opens it to, and put her two hands flat on the bench on either side of it. She did not write in it. She turned no page. She sat with it open in front of her for the whole of that hour while the light off the one window came across it and went off it again as the cloud came over, and four of the people in that room looked at the open page and the rest of them did not, and not one of them asked her what it was for.
+Four of them said out loud, in that room, that they had no notion what the woman at the far end of that room was on about, and the rest said nothing, and nobody thanked her for saying it out loud in there, and the woman who keeps the book did not look up from the page in front of her.
 
 ---
 
