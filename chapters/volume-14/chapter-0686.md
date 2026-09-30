@@ -2,7 +2,7 @@
 
 The satchel was standing on the bottom step of the stair at the back of that room between the boots of the man of about thirty-one who carries things for a living, and he had both hands flat on the top of it, and the flap was down flat over nothing at all, and it had been behind the bench in that room on the Wednesday and had come back to him since. It was about the sixth hour on the three hundred and seventy-first day of the Bare Month, a Monday, and four people went past that door that morning and every one of them got the date off the chalk on it and none of them stopped.
 
-The wood under that date is bare for the width of a hand and has been since before anybody in this city can remember, and nothing whatever is on it and nothing has ever been on it in this flood, and no person in this city has been told by anybody that they may put a thing on it.
+The wood under that date is bare for the width of a hand, and nothing whatever is on it and nothing has ever been on it in this flood, and no person in this city has been told by anybody that they may put a thing on it.
 
 ---
 
@@ -28,4 +28,4 @@ A man with a bundle went up past him and stopped two steps below and said that a
 
 Nobody argued with him about that and nobody said anything against it and nobody thanked him for saying it, and about nine people went up and down that stair behind him for the rest of that morning and got the date off the door and went on.
 
-At about the tenth hour he lifted the satchel off the step, carried it out into the row, and set it down on the trestle of a woman with a cloth over it at that end of the market. He took his hand off the top of it and put his own hand flat on the trestle beside it for a moment and then took that off as well, and went back up the stair empty, and the satchel stood on that woman's trestle with the flap down and she had not touched it and did not know what was in it.
+At about the tenth hour he lifted the satchel off the step, carried it out into the row, and set it down on the trestle of a woman with a cloth over it at that end of the market, and she went on with the cloth she had over the trestle and never once looked down at it. He went back up the stair to the bottom step and sat down on it in the place the bag had been standing, and a man coming down past him had to turn his own body sideways on the stone to get by him and went on down into the row.

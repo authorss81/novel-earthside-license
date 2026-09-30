@@ -12,9 +12,9 @@ Seven notices have gone out of this city in this flood, and not one has been wri
 
 "**I have been in this room every morning of this flood and it does the same thing on all of them, and I have not once gone out of it able to show anybody where anything was settled, because there has not been anything settled in it to show anybody.**"
 
-The woman who keeps the book opened that register at the fourth hour the way she opens it every morning of this flood, at the angle she always opens it to, and put her two hands flat on the bench on either side of it. She did not write in it. She turned no page. She sat with it open in front of her for the whole of that hour while the light off the one window came across it and went off it again as the cloud came over, and four of the people in that room looked at the open page and the rest of them did not, and not one of them asked her what it was for.
+She got no thank of it out of anybody in that room and nobody improved on what she had said, and she went on sitting at the far end of that room with her own hands where they had been.
 
-Four of them said out loud, in that room, that they had no notion what she was on about, and the rest said nothing, and nobody thanked her for standing up in a room and saying it, and the woman who keeps the book did not look up from the page in front of her.
+The woman of about twenty-nine who keeps a public register opened that register at the fourth hour the way she opens it every morning of this flood, at the angle she always opens it to, and put her two hands flat on the bench on either side of it. She did not write in it. She turned no page. She sat with it open in front of her for the whole of that hour while the light off the one window came across it and went off it again as the cloud came over, and four of the people in that room looked at the open page and the rest of them did not, and not one of them asked her what it was for.
 
 ---
 
@@ -28,7 +28,7 @@ Nobody in that room improved on it and nobody said he was right. A woman at the 
 
 The others of them said nothing at all, and nobody in that room put the question to any one person in it, and the morning went on. A man at the near end said out loud that whatever it was it had been going on for longer than the four of them had been in that room, and a woman at the far end said that she had been in the room over that market before any of them and it had been doing the same thing then, and nobody argued with either of them and nobody asked either of them how they knew.
 
-The bar of light off the one window came off the open page and went along the top of the bench and reached the near end of it and stayed there, and the woman who keeps the book moved her two hands on the bench a little apart from where they had been and did not close the book and did not say anything, and the man who trades on a board did not move out of the far end of that room and did not say a word.
+The bar of light off the one window came off the open page and went along the top of the bench and reached the near end of it and stayed there, and the woman who keeps the book moved her two hands on the bench a little apart from where they had been and did not close the book and did not say anything, and the man of about thirty-nine who trades on a board did not move out of the far end of that room and did not say a word.
 
 ---
 

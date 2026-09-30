@@ -1,10 +1,10 @@
-# Chapter 0687 — Two Hands At Each End Of A Bench In A Room With Nine People In It And A Stool Standing In The Dark End
+# Chapter 0687 — Two Hands At Each End Of A Bench Being Cleared In A Room Where Nothing Is Going To Be Written Down
 
 The woman of about twenty-nine who keeps a public register had one hand flat on the top of that bench at the end nearest the window and the other flat on the top of it at the end nearest the stair, and she was clearing it. It was about the fourth hour on the three hundred and seventy-second day of the Bare Month, a Tuesday, and four people were in that room, and the light off the one window had not yet come across the bench.
 
 The register stood on the shelf behind her with five figures down the middle of the page, a day entered against each, nothing struck through, and the one word at the head of the column on the right of that page where it has been since the day it was put there. The second slate on that same shelf was standing with its face to the wall, a day cut across the top of it and the rest of it bare, and it stayed where it was that morning and her own hand was the only one that went near that shelf.
 
-Against the far wall of that room, in the dark end where the light off the one window does not reach, a stool was standing that had not been standing there before the Saturday, and nobody in that room knew who had put it there or why it was there.
+Against the far wall of that room, in the dark end where the light off the one window does not reach, a stool was standing that had not been standing there before the Saturday before last, and nobody in that room knew who had put it there or why it was there.
 
 Outside, at the foot of that stair, somebody had chalked a date on that door, the three hundred and seventy-second day of that month in full, and everything below that date was bare wood the width of a hand, and four people went by in the ordinary course of the morning and took the date away with them.
 

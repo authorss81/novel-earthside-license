@@ -22,7 +22,7 @@ Twice on that row the wind got under the water and put it across the stone in a 
 
 The channel along the low side of that row takes a boot to the ankle in the middle of it and is about as wide as two flat stones laid end to end, and he got to the near end of that row at the seventh hour and stood in it up to the middle of his boot with the trough set down on the high side of the stone and the bucket standing in the water at his own feet.
 
-The man of about thirty-eight at the salt wharf came out of his own yard door at that hour and stood in the doorway and looked at him standing in there. Neither of them said one word to the other, and the other one did not come out of the doorway, and he did not turn round and look at him again. He put his own hand flat on the rim of the trough and lifted it and carried it the length of his own arm and set it down again, and the water that came off the flats filled it and went over the rim and he let it.
+The man of about thirty-eight at the salt wharf came out of his own yard door at that hour and stood in the doorway and looked at him standing in there. Neither of them said one word to the other, and the other one did not come out of the doorway, and he did not turn round and look at him again. He put his own hand flat on the rim of the trough and lifted it and set it down again further along the stone, and the water that came off the flats filled it and went over the rim and he let it.
 
 ---
 
@@ -34,4 +34,4 @@ He came back up that row at the ninth hour with the trough lighter than it went 
 
 Nobody in that row asked him why he had stopped at it the first time and nobody thanked him for stopping at it, and the man with the barrow had gone back inside by then and his own yard door was shut.
 
-In the low ground where the water comes off the stone between the near end of that row and the market he stopped, and set the trough down in it and left it standing there with the water going over the rim of it. He shifted the bucket up into his other hand and pulled the rag back over his own shoulder where it had been all the way out and all the way back, and he went on up that row towards the market with the trough behind him in the water and his own two hands otherwise empty.
+In the low ground where the water comes off the stone between the near end of that row and the market he stopped, and set the trough down in it and left it standing there with the water going over the rim of it. He drew the bucket up off his own hip and took the handle of it in both hands and pulled the rag back over his own shoulder where it had been all the way out and all the way back, and he went on up that row towards the market with the trough behind him in the water and his own two hands on the bucket.

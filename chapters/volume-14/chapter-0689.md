@@ -10,7 +10,7 @@ A date in chalk was on that door at the foot of that stair, and the three hundre
 
 Nobody in that room had asked him anything that morning and nobody was going to, and four of them were at the far end of that room talking about the row and the rest of them were at the near end not talking about it.
 
-He took his own hands off that bare back, stood up straight where he was, and kept his voice at the volume it had been at all morning. A woman at the front of that room was in the middle of a sentence about the row and he waited until she had finished it and did not begin over the top of it.
+He took his own hands off that bare back, stood up straight where he was, and kept his voice at the volume a man keeps it in a room. A woman at the front of that room was in the middle of a sentence about the row and he waited until she had finished it and did not begin over the top of it.
 
 "**What it has cost me is that there is nothing to point at. I did a thing in this room and the whole of what I did left nothing whatever on anything at all, and I cannot show one person where it was done and I would not be able to show you the room either.**"
 
