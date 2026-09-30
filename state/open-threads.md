@@ -365,3 +365,19 @@ written out a third time here, because a record that says the same thing three t
 **AND WHAT THIS BLOCK STILL DID NOT DO, AFTER THE REPAIRS.** It did not ask the woman of about sixty-nine anything, and it does not say anywhere that she is not asking a fourth question. It did not join day 698's question to any of the above. It did not open, move, retitle or reweight anything, and the ten chapter titles it inherits were rewritten by the repair for length and legibility, **which is not the same thing as retitling anything to make room for a thing and no thread was moved by it.** And it did not trace the mark.
 
 **THE NEXT PHASE IS `workspace/volume-14/batch-0002/PROMPT.md`, WHICH WRITES CHAPTERS 0661 TO 0670, DAYS 661 TO 670, AND WHICH HAS NOT RUN.**
+
+---
+
+## VOLUME 14 BATCH 0002 — OPEN THREADS AFTER DAYS 661 TO 670
+
+1. **The bare piece of board under the date — still open, still bare, still undecided.** Ten more days of nothing under it, and two rooms have now said things near it without saying anything about it: a room that put the board against the wall and found they disagree, and a room that asked four times which surface to go by and heard four times that nobody knows. Neither room asked the keeper what the space is for. The decision day is not one of these ten.
+2. **The word in the column and the word on the sheet — still two, still unprinted, still unjoined.** 0663 and 0669 name the two places, the two hands and the two days, and print neither word and join nothing. The instrument finding of 0669 (a room cannot read out a page somebody in it wrote in) is a discovery and not a thread, and it opens nothing.
+3. **The wharf board under grit — still open, still unwiped, still unasked.** Two Adrian days at it, two lines of grit, no wiping, no figure printed, the owner never asked. A board was carried to the wrong stack on 0665 and stays there; no instrument in four hundred miles can tell which is which, and nobody in that yard is trying.
+4. **The seven and the seven — named as two, still open as counts.** 0663 carries the seven documents with the two-not-one sentence inherited from 0660. No eighth of either kind asserted or written.
+5. **The three on the road — still on it, still unapproached, still uncounted.** 0664, 0665 and 0668 name four hundred miles as a distance only; no elapsed figure printed on any of the ten.
+6. **The fence — still standing, still unmeasured, still unmoved.** 0668 carries sixteen and eleven; no hand lifts the rope; the man of about fifty-seven is not asked, told or defeated on any of the ten.
+7. **The questions — still unanswered, still unjoined.** No chapter asks what the stallholder wrote, what the missing name is, what the word means, why the column was left empty, or what the space under the date is for. Day 698's question is still ahead and untouched.
+8. **The stallholder's chalk — still in the pocket on all ten days.** Never out, never in one hand with the store's chalk, never used as a unit or a discovery. Day 678 still ahead.
+9. **What this block did not do.** It asked nobody anything that may not be asked, traced no mark, mended no fracture, gave no fifth condition, merged no two men of about thirty-eight and settled no descriptor. It put the woman who walked a market on no page of the ten. It introduced no new person, no new thread, no new enemy.
+
+**THE NEXT PHASE IS `workspace/volume-14/batch-0003/PROMPT.md`, WHICH WRITES CHAPTERS 0671 TO 0680, DAYS 671 TO 680, AND WHICH HAS NOT RUN.**
