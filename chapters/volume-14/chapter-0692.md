@@ -18,11 +18,11 @@ The wall above the top edge of that board is a different thing from the board an
 
 ---
 
-At about the fourth hour, before the light had come off those flags, the man of about twenty-seven who washes that board came round the end of that row, and he came round it earlier than he has come round it this week, and he had his own bucket in one hand and his own two fingers on the stone lip of the step as he came to it.
+At about the fourth hour, before the light had come off those flags, the man of about twenty-seven who washes that board was at the end of that row, and he was there earlier in the week than he has ever been there, and he had his own bucket in one hand and his own two fingers out towards the stone lip of the step as he came up to it.
 
 He stopped. His own two fingers were on the stone lip of that step and the rag was lying on it, and he did not put his hand inside the trough and he did not turn round and look for the trough, and he did not look down at the flags to see whether there was water standing on them, and he did not say one word about where the trough had been or where the water had come from.
 
-The other piece of chalk in this city that could leave a mark is a piece of chalk in this pocket since the two hundred and ninety-eighth day of this flood, and it belongs to the man of about thirty-four who keeps a stall two stalls along, and it was in that pocket at the fourth hour of that morning and at the tenth hour of it, and it did not come out of it, and the two chalks in this city were not in one hand at any hour of that day and were not in one hand at any hour of this flood.
+The other piece of chalk in this city that could leave a mark is a piece of chalk in this pocket since the two hundred and ninety-eighth day of this flood, and it belongs to the man of about thirty-four who keeps a stall two stalls along, and that piece stayed inside that pocket at the fourth hour of that morning and was still inside it at the tenth hour of it, and it did not come out of it. No hand in this city had both of those two chalks in it at any hour of that day, and no hand in this city has had both of them in it at any hour of this flood.
 
 "**That rag has been on that lip since before I came round the end of this row and I have not once come round here and found it anywhere else, and I am not going to start asking a row where a thing has been kept in this flood.**"
 
@@ -32,7 +32,7 @@ He did not ask Adrian anything. Adrian was at the far end of those flags with hi
 
 ---
 
-A woman came up that row at about the sixth hour with a hand-basket on her arm and no hat, and she got to the place where the trough is standing on the flags with water going over the rim of it, and the stone at that end of that row is about as wide as her own two feet side by side, and the trough is standing across it. She stopped, and set the basket down on the high side of the trough on the dry stone, and stepped over into the low ground on the far side of it, and the water that had been going over that rim went into the boot on her own left foot up to over the ankle, and she stood there for a moment with her own weight on the other foot and looked down at it.
+A woman came up that row at about the sixth hour with a hand-basket on her arm and no hat, and she reached the place where the trough is standing on the flags with water going over the rim of it, and the stone at that end of that row is about as wide as her own two feet side by side, and the trough is standing across it. She stopped, and set the basket down on the high side of the trough on the dry stone, and stepped over into the low ground on the far side of it, and the water that had been going over that rim went into the boot on her own left foot up to over the ankle, and she stood there for a moment with her own weight on the other foot and looked down at it.
 
 She did not say anything to Adrian. She was not going to say anything to Adrian, and she did not know he was at the far end of those flags, and she picked the basket up off the stone and put her arm back through the handle of it and went on up that row with her own boot full of that water and the water going out of it with every step she took on the high side of the stone.
 

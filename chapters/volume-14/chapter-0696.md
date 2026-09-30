@@ -12,7 +12,7 @@ The man of about thirty-four who keeps a stall came up that row on foot at about
 
 He did not ask the man of about fifty-seven where that fence was. He did not say anything at all about that fence, or about the road behind it, or about the three barrows standing on it, and he did not ask the man of about fifty-seven one thing about any of it, and nobody has ever asked him one thing about any of it, and he said nothing back and he was not asked.
 
-At about the sixth hour he put his own right hand into his own inside breast pocket, and kept it in there, and it was a piece of chalk in that pocket since the two hundred and ninety-eighth day of this flood, and it did not come out of that pocket, and he took the hand out again with nothing in it about a minute later and put it at his own side, and he did not say why it had not come out and nobody asked him why it had not come out.
+At about the sixth hour he put his own right hand into his own inside breast pocket and kept it in there. A piece of chalk had been lying in that pocket since the two hundred and ninety-eighth day of this flood and it stayed where it was, and about a minute later he took his hand out again with nothing in it and put it at his own side, and he did not say why it had not come out and nobody asked him why it had not come out.
 
 "**That fence is holding a road that is shut, and it will go on holding it for as long as the posts are in the ground, and nobody is going to come up here and find out whether it is holding the right two things, and neither am I.**"
 
@@ -32,6 +32,6 @@ The man of about thirty-four who keeps a stall was still on that step when he sa
 
 ---
 
-At about the tenth hour the man of about fifty-seven took his own two hands off his own knees, and went back into his own house, and took hold of that chair by the back of it and moved it about a foot off that wall into the middle of that room, and set it down, and the rope went with it and lay over the back of it in the new place and off the back of it at the same angle, and nobody saw him do it and nobody in that house would have said anything about it if they had.
+At about the tenth hour the man of about fifty-seven took his own two hands off his own knees, and went back into his own house, and got hold of that chair by its back and shifted it a foot out from that wall into the middle of that room, and set it down, and the rope went with it and lay over the back of it in the new place and off the back of it at the same angle, and nobody saw him do it and nobody in that house would have said anything about it if they had.
 
 Then he went out of his own house, down his own step into that row, and stood there with his own door standing open behind him and the rain coming off the trees at the end of it, and he did not go up the road.
