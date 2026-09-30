@@ -18,7 +18,7 @@ Nobody in that room thanked her for saying it and nobody improved on it and nobo
 
 A man at the far end of that bench said the thing that is said, to that table, and he wanted it settled and settled now.
 
-The woman of about twenty-nine said the thing that is said, to him, and she did not raise her voice to do it.
+The woman of about twenty-nine said the thing that is said, to him, and she said it no louder than she says anything else in that room.
 
 "**I have not said the word is for this room and I have not been told that the word is for this room, and I have said what this room has been asked for, and the two of those are not the same thing and you are welcome to go and look for yourself.**"
 

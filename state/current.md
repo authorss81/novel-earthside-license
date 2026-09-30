@@ -130,12 +130,19 @@ NOT A RULE ABOUT WHAT A CHAPTER MAY CONTAIN.**
 
 ---
 
-## THE DEBTS, CARRIED WHOLE AND UNPAID, AND NO BATCH OWNS THEM
+## THE DEBTS, CARRIED WHOLE AND UNPAID EXCEPT ITEM 2, WHICH IS PAID, AND NO BATCH OWNS ANY OF THEM
 
 1. The eleven inherited debts and the six named at `outline/volume-13.md` §21.1.
-2. `chapters/volume-10/chapter-0475.md` does not exist. It is a chapter of a finished volume that
-   no phase has written, summarised, decided anything in, or routed. A chapter written after the
-   volume it belongs to has ended is not a chapter.
+2. `chapters/volume-10/chapter-0475.md` **IS ON DISK. This debt is PAID — the chapter was written by the
+   review repair pass that took this batch, and published as the decision it was, which is what
+   `state/volume-11-close.md` §3 requires of a repair pass that writes it. Volume 10 now holds fifty
+   chapter files where it held forty-nine. Day 475, a Sunday, the hundred and sixtieth day of the
+   Bare Month; written after the volume it belongs to had ended; therefore a repair and not a chapter;
+   1,101 words, no figure printed, no place named, no column filled, no document produced, Adrian Vale
+   not in it, and the figure still not on the board, because the decision is on day 475 and the chalk is
+   on day 490. FIRST EDITION of this item, kept so the correction can be checked: it did not exist, and no
+   phase had written, summarised, decided anything in, or routed it. The first attempt at a repair routed
+   it to a batch, which three closed records forbid, and that routing was withdrawn.**
 3. The four missing card files of Volume 12. Not payable as plans by a batch, not payable as
    reconstructions by a later outline, and stopping a debt growing is not paying one.
 4. The false zero of two words in four published batch records of Volume 12, which print a zero
@@ -143,7 +150,7 @@ NOT A RULE ABOUT WHAT A CHAPTER MAY CONTAIN.**
 5. **The narrator-frame family. Two readings, and this file printed one zero for both of them and
    was wrong about one of them.** Reading A, self-reference — *this chapter, this volume, this
    book, this batch, this manuscript, the reader* — is a true zero in all three batches of this
-   volume and stands in 70 files at 170 occurrences across the 629 chapter files on disk. Reading
+   volume and stands in 70 files at 170 occurrences across the 629 chapter files on disk. **AND THE CORPUS IS NOW SIX HUNDRED AND THIRTY, because the review repair pass that took Batch 0002 wrote the missing `chapters/volume-10/chapter-0475.md`. Every corpus-wide figure in this file and in `state/continuity.md` that reads 629 was measured at 629 and is left at 629 rather than restated at a number taken from a different corpus, and the narrator-frame rows are the exception: the file added is a Volume 10 chapter and it carries three of that volume's own descriptors and its own share of the distancing frame, so those rows are understated by one file rather than unaffected, and the correct fix for them is a re-measure at 630, which is owed to a repair pass that owns those rows and is not done here by hand.** Reading
    B, the distancing frame — *nobody in this city, nobody in that room, nobody in that yard, nobody
    in this flood, nobody in this room, in this city, in that room* — is at 10 files in every one of
    the three batches, at 215, 198 and 288 occurrences respectively, and 147 in the ten files of the
@@ -234,10 +241,12 @@ head of Batch 0004.**
 
 ---
 
-## LATER VERIFICATION OF THE BATCH 0002 DAYS, 611 TO 620. NOTHING ON THE TABLES OR THE SHELVES MOVED.
+## BATCH 0002, DAYS 611 TO 620, RE-REPAIRED. NOTHING ON THE TABLES OR THE SHELVES MOVED.
 
-**The state of the world at the end of day 620 is the state of the world at the end of day 630 and is set out in the list above. A plank went off a second row of flats in the night and nobody was shown who took it, and a woman went over the gap where it had been and came out of it on her own. A man of about sixty stood at the near end of a shut road with a handcart and said out loud that nobody was going to ask him about a fence he put up himself. A room was told that one place on a sheet and one column on a page are the same shape and settled nothing. Nineteen rates were counted two ways and the two ends did not agree. Four hundred yards of flags were no drier at the eighth hour than at the fourth. A corner on that road was walked to and nothing was asked about it. A room counted what had come up that road and got two numbers and took neither back. A man carrying a satchel said out loud that a word where a figure would be is read four hundred miles off and checked by nobody. A man of about fifty-nine put a bar in a hurdle and said one thing nobody had asked him for. A room worked out what a sheet on a table is for and put nothing anywhere. NONE OF THAT WAS UNDONE AND NONE OF IT IS REPEATED HERE.**
+**Live state, and the story positions for these ten days are the ten one-line entries in the list at the head of this file and are not restated here. A plank went off a second row of flats and nobody was shown who took it. One place on a sheet and one column on a page were found to be the same shape and nothing was settled. Nineteen rates were counted from both ends and the two ends did not agree. A count of what had come up that road came out as seven and as eight and neither number was taken back. Four hundred yards of flags were no drier at the eighth hour than at the fourth. A word was put where a figure would be. A bar went into a hurdle that nobody had asked for. A room worked out what a sheet on a table was for and put nothing anywhere. NONE OF THAT WAS UNDONE.**
 
-**A RE-DISPATCH OF THE BATCH 0002 PHASE ARRIVED WITH ALL TEN CHAPTERS ALREADY ON DISK AND COMPLETE, and with Batch 0003 complete and review-repaired and the card file and prompt for Batch 0004 on disk. NOT ONE CHAPTER WAS RESTARTED. All ten were read in full against their ten cards and all ten stand. The instruments were re-run on the files as they stand and the bolded share, the marker faults, the exchange, the word-run passes, the Bare-Month form, the paragraph composition, the panel count and the object inventory's second column all reproduced to the digit, and the whole account with both figures and the reading on every row is at `state/batch-summaries/volume-13-batch-0002.md` and in the newest block of `state/continuity.md`. ONE PUBLISHED FIGURE DID NOT REPRODUCE: the strict sentence-scale pass at nine words is published at 0 and returns 6 in three of the ten files, four of the six being required declarations of an object row, and the run was published and nothing was reworded.**
+**THE MEASUREMENT ACCOUNT FOR THIS BATCH LIVES IN ONE PLACE AND IT IS `state/batch-summaries/volume-13-batch-0002.md`, and the three other state files carry a pointer to it rather than a fourth copy of it. The correction that matters: the strict sentence-scale pass at nine words has now been published at 0, then at 6 in 3 files, then at 14 in 8 files, and it stands at 8 in 5 files on the files as they now stand, at three scopes, with the instrument named and both sides of the repair on the same row. The 14 in 8 was the figure before the repair, not a rival reading of the same files, and the cause of all four numbers is one fault: a comparison pool that did not contain the batch's own ten chapters, which is why a pass measuring a batch for duplication could not see a duplication between two chapters of that batch. Five narration sentences in four files were reworded, every one of them a restatement of a beat that stands in another chapter in the same words; no plot, day, count, person, card or decision moved, and the bolded numerator, the panel count, the object inventory's second column and the Bare-Month form were re-run afterwards and all held. **THE DESCRIPTOR MAP WAS RE-RUN AS WELL AND IT MOVED BY ONE, from fifty-eight occurrences to fifty-seven, the difference being one occurrence of the man of about thirty-four, and the fifty-eight is the first edition and stands beside the fifty-seven in `state/character-state.md`.**
 
-**THE NEXT PHASE IS UNCHANGED AND IS `workspace/volume-13/batch-0004/PROMPT.md`, WRITING CHAPTERS 0631 TO 0640. IT CARRIES THE COLUMN, WHICH IS STILL EMPTY.**
+**`chapters/volume-10/chapter-0475.md` IS PAID, NOT ROUTED. It was written by the review repair pass, on day 475, a Sunday, the hundred and sixtieth day of the Bare Month, and the writing of it is published as a decision because `state/volume-11-close.md` §3 requires a repair pass that writes it to say so with its day, its weekday and its Bare-Month ordinal, and to state that a chapter written after the volume it belongs to has ended is a repair and not a chapter. It is `outline/volume-10.md` §8. Routing it to a batch was tried first and withdrawn: `state/volume-10-close.md` §3, `state/volume-11-close.md` §3 and `outline/volume-13.md` §21.1 all forbid a batch being given it. The successor prompt was left with nothing on this at all. No other Volume 10 page was touched.**
+
+**THE NEXT PHASE IS UNCHANGED AND IS `workspace/volume-13/batch-0004/PROMPT.md`, WRITING CHAPTERS 0631 TO 0640. IT CARRIES THE COLUMN, WHICH IS STILL EMPTY, AND IT IS STILL THE ONLY NEXT PHASE.**

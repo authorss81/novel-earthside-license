@@ -16,7 +16,7 @@ The man of about fifty-nine said the thing that is said, to her, and he lifted t
 
 "**It was standing in that walk before you came up that stair this morning and nobody sent me to it and nobody asked me to be in this room, and I am taking it out because you have said so and not because anybody put me here.**"
 
-Nobody in that room improved on that and nobody thanked him for it. He got that hurdle up off the flags of that walk again and carried it out through the door at the foot of that stair and stood it against the outside wall of that room, up on its end, and the bar of wood he was carrying went in the top of it, and that walk was clear and the light on that stair was worse than it had been.
+There was nothing to be done with what he had said by anybody standing in that room, and nobody thanked him for it. He got that hurdle up off the flags of that walk again and carried it out through the door at the foot of that stair and stood it against the outside wall of that room, up on its end, and the bar of wood he was carrying went in the top of it, and that walk was clear and the light on that stair was worse than it had been.
 
 ---
 
@@ -32,7 +32,7 @@ The man of about fifty-nine turned the bar of wood over in his hands and said th
 
 "I am not going to say how far I have come and you are not going to ask me, and a bar of wood is a bar of wood and a hurdle is a hurdle and neither of them is on that road and neither of them is on any barrow."
 
-Nobody in that room improved on that and nobody thanked him for it and nobody asked him a second thing. He said one more thing at about the eleventh hour and it was the only thing anybody in that room did not ask him for.
+Nobody in that room had a better thing to say about that and nobody thanked him for it and nobody asked him a second thing. He said one more thing at about the eleventh hour and it was the only thing anybody in that room did not ask him for.
 
 "**I put a bar in that hurdle that is longer than the one that came out of it, and the middle of it is wider now than it was, and it is not going to fail, and nobody in this city is ever going to know that and neither am I going to come back and find out.**"
 

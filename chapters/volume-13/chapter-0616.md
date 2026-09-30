@@ -12,7 +12,7 @@ The man of about thirty-four said the thing that is said, to that corner, and it
 
 "**Nobody in this city has ever been round this corner with a cord to it and I have been round it on foot, and nobody is going to ask me what is past it and I am not going to tell them.**"
 
-Nobody on that road improved on what he said and nobody thanked him for it and nobody asked him. A man with a barrow came round that corner about the seventh hour with his barrow empty and went on round it as far as a man goes to see whether a road goes anywhere, and came back and stood at that turn with his hands on the shafts.
+Nobody on that road made a better thing of what he said and nobody thanked him for saying it and nobody asked him one question about it. A man with a barrow came round that corner about the seventh hour with his barrow empty and went on round it as far as a man goes to see whether a road goes anywhere, and came back and stood at that turn with his hands on the shafts.
 
 The man of about thirty-four answered him without moving his hands out of his pockets.
 

@@ -26,7 +26,7 @@ The woman of about twenty-nine said the thing that is said, to him, and it was t
 
 "That is the question this room has been carrying since the day that sheet came up that road and it is not mine to answer and I am not going to answer it and I have not been asked it twice."
 
-Nobody in that room improved on that and nobody thanked her for saying it and nobody came at her afterwards with a second question about it. Nobody in that room put a word in the column on the right of that page and nobody in that room put anything in the one place on that sheet, and the two of those places stood in that room all morning with nothing in either of them and nobody in that room saying which of the two was the one anybody was going to use.
+Nobody in that room improved on what she had said and nobody thanked her for saying it and nobody came at her afterwards with a second question about it. Nobody in that room put a word in the column on the right of that page and nobody in that room put anything in the one place on that sheet, and the two of those places stood in that room all morning with nothing in either of them and nobody in that room saying which of the two was the one anybody was going to use.
 
 ---
 
