@@ -256,3 +256,67 @@ for Chapters 0631 to 0640, which was the one mandated state file this volume had
 **THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, DAYS
 641 TO 650, WITH ITS TEN CARDS AT `outline/batches/volume-13-batch-0005.md`, AND BOTH WERE WRITTEN
 BEFORE CHAPTER 0641 EXISTED. DAY 645 IS THE RESOLUTION AND DAY 650 IS THE LAST IMAGE.**
+
+---
+
+## VOLUME 13 AFTER DAY 640 — VERIFICATION PASS ON CHAPTERS 0631 TO 0640, AND NOTHING ABOVE IS EDITED
+
+**THE STORY IS UNCHANGED AND IT IS THE ONE ABOVE THIS BLOCK.** Three pages changed and nothing else changed. Chapter
+0634 now prints **a Friday**, which is its day, and it was the only one of the ten chapters that printed no weekday.
+Two paragraphs in Chapter 0636 were split at their own joints, at 166 words and at 127 words, because a review-repair
+pass had grown that chapter after this batch's own record was written and no pass was re-run after the repair. A
+nineteen-word run of Chapter 0640 against itself was broken by rewording the tail of its second marked turn and the
+opening of the narration after it. **NOT ONE FACT, COUNT, HOUR, DAY, OBJECT, CARD REQUIREMENT, CAST PLACEMENT OR
+DECISION OF RECORD CHANGED IN ANY OF THE THREE.**
+
+**THE CONTINUITY POSITION AT THE END OF DAY 640 IS THE ONE THE BLOCK ABOVE SETS OUT AND IT STANDS WHOLE.** The sheet
+is shut on the table with a word in its one place and goes back up that road on day 645. The register's right-hand
+column carries one word near the head of that page, put there on day 638 in a hand that is not the keeper's, and
+nothing anywhere else on that page. The chalk is back in the man's own inside breast pocket on the same afternoon it
+came out, and no chapter of this volume prints what was on his thumb. The second slate is on its shelf, untouched,
+with a day across the head of it and nothing under it, and no hand but the keeper's came near it on any of these ten
+days. The store's board carries three sets of figures and not one carries a line of words under it, and the wall
+above its top edge was washed on none of these ten days. The tally-board at the wharf carries a second line of grey
+grit as of day 634 and its figure is printed in no chapter of this volume, and that board is not turned face down on
+any of the fifty days and cannot be. **There is no eighth notice in this flood.** The count made on foot was made on
+four mornings and day 635 was not one of them. **No chapter of these ten prints an elapsed figure for the four-hundred-mile
+road at any day.**
+
+**WHAT A WRITER OF CHAPTERS 0641 TO 0650 HAS TO CARRY AND MAY NOT RE-DERIVE.** Adrian Vale is Stage 2 on every one of
+those days, performs no working, opens no threshold, is aged nowhere and is offered no workway, and he is in three of
+the ten that follow — 0642 and 0646 are in the day map and this volume's own plan publishes his want and his outcome
+for each, and a card supplies none of the three. **On day 645 the sheet goes back up that road in a satchel with a
+flap, carried by a man who has never opened anything he has carried in this flood, and nobody in that room opens it
+and nobody is going to, and it is the second thing this flood has sent out of this city with words on it and it is
+not coming back.** On day 648 the volume's new question is asked to one woman and not to a room and is not answered.
+On day 650 the volume's last image stands and **it is not a thing a batch decides.** The man of about thirty-nine has
+agreed with a page out loud in about four seconds five volumes running and is thanked by nobody, and the space about
+two fingers wide at the foot of the column between the other two on his own board is what the last of those
+agreements cost him and **no chapter joins it to the column on the right of that page and no chapter may.**
+
+**THE FIGURES AND EVERY PASS, WITH ITS READING AND ITS SCOPE AND BOTH ITS RUNS, ARE IN
+`state/batch-summaries/volume-13-batch-0004.md` AND ARE NOT RESTATED HERE.** What this file corrects and this file
+alone is the standing of the measurements: **the published figure *paragraphs over 120 words: 0 of 270* was a
+published zero that was not zero when this pass began, and it is a true zero now, and the cause was a repair made
+without a pass after it and not a fault in any chapter.** The eleven rows corrected, each with its first run and its
+second run and the reading on the same line, are at the foot of that record.
+
+**THE DEBTS ARE CARRIED WHOLE AND UNPAID AND NONE WAS PAID, TAKEN, REPAIRED OR REROUTED.** The eleven inherited debts
+and the six named at `outline/volume-13.md` §21.1. **The narrator-frame family, on two readings, both named on the
+same line as the number: Reading A, self-reference, is at zero in these ten files in zero files, and Reading B, the
+distancing frame, is in ten files in ten at 147 occurrences, and the debt across the rest of the corpus is owed by a
+review repair pass and by no batch.** The false zero of two words in four published batch records of Volume 12, which
+this pass does not own and did not reprint and for which it printed no whole-manuscript figure. The publication
+exposure in Volumes 01 to 04. And the plan's own internal disagreements, all of them, none resolved by anybody. The
+three further disagreements this batch named are carried and added to nothing: the plan's §6.7 and §10 printing day
+640 as a Wednesday against §14.3 and the run printing it as a Thursday, which is a Thursday; the plan's object row
+putting the second line of grey grit on day 642 against its own escalation naming one on day 634; and the plan's row
+for the day on the door reading *every chapter of the fifty that goes up that stair*, which Chapter 0636 does not go
+up. **`state/phase-ledger.json` reads `phase-000-bootstrap` and the dispatcher's marker directories for Batch 0002
+and Batch 0004 hold retry markers with no `.done`; all of it is controller state, it is reported here, it was not
+opened, and no agent may fix it.** `state/chapter-summaries.md` was not written to by this pass and that is
+disclosed rather than folded in.
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, DAYS 641 TO 650, WITH
+ITS TEN CARDS AT `outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED AND BOTH CHECKED
+BY THIS PASS WITHOUT BEING REWRITTEN.**

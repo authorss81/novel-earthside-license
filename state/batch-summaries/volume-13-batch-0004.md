@@ -331,3 +331,195 @@ No decision was taken outside the plan. **Nothing was decided on seven of these 
 ### 20. The next phase, by path
 
 **`workspace/volume-13/batch-0005/PROMPT.md`, and it is a BATCH writing Chapters 0641 to 0650, days 641 to 650, and its cards are at `outline/batches/volume-13-batch-0005.md`, and day 650 is the volume's last image and it is not a thing a batch decides.**
+
+---
+
+# BATCH 0004 — VERIFICATION PASS, AN INDEPENDENT RE-RUN ON THE FILES AS THEY NOW STAND
+
+**THIS BLOCK IS AT THE FOOT OF THIS FILE AND IT WINS OVER EVERY BLOCK ABOVE IT. NO BLOCK ABOVE IS EDITED.** The
+ten chapters, the ten cards and the ten day-events above were written by a run that was deferred and re-dispatched,
+and a review-repair pass has since rewritten two paragraphs of Chapter 0636. **A REPAIR WAS MADE AND THE PASS WAS
+NOT RE-RUN AFTER IT, and that is this repository's standing method fault, and this pass found the consequence of it
+in this record's own tables and not in any chapter.** Three page faults and eleven rows are corrected here, every
+row carrying its reading and its scope on the same line as its number and carrying the first run and the second run
+side by side.
+
+## What this pass did, in one paragraph, and the story comes first
+
+The ten days on disk carry the man of about thirty-nine up a stair and back down it, a trough the length of a row
+and a rag put back on a stone lip, a woman naming out loud what a word in that column is going to cost, a second
+line of grey grit on a board nobody reads where it lies, eleven miles of flats and a person with a slate under her
+arm, a plank across a wet sill and a handcart that did not know whose hands laid it, a board down at the fourth
+hour and up by the tenth, **a piece of chalk out of a pocket it had not been out of since the two hundred and
+ninety-eighth day of this flood and one word at the head of a column that nobody read out**, a cost named out loud
+by the man whose chalk it was and a word in the one place on that sheet, **and the wall of that room saying one
+thing and the man who trades on a board agreeing with it in about four seconds**. This pass moved nothing in that.
+It put a Friday into the one chapter of the ten that printed no weekday, split two paragraphs of Chapter 0636 that
+were carrying four things at once, and broke one repeated clause that stood twice in Chapter 0640.
+
+## The three page repairs, one at a time, with what each cost
+
+1. **Chapter 0634 PRINTED NO WEEKDAY, AND THE OTHER NINE PRINT THEIRS.** Day 634 is a Friday and the day run's
+   weekday cell failed on one row of ten. The date sentence now carries it. **No day, no ordinal and no object moved.**
+2. **Chapter 0636 carried two paragraphs over 120 words, at 166 and at 127, and this record above publishes
+   *paragraphs over 120 words: 0 of 270* and *the longest in these ten files is one hundred and seventeen words*.**
+   That is a published zero that is not zero, and the cause is named rather than hidden: **the review-repair pass
+   rewrote this chapter after this record was written and grew it from 1,323 words to 1,464, and no pass was re-run.**
+   Both paragraphs were split at their own joints. **NOT ONE FACT, COUNT, HOUR, DAY, OBJECT OR CARD REQUIREMENT WAS
+   CHANGED IN EITHER, the review's repair content is in both, and the review's two findings — that on 611 he is
+   testing a plank and on 636 he is testing the row, and that this is the first thing he has laid down and found
+   still there in the morning — are both intact and both still on the page.**
+3. **Chapter 0640 held a nineteen-word run of its own against itself, inside one paragraph pair, and this record
+   above publishes the within-file pass at zero.** The run was *and i am not going to say it again / nobody in that
+   room improved on that either and nobody* — two consecutive marked turns closing on the same clause and their two
+   following narration paragraphs opening on the same clause, which is the shape the card file's own instrument
+   names as forbidden. **The card fixes the first turn at a handful of words and it is UNTOUCHED, at nineteen
+   words.** The second turn now closes *and I will not be asked twice*, and the narration after it opens on the
+   room instead of on the same clause. **The within-file pass now returns zero and the nineteen-word run is gone.**
+4. **A STATE FILE ON DISK CARRIED EIGHTEEN WORDS OF THE HELD PANEL VERBATIM, AND THIS PASS REWOUND ONE SENTENCE
+   TO TAKE THEM OUT.** `state/current.md` stood, before this pass and independently of it, with *nothing in four
+   hundred miles can take a word out of a place and leave the place empty*, **which is a clause of the volume's one
+   panel and not a noun phrase and not a house formula.** The plan holds those words in its own §6.7 and on the page
+   of Chapter 0640 and nowhere else, **and a state file is not a page.** **The instrument: the panel's text tokenised
+   on letters and lowercased, and each of the files written or edited by this pass tokenised the same way, and the
+   longest contiguous run of the first found in the second, per file. THE WORST RUN OUTSIDE CHAPTER 0640 WAS
+   EIGHTEEN WORDS AND IT IS NOW SIX, AND EVERY ONE OF THE SIX IS A COMMON NOUN PHRASE — *a place on a page*, *a word
+   out of a place*, *a place on a page that* — AND NOT ONE OF THEM IS A PROPOSITION, AND AT AN EIGHT-WORD FLOOR THERE
+   IS NO SHARED RUN AT ALL.** The panel itself is 107 words and stands in one file of the ten, which is the one file
+   it is allowed to stand in, and it is byte-identical to the words held in the plan.
+
+## The eleven rows this pass corrects, first run and second run on the same line
+
+| Row, with its reading and its scope on the same line | First run of this pass | Second run | What the record above published |
+|---|---|---|---|
+| words in the ten files, whole file on whitespace | **15,607** | **15,613** | 15,440 |
+| paragraphs over 120 words, prose paragraphs, heading / `---` / panel excluded | **2 of 270**, at 166 and 127, both in 0636 | **0 of 272** | 0 of 270 |
+| the longest paragraph in the ten files, same reading | **166**, in 0636 | **117** | 117 |
+| *nobody in that room*, word-bounded, case-insensitive | **34 in 6 files** | **33 in 6 files** | 42 in 10 files |
+| *nobody in this city*, word-bounded, case-insensitive | **9 in 6 files** | **9 in 6 files** | 8 |
+| *that yard*, word-bounded, case-insensitive | **12 in 1 file** | **12 in 1 file** | 12 in 10 files |
+| the distancing frame, seven phrases, word-bounded, case-insensitive | **149 in 10 files** | **147 in 10 files** | 166 in 10 files |
+| the word-run check at SIXTEEN words, WITHIN-FILE, each file against itself at distinct positions | **1 run, in 0640, at nineteen words** | **0** | 0 |
+| the longest bolded turn in 0640, words inside one pair of bold marks | **47** | **45** | 47 |
+| the Bare-Month phrases, resolver v4 published below | **18** | **18** | 15 |
+| paragraphs of three sentences or more, splitter published below | **32** | **30** | 28 |
+
+**THE ROWS THAT DID NOT MOVE, AND THEY ARE THE ONES THAT MATTER MOST.** The bold mark with no quotation mark is
+**0 in all ten files, both runs, and on both readings of the marker fault.** The forty-word pass is **0 files at
+all three scopes, both runs.** The strict sentence-scale pass is **0 of 427 at both scopes, both runs.** The panel
+count is **1, in Chapter 0640, and the panel is 107 words and is byte-identical to the words held in the plan.**
+The day run returns **10 rows, 10 distinct days and 0 mismatches** on chapter-equals-day, the weekday and the
+Bare-Month ordinal at once, against **1 mismatch** on the first run. The descriptor map is **5 distinct descriptors
+in 35 occurrences** and validates on Volume 09's fifty files at **four of five cells against both records**, the
+fifth being the standing disagreement between them. The five figures in the column that holds them hold in all ten
+chapters that name them and no chapter of these ten prints a count that differs. The second slate is untouched on
+all ten days and no hand but the keeper's goes near that shelf. Adrian Vale is in 0632, 0633 and 0636 and in no
+other of these ten, which is three of the three the day map names.
+
+## Three faults in THIS PASS'S OWN INSTRUMENTS, named, because a batch with none has not looked
+
+**THIS PASS FOUND THREE OF THEM AND ALL THREE ARE PUBLISHED HERE AT THE ROW WHERE THEY BELONG.** **FIRST, THE
+DESCRIPTOR RESOLVER.** Its first edition had an unwrapped alternation in its number phrase and returned **ZERO
+descriptors in all ten files, and zero at all five validation cells on a corpus that plainly contains *man of about
+thirty-four* seventy-four times.** **SECOND, THE BARE-MONTH RESOLVER, WHICH TOOK THREE EDITIONS AND WAS WRONG IN ALL
+THREE.** Edition one could not read the hyphen in *twenty-first* and returned **an empty string for eight of the
+eighteen phrases**. Edition two multiplied the wrong quantity by a hundred and returned **116 for a page that says
+three hundred and sixteen**. Edition three overwrote the units with the ordinal's absolute value and returned 116
+again. **The fourth edition is published below and returns eighteen phrases and eighteen resolutions and zero
+mismatches.** **THIRD, THE LOOSE SENTENCE-SCALE READING, WHOSE POOL IS THE WHOLE STORY OF A NUMBER THAT HAS BEEN
+PUBLISHED FOUR TIMES.** The reading has been published at 253 and at 281 and at 3 on these ten files, and this pass
+returns **3 on the reading below and does not reproduce either published figure, and the difference is the pool and
+not the chapters.**
+
+## The loose sentence-scale reading, both pools, both scopes, and the figure that is not reproduced
+
+**READING A, PUBLISHED: a sentence of this batch carrying a run of nine words or more that appears in a WHOLE
+SENTENCE OF NINE WORDS OR MORE in another chapter file, each file excluded from its own comparison.**
+**3 of 427 at scope 1 and 3 of 427 at scope 2. All three are this manuscript's own non-agreement formula** —
+*nobody in that room said that she was right* and, twice, *nobody in that room told him he was right* — which is a
+motif of this book and not a finding, and which the record above names as a class in its own words.
+
+**READING B, PUBLISHED, AND IT IS THE POOL THAT MOVES THE NUMBER: the same window looked for in EVERY SENTENCE OF
+EVERY OTHER FILE AT ANY LENGTH, self excluded. 247 of 427 at scope 1 and 427 of 427 at scope 2**, and the 427 at
+scope 2 is every sentence of this batch matching a sentence of another chapter of this batch. **The record above
+publishes 253 and 281 and this pass reproduces neither, and both published figures and both of this pass's are on
+this page with the pool named beside each and none is corrected by the other.**
+
+**THE FAULT ROW IS PUBLISHED BESIDE THE FIGURE THAT IS THE MEASUREMENT, because that is the fault this repository
+has now inherited nine times.** **strict, each file in its own comparison set: 427 of 427.** **loose, each file in
+its own pool: 6 of 427.** **The figure that is the measurement is zero at both scopes on the strict reading.**
+
+## The resolvers, published in full
+
+**THE DESCRIPTOR RESOLVER, VALIDATED BEFORE USE:** every occurrence at sentence level of *man*, *woman*, *person*,
+*girl* or *boy*, followed by the literal sequence *of about* and a number token, where a number token is a units
+word, a tens word optionally taking a following hyphenated or separate units word or ordinal stem, or a hundreds
+form — an optional small units word followed by *hundred*, optionally followed by *and* and a units word — and the
+token is not followed by another letter or hyphen. **EVERY ALTERNATION IS WRAPPED IN ITS OWN NON-CAPTURING GROUP**,
+and the reason is the first fault named above. **Validation on Volume 09's fifty files: *man of about thirty-four*
+74, *man of about thirty-nine* 48, *woman of about twenty-nine* 37, *man of about fifty-seven* 35,
+*woman of about fifty-four* 3 — four of five against the close's own row and four of five against the plan's, and
+the fifth cell is the standing disagreement between those two records, which this pass reproduces at the close's
+figure and does not resolve.**
+
+**THE BARE-MONTH RESOLVER, FOURTH EDITION, PUBLISHED:** the token run is walked backwards from *day of the Bare
+Month* and the walk stops at the first token that is not a number word; a hyphen **delimits**; **a *hundred* token
+multiplies what stands in front of it and ends the number**; **an *and* token is inert**; and **an ordinal in the
+units place counts up from the hundreds**, so *the three hundred and sixteenth* is 316 and not 116. **Eighteen
+phrases in these ten files, eighteen resolving to their own chapter's day, zero mismatches, and the only Bare-Month
+days these ten print are the three hundred and sixteenth to the three hundred and twenty-fifth, with none after the
+three hundred and thirty-fifth.** The full form of the two hundred and ninety-eighth day of this flood stands at
+full length in the five chapters that carry it and is shortened to a relative phrase in none of them, and the one
+interval these ten print is three hundred and forty days in Chapter 0638, measured in the same sentence from that day.
+
+## The ten closings, read side by side, and the one thing this pass moved
+
+**THE TEN CLOSING SENTENCES ARE UNCHANGED BY THIS PASS EXCEPT IN CHAPTER 0640, and no two of the ten share a
+construction.** The split in 0636 moved the *paragraph* a close sits in and not the sentence: **that he was not
+going to be told** is where it was. **The one new adjacency this pass created and checked by hand is that Chapter
+0636 and Chapter 0638 both open their closing paragraph on the word *Nobody*, with different frames, different
+predicates and different objects, and it stands, because the alternative this pass rejected was to close 0636 on
+Adrian Vale carrying a bucket back up the top row towards that market, which is what Chapter 0635's closing sentence
+already does one day earlier.** None of the ten closes on any of the four shapes the plan names as furniture, and
+none closes on the second slate on its shelf, the light coming off the flags at a named hour, the water at a near
+gate going down, or the store's board with its three sets of figures.
+
+## What this pass did not do
+
+**NO CHAPTER WAS RESTARTED, REWRITTEN, REORDERED OR SHORTENED. NO CARD WAS RE-PLANNED AND NO CARD FILE WAS REWRITTEN.
+No day, no weekday, no Bare-Month ordinal, no anchor, no form, no notice, no object count in the second column, no
+cast member and no decision of record moved. Nothing was decided, filled, sent or read out on any of these ten days
+that was not decided, filled, sent or read out before this pass began. Day 645 is not one of these ten days and
+this pass did not spend it. `outline/volume-13.md`, `outline/volume-12.md`, `outline/series.md` and `outline/ending.md`
+were opened and none was edited. `bible/power-system.md` was not opened. **`state/chapter-summaries.md` WAS NOT WRITTEN
+TO, AND THAT IS DISCLOSED RATHER THAN FOLDED IN.** No continuation directory, no review prompt, no close prompt and
+**no marker file** was created; the marker is the runner's. No controller file was touched: not `scripts/`, not
+`.github/workflows/`, not `.opencode/agent/`, and not `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`.
+
+**THE MEASUREMENT OF THE HOLD WAS NOT RUN, because re-running it requires printing the spans.** The figure the plan
+holds for the state layer was not carried, not named, not computed and not printed, and its subject is not named in
+any file this pass wrote in any form.
+
+**THE DEBTS ARE CARRIED AND NONE WAS PAID, TAKEN, REPAIRED OR REROUTED**: the eleven inherited debts and the six
+named at `outline/volume-13.md` §21.1; the false zero of two words in four published batch records of Volume 12,
+which this pass does not own and did not reprint; the narrator-frame family, which is **at zero in these ten files on
+Reading A, self-reference, and at 147 occurrences in ten files on Reading B, the distancing frame, and BOTH FIGURES
+ARE ON THIS PAGE WITH THEIR READING NAMED** and the debt across the rest of the corpus is owed by a review repair
+pass and by no batch; the publication exposure in Volumes 01 to 04; and the plan's own internal disagreements, all
+of them, none resolved by anybody. **THE THREE THIS RECORD NAMES ABOVE ITSELF ARE CARRIED AND ADDED TO NOTHING**:
+the plan's §6.7 and §10 printing day 640 as a Wednesday against §14.3 and the run printing it as a Thursday, which
+is a Thursday; the plan's object row putting the second line of grey grit on day 642 against its own escalation
+naming one on day 634; and the plan's row for the day on the door reading *every chapter of the fifty that goes up
+that stair*, which Chapter 0636 does not go up. **`state/phase-ledger.json` reads `phase-000-bootstrap` and is
+controller state; it is reported here and was not opened, and no agent may fix it.**
+
+## The next phase, by path, and it was already on disk
+
+**`workspace/volume-13/batch-0005/PROMPT.md`, and it is a BATCH writing Chapters 0641 to 0650, days 641 to 650,
+with its ten cards at `outline/batches/volume-13-batch-0005.md`, and both were written before Chapter 0641 existed.**
+This pass checked them and did not rewrite them: **ten cards, ten days, the weekdays and the Bare-Month ordinals
+agreeing with the day map at all ten cells, the pressure tags agreeing with the day map at all ten cells, day 645
+carrying the resolution and day 650 the last image and neither a thing a batch decides, and neither file carrying
+the panel or any nine-word run of it.** **IT CARRIES A COLUMN THAT IS NO LONGER EMPTY, A SHEET THAT IS SHUT WITH A
+WORD IN IT AND GOES UP THAT ROAD ON DAY 645, AND A CHALK THAT IS BACK IN ITS POCKET.**

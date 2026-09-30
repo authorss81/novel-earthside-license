@@ -28,7 +28,7 @@ Nobody in that yard improved on that and nobody thanked him for it, and the man 
 
 ---
 
-At about the tenth hour he went up the stair at the back of the room over that market and came into that room and stood at the near end of that bench. What is on the outside of the door at the foot of that stair is a date in chalk, and the three hundred and nineteenth day of the Bare Month is on it in full, and there is no name under that date and the door below it is bare for the width of a hand.
+At about the tenth hour he went up the stair at the back of the room over that market and came into that room and stood at the near end of that bench. What is on the outside of the door at the foot of that stair is a date in chalk, and the three hundred and nineteenth day of the Bare Month, a Friday, is on it in full, and there is no name under that date and the door below it is bare for the width of a hand.
 
 About nine people were in that room at that hour. The register stood on its shelf behind that bench with its spine to the wall, and there were five figures in the column that holds them with a day written in beside each of the five and none struck out, and the column on the right of that page bare from the head of it to its foot. Behind it a second slate stands up on its edge on that shelf with its written face to the plaster, a day cut across the head of it and nothing whatever under that day, and the only hand in that room which came near that shelf was the keeper's.
 

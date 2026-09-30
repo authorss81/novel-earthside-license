@@ -26,9 +26,9 @@ About four people in that room were near enough to that far end of that bench to
 
 He said one more thing out loud at about the half hour after the tenth, to that bench, and it was not the same handful of words and nobody had asked him for it.
 
-"**I have been right about a page in about nine words five volumes running and nobody in this city has ever thanked me for one of them, and I am not going to be thanked for this either, and I am not going to say it again.**"
+"**I have been right about a page in about nine words five volumes running and nobody in this city has ever thanked me for one of them, and I am not going to be thanked for this either, and I will not be asked twice.**"
 
-Nobody in that room improved on that either and nobody thanked him for it and nobody said that he was right, and nobody repeated a word of any of it out loud.
+That one went down that room the way the first had gone down it, and nobody thanked him for it and nobody said that he was right, and nobody repeated a word of any of it out loud.
 
 ---
 

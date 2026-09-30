@@ -233,3 +233,78 @@ A writer meeting the man of about thirty-nine on any of those ten days inherits 
 of chalk has been in that inside breast pocket since the two hundred and ninety-eighth day of this
 flood, that it came out of that pocket once on day 638, that it is back in it, and that no chapter may
 print what was on his thumb.**
+
+---
+
+## AFTER THE VERIFICATION PASS ON CHAPTERS 0631 TO 0640 — NOTHING ABOVE IS EDITED
+
+**THE STORY DID NOT MOVE AND NEITHER DID ANY PERSON IN IT.** Three pages changed and no person in any of them was
+given a name, an age, a number, a descriptor, a want, an outcome or a sentence they had not already said.
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD** is in Chapter 0631 and Chapter 0640 and is the bolded voice
+alone in the bold marks of both, and he carried his board up that stair and back down it and nobody asked him one
+thing about the space about as wide as two of his fingers at the foot of the column between the other two on it. On
+day 640 the wall of that room said one thing and he agreed with it out loud in about four seconds, in a handful of
+words that a card fixed and no one improved on, and **he was thanked by nobody and nobody in that room asked him
+about the space and no sentence in that chapter joins the space to the column on the right of that page.** **This
+pass changed the tail of his second marked turn in that chapter, from a clause he was saying twice in two consecutive
+turns, and changed nothing else he says and nothing anybody says to him.** He is thanked by nobody across these ten
+chapters and nobody in any of them is waiting for him to be useful.
+
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER** is in 0633, 0638, 0639 and 0640 and is the bolded
+voice alone in the bold marks of 0633. She names the cost out loud in 0633 and is thanked by nobody for it. She stood
+at the near end of that bench on day 638 with her hands in her sleeves while the column she has kept empty on purpose
+was written in, **and she was not asked what the column was for before it and was not asked afterwards and was never
+asked why she did not stop it.** She wrote the word in the one place on the sheet on day 639 in her own hand and said
+out loud that nobody asked her and that she did not choose it, and she is thanked by nobody. **She is not on the
+sheet that goes up that road on day 645, and the volume's new question on day 648 is put to her and not to a room,
+and neither of those things happened in these ten days and both are on a plan this batch did not write.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL** is in 0634, 0638 and 0639 and is the bolded voice alone in the
+bold marks of all three. His piece of chalk came out of his own inside breast pocket on day 638 for the first time
+in three hundred and forty days, measured in the same sentence from the two hundred and ninety-eighth day of this
+flood printed at full length, and one word went in at the head of that column and **no chapter of this volume prints
+that word or prints what that one place on that sheet is a place of**, and **no chapter of this volume prints what
+was on his thumb.** The chalk went back into that pocket on the same afternoon, at about the half hour after the
+eleventh, and he was thanked by nobody and nobody in that room told him he was right.
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THE SALT WHARF** is the bolded voice alone in the bold marks of 0632 and 0636 and
+is in 0634 as well, and **no figure on that tally-board is printed in any of these ten chapters, nobody asked him one
+thing about it in any of them, and that board was not turned over on its face on any of these ten days and cannot
+be.** He is not the man of about thirty-eight who came up a lane with a barrow of boards, and no chapter of this
+batch merges the two.
+
+**THE MAN OF ABOUT TWENTY-SEVEN WHO WASHES THAT BOARD** is in 0635 and 0637 and is the bolded voice alone in the
+bold marks of both. He washed a board down at the fourth hour and once more at the ninth and put it back on its two
+nails with a thin wedge under the near nail, **and nobody in that row noticed it happen and nobody has noticed it
+since and no person in that market has ever said anything to him about the level of the top edge of that board.** He
+walked eleven miles of flats on day 635 with a bucket and a rag and **nothing came off that ground, no fifth morning
+of the count was made, and no figure of any kind came out of that walk.**
+
+**ADRIAN VALE IS IN THREE OF THESE TEN AND IN NO OTHER OF THEM, which is three of the three the day map names.** He
+is the cause of at least one thing that happens to somebody else in each of the three, **nobody thanks him, nobody
+tells him he was right, nobody in any of the three is waiting for him to be useful and he is not useful to them,**
+and nobody gets stronger anywhere in these ten days. On day 632 he carried a trough the length of a row and had the
+rag back on its stone lip before the light came off the flags. On day 633 he sat in that room with a slate he was not
+asked to read and did not offer to and carried a lump of chalk that was not his down that stair in a closed hand.
+On day 636 he laid a plank across a wet sill and tied it with a rope that is not new, **and a man with a handcart
+walked on it and does not know whose hands laid it there and nobody told him and he did not ask.** **This pass split
+two paragraphs of that chapter and changed nothing about him, and the review's finding that on 611 he is testing a
+plank and on 636 he is testing the row is on the page and intact.**
+
+**THE WOMAN WHO WALKED A MARKET ON TWO FEET IS ON ONE PAGE OF THESE TEN CHAPTERS AND HAS NO NAME, NO AGE, NO NUMBER
+AND NO DESCRIPTOR ON ANY PAGE OF THIS BATCH.** She is in Chapter 0635 with a slate under one arm and a tin in her two
+hands, the tin is not opened at any hour of that day, **she is asked nothing, she is thanked by nobody, she is in no
+room, and nobody on that ground is going to be told where she stopped.**
+
+**AND THE ONE THING A WRITER OF THE NEXT TEN DAYS MUST NOT TAKE ON FAITH.** The narrator-frame family is at **zero in
+these ten files on Reading A, self-reference, and at 147 occurrences in ten files on Reading B, the distancing frame,
+and a figure published without its reading is not a measurement.** The volume's one rule and the name this volume gave
+itself are at `outline/volume-13.md` §6.7 and on the page of Chapter 0640, and **neither may be printed, paraphrased,
+improved on, described or certified as absent in any file written next.**
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, WITH ITS TEN CARDS AT
+`outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED.** A writer meeting the man of
+about thirty-nine on any of those ten days inherits the fact that his piece of chalk has been in that inside breast
+pocket since the two hundred and ninety-eighth day of this flood, that it came out of that pocket once on day 638,
+that it is back in it, and that no chapter may print what was on his thumb.

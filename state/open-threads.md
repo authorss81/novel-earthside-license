@@ -125,3 +125,65 @@ list of debts, because a debt is something a writer pays and this is not.
 CARRIES THE THREAD ABOVE AND DOES NOT SETTLE IT: a place on a page that was left alone on purpose is no
 longer a place on a page that was left alone on purpose, and the only person who could have said which
 of the two a given page is was standing in a room and was not asked.**
+
+---
+
+## AFTER THE VERIFICATION PASS ON CHAPTERS 0631 TO 0640 — WHAT STANDS, WHAT CLOSED, AND WHAT IS STILL OPEN
+
+**THE STORY DID NOT MOVE.** A column that was kept empty on purpose has one word in it near the head of that page and
+nothing anywhere else on that page. A sheet that came up the road with one place empty has a word in that place and
+is shut on a table and goes back up that road on day 645. The wall of that room said one thing on day 640 and said
+nothing on the other forty-nine days of this volume, and the man of about thirty-nine agreed with it out loud in
+about four seconds and was thanked by nobody. **That is where the ten days ended and this pass moved none of it.**
+
+**WHAT CLOSED ON THESE TEN DAYS, AND IT IS TWO THINGS AND ONE OF THEM IS NOT A THREAD.** The question of day 625 —
+which is the nearer of this volume's two middle days and which no chapter of this batch called the midpoint, and
+neither is 626 — was **what the word that goes in that column is and whose it is**, and on day 638 a man wrote one
+without announcing it and the room did not stop him. **The order the two words were written in was decided on day 630
+and kept on days 638 and 639, and the finding of that is that nobody in this city will be able to tell afterwards
+which of the two was written first, because nothing on either page says.**
+
+**WHAT IS STILL OPEN AND IS CARRIED TO THE NEXT TEN DAYS.** One. **A place on a page that was left alone on purpose is
+no longer a place on a page that was left alone on purpose, and the only person in this city who could have said
+which of the two a given page is was standing in a room in her own sleeves and was not asked, on any of the fifty
+days.** That is this volume's finding and it is not answered and is not going to be answered in this volume. Two.
+**The name the sheet carries goes four hundred miles on day 645 and the woman who writes it is not on it and will not
+be.** Three. **The column the man of about thirty-four's own piece of chalk went into is now a page with a word in it
+in his hand, and it is not a page anybody four hundred miles off will check, and his chalk is back in his pocket and
+his board is still standing face in against his own trestle with the bare back of it out in the row.** Four. **The
+man of about thirty-nine has a space about two fingers wide at the foot of the column between the other two on his
+own board and nobody in this flood has ever asked him about it, and the volume behind this one asked him a question
+on day 598 and nobody answered it, and the question of day 648 is asked on Monday to one woman and not to a room.**
+Five. **The four mornings the count was made on came out four times and the four do not agree and were not permitted
+to agree, and this volume makes no fifth morning, and day 635 was a walk of eleven miles of flats with nothing
+coming off it.** Six. **The fence is sixteen willow posts and eleven withies and is not measured, and the man of
+about fifty-seven has a length of new rope over the back of his chair that nobody has lifted in this flood.** Seven.
+**Three barrows stand on a road four hundred miles long and no chapter of this volume prints an elapsed figure for it
+at any day, and the hole in the sheet of day 440 is nobody's and was declined for the fourth time running and is the
+same hole four times as long.** Eight. **A register with five figures in one column and one word in the column beside
+them, and a second slate on a shelf behind it with a day across the head of it and nothing under it, and no hand but
+the keeper's goes near that shelf.** Nine. **The three questions of days 346, 396 and 445, the question of day 498,
+the question of day 548 and the question of day 598 all stand unanswered and none has been put in a second mouth by
+any chapter of days 631 to 640.**
+
+**THE DEBTS ARE CARRIED AND NONE IS PAID, AND THE EIGHT DISAGREEMENTS INSIDE THE PLAN ALL STAND**: the *party and the
+road* row against the same plan's own escalation and resolution; the day entry for a box of chalk's lid against the
+same plan's own object row; the plan's Adrian column against its own §4.1 table; the *"the string"* in that §4.1 row
+for day 601, which is in no chapter of Batch 0001; the card file's line saying the man says this volume's name on day
+628 against its own line saying the chapter must not print it; the plan's §6.7 and §10 printing day 640 as a Wednesday
+against its own day map printing it as a Thursday; the plan's object row putting the second line of grey grit on day
+642 against its own escalation naming one on day 634; and the plan's row for the day on the door.
+
+**THE MEASUREMENT OF THE HOLD WAS NOT RUN BY THIS PASS**, because re-running it requires printing the spans, and the
+figure the plan holds for the state layer was not carried, not named, not computed and not printed. It remains owed.
+
+**THE ONE ITEM NO AGENT MAY CLEAR.** `state/phase-ledger.json` reads `phase-000-bootstrap` with the repository
+thirteen volumes and 640 chapters deep, and `workspace/volume-13/batch-0002/` and `workspace/volume-13/batch-0004/`
+hold `.attempts`, `.deferred`, `.retry-after` and `.wip-conflict` with no `.done`, which is the mechanism by which a
+completed batch was re-dispatched and this pass was run. All of it is dispatcher state written by
+`scripts/novel_runner.sh`; none of it was opened and none of it may be fixed by an agent. It is recorded so a human
+who owns the dispatcher has it in one place, and it is not folded into the debts, because a debt is something a writer
+pays and this is not.
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, AND IT CARRIES THE
+FIRST THREAD ABOVE AND DOES NOT SETTLE IT.**
