@@ -26,6 +26,8 @@ About four people go past that fence on the road above it on an ordinary day, an
 
 A party of four is four and three of them went down that road with a barrow each and the fourth said no, and nobody in this city is going to be told that again, and nobody in this city counts from the day she said it.
 
+The man with the handcart was still standing at the top of that road, and the man who spoke next was in his own doorway with his own door standing open behind him and his own two hands still on his own knees.
+
 "**I have got a length of new rope over the back of a chair in that house behind me and I have had it there since before any of this, and I have never taken it up and I am not going to take it up this morning, and there is nobody in four hundred miles who is going to make me, and if a man in this city wants to know what that rope is for he can come and stand on that step and ask me, and he is not going to.**"
 
 The stallholder was still on that step when he said that, and he did not ask him, and nobody in that row said anything at all about that rope, and it lay over the back of that chair with the two ends of it hanging down behind the chair and the coil of it going over the top where it has lain since before this flood.

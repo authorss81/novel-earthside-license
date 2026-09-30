@@ -2,7 +2,7 @@
 
 The book lay open on that bench at the near end of that room, and the woman of about twenty-nine who keeps a public register had her own two hands spread flat on the two open pages of it, one at the head of each page and her fingers spread wide on the paper, and she was not writing anything and she was not turning a page. It was about the fourth hour on the three hundred and seventy-sixth day of the Bare Month, a Saturday, and that room was filling up behind her while her hands stayed where they were. At the far end of that bench a man stood with a board of his own propped against the side of it and the bare back of that board turned out to the room and his own two hands flat along the top of it, and he did not take them off at any hour of that morning.
 
-Behind her on the shelf there was a second slate standing on its long edge with a day cut across the head of it showing and nothing whatever under that day showing. It was not picked up. It was not turned over. It was not written on. No hand but her own had gone near that shelf that morning, and there was nothing else standing on that shelf, and it was not on the same shelf as anything in that room.
+Behind her on the shelf there was a second slate standing on its long edge with a day cut across the head of it showing and nothing whatever under that day showing. It was not picked up. It was not turned over. It was not written on. No hand but her own had gone near that shelf that morning, and there was nothing else standing on that shelf while that book lay open on the bench in front of her, and that slate stands on that shelf behind that book and not on a shelf of its own.
 
 Chalked on the outside of that door, at the foot of that stair, is the three hundred and seventy-sixth day of the Bare Month, and the wood under the chalk has been bare the whole of this flood for the width of a hand, and nobody has told anybody in this city that they may put a thing on that wood.
 
@@ -32,7 +32,7 @@ She put her right hand flat on the page at the head of the column on the right, 
 
 "**I keep that book and a book is the only thing in this city that can carry a thing out of a room, and I have been sitting at this end of this bench for fifty days with it open in front of me, and not one person in this room has ever asked me what that column on the right of the page is for, and the one word in it is not in my hand, and nobody is going to ask me about it this morning either.**"
 
-Nobody in that room improved on that either. Nobody asked her one question about it. About four of the people in that room went on with what they had in their hands and the rest of them looked at nothing, and the second slate on the shelf behind her stood where it has stood since the day it was put there, with its day across the head of it and nothing under it.
+Nobody in that room had anything to add to it. Nobody asked her one question about it. About four of the people in that room went on with what they had in their hands and the rest of them looked at nothing, and the second slate on the shelf behind her stood where it has stood since the day it was put there, with its day across the head of it and nothing under it.
 
 The light came off the one window in that room, went along the top of the bench, came to the near end of the bench where her hands were, and stopped there. She moved her own left hand along the wood a little way from where it had been, and turned the other one over, and looked at the two open pages without reading anything down either of them.
 
@@ -42,6 +42,6 @@ Nobody in that room asked either of those two men one thing about the other at a
 
 ---
 
-At about the tenth hour she stood up off that bench, and pushed the book a little way towards the middle of it, and left her own two hands flat on the bench on either side of where it lay, and nobody in that room said a word about that either, and nobody asked her to put it back where it had been.
+At about the tenth hour she stood up off that bench, and pushed the book a little way towards the middle of it, and left her own two hands flat on the bench on either side of where it lay, and nobody said a word about that, and nobody asked her to put it back where it had been.
 
 She went to the back of that room, past the shelf, and put her own two hands on the rail at the top of that stair, and stood there looking down into that row, and she did not go down it.
