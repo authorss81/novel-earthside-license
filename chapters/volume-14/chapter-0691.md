@@ -1,10 +1,10 @@
 # Chapter 0691 — Two Hands Flat On Two Open Pages Of A Book While A Woman Says Out Loud What Fifty Days Of Not Being Asked Has Cost Her
 
-The book lay open on that bench at the near end of that room, and the woman of about twenty-nine who keeps a public register had her own two hands spread flat on the two open pages of it, one at the head of each page and her fingers wide, one at the head of each page and her fingers spread wide on the paper, and she was not writing anything and she was not turning a page. It was about the fourth hour on the three hundred and seventy-sixth day of the Bare Month, a Saturday, and that room was filling up behind her while her hands stayed where they were. At the far end of that bench a man stood with a board of his own propped against the side of it and the bare back of that board turned out to the room and his own two hands flat along the top of it, and the man of about thirty-four who keeps a stall did not take them off at any hour of that morning.
+The book lay open on that bench at the near end of that room, and the woman of about twenty-nine who keeps a public register had her own two hands spread flat on the two open pages of it, one at the head of each page and her fingers spread wide on the paper, and she was not writing anything and she was not turning a page. It was about the fourth hour on the three hundred and seventy-sixth day of the Bare Month, a Saturday, and that room was filling up behind her while her hands stayed where they were. At the far end of that bench a man stood with a board of his own propped against the side of it and the bare back of that board turned out to the room and his own two hands flat along the top of it, and he did not take them off at any hour of that morning.
 
 Behind her on the shelf there was a second slate standing on its long edge with a day cut across the head of it showing and nothing whatever under that day showing. It was not picked up. It was not turned over. It was not written on. No hand but her own had gone near that shelf that morning, and there was nothing else standing on that shelf, and it was not on the same shelf as anything in that room.
 
-Chalked on the outside of that door, at the foot of that stair, is the three hundred and seventy-sixth day of this month, and the wood under the chalk has been bare the whole of this flood for the width of a hand, and nobody has told anybody in this city that they may put a thing on that wood.
+Chalked on the outside of that door, at the foot of that stair, is the three hundred and seventy-sixth day of the Bare Month, and the wood under the chalk has been bare the whole of this flood for the width of a hand, and nobody has told anybody in this city that they may put a thing on that wood.
 
 ---
 
@@ -38,7 +38,7 @@ The light came off the one window in that room, went along the top of the bench,
 
 The man of about thirty-four who keeps a stall said nothing whatever at the ninth hour, which is what he had been doing for the whole of the morning, and about four people in that room went on talking about a thing that had nothing to do with the room, and the woman who keeps the book did not go and stand among them.
 
-Nobody asked either of those two men in that room one thing about each other at any hour of that morning, and nobody has ever asked either of them about the other, and there is nobody in four hundred miles who could be shown a page that says what either of them has said to the other man.
+Nobody in that room asked either of those two men one thing about the other at any hour of that morning, and nobody in this city has ever asked either of them about the other, and there is nobody in four hundred miles who could be shown a page that says what either of them has ever said to the other one.
 
 ---
 

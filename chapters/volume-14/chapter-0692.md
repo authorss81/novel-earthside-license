@@ -28,6 +28,10 @@ The other piece of chalk in this city that could leave a mark is a piece of chal
 
 He said that to the flags and to the water coming off them and not to anybody, and there was nobody else on that end of that row at that hour to say it to, and he went at the trough, and washed his board, and came away off that wall with the rag wet in his own hand, and hung the rag back on the same stone lip of the same step, and it was on that lip by the time the light came off those flags.
 
+"**I have washed that board twice every morning of this flood and I have never once washed the wall above the top edge of it, and nobody in this city has ever told me to, and I am not going to begin because a man has left a trough standing on the flags.**"
+
+That went out into the flat water and to nobody at all, and he did not turn round and look at the far end of those flags, and Adrian was not at the end of that row where that man could have seen him and was not told one word of any of it.
+
 He did not ask Adrian anything. Adrian was at the far end of those flags with his own two hands in his coat pockets and had not said a word and was not asked one and had not been standing where the man who washes that board could see him.
 
 ---

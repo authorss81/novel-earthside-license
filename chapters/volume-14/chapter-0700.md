@@ -1,8 +1,8 @@
 # Chapter 0700 — A Morning In Which Every Surface In This City Is Where It Was At The Tenth Hour And A Woman Standing With Both Her Arms In Her Sleeves
 
-Both of the man of about twenty-seven's own hands were on the wet cloth against the face of the store's board, and he took them off it and stepped back off the stone and looked at it, and it was washed once and not twice. It was about the fourth hour on the three hundred and eighty-fifth day of the Bare Month, a Monday, and the board was on its two nails on the outside wall of that store at the end of that market, and it carried three sets of figures of this city's own, none of them rubbed out, no words under any of them, and not one figure on it is printed in this city or in any other.
+Both of the man of about twenty-seven's own hands were on the wet cloth against the face of the store's board, and he took them off it and stepped back off the stone and looked at it, and it was washed once and not twice. It was about the fourth hour on the three hundred and eighty-fifth day of the Bare Month, a Monday. The board was on its two nails on the outside wall of that store at the end of that market, and it carried three sets of figures of this city's own, none of them rubbed out, no words under any of them, and not one figure on it is printed in this city or in any other. He hung the cloth back over the rail at the side of that store's door and put the lid of the box of the store's chalk down on the rim of that box and left it there, and the lid did not shut, and the bucket went down on the flags with its own mouth up the way it stands every morning of this flood.
 
-He hung the cloth back over the rail at the side of the store's door, and the bucket went down on the flags, and the trough stood on the flags at the top of the stone by the step where it stands, and the rag was on the stone lip of that step and not inside that trough, and the lid of the box of the store's chalk was lying down on the rim of that box where it lies and that lid does not shut.
+The trough stood on the flags at the top of the stone by the step where it stands, and the rag was on the stone lip of that step and not inside that trough, and the lid of the box of the store's chalk was lying down on the rim of that box where it lies and that lid does not shut.
 
 The wall above the top edge of that board is a different thing from the board and was washed once in the whole of this flood and by no second person on any day of it, and no hand went near that wall at the fourth hour of that morning or at any hour of that day, and the cloth stopped at the bottom of the board every time it was run.
 
@@ -14,7 +14,7 @@ The man of about thirty-one who carries things for a living was at that end of t
 
 "**I have carried a page up that road and I have carried a page back down it, and I have not opened either of them, and I am not going to say this morning why I have not, and there is nobody in that room over that market I would say it to if I did.**"
 
-Nobody in that row thanked him for that and nobody said he was right and nobody said he was wrong, and he went on down that row with the bag on his own shoulder, and the rag lay on its stone lip behind him and the man of about thirty-four who keeps a stall laid his own two hands along the top of his own trestle and left them there.
+Nobody in that row thanked him for that and nobody said he was right and nobody said he was wrong, and he went on down that row with the bag on his own shoulder, and the rag lay on its stone lip behind him and he laid his own two hands along the top of his own trestle and left them there.
 
 Four people went past that end of that market that morning in the ordinary course of a day, and each of the four of them got the date off the chalk on the outside of that door at the foot of those steps on the way past it, and about four more of them did not look at it at all, and not one of the eight of them went up that stair.
 

@@ -2,7 +2,7 @@
 
 The man of about thirty-four who keeps a stall had his own board propped against the side of that bench with its face turned in to the wood, and he had put the flat of his own two hands on the bare back of it, and he took them off it and put them at his own sides and left the board where it was. It was about the fourth hour on the three hundred and seventy-ninth day of the Bare Month, a Tuesday. About nine people were in that room, and at the end of that bench nearest the window there was the woman of about twenty-nine who keeps a public register, sitting with the wood either side of an open book under her own two hands.
 
-Seven notices have gone out of this city in this flood. All seven of them went in Volumes 07 and 08, there is not an eighth, and no notice has been written in this city since, and there is no notice to be had out of anybody in that room at any hour of any day.
+There are seven notices in this flood. Every one of the seven went out in Volumes 07 and 08, there is not an eighth, and no notice has been written in this city since, and there is no notice to be had out of anybody in that room at any hour of any day.
 
 ---
 
@@ -14,7 +14,7 @@ The second of those four went out of this city and has not been in it since. The
 
 "**There is a sheet on a shelf at the end of this room about nine feet from where all of us are standing with one place ruled on it and a figure in that place, and it has been on that shelf since before any of us came up this stair, and not one person in this city has ever asked anybody what that one place is a place of.**"
 
-A woman at the front of that room said out loud that she did not know. A man beside her said the same thing in other words. The rest of that room said nothing at all, and the woman who keeps the book said nothing and was not asked anything, and nobody thanked him for having said it and nobody improved on it, and not one person in that room told him he had it right.
+A woman at the front of that room said out loud that she did not know. A man beside her put it in his own words and arrived nowhere. Nobody at the near end of that bench said anything else at all, and the woman who keeps the book said nothing and was not asked anything, and nobody thanked him for having said it and nobody improved on it, and not one person in that room told him he had it right.
 
 ---
 
@@ -26,7 +26,11 @@ At about the seventh hour a man at that bench said out loud that the page could 
 
 At about the ninth hour a man at the back of that room said out loud that there was a figure on a board at one end of that market and three sets of them, and that a person could put a line of words under one of those the way a line of words went under a figure on a sheet that is not in this city, and not one person in that room told him he had it right and not one told him he had it wrong, and nobody in that room went and looked at that board.
 
-The man of about thirty-four who keeps a stall was over at that end of that room with his own two hands hanging at his own sides and said nothing at all after his one turn, and the chalk was in his own inside breast pocket where it had been, and it did not come out of it that day, and nothing in that room asked him about it.
+"**I have had a piece of chalk in my own coat for a long while now that has not come out of it once, and I am not going to take it out in this room to put a mark on a sheet that is standing on a shelf nine feet from where we are all standing.**"
+
+Nobody in that room thanked him for that and nobody improved on it and nobody said he was right.
+
+The stallholder was over at that end of that room with his own two hands hanging at his own sides and said nothing at all after his two turns, and the chalk was in his own inside breast pocket where it had been, and it did not come out of it that day, and nothing in that room asked him about it.
 
 ---
 

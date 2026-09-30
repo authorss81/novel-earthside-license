@@ -1,8 +1,8 @@
-# Chapter 0699 — A Sunday In A Room With Nobody In It But Her And A Book Taken Down Off The Shelf Behind Her And Opened On The Bench
+# Chapter 0699 — A Sunday In A Room With Nobody In It But Her, A Book Taken Down Off The Shelf Behind Her And Opened On The Bench
 
 Nothing at all was on that bench this morning except the woman of about twenty-nine who keeps a public register, who had her own two hands flat on the near edge of the wood, and the bench was bare from end to end, and the second slate stood on the shelf behind it, its day cut across the head of it and an inch of nothing under it. It was about the fourth hour on the three hundred and eighty-fourth day of the Bare Month, a Sunday, and that room was empty.
 
-Nobody came up that stair. Nobody came up it at the fifth hour, and nobody came up it at the sixth, and nobody came up it at the seventh or the eighth or the ninth, and nobody came up it at the tenth, and that room had nobody in it but her from the fourth hour to the tenth hour, and the chapter does not say why, because nothing in that room knows and there is nobody to ask.
+Nobody came up that stair. Nobody came up it at the fifth hour, and nobody came up it at the sixth, and nobody came up it at the seventh or the eighth or the ninth, and nobody came up it at the tenth, and that room had nobody in it but her from the fourth hour to the tenth hour, and nobody in that room is going to say why, because nothing in it knows and there is nobody to ask.
 
 The light off the one window came into that room and lay on the floor and came up the leg of the bench, and there were five figures standing one under another down the middle of the page in that book with a day entered against each of the five and none of the five struck through, and there is one word near the head of the column on the right of that page, and it is in somebody else's hand.
 
@@ -12,7 +12,7 @@ She stood at the shelf behind that bench and put her own two hands flat on the w
 
 She took that book down off that shelf and held it in her two hands and carried it the two steps to that bench and set it down on the wood and opened it, and it opened at the page it opens at every morning of this flood, and she turned no other page and she wrote nothing in it.
 
-One word stands near the head of the column on the right of that page. Whoever put it there wrote in a hand that is not hers. It has been there since a day that is not one of this run of days. It was put there by somebody else, in that room, in front of about nine people, and she stood at that bench and did not stop it and was not asked why she did not, and she has not been asked since and she is not going to be asked this morning either, in a room with nobody in it but her.
+One word stands near the head of the column on the right of that page. Whoever put it there wrote in a hand that is not hers. It has been there since a day that is not one of this run of days. It was put there by somebody else, in that room, in front of about nine people, and she stood at that bench and did not stop it and was not asked why she did not, and nobody has asked her since and nobody is going to ask her this morning either, in a room with nobody in it but her.
 
 "**There is a word at the head of that column and it is not mine, and I keep the book, and I have been at this bench every morning of this flood, and not one person in this city has ever asked me what that column is for, and I have never once written down a single thing about who was standing in that room.**"
 

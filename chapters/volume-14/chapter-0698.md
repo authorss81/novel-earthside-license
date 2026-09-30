@@ -1,6 +1,6 @@
 # Chapter 0698 — A Question Asked At The Near End Of A Bench While The Far End Of The Room Is Talking About Something Else And Not One Person There Hears It
 
-The two hands of the woman of about twenty-nine who keeps a public register were flat on the two open pages of that book at the near end of that bench, and the strap of a satchel came over the right shoulder of the man of about thirty-one who carries things for a living as he stood at the end of that bench with the bag against his own leg and the flap of it down. It was about the seventh hour on the three hundred and eighty-third day of the Bare Month, a Saturday. There were about nine people in that room. and the chalk on the outside of the door at the foot of that stair carries the three hundred and eighty-third day of that month in full and nothing under it.
+The two hands of the woman of about twenty-nine who keeps a public register were flat on the two open pages of that book at the near end of that bench, and the strap of a satchel came over the right shoulder of the man of about thirty-one who carries things for a living as he stood at the end of that bench with the bag against his own leg and the flap of it down. It was about the seventh hour on the three hundred and eighty-third day of the Bare Month, a Saturday. There were about nine people in that room. The chalk on the outside of the door at the foot of that stair carries the three hundred and eighty-third day of that month in full and nothing under it.
 
 Behind her on that shelf the second slate stood on that shelf with a day cut across the top of it showing and nothing at all showing under that day, and nobody has picked it up and nobody has turned it over and nothing has ever been written on it, and no hand but her own had been near that shelf.
 
@@ -26,14 +26,14 @@ A woman at the back of that room laughed at something the man at the far end sai
 
 ---
 
-At about the ninth hour a man at the back of that room asked the room, in the ordinary voice, how many people went past that door in a day, and whether anybody in that room knew, and about four people said they did not know and about four said nothing, and the woman of about twenty-nine who keeps a public register said nothing at all and was not asked anything at all, and the man of about thirty-one who carries things for a living said nothing at all and was not asked anything at all either.
+At about the ninth hour a man at the back of that room asked the room, in the ordinary voice, how many people went past that door in a day, and whether anybody in that room knew, and about four people said they did not know and about four said nothing, and the keeper of that book said nothing at all and was not asked anything at all, and the carrier said nothing at all and was not asked anything at all either.
 
 "**I have kept a book in that room for fifty days and there is not one line in it that says anybody was ever standing in that room, and there is not one line in it that says what any of us said in here, and nobody in this city has ever asked me to write one of those two things down, and I am not going to start this morning.**"
 
-Nobody in that room thanked her for that and nobody argued with her about it and nobody improved on it, and the man at the back of that room said he did not know what she meant, and about four of the people in that room said the same thing in other words.
+Not one person in that room thanked her for that and nobody argued with her about it and nobody improved on it, and the man at the back of that room said he did not know what she meant, and about four of the people in that room said the same thing in other words.
 
 The man of about thirty-four who keeps a stall was in that row below, two stalls along, with his own hands on the top of his own trestle, and nobody in that room said one word about him and he said nothing to anybody and he came up that stair once at about the eighth hour, looked at the middle of that room, and went back down it.
 
 ---
 
-At about the tenth hour the man of about thirty-one who carries things for a living took his own right hand off the strap of that bag, and went to the back of that room, and went down that stair with the bag on his own shoulder and the flap of it down, and the room at the far end of that bench was still talking about the same thing it had been talking about an hour before.
+At about the tenth hour the carrier took his own right hand off the strap of that bag, and went to the back of that room, and went down that stair with the bag on his own shoulder and the flap of it down, and the room at the far end of that bench was still talking about the same thing it had been talking about an hour before.

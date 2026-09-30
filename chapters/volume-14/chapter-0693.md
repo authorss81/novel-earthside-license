@@ -1,6 +1,6 @@
 # Chapter 0693 — Four People Go Past A Yard In The Ordinary Course And A Boot Comes Down On The Near Edge Of A Board Lying Face Up On A Stack
 
-The flat of the man of about thirty-eight's own right hand was on the near edge of that board where it lay face up on the stack of boards in his own yard, and he took the hand off it and put it down at his own side, and the grit across the middle of it where he had put the hand did not move. It was about the fourth hour on the three hundred and seventy-eighth day of the Bare Month, a Monday. Four people a day go past the open end of that yard in the ordinary course, and the sun comes on to the side of that board at about the eighth hour and not before.
+The flat of the man of about thirty-eight at the salt wharf's own right hand was on the near edge of that board where it lay face up on the stack of boards in his own yard, and he took the hand off it and put it down at his own side, and the grit across the middle of it where he had put the hand did not move. It was about the fourth hour on the three hundred and seventy-eighth day of the Bare Month, a Monday. Four people a day go past the open end of that yard in the ordinary course, and the sun comes on to the side of that board at about the eighth hour and not before.
 
 There are two lines of grey grit across the figure on that board and they have not been wiped by anybody at any hour of this flood. The figure itself is his and it is on the side the sun gets to and nobody in this city has ever been shown it and nobody has ever asked him where it came from. The other side of that board is the side the sun does not get to, and there is a figure on that side too, and it is not this figure, and nobody in this city has been shown that one either, and no mouth in that yard has ever said the two of them are the same thing.
 
@@ -16,7 +16,7 @@ Four people went past the open end of that yard in about three hours and not one
 
 "**I have been at that door a long while today and I have not asked one of the four of them anything and I am not going to, and I have worked out what the four of them are looking at, and it is four different things, and not one of the four of them is wrong and not one of the four of them agrees with another.**"
 
-He said that to the yard and not to anybody in it, and there was a dog asleep against the wall of his own yard and nothing else in that yard that can hear a word.
+That went out across his own yard and not to anybody in it, and there was a dog asleep against the wall of it and nothing else in that yard that can hear a word.
 
 The one line of words that ever went under a figure in this flood went under one on a sheet that left this city before this run of days began, and that sheet has not come back, and there is not a figure in this city with a line of words under it, and there is no surface in this city anybody in it has ever been told they may put one under.
 
@@ -30,7 +30,7 @@ He did not say anything to her. She did not say anything to him. Nobody in that 
 
 "**Somebody chalked a date on the outside of that door, and the date is the three hundred and seventy-eighth day of that month, and under it there is a piece of bare board about as wide as a hand with nothing at all on either of them, and I walk past that door twice a week and have done for a long while, and I have never once been told what I am supposed to make of the wood under the chalk, and I have never once worked it out for myself either.**"
 
-He said that to his own yard door and to nobody going past it, and about four people went past that yard between that hour and the tenth hour and not one of them said one word about anything.
+Nobody going past that yard heard him, and about four people went past it between that hour and the tenth hour and not one of them said one word about anything.
 
 ---
 
