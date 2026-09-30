@@ -1134,3 +1134,382 @@ Volume 12 runs Chapters 0551 to 0600 on days 551 to 600, one chapter to one day.
 **AND THE TWO THINGS A WRITER OF DAYS 571 TO 580 MUST KNOW ABOUT THIS BLOCK, BOTH OF THEM THE PRODUCT OF THE REVIEW REPAIR PASS BELOW. First, the closing paragraph of the BATCH 0001 block above is a set of warnings addressed to "a writer of days 561 to 570"; that batch has now been written, so those warnings are spent, and they are not carried forward as a live briefing for the next ten days. Second, every figure in the BATCH 0001 block was measured on the files as they stood before the repair pass below and none of them was re-measured afterwards; re-derive before you plan.**
 
 **AND THE REVIEW REPAIR PASS ON THIS BATCH, WHICH MOVED PROSE AND NOTHING ELSE. Seven chapters of the ten were opened for editing and three were not, and no story fact, no day, no count, no descriptor, no cast member and no outcome moved in any of the seven. The repairs were: the verbatim reuse of sentences already on the page in earlier chapters of this volume, seven in all, removed by rewording while the motif each one carries was kept — the chalk date on the door with no name under it is still chalked on that door in 0562, 0563, 0567, 0569 and 0570 and is worded differently in each; the census of about four people who were in and about four who were not is still the volume's census; and "a woman near the step said the thing that is said" is still the volume's attribution tag. A garbled sentence in 0565 that read "the walk is the walk and the four hundred yards is a walk and not a figure about a place" was rewritten to say that nobody has ever measured that four hundred yards or written it down, which is the chapter's own claim and was always its meaning. The filler measure "about as long as it takes a man to walk from one place to another and back" stood four times in 0561, three in 0565 and twice in each of 0563 and 0564, and now stands at most twice in any one chapter, in two different forms. The possessive "his own" ran at one in every forty-eight words in 0564 and one in every seventy-six in 0565 and now runs at one in every three hundred and four and one in every one hundred and thirty-one. All ten chapters remain between eight hundred and thirty-three and one thousand one hundred and seventy-eight words, and the cross-file word-run check at forty words inside Volume 12 returns zero runs on both passes, which is the figure the batch itself published and the figure this pass preserved.**
+
+---
+
+# VOLUME 13 — CHAPTERS 0601 TO 0650, DAYS 601 TO 650, THE TWO HUNDRED AND EIGHTY-SIXTH TO THE THREE HUNDRED AND THIRTY-FIFTH DAY OF THE BARE MONTH
+
+**Thirty chapters are on disk, 0601 to 0630, one chapter to one day, and there is no double day. Day
+601 is a Sunday and day 630 is a Monday, and 650 − 601 = 49 = 7 × 7, so the two ends of the volume
+are the same weekday, and that is arithmetic and not a symmetry anybody may use. Bare-Month ordinals
+run 286 to 315 across these thirty chapters and no chapter prints one outside that range. The plan
+is `outline/volume-13.md`; the three batch records are `state/batch-summaries/volume-13-batch-0001.md`
+through `-0003.md`, and the card files for Batches 0001, 0003 and 0004 are under `outline/batches/`.
+**A WRITER OF DAYS 631 TO 640 READS THIS BLOCK FOR THE OBJECT COUNTS AND THE THREE STATE FILES FOR
+THE THREADS, AND DOES NOT TAKE ANY FIGURE IN IT ON FAITH: every count here was read off the files as
+they stand after the review repair pass of Batch 0003, and the prose counts in the three state files
+carry their first edition beside their second.**
+
+**AND WHAT DID NOT MOVE ACROSS THESE THIRTY DAYS, WHICH IS THE LIST A NEXT BATCH NEEDS. No day, no
+weekday, no Bare-Month ordinal, no anchor, no form, no notice, no object count that holds, no cast
+member and no decision of record moved, and no card was added, removed, retitled or reweighted. The
+register's right-hand column is empty from the head of that page to the foot of it on all thirty of
+these days and nothing was put in it; the one place on the sheet is empty on all thirty of them. The
+second slate was not picked up, not turned over and not written on, and no hand but the keeper's
+went near that shelf on any of the thirty. The wall said nothing on all thirty and there is no panel
+in any of them. No sheet went anywhere on any of these thirty days. Adrian Vale is NAMED in five of the
+thirty — 0601, 0607, 0611, 0615 and 0621 — and is Stage 2 in all five and is thanked by nobody in any
+of them. **The plan's own day map also has him at 0608 and Chapter 0608 has two men carrying that
+trough and does not name him, and that is the plan-against-chapter disagreement this volume has been
+carrying since Batch 0001 and it is carried here unresolved and is not repaired by this file.** No new final enemy, no new cosmic layer, no new
+antagonist and no new world was introduced, and the planned ending is untouched. The eleven inherited
+debts and the six named at `outline/volume-13.md` §21.1 are carried forward unpaid and no chapter of
+these thirty repaired one, took one or rerouted one.**
+
+## VOLUME 13, BATCH 0001 — CHAPTERS 0601 TO 0610, DAYS 601 TO 610
+
+**Chapter 0601 — Three Sets Of Figures On Two Nails And A Satchel Going By Behind Them.** Day 601, a
+Sunday, the two hundred and eighty-sixth. The outside wall of a store at one end of that market,
+from about the fourth hour. **The man of about twenty-seven who washes that board washes it every
+morning in two passes and goes away from it, and ninety seconds later a second hand is on the same
+board and neither of them reads anything on it.** Three sets of figures are on it, none rubbed out,
+and not one carrying a line of words under it, and the wall above its top edge is not washed. A
+satchel with a flap goes up that road on the quarterly round in the ordinary course and nobody in
+that market looks at it. **Adrian Vale has the board's near edge and wanted the two passes to be
+one, and the second pass is another pair of hands and not his.** Nobody thanked the washer. Change:
+a board is washed and then handled, and the handling is not reading.
+
+**Chapter 0602 — A Sheet Laid Flat On A Table With A Bone Still In The Near Fold Of It.** Day 602, a
+Monday, the two hundred and eighty-seventh. The room over a market, the table under the one window.
+**The fourth of the four sheets of one shape in this flood comes up that road in a satchel with a
+flap, and it has a heading and ONE place ruled under that heading and the one place is EMPTY, which
+none of the other three of its shape has ever done.** The man of about thirty-one who carries things
+for a living does not open the satchel on the table and nobody in that room asks him what is in it.
+The bone it was folded around is in the near fold of it. Change: a page arrives with a space left
+for this city to fill, and it is the first one that ever has.
+
+**Chapter 0603 — Two Sheets Of One Shape In One Room And A Number Said Twice.** Day 603, a Tuesday,
+the two hundred and eighty-eighth. The room over that market, the table and the shelf behind the
+bench. **The fourth one-place form is on that table with its one place still empty, and the first
+one-place form is standing on the opposite shelf with a figure of this city's own in its one place,
+and the two of them are in one room and are never laid beside each other and are never in one hand.**
+A count that was made on foot is named in a way two people in that room do not agree on, and the
+second figure and the day it was written in are on the page, and neither figure is printed. **The
+volume's first discovery is about a shape and not about a number: the man of about thirty-four who
+keeps a stall says the one place on a sheet and the column on the right of a page are the same
+shape, in about nine words, and nobody thanked him and nobody improved on it and nobody settled it.**
+Change: a room holds two of a thing and is told out loud that they are the same kind of place.
+
+**Chapter 0604 — A Sheet Turned About And Nothing On The Other Side Of It.** Day 604, a Wednesday,
+the two hundred and eighty-ninth. That room, the table under the one window. **A man turns the sheet
+about on the wood and the other side of it is the other side of it, and a room spends a whole
+morning on one surface and does not open its book, and about four people in it did not know the book
+was there.** The second slate is not picked up and not turned over and not written on. Change: a
+morning goes on a page and the book beside it stays shut.
+
+**Chapter 0605 — A Sheet Read Out In The Local Language And Nobody In The Room Told In Advance.** Day
+605, a Thursday, the two hundred and ninetieth. That room, about the ninth hour, in daylight, with a
+date in chalk on the outside of the door and about nine people in it. **The woman of about
+twenty-nine who keeps a public register reads that sheet out in the local language and says out
+loud what it is for before anybody asks: one place, to have a word in it and not a figure, and the
+sheet to go back up that road with the word in it.** She is not thanked for it and nobody argues with
+it, and nobody was told in advance what the morning was for, and **the four days that would have
+been the cooling are not in this city.** There is no eighth notice in this flood and this volume
+sends none. Change: a room is told what a page is for by the person who keeps the book, ten days
+before the page is filled.
+
+**Chapter 0606 — A Board Read By People Going Past And A Window Somebody Looked Up Into.** Day 606, a
+Friday, the two hundred and ninety-first. That market, from about the sixth hour. **The man of about
+thirty-nine who trades on a board stands at his own board with the flat of his hand on it and about
+four people going past read it and about four do not, and two counts of it do not agree and neither
+is printed and neither is taken.** The seven notices that went out of this city are named and none
+of them is written. The box of chalk on the step at the end of that row has a lid that does not
+shut. Change: a public figure goes past a market twice a day and two of the people who read it read
+it differently.
+
+**Chapter 0607 — A Box Emptied Onto The Flags And A Lid Put Back Where The Lid Is.** Day 607, a
+Saturday, the two hundred and ninety-second. The end of that market row. **Adrian Vale has both hands
+on that box and turns it over and empties it, and what was in it is in a heap on the flags with
+about a third of it gone into the channel with the grit, and the lid goes back down on the rim of it
+and does not shut.** A thumb's width of grit is under the near side of that rim and nobody in this
+city is going to be told what is under it. Change: a container is emptied onto the ground and put
+back, and the thing under it stays under it.
+
+**Chapter 0608 — A Trough And A Bucket And A Rag Carried Out Along Eleven Miles Of Flats.** Day 608, a
+Sunday, the two hundred and ninety-third. Eleven miles of flats, about the fifth hour to the eighth,
+in weather. **Two men walk a trough out along the bottom row of those flats with the water in it
+slopping over the sides, and the bucket is in the hand of the man on the near end and the rag is over
+his shoulder, and what they wanted is for that trough to come back up the same road it went out on,
+and it does not.** The channel has moved and the trough came back a different way with somebody
+else's water in it, and the rag is on the stone lip of the step and not in the trough. **The man of
+about thirty-nine who trades on a board stands on the top row at about the sixth hour where they come
+round a bank of silt, and he is not trading, and he looks at the trough and at the sky.** **THE PLAN'S
+OWN DAY MAP HAS ADRIAN VALE IN THIS CHAPTER AND THIS CHAPTER HAS TWO MEN AND DOES NOT NAME HIM, AND
+THAT IS THE PLAN-AGAINST-CHAPTER DISAGREEMENT THE VOLUME HAS BEEN CARRYING SINCE BATCH 0001.** No
+fifth morning of the count is made and no figure comes off that ground. Change: two men empty water
+out along a road and it comes back as somebody else's.
+
+**Chapter 0609 — A Chair Out From Under A Shelf And A Shelf Looked At From The Floor.** Day 609, a
+Monday, the two hundred and ninety-fourth. The room over a market, the back of it, about the sixth
+hour. **A chair is pulled out from under the shelf behind the bench and put back twice, and a shelf
+is looked at from below by a man on the floor, and nothing on that shelf is touched.** A pail is
+moved and put back and nobody has said who moved it. The length of new rope over the back of a chair
+is named once, is unused, is lifted by no hand, and the man it belongs to is not in that room and is
+asked nothing. Change: a man gets down on a floor to look at a shelf and goes back up without
+touching it.
+
+**Chapter 0610 — Two Chalks Counted In A Room And Not Put Together.** Day 610, a Tuesday, the two
+hundred and ninety-fifth. That room, about the ninth hour. **Two kinds of chalk are on a table and
+are named one after the other and are not put together in one sentence, and the store's own chalk
+has a lid that does not shut, and the man of about thirty-four's own piece has been in his inside
+breast pocket since the two hundred and ninety-eighth day of this flood and comes out of it on none
+of these thirty days.** The day-154 sentence is on no page of these thirty. The full form of day 298
+is printed at full length. Change: a room counts two objects of the same kind and refuses to make
+them one.
+
+## VOLUME 13, BATCH 0002 — CHAPTERS 0611 TO 0620, DAYS 611 TO 620
+
+**Chapter 0611 — A Plank Laid Across A Wet Sill And Not There When He Came Out.** Day 611, a
+Wednesday, the two hundred and ninety-sixth. Eleven miles of flats, the fifth hour to the eighth.
+**Adrian Vale lays a plank across the wet sill of a second row for it to stay where he put it
+overnight, and it is gone in the morning and nobody in this city has ever been shown who took it.**
+At the seventh hour a woman with two buckets went over the gap that was not there the day before
+and got her leg to about the knee and came out of it on her own. **The man of about twenty-seven who
+washes that board was out on that row before him, stepped the sill on the stone, did not touch the
+plank, and was not thanked.** No figure came off those flats. Change: a thing laid to be found in
+the morning is gone, and somebody pays for it in the leg.
+
+**Chapter 0612 — A Fence Named And A Road Named And Neither Of Them Measured.** Day 612, a Thursday,
+the two hundred and ninety-seventh. Out past the last named house, the top of a shut road, the sixth
+hour to the tenth. **The man of about sixty, with a handcart, a coil of rope in it and a hazel mallet
+with its head bound in cord, put that fence up and is not sent and is not asked why.** Sixteen willow
+posts and eleven withies bound with the same cord, and **no chapter of this volume measures that
+fence and no post in it moves.** A party of four is four, three went, one said no, and no elapsed
+figure is printed for that road at any day. Change: a man names a thing he built and a road nobody
+can be shown one person on.
+
+**Chapter 0613 — One Place On A Sheet And One Column On A Page And The Same Shape.** Day 613, a
+Friday, the two hundred and ninety-eighth. The room over a market, the eighth hour to the eleventh.
+**A book is taken off the shelf behind the bench and opened at a page, a sheet on the table is looked
+at, and a shelf is named, and the man of about thirty-four who keeps a stall says out loud in about
+nine words that the one place on that sheet and the column on the right of that page are the same
+shape, and nobody thanks him and nobody improves on it and nobody settles it.** The register's five
+figures, its empty right-hand column and the two slates are on the page; the second slate is not
+picked up, not turned over and not written on. Change: the volume's third discovery, about a shape
+and not about a word.
+
+**Chapter 0614 — Nineteen Rates Counted Two Ways And Two Ends That Do Not Agree.** Day 614, a
+Saturday, the two hundred and ninety-ninth. That market, from about the sixth hour to the eleventh.
+**The man of about thirty-nine who trades on a board counts his own board from the end he does not
+read it from, and the two ends do not agree, and no rate is printed, and a space at the foot of the
+column between the other two is about as wide as two of his fingers.** A woman who wanted one line
+off that board read it at the other end and took her morning elsewhere without saying what she read.
+The store's board has three sets of figures on it and not one of them is printed. Change: a man
+counts his own public board the wrong way on purpose and nobody joins the two counts.
+
+**Chapter 0615 — Four Hundred Yards Of Flags And Water Going Down Twice.** Day 615, a Sunday, the
+three hundredth. Four hundred yards of flags, a near gate, the fourth hour to the eighth.
+**Adrian Vale carries a trough the length of that row twice for those flags to be dry by the fourth
+hour, and they are not, and four days of weather went through that row.** The man of about
+twenty-seven who washes that board was on them before he was and did not use his trough and is not
+asked. **The water at that near gate went down twice with nobody touching it, and the rag is on the
+stone lip of the step and not in the trough, and the two chalks are not in one hand.** 615 is also
+the three hundredth day of the Bare Month and no chapter prints both halves of that pair. Change: a
+man's work holds nothing and the water goes down twice for no reason anybody can name.
+
+**Chapter 0616 — A Corner On That Road Nobody In This City Has Taken A Cord To.** Day 616, a Monday,
+the three hundred and first. The shut road, at a corner where it turns, the sixth hour to the ninth.
+**The man of about thirty-four who keeps a stall stands at a corner of that road for about two hours
+and says out loud that nobody is going to ask him what is past it, and he has never taken a cord to
+that fence in his life.** The two hours cost the woman who keeps the next stall along a morning of
+trade and nobody in that row told her where he was. Sixteen willow posts and eleven withies wherever
+the fence is spelled out, and the fence is not measured and no post moves. Change: a man gives two
+hours of a market to a corner and pays for it at a stall that is not his.
+
+**Chapter 0617 — Two Numbers Out Of A Room And Neither Of Them Taken Back.** Day 617, a Tuesday, the
+three hundred and second. The room over a market, about the ninth hour to the half hour after the
+eleventh, with about nine people in it. **A room counts out loud what has come up that road into
+this city or gone out of it in this flood and gets two numbers that do not agree, and the woman of
+about twenty-nine who keeps a public register is the one who counts and she gets both and takes
+neither back.** Four one-place forms, seven documents and the seven notices are named; there is no
+eighth. **Two sheets of one shape stand in that room on the same day and are not laid beside each
+other, are not in one hand and are not compared out loud in a mouth.** Change: a room counts itself
+and gets two answers and keeps both.
+
+**Chapter 0618 — A Word Where A Figure Would Be And Nobody Four Hundred Miles Off To Check It.** Day
+618, a Wednesday, the three hundred and third. That room, the seventh hour to the eleventh. **A
+satchel with a flap goes down a stair and comes back down it, and the man of about thirty-one who
+carries things for a living, who has never opened anything he has carried in this flood, says the
+one thing nobody asked him for: that a word in a place is read by anybody four hundred miles off and
+checked by nobody four hundred miles off, and that it is not the same kind of place a number's is.**
+The fourth one-place form is on that table with its one place empty; the third went out of this city
+on day 595. Nobody is thanked. Change: a man who carries things says out loud what a place with a
+word in it is for, and nobody improves on it.
+
+**Chapter 0619 — A Hurdle Made And A Bar Put In And Nobody In That Room Asked Him A Thing.** Day 619,
+a Thursday, the three hundred and fourth. The room over a market and the walk at the back of it, the
+ninth hour to the eleventh. **The man of about fifty-nine who walks the four-hundred-mile road stands
+a hurdle up in that walk and puts a bar in it that is longer than the one that came out, and says
+one thing nobody had asked him for, and nobody in that room asks him anything at any hour.** Three
+barrows stand on that road, one to a place, and the handcart with the coil of rope and the hazel
+mallet is the man of about sixty and is not one of the three, and no barrow in this city has
+anything on it. Change: a man replaces a bar in his own fence and the room does not ask him the one
+question it has been saving.
+
+**Chapter 0620 — A Room Working Out What A Sheet On A Table Is For.** Day 620, a Friday, the three
+hundred and fifth. That room, the ninth hour to the half hour after the twelfth. **A room works out
+out loud what a sheet on a table is for and the woman of about twenty-nine who keeps a public book
+says it before anybody asks, and nobody thanks her and nobody improves on it, and nothing is put
+anywhere.** The one place on that sheet is still empty, the column on the right of that page is
+still empty, and the second slate is on its shelf with a day across the head of it and nothing under
+it. **The four days that would have been the cooling are not available in this city and the chapter
+says so in a plain sentence of narration and not in a mouth, for the sixth volume running.** The
+piece of chalk in the man of about thirty-four's pocket has now been in it three hundred and
+twenty-two days. Change: a room says out loud what a page is for and sends nothing.
+
+## VOLUME 13, BATCH 0003 — CHAPTERS 0621 TO 0630, DAYS 621 TO 630
+
+**Chapter 0621 — A Thumb On One Corner Of A Line Of Grit And Four People Going Past The Open End.**
+Day 621, a Saturday, the three hundred and sixth. A yard at the near end of eleven miles of flats, the
+seventh hour to the eleventh. **Adrian Vale wheels an empty barrow the length of the yard and sets it
+down across the open end of it, and presses one corner of a line of grey grit back down where it had
+lifted over a figure of this city's own cut into the side of a board on the top of the stack, and he
+wanted that figure to be one somebody in this city is able to check, and it is not, and there is no
+instrument in four hundred miles that could check it.** A woman with a hand-basket cannot get past
+and says so, and the man of about thirty-eight at the foot of the stack says the barrow is not his.
+**Two men with a board between them have to set it down on the wet flags, and Adrian turns the
+barrow against the wall so they can get in, and neither of them says thank you and one of them says
+one thing about the wet edge of the board to the other man and not to him.** The two pieces of chalk
+are not in one hand. About four people go past the open end of that yard and not one stops. Change: a
+man puts one corner of a number back where it was and nobody sees him do it.
+
+**Chapter 0622 — Nine People Asked One Question In Ordinary Conversation Over About An Hour.** Day
+622, a Sunday, the three hundred and seventh. The room over a market, the tenth hour. **A room asks
+one question in ordinary conversation for about an hour — did anybody ever tell you what that column
+is for — and about four people say out loud that they do not know and about four say nothing, and
+the man of about thirty-nine who trades on a board says it in about four seconds: if one of them
+had been told, one of them would have said so in this room by now.** Nobody in that room says he is
+right, and the woman who keeps the book is not asked and the chapter does not say why. **The space
+at the foot of the column between the other two on his board is the same width it was at the tenth
+hour and nothing went into the column on the right of that page at any hour of that morning.**
+Change: a room establishes in an hour that nobody has been told, and tells nobody.
+
+**Chapter 0623 — About Four Of Them Found Out At The Ninth Hour And About Four At The Eleventh.** Day
+623, a Monday, the three hundred and eighth. That room, the ninth hour to the thirteenth. **About
+four people in that room work out at the ninth hour that the room has been asked for something and
+has not been told what, and about four find out at the eleventh hour from a man who heard it at the
+ninth, and neither group was told anything the other was not told.** The man of about thirty-four
+who keeps a stall says out loud in about nine words that nobody has told this room what that word is
+for, and then that a room that has not been told is not behind anybody. Nobody thanked him. **Nobody
+filled the one place on that sheet, nobody put a word in the column on the right of that page, and
+nobody said what the word was for.** Change: a room finds out what it is being asked on the morning
+it is asked, at two different hours.
+
+**Chapter 0624 — A Woman Alone With Three Things She Keeps From The Sixth Hour To The Tenth.** Day 624,
+a Tuesday, the three hundred and ninth. That room, empty, the sixth hour to the tenth. **The woman of
+about twenty-nine who keeps a public register draws the bench out from the wall, refuses a man who
+wants any line at all put in that book, and says that a person who does not know what a column is for
+does not write in it, and nobody argues with her.** She gets down on the floor and looks along the
+underside of the shelf without touching it, and the second slate is not picked up and not turned over
+and not written on. **A length of new rope is over the back of a chair in that room, unused, unlifted,
+unasked about.** At the tenth hour she goes out and stands on the step and looks at the date in chalk
+on the outside of the door and the bare piece of door under it, and puts nothing under it and goes
+back up. Change: the person the volume is about is alone with three things she keeps and gives
+nothing to a man who asks her for a line.
+
+**Chapter 0625 — A Man At The Near End Of That Bench Says What A Decision In That Room Costs Before He
+Makes It.** Day 625, a Wednesday, the three hundred and tenth, **the nearer of this volume's two
+middle days, and neither middle day may be called the midpoint.** That room, the ninth hour. **The
+man of about thirty-four who keeps a stall says out loud what the decision will cost — that nobody
+will be able to tell afterwards that a person chose it, and in about a year nobody in this city is
+going to be able to tell it either — and then decides that the word going into the column on the
+right of that page is his and goes in before the word going into the one place on that sheet, and
+that neither of them is to be read out.** There is no vote, no cooling and no notice, and the four
+days that would have been the cooling are not available in this city, and a man who wanted it put to
+the room was told what that would cost and went down that stair at the tenth hour and did not come
+back up it. **Neither of those two words is on anything at the end of that day.** Change: a man
+decides an order instead of a thing, and names the cost of deciding before he decides.
+
+**Chapter 0626 — A Satchel With A Flap Goes Up And Down A Stair Four Times And The Second Of The Two
+Middle Days.** Day 626, a Thursday, the three hundred and eleventh, **the second of the two middle
+days.** That room and the walk at the back of it, the eighth hour to the half hour after the
+eleventh. **The man of about thirty-one who carries things for a living is asked by a man and a
+woman to carry a sheet two different ways, refuses to choose, says he has carried four of that shape
+up that road and has not opened one of them, and then goes up and down that stair four times with the
+flap down over nothing at all.** He says the one thing nobody asked him for: that there is a thing in
+that room going into a place on a page before another thing goes into a place on a sheet, that he has
+an opinion about the order of the two, and that he is not going to be asked for it and is not going
+to say it. A woman with two buckets waits on the bottom step and then goes to the channel instead of
+to the store. **The man of about thirty-nine is in that room at the eleventh hour and nobody joins
+the space on his board to either of the two places.** Change: a man who carries things does the work
+both sides wanted and gives nobody his opinion.
+
+**Chapter 0627 — A Hand Goes Into A Pocket And Comes Out Again With Nothing In It.** Day 627, a
+Friday, the three hundred and twelfth. That market row, the seventh hour to the eleventh. **A hand
+goes into the man of about thirty-four's own inside breast pocket at about the ninth hour, in the
+ordinary way, and comes out again with nothing in it, and he says one thing about having done it, to
+the front of his own trestle and to nobody.** A woman at the heap of the store's own chalk goes into
+it with the flat of her hand and comes up with her hand shut, and there is chalk on the thumb of it,
+and she puts about as much back as would cover a coin into the box on the step and the lid does not
+shut. **A woman at the front of his stall at the seventh hour is not served and goes to the stall
+next along and does not come back.** **His chalk has now been in that pocket three hundred and
+twenty-nine days, and the full form of the two hundred and ninety-eighth day is printed at full
+length in this chapter.** Change: a man reaches for a thing he is not going to take out and a woman
+is not served for it.
+
+**Chapter 0628 — A Woman Asks One Man One Thing About Him And Not About The Book.** Day 628, a
+Saturday, the three hundred and thirteenth, the ninth hour. That room, in daylight, with a date in
+chalk on the outside of the door and about nine people in it. **The woman of about twenty-nine who
+keeps a public register asks the man of about thirty-four who keeps a stall one question, to one man,
+about him and not about the book, and he answers in his own mouth, in the local language, in seven
+words, once, and does not repeat it and does not write it down and does not ask her whether it was
+the right thing to call it.** About four of the nine were near enough to take in most of what he said
+and about four were not, and the two groups do not exchange one word about it at any hour of that
+morning, and a man at the far end of that bench asks what was said and gets nothing. At the tenth hour
+a woman at the one window waits for a figure of this city's own written out for her on a slip of
+paper, and the keeper is at the near end of that bench the whole time, and the woman goes back down
+that stair and says she will come back another morning. **The chalk is in that pocket by the time the
+light goes off the one window, and there is no eighth notice and there is not going to be one, and
+nobody four hundred miles off is ever going to hear what was said at that bench.** Change: a woman
+asks a man about himself instead of about the book, and he gives her the one thing he has had in a
+pocket for three hundred and thirty days, and it goes nowhere.
+
+**Chapter 0629 — A Trough And A Bucket And A Rag Go Out To That Yard And A Board Comes The Length Of
+It.** Day 629, a Sunday, the three hundred and fourteenth, the fifth hour to the ninth. That yard at
+the near end of eleven miles of flats, in weather. **The man of about twenty-seven who washes that
+board is out on that ground before the light, squares a trough across the foot of the stack, and
+will not move it six feet for a man with a barrow, and a second man has to go the long way round
+with his arm round his board.** Two men carry a board the length of that yard and set it down at the
+foot of the stack, and the top of that stack ends the morning two boards higher than it was at the
+fifth hour, **and the board lying face up on the top of it with the line of grey grit across the
+figure on it is that much further off the ground, and a thing two boards further off the ground on a
+day nobody counted anything is still a thing nobody has stopped at.** The rag is on the stone lip of
+the step at the fourth hour and at the tenth hour and was never in the trough. Change: a man will not
+move six feet of water for a stranger, and a stack gets taller.
+
+**Chapter 0630 — A Room Reads Out An Order It Is Going To Keep And Writes Neither Word Down.** Day 630,
+a Monday, the three hundred and fifteenth, the ninth hour to the thirteenth. That room, the table
+under the one window, the shelf behind the bench. **The woman of about twenty-nine who keeps a public
+register turns that sheet the right way up, reads the order out loud in the local language in front
+of about nine people — one word goes into the column on the right of that page before the other goes
+into the one place on that sheet, and neither is to be read out in a room, and it is not written down
+anywhere — and nobody thanks her and nobody improves on it.** About four of the nine had already
+worked out which word goes first and about four had not, and nobody was told either of those two
+things. She opens the register, looks down the bare right-hand column once from the head of it to the
+foot of it, and shuts it. A man who wants that sheet to go up that road whatever is in it and a woman
+who wants nothing to go up it until the room has settled what a word in a place is for both want
+out loud and neither gets it. **Seven documents and seven notices are named and no eighth is written,
+and at the half hour after the twelfth she turns the sheet about and leaves the heading of it the
+wrong way up for anybody who comes into that room after that, and nobody turns it back.** Change: a
+room reads out an order it is going to keep, writes neither word down, and leaves the page facing the
+wrong way for the next person.
+
+**AND THE TWO FIGURES A WRITER OF DAYS 631 TO 640 MUST NOT TAKE ON FAITH. FIRST, the two stones for
+the name and the rule: the name this volume gave itself was spoken once, in a mouth, on day 628, and
+the words of this volume's one rule are at `outline/volume-13.md` §6.7 and on the page of Chapter
+0640, which is one of your ten days, and **neither may be printed, paraphrased, improved on,
+described or certified as absent in any file you write, and no sentence you write says where either
+of them stands.** SECOND, the figures: the narrator-frame family was printed at zero for a batch's
+own ten files without naming a reading and was false on one of the two readings, and the readings and
+both figures are at `state/batch-summaries/volume-13-batch-0003.md` §19.2, and a zero published
+without the reading on the same line is not a measurement.**

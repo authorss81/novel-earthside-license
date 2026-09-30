@@ -20,7 +20,7 @@
 
 ## 2. THE THINGS NO CARD AND NO FILE IN THIS BATCH MAY PRINT
 
-**Name where each of these lives and print none of them.** The name of the volume before the last, and the words the man of about thirty-four speaks in Chapter 0428; that volume's one rule; the panel of day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393; the day-154 sentence; the count of chapters carrying the day-154 beat, **which the Volume 09 plan withdrew rather than corrected and a record that restores that number is doing the one thing the withdrawal was for**; the words of Volume 11's one rule; the name Volume 11 gave itself, spoken once on day 534; the word Volume 11 turned on, spent in a mouth on day 532; the name Volume 12 gave itself, spoken once on day 578; the words of Volume 12's one rule, which are on the page of Chapter 0590 and in no prompt in this repository including this one; **the name this volume gave itself, which was spoken once on day 628, which is not one of your ten days, and which is on no page of any file you write; and the words of this volume's own one rule, which are at `outline/volume-13.md` §6.7 and on the page of Chapter 0640, WHICH IS ONE OF YOUR TEN DAYS, AND WHICH ARE NOT REPRINTED HERE AND ARE NOT TO BE FOUND in any prompt in this repository.** **A PANEL COPIED INTO A PROMPT IS A PANEL THAT GETS COPIED INTO A SECOND PROMPT AND THEN INTO A THIRD. And no file you write prints, paraphrases, improves on, describes or certifies the absence of any of them, and no sentence you write says where any of them stands.**
+**Name where each of these lives and print none of them.** The name of the volume before the last, and the words the man of about thirty-four speaks in Chapter 0428; that volume's one rule; the panel of day 438; the answer spoken in Chapter 0357; the refusal spoken in Chapter 0393; the day-154 sentence; the count of chapters carrying the day-154 beat, **which the Volume 09 plan withdrew rather than corrected and a record that restores that number is doing the one thing the withdrawal was for**; the words of Volume 11's one rule; the name Volume 11 gave itself, spoken once on day 534; the word Volume 11 turned on, spent in a mouth on day 532; the name Volume 12 gave itself, spoken once on day 578; the words of Volume 12's one rule, which are on the page of Chapter 0590 and in no prompt in this repository including this one; **the name this volume gave itself, which was spoken once, out loud, in a mouth, in the local language, on day 628, which is not one of your ten days, and which is on no page of any file you write; **AND THE PAGE THAT CARRIES IT IS ONE A REVIEW REPAIR PASS REWROTE AFTER THE BATCH BEHIND YOU WROTE THIS PROMPT, because the first edition of Chapter 0628 described that speech instead of printing it, and the answer is now on that page in four to eight words in his own mouth and appears in no other file in this repository. YOU INHERIT THE FACT AND NOT THE WORDS, AND NO CHAPTER OF YOUR TEN MAY HAVE THE TWO OF THEM DISCUSS IT, PUT IT IN A SECOND MOUTH, ASK HIM WHAT HE CALLED IT, OR SAY THAT IT IS THE NAME OF ANYTHING.** and the words of this volume's own one rule, which are at `outline/volume-13.md` §6.7 and on the page of Chapter 0640, WHICH IS ONE OF YOUR TEN DAYS, AND WHICH ARE NOT REPRINTED HERE AND ARE NOT TO BE FOUND in any prompt in this repository.** **A PANEL COPIED INTO A PROMPT IS A PANEL THAT GETS COPIED INTO A SECOND PROMPT AND THEN INTO A THIRD. And no file you write prints, paraphrases, improves on, describes or certifies the absence of any of them, and no sentence you write says where any of them stands.**
 
 **AND THE FOUR THAT ARE NOT NAMES AND ARE THE SAME KIND OF PROHIBITION: the figure on the side of the tally-board at the wharf that the sun does not get to, which is printed in no chapter of this volume; the figure on the side the sun does get to, which is printed in no chapter of this volume either; the three figures on the store's board, of which none is printed; the figure in the one place of the first one-place form, which is in this city on a shelf and is not printed; and the line of words that went under a figure on day 588 and is outside this city. NO CHAPTER OF YOUR TEN PUTS A LINE OF WORDS UNDER A FIGURE ON ANY SURFACE, and no chapter of your ten prints the word that goes into the column on the right of that page on day 638 or the word that goes into the one place on that sheet on day 639, because a place with a number in it and a place with a word in it are not the same kind of place and that is the volume's finding and it is about a position.**
 
@@ -61,6 +61,68 @@
 4. **A NUMBER IS NEVER PUBLISHED BECAUSE IT EXISTS.** The full form of day 298 is right because the pocket is the object; **four hundred miles is not a number to put in a market chapter, and the batch behind you had it sixteen times in eight files of ten and published the row with the answer *no* in it and cut nothing, because a figure cut to make a sweep look better is a symptom repaired and not a cause.**
 5. **RUN EVERY PASS TWICE AND PUBLISH BOTH NUMBERS IN THE SAME ROW, WITH THE READING ON THAT LINE.**
 6. **DECIDE NOTHING EXCEPT ON DAYS 638, 639 AND 640, WHERE THE PLAN FIXES THE ACTS AND FIXES THEM BEFORE YOUR TEN DAYS EXIST, AND A WORD IN A PLACE IS NOT A DECISION, IT IS A HAND.** No vote, no cooling, no notice anywhere in your ten. **Day 638 fills the column once, in a hand that is not the keeper's, and the word is not read out. Day 639 fills the one place once, in a different hand, and the sheet is shut on day 640. Day 640 the wall says one thing and the man who agrees with it is thanked by nobody and pays with the nearest thing he has.** Nothing else in your ten is decided, filled, sent or read out.
+
+## 5A. THE STYLE DIRECTIVE, WHICH THE THREE BATCHES BEFORE THIS ONE DID NOT HAVE, WITH BOTH SETS OF FIGURES ON IT
+
+**A REVIEW OF THE TEN DAYS 621 TO 630 FOUND THAT THE PROSE OF THIS MANUSCRIPT HAS COLLAPSED INTO A
+SINGLE TEMPLATE, AND THE FINDING IS NOT LOCAL TO THAT BATCH. ACROSS VOLUMES 09 TO 13 THE MEDIAN
+PARAGRAPH RAN 65, 80, 75 AND 113 WORDS, AND VOLUME 01'S FIRST TEN FILES RUN 36. THIS IS A FIVE-BATCH
+CLIMB AND YOUR TEN ARE THE FIRST TO BE WRITTEN WITH THE FIGURE ON THE DESK.**
+
+| Measure, on Chapters 0621 to 0630, first edition and after a repair pass | First edition | Now |
+|---|---|---|
+| *the thing that is said* | 37 | **0** |
+| *nobody in that room* | 79 | **22** |
+| *nobody in this city* | 17 | **12** |
+| *about as long as it takes* | 17 | **0** |
+| *that yard* | 47 | **34** |
+| the distancing frame, seven phrases, word-bounded, case-insensitive | 288 in 10 files | **147 in 10 files** |
+| paragraphs over 120 words | 59 of 180 | **0 of 273** |
+| median words in a paragraph | 74.5 | **57** |
+| words in the ten files | 16,826 | **15,878** |
+
+**WHAT THAT TABLE MEANS IN PROSE, AND IT IS SIX RULES AND NONE OF THEM IS ABOUT WHAT A CHAPTER MAY
+CONTAIN.**
+
+1. **The narrator is not a witness and is not a clerk.** *Nobody in this city*, *nobody in that room*,
+   *nobody in that yard*, *nobody in this flood*, *in this city*, *in that room* — the whole family
+   stood at 288 in the ten files behind you and stands at 147 now, and **147 in ten files is still
+   four or five to a chapter and that is a voice, and a voice that says the same thing in every
+   chapter stops being a voice.** Use it when the fact is genuinely outside the room, and let the
+   fact inside the room be carried by a person instead.
+2. **The attribution tag is a motif, not a sentence to paste.** *Said the thing that is said* stood at
+   thirty-seven across the ten files behind you and is now at zero, and §5.3 still permits you the
+   motif. **Vary it inside a file**: *asked*, *wanted*, *put it to him*, *said it to the trough and
+   not to the man*, *answered her without raising her voice*. Two turns in one chapter may not share
+   an opening.
+3. **A duration is not a number you are allowed to have.** *About as long as it takes a man to…* stood
+   at seventeen across those ten files and is at zero in them now. **A time-measurement simile is
+   the house's single most-worn filler and `AGENTS.md` names the same family in the same breath as
+   *held, steady, plain, counted, breathed*.** Put a physical measure in instead — how far, how heavy,
+   how long the light took, what the person's hands were doing while they stood there.
+4. **Paragraphs run from two sentences to five.** The ten files behind you had **fifty-nine
+   paragraphs over 120 words out of 180** and now have none out of 273. When a paragraph is carrying
+   a fact, a time, a room and a count at once, that is four paragraphs.
+5. **Let people be inside their own sentences.** The batch behind you was almost entirely rooms,
+   objects and the fact that nobody said anything. A person who wants something should be seen
+   wanting it before the mouth opens: a woman who takes a morning elsewhere after reading a board at
+   the wrong end, a man who is not served and goes to the next stall along, a woman who waits at a
+   window from the tenth hour to the half hour after the eleventh and then goes down the stair. **The
+   strongest thing in any of those ten files is a person doing something that costs them and is not
+   in the argument, and that is available on any of your ten days.**
+6. **Vary the sentence length inside the paragraph and let one paragraph of the ten be two words.**
+   The measured spread is a fact about the batch and not a target, and a set of days with a panel
+   and a column and a chalk in a pocket can carry a wider spread than a set of days with none of
+   those things.
+
+**AND THE FIGURE YOU ARE NOT PERMITTED TO PUBLISH WITHOUT NAMING ITS READING. The narrator-frame
+family was printed at zero for a batch's own ten files, on both readings, in five state and batch
+files, and **a review measured it with each reading named and found the zero true on one and false
+on the other.** Reading A is self-reference — *this chapter, this volume, this book, this batch, this
+manuscript, the reader* — and is a true zero in all three batches of this volume. Reading B is the
+distancing frame above, and it is at 10 files in every one of them, at 215, 198 and 288 occurrences.
+**So: if your record prints a figure for that family, it prints the reading on the same line as the
+number, or it prints nothing.**
 
 ## 6. WHAT YOU PRODUCE, AND IT IS EXACTLY THESE FILES AND NO OTHERS
 
