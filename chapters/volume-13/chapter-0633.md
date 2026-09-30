@@ -1,6 +1,6 @@
 # Chapter 0633 — A Woman Names Out Loud What A Word In That Column Is Going To Cost And It Is Not Her Own Cost
 
-The woman of about twenty-nine who keeps a public register had both hands flat on the top of that bench with her fingers spread on the wood, and she was standing at the near end of it and not behind it. It was about the seventh hour on the three hundred and eighteenth day of the Bare Month, a Thursday, in the room over a market, in daylight, and about nine people were in that room and not one of them had been sent for anything.
+The woman of about twenty-nine who keeps a public register stood at the near end of that bench with both her hands flat on the wood and her fingers spread on it, and she was not behind it. It was about the seventh hour on the three hundred and eighteenth day of the Bare Month, a Thursday, in the room over a market, in daylight, and about nine people were in that room and not one of them had been sent for anything.
 
 What is on the outside of the door at the foot of the stair at the back of that room is a date in chalk, and the three hundred and eighteenth day of the Bare Month is on it in full. Nothing is under that date and the door below it is bare for the width of a hand.
 
@@ -30,7 +30,7 @@ A man at the far end of that bench asked her, in the ordinary way, whether anybo
 
 ---
 
-Two people in that room wanted two different things out of that morning and neither of the two of them got what it was.
+Two of the people in that room wanted that morning to come out in two different ways and it came out in neither of them.
 
 A man standing at the step wanted that slate read out in that room so that the nine people in it would have the word in their own heads before the light went off the one window.
 

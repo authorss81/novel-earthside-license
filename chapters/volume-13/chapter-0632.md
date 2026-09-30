@@ -4,9 +4,9 @@ Adrian Vale had both hands on the near end of that trough and he carried it the 
 
 He had taken that rag off the stone lip of the step at the end of that market row when he came through it, and that rag is put down on that stone lip every morning and left there, and it went out along that row in his own hand and it was not inside that trough at any hour of that day. He took his own hand off the trough, wiped the outside of it down the length of it with that rag, and put the rag back on the stone lip of that step and left it lying the way he had found it.
 
-The trough, the bucket and that rag are one of each in this city and the rag goes in about nine hands. The bucket was in his own right hand the whole time and about half of what was in it went across those flags and off the far end of that row into the channel, and the other half stood in the bottom of the trough about a finger's width deep while he had the rag to it.
+The trough, the bucket and that rag are one of each in this city and there is no second set of any of the three in it. The bucket was in his own right hand the whole time and about half of what was in it went across those flags and off the far end of that row into the channel, and the other half stood in the bottom of the trough about a finger's width deep while he had the rag to it.
 
-The stone above that board's top edge keeps the colour it has always kept. It was washed once in the whole of this flood, on a day that is not one of this volume's, by the man who washes that board every morning, and by no second person since. Adrian Vale put the flat of his own hand against the stone at the foot of that wall to hold that trough where he had set it, and his hand did not go above the top edge of that board, and no rag went to that stone, and nothing was washed.
+The stone above that board's top edge keeps the colour it has always kept. It was washed once in the whole of this flood, on a day that is not one of this run of days, by the man who washes that board every morning, and by no second person since. Adrian Vale put the flat of his own hand against the stone at the foot of that wall to hold that trough where he had set it, and his hand did not go above the top edge of that board, and no rag went to that stone, and nothing was washed.
 
 Two kinds of chalk are in this flood, they are not the same chalk, and no hour of that morning put both of them in one hand. The store's own is in a heap on the flags at the end of that row with about a third of it gone into the channel, and its box is on the step above them with the lid of it lying down on the rim and that lid has never shut and there is a thumb's width of grit under the near side of that rim.
 
@@ -22,7 +22,7 @@ The man of about twenty-seven who washes that board came round the end of that r
 
 ---
 
-About the ninth hour the man of about thirty-eight at the salt wharf came up that row from the far end of it with a barrow of his own behind him and its shafts on the ground and his own tally-board against his own hip and a knife in the belt of his coat. Nothing was on that barrow and there is no barrow in this city with anything on it on any day of this flood.
+About the ninth hour the man of about thirty-eight at the salt wharf came up that row from the far end of it with a barrow of his own behind him and its shafts on the ground, his own tally-board turned in against his own hip, and his own knife in the belt of his coat. Nothing was on that barrow and there is no barrow in this city with anything on it on any day of this flood.
 
 He wanted to get that barrow along that row to the step at the end of it, and the trough Adrian Vale had set down at the far end of those flags was square across the only dry ground left there, and Adrian Vale was still at that trough with the bucket in his right hand.
 
@@ -62,7 +62,7 @@ No one on that row made a better thing of that either and nobody there thanked h
 
 Out at the back of that market the room stands over the row with a stair at the foot of it, and on the outside of the door at the bottom of that stair there is a date in chalk. The three hundred and seventeenth day of the Bare Month is on that door in full, and there is no name under it, and a bare piece of door about as wide as a hand is below that date.
 
-About nine people were in that room at the ninth hour and none of them had been sent for anything. The register stood on its shelf behind that bench with its spine to the wall, and there were five figures in the column that holds them with a day written in beside each, and the column on the right of that page bare from the head of it to its foot. The second slate stood on that same shelf up on its edge with its written face to the plaster, and the only hand in that room which came near that shelf all morning was the keeper's.
+That room had nine or so in it by the ninth hour and not one of them had come for anything. The register stood on its shelf behind that bench with its spine to the wall, and there were five figures in the column that holds them with a day written in beside each, and the column on the right of that page bare from the head of it to its foot. The second slate stood on that same shelf up on its edge with its written face to the plaster, and the only hand in that room which came near that shelf all morning was the keeper's.
 
 A day is cut across the head of that slate and there is nothing whatever under that day.
 

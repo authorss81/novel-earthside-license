@@ -1,12 +1,12 @@
 # Chapter 0634 — A Second Line Of Grey Grit On A Board Nobody Ever Reads Where It Is Lying
 
-The man of about thirty-four who keeps a stall went into the yard at the near end of eleven miles of flats at about the seventh hour and got down on one knee at the foot of that stack so that his own eye came level with the top face of it. His board was standing face in against his own trestle two stalls along and a piece of chalk in his own inside breast pocket had not been out of that pocket since the two hundred and ninety-eighth day of this flood. Neither of those two things came out to that yard with him.
+The man of about thirty-four who keeps a stall went into the yard at the near end of eleven miles of flats at about the seventh hour and got down on one knee at the foot of that stack so that his own eye came level with the top face of it. His own board stood up against his trestle two stalls along, and the chalk in his own inside breast pocket had not been out of that pocket since the two hundred and ninety-eighth day of this flood. Neither of those two things came out to that yard with him.
 
-A stack of boards stands along the wall of that yard with its ends squared off and its top face about as high as a man's chest. On the top of that stack, squared with the boards under it and with nothing else in that yard, there is a board with a figure of this city's own cut into the side of it that the sun gets to, and there is a line of grey grit lying across that figure from one end of it to the other, and there is a second line of grey grit on it now as well, lying across the first at an angle to it.
+A stack of boards stands against the wall of that yard with its ends squared off, and the top of it stands about as high on a man as his own chest. On the top of that stack, squared with the boards under it and with nothing else in that yard, there is a board with a figure of this city's own cut into the side of it that the sun gets to, and there is a line of grey grit lying across that figure from one end of it to the other, and there is a second line of grey grit on it now as well, lying across the first at an angle to it.
 
 The first of those two lines came off those boards on the five hundred and ninety-second day of this flood and nobody wiped it. The second came off the same boards and nobody wiped that either and nobody has ever been told which of the two boards it came off, and it is not going to be.
 
-The man of about thirty-eight at the salt wharf was not in that yard at any hour of that morning. Nobody in that city has ever been shown where the figure on that tally-board came from and nobody has ever asked him about it, and no page in this flood prints what that figure is.
+That yard did not get the man of about thirty-eight at the salt wharf at any hour of that morning. Nobody in that city has ever been shown where the figure on that tally-board came from and nobody has ever asked him about it, and no page in this flood prints what that figure is.
 
 People went past the open end of that yard one after another at their own times that day. Not one of them stopped at the top of that stack and nobody took their number and nobody counted them, and the figure on that board was no more read on that day than on any other morning of this flood since the water came.
 
@@ -42,7 +42,7 @@ Nothing in that room made a better thing of that and nobody there thanked him an
 
 ---
 
-Two of the people in that room wanted two different things out of the rest of that morning and neither of them got the thing each of them had come for.
+Two people at that bench wanted two different things out of what was left of that morning and neither of them got what it was.
 
 A man at the step wanted that sheet weighted down before the light came off the one window, because the wind comes round that corner of that market in the middle of the day and has lifted paper off that table before.
 

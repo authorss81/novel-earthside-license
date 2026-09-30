@@ -34,7 +34,7 @@ A woman at the stall next along called across that row to ask him whether he was
 
 "**I wash a board and I go back to my own front and I am not standing here for anybody to look at me while I do it, and you have been at that front since before the light like everybody else in this row.**"
 
-Nothing in that row made a better thing of it and nobody there thanked him for saying it. She went along that row to the one beyond and did not come back to that end of it that day, and he did not know that and was not told.
+Nothing in that row improved on it and nobody there said thank you to him for saying it. She went along that row to the one beyond and did not come back to that end of it that day, and he did not know that and was not told.
 
 He said one more thing at about the tenth hour with his own hand flat on the face of that board, and nobody in this city has ever asked him for it.
 

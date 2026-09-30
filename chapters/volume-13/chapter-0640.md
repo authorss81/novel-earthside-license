@@ -1,6 +1,6 @@
 # Chapter 0640 — The Wall Of That Room Said One Thing And A Man Agreed With It In About Four Seconds And Went Down The Stair
 
-The man of about thirty-nine who trades on a board came up the stair at the back of that room at about the ninth hour with the string at the top of that board over his own left shoulder and the face of it turned in against his own ribs, and he stood at the far end of that bench in the ordinary course of that market. He has nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it, and he did not put a finger in it.
+The man of about thirty-nine who trades on a board was standing at the far end of that bench in the ordinary course of that market with the string at the top of that board over his own left shoulder and the face of it turned in against his own ribs, and he had come up the stair at the back of that room before anything was said in it. He has nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it, and he did not put a finger in it.
 
 It was about the ninth hour on the three hundred and twenty-fifth day of the Bare Month, a Thursday, in the room over a market, in daylight, in the ordinary course, with about nine people in that room and about nine people at that end of the market below it.
 
@@ -20,7 +20,7 @@ The man of about thirty-nine agreed with it out loud in about four seconds. It w
 
 "**That is right, and I have said so out loud, and I am not going to say it again.**"
 
-Nobody in that room improved on that and nobody in that room argued with it and nobody in that room thanked him for it and nobody in that room said that he was right. Nobody asked him to say it a second time and nobody came at him afterwards with a question about it.
+Nobody in that room improved on that either and nobody said a word against it, and nobody thanked him for it, and nobody in that room told him he was right. Nobody asked him to say it a second time and nobody came at him afterwards with a question about it.
 
 About four people in that room were near enough to that far end of that bench to have taken all of it in and about four were not, and those two groups did not exchange one word about it at any hour before the light went off that one window. A word in a place on a page is a kind of thing, and nobody in that room repeated one word of what that wall said out loud and nobody took it down onto anything.
 
@@ -32,7 +32,7 @@ Nobody in that room improved on that either and nobody thanked him for it and no
 
 ---
 
-Two of the people in that room wanted two different things out of the rest of that morning and neither of them got the thing each of them wanted.
+Two of the people in that room wanted different things out of that morning and neither of those two people got what they had come for.
 
 A man at the near end of that bench wanted that thing written down somewhere in that room so that about nine people would have it in front of them instead of in their heads, and he asked for that twice and got the same answer both times, which was that there is no page in that room that is going to carry it.
 

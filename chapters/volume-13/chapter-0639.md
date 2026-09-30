@@ -1,6 +1,6 @@
 # Chapter 0639 — A Cost Named Out Loud By The Man Whose Chalk It Was And Then A Word In The One Place On That Sheet
 
-The man of about thirty-four who keeps a stall was at the near end of that bench with his own two hands on the top rail of it and the flat of his own right thumb lying along the rail where his own hand had been shut since yesterday. It was about the ninth hour on the three hundred and twenty-fourth day of the Bare Month, a Wednesday, in the room over a market, in daylight, and about nine people were in that room.
+The man of about thirty-four who keeps a stall had come up that stair before the light and was standing at the near end of that bench with his own two hands on the top rail of it and the flat of his own right thumb lying along the rail where his own hand had been shut since yesterday. It was about the ninth hour on the three hundred and twenty-fourth day of the Bare Month, a Wednesday, in the room over a market, in daylight, and about nine people stood in that room.
 
 What is on the outside of the door at the foot of the stair at the back of that room is a date in chalk, and the three hundred and twenty-fourth day of the Bare Month is on it in full. No name at all is under that date, and the wood below it is bare for the width of a hand.
 
@@ -14,11 +14,11 @@ He said it out loud to that room at about the ninth hour, and it was the second 
 
 "**What this costs is not mine and I am saying it in this room so that the person it goes from is standing in it: from today no page in this city can show that a place was left alone on purpose, and the woman who keeps that book is the one it goes from.**"
 
-Nobody in that room improved on it and nobody in that room argued with it and nobody in that room thanked him for saying it, and the woman it went from did not thank him for saying it out loud in front of about nine people.
+Nobody improved on it and nobody argued with it and nobody thanked him for saying it, and the woman it went from did not thank him for saying it out loud in front of about nine people.
 
-A man at the far end of that bench asked her, in the ordinary way, who had chosen it. She did not raise her voice to answer him.
+A man at the far end of that bench asked her, in the ordinary way, who had chosen the word at the head of that column. She did not raise her voice to answer him.
 
-"Nobody asked me and I did not choose it and I am the one who wrote it."
+"Nobody asked me and I did not choose it and I am not the one who wrote it."
 
 Nobody thanked her either. About four people in that room had that in their own heads by the tenth hour and about four did not, and neither of those two groups said one word about it to the other before the light went off that one window.
 
@@ -30,7 +30,7 @@ Nobody in that room improved on that and nobody argued with it and nobody said t
 
 ---
 
-Two people in that room wanted two different things out of that day and neither of the two of them got what it was.
+Two people in that room had come up that stair for two different things that morning and neither of the two of them got what it was.
 
 A man near the step wanted that sheet to go back up that road with nothing in its one place, on the grounds that a page that arrives here with a space in it and goes back with a space in it is a page that tells a person four hundred miles off that there is nothing here to be had.
 

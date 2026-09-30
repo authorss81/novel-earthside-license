@@ -1,6 +1,6 @@
 # Chapter 0638 — A Piece Of Chalk Out Of A Pocket And One Word At The Head Of A Column That Nobody Read Out
 
-The man of about thirty-four who keeps a stall came up the stair at the back of that room with the flat of his own right hand over his own inside breast pocket and his own left hand on the top rail of that bench, and he did not take the right hand off the pocket while he was standing there. It was about the ninth hour on the three hundred and twenty-third day of the Bare Month, a Tuesday, in the room over a market, in daylight, and about nine people were in that room and every one of them had come into it before anything was said in it.
+The man of about thirty-four who keeps a stall was on that stair at the back of that room with the flat of his own right hand over his own inside breast pocket and his own left hand on the top rail of that bench, and he did not take the right hand off the pocket while he was standing there. It was about the ninth hour on the three hundred and twenty-third day of the Bare Month, a Tuesday, in the room over a market, in daylight, and nine or so of them were in that room and every one of them had come into it before anything was said in it.
 
 What is on the outside of the door at the foot of that stair is a date in chalk, and the three hundred and twenty-third day of the Bare Month is on it in full. Nothing at all is under that date, there never has been anything under it, and the wood below it is bare for the width of a hand.
 
@@ -16,7 +16,7 @@ He said it to that room before he did it, in his own mouth, and it was not said 
 
 "**One word goes at the head of that column and no word is to be read out of it, and after this morning nobody in this city will be able to tell whether that column was ever left alone on purpose.**"
 
-Nobody in that room improved on it and nobody in that room argued with it and nobody in that room said that he was right, and nobody thanked him for saying it.
+Not one person in that room improved on it and nobody argued with it, nobody in that room told him he was right, and nobody thanked him for saying it.
 
 Then he took his own right hand off his own inside breast pocket and out of that pocket came a piece of chalk. That piece of chalk has not been out of that pocket since the two hundred and ninety-eighth day of this flood, and on the six hundred and thirty-eighth day of this flood that is three hundred and forty days.
 
@@ -24,7 +24,7 @@ He put the flat of that chalk on that page at the head of that column and he wro
 
 Nobody said what it was. Nobody repeated it. Nobody asked him to say it again and nobody asked anybody else what it said, and no second word went into that column on that page at any hour of that day or any day after it.
 
-The woman of about twenty-nine who keeps that book was standing at the near end of that bench with her own hands in the sleeves of her own coat for the whole of it. She did not stop him. She was not asked why she did not, and she was not asked before it and she was not asked after it.
+The woman of about twenty-nine who keeps that book stood at that end of the bench where she always stands, her own hands pushed up inside the sleeves of her own coat, and she was in that pose for the whole of it. She did not stop him. She was not asked why she did not, and she was not asked before it and she was not asked after it.
 
 He put that chalk down on the top of that bench and put his own two hands flat on the top rail on either side of it and stood there, and nobody in that room came up to that bench and looked at that page.
 
@@ -32,13 +32,13 @@ Then he said one more thing out loud, to the far end of that room and to nobody 
 
 "**I am not going to tell anybody what it says and I am not going to be asked what it says, and if a person in this city does ask me I am going to tell them that it is on that page and not in my mouth.**"
 
-Nobody in that room improved on that and nobody in that room argued with it and nobody in that room said that he was right, and nobody asked him what it says.
+Nobody there improved on that either and nobody argued with it, and nobody in that room said he was right, and nobody asked him what it says.
 
 ---
 
-Two of the people in that room wanted two different things out of the rest of that morning and neither of the two of them got the thing each of them had asked for.
+Two of them at that bench wanted two different things out of the morning, and neither of the two of them got what either of them wanted.
 
-A man at the far end of that bench wanted that word read out in that room, so that about nine people would have it in their own heads before the light went off the one window. He asked for it twice, once at about the tenth hour and once at about the half hour after the eleventh, and the second time he asked the keeper and not the man who had written it.
+A man at the far end of that bench wanted that word read out in that room, so that about nine people would have it in their own heads before the light went off the one window. He asked for it twice, once with the light still on the flags and once after it had gone off them, and the second time he put it to the keeper and not to the man who had written it.
 
 A woman near that one window wanted that book shut and that bench cleared and the room emptied, on the grounds that a page with something new at the head of a column in it is a page that about nine people are going to be talking about by the thirteenth hour.
 
@@ -48,13 +48,13 @@ A man who had been in that room since the light asked the keeper, quietly, wheth
 
 "You were all in this room at the seventh hour."
 
-Nobody improved on that and nobody thanked her for it and nobody came at her afterwards with a second question about it.
+Nobody improved on that and nobody thanked her for it, and nobody in that room came back to her about it later on.
 
 A woman at the far end of that bench asked the man of about thirty-four, in the ordinary way, whether he would put a second thing in the same column in a week, so that anybody reading that page later would know there had been two. He said it to that bench and not to her.
 
 "**There is one word at the head of that column and there is not going to be another, and a page with two things in it in one column is a page nobody four hundred miles off is going to know how to read.**"
 
-Nobody in that room thanked him for that and nobody improved on it, and nobody came at him afterwards with a second question about it, and the column on the right of that page carries one thing near the head of it and nothing anywhere else on that page.
+Nobody in that room thanked him for that and nobody improved on it, and no one in that room put a second question to him about any part of it afterwards, and the column on the right of that page carries one thing near the head of it and nothing anywhere else on that page.
 
 ---
 

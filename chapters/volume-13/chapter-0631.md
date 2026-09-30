@@ -1,10 +1,10 @@
 # Chapter 0631 — A Board Carried Up A Stair And Back Down It And Nobody At Either End Asked Him A Thing
 
-The man of about thirty-nine who trades on a board came up the stair at the back of that room with the string at the top of that board over his left shoulder and the flat of his right hand against the face of it, so that the face of it was turned in against his own ribs. He has nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it. He carried that board up that stair the way a man carries a thing he has decided not to put down.
+The man of about thirty-nine who trades on a board was on the stair at the back of that room with the string at the top of that board over his left shoulder and the palm of his right hand on the face of it, which kept the face of it turned in against his own ribs. He has nineteen rates on that board in three columns, and at the foot of the column between the other two there is a space about as wide as two of his fingers with nothing whatever in it. He carried that board up that stair the way a man carries a thing he has decided not to put down.
 
 It was about the eighth hour on the three hundred and sixteenth day of the Bare Month, a Tuesday, in the room over a market, in daylight. What is on the outside of the door at the foot of that stair is a date in chalk, and the three hundred and sixteenth day of the Bare Month is on it in full. There is no name under that date and there never has been one, and the door below it is bare for the width of a hand.
 
-There were about nine people in that room at that hour and every one of them was in it before anything was said in it. The register stood where it always stands, on its shelf behind that bench, with its spine to the wall. Five figures stand in the column that holds them, one under another, with a day written in beside each of the five, and not one of the five is struck out. The column on the right of that page is the same width as the one beside it and is bare from the head of it to its foot.
+Nine or so were in that room at that hour, and every one of them was in it before anything was said in it. The register stood where it always stands, on its shelf behind that bench, with its spine to the wall. Five figures stand in the column that holds them, one under another, with a day written in beside each of the five, and not one of the five is struck out. The column on the right of that page is the same width as the one beside it and is bare from the head of it to its foot.
 
 Behind the register on that same shelf there is a second slate standing on its edge with the written face of it against the plaster. There is a day cut across the head of it and nothing whatever stands under that day. Nothing in that room lifted it, turned it over or wrote on it at any hour of that morning, and the one hand that came near that shelf was the keeper's.
 
@@ -44,9 +44,9 @@ He answered her the second time without moving his hand off the face of his own 
 
 "**I have been up this stair once this week and I go back down it the way I came up it, and you should go down and trade and not stand at a window.**"
 
-Nobody in that room said that she was right and nobody improved on what he said to her. She went on standing at that window until the light had come off it and then she went down that stair herself, and she did not thank him and he did not tell her she was welcome to take it.
+Nobody in that room said that she was right and not one person there improved on what he had said to her. She went on standing at that window until the light had come off it and then she went down that stair herself, and she did not thank him and he did not tell her she was welcome to take it.
 
-A boy from that market came up that stair at about the eleventh hour with a message from a man at the end of the row below and asked that room what it had come to, and about four people in it told him nothing and about four told him that a man was sitting at the near end of a bench with a board against his chest doing nothing anybody could see.
+A boy from that market came up that stair at about the eleventh hour with word from a man at the far end of the row below and asked that room what it had come to, and about four people in it told him nothing and about four told him that a man was sitting at the near end of a bench with a board against his chest doing nothing anybody could see.
 
 ---
 
@@ -54,7 +54,7 @@ About nine people were in that room at the ninth hour and about nine were in it 
 
 This flood has two pieces of chalk in it and they are not one chalk. The heap on the flags at the end of that row is the store's own chalk, with about a third of it gone into the channel. The box it belongs to stands on the step above those flags and its lid lies down on the rim of that box, and that lid has never shut on any day of this flood.
 
-Two stalls along that row the man of about thirty-four who keeps a stall keeps a piece of chalk shut inside the front of his own coat, and that piece went into that pocket on the two hundred and ninety-eighth day of this flood and has stayed in it every hour since. It was there at the eighth hour of that morning and it was there at the thirteenth hour of it, and nobody in that market has ever asked him one thing about it.
+Two stalls along that row the man of about thirty-four who keeps a stall keeps a piece of chalk shut inside the front of his own coat, and that piece went into that pocket on the two hundred and ninety-eighth day of this flood and has stayed in it every hour since. It was there at the eighth hour of that morning and it was there at the thirteenth hour of it, and not one person in that market has ever asked him a single thing about it.
 
 ---
 

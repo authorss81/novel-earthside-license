@@ -1,6 +1,6 @@
 # Chapter 0636 — A Plank Laid Across A Wet Sill And A Man With A Handcart Who Did Not Know Whose Hands Laid It
 
-Adrian Vale had both hands under the near end of that plank and he turned it about on the flags of the second row and laid it across the wet sill and put the flat of his own hand on the middle of it and put his weight there to see whether it would take a person. It was about the sixth hour on the three hundred and twenty-first day of the Bare Month, a Sunday, in a second row of flats with a channel of wet silt running along the bottom row, in weather.
+Adrian Vale turned that plank about on the flags of the second row and laid it across the wet sill, and then he stood on the middle of it with his own weight to see whether it would take a person. It was about the sixth hour on the three hundred and twenty-first day of the Bare Month, a Sunday, in a second row of flats, in weather, with a channel of wet silt running along the bottom row and the water moving with every step a man took on that ground.
 
 The sill he laid it across is about a foot above the water in that channel and there is standing water in the shadow of the top row on both sides of where that plank went down. He took the end of a rope off his own belt that has been round a gatepost and a post and a barrow and a great deal else in this flood, and it is not new, and he put one turn of it round the middle of that plank and one round the sill end nearest the top row and knotted it, and the knot held when he put his weight on it again.
 
@@ -26,7 +26,7 @@ Nobody on that row improved on that either and nobody thanked him for saying it 
 
 ---
 
-Two people on that row wanted two different things out of the rest of that morning and neither of them got what it was.
+Two people on that row wanted that plank to be somewhere else, and neither of them got what it was.
 
 A woman at the near end of that row wanted that plank taken up off that sill and laid at a sill further along where four people instead of two cross it every morning, and she said so once, standing at the near end of it.
 
