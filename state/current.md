@@ -250,3 +250,141 @@ head of Batch 0004.**
 **`chapters/volume-10/chapter-0475.md` IS PAID, NOT ROUTED. It was written by the review repair pass, on day 475, a Sunday, the hundred and sixtieth day of the Bare Month, and the writing of it is published as a decision because `state/volume-11-close.md` §3 requires a repair pass that writes it to say so with its day, its weekday and its Bare-Month ordinal, and to state that a chapter written after the volume it belongs to has ended is a repair and not a chapter. It is `outline/volume-10.md` §8. Routing it to a batch was tried first and withdrawn: `state/volume-10-close.md` §3, `state/volume-11-close.md` §3 and `outline/volume-13.md` §21.1 all forbid a batch being given it. The successor prompt was left with nothing on this at all. No other Volume 10 page was touched.**
 
 **THE NEXT PHASE IS UNCHANGED AND IS `workspace/volume-13/batch-0004/PROMPT.md`, WRITING CHAPTERS 0631 TO 0640. IT CARRIES THE COLUMN, WHICH IS STILL EMPTY, AND IT IS STILL THE ONLY NEXT PHASE.**
+
+---
+
+## VOLUME 13 AFTER DAY 640 — CHAPTERS 0601 TO 0640 ON DISK, DAYS 601 TO 640, AND TEN DAYS OF THIS VOLUME STILL TO WRITE
+
+**THE STORY, IN ONE PARAGRAPH, AND IT COMES FIRST BECAUSE THE COUNTS COME SECOND.** A man carried a board up a stair into a room and back down it, and a woman at the stall two floors below him lost a morning because he was standing at a bench with it against his own chest. A man washed a trough out along a row of flags with a rag that belongs to a stone lip and had it back on that lip before the light came off the flags, and a man at a salt wharf told two people at one end of that row to walk round the trough and told a third to carry her own crate, and was thanked by nobody and did not know the man who lifted the trough had opened the way for him. A woman told a room in about thirty words what a word in a column would cost and the cost was not hers and the man it was about did not thank her for saying it. A man got down on one knee at a stack of boards in a wharf yard and said in about nine words what that board is for, and a second line of grey grit lay across a figure nobody in that city has ever been asked about. A person walked eleven miles of flats with a slate under one arm and a tin in her two hands, stopped where a bank of silt had cut into a sill, and was not asked why she stopped. A man laid a plank across a wet sill and tied it with an old rope, and a man with a handcart went up that row and came back down it and walked on the plank and does not know whose hands laid it there. A board came off its two nails at the fourth hour and went back on them with a thin wedge under the near nail, and a bench was cleared and a sheet laid on it and nobody turned it. **Then a man took a piece of chalk out of an inside breast pocket it had not been out of since the two hundred and ninety-eighth day of this flood and wrote one word at the head of a column in front of about nine people while the woman who keeps that book stood at the near end of that bench and did not stop him, and nobody in that room read it out and nobody asked her why she did not.** The next day the same man named out loud what that had cost and it goes from the woman who keeps the book, and she wrote a word in the one place on a sheet with a pen and ink in her own hand and said that nobody asked her and that she did not choose it. And on the Thursday the wall of that room said one thing, and a man who trades nineteen rates on a board agreed with it out loud in about four seconds in nineteen words, was thanked by nobody, went down that stair and did his own trading at the far end of that city, and nobody in that room asked him about the space at the foot of the column between the other two on his own board.
+
+**WHAT IS ON THE TABLES AND THE SHELVES AT THE END OF DAY 640, AND EVERY ITEM HOLDS.**
+
+- A sheet with a heading and **one place** ruled under it is **shut** on the table under the one window of the room over a
+  market, the bone still lying in the near fold of it, and **its one place is FILLED with a word that is neither a figure
+  nor a person.** It came up that road on day 602, was read out on day 605 in the local language, and it goes back up
+  that road on day 645 in a satchel with a flap. **No chapter of this volume prints that word or prints what that one
+  place is a place of, and no chapter of this volume prints the word that went into the column on day 638.**
+- The register holds **five** figures in the column that holds figures, in the order they were made, with a day written
+  in beside each, **none struck, no sixth entered and none taken out**, and **the column on the right of that page is NO
+  LONGER EMPTY. It carries one word near the head of that page, put there on day 638 in a hand that is not the keeper's,
+  in front of about nine people, with the keeper standing at the near end of that bench and not asked. Nothing anywhere
+  else on that page, and no second word on any day.** **Nothing in four hundred miles can take a word out of a place and
+  leave the place empty, and after day 638 no page in this city can show that a place was ever left alone on purpose.**
+- The second slate stands on the shelf behind that bench with a day cut across the head of it and nothing under it. It
+  has never been picked up, never turned over and never written on, and **no hand but the keeper's went near that shelf
+  on any of the forty days.**
+- **The piece of chalk in the man of about thirty-four's own inside breast pocket came out of that pocket on day 638
+  for the first time in three hundred and forty days, and it is back in the pocket the same afternoon.** The full form
+  of day 298 is printed at full length in every chapter of this volume that carries it and is shortened to a relative
+  phrase in none of them.
+- The store's board is on its two nails with **three sets of figures**, none rubbed out, **not one of them carrying a
+  line of words under it**, and no figure on it is printed. **No chapter of this volume says which of the three is the
+  one anybody should be reading.** The wall above its top edge was washed on **none** of the fifty days and by no second
+  person on any of them, and on day 637 a man had his own hand against the foot of that wall and his hand did not go
+  above the top edge of that board.
+- **THE TALLY-BOARD AT THE WHARF CARRIES A SECOND LINE OF GREY GRIT AS OF DAY 634**, lying across the first at an angle
+  to it, and neither line was wiped and nobody has been told which board either came off, and the figure on that board
+  is printed in no chapter of this volume. Day 642 is not one of this batch's days and stands to bring grit down onto a
+  length of cord at that wharf.
+- The store's own chalk is in a heap at the end of the market row with about a third of it in the channel, and on day
+  632 the water out of a trough carried the edge of that heap over the flags into the channel and a woman put what was
+  left into the box off her own fingers. Its box is on the step, the lid lies down on the rim, and **the lid does not
+  shut**.
+- The length of new rope over the back of its chair is never used, never cut, never taken up and never lifted, the man
+  it belongs to is not in any of these ten chapters and is asked nothing in any of them, and **the coil of rope in the
+  man of about sixty's handcart and the end of a rope that is not new on day 636 are a third rope and a fourth, and a
+  chapter that names two ropes joins them in nothing.** Only one rope is named in Chapter 0636.
+- There is **no eighth notice** in this flood and there is not going to be one. This batch wrote none.
+- The count made on foot was made on **four** mornings, 511, 515, 517 and 521, **all four days named together in Chapter
+  0635 and in no chapter of this volume printed without the day it was made in**, and the four do not agree and were not
+  permitted to agree. **Day 635 was not one of those four mornings and nothing came off those flats on it.**
+- A party of four is four, three went, one said no, and three barrows stand on a four-hundred-mile road nobody in this
+  city can be shown one person on. **No chapter of this volume prints an elapsed figure for that road at any day.**
+- The day on the door at the foot of that stair carries a date in full and **no name under it on any of the fifty
+  days**, and a bare piece of door about as wide as a hand below the date. **The word going four hundred miles is the
+  name of that room and it is on a sheet and not on that door.**
+
+**THE THREE QUESTIONS OF DAYS 346, 396 AND 445, THE QUESTION OF DAY 498, THE QUESTION OF DAY 548 AND THE QUESTION OF
+DAY 598 ALL STAND UNANSWERED. NONE HAS BEEN PUT IN A SECOND MOUTH BY ANY CHAPTER OF DAYS 631 TO 640. NO CHAPTER ASKS
+THE MAN OF ABOUT THIRTY-NINE WHAT THE MISSING NAME ON HIS OWN BOARD IS, AND NOTHING IN THOSE TEN CHAPTERS JOINS THE
+SPACE ON THAT BOARD TO THE COLUMN ON THE RIGHT OF THAT PAGE IN ANY MOUTH OR IN ANY NARRATION.**
+
+**THE DAY MAP. 601 Sunday, 650 Sunday, one chapter to one day, no double day. Bare-Month ordinals run 286 to 335 and no
+chapter prints one outside that range, converts a count into a span, says the month is nearly over, or says what it is
+a month of. Days 615 and 640 are the only days on which a Bare-Month ordinal and a day of this flood carry the same
+figure, and no chapter may print both halves of either pair in one sentence, may join them, and may give either of them
+a meaning. **625 and 626 are this volume's two middle days and neither may be called the midpoint in any chapter.** The
+days the volume was built to reach, and which of them are written: 628 the name spoken — WRITTEN. 638 the column filled
+— **WRITTEN**. 639 the one place filled — **WRITTEN**. 640 the wall's one panel — **WRITTEN**. 645 the sheet goes back
+up the road, 648 the new question, 649 the register with its word, 650 the last image — none of them written yet.**
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650. IT CARRIES A COLUMN THAT
+IS NO LONGER EMPTY AND A SHEET THAT IS SHUT AND HAS A WORD IN IT.**
+
+---
+
+## WHAT A NEXT WRITER HAS TO KNOW ABOUT THE PROSE, AND IT IS A DIFFERENT THING FROM WHAT THE BATCH BEFORE THIS ONE CARRIED
+
+| Measure, on Chapters 0631 to 0640, word-bounded where a phrase is given | Figure |
+|---|---|
+| *the thing that is said* | **0** |
+| *nobody in that room* | 42 |
+| *nobody in this city* | 8 |
+| *about as long as it takes* | **0** |
+| *that yard* | 12 |
+| the distancing frame, seven phrases | **166 in 10 files** |
+| paragraphs over 120 words | **0 of 270** |
+| median words in a paragraph | **53** |
+| words in the ten files | **15,440** |
+
+**The attribution tag is at zero and twenty-one different forms of attribution stand in front of twenty-four marked
+turns, and no two turns in one chapter share an opening. The time-measurement simile is at zero and a duration is given
+as a physical measure in every chapter. Paragraphs run from two sentences to five and the longest is 117 words. The
+distancing frame stands at sixteen and a half to a chapter against fourteen and seven to a chapter in the files behind
+this one and twenty-eight point eight to a chapter in those files as that batch first wrote them, and seven of these ten
+are a room with about nine people in it, and the frame is a named motif of this volume and not a collision.**
+
+**THE FULL INSTRUMENT ACCOUNT FOR THIS BATCH IS IN ONE PLACE AND IT IS `state/batch-summaries/volume-13-batch-0004.md`,
+and this file carries the position, the objects, the threads, the debts and this table, and not a fourth copy of a
+measurement. EVERY FIGURE IN THAT RECORD CARRIES ITS READING AND ITS SCOPE ON THE SAME LINE AS ITS NUMBER, AND EVERY
+PASS IN IT WAS RUN TWICE WITH BOTH NUMBERS PUBLISHED, AND FOUR OF ITS INSTRUMENTS RETURNED A WRONG FIRST ANSWER AND
+EACH OF THE FOUR IS NAMED AT THE ROW WHERE IT BELONGS.**
+
+---
+
+## THE DEBTS, CARRIED WHOLE AND UNPAID, WITH THE ONE THAT WAS PAID BEFORE THIS BATCH AND STAYS PAID
+
+1. The eleven inherited debts and the six named at `outline/volume-13.md` §21.1. **None was paid, taken, repaired or
+   rerouted by this batch, and all eleven are named in that batch's own record.**
+2. `chapters/volume-10/chapter-0475.md` **IS ON DISK AND THIS DEBT IS PAID.** It was written by the review repair pass
+   that took Batch 0002 and published as the decision it was. **This batch named it and did not write it, did not
+   summarise it, decided nothing in it and did not route it.**
+3. The four missing card files of Volume 12. Not payable as plans by a batch, not payable as reconstructions by a later
+   outline, and stopping a debt growing is not paying one.
+4. The false zero of two words in four published batch records of Volume 12, which print a zero against a
+   whole-manuscript corpus and a zero that belongs to those batches' own ten files. **This batch reprinted none of
+   them, repaired none of them, printed no whole-manuscript figure for either word, and both of those words are at zero
+   in this batch's own ten files on both case flags.**
+5. **The narrator-frame family. Two readings, and this file prints a figure for both of them with each reading on the
+   same line as its number.** Reading A, self-reference — *this chapter, this volume, this book, this batch, this
+   manuscript, the reader* — **is at 0 in 0 files and 0 occurrences in the ten files of this batch**, and stands in 69
+   files at 167 occurrences across the 640 chapter files on disk as measured in this batch's own run. Reading B, the
+   distancing frame — *nobody in this city, nobody in that room, nobody in that yard, nobody in this flood, nobody in
+   this room, in this city, in that room* — **is at 10 files in 10 files and 166 occurrences in the ten files of this
+   batch**, and stands in 601 files at 8,268 occurrences across the same corpus. **A RECORD THAT PRINTS A ZERO WITHOUT
+   NAMING THE READING BESIDE IT IS PUBLISHING A FALSE ZERO, and the correction of that in the five places it was made
+   stands.**
+6. The publication exposure in Volumes 01 to 04. Inherited, unpaid, and owed by a pass that says so.
+7. **The disagreements inside the plan, ALL OF THEM, NONE RESOLVED BY ANYBODY.** The *party and the road* row against
+   that same plan's own escalation and resolution; the day entry for a box of chalk's lid against that plan's own object
+   row; the plan's Adrian column against its own §4.1 table at day 608; the *"the string"* in that §4.1 row for day 601,
+   which is in no chapter of Batch 0001; the card file's line saying the man says this volume's name on day 628 against
+   its own line saying the chapter must not print it, which the page has settled and the card has not. **AND THREE THIS
+   BATCH FOUND AND ADDED TO NOTHING: the plan's §6.7 and §10 print day 640 as a Wednesday and §14.3, §14.3's own
+   validation and this batch's card print it as a Thursday and the run comes out Thursday, and this batch wrote a
+   Thursday and edited nothing; the plan's object row for the tally-board at the wharf puts the second line of grey grit
+   on day 642 and the plan's own escalation entry for day 634 names a second line of grit on it, and this batch wrote
+   the second line on day 634 because its card required it; and the plan's row for the day on the door reads *every
+   chapter of the fifty that goes up that stair* and Chapter 0636 goes up no stair.**
+8. `state/phase-ledger.json` reads `phase-000-bootstrap` with the repository thirteen volumes deep. **It is controller
+   state. It is reported here and was not opened, and no agent may fix it.**

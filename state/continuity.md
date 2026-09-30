@@ -181,3 +181,142 @@ where it was, is carrying the live position forward and the full history is behi
 **AND THE ONE DEBT THAT IS PAID RATHER THAN CARRIED. `chapters/volume-10/chapter-0475.md` WAS WRITTEN BY THIS REPAIR PASS and Volume 10 now holds fifty chapter files where it held forty-nine. It is `outline/volume-10.md` §8, day 475, a Sunday, the hundred and sixtieth day of the Bare Month, and it was written after the volume it belongs to had ended and is therefore a repair and not a chapter, and that statement is published because `state/volume-11-close.md` §3 requires a repair pass that writes this chapter to publish exactly that, with its day, its weekday and its Bare-Month ordinal. The first attempt at this repair routed the chapter to the successor batch instead of writing it, and that routing was withdrawn because three closed records forbid a batch being given it — `state/volume-10-close.md` §3, `state/volume-11-close.md` §3 and `outline/volume-13.md` §21.1. THE DEBT HAD ONE OWNER IN THREE VOLUMES AND BOTH OWNERS THE VOLUME 10 CLOSE NAMED WERE CONSUMED WITHOUT PAYING IT; the pass that could pay it was the one the Volume 11 close named, and it is this one. No other Volume 10 file was touched, and the new chapter printed no figure, named no place, filled no column, produced no document, and left the second slate alone, and the figure is still not on the board, because the decision is on day 475 and the chalk goes on on day 490.**
 
 **AND THE ONE PROHIBITION THAT A LATER CLOSE SET ASIDE, PUBLISHED HERE BECAUSE NOBODY ELSE CAN PUBLISH IT AND BECAUSE A WRITER MEETING IT WITH NO NOTE ON IT IS A WRITER WHO WILL CARRY A FORBIDDEN RULE AS IF IT STOOD.** `state/volume-10-close.md` §3 carries the only routing sentence that volume's record has: the debt for Chapter 0475 is owed to the next OUTLINE PHASE or to a Volume 11 close, and IT IS NOT OWED BY A WRITER AND IT IS NOT OWED BY A REPAIR PASS. That sentence is of record and it is not edited, because a repair pass may not edit a close. IT HAS BEEN SET ASIDE BY A LATER RECORD IN THE SAME REPOSITORY: `state/volume-11-close.md` §3 says in terms that A REPAIR PASS MAY WRITE IT, and sets out the four things such a pass must publish, and the review repair pass that wrote Chapter 0475 published all four. `outline/volume-13.md` §21.1, which post-dates both, names a review repair pass that says so as the owner. **SO A READER WHO FINDS THE VOLUME 10 CLOSE'S SENTENCE SHOULD KNOW THAT TWO LATER RECORDS IN THIS REPOSITORY TAKE A DIFFERENT VIEW OF IT, THAT THE LATER VIEW IS THE ONE THE LAST OF THE THREE RECORDED, AND THAT THE CHAPTER IS ON DISK.** The Volume 12 close and the Volume 13 plan also print that the file does not exist; both are closed records of a state that has since changed and neither is edited, and this paragraph is the note on all of them.
+
+---
+
+## VOLUME 13, BATCH 0004 — CHAPTERS 0631 TO 0640, DAYS 631 TO 640. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**WHAT THESE TEN DAYS DID TO THE CONTINUITY OF THE WORLD, IN THE ORDER A LATER WRITER NEEDS IT, AND THE STORY COMES
+FIRST.** A man carried a board under his arm up a stair into a room and back down it four hours later, and nobody in
+that room asked him one word about the space at the foot of the column between the other two on it, and a woman at the
+stall two floors below him stood at a front with nobody at it for an hour of that morning and was never told why. A man
+carried a trough the length of a row of flags and wiped its outside down with a rag he took off a stone lip and had that
+rag back on that lip before the light came off the flags, and a man at a salt wharf told two people at that row to walk
+round the trough and told a third to carry her own crate instead. A woman named out loud what a word in a column would
+cost and the cost was not hers, and the man it was about did not thank her for saying it. A man got down on one knee at
+a stack of boards and said in about nine words what a board lying face up on a stack is for, and nobody thanked him. A
+person walked eleven miles of flats with a slate under one arm and a tin in her two hands and stopped where a bank of
+silt had cut into a sill. A man laid a plank across a wet sill and tied it with a rope that has been used, and a man
+with a handcart went up that row and came back down it and walked on it and does not know whose hands laid it. A board
+came off its two nails at the fourth hour and went back on them at the half hour after the ninth with a thin wedge under
+the near nail, and the top edge of that board has been level with that sill ever since and nobody in that row has
+noticed. **Then the column on the right of that register's page was written in, once, in chalk out of a pocket, in front
+of about nine people, with the keeper at the near end of that bench not stopping it and not being asked why she did
+not.** The next day the woman who keeps that book put a word in the one place on a sheet with a pen and ink in her own
+hand, said out loud that nobody asked her and that she did not choose it, and was thanked by nobody. **And on the
+Thursday the wall of that room said one thing, and a man who trades nineteen rates on a board agreed with it out loud
+in about four seconds and was thanked by nobody and went back down that stair to his own trading.**
+
+1. **The fourth one-place form is SHUT on the table under the one window in the room over a market, with the bone still
+   lying in the near fold of it, and its one place is FILLED with a word that is neither a figure nor a person.** It
+   came up that road on day 602, was read out on day 605, had its one place written in on day 639 about the half hour
+   after the eleventh hour, and was folded shut on day 640 about the half hour after the eleventh hour along the two
+   folds that came up that road in it. **It goes back up that road on day 645, which is not one of this batch's days, in
+   a satchel with a flap, carried by the man who carries things for a living and who has never opened anything he has
+   carried in this flood. Neither the word nor what that one place is a place of is on any page of this batch, and it
+   was never laid beside any of the other three of its shape and was never in one hand with one and was never compared
+   out loud in a mouth in any of these ten chapters.**
+2. **The register holds five figures in the column that holds figures, in the order they were made, none struck, no
+   sixth entered and none taken out, on every one of these ten days.** **THE COLUMN ON THE RIGHT IS NO LONGER EMPTY. IT
+   CARRIES ONE WORD NEAR THE HEAD OF THAT PAGE, PUT THERE ON DAY 638 AT ABOUT THE NINTH HOUR IN CHALK OUT OF AN INSIDE
+   BREAST POCKET, IN A HAND THAT IS NOT THE KEEPER'S, IN FRONT OF ABOUT NINE PEOPLE, WITH THE KEEPER STANDING AT THE
+   NEAR END OF THAT BENCH. SHE DID NOT STOP HIM, SHE WAS NOT ASKED WHY SHE DID NOT, AND SHE WAS NOT ASKED BEFORE IT AND
+   NOT AFTER IT. NOTHING ANYWHERE ELSE ON THAT PAGE, AND NO SECOND WORD ON ANY DAY.** The second slate is on its shelf
+   with a day cut across the head of it and nothing whatever under that day, and it was not picked up and not turned
+   over and not written on on any of these ten days, and the only hand in that room which came near that shelf on any
+   of them was the keeper's.
+3. **The piece of chalk in the man of about thirty-four's own inside breast pocket came out of that pocket on day 638
+   for the first time since the two hundred and ninety-eighth day of this flood, and on the six hundred and thirty-eighth
+   day of this flood that is three hundred and forty days, and the full form of that day is printed at full length in
+   Chapter 0638 and is shortened to a relative phrase in no chapter of this batch.** He put it down on the top of that
+   bench after he had used it, and it went back into that pocket at about the half hour after the eleventh hour on the
+   same afternoon it came out. **NO CHAPTER OF THIS BATCH PRINTS WHAT IS ON HIS THUMB, and the nearest any of the ten
+   comes to it is that he put his own two hands flat on the top rail on either side of the chalk.**
+4. **The store's board is on its two nails with three sets of figures on it, none rubbed out, not one carrying a line
+   of words under it, and no figure on it is printed in any of these ten chapters.** It came off those two nails at the
+   fourth hour of day 637 and went back on them at about the half hour after the ninth hour of that day, and the near
+   nail had been worked up out of the wall by the fall of the board on a great many mornings and a thin wedge of wood
+   was driven under its head, and **the top edge of that board is now level with the sill of that wall and nobody in that
+   row noticed it happen.** **THE WALL ABOVE THE TOP EDGE OF THAT BOARD WAS NOT WASHED ON ANY OF THESE TEN DAYS AND BY
+   NO SECOND PERSON ON ANY OF THEM AND NO HAND WENT ABOVE THE TOP EDGE OF THAT BOARD ON ANY OF THEM.** Two people came to
+   that wall to copy a figure off it and had to wait for the board to go back up and neither of them said thank you.
+5. **The tally-board at the wharf carries a SECOND line of grey grit as of day 634, lying across the first one at an
+   angle to it.** The first line came off those boards on the five hundred and ninety-second day of this flood and
+   nobody wiped it; the second came off the same boards and nobody wiped that either. **NO CHAPTER OF THESE TEN PRINTS
+   THE FIGURE ON THAT BOARD, NO CHAPTER SAYS WHERE IT CAME FROM, NO CHAPTER ASKS THE MAN OF ABOUT THIRTY-EIGHT AT THE
+   SALT WHARF ONE THING ABOUT IT, AND THAT BOARD WAS NOT TURNED OVER ON ITS FACE ON ANY OF THESE TEN DAYS AND CANNOT BE.**
+   People went past the open end of that yard on every one of these ten days and **no chapter of these ten took their
+   number and none counted them.** The man of about thirty-eight said out loud on day 634 that grit does not take a
+   figure off a board and does not put one on it, and nobody thanked him for it.
+6. **The store's own chalk is in a heap on the flags at the end of that market row with about a third of it in the
+   channel, its box is on the step above them with the lid of it lying down on the rim, and the lid does not shut.**
+   On day 632 the water out of a trough went across those flags into the channel and took the edge of that heap with it,
+   and a woman at the front of that store went down into what was left with the flat of her own hand, put what she
+   wanted back into that box off her own fingers, and put the lid down on the rim, and it did not shut. **The heap was
+   short of what it had been at the fourth hour of that day by about as much as would cover a coin.**
+7. **The rag is on the stone lip of a step at the end of that market row at the fourth hour and at the seventh and at
+   the ninth of day 632, and it is inside the trough in no chapter of this batch and in no hour of any of them.** The
+   man of about twenty-seven who washes that board came round the end of that row at about the seventh hour of that day,
+   found it where he had put it himself, picked it up, went on up the row and put a wet arm across that board, **did not
+   look for it anywhere else and did not ask anybody where it had been, and nobody in that row was going to tell him.**
+8. **The plank Adrian Vale laid across the wet sill of that second row of flats on day 636 is still on that sill, with
+   one turn of a rope that has been used round the middle of it.** A man with a handcart walked on it and did not know
+   whose hands laid it there and did not stop. **A man with a handcart is not a barrow and joins nothing to the three
+   barrows on the shut road, and only one rope is named in Chapter 0636.**
+9. **The count made on foot out along eleven miles of flats was made on four mornings in this flood, the five hundred
+   and eleventh day of it and the five hundred and fifteenth and the five hundred and seventeenth and the five hundred
+   and twenty-first, and all four of those days are named together in Chapter 0635 and in no chapter of this batch is
+   any one of the four named without the day it was made in.** **Day 635 was not one of those four mornings and nothing
+   came off those flats on it and no fifth morning was made in this city.**
+10. **The woman who walked a market on two feet is on ONE page of this batch and is in no room.** She is on eleven
+   miles of flats on day 635 with a slate under one arm and a tin in her two hands, and the tin was not opened at any
+   hour of that day, and she stopped where a bank of silt had cut into a sill, and **nobody on that ground asked her
+   why she stopped, nobody thanked her, and she was given no name, no age, no number and no descriptor on any page of
+   this batch, and nobody in this city is going to be told where she stopped or what was in the tin or what was on the
+   slate.**
+11. **There is no eighth notice in this flood and this batch wrote none, and the seven that went out may be named and
+    may not be written.** The sheet that went up that road on the five hundred and ninety-fifth with a line of words set
+    under a figure is outside this city, came back with nothing, and **NO SURFACE IN THIS CITY CARRIES A LINE OF WORDS
+    UNDER A FIGURE ON IT ON ANY DAY OF THIS BATCH.**
+12. **The length of new rope over the back of the chair at the far end of that bench is named once in these ten
+    chapters, in Chapter 0639, and it is as good as the day it came into this city and no hand in that room looked at it
+    once, picked it up, cut it, took it up or lifted it off that chair, and the man it belongs to is in no chapter of
+    this batch and has been asked one thing about it by nobody at any hour of this flood.**
+13. **A word in a place on a page is a kind of thing and this volume has now two of them, and NEITHER WAS EVER READ OUT
+    IN A ROOM, NEITHER WAS EVER COMPARED TO THE OTHER OUT LOUD IN A MOUTH, AND NEITHER IS PRINTED ON ANY PAGE OF THIS
+    BATCH OR OF THIS VOLUME.** **AND THE FINDING IS ON THE PAGE AND NOT IN A MOUTH: after day 638 no page in this city
+    can show that a place was ever left alone on purpose, and the only person in that room who could have said what
+    that column was for was standing at the near end of that bench and was not asked.**
+14. **The mark that came back out of place on the sheet of day 440 was not traced, not investigated, not guessed at and
+    not reported by any of these ten, and no mouth in the ten says that anybody moved anything on any page.** The hole
+    is two hundred and ninety days long at day 640 and is still nobody's, and this volume declines to trace it for the
+    fourth time running and the cost is the same hole four times as long.
+
+**AND WHAT DID NOT MOVE, AND THIS BLOCK IS A RECORD AND NOT A REPAIR.** No day, no weekday, no Bare-Month ordinal, no
+anchor, no form, no notice, no object count in the second column, no cast member and no decision of record moved. The
+day map's pressure column and its Adrian column stand as the plan printed them, **and Adrian Vale was in 0632, 0633 and
+0636 and in no other of these ten days, which is three of the three the map names.** `outline/volume-13.md` and
+`outline/volume-12.md` were not edited and the only file written under `outline/` by this batch is the card file for
+the batch after this one. `bible/power-system.md` was not opened. **`outline/ending.md` was not opened.** No new final
+enemy, no new cosmic layer, no new antagonist and no new world was introduced, **and the planned ending is untouched.**
+No new person was invented and no new descriptor was taken. The eleven inherited debts and the six named at
+`outline/volume-13.md` §21.1 are carried forward whole and unpaid and this batch paid none of them, took none of them and
+rerouted none of them. **The narrator-frame family is at ZERO in this batch's own ten files on the STRICT reading
+(*this chapter, this volume, this book, this batch, this manuscript, the reader*, word-bounded, case-insensitive: 0 in
+0 files, 0 occurrences) and stands at 166 OCCURRENCES IN 10 IN 10 FILES on the LOOSER reading (*nobody in this city,
+nobody in that room, nobody in that yard, nobody in this flood, nobody in this room, in this city, in that room*, same
+flags). BOTH FIGURES ARE ON THE SAME LINE AND NEITHER IS A ZERO WITHOUT ITS READING.** `state/chapter-summaries.md` was
+not written to. **`state/phase-ledger.json` still reads `phase-000-bootstrap`; it is a controller file, it is reported
+here, and it was not touched.**
+
+**AND THE THREE DISAGREEMENTS INSIDE THE PLAN THAT THIS BATCH FOUND AND CARRIED AND RESOLVED NONE OF: the plan's §6.7
+and §10 print day 640 as a Wednesday and §14.3 and its own validation and this batch's card print it as a Thursday and
+the run from day 1 being a Tuesday comes out Thursday; the plan's object row for the tally-board at the wharf puts the
+second line of grey grit on day 642 while the plan's own escalation entry for day 634 names a second line of grit on it;
+and the plan's row for the day on the door reads *every chapter of the fifty that goes up that stair* and Chapter 0636
+goes up no stair.** The two disagreements the blocks behind carry — the *party and the road* row against that plan's own
+escalation and resolution, and the day entry for a box of chalk's lid against that plan's own object row — are carried
+exactly and added to nothing, and so are the three further ones those blocks name.
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, DAYS 641 TO 650, AND DAY
+645 IS THE RESOLUTION AND DAY 650 IS THE LAST IMAGE, AND NEITHER OF THEM IS A THING A BATCH DECIDES.**
