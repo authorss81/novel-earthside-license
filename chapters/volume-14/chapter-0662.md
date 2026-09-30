@@ -1,6 +1,6 @@
 # Chapter 0662 — A Bucket And A Rag Beside A Trough While A Board Comes Down Off Its Two Nails
 
-The man of about twenty-seven who washes that board had one hand on the handle of a bucket and the other on a rag beside a trough at the end of that market, and he lifted the bucket off the flags and set it down again a pace nearer the wall. He has a bucket and a rag and a wall he washed once in the whole of this flood on a day that is not one of this run of days, and he has not washed it since. It was about the fourth hour on the three hundred and forty-seventh day of the Bare Month, a Friday, and the light had not come onto the front of that store.
+The man of about twenty-seven who washes that board had one hand on the handle of a bucket and the other on a rag beside a trough at the end of that market, and he lifted the bucket off the flags and set it down again a pace nearer the wall. He had washed the wall above that board once in the whole of this flood, on a day that is not one of this run of days, and had not washed it since, and what he had to work with was a bucket, a rag and the water that stood in the trough overnight. It was about the fourth hour on the three hundred and forty-seventh day of the Bare Month, a Friday, and the light had not come onto the front of that store.
 
 That board is on the outside wall of a store at one end of that market. It carries three sets of figures of this city's own, none of the three rubbed out, and not one of the three carrying a line of words set under it. Nothing on any surface in this city carries a line of words set under a figure. The one line that did is outside this city and is not coming back, and no chapter of the life of anybody in that row puts one under any figure on any surface in it.
 
@@ -26,4 +26,4 @@ He emptied the bucket into the channel and set it beside the trough, and he put 
 
 "**It sits level on the wedge, and the figures are where they were, and the wall is where it was, and a person who wants one of them to speak for the other will have to stand here longer than I have stood.**"
 
-He picked up the empty bucket by the handle and hung it on the peg at the end of the row, and the rag stayed on the lip, and the board stayed on its nails, and he found that the morning had given him a clean face on the one surface and the same silence on the other, and he kept both.
+He hung the empty bucket on the peg at the end of the row and wiped the rim of it down his leg, and the rag stayed on the lip where it lives, and the board sat level on its two nails with one clean face on it and the wall above that face as untouched as it had been at the fourth hour.
