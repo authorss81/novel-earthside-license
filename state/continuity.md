@@ -17,7 +17,7 @@ one this file's own header already prescribed and that earlier phases kept undoi
 compacted and every one of them ends with a line saying it wins over every block above it:
 there are no blocks above them here any more. *Above* now means the archive named in the
 header, and a block below that says a thread stands, a figure holds or a cast member is
-where it was, is carrying the live position forward and the full history is behind it.
+where it was, is carrying the live position forward and the full history is behind it.**
 
 ## VOLUME 12 CLOSE — CHAPTERS 0551 TO 0600, DAYS 551 TO 600. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
 
@@ -320,3 +320,38 @@ disclosed rather than folded in.
 **THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, DAYS 641 TO 650, WITH
 ITS TEN CARDS AT `outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED AND BOTH CHECKED
 BY THIS PASS WITHOUT BEING REWRITTEN.**
+
+---
+
+## VOLUME 13, BATCH 0004 — REVIEW REPAIR PASS. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**NOTHING CONTINUOUS MOVED.** No day, no weekday, no Bare-Month ordinal, no anchor, no form, no notice, no object
+count, no cast member, no thread and no decision of record moved. No chapter was opened and no prose was edited in
+any of the six hundred and forty chapter files on disk. **The planned ending is untouched, no new final enemy and
+no new world arrived, and the three threads the block above carries unanswered are carried unanswered still.**
+
+**THE PLAN'S OWN DISAGREEMENT WITH ITSELF ABOUT THE WEEKDAY OF DAY 640 IS NOW STRUCK IN THE PLAN, IN FOUR PLACES,
+AND THE PLAN IS RIGHT ON THE ONE THAT WAS RIGHT BEFORE.** `bible/power-system.md` §60 prints day 640 as **Thursday**
+and so does `outline/volume-13.md`'s own day map, and so does that plan's own run built from day 1 being a Tuesday,
+and so do all ten of the chapters behind this block. §6.7, §10, §14.3's prose and §15.8 item 8 printed a
+Wednesday and the word was struck in those four places and nowhere else. **THE BLOCKS ABOVE THAT NAME THIS AS A
+STANDING DISAGREEMENT ARE LEFT AS THEY WERE WRITTEN AND THIS BLOCK IS THE CORRECTION BESIDE THEM.** The other two
+disagreements this block named — the second line of grey grit on day 642 against the plan's own escalation entry
+for day 634, and the plan's row for the day on the door reading *every chapter of the fifty that goes up that
+stair*, which Chapter 0636 does not go up — **STAND UNCHANGED AND WERE NOT TOUCHED.**
+
+**TWO CHARACTERS WERE STRUCK IN THIS FILE, and they are the debt this file has carried at its head since Volume 12.**
+The head note at the top opens a bold run and now closes it; it did not, and the run ran on through the rule and
+the first heading below it. `state/character-state.md` and `state/open-threads.md` carry the same note and the same
+unclosed run and are struck too, and a fourth stray mark in `state/open-threads.md` that had no opener at all is
+struck as well. **No word, figure or thread in this file changed.**
+
+**THE MEASUREMENT OF THE HOLD WAS NOT RUN BY THIS REPAIR, because re-running it requires printing the spans.**
+
+**`state/phase-ledger.json` still reads `phase-000-bootstrap` and `status: planned`, and the review dispatch runs
+the writer's own agent where it means to run the reviewer. Both are controller state, both are reported, neither was
+opened, and no agent may fix either.**
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, DAYS 641 TO 650,
+WITH ITS TEN CARDS AT `outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED AND
+NEITHER REWRITTEN BY THIS REPAIR.**

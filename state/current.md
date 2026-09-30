@@ -318,3 +318,41 @@ Volume 12 is not this pass's and was not reprinted. `state/chapter-summaries.md`
 `outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED AND BOTH CHECKED BY THIS PASS
 WITHOUT BEING REWRITTEN. DAY 645 IS THE RESOLUTION AND DAY 650 IS THE LAST IMAGE AND NEITHER IS A THING A BATCH
 DECIDES.**
+
+---
+
+## VOLUME 13, BATCH 0004 — REVIEW REPAIR PASS ON THE CHAPTERS AND ON THIS BLOCK. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**NOTHING ON ANY TABLE OR SHELF MOVED.** The block above is a statement about the end of day 640 and every item in
+it holds. No day, weekday, Bare-Month ordinal, anchor, form, notice, object count, cast member or decision of record
+moved, no chapter was opened, no prose was edited in any of the six hundred and forty chapter files on disk, and
+**the planned ending is untouched.**
+
+**THE ONE THING IN THE BLOCKS ABOVE THAT IS NOW CORRECTED IS THE PLAN'S OWN DISAGREEMENT WITH ITSELF, AND THE
+CORRECTION IS A STRIKE AND NOT A NOTE, because the plan says at its own §21.2 that a plan carrying a known fault in
+its own text cannot be trusted in its other sentences either.** `bible/power-system.md` §60, which
+`outline/volume-13.md` §14.1 names as the authority for days 601 to 650, prints day 640 as **Thursday**. The plan's
+day map at §14.3 printed **Thursday**. The plan's own validation paragraph under that map returns **Thursday** on
+all fifty rows from day 1 being a Tuesday, and the ten chapters of days 631 to 640 all print **Thursday**. Four
+sentences in the plan printed **Wednesday** — §6.7, §10, §14.3's prose and §15.8 item 8 — and **the word was
+struck in those four places and nowhere else in that file.** The day is still 640, the Bare-Month ordinal is still
+the three hundred and twenty-fifth, the panel is still on that day and its words are still in two files, and the
+round-figure trap on that day is untouched. **THE FIRST EDITION OF THE SENTENCE IN THE BLOCK ABOVE THAT NAMED THIS
+AS A STANDING DISAGREEMENT IS LEFT AS IT WAS WRITTEN, and this block is the correction beside it, because a
+correction published beside its own first edition is the convention this repository already uses and a record
+quietly rewritten is a record nobody can audit.**
+
+**AND THIS FILE WAS THE ONE THAT WAS ALREADY BALANCED, WHICH IS WHY IT IS WORTH SAYING.** Every live state file
+carries the same head note, and in three of the four that note opened a bold run and never closed it, so the run
+went on from its own last line through the `---` rule and the first heading beneath it and swallowed the opening
+marker of the block after that. **THIS FILE'S COPY OF THE NOTE WAS WRITTEN CLOSED AND IS UNCHANGED BY THIS REPAIR,
+so no character was struck here and none was added: a reader of this file now sees four balanced files instead of
+three, and this file is one of the four because it was never one of the three.**
+
+**`state/phase-ledger.json` still reads `phase-000-bootstrap` and `status: planned` with zero attempts beside six
+hundred and forty chapters and twelve volume closes. It is controller state, it is reported, it was not opened and
+no agent may fix it.**
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, WITH ITS TEN CARDS AT
+`outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED AND NEITHER REWRITTEN BY THIS
+REPAIR.**

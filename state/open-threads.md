@@ -17,7 +17,7 @@ one this file's own header already prescribed and that earlier phases kept undoi
 compacted and every one of them ends with a line saying it wins over every block above it:
 there are no blocks above them here any more. *Above* now means the archive named in the
 header, and a block below that says a thread stands, a figure holds or a cast member is
-where it was, is carrying the live position forward and the full history is behind it.
+where it was, is carrying the live position forward and the full history is behind it.**
 
 ## VOLUME 12 CLOSE — CHAPTERS 0551 TO 0600, DAYS 551 TO 600. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
 
@@ -89,7 +89,7 @@ where it was, is carrying the live position forward and the full history is behi
 correct outcome and not an omission.** A thread is opened by a chapter that changes what is owed, and
 no chapter of days 611 to 620 was written by any of the three passes. The full text of the three
 blocks this compacts is at `state/archive/open-threads.md.volume-13-batch-0002-stale-redispatch-full.md`.
-Nothing was deleted.**
+**Nothing was deleted.**
 
 **WHAT THE THREE PASSES FOUND THAT IS A THREAD, AND IS NOW STATED ONCE INSTEAD OF THREE TIMES.** The
 batch record published a false zero on the strict sentence-scale row, `strict = 0, in 0 files`, and the
@@ -187,3 +187,45 @@ pays and this is not.
 
 **THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, AND IT CARRIES THE
 FIRST THREAD ABOVE AND DOES NOT SETTLE IT.**
+
+---
+
+## VOLUME 13, BATCH 0004 — REVIEW REPAIR PASS. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**NOT ONE THREAD WAS OPENED, CLOSED OR ANSWERED, and nothing about anybody moved.** No chapter was opened and no
+prose was edited in any of the six hundred and forty chapter files on disk. No day, weekday, Bare-Month ordinal,
+anchor, form, notice, object count or cast member moved, and **the planned ending is untouched.** The false zero of
+*passage* and *privilege* in four Volume 12 batch records is still owed by a repair pass that owns those files; the
+narrator-frame family is still owed across the rest of the corpus; the mark that came back out of place on the sheet
+of day 440 is still nobody's and is still untraced; the nineteen quotation marks, the figure on the slate, the
+thirty-nine-word run, the unmarked first-person paragraph, *about two hundred rooms*, the three sentences that put
+the shut road at the top of this city, the two figures that read as a conflict, and the one room count printed in
+Volume 09 **STAND UNCHANGED AND NONE WAS PAID, TAKEN, REPAIRED OR REROUTED BY THIS REPAIR.**
+
+**TWO CHARACTERS WERE STRUCK IN THIS FILE AND ONE WAS PUT BACK, AND THEY ARE THE FAULT THE PLAN NAMED AT ITS OWN
+§21.1 ITEM 5.** The head note at the top opened a bold run and did not close it; the run went on from its own last
+line through the `---` rule and the first heading beneath it and took the opening marker of the block after that
+with it. `state/continuity.md` and `state/character-state.md` carry the same note with the same unclosed run and are
+struck too, and the plan's item now carries its own first edition beside the repair. **A THIRD MARK IN THIS FILE HAD
+NO PARTNER AT ALL, at the end of the Batch 0002 re-dispatch block, and it is why this file's total came out EVEN at
+the start of this repair with a live fault inside it: it opened a run of its own that reached only as far as the
+next block's opening marker two lines later, so that block lost its opening emphasis and nothing else in this file
+was touched by it. The opener is restored so that *Nothing was deleted* reads as the emphasis it was written to be.**
+No thread, no question and no word of prose in this file changed.
+
+**THE PLAN'S OWN DISAGREEMENT WITH ITSELF ABOUT THE WEEKDAY OF DAY 640 IS NOW STRUCK IN THE PLAN, IN FOUR PLACES.**
+§6.7, §10, §14.3's prose and §15.8 item 8 printed a Wednesday and `bible/power-system.md` §60, the plan's own day map,
+the plan's own run and all ten of the chapters behind this block print a Thursday. **THE TALLY OF STANDING PLAN
+DISAGREEMENTS IN THE BLOCKS ABOVE IS THEREFORE ONE LOWER THAN IT READS THERE AND IS SEVEN, NOT EIGHT, and the blocks
+above are left as they were written with their own counts untouched, because a debt list corrected in place stops
+being a record of what a phase carried.** The two threads that are this volume's business are untouched and stand:
+the word that went up the road is still only on a sheet and not on the door, and the missing name on the man's own
+board is still not asked for by anybody.
+
+**`state/phase-ledger.json` still reads `phase-000-bootstrap` and `status: planned`, and the review dispatch runs
+the writer's own agent where it means to run the reviewer. Both are controller state, both are reported, neither was
+opened, and no agent may fix either.**
+
+**THE NEXT PHASE IS UNCHANGED AND IS AT THE FOOT OF THE BLOCK ABOVE: `workspace/volume-13/batch-0005/PROMPT.md`,
+WRITING CHAPTERS 0641 TO 0650, AND IT CARRIES THE FIRST THREAD ABOVE AND DOES NOT SETTLE IT.** That pointer is not
+written out a third time here, because a record that says the same thing three times is a record nobody can scan.

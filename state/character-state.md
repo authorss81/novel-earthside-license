@@ -17,7 +17,7 @@ one this file's own header already prescribed and that earlier phases kept undoi
 compacted and every one of them ends with a line saying it wins over every block above it:
 there are no blocks above them here any more. *Above* now means the archive named in the
 header, and a block below that says a thread stands, a figure holds or a cast member is
-where it was, is carrying the live position forward and the full history is behind it.
+where it was, is carrying the live position forward and the full history is behind it.**
 
 ## VOLUME 12 CLOSE — CHAPTERS 0551 TO 0600, DAYS 551 TO 600. NO NEW PERSON, NO NEW DESCRIPTOR, NO NEW NAME.
 
@@ -308,3 +308,33 @@ improved on, described or certified as absent in any file written next.**
 about thirty-nine on any of those ten days inherits the fact that his piece of chalk has been in that inside breast
 pocket since the two hundred and ninety-eighth day of this flood, that it came out of that pocket once on day 638,
 that it is back in it, and that no chapter may print what was on his thumb.
+
+---
+
+## VOLUME 13, BATCH 0004 — REVIEW REPAIR PASS. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**NOTHING ABOUT ANY PERSON MOVED.** No descriptor was taken and no descriptor was given to anybody who did not
+already have one. No cast member moved, no want was obtained that was not obtained, no day, weekday, Bare-Month
+ordinal, anchor or notice moved, and no decision of record moved. No chapter was opened and no prose was edited in
+any of the six hundred and forty chapter files on disk. **The planned ending is untouched.**
+
+**TWO CHARACTERS WERE STRUCK IN THIS FILE, and they are the fault the plan named at its own §21.1 item 5 and that
+four phases carried and none repaired.** The head note at the top of this file opens a bold run and now closes it;
+it did not, and the run ran on through the rule and the first heading below it, so every emphasis mark in this file
+after that point was read against the wrong one. `state/continuity.md` and `state/open-threads.md` carry the same
+note with the same unclosed run and are struck too, and the plan's item now carries its own first edition beside the
+repair. **No word about anybody in this file changed, and no figure in it moved.**
+
+**THE PLAN'S OWN DISAGREEMENT WITH ITSELF ABOUT THE WEEKDAY OF DAY 640 IS NOW STRUCK IN THE PLAN, IN FOUR PLACES,
+and nothing about any person in this volume moved with it.** The ten days behind this block are ten chapters and
+every one of them prints its own weekday, and that is a day of the calendar rather than a thing anybody in this file
+is in.
+
+**`state/phase-ledger.json` still reads `phase-000-bootstrap` and `status: planned`. It is controller state, it is
+reported, it was not opened and no agent may fix it.**
+
+**THE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, WRITING CHAPTERS 0641 TO 0650, WITH ITS TEN CARDS AT
+`outline/batches/volume-13-batch-0005.md`, BOTH WRITTEN BEFORE CHAPTER 0641 EXISTED AND NEITHER REWRITTEN BY THIS
+REPAIR.** A writer meeting the man of about thirty-nine on any of those ten days inherits the fact that his piece
+of chalk has been in that inside breast pocket since the two hundred and ninety-eighth day of this flood, that it
+came out of that pocket once on day 638, that it is back in it, and that no chapter may print what was on his thumb.

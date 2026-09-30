@@ -286,7 +286,7 @@ The first-person column is published on two named readings and neither reading r
 | prose paragraphs | **270** |
 | words in the ten files | **15,440** |
 
-**AND THE SIX RULES OF THE DIRECTIVE, WITH WHAT THIS BATCH DID ABOUT EACH, BECAUSE A DIRECTIVE WITH FIGURES ON IT AND NO READING ON IT IS A DIRECTIVE NOBODY CAN CHECK AGAINST.** The attribution tag is at zero and **twenty-one different forms of attribution stand in front of the twenty-four marked turns across these ten files** — *said it to the board*, *said it to the flags*, *said it to the bank*, *said it to that page*, *said it to that step*, *said it to the top of that stack*, *said it to that trough*, *said it to the channel*, *answered her without moving his hand off the face of his own board*, *told them, once, the way round that yard*, *he said it twice and he said it the second time more slowly than the first* — and **no two turns in one chapter share an opening**. The time-measurement simile is at zero and **a duration is given as a physical measure in every one of these ten chapters**: how far a man went, how long a rail is, how wide a space is, how much of a heap was gone, what hour the light came off what. Paragraphs run from two sentences to five and the longest in these ten files is one hundred and seventeen words, in Chapter 0631, and none is over a hundred and twenty. **Let people be inside their own sentences** is the rule these ten were written under and **six of the ten closings are a person doing something that costs them and is not in the argument**, and the three that are not are the three days the plan fixed a word count or an act on.
+**AND THE SIX RULES OF THE DIRECTIVE, WITH WHAT THIS BATCH DID ABOUT EACH, BECAUSE A DIRECTIVE WITH FIGURES ON IT AND NO READING ON IT IS A DIRECTIVE NOBODY CAN CHECK AGAINST.** The attribution tag is at zero and **twenty-one different forms of attribution stand in front of the twenty-four marked turns across these ten files** — *said it to the board*, *said it to the flags*, *said it to the bank*, *said it to that page*, *said it to that step*, *said it to the top of that stack*, *said it to that trough*, *said it to the channel*, *answered her without moving his hand off the face of his own board*, *told them, once, the way round that yard*, *he said it twice and he said it the second time more slowly than the first* — and **no two turns in one chapter share an opening**. The time-measurement simile is at zero and **a duration is given as a physical measure in every one of these ten chapters**: how far a man went, how long a rail is, how wide a space is, how much of a heap was gone, what hour the light came off what. Paragraphs run from two sentences to five and the longest in these ten files is one hundred and seventeen words, **and it stands TWICE AND NOT ONCE — at `chapters/volume-13/chapter-0634.md:33` and at `chapters/volume-13/chapter-0640.md:3` — where the first edition of this sentence said *in Chapter 0631* and Chapter 0631's own longest paragraph is one hundred and sixteen words at its line 3, so the figure was right and the chapter was not, and both are published here rather than one being struck**, and none is over a hundred and twenty. **Let people be inside their own sentences** is the rule these ten were written under and **six of the ten closings are a person doing something that costs them and is not in the argument**, and the three that are not are the three days the plan fixed a word count or an act on.
 
 **THE DISTANCING FRAME STANDS AT 166 IN TEN FILES, AGAINST 147 IN THE TEN FILES BEHIND THIS ONE AFTER ITS REPAIR PASS AND 288 IN THOSE FILES AS THAT BATCH WROTE THEM. THIS BATCH'S FIGURE IS HIGHER THAN THE REPAIRED FIGURE BEHIND IT AND LOWER THAN THAT batch's first edition, and the difference is a fact about these ten days and not about a fault: SEVEN OF THESE TEN CHAPTERS ARE A ROOM WITH ABOUT NINE PEOPLE IN IT, and a room chapter in this volume says *nobody in that room* because the thing being reported is what the room did not do, and the plan names that as a motif of the volume and not a collision.** The prompt this batch ran under says that 147 in ten files is still four or five to a chapter and that a voice which says the same thing in every chapter stops being a voice; **at sixteen and a half to a chapter these ten files are three times that, and this batch publishes the figure with the reading beside it rather than cutting a phrase out of a scene to move a number, for the reason the prompt gives at §5.4: a figure cut to make a sweep look better is a symptom repaired and not a cause.**
 
@@ -300,7 +300,7 @@ The first-person column is published on two named readings and neither reading r
 
 No decision was taken outside the plan. **Nothing was decided on seven of these ten days. Nothing was filled, nothing was sent up that road, and nothing was read out on any of the ten.** Day 638 fills the column once in a hand that is not the keeper's and the word is not printed and not read out. Day 639 fills the one place once in another hand and the sheet is not shut until day 640 and does not go up that road until day 645. Day 640 the wall says one thing. No vote, no cooling and no notice appear in any of the ten, and there is no eighth notice in this flood and this batch wrote none.
 
-**`outline/volume-13.md` and `outline/volume-12.md` were NOT EDITED, and the only file written under `outline/` by this batch is the card file for the batch after this one.** `bible/power-system.md` was not opened. **`outline/ending.md` WAS NOT OPENED.** No new final enemy, no new cosmic layer, no new antagonist and no new world was introduced, **and the planned ending is untouched.** The seventh form was not made and the Bare Month was given nothing. No continuation directory, no review prompt, no close prompt and **no marker file** was created. **`state/chapter-summaries.md` WAS NOT WRITTEN TO, AND THAT IS DISCLOSED RATHER THAN FOLDED IN.** This batch wrote to ten chapters, four state files, this record, one card file under `outline/batches/` for the batch after this one, and one prompt for the batch after this one, and to nothing else.
+**`outline/volume-13.md` and `outline/volume-12.md` were NOT EDITED, and the only file written under `outline/` by this batch is the card file for the batch after this one.**  **`outline/ending.md` WAS NOT OPENED.** No new final enemy, no new cosmic layer, no new antagonist and no new world was introduced, **and the planned ending is untouched.** The seventh form was not made and the Bare Month was given nothing. No continuation directory, no review prompt, no close prompt and **no marker file** was created. **`state/chapter-summaries.md` WAS NOT WRITTEN TO BY THE VERIFICATION PASS AT THE FOOT OF THIS FILE, AND THIS SENTENCE IS NOW SCOPED BECAUSE IT WAS TRUE OF LESS THAN IT SAID: the ten summaries for these ten chapters stand in that file in a `VOLUME 13, BATCH 0004` block at its foot, written by the writing pass above, and the verification pass appended nothing to it. THAT IS DISCLOSED RATHER THAN FOLDED IN.** This batch wrote to ten chapters, four state files, this record, one card file under `outline/batches/` for the batch after this one, and one prompt for the batch after this one, and to nothing else. `bible/power-system.md` was opened afterwards for its own §60 row on day 640 and for nothing else, and was not edited.
 
 **No controller file was touched: not `scripts/`, not `.github/workflows/`, not `.opencode/agent/`, and not `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_REPO_PLAN.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`. No workflow dispatch, phase selection, timeout, retry or checkpoint logic was altered, and no marker file was created, because the runner writes that one itself once this pass has finished.**
 
@@ -486,13 +486,19 @@ gate going down, or the store's board with its three sets of figures.
 
 ## What this pass did not do
 
-**NO CHAPTER WAS RESTARTED, REWRITTEN, REORDERED OR SHORTENED. NO CARD WAS RE-PLANNED AND NO CARD FILE WAS REWRITTEN.
+**NO CHAPTER WAS RESTARTED, REWRITTEN, REORDERED OR SHORTENED. NO CARD WAS RE-PLANNED AND NO CARD FILE WAS REWRITTEN.**
 No day, no weekday, no Bare-Month ordinal, no anchor, no form, no notice, no object count in the second column, no
 cast member and no decision of record moved. Nothing was decided, filled, sent or read out on any of these ten days
 that was not decided, filled, sent or read out before this pass began. Day 645 is not one of these ten days and
-this pass did not spend it. `outline/volume-13.md`, `outline/volume-12.md`, `outline/series.md` and `outline/ending.md`
-were opened and none was edited. `bible/power-system.md` was not opened. **`state/chapter-summaries.md` WAS NOT WRITTEN
-TO, AND THAT IS DISCLOSED RATHER THAN FOLDED IN.** No continuation directory, no review prompt, no close prompt and
+this pass did not spend it. `outline/volume-12.md`, `outline/series.md` and `outline/ending.md` were opened and
+none was edited. **`outline/volume-13.md` WAS OPENED BY THIS PASS AND NOT EDITED BY THIS PASS, and it was amended
+afterwards by the review-repair block at the foot of this file, which struck one word in four places and says so
+here rather than leaving a reader to find it.** `bible/power-system.md` was opened afterwards for its own §60 row
+on day 640 and for nothing else, and was not edited. **`state/chapter-summaries.md` WAS NOT WRITTEN TO BY THIS
+VERIFICATION PASS, WHICH IS WHAT THAT SENTENCE ALWAYS MEANT AND DID NOT SAY: the ten chapter summaries for these
+ten chapters stand in that file in a `VOLUME 13, BATCH 0004` block at its foot, written by the pass that wrote the
+chapters, and this verification pass appended nothing to it. THAT IS DISCLOSED RATHER THAN FOLDED IN.** No
+continuation directory, no review prompt, no close prompt and
 **no marker file** was created; the marker is the runner's. No controller file was touched: not `scripts/`, not
 `.github/workflows/`, not `.opencode/agent/`, and not `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
 `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`.
@@ -523,3 +529,111 @@ agreeing with the day map at all ten cells, the pressure tags agreeing with the 
 carrying the resolution and day 650 the last image and neither a thing a batch decides, and neither file carrying
 the panel or any nine-word run of it.** **IT CARRIES A COLUMN THAT IS NO LONGER EMPTY, A SHEET THAT IS SHUT WITH A
 WORD IN IT AND GOES UP THAT ROAD ON DAY 645, AND A CHALK THAT IS BACK IN ITS POCKET.**
+
+---
+
+# BATCH 0004 — REVIEW REPAIR PASS. THIS BLOCK IS AT THE FOOT OF THIS FILE AND IT WINS OVER EVERY BLOCK ABOVE IT. NO CHAPTER WAS TOUCHED.
+
+**THIS PASS CAME AFTER A REVIEW THAT NAMED SIX THINGS. THREE OF THEM WERE REPAIRED HERE AND A FOURTH WAS FOUND BY
+THIS PASS RE-MEASURING THE ROWS ABOVE. TWO ARE THE CONTROLLER'S AND ONE IS A HISTORY NOBODY MAY REWRITE. EVERY
+FIGURE THOSE ROWS PUBLISH WAS RE-MEASURED FIRST AND EVERY ONE OF THEM REPRODUCED EXACTLY ON THE SAME INSTRUMENT,
+SO NO FIGURE IS CORRECTED AND NO ROW MOVED; the one thing that was wrong was a chapter name beside a figure that
+was right, and it is published beside its own first edition rather than struck.**
+
+## The four repairs, one at a time, with what each cost
+
+1. **THE PLAN PRINTED DAY 640 AS A WEDNESDAY IN FOUR PLACES AGAINST ITS OWN DAY MAP, AND THE DAY MAP IS RIGHT.**
+   `bible/power-system.md` §60, which `outline/volume-13.md` §14.1 names as the authority, prints day 640 as a
+   Thursday. §14.3's own day map prints a Thursday. §14.3's own validation paragraph builds the run from day 1 being
+   a Tuesday and returns a Thursday on all fifty rows, and this pass rebuilt that run and got the same fifty rows
+   at zero mismatches. **All ten of these chapters print a Thursday.** Four sentences in the plan printed a
+   Wednesday: §6.7, §10, §14.3's own prose and §15.8 item 8. **THE WORD WAS STRUCK IN THOSE FOUR PLACES AND
+   NOTHING ELSE IN THAT FILE WAS TOUCHED**, and the plan's own rule at §21.2 is that the fix for a known fault
+   carried in a plan's own text is the strike and not another note. The day is still 640, the Bare-Month ordinal is
+   still the three hundred and twenty-fifth, the panel is still on that day and its words are still in two files,
+   and the round-figure trap on that day is untouched. **The day map, the ten chapters, the card file and the
+   prompt for Batch 0005 were already Thursday and were already right.**
+2. **FOUR BOLD MARKS IN THREE STATE FILES, WHICH THE BATCH RECORD ABOVE NAMED AS TWO IN TWO AND AS REPAIRED BY
+   NOBODY. THE INSTRUMENT IS ONE COUNT OF THE TWO-CHARACTER MARK PER FILE, WHOLE-FILE, AND THE FAULT WAS FOUND BY
+   PAIRING THE MARKS IN ORDER AND READING WHERE EACH RUN ENDED — not by looking at the foot, which is where a
+   parity count sends you and where nothing was wrong.** Every live state file carries the same head note, and in
+   three of the four that note's paragraph held **one** mark and did not end with one: `state/continuity.md`,
+   `state/character-state.md` and `state/open-threads.md`. Paired in order, each of those three runs went from its
+   own line 16 through the `---` rule and the first heading beneath it and ended at the opening marker of the block
+   after that, on line 24 — so it took that block's opening emphasis with it.
+   `state/current.md`'s copy of the note was written closed and **nothing was changed in that file**. A fourth mark
+   in `state/open-threads.md` had no partner at all, at the end of the Batch 0002 re-dispatch block, and that mark is
+   why the file's total came out even at the start of this repair with two live faults inside it; its own run
+   reached only as far as the next block's opening marker two lines later, so that block lost its opening emphasis
+   and nothing else in the file was affected by it.
+   **THE ACCOUNTING IS THREE MARKS ADDED AND ONE MARK ADDED, WHICH IS FOUR CHARACTERS ADDED AND NONE STRUCK, and
+   that is the sentence this record corrects in itself: three closers went in at the end of the three head notes and
+   one opener went in before *Nothing was deleted*.** `state/current.md`, `state/continuity.md`,
+   `state/character-state.md` and `state/open-threads.md` now each carry an even number of the marks and not one
+   paragraph in any of the four carries an odd one. The debt was named at `outline/volume-13.md` §21.1 item 5 and
+   that item now carries its own first edition beside the repair. No word, figure, thread, cast member or decision
+   of record moved in any of the four files.
+3. **A DISCLOSURE THAT WAS TRUE OF LESS THAN IT SAID.** The block above said `state/chapter-summaries.md` WAS NOT
+   WRITTEN TO. **It was not written to by the verification pass, and the ten summaries for these ten chapters stand
+   in that file in a `VOLUME 13, BATCH 0004` block at its foot.** The sentence above is corrected in place and now
+   names its scope, and the correction is in place rather than at the foot because it is the verification pass's
+   own sentence about its own scope.
+4. **A FIGURE THAT WAS RIGHT AND THE CHAPTER IT WAS GIVEN TO WAS NOT, FOUND BY RE-MEASURING THE ROWS ABOVE.**
+   The block above said the longest paragraph in these ten files was one hundred and seventeen words *in Chapter
+   0631*. **It is one hundred and seventeen words and it stands TWICE, at `chapter-0634.md:33` and at
+   `chapter-0640.md:3`, and Chapter 0631's own longest is one hundred and sixteen at its line 3.** The eleven-row
+   table above already attributed the figure to 0634 and was right; the prose above did not and was not. Both
+   attributions are now on the same row, the figure is unchanged at one hundred and seventeen, the count of
+   paragraphs over a hundred and twenty is unchanged at zero, and the first edition is published beside the
+   correction. **THE INSTRUMENT IS THE ONE THE ROWS ABOVE PUBLISH: a paragraph is a line between blank lines,
+   excluding the heading line, a `---` rule and a panel block, counted on whitespace.**
+
+## What this pass did not do, and the two controller faults it reports instead of taking
+
+**NO CHAPTER FILE WAS OPENED.** All six hundred and forty chapter files on disk stand exactly as they stood, no
+prose was edited, no sentence was moved, no closing was rewritten and no bolded turn was touched. No day, weekday,
+Bare-Month ordinal, anchor, form, notice, object count, cast member or decision of record moved. `outline/ending.md`
+was not opened, **the planned ending is untouched**, no new final enemy and no new world arrived, and the ladder
+and the milestones in `outline/series.md` are untouched. No card file was rewritten and no phase was created.
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND ZERO ATTEMPTS BESIDE SIX
+HUNDRED AND FORTY CHAPTERS AND TWELVE VOLUME CLOSES. It is controller state, it is reported here, it was not
+opened and no agent may fix it. THE REVIEW GATE ALSO RUNS THE WRITER'S OWN AGENT WHERE IT MEANS TO RUN THE
+REVIEWER — the dispatch asks for an agent declared as a subagent, which the runner refuses and answers by falling
+back to the default agent, which holds write access — so the batches are not being reviewed independently, the
+sandbox the reviewer was declared with is not the sandbox that runs, and the fix gate reads a transcript that is
+not a review. THAT IS THE OWNER'S TO FIX AND IT WAS NOT WORKED AROUND. THE REVIEW'S OWN LOG IS THE EVIDENCE AND
+IT IS ON DISK.**
+
+**AND ONE THING NOBODY MAY REWRITE: `git log` labels two commits of this batch's work with each other's phase
+names, so the commit that carries the verification pass is labelled as the writer's and the batch's own
+summaries were added under a review-fix label belonging to an earlier batch. It is published here because a
+reviewer found it and because a history nobody can audit is not a history, and no commit was rewritten, amended or
+reordered to tidy it, because a repair that edits a history destroys the one thing a history is for.**
+
+**AND A FIGURE THIS REPAIR MEASURED AND DID NOT ACT ON, published with its instrument because the rule is that a
+figure is published with the definition that produced it.** The instrument is one count of the two-character bold
+mark per file, taken whole-file on the literal string, over every file at `state/*.md` and
+`state/batch-summaries/*.md`, on the files as they stand. **TWENTY-NINE OF THOSE FILES CARRY AN ODD COUNT AT THE
+START OF THIS REPAIR AND TWENTY-SIX CARRY ONE AT THE END, and the three that moved are
+`state/batch-summaries/volume-13-batch-0004.md`, `state/continuity.md` and `state/character-state.md`, which are
+the three this pass owned. `state/open-threads.md` carried an EVEN count at the start and held a live fault inside
+it — an unclosed run at its head and a stray closing mark at its foot that cancelled each other in the total — and
+both are struck, which is the standing reason a parity count is published beside the fault it found and not
+instead of it.** The twenty-six are records of finished batches in finished volumes and none of them was opened,
+read for this figure beyond the count itself, touched, or repaired. **A repair pass that quietly reopens
+twenty-six published records to settle one character in each is the fault this repository has been paid for six
+times, and this is the seventh time the sentence is said and the first time the number is.** The twenty-six are owed
+by a pass that owns those records and by nobody else.
+
+## The next phase, by path, unchanged
+
+**`workspace/volume-13/batch-0005/PROMPT.md`, and it is a BATCH writing Chapters 0641 to 0650, days 641 to 650,
+with its ten cards at `outline/batches/volume-13-batch-0005.md`, and both were written before Chapter 0641 existed.
+This pass read both and rewrote neither of the ten cards, and it did correct ONE CLAUSE OF THE PROMPT: the prompt's
+list of carried plan disagreements still named the day-640 weekday row as standing, and that row no longer stands,
+so the clause was struck and the prompt's own tally of that list went from eight to seven. The prompt prints no
+weekday for day 640 and none for day 641 in any cell, so nothing in it had to be brought into agreement on a day —
+what it did carry was the fault itself, and that is gone.** Day 640 is a Thursday and day 641 is a Friday in the
+plan, in the day map, in the ten chapters behind this record and in the card file, and those four agreed before this
+repair and agree now.
