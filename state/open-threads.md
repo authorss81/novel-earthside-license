@@ -150,3 +150,11 @@ where it was, is carrying the live position forward and the full history is behi
 **AND THE FIFTH DISAGREEMENT INSIDE THE PLAN, WHICH IS NEW AND IS RESOLVED BY NOBODY IN A FILE BUT IS SETTLED ON THE PAGE: the card file for Chapter 0628 says the man says the name of this volume and says in the same card that the chapter must not print the name. `outline/volume-13.md` §6.5 settles it the other way, the chapter prints the answer, and neither the plan nor the card was edited, because a repair pass that edits a plan is writing the volume. All five stand as disagreements in the plan and the page is the fact.**
 
 **THE NEXT PHASE IS `workspace/volume-13/batch-0004/PROMPT.md`, WRITING CHAPTERS 0631 TO 0640, AND IT CARRIES THE COLUMN, WHICH IS STILL EMPTY, AND IT CARRIES A STYLE DIRECTIVE THAT THE THREE BATCHES BEFORE IT DID NOT HAVE.**
+
+---
+
+## LATER VERIFICATION OF THE BATCH 0002 DAYS. NO THREAD MOVED, AND ONE NEW STANDING THREAD IS OPENED ON THE WORD-RUN GROUPING.
+
+**No thread in this file moved. The ten days from 611 to 620 close where the Batch 0002 block above says they close, and the position at the end of day 630 is the position this file already carries. The only thing this pass adds is a thread about an instrument and not about the story.**
+
+**THE WORD-RUN AND SENTENCE-SCALE GROUPING IS A STANDING THREAD AND IT IS NOW THE FOURTH PUBLISHED READING OF ONE PASS ON ONE CORPUS.** The same sentence-scale pass at nine words over the same material has now been published at 190, at 346, at 0 and at 259, and the sixteen-word pass on the same corpus has been published at 190, at 346 and at 0, and the difference in every case is the grouping rule and not the chapters. **NO HOUSE GROUPING IS FIXED, NO FIGURE IS RESOLVED BY PREFERENCE, AND THE FULL ACCOUNT WITH BOTH READINGS ON EVERY ROW IS AT `state/batch-summaries/volume-13-batch-0002.md` AND `state/continuity.md`. A later volume that settles the grouping settles it once and in one place, and a volume that does not settle it publishes its own reading with the reading on the same line as the number, which is the standing rule and is not a debt.**
