@@ -8,9 +8,13 @@ The ground at the top of that road had been wet since the night and had not begu
 
 ---
 
-The man of about thirty-four who keeps a stall came up the row on foot with his board under his arm and the bare back of it out, and he came to the top of the road because that was where the row ends, and he stopped short of the cart and looked at the sunk wheel and the mallet on the seat and the man standing on the high side of it. He did not put his hand on the cart. He did not offer, and he was not asked, and he stood there with the board under his arm and the piece of chalk in his coat where it was that morning, and the man with the cart looked at him and at the wheel and at the two handles and said the thing that had been in his mouth for some time.
+The man of about thirty-four who keeps a stall came up the row on foot with his board under his arm and the bare back of it out, and he came to the top of the road because that was where the row ends, and he stopped short of the cart and looked at the sunk wheel and the mallet on the seat and the man standing on the high side of it. He did not put his hand on the cart. He did not offer, and he was not asked, and he stood there with the board under his arm and the piece of chalk in his coat where it was that morning.
 
-The man of about sixty said it, and then stopped, because the man with the board had gone on up the last of the row and was standing at the top of it with his back to the cart and had not answered and was not going to, and nobody on that road thanked either of them.
+The man with the cart looked at him and at the wheel and at the two handles, and then said the thing that had been in his mouth for some time.
+
+"**I have a mallet lying on that seat and the ground under this cart is soft, and I am not going to stand up here and ask a man with a board to get it for me.**"
+
+He stopped there, because the man with the board had gone on up the last of the row and was standing at the top of it with his back to the cart and had not answered and was not going to, and nobody on that road thanked either of them.
 
 The man of about sixty took the two handles again and pulled, and the wheel came up and went down, and the cart went a finger's width to the left and stopped with its handle against his own knee, and he let go of it.
 
