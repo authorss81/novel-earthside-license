@@ -1,4 +1,4 @@
-# Chapter 0660 — Two Hands On The Back Of A Chair Lifting It Out From Under A Shelf In The Corner Of A Room And A Pail That Went Back Under That Chair And Nothing On That Shelf Touched At Any Hour Of The Morning
+# Chapter 0660 — A Chair Out From Under A Shelf In The Corner And A Pail Beside It
 
 The woman of about twenty-nine who keeps a public register had both hands on the back of a chair at the near end of that room and she lifted that chair out from under the shelf in the corner where it had been standing, and set it out into the middle of that floor where the light off the one window came across it. It was about the sixth hour on the three hundred and forty-fifth day of the Bare Month, a Wednesday, in the room over a market, in daylight, and about nine people came up that stair at some point in that morning and went back down it again, and not one of them had been sent for anything.
 
@@ -12,9 +12,9 @@ Behind that book on the same shelf stands a second slate, up on its edge with it
 
 ---
 
-Seven documents have come up that road or gone out of it in this flood. Three of them are of four places each and four of them are of one place each, and there is no more than seven of anything of that kind in this city and there is not going to be an eighth.
+Seven documents have come up that road or gone out of it in this flood, and that is the number of documents and not the number of notices, and a notice is not a document, and the two sevens in this city are two sevens. Three of the seven documents are of four places each and four of them are of one place each, and there is no more than seven of anything of that kind in this city and there is not going to be an eighth.
 
-The first of those four one-place sheets is on that shelf with a heading across the top of it and one place ruled under that heading, and the one place holds a figure of this city's own. It was read out in a room in this city on a day that is not one of this run of days and was never returned and was never withdrawn and is in this city at this hour. It was not read out in that room this morning, it was not laid beside anything, it was not in anybody's hand, and nobody in that room compared it with anything at any hour of that day.
+The first of those four one-place sheets is in this city, with a heading across the top of it and one place ruled under that heading, and the one place holds a figure of this city's own. It was read out in a room in this city on a day that is not one of this run of days and was never returned and was never withdrawn. It is not on that shelf, and nobody in that room said where it is and nobody asked her, and it was not read out in that room this morning, it was not laid beside anything, it was not in anybody's hand, and nobody in that room compared it with anything at any hour of that day.
 
 The second of those four went out of this city on the five hundred and forty-fifth day of this flood and is not in this city. The third went back up the road on the five hundred and ninety-fifth with a figure in its one place and a line of words set under that figure, and is not in this city. The fourth went back up the road on the six hundred and forty-fifth with a word where a figure has never been in one of those four, and it is not coming back.
 
@@ -46,8 +46,14 @@ At about the half hour after the ninth hour she said one thing out loud, to that
 
 What she said was not improved on by anybody in that room and nobody in that room thanked her for saying it, and he did not ask her what was on the bottom of that corner and she did not tell him.
 
+He said one more thing out loud at about the eleventh hour, to the near end of that bench and not to her, and nobody in that room had asked him for it.
+
+"**I have not asked you what that column on the right of that page is for and I am not going to ask you this Wednesday, and I gave you the same answer the first morning of this flood and it has not improved on me since, and I am going down that stair without having asked you one single thing about any of it.**"
+
 ---
 
 She put that chair back under that shelf at about the half hour after the tenth hour and put that pail back under that chair, and the two of them went to where they had been standing at the sixth hour, and nothing on that shelf had been touched at any hour between those two times. She pulled that chair out from under that shelf again at about the half hour after the tenth hour and turned it round the other way and pushed it back in. Then she drew that pail out from under that chair once more and set it down on the floor on the other side of it and pushed that chair back over the pail with her own knee. Neither of the two of them was in the place it had started that morning in, and the shelf was exactly where it had been at the sixth hour.
 
-He went back down that stair at about the eleventh hour with his own board under his arm and the bare back of that board out in the room behind him, and he did not ask her one thing on the way down, and the number of things in this city that a person can be shown the beginning of was smaller at the eleventh hour of the three hundred and forty-fifth day of the Bare Month than it had been at the sixth, and she let him go down without saying one word after him.
+He went back down that stair at about the eleventh hour with his board under his arm and the bare back of that board out in the room behind him, and he did not ask her one thing on the way down, and she let him go without saying one word after him.
+
+The light came across that corner by then and it had not come across it at the sixth hour, and it showed a floor with nothing on it but the grit that comes off a board in weather. She stood and looked at the two of them where they had ended up, the chair turned the other way and the pail on the wrong side of it, and she worked out that the room had got one thing less it was able to show somebody the beginning of since the light came, and she did not know which one.

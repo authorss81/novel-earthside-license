@@ -1,4 +1,4 @@
-# Chapter 0659 — A Hand On The Strap Of A Satchel Behind A Bench With The Strap Pulled Round Twice And The Flap Not Opened And About Nine People In That Room Finding Out On The Morning What They Are Being Asked For
+# Chapter 0659 — A Hand On The Strap Of A Satchel Behind A Bench And The Flap Does Not Go Up
 
 The man of about thirty-one who carries things for a living had his own hand on the strap of his satchel where it stood behind that bench, and he pulled that strap round twice and let it lie, and the flap of that satchel did not go up at any hour of that morning. It was about the seventh hour on the three hundred and forty-fourth day of the Bare Month, a Tuesday, in that room over the market, in daylight, and about nine people were in it and none of them had come up that stair for anything.
 

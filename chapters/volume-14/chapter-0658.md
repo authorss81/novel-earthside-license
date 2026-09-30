@@ -1,4 +1,4 @@
-# Chapter 0658 — Two Hands Going Down Onto The Top Of A Wet Sill With A Plank Across It And The Near End Of It Lifted About A Finger's Width And A Man Who Went Over The Top Of It And Came Back And Was Not Told About Any Of It
+# Chapter 0658 — A Man Who Went Over A Plank On A Wet Sill And Came Back Over It
 
 Adrian Vale put both hands down onto the top of that wet sill with the plank lying across it and lifted the near end of that plank about a finger's width, and then set it down again with the near end of it in the place he had picked it up from. It was about the fourth hour on the three hundred and forty-third day of the Bare Month, a Monday, on the second row of eleven miles of flats, in weather, and the light had not come good along the top of that row.
 

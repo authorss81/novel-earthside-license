@@ -1,4 +1,4 @@
-# Chapter 0656 — Two Hands On A Table Under One Window And A Slate Turned Over Onto Its Face With Nothing Written On It And About Nine People In That Room Working Out In About An Hour That Not One Of Them Was Ever Told
+# Chapter 0656 — Two Hands On A Table Under One Window And About Nine People Who Cannot Answer A Question
 
 The woman of about twenty-nine who keeps a public register had both hands flat on the table under the one window of that room, and she had been holding them there for a while without doing anything with them. It was about the seventh hour on the three hundred and forty-first day of the Bare Month, a Saturday, in that room, in daylight, and about nine people were in it and not one of them had been sent for anything.
 

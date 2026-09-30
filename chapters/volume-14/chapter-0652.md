@@ -1,4 +1,4 @@
-# Chapter 0652 — A Satchel Standing Behind A Bench With Its Flap Down And A Man With Nineteen Rates On A Board Under His Arm And About Nine People In That Room Disagreeing About Who Is Allowed To Say What A Thing Is
+# Chapter 0652 — A Satchel Behind A Bench With Its Flap Down And A Man With Nineteen Rates Under His Arm
 
 The man of about thirty-one who carries things for a living had both hands on his own satchel at the near end of that bench, where it stood on the floor with the flap down over it, and he set his hands flat on the top of it and then took them off it again without picking it up. It was about the seventh hour on the three hundred and thirty-seventh day of the Bare Month, a Tuesday, in the room over a market, in daylight, and about nine people were in that room and not one of them had been sent for anything.
 
@@ -14,7 +14,7 @@ The man of about thirty-nine who trades on a board came up that stair at about t
 
 A woman with a hand-basket had come up that stair behind him and had been at the one window since about the seventh hour. She wanted that room to say one thing out loud that anybody four hundred miles off could be told by a person going up that road, on the grounds that a room with about nine people in it is a thing that can be asked to speak, and she said so twice, once to the keeper and once to the man with the board.
 
-**"Four hundred miles off, a word goes on a sheet and one person reads it and one person writes it and nobody in between gets to hold it up, and that is the whole trade of it, and this room has got nine people sitting in it who are the wrong nine to do that with."**
+"Four hundred miles off, a word goes on a sheet and one person reads it and one person writes it and nobody in between gets to hold it up, and that is the whole trade of it, and this room has got nine people sitting in it who are the wrong nine to do that with."
 
 Not one person in that room made a better thing of it and not one of them thanked her for saying it, and the woman at the one window went back to her place at that window with the basket set down on the floor between her own feet.
 
@@ -39,6 +39,10 @@ Nobody in that room said that he was right and nobody improved on it, and nobody
 "Four sheets of that shape have gone up that road in this flood and I have not opened one of them, and a man who trades numbers on a board under his own arm is going to be asked this morning whether he can say where one of them went, and he is not going to be able to say, and I would rather he heard it from me at the ninth hour than found it out on his own at the tenth."
 
 Not one person in that room improved on that and not one of them argued with it and not one of them thanked the man who said it, and the man of about thirty-nine looked at the face of his own board under his own arm and did not answer him and was not asked to.
+
+He said one more thing to the face of that board before he put it back under his arm, and it was not an answer to the man of about thirty-one, and nobody in that room had asked him for that one either.
+
+"**Nineteen rates and one name that is not on it, and I have never once asked you what is under the date on that door, and there is a difference between a thing I have not asked and a thing nobody has asked me, and that difference is the whole of what I have got.**"
 
 He put that board up under his arm again and went back down that stair. He did not say on which day he would trade it in that market again and nobody in that room asked him.
 

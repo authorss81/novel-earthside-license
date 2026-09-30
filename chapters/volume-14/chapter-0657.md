@@ -1,4 +1,4 @@
-# Chapter 0657 — A Hand On The Strap Of A Board Under An Arm And The Other Hand Turning That Board Over Once And Putting It Back The Way It Was And Four People In A Room Meaning Four Different Things About A Strip Of Wood And No Two Of Them Being Wrong
+# Chapter 0657 — A Strip Of Wood About As Wide As Two Fingers And Four People Who Are All Right
 
 The man of about thirty-nine who trades on a board had a hand on the strap of that board where it was under his own arm, and he took his other hand off it, turned the board over once with the face of it going down and the back of it coming up, and put it back under his arm the way it had been. It was about the seventh hour on the three hundred and forty-second day of the Bare Month, a Sunday, in the room over a market, in daylight, and about four people were in that room and not one of them had been sent for anything.
 
@@ -28,10 +28,14 @@ Not one person in that room said that he was right, and none of them made anythi
 
 The man of about thirty-nine said one thing out loud at about the half hour after the ninth hour, to his own board and not to anybody in that room, and it was the only thing he said that morning.
 
-"**I have traded these nineteen rates in four markets for nine years and every one of the four of you has just told me what belongs in a strip of wood about as wide as two of my fingers, and not one of the four of you has asked me what is not in it, and that is the reason I have never put anything in it, and I am not going to start on a Sunday.**"
+"I have traded these nineteen rates in four markets for nine years and every one of the four of you has just told me what belongs in a strip of wood about as wide as two of my fingers, and not one of the four of you has asked me what is not in it, and that is the reason I have never put anything in it, and I am not going to start on a Sunday."
 
 He stopped there and he did not say another word at any hour of that morning, and nobody in that room asked him one thing about that strip, and nobody in that room is going to be told what was taken off it.
 
 ---
 
-At about the eleventh hour those four people in that room went back to their own fronts, and none of them said one word to another of them about a strip of wood about as wide as two of a man's fingers, and the two of them who had never once looked at it had both been certain about it before any of the four of them spoke, and every one of the four of them was right about it and not one of the four of them is ever going to hear the other three say so.
+The man of about thirty-four said one more thing to the bare back of his own board and then he said nothing else at any hour of that Sunday, and nobody in that room asked him which of the four of them was wrong, because none of the four of them was wrong.
+
+"**Four of you have told a stranger in about a minute what belongs in a strip of wood about as wide as two of his fingers, and none of you has ever been told it, and I have not asked on this row in nine years and I am not going to start on a Sunday, and there is not one of the four of you that is wrong about it and there is not going to be anybody standing here who says which of you is.**"
+
+He put his hand flat on the top edge of that board of his own, lifted it off the end of that bench and set it under his arm with the face of it turned in against his own ribs, and he did not say a word after that one at any hour of that Sunday.
