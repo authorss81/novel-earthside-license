@@ -1,6 +1,6 @@
 # Chapter 0740 — A Room Over A Market On A Saturday Morning With About Nine People In It And One Thing On The Wall Along The Far Side Of That Room Which Has Not Been On It At Any Hour Of This Flood, And Nobody In That Room Saying It Is Right And Nobody In That Room Saying It Is Wrong, And At About The Seventh Hour A Man Of About Thirty-Four Asking The Woman Who Keeps That Book One Question About The Ground At The Foot Of That Stair And Her Answering It About Herself And Not About The Ground
 
-The man of about thirty-nine had the flat of his own right hand on the face of that board under his own arm and the flat of his own left hand along the edge of it, and he took his own left hand off that edge and put it flat on the wood of that bench at the far end of it and left it there for the whole of that morning.
+The man of about thirty-nine had the flat of his right hand on the face of that board under his own arm and the flat of his left hand along the edge of it, and he took that left hand off that edge and put it flat on the wood of that bench at the far end of it and left it there for the whole of that morning.
 
 It was about the fourth hour on the four hundred and twenty-fifth day of the Bare Month, a Saturday, in that room over that market, and about nine people were in it, and there is one thing on the wall along the far side of that room and it has not been on it at any hour of this flood and is not going to be on it at any hour after this one.
 
@@ -14,9 +14,9 @@ That board under the arm of the man of about thirty-nine carries nineteen rates 
 
 > A row is not a witness. A witness is somebody who was in a room and can say what was said in it, and a row is the ground people walk over on their way somewhere else, and the only thing anybody can find out about a row is that somebody crossed it, and nobody is going to find that out either. A room with about four people going past its door all morning and not one of them going up is a room with a row at the bottom of it and no witnesses at all in it, and it has not lost anybody, because it never had anybody in it to lose.
 
-Nobody in that room said that was right and nobody in that room said it was wrong. About four of the people in that room said out loud that they did not know what it was about and about four of them said nothing at all, and the woman of about twenty-nine who keeps that book said nothing at all about it and she was at the near end of that bench with the flat of her own two hands on the wood on either side of that open page.
+Nobody in that room said that was right and nobody in that room said it was wrong. About four of the people in that room said out loud that they did not know what it was about and about four of them said nothing at all, and the woman of about twenty-nine who keeps that book said nothing at all about it and she was at the near end of that bench with both hands flat on the wood on either side of that open page.
 
-The man of about thirty-nine who trades on a board was in that room the whole of that morning with his own left hand flat on that wood. Nobody in that room asked him whether he agreed with the thing on that wall. Nobody asked him again at any hour of that day, and nobody thanked him for not being asked and nobody argued with him about it, and he said nothing at any hour of it.
+The man of about thirty-nine who trades on a board was in that room the whole of that morning with his left hand flat on that wood. Nobody in that room asked him whether he agreed with the thing on that wall. Nobody asked him again at any hour of that day, and nobody thanked him for not being asked and nobody argued with him about it, and he said nothing at any hour of it.
 
 ---
 
@@ -28,7 +28,7 @@ Nobody thanked him for those six words and nobody improved on one word of them, 
 
 "**Have you ever walked on that ground?**"
 
-She did not take her own hands off the wood to answer it and she did not look up off that page.
+She did not take her hands off the wood to answer it and she did not look up off that page.
 
 "**I have never gone past that door at the back of this building. I go in at the front of this building and I have gone in at the front of it every morning for the whole of this flood.**"
 
@@ -38,4 +38,4 @@ Nobody in that room asked the man of about thirty-one who carries things for a l
 
 ---
 
-At about the tenth hour the man of about thirty-nine who trades on a board took his own board out from where it had been standing against the side of that bench and put it under his own arm again and went down that stair and out into that market, and nobody in that room said one word to him at any hour of that day and nobody said one word to him on his way out.
+At about the tenth hour the man of about thirty-nine who trades on a board took his board out from where it had been standing against the side of that bench and put it under his arm again and went down that stair and out into that market, and nobody in that room said one word to him at any hour of that day and nobody said one word to him on his way out.

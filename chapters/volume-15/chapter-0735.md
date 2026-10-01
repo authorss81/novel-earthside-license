@@ -8,13 +8,13 @@ The ground at the foot of the stair at the back of that building is a strip of g
 
 ---
 
-At about the fifth hour the man of about thirty-eight at the salt wharf put the flat of his own two hands flat on the wood of that bench and said it out loud to the middle of that room.
+At about the fifth hour the man of about thirty-eight at the salt wharf put both hands flat on the wood of that bench and said it out loud to the middle of that room.
 
 "**That ground is the only thing this city has ever had for saying who went up that stair, and a room that has said the people walking on it are not to be asked has not stopped that ground from being walked on. It has stopped there being any use at all, and the room does not know it has done that, and it did it the second time it decided anything else about anybody.**"
 
 Nobody in that room asked him one word about that at any hour of that day. Nobody thanked him and nobody improved on one word of it and nobody said he was right and nobody said he was wrong.
 
-At about the sixth hour the man of about twenty-seven came up that stair and put his own two hands into his own sleeves and said the same thing out loud in different words, and the man of about thirty-eight at the salt wharf was at the far end of that bench and did not hear a word of it.
+At about the sixth hour the man of about twenty-seven came up that stair and put both hands into his sleeves and said the same thing out loud in different words, and the man of about thirty-eight at the salt wharf was at the far end of that bench and did not hear a word of it.
 
 "**None of the people that walk on that ground were ever going to say what was said in this room and none of them would have known to say it, and every other thing this room decides about anybody now decides it twice over without anybody noticing that it has done that.**"
 
@@ -22,6 +22,6 @@ Nobody in that room asked the man of about twenty-seven one word about the fact 
 
 ---
 
-At about the seventh hour the woman of about fifty-two told the man of about thirty-four who keeps a stall that two men in that room had said the same thing that morning and had not heard each other say it, and he did not answer her and he did not say she was wrong. She got up off that bench and went round the end of it to the far end where the man of about thirty-eight at the salt wharf was standing. She put the flat of her own two hands on that wood a little apart from each other with a space between them about as long as a forearm, and the man of about thirty-eight at the salt wharf looked at the space between them and then looked at her own two hands and said nothing at all.
+At about the seventh hour the woman of about fifty-two told the man of about thirty-four who keeps a stall that two men in that room had said the same thing that morning and had not heard each other say it, and he did not answer her and he did not say she was wrong. She got up off that bench and went round the end of it to the far end where the man of about thirty-eight at the salt wharf was standing. She put both hands on that wood a little apart from each other with a space between them about as long as a forearm, and the man of about thirty-eight at the salt wharf looked at the space between them and then looked at her hands and said nothing at all.
 
-The man of about thirty-four who keeps a stall took his own two hands off the back of that chair and put them flat on the wood of that bench on either side of the space she had left between her own two hands, and he did not write one word of it down anywhere, because there is nothing in this city that writes a thing down when two men have said the same thing and have not heard each other say it.
+The man of about thirty-four who keeps a stall took his own two hands off the back of that chair and put them flat on the wood of that bench on either side of the space she had left between them, and he did not write one word of it down anywhere, because there is nothing in this city that writes a thing down when two men have said the same thing and have not heard each other say it.

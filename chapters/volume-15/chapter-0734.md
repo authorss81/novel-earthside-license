@@ -1,6 +1,6 @@
 # Chapter 0734 — A Room Over A Market On A Sunday Morning With About Nine People In It Going On Exactly As They Were Going On The Morning Before, A Book With Three Columns Open On A Bench And A Leaf Turned Over And Found As Bare As The One That Was Turned, And About Four People In That Room Wanting To Know Whether Anything Is Going To Be Said Outside It And No Instrument In This City That Will Carry It Out Of There
 
-The woman of about twenty-nine had the flat of her own two hands on the wood of that bench on either side of an open book, one of them on each side of the middle column of the page in front of her, and she went on doing that for the whole of that morning and came down that front edge of the wood with her own right thumb once at the ninth hour and stopped.
+The woman of about twenty-nine had the flat of her own two hands on the wood of that bench on either side of an open book, one of them on each side of the middle column of the page in front of her, and she went on doing that for the whole of that morning and came down that front edge of the wood with her right thumb once at the ninth hour and stopped.
 
 It was about the fourth hour on the four hundred and nineteenth day of the Bare Month, a Sunday, in that room over that market at the back of the store's end of that market, and about nine people were in it, and nothing has ever been put on the wall along the far side of that room and there is nothing on it and nobody has ever put anything on it.
 
@@ -10,7 +10,7 @@ The ground at the foot of the stair at the back of that building is a strip of g
 
 ---
 
-At about the fifth hour the man of about thirty-nine who trades on a board put his own two hands on the far end of that bench and asked the room whether anything was going to be said outside that building, and the woman of about twenty-nine told him, without looking up off that page, that there was nothing going to be said outside that building.
+At about the fifth hour the man of about thirty-nine who trades on a board put his two hands on the far end of that bench and asked the room whether anything was going to be said outside that building, and the woman of about twenty-nine told him, without looking up off that page, that there was nothing going to be said outside that building.
 
 "**There is nothing going to be said outside this building, and there has not been one thing said outside it since the morning it was decided in here, and that is not going to change this morning either.**"
 
@@ -20,12 +20,12 @@ At about the sixth hour the man of about twenty-seven came up that stair and ask
 
 "**There is nothing written down and there is not going to be anything written down, and I am the one who said it and I am telling you that as a fact and not as a favour.**"
 
-Nobody improved on one word of that either, and the man of about twenty-seven put his own two hands into his own sleeves and went back down that stair.
+Nobody improved on one word of that either, and the man of about twenty-seven put both hands into his sleeves and went back down that stair.
 
-At about the seventh hour the woman of about fifty-two put her own two hands on the back of a chair at the side of that bench and asked what would happen to a thing decided in that room if every one of the people in it forgot it by the following morning, and nobody in that room answered her, and about four people in that room said out loud that they did not know what it was about and about four of them said nothing at all.
+At about the seventh hour the woman of about fifty-two put both hands on the back of a chair at the side of that bench and asked what would happen to a thing decided in that room if every one of the people in it forgot it by the following morning, and nobody in that room answered her, and about four people in that room said out loud that they did not know what it was about and about four of them said nothing at all.
 
 ---
 
-At about the ninth hour that woman of about twenty-nine turned that leaf over with the flat of her own right thumb and looked at the page on the other side of it, which is bare the whole of the way down the middle of it, and she put the flat of her own two hands back down on the wood on either side of it and did not write one word on either page.
+At about the ninth hour that woman of about twenty-nine turned that leaf over with the flat of her right thumb and looked at the page on the other side of it, which is bare the whole of the way down the middle of it, and she put both hands back down on the wood on either side of it and did not write one word on either page.
 
-At about the ninth hour a man with a board under his own arm came up that stair and stood at the far end of that bench with nothing at all in his own two hands for about the length of a minute and went back down that stair again, and he did not ask anybody anything and nobody asked him anything.
+At about the ninth hour that same man of about thirty-nine came up that stair with that board under his own arm and stood at the far end of that bench with nothing at all in his two hands for about the length of a minute and went back down that stair again, and he did not ask anybody anything and nobody asked him anything.

@@ -146,3 +146,53 @@ The row at the foot of that stair was not cleared, paved, widened, narrowed or m
 **`workspace/volume-15/batch-0005/PROMPT.md`, Chapters 0741 to 0750, days 741 to 750, and nothing else. IT IS THE LAST TEN CHAPTERS OF THE FIFTEENTH VOLUME. Day 745 is this volume's resolution, day 748 is its new question, and day 750 is its last image, all three fixed by the plan at its §11, §13 and §9 item 49, and none of the three is that batch's to supply, to prepare for, to anticipate or to improve. Day 743 is an Adrian day and its want and its outcome are published at the plan's §4.1 and are taken and not supplied. That prompt does not reprint any word of the panel that stands on the page of Chapter 0740, and a card on any day before 740's successors may not prepare for any of the three heavy days.**
 
 **AND THE DEBT THIS RECORD NAMES AND DOES NOT PAY: `logs/` carries no review log and no fix log for this batch, `reviews/volume-15/` does not exist, and EVERY FINDING IN THIS RECORD WAS TAKEN BY THE AGENT KIND THAT WROTE THESE TEN CHAPTERS AND BY NO OTHER AGENT KIND. THE DISPATCH THAT WOULD PROVIDE AN INDEPENDENT REVIEWER LIVES IN THREE FILES NO AGENT IN THIS REPOSITORY MAY OPEN. THAT IS THE EIGHTH VOLUME RUNNING TO SAY SO, IT IS AT `state/open-threads.md` AS AN OPEN THREAD, AND IT IS OWED BY A HUMAN.**
+---
+
+## 12. THE REVIEW REPAIR PASS, AFTER `logs/batch-0004.review.log`
+
+**APPENDED AFTER EVERYTHING ABOVE, WHICH IS NOT EDITED. THIS IS A REPAIR PASS AND NOT A REWRITE. NONE OF THE TEN CHAPTERS WAS RESTARTED, NO CHAPTER WAS REPLACED, NO DAY, WEEKDAY, BARE-MONTH ORDINAL, HOUR, CAST MEMBER, DESCRIPTOR, OBJECT COUNT THAT HOLDS, DECISION OF RECORD OR PANEL MOVED, AND THE PLANNED PLOT IS UNCHANGED.**
+
+### 12.1 What the review was, taken at its own value
+
+`logs/batch-0004.review.log` EXISTS AND THIS RECORD'S §11 SAID IT DID NOT. IT NOW DOES, AND IT IS A FALLBACK REVIEW: its first line reads *agent "novel-reviewer" is a subagent, not a primary agent. Falling back to default agent*. **`reviews/volume-15/` STILL DOES NOT EXIST, AND NO FIX LOG WAS WRITTEN BY THE DISPATCH.** The findings below were taken, and the dispatch question in §11 and in `state/open-threads.md` §5 is not answered by the appearance of one log.
+
+**THE REVIEW'S OWN WORDS ON ITS OWN STANDING ARE PUBLISHED HERE RATHER THAN PASSED OVER, AND THEY ARE CORRECT: IT IS NOT AN INDEPENDENT REVIEW.**
+
+### 12.2 The three findings that were repaired on the page
+
+**FINDING 2, THE MECHANICAL POSSESSIVE, WAS THE CONSEQUENTIAL ONE AND IT WAS REPAIRED IN ALL TEN FILES.** The count of *his own* / *her own* per chapter, measured against commit `861f57a`:
+
+| Ch | 0731 | 0732 | 0733 | 0734 | 0735 | 0736 | 0737 | 0738 | 0739 | 0740 | batch | per chapter |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| before | 21 | 23 | 10 | 11 | 9 | 11 | 13 | 8 | 7 | 11 | **124** | **12.4** |
+| after | 6 | 4 | 4 | 3 | 3 | 2 | 5 | 3 | 2 | 3 | **35** | **3.5** |
+
+**Volume 15 as a whole is at 381 across 40 files, 9.5 a chapter, against 470 and 11.8 when this repair opened.** The reduction was made where the possessive was carrying no information — *the flat of his own two hands*, *his own right hand*, *his own sleeves* repeated inside one paragraph — and it was KEPT where it is the sentence's point, which is that a thing is a person's and not the room's: *his own board*, *his own stall*, *his own front*, *his own chest*, *in his own mouth*, *in his own hand*. **THE TEN ARE BETWEEN 2 AND 6 AND NOT BELOW 2, THE VOICE IS NOT FLATTENED INTO SOMEBODY ELSE'S, AND NO TITLE WAS TOUCHED.**
+
+**FINDING 3a, THE 0731 SELF-COLLISION, WAS REAL AND WAS CAUSED BY THIS BATCH'S OWN RE-AIM.** The fourth paragraph ended *he did not wash that hand at any hour of that day* and the closing, re-aimed in `861f57a`, ended *he has not washed that hand off at any hour of that day* — the same clause four lines apart in one file. **THE FOURTH PARAGRAPH NOW READS *he did not wash it off*, AND THE CLOSING KEEPS ITS OWN SENTENCE WHOLE AND IS NOT THE FURNITURE SHAPE §8 RE-AIMED IT OFF.**
+
+**FINDING 3b, THE 0738 PHRASE REUSE, WAS REAL.** The repair in `861f57a` inserted *He held them there for about the length of a minute*, and that phrase was already standing in 0733 and 0734. **0738 NOW GIVES THAT MAN A DIFFERENT ACTION — HE KEEPS HIS HANDS ON THE BENCH WHILE HE COUNTS SOMETHING UNDER HIS BREATH THAT NOBODY STANDING NEAR ENOUGH TO HEAR IT HEARD — AND THE PHRASE *about the length of a minute* IS NOW AT TWO IN THE TEN, IN 0733 AND 0734, AND NOT IN 0738.**
+
+**FINDING 4, THE 0734 DESCRIPTOR REGRESSION, WAS REAL AND THE FINDING IS ACCEPTED IN FULL.** `a man with a board under his own arm` gave one registered recurring character a second descriptor in a scene that had already named him in full at the fifth hour. **HE IS THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD AGAIN, AND IN THE NINTH-HOUR PARAGRAPH HE IS *that same man of about thirty-nine*, A BACK-REFERENCE WITHIN HIS OWN SCENE RATHER THAN A SECOND DESCRIPTOR.** The full form was not simply pasted back, because doing so built a twelve-word run shared with the Chapter 0740 closing; the back-reference is what makes the descriptor restoration and the collision repair the same edit.
+
+### 12.3 A FAULT THE REVIEW DID NOT FIND, FOUND IN THE SAME PASS
+
+**THE RECORD AT §8 CLAIMED ZERO AT TWELVE WORDS. IT WAS NOT ZERO. Chapter 0736's closing carried a twelve-word run shared with `chapters/volume-04/chapter-0152.md` — *and the man of about thirty-four who keeps a stall looked at it* — and this was true at `861f57a` and not a product of this repair.** The record's own warning names the cause: *the twelve-word unit and the fifteen-word unit are different instruments and a record that publishes only one of them publishes the half that agrees with it.* **IT IS REPAIRED BY SPLITTING THE SENTENCE AND GIVING THE LOOK *looked across at it*, AND THE CLAIM AT §8 IS NOW TRUE AT TWELVE WORDS AND WAS NOT TRUE AT TWELVE WORDS BEFORE THIS PASS.** That is the second time this volume a collision has been found by a unit the record above it did not run.
+
+### 12.4 What was measured after the repair, and what the measurements are scoped to
+
+**THE CLOSING CHECK, ALL FOUR THRESHOLDS, ALL THREE SCOPES, AT TWELVE, FIFTEEN, SIXTEEN AND TWENTY WORDS: ZERO, ZERO, ZERO.** Scopes run: the ten closings against the pool of all 740 chapter files; all forty closings in Volume 15 against each other; the ten closings against each other.
+
+**THE WHOLE-BODY CHECK WAS RUN TOO, AND IT IS THE FIGURE THAT SHOWS WHAT THESE TEN ARE.** At twelve, fifteen and sixteen words, the ten files hold **29, 20 and 19 colliding pairs among themselves — AND THE SAME THREE NUMBERS BEFORE THE REPAIR, MEASURED OFF `861f57a`, WHICH IS THE POINT: THIS PASS INTRODUCED NO NEW WHOLE-BODY COLLISION AT ANY OF THE THREE THRESHOLDS.** Against the rest of the repository the ten carry 1,128, 700 and 606 shared runs, and that density is pre-existing, is the volume's ritual phrasing standing on purpose, and is **NOT SETTLED BY THIS PASS AND IS NOT CLAIMED TO BE.** A record that publishes only the closing figure publishes the part of it that agrees with it, and both numbers are here.
+
+**PLAN COMPLIANCE WAS RE-RUN AFTER THE PROSE WAS TOUCHED AND IS UNCHANGED: ten of ten weekdays correct under (day − 1) mod 7 over seven named positions from a Tuesday, ten of ten Bare-Month ordinals correct under day less 315, the month's name on ten of ten, ONE PANEL IN THE TEN AND IT IS ON 0740, ADRIAN VALE IN 0731, 0737 AND 0739 AND IN NONE OF THE OTHER SEVEN, AND THE ONE MENTION IN 0732 IS A NEGATION.**
+
+**AND WHAT THE PROSE PASS DID NOT TOUCH, MEASURED RATHER THAN ASSUMED: NINETEEN LINES OF SPOKEN DIALOGUE ACROSS THE TEN ARE BYTE-IDENTICAL TO `861f57a`, AND EVERY ONE OF THE TEN FILES HAS THE SAME NUMBER OF NON-BLANK LINES AS BEFORE.** Forty-nine lines changed across ten files, every one of them a wording substitution, and not one sentence of anyone's speech was altered and no paragraph was added or removed. This was a pass over the telling and not over what is said.
+
+### 12.5 What the review named and no fiction agent in this repository may fix, published rather than passed over
+
+**FINDING 1 — THAT THE LAST COMMIT CONTAINED NO NEW PROSE AND THE PHASE ADVANCED ANYWAY.** The ten chapters were written before `f33ac2a`; `861f57a` added state files and a successor prompt over eight one-line edits. The finding is a true statement about the dispatch and about the phase-advance rule. **THE FIX IS THE DISPATCH, THE FALLBACK SETTING AND THE PHASE LEDGER, AND ALL THREE ARE CONTROLLER FILES. NO CHAPTER WAS REWRITTEN IN RESPONSE TO IT, NO CHAPTER WAS RESTARTED, AND `state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0` AFTER FIFTEEN VOLUMES AND 740 CHAPTERS. IT WAS REPORTED AND NOT OPENED.**
+
+**FINDING 6a — THE STALLKEEPER OF ABOUT THIRTY-FOUR IS TWO PEOPLE.** *Man* on the pages and in the plan, *woman* in the state layer and two close records. **THIS IS CANON AND NOT TYPOGRAPHY, AND A REPAIR PASS MAY NOT SETTLE IT.** The ten chapters use the descriptor the pages behind the volume carry, put the two in no room, ask neither about the other, and use no descriptor that settles it, and this pass changed no descriptor and settled nothing.
+
+**FINDING 6b — NO INDEPENDENT REVIEWER.** The three files that would restore one are controller files. **THIS IS THE EIGHTH VOLUME RUNNING TO SAY SO AND THE THREAD IS OPEN AND IT IS NOT CLOSED BY THE FACT THAT A FALLBACK PRODUCED FINDINGS THAT WERE ACTUALLY ACTED ON.**

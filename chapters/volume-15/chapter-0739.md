@@ -1,6 +1,6 @@
 # Chapter 0739 — A Bench Wiped With The Flat Of A Wet Sleeve Where Nothing Had Been On It All Morning, A Table With A Cloth Laid Flat On It And Then Taken Off It And Folded Into A Coat, And A Man Who Came Up That Stair For A Thing He Had Left On A Chair And Sat Down On That Bench And Was Told Nothing And Said Nothing
 
-Both of Adrian Vale's hands were flat on the wood of that bench on the near half of it, and he took the flat of his own right sleeve and turned it over onto that wood and rubbed it along the length of that bench and back again, and there was nothing on that wood and there had been nothing on that wood all morning.
+Both of Adrian Vale's hands were flat on the wood of that bench on the near half of it, and he took the flat of his right sleeve and turned it over onto that wood and rubbed it along the length of that bench and back again, and there was nothing on that wood and there had been nothing on that wood all morning.
 
 It was about the fourth hour on the four hundred and twenty-fourth day of the Bare Month, a Friday, in that room at the back of the store's end of that market, and about nine people were in it over the course of that morning.
 
@@ -8,9 +8,9 @@ That bench has a cloth laid flat on the table at the side of it and a cloth is n
 
 ---
 
-The man of about thirty-nine who trades on a board came up that stair at about the fifth hour with a board under his own arm, and that board carries nineteen rates and he has traded them in four markets for about nine years, and there is a space about two fingers wide at the foot of the column between the other two where a name is not. He went to a chair at the far side of that room and put his own two hands on the back of it and found that whatever he had left there was not on it, and he stood for a moment and then came back along that floor and sat down at the far end of that bench, on the half of it that had been wiped, and put his own two hands on his own knees.
+The man of about thirty-nine who trades on a board came up that stair at about the fifth hour with that board under his own arm, and that board carries nineteen rates and he has traded them in four markets for about nine years, and there is a space about two fingers wide at the foot of the column between the other two where a name is not. He went to a chair at the far side of that room and put both hands on the back of it and found that whatever he had left there was not on it, and he stood for a moment and then came back along that floor and sat down at the far end of that bench, on the half of it that had been wiped, and put both hands on his knees.
 
-Nobody in that room told him one thing about that bench. Nobody in that room told him one thing about anything. Nobody asked him one question about the space on his own board and nobody has ever asked him and he has never said one word to anybody about the name that is not on it.
+Nobody in that room told him one thing about that bench. Nobody in that room told him one thing about anything. Nobody asked him one question about the space on that board and nobody has ever asked him and he has never said one word to anybody about the name that is not on it.
 
 The man of about thirty-four who keeps a stall came in at the front of that building at about the seventh hour and went up that stair and stood at the near end of that bench and said one thing out loud to the middle of that floor.
 
