@@ -16,7 +16,7 @@ At about the fifth hour she said it out loud in her own mouth in the room in fro
 
 Nobody in that room thanked her for having said it out loud, nobody improved on one word of it, and nobody argued with her about it. Nobody said she was right and nobody said she was wrong, and about four people a day went past the outside of that door at the back of that building in the ordinary course of that morning, and not one of them was asked anything and not one of them knows.
 
-About the seventh hour the front door of that building was pushed open and the stallkeeper of about thirty-four came up that stair and stood at the near end of the bench and said one thing out loud, and it was not an answer to her.
+About the seventh hour the front door of that building was pushed open and the stallholder of about thirty-four came up that stair and stood at the near end of the bench and said one thing out loud, and it was not an answer to her.
 
 "**I have heard what she said and I am not going to answer it and I am not going to tell her that she is right and I am not going to tell her that she is wrong, and I am going to sit down at the near end of this bench.**"
 

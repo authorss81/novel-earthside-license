@@ -20,7 +20,7 @@ At about the fifth hour the man of about thirty-nine who trades on a board said 
 
 Nobody thanked him for that. Nobody improved on one word of it and nobody argued with it, and the board carries nineteen rates and he has traded them in four markets for about nine years, and nobody in the room said one word to him about any of that.
 
-At about the seventh hour the stallkeeper of about thirty-four came in the way he comes in, went up, and set both hands on the wood of the bench and said one thing out loud that was not about the ground and was not about the door.
+At about the seventh hour the stallholder of about thirty-four came in the way he comes in, went up, and set both hands on the wood of the bench and said one thing out loud that was not about the ground and was not about the door.
 
 "**I have got a front two stalls along and there is nobody at that front this morning who can say where I have gone, and I have told nobody at the front where I have gone, and I am going to be back at it before the light goes and I am not expecting to be asked about that by anybody.**"
 

@@ -34,6 +34,7 @@ read and no batch could afford to load.**
 | **THE LENGTH OF NEW ROPE AND THE MAN WHO PUT IT THERE** | **OPEN. Never used, never cut, never taken up and never lifted on any of the fifty days, and the man of about fifty-seven was not asked anything on any of them.** |
 | **THE FOUR CELLS OF THE PRESSURE COLUMN WHERE BATCH 0005'S OWN PROMPT AND THE PLAN'S DAY MAP DISAGREE** | **OPEN AND OWED BY THE OWNER OF WHICHEVER FILE IS WRONG, AND BY NO BATCH AND BY NO OUTLINE.** The plan is the authority and was not amended and no side was picked silently. The four cells are 0741, 0742, 0743 and 0744. |
 | **THE PANEL-LEAK INSTRUMENT AGAINST THE CHAPTER 0690 PANEL** | **OPEN AND OWED BY A HUMAN. The instrument returns a non-zero figure against `outline/volume-14.md` under every reading tried — 97, 98, 98, 97, 98 — where this batch's record and Batch 0004's both publish 105, and it returns zero against the two files where that record publishes 6 and 6 against plan figures of 12 and 12. IT FINDS THE RUN AND CANNOT REPRODUCE THE COUNT. NO INSTRUMENT AND NO TABLE WAS CHANGED.** |
+| **THE SAME MAN AT THE SAME MARKET HAD TWO TRADE NOUNS ACROSS A VOLUME BOUNDARY** | **CLOSED AND PAID BY THE FIX PASS, AND IT IS NOT THE DISPUTE BELOW. The pages of Volume 14 called him *stallholder* in twenty-five places across fourteen files, eight more pages in Volumes 01, 05 and 06 agree, and four pages of Volume 15 called him *stallkeeper* — the only four occurrences of that word in seven hundred and fifty files, which made one man at one market read as two people at the boundary. The four now read *stallholder*; the word stands at zero and *stallholder* at thirty-seven. **NEITHER WORD IS A GENDER, SO NEITHER FORM SETTLES ANYTHING, NO AGE AND NO TRADE AND NO HOUR AND NO SPEECH MOVED, AND THE PLAN'S OWN MAN-OR-WOMAN QUESTION IS A SEPARATE THREAD AND IS UNTOUCHED.** This is closed because the naming fault is gone, not because a question about a person was answered. |
 | **THE STATE LAYER'S OWN BULK** | **MEASURED AND PAID ONCE. The five state files stood at 2.4 MB and were compacted by moving their full text to `state/archive/`. Nothing was deleted. The compaction is a move of text and not a change of record.** |
 
 ---
@@ -125,3 +126,82 @@ chapter.
 **UNCHANGED AND OWED BY A HUMAN: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE.**
 
 **`workspace/volume-15/batch-0005/` CARRIES `.checkpoint` AND NOT `.done`.** Dispatch ordering is safe, since `close` sorts after `batch-0005`, but a further writer pass over these six repaired files is a live risk. **NO WRITER OR REVIEW PHASE MAY CREATE OR REMOVE A MARKER FILE. NO PHASE MAY OPEN `state/phase-ledger.json`. BOTH ARE OWED BY A HUMAN WITH WRITE ACCESS TO THE CONTROLLER AND NEITHER WAS DONE HERE.**
+
+---
+
+# WHAT THE FIX PASS AFTER THE REVIEW OF THE REVIEW DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NO THREAD WAS CLOSED BUT ONE NAMING FAULT, AND THAT ONE WAS NOT A QUESTION ABOUT THE WORLD. NO QUESTION
+WAS ANSWERED, NO DEBT PAID, NO DECISION REVERSED, AND NOTHING BELOW IS A STORY CHANGE.**
+
+## THE ONE FAULT CLOSED, NAMED AS A NAMING FAULT AND NOT AS A RESOLUTION
+
+**A thread closed: the same man at the same market had two trade nouns across a volume boundary, and the
+four pages that used the second one now use the first.** It was never a question about whether anybody is
+one person or two. It was the same person called two things on two sides of a line, which reads as two
+people where there is one, in a manuscript whose own plans are already carrying a real dispute about
+whether one stallkeeper is two.
+
+**AND IT IS DELIBERATELY NOT MERGED WITH THE PLAN'S THREAD.** The plan publishes that *the stallkeeper of
+about thirty-four is two people in this repository* — that *woman of about thirty-four who keeps a stall*
+stands in Volumes 02 to 06 and at zero in every volume from 07 onward, and that *man of about
+thirty-four who keeps a stall* stands from Volume 05 onward, and that the two share an age, a trade and a
+descriptor and disagree about a thing. **NEITHER `stallholder` NOR `stallkeeper` SAYS WHETHER HE IS A MAN
+OR A WOMAN, SO THE FOUR CORRECTIONS SETTLE NOTHING OF THAT, AND A DESCRIPTOR MAP COUNTS OCCURRENCES AND
+DOES NOT DECIDE WHICH OCCURRENCE IS THE SAME PERSON. That question is nine volumes and forty batches old
+and it is carried whole and unpaid, and a reader who takes the naming fix for an answer to it has taken
+it wrong.**
+
+## THE THREADS THAT ARE STILL OPEN AND WERE LEFT OPEN
+
+**What that row was for, and who knew, is still not answered, and the ten days did not resolve it.** Nobody
+knew. The chapter that would settle it is the chapter that makes the person walk onto the instrument, and
+it is not written and it must not be.
+
+**The question asked on the Sunday was not answered and was not answered to.** It was put to one man by
+one man and not to a room, and he did not answer it, and nobody thanked him for not answering it. It goes
+into Volume 16 as a question with no answer attached to it.
+
+**The word in the column on the right of that page is still undefined**, and the register-keeper has still
+not asked anybody what it is for, having said out loud in front of about nine people that she has not
+asked. **The day cut across the head of that second slate still has nothing under it**, and the slate has
+never been picked up, never turned over and never written on. **The bare wood under that date is still
+bare and still means nothing whatever.** **The length of new rope is still unused and unasked about.**
+
+**The door is still on its two hinges with the bar in its sockets on the far side**, and nobody in this
+city asked Adrian Vale to take it off and nobody thanked him for not doing it. Of the eleven Adrian days
+this volume carried, four came out obtained and seven did not, and neither set is a reward and neither is
+a lesson.
+
+## THE THREAD THAT THIS PASS ADDED A FIGURE TO RATHER THAN A QUESTION
+
+**The length of these ten chapters is now a published measurement and a warning: 675 to 1,398 words, a mean
+of 874, against Volume 13's 1,536 and Volume 14's 1,229. The duplication figures published for this batch
+were measured on that length, and a short chapter shows few long shared runs for reasons that have nothing
+to do with prose discipline. A later volume's prose instructions should be written against that, and the
+close phase should weigh the row rather than bank it.**
+
+## WHAT THESE TEN DAYS NEITHER CLOSED NOR OPENED, AND THIS PASS NEITHER CLOSED NOR OPENED
+
+**No new thread was opened. No notice was sent and no document was written; the count of seven documents
+and seven notices holds and the seventh form was not made and not guessed at. No new person was invented
+and no descriptor was taken. No name and no place arrived by narration. Nobody gets stronger and no
+threshold is opened. The consent fracture stays unmended and the fifth condition is not given. No
+relationship milestone is paid. No new final enemy and no new world entered this manuscript and the
+planned ending is untouched.**
+
+## AND THE TWO DEBTS NO PHASE IN THIS REPOSITORY CAN PAY
+
+**`reviews/volume-15/` STILL DOES NOT EXIST AND THE REVIEW DISPATCH FELL BACK TO THE WRITER AGENT.** Every
+finding the fix pass acted on was re-derived in the fix pass first, because they checked out. **That is a
+mitigation and not an independence, and a review that falls back to the writer is not a review.**
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0`, AND
+`workspace/volume-15/batch-0005/` STILL CARRIES `.checkpoint` AND NOT `.done`.** Both are owned by GitHub
+Actions, no writer, review or fix phase may create or remove a marker file, and no phase may open the
+ledger. **NEITHER WAS DONE AND BOTH ARE OWED BY A HUMAN WITH WRITE ACCESS TO THE CONTROLLER.**
+
+## THE NEXT PHASE
+
+**UNCHANGED AND OWED BY A HUMAN: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME,
+AND NOTHING ELSE. NO CONTINUATION DIRECTORY, NO SIXTH BATCH, NO CARD FILE, NO MARKER FILE.**

@@ -18,7 +18,7 @@ At about the fifth hour the man of about thirty-nine said one thing out loud to 
 
 He got no answer and no thanks. He sat there with the board under his arm and his left hand along the top edge of it and said nothing else.
 
-At about the seventh hour the stallkeeper of about thirty-four came in at the front of the building and went up the stair and stood at the near end of the bench with his hands pushed up his own sleeves.
+At about the seventh hour the stallholder of about thirty-four came in at the front of the building and went up the stair and stood at the near end of the bench with his hands pushed up his own sleeves.
 
 "**About nine people have come up the stair this morning and not one of them has come up it carrying anything, and I have come up it carrying nothing myself for the whole of this flood, and there is no reason anybody in this city could be shown for either of those two things.**"
 

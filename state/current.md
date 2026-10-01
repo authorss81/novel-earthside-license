@@ -113,7 +113,7 @@ knew.
   reason he opens nothing he carries is not given on any page.
 - **The wharf board.** Face up on a stack of boards under two lines of grey grit, a clean piece at the
   near edge. No third line of grit. Not turned face down again at any hour, and cannot be.
-- **The stallkeeper's chalk.** In his inside breast pocket at every hour of all fifty days including
+- **The stallholder's chalk.** In his inside breast pocket at every hour of all fifty days including
   day 750. It has not been out of that pocket since the six hundred and seventy-eighth day.
 - **The stool.** Carried out of a room by the woman of about fifty-two and left where anybody could
   sit on it.
@@ -132,11 +132,15 @@ characterisation.** The next writer should treat a constraint as a thing to obey
 behind, not as a sentence to keep producing.
 
 **THE MEASURED REGISTER OF THE TEN REPAIRED FILES, FOR A LATER BATCH TO MEASURE AGAINST AND NOT TO
-COPY: `that` at 28.6 per thousand words, down from 53.8, against 50.5 for Batch 0004 and 19.9 for
-Volume 01; *his own* + *her own* at 6.6, down from 7.6; *nobody* at 12.6; *flat on* at 0.3. Zero
-duplicated sentences of sixteen words or more across the ten files at both the paragraph-scoped and the
-whole-file reading, zero within-batch runs at forty words, and zero within-batch closing collisions at
-twelve, fifteen, sixteen and twenty words on both the last-sentence and the closing-block unit.**
+COPY, AND RE-DERIVED BY THE FIX PASS: `that` at 29.3 per thousand words, down from 53.8, against 50.5
+for Batch 0004 and 19.9 for Volume 01; *his own* + *her own* at 6.8, down from 7.6; *nobody* at 12.5;
+*flat on* at 0.3. Zero duplicated sentences of sixteen words or more across the ten files at both the
+paragraph-scoped and the whole-file reading, over 207 and 198 units, zero within-file repeated
+sixteen-word runs, zero within-batch runs at forty words, and zero closing collisions at twelve, fifteen,
+sixteen and twenty words on both the last-sentence and the closing-block unit. **THE CHAPTERS ARE SHORT —
+675 to 1,398 words, a mean of 874, against Volume 13's 1,536 and Volume 14's 1,229 — AND A SHORT CHAPTER
+SHOWS FEW LONG SHARED RUNS FOR REASONS THAT HAVE NOTHING TO DO WITH PROSE DISCIPLINE. A DUPLICATION FIGURE
+IS ONLY AS GOOD AS THE LENGTH OF THE THING IT WAS MEASURED ON.**
 
 ---
 
@@ -163,10 +167,13 @@ LIST IS THE LIVE LAYER AND NOTHING IS CLOSED BY IT.**
    record prints a zero over the fifty files of this volume without naming all three.**
 7. **The two women of twenty-nine are never in one room and nothing settles whether they are one
    woman.** Carried whole.
-8. **The stallkeeper of about thirty-four is two people in this repository** — the plan and the pages
+8. **The stallholder of about thirty-four is two people in this repository** — the plan and the pages
    say *man*, two close records say *woman*, and a third says the man is a fifth person distinct from
    four women of about thirty-four. Nine volumes and forty batches have not settled it. **This volume
-   does not settle it and puts the two in no room.**
+   does not settle it and puts the two in no room.** **A SECOND AND DIFFERENT NAMING QUESTION WAS FOUND
+   AND PAID BY THE FIX PASS AND IS NOT THIS ITEM: the pages of Volume 14 called this figure
+   *stallholder* in twenty-five places and four pages of Volume 15 called him *stallkeeper*, and the
+   four now read *stallholder*. Neither word is a gender and neither settles item 8.**
 9. **The two men of about thirty-eight are two people.** Not merged and not settled in narration.
 10. **The consent fracture stays unmended, the fifth condition is not given, and no relationship
     milestone is paid in Volume 15.**
@@ -209,17 +216,22 @@ RESTARTED, THE TEN CARDS ABOVE IN THE ARCHIVE WERE NOT REWRITTEN, AND THE PLANNE
   now reads *the*. **Word-bounded, case-insensitive, ten files: *that* fell from 53.8 to 28.6 per
   thousand words, against 50.5 for Batch 0004 and 19.9 for Volume 01.**
 - **The gesture template.** *Flat on the wood of that bench* stood twelve times across the ten chapters
-  and closed four of them. It stands **once**, and the other eleven were rewritten as the specific
-  action the day actually has. *Flat on* is at 0.3 per thousand words against Batch 0004's 2.2.
+  and closed four of them. It stands at **zero**, and the twelve were rewritten as the specific action
+  the day actually has. *Flat on* is at 0.3 per thousand words, three uses in the batch, against Batch
+  0004's 2.2. **The figure published here as one did not reproduce and is corrected at §16.4.**
 - **The negation formula.** Nine sentences shared the shape *nobody thanked him and nobody improved on
   one word of it and nobody said he was wrong*. All nine are reworded with the facts intact, in nine
   different constructions. **The triple-*nobody* chain is at ZERO across the ten files.**
 - **A repair that had broken the body.** The checkpoint pass changed the woman of about fifty-two's
   hands from *down at the sides of her own dress* to *flat against the sides of her own dress*, which
   is not a thing a hand can do. It is restored.
-- **Chapter titles.** They ran 67 to 204 words. They now run **8 to 13**.
+- **Chapter titles.** They ran 67 to 204 words. They now run **four to nine words of title text, five
+  to ten tokens counting *Chapter NNNN***. The range published here as 8 to 13 did not reproduce and is
+  corrected at `state/batch-summaries/volume-15-batch-0005.md` §16.4.
 - **Trailing newlines.** All ten files lacked one, as did `chapter-0709.md`. **Volume 15 is now 0 of 50
-  files short.**
+  files short, AND THE FIX PASS GAVE ONE TO THE FIVE FILES IN VOLUMES 04 AND 13 THAT WERE STILL SHORT —
+  `chapter-0155.md`, `chapter-0613.md`, `0615.md`, `0616.md` and `0618.md`. ALL SEVEN HUNDRED AND FIFTY
+  CHAPTER FILES NOW END IN A NEWLINE AND NOT ONE WORD OF EITHER VOLUME WAS TOUCHED.**
 - **Every chapter now carries a goal, a resistance and a change**, which the review found absent. The
   changes are small and they are real: a stool left turned about where a woman did not put it, a
   handcart taken back off the stones, a doorway still lit at the tenth hour, a book shut on one word
@@ -238,7 +250,7 @@ untouched.
 
 **THE MEASURES AFTER THE REPAIR, EVERY PASS RUN TWICE, IN FILE ORDER AND IN REVERSE WITH THE INDEX
 REBUILT, WITH THE READING ON THE SAME LINE AS THE NUMBER.** Words with the heading line excluded,
-8,737. Bolded share 11.14 weighted, against a house range of 5.05 to 12.65 on the fifty files behind
+**8,736** — the 8,737 published here was off by one and both figures are corrected at §16.4 — Bolded share 11.14 weighted, against a house range of 5.05 to 12.65 on the fifty files behind
 this batch and a mean of 8.94. Paragraph classes **101 prose, 17 speech, 0 plain, 0
 bold-without-a-quotation-mark**, on the reading that a speech paragraph carries a quotation mark AND
 a bold mark. Paragraphs of three sentences or more carrying a physical action: **28 paragraphs, 25 of them
@@ -303,3 +315,91 @@ The ten days are the plan's own and they were not touched. **The resolution is o
 ## THE NEXT PHASE
 
 **UNCHANGED: `workspace/volume-15/close/PROMPT.md`, AND NOTHING ELSE. VOLUME 15 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS AND NO CHAPTER PAST 0750 EXISTS AND NONE WAS WRITTEN.**
+
+---
+
+# THE FIX PASS AFTER THE REVIEW OF THE REVIEW ON DAYS 741 TO 750. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**THE BATCH WAS COMPLETE WHEN THIS PASS BEGAN AND NOTHING WAS RESTARTED. SIX OF THE TEN CHAPTERS CHANGED
+AND FOUR DID NOT — 0741, 0742, 0743, 0745, 0747 AND 0750. NO DAY, NO WEEKDAY, NO BARE-MONTH ORDINAL, NO
+HOUR, NO ACTOR, NO DESCRIPTOR, NO OBJECT COUNT THAT HOLDS, NO DECISION OF RECORD, NO PANEL AND NO CLOSING
+SHAPE MOVED. `outline/ending.md` WAS NOT OPENED AND THE PLANNED ENDING IS UNTOUCHED. THE PLANNED PLOT
+DID NOT MOVE.**
+
+**WHAT `logs/batch-0005.review.log` NAMED AS THE THREE THINGS A FIX PASS SHOULD CATCH, AND ALL THREE ARE
+PAID.**
+
+1. **Three sentence-initial lowercase *the*, in Chapter 0743 twice and in Chapter 0750 once.** They
+   pre-date every repair pass — `ec9ac1d` already carries 0743's two — and no pass in this batch's life
+   checks sentence capitalisation at all. **Three capitals, and the figure 3 is now zero in all ten
+   files.** The same repairs moved the count of paragraphs of three sentences or more from 29 to 30 on an
+   instrument that requires a capital to open a sentence, and 30 is the figure the batch record
+   published, so the fix made a published figure reproduce.
+2. **The descriptor split at the Volume 14 to 15 boundary.** The pages of Volume 14 call the man at the
+   front of that market `stallholder`, in twenty-five places across fourteen files, and eight more pages
+   in Volumes 01, 05 and 06 agree; four pages of this batch called him `stallkeeper`, and those four
+   were the only occurrences of that word in the whole manuscript. **They now read `stallholder`.
+   `stallkeeper` stands at zero in all seven hundred and fifty chapter files and `stallholder` at
+   thirty-seven.** Neither word is a gender, so neither settles the plan's own dispute about whether he
+   is the same person as the woman of about thirty-four who kept a stall in Volumes 02 to 06.
+3. **A word count published four times and wrong three of them**, with the wrong figure readable in three
+   places in the batch record. **There is one figure now — 8,736 alphabetic words with the heading line
+   excluded, 8,798 on a whitespace split — and the superseded figures are at
+   `state/archive/batch-summaries.volume-15-batch-0005-full.md` and are marked superseded there.**
+
+**AND WHAT ELSE WAS PAID: five chapter files in Volumes 04 and 13 were short of a trailing newline and
+were given one, so all seven hundred and fifty chapter files are complete on that count and not Volume
+15 alone. Two more published figures that did not reproduce are corrected in the block above and at
+`state/batch-summaries/volume-15-batch-0005.md` §16.4: the chapter-title range, and the residual count
+of *flat on the wood of that bench*.**
+
+**AND THE RECORD ITSELF IS NOW A LIVE LAYER.** `state/batch-summaries/volume-15-batch-0005.md` was 529
+lines with five mutually-overriding blocks, four of which publish superseded or wrong figures, and it
+was a continuity hazard in its own right. Its full text is now at
+`state/archive/batch-summaries.volume-15-batch-0005-full.md`, byte for byte; §12 to §15 of the live file
+are pointers with what survived in them, and §16 is this pass with every figure re-derived on the files
+as they stand. **The compaction moved text and changed no record.**
+
+## WHAT THE NEXT WRITER AND THE CLOSE PHASE SHOULD MEASURE AGAINST, AND WHAT THEY SHOULD NOT
+
+**The register of these ten files is `that` at 29.3 per thousand words, `nobody` at 12.5, `his own` and
+`her own` together at 6.8, `flat on` at 0.3. Nine of the ten chapters open on the hour-and-day formula
+and there are thirty-one *at about the Nth hour* markers across the batch, so the timekeeping is a
+rotation. The chapters run 675 to 1,398 words, a mean of 874, against Volume 13's 1,536 and Volume 14's
+1,229. THE DUPLICATION FIGURES ABOVE WERE MEASURED ON SHORT CHAPTERS AND A SHORT CHAPTER SHOWS FEW LONG
+SHARED RUNS FOR REASONS THAT HAVE NOTHING TO DO WITH PROSE DISCIPLINE. A DUPLICATION FIGURE IS ONLY AS
+GOOD AS THE LENGTH OF THE THING IT WAS MEASURED ON, AND THE CLOSE PHASE SHOULD WEIGH THAT ROW RATHER
+THAN BANK IT.**
+
+**AND THE ROW NO INSTRUMENT SUPPLIED: the closing pass returned zero at every threshold on both units,
+before and after every repair in this batch's life, and a person found five barred closing shapes, then a
+sixth, and then a comma splice behind that zero. The script cannot see a shape. READ THE CLOSINGS.**
+
+## WHAT THIS PASS DID NOT DO
+
+**No chapter was rewritten, restarted or re-planned, and the ten cards were not rewritten. No chapter
+past 0750 exists and none is to be written. No file under `outline/` was created, amended or deleted.
+`scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` were not touched. No marker file was
+created or removed. No phase, directory or prompt was created. No person was invented and no descriptor
+was taken, no name and no place arrived by narration, the census was never reduced to *four people a
+day*, nobody gets stronger, the consent fracture stays unmended, the fifth condition is not given, no
+relationship milestone is paid, and no new final enemy and no new world was introduced.**
+
+**AND THE SAME DEBT, NAMED AGAIN: `reviews/volume-15/` DOES NOT EXIST, THE REVIEW DISPATCH FELL BACK TO
+THE WRITER AGENT, AND EVERY FINDING THIS PASS ACTED ON WAS RE-DERIVED IN THIS PASS FIRST BECAUSE THEY
+CHECKED OUT. THAT IS A MITIGATION AND NOT AN INDEPENDENCE. IT IS OWED BY A HUMAN.**
+
+## THE CONTROLLER FAULTS, AGAIN, AND NOT OPENED
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0`
+AFTER MORE THAN SEVENTY BATCHES. `workspace/volume-15/batch-0005/` CARRIES `.checkpoint` AND NOT
+`.done`, SO THE RUNNER WILL RESUME THIS BATCH RATHER THAN ADVANCE TO `close`; DISPATCH ORDERING IS SAFE,
+SINCE `close` SORTS AFTER `batch-0005`, BUT A FURTHER WRITER PASS OVER THESE TEN CHAPTERS IS A LIVE RISK
+AND THIS PASS IS THE FOURTH TO HAVE RUN OVER THEM. BOTH ARE OWNED BY GITHUB ACTIONS, NO WRITER, REVIEW OR
+FIX PHASE MAY CREATE OR REMOVE A MARKER FILE, AND NO PHASE MAY OPEN THE LEDGER. NEITHER WAS DONE HERE.**
+
+## THE NEXT PHASE
+
+**UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE.
+NO CONTINUATION DIRECTORY, NO SIXTH BATCH, NO CARD FILE UNDER `outline/`, NO MARKER FILE.**

@@ -184,10 +184,10 @@ and at the tenth hour of day 741.**
 
 | File | What was re-aimed | What was kept exactly as it stood |
 |---|---|---|
-| 0742 | the stallkeeper's seventh-hour entrance re-worded so it is not the same sentence as 0741's | the room-and-wall narration, which is this family's first use, and every fact |
+| 0742 | the stallholder's seventh-hour entrance re-worded so it is not the same sentence as 0741's | the room-and-wall narration, which is this family's first use, and every fact |
 | 0745 | the time-and-room sentence and the wall declaration re-worded | **the resolution itself, entire** — she comes round the outside of the building and up onto the ground at the foot of the stair and up and sits and opens the book, about four of about four were her, nobody in that room was told that, she is thanked by nobody |
 | 0746 | the clause justifying the walk up the shut road re-worded | 0744's version of that clause, which stands, and the fence, the party of four, the barrows, the rope |
-| 0747 | the time-and-room sentence, the wall declaration and the stallkeeper's entrance re-worded | **the cost, entire** — her own mouth, before anything else, in front of nine people, and nothing in that room done about it at any hour of that day, and Adrian not in the chapter |
+| 0747 | the time-and-room sentence, the wall declaration and the stallholder's entrance re-worded | **the cost, entire** — her own mouth, before anything else, in front of nine people, and nothing in that room done about it at any hour of that day, and Adrian not in the chapter |
 | 0748 | a comma splice with a stranded capital repaired in the closing block | **the new question, entire** — asked by the man of about thirty-four to the man of about thirty-nine and not to the room, unanswered, unheard by the room, thanked by nobody |
 | 0749 | the closing re-aimed off a barred shape onto the book going onto the shelf and coming off it in her own two hands | the room with nobody in it but her, the narration that nobody came, and about four people going past the row outside |
 
@@ -202,3 +202,56 @@ and at the tenth hour of day 741.**
 **The consent fracture stays unmended and nobody mended it, apologised for it, forgave it or asked for it to be forgiven. The fifth condition is not given. The two women of about twenty-nine are never in one room and nothing in these ten days settles whether they are one woman. The two men of about thirty-eight are two people and no narration settles them. The questions of the earlier days stand unanswered and no chapter of these ten answers any of them. The nine-steps permission is spent and was not renewed by a successor. The stallkeeper of about thirty-four is two people in this repository and no page has ever said so and nothing here settled it.**
 
 **AND THE ONE THAT IS THE SUBJECT OF THE ROW: no finding of this volume asserts that anybody knew what that row was for, and no chapter of these ten may say or imply that she knew what it was for, or that she knew it because she kept a book, or that anybody knew. Nobody knew.**
+
+---
+
+# WHAT THE FIX PASS AFTER THE REVIEW OF THE REVIEW DID TO CONTINUITY ON DAYS 741 TO 750. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THIS PAGE MOVED. NO OBJECT CHANGED PLACE, NO COUNT CHANGED, NO ACTOR WAS ADDED OR REMOVED, NO
+DECISION OF RECORD WAS TAKEN BACK, AND NO THREAD THAT §THE STATES ABOVE CARRIES IS SETTLED BY ANYTHING IN
+THIS BLOCK. SIX CHAPTER FILES CHANGED AND FOUR DID NOT: 0741, 0742, 0743, 0745, 0747 AND 0750.**
+
+## THE TWO THINGS THAT WERE INCONSISTENT AND ARE NOT NOW
+
+| # | What was inconsistent | Where it stood | Where it stands |
+|---|---|---|---|
+| 1 | **The same man at the same market carried two trade nouns across a volume boundary.** The pages of Volume 14 name him `stallholder`, in twenty-five places across fourteen files; eight more pages in Volumes 01, 05 and 06 agree; four pages of this batch said `stallkeeper`, and those four were the only occurrences of that word in seven hundred and fifty files | `stallholder` 33, `stallkeeper` 4, and a reader crossing the boundary had one man at one market reading as two people | `stallholder` 37, `stallkeeper` **0**, at the same front two stalls along, with the same board face in against the same trestle, the same bare back turned out into the same row, and the same piece of chalk in the same inside breast pocket at every hour of every one of the fifty days |
+| 2 | **Three sentences opened on a lowercase word** | `chapter-0743.md` twice and `chapter-0750.md` once, and both files had been declared byte-for-byte unchanged by the passes that never copy-read them | capitals restored in all three places; **no figure, clause, hour or actor moved with them, and the sentence-opening count on the batch's own instrument went from 29 to 30, which is the figure the batch record published** |
+
+**AND THE NAMING QUESTION IS NOT THE PLAN'S DISPUTE AND DOES NOT TOUCH IT.** The plan's dispute is whether
+the man of about thirty-four who keeps a stall and the woman of about thirty-four who kept a stall in
+Volumes 02 to 06 are one person or two. **`stallholder` and `stallkeeper` are both trade nouns and neither
+carries a gender, so the four corrections settle nothing about that dispute, put the two in no room, ask
+neither about the other and use no descriptor that settles it. That dispute is carried whole and unpaid,
+and it is nine volumes and forty batches old.**
+
+## WHAT DID NOT MOVE, CHECKED RATHER THAN ASSUMED, IN ALL TEN
+
+Every day, weekday and Bare-Month ordinal — **10 of 10 re-derived from the day and resolved against an
+independently rendered table, 53 control cases, 0 disagreements, and the month's name in 10 of 10.**
+Adrian Vale in Chapter 0743 and in no other of the ten, four occurrences, and he is the eleventh and last
+of the map's eleven days. *Sixteen willow posts* and *eleven withies* wherever the fence is spelled out,
+and no post moves. *About four people a day* in nine of the ten files and never reduced to *four people a
+day*. *Three columns*, *five figures*, *one word near the head of the column on the right*, the second
+slate on the same shelf and not on a shelf of its own. *Nineteen rates*. *About nine people*. The
+hand's-width bare board that means nothing whatever. The length of new rope never lifted. The stool at the
+side of that bench. Zero panels on these ten pages, zero digits in prose, zero bare three-digit numerals,
+`passage`, `privilege`, `nine steps` and the whole nineteen-word zero column all at zero, and no figure of
+the four things that belong to the volume behind this one printed anywhere on them.
+
+## THE FIGURES THAT ARE CORRECTED IN THE RECORD AND NOT HERE, BECAUSE THEY WERE NEVER FACTS ABOUT THE WORLD
+
+**Words with the heading line excluded are 8,736 and not 10,111; the chapter titles run four to nine
+words of title text and not "8 to 13"; *flat on the wood of that bench* stands at zero and not at one;
+*that* is at 29.3 per thousand words and not 28.6. The figures were wrong in the record and not in the
+chapters, and the chapters were 8,736 words before this pass and are 8,736 words after it, because four
+words changed from one letter to two and three words changed from a lower-case letter to a capital.**
+
+## AND THE ONE FIGURE THE CLOSE PHASE SHOULD WEIGH RATHER THAN BANK
+
+**These ten chapters run 675 to 1,398 words, a mean of 874, against Volume 13's 1,536 and Volume 14's
+1,229. The duplication figures published for them were measured on that length. A short chapter shows few
+long shared runs for reasons that have nothing to do with prose discipline, and a duplication figure is
+only as good as the length of the thing it was measured on. Padding a carded day to move a mean is the
+failure this repository names, so the days were left at what their cards put in them and the measurement
+is published instead.**

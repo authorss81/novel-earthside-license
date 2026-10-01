@@ -2,7 +2,7 @@
 
 Both of Adrian Vale's hands were on that bar where it stands in the sockets on the far side of that door. He got his own fingers up under it and lifted it in those sockets and let it come down again, and he did that three times, and the bar came down into the same two sockets it came down into before he came to it.
 
-It was about the fourth hour on the four hundred and twenty-eighth day of the Bare Month, a Tuesday, at the back of that building. Four hundred yards of flags lie at one end of that market, and on the outside wall at that end of it there is a board carrying three sets of figures of this city's own. None of them has been rubbed out and not one of the three carries a line of words under it, and no figure on that board is printed here. the board is not the length of board on that man's shoulder.
+It was about the fourth hour on the four hundred and twenty-eighth day of the Bare Month, a Tuesday, at the back of that building. Four hundred yards of flags lie at one end of that market, and on the outside wall at that end of it there is a board carrying three sets of figures of this city's own. None of them has been rubbed out and not one of the three carries a line of words under it, and no figure on that board is printed here. The board is not the length of board on that man's shoulder.
 
 On the outside of the door there is a date in chalk, and under that date the wood of it is bare about as wide as a hand with nothing whatever standing on it. That wood means nothing at all, and no name is under the date and no name is going to be.
 
@@ -28,4 +28,4 @@ Nobody answered him and nobody thanked him for it. He pushed both hands up his s
 
 At about the ninth hour the man of about thirty-eight came back to the door and took his own two hands off that length of board where he had stood it against the outside of that wall, and the board was still standing there and nothing had gone round to the front of the building with it.
 
-At about the tenth hour he turned it on its end and shouldered it and went off up the market with it on his own shoulder and his own barrow standing empty behind him. the bar was in the sockets on the far side of the door at the tenth hour, and the door was on its own two hinges, and nothing had gone past the door all morning. Adrian Vale did not take it off its hinges at any hour of that day and nobody in this city asked him to and nobody thanked him for not doing it.
+At about the tenth hour he turned it on its end and shouldered it and went off up the market with it on his own shoulder and his own barrow standing empty behind him. The bar was in the sockets on the far side of the door at the tenth hour, and the door was on its own two hinges, and nothing had gone past the door all morning. Adrian Vale did not take it off its hinges at any hour of that day and nobody in this city asked him to and nobody thanked him for not doing it.

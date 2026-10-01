@@ -170,15 +170,15 @@ is re-runnable at `git show 9e4bcc6:chapters/volume-15/chapter-XXXX.md`.
 
 **She is the only person in this volume who puts herself on the row, and she does it by coming round the outside of that building and up onto the ground at the foot of that stair and going up and sitting at the near end of that bench and opening that book. Nobody in that room was told that. Nobody asked her how she came in, nobody asked her one word about that ground or about that door or about that wall, and she is thanked by nobody. She is one person the volume spends a thing on and it spends it without telling her it was spent.**
 
-**What she then did in front of about nine people, in her own mouth, before she said anything else, was name what that book had cost her** — that nobody in that city has ever asked her one word about the word in that column, that she has carried the book the length of the room and set it down square in front of that slate every morning, and that it is not her hand that put it there. **Nobody thanked her. Nobody improved on one word of it. Nobody argued with her. Nothing in that room was done about it at any hour of that day. It was not put in a second mouth. The stallkeeper said out loud that he had heard it and was not going to answer it and was not going to tell her she was right or wrong, and she did not look up off the page.**
+**What she then did in front of about nine people, in her own mouth, before she said anything else, was name what that book had cost her** — that nobody in that city has ever asked her one word about the word in that column, that she has carried the book the length of the room and set it down square in front of that slate every morning, and that it is not her hand that put it there. **Nobody thanked her. Nobody improved on one word of it. Nobody argued with her. Nothing in that room was done about it at any hour of that day. It was not put in a second mouth. The stallholder said out loud that he had heard it and was not going to answer it and was not going to tell her she was right or wrong, and she did not look up off the page.**
 
 **And she was not once asked the volume's new question. It is not about her and it does not come from her.**
 
 **HER STATE AT THE END OF HER LAST DAY IN THIS VOLUME:** the book is back on the bench in front of her with her own two hands on the wood either side of the open page, and **nothing whatever has been written in the book at any hour of any of these fifty days**, and the slate is behind it on the same shelf and was never picked up.
 
-## THE STALLKEEPER OF ABOUT THIRTY-FOUR
+## THE STALLHOLDER OF ABOUT THIRTY-FOUR
 
-**His piece of chalk was in his own inside breast pocket against his chest at every hour of all fifty days and did not come out on one of them, and no chapter of these ten took it out.** He spoke on four of these ten days. **On the day that carries the volume's new question he asked it of one man and not of the room, and got no answer, and was thanked by nobody for getting none and argued with by nobody.** **HIS STANDING DISAGREEMENT IS UNSETTLED AND WAS NOT SETTLED HERE.** The plan and the pages say *man*; the state layer and two close records say *woman*; a third close record makes the man a fifth person distinct from four women of about thirty-four. **The person this volume spent a thing on is one of them and the plan does not know which, and neither does any page, and nothing here settled it.** No chapter of these ten puts the two in one room or asks either about the other.
+**His piece of chalk was in his own inside breast pocket against his chest at every hour of all fifty days and did not come out on one of them, and no chapter of these ten took it out.** He spoke on four of these ten days. **On the day that carries the volume's new question he asked it of one man and not of the room, and got no answer, and was thanked by nobody for getting none and argued with by nobody.** **AND HIS NAME ON THE PAGE IS ONE WORD AND IT WAS TWO.** The pages of Volume 14 call him *stallholder*, in twenty-five places across fourteen files, and eight more pages in Volumes 01, 05 and 06 agree. Four pages of Volume 15 called him *stallkeeper* and those four were the only occurrences of that word in seven hundred and fifty chapter files; they read *stallholder* now. **THAT CORRECTION IS A NAMING MATTER AND NOT A CHARACTER ONE: neither word carries a gender, so it settles nothing of the dispute named in the next sentence, it puts the two in no room, and it gives him no new age, no new trade, no new second handle and no new scene.** **HIS STANDING DISAGREEMENT IS UNSETTLED AND WAS NOT SETTLED HERE.** The plan and the pages say *man*; the state layer and two close records say *woman*; a third close record makes the man a fifth person distinct from four women of about thirty-four. **The person this volume spent a thing on is one of them and the plan does not know which, and neither does any page, and nothing here settled it.** No chapter of these ten puts the two in one room or asks either about the other.
 
 ## THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD
 
@@ -207,3 +207,63 @@ is re-runnable at `git show 9e4bcc6:chapters/volume-15/chapter-XXXX.md`.
 ## THE STANDING THINGS THAT ARE NOT PEOPLE AND DID NOT CHANGE
 
 **The woman who walked a market is on no page of Volume 15 and was given no age, no descriptor, no name, no number and no second appearance in any of these ten chapters, and no chapter joined her to anybody.** **About four people a day is a census and not a person; it was given no descriptor, it was never reduced to *four people a day*, and it was not used as a count of anybody.**
+
+---
+
+# WHAT THE FIX PASS AFTER THE REVIEW OF THE REVIEW DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOBODY ON THIS PAGE CHANGED STATE. NOBODY GOT STRONGER, NOBODY GOT WEAKER, NOBODY MOVED, NOBODY ARRIVED,
+NOBODY LEFT, NOBODY WAS ASKED ANYTHING THEY HAD NOT BEEN ASKED BEFORE, NOBODY WAS THANKED FOR ANYTHING
+THEY HAD NOT BEEN THANKED FOR, AND NOBODY SAID A WORD THEY DID NOT SAY. Six chapter files changed and
+four did not, and the changes were three capitals and one word in four places.**
+
+## THE ONE PERSON WHOSE NAME ON THE PAGE WAS CORRECTED
+
+**The man of about thirty-four at the front of that market, two stalls along, is the *stallholder*.** His
+own board stands face in against his own trestle with the bare back of it turned out into the row of
+trestles and boards behind his shoulder. His own piece of chalk is in his own inside breast pocket
+against his own chest at every hour of all fifty days and did not come out on one of them. He decided, out
+loud, on day 675, that a piece of board is not to be written in, and he paid a second cost on day 689 in
+his own mouth, and on day 736 the woman of about fifty-two named out loud what it had cost him, and on the
+day that carries this volume's new question he asked it of one man and not of the room and got no answer
+and was thanked by nobody for getting none. **All of that stands exactly as it stood.**
+
+**WHAT MOVED IS ONE WORD IN FOUR PLACES.** Chapter 0741, 0742, 0745 and 0747 called him *stallkeeper of
+about thirty-four*, which is the only place in seven hundred and fifty chapter files where that word had
+ever appeared, and they call him *stallholder of about thirty-four* now. **The word is a trade and not a
+person, the age did not move, the trade did not move, the hours did not move, the words he said did not
+move, and the four entrances into that room are the same four entrances at the same hour.**
+
+**AND IT IS NOT THE DISPUTE.** The plan's own finding is that *the stallkeeper of about thirty-four is two
+people in this repository* — that the man of about thirty-four who keeps a stall and the woman of about
+thirty-four who kept a stall in Volumes 02 to 06 share an age, a trade and a descriptor and disagree about
+a thing, and that no chapter of eight volumes says a word about it. **THAT FINDING IS CARRIED WHOLE AND
+UNPAID AND THIS CORRECTION DOES NOT TOUCH IT, because *stallholder* and *stallkeeper* are both trade nouns
+and neither of them says whether he is a man or a woman. The correction removes a second name for one
+man at a volume boundary. It does not merge anybody with anybody, it does not put the two in a room, and
+it uses no descriptor that settles anything.**
+
+## THE OTHER THREE CHAPTERS THAT CHANGED, AND WHAT THEY DID TO THE PEOPLE IN THEM
+
+- **Chapter 0743, the only Adrian day of the batch.** Three sentences opened on a capital instead of a
+  lower-case letter. **He is still on the bar in its sockets on the far side of that door, he still lifted
+  it and let it down three times, the man of about thirty-eight still could not get his length of board
+  past it and still stood it against the outside of that wall and carried it away up that market at the
+  tenth hour, and Adrian Vale still did not take that door off its hinges at any hour of that day and
+  nobody in this city asked him to and nobody thanked him for not doing it. NOT OBTAINED.**
+- **Chapter 0750, the last image of the volume.** One capital. The board was washed once and not twice,
+  the wall above the top edge of it was not washed by anybody, the door is the door at the foot of that
+  stair, and a strip of ground at the foot of that stair has about four people a day's feet on it and
+  nothing on it and nothing said about it.
+- **Chapters 0744, 0746, 0748 and 0749 were not opened.** The man of about fifty-seven still has not been
+  asked about the new rope, the man of about sixty still walks his handcart up that shut road and down it
+  again, the man of about thirty-nine still has not been asked what the name on his board is, and the
+  woman of about twenty-nine still has not been asked one word about the word in the column on the right
+  of her page.
+
+## AND THE STANDING DEBT, RESTATED BECAUSE A PASS RAN AGAIN
+
+**`reviews/volume-15/` does not exist, the review dispatch fell back to the writer agent, and every
+finding this pass acted on was re-derived in this pass before it was believed. A review that falls back to
+the writer is not a review, and taking its findings anyway because they check out is a mitigation and not
+an independence. This is the ninth volume running to say so and it is owed by a human.**

@@ -16,7 +16,7 @@ At about the fifth hour the woman of about fifty-two stood with both hands on th
 
 Nobody thanked her for asking it, nobody improved on one word of it, and she got no answer at any hour of the day. The man of about thirty-one at the far end of the bench said nothing and did not look down at the floor behind the bench.
 
-The stallkeeper of about thirty-four came in at the front of that building about the seventh hour, went up past nine people, and answered a question that had not been put to him.
+The stallholder of about thirty-four came in at the front of that building about the seventh hour, went up past nine people, and answered a question that had not been put to him.
 
 "**Nobody in this room is going to find out what leaves this building today or on any other day. I am the one who said that in here on a morning that is not one of these fifty, and I am telling you now as a fact and not as a favour, and there is a page on the shelf at the height of my own shoulder that nobody in this city has ever seen filled in.**"
 
