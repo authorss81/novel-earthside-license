@@ -395,3 +395,50 @@ is true on its own scope and silent on the other, and this is the second time th
 volume.** (ii) The closing pass returned ten different constructions and a person found two clusters of three,
 and five closings were re-aimed. (iii) These ten run 141 words shorter at the mean than the ten behind them,
 and a duplication figure is only as good as the length of the thing it was measured on.
+
+---
+
+## VOLUME 16, BATCH 0002 — THE REPAIR PASS ON CHAPTERS 0761 TO 0770, AND THE THREE FACTS A LATER PHASE MUST NOT GET WRONG
+
+**A REPAIR PASS CAN REBUILD FIFTY SENTENCES WITHOUT TOUCHING FIFTY FACTS, AND THIS ONE REBUILT ABOUT FOUR HUNDRED
+SENTENCES AND TOUCHED THREE FACTS, ALL THREE OF WHICH WERE FAULTS AGAINST THE PLAN RATHER THAN AGAINST
+CONTINUITY. The facts of the day map are intact at zero mismatches out of ten on all three of its checks and on
+both file orders, and the figures are re-derived with the reading on the same line as the number at
+`state/batch-summaries/volume-16-batch-0002.md` §11.3.**
+
+**1. THE BUCKET IS ONE BUCKET AND IT IS THE MAN OF ABOUT TWENTY-SEVEN'S.** §5 lists one bucket in this city, in
+the water at the low place in the stone at the side of that yard, and §7.2 gives a bucket and a rag to the man of
+about twenty-seven. **Chapter 0765 as first written also gave the man of about thirty-one his own bucket, which
+put two buckets in a yard that has one, and which would have made the man of about twenty-seven's bucket — a
+thing he carried up that stair in 0761 and 0767 and set at the foot of that bench — into a thing that anybody
+might own.** The carrier works that trough now and the water over its rim is what undoes the morning's work on
+that stone lip. **A later phase may not give the man of about thirty-one a bucket, or any person a second one.**
+
+**2. THE CHAIR IS A CHAIR AT THE FAR SIDE AND IT IS NOT THE CHAIR WITH THE ROPE ON IT.** §5 gives that room a
+chair at the far side, and separately gives the man of about fifty-seven's house out past the last named house a
+length of new rope lying over the back of a chair. **These are two chairs and the repair holds them apart; no
+hand in the fifty lifts that rope off the back of that chair, and no chapter of this volume moves the room's chair
+on a day other than 761.** Chapter 0761 now has the chair standing in the gap at the far side between the far end
+of the bench and the wall, which is the width that room walks all day, and turning it about is what puts it in the
+way. **A later phase may not find that chair in the middle of that floor.**
+
+**3. A CHAPTER MAY NOT ASK WHO WASHED THE BOARD ON THE OUTSIDE WALL.** §7.2 holds that the wall above the top
+edge of that board is not washed on any of the fifty days and by no second person on any of them. Chapter 0767 as
+first written put that question in the mouth of the man of about twenty-seven. **It is removed, and the chapter's
+beat of that morning is now the day in chalk on the outside of the door at the foot of that stair, which is on a
+page and which nobody has asked after.** A later phase may not put the unwashed wall into a mouth as a question.
+
+**AND THE TWO STANDING DISAGREMENTS, WHICH THIS REPAIR DID NOT HARM AND DID NOT SETTLE: the two women of
+twenty-nine are still never in one room and nothing settles whether they are one woman; the two men of about
+thirty-eight are still two people and no chapter merges them or settles them in narration, and on these ten days
+the man of about thirty-eight is at that salt wharf and the man of about thirty-four keeps a stall two stalls
+along, which is a different thing and is not the same dispute.** And the decider of this volume's one decision is
+still the man of about thirty-nine who trades on a board and not the man of about thirty-four, and the repair
+gave the man of about thirty-nine a refusal on day 761 and a silence on day 767 and neither of them is a decision.
+
+**AND WHAT THE REPAIR DID TO THE FIGURE THAT MATTERS MOST: the ten closings were ten different constructions
+before and are ten different constructions after, and §17.17's ceiling of two chapters in ten closing on a
+statement that nothing changed now stands at zero in ten, and §16.17's six ways of earning an ending are used six
+different ways across these ten days. That is the number a later phase should measure against, and the number to
+beat is the one in the batch record behind this one, which is 141 words shorter at the mean and shares sixteen-word
+runs with the rest of the manuscript where these ten now share none.**

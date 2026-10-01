@@ -1,29 +1,63 @@
-# Chapter 0768 — His Own Face In The Glass
+# Chapter 0768 — He Raised His Head Four Times
 
-Both of Adrian Vale's hands were on the sill of the one window of that room and he got his own chest against the wall under it and put his own head out below the line of that sill and looked down at the ground at the foot of that stair, and his own face was not in the glass for about the length of a minute.
+He got his chest against the wall under that window and put both hands on the sill and his head out below the line of the glass, and his face was not in the glass.
 
-It was about the fourth hour on the four hundred and fifty-third day of the Bare Month, a Saturday, in the room over a market. There is one window in that room and it has a sill and it is high in the wall along the far side and there is no shutter on it, and there has never been a shutter on it, and nobody in this city has ever been asked to put one there.
+It was about the fourth hour on the four hundred and fifty-third day of the Bare Month, a Saturday. The ground at the foot of that stair had taken about four people a day since the flood came. It had never been cleared, never been measured, and never been asked what it was for.
 
-About nine people came into the room at some point between the fourth hour and the tenth hour of that morning and the number of them never once went out of anybody's mouth. The strip of ground at the foot of the stair runs from the bottom step to wherever the paving gives out, and it goes out from under that window far enough that a man at the sill can see the whole length of it, and Adrian Vale had never seen it from above until the morning because in a fortnight of coming up that stair he had only ever been at the bottom of it.
+There was one window in that room and it had a sill, and it was high in the wall along the far side. There was no shutter on it, and there had never been a shutter on it, and nobody in this city had ever been asked to put one there. The sill stood above his head where he stood on the flags.
 
-He wanted that whole length of ground with his own face not in that glass, and every time he got his own eyes below the line of that sill he could see about half of it, and every time he raised his own head to see the other half his own face went into the glass and the weather on the outside of it was on the inside of it by then.
+The strip of ground at the foot of that stair ran from the bottom step out to wherever the paving gave out. It came out from under that window far enough along that a man at the sill could see the whole length of it. Adrian had been at the bottom of that stair every morning for a fortnight and had never once been above it. It turned out there was a different amount to know about that ground from up there than there was from down at the foot of it.
 
----
+From under the sill he could see about half the length of that ground. To get the other half he had to raise his head, and the moment he raised it his own face came into the glass, and by then the weather on the outside of that window was on the inside of it as well.
 
-He did it four times in about a quarter of an hour. The fourth time he raised his head and there he was, looking at himself out of that window from the inside, with the flags of that market behind his own shoulders in the glass and the whole length of that ground down below his own elbows in it, and he could not get his own head down out of his own reflection while he was looking at the reflection.
+He did it four times in about a quarter of an hour.
 
-Then he stopped raising it and stayed where he was with his own hands on the sill and his own face out in the open air below the line of the glass, and he watched that ground instead of looking at it.
+The fourth time he raised his head, there he was, looking at himself out of that window from the inside, with the flags of that market behind his own shoulders in the glass and the whole length of that ground down below his own elbows in it. He could not get his head down out of his own reflection while he was looking at the reflection. The two of them were in it together and one of them was in the way.
 
-Nobody who went over that ground that morning looked up at that window. Every one of them that came into the yard at the foot of the stair looked up at that stair and up at the door at the bottom of it, and their own heads went on over that ground and away down the row, and not one of them put their own face up towards that sill at any hour of the morning. There is a man at the sill whom nobody in that yard has any idea of, and he can stand at that sill as long as he likes and nobody will look up.
+Then he stopped raising it. He stayed with his hands on the sill and his face out in the open air below the line of the glass, and let his eyes go down the length of that ground without lifting them. From that position he could not see the whole of it either.
 
-And he could see the top of every head that crossed that ground and the front of every coat that went over it, and not one face.
-
----
-
-At about the seventh hour he heard the stair and he put his own head further out and looked down at it and nobody came up it, and he stood there and did not say one word to anybody in that room about what he had been doing at that window for the last three hours.
-
-At about the ninth hour the weather came round to that side of the building and put a fine mist on the outside of that glass and took his own face off it and left it, and when he put his own head back up against the line of the sill for the last time that morning there was a wet shape in the glass the size of a man's face where his own face had been in it, and it was already going out of the glass.
+He made his peace with about two-thirds of it.
 
 ---
 
-At about the tenth hour that window had nothing in it at all and the light had gone off the ground at the foot of the stair, and on the sill of that one window there was a wet print drying off the wood of it, and by that hour that print was gone and the sill was dry again, and there is no shutter on that window.
+Nobody who went over that ground that morning looked up at that window.
+
+Every one of them that came into the yard at the foot of that stair looked up at the stair and up at the door at the bottom of it, and then their heads went on over that ground and away down the row. Adrian could see the top of every one of them as they crossed, and the front of every coat that went over it, and not one face. Not one of them had ever looked up at a window to find out whether there was a man at it.
+
+There was a man at that sill whom nobody in that yard had any idea of. He could stand at that sill as long as he liked. He could stand at it until the light went, and every person in that yard would go on coming up that stair and going down it past the bottom of it and never once know that there was anything at that window at all.
+
+The figure was not said in that room that morning. Nobody asked anybody anything. He did not have a number and there was nobody there to want one. The room went on from the fourth hour to the tenth hour without one, and did not appear to want to know about it either.
+
+---
+
+At about the sixth hour the sun came round the corner of that building and put him into the window.
+
+He had not thought about it. He had his hands on the sill and his head out and his weight over it. The light came over the roof and down the wall behind him and took him, and put his shadow on the floor of that room. Then the shadow came across the flags and up onto the bench at the near end of it, and stopped on an open book with three columns on the page.
+
+The woman of about twenty-nine had been sitting at that bench since the fourth hour with both her hands flat on the wood on either side of that page. She took her hands off the wood and drew the book to her, out of the shadow, about a foot and a half, without looking up, and put her hands back down on either side of it.
+
+Then she went on reading. Adrian watched her do it from the sill, six feet off and above her, and he had not moved and he had not made a sound and there was nothing in that room he had done that she could have named.
+
+About twenty minutes later the sun went off him and the shadow came off the page and the woman of about twenty-nine moved the book back. She put it down about a foot and a half the other way, into the place it had been in, in line with the near edge of that bench, and she squared the page up with her fingers before she took her hands off it.
+
+He had been in that room for two hours as a shape on somebody's work, and he had not known it.
+
+The discovery cost him nothing and taught him the whole of what a room is. A room does not know you are in it. The shape you make on a person's page is the only thing you are to them. She had moved the page and put it back and had not looked up once.
+
+If he had stood at that sill for the rest of the flood, the book would have been the wrong way round by noon, and she would still not have looked up.
+
+At about the seventh hour he heard the stair, and put his head further out and looked down at it.
+
+Nobody came up it. He stood there and did not say a word to anybody in that room about what he had been doing at that window for the last three hours.
+
+---
+
+At about the ninth hour the weather came round to that side of the building and put a fine mist on the outside of that glass and took his face off it and left it.
+
+He put his head back up against the line of the sill for the last time that morning. There was a wet shape in the glass the size of a man's face where his own face had been in it, and it was already going out of the glass from the edges inward.
+
+By the time he had got his head down out of it again there was nothing there but the mist and the flags behind it.
+
+At about the tenth hour that window had nothing in it at all, and the light had gone off the ground at the foot of that stair.
+
+There was a wet print drying off the wood of that sill. By that hour the print was gone and the sill was dry again. There was still no shutter on that window, and nobody in that city had been asked to put one there.

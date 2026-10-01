@@ -1,29 +1,63 @@
-# Chapter 0762 — The Two Figures Were Not About One Hour
+# Chapter 0762 — Two Figures And Not One Person Named
 
-Both of the woman of about twenty-nine's hands were flat on the wood of that bench on either side of an open book with three columns on the page in front of her, and she took them off it at the seventh hour and put them back on it and did not turn that page over.
+The fourth hour of the four hundred and forty-seventh day of the Bare Month was a Sunday hour, and the market underneath had not begun, and she was in there with the lamp standing on the table and not lit.
 
-It was about the fourth hour on the four hundred and forty-seventh day of the Bare Month, a Sunday, in that room over a market. That book is ruled in three columns. Five figures stand down the middle of it one under another in the order they were made in, a day set against each of the five, none of them struck through, nothing entered after them and nothing ever taken out. The column on the right of that page carries one word standing near the head of it and the whole of the rest of that page is empty, and that word is not in her hand, and no mouth in this city has ever been told what a word in that column is for.
+She gave it before anybody was up the stair, the way she gave it, with both hands flat on the wood of the bench on either side of an open book and her head down over the page.
 
-She gave that figure out loud into the middle of that floor the way she gives it out on most mornings of this flood, and nobody in the room improved on one word of it and nobody in that room asked her where she had got it.
+"**There are about nine of us in this room this morning, and I have been the one who says it before anybody comes up that stair, and I have said it on every morning of this flood I have been in here early enough to say it on.**"
 
-"**There are about nine of us in this room this morning and I have been the one who says it before anybody is up that stair, and I have said it before anybody came in on every morning of this flood that I have been here early for.**"
+Nobody in that room improved on a word of it. Nobody asked her where she had got it, because there was nowhere to ask from. It had been said in that room for longer than the flood had lasted, in one mouth or another, on most of the mornings. It had never been written down. No person in four hundred miles had ever been in a position to use it against anybody, and that was the whole of what it was for.
 
-Nobody in the room said that she had it right and nobody in that room said that she had it wrong. On that second shelf behind the bench there stands, behind that register and not on a shelf of its own, a slate with a day cut into the top of it and nothing at all under that day, and on no morning of this flood has it been lifted off that shelf or turned over or written on, and her own hand is the only one that has ever gone near the shelf.
+On the second shelf behind the bench, behind the register and not on a shelf of its own, there was a slate with a day cut into the head of it and nothing whatever under that day. It had not been lifted off that shelf or turned over or written on at any hour of the flood. Her own hand was the only hand that had ever gone near that shelf.
 
----
+At the seventh hour the man of about thirty-eight came up the stair with his barrow and stopped on the top step, which he had never once done.
 
-At about the seventh hour the man of about thirty-eight at that salt wharf came up the stair with his own barrow and stopped at the top of it, and he had not been in the room at the fourth hour and about nine people were in it by then.
+He had come up that stair on the mornings of the flood and put the barrow down against the near wall with its handles into the corner and gone on into the room. He had never stopped on the top step. Stopping on it meant he had come up that stair with an intention instead of a habit.
 
-"**There are eight of us in here now and there were eight of us in here an hour ago, and I have come up that stair this morning and I have counted what I could see of the room as I came into it, and I am not going to say that anybody is out.**"
+"**There are eight of us in here now, and there were eight of us in here an hour ago. I have come up that stair this morning and I have counted what I could see of this room as I came into it, and I am not saying that anybody is out.**"
 
-The woman of about fifty-two put her own two hands flat on the wood of that bench about a forearm apart from each other and kept them there, and she did not say a word for about the length of a minute, and then she took her own hands off that wood and put them at the sides of her own dress where she keeps them.
+He came the rest of the way in and stood the barrow along the wall on the near side of the room with the handles into the corner. That was not where that barrow stood on any other morning of the flood.
 
-"**I gave the figure in this room at the fourth hour and he gave it at the seventh, and there is nobody in this room who was standing in this room at both of those hours to tell me which one of them is right, and I am not going to pretend I gave mine at the seventh hour. Those two figures are not about the same morning, or they are not about the same part of one, and I have been saying that figure for the whole of this flood without knowing what hour I was saying it for.**"
-
-Nobody in that room improved on one word of that, and not one of them put a question to her about it, and no name for the person the difference between those two figures came out of any mouth in the room that morning. The man of about thirty-four who keeps a stall said out loud that he had a figure of his own for the morning and that it was not going to settle this either, and nobody asked him what it was. The man of about thirty-nine who trades on a board was not in that room at any hour of the day, and nobody in the room said one word about where he was, and nobody in that row below said one word about it either.
+Then he came back to the far end of the bench and put both hands flat on the wood of it.
 
 ---
 
-At about the eighth hour the man of about thirty-eight took his own barrow in and stood it along the wall on the near side of that room with the handles into the corner, and it does not stand there on any other morning of this flood, and he came back to the far end of the bench and put his own two hands flat on the wood of it. About nine people came in and out of the room over the rest of that morning and every one of them went round that barrow to get to the far end of that bench, and not one of them said one word to him about where he had put it, and he did not move it.
+The woman of about fifty-two kept her hands at the sides of her own dress and looked at the middle of that floor for the length of a minute, and then she said it.
 
-At the tenth hour the barrow was standing along that wall with its handles into that corner and there was nothing on it and nothing on the wood of it and nothing anywhere in that room to say which of the two figures the morning had been said about the hour the other of them was said in.
+"**I gave the figure in this room at the fourth hour and he gave it at the seventh, and there is nobody standing in this room at this hour who was standing in this room at both of those hours. That is all I am going to say about it, and I am not going to pretend I gave mine at the seventh hour.**"
+
+The man of about thirty-four, who kept a stall two stalls along, said out loud that he had a figure of his own for that morning and that it was not going to settle anything either.
+
+The piece of chalk was in his inside breast pocket, where it had stayed against his chest since a day nobody in that room could name. Nobody asked him what his figure was.
+
+The man of about thirty-eight turned round on his heel at the far end of the bench.
+
+"**You keep that book open on that bench every morning of the flood, and you have got it open now. What did your figure say at the fourth hour?**"
+
+"I cannot tell you," the woman of about twenty-nine said, "and I want you to understand that I am not being careful. I gave it at the fourth hour to a room that was not full yet. I have not looked at that page since. There is no figure on it for this morning and there is no rule on that page that says a figure has to be put on it."
+
+"Then whose morning is yours about?" the man of about thirty-eight said.
+
+That was the discovery, and it arrived there about two seconds before anybody in the place understood that it had. She did not answer him. She put her hands down flat again on the wood of the bench on either side of the open page. The man of about thirty-eight stood at the far end of that bench with his hands flat on the wood of it.
+
+Between those two points on that bench there was a stretch of boards a man could walk.
+
+No name came out of any mouth up there that morning for the person the two of them could not both be describing. Not one. The man of about thirty-four had a figure of his own and would not give it up. The woman of about fifty-two had been in that room at the fourth hour and had not been in it at the seventh, and said so and would say nothing else. The man of about twenty-seven, who had come up out of the yard below with a bucket hanging out of his hand and set it at the foot of the bench, said that he did not know and that nobody in that room ever had.
+
+---
+
+The barrow stayed where it had been put.
+
+It was a wide thing standing across the near side of the floor with its handles into the corner. From the door at the top of the stair to the far end of that bench there was one way round it.
+
+By the eighth hour every person in that room had found it. They went along the near side of the floor in single file, and they went round the handles. The man of about thirty-eight had to turn himself sideways to get his own back past them.
+
+He did it eight or nine times in a morning without once looking down at what was making him do it.
+
+He emptied the yard below. At the ninth hour the light came over the roof above that one window and came across that floor and reached the near end of that bench. The shadow of the barrow's handle came across the wood in front of the open register and stopped about a hand's width short of the page. It did not go any further.
+
+The woman of about twenty-nine moved her hands off the wood and set them in her lap.
+
+At about the tenth hour the light had gone off that floor. The man who had put that barrow where it stood had been in the yard below since the eighth hour and had not come up again.
+
+Nothing had been stood in that corner before the flood, and nothing would be stood in it after. The damp had come up out of the stone of that wall overnight and gone down again with the day. Six hours of a barrow standing a foot off it had put a shape of that barrow into the face of that wall, and the shape would be there in the morning and gone by the middle of the next day.

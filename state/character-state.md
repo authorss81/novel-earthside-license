@@ -485,3 +485,114 @@ ground with about four people a day on it, the fence of sixteen willow posts and
 new rope over the back of a chair, the satchel with a flap, the wharf board face up under two lines of grey
 grit and its clean piece at the near edge, the stallholder's chalk in his own inside breast pocket, and the
 trough and the bucket and the rag and the box of chalk whose lid does not shut.**
+
+---
+
+## VOLUME 16, BATCH 0002 — THE REPAIR PASS ON CHAPTERS 0761 TO 0770, AND WHAT IT COST EVERY PERSON ON THESE TEN DAYS
+
+**Nothing below is new. Every one of these people was already in the plan at §7.2 and every one of them was
+already on these ten days before the repair. What the repair did was stop describing them in the third person
+from outside the room and put them in it, so that what each of them did on days 761 to 770 can be held to the
+fourth column of §4.1 and to the prohibitions, and can be inherited by day 771 without a re-derivation.**
+
+### ADRIAN VALE — STAGE 2 ON ALL TEN DAYS, AND HE IS IN FIVE OF THEM
+
+**He performed no working, no threshold was opened, the other world is not named once across these ten files, he is
+aged nowhere, and the words `passage` and `privilege` are at zero across all ten.** His hands were on the two ends
+of a chair seat, the strap of a satchel, a wet rag on a stone lip, two boards off a stack, and the sill of the one
+window, which is §4.1's five for these five and no others. **He obtained none of the five**, which is §4.1's own
+column and not a judgement this record makes. What changed is that he is now visibly the cause of one thing that
+happens to somebody else in each of the five, which §17.19 requires and the first writing of these ten did not
+supply: a bucket turned sideways on a stair, a man who came the length of a room for a satchel and a man who went
+back down out of it with his barrow, a knife that made a new noise on bare stone, a barrow that stands a hand's
+breadth further off a wall for the rest of a life, and a shadow across a keeper's page. **Nobody thanked him in
+any of the five, nobody told him he was right in any of the five, and nobody in any of the five was waiting for
+him to be useful.** He spent the whole of day 761 sitting in a chair he could not get out of, and he does not know
+that on day 768 he spent two hours as a shape on somebody's work. **He is the same man on day 770 as on day 761
+and no further along, and that is the volume's standing arrangement and not a defect of these ten days.**
+
+### THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD — THE DECIDER OF DAY 775, AND HE DECIDED NOTHING HERE
+
+**A board under his arm, nineteen rates in three columns for about nine years through four markets, and a bare
+place about the width of two fingers at the foot of the column between the other two that nobody in this city has
+ever asked him about.** On day 761 he came up that stair, could not get to his own end of the bench because a
+stranger had turned his chair into the gap, said out loud that he was not going to ask which of them had put it
+there, **and did not sit down on it**, and stood in the channel for the rest of the morning. On day 767 he laid
+that board face up on the bench at the near end at the tenth hour, kept his right hand flat on the face of it for
+the length of a minute in front of about nine people, and took it back under his arm without a word. On day 769
+he put the flat of his boot on another man's length of board and moved it a foot along the bench out of the light,
+and put his hand where the light had been standing. **Nobody said one word to him on any of the three days, which
+is §7.2's standing and is not a punishment this record is describing. He made no decision on any of these ten days
+and he is not the decider on any of them, and day 775 is the first and only decision of this volume and it is four
+days after the last chapter in this batch.**
+
+### THE WOMAN OF ABOUT FIFTY-TWO — SHE PAID THE FIRST COST ON DAY 764 AND SAID SO BEFORE ANYTHING ELSE
+
+**A stool she carried out of a room and left where anybody could sit on it; her hands at the sides of her dress at
+the eighth hour and at the tenth hour.** On day 764 she said out loud, in her own mouth and before she said anything
+else, that she is the only person in that room who knows who is not in it and that not having it out loud is the
+whole of what she has that is hers. **Nobody thanked her, nobody improved on a word of it, nobody asked her how she
+knows, and nothing was done about it. The repair's one addition is that the room emptied over the following hour,
+which was not a decision and which nobody voted on, and she was not thanked for that either and will not be.** At
+the seventh hour she sat down on that stool for the first and only time in this volume's fifty days. **She paid
+no second cost in this batch, and the plan's second cost is day 778 in the mouth of the man of about thirty-nine
+and the volume's resolution is day 795 with her own hands on the back of that stool.**
+
+### THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER — FIVE FIGURES, A DAY AGAINST EACH, AND TWO QUESTIONS ANSWERED
+
+**The register ruled in three columns with five figures standing down the middle of it in the order they were made
+in and a day set against each of the five, none struck through, nothing entered after them, nothing ever taken out;
+the second slate behind it on that same shelf with a day cut into the head of it and nothing under that day, never
+picked up, never turned over, never written on, and no hand but her own that ever goes near that shelf; and one
+word near the head of the column on the right of that page that is not in her hand.** She gave the figure at the
+fourth hour on day 762 and could not say at the tenth hour of day 770 what her own figure had been at the fourth
+hour of the same morning. **Nobody asked her where the room's figure came from, which is day 767's whole subject,
+and she said she did not know.** On day 768 she drew her book a foot and a half out of a shadow that came off the
+wall without her, read, and put it back in the same place without looking up. **She is asked two questions in this
+volume and answers both, and the second of them is a number, and it is day 787 and nothing is done about it.**
+
+### THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL — HIS CHALK DID NOT COME OUT OF THAT POCKET, AGAIN
+
+**His board is face in against his own trestle with the bare back turned out into the row, and his chalk is in his
+own inside breast pocket, and it did not come out of it on any of these ten days and has not come out since the
+six hundred and seventy-eighth.** He said the figure out loud on day 767 and said that he had never written it down
+and that nobody in that room had ever asked him where it came from, **to nobody in particular.** He fetched the
+water jug down that stair on day 764 because he could not stay in the room, and moved a forearm's length along that
+bench without being asked and did not move back. On day 770 he asked, out loud, since which morning the man with
+the barrow began, and got four different answers and four silences, and asked the woman of about twenty-nine at the
+tenth hour and was told she could not say. **He is not the decider in this volume and made no decision in this
+batch, and this is the fifth volume running in which that is true of him.**
+
+### THE MAN OF ABOUT THIRTY-EIGHT AT A SALT WHARF — NOBODY ASKS HIM ANYTHING IN THIS VOLUME, AND HE SPEAKS
+
+**A tally-board, a knife, a barrow, and a figure on the side the sun gets to.** He stopped on the top step of that
+stair on day 762 for the first time in the flood, gave a second figure that morning, and stood his barrow in a
+corner that had held nothing since the flood and put its shape into the damp wall behind it. He carried a length
+of board up into that room on day 769 and left it against a wall and went back down, and another man moved it a
+foot along that bench without asking him. **On day 765 he scraped a stone lip that Adrian Vale had wiped, found
+nothing on it for the edge of his knife to get into, heard a noise that knife had not made before, scraped it twice
+more, and stopped two-thirds of the way along it. On day 766 he stood his barrow a hand's breadth further off that
+wall than he had ever stood it, four times in one morning, and never gave a reason.** **Nobody asked him one word
+about any part of it, on any of these ten days, which is §7.2 and is not a debt this record is inventing.**
+
+### THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING — THE ONE THING IN THE SATCHEL, AND THE FLAP DOWN
+
+**A satchel with a flap and one thing he knows what is in, and the flap down at every hour of the whole flood.** He
+set it on the bench at the fourth hour of day 763 and went down and did not come up for five hours. **A stranger
+moved it to a shelf at the height of a person's shoulder. He came up that stair at the ninth hour, came the whole
+length of that room without one look anywhere else, put his right hand down on the strap in the exact place where it
+had been lying, took it, and went back down with the flap down against its own side and never once looked to see
+whether anybody was standing at the other end of the room.** **Nothing in that satchel is opened on any of these
+ten days and no chapter says why he opens nothing he carries, and his own hand on that flap is the last image of
+this volume on day 800.**
+
+### THE MAN OF ABOUT TWENTY-SEVEN — A BUCKET, A RAG, AND A WALL HE WASHED ONCE
+
+**One bucket, which is the only bucket in this city, and it is his, and it lies in the water at the low place in
+the stone at the side of that yard. A rag on the stone lip of that step, and it is not inside the trough.** He
+brought that bucket up that stair on day 761 and had to turn it on its side to get it down a room a chair's width
+narrower than it was. He said out loud on day 767 that there is a date in chalk on the outside of that door and no
+name on it and that he has carried water past it every morning of the flood and is not going to find out by
+asking anybody in that room. **He went back down out of that room on day 764 with the bucket rather than stay in it
+after the woman of about fifty-two had said what she had said, and said nothing about it then or afterwards.
+Nobody asked him anything on any of these ten days, which is §7.2's standing.**

@@ -508,3 +508,69 @@ DAY 775 — THE VOLUME'S ONE DECISION, THE COST NAMED FIRST IN THE MOUTH OF THE 
 ABOUT SEVEN WORDS, NO VOTE, NO NOTICE, NO EIGHTH DOCUMENT, NOBODY AGREEING, NOBODY ARGUING, NOBODY IMPROVING
 ON ONE WORD OF IT AND NOBODY THANKED — AND CARRIES THE FIGURE OUT OF THAT ROOM'S AIR FROM PAGE ONE OF DAY 776,
 WHERE THE NARRATOR MAY NOT PRINT IT EITHER.**
+
+---
+
+## VOLUME 16, BATCH 0002 — WHAT THE REPAIR PASS ON CHAPTERS 0761 TO 0770 OPENED, CLOSED, AND DID NOT TOUCH
+
+**A REPAIR PASS IS NOT A STORY EVENT. Nothing below is a development in the world and nothing below moves the
+volume's plot, its day map, its decision, its costs or its ending. What it did was put ten scenes back into
+chapters that had been built out of the assertion that nothing happened in them, and four of those scenes are
+threads the next batches may pick up because they are now on the page and were not on the page before.**
+
+### OPENED BY THE REPAIR, AND BECAUSE THEY ARE NOW ON THE PAGE
+
+1. **A SHELF THAT IS NOW A PLACE.** On day 763 a man put a stranger's satchel on the shoulder-height shelf for two
+   hours and left, and the man of about thirty-one came the whole length of that floor at the ninth hour without
+   one look anywhere else and put his hand down where the strap had been. **That shelf did not exist as a place
+   before the fourth hour of day 763 and it now does, in the room's own arrangement, with no chalk, no rule and
+   nothing written on it.** Nobody in that room said a word about it. A later batch may have somebody put a thing
+   down on that shelf. **It may not acquire a heading, a rule or an entry, and the one ruled place under the
+   sheet lying on it stays empty, because §5 spends it.**
+2. **A STOOL IN USE.** The woman of about fifty-two sat down on it on day 764, once, having carried it out of a
+   room and left it where anybody could sit on it and having told nobody she was keeping count. **It is the first
+   and only time in this volume's fifty days that anybody sits on it, and §7.2 gives her the back of it again on
+   day 795 when she is the only one who notices.** Nothing was settled by her sitting in it and nothing may be.
+3. **A MAN'S BARROW THAT STANDS A HAND'S BREADTH FURTHER OFF A WALL.** From day 766 the man of about thirty-eight
+   sets his barrow that far off the stack, every time, without a reason, and he will go on doing it. **It is a
+   permanent change to a yard made by a stranger and never explained, and it is exactly the kind of small durable
+   mark this volume is made of.** Day 771's business is a barrow taken out of a yard and left against a wall and
+   no figure on anything in it, and the next batch must not contradict the standing of this one.
+4. **A BENCH WITH TWO UNMARKED PLACES ON IT.** From the fourth hour of day 770 two pairs of hands have been on the
+   wood at the near end of that bench a forearm apart, and by the next morning there will be two places a shade
+   paler than the wood round them. **No person in that room knows they are there and nobody was told.** The bench's
+   ordinary wear is now a thread, and it is the same class of thing as the shelf, and a later phase may have a
+   hand find one of those places and have no idea what it is.
+5. **A WALL WITH A SHAPE IN IT.** Six hours of a barrow standing a foot off the wall on the near side of that room
+   on day 762 put a shape of that barrow into the damp face of that wall, and it will be gone by the middle of the
+   next day. **This one is short-lived and the next batch may let it go.**
+
+### CLOSED BY THE REPAIR, BECAUSE THEY WERE FAULTS AND NOT THREADS
+
+6. **THE QUESTION OF WHO WASHED THE BOARD ON THE OUTSIDE WALL IS CLOSED.** It was never an open thread; it was
+   chapter 0767's first writing putting a question into a mouth that §7.2 keeps shut. Removed, and not reopened.
+7. **THE SECOND BUCKET IS CLOSED.** There is one bucket in this city and it belongs to the man of about
+   twenty-seven, and chapter 0765's first writing had a second one. Not a thread and not owed by anybody.
+8. **THE ELEVEN-MILE ROUND TRIP TO A SHELF IN THE ROOM THE MAN WAS STANDING IN IS CLOSED.** Chapter 0763's first
+   writing; there is no shelf at the end of eleven miles of flats.
+
+### NOT TOUCHED BY THE REPAIR, AND NAMED SO THAT IT IS NOT TOUCHED BY THE NEXT ONE EITHER
+
+9. **THE VOLUME'S ONE DECISION IS STILL DAY 775 AND IS NOT PRE-FIGURED BY ANYTHING IN THESE TEN FILES.** Nothing in
+   chapters 0761 to 0770 looks forward to it, nothing in them is a rehearsal of it, and no mouth in them knows it
+   is coming. **Day 761's refusal and day 767's silence are a man's manners, not a decision, and the plan's own §7.2
+   is that he makes no decision in this volume except on 775.**
+10. **THE FIGURE IS STILL IN ITS OWN USE ON ALL TEN OF THESE DAYS AND IS SPENT ON DAY 775.** It is said aloud on
+    five of these ten and in no mouth on the five days Adrian Vale is in, and it goes out of that room's air from
+    page one of day 776 and the narrator may not print it on any day from 776 to 800.
+11. **THE THREE COSTS ARE STILL THREE, ON DAYS 764, 778 AND 795, AND THE REPAIR ADDED A FOURTH KIND OF COST ON
+    DAY 764 THAT IS NOT A COST OF RECORD.** The woman of about fifty-two said what her own cost was, in her own
+    mouth, before she said anything else. What the room then did about it — it emptied — is not a cost of record
+    and nobody may number it as one, and it cost nobody anything that the plan is going to spend.
+12. **THE PANEL IS STILL DAY 787 AND IS STILL HANDED TO THE NEXT BATCH AS A DAY AND NOT AS WORDS.** The repair did
+    not touch day 787, did not pre-figure it, and did not reprint its wording.
+13. **THE INDEPENDENCE DEBT IS UNCHANGED AND IS NOT A THREAD THAT A WRITER CAN CLOSE.** The review of this batch ran
+    the writer's own agent where it meant to run the reviewer, `reviews/volume-16/` does not exist, and this repair
+    was written and checked by the same agent that wrote the batch. **The two instruments that verified the repair
+    are not independent of the prose they verified, and the debt is owed by a human and is now the fourth time it
+    has been named in this volume.**

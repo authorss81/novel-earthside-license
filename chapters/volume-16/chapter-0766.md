@@ -1,29 +1,45 @@
 # Chapter 0766 — Two Boards Off The Top Of That Stack
 
-Both of Adrian Vale's hands were under the top two boards of that stack and he lifted them up off it one after the other and set them on their ends against the low side of that yard wall about a foot apart, and he put his own fingers under nothing else on the stack at any hour of that day.
+The four hundred and fifty-first day of the Bare Month was a Thursday, and the weather was four hours away still. The top of that stack was the driest piece of ground in that yard.
 
-It was about the fourth hour on the four hundred and fifty-first day of the Bare Month, a Thursday, at that salt wharf at the near end of eleven miles of flats, and the weather came up over the far end of those flats at about the sixth hour and was over the yard by the seventh.
+He put his hands under the top two boards of that stack and lifted them off it one after the other and stood them on their ends against the low side of the yard wall about a foot apart.
 
-That stack has stood in the corner of that yard where the wall of it goes down to the flags for the whole of this flood. On the top of it a board has lain face up since the flood came, with two lines of grey grit lying across the face of it where the weather has put them and a clean piece at the near edge of that face where the wood is bare and no grit of any kind has ever got to it. That board has not been wiped, has not been turned, and has had no hand laid on it at any hour since the flood came, and there is no third line of grey grit on it.
+That stack had stood in the corner of that yard where the wall of it goes down into the flags for the whole of the flood. It had not been moved and it had not been measured, and nothing in that yard had ever been stacked on it by a second person. On the top of it a board had lain face up since the flood came, with two lines of grey grit lying across the face of it where the weather had put them. At the near edge of that face there was a clean piece where the wood was bare, and where no grit of any kind had ever got to.
 
-He took the two boards off the top of that stack at the fourth hour because the two of them had been lying across that face and had kept the rain off it every morning of this flood, and when the two of them were off, the whole of that face was standing up in the open with nothing over it at all.
+He put the flats of his hands flat on the top of the stack either side of that board and left them there, and he did not touch that board. He did not wipe it and he did not turn it and he did not put a finger on the face of it, and his fingers stayed off the wood of it for the rest of that day.
 
----
+He took the two boards off because the two of them had been lying across that face and had kept the rain off it every morning of the flood. Once they were off, the whole of that face was standing up in the open with nothing over it at all.
 
-He wanted the clean piece at the near edge of that face kept out of the rain, and there are only two ways to do that with a board lying face up on a stack and one of them is to turn it and one of them is to put something over the top of it.
-
-He stood on the flags at the low side of the yard wall with the two boards on their ends against it about a foot apart, and he looked at the clean piece at the near edge of that face, and he did not turn that board over and he did not put either of those two boards on the top of the stack again, because the board is not his and nobody in this city has asked him what to do with it and a thing that has lain face up in the weather through a whole flood is not improved by a stranger standing a board over the top of it.
-
-At about the seventh hour the rain came onto that stack and ran across it and down onto that face and across the clean piece at the near edge of it, and the grit on that face let the water into the bare wood and the bare wood went the colour of wet ash along about a hand's breadth of its own length.
+There were two ways to put a clean piece of wood out of the rain on a board lying face up on a stack, and he knew both of them. One of them was to turn the board over. The other was to put something over the top of it.
 
 ---
 
-At about the eighth hour the man of about thirty-eight came into that yard with his own knife in his belt and his own barrow where he always brings it, and stopped in the corner where the stack stands, and that stack was two boards shorter than it was at the fourth hour and the top of it was running with water.
+He stood on the flags at the low side of that yard wall with the two boards on their ends against it a foot apart and looked at the clean piece at the near edge of that face for a while.
 
-"**That stack was full at the light yesterday and it is two boards short this morning and the boards are standing on their ends against my wall, and I have not asked anybody about those two and I am not going to, and I am going to use my own barrow.**"
+The board was not his. Nobody in that city had asked him what to do with it, and a thing that has lain face up in the weather through a whole flood does not get improved by a stranger standing a board over the top of it. So he left it lying there with the sky on it, and he put the two boards against the wall where he had put them, and he did not put either of them back.
 
-Nobody in the yard was asked. He put his own barrow down against the stack where it stands, which meant he had to stand his own barrow a hand's breadth further off the wall than he stands it, and he did that every time he came into that yard for the rest of that morning, and he said nothing about that either, and Adrian Vale was not in the yard at the eighth hour and was told none of it.
+The weather came up over the far end of those flats at about the sixth hour and was over that yard by the seventh.
+
+It came onto the stack and ran across the top of it and down onto that face and across the clean piece at the near edge. The grit lying on that face let the water into the bare wood instead of off it, and the bare wood went the colour of wet ash along about a hand's breadth of its own length.
+
+It did not go dark all over. Two lines of grey grit were still lying across the rest of that face after the rain had gone, and there was no third line of grit on it.
 
 ---
 
-At about the tenth hour that stack was two boards shorter than it was at the fourth hour and those two boards were standing on their ends against the low side of that yard wall about a foot apart with the rain gone out of them, and the clean piece at the near edge of that face was a darker colour than the wood round it and it had dried again by then, and there was no third line of grey grit lying across that face, and the man of about thirty-eight had stood his own barrow a hand's breadth further off that wall four times that morning without once saying so.
+The man of about thirty-eight came into that yard at about the eighth hour with his knife in his belt and his barrow where he always brings it, and stopped in the corner where the stack stands.
+
+That stack was two boards shorter than it had been at the fourth hour, and the two boards were standing on their ends against the wall about a foot apart with the rain gone out of them, and the top of the stack was running.
+
+"**That stack was full at the light yesterday and it is two boards short this morning, and the boards are standing on their ends against my wall, and I have not asked anybody about those two and I am not going to, and I am going to use my own barrow.**"
+
+Nobody in that yard was asked anything. He put his own barrow down against the stack where he puts it, which meant standing it a hand's breadth further off that wall than he stands it. There was nothing on the top of that stack now to set it against. He did that every time he came into that yard for the rest of the morning. He came in four times after that and stood it in the same place four times and said nothing about the four times, and Adrian was eleven miles away and was told none of it.
+
+---
+
+At about the tenth hour the rain had gone out of the air and the two boards were standing on their ends against that wall with the water running off the bottom of them and standing in a long shape on the flags under them.
+
+That clean piece at the near edge of that face was a darker colour than the wood round it and it had dried again by then, and it would stay that colour for the rest of that flood, because wood does not go back.
+
+There was no third line of grey grit lying across that face. There were two, where there had always been two, and a hand's breadth of wet ash at the near edge where there had been nothing at all.
+
+From that day on the man of about thirty-eight stood his barrow a hand's breadth further off that wall than he had stood it in any morning of his life, and he never once gave a reason for it.

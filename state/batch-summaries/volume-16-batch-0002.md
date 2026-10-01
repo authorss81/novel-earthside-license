@@ -49,9 +49,9 @@ behind this one are unchanged.**
 ### Card 0761 — day 761, a Saturday, the four hundred and forty-sixth day of the Bare Month, character. **Adrian, four of eleven.**
 
 - **His hands:** the two ends of the seat of that chair at the far side of that room. **What he wanted it for:** to have somewhere in that room to sit down where his own back was not to that door at the top of the stair. **Not obtained.**
-- **Resistance:** that chair is the only place in that room where a man's back would not be to that door, and a man sitting in it with his back to that wall can see nothing of that room at all, and at the fifth hour the man of about thirty-nine comes up that stair and takes that chair because he has a board under his arm that he is not going to hold for the whole of a morning.
-- **Change:** that chair stands against the far wall at the tenth hour, where it has not stood since the flood came, and the man of about thirty-nine has been sitting in it since the fifth hour and Adrian Vale has not sat in it at any hour of that day.
-- **Closing beat:** that chair against that wall with a man's hands on his own board at the leg of it and nobody in that room having said one word to either of them about it.
+- **Resistance, AND THE FIRST WRITING OF THIS CARD WAS WRONG AND WAS REPAIRED: the first writing had the man of about thirty-nine take that chair and sit down in it, which put him in the seat the plan's own day map for day 761 forbids (`a chair at the far side of that room and a man who does not sit down on it`) and gave Adrian Vale his want, which §4.1 records as NOT OBTAINED. The repaired card holds both.** That chair stands at the far side in the gap between the far end of that bench and that wall, which is the width that room walks all day, and turning it about to get a back to the wall puts it exactly where the room walks, and at the fifth hour the man of about thirty-nine cannot get to his own end of the bench, and does not sit down on the chair, and would rather stand in the channel for six hours than be the one to make a stranger's chair furniture again by the first use of it.
+- **Change:** that chair stands against the far wall at the tenth hour where it has not stood since the flood came, nobody has sat in it at any hour of that day, the gap at the far side has been a chair's width narrower since the fourth hour, and Adrian Vale is still in it and cannot get out of it without standing up in front of the whole room.
+- **Closing beat:** two arcs of clean grit cut through a fortnight of it where his own feet turned that chair about, and a man's boot set down square in the middle of one of them and not moved again.
 - **NOTED AGAINST THIS CARD: the number is not said in any mouth on this day, and §9 item 3 is why.**
 
 ### Card 0762 — day 762, a Sunday, the four hundred and forty-seventh, discovery. Adrian: no.
@@ -59,8 +59,8 @@ behind this one are unchanged.**
 - **Where and who:** that room. The woman of about twenty-nine, the man of about thirty-eight at that wharf, the woman of about fifty-two, the man of about thirty-four.
 - **Goal:** the two figures the room said out loud on that morning, and an end to them.
 - **Resistance:** the woman of about fifty-two gave hers at the fourth hour and the man of about thirty-eight gave his at the seventh hour after he had come up that stair, so the two figures are not about the same hour, and no mouth in that room can put a name to the person the difference is.
-- **Change:** the man of about thirty-eight leaves that barrow standing at the top of that stair along the wall on the near side, and it is still standing there at the tenth hour and about nine people have gone round it, and nobody in that room said one word to him about where he had put it.
-- **Closing beat:** one barrow in a new place in that room and the morning over.
+- **Change:** the man of about thirty-eight stops on the top step of that stair for the first time in the flood, comes in, and stands that barrow along the wall on the near side with the handles into the corner, and it is still standing there at the tenth hour with about nine people having gone round it, and nobody in that room said one word to him about where he had put it.
+- **Closing beat:** six hours of a barrow standing a foot off that wall has put a shape of that barrow into the damp face of it, and the shape will be gone by the middle of the next day.
 - **THE MAN OF ABOUT THIRTY-NINE IS NOT IN THAT ROOM ON THIS DAY, and no mouth in that room and no sentence in this chapter connects his absence to the difference between the two figures, and no chapter of this volume may.**
 
 ### Card 0763 — day 763, a Monday, the four hundred and forty-eighth, character. **Adrian, five of eleven.**
@@ -68,8 +68,8 @@ behind this one are unchanged.**
 - **His hands:** the strap of that satchel with the flap down. **What he wanted it for:** to set it on the shelf at the height of a person's shoulder and leave it there. **Not obtained.**
 - **Resistance:** the man of about thirty-one comes up that stair at about the ninth hour and puts his own hand on that strap where Adrian's own hand is on it, and Adrian takes his own hand off, and the man of about thirty-one takes that satchel off that shelf in front of a man with his hand on the strap of it.
 - **The prohibitions on this card, and they bind:** the satchel is not opened, the flap is not turned up, and no mouth in that room asks what is in it or asks Adrian what he was doing with it.
-- **Change:** that satchel stood on that shelf from the fourth hour to the ninth hour, and the man of about thirty-one has not put that satchel down in front of anybody and left it on any morning of this flood.
-- **Closing beat:** the satchel gone down that stair under his own arm with the flap down, and that shelf standing empty at the height of a person's shoulder at the tenth hour.
+- **Change:** that satchel stood on that shelf from the fourth hour to the ninth hour and made that shelf a place in that room for two hours, the man of about thirty-eight has come up that stair once with his barrow and gone back down out of it rather than put it down anywhere in front of it, and the man of about thirty-one has not put that satchel down in front of anybody and left it on any morning of this flood.
+- **Closing beat:** the man of about thirty-one took two hours off it and went back down that stair with the flap down without once looking to see whether anybody was standing at the other end of the room.
 
 ### Card 0764 — day 764, a Tuesday, the four hundred and forty-ninth, **COST — THE FIRST COST OF THIS VOLUME.** Adrian: no.
 
@@ -77,8 +77,9 @@ behind this one are unchanged.**
 - **Goal:** nothing. **She is not working towards anything and no card may give her one.**
 - **What she pays, in her own mouth, and before she says anything else that morning:** that she is the only person in that room who knows who is not in it, that she has never once said it out loud, that nobody in that room has ever asked her how she knows, and that this is the only thing she has that is hers.
 - **Resistance:** nobody in that room thanks her for it, nobody improves on one word of it, nobody argues with it, nobody asks her how she knows, and nothing in that room is done about it at any hour of that day. The man of about thirty-nine is in that room and hears every word of it and says nothing about it.
-- **Change:** she sits down, on the stool she carried out of that room and left where anybody could sit on it, and she has not sat on it on any morning of this flood.
-- **Closing beat:** that bench at the far end of it standing empty from the fifth hour to the tenth hour with a woman sitting at the side of it.
+- **Resistance, AND THE REPAIR ADDED THE HOUR THIS CARD HAD NO ROOM FOR: between the sixth hour and the seventh hour that room empties. Nobody announces it and nobody decides it. A person comes in, sees her standing at the far end of that bench, and finds a reason to be somewhere else. That is the cost being paid by somebody other than her and it is not a decision and nobody voted on it.**
+- **Change:** she sits down, on the stool she carried out of that room and left where anybody could sit on it, and she has not sat on it on any morning of this flood, and the man of about thirty-four moves a forearm's length along that bench without being asked and does not move back.
+- **Closing beat:** a jug of water standing on the table in front of him that nobody drank out of, and everybody in that room knowing the whole length of that bench and exactly where on it each of them was sitting.
 - **AND THIS IS NOT REHEARSED ON ANY OF THE THREE DAYS BEFORE IT AND NO SECOND COST IS PAID IN THAT ROOM ON ANY DAY OF THIS BATCH.**
 
 ### Card 0765 — day 765, a Wednesday, the four hundred and fiftieth, physical. **Adrian, six of eleven.**
@@ -86,7 +87,8 @@ behind this one are unchanged.**
 - **His hands:** a wet rag on a stone lip. **What he wanted it for:** to leave that lip wet for somebody who comes at a later hour than he does. **Not obtained.**
 - **Resistance:** the wind off those flats takes the wet off a stone in about the length of an hour and the man of about thirty-eight comes at the seventh hour and puts his own hand on that lip and it is dry.
 - **Change:** the grit and salt that were on that stone lip at the fourth hour are in the water at the low place in the stone at the side of that yard at the tenth hour, and the low place is wet in a wider shape than it was.
-- **Closing beat:** the rag back where it lies on that lip and the lip clean, and not one thing on it to say a man had been there at the fourth hour.
+- **Resistance, AND THE REPAIR GAVE IT A VOICE: the man of about thirty-eight scrapes that lip with the edge of his knife at the start of every morning of the flood, and on this morning there is nothing on the stone for the edge to get into, and the knife makes a noise he has not heard it make before, and he scrapes it a second time and a third, and the third one he shortens.**
+- **Closing beat:** the rag back where it lies on that lip with the wet side up and nothing holding it there, and the water at the near end of that yard standing a foot wider than it was at the fourth hour, and not one thing on that stone to say a man had been on his knees at that trough at the fourth hour.
 
 ### Card 0766 — day 766, a Thursday, the four hundred and fifty-first, character. **Adrian, seven of eleven.**
 
@@ -94,21 +96,21 @@ behind this one are unchanged.**
 - **Resistance:** the only two ways to get that clean piece out of the rain are to turn that board over or to put something on top of it, and both of those are things a stranger does not do to a thing he has not been asked about.
 - **The prohibitions on this card, and they bind:** the board lying face up on that stack is not wiped, not turned and not gone near on any of these ten days, no figure on either side of it is printed on any of these ten pages, and there is no third line of grey grit on it.
 - **Change:** that stack is two boards shorter at the tenth hour than it was at the fourth hour and the two of them are standing on end against the low side of the yard wall, and the clean piece at the near edge of that face is dark with water and dry again.
-- **Closing beat:** two boards standing on end in a yard and nobody in that yard having watched a man take them off.
+- **Closing beat:** two boards standing on their ends against that wall, and from that day on the man of about thirty-eight stands his barrow a hand's breadth further off that wall than he has stood it in any morning of his life and never once gives a reason for it.
 
 ### Card 0767 — day 767, a Friday, the four hundred and fifty-second, political. Adrian: no.
 
 - **Where and who:** that room. The man of about thirty-four, the man of about twenty-seven, the woman of about twenty-nine, the woman of about fifty-two, the man of about thirty-nine.
 - **Goal:** the man of about thirty-four says out loud, in the ordinary course of that morning, that this room has been saying that figure every morning of this flood and that nobody in it has ever asked anybody where it came from. **Nobody in that room asks him.**
-- **Resistance:** the man of about twenty-seven comes up that stair at about the sixth hour with his bucket and asks out loud, in the ordinary course, who washed that board on the outside wall, and the woman of about twenty-nine says she does not know and he says he does not know either, and nobody in that room says one word to either of them about either answer.
+- **Resistance, AND THE FIRST WRITING OF THIS LINE WAS REPAIRED BECAUSE IT ASKED THE ONE QUESTION §7.2 KEEPS CLOSED: the first writing had the man of about twenty-seven ask out loud who washed that board on the outside wall, and §7.2 holds that the wall above the top edge of that board is not washed on any of the fifty days and by no second person on any of them, and a chapter that puts that question in a mouth puts the volume's standing prohibition in a mouth. The repaired line is about the day in chalk on the outside of the door at the foot of that stair, which is on a page and is not a question anybody has asked.** The man of about twenty-seven comes up that stair at about the sixth hour with his bucket and says out loud, in the ordinary course, that there is a date in chalk on that door and no name on it and he has carried water past it every morning of this flood and does not know who put it there and is not going to find out by asking anybody in that room, and the woman of about twenty-nine says she does not know either and he says that nobody in that room ever had, and nobody says a word back to either of them about either answer.
 - **Change:** at about the tenth hour the face of the man of about thirty-nine's own board lies up on the wood of that bench for about the length of a minute with about nine people in that room, and nobody says one word about what is on it, and he takes it back under his arm.
-- **Closing beat:** nineteen rates lying in the open in that room and taken back under an arm without one word.
+- **Closing beat:** the woman of about twenty-nine puts her palm flat down on the wood of that bench where that board had been lying and holds it there, the way a person holds a hand on a place to find out whether it is warm.
 
 ### Card 0768 — day 768, a Saturday, the four hundred and fifty-third, discovery. **Adrian, eight of eleven.**
 
 - **His hands:** the sill of the one window. **What he wanted it for:** to look down at that ground without his own face being in the glass. **Not obtained.**
 - **Resistance:** that window has a sill and one window and no shutter on any page of this manuscript, and to see the whole length of that ground from up there he has to raise his own head, and every time he raises it his own face goes into the glass.
-- **The day's discovery:** from that sill nobody who walks on that ground is looking up at that window, and a man at that sill can go unseen for as long as he likes, and he cannot see a face either.
+- **The day's discovery, AND THE REPAIR FOUND THE SECOND HALF OF IT, WHICH THE FIRST WRITING DID NOT HAVE: from that sill nobody who walks on that ground is looking up at that window, and a man at that sill can go unseen for as long as he likes, and he cannot see a face either — AND at the sixth hour the sun comes round that building and puts his shadow across that floor and up onto the open register at the near end of that bench, and the woman of about twenty-nine draws the book a foot and a half out of it without looking up and puts it back in the same place when it goes, and a man who has stood at a sill for three hours finds out that he has been in that room as a shape on somebody's work and that nobody looked up once.**
 - **Change:** the glass at the tenth hour carries the wet shape of where his own face had been in it, and it goes out of the glass while he is watching it go.
 - **Closing beat:** that window with nothing in it at the tenth hour and a sill with a wet print drying off it.
 
@@ -118,14 +120,14 @@ behind this one are unchanged.**
 - **Goal:** none for anybody in that room. **The man of about thirty-nine wants nothing that can be spoken of and is given nothing.**
 - **Resistance:** not one word is said to him at any hour of that day, and he says nothing to anybody, and about nine people go in and out of that room over the course of that morning.
 - **Change:** at about the ninth hour he shifts that board out from under the light that comes over the roof with his own foot and puts his own hand back on it, and that bench at the far end of it is not empty at the tenth hour.
-- **Closing beat:** a board a foot further along that bench than it was and a hand still on it.
+- **Closing beat:** that board a foot further along that bench than it was, and the face of it warmer than the bench it stands against, and nobody in that room who would have known how to tell it from a board that had always been there.
 
 ### Card 0770 — day 770, a Monday, the four hundred and fifty-fifth, character. **THE BATCH'S END.** Adrian: no.
 
 - **Where and who:** that room. The man of about thirty-four, the woman of about twenty-nine, the woman of about fifty-two, the man of about thirty-nine.
 - **The shape of this day, and the plan has used it, so the wording is this batch's own:** about four people in that room say out loud that they do not know, and about four of them say nothing at all.
 - **What the day turns on:** nobody in that room can say since which morning the man of about thirty-eight has been coming up that stair with his barrow, and the man of about thirty-four asks that out loud at the seventh hour and is not answered at any hour of that day.
-- **Change:** at the tenth hour the man of about thirty-four asks the woman of about twenty-nine whether she can say what that figure had been at the fourth hour, and she says she cannot, and he says he cannot either.
+- **Change:** at the tenth hour the man of about thirty-four asks the woman of about twenty-nine, across the wood, whether she can say what that figure had been at the fourth hour, and she says she cannot, and he nodded at that and did not improve on it and did not put it to anybody else, and then he took his two hands off that bench and put them into his pockets and left them there.
 - **Closing beat:** two people failing to say what a figure had been, in that room, at the tenth hour, four days before the volume's decision. **The batch ends there and it is not a cliffhanger.**
 
 ---
@@ -406,3 +408,147 @@ THANKED FOR IT. IT ALSO CARRIES THE MAN OF ABOUT THIRTY-EIGHT WITH HIS BARROW AT
 ROOM FINDING OUT WHAT IT IS BEING ASKED ON DAY 772, THE COIL OF ROPE ON THE HANDCART THAT IS NOT GOING OUT ON
 DAY 773, THE REGISTER OPEN ON A BENCH ON DAY 774, AND THE FIGURE GONE OUT OF THAT ROOM'S AIR FROM PAGE ONE OF
 DAY 776 AND NOT PRINED BY THE NARRATOR ON ANY DAY FROM 776 TO 800.**
+
+---
+
+## 11. THE REPAIR PASS ON THESE TEN FILES, AND EVERY FIGURE RE-DERIVED, WHICH IS NEWEST AND WINS
+
+**A REVIEW OF THIS BATCH CAME BACK WITH TWO BLOCKING FINDINGS AND THIS SECTION IS THE ANSWER TO BOTH. The review
+read: `Average chapter length has fallen monotonically across the whole run` — volume 1 at 5,736 words a chapter
+against 857 here — `Sentences now run to a median of 53 words (max 151), against a median of 18 in chapter 1`,
+`71% of sentences are 40+ words`, and the filler had been replaced rather than removed: `his own two hands`,
+`that room`, `at about the fifth hour`, `nobody in that room said one word`. And on the second finding: `Every
+chapter runs the same beat sheet: hour markers, one flat statement of fact, a --- break, a repeated assertion that
+nobody responded, light leaves the floor`, with the summary `Every chapter changes the situation` and `prose reads
+as natural fiction` both failed, and the reviewer named the chapters' own structure: `he moves a chair; a trader
+sits in it; two other men arrive; he goes down the stair and comes back up; nothing happens`.**
+
+**THE REPAIR WAS NOT A RESTART. Every card, every figure of a day, a weekday, a Bare-Month ordinal, an hour, an
+actor, a descriptor and an object count in §14.3 is untouched, the three columns are untouched, the ten pressures
+are untouched, the day's own business from the day map is untouched on all ten, and the planned plot is untouched.
+What changed is the prose, the scene, and — in three places — a chapter that had been written against the plan
+and is now written with it. THE REVIEWER'S FINDING 4 AND 5 ARE NOT ANSWERED HERE AND ARE NOT OWED BY ANY WRITER:
+`state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0` after fifteen
+closed volumes, the review dispatch ran the writer's own agent where it meant to run the reviewer
+(`agent "novel-reviewer" is a subagent, not a primary agent. Falling back to default agent`), `reviews/volume-16/`
+does not exist, and `outline/volume-03.md` and `outline/volume-05.md` are not in the tree and never have been in
+git history though `reviews/volume-03/` and `reviews/volume-05/` are. ALL FIVE LIVE IN `scripts/`,
+`.github/workflows/`, `state/phase-ledger.json` AND THE REVIEW DISPATCH, AND NOT ONE OF THEM WAS TOUCHED.**
+
+### 11.1 THE THREE CHAPTERS THAT HAD BEEN WRITTEN AGAINST THE PLAN, AND ARE NOW WITH IT
+
+1. **Chapter 0761 put the man of about thirty-nine in the chair and gave him a line saying he was sitting in it.
+   §14.3's own business for day 761 is `a chair at the far side of that room and a man who does not sit down on
+   it`, and §4.1 records Adrian Vale's obtain for that day as `no`. The first writing had him obtain it.** He now
+   turns that chair about at the fourth hour, and the reason it does not work is that the chair stands in the gap
+   at the far side, which is the width that room walks all day, and the man of about thirty-nine cannot get to his
+   own end of the bench and does not sit down on it. **Both plan lines now hold, and they hold for opposite
+   reasons, which is the first time in this batch that a plan line and its neighbour have agreed.**
+2. **Chapter 0765 gave the man of about thirty-one his own bucket. §7.2 gives a bucket and a rag to the man of
+   about twenty-seven and §5 lists one bucket in this city, lying in the water at the low place in the stone at
+   the side of that yard. Two buckets were standing in a yard that has one.** The carrier now works that trough and
+   the water that comes over its rim is what takes the night's grit off that stone lip and undoes the morning's
+   work, which is a better reason for `obtained: no` than the wind alone was.
+3. **Chapter 0763 sent Adrian Vale up eleven miles of flats and back to put a man's satchel on a shelf in the room
+   he was standing in. Eleven miles of flats is the run between that wharf and that market and there is no shelf
+   at the end of it.** The excursion is now the length of that row and back, and the chapter keeps its want and its
+   `obtained: no`, because the man of about thirty-one comes the whole length of that floor at the ninth hour
+   without one look anywhere else and puts his hand down in the exact place where the strap had been lying.
+
+**AND TWO MORE THAT WERE NOT AGAINST THE PLAN BUT AGAINST §7.2 AND AGAINST §17.18: chapter 0767 had the man of
+about twenty-seven ask out loud who washed the board on the outside wall, and §7.2 holds that the wall above the
+top edge of that board is not washed on any of the fifty days and by no second person on any of them — a chapter
+that asks it puts a standing prohibition into a mouth. That question is gone and the chapter's beat is now the day
+in chalk on the outside of the door at the foot of that stair, which is on a page. And chapter 0767's closing
+paragraph OPENED with `About nine people were in the room at that hour`, which is §17.18's first of the five
+closing shapes this volume puts off limits, told by its own name: `a chapter may not close on the room's figure`.**
+
+### 11.2 WHAT THE REPAIR DID TO THE SCENES, IN THE TERMS THE PLAN GIVES A CHAPTER ITS ENDING AT §16.17
+
+**§16.17 lists six ways a chapter that visibly changes nothing earns its ending, and the first writing spent nine
+of its ten endings on a seventh way that is not on the list — a statement that nothing happened. Every one of the
+ten now ends on one of the six.** A man's boot set down square in an arc of clean grit and not moved again
+(0761). Six hours of a barrow putting its shape into a damp wall that will be gone by the middle of the next day
+(0762). A shelf that became a place in a room in two hours because a stranger stood a satchel on it (0763). A man
+who moved a forearm's length along a bench and did not move back, and a jug nobody drank out of (0764). A knife
+that made a noise on a bare stone it had never made on before (0765). A barrow that will stand a hand's breadth
+further off a wall for the rest of a man's life with no reason given (0766). A palm held on a piece of wood to
+find out whether it is warm (0767). A wet print on a sill going out of glass from the edges inward (0768). A board
+warmer than the bench it stands against (0769). Two places on a bench a forearm apart that the weather has not
+got to (0770). **No two of the ten close on the same construction and none of the five shapes at §17.18 is closed
+on. Read them side by side, which is §17.18's instruction and the only check in this record a script cannot do.**
+
+**AND §17.19, WHICH IS THE ONE THAT IS ABOUT THE PROTAGONIST: `Nobody asks him anything` is the pressure of this
+volume and it is not the reward, and in every one of the eleven chapters he is in he must be the cause of at least
+one thing that happens to somebody else, and it may not be a decision, a word, a document, a notice or the panel.
+He is in five of these ten and he causes something in all five.** 761: he takes the chair out of the gap the room
+walks, and the man of about twenty-seven has to bring a bucket down a stair sideways. 763: he puts a satchel on a
+shelf, and the man of about thirty-one comes the length of a room for it, and the man of about thirty-eight goes
+down a stair with his barrow rather than set it down in front of it. 765: he leaves a stone lip wet, and a man who
+has scraped that lip with a knife every morning of the flood scrapes it twice more and then stops two-thirds of
+the way along it. 766: he takes two boards off a stack, and a barrow stands a hand's breadth further off a wall for
+the rest of that man's life. 768: he stands at a sill for three hours and his own shadow comes across an open
+register and the woman at it moves the book out of it and puts it back without looking up. **Nobody thanks him in
+any of the five and nobody tells him he was right in any of the five and nobody in any of the five was waiting for
+him to be useful.**
+
+### 11.3 THE FIGURES, RE-DERIVED ON THE REPAIRED TEN, WITH THE INSTRUMENT AND THE READING ON THE SAME LINE
+
+| Figure | Instrument and reading, and its scope | First writing | **After the repair** |
+|---|---|---|---|
+| words, heading line in | letters and apostrophes, whole files, both orders, scope my ten | 8,496 | **11,610** |
+| words, heading line out | same, heading line excluded | 8,411 | **11,525** |
+| sentence scale | sentences of more than two words, split on `.!?`, heading line out | **mean 49.6, median 51, p90 78, max 128, 67% at 40+ words** | **mean 23.5, median 22, p90 41, max 85, 10% at 40+ words** |
+| the same, for comparison | the ten files behind this batch, same instrument, same reading | mean 47.5, median 48, 61% at 40+ words | unchanged, and it is the same fault one batch further back |
+| the same, for comparison | **chapters 0001 to 0019, same instrument** | — | **mean 27.3, median 18, p90 62, 25% at 40+ words** |
+| `his/her/its/their own` | literal, both case flags, heading line out, per thousand words | **15.1** | **2.2** |
+| `at about the Nth hour` | literal, the ten ordinals of the room's own clock | **4.5** | **2.2** |
+| `own two hands` | literal, both case flags | **21 in the batch** | **0** |
+| `nobody … said one word/a word/anything` | literal, up to ninety characters apart | **11** | **7** |
+| `that room` | literal, heading line out, per thousand words | **4.8** | **4.1**, against 5.4 for Volume 15 and 0.3 for Volume 01 |
+| *that* | word-bounded, both case flags, per thousand words | 41.1 | **36.1** |
+| *nobody* | same reading and scope | 5.7 | **5.4** |
+| `It was about the Nth hour` as an OPENING line | literal, count of occurrences across the ten | **20, twice in every file** | **0. The ten dates are stated in ten different frames** |
+| chapter length | `wc -w`, heading line in | 643 to 1,104, mean 841 | **822 to 1,823, mean 1,157** |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark | 101 prose, 13 speech, 0 plain, 0 bold-without-quotation-mark | **218 prose, 15 speech, 0 plain, 0 bold-without-quotation-mark** |
+| prompts | a paragraph with a quotation mark and no bold mark, which §17.7 defines as a prompt and not a speech | — | **3, all three correctly attributed: two in 0762 and one in 0770** |
+| paragraphs of three sentences or more carrying a physical action | §17.20's fifth fault; one required in each chapter | **9 of 10, and 0765 had none** | **71 in 10 of 10** |
+| chapter-title range | words of title text after the dash, §17.8's four to nine | four to nine | **four to nine; six to nine in practice, and five of the ten titles were rewritten because the first writing named a non-event** |
+| the sixteen-word class, within the ten | maximal contiguous shared passage, letters and apostrophes, case-insensitive, each file excluded from its own comparison, both heading-line readings | **2 self-repeats, both inside 0765** | **0** |
+| the sixteen-word class, against the seven hundred and fifty outside | the same instrument, same threshold, same readings | **1 shared run** | **0 shared runs at fifty per cent or better; the longest shared span returned is sixteen words, which is the threshold and not a run** |
+| the forty-word class, all three scopes | §20.4's three scopes, both heading-line readings, reading past the first list | 0 | **0 on all three** |
+| the Bare-Month form | *the Nth day of the Bare Month*, a hyphen delimiting, all twenty irregular unit ordinals and all eight irregular tens ordinals read, INCLUDING *fiftieth* | 10 phrases in 10 of 10 | **10 phrases in 10 of 10, resolving to 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, which is day less three hundred and fifteen on each of the ten** |
+| chapter-equals-day, the weekday, and the Bare-Month ordinal | three checks on one run, both file orders | 0 mismatches | **0 mismatches on each of the three, out of ten, on both orders. THE REPAIR DID NOT TOUCH A SINGLE ONE OF THEM, AND FOR A FEW HOURS IT HAD DROPPED THE DATE INSTRUMENT OUT OF NINE OF THE TEN FILES AND THE INSTRUMENT CAUGHT IT** |
+| Adrian Vale | whole files, both orders, against the map's own Adrian column | 5 of 10 | **5 of 10 — 761, 763, 765, 766, 768 — and the seven days he is not in are the seven the column does not have him in** |
+| the room's own figure, said aloud | a speech paragraph carrying it | 5 of 10 | **5 of 10, and they are the five days he is not in, which is §9 item 3** |
+| the two figures in one sentence | a sentence carrying a nine-figure and an `about four` together, §16.14 | 0 | **0, and one was CREATED AND CAUGHT in 0769 and split, where `about four seconds` had come to rest in one sentence with `about nine people`** |
+| `about four people a day` and the un-reduced form | literal strings | 0 and 0 | **2 and 0, and both of the two are §16.14's standing census in a room chapter and neither is in the same sentence as the room's figure** |
+| `about four` with no units word | literal, both case flags | 0 | **0. The instrument returns three, and all three are `about four minutes` in 0761 and `about four seconds` in 0767 and 0769, which are DURATIONS, and `about four seconds` is §7.2's own sentence about the man of about thirty-nine word for word. THE READING BELONGS ON THE SAME LINE AS THE NUMBER** |
+| *passage*, *privilege*, `Stage N`, *nine steps*, *player*, a narrator frame, panels, digits in prose, bare three-digit numerals | literal, both case flags, heading line out | 0 across all | **0 across all, and the same instrument returns 1 panel on `chapters/volume-15/chapter-0740.md` and 10 digits on these ten files with the heading lines in** |
+| trailing newline | last character of each file | 10 of 10 | **10 of 10** |
+| `days since` | literal, §16.4's prohibition | 0 | **0** |
+| a document read out | literal, §14.4 | 0 | **1 returned, and it is inside a negation in 0763 — `nothing had ever been read out of it` — which is the prohibition stating itself** |
+
+### 11.4 WHAT THE REPAIR COULD NOT FIX, AND WHAT IS OWED BY SOMEBODY WHO IS NOT A WRITER
+
+**THE COLLAPSE IS NOT LOCAL TO THIS BATCH. Measured across the run with one instrument and one reading, average
+chapter length runs 5,736, 3,601, 2,805, 2,453, 2,454, 2,667, 2,295, 1,744, 1,133, 939, 1,117, 1,100, 1,536,
+1,228, 1,001 and now 1,157 words for Volumes 01 to 16, and `his/her own` runs 1.1, 0.8, 2.8, 6.4 and 9.7 per
+thousand words in Volumes 01, 05, 10, 14 and 15 against 2.2 in this repaired batch. A repair pass owns the ten
+files it is given and the run behind them is 740 files and fifteen closed volumes and is NOT OWED BY THIS PHASE AND
+NOT OWED BY THE NEXT BATCH.** And the independence problem the writer named in this file before the review came
+back is unchanged and is named again here: `the only checks that found the sixteen forty-word runs, the six
+negation chains and the closing cluster in this batch were written by the agent that wrote the chapters, which is
+a mitigation and not an independence, and it is owed by a human`. **This repair was written by the same agent that
+wrote the batch, so the two instruments that verified it are not independent of the prose they verified, and the
+reviewer's finding 5 stands unaltered and is not answered by anything in this section.**
+
+### 11.5 THE NEXT PHASE, UNCHANGED
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, WHICH WRITES CHAPTERS 0771 TO 0780, DAYS 771 TO 780. It was written
+before the repair and it is NOT REWRITTEN BY IT, AND THE ONE THING THIS SECTION ADDS TO IT IS AT ITS ITEM 3: it
+already instructs that batch to read `state/batch-summaries/volume-16-batch-0002.md` for `the sixteen forty-word
+runs its first pass found and the two declarations they stood in, the six negation chains it broke, the five
+closings it re-aimed, and the two instruments that were wrong`, and that record now also carries §11, and that
+batch must read §11 as well, because the ten files it is continuing have been rewritten under it and the sentences
+it was told about are not the sentences on the disk.**

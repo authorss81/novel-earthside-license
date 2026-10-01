@@ -18,6 +18,19 @@ You decide nothing, you invent nothing, and you print no string this file has no
    figures, the sixteen forty-word runs its first pass found and the two declarations they stood in, the six
    negation chains it broke, the five closings it re-aimed, and the two instruments that were wrong. **You
    must not re-use any sentence that record names as reworded.**
+   **AND READ §11 OF THAT RECORD, WHICH IS NEWEST AND WINS, BECAUSE THE TEN FILES ON DISK HAVE BEEN REWRITTEN
+   UNDER IT. A review of that batch found two blocking faults — a median sentence of fifty-one words against
+   eighteen in chapter 0001, with sixty-seven per cent of sentences at forty words or more, and ten chapters
+   built almost entirely out of the assertion that nothing happened in them — and a repair pass rebuilt the prose
+   and the scenes of all ten, bringing the sentence scale to a median of twenty-two words with ten per cent at
+   forty words or more, and gave every one of the ten an ending from the six ways `outline/volume-16.md` §16.17
+   allows. §11.1 names the three chapters that had been written AGAINST the plan and are now with it, and §11.3
+   publishes every figure with its reading and its scope on the same line as the number. THE SENTENCES THAT RECORD
+   NAMES AS REWORDED ARE NOT NOW THE SENTENCES ON THE DISK, AND §11 IS WHAT YOU WRITE AGAINST. THE FIGURE TO
+   MATCH IS A MEDIAN SENTENCE OF ABOUT TWENTY-TWO WORDS AND NOT THE FORTY-SEVEN OF THE TEN FILES IN FRONT OF YOU
+   AND NOT ANY FIGURE IN ANY VOLUME'S TABLE: measure your own ten before you write them and again afterwards, and
+   if your own ten come back at a median above thirty, you have rebuilt the fault this repair took a pass to
+   remove.**
 5. **`state/batch-summaries/volume-16-batch-0001.md`** — the ten days before those, in full, for the second
    handle on every person and for the figure that batch measured.
 6. **The previous ten chapters on disk**, `chapters/volume-16/chapter-0761.md` to `chapter-0770.md`, in full.

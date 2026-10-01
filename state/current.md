@@ -726,3 +726,124 @@ not an independence, and it is owed by a human.**
 
 **`workspace/volume-16/batch-0003/PROMPT.md`, AND NOTHING ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD
 FILE UNDER `outline/`, NO MARKER FILE.**
+
+---
+
+# VOLUME 16, BATCH 0002 — THE REPAIR PASS ON CHAPTERS 0761 TO 0770. NEWEST BLOCK. THIS ONE WINS.
+
+**A REVIEW CAME BACK ON COMMIT `0163cae` WITH TWO BLOCKING FINDINGS AND A REPAIR PASS HAS BEEN RUN ON THE TEN
+FILES THAT REVIEW NAMED. The batch was not restarted, the planned plot was not changed, and no card, no day, no
+weekday, no Bare-Month ordinal, no hour, no actor, no descriptor and no object count in `outline/volume-16.md`
+§14.3 was touched. What was rewritten is the prose, the scenes, and three chapters that had been written against
+the plan's own day map and against §7.2. Every figure below is re-derived on the repaired files with the reading
+and the scope on the same line as the number, at `state/batch-summaries/volume-16-batch-0002.md` §11.**
+
+## WHAT THE REVIEW SAID, IN ITS OWN FIGURES
+
+`Average chapter length has fallen monotonically across the whole run` — volume 1 at 5,736 words a chapter against
+857 here. `Sentences now run to a median of 53 words (max 151), against a median of 18 in chapter 1. 71% of
+sentences are 40+ words.` The filler had been replaced rather than removed: `his own two hands`, `that room`,
+`at about the fifth hour`, `nobody in that room said one word`. And on the second finding: `Every chapter runs the
+same beat sheet: hour markers, one flat statement of fact, a --- break, a repeated assertion that nobody
+responded, light leaves the floor`, with `Every chapter changes the situation` and `prose reads as natural fiction`
+both failed.
+
+## WHAT THE FIGURES ARE NOW, AND THE INSTRUMENT IS NAMED BECAUSE THE REVIEW NAMED ITS
+
+| | First writing | **After the repair** | Reference, same instrument |
+|---|---|---|---|
+| sentence scale, heading line out | mean 49.6, **median 51**, p90 78, max 128, **67% at 40+ words** | **mean 23.5, median 22, p90 41, max 85, 10% at 40+ words** | chapters 0001–0019: mean 27.3, **median 18**, 25% at 40+ words |
+| `his/her/its/their own` | **15.1 per 1k** | **2.2 per 1k** | volume 01: 1.1; volume 15: 9.7 |
+| `own two hands` | 21 in the batch | **0** | volume 01: 0 |
+| `at about the Nth hour` | 4.5 per 1k, and 20 times as an opening line, twice in every file | **2.2 per 1k, and 0 as an opening line. The ten dates are stated in ten different frames** | volume 14: 50 opening lines in 50 files; volume 10: 1 in 50 |
+| chapter length | 643 to 1,104, mean 841 | **822 to 1,823, mean 1,157** | volume 01: 5,736 |
+| paragraphs of 3+ sentences carrying a physical action, §17.20 | **9 of 10, and 0765 had none** | **71 in 10 of 10** | required: one in each |
+| closings that are a statement that nothing changed, §17.17 | the review read nine of ten; the instrument read two | **0 of 10** against a ceiling of two in ten | — |
+| the sixteen-word class inside the ten | 2 self-repeats, both in 0765 | **0** | batch 0001 behind it: 26 in six pairs |
+| the sixteen-word class against the 750 outside | 1 shared run | **0 shared runs; longest shared span returned is sixteen words, which is the threshold and not a run** | — |
+| the forty-word class, three scopes, both heading-line readings | 0 | **0 on all three** | — |
+| the day map: chapter-equals-day, weekday, Bare-Month ordinal | 0 mismatches | **0 mismatches on each of the three, ten files, both orders — and for a few hours of this pass the repair had dropped the date instrument out of nine of the ten files and the instrument caught it and it was put back** | — |
+| the room's figure in one sentence with `about four`, §16.14 | 0 | **0, and one was created and caught in 0769** | — |
+
+**AND THE TWO REMAINING INSTRUMENT HITS ARE READINGS, NOT FAULTS, AND THE READING IS ON THE SAME LINE AS THE
+NUMBER: `about four` with no units word returns three, and all three are `about four minutes` in 0761 and `about
+four seconds` in 0767 and 0769 — durations, and `about four seconds` is §7.2's own sentence about the man of about
+thirty-nine word for word. And a document read out returns one, inside a negation in 0763: `nothing had ever been
+read out of it`, which is the prohibition stating itself.**
+
+## THE THREE CHAPTERS THAT HAD BEEN WRITTEN AGAINST THE PLAN
+
+1. **0761 put the man of about thirty-nine in the chair and gave him a line saying he was sitting in it.** §14.3's
+   business for day 761 is `a chair at the far side of that room and a man who does not sit down on it` and §4.1
+   records the day's obtain as `no`. **He now does not sit down on it, and Adrian Vale does not obtain it, and the
+   reason he does not obtain it is that the chair stands in the gap at the far side which is the width that room
+   walks all day and turning it about puts it in the way.** The two plan lines now hold, and they hold for
+   opposite reasons.
+2. **0765 gave the man of about thirty-one his own bucket.** §7.2 gives a bucket and a rag to the man of about
+   twenty-seven and §5 lists one bucket in this city. **There is one bucket now and it is that man's, and the
+   carrier works the trough, and the water over its rim is what takes the night's grit off that stone lip and
+   undoes the morning's work.**
+3. **0763 walked Adrian Vale up eleven miles of flats and back to put a man's satchel on a shelf in the room he was
+   standing in.** Eleven miles of flats is the run between that wharf and that market and there is no shelf at the
+   end of it. **The excursion is the length of that row and back, and the chapter keeps its want and its
+   `obtained: no`.**
+
+**AND TWO MORE AGAINST §7.2 AND §17.18: 0767 no longer asks in a mouth who washed the board on the outside wall,
+because §7.2 holds that the wall above the top edge of that board is not washed on any of the fifty days and by no
+second person on any of them — a chapter that asks it puts a standing prohibition into a mouth. And 0767's closing
+paragraph no longer opens on `About nine people were in the room at that hour`, which is §17.18's first of the five
+closing shapes, told by its own name: `a chapter may not close on the room's figure`.**
+
+## THE SCENES, IN THE TERMS §16.17 GIVES A CHAPTER ITS ENDING
+
+**§16.17 lists six ways a chapter that visibly changes nothing earns its ending, and the first writing spent nine
+of its ten endings on a seventh way that is not on the list — a statement that nothing happened. All ten now end on
+one of the six, ten different constructions, and none of the five shapes §17.18 puts off limits.** A man's boot set
+down square in an arc of clean grit and not moved again. A shape of a barrow going into a damp wall. A shelf that
+became a place in a room in two hours. A man who moved a forearm's length along a bench and did not move back, and
+a jug nobody drank out of. A knife that made a noise on bare stone it had never made on before. A barrow that will
+stand a hand's breadth further off a wall for the rest of a man's life with no reason given. A palm held on a piece
+of wood to find out whether it is warm. A wet print on a sill going out of glass from the edges inward. A board
+warmer than the bench it stands against. Two places on a bench a forearm apart that the weather has not got to.
+
+**AND §17.19, WHICH IS THE ONE ABOUT THE PROTAGONIST — `Nobody asks him anything` is the pressure of this volume
+and it is not the reward, and in each of the eleven chapters he is in he must be the cause of at least one thing
+that happens to somebody else, and it may not be a decision, a word, a document, a notice or the panel. He is in
+five of these ten and he causes something in all five:** a bucket turned sideways on a stair; a man who came the
+length of a room for a satchel and a man who went back down out of it rather than set his barrow down in front of
+it; a knife that made a new noise; a barrow a hand's breadth further off a wall; a shadow across a keeper's page.
+**Nobody thanked him in any of the five, nobody told him he was right in any of the five, and nobody in any of the
+five was waiting for him to be useful.**
+
+## THE FIGURE THAT MATTERS MOST TO THE NEXT BATCH, AND IT IS NOT A COUNT
+
+**THE COLLAPSE IS NOT LOCAL TO THIS BATCH AND A REPAIR PASS DOES NOT OWN IT.** Measured across the run with one
+instrument and one reading, average chapter length runs 5,736, 3,601, 2,805, 2,453, 2,454, 2,667, 2,295, 1,744,
+1,133, 939, 1,117, 1,100, 1,536, 1,228, 1,001 and 1,157 words for Volumes 01 to 16, and `his/her own` runs 1.1,
+0.8, 2.8, 6.4 and 9.7 per thousand words in Volumes 01, 05, 10, 14 and 15 against 2.2 in this repaired batch.
+**A repair pass owns the ten files it is given. The run behind them is 740 files and fifteen closed volumes and is
+NOT OWED BY THIS PHASE AND NOT OWED BY THE NEXT BATCH.** And the independence debt is unchanged and is named here
+for the fourth time in this volume: the review dispatch ran the writer's own agent where it meant to run the
+reviewer, `reviews/volume-16/` does not exist, and **this repair was written and checked by the same agent that
+wrote the batch, so the two instruments that verified it are not independent of the prose they verified. That is
+owed by a human.**
+
+## THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND, AND NOT OWED BY THE NEXT PHASE
+
+**`state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0` after fifteen
+closed volumes and a repair pass, `PHASE_SYSTEM.md:187` says the selector reads that file to choose the next
+phase, the review dispatch runs the writer's own agent where it means to run the reviewer, `reviews/volume-16/`
+does not exist, and `outline/volume-03.md` and `outline/volume-05.md` are not in the tree and never have been in
+git history though `reviews/volume-03/` and `reviews/volume-05/` are. All of these live in `scripts/`,
+`state/phase-ledger.json`, `.github/workflows/` and the review dispatch. NEITHER THE LEDGER, NOR A MARKER FILE, NOR
+ANY FILE IN `scripts/` OR `.github/workflows/` WAS TOUCHED BY THIS PASS.** A phase that finds a fault in a
+controller and quietly works around it has made the controller worse, and the repair of these ten files did not
+need one line of any of them to be correct.
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, WHICH WRITES CHAPTERS 0771 TO 0780, DAYS 771 TO 780, AND NOTHING
+ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD FILE UNDER `outline/`, NO MARKER FILE. THAT PROMPT WAS WRITTEN
+BEFORE THIS REPAIR AND IS NOT REWRITTEN BY IT; the one thing it must now do, which it already instructs at its
+item 4, is read `state/batch-summaries/volume-16-batch-0002.md` — **and read §11 of it, because the ten files it is
+continuing have been rewritten under §11 and the sentences it was told about are not the sentences on the disk.**
