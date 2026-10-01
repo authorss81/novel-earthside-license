@@ -255,3 +255,27 @@ long shared runs for reasons that have nothing to do with prose discipline, and 
 only as good as the length of the thing it was measured on. Padding a carded day to move a mean is the
 failure this repository names, so the days were left at what their cards put in them and the measurement
 is published instead.**
+
+## AND THE VOLUME-WIDE FIGURE THE FIFTY DAYS CARRY, WHICH IS A FAULT AND NOT A WORLD FACT
+
+**Measured on the fifty files of Volume 15 at the end of day 750, reading: maximal sequential run, tokenised on
+letters and apostrophes, lowercased, the heading line included; scope: the fifty against the other forty-nine,
+both file orders, each file excluded from its own comparison: FOURTEEN DIRECTED RUNS, WHICH IS THIRTEEN
+DISTINCT MAXIMAL RUNS IN TEN PAIRS ACROSS SEVEN FILES, THE LONGEST AT NINETY-SIX WORDS, AND ONE PASSAGE OF
+FORTY-SEVEN WORDS STANDING VERBATIM IN FOUR OF THE FIFTY. Against the seven hundred files outside the volume
+the same pass returns ZERO on both heading-line readings, so all of it is inside this volume.**
+
+**The seven files carrying those cross-file runs are 0707, 0723, 0725, 0734, 0736, 0739 and 0740, and 0720
+carries the volume's only prose self-repeat on the within-file row. None of them was edited by the repair pass
+that measured them. The debt, the pairs, the readings and the owner are at `state/open-threads.md` in its
+newest block and at `state/volume-15-close.md` §7.1, §7.11 and §7.14, and the corrected figures supersede the
+twelve-runs-in-seven-pairs figure those files carried until the repair pass on this close.**
+
+**AND THE TWO HEADING-LINE READINGS, WHICH ARE A PROPERTY OF THIS MANUSCRIPT'S CHAPTER TITLES AND WILL RECUR
+IN EVERY VOLUME AFTER THIS ONE. A chapter's `#` line here is not a short title; it runs from sixty-one to a
+hundred words and is written in the same declarative register as the body, so a chapter's own heading can
+repeat its own opening paragraph and be counted for it. Within-file self-repeats of sixteen words or more in
+the fifty: THREE IN THREE FILES WITH THE HEADING LINE IN, ONE IN ONE FILE WITH IT OUT — Chapter 0720 at
+eighteen words, real on both readings — and Chapters 0725 and 0740 at zero on the reading that excludes it.
+**Any word count or word-run figure published for a volume must name which of the two readings produced it,
+because the paragraphs, the bold share and the duplication classes do not all reproduce on the same one.**

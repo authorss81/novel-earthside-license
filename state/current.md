@@ -403,3 +403,92 @@ FIX PHASE MAY CREATE OR REMOVE A MARKER FILE, AND NO PHASE MAY OPEN THE LEDGER. 
 
 **UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE.
 NO CONTINUATION DIRECTORY, NO SIXTH BATCH, NO CARD FILE UNDER `outline/`, NO MARKER FILE.**
+
+---
+
+# THE REPAIR PASS ON THE CLOSE OF THE FIFTEENTH VOLUME. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT WHERE THE TWO DISAGREE.
+
+**NO CHAPTER FILE WAS OPENED OR EDITED BY THIS PASS. NO DAY, ACTOR, OBJECT, DECISION OF RECORD OR PANEL
+MOVED. NO NEW PERSON, NO NEW PLACE, NO NEW NAME. NO NEW FINAL ENEMY. THE PLANNED ENDING IS UNTOUCHED. WHAT
+THIS BLOCK RECORDS IS FOUR FIGURES IN `state/volume-15-close.md` THAT A VERIFIED REVIEW OF THAT RECORD FOUND
+TO BE WRONG, AND EVERY ONE OF THE FOUR WAS RE-DERIVED ON THE FIFTY FILES BEFORE IT WAS CORRECTED.**
+
+## THE FOUR FIGURES, AND WHAT EACH ONE WAS
+
+1. **The panel-leak row published two zeros where its own instrument returns six.** Against `outline/series.md`
+   and against `state/volume-14-close.md` the record printed the word ZERO. Measured: the longest contiguous run
+   of the words of the one panel block in `chapters/volume-14/chapter-0690.md` found inside each file returns
+   **6 and 6** — reading: that run, tokenised on letters and apostrophes, lowercased; scope: each named file,
+   whole file. The same instrument returns **105** against `outline/volume-14.md`, where the plan publishes 105,
+   and that one always reproduced. **THE THREE FIGURES NOW CARRY A READING AND A SCOPE, WHICH THEY DID NOT
+   CARRY AT ALL, AND NO PANEL WORD IS PRINTED IN EITHER FILE.**
+2. **The forty-word duplication class was under-counted in its own record.** Published as twelve directed runs
+   in seven pairs. Measured on the fifty files as they stand: **fourteen directed runs, thirteen distinct
+   maximal runs, TEN pairs, across seven files, the longest at ninety-six words** — reading: maximal sequential
+   run, letters and apostrophes, case-insensitive, heading line in, each file excluded from its own comparison;
+   scope: the fifty against the other forty-nine, both orders. **Five pairs were missing from the record's own
+   list, and one passage of forty-seven words stands in four of the fifty files.**
+3. **The within-file self-repeat figure of six was published without saying which reading produced it.** With
+   the heading line in: three maximal self-repeats in three files. With the heading line out: one in one file.
+   **Both readings are now printed on the same row, because a chapter's `#` line in this manuscript runs to a
+   hundred words and can repeat its own opening paragraph, and because §7.2 and §7.8 of that record only
+   reproduce with the heading line out.**
+4. **The record's own register of figures that came back wrong said six rows and now carries eight**, and the
+   two added are this panel-leak row and the under-counted pair count. **A record that keeps a list of its own
+   faults has to have the list counted by somebody, or the list is decoration.**
+
+## THE DEBT THIS PROMOTES, AND WHERE IT NOW LIVES
+
+**The forty-seven-word passage in four files and the ninety-six-word passage in two have no owner in this
+repository, and they now have one at `state/open-threads.md`, in the newest block of that file, with the pairs,
+the lengths, the readings and the scope, and with the rule that a repair pass may not edit a chapter it did not
+write.** They stand behind four different batches. **No chapter was touched here and none will be by a pass that
+owns no chapter.**
+
+## TWO SMALLER THINGS, PUBLISHED BECAUSE A RULE WAS BROKEN AND THE AMOUNT MATTERS
+
+**FIVE CHAPTER FILES OUTSIDE THE REVIEW REPAIR PASS'S OWN TEN WERE EDITED BY IT.** They are
+`chapters/volume-04/chapter-0155.md` and `chapters/volume-13/chapter-0613.md`, `chapter-0615.md`,
+`chapter-0616.md` and `chapter-0618.md`. **Re-derived here against the commit before: each differs by the
+addition of a trailing newline and by nothing else.** All seven hundred and fifty chapter files now end in a
+newline, which is the one good thing that came out of it. **IT WAS A BREACH OF THE RULE THIS REPOSITORY
+ASSERTS IN ITS OWN CLOSE RECORDS AND IT IS NAMED RATHER THAN LEFT QUIET.**
+
+**ONE WORD OF THE OLD TRADE NOUN SURVIVES IN A PLAN AND NOWHERE ELSE.** `stallkeeper` stands at zero in all
+seven hundred and fifty chapter files and `stallholder` stands at thirty-seven, as the block above records, and
+**`outline/volume-14.md` still prints `stallkeeper` once, in the prohibition at its own §16, where the pages it
+prohibits have been rewritten to say `stallholder`.** **NOT EDITED HERE, DELIBERATELY: no agent amends a file
+under `outline/`, the prohibition still binds whoever holds it, and a one-word drift in a finished volume's
+plan is a smaller fault than an agent editing a plan to make a grep come back clean.** It is recorded so that
+the next phase does not read that prohibition as disagreeing with the pages about which word the trade noun is.
+**AND IT SETTLES NOTHING ABOUT THE TWO PEOPLE. Neither word is a gender.**
+
+## WHAT THIS PASS DID NOT DO
+
+**No chapter was rewritten, restarted or re-planned. No file under `outline/` was created, amended or deleted,
+which is why the one surviving `stallkeeper` is recorded and not corrected. `scripts/`, `.github/workflows/`,
+`.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and
+`state/phase-ledger.json` were not touched. No marker file was created or removed. No phase, directory or
+prompt was created, and no next-phase directory was written, because the prompt for this phase is the close
+and the volume behind it is complete. `reviews/volume-15/` was NOT created, and that is the point and not an
+oversight: a review directory written by the pass that acted on the review would be a claim of independence
+this pass does not have. **No relationship milestone is paid, the consent fracture stays unmended, the fifth
+condition is not given, the woman of about sixty-nine has not asked a fourth question, and no new world and no
+new final enemy entered this manuscript.**
+
+**AND THE SAME DEBT, NAMED AGAIN AND IT IS THE SAME DEBT: `reviews/volume-15/` DOES NOT EXIST, THE REVIEW
+FELL BACK TO THE WRITER AGENT, AND EVERY FIGURE THIS PASS ACTED ON WAS RE-DERIVED HERE FIRST BECAUSE ALL FOUR
+CHECKED OUT. THAT IS A MITIGATION AND NOT AN INDEPENDENCE. IT IS OWED BY A HUMAN.**
+
+## THE CONTROLLER FAULTS, AGAIN, AND NOT OPENED
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0`, AND
+`workspace/volume-15/close/` CARRIES `.checkpoint` AND NOT `.done`.** Owned by GitHub Actions; no writer,
+review or fix phase may create or remove a marker file, and no phase may open the ledger. **NEITHER WAS DONE
+HERE.**
+
+## THE NEXT PHASE
+
+**UNCHANGED: THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. NO CONTINUATION DIRECTORY, NO SIXTH BATCH,
+NO CARD FILE UNDER `outline/`, NO MARKER FILE. AND A NEXT WRITER WHO MEASURES THE FORTY-WORD CLASS OF A VOLUME
+SHOULD RUN IT IN THREE SCOPES, READ THE HEADING LINE BOTH WAYS, AND READ PAST THE FIRST LIST IT WRITES.**

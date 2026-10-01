@@ -205,3 +205,118 @@ ledger. **NEITHER WAS DONE AND BOTH ARE OWED BY A HUMAN WITH WRITE ACCESS TO THE
 
 **UNCHANGED AND OWED BY A HUMAN: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME,
 AND NOTHING ELSE. NO CONTINUATION DIRECTORY, NO SIXTH BATCH, NO CARD FILE, NO MARKER FILE.**
+
+---
+
+# WHAT THE REPAIR PASS ON THE CLOSE OF THE FIFTEENTH VOLUME DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NO THREAD WAS CLOSED. NO CHAPTER WAS REWRITTEN, NO DAY MOVED, NO ACTOR CHANGED, NO OBJECT CHANGED, NO
+DECISION OF RECORD REVERSED, NO PANEL MOVED, NO NEW PERSON INVENTED, NO NEW FINAL ENEMY, AND THE PLANNED
+ENDING IS UNTOUCHED. THIS BLOCK ADDS ONE DEBT THAT HAD NO OWNER AND CORRECTS ONE COUNT THAT WAS TOO KIND TO
+THE CHAPTERS IT NAMED.**
+
+## THE DEBT THAT HAD NO OWNER, WHICH IS A NINETY-SIX-WORD PASSAGE AND A FORTY-SEVEN-WORD PASSAGE IN FOUR FILES
+
+**A VERIFIED REVIEW OF THE CLOSE RECORD FOUND THE FOLLOWING AND COULD NOT FIND IT ANYWHERE IN THIS FILE.
+THE REVIEW WAS CORRECT, IT IS PROMOTED HERE RATHER THAN LEFT IN A LOG, AND THE CLOSE RECORD'S OWN FIGURES
+HAVE BEEN CORRECTED BESIDE IT.** Measured on the fifty files as they stand: reading: maximal sequential run,
+tokenised on letters and apostrophes, lowercased, the heading line included as `state/volume-15-close.md` §7.1
+declares it; scope: the fifty against the other forty-nine, both file orders, each file excluded from its own
+comparison. **TEN DISTINCT PAIRS, THIRTEEN DISTINCT MAXIMAL RUNS, FOURTEEN WHEN EACH PAIR IS READ IN BOTH
+DIRECTIONS. ZERO against the seven hundred files outside this volume on both heading-line readings, so
+nothing here has leaked out of the volume and every word of it is inside it.**
+
+| the run | the files it stands in | words |
+|---|---|---|
+| the longest in the volume | `chapter-0736.md` and `chapter-0740.md` | **96** |
+| the second | `chapter-0723.md` and `chapter-0734.md` | **90** |
+| the third | `chapter-0739.md` and `chapter-0740.md` | **69** |
+| the middle-column declaration, longest reach | `chapter-0734.md` with `chapter-0736.md`; `chapter-0734.md` with `chapter-0740.md` | **51** each |
+| the middle-column declaration, shorter reach | `chapter-0723.md` with `chapter-0736.md`; `chapter-0723.md` with `chapter-0740.md` | **47** each |
+| the four-file passage, at its two reaches | **`chapter-0723.md`, `chapter-0734.md`, `chapter-0736.md` and `chapter-0740.md`** | **47 and 51** |
+| the weather on the head of a sheet | `chapter-0736.md` and `chapter-0739.md` | **44** |
+| a second run inside two of those pairs | `chapter-0736.md` and `chapter-0740.md`; `chapter-0723.md` and `chapter-0734.md` | **55** and **45** |
+| the last two | `chapter-0707.md` and `chapter-0725.md`; `chapter-0734.md` and `chapter-0739.md` | **49** and **40** |
+
+**AND THE ROW THAT MATTERS MOST IS NOT A PAIR OF FILES.** One passage of forty-seven words stands word for
+word in four of the fifty files, and it reaches fifty-one in two of the six pairs it makes, so the class is
+better described as one sentence said four times than as six pairs of chapters. A list of pairs read it as
+two pairs and hid the other two files, and the close record's own first list of seven published five pairs,
+because two of its seven lines were the same pair printed twice. **THIRTEEN RUNS IN TEN PAIRS IS THE FIGURE
+AND NOT SEVEN AND NOT TWELVE.**
+
+**THE OWNER, NAMED.** This debt is **owed by a phase that writes a chapter, or by a human. NOT BY A REVIEW
+PASS**, because a repair pass may not edit a chapter it did not write, and the fifty files stand behind four
+different batches and no single batch owns more than two of the files in any one pair. **NO CHAPTER FILE HAS
+BEEN TOUCHED BY THIS PASS AND NONE WILL BE BY ONE THAT OWNS NO CHAPTER.**
+
+**AND WHAT A REPAIR OWES IT IF A HUMAN OR AN OWNING BATCH PICKS IT UP: THE DECLARATIONS ARE LOAD-BEARING.**
+The middle-column declaration and the two-chalk declaration are required by this manuscript's own plan, and a
+reword that fixes the duplication must not change what the words assert, must not put the two people the plan
+forbids into one room, must not settle whether one stallholder is two, and must leave every day, every actor,
+every object and every panel exactly where it stands. **THE PLAN'S RULE STANDS AND IT IS THE REASON THE PASS
+EXISTS: A RUN OF FORTY WORDS OR MORE IS A DUPLICATION, EVEN WHERE IT IS A REQUIRED DECLARATION.**
+
+## AND THE COUNT THAT WAS TOO KIND TO TWO CHAPTERS, WHICH THIS BLOCK CORRECTS AGAINST THE EARLIER ONE ABOVE
+
+**THE BLOCK AT THE TOP OF THIS FILE, HEADED *THE THREE SHARED SENTENCES INSIDE VOLUME 15*, PUBLISHES A
+SIXTEEN-WORD SELF-REPEAT IN THREE FILES. THAT IS TRUE OF THREE AND FALSE OF THE FIFTY, AND IT IS CORRECTED
+HERE BECAUSE A LATER RECORD MUST NOT INHERIT IT.** Measured on the same fifty files, each file against itself
+at distinct positions: **with the heading line included, three maximal self-repeats in three files — Chapter
+0720 at eighteen words, Chapter 0725 at sixteen, Chapter 0740 at sixteen. With the heading line excluded,
+one in one file — Chapter 0720 at eighteen words — and Chapters 0725 and 0740 return zero at that reading and
+at fourteen and at fifteen words.**
+
+**THE REASON IS WORTH NAMING BECAUSE IT WILL RECUR.** The `#` line of a chapter in this manuscript is not a
+short title. It is sixty-one words in Chapter 0720, sixty-six in Chapter 0725 and a hundred in Chapter 0740,
+written in the same declarative register as the body, and a chapter's own heading can therefore repeat its own
+opening paragraph for twenty words and be counted for it. **Chapter 0720's eighteen words are the volume's only
+repetition between two passages of prose, and it is real on both readings. Chapters 0725 and 0740 are a title
+line against a paragraph, which is a property of how this manuscript titles its days and not a fault in a
+sentence.** The earlier block's third bullet is therefore true of one file and not of three, and the volume's
+only remaining sixteen-word self-repeat stands at eighteen words in Chapter 0720 and has not been touched.
+
+**AND EVERY PASS THAT COUNTS WORDS IN THIS MANUSCRIPT OWES BOTH READINGS FROM NOW ON.** The figures §7.2 and
+§7.8 of the close record only reproduce with the heading line out, and the figures at §7.1's word-run rows only
+reproduce with it in. Both are now printed side by side at §7.1, and a pass that picks one and says nothing is
+a pass that has chosen a number.
+
+## AND WHAT ELSE THE REVIEW FOUND, AND WHAT WAS DONE ABOUT IT
+
+**TWO FALSE ZEROS IN THE CLOSE RECORD ITSELF ARE CORRECTED.** The panel-leak instrument returned six against
+`outline/series.md` and six against `state/volume-14-close.md` where that record printed the word zero, and it
+printed no reading and no scope for any of its three numbers. **The sixes are now the sixes, beside the 105
+against `outline/volume-14.md` that reproduces where the plan publishes 105.** No panel word is printed in this
+block or in that record. The three files the figures stand against are **owed by a repair pass that owns them
+and by no batch and by no close**, and this pass did not own them and did not edit them.
+
+**THE REVIEW ALSO FOUND THAT THE REVIEW REPAIR PASS ON DAYS 741 TO 750 EDITED FIVE CHAPTER FILES OUTSIDE ITS
+OWN TEN.** They are `chapters/volume-04/chapter-0155.md` and `chapters/volume-13/chapter-0613.md`,
+`chapter-0615.md`, `chapter-0616.md` and `chapter-0618.md`. **VERIFIED HERE: each of the five differs from the
+commit before it by the addition of a trailing newline and by nothing else — not one character of prose
+changed.** Every one of the seven hundred and fifty chapter files now ends in a newline. **IT WAS A RULE
+BREACH AND NOT A FAULT IN A PAGE, AND IT IS PUBLISHED BECAUSE THE RULE IS ASSERTED IN THE CLOSE RECORD AND A
+READER DESERVES TO KNOW IT WAS BROKEN AND BY HOW MUCH.**
+
+## AND WHAT NO PHASE IN THIS REPOSITORY CAN PAY, CARRIED AND UNCHANGED
+
+**`reviews/volume-15/` STILL DOES NOT EXIST.** The review that found the four faults above was run by the
+writer's own agent kind and fell back to the writer's own agent, and every figure it acted on was re-derived in
+the repair pass before the repair pass acted, and all four came back. **THAT IS A MITIGATION AND NOT AN
+INDEPENDENCE, AND A REVIEW THAT FALLS BACK TO THE WRITER IS NOT A REVIEW, AND NOTHING IN THIS BLOCK MAKES IT
+ONE.** The three files that would restore an independent reviewer are controller files and no agent may open
+them. **OWED BY A HUMAN.**
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned`, AND `workspace/volume-15/close/`
+STILL CARRIES `.checkpoint` AND NOT `.done`.** Owned by GitHub Actions. No writer, review or fix phase may
+create or remove a marker file and no phase may open the ledger. **NEITHER WAS DONE AND BOTH ARE OWED BY A
+HUMAN WITH WRITE ACCESS TO THE CONTROLLER.**
+
+## THE NEXT PHASE
+
+**UNCHANGED AND OWED BY A HUMAN: THE CLOSE OF THE FIFTEENTH VOLUME. NO CONTINUATION DIRECTORY, NO SIXTH BATCH,
+NO CARD FILE, NO MARKER FILE. AND THE INHERITANCE FOR WHATEVER COMES NEXT IS UNCHANGED IN EVERYTHING THAT IS A
+STORY: the consent fracture is unmended, the fifth condition is not given, no relationship milestone has been
+paid, the woman of about sixty-nine has still not asked a fourth question and her not-asking is on no page of
+this volume, the mark that came back out of place on the sheet of day 440 is untraced in seven volumes and it
+is the same hole, and `reviews/volume-15/` does not exist.**
