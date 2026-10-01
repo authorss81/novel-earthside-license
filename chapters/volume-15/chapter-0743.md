@@ -2,7 +2,7 @@
 
 Both of Adrian Vale's hands were on that bar where it stands in the sockets on the far side of that door, and he got his own fingers up under it and lifted it in those sockets and let it come down again, and he did it that three times, and the bar came down into the same two sockets it came down into before he came to it.
 
-It was about the fourth hour on the four hundred and twenty-eighth day of the Bare Month, a Tuesday, at the back of that building, and four hundred yards of flags lie at one end of that market and there is a board on the outside wall at that end of it carrying three sets of figures of this city's own, none of them rubbed out and not one of the three carrying a line of words under it, and not one figure on that board is printed here and that board is not the length of board on that man's shoulder.
+It was about the fourth hour on the four hundred and twenty-eighth day of the Bare Month, a Tuesday, at the back of that building. Four hundred yards of flags lie at one end of that market and there is a board on the outside wall at that end of it carrying three sets of figures of this city's own, none of them rubbed out and not one of the three carrying a line of words under it, and not one figure on that board is printed here and that board is not the length of board on that man's shoulder.
 
 On the outside of that door there is a date in chalk and under that date a bare piece of door about as wide as a hand with nothing whatever standing on it. That wood means nothing at all. It is not widened and it is not narrowed and it is not cleaned and it is not painted and it is not covered, and no name is under that date and no name is going to be.
 

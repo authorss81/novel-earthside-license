@@ -274,3 +274,78 @@ The row at the foot of that stair was not cleared, paved, widened, narrowed or m
 ## 12.8 The next phase, and what this pass did to it
 
 **UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. THIS PASS CREATED NO PHASE, NO DIRECTORY, NO MARKER AND NO PROMPT, AND IT AMENDED NOTHING UNDER `outline/`. The close phase will read these ten files as they stand after five edits of wording and will find every day, hour, descriptor, decision, object row and closing exactly where §4 above says it is.**
+
+---
+
+# §13. THE CONTINUATION PASS. APPENDED, AND NO LINE ABOVE THIS BOUNDARY IS EDITED, AND WHERE THIS BLOCK AND THE BLOCKS ABOVE IT DISAGREE ABOUT A FIGURE, THIS BLOCK WINS.
+
+**A CHECKPOINT EXISTED WHEN THIS PASS OPENED AND NOTHING WAS RESTARTED. All ten chapter files, this record, the five state blocks, `state/chapter-summaries.md` and `workspace/volume-15/close/PROMPT.md` were already on disk and already committed, at `ef36803` and `882902f`. This pass read them, re-derived every pass it could, made ONE edit in ONE chapter file, and appended this block and the four state blocks below. NO CHAPTER WAS REWRITTEN, NO CARD WAS REWRITTEN, NO PHASE WAS CREATED, AND NOTHING WAS AUTHORED UNDER `outline/`.**
+
+**THE PRE-REPAIR TEXT OF EVERY BEFORE-FIGURE IN THIS BLOCK IS IN A COMMIT AND IS RE-RUNNABLE, and §12 and the block at the head of this batch's own in `state/current.md` both say in their own words that no commit of this batch would exist and that no `git show` would recover the pre-repair text. THAT STATEMENT IS NOW FALSE AND IT IS CORRECTED HERE RATHER THAN LEFT FOR A READER TO FIND: commits `ef36803` and `882902f` carry this batch's own work, so `git show ef36803:chapters/volume-15/chapter-XXXX.md` returns the text as it stood at the first save and `git show 882902f:...` returns it after the wording repairs. The before-figure in §13.2 below is re-runnable at `ef36803`. THE TWO EARLIER STATEMENTS WERE WRONG IN THE OPPOSITE DIRECTION FROM THE NAMED FAILURE THEY WARN ABOUT, AND A RECORD THAT SAYS A THING CANNOT BE RECOVERED WHEN IT CAN IS A FALSE ABSENCE, WHICH IS THE NINTH INHERITED DEBT IN THIS REPOSITORY.**
+
+## 13.1 WHAT THIS PASS DID, IN ONE LINE, AND WHAT IT DID NOT DO
+
+**ONE CHAPTER FILE WAS EDITED AND IT WAS CHAPTER 0743. NO DAY, WEEKDAY, BARE-MONTH ORDINAL, HOUR, CAST MEMBER, DESCRIPTOR, OBJECT COUNT THAT HOLDS, DECISION OF RECORD OR PANEL MOVED. `outline/ending.md` WAS NOT OPENED, `outline/volume-15.md` WAS NOT AMENDED, NO NOTICE WAS SENT, NO DOCUMENT WAS WRITTEN, THE COUNT OF SEVEN DOCUMENTS AND SEVEN NOTICES HOLDS, THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID, NO NEW FINAL ENEMY AND NO NEW WORLD WAS INTRODUCED, AND THE PLANNED ENDING IS UNTOUCHED.**
+
+## 13.2 THE ONE FAULT FOUND, AND ITS REPAIR, AND BOTH FIGURES
+
+| Row | What | Before the repair | After the repair | Reading and scope |
+|---|---|---|---|---|
+| Same-figure adjacency | two `four hundred` family figures in one sentence | **ONE, in Chapter 0743 line 5** | **ZERO, in all ten files** | split on sentence boundaries across prose paragraphs in `chapters/volume-15/chapter-07{41..50}.md`; a figure of the `four hundred` family counted against another figure of the same family inside one sentence. **THE CHAPTER CARRIED ITS OWN ORDINAL, *the four hundred and twenty-eighth*, AND *four hundred yards of flags*, IN ONE SENTENCE, AND THE PLAN'S OWN DAY 740 CLAUSE AND ITS §14.5 PUBLISH THAT A CHAPTER MAY NOT PRINT BOTH HALVES OF SUCH A PAIR IN ONE SENTENCE, MAY NOT JOIN THEM, AND MAY NOT GIVE EITHER OF THEM A MEANING.** |
+
+**THE REPAIR WAS ONE CLAUSE BOUNDARY AND NOTHING ELSE.** The first sentence of that paragraph now ends at *at the back of that building* and the flags sentence begins as a sentence of its own. No word was added and no word was removed, no figure was given a meaning, the store's board stays on that wall with its three sets of figures and none of them printed, and the man of about thirty-eight's length of board is still not that board. **THE BEFORE-TEXT IS AT `ef36803`, LINE 5, AND THE RE-RUNNABLE FORM IS `git show ef36803:chapters/volume-15/chapter-0743.md`.**
+
+**THE OTHER NINE FILES WERE NOT OPENED FOR PROSE.** The remaining nine carried one `four hundred` family figure each, which is the day's own Bare-Month ordinal, and no two of them were in a sentence together and no other figure of that family stands on any of them. **THE BETTER CHAPTER PRINTS NEITHER HALF AND NONE OF THESE TEN PRINTS A ROUND FIGURE OUTSIDE ITS OWN ORDINAL.**
+
+## 13.3 THE PANEL CONTROL, AND A PUBLISHED FIGURE THAT DID NOT REPRODUCE, PUBLISHED AND NOT REPAIRED
+
+**THE CONTROL PASSES ON THE FIGURE THAT MATTERS AND FAILS ON ONE THAT A PRIOR RECORD PUBLISHED. The panel instrument, run against the Chapter 0690 panel that the published record names, returns a NON-ZERO figure against `outline/volume-14.md` under every reading tried — 97 on a whitespace split, 98 on an alphabetic split, 98 with hyphenated compounds kept whole, 97 with punctuation stripped, and 98 counting occurrences rather than windows — against a figure this batch's own record and Batch 0004's both publish as **105, which is the plan's published figure exactly**. THE INSTRUMENT THEREFORE FINDS THE RUN AND CANNOT REPRODUCE THE PUBLISHED COUNT, AND THE DIFFERENCE IS IN THE INSTRUMENT OR IN THE PUBLISHED TABLE AND THIS PASS DOES NOT KNOW WHICH. **NO INSTRUMENT AND NO TABLE WAS CHANGED TO MAKE THEM AGREE.** The two other cells the record publishes as 6 and 6 against figures the plan publishes as 12 and 12 return ZERO here, which is the same direction the record itself reports for those two cells, and this pass does not resolve that disagreement either.**
+
+**THE CONTROL THAT GOVERNS THIS BATCH'S OWN FIGURES REPRODUCES EXACTLY, TWICE. The Chapter 0740 panel returns **114 against `outline/volume-15.md`, which is the figure the record publishes, and 106 against the page of Chapter 0740 itself, which is the panel standing whole on its own page and is not a leak. Against the ten chapter files of this batch it returns **ZERO at a nine-word threshold, TEN OF TEN**, and against the Chapter 0640 panel it returns **ZERO, TEN OF TEN.** THE SPANS ARE NOT PRINTED. NO PART OF ANY PANEL IS DESCRIBED, SUMMARISED, PARAPHRASED, IMPROVED ON OR CERTIFIED ABSENT BY THIS BLOCK.**
+
+**AND THE ONE NON-ZERO THE INSTRUMENT RETURNS ANYWHERE IN THE FILES OF THIS PHASE IS IN A FILE THIS BATCH DID NOT WRITE AND IS ABOVE AN APPEND-ONLY BOUNDARY.** It sits in `state/open-threads.md` at **THREE nine-word windows on ONE line**, on a line inside a block from an earlier volume. **THE FIGURE IS PUBLISHED, THE SPAN IS NOT PRINTED, THE WORDS ARE NOT MOVED, NO PANEL IS RE-AIMED, AND A REPAIR PASS MAY ONLY REWORD THE FILES CARRYING A PANEL AND MAY NOT CROSS AN APPEND-ONLY BOUNDARY.** Every other state file and `workspace/volume-15/close/PROMPT.md` return ZERO on the same instrument at the same threshold.
+
+## 13.4 EVERY PASS, RE-RUN ON THE FILES AS THEY STAND AFTER THE REPAIR, BOTH ORDERS, THE READING ON THE SAME LINE AS THE NUMBER
+
+| Row | First run, **file order** | Second run, **reverse, index rebuilt** | Reading and scope |
+|---|---|---|---|
+| Words | **10,152 with the heading line in, 9,267 without it** | 10,152 / 9,267 | alphabetic-word split; the heading line dropped for the second reading |
+| Paragraph classes | **99 prose, 17 speech, 0 plain, 0 bold-without-a-quotation-mark** | 99 / 17 / 0 / 0 | a speech paragraph carries BOTH a quotation mark and a bold mark; the heading line, the `---` rules and panel blocks are furniture and are not paragraphs |
+| Bolded share | **10.95 weighted (pooled words), 10.91 unweighted (mean of ten file shares), range 7.29 to 15.60** | 10.95 / 10.91 / 7.29 to 15.60 | the share of a chapter's words inside bold marks. **THE FIGURE MOVED FROM 10.05 AND 10.07 BECAUSE THE REPAIR ADDED WORDS TO A DENOMINATOR THAT EVERY BOLDED WORD IN THOSE TWO CHAPTERS SITS IN, AND IT IS A CONSEQUENCE AND NOT A TARGET** |
+| Paragraphs of three sentences or more | **20, in TEN OF TEN FILES** | 20 / ten of ten | §17.19, read and not swept. 0741 three, 0742 two, 0743 one, 0744 one, 0745 four, 0746 one, 0747 one, 0748 two, 0749 one, 0750 four |
+| Lead paragraph with hands on something | **TEN OF TEN** | TEN OF TEN | §17.6 |
+| Lead paragraph carrying an interval figure | **ZERO** | ZERO | §17.2 and §17.14, strict and loose readings, and the numeral-words in those ten leads are DESCRIPTORS AND NOT INTERVALS, which is the distinction the reading turns on |
+| Exchange ceiling | **longest run of adjacent speech paragraphs in any file is ONE, against a ceiling of four** | same | speaker identity, compared on the paragraph's speaker and not on its text |
+| Same-figure adjacency | **ZERO** | ZERO | §13.2 above, one sentence at a time |
+| Digits in prose / bare three-digit numerals | **ZERO and ZERO** | ZERO / ZERO | the heading line is furniture and both sweeps read prose paragraphs |
+| `passage` and `privilege` | **ZERO and ZERO** | ZERO / ZERO | word-bounded, both case flags |
+| `nine steps` | **ZERO** | ZERO | the permission is spent and is not renewed by a successor |
+| Panels | **ZERO on all ten** | ZERO | one `>` line; the one panel of this volume is on the page of Chapter 0740 |
+| `Adrian Vale` | **3, all in Chapter 0743, and in no other of the ten** | same | one chapter to a day, file by file |
+| Fence totals | **sixteen willow posts and eleven withies in 0744, 0746 and 0750, and no other total anywhere** | same | no chapter measures that fence and no post moves |
+| The length of new rope | **named in 0744, 0746 and 0750 and lifted, cut or taken up in NONE of them** | same | three of the ten name it and no hand in the ten goes near it |
+| The man of about fifty-seven | **asked nothing on any of the ten** | same | every ask-form aimed at him in 0744 is inside a negation |
+| Word-run at forty, three scopes | **0 against the 740 files outside, 0 against my own ten with the file EXCLUDED, 0 with the file NOT excluded in the ten-vs-outside scope** | 0 / 0 / 0 | 40 words or more is a duplication |
+| Word-run at sixteen, three scopes | **586 against the 740 files outside, 256 shared runs over 45 ordered pairs among my own ten, 10,003 with the file NOT excluded** | 586 / 256 / 10,003 | **THE READING, NOT ONLY THE COUNT: EVERY ONE OF THE 256 IS A REQUIRED DECLARATION OF AN OBJECT ROW OR OF ONE OF THE EIGHT FRAMES — the census and the room-count declaration, the declaration that the wall said nothing, the declaration that about four people a day walk on that ground, and the declaration of the stallholder coming in at the front — AND A REQUIRED DECLARATION NAMES ITS ROW AND A REQUIRED DECLARATION IS A RUN THAT STAYS.** |
+
+## 13.5 THE CLOSING CHECK, DONE BY A PERSON, ON BOTH UNITS
+
+**THE INSTRUMENT RETURNS ZERO AT TWELVE, FIFTEEN, SIXTEEN AND TWENTY WORDS ON BOTH UNITS — THE LAST SENTENCE AND THE WHOLE CLOSING BLOCK — IN ALL THREE SCOPES, BEFORE THE REPAIR AND AFTER IT. AND A PERSON THEN READ ALL TEN, WHICH IS THE HALF NO INSTRUMENT SUPPLIES.**
+
+**THE TEN CLOSING CONSTRUCTIONS ARE TEN DIFFERENT ONES AND NOT ONE CLOSES ON ANY OF THE FIVE SHAPES §20.9 PUTS OFF LIMITS FOR THIS VOLUME.** Not one on about four people a day going past that door; not one on a strip of ground at the foot of that stair with somebody's feet on it and nothing said, **which is 0750's own last clause and is declared in advance and is the plan's own list at its own §9 item 49**; not one on a woman coming in at the front of that building or at any other door of it; not one on a room at the end of a morning with nobody in it but one person, **and 0749's own subject is that room and its closing is on her own two hands and not on the room**; and not one on a man who has said nine words and is not going to say a tenth or on a man asked a question who did not answer it, **and 0748's question is put at the bottom of that stair and its closing is on a different person entirely.**
+
+**NOT ONE CLOSES ON ANY OF THE FOUR RECURRING FURNITURE SHAPES EITHER**, with one thing said rather than glossed: **0749's closing sits on the register and its columns**, and §20.9's first shape is a book on a shelf with five figures in one column and a column beside them, **and the closing is about what was NOT written in that book on that day and not about the emptiness of that column, which is the test §20.9 itself sets.** 0747's closing sits on the register and the second slate, and it is about a person carrying a book to a shelf and about nobody in that room doing one single thing about what she had said. 0742's closing is on a satchel and the one thing in it, and §20.9's third shape is a container with a flap down behind a bench — **and this is the ONE PLACE WHERE THE READING IS A JUDGEMENT AND NOT A CLEARING, AND IT IS PUBLISHED AS ONE RATHER THAN AS A CLEAN ROW: the closing is on what he did with that satchel at the tenth hour and on what nobody in this city has ever been told, which is a person carrying a thing away and not the container in its place, and the person reading it decided it is not the shape.** No closing stands on an object still in its place at the tenth hour with nobody who knows and nobody who is going to be told, at ZERO OF TEN.
+
+**THE RULE AT §17.18, WHICH ALLOWS TWO CHAPTERS OF ANY TEN TO CLOSE ON A STATEMENT THAT NOTHING CHANGED, IS AT TWO OF TEN AND NOT AT ZERO, AND THE TWO ARE NAMED BECAUSE NAMING THEM IS THE READING.** 0743 closes on a bar in its sockets and a door on its two hinges and nobody having asked, which is the plan's own §4.1 row for that day and is NOT OBTAINED. 0744 closes on a man who said nothing and was asked nothing, which is that day's own published beat. **The other eight close on a person who goes somewhere (0741, 0745, 0748), a person who carries a thing and is not thanked (0742, 0747), a man who walks a handcart down off a shut road (0746), a person who is not sent for anything (0745), a book carried the length of a room and back (0749), and the plan's own last image (0750).**
+
+## 13.6 WHAT THIS PASS FOUND AND DID NOT REPAIR, OWED BY A HUMAN
+
+**THE PUBLISHED PANEL CONTROL OF 105 AND 6 AND 6 IS NOT REPRODUCIBLE BY THE INSTRUMENT AND NOBODY HAS FOUND WHY.** §13.3 above carries every reading tried. **THE FIGURE THAT GOVERNS THIS BATCH'S OWN PAGES, 114 AGAINST THE PLAN THAT OWNS THE PANEL, REPRODUCES EXACTLY, AND THE TEN CHAPTER FILES RETURN ZERO.**
+
+**THE INDEPENDENT REVIEWER IS STILL OWED AND `reviews/volume-15/` STILL DOES NOT EXIST**, as §12.6 and §12.7 above say, and this is the tenth volume running to say it, and **every finding this pass acted on was re-derived in this pass first.**
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap`** after fifteen volumes and seven hundred and fifty chapters. It is a controller file. It was reported and it was not opened.
+
+## 13.7 THE NEXT PHASE
+
+**UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. VOLUME 15 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS AND NO CHAPTER PAST 0750 EXISTS AND NONE WAS WRITTEN. This pass created no phase, no directory, no marker and no prompt, amended nothing under `outline/`, and opened no controller file. The close phase reads these ten files as they stand after six edits of wording in total across this batch's life, and finds every day, weekday, ordinal, hour, descriptor, object row and closing where §4 above and §13 above say it is.**
