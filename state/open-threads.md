@@ -630,3 +630,76 @@ MEN OF ABOUT THIRTY-EIGHT ARE STILL TWO PEOPLE. (vii) THE MAN OF ABOUT THIRTY-FO
 CHALK IS STILL IN THAT POCKET. (viii) THE INDEPENDENCE DEBT IS UNCHANGED AND IS OWED BY A HUMAN, and this is the sixth
 time it has been named in this volume, and this pass strengthens the case rather than answering it: **fourteen faults
 across two passes over these ten files and not one of the fourteen was a count.**
+
+---
+
+## VOLUME 16, BATCH 0003 — WHAT THESE TEN DAYS OPENED, CLOSED, AND DID NOT TOUCH. NEWEST AND IT WINS.
+
+18. **THE FIGURE IS SPENT AND THE SPENDING IS ON A PAGE, AND THE NEXT THIRTY CHAPTERS INHERIT A NARRATOR THAT
+    DOES NOT KNOW IT.** `outline/volume-16.md` §6.5 and §8 and §17.14 all say the same thing three times and the
+    reason is given each time: **a narrator that knows the number makes the loss invisible.** Day 775 is on a page
+    and the number is in two mouths in it and in the narrator's narration three times, and from page one of day 776
+    it is in no mouth and in no narration, and the ten files from 776 to 780 in
+    `state/batch-summaries/volume-16-batch-0003.md` carry a literal *nine* nine times and every one of the nine is
+    accounted for, and three of them are *about nine years* on a board. **A batch that writes day 781 onward with
+    the number in its head has put back the one thing this volume spent, and the rule does not lapse on day 800
+    either.** This thread stays open until day 800.
+19. **THE ROOM'S OWN FIGURE WAS IN ITS OWN USE ON ONLY THREE OF THE FIVE DAYS BEFORE DAY 775, AND THE PLAN DOES NOT
+    REQUIRE IT ON ANY OF THEM.** The plan's day map gives no day a figure, and `outline/volume-16.md` §9 item 1
+    names the days of the first six. **The five days before the decision in this batch are 771, 772, 773 and 774, and
+    the figure is in a mouth on 772 and 774 and not on 771 and 773, which are the two of them Adrian Vale is in,
+    because §9 item 3 binds that. A reader who wants the instrument audible on every morning before it dies will not
+    get it from this batch, and the batch's own cards promised it and the first writing of three chapters described
+    a figure in narration without ever putting a value into a mouth, which is a room claiming a habit it is not
+    performing on the page.** Carried as a finding about the plan and not as a fault in the ten files: the arc of
+    a habit that is being given up does not need the habit printed on every morning, and the last morning it is
+    printed on is the morning it dies.
+20. **A SCRIPT'S ZERO IS STILL THE WRONG ANSWER, AND THIS WAS THE NINTH TIME IN THIS VOLUME, AND EVERY ONE OF THE
+    ELEVEN FAULTS THIS BATCH FOUND IN ITS OWN TEN FILES WAS FOUND BY A PERSON READING.** The instruments returned
+    clean on every one of them: two chapters whose closing paragraphs restated their own bodies; two closings
+    describing a mark that would be there in the morning, which are the same construction with the polarity
+    reversed; two closings that both put a woman and her open book in the closing paragraph; one closing written
+    on the *nobody in that room would ever know* family, which that family came back in and had to be re-aimed; a
+    speech paragraph written without its quotation marks in two of ten files, so that the paragraph classes row
+    read `bold_noquote` and not `speech`; `about four of the marks` in one file, which is §17.16's prohibition on
+    the letter; a claim in this record's own table that four speech paragraphs carried the room's own figure when
+    three did; and a row here that described a closing by its last sentence and not by the whole of it. **NOT ONE
+    OF THE ELEVEN WAS A COUNT, and one of them was a count that was wrong only because a reading was not stated
+    with it.** `reviews/volume-16/` does not exist, the review dispatch falls back to the writer's own agent, and
+    the debt is unchanged and is owed by a human.
+21. **§4.1'S TABLE STILL DOES NOT MATCH THE PLAN'S OWN MAP, AND A SECOND CHAPTER NOW SITS INSIDE THAT GAP WITHOUT
+    BEING FLAGGED THE WAY 0761 IS.** `outline/volume-16.md` §14.3's map numbers thirteen days for Adrian Vale and
+    carries 0771 as his ninth, 0773 as his tenth and 0780 as his eleventh. §4.1's table has eleven rows, has no row
+    for 0771 and no row for 0780, and lists 0773 as its ninth, and publishes `no` in all eleven of its rows against
+    its own prose two paragraphs above the table, which says this volume obtains four and does not obtain seven.
+    **The three chapters this batch wrote on those three days are all written as failures and all published as `no`,
+    on the conservative reading, and no fourth `yes` was invented anywhere and no plan file was edited. The
+    standing example of a finished chapter contradicting a published row is still Chapter 0761, flagged at
+    `state/batch-summaries/volume-16-batch-0002.md` §13.4, and the three chapters of this batch do not contradict
+    anything, because a chapter that fails its want cannot contradict a row that says it failed.** Carried
+    unchanged and not settled by a writer.
+
+### THE THREADS ABOVE THAT THIS BATCH DID NOT TOUCH AND DID NOT SETTLE, RESTATED SO THAT A NEXT PHASE DOES NOT HAVE
+### TO FIND THEM
+
+(i) **The volume's one decision is now on a page, on day 775, taken in that room by the man of about thirty-nine
+who trades on a board, with the cost named first in his own mouth, and nobody thanked him and nobody told him he
+was right, and it is written nowhere.** (ii) **The three costs are on days 764, 778 and 795, and the first two are
+on pages and the third is not, and what that room did about either of the first two is still not a decision of
+record and nobody may number it as one.** (iii) **The volume's one panel is still day 787 and is still handed on as a
+day and not as words, and the words of it are on that page and in no file, and no file may print them.** (iv)
+**The two women of twenty-nine are still never in one room and nothing settles whether they are one woman.**
+(v) **The two men of about thirty-eight are still two people and no chapter of this batch merged or settled them.**
+(vi) **The man of about thirty-four is still not the decider and his chalk has not come out of that pocket on any
+of the fifty days.** (vii) **The woman of about sixty-nine has not asked a fourth question in this volume and her
+not-asking is on no page of it and no page of these ten days.** (viii) **The man of about fifty-seven has not been
+asked anything on any of these ten days, his length of new rope was not used and not lifted, and the fence is
+neither measured nor has a post moved.** (ix) **The mark that came back out of place on the sheet of day 440 is not
+traced and no mouth in any of these ten files says anybody moved it.** (x) **The figure in the column on the right
+of that page and the word on the second slate were not set beside one another in any of these ten files, and the
+second slate is on the page of 0775 and on no other of the ten, and the register and the slate are not in one
+paragraph with one another or with that man's board on any of the ten.** (xi) **The day-154 sentence is not said,
+restated, paraphrased or improved on in any of these ten files.** (xii) **The fourth of the four said no is not
+counted at any value on any of these ten pages, and a sweep for `days since` across the ten returns zero.**
+(xiii) **The independence debt is unchanged and is owed by a human, and this is the ninth time it has been named in
+this volume, and the eleventh fault it is standing behind is the eleventh that no instrument could have found.**

@@ -375,3 +375,125 @@ EXACTLY AS THE SECOND REPAIR LEFT THEM.**
 **AND THE TEN CLOSINGS, READ AGAIN AFTER THE FIX: TEN CONSTRUCTIONS, AND EXACTLY ONE ON THE *NOBODY IN THAT ROOM WOULD
 KNOW* FAMILY, AND IT IS 0770. NOT ONE OF THE FIVE SHAPES §17.18 PUTS OFF LIMITS IS CLOSED ON, AND NOT ONE OF THE TEN IS
 A STATEMENT THAT NOTHING CHANGED.**
+
+---
+
+## VOLUME 16, BATCH 0003 — CHAPTERS 0771 TO 0780, DAYS 771 TO 780, ONE CHAPTER TO ONE DAY
+
+**The ten cards are at the head of `state/batch-summaries/volume-16-batch-0003.md` and every figure below is
+re-derived there with its instrument, its reading and its scope on the same line as the number. THIS BLOCK IS THE
+THIRD OF THREE ON VOLUME 16'S FIRST THIRTY CHAPTERS AND IT IS THE FIRST BLOCK THAT CARRIES THE VOLUME'S ONE
+DECISION.**
+
+1. **0771, day 771, a Tuesday, the four hundred and fifty-sixth day of the Bare Month, physical. Adrian, ninth.**
+   WHAT THE DAY WAS FOR: to stand a barrow against a wall at the salt wharf and leave it there. WHAT IT CHANGED:
+   the weather came over eleven miles of flats at the sixth hour and came down the near wall into a barrow that was
+   standing against it, and the man of about thirty-eight found a hand's depth of standing water in his own barrow,
+   tipped it out, and then set it down where he sets it and walked the length of it four times that morning to get
+   from the trough to the low place, which he had never had to do. There is no figure cut into that barrow and none
+   on either handle, and nothing in that yard that says which man stood it there or for how long. WHAT IT DID NOT
+   DO: it did not get the inside of that barrow dry, it did not put the barrow back where it belonged, and it is
+   not said in any mouth in that yard or in that room that the number the room says aloud, because the man who
+   moves it is in this chapter and nobody asks him anything. **Published outcome: `no`, on the conservative reading,
+   and §4.1 has no row for this day.**
+2. **0772, day 772, a Wednesday, the four hundred and fifty-seventh, political. Adrian: no.** WHAT THE DAY WAS FOR: a
+   room finding out what it is being asked. WHAT IT CHANGED: the man of about thirty-four asks the man of about
+   thirty-eight out loud, in front of the whole of that floor, where he will be on the morrow, and it is found
+   afterwards that he has been asking everybody all flood out in the row on his way up; he then gives up the near end
+   of that bench, which he has held every morning of the flood, and sits a forearm's length from the man of about
+   thirty-nine at the far end of it for two hours and says nothing, and the whole of that room gets past them at the
+   near end for the rest of the morning. At the tenth hour the man of about thirty-eight goes down that stair and
+   puts his hand flat on the bar of that door, which he has never once done. WHAT IT DID NOT DO: it asked nothing
+   about that room, it improved on no word, and the man of about thirty-nine was not asked one word about any part of
+   it. The room's own figure is said aloud twice, by two different people, and is not printed in any closing.
+3. **0773, day 773, a Thursday, the four hundred and fifty-eighth, character. Adrian, tenth.** WHAT THE DAY WAS FOR:
+   to carry a coil of used rope out past the last named house and leave it by the top of that shut road. WHAT IT
+   CHANGED: the man of about sixty comes out at the sixth hour, takes that coil off the gravel in both hands, puts
+   it back on the bed of his own handcart over the mallet, and says nothing; and he does not take that handcart out
+   past the last named house that morning, for the first time in a run of mornings of the flood, and nobody asked
+   him to stay in. He works a strip by the side of his own gate instead, and that strip is a spade deep and a
+   different colour from the rest of that gravel. WHAT IT DID NOT DO: it did not get that coil to the top of that
+   road, because a rope left by a shut road is a rope somebody picks up to get over a fence, and the fence along
+   that road is sixteen willow posts and eleven withies and was not measured and no post moved. **Published outcome:
+   `no`, and this is §4.1's one row for day 773 and it is taken from the table as published.**
+4. **0774, day 774, a Friday, the four hundred and fifty-ninth, discovery. Adrian: no.** WHAT THE DAY WAS FOR: to find
+   out why a book will not lie flat on a bench. WHAT IT CHANGED: the near end of that bench is found out to be two
+   hollows worn in the wood by two people leaning on it in the same two places every morning of the flood, and the
+   woman of about twenty-nine has been holding that page flat with her own hand every morning of it and nobody has
+   asked her why; and at the ninth hour the light finds the book lying flat in the two hollows on the high wood
+   between them, and she takes her hands off it, and she will put her hand on it in the morning anyway. The man of
+   about thirty-four puts his own hands in his own hollow and finds the dip in the wood under them and does not look
+   down. WHAT IT DID NOT DO: no mouth in that chapter asks what that book counts and no sentence in it says, and
+   the five figures stand in the column that holds them with a day against each, none struck, no sixth entered and
+   none taken out. The woman of about fifty-two says the room's figure aloud and says she would like somebody to
+   stop her, and nobody does.
+5. **0775, day 775, a Saturday, the four hundred and sixtieth, DECISION. Adrian: no.** WHAT THE DAY WAS FOR: to take
+   the volume's one decision. WHAT IT CHANGED: the man of about thirty-nine who trades on a board names the cost
+   first, in his own mouth, in front of about nine people, in daylight, with a date in chalk on the outside of the
+   door at the foot of that stair — he will not be able to say whether any of them came — and then says the
+   decision in seven words, in his own mouth: **No number is said in this room.** There was no notice, there is no
+   eighth notice, so the room is the people who turned up and it is done faster than a thing of that weight ought to
+   be done, and the chapter says that in a plain sentence of narration. Nobody improved on one word, nobody argued,
+   nobody agreed, nobody thanked him, nobody said one word about whether he had it right or wrong, and nobody asked
+   him whether he agreed with it; about four of them said out loud that they had not known what it was about and
+   about four said nothing at all. The woman of about twenty-nine is in that room and is not asked one word about
+   it. The woman of about fifty-two says nothing whatever about the cost. The decision is on no surface. WHAT IT DID
+   NOT DO: nobody thanked him, nobody agreed, nobody argued, nobody asked him why, nothing was written down, the
+   second slate is not on the page, and the register, the door, the ground, the fence, the rope, the satchel, the
+   chair and the stool are all untouched by it. The man of about thirty-one comes up that stair at the ninth hour
+   and says out loud that he has no idea what he is going to do with his hands at the fourth hour on Monday, and
+   nobody improves on it.
+6. **0776, day 776, a Sunday, the four hundred and sixty-first, DECISION, the second of the two middle days. Adrian:
+   no.** WHAT THE DAY WAS FOR: to write the morning after. WHAT IT CHANGED: **the number is not said aloud by
+   anybody in that room on any page of this chapter and it is not stated by the narrator, and the narrator does not
+   know it.** At the fifth hour nothing comes where a thing has come every morning of the flood, and the small talk
+   that has been sitting behind it for the length of a flood comes forward, and that room finds out it has been
+   quiet under it and has not known it was quiet. The man of about thirty-nine stays at the near end of that bench
+   for the rest of the morning instead of the far end of it, and the whole length of that floor bends itself around
+   him and not one person in it says a word about the bending. WHAT IT DID NOT DO: nothing is done about the
+   decision at any hour of that day, and the narration says so in a plain sentence and not in a mouth. The woman of
+   about fifty-two says nothing at all about any part of it, and so does the man of about thirty-four, who had said
+   something out loud in that room on most mornings of the flood.
+7. **0777, day 777, a Monday, the four hundred and sixty-second, character. Adrian: no.** WHAT THE DAY WAS FOR: to
+   write a morning exactly like the one before it. WHAT IT CHANGED: at the seventh hour the man of about thirty-four
+   says out loud, to nobody in that room, that a man coming in at the fifth hour on each of three mornings could not
+   have told one of the three from the other two, and nobody improves on a word of it; and the man of about
+   thirty-four is found out to have a figure of his own, kept in his own head on that bench at that hour every
+   morning of the flood, which nobody in that room has ever asked him for and which nobody on this morning is
+   asking anybody for. At the eighth hour the man of about thirty-nine goes down that stair and comes back at the
+   tenth and not one person in that room turns round, and the man of about thirty-four is the only one who notices,
+   and it is the first morning of that flood he has not got up off that bench the moment the room emptied. WHAT IT
+   DID NOT DO: it printed no figure, it said no figure, and it asked nobody anything.
+8. **0778, day 778, a Tuesday, the four hundred and sixty-third, COST. Adrian: no.** WHAT THE DAY WAS FOR: to name the
+   second cost in the mouth of the man whose own cost it is. WHAT IT CHANGED: at about the seventh hour the man of
+   about thirty-nine said out loud, without being asked, that he has put that figure into that room on more mornings
+   of this flood than he can put in an order, and that since Saturday morning he has not been able to say for one
+   morning of this flood whether he stood in that room on it, and that there is no way of getting any of that back.
+   Nobody thanked him, nobody improved on a word, nobody argued, nobody asked him why, and nobody asked him whether
+   he agreed with it; the woman of about fifty-two said nothing at all about any part of it. At about the ninth hour
+   he put his board down flat on the wood of that bench at the far end and left it lying there, and went down that
+   stair with it, and came back up in the morning with it under his arm, because it is his. WHAT IT DID NOT DO: it
+   printed no figure and it said no figure, it did not date an absence, and it is not the first time anybody in this
+   manuscript names a cost before a decision, and the chapter does not say that it is.
+9. **0779, day 779, a Wednesday, the four hundred and sixty-fourth, character. Adrian: no.** WHAT THE DAY WAS FOR: to
+   put a space about two fingers wide at the foot of a column on a page of this manuscript. WHAT IT CHANGED: the man
+   of about thirty-nine lays that board down face up on the wood of that bench at the far end at the fourth hour and
+   goes down into that row and leaves it; the man of about thirty-four comes in at the sixth hour, stops in the
+   middle of that floor for ten seconds, does not touch it, and sits down a few feet along from it; and the woman of
+   about twenty-nine is alone at that bench with a stranger's board for the length of about a minute, and looks at
+   the bare place, and does not put a finger on it. He does not look at the bare place either. At the tenth hour his
+   own hand goes flat over it and stays there going down that stair. WHAT IT DID NOT DO: no mouth in it asks him
+   what that space is, no name is spoken, the second slate is not on the page, the word in the column on the right
+   of that page is not printed and is not asked about, and the register and the second slate are not in one
+   paragraph with one another or with his board.
+10. **0780, day 780, a Thursday, the four hundred and sixty-fifth, physical. Adrian, eleventh.** WHAT THE DAY WAS FOR:
+    to have a barrow stood in the corner of a room over a market before the seventh hour. WHAT IT CHANGED: Adrian
+    Vale took that barrow out of that yard altogether and pushed it up eleven miles of flats and was on the second
+    mile at the sixth hour and the fourth at the tenth; the man of about thirty-eight came through that gate at the
+    seventh hour to an empty yard, walked a mile and a half up those flats on foot to fetch it, and carried it back
+    himself; that yard was emptied an hour later than it is emptied on a morning of the flood, the weather came over
+    those flats at the seventh hour and went into the low place in the stone in one long push with nothing standing
+    in the way of it, and the bucket lying in that low place lay in that water for longer than it has lain in it on
+    any morning of this flood. WHAT IT DID NOT DO: it did not get that barrow into that room, and it printed no
+    figure and said no figure, and the eleventh of the eleven is a `no`. **§4.1 has no row for this day and the
+    outcome is published `no` on the conservative reading.**

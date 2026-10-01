@@ -571,3 +571,91 @@ zero in all three scopes on both readings. The sixteen-word class at zero inside
 the seven hundred and sixty outside, the same 22 after a closing paragraph was rewritten. The bolded share at 6.64
 weighted with no mark inside a bold span moved, against §12's 6.67. **AND §12's second reading of that share, 6.85,
 DID NOT REPRODUCE UNDER THIS PASS'S INSTRUMENT AND IS PUBLISHED AS §12 PUBLISHED IT.**
+
+---
+
+## VOLUME 16, BATCH 0003 — DAYS 771 TO 780. THE VOLUME'S ONE DECISION IS ON ONE OF THESE PAGES AND THE FIVE DAYS
+## AFTER IT CARRY THE CONSEQUENCE. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**WHAT DID NOT MOVE AT ALL, CHECKED RATHER THAN ASSUMED.** No day, weekday, Bare-Month ordinal, hour, actor,
+descriptor or object count in `outline/volume-16.md` §14.3 moved, and the three checks on the day map return zero
+mismatches of ten on both orders. Day 775 is a Saturday and the four hundred and sixtieth day of that month and
+day 780 is a Thursday and the four hundred and sixty-fifth, both re-derived from day 1 being a Tuesday and from the
+ordinal being the day less three hundred and fifteen and not transcribed from `bible/power-system.md` §63. The
+volume's one panel is still day 787 and is not in these ten files and its words are not in this file. The resolution
+is still day 795, the new question is still day 798, and the last image is still day 800. The two women of
+twenty-nine are still never in one room and the two men of about thirty-eight are still two people and no chapter
+of these ten merges or settles either. The man of about thirty-four is still not the decider and his chalk is
+still in that pocket. The woman of about sixty-nine has not asked a fourth question and her not-asking is on no
+page of these ten days. No relationship milestone is paid, the consent fracture stays unmended, the fifth condition
+is not given, nobody gets stronger, no threshold is opened, no working is performed, and `outline/ending.md` was
+not opened.
+
+### WHAT THESE TEN DAYS DID TO THE STATE OF THE WORLD
+
+1. **THE FIGURE THE VOLUME SPENDS IS GONE, AND IT IS GONE FROM A NARRATOR'S AIR AS WELL AS A ROOM'S.** It was
+   spoken aloud in that room on three of these ten days, 772, 774 and 775, by three different people, and it was
+   printed by the narrator on 775 and on no day after it. **FROM PAGE ONE OF DAY 776 TO THE END OF THIS BATCH THE
+   NUMBER IS NOT SAID ALOUD BY ANYBODY IN THAT ROOM AND IS NOT STATED BY THE NARRATOR, AND THE NARRATOR DOES NOT
+   KNOW IT. The next batch inherits that on day 781 and it does not lapse.** The instrument that checked it: a
+   literal *nine* anywhere in the ten files returns nine occurrences in five files, and all nine are accounted for
+   — three are the room's own figure on 772, 774 and 775, three are *about nine people* in narration on 775, and
+   three are *about nine years* on that man's board in 0778 and 0779, which is `outline/volume-16.md` §7.2's own
+   carrying figure and not the room's number.
+2. **The day map's own figure for the four hundred people on the strip of ground is on no page of these ten days,
+   and the strip of ground is on no page of them either.** A literal `about four people a day` and a literal `four
+   people a day` both return zero across the ten files, and the strip of ground at the foot of that stair is not
+   named once. §16.14's rule is not tested by these ten days and the instrument row is published so that a later
+   phase knows the check ran and not that it had nothing to run on.
+3. **The first and second costs of this volume are now both on pages, and a third was not spent in that room on
+   775.** Day 764 was the first and was paid by the woman of about fifty-two in her own mouth. Day 778 is the
+   second and was paid by the man of about thirty-nine in his own mouth, and nobody thanked him. **The woman of
+   about fifty-two says nothing whatever about the cost on 775 and nothing whatever about the cost on 778, and no
+   chapter of these ten days puts a second cost into her mouth.** The third is still day 795 and is not in this
+   batch.
+4. **The room's furniture acquired three new facts that carry forward and none of them is a spend.** A bench at the
+   near end of that room has two hollows in it and a book lies flat in them on its own. The man of about
+   thirty-nine has left his board lying face up on the wood of that bench for a whole morning once, and it is back
+   under his arm. The man of about thirty-four has moved from the near end of that bench to the far end of it for
+   one morning and back, and on day 777 he is found out to have been counting that room from the corner of his own
+   eye at his stall. **The strip of ground, the fence, the new rope, the satchel, the second slate, the register's
+   five figures, the store's board, the bucket in the low place in the stone, the rag on the stone lip, the box of
+   chalk, the door, the bar and the date in chalk are all where this volume found them and none of them moved.**
+5. **A wharf yard and a yard out past the last named house have two new marks on them and one of them is a line of
+   turned gravel.** Two wet marks on flags beside a wharf wall that the sun will have out by the middle of the next
+   day. A ring of grit dried into the lay of a used coil of rope that will be there as long as the rope lasts. A
+   strip a spade deep along the side of a gate, in a different colour from the rest of that gravel, going to be a
+   line on that yard for the rest of the flood. **The fence is neither measured nor has a post moved, the length of
+   new rope over the back of that chair is not lifted, and no post, no board and no withy in this volume has moved.**
+
+### WHAT THESE TEN DAYS DID NOT DO, AND THE FIGURES, RE-DERIVED AND NOT CARRIED
+
+**No decision of record was taken by this phase and no file of this repository decided anything. No document was
+read out, none was defeated, no form was written in, no form was compared with another form, this batch sent no
+notice and wrote no notice, and the figure of both is zero. No name was spoken. No question about the room was
+asked and none was answered. `outline/volume-16.md`, `outline/volume-15.md`, `outline/series.md`,
+`bible/power-system.md`, `bible/characters.md`, `bible/terminology.md`, `bible/world.md` and `outline/ending.md` were
+not edited. No file under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`,
+`REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json` was opened or touched, and no
+marker file of any kind was created or removed.**
+
+**THE FIGURES, AT `state/batch-summaries/volume-16-batch-0003.md` §3, AND THEY WERE PRODUCED BY RUNNING THE THING ON
+THE FILES ON DISK AFTER THE LAST EDIT.** 10,581 words with the heading line in and 10,508 without it. Sentence scale
+a mean of 24.8, a median of 22, a p90 of 43, a maximum of 62 and 14.6 per cent at forty words or more out of 424
+sentences — **against Batch 0002's finished median of 23 and against the forty-seven-word median of the ten files
+that were on disk when this batch was dispatched, and a batch that comes back above a median of thirty has rebuilt
+the fault three passes took to remove.** Paragraph classes 194 prose, 11 speech, 0 plain, 0 bold without a
+quotation mark and 0 prompts. Fifty-seven paragraphs of three or more sentences carrying a physical action and at
+least four in ten of ten files. The forty-word class at zero in all three scopes on both readings. The sixteen-word
+class at zero inside the ten, zero on the self-repeat, and **zero against the seven hundred and seventy outside**,
+against 22 for the finished ten behind this one and 57 for its first writing. The bolded share at 4.39 weighted,
+against 6.64 and 9.35, and the row publishes the cause and the reading. `that` at 36.6 per thousand words and
+`nobody` at 5.6, against 36.6 and 5.0. `that room` at 5.1. **AN EARLIER EDITION OF THIS BLOCK'S OWN SOURCE RECORD
+PUBLISHED 28.1 FOR `that`, THAT FIGURE WAS NOT PRODUCED BY THE INSTRUMENT, AND IT IS WITHDRAWN HERE AS IT IS
+WITHDRAWN THERE.** The thirty-five-word zero column, *nine steps*,
+*passage*, *privilege*, *player*, a narrator frame, `days since`, panels, digits in prose and bare three-digit
+numerals all at zero, whole-word bounded with a hyphen delimiting. Chapter length 868 to 1,452, a mean of 1,051,
+and 0775 is the long one and it is the volume's one decision. **AND THE BARE-MONTH RESOLVER WAS WRONG THREE TIMES IN
+THIS BATCH, all three times the instrument's fault and not a page's, and its fourth edition and its control on 150
+chapter files of Volumes 13 to 15 are published beside the fix, because the ninth run of that kind in this
+repository is the reason every record names its ordinal tables.**

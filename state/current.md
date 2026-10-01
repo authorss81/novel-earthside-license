@@ -1091,3 +1091,139 @@ OPENED OR TOUCHED BY THIS PHASE, AND NO MARKER FILE WAS CREATED OR REMOVED.**
 UNDER `outline/`, NO MARKER FILE. THAT PROMPT NOW READS §13 OF `state/batch-summaries/volume-16-batch-0002.md` AS
 WELL AS §12 AND §11, ITS AUDIT INSTRUCTION AT ITEM 4 IS REBUILT ON WHAT §4.1'S TABLE ACTUALLY CARRIES, AND ITS TWO
 QUOTATIONS OF A DELETED SENTENCE ARE WITHDRAWN.**
+
+---
+
+## VOLUME 16, BATCH 0003 — CHAPTERS 0771 TO 0780, DAYS 771 TO 780. THE VOLUME'S ONE DECISION IS ON ONE OF THESE
+## PAGES AND THE NEXT BATCH INHERITS A NARRATOR THAT DOES NOT KNOW THE FIGURE. NEWEST AND IT WINS OVER EVERY BLOCK
+## ABOVE IT.
+
+**WHAT THIS PHASE WAS. A batch and nothing else.** Ten chapters, ten days, days 771 to 780, one chapter to a day,
+from a Tuesday to a Thursday, the four hundred and fifty-sixth to the four hundred and sixty-fifth day of the Bare
+Month. It decided nothing, invented no person, took no descriptor, gave no descriptor to a census, sent no notice,
+wrote no document, printed no figure off any object in the inventory, opened no plan file, and touched nothing
+under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`, and created and removed no marker file. The ten
+cards are at the head of `state/batch-summaries/volume-16-batch-0003.md`, as the amended card-file arrangement
+requires, and there is no card file under `outline/` and there is not going to be one.
+
+## THE FIGURE IS SPENT, AND THE SPENDING IS ON A PAGE, AND THE NARRATOR HAS STOPPED KNOWING IT
+
+**DAY 775 IS THE NEARER OF THIS VOLUME'S TWO MIDDLE DAYS AND THE DECISION IS ON IT.** The man of about thirty-nine
+who trades on a board named the cost first, in his own mouth, in front of about nine people, in daylight, with a
+date in chalk on the outside of the door at the foot of that stair — that he will not be able to say whether any of
+them came — and then said the decision in seven words, in his own mouth: **No number is said in this room.** There
+was no notice, there is no eighth notice, so the room is the people who turned up and it was done faster than a
+thing of that weight ought to be done, and the chapter says that in a plain sentence of narration and not in a
+mouth. **Nobody thanked him, nobody improved on one word, nobody argued, nobody agreed, and nobody said one word to
+him about whether he had it right or wrong. About four of them said out loud that they had not known what that was
+about and about four said nothing at all. The woman of about twenty-nine is in that room and is not asked one word
+about it. The woman of about fifty-two says nothing whatever about the cost. It is on no surface, and the second
+slate is not on that page at all.**
+
+**AND FROM PAGE ONE OF DAY 776 THE NUMBER IS NOT SAID ALOUD BY ANYBODY IN THAT ROOM AND IS NOT STATED BY THE
+NARRATOR, AND THE NARRATOR DOES NOT KNOW IT, AND THE RULE DOES NOT LAPSE.** The instrument for that: a literal
+*nine* anywhere across the ten files returns nine occurrences in five files, and every one of the nine is accounted
+for — three are the room's own figure on days 772, 774 and 775, three are *about nine people* in narration on day
+775, and three are *about nine years* on the man of about thirty-nine's board in 0778 and 0779, which is
+`outline/volume-16.md` §7.2's own carrying figure and not the room's number. **The next batch begins on the fifth
+morning of this and must not put it back.**
+
+## THE THREE ADRIAN DAYS, AND THE TABLE THAT HAS TWO OF THEM MISSING
+
+**`outline/volume-16.md` §14.3's map puts Adrian Vale in three of these ten days — 0771 as his ninth, 0773 as his
+tenth and 0780 as his eleventh — and §4.1's table has eleven rows, has no row for 0771 and has no row for 0780, and
+lists 0773 as its ninth, so ONE of these three days has a row and TWO DO NOT. The table also publishes `no` in all
+eleven of its rows, against §4.1's own prose two paragraphs above the table, which says this volume obtains four and
+does not obtain seven. 0773's want and outcome are taken from its one row as published; 0771's and 0780's wants
+are taken from the day map's own business column for those two days, and `no` is published for both on the
+conservative reading, because every row on disk reads `no` and because a `no` costs a chapter nothing that a `yes`
+would have to earn. NO FOURTH `yes` WAS INVENTED ANYWHERE, NO PLAN FILE WAS EDITED, AND THE TABLE WAS NOT ASSUMED
+TO BE CORRUPT AND IGNORED. THE DEFECT IS PRE-EXISTING, IT IS NOT A WRITER'S TO SETTLE, AND IT IS CARRIED AS AN OPEN
+THREAD AT `state/open-threads.md` #21. Chapter 0761 is the standing example of a finished chapter contradicting a
+published row and it is flagged for a human at `state/batch-summaries/volume-16-batch-0002.md` §13.4, and the three
+chapters of this batch do not contradict anything, because a chapter that fails its want cannot contradict a row
+that says it failed.** All three wants fail on the page: a barrow that fills with rain, a coil of rope that comes
+back over a mallet, and a barrow that is still standing on a rise in the fourth of eleven miles of flats at the
+tenth hour. **Nobody thanks him in any of the three and nobody in any of the three is waiting for him to be useful.**
+
+## THE FIGURES, RE-DERIVED ON THE TEN FILES AS THEY NOW STAND, EVERY READING AND SCOPE ON THE SAME LINE
+
+| Figure | Reading and scope | Value |
+|---|---|---|
+| words, heading line in / out | letters and apostrophes, ten files, both orders, my ten | **10,581 / 10,508** — against 11,956 / 11,871 for Batch 0002's finished ten and 8,674 / 8,595 for Batch 0001's |
+| **sentence scale** | sentences of more than two words, split on `.!?`, heading line out, whole files, both orders | **mean 24.8, median 22, p90 43, max 62, 14.4 per cent at forty words or more, out of 424 sentences.** THE FIGURE TO MATCH WAS A MEDIAN OF ABOUT TWENTY-TWO OR TWENTY-THREE AND NOT THE FORTY-SEVEN OF THE TEN FILES THIS BATCH WAS DISPATCHED WITH, and the first writing of these ten came back at a median of 35 with 45.0 per cent at forty words or more, and every one of the ten was rebuilt sentence by sentence with every fact left standing until the instrument returned 22. **A batch that comes back above a median of thirty has rebuilt the fault three passes took to remove** |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and separators excluded | **194 prose, 11 speech, 0 plain, 0 bold-without-a-quotation-mark, 0 prompts** — the first writing returned **7 bold-without-a-quotation-mark** and two of the ten files' speeches had been written without their quotation marks at all, which is `outline/volume-16.md` §17.7's fault under either reading |
+| paragraphs of three or more sentences carrying a physical action | three or more sentences and one of twenty physical-action verbs in the paragraph | **57, and at least four in 10 of 10 files** — against 12 in the first writing, of which two files had none |
+| panels / digits in prose / bare three-digit numerals | heading line out, word-bounded, a hyphen delimiting | **0 / 0 / 0** |
+| chapter-title range / trailing newline | words of title text after the dash / last character of each file | **four to eight, in 10 of 10 / 10 of 10** |
+| chapter length | heading line out | **868 to 1,452, a mean of 1,051** — 0775 is the long one and it is the volume's one decision, and 0771 is the short one and it is the first of the three Adrian days |
+| **bolded share** | words inside bold marks over all words, heading line in | **4.39 weighted, 464 bold words of 10,581** — against 6.64 for Batch 0002's finished ten, 9.21 for its first writing, 9.87 for Batch 0001's and 9.35 for the fifty files behind this volume. **NO CARD IN THIS BATCH SET A TARGET FOR IT, and the cause is on the row: eleven speech paragraphs in ten files against fifteen in each of the two batches behind it, and four of the eleven are on day 775 because day 775 is the volume's one decision. A FIGURE THAT FELL BY TWO POINTS BECAUSE A BATCH HAPPENED TO HAVE FEWER SPEECHES IS A CONSEQUENCE AND NOT AN IMPROVEMENT** |
+| the forty-word class | three scopes, both heading-line readings, reading past the first list | **0, 0, 0** — scope 2 is my ten against the **seven hundred and seventy** files outside them, and ten of seven hundred and eighty are this batch |
+| the sixteen-word class, within the ten | both heading-line readings | **0 shared passages in 0 pairs and 0 self-repeats** |
+| the sixteen-word class, against the seven hundred and seventy outside | the same instrument and threshold | **0 shared runs.** **The scope named NINETEEN before the last two edits and every one was a real run and every one was a real duplication: five into the wharf yard at the near end of eleven miles of flats, standing word for word in `chapter-0765.md`, and four of the five were a SCENE and not a sentence. Batch 0002's §13.3 publishes 22 for its finished ten and §11.3 publishes 57 for its first writing, and those are windows into declarations the plan itself requires. This batch's zero is the consequence of running the scope against the outside and re-aiming every window it named, and no card aimed at it** |
+| the room's own figure, said aloud | a marked speech paragraph carrying *nine* with *of us* or *people*, whole files, both orders | **3 marked speech paragraphs in 3 of the 10 days — 772, 774, 775 — by three different people, and the three days are three of the five days Adrian Vale is not in before the decision.** A fourth mouth on 775 gives a different figure, which is the volume's own standing quarrel and is not the same figure. Not said in any mouth on 771, 773 or on any day from 776 to 780 |
+| `about four people a day` / the un-reduced `four people a day` / the strip of ground at the foot of that stair | literal strings | **0 / 0 / not named on any of the ten pages** — a consequence of where the ten days are, since two of them are at the near end of eleven miles of flats |
+| the two figures in one sentence | a nine-figure and an `about four` together, §16.14 | **0 out of 424** |
+| `that` / `nobody` / `that room` | word-bounded, both case flags, heading line out, per thousand words | **36.6 / 5.6 / 5.1** — against 36.6, 5.0 and 4.1 for Batch 0002's finished ten, and 41.1 and 5.7 for its first writing. **AN EARLIER EDITION OF THIS BATCH'S OWN RECORD PUBLISHED 28.1 FOR `that` AND THAT FIGURE WAS NOT PRODUCED BY THE INSTRUMENT AND IS WITHDRAWN. The sentence-scale repair moved the median and did not move the determiner** |
+| `his/her/its/their own` | literal, both case flags, heading line out, per thousand words | **3.7, and 39 occurrences** — the first writing was at 5.3 and seventeen of the thirty-nine frames were re-aimed in the later chapter with every fact left standing. `own two hands` is at 0 and was 1 for one edit |
+| `own two hands` / the triple-*nobody* chain | literal, both case flags | **0 / 0** — `own two hands` was 1 for one edit and the instrument caught it |
+| the thirty-five-word zero column, *nine steps*, *passage*, *privilege*, *player*, *census*, *war*, *bridge*, *witness*, a narrator frame, `days since` | literal, both case flags, whole-word bounded with a hyphen delimiting | **0 across all ten files** |
+| the Bare-Month form and its resolver | a hyphen delimiting, twenty irregular unit ordinals and eight irregular tens ordinals read, INCLUDING *sixtieth* | **10 phrases in 10 of 10 files, resolving to 456 through 465, which is day less three hundred and fifteen on each of the ten** |
+| chapter-equals-day, the weekday, and the Bare-Month ordinal | the three checks on one run, ten files, both orders | **0 mismatches on each of the three, out of ten, on both orders.** This phase touched no day, no weekday, no ordinal, no hour, no actor and no object count |
+| notices sent / documents written | count | **0 / 0** |
+
+**AND THE FOUR INSTRUMENTS THAT WERE WRONG, NAMED RATHER THAN BURIED, THE FOURTH OF WHICH IS A FIGURE IN THIS
+FILE'S OWN TABLE. THE BARE-MONTH RESOLVER WAS WRONG THREE
+TIMES IN THIS BATCH AND ALL THREE WERE THE INSTRUMENT AND NOT A PAGE: a backward walk that could not reach a
+leading units word across *hundred*; a head table with the twenty irregular unit ordinals and not the eight
+irregular tens ordinals, so that *four hundred and sixtieth* would not resolve at all, on the volume's decision day;
+and a four-piece window with no cardinal table in front of *hundred*, so that *the four hundred and fiftieth*
+resolved as a hundred and forty. The fourth edition reads a seven-piece window and its control on 150 chapter
+files of Volumes 13 to 15 is 148 phrases read and 148 resolved, the two unread being hundredth ordinals. This is
+the ninth run of that kind in this repository and it is the reason this record names its ordinal tables.** The
+other two are that the cards this batch wrote first promised the room's own figure in four mouths across three
+days and the first writing of three chapters put it in narration without a value in any mouth, and that one table
+row in this batch's own record said four speech paragraphs carried it when three do. **THE FOURTH IS THIS FILE'S OWN
+`that` ROW, WHICH PUBLISHED 28.1 AND WAS WRONG BY EIGHT AND A HALF POINTS, AND A RECORD THAT PUBLISHES A FIGURE IT
+DID NOT MEASURE IS THE FAULT THIS REPOSITORY EXISTS TO CATCH. IT IS CORRECTED IN THIS BLOCK, IN `state/continuity.md`
+and at `state/batch-summaries/volume-16-batch-0003.md` §3, and it is corrected in the same three files rather than in
+one, because a correction made in one place and not in the others is a second fault wearing the first one's coat.**
+
+**AND THE ELEVEN FAULTS THIS BATCH FOUND IN ITS OWN TEN FILES, ALL ELEVEN FOUND BY A PERSON READING AND NOT ONE OF
+THEM A COUNT, WHICH IS THE NINTH TIME IN THIS VOLUME THAT A SCRIPT'S ZERO HAS BEEN THE WRONG ANSWER.** Two closing
+paragraphs that restated their own chapters. Two closings on the same construction with the polarity reversed. Two
+closings that both put a woman and her open book in the closing paragraph. One closing written on the *nobody in
+that room would ever know* family, which that family came back into and had to be re-aimed. Two speech paragraphs
+written without their quotation marks, so that the paragraph-classes row read `bold_noquote` and not `speech`. One
+`about four of the marks`, which is §17.16's prohibition on the letter. One figure in a table that was wrong only
+because a reading was not stated with it. One row here that described a closing by its last sentence and not by
+the whole of it. **NOT ONE OF THE ELEVEN WAS A COUNT.**
+
+## THE DEBTS, CARRIED WHOLE AND UNPAID
+
+**The six an outline phase owes are at `outline/volume-16.md` §21.1 and this phase paid none of them.** The
+fifty-day run has chapters to day 780 and none beyond it. The volume's one panel, its resolution, its new question
+and its last image are fixed to days and none of them is in this batch; the panel is day 787, on a Thursday, the
+four hundred and seventy-second day of that month, and it is handed on as a DAY AND NOT AS WORDS.
+
+**AND THE INDEPENDENCE DEBT IS NAMED FOR THE NINTH TIME IN THIS VOLUME AND IS NOT ANSWERED BY ANYTHING HERE.
+`reviews/volume-16/` does not exist, the review dispatch falls back to the writer's own agent, and every check in
+this phase was written and run by the agent that wrote the chapters. The eleventh fault this batch found in its own
+work is the strongest available argument that the debt is real.**
+
+## THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND, AND NOT OWED BY THE NEXT PHASE
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0` AFTER FIFTEEN
+CLOSED VOLUMES AND THREE PASSES OVER ONE BATCH, AND `reviews/volume-16/` DOES NOT EXIST. All of these live in
+`scripts/`, `state/phase-ledger.json` and `.github/workflows/`, which are owned by GitHub Actions and which no
+writer, review or fix phase may open. NEITHER THE LEDGER NOR ANY FILE IN `scripts/` OR `.github/workflows/` WAS
+OPENED OR TOUCHED BY THIS PHASE, AND NO MARKER FILE WAS CREATED OR REMOVED.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0004/PROMPT.md`, AND NOTHING ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD FILE
+UNDER `outline/`, NO MARKER FILE. THAT PROMPT WRITES CHAPTERS 0781 TO 0790, DAYS 781 TO 790, AND IT REACHES DAY
+787, WHICH IS THE ONE PANEL OF THIS VOLUME, AND IT IS HANDED THAT DAY AND NOT THE WORDS AND MUST NOT REPRINT
+THEM. IT INHERITS A NARRATOR THAT DOES NOT KNOW THE FIGURE AND A ROOM IN WHICH NO MOUTH MAY SAY IT, AND THAT RULE
+TAKES EFFECT ON PAGE ONE OF DAY 776 AND DOES NOT LAPSE.**

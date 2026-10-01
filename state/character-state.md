@@ -714,3 +714,106 @@ ANYTHING AND HIS ROPE IS NOT USED AND THE FENCE IS NEITHER MEASURED NOR HAS A PO
 SIXTY-NINE DOES NOT ASK A FOURTH QUESTION IN THIS VOLUME AND HER NOT-ASKING IS ON NO PAGE OF IT. NO NAME IS SPOKEN ON
 ANY OF THESE TEN DAYS. NO RELATIONSHIP MILESTONE IS PAID ON ANY OF THEM AND THE CONSENT FRACTURE STAYS UNMENDED AND
 THE FIFTH CONDITION IS NOT GIVEN.**
+
+---
+
+## VOLUME 16, BATCH 0003 — DAYS 771 TO 780. THE DECIDER PAID THE VOLUME'S SECOND COST ON DAY 778 AND A PROTAGONIST
+## OF ELEVEN DAYS FAILED IN THREE. NEWEST AND IT WINS.
+
+**NO PERSON WAS INVENTED, NO DESCRIPTOR WAS TAKEN, NO CENSUS WAS GIVEN A DESCRIPTOR, AND NO NAME OR PLACE ARRIVED
+BY NARRATION. A sweep of the ten files for `of about N` returns thirty-four, twenty-one, twenty-nine, thirty-nine,
+fifty-two, twenty-seven, sixty and thirty-one, and those are the plan's own, and the only other two are *ten yards*
+and *nine years*, which are a length and a carrying figure and not a person.**
+
+### THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD — HE DECIDED, AND HE PAID, AND HE WAS ASKED NOTHING
+
+**STAGE 2 IS NOT HIS AND NOTHING ON THESE TEN DAYS TOUCHES HIS POWER, AND THE FIGURE HE HOLDS WAS SPENT ON DAY 775
+IN HIS OWN MOUTH.** His second handle is unchanged and is the same in every chapter he is in: a board under his arm,
+nineteen rates traded in four markets for about nine years, one name that is not on it, and a space about two fingers
+wide at the foot of the column between the other two. **NO MOUTH IN ANY OF THESE TEN FILES ASKS HIM ABOUT THAT SPACE
+AND NO CHAPTER OF THIS VOLUME MAY, AND NO NAME IS SPOKEN ON ANY OF THESE TEN DAYS.**
+
+- **Day 772** — at the far end of that bench with his boots in the gap between the bench and the wall, his right hand flat on the face of his own board. **The man of about thirty-four moved down that bench to a forearm's length from him at about the sixth hour and sat there the better part of two hours and said nothing whatever, and neither of them looked at the other at any hour of it, and nobody in that room asked him one word about the move.**
+- **Day 774** — at the far end of that bench on the far side of it with his back to the wall, and the flat of his right hand on the face of his board, and not one person in that room said a word to him at any hour of that morning. **He was the only person in that room the woman of about twenty-nine was ever going to be able to be alone with, and he was not in the room.**
+- **Day 775 — THE ONE ACT IN FIFTY CHAPTERS.** He named the cost first, in his own mouth, in front of about nine people: that he will not be able to say whether any of them came. Then he said the decision in seven words, in his own mouth: **No number is said in this room.** **Nobody thanked him, nobody argued with it, nobody agreed with it, nobody improved on one word of it, nobody said one word to him about whether he had it right or whether he had it wrong, nobody asked him why, and nobody asked him whether he agrees with it.** There was no notice and no cooling, so the room was the people who turned up and it was done faster than a thing of that weight ought to be done. It is on no surface. At the tenth hour he went down that stair with his board and stopped on the top step and put the flat of his hand against the wall beside him, and there is a print of the flat of a palm in the dust of that wall now.
+- **Day 776** — he did not go to the far end of that bench at the fifth hour for the first time in the length of the flood. He stayed at the near end of it, on the other side of the woman's page, with his board flat on the wood and his hand on the face of it, for the rest of the morning. **Every person in that room came past the near end of that bench instead of the far end of it, and the whole length of that floor bent itself around a man who was not standing where he stood, and not one of them said a word about the bending.** The man of about thirty-eight had to come in close past the two of them with the handles up over his own shoulder, which he had never once had to do.
+- **Day 777** — he went down that stair at about the eighth hour and came back up at about the tenth, and not one person in that room turned round, and the man of about thirty-four was the only one who noticed. He said nothing whatever about it and he was not asked anything at all that morning.
+- **Day 778 — HE PAID THE VOLUME'S SECOND COST, IN HIS OWN MOUTH, WITHOUT BEING ASKED.** He said out loud that he has put that figure into that room on more mornings of this flood than he can put in an order, and that since Saturday morning he has not been able to tell anybody for one morning of this flood whether he stood in that room on it, and that there is no way of getting any of that back, and that he is not saying it to be thanked for. **Nobody thanked him, nobody improved on a word of it, nobody argued with it, nobody asked him why he had done what he had done on the Saturday, and nobody asked him whether he agreed with it.** The woman of about fifty-two said nothing at all about any part of it. And at about the ninth hour he put his board down flat on the wood of that bench at the far end of that room, face up, and left it lying there for the rest of the morning, and went down that stair at the tenth hour with it, and came back up in the morning with it under his arm, because it is his. He did not give it up and nobody asked him to.
+- **Day 779** — he laid it down on the wood at the far end at the fourth hour, face up, and went down that stair and out into that row and left it lying there. The man of about thirty-four came in at the sixth hour, stopped in the middle of that floor for the length of about ten seconds, and did not touch it. **He came back up at the seventh hour and did not look at the bare place.** He stood the board against the leg of that bench with his hand flat on the face of it for the rest of the morning. At the tenth hour he put his right hand flat over that bare place, low down, where his own hand came to without him having to look for it, and kept it there, and went down that stair with the palm of his hand flat on a piece of bare wood about two fingers wide. **The last thing that happened to that place in that room's daylight was a hand covering it.**
+
+### ADRIAN VALE — THREE DAYS, THREE FAILURES, THREE THINGS THAT HAPPENED TO OTHER PEOPLE
+
+**STAGE 2 ON ALL TEN OF THESE DAYS AND ON THE WHOLE OF THIS VOLUME'S FIFTY. He performs no working, no threshold is
+opened, the other world is not named once across these ten files, nobody offers him a workway and he asks for none,
+he is aged nowhere, and *passage* and *privilege* are at zero across these ten files. He is in three of the ten —
+0771, 0773 and 0780 — and in none of the volume's seven heavy days, and day 775 is one of them. Nobody thanks him in
+any of the three, nobody tells him he was right, nobody in any of the three is waiting for him to be useful, and he
+is not useful to any of them.**
+
+- **DAY 771, HIS NINTH.** **His hands:** both hands under the two handles of a barrow at the near end of eleven miles of flats. **What he wanted it for:** to have it stood against that wall out of the run of the water, so that the man who owns it would put his own hands on it at the seventh hour and find it dry. **NOT OBTAINED**, and the page is a `no` in every reading available: the weather came over those flats at the sixth hour and came down the near wall into it, and there is a hand's depth of standing water in the bottom of that barrow when the man of about thirty-eight puts his own hands flat in it. **What happened to somebody else because of him:** that man tipped the water out, set the barrow down where he sets it, and walked the length of it four times that morning to get from the trough to the low place, which he had never had to do, and he said nothing about it. There is no figure cut into that barrow and none on either handle, and nothing in that yard that says which man stood it there or for how long.
+- **DAY 773, HIS TENTH, AND THE ONE DAY OF THESE THREE WITH A ROW IN `outline/volume-16.md` §4.1'S TABLE.** **His hands:** a coil of rope that had been used, off the bed of a handcart out past the last named house. **What he wanted it for:** to carry it out past that house and leave it by the top of that shut road. **NOT OBTAINED**, as §4.1's row publishes. He carried it twenty feet and set it down on the gravel at the foot of that road and understood standing there that a rope put by the top of a shut road is a rope put there for whoever turns up next with something to get over a fence with, and he was not going to carry it the other twenty. **What happened to somebody else because of him:** the man of about sixty came out at the sixth hour, took that coil off the gravel in both hands, looked at the wet print in it for about as long as it takes to decide a thing is not worth asking anybody about, put it back on the bed of his own cart over the mallet, and said nothing; and he did not take that handcart out past the last named house that morning, for the first time in a run of mornings of the flood, and nobody asked him to stay in, and he worked a strip a spade deep along the side of his own gate instead.
+- **DAY 780, HIS ELEVENTH.** **His hands:** a barrow handle, at the near end of eleven miles of flats. **What he wanted it for:** to have that barrow stood in the corner of the room over that market before the seventh hour, so that the man who owns it would not have to be standing in a wet yard at the seventh hour. **NOT OBTAINED**, published `no` on the conservative reading because §4.1 has no row for this day and every row on disk reads `no`. He was on the second mile at the sixth hour and the fourth at the tenth, lifting the load on the axle instead of the handles, and stopping three times in the first mile. **What happened to somebody else because of him:** the man of about thirty-eight came through that gate at the seventh hour to an empty yard, walked a mile and a half up those flats on foot to fetch it, and carried it back down himself; that yard was emptied an hour later than it is emptied on a morning of the flood; the weather came over those flats at the seventh hour and went into the low place in the stone in one long push with nothing standing in the way of it; and the bucket lying in that low place, which is the only bucket in this city, lay in that water for longer than it has lain in it on any morning of this flood. **Nobody in that yard said one word to anybody about where that barrow had spent the morning, and nobody was thanked, and nobody was told that anything a stranger had done there was the reason for anything.**
+
+### EVERYBODY ELSE ON THESE TEN DAYS — UNCHANGED, AND THE HANDLE IS THE SAME IN EVERY CHAPTER
+
+**The woman of about fifty-two** is the one who said the room's own figure out loud on day 774 and asked, in her own
+mouth and in the ordinary course, for somebody in that room to stop her, and nobody did, and two days later the man
+of about thirty-nine stopped it and she said nothing whatever about the cost. **She is on day 775 and on day 778 and
+she says nothing whatever about any part of either, and no second cost is put into her mouth on any of these ten
+days.** Her hands are at the sides of her own dress at the eighth hour and the tenth hour and every hour of every
+one of these ten days in which she is in that room.
+
+**The woman of about twenty-nine who keeps that register** says the figure aloud for the first time in ten days on
+day 772, in her own mouth, and nobody improves on a word of it. On day 774 she is found out to have been holding a
+book flat on the wood of that bench with her own hand every morning of the flood because the bench carries two
+hollows, and at the ninth hour she takes her hands off it and it lies flat on the high wood between the two hollows
+on its own, and she will put her hand on it in the morning anyway. On day 775 she has that book open on the wood of
+that bench from the fourth hour to the tenth hour with five figures in the column that holds them and a day against
+each of the five, and nothing entered after them and nothing taken out, and no hand goes near that page at any hour
+of that morning, and **nobody in that room says one word to her about the decision at any hour of that day.** On
+day 776 she turns a page over and there is nothing on the back of it and there has never been anything on the back
+of it. On day 779 she is alone at that bench with a stranger's board face up on the wood for the length of about a
+minute, she looks at the bare place at the foot of the column between the other two, and she does not put a finger
+on it. **The second slate is not on the page of day 775 at all and is on no other of these ten days, and the
+register and the second slate and that man's board are not in one paragraph with one another on any of the ten.**
+
+**The man of about thirty-eight at the salt wharf** has a barrow that fills with water because a stranger stood it
+against a wall on day 771, a barrow that is not in his yard at all on day 780, and a yard emptied an hour late; he
+comes up that stair with his barrow and is asked where he will be on the morrow, which is the first question anybody
+in that room has put to anybody in it where anybody could hear; he stops on the top step for the length of a minute
+on day 772; he puts his hand flat on the bar of the door at the foot of that stair for the first time in the whole
+of the flood; and on day 762's difference between two figures he is not in that room, and **no sentence and no mouth
+in any of these ten files connects the two figures he gives on day 775 to anything at all.**
+
+**The man of about thirty-four who keeps a stall two stalls along** has his chalk in his own inside breast pocket at
+every hour of all ten days and it does not come out of it, and nobody asks him about it. He asks the man of about
+thirty-eight where he will be on the morrow and finds out that he has been asking everybody all flood out in the
+row. He gives up the near end of that bench for one morning and sits a forearm's length from the man of about
+thirty-nine for two hours and says nothing. He puts both hands flat in his own hollow in that bench on day 774 and
+finds the dip in the wood under them and does not look down. He says the room's own figure aloud on day 777 — a
+figure nobody had ever asked him for, his own arithmetic, kept on that bench at that hour every morning of the
+flood, and the only number in that room that had ever been anybody's own. He is the only person up there who notices
+that a room carries on the same when a man goes out of it and comes back. He stops his mouth in the woman of about
+fifty-two's request on day 774, which she notices and nobody else does.
+
+**The man of about thirty-one who carries things for a living** sets his satchel on the wood of that bench on day
+775, says out loud that he has not the least idea what he is going to do with his hands at the fourth hour on Monday,
+is not improved on, and goes back down that stair with the flap down against its own side the whole way. **Nothing
+in that satchel is opened on any of these ten days, the flap is not turned up, and no mouth in any of these ten
+files asks what is in it or why he opens nothing he carries.** He is the one who says it who has nothing in his
+hands to say it with, and the batch's one man who names the cost of the decision without being asked to.
+
+**The man of about twenty-seven** brings the one bucket in this city up out of the yard below that room on day 776
+with the bucket hanging out of his hand and says that there is a foot of water standing in that yard that had not
+been there the day before and that he got his own boot in it up to the middle coming up that stair, says the boards
+at the store's end of that row are letting the rain through onto the trestles for the first time this flood, has the
+first word he has had with the man of about thirty-one in a run of mornings, and comes up out of that yard on his
+way out on day 778 and says the water in it has gone down another inch. **Nobody asks him anything on any of these
+ten days.**
+
+**THE MAN OF ABOUT SIXTY HAS A HANDCART AND A MALLET WITH ITS HEAD BOUND IN CORD AND A COIL OF ROPE THAT HAS BEEN
+USED, OUT PAST THE LAST NAMED HOUSE, AND ON DAY 773 HE PUTS THE COIL BACK ON HIS OWN BED AND DOES NOT GO DOWN THAT
+ROAD. THE MAN OF ABOUT FIFTY-SEVEN IS NOT ASKED ANYTHING ON ANY OF THESE TEN DAYS, HIS LENGTH OF NEW ROPE IS NOT
+USED AND IS NOT LIFTED, AND THE FENCE IS NEITHER MEASURED NOR HAS A POST MOVED. NO NAME IS SPOKEN ON ANY OF THESE
+TEN DAYS. NO RELATIONSHIP MILESTONE IS PAID ON ANY OF THEM AND THE CONSENT FRACTURE STAYS UNMENDED AND THE FIFTH
+CONDITION IS NOT GIVEN.**
