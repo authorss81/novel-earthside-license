@@ -596,3 +596,113 @@ name on it and that he has carried water past it every morning of the flood and 
 asking anybody in that room. **He went back down out of that room on day 764 with the bucket rather than stay in it
 after the woman of about fifty-two had said what she had said, and said nothing about it then or afterwards.
 Nobody asked him anything on any of these ten days, which is §7.2's standing.**
+
+---
+
+## VOLUME 16, BATCH 0002 — THE SECOND REPAIR PASS ON CHAPTERS 0761 TO 0770. NEWEST AND IT WINS.
+
+**THE PEOPLE BELOW ARE AS THE FIRST REPAIR LEFT THEM EXCEPT FOR ONE MAN IN ONE CHAPTER, AND THE ONE MAN IS THE
+PROTAGONIST AND THE ONE CHAPTER IS 0761. Nothing about anybody else on these ten days moved, and no person was
+invented, no descriptor taken, no census given a descriptor, and no name or place arrived by narration.**
+
+### ADRIAN VALE — THE ONE ENTRY THAT MOVED
+
+**STAGE 2 ON ALL TEN OF THESE DAYS AND ON THE WHOLE OF THIS VOLUME'S FIFTY. He performs no working, no threshold is
+opened, the other world is not named once across these ten files, nobody offers him a workway and he asks for none,
+he is aged nowhere, and *passage* and *privilege* are at zero across these ten files. He is in five of the ten and
+in none of the volume's seven heavy days. Nobody thanks him in any of the five, nobody tells him he was right in any
+of the five, nobody in any of the five is waiting for him to be useful, and he is not useful to any of them.**
+
+**AND WHAT §4.1 PUBLISHES FOR THESE FIVE DAYS, AND WHAT THE PAGES NOW CARRY.** Three of the five wants were already
+false on their own pages and were re-aimed by the first repair and did not move again. **The fourth, day 761, was
+not: he turned that chair about, he sat in it, and he was still in it at the tenth hour under a sentence that said
+he had been arranging it for a fortnight and it had taken him the length of a chair.** He is now the man who wanted
+a back to a wall and a face to a door, got a chair with his back to the wall, and found out that the chair was
+standing in the width that room walks all day and that turning it into the right place for him had put it in the
+wrong place. **He gets it. He pays for it in that room's width for a morning, and the man of about thirty-nine
+cannot get to his own end of the bench because of him, and the man of about twenty-seven has to bring a bucket down
+a stair sideways because of him, and nobody in either of those two cases thanked him or said one word about it. He
+went out of that room once at the ninth hour, came and went along the near side of that floor because that is where
+that room walks, stood on the flags at the foot of that stair and looked at the part of that ground inside its own
+shadow, and sat down in that chair again in front of the whole room, and at the tenth hour he was still in it and had
+eaten nothing and was not going to be able to get out of it a second time without standing up in front of all of
+them again.**
+
+**DAY 765** — the want and the outcome are unchanged: a wet rag on a stone lip, to leave that lip wet for somebody
+who comes at a later hour, **not obtained**, and the reason on the page is now two reasons and not one. The wind
+took it, and the man of about thirty-one worked that trough at the sixth hour and the water over its rim took the
+night's grit off the top of that stone, so that the man of about thirty-eight put his own hands flat on a bare stone
+at the seventh hour and the knife in his belt made a noise it had not made before, and he scraped it twice and then
+stopped two-thirds of the way along. **DAY 766** — two boards off the top of a stack, to put the clean piece at the
+near edge of that face out of the rain, **not obtained**, because the only two ways to do it are to turn a board
+that is not his over or to put something over the top of it, and he did neither, and the clean piece went the colour
+of wet ash and will not go back. **DAY 768** — the sill of the one window, to look down at that ground without his
+own face being in the glass, **not obtained**, because he has to raise his head to see the whole length of it and
+every time he raises it his own face comes into the glass; and he did it four times; and he found out that nobody
+who walks on that ground has ever looked up at that window, and that the sun at the sixth hour puts his own shadow
+across an open register and the woman at it draws the book a foot and a half out of it without looking up and puts
+it back in the same place when the light goes, and he had been in that room for six hours as a shape on somebody's
+work and nobody looked up once.
+
+### EVERYBODY ELSE ON THESE TEN DAYS — UNCHANGED, AND THE HANDLE IS THE SAME IN EVERY CHAPTER
+
+**The man of about thirty-nine who trades on a board** is on the days the map has him and on none other. He is
+thanked by nobody and nobody tells him he was right. He does not sit down on a chair a stranger has moved, he puts
+his board face up on a bench in front of about nine people for the length of a minute on day 767 and takes it back
+under his arm without one word from anybody about what was on it, he shifts that board a foot along another man's
+bench with the flat of his own boot on day 769 and puts his own hand back on it, he gives the room's figure out loud
+in the ordinary course, he stands in the gap at the far side for six hours rather than take the chair, and the bare
+place at the foot of the column between the other two on his board is turned out to the wall at the end of day 769.
+**NO MOUTH IN ANY OF THESE TEN FILES ASKS HIM WHAT THAT SPACE IS AND NO CHAPTER OF THIS VOLUME MAY ASK HIM.**
+
+**The woman of about fifty-two** pays the first cost of this volume in her own mouth on day 764, before she says
+anything else that morning, and nobody thanks her, nobody improves on one word of it, nobody argues with it, nobody
+asks her how she knows, and nothing in that room is done about it at any hour of that day. She is not rehearsing it
+on day 761, 762 or 763 and no second cost is paid in that room on any day of this batch. She sits down on the stool
+she carried out of that room and left where anybody could sit on it, and nobody else has sat on it on any morning of
+this flood.
+
+**The woman of about twenty-nine who keeps the register** has the book open on the wood at the near end of that bench
+and does not look up off the page; she says the room's figure out loud for the first time in the whole of this flood
+on day 759 in the batch behind this one; on these ten days she is asked one question about the figure and cannot
+answer it, she says she is not being careful about that, and she draws her own page a foot and a half out of a
+shadow on a bench and puts it back in the same place without looking up. **The five figures stand down the middle
+of that page with a day against each, none struck, no sixth entered and none taken out; the second slate stands
+behind that book on that same shelf with a day cut across the head of it and nothing whatever under that day, and it
+is not picked up, not turned over and not written on, and no hand but hers goes near that shelf.**
+
+**The man of about thirty-four who keeps a stall two stalls along** has the piece of chalk in his own inside breast
+pocket against his own chest at every hour of all ten days and it does not come out of it, and nobody asks him about
+it. He moves a forearm's length along that bench on day 764 without being asked and does not move back; he puts a
+figure of his own into the room on day 762 and will not give it up; he says out loud on day 767 that this room has
+been saying that figure every morning of this flood and that nobody in it has ever asked anybody where it came from,
+and nobody in that room asks him; and he is the man who cannot say since which morning the man of about thirty-eight
+began coming up that stair with his barrow, and he does not put that to anybody else after the woman of about
+twenty-nine cannot answer it.
+
+**The man of about thirty-eight at that salt wharf** stops on the top step of that stair for the first time in the
+flood on day 762 and stands his barrow in a corner that has held nothing and puts its shape into the damp face of a
+wall; he scrapes a stone lip with his knife on day 765 and hears a new noise; he carries a length of board up into
+that room on day 769 and leaves it against a wall and goes back down; he comes up with a barrow on day 763 and goes
+back down out of it rather than set it down in front of a stranger's satchel. **He is not in that room on day 762's
+difference between two figures and no sentence and no mouth in these ten files connects that to anything.**
+
+**The man of about thirty-one who carries things for a living** sets his satchel on a bench at the fourth hour of
+day 763 and a stranger moves it to a shelf at the height of a person's shoulder, and at the ninth hour he comes the
+whole length of that floor without one look anywhere else, puts his right hand down on the strap where it was lying,
+takes it and goes back down with the flap down and never once looks to see whether anybody is standing at the other
+end of the room. **Nothing in that satchel is opened on any of these ten days, the flap is not turned up, and no
+mouth in any of these ten files asks what is in it or why he opens nothing he carries.**
+
+**The man of about twenty-seven** has the one bucket in this city and a rag on the stone lip of that step, brings
+that bucket up a stair a chair's width narrower than it was on day 761 and says out loud that he is not saying
+anything about it, says out loud on day 767 that there is a date in chalk on the outside of that door and no name on
+it and that he is not going to find out by asking anybody in that room, and goes back down out of that room on day
+764 with the bucket rather than stay in it after the woman of about fifty-two has spoken. **Nobody asks him anything
+on any of these ten days.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT IS NOT AVAILABLE TO NOBODY HERE AND THE MAN OF ABOUT FIFTY-SEVEN IS NOT ASKED
+ANYTHING AND HIS ROPE IS NOT USED AND THE FENCE IS NEITHER MEASURED NOR HAS A POST MOVED AND THE WOMAN OF ABOUT
+SIXTY-NINE DOES NOT ASK A FOURTH QUESTION IN THIS VOLUME AND HER NOT-ASKING IS ON NO PAGE OF IT. NO NAME IS SPOKEN ON
+ANY OF THESE TEN DAYS. NO RELATIONSHIP MILESTONE IS PAID ON ANY OF THEM AND THE CONSENT FRACTURE STAYS UNMENDED AND
+THE FIFTH CONDITION IS NOT GIVEN.**

@@ -60,4 +60,4 @@ By the time he had got his head down out of it again there was nothing there but
 
 At about the tenth hour that window had nothing in it at all, and the light had gone off the ground at the foot of that stair.
 
-There was a wet print drying off the wood of that sill. By that hour the print was gone and the sill was dry again. There was still no shutter on that window, and nobody in that city had been asked to put one there.
+There was a wet print drying off the wood of that sill where his own hands had been on it since the fourth hour. By that hour it had gone out of the wood to the colour of the wood round it, and the sill was dry again, and there was a place in the grain of it where the wood was still holding what that morning had put into it, and the sun would come back round that corner at the middle of the afternoon and take the rest of it out.

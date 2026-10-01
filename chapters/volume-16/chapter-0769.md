@@ -38,4 +38,4 @@ At about the tenth hour the light had gone off that board about a quarter of an 
 
 That board was standing against that bench a foot further along it than it had been an hour before. The wood of the bench under it was a shade darker than the wood either side of it, where the light had stood and had gone off.
 
-The face of that board was warmer than the bench it stood against, and it would give that heat back into the wood by morning. There was nobody in that room at that hour who would have known how to tell it from a board that had always been there.
+The face of that board was warmer than the bench it stood against, and it would give that heat back into the wood by morning, and it was standing there with the bare place at the foot of the column between the other two turned out to the wall along the far side, and the light came over that roof at the ninth hour and would do it again the next morning and find that place still turned away.

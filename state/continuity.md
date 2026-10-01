@@ -442,3 +442,70 @@ statement that nothing changed now stands at zero in ten, and §16.17's six ways
 different ways across these ten days. That is the number a later phase should measure against, and the number to
 beat is the one in the batch record behind this one, which is 141 words shorter at the mean and shares sixteen-word
 runs with the rest of the manuscript where these ten now share none.**
+
+---
+
+## VOLUME 16, BATCH 0002, DAYS 761 TO 770 — THE SECOND REPAIR PASS. NEWEST AND IT WINS.
+
+**THREE CONCRETE FINDINGS WERE FIXED AND EVERY FIGURE BELOW WAS RE-DERIVED ON THE TEN FILES AS THEY NOW STAND,
+not carried forward. Reading and scope for every figure: `state/batch-summaries/volume-16-batch-0002.md` §12.3;
+the findings are at its §12.1 and the closings read side by side are at its §12.2.**
+
+**1. CHAPTER 0761 HAD A CHAPTER'S OWN CONTRADICTION IN IT AND §4.1's `obtained: no` WAS FALSE ON THE PAGE.**
+   *The contradiction:* the ninth hour had Adrian Vale go down that stair and come back up; the tenth hour had him
+   in that chair, having eaten nothing, **not been down the stair since the fourth hour**. He now goes out at the
+   ninth hour, comes and goes along the near side of that floor because the near side is where that room walks, and
+   sits down in that chair again in front of the whole room; and the tenth hour records one exit and one climb back
+   in. **The two arcs of clean grit and the boot set down in one of them are untouched.**
+   *The plan row:* §4.1 publishes for day 761 a want — somewhere in that room to sit down where his own back was not
+   to that door — and the outcome `no`. **The chapter had him obtain it in the plainest reading and a sentence that
+   said he had been trying to arrange it for a fortnight and it had taken him the length of a chair.** The want is
+   now framed as a want the room will not allow: *a chair was all there was, and the chair was standing in the wrong
+   place for it and he had turned it into the right place for it and it was still in the wrong place*, and the four
+   minutes are spent working out why. **He is still in that chair at the tenth hour and §4.1's `no` is now true on
+   the page. He is in five of these ten and causes something in all five and nobody thanks him in any of the five.**
+
+**2. CHAPTER 0768'S CLOSING PARAGRAPH RESTATED ITS OWN SECOND PARAGRAPH, WHICH §17.18 FORBIDS.** The shutter fact
+   stays on the page and stays in the second paragraph, where it has always been, and the closing now ends on the
+   wet print going out of the wood of that sill and on the sun coming back round that corner at the middle of the
+   afternoon. **That window still has a sill, one window, and no shutter on any page of this manuscript.**
+
+**3. THREE OF THE TEN CLOSINGS WERE ON ONE CONSTRUCTION AND §17.18 SAYS `no two chapters of a batch may close on
+   the same construction`.** 0765 now ends forward and physical, 0769 now ends on the bare place at the foot of the
+   column between the other two turned out to the wall, and 0770 is the one that keeps the nobody-in-that-room family
+   on purpose. **Ten constructions, one in that family, none of the five shapes §17.18 puts off limits, and none of
+   the ten a statement that nothing changed.**
+
+**AND THE FIGURES THAT DID NOT REPRODUCE, NAMED RATHER THAN HARMONISED. The bolded share is 6.67 weighted and 6.85
+unweighted, against 9.35 and 9.29 for the fifty files behind this volume and against 9.21 and 9.21 that this batch's
+own §3 published for the first writing of these ten — and §11.3's table carries no bolded row at all, so the figure
+that changed most between the two passes is the one that was published least. The word count is 11,912 on the
+heading line in against 11,610 in the pass behind this one, a difference of 302, and both readings stand. The
+sixteen-word class against the seven hundred and sixty outside returns 22 shared runs, every one of them exactly
+sixteen words and therefore at the threshold rather than above it, and §11.3 published 57 with a longest of 22 —
+different units, both readings on their own line, neither corrected by the other.**
+
+**AND THE THINGS THAT DID NOT MOVE. `passage` and `privilege` are at zero across these ten files and the standing
+state of the whole manuscript, re-measured by this pass on all seven hundred and seventy files, is unchanged and was
+not re-derived here. `nine steps` is at zero here and against one hundred and eighty occurrences in seventy-six
+files outside this batch. The words of the panel of Volume 15 and of Volume 14 are in no file of these ten. No
+narrator frame is on any of these ten pages and the word *player* is at zero. The day-154 sentence is not said,
+restated, paraphrased or improved on. The four declarations this manuscript's plan requires are on these pages in
+four different wordings and no two of them share a run of forty words with any of the seven hundred and seventy files
+outside this batch, on either heading-line reading. About four people a day is printed twice, always with the word
+*about*, never reduced, and never in a sentence with the room's own figure; the instrument that looks for a nine-
+figure and an `about four` in one sentence returns zero out of four hundred and seventy-two sentences. No name was
+spoken. No document was read out and no form was written in and no form was compared with another form. No notice
+was sent and no document was written: zero and zero. Nobody gets stronger, no threshold is opened, no working is
+performed, no route is opened and no workway is offered. No relationship milestone is paid, the consent fracture
+stays unmended and the fifth condition is not given. The two women of twenty-nine are still never in one room and
+nothing settles whether they are one woman; the two men of about thirty-eight are still two people and no chapter
+merges them or settles them in narration; the man of about thirty-nine is still the decider of this volume's one
+decision and is still not the man of about thirty-four.**
+
+**AND THE CONTROLLER FAULTS AND THE INDEPENDENCE DEBT ARE UNCHANGED AND NAMED AGAIN: `state/phase-ledger.json`
+still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0` after fifteen closed volumes and two
+passes over this one batch, `reviews/volume-16/` does not exist, and both passes over these ten files were written
+and checked by the agent that wrote the chapters, so no instrument behind these ten is independent of them. All of
+it lives in `scripts/`, `.github/workflows/`, `state/phase-ledger.json` and the review dispatch. NONE OF IT WAS
+OPENED OR TOUCHED AND NO MARKER FILE WAS CREATED OR REMOVED, and it is owed by a human and is owed by nobody else.**

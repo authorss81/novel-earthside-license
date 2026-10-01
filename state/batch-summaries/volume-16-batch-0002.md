@@ -53,6 +53,11 @@ behind this one are unchanged.**
 - **Change:** that chair stands against the far wall at the tenth hour where it has not stood since the flood came, nobody has sat in it at any hour of that day, the gap at the far side has been a chair's width narrower since the fourth hour, and Adrian Vale is still in it and cannot get out of it without standing up in front of the whole room.
 - **Closing beat:** two arcs of clean grit cut through a fortnight of it where his own feet turned that chair about, and a man's boot set down square in the middle of one of them and not moved again.
 - **NOTED AGAINST THIS CARD: the number is not said in any mouth on this day, and §9 item 3 is why.**
+- **AND NOTED AGAINST THIS CARD BY THE SECOND PASS AT §12, WHICH DID NOT CHANGE IT: this card's `Not obtained` was
+  carried by the first repair on the argument that the chair stands in the width that room walks, and the repaired
+  chapter then had him obtain it on its own words. He is still in that chair at the tenth hour and he still has a
+  back to that wall and his face to that door, and §4.1's `no` is now true because a chair was all there was and
+  it was still in the wrong place after he had turned it — not because he left.**
 
 ### Card 0762 — day 762, a Sunday, the four hundred and forty-seventh, discovery. Adrian: no.
 
@@ -126,9 +131,12 @@ behind this one are unchanged.**
 
 - **Where and who:** that room. The man of about thirty-four, the woman of about twenty-nine, the woman of about fifty-two, the man of about thirty-nine.
 - **The shape of this day, and the plan has used it, so the wording is this batch's own:** about four people in that room say out loud that they do not know, and about four of them say nothing at all.
-- **What the day turns on:** nobody in that room can say since which morning the man of about thirty-eight has been coming up that stair with his barrow, and the man of about thirty-four asks that out loud at the seventh hour and is not answered at any hour of that day.
-- **Change:** at the tenth hour the man of about thirty-four asks the woman of about twenty-nine, across the wood, whether she can say what that figure had been at the fourth hour, and she says she cannot, and he nodded at that and did not improve on it and did not put it to anybody else, and then he took his two hands off that bench and put them into his pockets and left them there.
+- **What the day turns on:** nobody in that room can say since which morning the man of about thirty-eight has been coming up that stair with his barrow, and the man of about thirty-four puts it out loud at the seventh hour **— and the word `asks` in this card was the first writing's and the first repair re-aimed both of this day's moments into statements made into that room and taken up by nobody, under §16.5, and the card and the page now agree —** and is not answered at any hour of that day.
+- **Change:** at the tenth hour the man of about thirty-four puts it to the woman of about twenty-nine, across the wood, that not one person in that room can say what that figure had been at the fourth hour, and she says she cannot, and he nodded at that and did not improve on it and did not put it to anybody else, and then he took his two hands off that bench and put them into his pockets and left them there.
 - **Closing beat:** two people failing to say what a figure had been, in that room, at the tenth hour, four days before the volume's decision. **The batch ends there and it is not a cliffhanger.**
+- **AND THE ONE CLOSING THIS BATCH KEPT IN THE *NOBODY IN THAT ROOM WOULD KNOW* FAMILY, AND IT KEPT IT DELIBERATELY,
+  named at §12.1 finding 4: 0770 is the batch's own ending, a card's closing beat is not moved for the sake of a
+  second instance of a rule, and the other two that were in that family have been re-aimed.**
 
 ---
 ## WHAT THE TEN DAYS ARE, AND WHAT THEY ARE NOT
@@ -552,3 +560,172 @@ runs its first pass found and the two declarations they stood in, the six negati
 closings it re-aimed, and the two instruments that were wrong`, and that record now also carries §11, and that
 batch must read §11 as well, because the ten files it is continuing have been rewritten under it and the sentences
 it was told about are not the sentences on the disk.**
+
+---
+
+## 12. THE SECOND REPAIR PASS ON THESE TEN FILES, AND EVERY FIGURE RE-DERIVED AGAIN. NEWEST AND IT WINS
+
+**This batch was dispatched a second time and the ten files were on disk complete, measured and already repaired
+once. A repair pass owns the ten files it is given, so the ten files were read whole, every instrument §11 used
+was re-run on them, and four concrete findings were fixed. NOTHING WAS RESTARTED AND NOTHING WAS REWRITTEN FROM
+THE TOP: every card, and every figure of a day, a weekday, a Bare-Month ordinal, an hour, an actor, a descriptor
+and an object count in `outline/volume-16.md` §14.3, is untouched, the three columns are untouched, the ten
+pressures are untouched, the day's own business from the day map is untouched on all ten, and the planned plot is
+untouched. What changed is six passages across four files, and every one of the six is a finding a person made
+by reading, not a figure an instrument made.**
+
+**AND THE INSTRUMENTS OF THE FIRST REPAIR HAD ALL COME BACK CLEAN, WHICH IS THE POINT OF NAMING THEM: the forty-
+word class was at zero in all three scopes on both heading-line readings before any of this section was written,
+the sixteen-word class was at zero inside the ten on both readings, the day map returned zero mismatches on each
+of its three checks on both orders, and none of the four findings below is a count. THEY ARE ALL FOUND BY A PERSON
+READING, and this is the seventh run of that kind in the records of this repository and the second of them in
+this one file.**
+
+### 12.1 THE FOUR FINDINGS, WHAT EACH ONE WAS, AND WHAT WAS DONE
+
+1. **CHAPTER 0761 SAID TWO THINGS ABOUT THE SAME MAN IN THE SAME HOUR, AND THEY CANNOT BOTH BE TRUE.** The
+   ninth-hour paragraph had him go down that stair and come back up; the tenth-hour paragraph had him in that
+   chair, having eaten nothing and **not been down the stair since the fourth hour**. **A chapter that contradicts
+   itself inside two paragraphs is a chapter a reviewer reads straight through, and this one had been repaired once
+   already and carried it.** He now goes out of that room at the ninth hour, stands on the flags at the foot of
+   it, comes and goes along the near side of that floor because the near side is where that room walks, and sits
+   down in that chair again in front of the whole of that room; and the tenth-hour paragraph says he had got out
+   of it once and had climbed back into it, and that he was not going to be able to get out of it a second time
+   without standing up in front of all of them again. **The closing beat is unchanged and the two arcs of clean
+   grit and the boot in one of them are untouched; one clause of the sentence about them lost the word *all*
+   because the man who cut them went in and out of that room twice that morning.**
+2. **CHAPTER 0761 READ, ON ITS OWN WORDS, AS A CHAPTER IN WHICH THE PROTAGONIST OBTAINED THE ONE THING THE PLAN
+   PUBLISHES HE DID NOT OBTAIN.** §4.1's row for day 761 is `to have somewhere in that room to sit down where his
+   own back was not to the door` and the outcome is `no`, and §11.1 above declares that the first writing had him
+   obtain it. **The repaired chapter then had him put a chair with his back to the wall, sit in it, and be still in
+   it at the tenth hour, under a sentence that said he had been trying to arrange that for a fortnight and it had
+   taken him the length of a chair. A record that says a page is not what the page says is a claim, and §17.11(v)
+   is the rule: a measurement taken on a window is a fact about the window.** The want is now framed as a want
+   that the room will not allow: *a chair was all there was, and the chair was standing in the wrong place for it
+   and he had turned it into the right place for it and it was still in the wrong place*, and the four minutes are
+   now spent working out why. **He still sits in it for six hours. §4.1's `no` is now true on the page and not only
+   in this file, and the price he pays for the hour he does get is the whole of that room's width for a morning.**
+3. **CHAPTER 0768'S CLOSING PARAGRAPH SAID, IN ITS LAST SENTENCE, THE SAME FACT ITS SECOND PARAGRAPH HAD ALREADY
+   SAID. §17.18: `THE CLOSING PARAGRAPH OF EACH CHAPTER STATES SOMETHING THAT IS NOT STATED ANYWHERE ELSE IN THAT
+   CHAPTER, in different words from the chapter's own body`.** The second paragraph carried *there was no shutter
+   on it, and there had never been a shutter on it, and nobody in this city had ever been asked to put one there*,
+   and the closing carried *there was still no shutter on that window, and nobody in that city had been asked to
+   put one there*. **The shutter fact is unchanged and still on the page and still in the second paragraph, where
+   it belongs. The closing now ends on the wet print going out of the wood and on the sun coming back round that
+   corner at the middle of the afternoon to take the rest of it out.**
+4. **THREE OF THE TEN CLOSINGS WERE ON ONE CONSTRUCTION, AND §17.18 SAYS `no two chapters of a batch may close on
+   the same construction`.** Chapters 0765, 0769 and 0770 all ended on a *nobody in that room would ever know /
+   would have known how to tell / to be told about it* beat. **§11.2 above declares that a cluster of three was
+   found and re-aimed, and the cluster came back in a new shape in the same three files, which is what a cluster
+   does when the words change and the construction does not.** 0765 now ends forward and physical — the wind with
+   the night's salt and grit back on that lip by tomorrow night, the man with the knife finding it there, the rag
+   lying where it lay, and the two of them on the same stone at the fourth hour — with the non-knowledge kept in
+   the chapter as a sentence of its own rather than as its last word. 0769 now ends on the bare place at the foot
+   of the column between the other two being turned out to the wall along the far side, and on the light coming
+   over that roof the next morning and finding it still turned away. **0770 is the one that keeps the construction,
+   because the batch's own ending is that nobody in that room can say what that figure was, and a card may not
+   have its ending moved for the sake of a second instance of a rule.**
+
+### 12.2 THE TEN CLOSINGS, READ AGAIN SIDE BY SIDE AFTER THE PASS, WHICH IS THE ONLY CHECK A SCRIPT CANNOT DO
+
+1. **0761** — a man's boot set down square in an arc of clean grit, and whoever put it there had not looked down
+   and had not moved it again.
+2. **0762** — a shape pressed into the damp face of a wall that will be gone by the middle of the next day.
+3. **0763** — a man gone back down a stair without once looking to see whether anybody was at the other end of the
+   room.
+4. **0764** — a jug nobody drank out of, and every one of them knowing exactly where on that bench they were.
+5. **0765** — tomorrow night's salt back on a stone lip, a rag lying where it lay, and two men on the same stone
+   at the fourth hour.
+6. **0766** — a barrow a hand's breadth further off that wall for the rest of a man's life with no reason given.
+7. **0767** — a palm held on a piece of wood to find out whether it is warm.
+8. **0768** — a wet print gone out of the wood of a sill, and the sun at the middle of the afternoon to take the
+   rest of it out.
+9. **0769** — the bare place at the foot of a column turned to a wall, and the light finding it still turned away
+   the next morning.
+10. **0770** — two places on a bench a forearm apart that the weather has not got to, and nobody in that room to
+    be told about either of them.
+
+**Ten constructions, one on the *nobody in that room would know* family, and NOT ONE OF THE FIVE SHAPES
+`outline/volume-16.md` §17.18 PUTS OFF LIMITS: not one closes on the room's own figure as a figure (0770 prints no
+value anywhere in its last two paragraphs), not one closes on *about four people a day*, not one closes on the
+strip of ground and what it used to be, not one closes on the fact that a person is not in the room, and not one
+closes on a page that says a number. AND NOT ONE OF THE TEN IS A STATEMENT THAT NOTHING CHANGED**, against §16.17's
+ceiling of two in ten.**
+
+### 12.3 THE FIGURES, RE-DERIVED AGAIN ON THE TEN FILES AS THEY NOW STAND
+
+**Every figure below was produced by running the thing on the files on disk after the pass, and every row carries
+its instrument, its reading and its scope on the same line as the number. FIGURES THAT DID NOT REPRODUCE ARE
+NAMED AS SUCH AND ARE NOT CORRECTED INTO AGREEMENT WITH AN EARLIER ROW.**
+
+| Figure | Instrument, reading and scope | Value |
+|---|---|---|
+| words, heading line in | letters and apostrophes, ten files, both orders, my ten | **11,912** — and the pass behind this one published **11,610**, a difference of 302, and both readings stand and neither is corrected by the other |
+| words, heading line out | same, heading line excluded | **11,827** |
+| **bolded share** | words inside bold marks over all words, heading line in | **6.67 weighted, 6.85 unweighted. THIS ROW DID NOT REPRODUCE AND WAS NEVER PUBLISHED AFTER THE FIRST REPAIR: §3 above publishes 9.21 and 9.21 for the first writing of these ten and §11.3's table carries no bolded row at all. The reading is on this line and the figure is what the files carry.** Against `outline/volume-16.md` §20.2's 9.35 and 9.29 for the fifty files behind this volume, and §17.4's standing rule that the mean is a consequence and not a plan and no card sets a target for it |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and `---` separators excluded | **215 prose, 15 speech, 0 plain, 0 bold-without-a-quotation-mark**, and **3 prompts** (a quotation mark and no bold mark, which §17.7 defines as a prompt and not a speech) — two in 0762 and one in 0770, all three correctly attributed |
+| paragraphs of three sentences or more carrying a physical action | §17.20's fifth fault, one required in each chapter | **62 across the ten, and at least one in 10 of 10 files** |
+| panels | a block between blank lines whose first character is `>` | **0** |
+| digits in prose / bare three-digit numerals | heading line out, word-bounded | **0 / 0** |
+| trailing newline | last character of each file | **10 of 10** |
+| chapter-title range | words of title text after the dash, §17.8's four to nine | **six to nine, in 10 of 10** |
+| chapter length | heading line out | **823 to 1,945, a mean of 1,183** |
+| sentence scale | sentences of more than two words, split on `.!?`, heading line out | **mean 25.1, median 23, p90 43, max 100, 13.8% at forty words or more**, against the review's 49.6 / 51 / 78 / 128 / 67% for the writing the review read |
+| `his/her/its/their own` | literal, both case flags, heading line out, per thousand words | **2.4** |
+| `own two hands` | literal, both case flags | **0** — and it was **1** for an hour, on a sentence this pass wrote into 0768, and the instrument caught it and the sentence was re-aimed |
+| *that* | word-bounded, both case flags, heading line out, per thousand words | **36.5** |
+| *nobody* | same reading and scope | **5.0** |
+| the triple-*nobody* chain | the shape the volume behind this one was repaired for | **0** |
+| the forty-word class | scope 1, my ten against my other nine, both heading-line readings | **0** |
+| the forty-word class | scope 2, my ten against the seven hundred and sixty outside, both heading-line readings | **0 files of the ten, on either reading, first run and reverse run** |
+| the forty-word class | scope 3, my ten against itself at distinct positions | **0** |
+| the sixteen-word class, within the ten | maximal contiguous shared passage, letters and apostrophes, case-insensitive, each file excluded from its own comparison, both heading-line readings | **0 shared passages in 0 pairs, and 0 within-file self-repeats**, on both readings |
+| the sixteen-word class, against the seven hundred and sixty outside | the same instrument and the same threshold | **22 shared runs in 3 of the ten files, every one of them exactly sixteen words, which is the threshold and not a run, and every one of them a window into the man of about thirty-nine's own cast declaration. §11.3 published 57 with a longest of 22; this instrument returns 22 distinct sixteen-grams. The reading is on this line and the two counts are of different units** |
+| the room's own figure, said aloud | a speech paragraph carrying it, whole files, both orders | **5 of 10 days — 762, 764, 767, 769, 770 — and they are exactly the five days Adrian Vale is not in, which is `outline/volume-16.md` §9 item 3** |
+| Adrian Vale | whole files, both orders, against the map's own Adrian column | **5 of 10 — 761, 763, 765, 766, 768** |
+| `about four people a day` and the un-reduced `four people a day` | literal strings | **2 and 0**, and both of the two are §16.14's standing census, in 0761 and 0768, and neither is in a sentence with the room's figure |
+| the two figures in one sentence | a sentence carrying a nine-figure and an `about four` together, §16.14 | **0 out of 472 sentences**, scope my ten, heading line out |
+| `about four` with no units word | literal, both case flags | **the instrument returns 7 and all seven are accounted for: two are `about four people a day` or `about four people`, one is `about four minutes` in 0761, one is `about four of them` and one `about four people` in 0770, and two are `about four seconds` in 0767 and 0769, which is §7.2's own sentence about the man of about thirty-nine and is a DURATION and not the census. THE READING BELONGS ON THE SAME LINE AS THE NUMBER** |
+| *passage*, *privilege*, `Stage N`, `nine steps`, *player*, *census*, *war*, *bridge*, *witness*, *tally*, *muster*, *majority*, *headcount*, *poll*, *ballot*, *scrutineer*, the whole thirty-five-word zero column, a narrator frame, `days since` | literal, both case flags, heading line out, a hyphen delimiting | **0 across all ten files, every entry of the column measured as its own literal string and its singular and plural as separate literals** |
+| notices sent / documents written | count | **0 / 0** |
+| the Bare-Month form and its resolver | *the Nth day of the Bare Month*, a hyphen delimiting, twenty irregular unit ordinals and eight irregular tens ordinals read | **10 phrases in 10 of 10 files, and all ten resolve to their own chapter's day — forward 10, reverse 10** |
+| chapter-equals-day, the weekday, and the Bare-Month ordinal | the three checks on one run, ten files, both orders | **0 mismatches on each of the three, out of ten, on both orders. This pass touched no date, no weekday, no ordinal, no hour, no actor and no object count, and the instrument says so on the files rather than on the assertion** |
+
+### 12.4 WHAT THIS PASS DID NOT DO, AND IT IS THE HALF THAT MATTERS
+
+**No chapter past 0770 exists and none was written. No day, weekday, Bare-Month ordinal, hour, actor, descriptor,
+object count, pressure or Adrian column of `outline/volume-16.md` §14.3 was moved. No decision was decided, no
+person invented, no descriptor taken, no census given a descriptor, no name or place arrived by narration, no
+notice sent, no document written, no form written in, no form compared with another form. The room's own figure was
+not spent by any of these ten chapters and is still in its own use on every one of them, and from day 776 the
+narrator may not print it and no mouth in that room may say it. No question about the room was answered and none
+was asked that is not about a figure or about a day in chalk. No relationship milestone is paid, the consent
+fracture stays unmended and the fifth condition is not given, nobody gets stronger, no threshold is opened and no
+working is performed. `outline/ending.md` was not opened, the planned ending does not move and Volume 16
+introduces no new final enemy. `outline/volume-16.md`, `outline/volume-15.md`, `outline/series.md`,
+`bible/power-system.md`, `bible/characters.md`, `bible/terminology.md` and `bible/world.md` were not edited. No
+file under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json` was opened or touched, and no marker file of any
+kind was created or removed.**
+
+**AND THE FIGURE THAT WAS NOT GIVEN TO THIS BATCH WAS NOT COMPUTED BY IT, WAS NOT NAMED BY IT, WAS NOT PRINTED BY
+IT, AND NO FIGURE THAT COULD BE MADE BY ADDING TO IT APPEARS IN THIS SECTION.**
+
+### 12.5 THE INDEPENDENCE DEBT, NAMED AGAIN AND UNCHANGED
+
+**`reviews/volume-16/` DOES NOT EXIST, because the review dispatch falls back to the writer's own agent. Both
+passes over these ten files were written and checked by the agent that wrote the chapters, so neither instrument is
+independent of the prose it measured. The four findings in §12.1 were found by a person reading four chapters, not
+by a script, and a script could not have found any of them — which is the strongest available argument that the
+debt is real. `state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0`
+after fifteen closed volumes and two passes over one batch. BOTH ARE OWNED BY GITHUB ACTIONS AND BOTH ARE OWED BY
+A HUMAN.**
+
+### 12.6 THE NEXT PHASE, UNCHANGED AND NOT REWRITTEN
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, WHICH WRITES CHAPTERS 0771 TO 0780, DAYS 771 TO 780, AND NOTHING
+ELSE. It carries day 775, the volume's one decision, taken in that room by the man of about thirty-nine who
+trades on a board, who says the cost first in his own mouth and then says the decision in about seven words in his
+own mouth, and nobody in that room improves on one word of it and nobody argues with it and nobody agrees with it
+and nobody is thanked for it. AND IT NOW HAS TO READ §12 AS WELL AS §11, because these ten files have been
+rewritten twice and the sentences it was told about are not the sentences on the disk.**

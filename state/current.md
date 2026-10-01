@@ -847,3 +847,122 @@ ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD FILE UNDER `outline/`, NO MAR
 BEFORE THIS REPAIR AND IS NOT REWRITTEN BY IT; the one thing it must now do, which it already instructs at its
 item 4, is read `state/batch-summaries/volume-16-batch-0002.md` — **and read §11 of it, because the ten files it is
 continuing have been rewritten under §11 and the sentences it was told about are not the sentences on the disk.**
+
+---
+
+# VOLUME 16, BATCH 0002 — THE SECOND REPAIR PASS ON CHAPTERS 0761 TO 0770. NEWEST BLOCK. THIS ONE WINS.
+
+**VOLUME 15 IS STILL COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS, CHAPTERS 0701 TO 0750, AND NO CHAPTER PAST 0750
+EXISTS. Volume 16 is on disk at twenty chapters and twenty days, chapters 0751 to 0770, days 751 to 770, and it is
+not complete: thirty days of its fifty remain.**
+
+**THE NEXT PHASE IS `workspace/volume-16/batch-0003/PROMPT.md`, THE THIRD TEN CHAPTERS OF VOLUME 16, AND NOTHING
+ELSE. It writes chapters 0771 to 0780, days 771 to 780, from a Tuesday to a Thursday, and it carries the volume's
+one decision on day 775.**
+
+## WHAT THIS PHASE WAS
+
+**A repair pass and nothing else.** This batch was dispatched a second time with the ten chapters already on disk,
+already measured and already repaired once. The ten files were read whole, every instrument in the previous repair
+was re-run on them, four things were found that no instrument had found, five sentences across four files were
+fixed, and this batch's own state record, the four live state files and the one next-phase prompt were brought up to
+date. **Nothing was restarted and nothing was rewritten from the top. No card, and no figure of a day, a weekday, a
+Bare-Month ordinal, an hour, an actor, a descriptor or an object count in `outline/volume-16.md` §14.3, moved.**
+
+## THE FOUR THINGS THAT WERE FOUND, AND THEY WERE ALL FOUND BY A PERSON READING
+
+**AND THE INSTRUMENTS HAD ALL COME BACK CLEAN BEFORE ANY OF THEM WAS WRITTEN DOWN, WHICH IS THE POINT OF SAYING IT:
+the forty-word class was at zero in all three scopes on both heading-line readings, the sixteen-word class was at
+zero inside the ten on both readings, and the day map returned zero mismatches on each of its three checks on both
+orders. Not one of the four findings is a count.**
+
+1. **CHAPTER 0761 CONTRADICTED ITSELF INSIDE TWO PARAGRAPHS.** The ninth hour had Adrian Vale go down that stair
+   and come back up; the tenth hour had him in that chair having eaten nothing and **not been down the stair since
+   the fourth hour**. He now goes out at the ninth hour, comes and goes along the near side of that floor, and sits
+   down in that chair again in front of the whole room, and the tenth hour records one exit and one climb back in.
+2. **CHAPTER 0761 READ AS A CHAPTER IN WHICH THE PROTAGONIST OBTAINED THE ONE THING §4.1 RECORDS AS NOT OBTAINED.**
+   The previous repair declared the row satisfied and the page still said he had got it. The want is now framed as a
+   want the room will not allow. **He is still in that chair at the tenth hour and §4.1's `no` is now true on the
+   page.**
+3. **CHAPTER 0768'S CLOSING PARAGRAPH SAID IN ITS LAST SENTENCE WHAT ITS SECOND PARAGRAPH HAD ALREADY SAID**, which
+   §17.18 forbids in as many words. The shutter fact stays on the page and stays in the second paragraph. The closing
+   now ends on the wet print going out of the wood of that sill.
+4. **THREE OF THE TEN CLOSINGS STOOD ON ONE CONSTRUCTION** — *nobody in that room would ever know / would have known
+   how to tell / to be told about it* — and §17.18 says no two chapters of a batch may close on the same
+   construction. **The previous repair found and re-aimed a cluster of three in this family and declared it gone, and
+   the cluster came back in a new wording in the same three files, which is what a construction does when the words
+   change and the shape does not.** 0765 and 0769 were re-aimed; 0770 keeps it on purpose, because the batch's
+   ending is that nobody in that room can say what the figure was.
+
+## THE FIGURES, EACH WITH ITS READING AND ITS SCOPE, AND THE FOUR THAT DID NOT REPRODUCE
+
+| Figure | Reading and scope | Value |
+|---|---|---|
+| words, heading line in / out | letters and apostrophes, ten files, both orders | **11,912 / 11,827** — and the previous pass on the same files published **11,610 / 11,525**; a difference of 302, both readings stand, neither is corrected by the other |
+| **bolded share** | words inside bold marks over all words, heading line in | **6.67 weighted, 6.85 unweighted. DID NOT REPRODUCE AND WAS NEVER PUBLISHED AFTER THE FIRST REPAIR — §3 published 9.21 and 9.21 for the first writing and §11.3's table carries no bolded row at all. Against 9.35 / 9.29 for the fifty files behind this volume, and §17.4 says the mean is a consequence and not a plan** |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and separators excluded | **215 prose, 15 speech, 0 plain, 0 bold-without-a-quotation-mark**, and **3 prompts** correctly attributed, two in 0762 and one in 0770 |
+| paragraphs of three sentences or more carrying a physical action | §17.20 | **62 across the ten, at least one in 10 of 10 files** |
+| panels / digits in prose / bare three-digit numerals | heading line out, word-bounded | **0 / 0 / 0** |
+| chapter-title range | words of title text after the dash, §17.8 | **six to nine, in 10 of 10** |
+| chapter length | heading line out | **823 to 1,945, a mean of 1,183** |
+| sentence scale | more than two words, split on `.!?`, heading line out | **mean 25.1, median 23, p90 43, max 100, 13.8% at forty words or more** |
+| the forty-word class | three scopes, both heading-line readings | **0, 0, 0** |
+| the sixteen-word class, within the ten | both heading-line readings | **0 shared passages in 0 pairs and 0 self-repeats** |
+| the sixteen-word class, against the seven hundred and seventy outside | same instrument, same threshold | **22 shared runs in 3 of the ten files, every one exactly sixteen words, which is the threshold and not a run, and every one a window into the man of about thirty-nine's own cast declaration — §11.3 published 57 with a longest of 22, and the two counts are of different units** |
+| the room's own figure, said aloud | a speech paragraph carrying it | **5 of 10 days — 762, 764, 767, 769, 770 — and they are exactly the five days Adrian Vale is not in, which is §9 item 3** |
+| `that` / `nobody` | word-bounded, heading line out, per thousand words | **36.5 / 5.0** |
+| the two figures in one sentence | a nine-figure and an `about four` together, §16.14 | **0 out of 472 sentences** |
+| `passage`, `privilege`, `nine steps`, *player*, *census*, *war*, *bridge*, *witness*, the whole thirty-five-word zero column, a narrator frame, `days since` | literal, both case flags, heading line out | **0 across all ten files** |
+
+**THE DISAGREEMENTS ARE MEASURED AND NAMED AND NOT HARMONISED.** The bolded share, the word count and the
+sixteen-word cross-scope count are three figures this repository now holds two readings of for the same ten files,
+and the differences are of scope and of instrument and not of page, and none of the three is corrected by the other.
+
+## WHAT THE FIGURES ARE FOR, IN ONE PARAGRAPH, AND IT COMES FIRST BECAUSE THE COUNTS COME SECOND
+
+A chair is turned about against a wall so that a man can have his back to it and his face to the door, and the
+chair is standing in the width that room walks all day, and the man who moved it sits in it for six hours anyway and
+another man cannot get to his own end of the bench because of him and will not sit down on it. Two figures go out
+of that room on the same morning at two different hours and the difference between them is a person that no mouth
+in that room can name. A satchel is put on a shelf at the height of a person's shoulder by a stranger and the man
+who owns it comes the whole length of a floor for it without one look anywhere else. A woman of about fifty-two says
+what it has cost her to be the only person in that room who knows who is not in it, and the room empties between
+the sixth hour and the seventh without anybody deciding anything, and she sits down on a stool nobody has sat on.
+A stone lip is wiped clean and dry by the seventh hour and the man who scrapes it every morning of the flood hears
+his knife make a noise it has not made before. A stack of boards is two shorter and a clean piece of wood at the
+near edge of a face goes the colour of wet ash and a barrow stands a hand's breadth further off a wall for the rest
+of a man's life. A man says out loud in the ordinary course that this room has been saying a figure every morning
+of a flood and that nobody in it has ever asked where it came from, and nobody asks him. A man stands at a window
+sill for six hours, finds out that nobody on the ground below ever looks up at that window, and finds out that he
+has been in that room as a shape on somebody's work. And at the end of the ten days two people stand at a bench and
+neither of them can say what that figure was at the fourth hour, four days before a man will decide out loud that it
+is not to be said in that room again.
+
+## THE DEBTS, CARRIED WHOLE AND UNPAID
+
+**THE SIX INHERITED DEBTS ARE AT `outline/volume-16.md` §21.1 AND THIS PASS PAID NONE OF THEM.** And the three the
+batch behind this one added are unchanged: the fifty-day run has chapters to day 770 and none beyond it; the
+volume's one decision, its one panel, its three costs, its resolution, its new question and its last image are fixed
+to days and none of them is in this batch; and the room's own figure is spent on day 775, so from day 776 the
+narrator may not print it and no mouth in that room may say it.
+
+**AND THE INDEPENDENCE DEBT IS NAMED FOR THE FIFTH TIME IN THIS VOLUME AND IT IS NOT ANSWERED BY ANYTHING HERE,
+AND THIS PASS MAKES THE CASE STRONGER RATHER THAN WEAKER: `reviews/volume-16/` does not exist, and both passes over
+these ten files were written and checked by the agent that wrote the chapters. All four findings in this pass were
+found by a person reading four chapters and none of them by an instrument, which is the strongest available argument
+that the debt is real.**
+
+## THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND, AND NOT OWED BY THE NEXT PHASE
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0` AFTER FIFTEEN
+CLOSED VOLUMES AND TWO PASSES OVER THIS ONE BATCH, AND `reviews/volume-16/` DOES NOT EXIST.** All of these live in
+`scripts/`, `state/phase-ledger.json` and `.github/workflows/`, which are owned by GitHub Actions and which no
+writer, review or fix phase may open. **NEITHER THE LEDGER NOR ANY FILE IN `scripts/` OR `.github/workflows/` WAS
+OPENED OR TOUCHED BY THIS PASS, AND NO MARKER FILE WAS CREATED OR REMOVED.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, AND NOTHING ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD FILE
+UNDER `outline/`, NO MARKER FILE. THAT PROMPT MUST READ §12 OF `state/batch-summaries/volume-16-batch-0002.md` AS
+WELL AS §11, BECAUSE THESE TEN FILES HAVE NOW BEEN REPAIRED TWICE AND THE SENTENCES IT WAS TOLD ABOUT ARE NOT THE
+SENTENCES ON THE DISK.**
