@@ -1,6 +1,6 @@
 # Chapter 0730 — A Shelf Along The Wall At The Far Side Of A Room Over A Market At The Height Of A Person's Shoulder, And A Sheet On It With A Heading And One Place Ruled Under That Heading And A Figure In That One Place, And Four Sheets Of That One Shape That Have Come Through This City And One Of Them Still In It, And Seven Documents In All And Not Going To Be An Eighth
 
-The woman of about twenty-nine had the flat of her own two hands on the wood of that bench at the near end of it and then she got up off that bench and went to the shelf along the wall at the far side of that room and put the flat of her own right hand on the front edge of that shelf at the height of a person's shoulder, and she did not take anything off it.
+The woman of about twenty-nine had the flat of her own two hands on the wood at the near end of that bench and then she got up off it and went to the shelf along the wall at the far side of that room and put the flat of her own right hand on the front edge of that shelf at the height of a person's shoulder, and she did not take anything off it.
 
 It was about the fourth hour on the four hundred and fifteenth day of the Bare Month, a Wednesday, in that room over that market, and about nine people were in it, and the wall along the far side of that room said nothing at any hour of that day, and there is nothing on that wall, and nothing has ever been put on it by anybody at any hour.
 

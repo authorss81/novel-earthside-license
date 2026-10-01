@@ -4,7 +4,7 @@ The man of about thirty-four had both his own hands flat on the sill of the one 
 
 It was about the fourth hour on the four hundred and fourteenth day of the Bare Month, a Tuesday, in that room over that market, and about nine people were in it, and the wall along the far side of that room said nothing at any hour of that day, has nothing on it, and has had nothing put on it by anybody in this flood.
 
-Here is the whole of the instrument this city has for it. A man said a thing out loud at the front of his own stall two stalls along at about the fourth hour. A woman standing at a trestle along heard it and said it, in her own words, in her own mouth, to a man at a trestle two along. That man carried it up the stair at the back of that building and said it in that room, badly, and got the sense of it and very little else. There is no paper involved. Nothing was written down and nothing was sent and nobody was told to tell anybody, and the four days that would have been the cooling are not available to this room and have not been available to it for the eighth volume running.
+Here is the whole of the instrument this city has for it. A man said a thing out loud at the front of his own stall two stalls along at about the fourth hour. A woman standing at a trestle along heard it and said it, in her own words, in her own mouth, to a man at a trestle two along. That man carried it up the stair at the back of that building and said it in that room, badly, and got the sense of it and very little else. There is no paper involved. Nothing was written down and nothing was sent and nobody was told to tell anybody, and the four days that would have been the cooling are not available to this room, and there is nothing in this city that would put them there.
 
 ---
 
@@ -18,7 +18,7 @@ Nobody in that room asked anybody anything at any hour of that morning, and that
 
 ---
 
-About four people walked on the ground at the foot of that stair in the ordinary course of that morning while all of that was going on in that room above it, and about four of them got a thing off the thing they were walking past and about four of them did not, and not one of them knew that there was going to be a question asked of one person in that room, and not one of them was ever going to know that there was.
+About four people walked on the ground at the foot of that stair in the ordinary course of that morning while the whole of it was being said in the room over their heads, and about four of them were getting a thing off the thing they were walking past and about four of them were not, and not one of them knew that there was going to be a question asked of one person in that room, and not one of them was ever going to know that there was.
 
 The man of about twenty-seven came up that stair at about the ninth hour with his own two hands in his own sleeves and nothing in them, and the man of about thirty-four told him the same two words, and the man of about twenty-seven stood at the far end of that bench and put his own two hands flat on the wood of it and did not ask one word and did not say one word, and then he went back down that stair.
 

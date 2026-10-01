@@ -14,7 +14,7 @@ The man of about twenty-seven came to that bench first, at about the fifth hour,
 
 "**I did not. I meant the people who go past the door at the back and nothing else, and I have not thought about the front of this building at all.**"
 
-Nobody in that room thanked him for that and nobody improved on one word of it, and about four people in that room were not near enough to that end of that bench to have heard either half of it.
+About four people in that room were not near enough to that end of that bench to have heard either half of it, and nobody thanked him for that and nobody improved on one word of it.
 
 The man of about thirty-eight at the salt wharf came to that bench at about the sixth hour and put his own two hands flat on the top edge of it and leaned on them.
 
@@ -32,7 +32,7 @@ The woman of about fifty-two came to that bench at about the seventh hour and st
 
 He took his own two hands off the wood of that bench and put them flat on his own knees.
 
-"**All of them will know that I asked.**"
+"**They will all know that I asked.**"
 
 "**That is not an answer to what I asked.**"
 
@@ -42,9 +42,9 @@ Nobody improved on the first of those. Nobody thanked him for either of them and
 
 ---
 
-There was no vote. There were no four days. The room found out what it was being asked on the morning it was asked, and the four days that would have been the cooling are not available to this room and have not been available to it for the eighth volume running.
+There was no vote. There were no four days. The room found out what it was being asked on the morning it was asked, and the four days that would have been the cooling are not available to this room, and have not been at any hour of this flood.
 
-The ground at the foot of that stair is a strip of ground from the step to wherever the paving stops and about four people a day walk on it in the ordinary course of a day, and about four of them get a thing off the thing they are walking past and about four of them do not, and the thing that had been said at the fifth hour on the day before had put every one of those about four people out of reach of any question at all, and not one of them was in that room and not one of them knew and not one of them was ever going to be asked what was said in that room or whether anything was.
+The ground at the foot of that stair, which runs from the bottom step to wherever the paving gives out, is a strip of ground that about four people a day walk over in the ordinary course of a day, and of those about four are after a thing off the thing they are walking past and about four are not after anything at all, and the thing that had been said at the fifth hour on the day before had put every one of those about four people out of reach of any question at all, and not one of them was in that room and not one of them knew and not one of them was ever going to be asked what was said in that room or whether anything was.
 
 The man of about thirty-one who carried things came to that bench at about the ninth hour with his own two hands empty and asked the same question in the same words and got no answer at all, and the man of about thirty-four kept his own two hands flat on his own knees and looked at the floor of that room, and the man of about thirty-one went back down that stair without saying one word about it.
 

@@ -16,13 +16,13 @@ At about the fifth hour she said it, and she said it before she said anything el
 
 Nobody in that room thanked her for saying it. Nobody improved on one word of it and nobody argued with her about it and nobody said she was right, and the man of about thirty-four who keeps a stall was at that bench with his own two hands flat on the wood of it and said nothing, and nobody in that room asked him one word about the day before and he was not going to be asked.
 
-The cost of that thing is not hers alone and she has never said so. About four people a day walk on the ground at the foot of that stair in the ordinary course of a day, and they are not in that room, and they were not in that room at the fifth hour on the day before either, and about four of them got a thing off the thing they were walking past that morning and about four of them did not, and not one of them knows and not one of them is going to.
+The cost of that thing is not hers alone and she has never said so. About four people a day walk on the ground at the foot of that stair in the ordinary course of a day, and they are not in that room, and they were not in that room at the fifth hour on the day before either, and of that about four took something off the thing they were walking past that morning and about four did not, and not one of them knows and not one of them is going to.
 
 ---
 
 She sat at the near end of that bench with her own two hands on that book for the rest of that morning and she did not open a second leaf of it and she did not write in it. The woman of about fifty-two came into that room at about the seventh hour and stood at the far end of that bench for a while and did not come near the near end of it, and she said one word to nobody and nobody said one word to her, and her own stool was where she had left it against that far wall and she did not move it and did not look at it.
 
-About four people a day went past the outside of that door at the back of that building in the ordinary course of that morning while all of that was going on in that room, and not one of them stopped and not one of them was asked anything and about four of them got a thing off the thing they were walking past and about four of them did not.
+About four people a day went past the outside of that door at the back of that building in the ordinary course of that morning while all of that was going on in that room, and not one of them stopped and not one of them was asked anything and about four of them were carrying something off the thing they were walking past and about four of them were carrying nothing at all.
 
 At about the ninth hour she got her own two hands under that book and lifted it off the wood of that bench and carried it the length of that room to the shelf at the back, and she set it down on that shelf square with the edge of it, in front of that second slate, and the second slate was standing behind it with its day cut across the head of it and nothing whatever under that day, and her own hands came away from it and she did not touch that slate and no other hand in that room came near that shelf at any hour of that day.
 

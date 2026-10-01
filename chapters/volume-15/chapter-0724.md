@@ -8,7 +8,7 @@ He took his own two hands off that door and went up that stair into the room ove
 
 ---
 
-At about the fifth hour he said it out loud, and he said it to the middle of the floor of that room and not to anybody on that bench.
+At about the fifth hour he said it out loud, and he said it into the middle of that room and not to anybody on that bench.
 
 "**A decision is not a thing and it does not stay decided by itself, and somebody in here has to decide the same thing again every morning or it comes apart, and nobody in this city has ever had to do that, and we have been doing it the whole of this flood without once noticing that we were doing it.**"
 
