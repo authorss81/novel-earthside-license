@@ -6,7 +6,7 @@ It was about the fourth hour on the four hundredth day of the Bare Month, a Tues
 
 There is one board on the outside wall at that end of that market and it carries three sets of figures of this city's own and none of the three is rubbed out on any day of this flood. It is not blank. It is stale, and the figures on it are the figures it was carrying before the water came and nobody has taken any of them off it and nobody has put any other ones on it. None of those three sets of figures carries a line of words under it, and no figure on that board is printed here, and this city has never printed one of them.
 
-The wall above the top edge of that board was washed once in the whole of this flood, on a day that is not one of the fifty days this book runs, and the man who washed it is the man standing in front of it with a bucket at his feet. No second person has put a hand on that wall on any of those days and no second person is going to, and the water that came off it that one time has dried and gone and nothing has been on that wall since.
+The wall above the top edge of that board was washed once in the whole of this flood, on a day that is not one of the fifty days anybody has kept since, and the man who washed it is the man standing in front of it with a bucket at his feet. No second person has put a hand on that wall on any of those days and no second person is going to, and the water that came off it that one time has dried and gone and nothing has been on that wall since.
 
 ---
 

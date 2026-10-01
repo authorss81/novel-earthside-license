@@ -20,4 +20,4 @@ Adrian Vale was at the far end of that row with his own two hands in his own poc
 
 ---
 
-That length of cord was lying along the new line of that channel from the near end of it to the low place at the middle of that row of flats where the silt stands highest, and it is still lying there, and there is no figure anywhere in this city for how high that silt stands at the near end of it.
+That length of cord was lying along the new line of that channel from the near end of it, where the silt stands highest, to the low place at the middle of that row of flats, and it is still lying there, and there is no figure anywhere in this city for how high that silt stands at the near end of it.

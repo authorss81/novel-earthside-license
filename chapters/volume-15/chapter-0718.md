@@ -14,7 +14,7 @@ A man came along that second row of flats at about the seventh hour with a bundl
 
 The man of about thirty-eight at the salt wharf came up that second row of flats at about the ninth hour with his own barrow empty and his own knife in his belt, and he went over the top of that plank instead of going round by the low side, and he put his own hand flat on the top of it to see whether it moved, and it did not move.
 
-"**I have gone up over the top of that board and I am not coming back down this row of flats on the far side of it, and I have got an empty barrow and a knife and a yard of wharf to be at this evening, and I am not going to stand here and work out whose two hands laid that board down.**"
+"**I have gone up over the top of that board and I am not coming back along the top of this row of flats to get to my own yard, and I have got an empty barrow and a knife and a yard of wharf to be at this evening and I shall go round by the low side and come in at the end of it, and I am not going to stand here and work out whose two hands laid that board down.**"
 
 Nobody on that row of flats answered him. Nobody thanked him. Nobody told him anything about that plank, and nobody on that row of flats is going to tell him, and Adrian Vale was at the far end of that row with his own two hands in his own pockets and did not hear one word of it.
 
@@ -22,4 +22,4 @@ About four people went up that second row of flats that morning with what they w
 
 ---
 
-That plank was still down across that wet sill at the tenth hour with its near end on the near stone and its far end on the far one, and the far end of that second row of flats was standing empty in the weather with nobody on it and nobody coming back along it, and the man of about thirty-eight at the salt wharf went up over the top of that plank at about the ninth hour and was not coming back down that row that day.
+That plank was still down across that wet sill at the tenth hour with its near end on the near stone and its far end on the far one, and the far end of that second row of flats was standing empty in the weather with nobody on it and nobody coming back along it, and the man of about thirty-eight at the salt wharf went up over the top of that plank at about the ninth hour and was not coming back along the top of that row that day.
