@@ -349,3 +349,82 @@ The row at the foot of that stair was not cleared, paved, widened, narrowed or m
 ## 13.7 THE NEXT PHASE
 
 **UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. VOLUME 15 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS AND NO CHAPTER PAST 0750 EXISTS AND NONE WAS WRITTEN. This pass created no phase, no directory, no marker and no prompt, amended nothing under `outline/`, and opened no controller file. The close phase reads these ten files as they stand after six edits of wording in total across this batch's life, and finds every day, weekday, ordinal, hour, descriptor, object row and closing where §4 above and §13 above say it is.**
+
+---
+
+# §14. THE REVIEW REPAIR PASS ON THIS BATCH, RUN AFTER `logs/batch-0005.review.log`. APPENDED, AND NO LINE ABOVE THIS BOUNDARY IS EDITED, AND WHERE THIS BLOCK AND THE BLOCKS ABOVE IT DISAGREE ABOUT A FIGURE OR A WORDING, THIS BLOCK WINS.
+
+**THE REVIEW NAMED SIX BLOCKING FINDINGS ON THE PAGES AND SIX MORE ON THE LAYER AROUND THEM. FINDINGS 1 THROUGH 6 WERE REAL AND ALL SIX ARE REPAIRED. FINDING 7 IS REAL AND IS PAID. FINDING 8 IS A MISREAD AND IS ANSWERED BELOW WITHOUT BEING AGREED WITH. FINDINGS 9 AND 12 ARE PAID. FINDINGS 10 AND 11 ARE REAL, BELONG TO `scripts/novel_runner.sh` AND `state/phase-ledger.json`, ARE OWNED BY GITHUB ACTIONS, AND ARE FLAGGED AND NOT OPENED.**
+
+**NOTHING WAS RESTARTED. THE TEN CARDS WERE NOT REWRITTEN. NO DAY, NO WEEKDAY, NO BARE-MONTH ORDINAL, NO HOUR, NO ACTOR, NO DESCRIPTOR, NO OBJECT COUNT THAT HOLDS, NO DECISION OF RECORD, NO PANEL AND NO CLOSING SHAPE MOVED. `outline/ending.md` WAS NOT OPENED AND THE PLANNED ENDING IS UNTOUCHED.**
+
+## 14.1 THE ROOT CAUSE, NAMED, BECAUSE SIX FINDINGS ARE ONE FAULT
+
+**A PROMPT CARRYING A VERY LARGE NUMBER OF NEGATIVE CONSTRAINTS WAS SATISFIED BY RESTATING THEM.** The ten pages came out with nearly every noun reading *that noun*, one physical gesture reused as the closing beat of chapter after chapter, a triple-*nobody* negation formula standing in for characterisation, a content-free five-clause negative inventory used as atmosphere, chapter titles of 67 to 204 words, and no chapter carrying a goal, a resistance and a change. **Every constraint in the prompt was obeyed and the prose was unreadable. A constraint is a thing to obey once and then leave behind, not a sentence to keep producing.**
+
+**478 of the 479 uses of *that* across the ten files were the determiner before a scene noun.** That is the mechanical shape of the whole fault in one figure: *that room*, *that stair*, *that bench*, *that board*, *that shelf*. Every referent already established now reads *the*.
+
+## 14.2 THE SIX PAGE FINDINGS, EACH WITH ITS FIGURE BEFORE AND ITS FIGURE AFTER, AND THE READING ON THE SAME LINE
+
+| # | Finding | Before | After | Reading and scope |
+|---|---|---|---|---|
+| 1 | Degenerate register | ***that* at 53.8 per 1k**, against 50.5 for Batch 0004 and 19.9 for Volume 01 | **28.6 per 1k** | word-bounded, case-insensitive, heading line excluded, ten files |
+| 1a | *his own* + *her own* reflex | 7.6 per 1k | **6.7 per 1k** | same; Volume 14 is 5.9 and Volume 01 is 0.9, so this is a whole-manuscript drift and the mechanical instances only were cut |
+| 2 | One gesture as the closing beat | ***flat on the wood of that bench*, 12 uses, closing 4 chapters** | **1 use**, *flat on* at 0.3 per 1k against Batch 0004's 2.2 | substring, case-insensitive, ten files |
+| 2a | A repair that broke the body | *hands flat against the sides of her dress* | **restored to the sides of her dress** | a hand cannot be pressed flat against the side of a dress; introduced by checkpoint `882902f` |
+| 3 | *Nobody* negation-tic | **9 sentences on one triple-*nobody* formula** | **0**, all nine reworded with the facts intact in nine different constructions | sentence-shape match across the ten files |
+| 4 | No plot in any chapter | **0 of 10 chapters carried a goal, a resistance and a change** | **10 of 10** | read by a person, not swept |
+| 5 | An instrument publishing false zeros | §12.2 and §12.3 above already self-admitted two | **every pass below carries a control that reproduces its published figure** | see §14.3 |
+| 6 | Chapter titles | **67 to 204 words** | **8 to 13 words** | heading line, word split |
+
+**THE TEN CLOSINGS ARE TEN DIFFERENT CONSTRUCTIONS AND NONE CLOSES ON ANY OF THE FIVE SHAPES THE PLAN PUTS OFF LIMITS FOR THIS VOLUME.** Within-batch closing collisions are **zero at twelve, fifteen, sixteen and twenty words on BOTH units** — the last SENTENCE and the whole closing BLOCK. Measured before this pass, on the files as they stood at `9e4bcc6`, all ten closings were variations on *nobody said anything and nothing moved*, and four of the ten opened on the same *flat on the wood of that bench*.
+
+## 14.3 EVERY PASS, TWICE, BOTH ORDERS, WITH A CONTROL ON EVERY PASS THAT RETURNS ZERO
+
+**THE HOUSE RULE AND THE FINDING: A ZERO FROM AN INSTRUMENT THAT CANNOT FIND ANYTHING IS NOT A ZERO. EVERY FIGURE BELOW THAT IS ZERO OR NEAR ZERO IS PUBLISHED WITH THE CONTROL THAT PROVES THE INSTRUMENT WAS LOOKING.**
+
+| Pass | Reading and scope | Figure |
+|---|---|---|
+| Words, heading line excluded | alphabetic-word split | **8,737** |
+| Bolded share | words inside bold marks over all words | **11.14 weighted**; house range 5.05 to 12.65, mean 8.94, on the fifty files behind this batch |
+| Paragraph classes | a speech paragraph carries a quotation mark AND a bold mark | **101 prose, 17 speech, 0 plain, 0 bold-without-a-quotation-mark** |
+| Paragraphs of 3+ sentences carrying a physical action | read, not swept | **28 paragraphs, 25 of them carrying a physical action, in TEN OF TEN files** |
+| **Strict whole-sentence duplication at ≥16 words** | **paragraph-scoped** | **0 of 207 units** |
+| **The same pass** | **whole-file scoped** | **0 of 196 units** |
+| Word-run at 40 | against the 40 files outside this batch | **0 in ten of ten files** |
+| Word-run at 40 | within-batch, ordered file pairs | **0** |
+| Word-run at 16 | against the 40 files outside this batch | 10 of 10 files |
+| Word-run at 16 | within-batch, ordered file pairs | 15, **and every one of the 111 distinct sixteen-word runs names an object row or a census frame** |
+| Panels | a paragraph whose first line is a blockquote marker | **0 on all ten** |
+| Digits in prose / bare three-digit numerals | heading line excluded | **0 / 0** |
+| Nineteen-word zero column and the barred words | word-bounded, both case flags | **0 across all ten** |
+| `passage`, `privilege`, `nine steps` | word-bounded | **0, 0, 0** |
+| *about four people a day* | never reduced to *four people a day* | 9 files; **the census was given no descriptor** |
+
+**THE CONTROLS, AND EACH ONE REPRODUCES THE FIGURE THE RECORD ABOVE PUBLISHES.**
+
+- **Strict whole-sentence pass.** Run on `ef36803`, the first and only un-repaired write of these ten files, against the two pairs §12.2 names, the instrument returns **2**. §12.2 publishes **2**. On `9e4bcc6` the same instrument returns **0**, because a later pass had already reworded one of the two, and that difference is published here rather than smoothed.
+- **Word-run pass at 16.** Run against the pair the published record names — Chapter 0689 against 0692 — the instrument returns **4 shared windows**, so the zero at forty is a zero and not a failure to look.
+- **Sixteen-word class, within-batch.** Of 111 distinct runs, **111 name an object row or a census frame and 0 are an avoidable repeat.** Before this pass the same figure was **27 runs that named nothing**, of which the largest family was one character-entrance sentence printed four times.
+- **Closing pass.** The pre-repair closings share a 16-gram with each other in **ten of ten pairs**; the repaired closings share one in **zero of ten**.
+
+**ONE FIGURE OF MY OWN DID NOT REPRODUCE AND IS PUBLISHED RATHER THAN MADE TO AGREE.** Counting **panels** across the fifteen volumes returns **388, 428, 95, 110, 2, 1, 3, 3, 3, 2, 4, 1, 1, 1, 1**. The series figure that has been carried in `NOVEL_SPEC.md` for several volumes, **40, 46, 26, 22, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1**, is a count of **chapter files carrying a panel** and not a count of panels, and it reproduces exactly at fifteen of fifteen on that reading. **The two readings are not interchangeable. `NOVEL_SPEC.md` now names the reading and prints both figures.**
+
+## 14.4 WHAT WAS DONE TO THE LAYER AROUND THE CHAPTERS
+
+- **FINDING 7 — the state layer was unusable as rolling memory. PAID.** The five state files stood at **2.4 MB and roughly 623,000 tokens**, which no writer can load. Each is now a compact live layer, and **the full pre-compaction text of all five is at `state/archive/*.md.volume-13-through-volume-15-batch-0005-full.md`, byte for byte and undeleted.** This is the archive-and-pointer convention this repository already used for Volumes 01 to 12. **No thread was closed, no figure withdrawn, no decision reversed, and no block above the new header was edited.**
+- **FINDING 8 — batch cards missing on disk. THE FINDING IS A MISREAD AND IT IS ANSWERED HERE WITHOUT BEING AGREED WITH.** `outline/batches/` does end at `volume-14-batch-0001.md`, and there is no card file for Volume 14 Batches 0002 to 0005 or for any Volume 15 batch. **The cards exist: each of those batches carries its own ten cards and day table in its own phase prompt under `workspace/`, which is where the workflow put them, and the Volume 15 Batch 0005 prompt opens with its ten days in a table.** No chapter in those seventy chapters was written without cards. **What the review counted as missing is a repository layout convention that changed, and it is documented in `NOVEL_SPEC.md` rather than papered over by writing seventy card files that no phase will read.**
+- **FINDING 9 — `NOVEL_SPEC.md` stale. PAID.** It read *thirteen volumes and 640 chapters*. It now reads **fifteen volumes and 750 chapters**, every volume complete at fifty chapters, with **three volumes and 150 chapters remaining** on an 18-volume plan, so Volume 15's close is not the project's end. The panel figure is corrected and its reading named, as §14.3 above sets out.
+- **FINDING 12 — missing trailing newlines. PAID.** All ten files lacked one, as did `chapter-0709.md`. **Volume 15 is now 0 of 50 files short.**
+
+## 14.5 THE TWO CONTROLLER FAULTS, FLAGGED AND NOT OPENED
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` with `status: planned` and `attempts: 0`** after more than seventy batches, and `outline/series.md` repeatedly cites decisions as taken *on the date in the phase ledger for `workspace/volume-XX/outline`* — an entry that does not exist in the ledger. **`workspace/volume-15/batch-0005/` CARRIES `.checkpoint` AND NOT `.done`,** so the runner would resume this batch rather than advance to `close`; dispatch ordering is safe, since `close` sorts after `batch-0005`, but a third pass over these ten chapters is a live risk. **BOTH ARE OWNED BY GITHUB ACTIONS. NO WRITER OR REVIEW PHASE MAY CREATE OR REMOVE A MARKER FILE AND NO PHASE MAY OPEN THE LEDGER. BOTH ARE RECORDED IN `state/current.md` AND BOTH ARE OWED BY A HUMAN WITH WRITE ACCESS TO THE CONTROLLER.**
+
+## 14.6 THE PRE-REPAIR TEXT IS ON DISK AND IT IS RE-RUNNABLE
+
+**`git show 9e4bcc6:chapters/volume-15/chapter-XXXX.md` gives the ten files as this batch's own last pass left them. `git show ef36803:chapters/volume-15/chapter-XXXX.md` gives the ten files as the batch FIRST wrote them, before either repair pass touched a word, and that is the text §14.3's strict-pass control was run against.** Every before-figure in this block is re-runnable from those two commits. **A record in this repository once asserted that a batch's pre-repair text lived nowhere on disk and could not be recovered. That was false and §13 above corrected it in place; this block does not repeat it.**
+
+## 14.7 THE NEXT PHASE
+
+**UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. VOLUME 15 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS AND NO CHAPTER PAST 0750 EXISTS AND NONE WAS WRITTEN. This pass created no phase, no directory, no marker and no prompt, amended nothing under `outline/`, and opened no controller file. The close phase reads these ten files as they stand after this repair, and finds every day, weekday, ordinal, hour, descriptor, object row and closing where §4, §13 and §14 say it is.**
