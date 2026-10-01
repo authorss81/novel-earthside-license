@@ -1,0 +1,27 @@
+# Chapter 0704 — The Woman Of About Twenty-Nine At The Front Door Of That Building At The Fourth Hour, And A Man Two Stalls Along Who Comes In At That Same Front Door And Goes Out At It Again And Does Not Go Up That Stair
+
+The woman of about twenty-nine who keeps a public register had her own right hand on the latch of the front door of that building and her own left hand up the sleeve of her own coat, and she turned that latch and went in at the front of that building, and it was the same door and the same latch and the same way in as every morning of this flood.
+
+It was about the fourth hour on the three hundred and eighty-ninth day of the Bare Month, a Friday, and that building stands at the back of the store's end of that market, and it has a door of its own at the front of it and a stair at the back of it going up to a room over that market, and she has gone in at that front door every morning of this flood and has never once gone in at the back of that building, and nobody in this city has ever asked her why she goes in at the front.
+
+She turned about on the inside of that door and put the heel of her own hand on the latch to shut it behind her, and then she crossed the floor at the bottom of that building and went up the stair at the back of it with her own two hands in her own sleeves, and nobody came up that stair behind her and nobody was in that room when she got to the top of it.
+
+---
+
+That book stands on the shelf behind the bench in that room with five figures down the middle of one page and a day entered against each of the five and none of the five struck through and no sixth entered, and there is one word near the head of the column on the right of that page and it is not in her hand and nothing anywhere else on that page carries anything at all. The second slate stands on the same shelf behind that book with a day cut across the head of it and nothing whatever under that day, and it is behind that book and not on a shelf of its own, and it has not been picked up and it has not been turned over and nothing has ever been written on it.
+
+She took that book down off that shelf with her own two hands. She carried it the two steps to that bench and set it down on the wood. It fell open where it falls open every morning of this flood. She turned no other page and she wrote nothing in it. She put her own right forefinger on the wood at the side of that page and not on the paper, and she went down the five figures one under another with the day entered against each of them. She shut the book on the heel of that hand and carried it back the two steps and set it down on that shelf in front of that second slate, and her own two hands came off the wood of the shelf, and no hand but her own went near that shelf at any hour of that morning.
+
+She put her own two hands flat on the inside of that front door and pushed it to until the latch came down into its own plate, and she took her own right hand off that latch and put it up the sleeve of her own coat again. She stood at the bottom of that building for a while with that door shut behind her and that market row on the other side of it, and nobody came in at that door while she was standing there and nobody knocked.
+
+At about the fifth hour she was at the bottom of that stair with her own right hand on the latch of that front door again, and the man of about thirty-four who keeps a stall came in at that door not a moment behind her and had to stop in front of her, and she had to move her own arm out of the way of his own, and neither of them said one word at that moment.
+
+"**I have come in at this door every morning of this flood because the step at the back of this building is wet and I am not going to stand at the back of it in that, and I have never once said that out loud in this building before this morning, and I am saying it now because you are standing in here with your hand on that latch.**"
+
+She did not ask him why he came in at that door, and nobody in this city asked him why he came in at that door, and he was not thanked for saying it out loud and nobody improved on one word of it. She put her own hand flat on the inside of that door and pushed it to, and the latch came down into the plate, and he turned about and went out at that same front door again and did not go up that stair at the back of that building, and she went back up it and shut the door at the bottom of it behind him.
+
+Nobody in that building said one word about where he had gone in at, and nobody in that building said one word about where she went in at, and about nine people were in that room by the seventh hour and not one of them asked her anything at any hour of that day.
+
+---
+
+She came back down that stair at about the tenth hour and went out at the front of that building and stood in that market row for a while with her own two hands in her own sleeves, and the man of about thirty-four was not in that row and did not come back into it, and the front door of that building stood shut behind her with its own latch down into its own plate. She and that man were the only two people in this city who knew that he had come in at that front door that morning and had gone out at it again and had not gone up that stair, and there was no page in this city with either of those two things on it, and the room at the top of that stair did not know either of them and was not going to be told.
