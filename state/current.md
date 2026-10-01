@@ -1124,9 +1124,11 @@ slate is not on that page at all.**
 **AND FROM PAGE ONE OF DAY 776 THE NUMBER IS NOT SAID ALOUD BY ANYBODY IN THAT ROOM AND IS NOT STATED BY THE
 NARRATOR, AND THE NARRATOR DOES NOT KNOW IT, AND THE RULE DOES NOT LAPSE.** The instrument for that: a literal
 *nine* anywhere across the ten files returns nine occurrences in five files, and every one of the nine is accounted
-for — three are the room's own figure on days 772, 774 and 775, three are *about nine people* in narration on day
-775, and three are *about nine years* on the man of about thirty-nine's board in 0778 and 0779, which is
-`outline/volume-16.md` §7.2's own carrying figure and not the room's number. **The next batch begins on the fifth
+for — three are the room's own figure in a mouth, on days 772, 774 and 775, three are people in a room in narration,
+one on day 772 and two on day 775, and three are *about nine years* and *nine years* on the man of about thirty-nine's
+board in 0778 and 0779, which is `outline/volume-16.md` §7.2's own carrying figure and not the room's number. **THE
+COUNT OF NARRATION FIGURES IS CORRECTED HERE FROM THIS PHASE'S OWN FIRST EDITION, WHICH PUT ALL THREE ON DAY 775,
+AND THE REPAIR PASS LEFT ALL NINE WHERE THEY WERE.** **The next batch begins on the fifth
 morning of this and must not put it back.**
 
 ## THE THREE ADRIAN DAYS, AND THE TABLE THAT HAS TWO OF THEM MISSING
@@ -1141,9 +1143,12 @@ conservative reading, because every row on disk reads `no` and because a `no` co
 would have to earn. NO FOURTH `yes` WAS INVENTED ANYWHERE, NO PLAN FILE WAS EDITED, AND THE TABLE WAS NOT ASSUMED
 TO BE CORRUPT AND IGNORED. THE DEFECT IS PRE-EXISTING, IT IS NOT A WRITER'S TO SETTLE, AND IT IS CARRIED AS AN OPEN
 THREAD AT `state/open-threads.md` #21. Chapter 0761 is the standing example of a finished chapter contradicting a
-published row and it is flagged for a human at `state/batch-summaries/volume-16-batch-0002.md` §13.4, and the three
-chapters of this batch do not contradict anything, because a chapter that fails its want cannot contradict a row
-that says it failed.** All three wants fail on the page: a barrow that fills with rain, a coil of rope that comes
+published row and it is flagged for a human at `state/batch-summaries/volume-16-batch-0002.md` §13.4, and 0771 and
+0780 contradict nothing, because a chapter that never performs its want cannot contradict a row that says it
+failed. **0773 IS NOT IN THAT CLEAN CLASS, AND THE REPAIR PASS ON THIS PHASE'S OWN OUTPUT IS WHAT FOUND IT: it
+performs the want and then undoes it on the page, the outcome stays `no` on the conservative reading, the chapter
+is not rewritten to make the reading tidier, and the ambiguity is carried at `state/open-threads.md` #22.** All
+three wants fail on the page: a barrow that fills with rain, a coil of rope that comes
 back over a mallet, and a barrow that is still standing on a rise in the fourth of eleven miles of flats at the
 tenth hour. **Nobody thanks him in any of the three and nobody in any of the three is waiting for him to be useful.**
 
@@ -1151,21 +1156,21 @@ tenth hour. **Nobody thanks him in any of the three and nobody in any of the thr
 
 | Figure | Reading and scope | Value |
 |---|---|---|
-| words, heading line in / out | letters and apostrophes, ten files, both orders, my ten | **10,581 / 10,508** — against 11,956 / 11,871 for Batch 0002's finished ten and 8,674 / 8,595 for Batch 0001's |
-| **sentence scale** | sentences of more than two words, split on `.!?`, heading line out, whole files, both orders | **mean 24.8, median 22, p90 43, max 62, 14.4 per cent at forty words or more, out of 424 sentences.** THE FIGURE TO MATCH WAS A MEDIAN OF ABOUT TWENTY-TWO OR TWENTY-THREE AND NOT THE FORTY-SEVEN OF THE TEN FILES THIS BATCH WAS DISPATCHED WITH, and the first writing of these ten came back at a median of 35 with 45.0 per cent at forty words or more, and every one of the ten was rebuilt sentence by sentence with every fact left standing until the instrument returned 22. **A batch that comes back above a median of thirty has rebuilt the fault three passes took to remove** |
-| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and separators excluded | **194 prose, 11 speech, 0 plain, 0 bold-without-a-quotation-mark, 0 prompts** — the first writing returned **7 bold-without-a-quotation-mark** and two of the ten files' speeches had been written without their quotation marks at all, which is `outline/volume-16.md` §17.7's fault under either reading |
-| paragraphs of three or more sentences carrying a physical action | three or more sentences and one of twenty physical-action verbs in the paragraph | **57, and at least four in 10 of 10 files** — against 12 in the first writing, of which two files had none |
+| words, heading line in / out | letters and apostrophes, ten files, both orders, my ten | **10,596 / 10,523** — against 10,581 / 10,508 for these ten files before the repair pass, 11,956 / 11,871 for Batch 0002's finished ten and 8,674 / 8,595 for Batch 0001's |
+| **sentence scale** | sentences of more than two words, split on `.!?`, heading line out, whole files, both orders | **mean 24.9, median 22, p90 44, max 62, 14.9 per cent at forty words or more, out of 422 sentences**, against mean 24.8, p90 43, 14.6 per cent and 424 out of 424 for these ten files before the repair pass, and the per-file maxima are unchanged on all ten files.** THE FIGURE TO MATCH WAS A MEDIAN OF ABOUT TWENTY-TWO OR TWENTY-THREE AND NOT THE FORTY-SEVEN OF THE TEN FILES THIS BATCH WAS DISPATCHED WITH, and the first writing of these ten came back at a median of 35 with 45.0 per cent at forty words or more, and every one of the ten was rebuilt sentence by sentence with every fact left standing until the instrument returned 22. **A batch that comes back above a median of thirty has rebuilt the fault three passes took to remove** |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and separators excluded | **193 prose, 10 speech, 0 plain, 0 bold-without-a-quotation-mark, 0 prompts**, against 194 and 11 before the repair pass, and the speech paragraph the repair took off the page is published at `state/batch-summaries/volume-16-batch-0003.md` §5 item 5** — the first writing returned **7 bold-without-a-quotation-mark** and two of the ten files' speeches had been written without their quotation marks at all, which is `outline/volume-16.md` §17.7's fault under either reading |
+| paragraphs of three or more sentences carrying a physical action | three or more sentences and one of twenty physical-action verbs in the paragraph | **53 on the twenty verbs printed at `state/batch-summaries/volume-16-batch-0003.md` §3, and at least four in 10 of 10 files** — 4, 4, 6, 5, 9, 4, 6, 5, 5, 5 file by file, against 57 on the twenty verbs this phase did not inherit, and against 12 in the first writing, of which two files had none. **The two totals are two lists and not two measurements of the same thing, and the list is printed on the same line as the number** |
 | panels / digits in prose / bare three-digit numerals | heading line out, word-bounded, a hyphen delimiting | **0 / 0 / 0** |
 | chapter-title range / trailing newline | words of title text after the dash / last character of each file | **four to eight, in 10 of 10 / 10 of 10** |
-| chapter length | heading line out | **868 to 1,452, a mean of 1,051** — 0775 is the long one and it is the volume's one decision, and 0771 is the short one and it is the first of the three Adrian days |
-| **bolded share** | words inside bold marks over all words, heading line in | **4.39 weighted, 464 bold words of 10,581** — against 6.64 for Batch 0002's finished ten, 9.21 for its first writing, 9.87 for Batch 0001's and 9.35 for the fifty files behind this volume. **NO CARD IN THIS BATCH SET A TARGET FOR IT, and the cause is on the row: eleven speech paragraphs in ten files against fifteen in each of the two batches behind it, and four of the eleven are on day 775 because day 775 is the volume's one decision. A FIGURE THAT FELL BY TWO POINTS BECAUSE A BATCH HAPPENED TO HAVE FEWER SPEECHES IS A CONSEQUENCE AND NOT AN IMPROVEMENT** |
+| chapter length | heading line out | **874 to 1,453, a mean of 1,052** — 0775 is the long one and it is the volume's one decision, and 0771 is the short one and it is the first of the three Adrian days, and **both figures are the ones measured on the files after the repair pass, which rewrote five paragraphs across four of the ten, and the 1,450 this phase's own source record published at its §8 item 6 was never a measurement of anything** |
+| **bolded share** | words inside bold marks over all words, heading line in | **3.99 weighted, 423 bold words of 10,596**, against 4.39 and 464 of 10,581 for these ten files before the repair pass, 6.64 for Batch 0002's finished ten, 9.21 for its first writing, 9.87 for Batch 0001's and 9.35 for the fifty files behind this volume. **NO CARD IN THIS BATCH SET A TARGET FOR IT, and the cause is on the row: ten speech paragraphs in ten files against fifteen in each of the two batches behind it, and four of the ten are on day 775 because day 775 is the volume's one decision, and three on day 772 and one each on days 774, 777 and 778. A FIGURE THAT FELL BY TWO POINTS BECAUSE A BATCH HAPPENED TO HAVE FEWER SPEECHES IS A CONSEQUENCE AND NOT AN IMPROVEMENT, AND THE FURTHER FOUR TENTHS IS THE REPAIR** |
 | the forty-word class | three scopes, both heading-line readings, reading past the first list | **0, 0, 0** — scope 2 is my ten against the **seven hundred and seventy** files outside them, and ten of seven hundred and eighty are this batch |
 | the sixteen-word class, within the ten | both heading-line readings | **0 shared passages in 0 pairs and 0 self-repeats** |
 | the sixteen-word class, against the seven hundred and seventy outside | the same instrument and threshold | **0 shared runs.** **The scope named NINETEEN before the last two edits and every one was a real run and every one was a real duplication: five into the wharf yard at the near end of eleven miles of flats, standing word for word in `chapter-0765.md`, and four of the five were a SCENE and not a sentence. Batch 0002's §13.3 publishes 22 for its finished ten and §11.3 publishes 57 for its first writing, and those are windows into declarations the plan itself requires. This batch's zero is the consequence of running the scope against the outside and re-aiming every window it named, and no card aimed at it** |
 | the room's own figure, said aloud | a marked speech paragraph carrying *nine* with *of us* or *people*, whole files, both orders | **3 marked speech paragraphs in 3 of the 10 days — 772, 774, 775 — by three different people, and the three days are three of the five days Adrian Vale is not in before the decision.** A fourth mouth on 775 gives a different figure, which is the volume's own standing quarrel and is not the same figure. Not said in any mouth on 771, 773 or on any day from 776 to 780 |
 | `about four people a day` / the un-reduced `four people a day` / the strip of ground at the foot of that stair | literal strings | **0 / 0 / not named on any of the ten pages** — a consequence of where the ten days are, since two of them are at the near end of eleven miles of flats |
-| the two figures in one sentence | a nine-figure and an `about four` together, §16.14 | **0 out of 424** |
-| `that` / `nobody` / `that room` | word-bounded, both case flags, heading line out, per thousand words | **36.6 / 5.6 / 5.1** — against 36.6, 5.0 and 4.1 for Batch 0002's finished ten, and 41.1 and 5.7 for its first writing. **AN EARLIER EDITION OF THIS BATCH'S OWN RECORD PUBLISHED 28.1 FOR `that` AND THAT FIGURE WAS NOT PRODUCED BY THE INSTRUMENT AND IS WITHDRAWN. The sentence-scale repair moved the median and did not move the determiner** |
+| the two figures in one sentence | a nine-figure and an `about four` together, §16.14 | **0 out of 422**, re-run after the repair pass |
+| `that` / `nobody` / `that room` | word-bounded, both case flags, heading line out, per thousand words | **36.9 / 5.7 / 5.2** — against 36.6, 5.6 and 5.1 for these ten files before the repair pass, 36.6, 5.0 and 4.1 for Batch 0002's finished ten, and 41.1 and 5.7 for its first writing. **AN EARLIER EDITION OF THIS BATCH'S OWN RECORD PUBLISHED 28.1 FOR `that` AND THAT FIGURE WAS NOT PRODUCED BY THE INSTRUMENT AND IS WITHDRAWN. The sentence-scale repair moved the median and did not move the determiner** |
 | `his/her/its/their own` | literal, both case flags, heading line out, per thousand words | **3.7, and 39 occurrences** — the first writing was at 5.3 and seventeen of the thirty-nine frames were re-aimed in the later chapter with every fact left standing. `own two hands` is at 0 and was 1 for one edit |
 | `own two hands` / the triple-*nobody* chain | literal, both case flags | **0 / 0** — `own two hands` was 1 for one edit and the instrument caught it |
 | the thirty-five-word zero column, *nine steps*, *passage*, *privilege*, *player*, *census*, *war*, *bridge*, *witness*, a narrator frame, `days since` | literal, both case flags, whole-word bounded with a hyphen delimiting | **0 across all ten files** |
@@ -1199,6 +1204,24 @@ written without their quotation marks, so that the paragraph-classes row read `b
 `about four of the marks`, which is §17.16's prohibition on the letter. One figure in a table that was wrong only
 because a reading was not stated with it. One row here that described a closing by its last sentence and not by
 the whole of it. **NOT ONE OF THE ELEVEN WAS A COUNT.**
+
+**AND THE REPAIR PASS FOUND EIGHT MORE, WHICH MAKES NINETEEN IN THESE TEN FILES, AND NONE OF THE EIGHT WAS A COUNT
+EITHER, AND IT IS THE TENTH TIME IN THIS VOLUME THAT A SCRIPT'S ZERO HAS BEEN THE WRONG ANSWER.** Three blocking,
+and all three were a file saying something false about a page: the man of about thirty-one spent the satchel and
+named a third cost in a mouth on day 775, against a card that puts that satchel on a list of things the decision
+does not touch, and no file recorded it; `state/open-threads.md` published that the second slate was on the page of
+0775 and a literal *slate* across the ten files returns **ZERO**; and Chapter 0776 put that man on her side of the
+book on page one and on the other side of the book two paragraphs later, and both sentences stood. Three closings
+still sharing a construction that this file's own list above had already declared cleared, each of them nine to
+eleven words and therefore under the sixteen-word threshold that catches a copied paragraph and not a copied
+cadence, **and one of those three was shared by four of the ten closings and not by the two the review named, which
+is what a person reading two files finds and a person reading ten does not.** **AND TWO THAT ARE JUDGMENTS NO SCRIPT RETURNS: a closing paragraph that restated its own second
+paragraph, which 0771's did and §17.18 forbids, and the outcome published for 0773, which performs its want and
+then undoes it on the page, where 0771 and 0780 never perform theirs at all.** That second one is carried at
+`state/open-threads.md` #22 with the weaker reading published and `no` kept. **THE FIGURES IN THE TABLE ABOVE WERE
+RE-RUN AFTER THE REPAIR AND THE INSTRUMENT REPRODUCED EVERY ONE OF ITS OWN EARLIER ROWS EXACTLY ON THE FILES AS THEY
+STOOD BEFORE THE REPAIR, which is the control that says the two sets of numbers are the same measurement taken
+twice and not two measurements.**
 
 ## THE DEBTS, CARRIED WHOLE AND UNPAID
 

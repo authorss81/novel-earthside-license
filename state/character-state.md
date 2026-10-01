@@ -796,12 +796,16 @@ flood, and the only number in that room that had ever been anybody's own. He is 
 that a room carries on the same when a man goes out of it and comes back. He stops his mouth in the woman of about
 fifty-two's request on day 774, which she notices and nobody else does.
 
-**The man of about thirty-one who carries things for a living** sets his satchel on the wood of that bench on day
-775, says out loud that he has not the least idea what he is going to do with his hands at the fourth hour on Monday,
-is not improved on, and goes back down that stair with the flap down against its own side the whole way. **Nothing
-in that satchel is opened on any of these ten days, the flap is not turned up, and no mouth in any of these ten
-files asks what is in it or why he opens nothing he carries.** He is the one who says it who has nothing in his
-hands to say it with, and the batch's one man who names the cost of the decision without being asked to.
+**The man of about thirty-one who carries things for a living** comes up that stair on day 775 at about the ninth
+hour with his satchel under his arm and the flap down, stops short of that bench, stands there with the heel of his
+own hand on the flap until about the tenth hour and goes back down it, and **says nothing at all to anybody on
+that page, which is the repair of a beat that had him name a cost of his own in the middle of the volume's one
+decision, and the satchel is not set down anywhere in these ten days and is not picked up off anything.** He has
+the first word he has had with the man of about twenty-seven in a run of mornings on day 776, about a yard, and it
+is about nothing whatever. **Nothing in that satchel is opened on any of these ten days, the flap is not turned
+up, and no mouth in any of these ten files asks what is in it or why he opens nothing he carries.** He is not the
+man who names a cost in this volume's three costs, and no cost of this volume is in his mouth on any of these ten
+days.
 
 **The man of about twenty-seven** brings the one bucket in this city up out of the yard below that room on day 776
 with the bucket hanging out of his hand and says that there is a foot of water standing in that yard that had not

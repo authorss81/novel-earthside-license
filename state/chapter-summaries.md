@@ -441,8 +441,12 @@ DECISION.**
    NOT DO: nobody thanked him, nobody agreed, nobody argued, nobody asked him why, nothing was written down, the
    second slate is not on the page, and the register, the door, the ground, the fence, the rope, the satchel, the
    chair and the stool are all untouched by it. The man of about thirty-one comes up that stair at the ninth hour
-   and says out loud that he has no idea what he is going to do with his hands at the fourth hour on Monday, and
-   nobody improves on it.
+   with his satchel under his arm, stops short of that bench and stands there with the heel of his own hand on the
+   flap until about the tenth hour, and **he says nothing at all to anybody on that page and nothing in that
+   satchel is opened, and no cost of this volume is in his mouth on it** — this paragraph is the repair of a
+   reading in which he set the satchel on the wood of that bench and named a cost of his own in the middle of the
+   volume's one decision, which the card at `state/batch-summaries/volume-16-batch-0003.md` forbids and which no
+   other file had recorded.
 6. **0776, day 776, a Sunday, the four hundred and sixty-first, DECISION, the second of the two middle days. Adrian:
    no.** WHAT THE DAY WAS FOR: to write the morning after. WHAT IT CHANGED: **the number is not said aloud by
    anybody in that room on any page of this chapter and it is not stated by the narrator, and the narrator does not

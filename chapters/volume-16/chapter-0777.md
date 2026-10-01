@@ -38,7 +38,7 @@ Nobody was going to do it with him any more.
 
 ---
 
-At about the tenth hour the light had gone off that floor, and the man of about thirty-four lifted his two hands clear of the wood of that bench.
+At the tenth hour the man of about thirty-four lifted his two hands clear of the wood of that bench.
 
 He turned them over, both of them, palm up, the way a man looks at what he has been holding for six hours to see whether there is anything on them. There was nothing on them at all, and that was the whole of what six hours of a bench had come to.
 
