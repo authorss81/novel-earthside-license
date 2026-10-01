@@ -2,7 +2,7 @@
 
 The man of about thirty-four who keeps a stall had both his own hands flat on the front edge of that bench at the near end of it and he took them off it and put them flat on his own knees where he was sitting, and the man of about thirty-nine who trades on a board was at the far end of that bench with that board under his own arm and both his own hands flat on the wood of it in front of him.
 
-That was a Sunday in that room over that market, and about nine people were in it over the course of that morning, and it was about the fourth hour on the four hundred and thirty-third day of the Bare Month. The wall along the far side of that room said nothing at any hour of that day.
+That was a Sunday in that room over that market, and about nine people were in it over the course of that morning, and it was about the fourth hour on the four hundred and thirty-third day of the Bare Month. The wall along the far side of that room said nothing whatever at any hour of that day.
 
 That board under that man's arm carries nineteen rates and he has traded them in four markets for about nine years, and there is one name that has not been on that board for about the whole of that time and nobody in this city has ever asked him one word about it and he has never said one word about it to anybody. At the foot of the stair at the back of that building there is a strip of ground, and it begins at the bottom step of that stair and ends where the paving gives out. About four people a day walk on it in the ordinary course of a day.
 

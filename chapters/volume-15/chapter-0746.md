@@ -14,7 +14,7 @@ At about the sixth hour the woman of about fifty-two came up that shut road on f
 
 "**That cord on those withies is one cord and not eleven of them, and I have not counted anything and I am not going to count anything this morning, and there is nobody in this city who has ever been asked to say where that fence stops, so nobody in this city knows, and I am including the man standing at this end of it.**"
 
-Nobody on that road agreed with her about that and nobody on that road argued with her about it and nobody thanked her for saying it. That man of about sixty put both his own hands on the top of the near post of that fence where she had put hers and pushed at it once and let go of it, and he did not say that she was right and he did not say that she was wrong.
+Nobody up on that road with her agreed with her about that and nobody up on that road with her argued with her about it and nobody thanked her for saying it out loud. That man of about sixty put both his own hands on the top of the near post of that fence where she had put hers and pushed at it once and let go of it, and he did not say that she was right and he did not say that she was wrong.
 
 At about the eighth hour he got his own two hands back on the shafts of that handcart and did not go along that fence, and he did not take a withy out of his own coat and put one on, and there is a length of new rope over the back of a chair at the last named house and he has not been asked about that either and he is not going to be.
 

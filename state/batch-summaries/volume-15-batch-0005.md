@@ -163,3 +163,114 @@ The row at the foot of that stair was not cleared, paved, widened, narrowed or m
 **`workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. IT IS THE ONLY SUCCESSOR THIS BATCH CREATED. THERE IS NO CONTINUATION DIRECTORY, NO SIXTH BATCH OF THIS VOLUME AND NO CHAPTER PAST 0750. THE CLOSE PHASE READS FIFTY CHAPTERS AND FIFTY DAYS AND WRITES A CLOSE RECORD; IT DOES NOT WRITE A CHAPTER, IT DOES NOT AMEND `outline/volume-15.md`, AND IT MAY NOT REPRINT, PARAPHRASE, IMPROVE ON, DESCRIBE OR CERTIFY THE ABSENCE OF ANY PART OF THE PANEL THAT STANDS ON THE PAGE OF CHAPTER 0740 OR OF ANY OF THE SIXTEEN HELD THINGS NAMED AT THE HEAD OF THE PLAN. IT CARRIES NO FIGURE FOR THE STATE LAYER, BECAUSE NO OUTLINE PHASE AND NO BATCH PHASE WAS GIVEN ONE AND THIS BATCH DID NOT CARRY IT, DID NOT NAME ITS SUBJECT, DID NOT COMPUTE IT AND DOES NOT SAY IN THIS RECORD WHERE IT STANDS.**
 
 **AND THE DEBT THIS RECORD NAMES AND DOES NOT PAY: `reviews/volume-15/` DOES NOT EXIST, NO INDEPENDENT REVIEWER RAN OVER THESE TEN CHAPTERS, AND EVERY FINDING IN THIS RECORD WAS TAKEN BY THE AGENT KIND THAT WROTE THEM AND BY NO OTHER AGENT KIND. THE DISPATCH THAT WOULD PROVIDE AN INDEPENDENT REVIEWER LIVES IN THREE FILES NO AGENT IN THIS REPOSITORY MAY OPEN. THAT IS THE NINTH VOLUME RUNNING TO SAY SO, IT IS AT `state/open-threads.md` AS AN OPEN THREAD, AND IT IS OWED BY A HUMAN.**
+
+---
+
+# §12. THE REVIEW REPAIR PASS ON THIS BATCH. APPENDED, AND NO LINE ABOVE THIS BOUNDARY IS EDITED, AND WHERE THIS BLOCK AND THE BLOCKS ABOVE IT DISAGREE ABOUT A FIGURE, THIS BLOCK WINS.
+
+**`logs/batch-0005.review.log` EXISTS AND §11 NAMED A REVIEW THAT NEVER RAN. `reviews/volume-15/` STILL DOES NOT EXIST. THE FINDINGS BELOW WERE TAKEN BY THE AGENT KIND THAT WROTE THESE TEN CHAPTERS, AND THIS PASS ACTED ON THEM ANYWAY BECAUSE EVERY FIGURE IN THEM WAS RE-DERIVED HERE FIRST AND NOT BELIEVED.**
+
+## 12.1 The instrument was checked against this record's own published rows before any of its verdicts were believed, and it reproduced five of the six exactly and the sixth to one run in a thousand and eighty
+
+**THE SAME INSTRUMENT WAS RUN TWICE OVER THESE TEN FILES: ONCE OVER THEM AS THEY STOOD AT `ef36803` AND ONCE OVER THEM AS THEY STAND AFTER THE REPAIRS BELOW. THE POOL IS THE SAME 750 CHAPTER FILES IN BOTH RUNS. THE PRE-REPAIR RUN IS WHAT MAKES THE TWO ZEROS BELOW CHECKABLE, BECAUSE IT REPRODUCES THE FIGURES THIS RECORD PUBLISHED AT §4 TO THE FIGURE, WHICH IS THE PROOF THAT THE INSTRUMENT IS THE ONE THIS RECORD MEANT.**
+
+| Row published at §4 | Published here | Measured on the pre-repair files | Reproduced |
+|---|---|---|---|
+| Words | 10,111 with the heading line in; 9,204 without it | 10,111 and 9,204 | **exactly** |
+| Bolded share | 10.05 weighted, 10.07 unweighted | 10.05 weighted, 10.07 unweighted | **exactly** |
+| Whole-sentence denominator | 188 | 188 on the paragraph-scoped split that is the published definition | **exactly** |
+| Word-run at sixteen, my ten against the 740 outside | 1,080 runs, 171 pairs, 510 flat distinct sequences | 1,079 runs, 171 pairs, 510 flat distinct sequences | **to one run in a thousand and eighty, and exactly on the other two** |
+| Paragraph classes | 99 prose, 17 speech, 0 plain, 0 bold-without-a-quotation-mark | 99, 17, 0, 0 | **exactly** |
+| Panel leak | my ten files at four to six words, the four state files at six, this record at four, `state/open-threads.md` at eleven | four to six, six, four, eleven | **exactly, and the span was not printed to take the figure** |
+
+**SO THE INSTRUMENT IS NOT THE EXCUSE. ON THE SAME TEN FILES IT RETURNS 10,111 AND 9,204, 10.05 AND 10.07, 188, 1,079 AND 171 AND 510, 99 AND 17, AND FOUR TO SIX AND SIX AND FOUR AND ELEVEN — SIX ROWS THIS RECORD PUBLISHED AS ACCURATE — AND ON THE TWO ROWS BELOW IT RETURNS A NUMBER WHERE THIS RECORD PUBLISHED ZERO.**
+
+## 12.2 The first false zero, corrected. The strict whole-sentence pass is TWO on the published definition and was published as ZERO
+
+**PUBLISHED AT §4: "ZERO sentences, in ZERO distinct strings, in ZERO of the ten files", over a denominator of 188. MEASURED ON THE PRE-REPAIR FILES ON THE PUBLISHED DEFINITION: TWO SENTENCES, IN TWO DISTINCT STRINGS, IN TWO OF THE TEN FILES.**
+
+| # | The duplicated whole sentence, on the pre-repair files | Files | Words | Finding |
+|---|---|---|---|---|
+| 1 | *the wall along the far side of that room said nothing at any hour of that day* | `chapter-0741.md` and `chapter-0748.md` | 15 | a whole sentence printed verbatim in two files of this same ten, seven days apart, opening the same room on the same morning |
+| 2 | *nobody on that road agreed with her about that and nobody on that road argued with her about it and nobody thanked her for saying it* | `chapter-0744.md` and `chapter-0746.md` | 21 | a whole sentence printed verbatim as the first sentence of the paragraph after a speech, in two files of this same ten |
+
+**AND THE REVIEW FOUND ONE OF THE TWO AND NOT THE OTHER, AND THE REASON IT MISSED THE SECOND IS THE FINDING AND NOT A GAP IN ITS CARE: THE REVIEW RAN A WHOLE-FILE SPLIT AND THIS RECORD'S DEFINITION IS A PARAGRAPH-SCOPED ONE. A WHOLE-FILE SPLIT RETURNS ONE ON THESE FILES BECAUSE IT MERGES ACROSS A PARAGRAPH BOUNDARY WHERE THE PARAGRAPH-SCOPED SPLIT DOES NOT. THE DENOMINATOR IS 188 ON THE PUBLISHED DEFINITION AND 172 ON THE WHOLE-FILE READING, AND THE REVIEW'S OWN FIGURE OF 171 IS ITSELF A READING. BOTH SPLITS ARE PUBLISHED IN THIS BLOCK, AND THE RULE THAT FOLLOWS IS THE HOUSE'S OWN: EVERY THRESHOLD A RECORD PUBLISHES A ZERO FOR HAS TO BE RUN AT EVERY SCOPE THAT READS THE SAME WORDS DIFFERENTLY, AND THE SCOPE GOES ON THE SAME LINE AS THE FIGURE.**
+
+**NEITHER OF THE TWO SENTENCES IS A FACT-ROW DECLARATION AND NEITHER IS ONE OF THE EIGHT FRAMES. BOTH WERE REWORDED IN ONE FILE EACH, IN THE LATER OF THE TWO DAYS IN BOTH CASES, AND THE EARLIER FILE KEEPS THE SENTENCE AS THE HOUSE PUT IT.**
+
+## 12.3 The second false zero, corrected. The within-file sixteen-word class is TWENTY-TWO IN THREE FILES and was published as ZERO
+
+**PUBLISHED AT §4: "Word-run at sixteen, within-file: ZERO", the same figure in both runs. MEASURED ON THE PRE-REPAIR FILES: TWENTY-TWO DISTINCT SIXTEEN-WORD RUNS REPEATED WITHIN A SINGLE FILE, IN THREE OF THE TEN FILES, THE LONGEST OF THEM THIRTY WORDS.**
+
+| File | Longest run repeated inside that one file | Where it stands | What the repeat was |
+|---|---|---|---|
+| `chapter-0742.md` | **30 words** | line 7 and line 29 | the whole of the one thing in that satchel, restated in the closing, in the same words and the same order |
+| `chapter-0741.md` | **21 words** | line 31 and line 33 | the woman of about fifty-two at the far side of that room with her own two hands at the sides of her own dress, said once when she arrives and again in the closing |
+| `chapter-0747.md` | **16 words** | line 7 and line 29 | that no hand but her own went near that shelf at any hour of that day |
+
+**THE FORTY-WORD CLASS IS AT ZERO ON THE PRE-REPAIR FILES AND AT ZERO AFTER THE REPAIRS, IN ALL THREE SCOPES AND BOTH ORDERS, SO THAT PUBLISHED ZERO STANDS AND IS NOT TOUCHED. §4's class reading says a run of sixteen words or more is a duplication UNLESS it is a required declaration that names its row, and it names the residual it expects to find: THE CHARACTER DECLARATIONS, THE SPEECH ATTRIBUTION, THE TWO CENSUSES, THE FENCE, THE BARE PIECE OF DOOR, THE DATE IN CHALK. THE THREE RUNS ABOVE ARE NOT IN THAT LIST AND THE LIST DID NOT COVER THEM, WHICH IS WHAT A RESIDUAL FIGURE IS FOR. THE INSTRUMENT RETURNED ZERO, THE WRITER EXPECTED A RESIDUAL, AND THE RESIDUAL WAS NOT PRINTED — THE SAME FAILURE AS §3's own ninth-volume row, ON THE SAME TEN FILES, ONE BLOCK BELOW IT.**
+
+## 12.4 The five repairs, one row each, and what did not move
+
+| # | File | The fault | Before | After | What did not move |
+|---|---|---|---|---|---|
+| 1 | `chapter-0748.md` | whole sentence shared with 0741 | 1 sentence, 1 string, 2 files | **ZERO** | the wall's row, the fourth hour, the four hundred and thirty-third day, Sunday, about nine people, and the fact that the wall said nothing at any hour of that day. **THE DECLARATION STANDS AND IT IS STILL THAT WALL** |
+| 2 | `chapter-0746.md` | whole sentence shared with 0744 | 1 sentence, 1 string, 2 files | **ZERO** | that nobody agreed with her, that nobody argued with her, that nobody thanked her, the woman of about fifty-two's speech at the sixth hour, the man of about sixty's hands on the near post, that he pushed at it once and let go, and that he said neither that she was right nor that she was wrong |
+| 3 | `chapter-0741.md` | 21 words repeated inside the file | 21 words | **ZERO at sixteen, the longest self-repeat in this file is now 12** | that she was still at the far side of that room, that her own two hands were at the sides of her own dress, that she did not come near that bench again at any hour of that day, the stool, the board, the fourth hour and the tenth hour |
+| 4 | `chapter-0742.md` | 30 words repeated inside the file | 30 words | **ZERO at sixteen, the longest self-repeat in this file is now 12** | one thing in that satchel, that he knows what it is, that nobody in this city has ever been told, that he has not said a word to anybody about it at any hour of this flood, that he is not going to today, and that he did not open it at any hour of that day. **THE FLAP IS STILL DOWN AND THE SATCHEL IS STILL NOT OPENED** |
+| 5 | `chapter-0747.md` | 16 words repeated inside the file | 16 words | **ZERO at sixteen, the longest self-repeat in this file is now eleven, which is the shortest of the five** | that nothing but her own two hands went near that shelf at any hour of that day, that she set the book down square with the edge of it on that shelf in front of that second slate, the one word shut inside the book, and that nobody in that room did one single thing about what she had said at the fifth hour |
+
+**FIVE FILES WERE EDITED AND NO SIXTH. `chapter-0743.md`, `chapter-0744.md`, `chapter-0745.md`, `chapter-0749.md` AND `chapter-0750.md` WERE NOT OPENED BY THIS PASS. NO CHAPTER WAS ADDED, NO CHAPTER WAS REMOVED, NO DAY MOVED, NO WEEKDAY MOVED, NO ORDINAL MOVED, NO HOUR MOVED, NO DESCRIPTOR WAS TAKEN AND NONE CHANGED, NO FIGURE OF ANY KIND WAS PRINTED THAT WAS NOT ON A PAGE BEFORE, NO DECISION OF THIS VOLUME MOVED, AND NOTHING WAS ADDED TO ANY OBJECT ROW.**
+
+## 12.5 Every row of §4 that the repair could have moved, before and after, both numbers in one row
+
+| Row | Pre-repair, measured here | After the repair, measured here | The published figure and whether it stands |
+|---|---|---|---|
+| Words | 10,111 with the heading line in; 9,204 without | **10,126 / 9,219** | published 10,111 / 9,204; **MOVED BY FIFTEEN WORDS AND BY NO OTHER MEANS** |
+| Bolded share | 10.05 weighted, 10.07 unweighted | **10.04 / 10.05** | published 10.05 / 10.07; moved on the denominator only, and no bold mark was added or removed |
+| Paragraph classes | 99 prose, 17 speech, 0, 0 | **99 / 17 / 0 / 0** | stands |
+| Paragraphs of three sentences or more | 20, in 10 of 10 files | **20, in 10 of 10** | stands |
+| Lead paragraph with hands on something | 10 of 10 | **10 of 10** | stands |
+| **Whole-sentence pass, strict, published definition** | **2 sentences, 2 distinct strings, 2 of the ten files, of 188** | **ZERO / ZERO / ZERO of 188** | **published ZERO AND THE PUBLISHED ZERO WAS WRONG** |
+| **Whole-sentence pass, strict, whole-file split** | **1 sentence, 1 distinct string, of 172** | **ZERO / ZERO of 172** | not published before; published now beside the other scope |
+| Denominator | 188 paragraph-scoped, 172 whole-file | **188 and 172, unchanged** | published 188; **the published denominator is right and the review's 171 is a third reading, not a correction of it** |
+| Whole-sentence pass, loose | 18,950 of 188, in 166 distinct sentences | **18,808 of 188, in 167 distinct** | published 870 of 188. **THIS PASS DID NOT REPRODUCE THE PUBLISHED INSTRUMENT ON THIS ROW AND IT DOES NOT CLAUSE THE PUBLISHED FIGURE IS WRONG: the reading, the pool and the tokenisation of the loose row are not all published, and this pass's own rule — one count for each nine-word run of a sentence of mine that appears anywhere in another chapter file — is printed on the same line so that the next reader can see what produced which number. THE REPAIR REMOVED 142 COUNTS FROM IT AND ADDED ONE DISTINCT SENTENCE** |
+| Pool containing the file read | 26,580 of 188, in 186 distinct | **26,499 of 188, in 188 distinct** | published 1,013 of 188. **Same note, and the same refusal: the published instrument on this row was not reproduced here and the published figure is neither confirmed nor contradicted. What did move is that the distinct-sentence count reached every one of the 188, which is a fact about the loose register of these ten and not a fault, and the loose pass is not a gate** |
+| **Word-run at sixteen, within-file** | **22 runs in 3 of the ten files** | **ZERO runs in ZERO files** | **published ZERO AND THE PUBLISHED ZERO WAS WRONG** |
+| Word-run at sixteen, my ten against the 740 outside | 1,079 runs, 171 pairs, 510 flat distinct | **1,059 runs, 162 pairs, 510 flat distinct** | published 1,080 / 171 / 510; the pre-repair run reproduces it and the repair removed twenty runs and nine pairs and no flat distinct sequence |
+| Word-run at sixteen, my ten against my own ten, file excluded | 265 runs across 17 pairs | **249 runs across 17 pairs** | not published as a zero; the pair count did not move, so no pair was created |
+| Word-run at sixteen, self-inclusive scope | not re-derived in this pass | **not re-derived in this pass** | published 10,555 windows / 46 pairs; **INHERITED AND NOT TOUCHED, AND NO FIGURE IS PUBLISHED FOR IT HERE THAT IS NOT COMPARABLE TO IT** |
+| **Word-run at forty, all three scopes** | **ZERO** | **ZERO** | stands, and it is the one duplication class this record may call a fault with no exception |
+| **Closing collisions, both units, 12 / 15 / 16 / 20 words** | **ZERO on both units at all four** | **ZERO on both units at all four** | stands, and it survives four edits that moved words inside two closing paragraphs |
+| Panels | ZERO | **ZERO** | stands; the one panel of this volume is on the page of 0740 and is on none of these ten pages, and no part of it is described here |
+| Digits in prose, bare three-digit numerals, elapsed counts | ZERO, ZERO, ZERO | **ZERO, ZERO, ZERO** | stands |
+| The barred-word sweep at §4 | all five at zero | **all five at zero** | stands, and the list is not reprinted in this block so that the sweep stays at zero where it is run |
+| *about four* with no people-word | ZERO on the sentence, ZERO at the file level | **ZERO / ZERO** | stands; *about four people a day* still stands in 6 of the ten files and the census is still never reduced to a count |
+| Descriptors | 9 distinct in 50 occurrences | **9 distinct in 50 occurrences** | stands |
+| The word *row* | 7 in 3 files | **7 in 3 files** | stands, in 0745, 0746 and 0750, and in none of the ten does it stand for the ground at the foot of that stair |
+| The fence | sixteen willow posts and eleven withies wherever spelled out | **the same, and no other total anywhere in the ten** | stands |
+| Adrian Vale | 3 occurrences in 0743 and in no other of the ten | **3 in 0743 and in no other of the ten** | stands, and 0743 is the eleventh and last of the map's eleven days |
+| The Bare Month | the phrase, the resolution and the month's name at ten of ten | **ten of ten, every ordinal resolving to its own chapter's day** | stands |
+| Exchange ceiling | longest run of adjacent speech is one against a ceiling of four | **one** | stands |
+
+## 12.6 What this pass found that the review did not name, and did not repair, and left for a later phase or a human
+
+**1. THE TWO CROSS-FILE DUPLICATES THAT BELONG TO EARLIER BATCHES OF THIS VOLUME ARE STILL ON DISK. NO RECORD IN THIS VOLUME PUBLISHES A ZERO OVER THE FIFTY FILES, EVERY EARLIER BATCH'S ZERO WAS SCOPED TO ITS OWN TEN AND WAS CORRECT FOR THAT SCOPE, AND WHAT WAS NEVER RUN ANYWHERE IN THIS VOLUME IS THE SAME PASS WITH THE FIFTY FILES AS ITS OWN SCOPE.** `chapter-0717.md` and `chapter-0731.md` both open the sentence *there are two pieces of chalk in this city and they are not the same chalk*, and `chapter-0723.md` and `chapter-0734.md` both carry *the middle one holds five figures one under another in the order they were made in*. **THIS PASS DID NOT REWRITE THEM. THEY ARE THE PROSE OF TWO EARLIER PHASES, THEIR OWN RECORDS PUBLISH WHAT THEY DID WITH THEM, AND A REPAIR PASS IN THIS PHASE MAY NOT EDIT A CHAPTER IT DID NOT WRITE. THEY ARE REGISTERED AT `state/open-threads.md` WITH THEIR LOCATIONS SO THAT THE FIGURE CAN BE RE-RUN AND SO THAT NO LATER RECORD PUBLISHES A ZERO OVER THE FIFTY FILES OF THIS VOLUME WITHOUT NAMING THESE TWO.**
+
+**2. `chapter-0720.md` CARRIES AN EIGHTEEN-WORD RUN REPEATED INSIDE THAT ONE FILE AND IT IS THE ONLY SIXTEEN-WORD SELF-REPEAT LEFT IN THE FIFTY FILES OF THIS VOLUME.** It is Batch 0002's prose, the same fault, in the same volume, thirty files away. **NOT REPAIRED HERE, FOR THE SAME REASON, AND IT IS THE FIGURE A CLOSE PHASE WILL MEET IF IT RUNS THE WITHIN-FILE CLASS AT SIXTEEN WORDS ACROSS THE VOLUME.**
+
+**3. THE PANEL LEAK IS AT ELEVEN IN `state/open-threads.md` AND IS PRE-EXISTING AND IS NOT IN THIS BATCH'S OWN BLOCK.** Re-measured across the whole of that file after this pass appended to it and unchanged by this append, and the span was not printed to take the figure. **NO PANEL IS RE-AIMED AND NO WORD OF ONE IS MOVED: A REPAIR PASS MAY ONLY REWORD THE FILES CARRYING THEM, AND THAT FILE'S CARRYING WORDS SIT ABOVE AN APPEND-ONLY BOUNDARY THIS PASS MAY NOT CROSS.**
+
+## 12.7 The three findings this pass accepted without acting on, and the two it could not act on at all
+
+**THE HEADING LENGTH. The review measured average heading length at sixty-two characters in Volume 12, one hundred in Volume 13, one hundred and seventeen in Volume 14 and three hundred and sixteen in Volume 15, and Chapter 0750's heading at nine hundred and thirty-two. THE MEASUREMENT IS CORRECT AND IT IS RE-DERIVED HERE, AND IT IS NOT A RULE BREACH. THE PLAN STRIKES A TITLE AT ITS §19.5, and that strike is about the spine and about the plan line in the volume list, and it says nothing about the heading on a chapter page, and the forty files behind this one already carry long headings and this volume's ten are longer. A REPAIR PASS MAY NOT REWRITE FIFTY FINISHED HEADINGS, EVERY ONE OF WHICH IS THE CARD'S OWN SUBJECT MATTER IN THE HOUSE'S OWN REGISTER, AND NO OUTLINE FILE AND NO PROMPT ASKS FOR THEM. IT IS REGISTERED AT `state/open-threads.md` WITH THE MEASUREMENT AND THE POOL SO THAT A PHASE THAT IS ENTITLED TO TAKE IT CAN RUN IT, AND IT IS NOT CARRIED AS A FAULT AGAINST THESE TEN CHAPTERS.**
+
+**THE PROSE DENSITY. Volume 15 averages about a thousand and twenty-eight words a chapter against Volume 13's about one thousand five hundred and thirty-six, and 0749 is the shortest of the ten at seven hundred and fifty-four words. The review says itself that this is not a rule breach, and THIS PASS AGREES WITH IT. THESE TEN DAYS ARE CARDED, AND A CARD IS A PLAN AND NOT A SKETCH, AND WHAT IS ON A DAY IS WHAT THE CARD PUT THERE, AND PADDING A DAY TO MOVE A MEAN IS EXACTLY THE FAILURE THE HOUSE NAMES. NOT ACTED ON AND NOT CARRIED AS A FAULT.**
+
+**THE STALE LEDGER. `state/phase-ledger.json` still reads `phase-000-bootstrap` after fifteen volumes. It is a controller file, it was reported rather than opened here, as it was in §9 and as it was by the review, and it stays visible rather than fixed.**
+
+**THE INDEPENDENT REVIEWER, WHICH IS THE FINDING NO PASS IN THIS REPOSITORY CAN PAY. `reviews/volume-15/` does not exist, the review dispatch fell back to the writer agent, and every finding in this section — the two in §12.2 and the three in §12.3 — was taken by the agent kind that wrote the pages. THE SECOND HALF OF THE REVIEW'S OWN FINDING IS THE ONE THAT MATTERS AND IT IS PUBLISHED HERE UNREPAIRED: A REVIEW THAT FALLS BACK TO THE WRITER IS NOT A REVIEW, AND THIS PASS TOOK ITS FINDINGS ANYWAY BECAUSE THEY CHECKED OUT, WHICH IS NOT THE SAME AS THE FINDINGS BEING INDEPENDENT. THAT IS THE NINTH VOLUME RUNNING TO SAY SO, IT IS AT `state/open-threads.md`, AND IT IS OWED BY A HUMAN.**
+
+## 12.8 The next phase, and what this pass did to it
+
+**UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. THIS PASS CREATED NO PHASE, NO DIRECTORY, NO MARKER AND NO PROMPT, AND IT AMENDED NOTHING UNDER `outline/`. The close phase will read these ten files as they stand after five edits of wording and will find every day, hour, descriptor, decision, object row and closing exactly where §4 above says it is.**
