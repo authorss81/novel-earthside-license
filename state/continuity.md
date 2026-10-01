@@ -279,3 +279,38 @@ the fifty: THREE IN THREE FILES WITH THE HEADING LINE IN, ONE IN ONE FILE WITH I
 eighteen words, real on both readings — and Chapters 0725 and 0740 at zero on the reading that excludes it.
 **Any word count or word-run figure published for a volume must name which of the two readings produced it,
 because the paragraphs, the bold share and the duplication classes do not all reproduce on the same one.**
+
+---
+
+# WHAT THE FIRST TEN DAYS OF VOLUME 16 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST ABOVE MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT
+AGAINST AN ARCHIVE. ALL SIXTEEN STAND.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+17. **The room's own figure is an instrument and it is still whole.** It is said aloud by a person in that room on six of the ten days of Batch 0001 — 751, 753, 754, 756, 759 and 760 — by four different people, and it is written down nowhere and is on no page of this city and is not on any of the seven documents. **IT IS NOT SPENT BY ANY CHAPTER OF THESE TEN AND THE SPEND IS FIXED TO DAY 775, AND FROM DAY 776 ONWARD IT IS SAID BY NOBODY IN THAT ROOM AND PRINTED BY THE NARRATOR ON NONE OF THE FIFTEEN-DAY RUN.** A chapter of Volume 16 from day 776 onward that prints it has used the one thing this volume spends.
+18. **The bare piece of door under the date is still bare and still means nothing whatever, and the bar that came out of its sockets on day 756 went back into them and nobody in that room knows who put it back.**
+19. **One of the eleven withies on the fence out past the last named house was bound on for the course of one morning with a piece of the man of about sixty's rope and is now bound on with the cord again. THE FENCE IS SIXTEEN WILLOW POSTS AND ELEVEN WITHIES AND NO POST MOVED AND NOTHING WAS MEASURED AND NOBODY WAS ASKED, AND THE ONLY TOTAL ANY CHAPTER OF VOLUME 16 PRINTS IS THE HOUSE ONE.**
+20. **Two lengths of board lean against the outside wall at the foot of that stair, one of them Adrian Vale's and one of them the man of about thirty-eight's, and there is nothing on that wall or on either board that says which of the two men put which one there first.**
+21. **The man of about thirty-nine who trades on a board did not go up that stair on day 754 and was not in that room on day 756, and no mouth in either chapter connected either fact to the two different figures the room said out loud on day 756, and no chapter of this volume may.**
+22. **The man of about thirty-one filled that trough at a wharf at the fourth hour on days 751 and 753 with nobody in that yard and told nobody on either day and did not say so at the tenth hour on either day, and no chapter of this volume may make him say so.**
+
+**AND THE FOUR WORDS THAT WERE SPENT BY THIS BATCH AND ARE NOT AVAILABLE TO IT AGAIN AND WERE SPENT ONCE EACH:
+*said the number out loud in the ordinary course of that morning* as a construction; the word-for-word sentence
+about the second slate; the word-for-word sentence about the fence; and the word-for-word sentence about the
+register's three columns and its five figures. Each was standing in two or three chapters of this batch and each
+was re-aimed in the later chapter with every fact it asserted left standing, and each was found by an instrument
+run against the seven hundred and fifty chapter files outside this volume and not by a person.**
+
+**AND THE FIGURES THIS BATCH MEASURED THAT A LATER BATCH HAS SOMETHING TO MEASURE AGAINST: 8,674 words with the
+heading line in and 8,595 without it; a bolded share of 9.87 weighted and 9.96 unweighted; 120 prose paragraphs,
+15 speech, 0 plain, 0 bold-without-a-quotation-mark; 15 paragraphs of three sentences or more in 10 of 10 files;
+zero panels, zero digits in prose, zero bare three-digit numerals; a chapter length of 728 to 1,105 words, a
+mean of 860; the forty-word class at zero in all three scopes on both heading-line readings; the sixteen-word
+class at twenty-six distinct shared runs in six pairs, every one of them a required declaration; `that` at 40.3
+per thousand words and `nobody` at 9.1; the room's own figure said on 6 of 10 days; Adrian on 3 of 10 days.
+**AND THE ROW A LATER PASS SHOULD WEIGH RATHER THAN BANK: the forty-word pass returned THREE FILES OF TEN against
+the seven hundred and fifty outside the first time it was run on these ten, and the three were required
+declarations copied word for word out of Volume 15, and the passing of that check was not a clean pass and the
+repair is inside this batch's own ten files.**

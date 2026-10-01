@@ -492,3 +492,105 @@ HERE.**
 **UNCHANGED: THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. NO CONTINUATION DIRECTORY, NO SIXTH BATCH,
 NO CARD FILE UNDER `outline/`, NO MARKER FILE. AND A NEXT WRITER WHO MEASURES THE FORTY-WORD CLASS OF A VOLUME
 SHOULD RUN IT IN THREE SCOPES, READ THE HEADING LINE BOTH WAYS, AND READ PAST THE FIRST LIST IT WRITES.**
+
+---
+
+# VOLUME 16 HAS BEEN PLANNED AND ITS FIRST TEN CHAPTERS WRITTEN. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**VOLUME 15 IS STILL COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS, CHAPTERS 0701 TO 0750, AND NO CHAPTER PAST 0750
+EXISTS AND NONE WAS WRITTEN AND NONE IS TO BE WRITTEN.** Volume 16 is now on disk at ten chapters and ten days,
+chapters 0751 to 0760, days 751 to 760, and it is not complete.
+
+**THE NEXT PHASE IS `workspace/volume-16/batch-0002/PROMPT.md`, THE SECOND TEN CHAPTERS OF VOLUME 16, AND NOTHING
+ELSE.** It writes chapters 0761 to 0770, days 761 to 770, from a Saturday to a Monday.
+
+## WHAT THIS PHASE WAS, BECAUSE IT WAS TWO PHASES IN ONE RUN
+
+**THE CONTINUATION INSTRUCTION THAT DISPATCHED THIS PHASE REQUIRED THAT, THE CURRENT VOLUME BEING COMPLETE, IT
+PLAN THE NEXT VOLUME AND WRITE ITS FIRST BATCH, AND THAT IT NOT STOP AT AN OUTLINE. IT IS THEREFORE AN OUTLINE
+PHASE AND A BATCH PHASE IN ONE RUN.** It wrote `outline/volume-16.md`, added one numbered calendar section to
+`bible/power-system.md` (§63, days 751 to 800), appended the Volume 16 decisions block to the foot of
+`outline/series.md`, wrote Chapters 0751 to 0760 with their ten cards at the head of their own state record,
+updated this file and the four live state files beside it, and wrote exactly one next-phase prompt.
+
+## THE STORY OF VOLUME 16'S FIRST TEN DAYS, IN ONE PARAGRAPH, AND IT COMES FIRST BECAUSE THE COUNTS COME SECOND
+
+A room over a market says how many of its own people are in it, every morning, out loud, and never writes it
+down, and has never been asked where the first of them came from. Over ten days four different people say it in
+four different forms, and one morning two of them say two different figures and the difference between the two is
+a person and nobody in that room can put a name to it. A man who has carried a board under his arm up that stair
+on every morning of the flood says out loud that he cannot put two of his own mornings in an order and is thanked
+by nobody, and on the day before he did not go up that stair at all and nobody asked him where he had gone. A
+woman who keeps the only page in this city that counts anything says that figure out loud for the first time in
+the flood and nobody asks her where it came from. A man stands at the foot of that stair all morning and watches
+about four people a day go over the strip of ground at the bottom of it and cannot afterwards say how many he
+saw. A bar comes out of its sockets on the far side of a door and that door stands open into the room all
+morning and nobody in that room knows who opened it, and it is shut again two days later and nobody knows who
+shut it. A piece of somebody else's rope is found bound round one withy on a fence out past the last named house
+and is cut off and replaced with the right cord. And at the end of the ten days a woman says out loud what that
+figure is — the only thing that room has ever said about itself, never on a page, never on any of the seven
+sheets that have gone up that road — and a man says out loud that he has noticed it has never been written
+down, and says he is not saying what he is going to do about it. Nobody thanks either of them.
+
+**WHAT IS PROVED, AND IT IS ABOUT A FIGURE AND NOT ABOUT A PERSON: the room's own number is the only statement
+that room has ever made about itself, it says how many and never who, and it is safe for exactly that reason,
+and on day 775 a man will decide out loud that it is not to be said there again. WHAT IS LOST IS NOT THE PRESENT
+AND IT IS THE PAST — an absence noticed on any morning after day 775 is real and visible and can never again be
+dated. NO CHAPTER OF THESE TEN PROVES ANY OF THAT AND NONE OF THEM SPENDS ANYTHING.**
+
+## WHAT A NEXT WRITER HAS TO KNOW ABOUT THE PROSE
+
+**THE HOUSE FIGURES FOR THESE TEN FILES, MEASURED, EVERY READING ON THE SAME LINE AS ITS NUMBER: 8,674 words with
+the heading line in and 8,595 without it; a bolded share of 9.87 weighted and 9.96 unweighted; 120 prose
+paragraphs, 15 speech, 0 plain, 0 bold-without-a-quotation-mark; 15 paragraphs of three sentences or more in
+10 of 10 files; zero panels, zero digits in prose, zero bare three-digit numerals; 10 of 10 files end in a
+newline; chapter titles four to nine words of title text; chapter length 728 to 1,105 words, a mean of 860;
+the forty-word duplication class at ZERO in all three scopes on both heading-line readings; the sixteen-word
+class at twenty-six distinct shared runs in six pairs, every one of them a required declaration; `that` at 40.3
+per thousand words and `nobody` at 9.1; and the triple-*nobody* chain at zero.**
+
+**AND THE THREE THINGS A NEXT WRITER MUST NOT LEARN FROM THE LAST BLOCK AND A LATER PASS MUST NOT LEARN FROM
+IT EITHER. (i) THE THREE REQUIRED DECLARATIONS OF VOLUME 15 WERE COPIED WORD FOR WORD INTO THREE CHAPTERS OF THIS
+BATCH AT FIRST WRITING — the second slate, the fence, and the register's three columns and five figures — and a
+check against the seven hundred and fifty files outside this volume found them and they were reworded in this
+batch's own files, and a batch that runs its forty-word pass only against its own ten will never find that class
+of fault. (ii) THE TITLES ARE FOUR TO NINE WORDS AND THAT IS THE CONVENTION THE VOLUME 15 REPAIR SET ON THE TEN
+FILES IT OWNED, and a long `#` line in this manuscript repeats its own opening paragraph. (iii) A CONSTRAINT IS A
+THING TO OBEY ONCE AND THEN LEAVE BEHIND, and a chapter that obeys one constraint by restating it has spent the
+chapter on the constraint.**
+
+## THE FIGURES AND THE DISAGREEMENTS THIS PHASE PUBLISHED RATHER THAN HARMONISED
+
+1. **§63's parse of §33A returns fifty rows at zero mismatches where §62 publishes twenty-six and `outline/volume-14.md` publishes twenty-five, and the difference is a scope and not a page.**
+2. **The word count of the fifty files behind this volume: this phase's instrument returns 50,066 and the close record behind it publishes 50,078, and both readings are printed and neither figure is corrected by the other.**
+3. **`that` at 40.3 per thousand words here, against 29.3 for the ten repaired files of the volume behind this one and 19.9 for Volume 01's fifty, and no card aimed at any of the three.**
+
+## THE DEBTS, CARRIED WHOLE AND UNPAID
+
+**THE SIX INHERITED DEBTS ARE AT `outline/volume-16.md` §21.1 AND THE ANSWER IS THAT THIS PHASE PAID NONE OF
+THEM. The return crisis and the prompt being edited remain unpaid and are not scheduled. The settlement labelled
+unwritten remains unpaid. Ivenn Marrow's motive across centuries is neither paid nor scheduled and he is on no
+page of Volume 16. The four things this manuscript has never had on a page: one of the four is put on a page by
+this volume and the other three are not claimed. The panel-instrument disagreement is owed by a human and is
+untouched. The card-file arrangement was inherited in full and the ten cards of Batch 0001 were written at the
+head of that batch's own state record, and stopping a debt growing is not paying one.**
+
+**AND THE THREE NEW: the fifty-day single run across days 751 to 800 has no chapter after day 760 yet; the
+volume's one decision, its one panel, its three costs, its resolution, its new question and its last image are
+fixed to days and none of them is in this batch; and the room's own figure is spent on day 775 and from day 776
+the narrator may not print it.**
+
+## THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND, AND NOT OWED BY THE NEXT PHASE
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0` AFTER MORE
+THAN A HUNDRED AND FIFTY COMPLETED PHASES, AND THE REVIEW DISPATCH RUNS THE WRITER'S OWN AGENT WHERE IT MEANS TO
+RUN THE REVIEWER, AND `reviews/volume-16/` DOES NOT EXIST.** All of these belong to `scripts/` and
+`state/phase-ledger.json` and `.github/workflows/`, which are owned by GitHub Actions and which no writer,
+review or fix phase may open. **NEITHER A MARKER FILE NOR THE LEDGER WAS TOUCHED BY THIS PHASE.** A phase that
+finds a fault in a controller and quietly works around it has made the controller worse, and a repair is not owed
+by the next phase either.
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0002/PROMPT.md`, AND NOTHING ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD FILE
+UNDER `outline/`, NO MARKER FILE.**

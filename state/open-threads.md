@@ -320,3 +320,86 @@ STORY: the consent fracture is unmended, the fifth condition is not given, no re
 paid, the woman of about sixty-nine has still not asked a fourth question and her not-asking is on no page of
 this volume, the mark that came back out of place on the sheet of day 440 is untraced in seven volumes and it
 is the same hole, and `reviews/volume-15/` does not exist.**
+
+---
+
+# WHAT THE FIRST TEN DAYS OF VOLUME 16 DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NO THREAD WAS CLOSED. NO CHAPTER WAS REWRITTEN, NO DAY MOVED, NO ACTOR CHANGED, NO OBJECT CHANGED, NO DECISION
+OF RECORD REVERSED, NO PANEL MOVED, NO NEW PERSON INVENTED, NO NEW FINAL ENEMY, AND THE PLANNED ENDING IS
+UNTOUCHED. THIS BLOCK OPENS ONE NEW THREAD, WHICH IS THE VOLUME'S OWN, AND CARRIES THE OLD ONES WHOLE.**
+
+## THE THREAD THIS BATCH OPENED, AND IT IS THE VOLUME'S OWN AND IT IS NOT ANSWERED
+
+**A ROOM OVER A MARKET SAYS HOW MANY OF ITS OWN PEOPLE ARE IN IT, AND ON DAY 775 A MAN WILL DECIDE OUT LOUD THAT
+IT IS NOT TO BE SAID IN THAT ROOM AGAIN, AND UNTIL THAT DAY NOTHING HAS HAPPENED.** The figure is spoken aloud on
+six of the ten days of Batch 0001 by four different people, in four different forms, and it is written down
+nowhere and is on no page of this city and is on none of the seven documents. **The question the volume hands on
+is not this one; the question is on day 798 and it is about a morning and not about a number, and it is
+unanswered, and a later volume may ask it again in a mouth, in a room, in daylight, with a date on the door, and
+may not answer it.**
+
+**AND WHAT THE TEN DAYS ESTABLISHED, WHICH IS THE THREAD'S FIRST HALF AND NOT ITS SECOND: two mouths said two
+different figures on the morning of day 756 and the difference between them was one person and no mouth in that
+room could put a name to it, and on day 757 the man of about thirty-nine said out loud that he cannot put two of
+his own mornings in an order, and on day 760 the woman of about fifty-two said out loud that the figure is the
+only thing that room has ever said about itself and that it has never been on a page. NONE OF THAT IS RESOLVED AND
+NONE OF IT IS TO BE RESOLVED IN THIS VOLUME.**
+
+## THE OLD THREADS, CARRIED WHOLE AND NONE OF THEM SETTLED
+
+**What that strip of ground was for, and who knew, is still not answered, and this batch did not answer it.** No
+chapter of these ten says anybody knew, no chapter puts anybody on that ground to prove anything, and the day 758
+chapter says in narration that about nine people were in that room and that none of them said the figure, and
+says nothing about the ground at the foot of that stair at all. The question asked on day 748 by the man of about
+thirty-four to the man of about thirty-nine is **still unanswered**, and on day 757 the same man said out loud in
+a room that he cannot put two of his own mornings in an order, **and the two are not joined and may not be
+joined and no chapter may ask him about either.**
+
+**The word in the column on the right of that page is still undefined and still not asked about. The day cut
+across the head of the second slate still has nothing under it, and the slate has never been picked up, turned
+over or written on, and the only hand that has gone near that shelf in this flood is the keeper's. The bare wood
+under the date on the outside of that door is still bare and still means nothing whatever, and the bar that came
+out of its sockets on day 756 went back into them and nobody in that room knows who put it back. The length of
+new rope is still unused, and on day 755 a man handled a length of cord and a piece of iron twice within three
+feet of it and did not touch it. The man of about thirty-seven is still not available to anybody and is on no
+page of these ten.**
+
+**The mark that came back out of place on the sheet of day 440 is untraced for the eighth time running and this
+phase declined to trace it and the cost is the same hole.**
+
+**The question the volume behind this one asked on day 698 and the question it asked on day 748 stand unanswered
+together, and this volume's own question is asked on day 798 and stands unanswered with them, and the woman of
+about sixty-nine has still not asked a fourth and her not-asking is on no page of these ten days at all, for the
+ninth volume running.**
+
+**And the debts no agent in this repository can pay are carried whole: the consent fracture is unmended, the
+fifth condition is not given, no relationship milestone is paid, `chapters/volume-10/chapter-0475.md` is on disk
+and is still a chapter and not a repair, and `reviews/volume-16/` does not exist.**
+
+## THE THREAD THIS BATCH ADDED A FIGURE TO RATHER THAN A QUESTION
+
+**THE PASS THAT PROVES A CHAPTER CARRIES NO DUPLICATION WITH THE VOLUMES BEHIND IT IS NOT THE SAME PASS THAT
+PROVES ONE CHAPTER CARRIES NO DUPLICATION WITH ITS OWN BATCH, AND A CLOSE BEHIND THIS ONE PUBLISHED A ZERO FOR
+THE SECOND OF THOSE AND A FINDING FOR THE FIRST.** Measured on these ten files against the seven hundred and
+fifty chapter files outside Volume 16, the forty-word class returned **thirteen shared runs in three of the ten
+files, and every one of them was a required declaration copied word for word out of Volume 15** — the second slate
+with a day cut across the head of it, the fence of sixteen willow posts and eleven withies bound onto them with
+the same cord, and the register ruled in three columns with five figures down the middle of it. **A LATER BATCH
+SHOULD MEASURE AGAINST THAT AND NOT AGAINST THE ZERO, and should re-run the same scope before it believes a zero
+on a set of short chapters, because a short chapter shows few long shared runs for reasons that have nothing to do
+with prose discipline and this batch's mean length is 860 words against Volume 15's 952.**
+
+## WHAT NO PHASE IN THIS REPOSITORY CAN PAY, CARRIED AND UNCHANGED
+
+**`reviews/volume-16/` DOES NOT EXIST AND THE REVIEW DISPATCH FELL BACK TO THE WRITER'S OWN AGENT, and the only
+check that found the three duplications in this batch was written by the agent that wrote the chapters, which is
+a mitigation and not an independence.** `state/phase-ledger.json` still reads `phase-000-bootstrap` with `status:
+planned` and `attempts: 0`. Both are owned by GitHub Actions, no writer, review or fix phase may create or remove
+a marker file, and no phase may open the ledger. **NEITHER WAS DONE AND BOTH ARE OWED BY A HUMAN.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0002/PROMPT.md`, WHICH WRITES CHAPTERS 0761 TO 0770, DAYS 761 TO 770, AND CARRIES
+DAY 764 AS THE VOLUME'S FIRST COST WITH THE PERSON IT IS PAID TO NAMED IN HER OWN WORDS AND NOBODY THANKING HER
+AND NOTHING IN THAT ROOM DONE ABOUT IT.**
