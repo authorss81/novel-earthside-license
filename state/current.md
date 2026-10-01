@@ -260,3 +260,46 @@ touch `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_
 `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`.
 
 **THE NEXT PHASE IS UNCHANGED AND IS `workspace/volume-15/close/PROMPT.md`, AND NOTHING ELSE.**
+---
+
+# THE INDEPENDENT VERIFICATION PASS ON DAYS 741 TO 750. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT WHERE THE TWO DISAGREE.
+
+**THE BATCH WAS ALREADY COMPLETE WHEN THIS PASS BEGAN AND NOTHING WAS RESTARTED.** Ten chapters, five state blocks, the batch record through §15 and the close prompt were all on disk, carried by checkpoint `ec9ac1d`. **SIX FILES WERE REPAIRED AND FOUR WERE NOT: 0742, 0745, 0746, 0747, 0748 and 0749 changed; 0741, 0743, 0744 and 0750 are byte-for-byte unchanged. THE PRE-REPAIR TEXT OF ALL TEN IS `git show ec9ac1d:chapters/volume-15/chapter-XXXX.md`, verified byte-for-byte on all six changed files.**
+
+**NO DAY, NO WEEKDAY, NO BARE-MONTH ORDINAL, NO HOUR, NO ACTOR, NO DESCRIPTOR, NO OBJECT COUNT THAT HOLDS, NO DECISION OF RECORD, NO PANEL AND NO CLOSING SHAPE MOVED. `outline/ending.md` WAS NOT OPENED. THE PLANNED ENDING IS UNTOUCHED.**
+
+## WHAT THE PASS FOUND, IN ONE LINE
+
+**A class read on the shared sixteen-word runs found three passage families standing in three or more of these ten files that name no object row published for the days they stand on — a room-and-wall narration, a repeated clause on the shut road, and one character-entrance sentence — and they were re-aimed in the later occurrence only. Seventeen-seven distinct shared runs became forty-four, in eleven families, and eleven of eleven now name a published object row.**
+
+## WHAT THE TEN DAYS STILL ARE, UNCHANGED BY ANYTHING BELOW
+
+The ten days are the plan's own and they were not touched. **The resolution is on the day the woman of about twenty-nine who keeps that register comes round the outside of that building and up onto the ground at the foot of that stair and goes up and sits at the near end of that bench and opens that book, and about four of about four people who went past that door were her, and nobody in that room was told that.** **The new question is asked on the Sunday by the man of about thirty-four to the man of about thirty-nine and not to the room, and he does not answer it, and nobody in that room heard it.** **The last image is the volume's own list of objects, and its last line is the strip of ground.**
+
+**No finding of this volume asserts that anybody knew what that row was for.** The resolution chapter does not say she knew what it was for, does not say she knew it because she kept a book, and does not say that anybody found out. **Nobody knew. That is the row's own subject and it is the one thing on these ten days that must not be resolved.**
+
+## THE FIGURES, EACH WITH ITS READING AND ITS SCOPE, AND BOTH ORDERS AGREEING
+
+| Figure | Reading and scope | Value |
+|---|---|---|
+| Words, heading excluded | alphabetic-word split, ten files | 8,736 |
+| Bolded share | words inside bold marks over all words, heading excluded | 11.14, against a house range of 5.05 to 12.65 |
+| Paragraph classes | speech carries a quotation mark and a bold mark | 101 prose, 17 speech, 0 plain, **0 bold-without-a-quotation-mark** |
+| Paragraphs of 3+ sentences | read for a physical action | 30, in **10 of 10 files** |
+| Panels | a paragraph whose first line is a blockquote marker | 0, and the same instrument finds 1 on 0740 |
+| Digits in prose / bare three-digit numerals | heading excluded | 0 / 0, and every figure of the four things belonging to the volume behind this one stays unprinted |
+| Word-run at 40 | my ten against the 740 outside, and within-batch | 0 and 0, both orders |
+| Word-run at 16 | within-batch, this batch against itself | 44 distinct, all naming an object row |
+| Ordinals and weekdays | re-derived from the day and re-resolved | 10 of 10 correct, against a 50-case control |
+| Closing collisions | both units, vs the 740 outside and within-batch, at 12/15/16/20 words | 0 |
+| Closings that are statements that nothing changed | read by a person | **2 of 10**, at the plan's limit |
+
+## WHAT A NEXT WRITER HAS TO KNOW THAT A SCRIPT CANNOT TELL IT
+
+**The closing check returned zero at every threshold on both units and two real faults were sitting behind that zero.** Chapter 0749's closing stood on the about-four-people-going-past-that-door figure, which is one of the five shapes this volume puts off limits, on the chapter whose own subject is the room with nobody in it but her, which is another of the five. It was re-aimed onto the book going onto the shelf and coming off it again in her own two hands. Chapter 0748's closing block carried a comma splice with a stranded capital. **Both were found by reading. Neither was visible to the pass, which was at zero throughout.** This is why the check is done by a person and the reason is not theoretical.
+
+**A published claim in the batch record did not survive a reading and has been withdrawn there.** The record said that of this batch's shared sixteen-word runs every one named an object row or a census frame and none was an avoidable repeat. **On an independent reading, thirty-three of seventy-seven sat in three families that name no published object row.** The corrected figures are in that record at §15.3 and they stand in place of the withdrawn ones.
+
+## THE NEXT PHASE
+
+**UNCHANGED: `workspace/volume-15/close/PROMPT.md`, AND NOTHING ELSE. VOLUME 15 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS AND NO CHAPTER PAST 0750 EXISTS AND NONE WAS WRITTEN.**

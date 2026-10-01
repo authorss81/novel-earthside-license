@@ -428,3 +428,102 @@ The row at the foot of that stair was not cleared, paved, widened, narrowed or m
 ## 14.7 THE NEXT PHASE
 
 **UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. VOLUME 15 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS AND NO CHAPTER PAST 0750 EXISTS AND NONE WAS WRITTEN. This pass created no phase, no directory, no marker and no prompt, amended nothing under `outline/`, and opened no controller file. The close phase reads these ten files as they stand after this repair, and finds every day, weekday, ordinal, hour, descriptor, object row and closing where §4, §13 and §14 say it is.**
+
+---
+
+# §15. THE INDEPENDENT VERIFICATION PASS. APPENDED, AND NO LINE ABOVE THIS BOUNDARY IS EDITED, AND WHERE THIS BLOCK AND EVERY BLOCK ABOVE IT DISAGREE ABOUT A FIGURE, THIS BLOCK WINS.
+
+**THIS PASS RESTARTED NOTHING.** The ten pages, the five state blocks, this record and the close prompt were all on disk and complete when it began, carried by checkpoint `ec9ac1d`. **NO DAY, NO WEEKDAY, NO BARE-MONTH ORDINAL, NO HOUR, NO ACTOR, NO DESCRIPTOR, NO OBJECT COUNT THAT HOLDS, NO DECISION OF RECORD, NO PANEL AND NO CLOSING SHAPE WAS MOVED. `outline/ending.md` WAS NOT OPENED. THE PLANNED ENDING IS UNTOUCHED. THE TEN CARDS WERE NOT REWRITTEN.** The resolution, the new question and the last image are the plan's own and were not decided here and not improved on.
+
+**WHAT IT DID.** It verified the batch independently instead of trusting the record above it, found **six files carrying one avoidable-repeat fault and two closing faults**, repaired six files, and **withdrew one published claim of the block above that a reading does not support.**
+
+**SIX FILES CHANGED AND FOUR DID NOT.** Repaired: 0742, 0745, 0746, 0747, 0748, 0749. **Byte-for-byte unchanged: 0741, 0743, 0744, 0750.** No chapter past 0750 exists and none was written.
+
+## 15.1 WHERE THE PRE-REPAIR TEXT LIVES, AND IT IS A COMMIT
+
+**NO COMMIT OF THIS PASS WILL BE MADE BY IT, BUT ITS PRE-REPAIR TEXT IS NOT LOST AND A READER IS NOT LEFT TO FIND IT.** The working tree was clean at `ec9ac1d` when this pass began, so the ten files as this pass found them are re-runnable:
+
+**`git show ec9ac1d:chapters/volume-15/chapter-XXXX.md`** — verified byte-for-byte against the copy this pass took before its first edit, on all six files it changed. **A working copy also sits outside the repository at `/tmp/opencode/pre-repair-batch-0005-pass2/` and that copy is not durable and is not the citation.** The citation is `ec9ac1d`. **The claim this record has to correct is narrower than the one §13 corrected: it is not that a batch's pre-repair text lives nowhere. It is that a pass which begins from a checkpoint inherits that checkpoint's pre-repair text, and the checkpoint is the citation.**
+
+## 15.2 TWO INSTRUMENT FAULTS OF MY OWN, AND THE FALSE ZERO I PRODUCED AND CAUGHT
+
+**THE ORDINAL RESOLVER WAS WRONG AGAINST ITS OWN CONTROL TABLE ON ITS FIRST RUN, AND THE TABLE WAS RIGHT AND THE RESOLVER WAS FIXED.** The first run disagreed with the independently rendered table on **41 of 50 control cases.** Three named faults, all in the resolver: **an irregular unit ordinal had its suffix stripped instead of being read from the irregular table, so `first` was reduced to a base of `fir` and returned nothing; a hyphenated compound was not handled inside the single-token ordinal reader, so a cardinal tens plus a closed unit arrived as nothing; and a bare `hundred` was not accepted as a coefficient word.** **After the repair the same instrument agrees with its table at 50 of 50 with 0 disagreements, and the table was not changed to agree with the resolver.** That is the standing rule applied in the direction it actually bites.
+
+**THE FALSE ZERO.** With the resolver agreeing, the sweep printed no rows at all and reported **`ORDINAL ERRORS: 0`** — because the pass had been run from a directory in which its file list was empty. **A zero from an instrument that cannot find anything is not a zero, and this one was manufactured by a working directory and would have been published as a clean result.** Re-run from the repository root it returns **ten rows, ten ordinals and ten weekdays, 0 ordinal errors.** The figure published by the broken run is recorded here beside the figure the working run returned: **0 against 0 errors, on ten rows against no rows.**
+
+## 15.3 THE FINDING THAT MATTERED, AND THE PUBLISHED CLAIM IT WITHDRAWS
+
+**THE CLASS READ ON THE SIXTEEN, WHICH IS A READING AND NOT A SCRIPT.** Sixteen-word runs shared by two or more of this batch's ten files, before the repair: **77 distinct runs in 14 passage families.** Each family was read against the object rows published for the days it appears on. **Eleven families name their row and stay. Three name no published object row on the days they stand on, and are avoidable repeats:**
+
+| Family | Runs | Days | What it is | Why it is a duplication and not a required declaration |
+|---|---|---|---|---|
+| A | 15 | 0742, 0745, 0747 | the room-and-wall narration | the wall along the far side of that room is **not one of the object rows published for 0742, 0745 or 0747**, and is not one of the eight frames |
+| B | 14 | 0744, 0746 | a repeated clause justifying a walk up that shut road | 0744's published rows are the rope and the fence; **this clause is neither, and it declares no row** |
+| C | 4 | 0741, 0742, 0747 | one character-entrance sentence for the stallkeeper | a repeated action beat; it names no published object row on any of the three days |
+
+**THE REPAIR RE-AIMED THE LATER OCCURRENCE ONLY. The first use in each family stands untouched.** No fact, hour, actor, descriptor or object count moved; the wall declaration was kept in all three chapters in three different constructions, and the walk up the shut road is still walked for the reason it was walked for.
+
+**AFTER THE REPAIR: 44 distinct shared runs in 11 families, and 11 of 11 name a published object row. Zero avoidable repeats.**
+
+**AND THE CLAIM THIS WITHDRAWS.** §14.3 above publishes that of the batch's shared sixteen-word runs **"111 name an object row or a census frame and 0 are an avoidable repeat"**, and names **"one character-entrance sentence printed four times"** as the family that had been repaired to nothing. **On an independent reading that claim does not hold. My ten files carry 77 shared runs on my reading, not 111 — a different denominator, and both figures are published rather than reconciled — and 33 of the 77 sat in three families that name no published object row. The character-entrance sentence was still present in three files and not four. §14.3's claim is withdrawn and §15.3's figures stand in its place.**
+
+## 15.4 THE CLOSING CHECK, DONE BY A PERSON, AND THE TWO FAULTS THE SCRIPT RETURNED ZERO ON
+
+**The script returned ZERO at every threshold on both units, before the repair and after it, against the 740 closings already on disk and within this batch, at twelve, fifteen, sixteen and twenty words. Two faults were found by reading and neither was visible to it.**
+
+| # | Finding | Reading | Before | After |
+|---|---|---|---|---|
+| 1 | **Chapter 0749's closing stood on the about-four-people-going-past-that-door figure**, which is one of the five shapes this volume puts off limits for itself, **on a chapter whose own subject is the room with nobody in it but her, which is a second of the five.** Re-aimed onto the book going onto the shelf and coming off it again in her own two hands | closed by a person against the five barred shapes | on a barred shape | on the book and her two hands |
+| 2 | **Chapter 0748's closing block carried a comma splice with a stranded capital** — *said one word to nobody, Nobody in the room said one word back* | one paragraph, read | a splice | a conjunction |
+
+**AND THE FIGURE NOBODY HAD COUNTED.** Closings that are statements that nothing changed stood at **THREE of ten — 0743, 0746 and 0749** — and the plan permits no more than two in ten. **Repairing 0749 brings the figure to TWO of ten, 0743 and 0746, both of which are that chapter's own published beat.** The script cannot see this figure at any threshold because it is not a duplication; it is a shape.
+
+**THE TEN CLOSINGS ARE TEN DIFFERENT CONSTRUCTIONS AND NONE STANDS ON ANY OF THE FIVE BARRED SHAPES BY ITS OWN SUBJECT.** Where two of them touch a barred shape they do so because the plan's own text puts that shape there: 0745 is the resolution and the about-four-going-past belongs to it, and 0750 is the last image and the strip of ground is its own last line. **0748 does not close on the man who did not answer, and that is the point — a closing on it is a fault.**
+
+## 15.5 EVERY PASS, TWICE, BOTH ORDERS, WITH A CONTROL ON EVERY PASS THAT RETURNS ZERO
+
+**BEFORE = the files as this pass found them at `ec9ac1d`. AFTER = the files as they now stand. Every row carries its reading and its scope on the same line, and both orders agree on every row.**
+
+| Pass | Reading and scope | Before | After | Forward = reverse |
+|---|---|---|---|---|
+| Words, heading line excluded | alphabetic-word split, ten files | 8,755 | **8,736** | yes |
+| Bolded share | words inside bold marks over all words, heading excluded | 11.11 | **11.14** | yes |
+| Paragraph classes | speech carries a quotation mark AND a bold mark | 101 prose, 17 speech, 0 plain, **0 bold-without-a-quotation-mark** | 101 prose, 17 speech, 0 plain, **0** | yes |
+| Paragraphs of 3+ sentences | read for a physical action, not swept | 30, in **10 of 10 files** | 30, in **10 of 10 files** | yes |
+| Panels | a paragraph whose first line is a blockquote marker | 0 | 0 | yes |
+| Digits in prose / bare three-digit numerals | heading line excluded | 0 / 0 | 0 / 0 | yes |
+| **Word-run at 40** | **my ten against the 740 files outside** | 0 in 10 of 10 | **0 in 10 of 10** | yes |
+| **Word-run at 40** | **within-batch, this batch against itself** | 0 | **0** | yes |
+| **Word-run at 16** | **my ten against the 740 files outside** | 186 runs in 10 of 10 | **186 runs in 10 of 10** | yes |
+| **Word-run at 16** | **within-batch — the scope no published table carries** | **77 distinct** | **44 distinct** | yes |
+| Strict whole-sentence duplication ≥16 words | paragraph-scoped | 0 of 207 units | 0 of 207 | yes |
+| The same pass | whole-file scoped | 0 of 196 units | 0 of 196 | yes |
+| Ordinals and weekdays | re-derived, not read off a neighbouring file | 10 of 10 | **10 of 10** | yes |
+| Closing collisions, both units | vs the 740 outside, and within-batch, at 12/15/16/20 words | 0 | **0** | yes |
+| Closings that are statements that nothing changed | read by a person against the plan's limit of two in ten | **3 of 10** | **2 of 10** | read, not swept |
+
+**THE CONTROLS, AND EVERY ZERO ABOVE IS PROVABLY A ZERO.**
+
+- **Panel pass.** The same instrument run on `chapter-0740.md` finds **1**. The zero is a zero.
+- **Sixteen-word pass.** Run on the pair the published record names — Chapter 0689 against 0692 — it returns **4 shared windows**, so the zero at forty and the counting at sixteen are both the instrument working.
+- **Forty-word pass.** The published pair is a **sixteen**-word run and a forty-word control on it correctly returns **0**; a control that would have caught a broken forty-word instrument is supplied instead — **a file run against itself returns 791 forty-word windows.**
+- **Ordinal pass.** 50 control cases against an independently rendered table, 0 disagreements.
+- **Lead-paragraph pass.** Its first reading flagged Chapter 0744 for an interval figure. The phrase is **at any hour of this flood**, a negation and not an interval; the house reading turns on a numeral-word plus a time unit. **Strict reading: 0 in ten of ten.**
+- **Leak pass.** It reported **106 leaked nine-grams** on its first run because its target glob matched the panel's own source file. A source is not a leak. **Corrected target list: 0 leaked nine-grams, 0 files carrying any word of that panel, 0 sixteen-gram overlap, forward and reverse identical.**
+- **Self-inclusion figure** for the closing pass, the file not excluded: **253 to 333 windows** at the four thresholds on the last-sentence unit and **626 to 684** on the closing-block unit, so the zeros are not an instrument that finds nothing.
+
+## 15.6 WHAT WAS NOT DONE BY THIS PASS, AND IT IS THE HALF THAT MATTERS MOST
+
+**No chapter past 0750 was written and none exists. `outline/ending.md` was not opened. No file under `outline/` was created, amended or read for this block. `outline/volume-15.md` and `outline/series.md` were not amended. `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` were not touched.**
+
+**No notice was sent and no document was written; the count of seven documents and seven notices holds and the seventh form was not made and not guessed at. No new person was invented and no descriptor was taken. No name and no place arrived by narration. The census was given no descriptor and was never reduced to *four people a day*. Nobody gets stronger, no threshold is opened, no working is performed, the other world is not named once across the ten, and nobody offers anybody a workway.**
+
+**The consent fracture stays unmended, the fifth condition is not given, no relationship milestone is paid, and no name is spoken. Adrian Vale is in one of these ten and in no other. The stallkeeper of about thirty-four is two people in this repository and nothing written here settles it, and nothing written here asks either of them about the other.**
+
+**And no file this pass wrote prints, paraphrases, improves on, describes or certifies the absence of any held thing, or of any of the four things that belong to the volume behind this one. The Bare Month was given nothing.**
+
+## 15.7 THE NEXT PHASE, AND THE TWO CONTROLLER FAULTS STILL OWED BY A HUMAN
+
+**UNCHANGED: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE. NO CONTINUATION DIRECTORY, NO SIXTH BATCH, NO CARD FILE UNDER `outline/`, NO MARKER FILE.**
+
+**`workspace/volume-15/batch-0005/` CARRIES `.checkpoint` AND NOT `.done`,** as §14.5 above recorded. Dispatch ordering is safe, since `close` sorts after `batch-0005`, but **a further writer pass over these six files is a live risk and this record is what a human with write access to the controller needs.** **BOTH CONTROLLER FAULTS REMAIN OWED BY A HUMAN. NO WRITER OR REVIEW PHASE MAY CREATE OR REMOVE A MARKER FILE AND NO PHASE MAY OPEN THE LEDGER, AND NEITHER WAS DONE HERE.**

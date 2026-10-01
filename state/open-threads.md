@@ -88,3 +88,40 @@ and no new world was introduced and the planned ending is untouched.**
 FIFTY DAYS, NO CHAPTER PAST 0750 EXISTS, AND NONE IS TO BE WRITTEN. NO CONTINUATION DIRECTORY, NO SIXTH
 BATCH, NO CARD FILE, NO MARKER FILE.** The close phase writes a close record and does not write a
 chapter.
+---
+
+# WHAT THE INDEPENDENT VERIFICATION PASS ON DAYS 741 TO 750 DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NO THREAD WAS CLOSED. NO FIGURE WAS WITHDRAWN FROM THE STORY. NO DECISION WAS REVERSED.** One published **process** claim was withdrawn, and it is named below and it is not a fact about the world.
+
+## THE THREADS THAT ARE STILL OPEN AND WERE LEFT OPEN
+
+**The one this volume is about, and it is still open on the last day it had a day.** What that row was for, and who knew, is not answered. **Nobody knew, and the ten days did not resolve that, and the resolution did not resolve it.** The chapter that would settle it is the chapter that makes the person walk onto the instrument, and it is not written and it must not be.
+
+**The new question asked on the Sunday was not answered and was not answered to.** It was put to one man by one man and not to a room, and he did not answer it, and he was thanked by nobody for not answering it and nobody argued with him about it. **It goes into Volume 16 as a question with no answer attached to it and nobody has been shown the answer.**
+
+**The word in the column on the right of that page is still undefined.** No mouth in that city defines it and no chapter of these ten defines it and the register-keeper still has not asked anybody what it is for, having now said out loud in front of about nine people that she has not asked.
+
+**The day cut across the head of that second slate still has nothing under it.** It has never been picked up, never turned over and never written on, and it stands behind that register on that one shelf, and no hand but hers goes near that shelf.
+
+**The bare wood under that date is still bare and still means nothing whatever.** Nothing has been put under that date and no name is under it and none is going to be.
+
+**The length of new rope is still unused and unasked about.** No hand lifted it off that chair and no chapter of these ten lifted it and the man it belongs to was asked nothing on any of the ten.
+
+**The door is still on its two hinges with the bar in its sockets on the far side, and nobody in that city asked Adrian Vale to take it off and nobody thanked him for not doing it.** Of the eleven Adrian days this volume carried, four came out obtained and seven did not, and **neither set is a reward and neither is a lesson.**
+
+**The party of four is still four.** Three went down that road with a barrow apiece and the fourth said no, and no figure exists anywhere in this city for how far along it anybody has got, and the sheet that went up that road is not coming back and this volume did not go after it.
+
+## THE ONE PROCESS CLAIM WITHDRAWN, NAMED AS A WITHDRAWAL AND NOT AS A STORY CHANGE
+
+**The batch record published that of this batch's shared sixteen-word runs every one named an object row or a census frame and none was an avoidable repeat. On an independent reading that is not so: thirty-three of seventy-seven sat in three families naming no published object row. Those three families were repaired and the claim is withdrawn in the record at §15.3, and the corrected figures stand in its place.** **This is a statement about prose and about an instrument, and it changes nothing about the world, the people on it, or any thread above.**
+
+## WHAT THESE FIFTY DAYS NEITHER CLOSED NOR OPENED
+
+**No new thread was opened.** No notice was sent and no document was written; the count of seven documents and seven notices holds and the seventh form was not made and not guessed at. No new person was invented and no descriptor was taken. No name and no place arrived by narration. Nobody gets stronger and no threshold is opened. No final enemy and no new antagonist and no new world entered this manuscript.
+
+## THE NEXT PHASE
+
+**UNCHANGED AND OWED BY A HUMAN: `workspace/volume-15/close/PROMPT.md`, THE CLOSE OF THE FIFTEENTH VOLUME, AND NOTHING ELSE.**
+
+**`workspace/volume-15/batch-0005/` CARRIES `.checkpoint` AND NOT `.done`.** Dispatch ordering is safe, since `close` sorts after `batch-0005`, but a further writer pass over these six repaired files is a live risk. **NO WRITER OR REVIEW PHASE MAY CREATE OR REMOVE A MARKER FILE. NO PHASE MAY OPEN `state/phase-ledger.json`. BOTH ARE OWED BY A HUMAN WITH WRITE ACCESS TO THE CONTROLLER AND NEITHER WAS DONE HERE.**

@@ -172,3 +172,33 @@ pre-repair text is re-runnable at `git show 9e4bcc6:chapters/volume-15/chapter-X
 fifty-two's hands at the sides of her own dress to *flat against the sides of her own dress*, which is
 not a thing a hand can do. **They are at the sides of her dress, and they are there at the eighth hour
 and at the tenth hour of day 741.**
+---
+
+# WHAT THE INDEPENDENT VERIFICATION PASS ON DAYS 741 TO 750 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**THE TEN DAYS' STATES ARE UNCHANGED. NOTHING ON THIS PAGE WAS SETTLED BY THE REPAIRS.** Six files were repaired and four were not: 0742, 0745, 0746, 0747, 0748 and 0749 changed; **0741, 0743, 0744 and 0750 are byte-for-byte unchanged.** The pre-repair text of all ten is `git show ec9ac1d:chapters/volume-15/chapter-XXXX.md`, verified byte-for-byte on all six changed files.
+
+**NOTHING WAS RENAMED, NO HOUR MOVED, NO ACTOR WAS ADDED OR REMOVED, NO DESCRIPTOR WAS TAKEN AND NO OBJECT COUNT THAT HOLDS WAS TOUCHED.** No day, weekday, Bare-Month ordinal or closing shape moved. `outline/ending.md` was not opened.
+
+## WHAT ACTUALLY CHANGED, PARAGRAPH BY PARAGRAPH
+
+| File | What was re-aimed | What was kept exactly as it stood |
+|---|---|---|
+| 0742 | the stallkeeper's seventh-hour entrance re-worded so it is not the same sentence as 0741's | the room-and-wall narration, which is this family's first use, and every fact |
+| 0745 | the time-and-room sentence and the wall declaration re-worded | **the resolution itself, entire** — she comes round the outside of the building and up onto the ground at the foot of the stair and up and sits and opens the book, about four of about four were her, nobody in that room was told that, she is thanked by nobody |
+| 0746 | the clause justifying the walk up the shut road re-worded | 0744's version of that clause, which stands, and the fence, the party of four, the barrows, the rope |
+| 0747 | the time-and-room sentence, the wall declaration and the stallkeeper's entrance re-worded | **the cost, entire** — her own mouth, before anything else, in front of nine people, and nothing in that room done about it at any hour of that day, and Adrian not in the chapter |
+| 0748 | a comma splice with a stranded capital repaired in the closing block | **the new question, entire** — asked by the man of about thirty-four to the man of about thirty-nine and not to the room, unanswered, unheard by the room, thanked by nobody |
+| 0749 | the closing re-aimed off a barred shape onto the book going onto the shelf and coming off it in her own two hands | the room with nobody in it but her, the narration that nobody came, and about four people going past the row outside |
+
+## THE CONTINUITY FIGURE THAT MOVED, AND IT IS THE ONLY ONE
+
+**Shared sixteen-word runs within this batch: 77 before, 44 after, in eleven families, and eleven of eleven name an object row published for the days they stand on.** The three families that named none were a room-and-wall narration across three days, a repeated clause across two, and one character-entrance sentence across three. **The first use of each stands; the later occurrences were re-worded and no fact in them moved.**
+
+**NO OTHER FIGURE IN THE BLOCK ABOVE MOVED.** The counts that hold at day 750 hold at day 750. The wall is still blank. The second slate is still behind that register on that one shelf and was still never picked up, never turned over and never written on, and no hand but the keeper's went near that shelf. The bare wood under that date is still bare about as wide as a hand and still means nothing whatever and was still not widened, narrowed, cleaned, painted or covered. The length of new rope is still over the back of a chair and was still not used, not cut, not taken up and not lifted. The fence is still sixteen willow posts and eleven withies and no post in it moved and it was still not measured. The satchel with a flap is still shut. The first one-place form is still on its shelf. The door is still on its two hinges and the bar is still in its sockets and Adrian Vale still did not take it off them and nobody in that city asked him to and nobody thanked him for not doing it. The man of about fifty-seven was still asked nothing on any of these ten days.
+
+## THE THINGS THAT ARE NOT SETTLED BY VOLUME 15 AND WERE NOT SETTLED BY THIS PASS
+
+**The consent fracture stays unmended and nobody mended it, apologised for it, forgave it or asked for it to be forgiven. The fifth condition is not given. The two women of about twenty-nine are never in one room and nothing in these ten days settles whether they are one woman. The two men of about thirty-eight are two people and no narration settles them. The questions of the earlier days stand unanswered and no chapter of these ten answers any of them. The nine-steps permission is spent and was not renewed by a successor. The stallkeeper of about thirty-four is two people in this repository and no page has ever said so and nothing here settled it.**
+
+**AND THE ONE THAT IS THE SUBJECT OF THE ROW: no finding of this volume asserts that anybody knew what that row was for, and no chapter of these ten may say or imply that she knew what it was for, or that she knew it because she kept a book, or that anybody knew. Nobody knew.**

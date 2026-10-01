@@ -10,7 +10,7 @@ There were four of them, and three of them went down that road with a barrow api
 
 ---
 
-At about the sixth hour the woman of about fifty-two came up that shut road on foot, because there is no other way at that end of that row of houses to get to the far end of it, and she stopped at the near end of the fence and set both hands on the top of the near post of it and looked along the top of it as far as she could see.
+At about the sixth hour the woman of about fifty-two came up that shut road on foot, the only way there is at that end of that row of houses, and she stopped at the near end of the fence and set both hands on the top of the near post of it and looked along the top of it as far as she could see.
 
 "**That cord on those withies is one cord and not eleven of them, and I have not counted anything and I am not going to count anything this morning, and there is nobody in this city who has ever been asked to say where the fence stops, so nobody in this city knows, and I am including the man standing at this end of it.**"
 

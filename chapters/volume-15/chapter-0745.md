@@ -2,7 +2,7 @@
 
 The woman of about twenty-nine who keeps a public register came round the outside of that building at the front of it and along the side of it and up onto the ground at the foot of the stair at the back of it, and then she came up that stair and set both hands on the near end of that bench and sat down and opened that book.
 
-It was about the fourth hour on the four hundred and thirtieth day of the Bare Month, a Thursday, in that room over that market, and nine people came into it over that morning. The wall along the far side of the room said nothing at any hour of it.
+It was about the fourth hour on the four hundred and thirtieth day of the Bare Month, a Thursday, in that room over that market, and nine people came into that room over the course of that morning. Nothing is on the wall along the far side of that room and nothing has ever been on it.
 
 The ground at the foot of the stair is a strip of it, running from the bottom step to wherever the paving gives out, and about four people a day walk on it in the ordinary course of a day. About four people went past the outside of that door that day, and about four of them were her. Nobody in the room was told that. Nobody asked her how she came in, and nobody asked her one word about that ground or about the door or about that wall. She is thanked by nobody.
 

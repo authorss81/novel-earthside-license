@@ -158,3 +158,52 @@ which is not a thing a hand can do.**
 **No chapter of these ten gives any person a name. No name is spoken. No relationship milestone is
 paid, the consent fracture stays unmended and the fifth condition is not given.** The pre-repair text
 is re-runnable at `git show 9e4bcc6:chapters/volume-15/chapter-XXXX.md`.
+---
+
+# WHAT THE INDEPENDENT VERIFICATION PASS ON DAYS 741 TO 750 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED.** No descriptor was altered, no age moved, no trade changed, no second handle was removed and none was added, and **no name was given to anybody and no name was spoken.** Six files were repaired and four were not, and every repair was to a repeated sentence or a closing, **not to a person.** The pre-repair text is `git show ec9ac1d:chapters/volume-15/chapter-XXXX.md`.
+
+**NO ONE OF THESE PEOPLE GOT STRONGER, NOBODY WAS RESCUED, NOBODY WAS DEFEATED, NOBODY WAS SENT FOR ANYTHING, NO ROUTE WAS OPENED, NO PERMISSION WAS GRANTED AND NO BOUNDARY WAS SETTLED.**
+
+## THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER
+
+**She is the only person in this volume who puts herself on the row, and she does it by coming round the outside of that building and up onto the ground at the foot of that stair and going up and sitting at the near end of that bench and opening that book. Nobody in that room was told that. Nobody asked her how she came in, nobody asked her one word about that ground or about that door or about that wall, and she is thanked by nobody. She is one person the volume spends a thing on and it spends it without telling her it was spent.**
+
+**What she then did in front of about nine people, in her own mouth, before she said anything else, was name what that book had cost her** — that nobody in that city has ever asked her one word about the word in that column, that she has carried the book the length of the room and set it down square in front of that slate every morning, and that it is not her hand that put it there. **Nobody thanked her. Nobody improved on one word of it. Nobody argued with her. Nothing in that room was done about it at any hour of that day. It was not put in a second mouth. The stallkeeper said out loud that he had heard it and was not going to answer it and was not going to tell her she was right or wrong, and she did not look up off the page.**
+
+**And she was not once asked the volume's new question. It is not about her and it does not come from her.**
+
+**HER STATE AT THE END OF HER LAST DAY IN THIS VOLUME:** the book is back on the bench in front of her with her own two hands on the wood either side of the open page, and **nothing whatever has been written in the book at any hour of any of these fifty days**, and the slate is behind it on the same shelf and was never picked up.
+
+## THE STALLKEEPER OF ABOUT THIRTY-FOUR
+
+**His piece of chalk was in his own inside breast pocket against his chest at every hour of all fifty days and did not come out on one of them, and no chapter of these ten took it out.** He spoke on four of these ten days. **On the day that carries the volume's new question he asked it of one man and not of the room, and got no answer, and was thanked by nobody for getting none and argued with by nobody.** **HIS STANDING DISAGREEMENT IS UNSETTLED AND WAS NOT SETTLED HERE.** The plan and the pages say *man*; the state layer and two close records say *woman*; a third close record makes the man a fifth person distinct from four women of about thirty-four. **The person this volume spent a thing on is one of them and the plan does not know which, and neither does any page, and nothing here settled it.** No chapter of these ten puts the two in one room or asks either about the other.
+
+## THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD
+
+**He carries the same board up that stair four mornings running and about nine people walk past him on it without saying one word to him about what he is carrying, and he says out loud that he is not going to ask any of them either. He was asked one question on the last of these ten days and did not answer it. He was thanked by nobody for not answering it. Nobody in that room asked him one question about the board or about the missing name on it, and he has never said a word about that name to anybody.** His nineteen rates and the four markets and the name that is not on it are unchanged, and no figure from that board is printed on any of these ten days.
+
+## THE MAN OF ABOUT THIRTY-EIGHT AT THE WHARF, AND THE MAN OF ABOUT THIRTY-EIGHT WHO IS A SECOND MAN
+
+**They are two people and no narration in these ten days settles them.** The one at the wharf came up that road with a length of board on his own shoulder, could not get it past the bar, said one thing out loud about it to nobody, and carried it away again with it still on his shoulder. **Nobody thanked him and nobody told him what that bar was for, and Adrian Vale did not hear one word of what he said and was not told any of it. That is the whole of the causal work Adrian does in this volume: he is the reason a man's board stops at a door, and nobody tells either of them.** His own board at that wharf lay face up under two lines of grey grit and was not wiped, not turned and not gone near, and **no figure on either side of it is printed on any of these ten days.**
+
+## THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS
+
+**There is one thing in that satchel and he knows what it is and nobody in that city has ever been told, and in the whole of this flood he has not opened anything he has carried. The flap was down every hour of it. The chapter that carries this does not give the reason and may not supply it.** The first one-place form stayed on its shelf at the height of a person's shoulder and was never handed back, never withdrawn, never written in and never read out in that city.
+
+## THE WOMAN OF ABOUT FIFTY-TWO
+
+**She carried a stool out of her own room and set it down at the side of that bench where anybody could sit on it, and nobody has ever thanked her for it and nobody has ever asked her about it. A man sat down on it without knowing whose it was and nobody in the room told him. It stayed where the weight of a man had turned it, which was not where she put it, and she did not come near the bench again before the light went. She sat down on her own stool at the end of the last of these ten days and said one word to nobody.** Her hands are at the sides of her dress and are there at the eighth and the tenth hour.
+
+## THE MAN OF ABOUT FIFTY-SEVEN
+
+**He was asked nothing on any of these ten days and nobody told him anything.** He stood in his own doorway with his own two hands on his own knees and looked at her and then looked down at them, and he did not say that the rope was new and he did not say that it was not new. **The length of new rope lay over the back of a chair every morning of this flood and no hand of his and no hand of anybody else's went near it. It was not cut and not taken up and not lifted off that chair, and no chapter of these ten lifted it.**
+
+## ADRIAN VALE
+
+**In one of these ten and in no other, and it is the last of the eleven this volume gave him.** His hands are on the bar where it stands in the sockets on the far side of that door, and he lifted it and let it down three times. **A man put a length of board to that door and could not get it past the bar, and that was Adrian's doing, and nobody said so to him. He did not take the door off its hinges at any hour of that day, nobody in that city asked him to, and nobody thanked him for not doing it. He is not thanked, he is not told he was right, nobody in that chapter is waiting for him to be useful, he is not useful to them, nobody gets stronger, he performs no working, no threshold is opened, the other world is not named once across these ten, and nobody offers him a workway.** He is not in the resolution, not in the new question and not in the last image.
+
+## THE STANDING THINGS THAT ARE NOT PEOPLE AND DID NOT CHANGE
+
+**The woman who walked a market is on no page of Volume 15 and was given no age, no descriptor, no name, no number and no second appearance in any of these ten chapters, and no chapter joined her to anybody.** **About four people a day is a census and not a person; it was given no descriptor, it was never reduced to *four people a day*, and it was not used as a count of anybody.**
