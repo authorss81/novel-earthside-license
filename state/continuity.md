@@ -445,11 +445,14 @@ runs with the rest of the manuscript where these ten now share none.**
 
 ---
 
-## VOLUME 16, BATCH 0002, DAYS 761 TO 770 — THE SECOND REPAIR PASS. NEWEST AND IT WINS.
+## VOLUME 16, BATCH 0002, DAYS 761 TO 770 — THE SECOND REPAIR PASS. READ WITH §13 OF ITS OWN RECORD, WHICH IS A
+## REVIEW FIX PASS OVER IT AND WHICH WINS.
 
 **THREE CONCRETE FINDINGS WERE FIXED AND EVERY FIGURE BELOW WAS RE-DERIVED ON THE TEN FILES AS THEY NOW STAND,
 not carried forward. Reading and scope for every figure: `state/batch-summaries/volume-16-batch-0002.md` §12.3;
-the findings are at its §12.1 and the closings read side by side are at its §12.2.**
+the findings are at its §12.1 and the closings read side by side are at its §12.2. THE TEN FILES AND THIS BLOCK
+WERE THEN REPAIRED AGAIN BY THE REVIEW FIX PASS AT THAT RECORD'S §13, AND WHERE THE TWO DISAGREE §13 IS RIGHT AND
+WHAT THIS BLOCK SAYS ABOUT §12's OWN CHANGES IS PUBLISHED AS §12 SAID IT AND NOT AS THE FILES NOW STAND.**
 
 **1. CHAPTER 0761 HAD A CHAPTER'S OWN CONTRADICTION IN IT AND §4.1's `obtained: no` WAS FALSE ON THE PAGE.**
    *The contradiction:* the ninth hour had Adrian Vale go down that stair and come back up; the tenth hour had him
@@ -458,32 +461,38 @@ the findings are at its §12.1 and the closings read side by side are at its §1
    sits down in that chair again in front of the whole room; and the tenth hour records one exit and one climb back
    in. **The two arcs of clean grit and the boot set down in one of them are untouched.**
    *The plan row:* §4.1 publishes for day 761 a want — somewhere in that room to sit down where his own back was not
-   to that door — and the outcome `no`. **The chapter had him obtain it in the plainest reading and a sentence that
-   said he had been trying to arrange it for a fortnight and it had taken him the length of a chair.** The want is
-   now framed as a want the room will not allow: *a chair was all there was, and the chair was standing in the wrong
-   place for it and he had turned it into the right place for it and it was still in the wrong place*, and the four
-   minutes are spent working out why. **He is still in that chair at the tenth hour and §4.1's `no` is now true on
-   the page. He is in five of these ten and causes something in all five and nobody thanks him in any of the five.**
+   to that door — and the outcome `no`. **The chapter had him obtain it in the plainest reading and a sentence about
+   how long he had been trying to arrange it, WHICH THIS PASS DELETED FROM THE FILE AND WHICH MUST NOT BE QUOTED AS
+   TEXT ON THE DISK.** The want was re-aimed as a want the room will not allow, and the four minutes were re-aimed to
+   spend working out why.
+   ***AND §12's closing claim THAT THE PAGE NOW FAILS THE WANT IS WITHDRAWN, BECAUSE IT DOES NOT. HE IS IN THAT CHAIR
+   AT THE TENTH HOUR WITH HIS BACK TO THE WALL AND HIS FACE TO THE DOOR, AND THE CLOSING PARAGRAPH OF THAT CHAPTER
+   REPORTS THE TWO ARCS THAT CHAIR CUT IN THE MIDDLE OF THAT FLOOR. THE PAGE OBTAINS THE WANT AND §4.1's ROW FOR DAY
+   761 IS CONTRADICTED BY IT. THE ROW WAS NOT EDITED AND THE CHAPTER WAS NOT BENT TO IT, AND THE QUESTION IS FLAGGED
+   FOR A HUMAN AT THAT RECORD'S §13.4. He is in five of these ten and causes something in all five and nobody thanks
+   him in any of the five.***
 
-**2. CHAPTER 0768'S CLOSING PARAGRAPH RESTATED ITS OWN SECOND PARAGRAPH, WHICH §17.18 FORBIDS.** The shutter fact
-   stays on the page and stays in the second paragraph, where it has always been, and the closing now ends on the
-   wet print going out of the wood of that sill and on the sun coming back round that corner at the middle of the
-   afternoon. **That window still has a sill, one window, and no shutter on any page of this manuscript.**
+**2. CHAPTER 0768'S CLOSING PARAGRAPH RESTATED ITS OWN THIRD PARAGRAPH, WHICH §17.18 FORBIDS.** The shutter fact
+   stays on the page and stays in the third paragraph, where it has always been and where a paragraph number looked
+   up on the file says it is, and the closing now ends on the wet print going out of the wood of that sill and on
+   the sun coming back round that corner at the middle of the afternoon. **This block said *second* and was wrong;
+   that was one of the review's findings and it appeared five times in five files. That window still has a sill, one
+   window, and no shutter on any page of this manuscript.**
 
 **3. THREE OF THE TEN CLOSINGS WERE ON ONE CONSTRUCTION AND §17.18 SAYS `no two chapters of a batch may close on
-   the same construction`.** 0765 now ends forward and physical, 0769 now ends on the bare place at the foot of the
-   column between the other two turned out to the wall, and 0770 is the one that keeps the nobody-in-that-room family
-   on purpose. **Ten constructions, one in that family, none of the five shapes §17.18 puts off limits, and none of
-   the ten a statement that nothing changed.**
+   the same construction`.** 0765 was re-aimed, 0769 now ends on the bare place at the foot of the column between
+   the other two turned out to the wall, and 0770 is the one that keeps the nobody-in-that-room family on purpose.
+   **Ten constructions, one in that family, none of the five shapes §17.18 puts off limits, and none of the ten a
+   statement that nothing changed — AND THE COUNT OF ONE IS TRUE ONLY AFTER THAT RECORD'S §13.2, BECAUSE 0765 WAS
+   RE-AIMED BY APPENDING TO ITS CLOSING AND THE NOBODY-FAMILY SENTENCE WAS LEFT STANDING AS ITS FIRST SENTENCE. THE
+   SENTENCE IS NOW UP IN 0765'S BODY AND THE CLOSING HAS BEEN REWRITTEN.**
 
-**AND THE FIGURES THAT DID NOT REPRODUCE, NAMED RATHER THAN HARMONISED. The bolded share is 6.67 weighted and 6.85
-unweighted, against 9.35 and 9.29 for the fifty files behind this volume and against 9.21 and 9.21 that this batch's
-own §3 published for the first writing of these ten — and §11.3's table carries no bolded row at all, so the figure
-that changed most between the two passes is the one that was published least. The word count is 11,912 on the
-heading line in against 11,610 in the pass behind this one, a difference of 302, and both readings stand. The
-sixteen-word class against the seven hundred and sixty outside returns 22 shared runs, every one of them exactly
-sixteen words and therefore at the threshold rather than above it, and §11.3 published 57 with a longest of 22 —
-different units, both readings on their own line, neither corrected by the other.**
+**AND THE FIGURES THAT DID NOT REPRODUCE, NAMED RATHER THAN HARMONISED, AND NOW RE-DERIVED AGAIN AT THAT RECORD'S
+§13.3. The bolded share is 6.67 weighted and 6.85 unweighted against this batch's own first writing at 9.21 and
+9.21, and after the review fix pass it is 6.64 weighted with no mark inside a bold span moved at all; the word count
+is 11,912 on the heading line in before the fix pass and 11,956 after it; the sixteen-word class against the seven
+hundred and sixty outside returns 22 shared runs and returns the same 22 after a closing paragraph was rewritten. The
+sentence scale is a median of 23, a p90 of 43 and a maximum of 100 both before and after.**
 
 **AND THE THINGS THAT DID NOT MOVE. `passage` and `privilege` are at zero across these ten files and the standing
 state of the whole manuscript, re-measured by this pass on all seven hundred and seventy files, is unchanged and was
@@ -491,10 +500,10 @@ not re-derived here. `nine steps` is at zero here and against one hundred and ei
 files outside this batch. The words of the panel of Volume 15 and of Volume 14 are in no file of these ten. No
 narrator frame is on any of these ten pages and the word *player* is at zero. The day-154 sentence is not said,
 restated, paraphrased or improved on. The four declarations this manuscript's plan requires are on these pages in
-four different wordings and no two of them share a run of forty words with any of the seven hundred and seventy files
+four different wordings and no two of them share a run of forty words with any of the seven hundred and sixty files
 outside this batch, on either heading-line reading. About four people a day is printed twice, always with the word
 *about*, never reduced, and never in a sentence with the room's own figure; the instrument that looks for a nine-
-figure and an `about four` in one sentence returns zero out of four hundred and seventy-two sentences. No name was
+figure and an `about four` in one sentence returns zero out of four hundred and seventy-four sentences. No name was
 spoken. No document was read out and no form was written in and no form was compared with another form. No notice
 was sent and no document was written: zero and zero. Nobody gets stronger, no threshold is opened, no working is
 performed, no route is opened and no workway is offered. No relationship milestone is paid, the consent fracture
@@ -509,3 +518,56 @@ passes over this one batch, `reviews/volume-16/` does not exist, and both passes
 and checked by the agent that wrote the chapters, so no instrument behind these ten is independent of them. All of
 it lives in `scripts/`, `.github/workflows/`, `state/phase-ledger.json` and the review dispatch. NONE OF IT WAS
 OPENED OR TOUCHED AND NO MARKER FILE WAS CREATED OR REMOVED, and it is owed by a human and is owed by nobody else.**
+
+---
+
+## VOLUME 16, BATCH 0002 — THE REVIEW FIX PASS OVER THE SECOND REPAIR. NEWEST AND IT WINS.
+
+**A REVIEW OF THE SECOND REPAIR PASS RETURNED TEN FINDINGS AGAINST IT — FOUR BLOCKING, FOUR MEDIUM, TWO LOW — AND
+THIS BLOCK IS WHAT WAS DONE ABOUT THEM. Full working: `state/batch-summaries/volume-16-batch-0002.md` §13. NOTHING
+WAS RESTARTED, TWO CHAPTER FILES WERE OPENED, AND THE SIX OTHER CHAPTERS ON DISK WERE NOT TOUCHED.**
+
+**THE ONE FINDING THAT IS NOT A TYPO IS THE ONE THAT WAS HARDEST.** `state/character-state.md` said **He gets it.**
+about chapter 0761 while five other files said he did not get it, and the page agrees with the one file that said he
+did: he sits down in a chair with his back to the wall and his face to the door and is still in it at the tenth
+hour, and that chapter's closing paragraph is about the two arcs his chair cut in the middle of that floor. §4.1's
+row for day 761 publishes `no` for that. **THE PAGE OBTAINS THE WANT AND THE ROW IS CONTRADICTED BY IT. THE ROW WAS
+NOT EDITED, BECAUSE A FIX PASS DOES NOT REWRITE A PLAN'S PUBLISHED OUTCOME, AND THE CHAPTER WAS NOT BENT TO IT,
+BECAUSE THE ONLY WAYS TO MAKE IT A `no` ARE A NEW EVENT OR A DIFFERENT ROOM AND BOTH OF THEM WOULD COST THE CHAPTER
+ITS BEST BEAT. ALL FIVE FILES THAT SAID OTHERWISE ARE CORRECTED AND THE QUESTION IS FLAGGED FOR A HUMAN AT THAT
+RECORD'S §13.4.**
+
+**AND THE THREE FINDINGS THAT ARE ABOUT THE RECORD BEING WRONG ABOUT THE RECORD.** A sentence deleted from
+`chapter-0761.md` by the second pass was still quoted as on-disk text in four files, one of which is the prompt the
+next phase writes from; the word *second* stood where *third* was true five times in five files, on a paragraph
+number nobody looked up in a chapter that has no shutter in any paragraph now; and `state/current.md` gave the pool
+outside this batch as seven hundred and seventy, where ten files out of seven hundred and seventy leaves seven
+hundred and sixty. **A PARAGRAPH NUMBER AND A QUOTED SENTENCE ARE READINGS AND NOT FACTS, AND A READING THAT WAS
+NEVER RUN IS A GUESS WITH A NUMBER ON IT.**
+
+**AND THE TWO CHAPTER FIXES, BOTH NARROW.** In 0765 the non-knowledge sentence that the second pass had left
+standing as the first sentence of the closing paragraph has been moved up into the chapter's body, where it is said
+once, and the closing has been rewritten and now opens on the night's salt and grit standing back up on that lip; the
+forty-four-word comma-spliced sentence that the second pass appended there is gone. In 0761 the forty-seven-word
+three-clause sentence with the comma splice and the repeated *place* is now two short sentences, and the present-tense
+`which is where that room walks` is now the chapter's own past tense. **NOTHING ELSE IN EITHER FILE MOVED, AND
+NEITHER FILE'S SCENE DID.**
+
+**AND WHAT DID NOT MOVE AT ALL.** No chapter past 0770 exists. No day, weekday, Bare-Month ordinal, hour, actor,
+descriptor or object count in `outline/volume-16.md` §14.3 moved, and the three checks on the day map return zero
+mismatches of ten on both orders. The volume's one decision is still day 775 and nothing in these ten files rehearses
+it. The figure is still in its own use on all ten of these days, said aloud on five of them and in no mouth on the
+five Adrian Vale is in. The three costs are still on days 764, 778 and 795. The panel is still day 787. The two women
+of twenty-nine are still never in one room and the two men of about thirty-eight are still two people. The
+independence debt is unchanged and is owed by a human, and this is the sixth time it has been named in this volume.
+
+**AND THE FIGURES, RE-DERIVED AND NOT CARRIED, AT THAT RECORD'S §13.3.** 11,956 words with the heading line in and
+11,871 without it, against 11,912 and 11,827 before this pass. Sentence scale a median of 23, a p90 of 43, a maximum
+of 100 and 13.7 per cent at forty words or more out of 474 sentences, and the median, the p90 and the maximum are
+exactly where §12 published them. Paragraph classes 215 prose, 15 speech, 0 plain, 0 bold without a quotation mark
+and 3 prompts — **IDENTICAL TO §12 AFTER TWO CHAPTERS CHANGED, WHICH IS THE ONE ROW IN THE TABLE THAT PROVES THE
+INSTRUMENTS WERE RUN AGAINST THE FILES AND NOT AGAINST THE PREVIOUS EDITION OF THE RECORD.** The forty-word class at
+zero in all three scopes on both readings. The sixteen-word class at zero inside the ten and at 22 shared runs against
+the seven hundred and sixty outside, the same 22 after a closing paragraph was rewritten. The bolded share at 6.64
+weighted with no mark inside a bold span moved, against §12's 6.67. **AND §12's second reading of that share, 6.85,
+DID NOT REPRODUCE UNDER THIS PASS'S INSTRUMENT AND IS PUBLISHED AS §12 PUBLISHED IT.**

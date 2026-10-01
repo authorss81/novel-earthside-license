@@ -598,29 +598,35 @@ this one file.**
    PUBLISHES HE DID NOT OBTAIN.** §4.1's row for day 761 is `to have somewhere in that room to sit down where his
    own back was not to the door` and the outcome is `no`, and §11.1 above declares that the first writing had him
    obtain it. **The repaired chapter then had him put a chair with his back to the wall, sit in it, and be still in
-   it at the tenth hour, under a sentence that said he had been trying to arrange that for a fortnight and it had
-   taken him the length of a chair. A record that says a page is not what the page says is a claim, and §17.11(v)
-   is the rule: a measurement taken on a window is a fact about the window.** The want is now framed as a want
-   that the room will not allow: *a chair was all there was, and the chair was standing in the wrong place for it
-   and he had turned it into the right place for it and it was still in the wrong place*, and the four minutes are
-   now spent working out why. **He still sits in it for six hours. §4.1's `no` is now true on the page and not only
-   in this file, and the price he pays for the hour he does get is the whole of that room's width for a morning.**
-3. **CHAPTER 0768'S CLOSING PARAGRAPH SAID, IN ITS LAST SENTENCE, THE SAME FACT ITS SECOND PARAGRAPH HAD ALREADY
+   it at the tenth hour, under a sentence about how long he had been trying to arrange it, which this pass DELETED
+   FROM THE FILE. A record that says a page is not what the page says is a claim, and §17.11(v) is the rule: a
+   measurement taken on a window is a fact about the window.** The want was re-aimed as a want the room will not
+   allow, and the four minutes were re-aimed to spend working out why.
+   ***AND THIS FINDING WAS NOT ACHIEVED, AND §13.1 SETS OUT WHY, AND WHAT §13.1 SAYS ABOUT IT CORRECTS THE CLAIM
+   THIS PARAGRAPH ENDS ON. THE CLAIM IS WITHDRAWN. The page obtains the want. §4.1's row for day 761 is
+   contradicted by the page and the row is a flagged canon question for a human at §13.4, NOT A SETTLED MATTER AND
+   NOT A ROW THIS VOLUME MAY RELY ON.***
+3. **CHAPTER 0768'S CLOSING PARAGRAPH SAID, IN ITS LAST SENTENCE, THE SAME FACT ITS THIRD PARAGRAPH HAD ALREADY
    SAID. §17.18: `THE CLOSING PARAGRAPH OF EACH CHAPTER STATES SOMETHING THAT IS NOT STATED ANYWHERE ELSE IN THAT
-   CHAPTER, in different words from the chapter's own body`.** The second paragraph carried *there was no shutter
+   CHAPTER, in different words from the chapter's own body`.** The third paragraph carried *there was no shutter
    on it, and there had never been a shutter on it, and nobody in this city had ever been asked to put one there*,
    and the closing carried *there was still no shutter on that window, and nobody in that city had been asked to
-   put one there*. **The shutter fact is unchanged and still on the page and still in the second paragraph, where
-   it belongs. The closing now ends on the wet print going out of the wood and on the sun coming back round that
-   corner at the middle of the afternoon to take the rest of it out.**
+   put one there*. **The shutter fact is unchanged and still on the page and still in the third paragraph, where
+   it belongs, and this paragraph said *second* five times in four files and said it wrong every time; §13.2 says
+   where the five were and what they now read. The closing now ends on the wet print going out of the wood and on
+   the sun coming back round that corner at the middle of the afternoon to take the rest of it out.**
 4. **THREE OF THE TEN CLOSINGS WERE ON ONE CONSTRUCTION, AND §17.18 SAYS `no two chapters of a batch may close on
    the same construction`.** Chapters 0765, 0769 and 0770 all ended on a *nobody in that room would ever know /
    would have known how to tell / to be told about it* beat. **§11.2 above declares that a cluster of three was
    found and re-aimed, and the cluster came back in a new shape in the same three files, which is what a cluster
-   does when the words change and the construction does not.** 0765 now ends forward and physical — the wind with
-   the night's salt and grit back on that lip by tomorrow night, the man with the knife finding it there, the rag
-   lying where it lay, and the two of them on the same stone at the fourth hour — with the non-knowledge kept in
-   the chapter as a sentence of its own rather than as its last word. 0769 now ends on the bare place at the foot
+   does when the words change and the construction does not.** 0765 was re-aimed by APPENDING TO ITS CLOSING
+   PARAGRAPH and not by re-aiming it: the non-knowledge sentence was left as the first sentence of that closing
+   paragraph, so the paragraph still stood on the construction it had been found on and only its last half moved.
+   **§13.1 finding 5 is that fault, and the sentence has now been moved up into the chapter's own body and the
+   closing has been rewritten to end forward and physical — the night's salt and grit standing back up on that lip
+   by tomorrow night, the man of about thirty-eight finding his own grit where he had a week of expecting none,
+   the two of them on the same stone inside a quarter of an hour of one another, and the stone under that rag
+   the same stone it had been at the fourth hour of this morning.** 0769 now ends on the bare place at the foot
    of the column between the other two being turned out to the wall along the far side, and on the light coming
    over that roof the next morning and finding it still turned away. **0770 is the one that keeps the construction,
    because the batch's own ending is that nobody in that room can say what that figure was, and a card may not
@@ -634,8 +640,12 @@ this one file.**
 3. **0763** — a man gone back down a stair without once looking to see whether anybody was at the other end of the
    room.
 4. **0764** — a jug nobody drank out of, and every one of them knowing exactly where on that bench they were.
-5. **0765** — tomorrow night's salt back on a stone lip, a rag lying where it lay, and two men on the same stone
-   at the fourth hour.
+5. **0765** — the night's salt and grit standing back up on that lip by tomorrow night, the man of about
+   thirty-eight finding his own grit where he had a week of expecting none, the two of them on the same stone
+   inside a quarter of an hour of one another, and the stone under that rag the same stone it had been at the
+   fourth hour. **THE FIRST EDITION OF THIS ROW DESCRIBED ONLY THE LAST HALF OF THAT CLOSING, BECAUSE ON THE DISK
+   AS §12 LEFT IT THE CLOSING PARAGRAPH ALSO OPENED ON THE NOBODY-FAMILY SENTENCE, AND §13.2 RE-AIMED IT. THE
+   ROW NOW DESCRIBES THE WHOLE CLOSING PARAGRAPH AND THE SENTENCE THAT OPENED IT IS UP IN THE CHAPTER'S BODY.**
 6. **0766** — a barrow a hand's breadth further off that wall for the rest of a man's life with no reason given.
 7. **0767** — a palm held on a piece of wood to find out whether it is warm.
 8. **0768** — a wet print gone out of the wood of a sill, and the sun at the middle of the afternoon to take the
@@ -650,7 +660,10 @@ this one file.**
 value anywhere in its last two paragraphs), not one closes on *about four people a day*, not one closes on the
 strip of ground and what it used to be, not one closes on the fact that a person is not in the room, and not one
 closes on a page that says a number. AND NOT ONE OF THE TEN IS A STATEMENT THAT NOTHING CHANGED**, against §16.17's
-ceiling of two in ten.**
+ceiling of two in ten.
+**AND THE COUNT OF ONE IS TRUE ONLY AFTER §13.2. ON THE DISK AS §12 LEFT IT, TWO OF THE TEN CLOSINGS STOOD ON THAT
+FAMILY — 0765 and 0770 — because §12 re-aimed 0765 by appending to its closing paragraph and left the
+nobody-family sentence standing as its first sentence.**
 
 ### 12.3 THE FIGURES, RE-DERIVED AGAIN ON THE TEN FILES AS THEY NOW STAND
 
@@ -729,3 +742,174 @@ trades on a board, who says the cost first in his own mouth and then says the de
 own mouth, and nobody in that room improves on one word of it and nobody argues with it and nobody agrees with it
 and nobody is thanked for it. AND IT NOW HAS TO READ §12 AS WELL AS §11, because these ten files have been
 rewritten twice and the sentences it was told about are not the sentences on the disk.**
+
+---
+
+## 13. THE REVIEW FIX PASS OVER THESE TEN FILES AND THE SIX STATE FILES. NEWEST AND IT WINS
+
+**A review of §12 was read and ten findings were returned against it: four blocking, four medium and two low. This
+section is what was done about all ten. NOTHING WAS RESTARTED, NO CHAPTER WAS REWRITTEN, NO CARD MOVED, AND NO FIGURE
+OF A DAY, A WEEKDAY, A BARE-MONTH ORDINAL, AN HOUR, AN ACTOR, A DESCRIPTOR OR AN OBJECT COUNT IN
+`outline/volume-16.md` §14.3 WAS TOUCHED. TWO CHAPTER FILES WERE OPENED AND SIX SENTENCES ACROSS THEM WERE REWRITTEN;
+EVERY OTHER CHANGE IS IN A STATE FILE, IN THE ONE NEXT-PHASE PROMPT, OR IN A PLACE INSIDE THIS FILE WHERE IT WAS
+STATED AS ON-DISK TEXT AND WAS NOT.**
+
+**AND TWO CHAPTERS THAT NOBODY ASKED TO HAVE OPENED WERE NOT OPENED, because the review named their state and did
+not name their prose: `chapter-0762.md`, `chapter-0763.md`, `chapter-0764.md`, `chapter-0766.md`, `chapter-0767.md`,
+`chapter-0769.md` and `chapter-0770.md` are on disk exactly as §12 left them, and the two arcs of clean grit and the
+boot set down square in one of them in 0761 are untouched.**
+
+### 13.1 THE TEN FINDINGS, IN THE REVIEW'S OWN NUMBERING — FOUR BLOCKING, FOUR MEDIUM AND TWO LOW — AND WHAT WAS DONE
+
+1. **BLOCKING — `state/character-state.md` SAID *He gets it.* IN BOLD WHILE FIVE OTHER FILES SAID HE DID NOT GET
+   IT.** `state/current.md`, `state/continuity.md`, `state/open-threads.md` #14 and `state/chapter-summaries.md` all
+   published that §4.1's `no` for day 761 was true on the page. **The five are corrected to the sixth, and the
+   correction is published at §13.1 finding 2 and in each of the five files in its own words.**
+2. **BLOCKING — THE 0761 FIX RE-AIMED THE PROSE AND NOT THE OUTCOME.** The page has Adrian Vale sit down in a chair
+   with his back to the wall and his face to the door and be still in it at the tenth hour, and its closing
+   paragraph reports the two arcs his chair cut through the grit in the middle of that floor. **§4.1's row for day
+   761 publishes the outcome `no` and publishes the want as `to have somewhere in that room to sit down where his
+   own back was not to the door`. THE PAGE OBTAINS IT, IN EVERY READING AVAILABLE. THE RE-AIM SENTENCE THE PREVIOUS
+   PASS WROTE — that the chair was still in the wrong place after he had turned it — IS ABOUT THE WIDTH THAT ROOM
+   WALKS ALL DAY, WHICH IS A CONSEQUENCE HE PAYS AND NOT A FAILURE TO OBTAIN, AND `open-threads.md` #14's claim that
+   the page now fails the want inside the chapter is NOT SUPPORTED BY THE PAGE. THE CLAIM IS WITHDRAWN IN ALL SIX
+   PLACES IT WAS MADE.**
+   ***AND THE CHAPTER WAS NOT REWRITTEN TO AGREE WITH THE ROW, AND THAT IS A DECISION AND IT IS NAMED: there are two
+   ways to stop a page from contradicting a published row and one of them is to break the page. The only ways to
+   make this page a `no` are to have him not sit down, to have him be got out of that chair, or to put the door on
+   the wall he turned the chair against. The first two are new events and the third is a change to the room, and all
+   three would change the chapter's central beat, which is a man who takes what he wants out of a room that needs
+   the width and pays for it in somebody else's morning. SO THE ROW STANDS CONTRADICTED BY THE PAGE AND IS FLAGGED
+   FOR A HUMAN AT §13.4, AND THIS RECORD SAYS SO INSTEAD OF ARGUING IT.***
+3. **BLOCKING — A SENTENCE THE PREVIOUS PASS DELETED WAS STILL QUOTED AS ON-DISK TEXT IN FOUR FILES.** *a line saying
+   it had taken him the length of a chair* stood in this file at §12.1, in `state/continuity.md`, in
+   `state/character-state.md` and in `workspace/volume-16/batch-0003/PROMPT.md`, and the next phase was being told
+   the page said a thing it does not say. **All four are withdrawn and each now names the sentence as DELETED FROM
+   THE FILE, which is the only true thing that can be said about it.**
+4. **BLOCKING — THE NEXT PHASE'S AUDIT INSTRUCTION WAS BUILT ON A §4.1 TABLE THAT DOES NOT CONTAIN THE ROWS IT
+   NAMES.** §14.3's map puts Adrian Vale in 0771 as his ninth day, 0773 as his tenth and 0780 as his eleventh.
+   **§4.1's table has eleven rows, has no row for 0771 and no row for 0780, and lists 0773 as the ninth, so the
+   prompt's `READ YOUR OWN THREE ADRIAN CHAPTERS BACK AGAINST §4.1'S THREE ROWS` had one row to read. The prompt
+   also said `seven of the eleven are no`, and all eleven rows on disk read `no`, against §4.1's own prose above the
+   table, which says *this volume obtains four and does not obtain seven*. The prompt now states what the table
+   carries, tells the writer to take 0773's want from the one row that exists and 0771's and 0780's wants from the
+   map's own business line, tells it to publish `no` for all three as the conservative reading, and tells it in so
+   many words that it may not invent a fourth `yes` to make the arithmetic come out. THE OUTLINE WAS NOT EDITED AND
+   THE DEFECT IS CARRIED TO §13.4.**
+5. **MEDIUM — 0765 WAS APPENDED TO AND NOT RE-AIMED, AND ITS CLOSING STILL STOOD ON THE CONSTRUCTION THE PASS
+   CLAIMED TO HAVE GONE.** The closing paragraph opened *Nobody in that yard would ever know that a man had been on
+   his knees…*, which is the family, and §12.2 item 5 described only the closing's last half, which is what made
+   *Ten constructions, one on the nobody family* come out of two of them. **The non-knowledge sentence has been moved
+   up into the chapter's own body, where it is stated once and only once, and the closing paragraph has been
+   rewritten from the ground up and now opens on the night's salt and grit standing back up on that lip. Two of ten
+   are now one of ten, and the one is 0770, which keeps it on purpose.**
+6. **MEDIUM — THE SENTENCE APPENDED TO 0765 WAS FORTY-FOUR WORDS LONG WITH A COMMA SPLICE IN IT**, which is the
+   class §12.3 publishes at p90 43 and max 100, and §12.3's own percentages were re-derived with that sentence
+   already standing in the file. **It is gone with the rest of the closing, and §13.3's sentence scale is
+   re-derived from the files as they stand and not carried forward.**
+7. **MEDIUM — `state/current.md` GAVE THE OUTSIDE POOL AS SEVEN HUNDRED AND SEVENTY FOR A MEASUREMENT WHOSE POOL IS
+   SEVEN HUNDRED AND SIXTY.** 770 files are on disk and ten of them are this batch. **Corrected there and in
+   `state/continuity.md`, which carries the same figure four times: three of those are the whole manuscript and are
+   right at seven hundred and seventy, and one is a cross-scope pool and was wrong at that number.
+   `workspace/volume-16/batch-0003/PROMPT.md` says seven hundred and seventy outside ITS OWN ten and is RIGHT,
+   because that batch's ten do not exist yet and it measures against 780 files less its ten.**
+8. **MEDIUM — *SECOND PARAGRAPH* WAS A WRONG CITATION AND IT APPEARED FIVE TIMES IN FIVE FILES.** The shutter fact in
+   0768 stands in that chapter's THIRD paragraph, and it stood there before the fix as well, and nobody looked up
+   the number. **Corrected in all of them: this file at §12.1 and §13.2, `state/current.md`, `state/continuity.md`,
+   `state/open-threads.md`, `state/chapter-summaries.md` and the next-phase prompt. A paragraph number is a reading
+   and not a fact, and a reading that was never run is a guess with a number on it.**
+9. **LOW — THE 0761 REPLACEMENT WAS A FORTY-SEVEN-WORD SENTENCE OF THREE CLAUSES STRUNG ON *AND* WITH A COMMA SPLICE,
+   REPEATING *WRONG PLACE* TWICE AND *PLACE* THREE TIMES, AND IT HAD REPLACED A CLEAN TWENTY-FOUR-WORD LINE. It also
+   flipped to the present tense in a past-tense chapter at *which is where that room walks*.** **Both sentences are
+   now short, neither carries a comma splice, *place* appears twice where it appeared three times, and the tense is
+   the chapter's. Nothing else in that file moved and no scene did.**
+10. **LOW — 0761 IS THE LONGEST OF THE TEN AT 1,945 WORDS AND GREW IN A PASS INTENDED TO SHORTEN IT, AND §12.3
+    PUBLISHED THE RANGE WITHOUT SAYING SO.** **It is 1,930 now, which is the same file six words shorter and still
+    the longest of the ten, and §13.3 publishes the range and names the file. No chapter of this batch carries a
+    length target and §17.4 says a mean is a consequence and not a plan; the honest thing is to say which file is
+    the long one and not to cut a scene to make a number look better.**
+
+### 13.2 THE TEN CLOSINGS, READ AGAIN SIDE BY SIDE AFTER THE FIX, WHICH IS THE ONLY CHECK A SCRIPT CANNOT DO
+
+1. **0761** — a man's boot set down square in an arc of clean grit, and whoever put it there had not looked down
+   and had not moved it again.
+2. **0762** — a shape pressed into the damp face of a wall that will be gone by the middle of the next day.
+3. **0763** — a man gone back down a stair without once looking to see whether anybody was at the other end of the
+   room.
+4. **0764** — a jug nobody drank out of, and every one of them knowing exactly where on that bench they were.
+5. **0765** — the night's salt and the night's grit standing back up on a stone lip, a man finding his own grit
+   where he had a week of expecting none, two men on the same stone inside a quarter of an hour of one another, and
+   the stone under that rag the same stone it had been at the fourth hour of this morning.
+6. **0766** — a barrow a hand's breadth further off that wall for the rest of a man's life with no reason given.
+7. **0767** — a palm held on a piece of wood to find out whether it is warm.
+8. **0768** — a wet print gone out of the wood of a sill, and the sun at the middle of the afternoon to take the
+   rest of it out.
+9. **0769** — the bare place at the foot of a column turned to a wall, and the light finding it still turned away
+   the next morning.
+10. **0770** — two places on a bench a forearm apart that the weather has not got to, and nobody in that room to
+    be told about either of them.
+
+**Ten constructions, and exactly one of them on the *nobody in that room would know* family, and it is 0770, which
+is the batch's own ending. NOT ONE OF THE FIVE SHAPES `outline/volume-16.md` §17.18 PUTS OFF LIMITS IS CLOSED ON, AND
+NOT ONE OF THE TEN IS A STATEMENT THAT NOTHING CHANGED. AND 0765's closing no longer repeats its own body: the wet
+rag and its position are stated in the opening of that chapter and in the chapter's second section, and the closing
+does not restate them, which is the fault §12.1 finding 3 was about in 0768 and which was in 0765 as well and was
+not named until this review.**
+
+### 13.3 THE FIGURES, RE-DERIVED ON THE TEN FILES AFTER THE FIX, WITH §12.3 PUBLISHED BESIDE THEM
+
+**Every figure below was produced by running the thing on the files on disk after the fix. §12.3's figure is on the
+same row, and the two are not harmonised, because they are two readings of two states of the same files and the
+house rule is that a difference is published rather than corrected away.**
+
+| Figure | Instrument, reading and scope | Value now, and §12.3's value beside it |
+|---|---|---|
+| words, heading line in | letters and apostrophes, ten files, both orders | **11,956** — §12.3 published **11,912** |
+| words, heading line out | same, heading line excluded | **11,871** — §12.3 published **11,827** |
+| **bolded share** | words inside bold marks over all words, heading line in | **6.64** — §12.3 published **6.67 weighted**. NOT ONE MARK INSIDE A BOLD SPAN MOVED IN THIS PASS; the difference is the denominator, forty-four words, and 794 bold words over 11,956 is 6.64 to two places. **§12.3's second reading of 6.85 DID NOT REPRODUCE UNDER THIS PASS'S INSTRUMENT AND IS PUBLISHED AS §12.3 PUBLISHED IT. The two are of different readings and neither is corrected into the other** |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and `---` separators excluded | **215 prose, 15 speech, 0 plain, 0 bold-without-a-quotation-mark, 3 prompts** — **identical to §12.3, and the fact that a chapter changed and this row did not is the reason a figure is worth publishing** |
+| paragraphs of three sentences or more carrying a physical action | §17.20's fifth fault; reading: three or more sentences and at least one of twenty physical-action verbs in the paragraph | **67** — §12.3 published **62** on a reading it does not state, and the two are of different verb lists and are not comparable |
+| panels / digits in prose / bare three-digit numerals | heading line out, word-bounded | **0 / 0 / 0** — as §12.3 |
+| trailing newline / chapter-title range | last character of each file / words of title text after the dash | **10 of 10 / six to nine, in 10 of 10** — as §12.3 |
+| chapter length | heading line out | **823 to 1,930, a mean of 1,187** — §12.3 published **823 to 1,945, a mean of 1,183**. 0761 is the long one and §13.1 finding 9 says so |
+| sentence scale | sentences of more than two words, split on `.!?`, heading line out | **mean 25.0, median 23, p90 43, max 100, 13.7% at forty words or more, out of 474** — §12.3 published **25.1, 23, 43, 100, 13.8% of 472**. The median, the p90 and the max are unmoved; two sentences went into the file and neither is over forty words |
+| the forty-word class | three scopes, both heading-line readings | **0, 0, 0** — as §12.3 |
+| the sixteen-word class, within the ten | maximal contiguous shared passage, letters and apostrophes, case-insensitive, each file excluded from its own comparison, both heading-line readings | **0 shared passages in 0 pairs and 0 within-file self-repeats** — as §12.3 |
+| the sixteen-word class, against the seven hundred and sixty outside | the same instrument and the same threshold | **22 shared runs in 3 of the ten files — 0764 at nine, 0765 at ten, 0767 at three** — the same total as §12.3, and 0765's closing was rewritten in this pass, which is the strongest single piece of evidence in this table that the run is in the body of that file and not in its last paragraph |
+| the room's own figure, said aloud | a marked speech paragraph carrying it, whole files, both orders | **5 of 10 days — 762, 764, 767, 769, 770 — and they are exactly the five days Adrian Vale is not in** — as §12.3 |
+| Adrian Vale | whole files, both orders, against the map's own Adrian column | **5 of 10 — 761, 763, 765, 766, 768** — as §12.3 |
+| `that` / `nobody` | word-bounded, heading line out, per thousand words | **36.6 / 5.0** — §12.3 published **36.5 / 5.0** |
+| `about four people a day` and the un-reduced `four people a day` | literal strings | **2 and 0** — as §12.3 |
+| the two figures in one sentence | a sentence carrying a nine-figure and an `about four` together, §16.14 | **0 out of 474** — as §12.3 |
+| *passage*, *privilege*, `nine steps`, *player*, *census*, *war*, *bridge*, *witness*, `tally`, *muster*, *majority*, *headcount*, *poll*, *ballot*, *scrutineer*, a narrator frame, `days since` | literal, both case flags, whole-word bounded with a hyphen delimiting | **0 across all ten files**, and the word bounding matters: a first instrument on this pass matched *war* inside *toward* seven times and reported a violation that was not there |
+| chapter-equals-day, the weekday, and the Bare-Month ordinal | the three checks on one run, ten files, both orders | **0 mismatches on each of the three, out of ten, on both orders**, with 450 resolved in its own closed form *four hundred and fiftieth*. This pass touched no date, no weekday and no ordinal |
+| notices sent / documents written | count | **0 / 0** — as §12.3 |
+
+### 13.4 THE TWO CANON QUESTIONS THIS PASS HAS NOT SETTLED AND DID NOT SETTLE BY EDITING A PLAN
+
+**A FIX PASS MAY NOT REWRITE A PLAN'S PUBLISHED OUTCOME, AND NEITHER OF THESE WAS REWRITTEN.**
+
+1. **`outline/volume-16.md` §4.1'S ROW FOR DAY 761 IS CONTRADICTED BY `chapter-0761.md`.** The row publishes the
+   outcome `no` and the page obtains the want. **The row is not corrected, the page is not bent, and no state file
+   in this repository now claims the row is satisfied. A HUMAN OWES THE DECISION: either the row becomes `yes`, or
+   the chapter loses its chair. This pass says which of those two is a change to the planned plot and it is the
+   first.** The row also sits inside a table that is inconsistent with its own section prose in two ways, and both are
+   pre-existing and neither was introduced here: **the table's eleven `no` values against §4.1's published split of
+   four obtained and seven not, and the table's eleven rows against §14.3's map, which numbers thirteen days and
+   carries 0771 and 0780 and not a row for either.** A writer that audits its three Adrian chapters against that
+   table and finds two of the three rows absent is not doing a check; it is guessing.
+2. **THE INDEPENDENCE DEBT IS UNCHANGED AND IS OWED BY A HUMAN.** `reviews/volume-16/` does not exist and the review
+   dispatch fell back to the writer's own agent, so the findings this pass fixed were found by an agent that is not
+   independent of the prose, which is the sixth time the debt has been named in this volume. **What this pass can
+   add is the shape of it: §12 found four faults in ten chapters that every instrument had returned clean on, and
+   this review found ten more in six state files and two chapters, of which four were about a single paragraph number
+   that was never looked up and one was a sentence quoted as on-disk text after it had been deleted. NOT ONE OF THE
+   FOURTEEN WAS A COUNT.**
+
+### 13.5 THE NEXT PHASE, UNCHANGED IN ITS DIRECTION AND CORRECTED IN ITS INSTRUCTIONS
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, WHICH WRITES CHAPTERS 0771 TO 0780 AND NOTHING ELSE.** It now reads
+this section as well as §11 and §12, its audit instruction at item 4 is rebuilt on what §4.1's table actually
+carries, its two quotations of a deleted sentence are withdrawn, its two paragraph-number citations are corrected,
+and its median-sentence figure is unchanged at about twenty-two or twenty-three. **It creates no directory beyond
+itself, no card file under `outline/` and no marker file of any kind.**

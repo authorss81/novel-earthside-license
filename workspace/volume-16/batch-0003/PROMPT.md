@@ -18,29 +18,41 @@ You decide nothing, you invent nothing, and you print no string this file has no
    figures, the sixteen forty-word runs its first pass found and the two declarations they stood in, the six
    negation chains it broke, the five closings it re-aimed, and the two instruments that were wrong. **You
    must not re-use any sentence that record names as reworded.**
-   **AND READ §11 AND §12 OF THAT RECORD, §12 BEING NEWEST AND WINNING, BECAUSE THE TEN FILES ON DISK HAVE NOW
-   BEEN REPAIRED TWICE.**
+   **AND READ §11, §12 AND §13 OF THAT RECORD, §13 BEING NEWEST AND WINNING, BECAUSE THE TEN FILES ON DISK HAVE NOW
+   BEEN REPAIRED TWICE AND CORRECTED ONCE.**
    *§11 is the first repair.* A review of that batch found two blocking faults — a median sentence of fifty-one
    words against eighteen in chapter 0001, with sixty-seven per cent of sentences at forty words or more, and ten
    chapters built almost entirely out of the assertion that nothing happened in them — and a repair pass rebuilt the
    prose and the scenes of all ten, brought the sentence scale to a median of about twenty-two words, and gave
    every one of the ten an ending from the six ways `outline/volume-16.md` §16.17 allows.
-   *§12 is the second repair, and it is the one you write against.* It found four things **that no instrument had
-   found and that every instrument had already returned clean on**: a chapter that contradicted itself inside two
-   paragraphs about whether its protagonist had gone down a stair; a chapter that read on its own words as one in
-   which that protagonist obtained the one thing `outline/volume-16.md` §4.1 records as **not obtained**; a closing
-   paragraph that restated its own chapter's second paragraph, which §17.18 forbids; and three of the ten closings
-   standing on one construction, after the first repair had already found and re-aimed a cluster of three in the same
-   family and declared it gone. **So: a zero is not an answer about shape, and a chapter can pass every count in
-   this repository and still break §17.18.** Read §12.1 for the four findings and §12.2 for the ten closings side
-   by side, which is the only check in this file a script cannot do.
+   *§12 is the second repair.* It found four things **that no instrument had found and that every instrument had
+   already returned clean on**: a chapter that contradicted itself inside two paragraphs about whether its protagonist
+   had gone down a stair; a chapter that read on its own words as one in which that protagonist obtained the one thing
+   `outline/volume-16.md` §4.1 records as **not obtained**; a closing paragraph that restated its own chapter's
+   **third** paragraph, which §17.18 forbids; and three of the ten closings standing on one construction.
+   *§13 is a review fix pass over §12, and it is the one you write against.* A review of §12 returned ten findings
+   and §13 fixed all ten. **Four of them are about the record being wrong about the record, and you should read
+   §13.1 and §13.4 before you write a word of your own:**
+   * **The second repair's claim that the 0761 page made §4.1's `no` true IS WITHDRAWN. The page obtains the want
+     and §4.1's row for day 761 is contradicted by it. Neither the chapter nor the plan was edited, because the only
+     ways to make that page a `no` are a new event or a different room, and it is a flagged question for a human.**
+   * **A sentence that pass deleted from `chapter-0761.md` was quoted as on-disk text in four files, this one
+     among them. Every sentence that record names as deleted, reworded or replaced is DELETED and is not on the
+     page; read the file if you want to know what is on the page.**
+   * **A closing that repeats its own body in different words is a §17.18 fault that no count in this repository can
+     see, and TWO chapters of those ten carried it — 0768 about a shutter and 0765 about a wet rag's position. So:
+     a closing that has been re-aimed by APPENDING TO IT is not re-aimed. Read your own closings whole.**
+   * **A paragraph number, a quoted sentence and a pool size are READINGS. A reading that was never run against the
+     file is a guess with a number on it, and three of the ten findings were exactly that.** If a state file tells
+     you what a chapter says, open the chapter.
+   Read §13.2 for the ten closings side by side and §13.3 for every figure with its reading and its scope on the
+   same line as the number, including the two that did not reproduce — a bolded share of **6.64 weighted**, which is
+   below the house's 9.35 and is a consequence and not a fault, and a word count of **11,956** against the 11,912
+   the pass behind it published on the same files and the 11,610 the pass behind that one published on them.
    **THE FIGURE TO MATCH IS A MEDIAN SENTENCE OF ABOUT TWENTY-TWO OR TWENTY-THREE WORDS AND NOT THE FORTY-SEVEN OF
    THE TEN FILES IN FRONT OF YOU AND NOT ANY FIGURE IN ANY VOLUME'S TABLE: measure your own ten before you write
    them and again afterwards, and if your own ten come back at a median above thirty, you have rebuilt the fault the
-   repairs took two passes to remove.** Read §12.3 for every figure with its reading and its scope on the same line
-   as the number, including the two that did not reproduce — a bolded share of **6.67 weighted and 6.85 unweighted**,
-   which is below the house's 9.35 and is a consequence and not a fault, and a word count of **11,912** against the
-   11,610 the pass behind it published on the same files.
+   repairs took three passes to remove.**
 5. **`state/batch-summaries/volume-16-batch-0001.md`** — the ten days before those, in full, for the second
    handle on every person and for the figure that batch measured.
 6. **The previous ten chapters on disk**, `chapters/volume-16/chapter-0761.md` to `chapter-0770.md`, in full.
@@ -186,17 +198,46 @@ then 5.7; the triple-*nobody* chain at zero in both; and the standing state of t
 re-measured, is *passage* in twenty-five files in twenty-five and *privilege* in forty-five files in forty-one,
 and your ten are to be at zero on both.**
 
+**AND EVERY FIGURE IN THAT PARAGRAPH THAT IS NAMED AS BATCH 0002 IS THE FIGURE OF THAT BATCH'S FIRST WRITING, WHICH
+IS NOT WHAT IS ON THE DISK NOW.** Those ten files have been rebuilt and then repaired twice, and they now stand at
+**11,956 words with the heading line in and 11,871 without it, a bolded share of 6.64, 215 prose paragraphs and 15
+speech, 67 paragraphs of three sentences or more carrying a physical action, chapter length 823 to 1,930 and a mean
+of 1,187, `that` at 36.6 and `nobody` at 5.0 per thousand words, and the sixteen-word class at ZERO inside those ten
+and at 22 shared runs against the seven hundred and sixty files outside them.** Every one of those is at
+`state/batch-summaries/volume-16-batch-0002.md` §13.3 with its instrument and its reading on the same line as the
+number. **NEITHER SET IS A TARGET AND THE MEASURE IS YOUR OWN TEN MEASURED TWICE. The paragraph above is left standing
+because a figure that changed twice and was published three times is worth having in front of you, and the changes
+between the three are published beside it rather than in place of it.**
+
 **AND THE THREE CHECKS, WITH THE INSTRUMENT NAMED, BECAUSE BOTH BATCHES BEHIND YOU LEARNED THESE THE HARD WAY.**
 
 **AND THE FOURTH CHECK, WHICH IS NOT A COUNT AND WHICH THE BATCH BEHIND YOU FAILED TWICE BEFORE A PERSON CAUGHT IT:
-READ YOUR OWN THREE ADRIAN CHAPTERS BACK AGAINST `outline/volume-16.md` §4.1'S THREE ROWS AND ASK, OF EACH, WHETHER
-THE PAGE OBTAINS THE THING THE PLAN RECORDS AS NOT OBTAINED.** §4.1 publishes eleven wants and eleven outcomes and
-seven of the eleven are `no`. Batch 0002's second repair found a chapter that said, in its own words, that its
-protagonist had got the one thing §4.1 records as not obtained — a chair turned to give him his back to a wall, and
-he in it at the tenth hour under a line saying it had taken him the length of a chair — while the record claimed the
-row was satisfied. **A card may not be satisfied by a chapter that does the thing the plan says it did not do, and a
-want may not be published as `no` and written as `yes` on the strength of an argument in a state file. If he gets
-it, either the want is wrong or the chapter is, and the want belongs to the plan and the chapter belongs to you.**
+READ YOUR OWN THREE ADRIAN CHAPTERS BACK AGAINST WHAT THE PLAN PUBLISHES, AND ASK, OF EACH, WHETHER THE PAGE OBTAINS
+THE THING THE PLAN RECORDS AS NOT OBTAINED.** A card may not be satisfied by a chapter that does the thing the plan
+says it did not do, and a want may not be published as `no` and written as `yes` on the strength of an argument in a
+state file. If he gets it, either the want is wrong or the chapter is, and the want belongs to the plan and the
+chapter belongs to you.
+
+**AND READ THIS BEFORE YOU AUDIT ANYTHING, BECAUSE `outline/volume-16.md` §4.1'S TABLE IS NOT WHAT YOU MAY HAVE
+BEEN TOLD IT IS, AND THE PROMPT THAT CAME BEFORE THIS ONE TOLD ITS WRITER TO AUDIT THREE CHAPTERS AGAINST THREE ROWS
+OF IT AND TWO OF THOSE ROWS DO NOT EXIST.** §14.3's map puts Adrian Vale in three of your ten: **0771 as his ninth
+day, 0773 as his tenth and 0780 as his eleventh.** §4.1's table has **eleven rows, no row for 0771 and no row for
+0780, and 0773 as its ninth**, so **one** of your three days has a row and **two** do not. The table also publishes
+`no` in **all eleven** of its rows, against §4.1's own prose two paragraphs above the table, which says *this volume
+obtains four and does not obtain seven*. **So: take 0773's want and outcome from its one row as published; take 0771's
+and 0780's wants from the day map's own business column for those two days — a barrow taken out of a yard and left
+against a wall and no figure on anything in it, and a barrow handle and an empty yard at the seventh hour — and
+publish `no` for both as the conservative reading, because every row on disk reads `no` and because a `no` costs the
+chapter nothing that a `yes` would have to earn. AND YOU MAY NOT INVENT A FOURTH `yes` ANYWHERE TO MAKE §4.1's
+FOUR-AND-SEVEN COME OUT, AND YOU MAY NOT EDIT §4.1 OR ANY OTHER PLAN FILE TO FIX IT, AND YOU MAY NOT ASSUME THE TABLE
+IS CORRUPT AND IGNORE IT.** **NAME THE DEFECT IN YOUR OWN RECORD AS AN OPEN THREAD, BECAUSE IT IS NOT YOURS TO SETTLE
+AND IT IS PRE-EXISTING: A PLAN ROW THAT A FINISHED CHAPTER CONTRADICTS IS A QUESTION FOR A HUMAN, WHICH IS EXACTLY
+WHAT CHAPTER 0761 IS.** That chapter is the standing example and it is at
+`state/batch-summaries/volume-16-batch-0002.md` §13.1 finding 2 and §13.4: a man who wants his back to a wall gets a
+chair with his back to the wall and is still in it six hours later, and the row above him says he does not get it,
+and neither the row nor the chapter was edited, because the only ways to make that page a `no` are a new event or a
+different room.
+
 **AND HE IS IN THREE OF YOUR TEN — 771, 773 AND 0780 — AND `outline/volume-16.md` §17.19 REQUIRES HIM TO BE THE CAUSE
 OF AT LEAST ONE THING THAT HAPPENS TO SOMEBODY ELSE IN EACH OF THE THREE, AND THE CONSEQUENCE MAY NOT BE A DECISION, A
 WORD, A DOCUMENT, A NOTICE OR THE PANEL, AND NOBODY THANKS HIM, NOBODY TELLS HIM HE WAS RIGHT, AND NOBODY IN ANY OF
@@ -217,18 +258,24 @@ THE THREE IS WAITING FOR HIM TO BE USEFUL.**
    puts off limits are at §17.18: you may not close on the room's figure, on about four people a day, on the
    strip of ground and what it used to be, on the fact that a person is not in the room, or on a page that says
    a number.
-   **AND THE TWO FAULTS A CLOSING CAN CARRY THAT NO COUNT IN THIS REPOSITORY CAN SEE, both found by a person in
-   Batch 0002's second repair and both named at that record's §12.1: (i) A CLOSING PARAGRAPH THAT RESTATES ITS OWN
-   CHAPTER. §17.18 says the closing paragraph states something not stated anywhere else in that chapter, in
-   different words from the chapter's own body. In Batch 0002 a closing sentence said what its own second paragraph
-   had already said about a shutter, in different words, and every word-run instrument returned clean. (ii) A
-   CLOSING CONSTRUCTION THAT COMES BACK IN NEW WORDS.** Three of Batch 0002's ten closings stood on *nobody in that
-   room would ever know / would have known how to tell / to be told about it*; the first repair found and re-aimed a
-   cluster of three in that same family and declared it gone; the second repair found the family standing in the
-   same three files in a new wording. **A cluster that returns after being re-aimed is a construction that was
-   never counted out. §17.18's rule is about shape and not about words, and a script cannot read shape. So: read
-   your ten closings twice — once for the five shapes §17.18 puts off limits, and once asking, of each, whether any
-   other one of your ten could be said in the same construction.**
+   **AND THE THREE FAULTS A CLOSING CAN CARRY THAT NO COUNT IN THIS REPOSITORY CAN SEE, all three found by a person
+   and named at `state/batch-summaries/volume-16-batch-0002.md` §13.1: (i) A CLOSING PARAGRAPH THAT RESTATES ITS OWN
+   CHAPTER. §17.18 says the closing paragraph states something not stated anywhere else in that chapter, in different
+   words from the chapter's own body. In Batch 0002 a closing sentence said what its own **third** paragraph had
+   already said about a shutter, in different words, and every word-run instrument returned clean — and a second
+   chapter closed by restating where a wet rag was lying, which its own body had already said twice. (ii) A CLOSING
+   CONSTRUCTION THAT COMES BACK IN NEW WORDS. Three of Batch 0002's ten closings stood on *nobody in that room would
+   ever know / would have known how to tell / to be told about it*; the first repair found and re-aimed a cluster of
+   three in that same family and declared it gone; the second repair found the family standing in the same three
+   files in a new wording — and then re-aimed one of them by APPENDING four sentences to its closing and leaving the
+   family's own sentence as that paragraph's first one, which left two of ten in the family while the record counted
+   one. **A cluster that returns after being re-aimed is a construction that was never counted out, and appending to a
+   closing is not re-aiming one.** (iii) A CLOSING DESCRIBED IN PART. That record described one of those ten closings
+   by its last half and did not mention its first sentence, and the count it published came out of a paragraph nobody
+   had read whole. **§17.18's rule is about shape and not about words, and a script cannot read shape. So: read your
+   ten closings twice — once for the five shapes §17.18 puts off limits, and once asking, of each, whether any other
+   one of your ten could be said in the same construction. And read each of them WHOLE, from its first word to its
+   last, against the body of its own chapter.**
 3. **Read the ten titles and count the words in the title text. Four to nine.** A `#` line in this manuscript
    has been a hundred words long and has repeated its own opening paragraph.
 

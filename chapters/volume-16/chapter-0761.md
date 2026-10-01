@@ -12,7 +12,7 @@ He put the flats of his hands on the arms of it and sat.
 
 From there he could see the near end of the bench, the flags, and about half the floor. The one window stood high in the wall along the far side and its sill was above his head where he sat. The shelf at the height of a person's shoulder was behind his left shoulder, so that to see what was lying on it he had to turn about and go on looking at it over the top of his own shoulder. He did that twice. The second time, the room behind him had gone on without him in it.
 
-A man sitting there had his back to the wall and his face to the door. He had been trying to arrange that for a fortnight, and a chair was all there was, and the chair was standing in the wrong place for it and he had turned it into the right place for it and it was still in the wrong place.
+A man sitting there had his back to the wall and his face to the door. He had been trying to arrange that for a fortnight, and a chair was all there was. He had turned it into the right place for it, and it was in the wrong one.
 
 It took him about four minutes to work out why that was. The chair had not been standing in the middle of that floor. It had been standing in the gap at the far side, between the far end of that bench and that wall, and that gap was a man's shoulders wide, and it was the width that room used all day to get past its own bench. He had got a chair with his back to the wall and put it exactly where the room walked.
 
@@ -62,7 +62,7 @@ The man of about twenty-seven took his bucket and went back down the stair.
 
 The figure was given in that room before anybody was up the stair, and it was given once, and it was not said again. Nobody put how many of them were in that room out loud after that, and nobody wrote it down, and no hand in that room had ever been near a place where it could have gone.
 
-Adrian went out of that room at about the ninth hour and down onto the flags at the foot of that stair and stood there with his hands empty. He came and went along the near side of that floor, which is where that room walks. The ground at the foot of that stair took about four people a day and had never been measured by anybody. He looked at the part of it inside the stair's own shadow, which was the part that had any edges to it at all. Then he sat down in that chair again in front of the whole of that room, and nobody in that room said one word to him about it.
+Adrian went out of that room at about the ninth hour and down onto the flags at the foot of that stair and stood there with his hands empty. He came and went along the near side of that floor, where that room walked. The ground at the foot of that stair took about four people a day and had never been measured by anybody. He looked at the part of it inside the stair's own shadow, which was the part that had any edges to it at all. Then he sat down in that chair again in front of the whole of that room, and nobody in that room said one word to him about it.
 
 The man of about thirty-nine had not moved out of the channel. The light had gone off the flags some while before, and the room had got to the point where the far end of that bench and the wall beside it were one dark shape with a man's boots standing in the middle of it.
 

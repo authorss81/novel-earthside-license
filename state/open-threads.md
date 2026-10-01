@@ -577,38 +577,56 @@ threads the next batches may pick up because they are now on the page and were n
 
 ---
 
-## VOLUME 16, BATCH 0002 — THE SECOND REPAIR PASS. NEWEST AND IT WINS.
+## VOLUME 16, BATCH 0002 — THE SECOND REPAIR PASS, READ WITH THE REVIEW FIX PASS BELOW IT, WHICH WINS.
 
-**THREE THREADS OPENED OR TOUCHED BY THIS PASS, AND THE EIGHT ABOVE THAT IT DID NOT TOUCH AND DID NOT SETTLE.**
+**THREE THREADS OPENED OR TOUCHED BY THAT PASS, AND THE EIGHT ABOVE THAT IT DID NOT TOUCH AND DID NOT SETTLE.**
 
-14. **THE CARD'S `Not obtained` AND THE PAGE AGREEING WITH IT IS NOW A STANDING TEST AND NOT AN ARGUMENT.**
-    `outline/volume-16.md` §4.1 publishes eleven wants and eleven outcomes for the eleven chapters Adrian Vale is
-    in, seven of the eleven not obtained. **Chapter 0761 was repaired once to make `obtained: no` visible and the
-    repaired page still said he had got it; the second pass has re-aimed the want itself, so the page now fails the
-    want inside the chapter rather than only in the plan's table. A card may not be satisfied by a chapter that does
-    the thing the plan says it did not do, and a later phase should read its own eleven rows off §4.1 before it
-    writes and should read its own chapter off the row afterwards.**
-15. **THE CLOSING CONSTRUCTION IS A REPEATABLE FAULT AND NOT A ONE-OFF.** Three of ten closings stood on the
-    *nobody in that room would know / could tell / to be told about it* family, and the first repair had already
-    found and re-aimed a cluster of three in the same family and declared the cluster gone. **A cluster that comes
-    back in a new wording in the same files is a construction that was never counted out, and §17.18's
-    `no two chapters of a batch may close on the same construction` is a rule about shape and not about words. The
-    instrument that measures it returns nothing, which is the seventh time in this repository that a script's zero
-    has been the wrong answer, and the reading has to be done by a person.**
+14. **THE CARD'S `Not obtained` AND THE PAGE AGREEING WITH IT IS A STANDING TEST, AND IT HAS NOW FAILED ON THE ONE
+    DAY IT WAS RUN AGAINST.** `outline/volume-16.md` §4.1 publishes a want and an outcome for each day the day map
+    gives Adrian Vale. **Chapter 0761 was repaired once to make `obtained: no` visible, the repaired page still said
+    he had got it, the second pass re-aimed the want so the page would fail the want inside the chapter, and the
+    page still gets it. A review read all six state files against the page and found one of the six saying *He gets
+    it.* in bold and the other five saying he does not, and the page agreeing with the one. §4.1's row for day 761 is
+    contradicted by the chapter and neither was edited, because the only ways to make that page a `no` are a new
+    event or a different room.** A card may not be satisfied by a chapter that does the thing the plan says it did
+    not do; a card may not be satisfied by a chapter that does not do the thing either; **and a plan row that a
+    finished chapter contradicts is a question for a human and is carried at §13.4 of the batch record rather than
+    settled by the writer who found it.**
+15. **THE CLOSING CONSTRUCTION IS A REPEATABLE FAULT AND NOT A ONE-OFF, AND APPENDING TO A CLOSING IS NOT RE-AIMING
+    ONE.** Three of ten closings stood on the *nobody in that room would know / could tell / to be told about it*
+    family, and the first repair had already found and re-aimed a cluster of three in the same family and declared the
+    cluster gone. **The second pass re-aimed 0765 by appending four sentences to its closing paragraph and leaving
+    the family's own sentence standing as that paragraph's first one, so the count came out as one when it was two,
+    and the record described the closing's last half and did not mention its first sentence. A cluster that comes
+    back in a new wording in the same files is a construction that was never counted out, and §17.18's `no two
+    chapters of a batch may close on the same construction` is a rule about shape and not about words. The instrument
+    that measures it returns nothing, which is the eighth time in this repository that a script's zero has been the
+    wrong answer, and the reading has to be done by a person — and it has to be done on the whole closing paragraph
+    and not on the part of it that moved.**
 16. **A CLOSING PARAGRAPH THAT RESTATES ITS OWN CHAPTER IS A §17.18 FAULT AND IS NOT A DUPLICATION FINDING.** The
-    shutter sentence in chapter 0768's closing said what its second paragraph had already said, in different words,
+    shutter sentence in chapter 0768's closing said what its third paragraph had already said, in different words,
     which no word-run instrument can see and which no forty-word pass can find. **A chapter can pass every count in
-    this repository and still break §17.18, and the fault does not show up anywhere in a figure.**
+    this repository and still break §17.18, and the fault does not show up anywhere in a figure. The same fault was
+    standing in chapter 0765's closing, where it restated the wet rag and its position, and was not found until the
+    review — so a closing that repeats its own body is a family and not a single instance.**
+17. **A PARAGRAPH NUMBER, A QUOTED SENTENCE AND A POOL SIZE ARE READINGS, AND A READING THAT WAS NEVER RUN AGAINST
+    THE FILE IS A GUESS WITH A NUMBER ON IT.** **The shutter fact stood in the third paragraph of 0768 and five files
+    said second. A sentence deleted from 0761 was quoted as on-disk text in four files after the deletion. A pool of
+    ten files out of seven hundred and seventy was published as seven hundred and seventy outside in two files
+    instead of seven hundred and sixty.** Three faults in one pass, none of them visible to a count, all three of them
+    of one kind: a state file repeating a fact about a file instead of looking at it. **A later phase should treat any
+    sentence of the form *the page says*, *on the disk as it stands* or *as the file has it* as a claim to be
+    checked against the file before it is published, and should prefer the reading to the assertion.**
 
-**AND THE THREADS ABOVE THAT THIS PASS DID NOT TOUCH AND DID NOT SETTLE, RESTATED SO THAT A NEXT PHASE DOES NOT
-HAVE TO FIND THEM. (i) THE VOLUME'S ONE DECISION IS STILL DAY 775 AND NOTHING IN THESE TEN FILES IS A REHEARSAL OF
-IT; a man's refusal to sit in a chair on day 761 and his silence on day 767 are manners and §7.2 gives him no other
-decision in this volume. (ii) THE FIGURE IS STILL IN ITS OWN USE ON ALL TEN OF THESE DAYS, said aloud on five of them
-and in no mouth on the five Adrian Vale is in, and it is spent on day 775 and gone from that room's air from page one
-of day 776. (iii) THE THREE COSTS ARE STILL ON DAYS 764, 778 AND 795, and what that room did about the first of them
-is still not a cost of record and nobody may number it as one. (iv) THE PANEL IS STILL DAY 787 AND IS STILL HANDED
-ON AS A DAY AND NOT AS WORDS. (v) THE TWO WOMEN OF TWENTY-NINE ARE STILL NEVER IN ONE ROOM. (vi) THE TWO MEN OF ABOUT
-THIRTY-EIGHT ARE STILL TWO PEOPLE. (vii) THE MAN OF ABOUT THIRTY-FOUR IS STILL NOT THE DECIDER AND HIS CHALK IS STILL
-IN THAT POCKET. (viii) THE INDEPENDENCE DEBT IS UNCHANGED AND IS OWED BY A HUMAN, and this is the fifth time it has
-been named in this volume, and this pass strengthens the case rather than answering it: all four findings were found
-by a person reading four chapters and none of them by an instrument.**
+**AND THE THREADS ABOVE THAT THE REVIEW FIX PASS DID NOT TOUCH AND DID NOT SETTLE, RESTATED SO THAT A NEXT PHASE
+DOES NOT HAVE TO FIND THEM. (i) THE VOLUME'S ONE DECISION IS STILL DAY 775 AND NOTHING IN THESE TEN FILES IS A
+REHEARSAL OF IT; a man's refusal to sit in a chair on day 761 and his silence on day 767 are manners and §7.2 gives
+him no other decision in this volume. (ii) THE FIGURE IS STILL IN ITS OWN USE ON ALL TEN OF THESE DAYS, said aloud on
+five of them and in no mouth on the five Adrian Vale is in, and it is spent on day 775 and gone from that room's air
+from page one of day 776. (iii) THE THREE COSTS ARE STILL ON DAYS 764, 778 AND 795, and what that room did about the
+first of them is still not a cost of record and nobody may number it as one. (iv) THE PANEL IS STILL DAY 787 AND IS
+STILL HANDED ON AS A DAY AND NOT AS WORDS. (v) THE TWO WOMEN OF TWENTY-NINE ARE STILL NEVER IN ONE ROOM. (vi) THE TWO
+MEN OF ABOUT THIRTY-EIGHT ARE STILL TWO PEOPLE. (vii) THE MAN OF ABOUT THIRTY-FOUR IS STILL NOT THE DECIDER AND HIS
+CHALK IS STILL IN THAT POCKET. (viii) THE INDEPENDENCE DEBT IS UNCHANGED AND IS OWED BY A HUMAN, and this is the sixth
+time it has been named in this volume, and this pass strengthens the case rather than answering it: **fourteen faults
+across two passes over these ten files and not one of the fourteen was a count.**

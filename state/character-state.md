@@ -462,10 +462,12 @@ to fetch it off; on 0765 a stone lip is clean and dry and a man says out loud th
 0766 a stack is two boards shorter and a man stands his own barrow a hand's breadth further off a wall; on 0768
 a man spends three hours at a sill and nobody in that room knows he was at the window.
 
-**HE OBTAINED NONE OF THE FIVE. He is thanked by nobody, nobody tells him he was right, nobody in any of the
-five is waiting for him to be useful and he is not useful to them, he performs no working, no threshold is
-opened, the other world is not named once across these ten, nobody offers him a workway and he asks for none,
-and he is aged nowhere. He is in the batch's last chapter and is not in the batch's ending, and he is in none
+**HE OBTAINED NONE OF THE FIVE — AND THIS SENTENCE WAS WRONG ON ONE OF THE FIVE AND WAS CORRECTED BY THE REVIEW
+FIX PASS THAT FOLLOWS THIS BLOCK. He obtains what §4.1's row for day 761 publishes as `no`; the four other days in
+these five are `not obtained` on the page and stay that way. He is thanked by nobody, nobody tells him he was right,
+nobody in any of the five is waiting for him to be useful and he is not useful to them, he performs no working, no
+threshold is opened, the other world is not named once across these ten, nobody offers him a workway and he asks for
+none, and he is aged nowhere. He is in the batch's last chapter and is not in the batch's ending, and he is in none
 of the volume's seven heavy days, and this batch reached none of them.**
 
 ## THE STANDING THINGS THAT ARE NOT PEOPLE AND DID NOT CHANGE, AND THE TWO THAT DID
@@ -599,13 +601,14 @@ Nobody asked him anything on any of these ten days, which is §7.2's standing.**
 
 ---
 
-## VOLUME 16, BATCH 0002 — THE SECOND REPAIR PASS ON CHAPTERS 0761 TO 0770. NEWEST AND IT WINS.
+## VOLUME 16, BATCH 0002 — THE SECOND REPAIR PASS ON CHAPTERS 0761 TO 0770, THEN THE REVIEW FIX PASS ON IT. NEWEST
+## AND IT WINS. THE REVIEW FIX DID NOT MOVE ANY PERSON ON THESE TEN DAYS.
 
 **THE PEOPLE BELOW ARE AS THE FIRST REPAIR LEFT THEM EXCEPT FOR ONE MAN IN ONE CHAPTER, AND THE ONE MAN IS THE
 PROTAGONIST AND THE ONE CHAPTER IS 0761. Nothing about anybody else on these ten days moved, and no person was
 invented, no descriptor taken, no census given a descriptor, and no name or place arrived by narration.**
 
-### ADRIAN VALE — THE ONE ENTRY THAT MOVED
+### ADRIAN VALE — THE ONE ENTRY THAT MOVED, AND THE SENTENCE THAT WAS INVERTED AND IS NOW RIGHT
 
 **STAGE 2 ON ALL TEN OF THESE DAYS AND ON THE WHOLE OF THIS VOLUME'S FIFTY. He performs no working, no threshold is
 opened, the other world is not named once across these ten files, nobody offers him a workway and he asks for none,
@@ -615,18 +618,23 @@ of the five, nobody in any of the five is waiting for him to be useful, and he i
 
 **AND WHAT §4.1 PUBLISHES FOR THESE FIVE DAYS, AND WHAT THE PAGES NOW CARRY.** Three of the five wants were already
 false on their own pages and were re-aimed by the first repair and did not move again. **The fourth, day 761, was
-not: he turned that chair about, he sat in it, and he was still in it at the tenth hour under a sentence that said
-he had been arranging it for a fortnight and it had taken him the length of a chair.** He is now the man who wanted
-a back to a wall and a face to a door, got a chair with his back to the wall, and found out that the chair was
-standing in the width that room walks all day and that turning it into the right place for him had put it in the
-wrong place. **He gets it. He pays for it in that room's width for a morning, and the man of about thirty-nine
-cannot get to his own end of the bench because of him, and the man of about twenty-seven has to bring a bucket down
-a stair sideways because of him, and nobody in either of those two cases thanked him or said one word about it. He
-went out of that room once at the ninth hour, came and went along the near side of that floor because that is where
-that room walks, stood on the flags at the foot of that stair and looked at the part of that ground inside its own
-shadow, and sat down in that chair again in front of the whole room, and at the tenth hour he was still in it and had
-eaten nothing and was not going to be able to get out of it a second time without standing up in front of all of
-them again.**
+not, and after two passes it is still not: he turned that chair about, he sat in it, and he was still in it at the
+tenth hour, under a sentence about how long he had been trying to arrange it WHICH THE SECOND REPAIR DELETED FROM THE
+FILE AND WHICH MUST NOT BE QUOTED AS TEXT ON THE DISK.** He is the man who wanted a back to a wall and a face to a
+door, got a chair with his back to the wall, and found out that the chair was standing in the width that room walks
+all day and that turning it into the right place for him had put it in the wrong place.
+**HE GETS IT. §4.1'S ROW FOR DAY 761 PUBLISHES `no` AND THE PAGE OBTAINS THE WANT, AND THIS FILE WAS THE ONLY ONE OF
+SIX THAT SAID SO UNTIL THE REVIEW NAMED IT AS AN INVERTED CLAIM AGAINST FIVE FILES THAT SAID THE OPPOSITE. THE FIVE
+ARE CORRECTED TO THIS ONE. THE ROW WAS NOT EDITED AND THE CHAPTER WAS NOT BENT TO IT, AND THE QUESTION IS FLAGGED
+FOR A HUMAN AT `state/batch-summaries/volume-16-batch-0002.md` §13.4: EITHER THAT ROW BECOMES `yes` OR THAT CHAPTER
+LOSES ITS CHAIR, AND THE FIRST OF THOSE TWO IS A CHANGE TO THE PLANNED PLOT.**
+He pays for it in that room's width for a morning, and the man of about thirty-nine cannot get to his own end of the
+bench because of him, and the man of about twenty-seven has to bring a bucket down a stair sideways because of him,
+and nobody in either of those two cases thanked him or said one word about it. He went out of that room once at the
+ninth hour, came and went along the near side of that floor because that is where that room walks, stood on the
+flags at the foot of that stair and looked at the part of that ground inside its own shadow, and sat down in that
+chair again in front of the whole room, and at the tenth hour he was still in it and had eaten nothing and was not
+going to be able to get out of it a second time without standing up in front of all of them again.
 
 **DAY 765** — the want and the outcome are unchanged: a wet rag on a stone lip, to leave that lip wet for somebody
 who comes at a later hour, **not obtained**, and the reason on the page is now two reasons and not one. The wind
