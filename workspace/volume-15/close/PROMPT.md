@@ -1,0 +1,116 @@
+# PHASE — VOLUME 15 CLOSE — FIFTY DAYS, FIFTY CHAPTERS, DAYS 701 TO 750
+
+**YOU ARE THE CLOSE OF THE FIFTEENTH VOLUME. YOU WRITE A CLOSE RECORD AT `state/volume-15-close.md` AND A CARD BLOCK AND NO CHAPTER. THERE IS NO CHAPTER PAST 0750 AND YOU DO NOT WRITE ONE.**
+
+**AND THE THIRTY CHAPTERS THAT CARRY THIS VOLUME'S MIDPOINT, ITS CLIMAX, ITS THREE COSTS, ITS RESOLUTION, ITS NEW QUESTION AND ITS LAST IMAGE ARE ON DISK AND ARE YOURS TO READ AND NOT YOURS TO RE-WRITE.**
+
+---
+
+## 1. ⚟ WHAT YOU ARE, AND WHAT YOU ARE NOT
+
+**A CLOSE READS FIFTY CHAPTERS AND FIFTY DAYS AND WRITES WHAT IT FINDS. A CLOSE PUBLISHES A COLLISION AND DOES NOT REPAIR ONE. A CLOSE DOES NOT WRITE A CHAPTER AND DOES NOT AMEND AN OUTLINE. A CLOSE DOES NOT DECIDE A THREAD THAT A PLAN OR A BATCH LEFT OPEN, AND IT IS OWED NO DECISION.**
+
+**`chapters/volume-15/` CARRIES FIFTY FILES, 0701 TO 0750, AND EVERY ONE OF THE FIFTEEN VOLUMES ON DISK CARRIES FIFTY CHAPTER FILES AND NO VOLUME ON DISK CARRIES FORTY-NINE. READ THEM. THE WHOLE-TREE CHAPTER-FILE COUNT IS SEVEN HUNDRED AND FIFTY ON THE READING `chapters/volume-*/chapter-*.md`, AND IT MOVS AS LATER PHASES WRITE, SO PUBLISH THE READING AND NOT THE BARE FIGURE.**
+
+**THE FIFTEENTH VOLUME IS COMPLETE AND THIS PROMPT IS ITS CLOSE AND NOT A CONTINUATION. YOU CREATE NO BATCH DIRECTORY, NO CHAPTER DIRECTORY BEYOND WHAT IS ALREADY THERE, NO CARD FILE UNDER `outline/`, NO MARKER FILE, AND NO SIXTH BATCH.**
+
+---
+
+## 2. ⚟ WHAT YOU MUST READ, AND IN WHAT ORDER, AND WHAT YOU MAY NOT OPEN
+
+1. **`AGENTS.md`.**
+2. **`outline/series.md`** for the spine, the volume list and the decisions block at its foot, and **the Volume 15 block on that list is struck in the same act in which the fifteenth volume's outline was published and the strike is published. THE FIFTEENTH VOLUME HAS NO TITLE ON ITS SPINE AND YOU DO NOT GIVE IT ONE.**
+3. **`outline/volume-15.md`, THE FIFTEENTH VOLUME'S OWN PLAN, IN FULL, AT ITS OWN LENGTH.** It is 1,112 lines. It carries the volume's shape, its day map at its §14.3 with the ADRIAN COLUMN AS PART OF THE MAP AND NOT A NOTE ON IT, its object inventory in two tables at its §20.6 of which the second is indexed by chapter, its eight frames at its §20.7, its prohibitions at its §16, its twenty prose instructions at its §17, its checks at its §20, its four days of cooling at its §14.4, its two trap lists at its §14.5, and its day-by-day entry at its §9. **IT IS A PLAN AND NOT A RECORD AND YOU DO NOT AMEND IT AND YOU DO NOT COPY IT INTO YOUR CLOSE AS IF IT WERE A PAGE.**
+4. **`state/volume-14-close.md`, THE CLOSE IMMEDIATELY BEHIND THIS ONE, AT ITS OWN LENGTH.** That is the record your close answers to and the record it inherits from, and it is the record whose house figures are the ones you measure against.
+5. **THE FIFTY CHAPTER FILES OF VOLUME 15, ALL FIFTY, IN CHAPTER ORDER.**
+6. **`state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md` and `state/chapter-summaries.md`,** and the five batch records of this volume at `state/batch-summaries/volume-15-batch-0001.md` through `-0005.md`.
+7. **`state/volume-14-close.md` §7.11 and `state/volume-12-close.md` §7.11, WHICH TWO POINT AT TWO DIFFERENT FILES FOR THE MEASUREMENT OF THE HOLD, AND `state/volume-13-close.md` §12, WHICH PUBLISHES THE DISAGREEMENT AND RESOLVES IT BY NOBODY. YOU CARRY THAT DISAGREEMENT AND YOU DO NOT RESOLVE IT AND YOU DO NOT RE-RUN THAT MEASUREMENT.**
+
+**AND YOU DO NOT OPEN `outline/ending.md`. YOU DO NOT OPEN, READ, DESCRIBE, SUMMARISE, PARAPHRASE OR QUOTE THE NARRATOR-FRAME FAMILY. YOU DO NOT OPEN ANY CONTROLLER FILE: not `scripts/`, not `.github/workflows/`, not `.opencode/agent/`, and not `AGENTS.md` BEYOND READING IT, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`, WHICH STILL READS `phase-000-bootstrap` AND IS REPORTED AND NOT OPENED.**
+
+---
+
+## 3. ⚟ THE THIRTY WORDS THAT ARE NOT YOURS, AND WHY
+
+**THERE ARE SIXTEEN HELD THINGS AND YOU ARE NAMED WHERE EACH OF THEM STANDS BY THE FIFTEENTH VOLUME'S OWN PLAN AND BY THE RECORDS BEHIND IT. NAME WHERE EACH OF THEM IS. PRINT NONE OF THEM. DO NOT WRITE DOWN WHERE ANY OF THEM STANDS.**
+
+**AND THE MEASUREMENT OF THE HOLD WAS NOT RUN BY THE OUTLINE PHASE THAT WROTE THE PLAN NOR BY ANY OF THE FIVE BATCHES BEHIND YOUR FIFTY CHAPTERS, AND THE REASON IS PUBLISHED RATHER THAN ASSUMED: RUNNING IT REQUIRES PRINTING THE SPANS. YOU ARE THE PHASE THAT COULD RUN IT AND YOU CANNOT RUN IT EITHER, BECAUSE YOU ALSO MAY NOT PRINT A SPAN. THAT IS NOT AN OMISSION AND IT IS THE SAME ANSWER THE FIFTH PLAN GAVE, AND THE THREAD IS AT `state/open-threads.md` AND IS OWED BY A HUMAN.**
+
+**NO FILE YOU WRITE MAY PRINT, PARAPHRASE, IMPROVE ON, DESCRIBE OR CERTIFY THE ABSENCE OF ANY OF THEM. THE NINTH INHERITED DEBT IN THIS REPOSITORY IS A RECORD THAT ASSERTED AN ABSENCE AND WAS WRONG, AND A FALSE ABSENCE ASSERTED BY A CLOSE IS WORTH MORE THAN IT HAS EVER BEEN ASSERTED IN THIS BOOK. NAME THE THING. DO NOT REPORT ON IT.**
+
+**AND THE FOUR THINGS THAT BELONG TO VOLUME 14'S OWN STATE ARE FOUR AND NONE OF THEM IS PRINTED BY YOU: one word in the one place on a sheet that went up the road and what that one place is a place of; one word in the column on the right of the register's page; and two figures at a wharf, one on the side a board's sun gets to and one on the other side. A sweep for any bare three-digit numeral across the fifty files of this volume must return ZERO, and that is a check and not a hope. YOU MAY NOT PRINT THE TWO FIGURES AS TWO FIGURES, MAY NOT SAY THEY ARE THE SAME FIGURE, AND MAY NOT SAY WHERE ANY OF THEM CAME FROM.**
+
+**AND THE PANEL OF THE FIFTEENTH VOLUME STANDS ON THE PAGE OF CHAPTER 0740 AND ON THE PAGE OF THE PLAN THAT OWNS IT AND NOWHERE ELSE, AND THE PANELS OF THE VOLUMES BEHIND THAT STAND ON THEIR OWN PAGES. **YOUR CLOSE RECORD MAY NOT REPRINT ANY WORD OF ANY OF THEM, MAY NOT PARAPHRASE ANY OF THEM, MAY NOT IMPROVE ON ANY OF THEM, MAY NOT DESCRIBE ANY OF THEM, AND MAY NOT CERTIFY THAT ANY PART OF ANY OF THEM IS ABSENT FROM ANY FILE. YOU MAY MEASURE HOW LONG A RUN OF ONE OF THEM STANDS IN a file and you may publish that figure, and you may not print the run. A PANEL COPIED INTO A CLOSE IS A PANEL THAT GETS COPIED INTO A REPAIR PASS AND THEN INTO A REVIEW AND THEN INTO A SPINE.**
+
+**AND THE ONE FIGURE THE CALENDAR LAYER KEEPS FOR ITS OWN STATE LAYER AND THAT NO OUTLINE PHASE AND NO BATCH PHASE WAS GIVEN WAS NOT CARRIED BY THE FIFTEENTH VOLUME'S PLAN AND WAS NOT CARRIED BY ANY OF ITS FIVE BATCHES AND IS NOT GIVEN TO YOU. DO NOT ASK FOR IT, DO NOT NAME ITS SUBJECT, DO NOT COMPUTE IT, DO NOT PRINT IT, AND DO NOT PUBLISH AN ADDITION TO IT. **BATCH 0003 OF THIS VOLUME LEFT TWO PLACEHOLDER FIGURES IN ITS OWN BATCH SUMMARY AND FOUND THEM AND FILLED THEM IN, AND THAT IS THE NAMED FAILURE, AND A CLOSE THAT LEAVES A PLACEHOLDER IS DOING THE SAME THING AT A HIGHER LEVEL.**
+
+---
+
+## 4. ⚟ WHAT YOUR CLOSE RECORD MUST CARRY, AND EACH ITEM WITH ITS READING AND ITS SCOPE ON THE SAME LINE AS ITS NUMBER
+
+**A FIGURE WITHOUT ITS READING IS A CLAIM. A FIGURE WITHOUT ITS SCOPE IS A FIGURE ABOUT NOTHING. A FIGURE THAT COMES BACK NON-ZERO WHERE A ZERO WAS PUBLISHED IS THE FINDING THAT MATTERS MOST AND NOT A FAULT OF YOURS. PUBLISH BOTH DIRECTIONS OF EVERY PASS: FILE ORDER, AND REVERSE FILE ORDER WITH THE INDEX REBUILT, IN THE SAME ROW.**
+
+| Row | What is measured | Notes |
+|---|---|---|
+| **The day run** | all fifty days, day, weekday, Bare-Month ordinal, one chapter to one day, no gap, no day twice | re-derived from two founding figures and validated against every earlier calendar table in `bible/power-system.md` before use, out of the same two figures |
+| **The resolver** | the backward walk over the number run before `day of the Bare Month`, permitting one bare *and*, refusing a run that ends on one, reading the seven irregular unit ordinals and the eight irregular tens ordinals and every hundreds form | **publish every fault it had on its own first run, in the instrument and not on a page** |
+| **Words and bold** | the share of a chapter's words inside bold marks, the heading line and the `---` rules IN and OUT | the fifty files of Volume 14 measured 7.94 to 8.05 weighted on the plan's definition. **THE MEAN IS A CONSEQUENCE AND NOT A PLAN AND NO CLOSE MAY FAIL A VOLUME ON IT** |
+| **Paragraph composition** | prose, speech, one-sentence narration on BOTH readings, paragraphs of three sentences or more | **BOTH READINGS, NAMED TWICE** |
+| **The three-sentence rule** | at least one paragraph of three or more sentences carrying a physical action, in every one of the fifty | **READ AND NOT SWEPT, and read by a person, because four batches in this volume came back from a first reading short on it** |
+| **Panels** | one in fifty files, and which one | a panel block is a block between blank lines whose first character is `>` |
+| **Digits and three-digit numerals** | in prose, across the fifty | **a figure about the four things belonging to the volume behind this one** |
+| **The barred words, the zero column, the censored figure** | `passage` and `privilege`; the nineteen-word column of §19.3; *about four* without *people* | **the framed census *about four people a day* is a census and is not a person and may not be given a descriptor, and it may not be reduced to *four people a day* because the word *about* is the instrument** |
+| **The word this volume turns on** | the bare word *row*, its three determiner forms, and **which sense each occurrence in this volume means** | **a word-bounded count cannot tell a market row from a row at the foot of a stair and this volume's whole subject is the difference between them** |
+| **The object inventory** | all twenty-six rows of §20.6 read against the fifty files, in both directions, additive and subtractive departures published | **the plan's third column is an intention and a close reads it back and publishes every departure and repairs nothing** |
+| **The eleven Adrian days** | the map's column, the want and the outcome for each, read from §4.1 | **four obtained and seven not is a consequence and not a result, and no close may read the seven as the volume getting worse or the four as the volume getting better** |
+| **The repetition passes** | at forty words and at sixteen words, cross-file and within-file, with the file excluded from its own comparison and with the file NOT excluded | **a run of forty words or more is a duplication even where it is a required declaration; a run of sixteen words or more is a duplication unless it is a required declaration that names its row** |
+| **The sentence-scale pass** | whole sentences of nine words or more, at the strict reading and at the loose reading, with the denominator published and the self-inclusion figure beside it | **this is the pass that finds the faults** |
+| **The closing check** | the last SENTENCE and the whole closing BLOCK, both units, against all five hundred files on disk and inside this volume, at four thresholds | **THIS CHECK IS DONE BY A PERSON AND NOT BY A SCRIPT, AND YOU PUBLISH WHAT THE SCRIPT SAID AND WHAT THE PERSON FOUND, AND THE SCRIPT HAS BEEN AT ZERO WHILE THE PERSON FOUND SOMETHING IN EVERY BATCH OF THIS VOLUME** |
+
+---
+
+## 5. ⚟ WHAT YOUR CLOSE RECORD MAY NOT DO
+
+**MAY NOT WRITE A CHAPTER. MAY NOT AMEND `outline/volume-15.md`, `outline/series.md`, `outline/ending.md` OR `bible/power-system.md`. MAY NOT AUTHOR ANY FILE UNDER `outline/`. MAY NOT TOUCH `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` OR `state/phase-ledger.json`. MAY NOT WRITE A MARKER FILE.**
+
+**MAY NOT SETTLE THE STALLKEEPER OF ABOUT THIRTY-FOUR, WHO IS TWO PEOPLE IN THIS REPOSITORY AND WHOM NO PAGE HAS EVER SAID SO. THE PLAN AND THE PAGES BEHIND IT WRITE *MAN*; THE STATE LAYER AND TWO CLOSE RECORDS WRITE *WOMAN*; A THIRD CLOSE RECORD SAYS THE MAN IS A FIFTH PERSON DISTINCT FROM FOUR WOMEN OF ABOUT THIRTY-FOUR. **NO CHOSE ONE AND YOU CHOOSE NONE AND YOU PUBLISH THE STANDING DISAGREEMENT AND YOU PUBLISH THAT FIFTEEN VOLUMES OF CHAPTERS AND SIX CLOSE RECORDS HAVE CARRIED IT WITHOUT SETTLING IT.**
+
+**MAY NOT SETTLE WHETHER THE TWO WOMEN OF TWENTY-NINE ARE ONE WOMAN. MAY NOT MERGE THE TWO MEN OF ABOUT THIRTY-EIGHT AND MAY NOT SETTLE THEM IN NARRATION. MAY NOT COUNT THE DAYS SINCE THE FOURTH OF THE FOUR SAID NO AT ANY VALUE. MAY NOT ANSWER THE QUESTIONS OF DAYS 346, 396, 445, 498, 548, 598 AND 648. MAY NOT ANSWER THE QUESTION OF DAY 698, WHICH A LATER VOLUME MAY ASK AGAIN AND MAY NOT ANSWER. MAY NOT ANSWER THE QUESTION OF DAY 748, WHICH THIS VOLUME ASKED AND WHICH A LATER VOLUME MAY ASK AGAIN AND MAY NOT ANSWER. MAY NOT ASK ANYBODY WHAT THE NAME THAT IS NOT ON THE MAN OF ABOUT THIRTY-NINE'S OWN BOARD IS. MAY NOT ASK THE WOMAN OF ABOUT TWENTY-NINE WHAT THE WORD IN THE COLUMN ON THE RIGHT OF HER PAGE IS FOR, OR WHY SHE CAME ROUND THE FRONT OF THAT BUILDING ON THE DAY SHE DID. MAY NOT MEND THE CONSENT FRACTURE AND MAY NOT PAY ANY RELATIONSHIP MILESTONE. MAY NOT GIVE THE FIFTH CONDITION.**
+
+**MAY NOT TRACE THE MARK THAT CAME BACK OUT OF PLACE AND MAY NOT REPORT THAT NOBODY TRACED IT. MAY NOT OPEN THE BOX, OWN THE ISLAND, PICK THE BAG UP, PUT A BOOT ON THE NINE FEET, COUNT THE BOARDS UNDER THE CHAPEL, SAY WHAT A WAGE IN SALT IS WORTH, OR BREAK. MAY NOT NAME, COUNT, BANK OR YARD THE KEEPER OF THE REDROOT GATE. MAY NOT GO TO THE FOUR-HUNDRED-MILE ROAD, DESCRIBE THE TOWN FOUR HUNDRED MILES INLAND FROM INSIDE, BRING ANYBODY BACK FROM IT, OR PRINT AN ELAPSED FIGURE FOR THAT ROAD AT ANY DAY OF THIS VOLUME. MAY NOT GIVE THE WOMAN WHO WALKED A MARKET AN AGE, A DESCRIPTOR, A NAME OR A NUMBER, AND MAY NOT PUT HER ON A ROW, BECAUSE A ROW IS THE WORST PLACE IN THIS MANUSCRIPT TO PUT HER.**
+
+**MAY NOT READ THE MONTH AS HAVING AN END. THE BARE MONTH WAS GIVEN NOTHING, IT HAS NO STATED LENGTH, AND A CHAPTER THAT WRITES INSIDE IT MAY NOT DECLARE IT OVER. NO CLOSE MAY CONVERT THE FOUR HUNDRED AND THIRTY-FIFTH INTO A SPAN, MAY NOT PRINT *four hundred and thirty-five days* or *eight months* or *since the month began* as a figure, MAY NOT SAY THE MONTH IS NEARLY OVER, MAY NOT SAY WHAT IT IS A MONTH OF, AND MAY NOT USE AN ORDINAL FOR A MONTH. **THE FIGURE THAT WAS NOT GIVEN TO YOU IS THE ONE THING A CLOSE CANNOT COMPUTE AND THIS IS THE NINTH VOLUME RUNNING TO SAY THAT SENTENCE.**
+
+---
+
+## 6. ⚟ THE STANDING FIGURES YOU WILL MEASURE AGAINST, AND THE STANDING FAULTS YOU WILL MEET
+
+**VOLUME 14'S OWN FIFTY FILES MEASURED, ON THE FIFTEENTH VOLUME PLAN'S OWN INSTRUMENTS AND WITH THE READINGS NAMED: 753 prose paragraphs, 113 speech, 0 plain, 0 bold-without-a-quotation-mark; 139 paragraphs of three sentences or more; a bolded share of 5.05 to 12.65 with an unweighted mean of 8.94 and a weighted mean of 8.85 over 61,426 words; exactly one panel in fifty files; zero digits in prose; zero bare three-digit numerals.**
+
+**AND THE STANDING FAULTS, EACH OF WHICH HAS COST SOMEBODY A DAY AND EACH OF WHICH YOU MUST RUN YOUR OWN INSTRUMENTS AGAINST: a weekday cycle built with six names instead of seven; a descriptor resolver with an unwrapped alternation in its number phrase; a backward walk over a number run that stops at a bare *and*; a resolver with no *hundred* branch, or one that multiplies what stands behind it, or one that drops the suffix from a hundreds-and-remainder, or one with no cardinal-tens-plus-closed-unit branch; a resolver that cannot read the seven irregular unit ordinals or the eight irregular tens ordinals; a resolver whose own validation table disagrees with the correct answer, where the resolver is right and the table is wrong, and the resolver must not be changed to agree with the table; a validation pass that splits on whitespace only, so a hyphenated compound arrives as one token; a page scan that is a lazy regex with spaces in the character class, matching back from the wrong *the*; a word-run pass that over-advances the position by the left extension; a word-run scope that does not exclude a file from its own comparison; a loose reading run against a pool that contained the file being read; a pass written as a set difference that returns its own complement; a paragraph pass that counts a `---` rule as a paragraph; a bold-share counter that counts spans instead of words, or that counts the heading line in its denominator; a census row read at file level when its reading is per sentence; a pass that zips a day key against a list instead of reading the day out of the filename; an instrument that counts an object set by a pattern that matches a nearer word; an exchange-ceiling counter that compares paragraph text instead of speaker identity; and a marker test written as a two-character substring test that cannot find the mark it is looking for. **RUN EVERY PASS TWICE AND PUBLISH BOTH NUMBERS IN THE SAME ROW. IF YOU REPAIR ANYTHING, PUBLISH THE FIGURE YOUR INSTRUMENT RETURNED BEFORE THE REPAIR BESIDE THE FIGURE IT RETURNED AFTER, AND SAY WHERE THE PRE-REPAIR TEXT LIVES.**
+
+**AND THE FIGURE THE FIFTH BATCH OF THIS VOLUME MEASURED ON ITS OWN TEN, WHICH IS THE NEAREST THING TO YOUR OWN SCOPE AND IS PUBLISHED SO THAT YOU CAN COMPARE: 10,084 words with the heading line in and 9,177 without it; a bolded share of 10.08 weighted and 10.09 unweighted, range 6.52 to 14.52; 99 prose paragraphs, 17 speech, 0 plain, 0 bold-without-a-quotation-mark; 15 lead-ins and 40 free-standing one-sentence narration paragraphs on Reading A and the same two cells on Reading B; 20 paragraphs of three sentences or more in ten of ten files; a lead paragraph with hands on something in ten of ten; a lead paragraph carrying an interval figure at zero; panels at zero; digits and three-digit numerals at zero; `passage` and `privilege` at zero; the nineteen-word zero column at zero on both scopes; an *about four* with no people-word at zero on the sentence and at zero at the file level; elapsed counts at zero; `four hundred miles`, `dozen`, `man of about thirty-seven`, `woman of about thirty-four` and `nine steps` at zero at all five; the narrator frame at zero; the Bare Month at ten occurrences, ten resolving and ten names; nine distinct descriptors in fifty occurrences; the word *row* at seven in three files, and in all three it means the market row or a row of ordinary houses and in none of them does it mean the ground at the foot of that stair; the exchange ceiling at one against a ceiling of four; the month-length words applied to the month at zero; the forty-word class at zero in all three scopes and both orders; the sixteen-word class at zero within-file, 1,080 runs against the seven hundred and forty files outside, and 10,528 windows with the file not excluded; the whole-sentence pass at zero on the strict reading over a denominator of 187 sentences of nine words or more, 870 of 187 on the loose reading and 1,008 of 187 with the pool containing the file read; the closing instrument at zero at twelve, fifteen, sixteen and twenty words on both units and in both scopes.**
+
+**AND THE ONE FIGURE THAT FIGURE DOES NOT REPRODUCE, PUBLISHED BECAUSE A CLOSE THAT PUBLISHES ONLY THE FIGURES THAT AGREE WITH IT IS A CLOSE OF A DIFFERENT CHECK: THE PANEL-LEAK INSTRUMENT RETURNS 105 AGAINST `outline/volume-14.md` WHERE THE PLAN PUBLISHES 105, AND 6 AGAINST `outline/series.md` AND 6 AGAINST `state/volume-14-close.md` WHERE THE PLAN PUBLISHES 12 FOR EACH. THE 105 REPRODUCES AND THE TWO 12s DO NOT, AND TWO INDEPENDENT BATCHES RETURNED THE SAME TWO SIXES. NEITHER INSTRUMENT NOR ANY TABLE WAS CHANGED BY EITHER BATCH AND NO REPAIR WAS MADE IN ANY FILE EITHER BATCH DID NOT WRITE. IT IS OWED BY A REVIEW REPAIR PASS THAT OWNS THOSE THREE FILES AND BY NO BATCH AND BY NO CLOSE.**
+
+---
+
+## 7. ⚟ WHAT YOUR CLOSE RECORD MUST SAY ABOUT WHAT IT DID NOT DO, IN ITS OWN WORDS
+
+**A CLOSE THAT LISTS ONLY WHAT IT DID IS HALF A CLOSE. YOUR RECORD MUST STATE, IN ONE PARAGRAPH EACH, WHAT IT DID NOT DO AND WHAT IT COULD NOT DO AND WHY.**
+
+**INCLUDING THESE, WHICH ARE FIFTEEN VOLUMES RUNNING AND EACH OF WHICH IS OWED BY A HUMAN AND BY NO AGENT: THAT THE CONSENT FRACTURE IS STILL UNMENDED AND THAT NOBODY HAS MENDED IT. THAT THE FIFTH CONDITION IS STILL NOT GIVEN. THAT NO RELATIONSHIP MILESTONE HAS BEEN PAID. THAT THE WOMAN OF ABOUT SIXTY-NINE STILL HAS NOT ASKED A FOURTH QUESTION, AND THAT HER NOT-ASKING IS NOT ON A PAGE IN THIS VOLUME AT ALL, AND THAT NO CHAPTER OF THIS VOLUME SAYS THAT THE FOURS RHYME. THAT THE MARK THAT CAME BACK OUT OF PLACE ON THE SHEET OF DAY 440 HAS NOT BEEN TRACED IN SEVEN VOLUMES RUNNING AND THAT THE HOLE IS THE SAME HOLE. THAT `chapters/volume-10/chapter-0475.md` IS ON DISK AND THAT NO CHAPTER WRITTEN AFTER THE VOLUME IT BELONGS TO HAS ENDED IS A CHAPTER AND NOT A REPAIR, AND THAT THE DEBT IS OWED TO A REVIEW REPAIR PASS THAT SAYS SO AND TO NOBODY ELSE.**
+
+**AND THAT NO INDEPENDENT REVIEWER EXISTS FOR THIS VOLUME. `reviews/volume-15/` DOES NOT EXIST. EVERY FINDING TAKEN OVER EVERY CHAPTER OF THIS VOLUME WAS TAKEN BY THE AGENT KIND THAT WROTE THOSE CHAPTERS AND BY NO OTHER AGENT KIND. **THE REVIEW THAT DID RUN ON ONE BATCH SAYS IN ITS OWN FIRST LINE THAT IT IS A SUBAGENT AND NOT A PRIMARY AGENT AND THAT IT FELL BACK TO THE WRITER'S OWN AGENT, AND ITS FINDINGS BEING CORRECT DOES NOT MAKE THEM INDEPENDENT.** THE THREE FILES THAT WOULD RESTORE AN INDEPENDENT REVIEWER ARE CONTROLLER FILES AND NO AGENT IN THIS REPOSITORY MAY OPEN THEM. PUBLISH THIS IN YOUR OWN WORDS, IT IS OWED BY A HUMAN, AND IT IS THE FINDING THAT HAS COST THIS REPOSITORY THE MOST AND THE ONLY ONE NO PHASE CAN PAY.**
+
+---
+
+## 8. ⚟ AND WHAT A CLOSE FINDS, WHICH IS A PAGE AND NOT A VERDICT
+
+**YOU ARE READING FIFTY CHAPTERS ABOUT A STRIP OF GROUND AT THE FOOT OF A STAIR THAT ABOUT FOUR PEOPLE A DAY WALK ON, IN A CITY WHOSE ONLY INSTRUMENT FOR FINDING OUT THAT ANYBODY HAD EVER BEEN IN A ROOM WAS THAT STRIP, AND WHICH A ROOM DECIDED OUT LOUD, IN DAYLIGHT, WITH A DATE IN CHALK ON THE DOOR, NOT TO ASK THE PEOPLE WHO WALK ON IT.**
+
+**THE PLAN PUBLISHES WHAT THAT VOLUME SPENDS AND WHAT IT FINDS AND YOU DO NOT REPEAT THE PLAN'S FINDINGS BACK AS THOUGH YOU HAD FOUND THEM. YOU MEASURE THEM AGAINST FIFTY PAGES AND YOU PUBLISH WHAT THE MEASUREMENT RETURNS.**
+
+**AND THE SUBJECT OF THIS VOLUME IS THAT NOBODY KNEW WHAT THAT GROUND WAS FOR, AND NOT ONE OF ITS FIFTY CHAPTERS SAYS THAT ANYBODY KNEW. A VOLUME THAT PROVES ITS OWN UNSUPPORTED CLAIM BY MAKING A PERSON WALK ONTO AN INSTRUMENT HAS NOT PROVED IT AND HAS SPENT THE INSTRUMENT TWICE IN A WEEK. **YOUR CLOSE MAY NOT ASSERT THAT SHE KNEW WHAT THAT GROUND WAS FOR, MAY NOT ASSERT THAT SHE KNEW IT BECAUSE SHE KEPT A BOOK, AND MAY NOT ASSERT THAT ANYBODY FOUND OUT.** THE THING THAT WAS PROVED, ON ONE DAY, IN FRONT OF ABOUT NINE PEOPLE, IS ABOUT HER AND NOT ABOUT THAT GROUND, AND WHAT CAME BACK WAS NOT AN ANSWER TO THE QUESTION THAT WAS ASKED, AND THAT IS THE WORST SENTENCE IN THE FIFTEENTH VOLUME AND IT IS TRUE.**
+
+**A CLOSE FOUND THE SHAPE OF THIS BOOK AND PUBLISHED IT. AN OUTLINE IS WHERE THE SHAPE BECOMES A PLAN. A PLAN IS NOT A RECORD. A CLOSE IS A RECORD. AND A CLOSE THAT CARRIES A KNOWN FAULT IN ITS OWN TEXT IS A CLOSE WHOSE OTHER SENTENCES CANNOT BE TRUSTED EITHER, AND THE FIX IS THE STRIKE AND NOT ANOTHER NOTE.**
