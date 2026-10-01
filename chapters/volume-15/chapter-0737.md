@@ -12,7 +12,7 @@ Three barrows went onto a road that is shut out past the last named house and no
 
 The man of about thirty-eight at that wharf came into that yard at about the seventh hour with his own barrow empty and his own knife in his belt and went to the top of that stack to take off the board that was lying face up on the top of it, and he put the flat of his own right hand flat on the near edge of that stack to get his own fingers under that board, and his own hand would not go flat under the near edge of it, because the near edge of that board was standing up off the boards under it by the length of the board Adrian Vale had set down on that stack at the fourth hour.
 
-He got his own hand out from under it and went round to the far side of that stack and put his own hand in at the far side and worked that board loose and took it off and set it down on the flags at the side of that yard with the face of it up, and he did not turn it over when he set it down.
+He got his own hand out from under it and went round to the far side of that stack. He put his own hand in at the far side and worked that board loose and took it off. He set it down on the flags at the side of that yard with the face of it up, and he did not turn it over when he set it down.
 
 "**Somebody has put a board on the top of this stack this morning and I could not get my hand under the near edge of that one to take it off, so I have taken it off the far side, and I am not going to stand here and work out whose hands laid it there, and I have got a barrow to get back to and the far end of that stack is lower than the near end of it is this morning.**"
 
@@ -20,4 +20,4 @@ Nobody in that yard answered him. Nobody thanked him and nobody told him that a 
 
 ---
 
-That man of about thirty-eight came back into that yard at about the ninth hour with his own barrow and went in at the near end of that stack, and Adrian Vale went in and worked at the far end of it, and those two men worked those two ends of that stack for about an hour with the middle of it between them without one word between them about who had laid any of the boards on it or where any of them had come from, and the board lying face up on the top of that stack with the two lines of grey grit run across it was not moved by either of them at any hour of that day.
+That man of about thirty-eight came back into that yard at about the ninth hour with his own barrow and went in at the near end of that stack, and Adrian Vale went in and worked at the far end of it, and those two men worked those two ends of that stack for about an hour with the middle of it between them without one word between them about who had laid any of the boards on it or where any of them had come from, and at the tenth hour they were still at their own two ends of it with boards between them and not one word had been said at any hour of that day.

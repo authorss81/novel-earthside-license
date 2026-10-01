@@ -26,4 +26,4 @@ Nobody improved on one word of that either, and the man of about thirty-nine at 
 
 ---
 
-At about the tenth hour Adrian Vale took that cloth off that table, folded it once and put it into his own coat, and the wood of that table was bare and dry with nothing on it at the fourth hour and nothing on it at the tenth hour, and the man who had come up that stair for a thing he had left on a chair was still sitting at the far end of that bench.
+At about the tenth hour Adrian Vale took that cloth off that table, folded it once and put it into his own coat, and the wood of that table was bare and dry at the fourth hour and bare and dry at the tenth hour with nothing on it at either, and the man who had come up that stair for a thing he had left on a chair was still sitting at the far end of that bench and still had not been told one word.

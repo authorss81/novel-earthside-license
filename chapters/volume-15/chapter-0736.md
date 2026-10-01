@@ -24,4 +24,4 @@ Nobody thanked her for that either and nobody improved on one word of it, and th
 
 ---
 
-At about the ninth hour that woman of about fifty-two went across that floor to the far wall and took her own stool off it with both of her own hands and carried it the length of that floor and set it down at the side of that bench where anybody could sit on it, and the man of about thirty-four who keeps a stall looked at it and did not sit down on it and neither did anybody else at any hour of that day, and it was still standing there at the tenth hour where she had put it.
+At about the ninth hour that woman of about fifty-two went across that floor to the far wall and took her own stool off it with both of her own hands. She set it down at the side of that bench where anybody could sit on it, and the man of about thirty-four who keeps a stall looked at it and did not sit down on it and neither did anybody else at any hour of that day, and it was still standing there at the tenth hour where she had put it.

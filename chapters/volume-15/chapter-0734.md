@@ -28,4 +28,4 @@ At about the seventh hour the woman of about fifty-two put her own two hands on 
 
 At about the ninth hour that woman of about twenty-nine turned that leaf over with the flat of her own right thumb and looked at the page on the other side of it, which is bare the whole of the way down the middle of it, and she put the flat of her own two hands back down on the wood on either side of it and did not write one word on either page.
 
-At about the ninth hour the man of about thirty-nine who trades on a board came up that stair with a board under his own arm and stood at the far end of that bench with nothing at all in his own two hands for about the length of a minute and went back down that stair again, and he did not ask anybody anything and nobody asked him anything.
+At about the ninth hour a man with a board under his own arm came up that stair and stood at the far end of that bench with nothing at all in his own two hands for about the length of a minute and went back down that stair again, and he did not ask anybody anything and nobody asked him anything.

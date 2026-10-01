@@ -28,4 +28,4 @@ He looked at the flat of his own hand for a while at the front of his own stall 
 
 ---
 
-He went on down that row of trestles and boards with the flat of his own hand open in front of him and the mark still on it, and that box of chalk was standing on that step behind him with its lid standing open above the heap in it, and he has not washed that hand off and nobody in that row knows where it came from.
+He went on down that row of trestles and boards with the flat of his own hand open in front of him and the mark still on it, and nobody in that row said one word to him and nobody asked him where it came from, and he has not washed that hand off at any hour of that day.
