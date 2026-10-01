@@ -403,3 +403,108 @@ a marker file, and no phase may open the ledger. **NEITHER WAS DONE AND BOTH ARE
 **`workspace/volume-16/batch-0002/PROMPT.md`, WHICH WRITES CHAPTERS 0761 TO 0770, DAYS 761 TO 770, AND CARRIES
 DAY 764 AS THE VOLUME'S FIRST COST WITH THE PERSON IT IS PAID TO NAMED IN HER OWN WORDS AND NOBODY THANKING HER
 AND NOTHING IN THAT ROOM DONE ABOUT IT.**
+
+---
+
+# WHAT THE SECOND TEN DAYS OF VOLUME 16 DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
+
+**THIS BLOCK CLOSES NO THREAD, ANSWERS NO QUESTION AND OPENS NOTHING THAT A LATER BATCH MAY SETTLE. It records
+one cost as PAID ON A PAGE, it adds three things that the standing objects now stand behind, and it carries the
+old threads whole.**
+
+## THE THREAD THIS BATCH ADVANCED, AND THE PART OF IT THAT IS NOW SPENT
+
+**THE VOLUME'S ONE FINDING IS A COUNT THAT IS SAFE BECAUSE IT NAMES NOBODY, AND WHAT A ROOM LOSES BY GIVING IT
+UP IS THE ABILITY TO DATE AN ABSENCE.** Day 764 paid the first of the volume's three costs and it is on a page
+in the mouth of the person it is paid to, and it is spent and it does not come back. **THE THREE FACTS THAT
+MAKE IT A COST RATHER THAN A COMPLAINT ARE ALL ON THAT PAGE AND ALL THREE ARE ABOUT HER AND NONE IS ABOUT THE
+FIGURE: she is the one person in that room who knows who is not in it; she has never once said that out loud in
+there; and nobody in that room has ever asked her how she knows. Nobody thanked her and nothing in that room was
+done about it at any hour of that day.**
+
+**AND THE SECOND COST OF THIS VOLUME IS FIXED TO DAY 778 AND THE THIRD TO DAY 787, AND NEITHER IS ON A PAGE AND
+NEITHER WAS REHEARSED. A batch that wanted to know whether the cost on day 764 could be felt coming should read
+days 761 to 763 and find that it cannot: they are a chair, a figure with no hour on it, and a satchel on a
+shelf, and no mouth in any of the three prepares anything, and the woman of about fifty-two is in the room in
+two of them and says nothing inward in either.**
+
+**AND THE ONE NEW PIECE OF KNOWLEDGE THESE TEN DAYS PUT ON THE RECORD, WHICH IS NOT ABOUT THE FIGURE'S VALUE
+AND NOT ABOUT ITS ORIGIN: ON DAY 762 THE ROOM'S OWN FIGURE HAS NO HOUR ON IT.** One person gave it at the
+fourth hour and another gave a different figure at the seventh hour after coming up the stair, and the woman
+of about fifty-two said out loud that the two of them are not about the same morning or not about the same part
+of one. **This does not settle where the figure came from and does not name the person the difference between
+the two figures is, and no chapter of this volume may settle either, and no mouth in any of these ten days put
+a name to that person.**
+
+## THE THREE THINGS THE STANDING OBJECTS NOW STAND BEHIND, NONE OF THEM A SPEND
+
+1. **The woman of about fifty-two is sitting on that stool and has not stood up off it.** It is the stool she
+   carried out of that room and left where anybody could sit on it, and nobody had sat on it on any morning of
+   this flood and neither had she, and on the seventh hour of day 764 she sat down on it. **A later batch may
+   put a person on that stool and may not make anything of it, and nothing on day 764 is a precedent for
+   anything.**
+2. **That chair stands against that wall at the far side of that room**, where it had not stood since the flood
+   came, and the man of about thirty-nine who trades on a board sat down in it on day 761 and nobody in that
+   room asked which of them had put it there. **It is furniture and it is not this volume's spend.**
+3. **The face of that board was in the open in that room for about the length of a minute on day 767** with
+   about nine people in front of it and the part of it where no name is standing up in the light, and nobody in
+   that room said a word about it. **The name that is not on that board is still not asked about by anybody,
+   still not printed, and still not described, and this batch moved it no closer to a page and no closer to a
+   mouth.**
+
+## THE OLD THREADS, CARRIED WHOLE AND NONE OF THEM SETTLED
+
+**What that strip of ground was for, and who knew, is still not answered.** Chapter 0768 is the first chapter
+of this volume that puts that ground inside a man's view from above, and what it finds there is not a
+meaning and not a purpose and not a face: **every person who goes over that ground looks up at that stair and
+at the door at the bottom of it, and not one of them looks up at the one window in that room, and a man at that
+sill can stand there as long as he likes and nobody will look up.** That is a fact about where a room's single window is and about what the people on the ground below it are looking at. **IT IS NOT AN ANSWER AND IT IS NOT ONE, and no chapter of this volume connects it to the decision of day 725, and no mouth in these ten days says the two are the same kind of thing.**
+
+**The question asked on day 748 by the man of about thirty-four to the man of about thirty-nine is still
+unanswered, and the thing the man of about thirty-nine said out loud on day 757 about not being able to put
+two of his own mornings in an order is still not answered and still not asked about again, and the two are not
+joined. THE QUESTION THIS VOLUME ASKS IS ON DAY 798 AND STANDS UNANSWERED WITH THEM, and the woman of about
+sixty-nine has still not asked a fourth and her not-asking is on no page of these ten days at all, for the
+ninth volume running.**
+
+**The word in the column on the right of that page is still undefined and still not asked about. The day cut
+across the head of the second slate still has nothing under it, and the slate has not been picked up, turned
+over or written on on any of these ten days, and the only hand that has gone near that shelf in this flood is
+the keeper's. The bare wood under the date on the outside of that door is still bare and still means nothing
+whatever, and that date is still a day and nothing else, and on day 767 a man said out loud in that room that
+he does not know who put it there and that he is not going to find out by asking anybody in that room. THAT IS
+NOT TRACING IT AND IT IS NOT A QUESTION PUT TO A ROOM AND IT IS ANSWERED BY NOBODY, AND NO CHAPTER OF THIS
+VOLUME MAY CARRY IT FURTHER.**
+
+**The mark that came back out of place on the sheet of day 440 is untraced for the ninth time running and these
+ten days declined to trace it and the cost is the same hole. The length of new rope is still unused and is on
+no page of these ten days and the man of about fifty-seven was not asked anything on any of them. The man of
+about thirty-seven is not available to anybody. The woman who walked a market is on no page of these ten days
+and was given no age, no descriptor, no name and no number. The two men of about thirty-eight are two people
+and no narration of these ten days settles them.**
+
+**THE THING THE MAN OF ABOUT THIRTY-NINE LOST IS NOT SPENT YET AND IS NOT SPENT HERE: he was not in that room
+on day 762 and nobody connected his absence to the difference between the two figures of that morning, and he
+was not in that room on day 758 either, and he has not yet missed four mornings of the back half of this
+volume. HE IS IN THAT ROOM ON DAY 761, 764, 767 AND 769 AND HE SAYS WHAT HE COMES TO SAY IN EACH OF THEM, AND
+THE DAY HE HOLDS THE ROOM'S ONE RULE IS DAY 775 AND IT IS FIVE DAYS PAST THIS BATCH.**
+
+## THE THREADS NO AGENT IN THIS REPOSITORY CAN PAY, CARRIED AND UNCHANGED
+
+**The return crisis and the prompt being edited. The settlement labelled unwritten. Ivenn Marrow's motive across
+centuries, which is on no page of these ten days and is neither paid nor scheduled. The four things this
+manuscript has never had on a page, none of which these ten days put on a page. The panel-instrument
+disagreement, owed by a human. `reviews/volume-16/` does not exist and the review dispatch fell back to the
+writer's own agent, and the only checks that found the sixteen forty-word runs, the six negation chains and the
+closing cluster in this batch were written by the agent that wrote the chapters, which is a mitigation and not
+an independence. `state/phase-ledger.json` still reads `phase-000-bootstrap`.** The consent fracture stays
+unmended, the fifth condition is not given, no relationship milestone is paid, and
+`chapters/volume-10/chapter-0475.md` is on disk and is still a chapter and not a repair.
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, WHICH WRITES CHAPTERS 0771 TO 0780, DAYS 771 TO 780, AND CARRIES
+DAY 775 — THE VOLUME'S ONE DECISION, THE COST NAMED FIRST IN THE MOUTH OF THE MAN WHO DECIDES, THE DECISION IN
+ABOUT SEVEN WORDS, NO VOTE, NO NOTICE, NO EIGHTH DOCUMENT, NOBODY AGREEING, NOBODY ARGUING, NOBODY IMPROVING
+ON ONE WORD OF IT AND NOBODY THANKED — AND CARRIES THE FIGURE OUT OF THAT ROOM'S AIR FROM PAGE ONE OF DAY 776,
+WHERE THE NARRATOR MAY NOT PRINT IT EITHER.**

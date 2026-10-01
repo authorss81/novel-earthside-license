@@ -314,3 +314,84 @@ per thousand words and `nobody` at 9.1; the room's own figure said on 6 of 10 da
 the seven hundred and fifty outside the first time it was run on these ten, and the three were required
 declarations copied word for word out of Volume 15, and the passing of that check was not a clean pass and the
 repair is inside this batch's own ten files.**
+
+---
+
+# WHAT THE SECOND TEN DAYS OF VOLUME 16 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST ABOVE MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT
+AGAINST AN ARCHIVE. ALL SIXTEEN STAND, AND THE SIX ADDITIONS OF THE BLOCK ABOVE STAND ON TOP OF THEM, AND
+NOTHING IN THOSE SIX MOVED EITHER.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+23. **The first cost of this volume is PAID AND IT IS ON A PAGE.** On day 764 the woman of about fifty-two
+    said out loud, in that room, in daylight, with a date in chalk on the outside of the door at the foot of
+    that stair and about nine people in it over the course of that morning, what it has cost her to be the one
+    person in that room who knows who is not in it, and that nobody in that room has ever asked her how she
+    knows, and that this is the whole of what she has that is hers. **Nobody thanked her, nobody improved on a
+    word of it, nobody argued with it, she was not asked how she knows, and nothing in that room was done about
+    it at any hour of that day. IT IS SPENT AND IT DOES NOT COME BACK, and the second cost of this volume is
+    fixed to day 778 and the third to day 787, and this batch reached neither and rehearsed neither.**
+24. **She is sitting on that stool.** On the seventh hour of day 764 she sat down on the stool she carried out
+    of that room and left where anybody could sit on it, which she has not done and which nobody has done on
+    any morning of this flood. **She is still on it at the tenth hour. That stool has now been sat on and it
+    is not this volume's spend and nothing on day 764 or any other day of this batch is spent again.**
+25. **The chair at the far side of that room stands against that wall.** It had stood with its back toward the
+    middle of that floor since the flood came and Adrian Vale turned it about on day 761 and walked it back
+    until its back was against that wall, and the man of about thirty-nine sat down in it at the fifth hour of
+    that day and **nobody in that room asked which of them had put it there. That chair is not this volume's
+    spend and no chapter of this volume measures it, moves it again or says what it is for.**
+26. **A man said out loud on day 767 that this room has been giving a figure on more mornings of this flood
+    than he has said anything else and that nobody in this room has ever asked anybody where it came from, and
+    nobody in that room asked him.** He is the man of about thirty-four who keeps a stall. **His chalk was in
+    his own inside breast pocket against his own chest from the fourth hour of that day to the tenth hour of it
+    and his own hand never went near that pocket, and it has not been out of it since the six hundred and
+    seventy-eighth.**
+27. **The face of the man of about thirty-nine's own board lay in the open on that bench for about the length of
+    a minute on day 767 with about nine people in that room and the part of it where no name is standing up in
+    the light in front of all of them, and nobody in that room said one word about what was on that bench.** He
+    took it back under his own arm and went down that stair. **No figure off that board was printed and no
+    mouth in that room asked him about the space at the foot of the column between the other two, and none will.
+    THE NAME THAT IS NOT ON IT IS STILL NOT ASKED ABOUT AND IS STILL NOT PRINTED.**
+28. **The man of about thirty-one stood that satchel on the shelf at the height of a person's shoulder from the
+    fourth hour to the ninth hour of day 763 and came up that stair to fetch it off, and Adrian Vale's own hand
+    was on the strap when he came.** **The satchel is shut, the flap was down at every hour of all ten of these
+    days, it was not opened, it was not turned up, and no mouth in these ten days asked what is in it and no
+    chapter says why its owner opens nothing he carries.**
+29. **Two boards are standing on their ends against the low side of the wall of that wharf yard about a foot
+    apart, and that stack is two boards shorter than it was at the fourth hour of day 766.** **The board lying
+    face up on that stack was not wiped, not turned and not gone near on any of these ten days, the clean piece
+    at the near edge of that face went dark with rain along about a hand's breadth and dried again, and there
+    is no third line of grey grit on it and no figure on either side of it is printed on any of these ten
+    pages.**
+
+**AND THE TWO FIGURES THAT CAME OUT OF DAY 762 AND ARE NOT PAID: the room's own figure was given at the
+fourth hour by one person and at the seventh hour by another who had not been in the room at the fourth hour,
+and the woman of about fifty-two said out loud that the two of them are not about the same morning or not
+about the same part of one, and no mouth in that room put a name to the person the difference between them is.
+**It is not resolved here and it is not to be resolved in this volume.** And the same woman said on day 757
+that she cannot say what that figure had been at the fourth hour of a morning, and a man said the same thing
+of himself on day 770, and neither of them was asked where the figure goes and neither of them knows.**
+
+**AND THE SIX INHERITED DEBTS AND THE THREE NEW ONES ARE AS PUBLISHED IN
+`state/batch-summaries/volume-16-batch-0002.md` §7, AND NONE OF THEM WAS PAID BY THESE TEN DAYS.**
+
+**AND THE FIGURES THESE TEN DAYS MEASURED THAT A LATER BATCH HAS SOMETHING TO MEASURE AGAINST, each with its
+reading: 8,496 words with the heading line in and 8,411 without it; a bolded share of 9.21 weighted and 9.21
+unweighted; 101 prose paragraphs, 13 speech, 0 plain, 0 bold-without-a-quotation-mark; 15 paragraphs of three
+sentences or more in 10 of 10 files; zero panels, zero digits in prose, zero bare three-digit numerals; a
+chapter length of 643 to 1,104 words, a mean of 841; the forty-word class at zero in all three scopes on both
+heading-line readings; the sixteen-word class at ZERO within this batch, against twenty-six distinct shared
+runs in six pairs for the ten files behind it; `that` at 41.1 per thousand words and `nobody` at 5.7; the
+triple-*nobody* chain at zero against six in the first writing; and the room's own figure said aloud on five of
+ten days, which are exactly the five days Adrian Vale is not in.**
+
+**AND THE THREE ROWS A LATER PASS SHOULD WEIGH RATHER THAN BANK. (i) The forty-word pass against the seven
+hundred and sixty outside returned SIXTEEN shared runs in TWO of these ten files on its first run and every one
+was a required declaration copied word for word out of the ten files behind this batch, and the repair is
+inside this batch's own two files: **a batch that runs this pass only against its own ten publishes a zero that
+is true on its own scope and silent on the other, and this is the second time that has happened in this
+volume.** (ii) The closing pass returned ten different constructions and a person found two clusters of three,
+and five closings were re-aimed. (iii) These ten run 141 words shorter at the mean than the ten behind them,
+and a duplication figure is only as good as the length of the thing it was measured on.

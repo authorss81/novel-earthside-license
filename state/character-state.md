@@ -343,3 +343,145 @@ nobody offers him a workway.** He is not in the batch's turn and is not in the b
 
 **THE WOMAN WHO WALKED A MARKET IS ON NO PAGE OF THESE TEN DAYS AND WAS GIVEN NO AGE, NO DESCRIPTOR, NO NAME,
 NO NUMBER AND NO DESCRIPTOR, AND NO CHAPTER JOINED HER TO ANYBODY.** About four people a day is a census and not a person; it was printed with the word *about* in every occurrence in these ten days, it was never reduced to *four people a day*, and it was not used as a count of anybody.
+
+---
+
+# WHAT THE SECOND TEN DAYS OF VOLUME 16 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor was altered, no age moved, no trade changed, no second handle
+was added or removed, and NO NAME WAS GIVEN TO ANYBODY AND NO NAME WAS SPOKEN.** Nine volumes and forty-one
+batches have not settled the stallholder of about thirty-four and these ten days did not settle him; the two
+men of about thirty-eight are two people and were not merged; the two women of twenty-nine were never in one
+room; and the man of about thirty-seven was not available to anybody and is on no page of these ten days.
+
+**NOBODY GOT STRONGER, NOBODY WAS RESCUED, NOBODY WAS DEFEATED, NOBODY WAS SENT FOR ANYTHING, NO ROUTE WAS
+OPENED, NO PERMISSION WAS GRANTED AND NO BOUNDARY WAS SETTLED.** The consent fracture stays unmended, the fifth
+condition is not given and no relationship milestone is paid.
+
+## THE WOMAN OF ABOUT FIFTY-TWO — THE ONLY PERSON ON THIS PAGE WHOSE BUSINESS MOVED, AND IT MOVED ONCE
+
+**She paid the first cost of this volume on day 764, in her own mouth, before she said anything else that
+morning, in that room, in daylight, with a date in chalk on the outside of the door at the foot of that stair
+and about nine people in it over the course of that morning. Nobody thanked her. Nobody improved on one word of
+it and nobody argued with it. She was not asked how she knows. The man of about thirty-nine was in that room
+and heard every word of it and said nothing about it. Nothing in that room was done about it at any hour of
+that day.**
+
+**She said out loud on day 762 that the two figures that room gave out loud on that morning were not about the
+same morning or not about the same part of one, and that she has been saying that figure for the whole of
+this flood without knowing what hour she was saying it for. Nobody improved on it and nobody put a question to
+her about it and nobody told her she was right. SHE WAS ALSO TOLD NOTHING AND ASKED NOTHING about that, and she
+did not ask to be.**
+
+**AT THE SEVENTH HOUR OF DAY 764 SHE SAT DOWN ON THAT STOOL** — the one she carried out of that room and left
+where anybody could sit on it — and she had not sat on it on any morning of this flood and nobody had, and she
+was still sitting on it at the tenth hour. Her own hands were at the sides of her own dress at the seventh hour
+and at the tenth hour of that day and they had been on the wood of that bench before anything else that
+morning. She gave that figure out loud in the ordinary course on day 769 in a form that uses no *about* at all:
+*Nine of us, most mornings, every morning of this flood, and it has gone out of my mouth on more of them than
+any other thing I have ever said in this room.* Nobody looked along that bench at the far end of it while she
+said it.**
+
+**WHAT SHE IS NOT: nobody in these ten days asked her what a morning is for, nobody asked her about the day-748
+question, nobody asked her how she knows, and she did not say. She is not the woman of about sixty-nine and she
+did not ask a fourth question. HER STATE AT THE END OF DAY 770 IS THAT SHE IS ON THAT STOOL.**
+
+## THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD — THE DECIDER, AND HE IS FIVE DAYS OFF
+
+- **Day 761, at the fifth hour: he found that chair standing against that wall where it had not stood since the flood came, and he sat down in it, and he said out loud that he was not going to ask anybody which of them put it there.** Nobody in that room answered him.
+- **Day 762: he was not in that room at any hour, and no mouth in that room and no sentence in that chapter connected his absence to the difference between the two figures of that morning, and no chapter of this volume may.**
+- **Day 764: he was in that room, and he heard every word of the cost the woman of about fifty-two said, and he said nothing about any part of it. At the fifth hour he gave that figure out loud in the ordinary course.**
+- **Day 767: he laid his own board flat on the wood of that bench at the near end of it with the face turned up and kept his own right hand on it for about the length of a minute, with about nine people in that room and the part of it where no name is standing up in the light in front of all of them. NOBODY SAID ONE WORD ABOUT WHAT WAS ON THAT BENCH.** He took it back under his arm and went down that stair.
+- **Day 769: he was at the far end of that bench from the fourth hour to the tenth hour and not one word was said to him at any hour of that day and he said none back, and at the ninth hour he shifted that board out from under the light with the flats of his own boot and put his own hand back on it.**
+- **Day 770: he came up at the fifth hour, gave that figure out loud by himself, and not one person in that room took one word of it up or asked him where it came from.**
+
+**HIS SECOND HANDLE IS UNCHANGED: a board under his arm, nineteen rates in three columns, four markets, about
+nine years, and a bare place about the width of two fingers at the foot of the column that stands between the
+other two with nothing cut in it. NO MOUTH IN THESE TEN DAYS ASKED HIM ABOUT THAT PLACE AND NO CHAPTER PRINTED
+A FIGURE OFF THAT BOARD.**
+
+**HIS STATE AT THE END OF DAY 770: he traded at his own front, that board under his arm, in a room where
+nothing has been asked him about anything, and he has not yet missed four mornings. DAY 775 IS WHEN HE HOLDS
+THE ROOM'S ONE RULE AND IT IS FIVE DAYS PAST THIS BATCH.**
+
+## THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER
+
+**She paid no cost in these ten days and no second cost is paid in that room on any day of this batch.** She
+gave that figure out loud on day 762 in her own mouth, in the ordinary course, and nobody improved on one word
+of it and nobody asked her where she had got it. **ON DAY 762 SHE SAID OUT LOUD THAT SHE HAS BEEN THE ONE WHO
+GIVES THAT FIGURE BEFORE ANYBODY IS UP THAT STAIR, AND THAT SHE HAS SAID IT BEFORE ANYBODY CAME IN ON EVERY
+MORNING OF THIS FLOOD SHE HAS BEEN HERE EARLY FOR.** On day 767 she put one of her own hands flat on the wood
+of that bench without looking up off that page and said out loud that she did not know who put a date in chalk
+on the outside of that door. On day 770 the man of about thirty-four put it to her that not one of them in
+that room could say what that figure had been at the fourth hour, and **she said that she could not.**
+
+**Her register carries no sixth figure. The five figures stand down the middle of the middle column with a day
+against each and none struck and nothing entered after them and nothing ever taken out. The word in the column
+on the right is not in her hand, is not printed here, is not defined and was not asked about on any of these
+ten days. The second slate behind that register on that same shelf has not been picked up, turned over or
+written on on any of these ten days, and her own hand is the only one that has ever gone near that shelf.**
+
+## THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL
+
+**His chalk was inside his own breast pocket against his own chest from the fourth hour to the tenth hour of
+every one of these ten days and his own hand never went near that pocket, and it has not been out since the six
+hundred and seventy-eighth.** He spoke twice. **On day 767 he said out loud, in the ordinary course, that this
+room has been giving that figure on more mornings of this flood than he has said anything else, that he has
+never written it down, and that nobody in that room has ever asked him or anybody else where it came from, and
+that he was saying it to nobody in particular. NOBODY IN THAT ROOM ASKED HIM.** On day 770 he said out loud
+into that room, to nobody in it, that he cannot tell since which morning the man with the barrow began coming
+up that stair, and he moved a forearm's length along that bench on day 764 without being asked and without
+saying a word about having to.
+
+**HE IS NOT THE DECIDER IN THIS VOLUME AND MAKES NO DECISION IN IT, AND THE DESCRIPTOR IS STILL DISPUTED AND
+STILL UNSETTLED AND NO CHAPTER OF THESE TEN DAYS PUTS THE TWO PEOPLE OF ABOUT THIRTY-FOUR IN ONE ROOM.**
+
+## THE MAN OF ABOUT THIRTY-EIGHT AT THE SALT WHARF
+
+**He is in these ten days and nobody in these ten days asks him anything.** He came up that stair on day 762,
+gave a figure of eight in his own mouth at the seventh hour, was told nothing, and stood that barrow along the
+near wall of that room where it does not stand on any other morning of this flood. He found a stone lip with no grit on it at the seventh hour of day 765 and said out loud that he was not going to ask. He found a stack two boards shorter at the eighth hour of day 766 and said out loud that he was not going to ask, and stood his own barrow a hand's breadth further off that wall four times that morning without once saying so. He carried a length of board up and stood it on the near wall of that room on day 769.
+
+**HIS OWN TALLY-BOARD WAS NOT WIPED, NOT TURNED AND NOT GONE NEAR ON ANY OF THESE TEN DAYS, HIS OWN KNIFE STAYED IN HIS OWN BELT, AND THERE IS NO THIRD LINE OF GREIT ON ANY BOARD IN ANY YARD.**
+
+## THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING
+
+**He left that satchel on the wood of that bench at the fourth hour of day 763 and came back up that stair at the ninth hour to fetch it off the shelf at the height of a person's shoulder, with his own hand landing on the strap over Adrian Vale's own hand where that hand was still on it.** He has not put that satchel down in front of anybody and left it on any morning of this flood before that one. He filled his own bucket out of that trough at the sixth hour of day 765 with nobody in that yard and told nobody, and he has told nobody on any morning of this flood and no chapter of this volume may make him say so. **The satchel is shut, the flap was down at every hour of all ten of these days, it was not opened and it was not turned up, and no mouth in these ten days asked what is in it.**
+
+## THE MAN OF ABOUT TWENTY-SEVEN
+
+**He is in two of these ten days. On day 761 he came up with his bucket and stopped at the far end of that bench and came the rest of the way along only when a man had moved his own feet out into the room, and he said nothing at any hour of that day. On day 767 he came up out of the yard below, set his bucket on the flags, and said out loud that somebody has put a date in chalk on the outside of that door at the foot of that stair, that he carries water past that door every morning of this flood, that he does not know who put it there and that he is not going to find out by asking anybody in that room. NOBODY IN THAT ROOM SAID A WORD TO HIM ABOUT IT.** **THE WALL ABOVE THE TOP EDGE OF THE STORE'S BOARD IS NOT WASHED ON ANY OF THESE TEN DAYS AND BY NO SECOND PERSON ON ANY OF THEM.**
+
+## ADRIAN VALE
+
+**In five of these ten and in no other: 0761, 0763, 0765, 0766 and 0768, and they are the second five of the
+eleven days the day map gives him.** In all five he is the cause of at least one thing that happens to somebody
+else and nobody tells either of them. On 0761 a chair is turned about and a man sits down in a place he did not
+choose; on 0763 a man finds his satchel on a high shelf where he did not leave it and has to come up that stair
+to fetch it off; on 0765 a stone lip is clean and dry and a man says out loud that he is not going to ask; on
+0766 a stack is two boards shorter and a man stands his own barrow a hand's breadth further off a wall; on 0768
+a man spends three hours at a sill and nobody in that room knows he was at the window.
+
+**HE OBTAINED NONE OF THE FIVE. He is thanked by nobody, nobody tells him he was right, nobody in any of the
+five is waiting for him to be useful and he is not useful to them, he performs no working, no threshold is
+opened, the other world is not named once across these ten, nobody offers him a workway and he asks for none,
+and he is aged nowhere. He is in the batch's last chapter and is not in the batch's ending, and he is in none
+of the volume's seven heavy days, and this batch reached none of them.**
+
+## THE STANDING THINGS THAT ARE NOT PEOPLE AND DID NOT CHANGE, AND THE TWO THAT DID
+
+**THE WOMAN WHO WALKED A MARKET IS ON NO PAGE OF THESE TEN DAYS AND WAS GIVEN NO AGE, NO DESCRIPTOR, NO NAME
+AND NO NUMBER, AND NO CHAPTER JOINED HER TO ANYBODY.** About four people a day is a census and not a person; it
+is not printed on any of these ten days at all, it is never reduced, and it is never used as a count of anybody.
+**No sentence in these ten files carries a nine-figure and an *about four* together: the figure is zero out of
+zero, and that is `outline/volume-16.md` §16.14 held by measurement and not by intention.**
+
+**AND TWO STANDING THINGS MOVED AND NEITHER IS A SPEND: the chair at the far side of that room stands against
+that wall, and that woman is sitting on that stool. Everything else in the inventory stands where it stood at
+the tenth hour of day 750: the register with its five figures and its one word, the second slate behind it on
+the same shelf, the first one-place form on its own shelf, the store's board and the wall above its top edge,
+the door at the foot of that stair with its date in chalk and its bare board below the date, the strip of
+ground with about four people a day on it, the fence of sixteen willow posts and eleven withies, the length of
+new rope over the back of a chair, the satchel with a flap, the wharf board face up under two lines of grey
+grit and its clean piece at the near edge, the stallholder's chalk in his own inside breast pocket, and the
+trough and the bucket and the rag and the box of chalk whose lid does not shut.**

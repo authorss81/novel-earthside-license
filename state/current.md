@@ -594,3 +594,135 @@ by the next phase either.
 
 **`workspace/volume-16/batch-0002/PROMPT.md`, AND NOTHING ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD FILE
 UNDER `outline/`, NO MARKER FILE.**
+
+---
+
+# VOLUME 16'S SECOND TEN CHAPTERS ARE WRITTEN. THIS BLOCK IS NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**VOLUME 15 IS STILL COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS, CHAPTERS 0701 TO 0750, AND NO CHAPTER PAST
+0750 EXISTS. Volume 16 is now on disk at twenty chapters and twenty days, chapters 0751 to 0770, days 751 to
+770, and it is not complete: thirty days of its fifty remain.**
+
+**THE NEXT PHASE IS `workspace/volume-16/batch-0003/PROMPT.md`, THE THIRD TEN CHAPTERS OF VOLUME 16, AND
+NOTHING ELSE. It writes chapters 0771 to 0780, days 771 to 780, from a Tuesday to a Thursday, and it carries
+the volume's one decision on day 775.**
+
+## WHAT THIS PHASE WAS
+
+**A batch phase and nothing else.** It wrote its ten cards at the head of its own state record before Chapter
+0761 existed, wrote Chapters 0761 to 0770, measured them in three scopes on both heading-line readings, and
+wrote the batch record, the chapter summaries, the four live state files and exactly one next-phase prompt.
+
+## THE STORY OF DAYS 761 TO 770, IN ONE PARAGRAPH, AND IT COMES FIRST BECAUSE THE COUNTS COME SECOND
+
+A room over a market says how many of its own people are in it, in different mouths, in different words, and
+over these ten days it says it out loud on five mornings and not on five, and it does not say it on the five
+days a man who is not one of its own is in the room, because nobody asks him anything and he does not have a
+number. A woman of about fifty-two says out loud what it has cost her to be the only person in that room who
+knows who is not in it, and that nobody has ever asked her how she knows, and nobody thanks her and nothing in
+that room is done about it, and afterwards she sits down on a stool she carried out of that room and left where
+anybody could sit on it and has not sat on for the whole of a flood. On another morning the two figures the
+room says are found out loud not to be about the same hour, because one of them was given at the fourth hour
+by a person who was in the room and the other at the seventh hour by a person who was not, and no mouth in
+that room can name the person the difference between them is. A man says out loud in the ordinary course that
+this room has been saying a number every morning of a flood and has never been asked where it came from, and
+nobody in that room asks him, and three other people say out loud that they do not know things and about four
+say nothing at all. A man at the far end of a bench with a board under his arm is not spoken to at any hour of
+a whole day and moves his own board out of a beam of light with the flats of his own boot. A chair at the far
+side of that room is turned about and a man sits down in a place he did not choose. A satchel is found on a
+high shelf by a man who has never left one standing in front of anybody. A stone lip is clean and dry. A stack
+is two boards shorter. A man at a window sill learns that nobody on the ground below it looks up at that
+window, and so he can go unseen for as long as he likes and cannot see a face. And at the end of the ten days
+two people stand at a bench and neither of them can say what that figure had been at the fourth hour, four days
+before a man will decide out loud that it is not to be said in that room again.
+
+**THE FINDING OF THESE TEN DAYS, AND IT IS ABOUT AN INSTRUMENT AND NOT ABOUT A PERSON: the room's own figure
+has no hour on it. It is given before anybody is up that stair and it is given after a man has come up it, and
+the two of those are not the same claim and no mouth in that room has ever known which hour it was speaking
+for. WHAT IS PROVED, AND IT IS PROVED ON DAY 764 IN ONE MOUTH, IS THAT THE COST OF THIS VOLUME IS PAID BY A
+PERSON WHO IS IN THE ROOM AND NOT BY A PERSON WHO IS OUTSIDE IT. WHAT IS LOST IS NOT THE PRESENT AND IT IS THE
+PAST.**
+
+## THE FIGURES, EACH WITH ITS READING AND ITS SCOPE, AND THE THREE THAT ARE WORTH A ROW
+
+| Figure | Reading and scope | Value |
+|---|---|---|
+| words, heading line in / out | letters and apostrophes, ten files, both orders | **8,496 / 8,411** |
+| bolded share | words inside bold marks over all words, heading line in | **9.21 weighted, 9.21 unweighted** |
+| paragraph classes | speech carries a quotation mark and a bold mark | **101 prose, 13 speech, 0 plain, 0 bold-without-a-quotation-mark** |
+| paragraphs of three sentences or more | read for a physical action | **15, in 10 of 10 files** |
+| panels / digits in prose / bare three-digit numerals | heading line out, word-bounded | **0 / 0 / 0** |
+| chapter-title range | words of title text after the dash | **four to nine, in 10 of 10** |
+| chapter length | words, heading line out | **643 to 1,104, a mean of 841** |
+| the forty-word class | three scopes, both heading-line readings | **0, 0, 0** |
+| the sixteen-word class, within this batch | same instrument at sixteen | **0**, against **26 in 6 pairs** for Batch 0001's ten |
+| the sixteen-word class, cross-scope | my ten against the seven hundred and sixty outside | **57 shared runs, longest shared passage 22 words** |
+| the room's own figure, said aloud | a speech paragraph carrying it | **5 of 10 days, and they are exactly the 5 days Adrian Vale is not in** |
+| `that` / `nobody` | word-bounded, heading line out, per thousand | **41.1 / 5.7**, against 40.3 and 9.1 for Batch 0001 |
+| the triple-*nobody* chain | the shape the volume behind this one was repaired for | **0**, against **6** in the first writing |
+
+**AND THE THREE FIGURES A LATER BATCH SHOULD WEIGH RATHER THAN BANK. (i) THE CROSS-SCOPE FORTY-WORD PASS
+RETURNED SIXTEEN SHARED RUNS IN TWO OF THESE TEN FILES ON ITS FIRST RUN, all sixteen windows into two required
+declarations copied word for word out of the ten files behind this batch and standing in three further files of
+Volumes 01 to 15, and both were reworded in this batch's own files and the scope was run again and returned
+zero. **This is the second time in this volume that the within-batch scope alone would have published a clean
+zero, and the only reason either was found is that the scope was run against the seven hundred and sixty
+outside.** (ii) THE CLOSING PASS RETURNED TEN DIFFERENT CONSTRUCTIONS AND A PERSON FOUND TWO CLUSTERS OF THREE
+AT THEM — three closings on *there was nothing anywhere to say whose hands* and three on silence — and five
+closings were re-aimed. (iii) THESE TEN RUN 141 WORDS SHORTER AT THE MEAN THAN THE TEN BEHIND THEM, and a
+duplication figure is only as good as the length of the thing it was measured on.
+
+**AND THE TWO INSTRUMENTS THAT WERE WRONG AND NOT THE PAGES: the Bare-Month resolver's first three editions
+returned ten mismatches out of ten on these ten files, the causes being a backward walk that could not reach a
+leading units word across *hundred*, a head table of twenty unit ordinals with the eight irregular tens
+ordinals missing so that *four hundred and fiftieth* would not resolve at all, and a token window that began
+inside the preceding clause. The third edition returns zero out of ten and reads 148 of 150 chapter files of
+Volumes 13 to 15 correctly, the two it cannot read being the hundredth ordinal, which this range does not use.
+**A second instrument that returns a number where a writer expected a fault is the same failure as one that
+returns a fault where a writer expected a number, and both were found by running the thing and not by reading
+it.**
+
+## THE TWO THINGS THIS BATCH DECIDED AND PUBLISHED RATHER THAN HIDING
+
+1. **`outline/volume-16.md` §16.5 says this volume asks no question about the room on any day, and two moments
+   in these ten days were first written with a mouth putting one — on who put the date in chalk on the outside
+   of that door at the foot of that stair, and on since which morning another man began coming up that stair.
+   Both were re-aimed into statements made into that room and taken up by nobody, with every fact they asserted
+   left standing. The plan binds and the chapters changed.**
+2. **The prompt's card note for 0761 says that room is on its fifth morning of saying its own figure aloud, and
+   the plan's §9 item 3 and the plan's day map, which has Adrian Vale in 761, both bind over a card note. The
+   plan won: the figure is in no mouth on any of the five days he is in. The disagreement is published here and
+   at `state/batch-summaries/volume-16-batch-0002.md` §2 and §8 and it is not harmonised away.**
+
+## THE DEBTS, CARRIED WHOLE AND UNPAID
+
+**THE SIX INHERITED DEBTS ARE AT `outline/volume-16.md` §21.1 AND THE ANSWER IS THAT THIS PHASE PAID NONE OF
+THEM.** The return crisis and the prompt being edited remain unpaid and are not scheduled. The settlement
+labelled unwritten remains unpaid. Ivenn Marrow's motive across centuries is neither paid nor scheduled and he
+is on no page of these ten days. The four things this manuscript has never had on a page: none of the four is
+put on a page by these ten days. The panel-instrument disagreement is owed by a human and is untouched. The
+card-file arrangement is inherited in full and this batch's ten cards were written at the head of this batch's
+own state record, and stopping a debt growing is not paying one.
+
+**AND THE THREE NEW: the fifty-day single run across days 751 to 800 has chapters to day 770 and none beyond
+it; the volume's one decision, its one panel, its three costs, its resolution, its new question and its last
+image are fixed to days and none of them is in this batch; and the room's own figure is spent on day 775 and
+from day 776 the narrator may not print it and no mouth in that room may say it.**
+
+## THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND, AND NOT OWED BY THE NEXT PHASE
+
+**`state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned` AND `attempts: 0` AFTER MORE
+THAN A HUNDRED AND FIFTY COMPLETED PHASES, THE REVIEW DISPATCH RUNS THE WRITER'S OWN AGENT WHERE IT MEANS TO
+RUN THE REVIEWER, AND `reviews/volume-16/` DOES NOT EXIST.** All of these belong to `scripts/`,
+`state/phase-ledger.json` and `.github/workflows/`, which are owned by GitHub Actions and which no writer,
+review or fix phase may open. **NEITHER A MARKER FILE NOR THE LEDGER WAS TOUCHED BY THIS PHASE.** A phase that
+finds a fault in a controller and quietly works around it has made the controller worse, and a repair is not
+owed by the next phase either. **AND THE DEBT THIS PROMOTES IS NAMED HERE BECAUSE IT IS THE SAME DEBT FOR THE
+THIRD TIME IN THIS VOLUME: the only checks that found the sixteen forty-word runs, the six negation chains and
+the closing cluster in this batch were written by the agent that wrote the chapters, which is a mitigation and
+not an independence, and it is owed by a human.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0003/PROMPT.md`, AND NOTHING ELSE. NO CONTINUATION DIRECTORY BEYOND IT, NO CARD
+FILE UNDER `outline/`, NO MARKER FILE.**
