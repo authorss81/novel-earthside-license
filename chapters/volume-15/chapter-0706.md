@@ -6,7 +6,7 @@ It was about the fourth hour on the three hundred and ninety-first day of the Ba
 
 He wanted that plank to be where he put it at the fourth hour, and it was. It was there at the seventh hour and it was there at the ninth hour and it was there at the tenth hour, and neither end of it had slid off the stone, and the water came through under the far end of it and ran along the top of that sill in two streams and went off the low side of the stone into the channel.
 
-The trough stood at the wharf end of that row of flats with the rag on the stone lip of the step where it lives, and the bucket was down at the near end of that sill under the low place in the stone where the water out of the joints ran, and he had been carrying water from that trough to that bucket all morning, a full bucket at a time, and emptying it into the channel at the side of that row of flats.
+The trough had been carried off the high ground by that near gate where it had stood and was at the wharf end of that row of flats with the rag on the stone lip of the step where it lives, and the bucket was down at the near end of that sill under the low place in the stone where the water out of the joints ran. That bucket had gone off that row of flats in a man's hand on the day the gate came across against that rail and had been brought back up that row in a hand since, and nobody in this city has ever asked him where it was in between, and he had been carrying water from that trough to that bucket all morning, a full bucket at a time, and emptying it into the channel at the side of that row of flats.
 
 ---
 
