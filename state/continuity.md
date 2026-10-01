@@ -599,9 +599,10 @@ not opened.
    NUMBER IS NOT SAID ALOUD BY ANYBODY IN THAT ROOM AND IS NOT STATED BY THE NARRATOR, AND THE NARRATOR DOES NOT
    KNOW IT. The next batch inherits that on day 781 and it does not lapse.** The instrument that checked it: a
    literal *nine* anywhere in the ten files returns nine occurrences in five files, and all nine are accounted for
-   — three are the room's own figure on 772, 774 and 775, three are *about nine people* in narration on 775, and
-   three are *about nine years* on that man's board in 0778 and 0779, which is `outline/volume-16.md` §7.2's own
-   carrying figure and not the room's number.
+   — three are the room's own figure in a mouth, on 772, 774 and 775, three are people in a room in narration, one
+   on 772 and two on 775, and three are *about nine years* and *nine years* on that man's board in 0778 and 0779,
+   which is `outline/volume-16.md` §7.2's own carrying figure and not the room's number. **The count of narration
+   figures is corrected here from this phase's own first edition, which put all three on 775.**
 2. **The day map's own figure for the four hundred people on the strip of ground is on no page of these ten days,
    and the strip of ground is on no page of them either.** A literal `about four people a day` and a literal `four
    people a day` both return zero across the ten files, and the strip of ground at the foot of that stair is not
@@ -627,6 +628,22 @@ not opened.
    strip a spade deep along the side of a gate, in a different colour from the rest of that gravel, going to be a
    line on that yard for the rest of the flood. **The fence is neither measured nor has a post moved, the length of
    new rope over the back of that chair is not lifted, and no post, no board and no withy in this volume has moved.**
+6. **AND WHAT THE REPAIR PASS ON THESE TEN PAGES CHANGED, WHICH IS FIVE FACTS IN FOUR CHAPTERS AND NOTHING ELSE.**
+   (a) **On day 775 the man of about thirty-one no longer says anything at all.** He comes up that stair at about
+   the ninth hour with his satchel under his arm and the flap down, stops short of that bench, stands there with
+   the heel of his own hand on the flap until about the tenth hour and goes back down it, saying nothing to
+   anybody. **The cost he used to name in his own mouth on that page is not in this volume, and the satchel is not
+   set down on anything on any of these ten days and is not picked up off anything, and nothing in it is opened and
+   the flap is not turned up.** (b) **The two men at the near end of that bench on day 776 are on the same side of
+   that book, hers, and the chapter no longer says otherwise two paragraphs later.** (c) Chapter 0771's closing
+   paragraph no longer turns its own second paragraph round and puts it at the end, and now says where the water
+   out of the barrow and the water off the wall went, which nothing in that chapter's body says. (d) The closings
+   of 0774, 0775, 0776, 0777, 0778 and 0780 no longer share a construction with the closing of another of these
+   ten, and the ten closing paragraphs share no run of six words or more. (e) **0775's card beat *nobody comes up that stair before the fourth
+   hour* is on the page one paragraph above that chapter's closing rather than in it, because a person's absence is
+   one of the five closing shapes `outline/volume-16.md` §17.18 puts off limits.** No day, hour, ordinal, actor,
+   descriptor, object count or figure moved in any of the four files, and the second slate is on no page of the
+   ten, which is what the card says and what `state/open-threads.md` now says after this repair.
 
 ### WHAT THESE TEN DAYS DID NOT DO, AND THE FIGURES, RE-DERIVED AND NOT CARRIED
 
@@ -640,22 +657,27 @@ not edited. No file under `scripts/`, `.github/workflows/`, `.opencode/agent/`, 
 marker file of any kind was created or removed.**
 
 **THE FIGURES, AT `state/batch-summaries/volume-16-batch-0003.md` §3, AND THEY WERE PRODUCED BY RUNNING THE THING ON
-THE FILES ON DISK AFTER THE LAST EDIT.** 10,581 words with the heading line in and 10,508 without it. Sentence scale
-a mean of 24.8, a median of 22, a p90 of 43, a maximum of 62 and 14.6 per cent at forty words or more out of 424
-sentences — **against Batch 0002's finished median of 23 and against the forty-seven-word median of the ten files
+THE FILES ON DISK AFTER THE LAST EDIT, WHICH IS AFTER THE REPAIR PASS AND NOT BEFORE IT.** 10,596 words with the
+heading line in and 10,523 without it, against 10,581 and 10,508 for these ten files before the repair. Sentence
+scale a mean of 24.9, a median of 22, a p90 of 44, a maximum of 62 and 14.9 per cent at forty words or more out of
+422 sentences, against a mean of 24.8, a p90 of 43, 14.6 per cent and 424 out of 424 before it, and the per-file
+maxima are unchanged on all ten files — **against Batch 0002's finished median of 23 and against the forty-seven-word median of the ten files
 that were on disk when this batch was dispatched, and a batch that comes back above a median of thirty has rebuilt
-the fault three passes took to remove.** Paragraph classes 194 prose, 11 speech, 0 plain, 0 bold without a
-quotation mark and 0 prompts. Fifty-seven paragraphs of three or more sentences carrying a physical action and at
-least four in ten of ten files. The forty-word class at zero in all three scopes on both readings. The sixteen-word
+the fault three passes took to remove.** Paragraph classes 193 prose, 10 speech, 0 plain, 0 bold without a
+quotation mark and 0 prompts, against 194 and 11 before the repair, and the speech paragraph the repair took off the
+page of day 775 is published at that record's §5 item 5. Fifty-three paragraphs of three or more sentences carrying
+a physical action on the twenty verbs printed beside the number at that record's §3, and at least four in ten of ten
+files on that list and on the one this phase did not inherit. The forty-word class at zero in all three scopes on both readings. The sixteen-word
 class at zero inside the ten, zero on the self-repeat, and **zero against the seven hundred and seventy outside**,
-against 22 for the finished ten behind this one and 57 for its first writing. The bolded share at 4.39 weighted,
-against 6.64 and 9.35, and the row publishes the cause and the reading. `that` at 36.6 per thousand words and
-`nobody` at 5.6, against 36.6 and 5.0. `that room` at 5.1. **AN EARLIER EDITION OF THIS BLOCK'S OWN SOURCE RECORD
+against 22 for the finished ten behind this one and 57 for its first writing. The bolded share at 3.99 weighted, against 4.39 for these ten files before the
+repair, 6.64 and 9.35, and the row publishes the cause and the reading. `that` at 36.9 per thousand words and
+`nobody` at 5.7, against 36.6 and 5.6 for these ten files before the repair and against 36.6 and 5.0 for the ten
+behind them. `that room` at 5.2, against 5.1. **AN EARLIER EDITION OF THIS BLOCK'S OWN SOURCE RECORD
 PUBLISHED 28.1 FOR `that`, THAT FIGURE WAS NOT PRODUCED BY THE INSTRUMENT, AND IT IS WITHDRAWN HERE AS IT IS
 WITHDRAWN THERE.** The thirty-five-word zero column, *nine steps*,
 *passage*, *privilege*, *player*, a narrator frame, `days since`, panels, digits in prose and bare three-digit
-numerals all at zero, whole-word bounded with a hyphen delimiting. Chapter length 868 to 1,452, a mean of 1,051,
-and 0775 is the long one and it is the volume's one decision. **AND THE BARE-MONTH RESOLVER WAS WRONG THREE TIMES IN
+numerals all at zero, whole-word bounded with a hyphen delimiting. Chapter length 874 to 1,453, a mean of 1,052,
+and 0775 is the long one and it is the volume's one decision, and the 1,450 that one source record published for 0775 was never a measurement of anything and is superseded. **AND THE BARE-MONTH RESOLVER WAS WRONG THREE TIMES IN
 THIS BATCH, all three times the instrument's fault and not a page's, and its fourth edition and its control on 150
 chapter files of Volumes 13 to 15 are published beside the fix, because the ninth run of that kind in this
 repository is the reason every record names its ordinal tables.**

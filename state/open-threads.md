@@ -675,9 +675,43 @@ across two passes over these ten files and not one of the fourteen was a count.*
     **The three chapters this batch wrote on those three days are all written as failures and all published as `no`,
     on the conservative reading, and no fourth `yes` was invented anywhere and no plan file was edited. The
     standing example of a finished chapter contradicting a published row is still Chapter 0761, flagged at
-    `state/batch-summaries/volume-16-batch-0002.md` §13.4, and the three chapters of this batch do not contradict
-    anything, because a chapter that fails its want cannot contradict a row that says it failed.** Carried
+    `state/batch-summaries/volume-16-batch-0002.md` §13.4.** Carried
     unchanged and not settled by a writer.
+22. **AND THE REPAIR PASS ON 0773 FOUND THAT THE SENTENCE ABOVE WAS TOO CLEAN ABOUT 0773, AND HAS PUBLISHED THE
+    WEAKER READING INSTEAD OF THE CLEAN ONE.** The clause *the three chapters of this batch do not contradict
+    anything, because a chapter that fails its want cannot contradict a row that says it failed* holds for 0771 and
+    for 0780, where the want is never performed at all. **On 0773 the want IS performed and is then undone on the
+    page: Adrian carries that coil of rope out past the last named house and leaves it by the top of that shut
+    road, and at about the seventh hour the man of about sixty comes out of that house, takes it off the flags in
+    both hands, puts it back on the cart over the mallet and says nothing, and by the tenth hour the coil is on the
+    bed of that cart with the wet print of the flags on the underside of it.** A reader who asks whether that is
+    `no` has a fair question, and the batch's own reason for the reading is the conservative one and not a textual
+    one: **the outcome published for 0773 is `no` and stays `no`, the chapter is not rewritten, and the ambiguity
+    is published here rather than settled by a writer. 0773 is therefore the second chapter of this volume whose
+    want is on the page in a form a human may read as obtained-then-undone, and 0761 remains the standing example
+    of a finished chapter contradicting a published row outright. NEITHER IS A CASE A WRITER MAY SETTLE AND
+    NEITHER WAS SETTLED.**
+23. **THE REPAIR PASS ON CHAPTERS 0771 TO 0780 FOUND EIGHT THINGS, ALL EIGHT BY A PERSON READING, AND NONE OF THEM
+    WAS A COUNT, AND IT IS THE TENTH TIME IN THIS VOLUME THAT A SCRIPT'S ZERO WAS THE WRONG ANSWER.** Three were
+    blocking and three of the three were a file saying something false about a page: **the man of about thirty-one
+    spent the satchel and named a third cost in a mouth on day 775, in the volume's one decision, against the four
+    prohibitions the batch's own card sets, and no file recorded it** (the beat is off the page, the card at
+    `state/batch-summaries/volume-16-batch-0003.md` §Card 0775 stands unaltered and is now true of it, and the
+    three costs of this volume are 764, 778 and 795 and no others); **this file said the second slate was on the
+    page of 0775, and a literal *slate* across the ten files returns zero**; **Chapter 0776 said the man stood on
+    her side of the book on page one and on the other side of the book two paragraphs later, and both sentences
+    stood.** Three were closings that were still sharing a construction with another closing after the first pass
+    had declared that cluster cleared, and they were cleared here at nine to eleven words each, which is under the
+    sixteen-word threshold and is why no instrument had ever seen them: *In the morning the light would come over
+    that roof and find* stood word for word in the closings of 0774 and 0779, *would be there in the morning* with
+    *the first thing* stood in the closings of 0775 and 0778, and *At about the tenth hour the light had gone off
+    that floor* stood word for word in FOUR of the ten closings — 0774, 0776, 0777 and 0778 — and the review named
+    two of them. Two were a judgment a script cannot return: the closing of
+    0771 restated its own second paragraph, which `outline/volume-16.md` §17.18 forbids, and the reading of 0773
+    in item 22 above. **THE TEN CLOSING PARAGRAPHS NOW SHARE NO RUN OF SIX WORDS OR MORE WITH ONE ANOTHER,
+    which is the figure a closing paragraph is measured on and not the count of clusters, and the three surviving
+    five-word overlaps — *the side of that yard*, *in the middle of it* and *at about the tenth hour* — are named
+    here and are two locatives and one time marker and are not constructions.**
 
 ### THE THREADS ABOVE THAT THIS BATCH DID NOT TOUCH AND DID NOT SETTLE, RESTATED SO THAT A NEXT PHASE DOES NOT HAVE
 ### TO FIND THEM
@@ -697,8 +731,13 @@ asked anything on any of these ten days, his length of new rope was not used and
 neither measured nor has a post moved.** (ix) **The mark that came back out of place on the sheet of day 440 is not
 traced and no mouth in any of these ten files says anybody moved it.** (x) **The figure in the column on the right
 of that page and the word on the second slate were not set beside one another in any of these ten files, and the
-second slate is on the page of 0775 and on no other of the ten, and the register and the slate are not in one
-paragraph with one another or with that man's board on any of the ten.** (xi) **The day-154 sentence is not said,
+second slate is on no page of the ten, and the register and the slate are not in one paragraph with one another or
+with that man's board on any of the ten. THE SECOND HALF OF THAT SENTENCE WAS WRONG UNTIL THE REPAIR PASS AND IS
+CORRECTED HERE, NOT AT `state/batch-summaries/volume-16-batch-0003.md`, WHICH HAS SAID THE OTHER THING IN THREE
+PLACES: a literal *slate* across `chapters/volume-16/chapter-07{71..80}.md` returns ZERO occurrences, and the card
+at that record's head says so twice in the correct words, so two files in one commit disagreed about one page and a
+phase that had inherited the wrong one of the two would have gone looking for a slate on day 775.** (xi) **The
+day-154 sentence is not said,
 restated, paraphrased or improved on in any of these ten files.** (xii) **The fourth of the four said no is not
 counted at any value on any of these ten pages, and a sweep for `days since` across the ten returns zero.**
 (xiii) **The independence debt is unchanged and is owed by a human, and this is the ninth time it has been named in

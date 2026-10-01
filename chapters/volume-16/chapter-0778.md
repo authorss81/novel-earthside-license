@@ -34,7 +34,7 @@ It had not been left behind by anybody. It was his. In the morning he would come
 
 The room emptied the way it emptied on every morning of that flood. The man of about thirty-four went off the row first, and the man of about thirty-eight went down that stair with his barrow behind him, and the man of about twenty-seven came up out of the yard under that room on his way out and said that the water in that yard had gone down another inch.
 
-At about the tenth hour the light had gone off that floor, and that bench at the far end of it stood with a board lying face up on it in a room with nobody in it.
+By the tenth hour that bench at the far end of it stood with a board lying face up on it in a room with nobody in it, and the light had been off that floor for some time.
 
 On the face of that board there was one clean hand in the dust of it, the shape of a man's right hand lying flat in the middle of the rates for the length of an hour. The wood all round that hand was dull with nine years of the same dust.
 

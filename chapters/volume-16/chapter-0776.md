@@ -28,7 +28,7 @@ The man of about thirty-nine did not go to the far end of that bench at the fift
 
 He had gone to the far end of it every morning of this flood and stood in the gap between that bench and the wall along the far side, with his board against the leg of the bench. He had been the first thing anybody saw when they came up that stair. About four people had planned the way they came into that room around where he was standing.
 
-He stayed at the near end of that bench instead, on the other side of the book. He put his board down flat on the wood and stood his right hand flat on the face of it, and he stayed there for the rest of that morning.
+He stayed at the near end of that bench instead, on her side of the book, and he put his board down flat on the wood and stood his right hand flat on the face of it, and he stayed there for the rest of that morning.
 
 Every person in that room came past the near end of that bench for the rest of that morning instead of the far end of it. The whole length of that floor bent itself around a man who was not standing in the place he stood in, and not one of them said a word about the bending.
 
@@ -44,6 +44,6 @@ At about the ninth hour the light came over that roof and reached the near end o
 
 There was nothing whatever on the back of it, and there had never been anything on the back of it.
 
-She put her hand back down on the wood on either side of the book, and went on sitting at the near end of that bench with a man on the other side of it, and a room behind her making more noise than it had made the day before.
+She put her hand back down on the wood on either side of the book, and went on sitting at the near end of that bench with the man of about thirty-nine at the same end of it, and a room behind her making more noise than it had made the day before.
 
 At about the tenth hour the light had gone off that floor, and that room was still talking. A man at the near end of the bench with his hand flat on the face of his own board, and a woman at the same end of it with her page in front of her, and the whole of that morning's noise coming in over the two of them from people who had not said one word at the fifth hour.

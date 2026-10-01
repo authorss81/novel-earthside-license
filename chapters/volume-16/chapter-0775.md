@@ -54,11 +54,7 @@ It was not written down. There was no sheet of anything in that room and no seco
 
 At about the ninth hour the man of about thirty-four put a hand flat on the wood of the bench at the near end, on the side of it that was his, and left it lying there. Then he took it off and put it in his coat and left it there. He did not say one word about anything, and there was a book and a forearm of wood between the two of them, and neither of them moved.
 
-At about the ninth hour the man of about thirty-one came up that stair with his satchel under his arm and the flap down against its own side. He set it on the wood of the bench, stood up straight, and said it into the middle of that floor, the way a man says a thing that has just occurred to him and is not said to anybody.
-
-"**I have brought up what I was given this morning and I am going down that stair with it, and I have not the least idea what I am going to do with my hands at the fourth hour on Monday.**"
-
-Nobody improved on a word of it, and nobody said a word back to him about it. He picked the satchel up off the wood and went back down that stair. The flap was down against its own side the whole of the way.
+At about the ninth hour the man of about thirty-one came up that stair with his satchel under his arm and the flap down. He stopped short of that bench and stood there with the heel of his own hand on the flap and his other hand down at the side of his coat, and he did not come the rest of the way in. Nobody in that room said one word to him about any part of it, and he did not offer one, and he stood there until about the tenth hour, and then he took his hand off that flap and went back down that stair. The flap was down against its own side the whole of the way.
 
 The man of about thirty-eight took his barrow down that stair at about the tenth hour. The woman of about twenty-nine shut the book and put it back in the place on the shelf behind that bench where it had stood every evening of this flood. She put her own hand flat on the cover of it and left it there for the length of a breath.
 
@@ -68,6 +64,6 @@ The man of about thirty-nine got that board from under his arm, turned it face d
 
 He stopped on the top step, halfway down, and put the flat of his hand against the wall beside him, the way a man steadies himself on a stair going down in a room that is not lit yet. He stood there the length of a breath with his palm on that wall.
 
-Then he took his hand off it and went on down and out into the row.
+Then he took his hand off it and went on down and out into the row. Nobody came up that stair after him, and nobody came up it before the fourth hour.
 
-The wall at the top of that stair had dust on it the length of a hand's width, and there was a print in it now, the print of the flat of a palm. The stair was dark. The print would be there in the morning, and it would be the first thing anybody put a hand into.
+The wall at the top of that stair had dust on it the length of a hand's width, and there was a print in the middle of it now, the print of the flat of a palm. There was no other mark on that wall, and the dust at both sides of it was the dust it had been all flood, and that stair was dark from the top of it to the bottom.

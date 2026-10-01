@@ -100,6 +100,7 @@ and no two of them are in one sentence with a day of this flood.**
 - **The order of it, and this card is the whole of what a card can do about it:** the cost first, in his own mouth, and then the decision, in about seven words, in his own mouth, in front of about nine people.
 - **The cost, in his own mouth, before the decision:** that he will not be able to say whether any of them came.
 - **The four things this card may not do and does not do.** (i) The object spent is a number spoken in a room, and there is nothing in it that could be cleaned, narrowed, widened, painted or covered: the second slate, the register, the door, the strip of ground, the fence, the rope, the satchel, the chair and the stool are all untouched by it and the second slate is not on this page at all. (ii) Nobody thanks him, nobody agrees with him, nobody argues with him and nobody asks him why. (iii) The decision is put on no surface by anybody. (iv) The woman of about fifty-two says nothing whatever about the cost, because she paid hers on day 764.
+- **AND THE REPAIR PASS ON THE PAGE, WHICH IS WHY (i) AND (iv) ARE TRUE OF IT NOW AND WERE NOT TRUE OF IT WHEN IT WAS WRITTEN.** The first writing had the man of about thirty-one set that satchel on the wood of the bench at the ninth hour, name a cost of his own in his own mouth, and pick it up off the wood again, which spends an object on this card's list and puts a cost into a mouth on the one day of this volume where a cost is the volume's own, and no file recorded any of it. **The beat is off the page. He comes up that stair with the satchel under his arm, stops short of that bench, stands there with the heel of his own hand on the flap until about the tenth hour and goes back down it, and he says nothing at all to anybody on this page.** The card's four prohibitions are unaltered and this paragraph is what they cost.
 - **The setting, in a plain sentence of narration and not in a mouth:** there was no notice and there were no days to go over it, so the room is the people who turned up and the thing is done faster than a thing of that weight ought to be done.
 - **After it:** about four of the people in that room say out loud that they did not know what it was about, and about four say nothing at all. Nobody improves on one word of it. Nobody is told he was right and nobody is told he was wrong. Nobody asks him whether he agrees with it, and no chapter of this volume may ask him.
 - **Change:** at the tenth hour the man of about thirty-nine goes down that stair with his board under his arm, and stops on the top step, and puts the flat of his hand against the wall beside him, and takes it off again and goes on down.
@@ -166,6 +167,20 @@ conservative reading, because every row on disk reads `no` and because a `no` co
 `yes` would have to earn. NO FOURTH `yes` HAS BEEN INVENTED ANYWHERE TO MAKE ANYTHING COME OUT. NO PLAN FILE WAS
 EDITED TO FIX THE MISMATCH. AND THE DEFECT IS CARRIED AS AN OPEN THREAD, BECAUSE A PLAN ROW THAT A FINISHED
 CHAPTER CONTRADICTS IS A QUESTION FOR A HUMAN AND CHAPTER 0761 IS ALREADY THE STANDING EXAMPLE.**
+
+**AND THE REPAIR PASS ON THIS BLOCK FOUND THAT THE REASONING THIS BLOCK GAVE FOR THE THREE OF THEM WAS TOO CLEAN
+ABOUT ONE OF THEM, AND THE WEAKER READING IS PUBLISHED INSTEAD OF THE CLEAN ONE. 0771 and 0780 perform no part of
+their wants at any hour, and a chapter that never performs its want cannot contradict a row that says it failed.
+**0773 PERFORMS THE WANT AND THEN UNDOES IT ON THE PAGE**: Adrian carries that coil of rope out past the last
+named house and leaves it by the top of that shut road, and at about the seventh hour the man of about sixty comes
+out of that house, takes it off the flags in both hands, puts it back on the bed of that cart over the mallet and
+says nothing at all, and by the tenth hour the coil is on that bed with the wet print of the flags on the
+underside of it. **A reader who asks whether that is `no` has a fair question and the fair answer is that the
+outcome published for 0773 is `no` on the conservative reading and not on a textual one, that the chapter is not
+rewritten to make the reading tidier, and that the ambiguity is carried at `state/open-threads.md` #22 where a
+human will find it.** 0773 is therefore the second chapter of this volume whose want is on the page in a form a
+human may read as obtained and then undone, and 0761 remains the standing example of a finished chapter
+contradicting a published row outright. NEITHER IS A CASE A WRITER MAY SETTLE AND NEITHER WAS SETTLED HERE.**
 
 ---
 
@@ -322,44 +337,53 @@ its ordinal tables, its hyphen-delimited word bounding and its twenty irregular 
 tens ordinals, and its fourth edition of the resolver is published at §3.1 below because three earlier editions
 returned wrong answers on these files and the cause was the resolver and not the pages.**
 
+**AND THE WHOLE OF THIS TABLE WAS RE-RUN AFTER THE REPAIR PASS OF THIS FILE, WHICH REWROTE FIVE PARAGRAPHS ACROSS
+FOUR OF THESE FILES. Every figure that moved is the new one and the old one is named on the same line, and the
+instrument that produced the first column of this table reproduced **every one of its rows exactly** on the ten
+files as they stood before the repair — 10,581 and 10,508, 464 bold words at 4.39, 194 prose and 11 speech, the
+whole sentence scale including all ten per-file medians and maxima, `that` 36.6, `nobody` 5.6, `that room` 5.1, 39
+own-frames, the nine bare *nine*s, three marked speech paragraphs with the room's own figure and the ten Bare-Month
+ordinals — which is the control that says these numbers are the same measurement twice and not two measurements.**
+
 | Figure | Instrument, reading and scope | Value |
 |---|---|---|
 | files | filesystem count of `chapters/volume-16` | **30** — twenty behind this batch and ten of it |
 | files outside this batch | filesystem count of `chapters/volume-*/chapter-*.md` less these ten | **770** |
-| words, heading line in | letters and apostrophes, ten files, both orders, my ten | **10,581** |
-| words, heading line out | same, heading line excluded | **10,508** |
-| **bolded share** | words inside bold marks over all words, heading line in | **4.39 weighted, 464 bold words of 10,581.** It is BELOW the house figures — `outline/volume-16.md` §20.2's 9.35 and 9.29 for the fifty files behind this volume, Batch 0001's 9.87, Batch 0002's first writing 9.21, and Batch 0002's §13.3 6.64 for its finished ten — **and no card in this batch set a target for it, which is `outline/volume-16.md` §17.4: the mean is a consequence and not a plan. The reason is in the row above: eleven speech paragraphs in ten files, against 15 in Batch 0001 and 15 in Batch 0002's finished ten, and four of this batch's eleven are on day 775 because day 775 is the volume's one decision** |
-| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and `---` separators excluded | **194 prose, 11 speech, 0 plain, 0 bold-without-a-quotation-mark, 0 prompts** |
-| paragraphs of three sentences or more carrying a physical action | reading: three or more sentences and one of twenty physical-action verbs in the paragraph | **57, and at least four in 10 of 10 files** — 4, 4, 6, 5, 10, 4, 6, 5, 7, 6 file by file |
+| words, heading line in | letters and apostrophes, ten files, both orders, my ten | **10,596**, against 10,581 before the repair |
+| words, heading line out | same, heading line excluded | **10,523**, against 10,508 |
+| **bolded share** | words inside bold marks over all words, heading line in | **3.99 weighted, 423 bold words of 10,596**, against 4.39 and 464 of 10,581. It is BELOW the house figures — `outline/volume-16.md` §20.2's 9.35 and 9.29 for the fifty files behind this volume, Batch 0001's 9.87, Batch 0002's first writing 9.21, and Batch 0002's §13.3 6.64 for its finished ten — **and no card in this batch set a target for it, which is `outline/volume-16.md` §17.4: the mean is a consequence and not a plan. The whole of the fall from 4.39 to 3.99 is the repair: it took one forty-one-word speech paragraph off the page of day 775, and the cause in the row above is now ten speech paragraphs in ten files, of which four are on day 775, three on
+   day 772 and one each on days 774, 777 and 778.** |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and `---` separators excluded | **193 prose, 10 speech, 0 plain, 0 bold-without-a-quotation-mark, 0 prompts**, against 194 and 11 |
+| paragraphs of three sentences or more carrying a physical action | reading: three or more sentences and one of twenty physical-action verbs in the paragraph, the twenty being came, come, went, go, put, set, got, took, take, picked, laid, lifted, sat, turned, stood, walked, brought, move, cut and shut | **53, and at least four in 10 of 10 files** — 4, 4, 6, 5, 9, 4, 6, 5, 5, 5 file by file, against 57 and 4, 4, 6, 5, 10, 4, 6, 5, 7, 6 on the twenty verbs this pass did not inherit. **The two lists are not the same list and the two totals are not the same measurement, and the reading is printed here on the same line as the number for that reason; the claim both readings support is the one §17.20 needs, which is at least four in ten of ten** |
 | panels | a block between blank lines whose first character is `>` | **0** |
 | digits in prose / bare three-digit numerals | heading line out, word-bounded with a hyphen delimiting | **0 / 0** |
 | trailing newline | last character of each file | **10 of 10** |
 | chapter-title range | words of title text after the dash, §17.8's four to nine | **four to eight, in 10 of 10** |
-| chapter length | heading line out | **868 to 1,452, a mean of 1,051.** 0775 is the long one and it is the volume's one decision; 0771 is the short one at 868 |
-| sentence scale | sentences of more than two words, split on `.!?`, heading line out, whole files, both orders | **mean 24.8, median 22, p90 43, max 62, 14.6 per cent at forty words or more, out of 424 sentences** — against Batch 0002's finished median of 23, Batch 0001's unmeasured first writing, and the forty-seven-word median of the ten files that were on disk when this batch was dispatched |
-| sentence scale, file by file | same instrument, heading line out, per file | medians **23, 28.5, 20, 24, 19, 23, 27, 22, 25, 25** and maxima **50, 54, 56, 48, 44, 62, 60, 60, 59, 60** |
-| `that` | word-bounded, both case flags, heading line out, per thousand words | **36.6** — against 36.6 for Batch 0002's finished ten, 40.3 for Batch 0001's and 41.1 for Batch 0002's first writing. No card aimed at any of the three. **AN EARLIER EDITION OF THIS ROW PUBLISHED 28.1 AND THAT FIGURE WAS WRONG; it was not produced by the instrument and it is withdrawn, and the honest reading is that this batch is level with the finished ten behind it and below the two batches behind that, and the sentence-scale repair moved the median without moving the determiner** |
-| `nobody` | same reading and scope | **5.6** — against 5.0 for Batch 0002's finished ten and 5.7 for its first writing, and 9.1 for Batch 0001's |
-| `that room` | same reading and scope | **5.1** — against 4.1 for Batch 0002's finished ten and 5.4 for Volume 15 |
-| `his/her/its/their own` | literal, both case flags, heading line out, per thousand words | **3.7, and 39 occurrences. The first writing of these ten came back at 5.3 and the instrument named the frames, and seventeen of the thirty-nine were re-aimed in the later chapter with every fact left standing — `his own board` from eight to four, `his own hands` from five to two, `his own side` from three to none, `his own head` from three to three and kept because the man of about thirty-four keeps a figure in his own head, and `her own hands` from six to four. No card aimed at any of it and the fall is the consequence of running the register** |
+| chapter length | heading line out | **874 to 1,453, a mean of 1,052.** 0775 is the long one and it is the volume's one decision; 0771 is the short one at 874. **The 1,450 that stood at §8 item 6 of this record was wrong and 1,452 was the figure the first run returned, and the figure after the repair is 1,453, so all three of those numbers are now superseded by one number measured on the files as they stand** |
+| sentence scale | sentences of more than two words, split on `.!?`, heading line out, whole files, both orders | **mean 24.9, median 22, p90 44, max 62, 14.9 per cent at forty words or more, out of 422 sentences** — against mean 24.8, p90 43, 14.6 per cent and 424 out of 424 before the repair, and against Batch 0002's finished median of 23 and the forty-seven-word median of the ten files that were on disk when this batch was dispatched. **The median did not move. The mean, the p90 and the count moved because the repair took two sentences out of one paragraph in 0775 and one out of one in 0776, and it put four of its own sentences in where a fault was** |
+| sentence scale, file by file | same instrument, heading line out, per file | medians **23, 28.5, 20, 23.5, 20, 23.5, 22, 22, 25, 25** and maxima **50, 54, 56, 48, 44, 62, 60, 60, 59, 60** — against medians 23, 28.5, 20, 24, 19, 23, 27, 22, 25, 25 before the repair, and **the maxima are unchanged on all ten files, which is the one part of the sentence scale the repair could have wrecked and did not** |
+| `that` | word-bounded, both case flags, heading line out, per thousand words | **36.9** — against 36.6 for these ten files before the repair, 36.6 for Batch 0002's finished ten, 40.3 for Batch 0001's and 41.1 for Batch 0002's first writing. No card aimed at any of the three. **AN EARLIER EDITION OF THIS ROW PUBLISHED 28.1 AND THAT FIGURE WAS WRONG; it was not produced by the instrument and it is withdrawn, and the honest reading is that this batch is level with the finished ten behind it and below the two batches behind that, and the sentence-scale repair moved the median without moving the determiner. The three tenths the repair put into this row came out of the four sentences it wrote and were taken back out of two of them; the residue is the house voice and is not worth a fourth pass** |
+| `nobody` | same reading and scope | **5.7** — against 5.6 for these ten files before the repair, 5.0 for Batch 0002's finished ten and 5.7 for its first writing, and 9.1 for Batch 0001's. **One tenth of it is the sentence the repair put in 0775, which is the card's own beat and not a habit** |
+| `that room` | same reading and scope | **5.2** — against 5.1 for these ten files before the repair, 4.1 for Batch 0002's finished ten and 5.4 for Volume 15 |
+| `his/her/its/their own` | literal, both case flags, heading line out, per thousand words | **3.7, and 39 occurrences**, the same figure as the first writing of the register and one more *own* frame on the page of day 775, which is the heel of that man's hand on a flap. The first writing of these ten came back at 5.3 and the instrument named the frames, and seventeen of the thirty-nine were re-aimed in the later chapter with every fact left standing — `his own board` from eight to four, `his own hands` from five to two, `his own side` from three to none, `his own head` from three to three and kept because the man of about thirty-four keeps a figure in his own head, and `her own hands` from six to four. No card aimed at any of it and the fall is the consequence of running the register |
 | `own two hands` | literal, both case flags | **0** — it was **1** for one edit in 0778 and the instrument caught it and the sentence was re-aimed |
 | the triple-*nobody* chain | the shape the volume behind this one was repaired for, being `nobody X and nobody Y and nobody Z` inside one sentence | **0**, and the six-sentence chain on day 775 was broken into four sentences in the writing rather than by an instrument |
-| `nobody … said one word / a word / anything` | literal, up to ninety characters apart | **6**, against 7 for Batch 0002's finished ten and 11 for its first writing |
+| `nobody … said one word / a word / anything` | literal, word-bounded, up to ninety characters apart and inside one sentence, the same paragraph counted once | **9**, against 6 on the narrower span this record first published, 7 for Batch 0002's finished ten and 11 for its first writing. **The three rows are not the same measurement and are not added together; the span is printed here so that a later phase can reproduce this one and not the other** |
 | the forty-word class, scope 1 | maximal contiguous shared passage, letters and apostrophes, case-insensitive, each file excluded from its own comparison, **my ten against my other nine**, both heading-line readings | **0 shared passages in 0 pairs, and 0** |
-| the forty-word class, scope 2 | **my ten against the seven hundred and seventy outside, both heading-line readings, first run and reverse run** | **0 files of the ten share a single forty-word run with any of the seven hundred and seventy outside, on either heading-line reading** |
+| the forty-word class, scope 2 | **my ten against the seven hundred and seventy outside, both heading-line readings, first run and reverse run** | **0 files of the ten share a single forty-word run with any of the seven hundred and seventy outside, on either heading-line reading, after the repair** |
 | the forty-word class, scope 3 | **my ten against itself at distinct positions** | **0**, and the within-file sixteen-word self-repeat is **0 in 10 of 10 files on both readings** |
 | the sixteen-word class, within the ten | the same instrument at sixteen, both heading-line readings | **0 shared passages in 0 pairs, and 0 self-repeats** |
-| the sixteen-word class, against the seven hundred and seventy outside | the same instrument and the same threshold, both heading-line readings | **0 shared runs.** Batch 0002's §13.3 publishes 22 for its finished ten and §11.3 publishes 57 for its first writing, and those are 22 and 57 windows into declarations the plan itself requires; **this batch's zero is a consequence of running the scope against the outside and of re-aiming every window the scope named, and no card aimed at it. THE INSTRUMENT NAMED **19** OF THESE BEFORE THE LAST TWO EDITS AND EVERY ONE WAS A REAL RUN, AND THE FIGURE TO BE SUSPECTED BY A LATER PHASE IS THE OPPOSITE ONE: this batch was written on the files in front of it and not on the disk** |
-| the room's own figure, said aloud | a marked speech paragraph carrying *nine* with *of us* or *people*, whole files, both orders | **3 marked speech paragraphs in 3 of the 10 days — 772, 774 and 775 — by three different people, the woman of about twenty-nine, the woman of about fifty-two twice, and the three days are three of the five days Adrian Vale is not in before the decision. On 775 a fourth mouth gives a different figure, which is the volume's own standing quarrel and is not the same figure.** It is not said in any mouth on 771, 773, 776, 777, 778, 779 or 780 |
-| the room's own figure, from day 776 | a literal *nine* anywhere in the ten files, word-bounded | **9 occurrences in 5 files, and every one of the 9 is accounted for: three are the room's own figure on days 772, 774 and 775, three are *about nine people* in narration on 775, and three are *about nine years* / *nine years*, which is `outline/volume-16.md` §7.2's own carrying figure for the man of about thirty-nine's board and appears in 0778 and 0779. THE READING BELONGS ON THE SAME LINE AS THE NUMBER** |
+| the sixteen-word class, against the seven hundred and seventy outside | the same instrument and the same threshold, both heading-line readings | **0 shared runs, and the repair pass ran the whole scope again over its own five new sentences and found none.** Batch 0002's §13.3 publishes 22 for its finished ten and §11.3 publishes 57 for its first writing, and those are 22 and 57 windows into declarations the plan itself requires; **this batch's zero is a consequence of running the scope against the outside and of re-aiming every window the scope named, and no card aimed at it** |
+| the room's own figure, said aloud | a marked speech paragraph carrying *nine* with *of us* or *people*, whole files, both orders | **3 marked speech paragraphs in 3 of the 10 days — 772, 774 and 775 — by three different people, the woman of about twenty-nine, the woman of about fifty-two twice, and the three days are three of the five days Adrian Vale is not in before the decision. On 775 a fourth mouth gives a different figure, which is the volume's own standing quarrel and is not the same figure.** It is not said in any mouth on 771, 773, 776, 777, 778, 779 or 780. **The repair did not touch this row and 0775's fourth mouth is still there: the man's own figure of eight at the seventh hour, which is not the room's figure** |
+| the room's own figure, from day 776 | a literal *nine* anywhere in the ten files, word-bounded and not counting the second half of a hyphenated age | **9 occurrences in 5 files, unchanged by the repair, and every one of the 9 is accounted for: three are the room's own figure in a mouth, on days 772, 774 and 775; three are people in a room in narration, one on day 772 and two on day 775; and three are *about nine years* / *nine years*, which is `outline/volume-16.md` §7.2's own carrying figure for the man of about thirty-nine's board and appears in 0778 and 0779. THE READING BELONGS ON THE SAME LINE AS THE NUMBER, AND THE COUNT OF NARRATION FIGURES IS CORRECTED HERE FROM THE FIRST EDITION OF THIS ROW, WHICH PUT ALL THREE ON DAY 775** |
 | Adrian Vale | literal, whole files, both orders, against the map's own Adrian column | **3 of 10 — 771, 773, 780 — and none of the volume's seven heavy days.** 0775 is a heavy day and he is not in it |
 | `about four people a day` and the un-reduced `four people a day` | literal strings | **0 and 0** — and the standing census is on no page of these ten days, which is a consequence of where the ten days are: two of them are at the near end of eleven miles of flats and eight of them are in and around one room |
 | `about four` with no units word | literal, both case flags, whole-word bounded | **0, and the instrument returned 1 and the one was `about four of the marks cut into the face of it` in 0779, which has no units word and is `outline/volume-16.md` §17.16's prohibition on the letter and the reason a reading has to be published beside a number. It was re-aimed to `a good many of the marks` and the instrument returns 0. THE READING BELONGS ON THE SAME LINE AS THE NUMBER** |
-| the two figures in one sentence | a sentence carrying a nine-figure and an `about four` together, §16.14 | **0 out of 424 sentences**, scope my ten, heading line out. `about four people a day` is on no page of these ten files, so the rule has nothing to bite on, and the row is published so that a later phase knows the check ran and not that it had nothing to run on |
+| the two figures in one sentence | a sentence carrying a nine-figure and an `about four` together, §16.14 | **0 out of 422 sentences**, scope my ten, heading line out, re-run after the repair. `about four people a day` is on no page of these ten files, so the rule has nothing to bite on, and the row is published so that a later phase knows the check ran and not that it had nothing to run on |
 | the thirty-five-word zero column | each entry as its own literal string, both case flags, a hyphen delimiting, singular and plural as separate literals | **0 across all ten files** |
-| *nine steps*, *passage*, *privilege*, `Stage N`, *player*, *census*, *war*, *bridge*, *witness*, *tally*, *muster*, *majority*, *headcount*, *poll*, *ballot*, *scrutineer*, a narrator frame, `days since` | literal, both case flags, **whole-word bounded with a hyphen delimiting** | **0 across all ten files, every entry of the column measured as its own literal string** |
+| *nine steps*, *passage*, *privilege*, `Stage N`, *player*, *census*, *war*, *bridge*, *witness*, *tally*, *muster*, *majority*, *headcount*, *poll*, *ballot*, *scrutineer*, a narrator frame, `days since` | literal, both case flags, **whole-word bounded with a hyphen delimiting** | **0 across all ten files, every entry of the column measured as its own literal string, re-run after the repair** |
 | notices sent / documents written | count | **0 / 0** |
-| the Bare-Month form and its resolver | *the Nth day of the Bare Month*, a hyphen delimiting, twenty irregular unit ordinals and eight irregular tens ordinals read, INCLUDING *sixtieth* | **10 phrases in 10 of 10 files, resolving to 456, 457, 458, 459, 460, 461, 462, 463, 464 and 465, which is day less three hundred and fifteen on each of the ten** |
+| the Bare-Month form and its resolver | *the Nth day of the Bare Month*, a hyphen delimiting, twenty irregular unit ordinals and eight irregular tens ordinals read, INCLUDING *sixtieth* | **10 phrases in 10 of 10 files, resolving to 456, 457, 458, 459, 460, 461, 462, 463, 464 and 465, which is day less three hundred and fifteen on each of the ten, on both readings, unchanged by the repair** |
 | chapter-equals-day, the weekday, and the Bare-Month ordinal | the three checks on one run, ten files, both orders | **0 mismatches on each of the three, out of ten, on both orders** |
 
 ### 3.1 THE RESOLVER, AND THE THREE EDITIONS THAT WERE WRONG, NAMED RATHER THAN BURIED
@@ -402,6 +426,12 @@ and silent on the other.**
 3. **My ten against itself at distinct positions.** **ZERO** at forty words and **ZERO** at sixteen, in 10 of 10
    files, on both readings.
 
+**AND ALL THREE SCOPES WERE RUN AGAIN OVER THE REPAIRED FILES, ALL THREE AGAINST ALL SEVEN HUNDRED AND SEVENTY,
+AND ALL THREE RETURN ZERO.** The repair put nine new sentences on the page of four chapters, six of them in
+closings, and the third scope and the sixteen-word row are the two that could have caught a repair written out of
+the manuscript's own furniture, which is what a repair is. **A scope that was run once, before the last four edits,
+is a measurement of a file that no longer exists.**
+
 **AND THE SIXTEEN-WORD CLASS AGAINST THE OUTSIDE, WHICH IS THE ROW THAT FOUND THE NINETEEN.** The first run of
 that scope named nineteen distinct sixteen-word passages shared between these ten files and files outside them.
 **EVERY ONE OF THE NINETEEN WAS A REAL WINDOW AND EVERY ONE WAS FIXED IN THE LATER FILE, WITH EVERY FACT LEFT
@@ -419,52 +449,84 @@ THAT COPIES A PLAN'S PHRASE INTO ITS OWN PROSE HAS PUT IT IN A PLACE IT WAS NOT 
 
 ### 5. THE TEN CLOSINGS, READ BY A PERSON, WHICH IS THE ONLY CHECK IN THIS RECORD A SCRIPT CANNOT DO
 
-1. **0771** — two wet marks going out of dry flags, a wall with nothing standing against it, and a barrow standing
-   where it stands.
+**THE TEN BELOW ARE THE CLOSINGS AS THEY STAND AFTER THE REPAIR PASS, WHICH TOUCHED SEVEN OF THEM. The seven whose
+closing movement moved are 0771, 0774, 0775, 0776, 0777, 0778 and 0780, and the three that did not are 0772, 0773
+and 0779, and the repair went on past what the review named until the ten were read against one another twice.**
+
+1. **0771** — the low place in the stone taking the water out of the barrow and the water off the wall together,
+   the bucket in the middle of it, the last of two marks going out of the stone by the middle of the next day, and
+   a barrow standing where it stands.
 2. **0772** — a man's hand flat on the bar of that door at the foot of that stair, which he had never once done in
    the whole of this flood.
 3. **0773** — a line of turned gravel a spade deep from a gate to a wall, and a different colour from the gravel
    the rest of the way.
-4. **0774** — a book lying flat in two hollows with nothing holding it down, and a hand that will go on it in the
-   morning anyway.
-5. **0775** — a print of the flat of a palm in the dust on the wall at the top of that stair, and the stair dark,
-   and the print there in the morning.
+4. **0774** — a book lying flat in two hollows with nothing holding any part of it down, a hand that will go back
+   onto that page in the morning anyway, and a woman who knows what the wood between those two hollows is doing.
+5. **0775** — a print of the flat of a palm in the dust on the wall at the top of that stair, no other mark on
+   that wall, and that stair dark from the top of it to the bottom.
 6. **0776** — a room still talking at the tenth hour, over a man with his hand on a board and a woman with her page
    in front of her.
 7. **0777** — a man shut his hands, put them back into his coat, and sat on in that bench after the room had gone.
 8. **0778** — the shape of a hand on a board, the first thing on it anybody in this city had ever been able to see,
    and the last thing to go out of it.
-9. **0779** — a place about two fingers wide standing empty in the wood of a board under the light that comes over
-   that roof in the morning.
+9. **0779** — a hand going down that stair with the palm of it flat on a piece of bare wood, and the space
+   underneath it standing empty in the morning under the light that comes over that roof.
 10. **0780** — two hands that will be back on a barrow handle at the fourth hour on Friday, with the whole of
     eleven miles of flat still in front of them.
 
 **TEN CLOSINGS, TEN CONSTRUCTIONS, AND NOT ONE OF THE FIVE SHAPES `outline/volume-16.md` §17.18 PUTS OFF LIMITS.**
 Not one closes on the room's own figure. Not one closes on *about four people a day*, and that phrase is on no page
 of these ten files at all. Not one closes on the strip of ground at the foot of that stair, and it is on no page
-of these ten files at all. Not one closes on the fact that a person is not in that room. Not one closes on a page
-that says a number: 0774 closes on a book lying flat in a bench and nothing else, and prints no value.
+of these ten files at all. Not one closes on the fact that a person is not in that room: 0775's card names *nobody
+comes up that stair before the fourth hour* as the second half of its beat, **and that half was put one paragraph
+above the closing rather than in it, because a person's absence is one of the five shapes and a card and a
+prohibition do not both get to have their way.** Not one closes on a page that says a number: 0774 closes on a
+book lying flat in a bench and nothing else, and prints no value.
 
 **AND NOT ONE OF THE TEN IS A STATEMENT THAT NOTHING CHANGED**, against §16.17's ceiling of two in ten. Four end on
 an object standing somewhere it did not stand in the morning or on a mark that is not there. Three end on a person's
 hands. Two end on a man doing a thing he had never done. One ends on a line of turned gravel.
 
-**AND THE FOUR THINGS A SCRIPT CANNOT SEE, ALL FOUR OF WHICH WERE FOUND BY READING THESE FILES AND NOT BY A COUNT,
-AND THE FIGHTH TIME IN THIS VOLUME THAT A SCRIPT'S ZERO HAS BEEN THE WRONG ANSWER.**
+**AND THE TEN CLOSING PARAGRAPHS SHARE NO RUN OF SIX WORDS OR MORE WITH ONE ANOTHER, which is the instrument
+that goes with the reading above and the count of clusters is not the figure: at five words there are three
+overlaps, *the side of that yard* between 0771 and 0773, *in the middle of it* between 0771 and 0775, and *at about
+the tenth hour* between 0774 and 0776, and two of those three are locatives and the third is one of this
+manuscript's time markers, which stands on thirty-one paragraphs of this batch and is not a closing shape, and in
+0774 it is inside its sentence and in 0776 it opens it.**
 
-1. **A CLOSING PARAGRAPH THAT RESTATES ITS OWN CHAPTER. Two of these ten had it on the first pass and both were
-   written by me.** 0773's closing paragraph described the wet print in the middle of that coil, which its own
+**AND THE EIGHT THINGS A SCRIPT CANNOT SEE, WHICH IS FOUR MORE THAN THE FOUR THAT WERE HERE BEFORE THIS REPAIR,
+AND ALL EIGHT FOUND BY READING THESE FILES AND NOT BY A COUNT, AND THE TENTH TIME IN THIS VOLUME THAT A SCRIPT'S
+ZERO HAS BEEN THE WRONG ANSWER.**
+
+1. **A CLOSING PARAGRAPH THAT RESTATES ITS OWN CHAPTER. Three of these ten had it: two on the first pass and one on
+   the repair.** 0773's closing paragraph described the wet print in the middle of that coil, which its own
    body had already said in the third section; 0776's closing paragraph said there was nothing on the back of that
-   page, which its own body had said one paragraph earlier. **Both were re-aimed from the ground up and the facts
-   stayed where they were. A closing paragraph must be read WHOLE, from its first word to its last, against the
-   body of its own chapter, and not described by its last half — which is the fault that was found in Batch 0002's
-   record by a person looking at one row of a table.**
-2. **A CLOSING CONSTRUCTION COMING BACK IN NEW WORDS.** 0771 and 0780 both closed on marks left by hands drying on
-   a surface, and 0771 and 0773 both closed on a mark that would be on a thing in the morning, and **0778 and 0774
-   both put the woman of about twenty-nine and her open book into the closing paragraph.** All three clusters were
-   re-aimed: 0771 now closes on a wall with nothing against it, 0780 on two hands and a walk, 0773 on a line of
-   turned gravel, 0778 on a shape on a board, and 0774 keeps the book alone. **A cluster that returns after being
-   re-aimed is a construction that was never counted out, and appending to a closing is not re-aiming one.**
+   page, which its own body had said one paragraph earlier; **and 0771's closing paragraph said the wall would have
+   nothing standing against it and the rain would find nothing to run down into, which is the second paragraph's
+   own sentence about the water coming off that wall, turned round and put at the end.** All three were re-aimed
+   and the facts stayed where they were: 0771 now closes on where the water went, which nothing in its body says.
+   **A closing paragraph must be read WHOLE, from its first word to its last, against the body of its own chapter,
+   and not described by its last half — which is the fault that was found in Batch 0002's record by a person
+   looking at one row of a table, and the fault that came back a second time in a different sentence in the same
+   batch, in a paragraph that had already been read once.**
+2. **A CLOSING CONSTRUCTION COMING BACK IN NEW WORDS. Six clusters, not three, and three of the six survived the
+   first pass and were declared cleared and were still standing when this repair opened them.** 0771 and 0780 both
+   closed on marks left by hands drying on a surface, and 0771 and 0773 both closed on a mark that would be on a
+   thing in the morning, and 0778 and 0774 both put the woman of about twenty-nine and her open book into the
+   closing paragraph. Those three were re-aimed. **The three that came back were: *In the morning the light would
+   come over that roof and find* word for word in 0774 and 0779; *would be there in the morning* with *it would be
+   the first thing* in 0775 and 0778, being the two cost days, structurally paired; and *At about the tenth hour
+   the light had gone off that floor* word for word in FOUR of these ten closings, which is 0774, 0776, 0777 and
+   0778, and which the review that found it named as a pair because a pair is what a reader notices and four is
+   what was on the page.** All three are re-aimed, at nine to eleven words each, which is **under the sixteen-word
+   threshold and is the whole reason no instrument had ever returned them** — the threshold that catches a copied
+   paragraph does not catch a copied cadence. 0774 gave up the roof and the hour and keeps the book and the hand;
+   0775 gives up the morning and keeps the dust and the dark; 0776 keeps the hour and the light going off the floor,
+   which is now its own; **0777 opens on the hour and the hands and no longer on the light, and 0778 opens on the
+   bench and the board and puts the light afterwards, and 0780's closing was re-aimed as well because it and 0776
+   were opening with the same five words.** **A cluster that returns after being re-aimed
+   is a construction that was never counted out, and appending to a closing is not re-aiming one, and declaring a
+   cluster cleared is not the same as having looked at it twice.**
 3. **A CLOSING DESCRIBED IN PART.** The first description of 0776's closing in this record named its last sentence
    and not its first, and the row at §5 item 6 now describes the whole of it. **A paragraph nobody has read whole
    is a paragraph nobody has read.**
@@ -472,7 +534,29 @@ AND THE FIGHTH TIME IN THIS VOLUME THAT A SCRIPT'S ZERO HAS BEEN THE WRONG ANSWE
    one of ten in Batch 0002's finished files and three of ten in the writing that record was reviewing. 0778's
    closing was written on the family once — a woman who would not know about a print on a board two feet from her —
    **and it was re-aimed, because the prompt and the record behind it both warn that the family comes back in new
-   words, and it came back in new words the first time this batch wrote one.**
+   words, and it came back in new words the first time this batch wrote one.** The repair's own new sentences were
+   checked against the family and the row above is the check.
+5. **A CLOSING THAT SPENDS AN OBJECT THE CARD PUTS ON THE UNTOUCHED LIST, AND NAMES A COST THE VOLUME HAS NOT GOT
+   THERE YET.** The man of about thirty-one set that satchel on the wood of the bench at the ninth hour, said a
+   cost-shaped sentence in his own mouth and picked it up off the wood again — on the volume's one decision day,
+   against a card that names the satchel in a list of things the decision does not touch, and in a batch that
+   publishes the volume's costs as 764, 778 and 795. **The beat is off the page and the card is unaltered and now
+   true of it, and no other file had ever recorded the beat, which is the part of it that should worry a reader of
+   this record: a fault can sit in ten files and in six state files and be described correctly in a seventh.**
+6. **A CHAPTER THAT CONTRADICTS ITSELF INSIDE TWO PARAGRAPHS.** 0776 put that man on her side of the book on page
+   one and on the other side of the book two paragraphs later, and both sentences stood through a whole batch. The
+   third sentence, which said *a man on the other side of it*, was reading along the length of the bench and is
+   what let the contradiction sit unread for so long. **A file that has one fact in it in two places has to be read
+   at both places, and the only instrument that does that is a person.**
+7. **A CLOSING WHOSE OWN FILE SAID SOMETHING ELSE ABOUT THE SAME PAGE.** Not a prose fault: `state/open-threads.md`
+   published that the second slate was on the page of 0775, and a literal *slate* across these ten files returns
+   zero, and the card at the head of this record says the opposite in three places. **Two files in one commit
+   disagreed about one page, and the one that was wrong would have been inherited as fact by the next thirty
+   chapters.**
+8. **A CHAPTER THAT PERFORMS ITS WANT AND THEN UNDOES IT, WHICH IS NOT THE SAME AS A CHAPTER THAT FAILS IT.** 0773
+   does it, and `state/open-threads.md` #22 now carries the weaker reading instead of the clean one. **The outcome
+   published for that day is `no` and stays `no`, the chapter is not rewritten, and the finding is a question for a
+   human and not a licence for a writer to pick the reading that is tidier.**
 
 ### 6. WHAT THIS BATCH OWED THE PLAN AND DID NOT PAY
 
@@ -522,23 +606,44 @@ OWED BY A HUMAN.**
    putting a value into a mouth, which is a room saying it has a habit and not saying it. **The three days now
    carry it in a mouth, by three different people, and one card phrase is corrected rather than carried: `by four
    different people` is three people on three days plus a fourth mouth on day 775 with the volume's other figure.**
-3. **The bolded share at 4.39, against 6.64 for the finished ten behind this one and 9.35 for the fifty behind
-   that.** The reading and the scope are on the row and the cause is on the row, and no card aimed at it. **A
-   figure that fell by two and a quarter points because a batch happened to have fewer speeches is a consequence
-   and not an improvement, and it is published rather than read as one.**
-4. **`that` at 36.6 per thousand words, against 36.6 and 40.3 and 41.1 for the three batches and writings behind
-   this one, and an earlier edition of this batch's own record published 28.1 for it and that figure WAS WRONG AND IS
-   WITHDRAWN. The sentence-scale repair moved the median and did not move the determiner, and a record that
-   publishes a figure it did not measure is the fault this repository exists to catch.**
+3. **The bolded share at 3.99 after this repair and 4.39 before it, against 6.64 for the finished ten behind this
+   one and 9.35 for the fifty behind that.** The reading and the scope are on the row and the cause is on the row,
+   and no card aimed at it. **A figure that fell by two points because a batch happened to have fewer speeches is a
+   consequence and not an improvement, and a figure that fell by another four tenths because a repair took one
+   speech off a page is the same kind of thing, and both are published rather than read as improvements.**
+4. **`that` at 36.9 per thousand words after this repair and 36.6 before it, against 36.6, 40.3 and 41.1 for the
+   three batches and writings behind this one, and an earlier edition of this batch's own record published 28.1 for
+   it and that figure WAS WRONG AND IS WITHDRAWN. The sentence-scale repair moved the median and did not move the
+   determiner, and the closing repair moved the determiner by three tenths and did not move the median, and a
+   record that publishes a figure it did not measure is the fault this repository exists to catch.**
 5. **The chapter-title range at four to eight, against §17.8's four to nine and Batch 0002's six to nine.** Four of
    the ten titles are five words or fewer. §17.8's floor is four and this batch is at it, which is a warning to the
-   next batch rather than a fault.
-6. **Chapter length at a mean of 1,051, against 1,187 for Batch 0002's finished ten, 860 for Batch 0001's and 841
-   for Batch 0002's first writing.** 0775 is the long one at 1,450 and 0771 the short one at 868, and **the two are
+   next batch rather than a fault. **The repair changed no title.**
+6. **Chapter length at a mean of 1,052, against 1,187 for Batch 0002's finished ten, 860 for Batch 0001's and 841
+   for Batch 0002's first writing.** 0775 is the long one at 1,453 and 0771 the short one at 874, and **the two are
    the volume's one decision and the first of its three Adrian days, so the spread across the batch is the shape of
    the ten days and not a plan.** A duplication figure is only as good as the length of the thing it was measured
    on and these ten are nine hundred words shorter at the mean than the ten behind them, which is a row a later
-   batch should weigh rather than bank.
+   batch should weigh rather than bank. **AND THIS RECORD PUBLISHED THREE DIFFERENT LENGTHS FOR CHAPTER 0775 IN
+   THREE PLACES — 1,452 in the row above, 1,450 in the item above this one, and 1,452 in the third — of which 1,450
+   was never a measurement of anything. The figure after the repair is 1,453 and it is one figure, measured on the
+   file on disk, and the other two are superseded rather than deleted.**
+7. **A FIGURE THIS BATCH PUBLISHED IN ONE FILE AND NOT IN ANOTHER, WHICH IS THE SAME FAULT AS THE WITHDRAWN 28.1
+   AND IS THE THIRD ONE IN THIS VOLUME.** The row above the closing list printed *the second slate is on the page
+   of 0775* in `state/open-threads.md` while this record printed the opposite in three places, and a literal *slate*
+   across these ten files returns **ZERO**. **A correction made in one place and not in the others is a second
+   fault wearing the first one's coat**, and both places are corrected in this pass and the reading is on the same
+   line as the number in both.
+8. **AN ERROR INHERITED IN THE PROMPT THIS BATCH WAS DISPATCHED WITH, WHICH DID NOT REACH THE PAGE AND WAS NOT
+   CORRECTED IN THE PROMPT, BECAUSE A PROMPT IS WHAT A PHASE WAS TOLD AND NOT WHAT A PHASE DECIDED.**
+   `workspace/volume-16/batch-0003/PROMPT.md` line 93 says that the Bare-Month ordinal of day 775, *the four hundred
+   and sixtieth*, **is a multiple of twenty-five. It is not: 460 mod 25 is 10.** The chapter on that day prints the
+   ordinal once, as the form the plan requires, and attaches no meaning to it, and the batch's own rule — no
+   elapsed figure, no round figure given a meaning, no same-figure pair in one sentence — was carried out on the
+   page in spite of the sentence that announced it. **`workspace/volume-16/batch-0004/PROMPT.md` states its own
+   ordinal correctly and does not repeat the claim, so the error did not propagate, and the delivered prompt is
+   left standing as the record of what this batch was told rather than edited after the fact.** The plan file was
+   not touched, and the finding belongs to a human.
 
 ### 9. THE NEXT PHASE
 
