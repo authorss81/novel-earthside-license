@@ -1274,3 +1274,50 @@ The volume behind this one spent the ability of about four people a day to be as
 **AND THE TWO THINGS ONLY A HUMAN OWES, WHICH NO FICTION PHASE CAN AND NONE WORKED AROUND: `reviews/volume-17/` does not exist and the review dispatch falls back to the writer's own agent, and `state/phase-ledger.json` still reads `phase-000-bootstrap` after sixteen volumes. AND `NOVEL_SPEC.md`'s Status section still publishes fifteen volumes and 750 chapter files and ends its panel row at fifteen, where sixteen volumes and eight hundred files were on disk before this phase began and seventeen volumes is what will be on disk when this one is marked done.** None of the three is a fiction file and none was opened.
 
 **AND THE NEXT PHASE, BY PATH: `workspace/volume-17/batch-0002/PROMPT.md`, and it is a batch and not an outline and not a close.** It writes Chapters 0811 to 0820, days 811 to 820, from a Sunday to a Tuesday, and it decides nothing, invents no person, takes no descriptor, sends no notice, writes no document, prints no figure off any object, prints no elapsed figure against any row that carries no figure, and **it reaches the volume's first cost on day 813 and must not prepare it, and it does not reach the decision on day 825 and must not prepare it.**
+
+---
+
+## DECISIONS OF RECORD, VOLUME 03 — THE ABSENCE OF ITS PLAN OF RECORD, RECORDED HERE AND NOT REPAIRED
+
+**Recorded by the review-fix pass on `workspace/volume-17/batch-0002`, from `logs/batch-0002.review.log`
+finding 6, and it changes nothing above this line and strikes nothing.**
+
+**WHAT WAS FOUND.** `outline/volume-03.md` does not exist. Fifty chapters are on disk, Chapters 0101 to
+0150, and `state/volume-03-close.md` is that volume's canonical record at thirty kilobytes. **The file
+was never tracked in this repository's history — `git log --all -- outline/volume-03.md` returns
+nothing — so it was neither struck nor deleted. It was never here.**
+
+**AND IT WAS NOT UNDOCUMENTED, WHICH IS HALF OF WHAT THE REVIEW SAID AND IT IS CORRECTED HERE.**
+`state/volume-05-close.md` §"Finding 4, two closed volumes have no outline" names this file and
+`outline/volume-05.md` together, calls the pair the mechanical cause of that volume's drift because the
+batches inherited no plan, and records that it was not that phase's to write. **So the pair of closed
+volumes with no outline has been on the record since the Volume 05 close, and the finding is not that
+Volume 03 was lost silently.**
+
+**WHAT IS ACTUALLY TRUE, AND IT IS NARROWER THAN THE FINDING.** The Volume 05 absence got a decision of
+record in this file, at DECISION ONE above, because Volume 05 carried a five-beat line here that fifty
+chapters did not pay and somebody had to decide what to do about it. **Volume 03 carries a five-beat
+line here too — *The Crown's Ledger*, at the volume list above, Chapters 101 to 150 — and no volume
+ever reconciled it, and no decision of record for Volume 03 exists in this file at any level.** That is
+the gap: not a lost plan, but a line in this list that was never audited, and the audits of Volume 05,
+Volume 06, Volume 07, Volume 08, Volume 09, Volume 10, Volume 11, Volume 12, Volume 13, Volume 14,
+Volume 15, Volume 16 and Volume 17 are all here.
+
+**WHAT THIS PASS DID AND DID NOT DO.** It wrote this block and no other line of this file. **It did not
+write `outline/volume-03.md`, and it is not going to: Volume 03 is closed, a plan authored now would be
+a plan for fifty chapters that exist and were written without one, and authoring it after the fact
+would be the same fault as the four-decade-old habit of treating the highest ordinal in sight as a cap
+— `outline/volume-17.md` §17.11(xi). It did not strike the Volume 03 line from the volume list, because
+striking it would delete the record of what the series was supposed to contain at Chapters 0101 to 0150,
+and the five beats are published facts about a closed volume whether or not they were paid. It did not
+audit the five beats, because an audit is a deliverable of a close phase and this is a review-repair
+pass on a batch in Volume 17.**
+
+**WHAT IS OWED, AND BY WHOM.** The five beats of the Volume 03 line stand unpaid and unaudited, and the
+audit is owed by a phase that treats Volume 03 as its subject — a close pass over a closed volume, or
+a human. **No batch may pay it, no outline phase for a later volume may pay it, and no volume's own
+plan may quietly absorb it.** It is the same shape as the debt `DECISION ONE` above created when it
+struck Volume 05's five beats and wrote the return crisis down as owed: **a slot, not a character.**
+Nothing in the five beats has been lost that Volume 04 or any later volume depends on, because the
+relationship milestones, the antagonist ladder and the power stages above are not the Volume 03 line and
+were not touched.

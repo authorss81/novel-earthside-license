@@ -10,3 +10,10 @@ nobody checked.
 **Volume 13** — `volume-13/batch-0004.md`: the Batch 0002 re-dispatch loop, the state-file compaction,
 the 0611/0636 duplication, the missing Batch 0004 chapter summaries, and two findings of the review
 that were faults in its own instruments.
+
+**Volume 17** — `volume-17/batch-0002.md`: the state layer compacted a third time and the two heads of
+it that were lying, four sentences reworded to break a run of repetition without touching the refrain,
+the absent `outline/volume-03.md` recorded in the terms of the Volume 05 precedent, the stale `dist/`
+EPUBs confirmed against the build history, and three findings of the review that were faults in its own
+instruments — including one that would have rewritten ten chapter openings that already satisfied the
+plan.

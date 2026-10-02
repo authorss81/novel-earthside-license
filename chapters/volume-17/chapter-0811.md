@@ -10,7 +10,7 @@ The rain had left the flags shining and the water standing in the low places of 
 
 ---
 
-The room above went on with its morning. The keeper turned a leaf. The man of about thirty-four took his hollow. Talk came down the open stair about a trestle at the far end of the market row, and nobody at the top of it looked down.
+The room above went on with its morning. The keeper turned a leaf. The man of about thirty-four had his hollow with him. Talk came down the open stair about a trestle at the far end of the market row, and nobody at the top of it looked down.
 
 A quarter of an hour went by at the foot of that stair. Then the one in the coat took both hands out of the coat, wiped the rain off the shoulders of it, and went on up the row toward the far end of the market, and did not look back at the door.
 

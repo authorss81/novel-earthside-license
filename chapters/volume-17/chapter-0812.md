@@ -2,7 +2,7 @@
 
 The keeper put both hands flat on the open page at the near end of the bench and looked down the length of that room toward the far end, where the man of about thirty-one usually stood.
 
-It was the fourth hour on the four hundred and ninety-seventh day of the Bare Month, a Monday. The light came in at the one window and lay across the bench wood. The bar lay on the top step of that stair and the door at the bottom of it stood a hand's width off its frame.
+It was the fourth hour on the four hundred and ninety-seventh day of the Bare Month, a Monday. The light came in at the one window and lay across the bench wood. The top step of that stair was in view from the near end of the bench, with the iron lying across it, and the door at the bottom stood a hand's width off its frame.
 
 The morning filled in the ordinary way. The man of about thirty-four took his hollow. The man of about thirty-nine came up with his board under his arm. The woman of about fifty-two waited at the side of the bench with her hands at the sides of her dress.
 

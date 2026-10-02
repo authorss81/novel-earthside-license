@@ -243,9 +243,9 @@ tokens, both file orders, ten files, days 811 to 820.**
 
 | what | figure | reading | scope |
 |---|---|---|---|
-| words across the ten files | **3,182** | whitespace tokens, heading line in (3,090 out) | the ten files |
+| words across the ten files | **3,173** | whitespace tokens, heading line in (3,081 out) | the ten files |
 | chapter length, shortest and longest | **304** and **349** | same | ten of ten |
-| share of words inside bold marks | **4.56%** | unweighted, `**…**` spans, 145 words | 3,182 words |
+| share of words inside bold marks | **4.57%** | unweighted, `**…**` spans, 145 words | 3,173 words |
 | titles in four to nine words of title text | **10 of 10** | words after the `—` | the ten headings |
 | title range | **five to six** | same | ten headings |
 | files ending in a newline | **10 of 10** | whole files | the ten files |
@@ -331,62 +331,3 @@ register's own standing state and no sixth was added to it; and the cost of day 
 come back.**
 
 **THE NEXT PHASE IS `workspace/volume-17/batch-0003/PROMPT.md` AND NOTHING ELSE.**
-
----
-
-## THE REVIEW-FIX PASS ON THIS BATCH, APPENDED AFTER THE FACT, AND IT CHANGED PROSE
-
-**`reviews/volume-17/batch-0002.md` is the file of record for this pass and the findings came from
-`logs/batch-0002.review.log`.** Four sentences in two chapters were reworded and nothing else in any
-chapter was touched. **No card was re-planned, no day, weekday, Bare-Month ordinal, cast member,
-object, decision, cost, held string or plot beat moved, no panel was spent, no chapter was restarted,
-and the two figures above were corrected because the pass changed the files they were measured on.**
-
-### THE FOUR SENTENCES, AND WHAT EACH ONE STOOD FOR
-
-- **0812, the declaration of the bar.** *"The bar lay on the top step of that stair and the door at the
-  bottom of it stood a hand's width off its frame."* became *"The top step of that stair was in view
-  from the near end of the bench, with the iron lying across it, and the door at the bottom stood a
-  hand's width off its frame."* **Both facts stand: the iron is on the top step and the door is a
-  hand's width off its frame.**
-- **0814, the same declaration, once more.** It became *"The door at the foot of that stair stood a
-  hand's width off its frame and the bar was on the top step above it."* **Both facts stand.**
-- **0814, the flat formula opening the inventory.** *"The morning filled in the ordinary way."* came
-  out, and the woman's glance at the book as the keeper set it down came in. **The chapter's change —
-  the book spending the morning open on the bench where it spends it shut on the shelf — is the
-  carded change and is untouched.**
-- **0814 and 0811, the stallholder's routine.** *"The man of about thirty-four took his hollow."* became
-  *"The man of about thirty-four was at the bench with his hollow"* in 0814 and *"The man of about
-  thirty-four had his hollow with him"* in 0811. **The hollow is still his and still with him on both
-  days and no emptying, filling or carrying of it is asserted that was not already on the page.**
-
-### THE MEASUREMENT THAT DROVE IT, BEFORE AND AFTER, RE-RUNNABLE
-
-**The three sentences the review named, over all twenty files of Volume 17, measured as a total and as
-the longest unbroken run of consecutive chapters carrying the sentence:**
-
-| sentence | total before | longest run before | total after | longest run after |
-|---|---|---|---|---|
-| The man of about thirty-four took his hollow. | 10 | **5** | 8 | **2** |
-| The morning filled in the ordinary way. | 7 | **4** | 6 | **2** |
-| The bar lay on the top step … a hand's width off its frame. | 5 | **4** | 3 | **1** |
-
-**The refrain itself was kept, and this is the decision: it is the stallholder's routine and it is how
-the census of that room is made physical, `outline/volume-17.md` §17.9, and `state/character-state.md`
-gives that handle for the same sentence in every chapter the man is in. What was removed is the run,
-not the line.** Chapters 0813 and 0815 keep the sentences exactly as they were, because those two carry
-them as the day's work and not as furniture: 0813 is the cost day and its flat ordinary morning is the
-thing the cost lands in, and 0815 is the page day and its flat ordinary morning is what the five
-strokes are looked at inside of.
-
-**AND THE INTEGRITY FIGURES RE-RUN ON THE TEN FILES AFTER THE PASS, EVERY READING AND SCOPE ON THE
-SAME LINE, AND NONE OF THEM MOVED EXCEPT THE WORD COUNT AND THE SHARE IT DIVIDES:** words heading-in
-**3,182** and heading-out **3,090**; shortest and longest chapter **304** and **349**; bolded words
-**145**, share **4.56%**; titles **five** to **six** words in **10 of 10**; **83** paragraphs —
-fourteen speech, eight speech-attribution lead-ins, sixty-one free-standing narration — so no paragraph
-was added and none was taken out; **0** bold-without-a-quotation-mark and **0**
-quotation-mark-without-bold; **0** digits in any body; **0** narrator-frame strings; **0** panels;
-**0** in the thirty-five-entry zero column; **0** in the eleven §16.14 words; **0** for `player`,
-`passage`, `privilege`, `nine steps` and `name, names, named`; **Adrian Vale in 0 of 10**; **20**
-separators, ten of ten; and the seven words of day 825 and the spent figure of the volume behind this
-one at **0** in every form in narration and in every mouth.
