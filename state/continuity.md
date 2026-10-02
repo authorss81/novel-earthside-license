@@ -3,24 +3,18 @@
 **This file carries the live layer only: where every standing object in the world stands, and the figures
 that hold. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-batch-0004-full.md`,
-verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
-BEFORE THE BATCH 0004 PASS WROTE ITS OWN BLOCK IN PLACE OF THE BATCH 0003 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS
-0871 TO 0880, AND IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0004 BLOCK. THE COPY TAKEN BY BATCH 0003
-IS AT `state/archive/continuity.md.volume-18-batch-0003-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER
-BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED. THE FIGURES FOR ANY BATCH ARE IN
-`state/batch-summaries/`, ONE FILE PER BATCH, AND THE DAY-BY-DAY STATES FOR ANY EARLIER BATCH ARE IN THE ARCHIVE.**
 
-**THIS FILE HAS NOW BEEN COMPACTED TEN TIMES, for the reason a review gave: it had grown a layer of superseded
-per-batch history that no writer can read and no batch could afford to load, and four of those compactions were
-undone by the appending that followed them. A phase that appends here is expected to leave it smaller than it
-found it, or to say in its own record why not, and the review repair of Chapters 0861 to 0870 shortened this head
-and kept every line of state.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-19-outline-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE
+PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND WROTE ITS
+OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER
+COPIES UNDER THIS FILE'S OWN NAME ARE STILL IN `state/archive/` AND WERE NOT DISTURBED.**
 
-**THE STATES IN THE TABLE BELOW ARE THE DAY-750 STANDING POSITION AND EVERY ONE OF THEM STILL HOLDS AT DAY
-850; nothing in Volume 17 reversed a state set before day 800. The block at the foot carries the standing
-position a writer of days 851 to 900 stands in, and what days 801 to 840 did is in the archive and in the
-four Volume 17 batch records.**
+**THIS FILE WAS COMPACTED ELEVEN TIMES, for the reason a review gave: it had grown a layer of superseded
+per-batch history that no writer can read and no batch could afford to load, and it has now been compacted again by
+the phase that planned Volume 19, which withdrew every per-batch and per-review block below the standing layer and
+wrote its own block in their place. A phase that appends here is expected to leave it smaller than it found it, or
+to say in its own record why not. **AND THIS PASS LEFT IT SMALLER.**
 
 ## THE STATES THE FIFTY DAYS OF VOLUME 15 LEFT EVERYTHING IN, AND ALL OF THEM HOLD AT DAY 750
 
@@ -160,242 +154,56 @@ four Volume 17 batch records.**
 
 ---
 
-# WHAT THE SECOND TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
-
-**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
-AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCK ABOVE STAND.**
-
-**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
-
-41. **THE FIRST COST OF THIS VOLUME IS PAID AND IT IS ON A PAGE.** On day 813 the woman of about fifty-two
-    said out loud, in that room, in daylight, with a date in chalk on the outside of the door at the foot of
-    that stair, what it has cost her to stand at the foot of that stair in the wet and see whether the iron
-    was in the door, and she said it before she said anything else that morning. **Nobody thanked her, nobody
-    bettered one word of it, nobody asked her a second question, and nothing in that room was done about it at
-    any hour of that day. IT IS SPENT AND IT DOES NOT COME BACK, and it is the only naming of a cost before a
-    decision in this volume. The second cost is fixed to day 840 and this batch does not reach it.**
-42. **AN ABSENCE WAS SAID OUT LOUD WITHOUT A MORNING ON IT.** On day 812 the keeper said a person had not
-    come up and another mouth said he may have gone past below, and the notice is correct and nobody in that
-    room could put a morning to it. **The chapter does not date it and does not supply a figure.**
-43. **THE BOOK SPENT A MORNING OPEN ON THE BENCH.** On day 814 the keeper carried the register the length of
-    the room, set it down square and opened it where anybody could see the page, and no mouth asked what it
-    is for. On day 815 the column with a day against each of five strokes and no sixth entered was looked at
-    together, and nobody said it out loud and nobody wrote. **The figure about a page is the one printed and
-    no other, and no elapsed figure is printed on either day.**
-44. **THE ROW HEARD WHERE THE IRON IS, ONCE.** On day 816 one man told another in about four words that the
-    bar is on the top step, and the row did not take it up. **A stack went under an awning out of the weather
-    on day 817, board by board, and the board face up under two lines of grit was not wiped, not turned and
-    not gone near.**
-45. **THE STAIR STOOD LIGHTED FROM BELOW.** On day 819 the door at the foot of that stair stood open with the
-    light coming up it the better part of the day, and no mouth said which of the two the room wanted. On day
-    820 the sockets empty for a fortnight and nobody asking was said out loud for the first time, and nothing
-    was done about it. **No elapsed figure is printed on either day.**
-46. **AND ADRIAN VALE IS IN NONE OF THESE TEN.** For ten consecutive chapters nobody in this manuscript is in
-    that room who could open a threshold, and every one of the ten finds its pressure without him. **Stage 2
-    on all ten days, no working, no threshold, the other world not named once, `passage` and `privilege` at
-    zero.**
-
-**AND WHAT DID NOT MOVE: the bar on the top step in no hand on any of the ten days; the register with five
-strokes and a day against each, none struck, no sixth, none taken out; the shaded form behind it on the same
-shelf never lifted by any hand but hers; the one word in the column on the right of that page, printed nowhere
-and asked about by nobody; the word on the shaded form, printed nowhere and set beside nothing; the bare piece
-of board under the date, which means nothing; the fence sixteen willow posts and eleven withies on the same
-cord, unmeasured, no post moved; the length of new rope never lifted; the store's board with three sets of
-figures and no line of words under any of them; the chalk in the inside breast pocket taken out on none of the
-ten days with no chapter saying when it was last out; the satchel shut with its flap down; no notice, no
-document, no name, no new person, no new place, no panel, no stronger person, no answered question, and the
-figure the volume behind this one spent at zero on all ten files in narration and in every mouth.**
-
-**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, whitespace
-tokens, both file orders, ten files, days 811 to 820: 3,173 words (3,081 out); chapter length 304 to 349;
-bolded share 4.57 per cent unweighted over 145 words; titles five to six words in 10 of 10; eighty-three
-paragraphs — fourteen speech, eight lead-ins, sixty-one free-standing narration — with zero
-bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits in any body; zero month
-ordinals; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the eleven §16.14 words
-at 0; `player`, `passage`, `privilege`, `nine steps` and `name, names, named` at 0; Adrian Vale in 0 of 10;
-ten files of ten ending in a newline.**
 ---
 
-# WHAT THE THIRD TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+# WHAT THE PHASE THAT PLANNED VOLUME 19 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
 
-**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
-AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCKS ABOVE STAND.**
+**THIS PHASE WROTE NO CHAPTER AND MOVED NO OBJECT. Every state in the standing layer above stands exactly as it
+stood at the close of Volume 18, and this block records one thing, which is that Volume 19 is now planned and the
+plan is the plan of record for days 901 to 950.**
 
-**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+**WHERE EVERYTHING STANDS AT DAY 900 AND STANDS AT DAY 901 ON THE MORNING AFTER.** A gate at the far end of a shut
+road stands open with about nine ordinary people gone through it on day 900 and **nothing written down about it by
+anybody.** A register stands on a shelf behind a bench with **five** strokes in the column that holds figures and a
+day against each, none struck, **no sixth entered and none taken out**. The second slate is on the shelf behind the
+register and has not been picked up, turned over or written on since before this flood, and it has a day cut across
+the head of it with nothing whatever under that day. **The bare piece of board under the date on the outside of the
+door means nothing whatever and nothing goes under that date.** The bar lies along the top step out of its two
+sockets and has lain there on every morning since before day 801. The chalk is in the inside breast pocket at every
+hour. The board of the man of about thirty-nine stands out in its own row with the face of it out, nineteen rates,
+and a space about two fingers wide with nothing in it.
 
-47. **A STOOL WENT INTO A CORNER NOBODY CAN GET AT.** On day 821 the woman of about fifty-two carried the
-    stool the length of the side of that room and set it into the corner behind the near leg of the bench,
-    under the shelf at the height of a person's shoulder, with the table against the wall in front of it, and
-    pushed it back with her heel. **To sit on it a person would have to move the table and climb, and nobody in
-    that room moved the table. A man who came up that stair at about the seventh hour put his hand on the far
-    end of the bench and went back down. NO CHAPTER SAYS WHY SHE MOVED IT AND NO MOUTH ASKS.**
-48. **THE HOLLOW AT THE SIDE OF THAT YARD STOOD FULLER AT THE TENTH HOUR THAN AT THE FOURTH.** Chapter 0822,
-    published `no`. Water standing in a hollow of the flags at the side of the yard at the near end of eleven
-    miles of flats; a filled joint under the flags brought out as a fistful of grit and a cake of mortar with
-    stone in it; the water came back into the same place behind his hands. **The man of about thirty-eight
-    swung the barrow wide over the dry crown to get past him, a wheel went down into the hollow, the near end
-    of the load stood in the water, and the boards put the run-off back into the same hollow. The near end of
-    that load stayed wet and he went on up the yard and did not look back. The grit of the stone was skinned
-    over the top of the water at the tenth hour.**
-49. **THE BENCH WAS TURNED END FOR END ON DAY 823 AND WAS NOT TURNED BACK.** The man of about thirty-one did
-    it at the fourth hour so that the worn place came to the near end and the far end stood against the wall
-    with nothing on it, and he went and stood at that far end, which put him in the part of that room the
-    light had not got to. **Nothing said at the near end of that bench carried to the far end of it on that
-    morning, and the man of about thirty-nine said a thing again at the far end in other words and nobody told
-    him he had it wrong. The worn place in that bench was at the near end under the light at the tenth hour
-    and darker than the wood round it.**
-50. **THE BOARD ON THE OUTSIDE WALL HAS BEEN WIPED ROUND ITS THREE SETS OF FIGURES AND NOT OVER ANY OF THEM.**
-    Chapter 0824. Somebody went over that stone with a wet cloth, round each of the three and stopping short of
-    every one, and each set stands in a field of washed stone dried paler than the stone round it, with the
-    grit of the cloth dried into the low places of the chalk. **No line of words was put under any of the three
-    and none was taken out from under any of them, and no figure was printed. NO CHAPTER ASKS WHO DID IT AND
-    THE WALL ABOVE THE TOP EDGE OF THAT BOARD IS STILL THE THING WASHED ONCE IN THE WHOLE OF THE FLOOD.**
-51. **THE VOLUME'S ONE DECISION IS TAKEN, ON A PAGE, WITH THE COST NAMED FIRST IN HIS OWN MOUTH.** On day 825,
-    in that room, in daylight, with a date in chalk on the outside of the door at the foot of that stair and a
-    bare piece of board under that date about as wide as a hand, the man of about thirty-nine said the cost out
-    loud first — that there is nothing on that board for what he is about to say, and there will be no day
-    against it, and nobody will ever know that he said it at all — and then said the decision in his own mouth
-    in the middle of that day. **THE WORDING IS HELD IN `outline/volume-17.md` §6.6 AND IS ON NO PAGE AND IS
-    NOT IN ANY STATE FILE, AND NO FILE COUNTS IT AND NO OTHER MOUTH IN THAT ROOM SAYS IT IN OTHER WORDS.**
-    Nobody in that room agreed with it, nobody argued with it, nobody improved on one word of it, nobody
-    thanked him for it, and **nothing whatever was done about it at any hour of that day. THE NARRATION SAYS ONCE
-    THAT IT WAS DONE FASTER THAN A THING OF THAT WEIGHT OUGHT TO BE DONE, BECAUSE THE FOUR DAYS A SUMMONED ROOM
-    WOULD HAVE SPENT FINDING OUT WHAT IT WAS BEING ASKED ARE NOT AVAILABLE, AND IT IS THE ONLY USE OF THOSE
-    FOUR DAYS IN THIS VOLUME. No elapsed figure is printed on that chapter and no headcount of that room is
-    printed on it.**
-52. **THE IRON WAS LIFTED OUT OF ITS SOCKETS ON DAY 827, WIPED, AND SET BACK DOWN ON THE TOP STEP.** That
-    door stood shut at the foot of that stair in the morning of that day with the light stopping short of the
-    bottom step, and before the light came back onto the flags somebody had been up that stair and come down
-    again. The iron lay across the top step with the dust of the wiping in a smear across the wood of it, and
-    the sockets in the frame stood with clean rings round them where the dust had been and nothing in them.
-    **THE CHAPTER DOES NOT SAY WHO LIFTED IT, DOES NOT PRINT WHOSE HAND, DOES NOT PUT IT IN A HAND, AND PRINTS
-    NO RECONCILIATION OF ANY KIND. The light came back up that stair and lay along it, two mouths noticed that
-    and one of them noticed that it had not been there in the morning, and nobody asked anything.**
-53. **THE ROOM COULD NOT FIND OUT WHO WENT UP THAT STAIR, AND ON DAY 829 IT DID NOT ASK.** Two men were both
-    in that room at the fourth hour and both in it at the seventh, and one of them went up and came down in
-    between, and nobody in that room could say which, and nobody went down to look at the step and nobody asked
-    the man of about thirty-one and nobody said out loud that it could not be settled.
-54. **THE FENCE STANDS AS IT STANDS AND NOTHING ON IT MOVED.** Chapter 0830: sixteen willow posts and eleven
-    withies on the same cord along the top of that shut road, seen from the top of it, with a handcart and a
-    hazel mallet standing in the yard beside it and nobody on the road. **A man there said the wood was his to
-    cut if anybody wanted it cut and the man of about thirty-four said it was not his to give away, nothing
-    was settled, and the wood was still on the posts at the tenth hour. The fence was not measured, no post
-    moved, no withy went on or came off, and the length of new rope was not lifted.**
-55. **AND THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN FILES, IN NARRATION AND IN EVERY
-    MOUTH, AND NO HEADCOUNT OF THAT ROOM IS PRINTED ON ANY OF THEM, INCLUDING ON DAY 825 WHERE THE PLAN ITSELF
-    DESCRIBES THAT ROOM'S POPULATION IN A WORD. NO MOUTH IN THAT ROOM REACHES A NUMBER OF PEOPLE BY ANY ROAD
-    ON ANY OF THE TEN DAYS.**
+**AND WHAT VOLUME 19 DOES TO EACH OF THOSE, AND IT IS ALL OF WHAT IT DOES, AND NONE OF IT IS DONE YET.** The second
+slate is lifted and turned over **on day 908 and put back the same afternoon**. A sixth stroke goes into the
+register **on day 918, in the keeper's hand, not struck**, and **no seventh is entered on any of the remaining
+thirty-two days of the volume**. A name goes into the second book in one hand on day 918 and **onto no other surface
+in this volume and on no surface in the eight hundred and fifty days behind it**. A second book comes onto that
+bench **on day 925** and does not answer to the keeper. A figure goes into the space on that board **on day 924**.
+The gate is **shut for one morning on day 933 and open on every other morning of the fifty**. **The bare piece of
+board gets one mark on day 950 and it is not a day of the Bare Month, and no chapter of days 901 to 949 may write a
+day of any other month and no chapter may say what the Bare Month is or how long it is.**
 
-**AND WHAT DID NOT MOVE: the bar on the top step in no printed hand on any of the ten days; the register with
-five strokes and a day against each, none struck, no sixth, none taken out; the shaded form behind it on the
-same shelf never lifted by any hand but hers; the one word in the column on the right of that page, printed
-nowhere and asked about by nobody; the word on the shaded form, printed nowhere and set beside nothing; the
-bare piece of board under the date, which means nothing; the fence sixteen willow posts and eleven withies on
-the same cord, unmeasured, no post moved; the length of new rope never lifted; the board on the outside wall
-with three sets of figures and no line of words under any of them; the chalk in the inside breast pocket taken
-out on none of the ten days with no chapter saying when it was last out; the satchel shut with its flap down;
-no notice, no document, no name, no new person, no new place, no panel, no stronger person, and no answered
-question.**
+**AND WHAT VOLUME 19 ADDS TO THE WORLD'S INSTRUMENTS, WHICH IS THE FIRST ADDITION SINCE THE FLOOD.** Seven words —
+*crossing*, *witness*, *assembly*, *council*, *quorum*, *seal*, *charter* — **are at zero across all nine hundred
+chapter files on disk except that five of them stand in Volumes 01, 02, 06, 08 and 15 at low figures and none of
+them is on any surface anywhere.** They come back on days 905, 911, 916, 921, 925, 930 and 934, one on each, each in
+a mouth, in daylight, with a date in chalk on the outside of the door behind the speaker, each preceded by the cost
+of saying it named out loud by the person who says it, unthanked, and **at zero on the other forty-three days of the
+volume in narration and in every mouth.**
 
-**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, whitespace
-tokens, both file orders, ten files, days 821 to 830: 5,453 words (5,351 out); chapter length 447 to 776;
-bolded share 4.49 per cent unweighted over 245 words; titles four to nine words in 10 of 10; one hundred and
-one paragraphs — twenty-six speech, seventy-five free-standing narration — with zero
-bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits in any body; zero month
-ordinals for a numbered month; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the
-eleven §16.14 words at 0; `player`, `passage`, `privilege`, `nine steps` and `name, names, named` as a person
-or a verb at 0; Adrian Vale in 1 of 10 and in 0822 only; two separators in each of ten files; ten files of ten
-ending in a newline.**
+**AND THE FIGURES THAT HOLD FOR DAYS 901 TO 950, DERIVED FROM TWO FIGURES AND NOT TRANSCRIBED.** Day 1 is a
+Tuesday and the Bare-Month ordinal is the day less 315. Day 901 is a Saturday and BM 586; day 950 is a Saturday and
+BM 635; forty-nine days separate them and forty-nine is seven times seven, **so no middle day may be derived from
+either end.** Seven words on seven days and no two on one. Eleven heavy days: 903, 905, 908, 911, 916, 918, 925, 929,
+934, 940, 943, 950. Nine Adrian days plus 941 and possibly 943.
 
----
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**This pass read `logs/batch-0003.review.log` and repaired against it, and the file of record is
-`reviews/volume-17/batch-0003.md`. The review was run by the same agent kind that wrote the chapters under
-it and this pass is that kind again.**
-
-**NOTHING IN THE STANDING LIST MOVED, AND ALL SIXTEEN STILL STAND, AND ITEMS 41 TO 46 ABOVE STILL STAND
-TOO. Six sentences in five chapters were reworded and no state was reversed, no object moved in the world,
-no figure was withdrawn, no day was re-derived and no thread was closed by the rewordings.** The six are
-0821's the talk coming back, 0821's closing, 0822's wheel, 0826's board, 0827's opening and 0828's opening,
-and each of them says what it said before in another shape.
-
-**AND TWO CONTINUITY FACTS THIS PASS ADDED, BOTH OF THEM THINGS A NEXT WRITER WOULD OTHERWISE HAVE TO
-RE-DERIVE FROM THE CHAPTERS.** (i) **THE DAY-825 DECISION IS ON THE PAGE AS A BOLDED, QUOTED LINE HOLDING NO
-WORDS, and that is the whole of it.** It is not a placeholder and not a stage direction and no later chapter
-may put a word behind it, may have any mouth say what he said that day, may count it, or may print the
-figure seven; the wording is in `outline/volume-17.md` §6.6 and is on no page and not in this file. (ii)
-**§17.17's two-of-ten ceiling on closings that state nothing changed is over in this volume's first twenty
-days and not over in its third ten.** Counted closings in days 801 to 810 are four and in days 811 to 820 are
-five, and the count for days 821 to 830 is two, which is at the ceiling and not over it, and the reading and
-the per-chapter rulings are at `state/batch-summaries/volume-17-batch-0003.md`. **It is owed by the Volume 17
-close and not by any batch, and no chapter of days 831 to 840 may make the window worse than the reading puts
-it.**
-
-**THE FIGURES OF THE BLOCK ABOVE WERE CORRECTED IN IT AND IN THE BATCH RECORD BECAUSE THE PASS CHANGED THE
-FILES THEY WERE MEASURED ON: 5,439 words to 5,453, 5,337 out to 5,351 out, chapter length shortest 448 to
-447, and the bolded share 4.50 per cent to 4.49 per cent over the same 245 bolded words.** Paragraph count
-101, speech 26, free-standing narration 75 and every zero stand and were re-run. The spent figure of the
-volume behind this one is still at zero on all ten files in narration and in every mouth, no headcount of
-that room is printed on any of them, and from day 831 onward the rule binds the narrator as well.
-
-**THE VOLUME-17 BATCH 0001 BLOCK WENT TO `state/archive/continuity.md.volume-17-batch-0003-full.md` AND THE
-REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT WITH IT, UNDELETED AND VERIFIED BY SHA256 BEFORE ANYTHING
-WAS REMOVED.** What stays is the day-750 standing position, the figures that hold, the standing
-prohibitions, the two newest batch blocks and this block.
-
-# WHAT VOLUME 18, BATCH 0005 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
-
-**Ten chapters, days 891 to 900. Nothing in standing list moved except by the days themselves; this block replaces the Batch 0004 block and the 0881–0890 repair block, in `state/archive/continuity.md.volume-18-batch-0005-full.md`.**
-
-**ADDED.** Ordinary double answers on 891 (trough thread) and 893 (load across flags); Tuesday sentence said again Thursday on 892 with page-down/board-across/bucket-skin third; unheard seventh-hour asking on 893 with leaf turned; words once for the one on 894 with two plain things and no decision; two down with one staying on 895; empty top-of-road gate on 896; flags drying with weather talk on 897 and three-sentence looking attached to crowns/seams; unheard near-bench question to one man on 898 with hand on pocket through it; two boards off a stack past hollows on 899 wanting dry by fourth hour, published `no`; last image on 900 — rain, open gate at far end of shut road, about nine waiting with ordinary things, child asking, one-sentence answer, woman far side with book shut, two hands on gate, stone worn in two places.
-
-**ADRIAN VALE.** In 893 (page in own hand unreadable, wanting one question twice, `no`; causing bucket to go wide and spill), 899 (near end of stack, wanting dry by fourth hour, `no`; causing two top boards to come off while he holds), 900 (empty hands, answering child in one sentence). Stage 2 throughout, no working, no threshold, `passage`/`privilege` zero, thanked by nobody, told nothing, useful to nobody.
-
-**UNMOVED.** Five strokes no sixth, second slate untouched, face-out board with opened top writing, face-in board, chalk in pocket, bar on step, date plus blank bare board, store door, cracked trough, stool, one-nail board, hollows, rate wanting day, sill shapes, 881 question, two-hands man. No elapsed figure on 900; none reaching a number by any road on any of ten; room never counted; no lock-word on any page but the image uses road/gate/stone/rain.
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
-`reviews/volume-18/batch-0005.md`. The reviewer was not invoked and this pass is the agent kind that wrote the ten
-chapters. NOTHING IN THE STANDING LIST MOVED, NO OBJECT CHANGED PLACE IN THE WORLD, NO FIGURE WAS WITHDRAWN, NO
-DAY WAS RE-DERIVED AND NO THREAD WAS CLOSED BY ANY REWORDING.**
-
-**ONE CONTINUITY FAULT WAS FOUND INSIDE ONE CHAPTER AND REPAIRED, AND IT WAS A CONTRADICTION.** **On 897 the woman
-of about fifty-two stood alone in that room before light, put her hand out to the stool and drew it back, heard the
-stair sound and went to the wall side — and then, in the paragraph where that room fills, the same page had her
-coming in last and finding the wall.** She now stands where the stair put her for the rest of that morning and is
-not in the arrivals list at all, which also leaves her alone before light as frame nine requires and leaves the
-stool and the shut book untouched at the end of it. **Its closing was also reworded — the stool was where she had
-left it, for a closing that shared a construction with 0892 and 0900 — and it is the only one of the ten closings
-this pass touched.**
-
-**THE FIGURES OF THE BLOCK ABOVE WERE RE-RUN ON THE REPAIRED TEXT AND EVERY ONE OF THEM IS PUBLISHED WITH BOTH
-READINGS WHERE THE TWO DISAGREE, IN `reviews/volume-18/batch-0005.md`.** Words across the ten bodies 6,588
-to 6,664 and the mean 659 to 666 on `wc -w` heading line out; paragraphs 99 to 99; speech paragraphs **published at
-33 by the batch record and measured at 34 on the reading *a paragraph whose first characters are `**"`*, and at 32 with
-the two held empty lines left out — all three published, and none of the three is a reading this pass can close** —
-with **zero** bold marks without a quotation mark and **zero** quotation marks without a bold mark, both re-run after
-the rewordings; `that` at 0 and re-run at 0, because a first wording of the 0892 repair introduced one and it was
-reworded back out rather than published; the longest run of consecutive words shared by any two of the ten 20 as the
-batch record published it and **21 on this pass's own tokenising**, now **18 after the rewordings**, and every run at
-seventeen or over is the standing state of one sleeve wet and one sleeve dry in prescribed words; the longest run
-between any two of the ten closings 8 as published and **7 after the 0897 rewording**, and the survivor is the hour
-and not a construction. Repeated sentences of 38 characters or more stand at 0 and were re-run at 0.
-
-**THE ZEROES WERE RE-RUN ON THE REPAIRED TEXT AND ALL OF THEM STAND.** The thirty-five-entry zero column at 0 in all
-ten files; `charter`, `seal`, `council`, `quorum`, `assembly`, `crossing`, `witness` and `recognised` at 0, which is
-§16.2 and is the debt carried at §21.4 and not an omission; `player` and `players` at 0 and 1, the one in the child's
-mouth on 900 as §11 and §16.13 put it there; `passage` and `privilege` at 0; `system`, `monster` and `version` at 0;
-`name`, `names`, `named`, `number` and `count` at 0 in all ten bodies; digits at 0 in all ten bodies; the panel at 0
-in these ten, with the volume's one still on `chapter-0886.md` alone and not reprinted here; `Adrian Vale` in three
-files of ten, 893, 899 and 900, and in none of the other seven. **Two words that a reader may grep and find are
-named with their sense rather than argued about: *crown* stands at 2 in 0899 and both are the crown of a flagstone,
-and *tally* stands at 2 in 0899 and both are the tally-board on the frame of that barrow, which is standing state and
-is not the column the plan forbids.**
-
-**AND THE SIX FIGURES THE CLOSE OWES THE READER ARE OWED BY IT AND NOT BY ANYTHING ELSE: the volume's rolling count
-of closings that state nothing changed across fifty days and not across one batch, and the worst window of any ten
-days in it, with the instrument named.** `workspace/volume-18/close/PROMPT.md` is written and is the only next phase
-this repository has, and it writes `state/volume-18-close.md` and no chapter.
+**AND THE STATES THAT NO DAY OF VOLUME 19 MAY TOUCH, CARRIED WHOLE FROM ABOVE AND NOT RESTATED AT LESS THAN THEIR
+LENGTH:** the headcount of that room; the mark of day 440 and the hand that moved it and the woman of about
+fifty-four; the word in the column on the right of the keeper's page; the word under the day cut across the head of
+the second slate, **including on day 908 when the slate is lifted**; the questions of days 346, 396, 445, 498, 548,
+598, 648, 698, 748, 798, 848 and 898; the day-154 sentence; the man of about fifty-seven and his length of new rope
+and the sixteen posts and eleven withies; the seven documents and the fact that there is no eighth, **and the second
+book is not an eighth document and a chapter that calls it one has invented a thing**; the three on the four-hundred-
+mile road and the town four hundred miles inland and the page a hundred and forty years old; and **the consent
+fracture, which is not mended, and the fifth condition, which is not given, and milestone ten, which is paid on day
+935 as a promise and is not a repair.**

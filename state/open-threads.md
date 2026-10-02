@@ -4,16 +4,15 @@
 currently carrying is named here with its state. It does not carry a per-batch history that no writer can
 read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-18-batch-0004-full.md`,
-verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
-BEFORE THE BATCH 0004 PASS WROTE ITS OWN BLOCK IN PLACE OF THE BATCH 0003 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS
-0871 TO 0880, AND IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0004 BLOCK. THE COPY TAKEN BY BATCH 0003
-IS AT `state/archive/open-threads.md.volume-18-batch-0003-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER
-BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-19-outline-full.md`, verified
+by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
+THE PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND WROTE ITS
+OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER
+COPIES UNDER THIS FILE'S OWN NAME ARE STILL IN `state/archive/` AND WERE NOT DISTURBED.**
 
 **THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
-SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
-smaller than it found it or to say in its own record why not.**
+SAID SO AND WAS RIGHT. IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
+smaller than it found it or to say in its own record why not. AND THIS PASS LEFT IT SMALLER.**
 
 ## THE THREADS THIS MANUSCRIPT IS CARRYING AT THE END OF DAY 750
 
@@ -51,202 +50,91 @@ THREE.**
 
 ---
 
-# WHAT THE SECOND TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
-
-**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0003/PROMPT.md`,
-WHICH WRITES CHAPTERS 0821 TO 0830 AND NOTHING ELSE. NO CHAPTER PAST 0820 EXISTS AND NO CHAPTER PAST 0820 IS TO
-BE WRITTEN BY ANY OTHER PHASE.**
-
-1. **THE FIRST COST IS PAID AND SPENT. NEW, AND IT IS THE VOLUME'S FIRST, AND IT IS NOT ANSWERED BECAUSE A COST
-   IS NOT A QUESTION.** On day 813 the woman of about fifty-two named what it cost her to stand at the foot of
-   that stair and see whether the bar was in the door, before anything else she said, unthanked, unbettered,
-   unacted on. **No later chapter may treat it as a complaint to be settled, and no chapter may have anybody
-   thank her for it late.**
-2. **AN ABSENCE WITHOUT A MORNING. NEW, AND CORRECT, AND UNDATABLE.** On day 812 a person was noticed not to
-   have gone up and nobody could put a morning to it. **A later chapter may not date it and may not supply a
-   figure for it.**
-3. **THE PAGE LOOKED AT TOGETHER. NEW, AND NOTHING WAS MADE OF IT.** On days 814 and 815 the book lay open on
-   the bench and the five strokes with a day against each and no sixth were seen, and nobody asked what the
-   book is for and nobody wrote. **A later chapter may not enter a sixth on the back of these two days.**
-4. **THE STAIR LIGHTED FROM BELOW. NEW, AND NOBODY REMARKED ON IT.** On day 819 the door stood open with the
-   light coming up it, and no mouth said which was wanted. On day 820 the fortnight of empty sockets was said
-   out loud for the first time. **Neither day moves the bar and neither day dates the rest of the fifty.**
-5. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
-   volume's own standing list at `outline/volume-17.md` §16 and the ten items of the block above. **THE
-   QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK OF DAY 440 IS NOT TRACED AND THIS IS THE TENTH VOLUME
-   RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED AT ANY VALUE. THE FIGURE THE VOLUME BEHIND THIS ONE
-   SPENT IS AT ZERO ON ALL TEN NEW FILES AND IS NOT RESTORED. THE SEVEN WORDS OF DAY 825 ARE IN NO MOUTH AND
-   WHAT THAT ROOM IS GOING TO SETTLE IS SAID NOWHERE.**
-6. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
-   AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER. ADRIAN VALE IS IN NONE OF THE TEN.**
-7. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-17/` does not exist and the review
-   dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`;
-   and `NOVEL_SPEC.md`'s Status section is owed by a human. NONE WAS OPENED, EDITED OR WORKED AROUND.**
 ---
 
-# THE SHAPE OF THESE CHAPTERS IS A DECISION AND NOT A DRIFT. NEWEST AND IT WINS.
+# WHAT THE PHASE THAT PLANNED VOLUME 19 DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
 
-**Recorded by the review-fix pass on `workspace/volume-17/batch-0002` because
-`logs/batch-0002.review.log` finding 2 raised it as a fault and the repair pass disagreed, and a
-disagreement that is not written down gets reopened by the next pass.**
+**THIS PHASE CLOSED NO THREAD, ANSWERED NO QUESTION, MENDED NOTHING AND PAID NOTHING. IT NAMED THE THREAD THAT
+EXISTED AT DAY 900, IT RECORDED THE ONE OWNER-LEVEL DEBT THAT WAS TERMINAL AT NINE HUNDRED CHAPTERS, AND IT OPENED
+THE ONE NEW THREAD THIS VOLUME IS ABOUT. Every thread in the standing layer above stands exactly as it stood.**
 
-**THE MEASUREMENT. All twenty chapter files on disk for this volume, days 801 to 820, both batches,
-carry two separators and the same three-block architecture: a first paragraph with hands on something, a
-date and the standing state, the middle movement, and a closing paragraph standing as its own block.**
-Block paragraph counts across the twenty run from three, six, one to eight, one, one — **the shape
-holds and the length inside it does not.** Batch 0001 wrote the shape before Batch 0002 began, so it is
-the volume's shape and not a drift of one batch.
+**1. THE NAMED MATERIAL OF `outline/ending.md`, WHICH WAS TERMINAL AT NINE HUNDRED CHAPTERS AND IS NOW NOT
+TERMINAL, AND THE DECISION IS THIS PHASE'S.** `state/volume-18-close.md` §6 item 1 and §9 named it: the Single
+Witness patch, the Charter of Two Worlds, twelve civic seals and a rotating quorum of seven active ones held in
+separate places, a public reckoning, a surrendered seat, a first charter-governed crossing, and an aftermath for two
+civilizations were **on no page of nine hundred chapters of this manuscript**, and the close named two repairs it
+could make and was not permitted to make either. **One of those repairs is *re-outline the last volume to carry that
+material*, and a close may not edit a chapter and this phase writes plans. `outline/volume-19.md` is that re-outlining
+and `outline/volume-19.md` §19.5 publishes what it pays of that file and what it does not, and `outline/ending.md`
+was read and not moved and not amended and is not contradicted.** **The thread is OPEN and it is owed to Volume 19's
+batches, and what is owed is that the seven words reach seven mouths on seven days and that the two books and the
+act and the resolution are on pages.**
 
-**IT IS REQUIRED IN PART. `outline/volume-17.md` §17.18 requires the closing paragraph of each chapter
-to state something not stated anywhere else in that chapter and §17.20 requires every chapter to carry
-at least one paragraph of three or more sentences holding a physical action. A shape that puts a
-physical action in the first movement and the day's one new fact in the closing movement serves both, and
-the batch record publishes the ten closings of Batch 0002 side by side because §17.18 calls that the only
-check in the plan done by a person and not by a script.**
+2. **THE QUESTION OF DAY 898 — what the man who came up that stair on 866 asked the man of about thirty-nine who
+   trades on a board, and was not answered and was not thanked.** **OPEN.** Carried at `outline/volume-18.md`
+   §16.7. **A day map exists for a day in which he and the tradesman are in one room for the first time since 878 —
+   day 939, where seven places are worked out — and this plan does not answer it and does not forbid a chapter from
+   hearing it asked again, and no chapter of days 901 to 950 answers it and no mouth in that room answers it.**
+   Carried at `outline/volume-19.md` §16.7.
 
-**IT IS NOT TO BE VARIED FOR THE SAKE OF VARIETY BY A LATER PASS.** The instruments that keep ten
-chapters from reading alike already exist and are already binding: §17.17 caps a closing movement that
-states nothing changed at two chapters in any ten; §17.18 puts six closing shapes off limits and
-forbids two chapters of a batch closing on the same construction; §17.6 caps the exchanges between one
-pair of people; §17.7 makes a paragraph with a bold mark and no quotation mark a fault at any value.
-**Adding a variety requirement on top of these would give the next writer a rule that pulls against six
-others, and the cheapest way to satisfy it would be padding, which §17.2 and §17.4 and the volume's own
-declared failure mode all forbid.**
+3. **THE STANDING QUESTIONS OF DAYS 346, 396, 445, 498, 548, 598, 648, 698, 748, 798 AND 848 — twelve, all open,
+   none answered, and eleven volumes running now that none is answered.** Carried whole.
 
-**WHAT WAS ACTUALLY A RUN, AND WAS REPAIRED IN THE SAME PASS.** Not the shape, the repetition. The
-declaration of the bar ran four chapters deep in the same words and is now three occurrences with no two
-adjacent; the flat formula that opens the room's inventory ran four deep and is now two; the stallholder's
-hollow ran five deep and is now two. **The refrain stands and the run is what came out.**
+4. **THE CONSENT FRACTURE.** **NOT MENDED AND NOBODY MAY MEND IT.** Carried at `outline/volume-19.md` §16.14.
 
----
+5. **THE FIFTH CONDITION.** **NOT GIVEN ON ANY OF THE FIFTY DAYS.** Same file and section.
 
-# WHAT THE THIRD TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+6. **MILESTONE TEN, NEW, AND IT IS PAID AS A PROMISE AND PAYING IT IS NOT A REPAIR.** On day 935 Tamsin Quill comes
+   up that stair and says one thing once and Adrian Vale says one thing once on the same morning, and **neither of
+   their names goes in any column of either book on any of the fifty days, and no chapter says a relationship is
+   repaired and no chapter says a condition is satisfied.** Carried at `outline/volume-19.md` §§3 and 6.
 
-**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0004/PROMPT.md`,
-WHICH WRITES CHAPTERS 0831 TO 0840 AND NOTHING ELSE. NO CHAPTER PAST 0830 EXISTS AND NO CHAPTER PAST 0830 IS TO
-BE WRITTEN BY ANY OTHER PHASE.**
+7. **THE MARK OF DAY 440, THE HAND THAT MOVED IT, AND THE WOMAN OF ABOUT FIFTY-FOUR.** **NOT TRACED, for the
+   twelfth time running.**
 
-1. **THE VOLUME'S ONE DECISION IS TAKEN AND IT IS ON A PAGE, AND NOTHING IS DONE ABOUT IT.** On day 825 the
-   decider named his own cost out loud first and then said the decision in his own mouth, and the wording is
-   held in the plan and on no page. **A later chapter may not print that wording, may not count it, may not
-   paraphrase it, and may not put it in a second mouth.** Nobody agreed with it, nobody argued with it,
-   nobody improved on one word of it and nobody was thanked for it, **AND NOTHING WAS DONE ABOUT IT AT ANY HOUR
-   OF THAT DAY OR OF ANY DAY SINCE, AND A LATER CHAPTER MAY NOT HAVE ANYBODY SETTLE IT, REOPEN IT, IMPROVE ON IT
-   OR CARRY IT ON.**
-2. **THE IRON CAME OUT OF THAT DOOR ON DAY 827 AND NOBODY IN THAT ROOM KNOWS ANYTHING ABOUT IT. NEW, AND IT MAY
-   NOT BE TRACED.** Somebody went up that stair and came down again before the light came back onto the flags,
-   and the iron was on the top step afterwards with the wiping in the dust of it. **No chapter may say who
-   lifted it, may guess at it, may report it to that room, or may ask anybody about it.**
-3. **THE ROOM CANNOT FIND OUT WHO GOES UP THAT STAIR. NEW ON DAY 829 AND IT IS THE FIRST TIME THAT ROOM HAS PUT
-   ITS OWN HAND TO IT.** Two men, both in the room at the fourth hour and both in it at the seventh, and no
-   way of saying which of them went up. **A later chapter may not answer this either, may not give that room an
-   instrument for it, and may not join it to the day-832 notice.** The resolution on day 845 gives that room one
-   morning of a different kind and may not touch this one.
-4. **A STOOL IN A CORNER NOBODY CAN GET AT. NEW ON DAY 821.** **No chapter may say why she moved it and no mouth
-   may ask her.**
-5. **A BOARD WIPED ROUND ITS THREE SETS OF FIGURES. NEW ON DAY 824.** **No chapter may ask who wiped it, and
-   the man of about twenty-seven is asked nothing on any day of this volume, and no chapter may put the wiping
-   on his hands.** The wall above the top edge of that board is its own thing and was washed once in the whole
-   of the flood.
-6. **THE WHOSE-HAND-IS-THE-WOOD-OF-A-SHUT-ROAD'S-FENCE QUESTION, UNANSWERED ON DAY 830.** A man out past the
-   last named house offered the wood of a fence on a shut road and the man of about thirty-four would not give
-   it away, and nothing was settled. **No chapter may settle it, may measure that fence, may move a post, may
-   put a withy on or take one off, and may not name the keeper of the Redroot gate.**
-7. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
-   volume's own standing list at `outline/volume-17.md` §16, the ten items two blocks above, and the ten items
-   of the block before it. **THE QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK OF DAY 440 IS NOT TRACED AND THIS
-   IS THE ELEVENTH VOLUME RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED AT ANY VALUE. THE FIGURE THE
-   VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN NEW FILES IN NARRATION AND IN EVERY MOUTH AND IS NOT
-   RESTORED, AND FROM DAY 826 THE RULE BINDS THE NARRATOR AS WELL, AND NO HEADCOUNT OF THAT ROOM IS PRINTED ON
-   ANY DAY.**
-8. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
-   AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER. ADRIAN VALE IS IN ONE OF THE TEN AND IN NO OTHER, AND HE
-   FAILED.**
-9. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-16/` does not exist and the review
-   dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`;
-   and `NOVEL_SPEC.md`'s Status section is owed by a human. NONE WAS OPENED, EDITED OR WORKED AROUND.**
-10. **AND THE TWO THINGS THE NEXT BATCH IS HANDED AND MAY NOT SPEND AND MAY NOT REHEARSE: the panel on day 837,
-    whose wording is in the plan and on no page, and the second cost on day 840, which is named by the man
-    whose own cost it is in his own mouth and is not on any page.**
+8. **THE WORD ON THE SECOND SLATE.** **STILL NOT PRINTED BY ANY FILE, AND THE SLATE IS NOW LIFTED.** On day 908 the
+   slate is taken off the shelf and turned over and put back the same afternoon, **and what is under the day cut
+   across the head of it is not printed and not asked about and not described.** Carried at `outline/volume-19.md`
+   §6.3 and §6.5.
 
----
+9. **THE WORD NEAR THE HEAD OF THE COLUMN ON THE RIGHT OF THE KEEPER'S PAGE.** **STILL NOT PRINTED AND STILL NOT
+   ASKED ABOUT.**
 
-# THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+10. **THE TWO WOMEN OF TWENTY-NINE, THE TWO MEN OF ABOUT THIRTY-EIGHT, AND THE STALLHOLDER OF ABOUT THIRTY-FOUR,
+    WHO IS TWO PEOPLE IN THIS REPOSITORY.** Never in one room, never merged, never settled in narration. Carried
+    whole.
 
-**This pass read `logs/batch-0003.review.log` and repaired against it, and the file of record is
-`reviews/volume-17/batch-0003.md`. The review was run by the same agent kind that wrote the chapters under
-it and this pass is that kind again. NO THREAD WAS CLOSED, ANSWERED OR WITHDRAWN, AND NO QUESTION WAS ASKED.**
+11. **THE NAME ON NO SURFACE, WHICH IS ABOUT TO BE A NAME IN A COLUMN.** **OPEN AND IT IS THE WHOLE OF THE
+    SUBJECT OF VOLUME 19.** The man who came up that stair on 866 said his own name out loud once in that room on
+    day 878 and it is on no board, in no column, in no register and on no bare piece of board anywhere in nine
+    hundred and fifty days. **On day 918 he writes it himself, in his own hand, in the column that holds figures,
+    with a day against it, and it is the first page in this manuscript on which that name appears as writing, and no
+    chapter prints it on any other day and no card file, prompt, state file or summary prints it at all.**
+    Carried at `outline/volume-19.md` §6.7 and §16.4.
 
-**THREE THREADS OPEN OR WIDENED BY THIS PASS, NONE OF THEM SETTLED.**
+12. **THE SPACE ABOUT TWO FINGERS WIDE ON THE MAN OF ABOUT THIRTY-NINE'S OWN BOARD, WHICH HAS BEEN EMPTY ABOUT NINE
+    YEARS.** **OPEN AND IT IS PAID ON DAY 924 AND IT IS PAID AS A FIGURE AND NOT AS A NAME.** He puts a rate in it
+    in his own hand, and nobody in that row is told what it is, nobody thanks him, and no chapter says how long it
+    had been empty and no chapter prints, explains, asks about or counts the space before that day. Carried at
+    `outline/volume-19.md` §16.6 and at the day map.
 
-11. **THE DAY-825 DECISION IS A LINE ON A PAGE WITH NO WORDS BEHIND IT, AND IT IS NOW A NAMED CONVENTION
-    RATHER THAN AN UNEXPLAINED ONE.** It stands as a bolded, quoted dash and nothing else. **A later chapter
-    may not resolve it, may not put any word behind it, may not paraphrase it, may not count it, may not
-    print the figure seven, may not say how many words it was, and may not have any mouth in that room say
-    what he said that day.** The wording is in `outline/volume-17.md` §6.6 and is on no page and not in this
-    file and not in the batch record. **If a later chapter needs that room to have heard something on day 825,
-    it may not be this line.**
-12. **THE §17.17 CLOSING CEILING IS OVER IN THE FIRST TWO TENS OF THIS VOLUME. NEW, AND IT IS OWED BY THE
-    CLOSE.** Counted closings in days 801 to 810 are four and in days 811 to 820 are five, and the count for
-    days 821 to 830 is two after one closing was reworded, and the worst window of any ten across the
-    volume's thirty chapters runs from day 812 to day 821 with five. **No chapter of days 831 to 840 may
-    push the rolling window up, and the count and the reading are published at
-    `state/batch-summaries/volume-17-batch-0003.md` so that the close does not re-derive them.**
-13. **THE REPEATED-SENTENCE RUN IN THE CHAPTERS, MEASURED AND NOW PUBLISHED, WITH THE NINE THAT REMAIN NAMED
-    AS FURNITURE.** The longest run of consecutive words any two of days 821 to 830 shared was thirty and is
-    twenty, and the twenty is the census handle for the woman of about fifty-two, which stands in ten of the
-    volume's thirty files and is prescribed by `state/character-state.md`. **A census that changes its wording
-    is a census that cannot be counted, so a next writer must not reword those handles to shorten a run, and
-    must reword the sentence around a handle instead, which is what this pass did.**
+13. **THE GATE AT THE FAR END OF THE SHUT ROAD.** **OPEN AND IT IS SHUT FOR ONE MORNING ON DAY 933 AND OPEN ON EVERY
+    OTHER MORNING OF THE FIFTY, AND ABOUT NINE PEOPLE ARE ON THAT ROAD ON THAT MORNING AND FOUR OF THEM DO NOT GET
+    THROUGH IT, AND NOBODY THANKS ADRIAN VALE FOR IT AND NOBODY SAYS HE WAS WRONG.**
 
-**THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT TO
-`state/archive/open-threads.md.volume-17-batch-0003-full.md`, UNDELETED AND VERIFIED BY SHA256 BEFORE
-ANYTHING WAS REMOVED.** What stays is the thread table at day 750, the three shared sentences inside Volume
-15, the two newest batch blocks, the standing decision on the shape of these chapters, and this block.
-**The controller faults stand and were not touched: `state/phase-ledger.json` still reads
-`phase-000-bootstrap`, `reviews/volume-16/` does not exist, and `NOVEL_SPEC.md`'s Status section is owed by a
-human.**
+14. **THE BAR, THE BARE BOARD, THE FENCE, THE ROPE, THE SATCHEL, THE TALLY-BOARD, THE STOOL AND THE SECOND
+    HEAT-FREE TROUGH — UNMOVED, except the two days §1 and §12 of `state/continuity.md`'s newest block name.**
 
-# WHAT VOLUME 18, BATCH 0005 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+15. **THE CALENDAR FAULT AT `chapters/volume-18/chapter-0864.md:5`**, which carries the five hundred and fifty-ninth
+    day of the Bare Month where day 864 less 315 is the five hundred and forty-ninth. **OWED BY A PHASE THAT WRITES
+    CHAPTERS AND NOT BY A PLAN, AND A PLAN MAY NOT REPAIR IT.**
 
-**Next phase is close, `workspace/volume-18/close/PROMPT.md`, writing `state/volume-18-close.md` and no chapter; it does not exist and this batch does not create it. Chapters 0851 to 0900 on disk. This batch closed no standing thread, answered no question, settled nothing.**
+16. **THE BARE MONTH.** **NOT DECLARED OVER IN THIS PLAN AND THE SEVENTH FORM ARRIVES ON ONE BOARD ON ONE DAY.**
+    `outline/volume-18.md` §14.2 named the mechanism for the seventh form and this volume uses it: **on day 940 a
+    person says the cost out loud first and nobody refuses him, and on day 950 one mark goes on the bare piece of
+    board under the date which is not a day of the Bare Month, and no chapter names the month and no chapter says
+    how many days it has.** Carried at `outline/volume-19.md` §6.10 and §14.2.
 
-**EIGHTEEN OF VOLUME 17 CARRIED WHOLE THROUGH 900 AND STILL STAND.** The eight taken up 881–890 (space two fingers, 881 walking-space question, second person on step below never in one room with the man who came up that stair on 866, one trip where two had been with older sill shape, flats place told to nobody, bench knot, two-hands man, post-tenth-hour unaskable) all stand after 900 with the additions below.
-
-**EIGHT TAKEN UP 891–900 AND NOT SETTLED.** Double answers ordinary on 891/893 with neither called right. Tuesday sentence Thursday again on 892 with older sill shape still undated. Unheard asking of 893 with leaf turned, what/cost/memory all unstated. Words once for the one on 894 with no thanks and no decision and two plain things. Two down one staying on 895 with no forgiveness/condemnation and no handing. Empty road-top gate on 896. Drying flags with weather talk on 897. Unheard question to one man on 898 unanswered and unheard. Two boards off on 899. Last image on 900 with gate left open. **Second person of 883 on no page after 883; final antagonist of 894–895 on pages with no descriptor/age/number and empty-line words; the man who came up that stair on 866 and second person never in one room.**
-
-**CARRIED UNPAID.** §16 eighteen, spent figure zero un-restored, no room count, mark 440 untraced, fourth-of-four uncounted, no road elapsed, market-walker off page, fracture unmended, fifth condition not given, milestone nine only, nobody stronger, ending unmoved. Human-owed debts unchanged.
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. THIS BLOCK IS NEWEST AND IT WINS.
-
-**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
-`reviews/volume-18/batch-0005.md`. The reviewer was not invoked and this pass is the agent kind that wrote the ten
-chapters. NO THREAD WAS CLOSED, ANSWERED OR WITHDRAWN, AND NO QUESTION WAS ASKED IN THE REPAIR.**
-
-14. **THE CLOSE IS NO LONGER OWED AND NO LONGER NAMED AS MISSING. IT NOW EXISTS.**
-    `workspace/volume-18/close/PROMPT.md` did not exist when this pass began and two files said so in their own
-    text. It is written, on the pattern of `workspace/volume-17/close/PROMPT.md`, and it is the only next phase
-    this repository has. **It writes `state/volume-18-close.md` and no chapter, and a close does not dispatch, so
-    there is no phase after it and there is no Volume 19.** The debt the Batch 0005 record named and did not work
-    around is closed by the file existing, not by anything being answered.
-15. **THE NAMED MATERIAL OF `outline/ending.md` IS STILL ON NO PAGE, AND AT NINE HUNDRED CHAPTERS IT HAS NO VOLUME
-    LEFT TO BE PAID IN. THIS IS NOW A THREAD WITH NO OWNER AND IT IS THE LARGEST ONE.** `outline/volume-18.md`
-    §16.2, §18 and §19.5 make the absence a decision of the plan and §21.4 carries it as a debt, and the plan also
-    forbids any page of these fifty naming a charter, a seal, a council, a quorum, an assembly, a crossing or a
-    witness. **A review returned it as a structural fault, and it is one, and it cannot be paid by a batch, a
-    repair pass or a close: either `outline/ending.md` is amended to declare the gate-in-rain image canonical, or
-    the last volume is re-outlined to carry that material.** That decision belongs to the owner of those two files.
-    **No chapter, state file, prompt or record of this repository may print any of it, and none now does.**
-16. **THE MEAN LENGTH OF THESE CHAPTERS AND THE FACT THAT SIX OF SEVEN PEOPLE IN THAT ROOM CARRY NO NAME ARE BOTH
-    CARRIED, NEITHER IS REPAIRED, AND NEITHER IS THIS PASS'S TO REPAIR.** The mean is set at the outline layer and
-    every volume behind this one is shorter than the one before it except this one, which is longer than Volume 17.
-    The unnamed cast is the volume's own method and §7.2 gives every person an age and a trade as their handle;
-    a review returned it as a readability fault and it is a readability fault, and it is not fixed by renaming seven
-    people across eighteen volumes inside a repair pass.
-17. **AND THE FIGURES THIS PASS RE-RAN, WITH THE ONE THAT DISAGREED WITH ITS OWN RECORD PUBLISHED BOTH WAYS.** The
-    longest run of consecutive words any two of 0891 to 0900 share was published at 20 by the batch record and
-    measured at 21 on this pass's tokenising, and is 18 after the rewordings, and every run at seventeen or over is
-    the standing state of one sleeve wet and one sleeve dry in words the plan prescribes. **`nobody` was published
-    at 39 and measures at 41 on the reading `\b[Nn]obody\b` in the ten bodies, before the rewordings that removed two
-    chains of it, and 38 after them.** Both figures are published with their readings because a record that publishes
-    only the one that agrees with it is a record of a different check.
+17. **AND THE THREAD THIS WHOLE PHASE EXISTS TO MOVE, WHICH IS A DEBT AND NOT A QUESTION: the passage of nine hundred
+    and fifty days and eighteen volumes described in `NOVEL_SPEC.md` and `outline/series.md`, neither of which this
+    phase opened.** Named at `outline/volume-19.md` §21.4 items 1 and 2.

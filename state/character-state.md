@@ -3,17 +3,15 @@
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS
-`state/archive/character-state.md.volume-18-batch-0004-full.md`, verified by SHA256 against the live file before a single
-line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE BATCH 0004 PASS WROTE ITS OWN BLOCK IN PLACE OF
-THE BATCH 0003 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0871 TO 0880, AND IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES
-NOT HOLD THE BATCH 0004 BLOCK. THE COPY TAKEN BY BATCH 0003 IS AT
-`state/archive/character-state.md.volume-18-batch-0003-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER BLOCK
-IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-19-outline-full.md`,
+verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
+BEFORE THE PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND
+WROTE ITS OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND
+THE EARLIER COPIES UNDER THIS FILE'S OWN NAME ARE STILL IN `state/archive/` AND WERE NOT DISTURBED.**
 
 **THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
-SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
-smaller than it found it or to say in its own record why not.**
+SAID SO AND WAS RIGHT. IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file smaller
+than it found it or to say in its own record why not. AND THIS PASS LEFT IT SMALLER.**
 
 ## THE PROTAGONIST
 
@@ -135,201 +133,75 @@ WOMAN.**
 
 ---
 
-# WHAT THE SECOND TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
-
-**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
-or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
-unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days.**
-
-**THE WOMAN OF ABOUT FIFTY-TWO — the only person whose business moved, once.** On day 813 she said out loud,
-in her own mouth and before she said anything else that morning, what it has cost her to stand at the foot of
-that stair in the wet and see whether the iron was in the door. Nobody thanked her, nobody bettered one word,
-nobody asked her a second question, and nothing in that room was done about it at any hour of that day. **SHE
-WAS NOT ASKED WHAT SHE DOES AT THE FOOT OF THAT STAIR ON ANY OF THE TEN DAYS, AND NO CHAPTER SAYS WHY SHE
-GOES. HER STATE AT DAY 820: hands at the sides of her dress, as ever.**
-
-**THE KEEPER — carried the book and opened it.** On day 814 she carried the register the length of the room,
-set it square on the bench and opened it where anybody could see the page, and nobody asked what it is for. On
-day 815 she held the page against the draught while the five strokes with a day against each and no sixth were
-looked at, and nobody said it out loud. On day 812 she said a person had not come up, and nobody put a morning
-to it. **She was asked nothing about the book on any of the ten days.**
-
-**THE MAN OF ABOUT THIRTY-NINE — said nothing that moved anything.** He stood at the near end through the cost
-of day 813 without turning round. He looked at the open page on day 815 and at the empty place below the last
-stroke. On day 818 he stood a morning at one end of the market beside the man of about thirty-four and neither
-asked the other. **His board stayed under his arm and no mouth asked him about the bare place on it.**
-
-**THE MAN OF ABOUT THIRTY-FOUR — his hand did not go into his pocket.** He squared his board, answered in
-about four words where the iron is lying on day 816, and tipped nothing, wrote nothing, asked nothing. **His
-chalk is in his inside breast pocket and it has not been out, and the volume's one day for it is 837.**
-
-**THE MAN OF ABOUT THIRTY-ONE — carried and stood.** He stood at the far end through the cost of day 813 and
-said nothing. On day 817 he carried boards under the awning with the man of about thirty-eight. On day 819 he
-came down past the open door and said the light is on the stair, and the keeper answered it and nothing came
-of it. **His satchel stayed under his arm with its flap down and was not opened.**
-
-**THE MAN OF ABOUT THIRTY-EIGHT — carried in weather.** On day 817 he carried a stack in under an awning out
-of the weather off eleven miles of flats, steadying his barrow with one hand. **The board face up under two
-lines of grit was not wiped, not turned and not gone near.**
-
-**THE MAN OF ABOUT TWENTY-SEVEN — looked at two empty sockets.** On day 820 he set his bucket down at the foot
-of that stair and looked at the sockets with the dust lying in them. **He was asked nothing on any of the ten
-days.**
-
-**ADRIAN VALE — in none of these ten and in no other of them: 0 of 10.** For ten consecutive chapters nobody
-in this manuscript is in that room who could open a threshold. Stage 2 on all ten days, no working, no
-threshold, the other world not named once, `passage` and `privilege` at zero.**
 ---
 
-# WHAT THE THIRD TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+# WHAT THE PHASE THAT PLANNED VOLUME 19 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
 
-**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
-or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
-unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days.**
+**NO PERSON WAS INVENTED, NO DESCRIPTOR TAKEN, NO AGE GIVEN, NO HANDLE CHANGED, NO SECOND HANDLE ADDED AND NO TWO
+PEOPLE MERGED. The standing layer above stands, and this block records what Volume 19's day map does to the people on
+it. None of it is done yet: this phase wrote no chapter.**
 
-**THE MAN OF ABOUT THIRTY-NINE — in seven of these ten, and he is the only one of them who decides anything.**
-On day 821 he said that there was room at that end of the bench this morning. On day 823 he said a thing again
-at the far end of that bench in his own words and nobody told him he had it wrong. On day 824 he put the flat of
-his hand on the wall below the three sets of figures and found the board wiped round them and asked nobody
-who. On day 825 he named the cost of what he was about to say out loud, in his own mouth, before he said it,
-and then said it. On day 826 nobody asked him whether he was sure of it and he was asked nothing else. On day
-828 he was in that room the whole morning and said one flat thing about where the weather comes in, and a
-sentence aimed at him by the man of about thirty-one was turned into the window sill before it finished and he
-never knew it was aimed at him. On day 829 he was one of two men that room could not place. **HIS BOARD STAYED
-UNDER HIS ARM OR AGAINST A LEG ON EVERY ONE OF THE TEN DAYS, NO MOUTH ASKED HIM ABOUT THE NAME THAT IS NOT ON
-IT, AND HIS STATE AT DAY 830 IS UNCHANGED.**
+**ADRIAN VALE IS IN NINE OF THE FIFTY DAYS AND IN TWO MORE, AT `outline/volume-19.md` §4.1, AND THE NINE ARE 903,
+909, 915, 921, 927, 933, 935, 939 AND 940, WITH 941 PERMITTED AND 943 MAY ALSO CARRY HIM.** Two obtained and seven
+not, and both of the two are the same kind of thing: **a man seeing something happen, and neither is a man being
+useful.** On 933 he shuts the gate for one morning, about nine people are on that road and four of them do not get
+through it, and he obtains nothing and nobody thanks him and nobody says he was wrong. **No reviewer may read the two
+as the volume getting better or worse.** He is Stage 2 on all fifty days, no working is performed, no threshold is
+opened, nobody offers him a workway, he is aged nowhere, and **his hands are on nine things and none of them is a
+person.** On 935 he obtains one sentence he has no way of using; on 940 he asks to be put down in a book with
+everybody else and what he gets is a loss he can hold.
 
-**THE WOMAN OF ABOUT FIFTY-TWO — moved one thing and said two things.** On day 821 she carried that stool the
-length of the side of the room and set it where nobody can get at it, and the man of about thirty-nine's one
-sentence about it was met with two words and nothing else. On day 826 she said the light had come round further
-than it had the day before and was not believed and did not say it again. **SHE WAS AT THE SIDE OF THAT BENCH
-WITH HER HANDS AT THE SIDES OF HER DRESS ON EVERY DAY SHE WAS IN IT, NO MOUTH ASKED HER WHAT SHE DOES AT THE FOOT
-OF THAT STAIR ON ANY OF THE TEN DAYS, AND NO CHAPTER SAYS WHY SHE GOES.**
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER.** Her second slate, and a column on the right of one
+page with a word in it near the head of it that is not in her hand. **On 908 she takes the slate off the shelf and
+turns it over and puts it back the same afternoon, and it is the first hand on it since before this flood. On 918
+she enters the sixth stroke in the register in her own hand with a day against it, not struck. On 925 she announces
+that there is a second book on that bench which does not answer to her, and she names her own cost out loud first.
+On 940 she says Adrian Vale's one thing back to him in her own words. On 943 a person who was not there disputes a
+line in the second book and she does not tell him he is wrong and she turns the book so he can read it.** The word
+under the day cut across the head of the slate is never printed and never asked about.
 
-**THE MAN OF ABOUT THIRTY-FOUR — said a thing about the wood and would not give it away.** He said round them,
-not over them, about that board on day 824 and asked nobody who had wiped it. He held one side of a trestle leg
-against the man of about thirty-one on day 823 without giving the other one. He walked out past the last named
-house on day 830 to the top of that shut road and said the wood was not his to give away, and the man there
-offered it and nobody wanted it. **HIS CHALK IS IN HIS INSIDE BREAST POCKET AND IT HAS NOT BEEN OUT ON ANY OF
-THE TEN DAYS, HIS HAND DID NOT GO INTO THAT POCKET AT ANY HOUR, AND THE VOLUME'S ONE DAY FOR IT IS 837.**
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD.** His board stands out in his own row with the face of it out,
+nineteen rates, and a space about two fingers wide at the foot of the column between the other two, empty about nine
+years. **On 924 he puts a figure in that space in his own hand and it is a rate and not a name, and nobody in that
+row is told what it is and nobody thanks him and no chapter says how long it had been empty.** He says the word
+*council* out loud on 921 after naming the cost of saying it, and **on 939 he is in that room with the man who came up
+that stair on 866 for the first time since 878, and seven places are worked out between the two of them and the
+keeper.** **The question of day 898 was asked to him and is not answered, and it is not answered in this volume
+either.**
 
-**THE MAN OF ABOUT THIRTY-ONE — turned the bench, kept quiet, and was not asked.** On day 823 he turned that
-bench end for end and went and stood at the far end of it, where the light had not got to. On day 827 he said
-the light was on that stair and that it was not on it in the morning, and nobody asked him anything about it.
-On day 828 he began a sentence about the decider and turned it into the window sill. On day 829 he went up and
-down that stair in front of a room that could not tell afterwards who had gone up. **HIS SATCHEL STAYED UNDER
-HIS ARM WITH ITS FLAP DOWN AT EVERY HOUR IT IS SHOWN AND WAS NOT OPENED.**
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG.** His board stands face in against his own
+trestle and his chalk has not been out of his inside breast pocket since the six hundred and seventy-eighth day and
+no chapter of this volume takes it out. **He says the word *crossing* out loud on 905 after naming the cost of
+saying it, and it is the first of the seven words in this volume.** **HIS DESCRIPTOR IS ONE OF TWO PEOPLE IN THIS
+REPOSITORY AND NO CHAPTER OF DAYS 901 TO 950 PUTS THE TWO IN ONE ROOM.**
 
-**THE MAN OF ABOUT TWENTY-SEVEN — looked at a bottom step in the dark and was asked nothing.** On day 827 he
-set his bucket down at the foot of that stair with his hand flat on the stone of the bottom step while the light
-stopped short of it, and he was in that room on the morning of the decision with his bucket at his feet and his
-rag over his shoulder and nobody asked him one word. **HE WAS ASKED NOTHING ON ANY OF THE TEN DAYS.**
+**THE WOMAN OF ABOUT FIFTY-TWO.** Hands at the sides of her dress, a stool she carried out of a room and left against
+a far wall, and a question asked and not answered on day 898 which stays unanswered. **She pays the first cost of
+this volume on 903 and the third on 916, she is thanked for neither, and on 950 she puts the one mark on the one
+board that has nothing on it and nobody asks her what it is.** She is the only person in this volume who pays a cost
+on a day that is not one of the seven word-days.
 
-**THE MAN OF ABOUT THIRTY-EIGHT — lost the near end of a load to a stranger in the flags.** On day 822 he came
-in at that yard with his barrow, had to swing wide over the dry crown to get past Adrian Vale, put a wheel into
-the hollow and the near end of his load into the water, and went on up the yard without looking back. **The
-board face up on the stack under two lines of grey grit was not wiped, not turned and not gone near on any of
-the ten days and there is no third line of grit on it.**
+**THE MAN OF ABOUT THIRTY-FOUR'S CHALK, THE MAN OF ABOUT THIRTY-ONE'S SATCHEL WITH A FLAP DOWN, THE MAN OF ABOUT
+TWENTY-SEVEN'S BUCKET AND RAG AND THE TROUGH WITH NO HEAT FETCHED ON ANY OF THE FIFTY DAYS, THE MAN OF ABOUT
+THIRTY-EIGHT'S TALLY-BOARD WITH TWO LINES OF GREY GRIT ACROSS IT, THE MAN OF ABOUT SIXTY'S HAZEL MALLET AND HANDCART,
+THE MAN OF ABOUT FIFTY-SEVEN'S LENGTH OF NEW ROPE WHICH NO HAND LIFTS AND WHICH ADRIAN VALE'S HANDS REST NEAR ON 927
+WITHOUT LIFTING IT, THE WOMAN OF ABOUT SIXTY-NINE WITH HER TIN ASKED NOTHING AND ASKING NO SIXTH, AND THE WOMAN OF
+ABOUT FIFTY-FOUR WHO IS NOT IN THAT ROOM ON ANY OF THE FIFTY DAYS — all unchanged, all carried whole.**
 
-**THE KEEPER — turned leaves, carried nothing new, and asked nothing.** **THE REGISTER WAS NEVER CARRIED THE
-LENGTH OF THAT ROOM ON ANY OF THESE TEN DAYS AND STOOD ON ITS SHELF EVERY MORNING OF THEM, the second slate
-stood behind it and was not picked up, not turned over and not written on, the one word in the column on the
-right of that page was not printed and was not referred to, no sixth figure was entered, and no mouth in that
-room asked her what the book was for on any of the ten days.**
+**THE MAN WHO CAME UP THAT STAIR ON 866.** One sleeve of his coat wet to the shoulder and the other dry, and the
+handle may not be given to anybody else, may not be varied and may not be explained by any mouth on any of the fifty
+days. **On 918 he says out loud, before anything else that morning, what it has cost him to be a person who is in no
+book, and then he writes his own name in the second book in his own hand, and nobody thanks him and nobody asks him
+why and nothing whatever is done about it at any hour of that day.** His name is held at
+`outline/volume-18.md` §6.8 and is printed in this file nowhere.
 
-**ADRIAN VALE — in one of these ten and in no other: 0822.** His hands in the water standing in a hollow of the
-flags at the side of the yard at the near end of the flats, to have that hollow dry before a barrow came down
-it, **not obtained**; the cause of a wheel going into that hollow and of the near end of a load of boards
-standing in the water while the run-off went back into it. Thanked by nobody, told nothing, useful to nobody,
-with nobody waiting for him to be useful. Stage 2 on all ten days, no working, no threshold, the other world
-not named once, `passage` and `privilege` at zero, and he is not on that stair on the last seven mornings of the
-volume for a reason at `outline/volume-17.md` §6.9 that this batch does not reach.
+**TAMSIN QUILL.** A folded sheet of road with about nine places on it. **On 935 she comes up that stair and says one
+thing once and Adrian Vale says one thing once on the same morning and neither of them says it twice, and neither of
+their names goes in any column of either book on any of the fifty days. No chapter says a relationship is repaired
+and no chapter gives the fifth condition and no chapter puts them in one room and one life.** Milestone nine was paid
+on 888 as a refusal; milestone ten is paid here as a promise, **and paying one is not mending the fracture and the
+fracture is not mended.**
 
----
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**This pass read `logs/batch-0003.review.log` and repaired against it, and the file of record is
-`reviews/volume-17/batch-0003.md`. NOTHING ON THE PEOPLE CHANGED: no descriptor altered, no age moved, no
-trade changed, no second handle added or removed, no name given and no name spoken, nobody got stronger, and
-Tamsin Quill is at zero across the ten days. Six sentences in five chapters were reworded and no mouth was
-given or taken a word.**
-
-**AND THE ONE FACT ABOUT THE HANDLES THAT THIS PASS LEARNS BY MEASURING, WHICH A NEXT WRITER NEEDS AND WHICH
-THE BATCH RECORD ALSO CARRIES: THE HANDLES IN THE STANDING CAST ABOVE ARE WHY NINE SHARED RUNS SURVIVE IN
-THESE TEN FILES, AND THEY ARE NOT REWORDED.** The longest run of consecutive words any two of days 821 to
-830 share is now twenty words, and it is the woman of about fifty-two at the side of that bench with her
-hands at the sides of her dress, which appears in ten of the volume's thirty files and in three of these ten;
-the others are the man of
-about thirty-four's hollow, the one window and the bench wood, the keeper at the near end with the register
-on the shelf behind her, the man of about thirty-nine saying a thing into the middle of that floor that
-nobody asked him for, the man of about thirty-one going up and down that stair, and the man of about
-thirty-four at the far end. **The thirty-word run that this pass reworded was not a handle — it was two
-chapters repeating one man's whole arrival — and that is the distinction: a handle is prescribed and a
-repeated action is a fault.**
-
-**AND ONE CONVENTION ABOUT A MOUTH, PUBLISHED SO IT IS NOT INHERITED UNEXPLAINED. On day 825 the man of
-about thirty-nine says the volume's one decision and the line stands as a bolded, quoted dash holding no
-words.** No later chapter may resolve it, put words behind it, paraphrase it, count it, or have any mouth in
-that room say what he said that day. **His chalk stayed in the inside breast pocket on all ten days and his
-hand did not go into that pocket at any hour, and the volume's one day for it is 837.**
-
-**AND ADRIAN VALE IS IN ONE OF THESE TEN AND IN NO OTHER AND HE FAILED IN IT.** His hands were in the water
-standing in a hollow of the flags at the side of that yard at the near end of eleven miles of flats and he
-wanted it dry before a barrow came down it, published `no`, and he is the cause of a wheel going into that
-hollow and of the near end of a load of boards standing in the water. Thanked by nobody, told nothing, useful
-to nobody, with nobody waiting for him to be useful. **The pass made one thing about that day clearer and
-changed nothing in it: the wheel that had been running wide of the hollow is now named as the wheel that came
-down into it, so the mechanism of what he caused reads clean.**
-
-**THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT TO
-`state/archive/character-state.md.volume-17-batch-0003-full.md`, UNDELETED AND VERIFIED BY SHA256 BEFORE
-ANYTHING WAS REMOVED.** What stays is the standing cast with its handles, the handles that are not people, the
-standing disagreements, the two newest batch blocks and this block.
-
----
-
-# WHAT VOLUME 18, BATCH 0005 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
-
-**No descriptor altered, no age moved, no trade changed, no handle added/removed, nobody stronger, no stage printed, `passage`/`privilege` zero. Held wordings untouched; 0894 and 0898 words stand as empty lines.**
-
-**THE ONE OF 866.** On eight of these ten (891–895, 897–899; outdoors 896 and image 900 excepted) with one sleeve wet to shoulder and other dry, hands variously behind back to break the mould; narration from 879 carries him by the held wording as word for him only, on no surface, asked nothing, counted against nothing. On 895 he stays while two go down; on 898 he puts the unheard question to one man at the near bench end in daylight with date behind them.
-
-**ADRIAN VALE IN 893, 899, 900.** 893: page in own hand unreadable, wanting one question twice, `no`; causes bucket wide and spill; unheard seventh-hour asking, leaf turned. 899: near end of stack on barrow, wanting dry by fourth hour, `no`; causes two boards off onto flags while holding. 900: empty hands, answering child in one sentence, stepping aside then walking far side. Thanked never, told never, useful never.
-
-**OTHERS.** Keeper: hand on page, leaf work, double answers, unheard things unremarked. Stallholder/man-34: board across knees face in, hand over pocket on 897–898 with nothing out, rate wanting day. Man-39: far/near bench ends, knot/thumb, double answers, two-hands stair unquestioned, unanswering on 898. Man-27: bucket/rag/trough thread, questions, top-step trip on 895. Woman-52: hands at dress sides, wall, alone with stool/book on 897 with three-sentence looking, two plain things one hers on 894. Man-31: satchel flap down unopened, question-asker 891/893, sayer 894, stair-goer 895. Man-38: barrow/tally/grit, stack 899, place told to nobody. Man-60: top road, cart/mallet, no post moved. Tamsin Quill: far side 900 with book under arm, one short answer. Child: one question with `players` in mouth, first since Volume 03, expressly allowed.
-
-**DISAGREEMENTS STAND.** Stallholder two people never in one room; two men-38 two people; two women-29 never in one room; man-37 unavailable; no possessive off approximation; full handle first then short.
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. THIS BLOCK IS NEWEST AND IT WINS.
-
-**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
-`reviews/volume-18/batch-0005.md`. The reviewer was not invoked and this pass is the agent kind that wrote the ten
-chapters. NO DESCRIPTOR ALTERED, NO AGE MOVED, NO TRADE CHANGED, NO HANDLE ADDED OR REMOVED, NOBODY STRONGER, NO
-STAGE PRINTED, `passage` AND `privilege` ZERO, NO HELD WORDING TOUCHED, AND 0894 AND 0898 STILL STAND AS EMPTY
-LINES.**
-
-**ONE ENTRY IN THE BLOCK ABOVE WAS WRONG AND IS CORRECTED HERE.** It gave the stallholder's hand over the pocket on
-897 and 898. **It is 898 alone: 897 is the woman of about fifty-two alone before light with the stool and the shut
-book, and there is no pocket in that chapter and no hand goes into one.** The card at the head of
-`state/batch-summaries/volume-18-batch-0005.md` gives that day correctly and the slip was in this file only.
-
-**AND THE ONE THAT WAS NOT WRONG IN THE STATE LAYER BUT WAS WRONG ON THE PAGE, WHICH IS WORSE, IS THE RULE AT THE
-FOOT OF THE BLOCK ABOVE: full handle first, then short.** 0898 broke it. Its opening carried the short handle and
-then stuttered *his own* three times in one sentence, and the full handle arrived in the second paragraph. **The
-opening now gives the man of about thirty-four who keeps a stall two stalls along in full, the standing paragraph
-carries the stallholder, and every later mention is the stallholder or a pronoun — which is the rule this file
-already published and the chapter had stopped obeying.**
-
-**THE HANDLING OF THE MAN OF 894 AND 895 IS TIGHTER BY ONE CLAUSE AND ITS FACTS ARE UNCHANGED.** He has no
-descriptor, no age, no number and no name, he is on no surface, and no mouth asks him what he is. The one clause
-that tied him to a stair he had come up before is gone, **so that he cannot be read as the second person of 883, who
-is on no page after 883 and is never to be merged with him or with the man who came up that stair on 866.** He is
-still given two hands empty at his sides, the light finding his face, and he still goes down that stair on 895 past
-the bar without touching it while the third stays.
-
-**AND THE CONTRADICTION ON 897 IS GONE: the woman of about fifty-two is in that room before light and is not in
-the arrivals list when it fills.** She stands where the stair put her, with her hands at the sides of her dress, for
-the rest of that morning, she says nothing about the stool or the book, and the stool and the shut book are
-untouched at the end of it. No possessible was built off an approximation anywhere in the ten files after the
-repairs, and the census handles stand word for word where the plan requires them.
+**AND NO NEW PERSON APPEARS IN VOLUME 19 AND NO DESCRIPTOR IS TAKEN FROM THE POOL AT `outline/volume-19.md` §19.4,
+WHICH IS THE FIFTH VOLUME RUNNING A NEW PERSON HAS BEEN GIVEN NO AGE. Seven places, about eleven standing figures and
+two books, and the plan does not need the pool.**
