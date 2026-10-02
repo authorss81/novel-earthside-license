@@ -190,12 +190,57 @@ PHASE, NO PROMPT AND NO DIRECTORY.**
 
 ---
 
-## WHERE THE WORK STANDS AFTER VOLUME 18, BATCH 0005. NEWEST AND IT WINS.
+## WHERE THE WORK STANDS AFTER VOLUME 18, BATCH 0004. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
 
-**TEN CHAPTERS, TEN DAYS, DAYS 891 TO 900, WEDNESDAY TO FRIDAY, AND THE MANUSCRIPT STANDS AT NINE HUNDRED.** Calendar re-derived from day 1 Tuesday and ordinal day less 315; all ten agree with `outline/volume-18.md` §14.3. Nine hundred chapter files on disk against a plan of nine hundred across eighteen volumes; no chapter past 0900 exists and none is to be written. `outline/ending.md` read and not moved.
+**TEN CHAPTERS, TEN DAYS, DAYS 881 TO 890, SUNDAY TO A TUESDAY, AND THE MANUSCRIPT HAS TEN DAYS LEFT IN IT.** The
+calendar was re-derived in this run from two figures and two figures only, day 1 being a Tuesday and the Bare-Month
+ordinal being the day less three hundred and fifteen, and all ten agree with `outline/volume-18.md` §14.3. **There are
+eight hundred and ninety chapter files on disk and the series plan is nine hundred, so Chapters 0891 to 0900 are the
+whole of what remains and they are the last batch of this manuscript.** `outline/ending.md` was read before the next
+prompt was written and is not moved.
 
-**ON TABLES, SHELVES AND STAIRS AFTER 900.** Register open on the bench with five strokes and a day each, none struck, no sixth; second slate behind it untouched. Board of the man of about thirty-nine out in his row face out with the top writing opened where water crossed it. Stallholder board face in. Chalk in his pocket every hour. Bar along the top step out of sockets. Date in chalk outside the door with bare board a finger's width off under it, nothing on it. Store door a hand's breadth across. Trough cracked letting water out. Stool a foot out with dust gone off near leg. Outside board on one nail, hole empty above. Two hollows as they stood. Rate at foot of stallholder board still wanting its day. Two shapes in sill dust under newer one. Question of 881 where it was put. Man of about thirty-nine going up with two hands and no why given. Gate at far end of shut road left open in rain after waiting went through.
+**THE FOUR THINGS THE PLAN GIVES THIS VOLUME AND THIS BATCH REACHED, AND NONE OF THEM IS ON A PAGE OF THESE TEN DAYS IN
+ANY WORDS.** The panel of 886 is printed once, on `chapters/volume-18/chapter-0886.md`, fifty-nine words, plain, in a
+block of its own, and a search across every chapter file, state file, batch record and prompt returns that one page and
+no other. The two lines of 890 stand on that page as three bolded quoted lines holding no words, two of them from him
+and the third the man who came up that stair on day 866 saying the same thing back in his own words. **The name said out
+loud once in that room on 878 is in narration on eight of these ten pages, sixteen times, as a word for that man and for
+nothing else, and it is on no board, in no column, in no register and on no bare piece of board.** The question of 898 is
+not among these ten days.
 
-**MUST CARRY.** Double answers of 891/893 ordinary and unthanked; unheard seventh-hour asking of 893 with leaf turned; words said once for the one on 894 with room deciding nothing; two down and one staying on 895 with neither forgiveness nor condemnation and no handing to a side; empty gate of 896; drying flags of 897; unheard question to one man of 898 unanswered; two boards off a stack on 899; rain-gate-waiting-child-answer-book of 900. After tenth hour of 890 no mouth can ask him anything — rendered only as silence, no gone, no why, none missed out loud; Adrian Vale in 893, 899 and 900 with no why given for three and not seven.
+**WHAT IS ON THE TABLES AND SHELVES AND ON THE STAIRS AFTER 890, IN ONE PLACE, AND A NEXT WRITER DOES NOT HAVE TO
+DERIVE IT.** The register stands open on the bench with five strokes in the column that holds figures and a day against
+each, none struck and no sixth entered, and the second slate stands behind it on its shelf and was not picked up, not
+turned over and not written on on any of the ten days. The board of the man of about thirty-nine is standing out in his
+own row with the face of it out and the space at the foot of the column on it standing on it in the weather, and it was
+never turned in and nothing whatever was done about it at any hour of any of the ten days. The stallholder's own board
+stood face in on all ten. The piece of chalk stayed in his inside breast pocket at every hour of all ten days. The bar
+lies along the top step of that stair out of its two sockets and lay there on all ten mornings and was not put back and
+not lifted, and it is named on one of the ten days only and no chapter of these ten opens on it. The door at the foot of
+that stair stands open on its latch with a date in chalk on the outside of it, and the bare piece of board under the
+chalk stands a finger's width off the wood at its near end and nothing is on it. The store door in the wall at the
+store's end stands a hand's breadth from where it stood on the Monday with the opening that much narrower at the far
+edge and was not moved again. The trough at the top of the market step is cracked in its near end and lets water out of
+it. The stool at the side of that bench stands a foot further out than the woman of about fifty-two set it down. The
+board on the outside wall at the far end of that market is on one nail with the hole of the other empty above it. The
+two hollows in the flags at the side of the wharf yard stand as they stood, one with its crack gone deeper and one with
+pale grit in it, and no mouth in these ten days dated either.
 
-**OWED.** Debts at `outline/volume-18.md` §21.4 stand, named material of ending on no page but the image; controller faults untouched; close owed at `workspace/volume-18/close/PROMPT.md` which this batch does not create.
+**WHAT A NEXT WRITER MUST CARRY, NAMED.** Four voices are open in the room and none of them was closed. The man of about
+thirty-nine cannot get up that stair without two hands on the newel and nobody said why and no chapter of these ten days
+will. The rate at the foot of the stallholder's own board still wants its day and nobody settled it. The question the man
+of about thirty-nine put into the walking space on 881 is still where he put it. The place on eleven miles of flats
+where a barrow will not go over twice is on one page and he has not told anybody else where it is and says he is not
+going to. **And after the tenth hour of 890 no mouth in this city can ask him anything at all, which is the whole of
+what is on a page of it, and the ten days that follow are not this batch's and no chapter of them may say he is gone,
+say why, or have anybody miss him out loud.**
+
+**WHAT IS OWED AND NOT OWED BY THIS BATCH.** Owed: the long decay in mean chapter length, which is set at the outline
+layer and is not this phase's to change; the contradiction inside the card for 874 that the review repair of 0871 to 0880
+flagged with both readings; `reviews/volume-16/` and the other missing review folders; and the debts `outline/volume-18.md`
+§21.4 carries, including the fact that the named material of `outline/ending.md` is on no page of this volume. **Not owed
+by this batch: nothing was broken and nothing was withdrawn.** All five live state files were copied whole into
+`state/archive/` as `<name>.md.volume-18-batch-0004-full.md` and every copy was verified against its live file by SHA256
+before a line was removed, and the Batch 0003 block and the review-repair block on Chapters 0871 to 0880 went to the
+archive undeleted, and no thread, no figure, no decision, no handle and no prohibition was withdrawn by the move. This
+is the tenth compaction of these five files.
