@@ -311,3 +311,13 @@ it. The second slate stands on its shelf in the place it stood, with one line on
 # WHAT THE BATCH THAT WROTE DAYS 921 TO 930 DID TO THE THREADS. NEWEST AND IT WINS WHERE THEY CONFLICT.
 
 Closed nothing, answered nothing, mended nothing. Paid on pages: the fourth word-day (921), the figure in the space (924), the decision with the fifth word-day (925), the wall block (929, unanswered on this and the twenty-one days after), the sixth word-day (930). The space thread is now a figure thread (what it is stays unasked). The second-book thread is now standing (on bench/in use, on shelf otherwise). Seventh word-day, act, resolution and last image stay open and unprepared.
+
+---
+
+# WHAT THE REPAIR OF DAYS 921 TO 930 DID TO THE THREADS. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**The repair moved no thread. Closed nothing, answered nothing, mended nothing, and prepared nothing.** Paid on pages before this pass and still paid: the fourth word-day (921), the figure in the space (924), the decision with the fifth word-day (925), the wall block (929, unanswered on this and the twenty-one days after), the sixth word-day (930). **The seventh word-day (934), the act (940), the resolution (943) and the last image (950) are still open, still unprepared, and were named in no card and no chapter in this pass.**
+
+**One thread is better formed by the repair and none is moved.** The panel of §6.8 is still unanswered and unanswerable on 929 and the twenty days after it, and **the discovery that closes 0929 — the damp coming into a man's palm off the plaster and the place he took his hand from staying warm in the shape of his own hand and not in the shape of anything else — puts the panel's own subject into the page as a physical fact without answering it and without a mouth reading the block aloud.** That is a thread with more to carry forward, not less, and it may not be answered on any day of the twenty-one that follow.
+
+**And the two threads that were already open are still open and were not leaned on:** the reason the satchel is never opened, and the reason nobody asks the man who put the rope there what it is for. **A debt is added, and it is about the writing and not about the fiction: six of these ten chapters open on the same hands-on-a-thing construction because six of their cards specify that beat element by element.** That is a defect in the card format, it is named in `reviews/volume-19/batch-0003.md` §8 so that the next writer is not told by silence that the opening frame is settled, and it will recur on every batch whose cards are written that way.

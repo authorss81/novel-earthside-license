@@ -206,7 +206,7 @@ slate is lifted and turned over **on day 908 and put back the same afternoon**. 
 register **on day 918, in the keeper's hand, not struck**, and **no seventh is entered on any of the remaining
 thirty-two days of the volume**. A name goes into the second book in one hand on day 918 and **onto no other surface
 in this volume and on no surface in the eight hundred and fifty days behind it**. A second book comes onto that
-bench **on day 925** and does not answer to the keeper. A figure goes into the space on that board **on day 924**.
+bench **on day 925**, and it is not the keeper's, and its wording is not restated in this file. A figure goes into the space on that board **on day 924**.
 The gate is **shut for one morning on day 933 and open on every other morning of the fifty**. **The bare piece of
 board gets one mark on day 950 and it is not a day of the Bare Month, and no chapter of days 901 to 949 may write a
 day of any other month and no chapter may say what the Bare Month is or how long it is.**
@@ -384,3 +384,13 @@ and including on 918 where a man puts his own name down and a woman puts a sixth
 ## WHAT THE BATCH THAT WROTE DAYS 921 TO 930 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
 
 **Two states changed; everything else only moved.** (1) The space on the tradesman's board is no longer empty: a figure went into it on 924 in his own hand as rate not name, untold, unthanked, unexplained, unread, and the chapter does not say how long it had been empty. (2) The second slate is the second book from 925: on the bench while in use, on the shelf otherwise; nothing printed about either face beyond the one line of 918. Register stays six with no seventh; tally-board face up; trough heatless with ice unbroken; rope unlifted; fence sixteen/eleven; bar out; bare board empty; gate open; satchel shut; room never counted. Figures in `reviews/volume-19/batch-0003.md` §§7–8.
+
+---
+
+## WHAT THE REPAIR OF DAYS 921 TO 930 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**No state changed and no object moved. Nine of the ten days' business is exactly as the batch left it, and the ten closings were rebuilt in place without a single object changing hands on the page.** The dated standing layer at day 930 — register six strokes with no seventh, the second slate on the shelf and on the bench while in use, the figure of 924 in the space on that board and not explained, the tally-board face up, the trough without a heat, the unlifted rope, the unasked man, the unmeasured fence, the bar out of its sockets, the bare board under the date, the open gate, the shut satchel, the uncounted room — **every one of those is unaffected.**
+
+**Two things this block adds to the layer.** (1) **A hold leak in an older volume's block in this file was closed:** *a second book comes onto that bench on day 925 and does not answer to the keeper* was a paraphrase of the decision the plan holds at §6.6, in a file the prompt forbids that wording in. It now reads *and it is not the keeper's, and its wording is not restated in this file.* (2) **The two Adrian days now carry his observation rather than his stillness,** which changes no standing object and no negative: on 0921 he reads the length of the room before he asks and sees the three things in it that would come to him if he asked; on 0927 he reads the rope lying in one line and not in two, and lifts the door and it stops at the chair. **The heat is still not fetched, the rope is still not cut, the man who put it there is still asked nothing, nobody still waits for him to be useful and he is still not useful.**
+
+**And one new material fact was written into two chapters, both inside a day's own object:** a gap under the cockled head of a leaf on 0922, and a dark line the damp carried along the bottom edge of the bare back of a board on 0926. Neither is a new object and neither is named, and neither is a place.

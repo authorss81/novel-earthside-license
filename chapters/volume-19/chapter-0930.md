@@ -8,7 +8,7 @@ The man of about thirty-eight at that salt wharf had his own hand on the tally-b
 
 ---
 
-**"What it has cost me to say this out loud in this room this morning is that I have kept a tally-board face up on the top of a stack for a hundred days with two lines of grey grit across it and I have not turned it over once, and saying a word for what binds a record puts my own mouth into a place where every man in this yard will hear that I said it and will bring his own trouble with a tally to me before he brings it to anybody else, and I keep no book and I answer for no line in one, and from this morning I will be a man who said it and cannot take it back off the air of this yard."**
+**"A hundred days. I have kept a tally-board face up on the top of a stack for a hundred days with two lines of grey grit lying across it and I have not turned it over once, and it has cost me that hundred days to learn that a board lying face up is not kept by anything at all, it is only not turned over. And I am going to say a word for it now, out loud, in this yard, and it cannot be unsaid by me after this morning. Every man in this yard will hear that I said it and will bring his own trouble with a tally to me before he brings it to anybody else, and I keep no book and I answer for no line in one, and there is a date in chalk on the wood of that door behind me and I cannot take this back off the air of this yard."**
 
 He said it into the middle of the yard and not to anybody in it, and he said it once, and he did not say it again at any hour of that day.
 
@@ -16,9 +16,9 @@ He said it into the middle of the yard and not to anybody in it, and he said it 
 
 The man of about thirty-eight at that salt wharf was at the stack with the date in chalk on the outside of the door behind him and the tally-board face up in front of him, and she was a little way off him going on with what she had in her own hands while he spoke, and what he said was in no hand and on no page. The barrow stood between the stack and the store door with the knife in the bed of it, and the stack stood where it had stood since before the light.
 
-**"There is a word in this world for the thing that binds a record to a place, and the word for it is seal, and I am saying it here in the daylight with the date behind me, and I will not say it again today."**
+**"The thing that binds a record to a place has its name, and the name is seal. I am saying it here in the daylight with the date in chalk on the wood of the door behind me, and I will not say it again today."**
 
-The yard went on with what it had in its own hands at every hour of that day. He carried the tally-board from the stack to the barrow and back to the stack face up, and he did not turn it over at any hour of it and he did not count the two lines of grey grit as figures. The barrow stayed where it stood with the knife in the bed of it, and the stack stayed where it stood with the tally-board on the top of it. Not one thank you came his way for the first thing or the second, and not one mouth in that yard improved on one word of what he had said.
+The yard went on with what it had in its own hands at every hour of that day. He carried the tally-board from the stack to the barrow and back to the stack face up, and he did not turn it over at any hour of it and he did not count the two lines of grey grit as figures. The barrow stayed where it stood with the knife in the bed of it, and the stack stayed where it stood with the tally-board on the top of it. Nobody in that yard thanked him for the board or for the word, and not one mouth in it improved on one word of what he had said.
 
 ---
 

@@ -20,4 +20,4 @@ The tradesman went back along the road toward the row with the board under his a
 
 ---
 
-At the light's going he set the handcart with its nose out of the wind and left the hazel mallet in the bed of it with the cord round the head, and the coil of rope lay dark beside it where it had lain all day, and he wiped his own hands on his own coat and looked once more along the top of the fence, and he went up toward the houses with his own hands empty.
+At the light's going he put his own hand on the last post along and the cold of it came off his palm the way it had come off it four times that day, and he left the fence standing the way he had found it, and he turned the handcart about on the ground so that its nose stood out of the wind with the cord still round the head of the mallet where the cord had been all day, and the coil of rope lay dark in the bed of it where he had put it that morning. Then he went up toward the houses with his own hands in his own pockets and the road behind him with nothing on it that he had put there.
