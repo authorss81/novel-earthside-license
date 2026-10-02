@@ -8,7 +8,7 @@ At the store's end of the row the door in the wall stood a hand's breadth from w
 
 ---
 
-He got the near end of the stack off the barrow and stood it up against the door and went to turn it end for end, and the boards would not go through the opening square, because the opening was that much narrower at the far edge than it had been, and the door stood further in against its jamb than a door on that hinge has any business standing. He tried the stack on the diagonal and got the first board in and stopped with the rest of it standing in the rain. He put his shoulder against the end of the stack and pushed, and the stack came on a hand's width and stopped, and he came off it and looked at his shoulder and nothing was wrong with his shoulder.
+He got the near end of the stack off the barrow and stood it up against the door and went to turn it end for end, and the boards would not go through the opening square, because the opening was so much narrower at the far edge than it had stood a day before, and the door stood further in against its jamb than a door on that hinge has any business standing. He tried the stack on the diagonal and got the first board in and stopped with the rest of it standing in the rain. He put his shoulder against the end of the stack and pushed, and the stack came on a hand's width and stopped, and he came off it and looked at his shoulder and nothing was wrong with his shoulder.
 
 **"It was on that hinge before the flood,"** said the man of about thirty-four who keeps a stall two stalls along, who had come across from his own trestle with his board under his arm.
 
@@ -18,12 +18,14 @@ Nobody improved on either of those and nobody offered a better account, and the 
 
 ---
 
-**"You could take them in flat on your shoulder a piece at a time,"** said the man of about thirty-four who keeps a stall two stalls along.
+**"You could take them in flat on your shoulder a piece at a time,"** said the stallholder.
 
 **"The first two went in flat on my shoulder,"** said the man of about thirty-eight at that salt wharf, **"and the third one would not follow them, and I did not try to make it."**
 
-He squared the stack up on the barrow and put his hand flat on the near jamb and then flat on the far jamb and looked at the width between them, and the width was not the width it had been, and he could not have said by how much except a hand went in sideways at the far edge where it had not gone in sideways before. At about the ninth hour the rain came on harder and the water came off the awning in a line and went along the flags into the yard. The man of about thirty-four who keeps a stall two stalls along went back to his own trestle and the man of about twenty-seven went on with his work, and neither of them went near the door again, and nobody said a thing had moved and nobody said how.
+He squared the stack up on the barrow and put his hand flat on the near jamb and then flat on the far jamb and looked at the width between them, and the width was not the width it had been, and he could not have said by how much except a hand went in sideways at the far edge where it had not gone in sideways before. At about the ninth hour the rain came on harder and water came off the awning in a line and went along the flags into the yard. The man of about thirty-four went back to his own trestle and the man of about twenty-seven carried on with his work, and neither of them went near the door again, and nobody said a thing had moved and nobody said how.
 
 ---
 
-The stack was left standing square on the barrow out in the open at the edge of the flags when the light went, and the rain came along the top edges of the boards and went down into the joints between them and out again at the far ends and stood in a shallow line along the near side of the barrow where the water could not get under the boards, and the near end of the stack had begun to give at the bottom corner where the water had got into the end grain and softened it, and it leaned a little, and nothing was done to prop it.
+The stack was left standing square on the barrow out in the open at the edge of the flags when the light went. The rain came along the top edges of the boards and went down into the joints between them and out again at the far ends, and it stood in a shallow line along the near side of the barrow where the water could not get under the boards, and the near end of the stack had begun to give at the bottom corner where the water had got into the end grain and softened it.
+
+The corner came down on the stone of the yard at some hour before the light was gone, and the whole stack slid back along the top of the barrow about as far as a hand is wide and came to rest with its far end out over the flags. The man of about thirty-eight came out and looked at where it had been standing and at where it was standing and put the flat of his hand on the top board and left it there in the rain.

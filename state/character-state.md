@@ -1,43 +1,17 @@
-
 # character-state.md — the live layer
 
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-18-batch-0002-full.md`, taken
-by the Volume 18 Batch 0002 pass before it replaced the Volume 18 Batch 0001 block and the review-repair block below
-it with the Volume 18 Batch 0002 block, and verified against the live file by SHA256 before a single line was removed.
-It is a complete byte-for-byte copy of this file as it stood after that review repair and holds both blocks in full.
-BEHIND IT IS `state/archive/character-state.md.volume-18-batch-0001-full.md`, taken by the Volume 18 Batch 0001 pass
-before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and behind that
-`state/archive/character-state.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass rewrote the two
-Volume 17 blocks at its foot; **the head of this file named that one as the most recent whole copy until the review
-repair of Chapters 0851 to 0860 corrected it, and that repair's own record at one point said this file needed no
-correction, which was wrong, and the correction is here.** Behind that, every earlier block is at
-`state/archive/character-state.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this file
-before that compaction — including the block on days 801 to 810 and the review-repair block on Chapters 0811
-to 0820 — and behind that at
-`state/archive/character-state.md.volume-17-batch-0002-full.md`,
-`state/archive/character-state.md.volume-13-through-volume-15-batch-0005-full.md`,
-`state/archive/character-state.md.volumes-01-to-12.md`,
-`state/archive/character-state.md.volume-13-batches-0001-to-0004-full.md` and
-`state/archive/character-state.md.volume-13-batch-0002-stale-redispatch-full.md`. Nothing was deleted. The
-compaction moved text and changed no record: no descriptor, no age, no number, no place and no name moved,
-and no standing disagreement was settled.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-18-batch-0002-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
+THE BATCH 0002 PASS REPLACED THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0851 TO 0860, AND IT
+HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0002 BLOCK OR THE REPAIR BLOCK ON CHAPTERS 0861 TO
+0870. EVERY EARLIER BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
 
-**This file has now been compacted eight times, for the same reason and by the same convention: after a review
-found it carrying, word for word, a layer of superseded per-batch history that no writer could read and no
-batch could afford to load, and after four of those compactions were undone by the appending that followed
-them. A phase that appends to this file is expected to leave it smaller than it found it, or to say in its
-own record why not, and three passes have now said nothing about it and grown anyway. The Volume 18 planning
-pass left it smaller and recorded the fact, and the Volume 18 Batch 0002 pass left it smaller and recorded the
-fact.**
-
-**THE PEOPLE BELOW ARE THE STANDING CAST WITH THE SECOND HANDLE EACH ONE CARRIES, AND THE HANDLES ARE THE
-SAME IN EVERY CHAPTER THAT PERSON IS IN. The block at the foot carries what the Volume 18 planning pass
-decided about them and what days 841 to 850 did to them; what days 801 to 840 did is in the archive and in
-the four Volume 17 batch records. The people Volume 16 carried are in `state/volume-16-close.md`, which is
-that volume's canonical record, and not here.**
+**THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
+SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
+smaller than it found it or to say in its own record why not.**
 
 ## THE PROTAGONIST
 
@@ -313,6 +287,26 @@ standing disagreements, the two newest batch blocks and this block.
 
 ---
 
+
+# THE REVIEW REPAIR OF CHAPTERS 0861 TO 0870 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED.** No descriptor altered, no age moved, no trade changed, no second handle added or
+removed, no name given and no name spoken, nobody got stronger, and not one of the three held wordings — the cost of
+day 856, the cost of day 869, the sentence of day 870 — was touched in a single word. **What the repair changed on
+this page is one convention and not one person.** The eleven-word identification appositive now stands eleven times
+across the ten days instead of twenty, and it is printed in full on a person's first appearance in a chapter and
+shortened after that by a pronoun or by a short handle this manuscript already uses — **the keeper** for the woman of
+about twenty-nine who keeps a public register, and **the stallholder** for the man of about thirty-four who keeps a
+stall two stalls along, which is how Volumes 14, 15 and 16 name him. `outline/volume-18.md` §17.9 now says this in
+terms, and §17.9 also says that no chapter may build a possessive off an approximation, and one that did — *the man
+of about thirty-four's hand* — is gone and **the stallholder's hand** stands in its place at 0861.
+
+**THE BLOCK BELOW ALSO NOW MATCHES THE TEXT ON TWO POINTS THAT IT DID NOT, AND THE REPAIR CORRECTED THE TEXT AND
+NOT THE BLOCK.** On 0864 the line about somebody on the top step belongs to the man of about thirty-nine who trades
+on a board, which is what this block and the card already said and what the chapter did not say; the chapter says it
+now. And the thing Adrian Vale causes on 0866 is printed in this block as a man carrying a board the length of a room
+and propping it where it will not stand, and the chapter now shows the whole of that, and the shelf at the far end of
+that room carries the edge of that board pressed into its own dust.
 
 # WHAT VOLUME 18, BATCH 0002 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
 

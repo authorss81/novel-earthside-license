@@ -1,42 +1,18 @@
-
 # open-threads.md — the live layer
 
 **This file carries the live threads only: a thread is a question, and every question this manuscript is
 currently carrying is named here with its state. It does not carry a per-batch history that no writer can
 read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-18-batch-0002-full.md`, taken by
-the Volume 18 Batch 0002 pass before it replaced the Volume 18 Batch 0001 block and the review-repair block below it
-with the Volume 18 Batch 0002 block, and verified against the live file by SHA256 before a single line was removed. It
-is a complete byte-for-byte copy of this file as it stood after that review repair and holds both blocks in full.
-BEHIND IT IS `state/archive/open-threads.md.volume-18-batch-0001-full.md`, taken by the Volume 18 Batch 0001 pass
-before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and behind that
-`state/archive/open-threads.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass rewrote the two
-Volume 17 blocks at its foot; the head of this file named that one as the most recent whole copy until the review
-repair of Chapters 0851 to 0860 corrected it. Behind that, every earlier block is at
-`state/archive/open-threads.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this file
-before that compaction — including the block on days 801 to 810 and the review-repair block on Chapters 0811
-to 0820 — and behind that at
-`state/archive/open-threads.md.volume-17-batch-0002-full.md`,
-`state/archive/open-threads.md.volume-13-through-volume-15-batch-0005-full.md`,
-`state/archive/open-threads.md.volumes-01-to-12.md`,
-`state/archive/open-threads.md.volume-13-batches-0001-to-0004-full.md` and
-`state/archive/open-threads.md.volume-13-batch-0002-stale-redispatch-full.md`. Nothing was deleted. The
-compaction moved text and closed no thread, answered no question and withdrew no measurement.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-18-batch-0002-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
+THE BATCH 0002 PASS REPLACED THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0851 TO 0860, AND IT
+HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0002 BLOCK OR THE REPAIR BLOCK ON CHAPTERS 0861 TO
+0870. EVERY EARLIER BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
 
-**This file has now been compacted eight times, for the same reason and by the same convention: after a review
-found it carrying, word for word, a layer of superseded per-batch history that no writer could read and no
-batch could afford to load, and after four of those compactions were undone by the appending that followed
-them. A phase that appends to this file is expected to leave it smaller than it found it, or to say in its
-own record why not, and three passes have now said nothing about it and grown anyway. The Volume 18 planning
-pass left it smaller and recorded the fact, and the Volume 18 Batch 0002 pass left it smaller and recorded the
-fact.**
-
-**THE THREADS THE FIFTY DAYS OF VOLUME 15 LEFT OPEN ARE IN THE TABLE BELOW AND EVERY ONE OF THEM IS STILL
-OPEN; the block at the foot carries the eighteen threads Volume 17 left open at day 850 and the eighteen the
-Volume 18 plan opens, and what days 801 to 840 opened is in the archive and in the four Volume 17 batch
-records. The threads Volume 16 carried are in `state/volume-16-close.md`, which is that volume's canonical
-record, and not here.**
+**THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
+SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
+smaller than it found it or to say in its own record why not.**
 
 ## THE THREADS THIS MANUSCRIPT IS CARRYING AT THE END OF DAY 750
 
@@ -233,6 +209,15 @@ human.**
 ---
 
 
+# THE REVIEW REPAIR OF CHAPTERS 0861 TO 0870. THIS BLOCK IS NEWEST AND IT WINS.
+
+**THE BLOCK BELOW DESCRIBES THE REPAIRED TEXT.** An outside read at `logs/batch-0002.review.log` required two
+corrections in the threads below and both are made in place: thread 2 now carries the state the stack is actually in
+at the end of day 868, and the line that said the man of about thirty-four was asked about his rate on 867 and 870
+now says what happens instead, which is that nobody asked him. **NO THREAD OPENED AND NO THREAD CLOSED IN THIS
+REPAIR, none was merged and none was withdrawn, and every thread the ten days took up still stands exactly as the
+block below sets it out.** The repair changed prose and three claims about the world; the threads are unchanged.
+
 # WHAT VOLUME 18, BATCH 0002 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
 
 **The pointer below is superseded by this one. The next phase is `workspace/volume-18/batch-0003/PROMPT.md`, which
@@ -274,8 +259,11 @@ either.
    narrower at the far edge, and a man of about thirty-eight at that salt wharf cannot get a square stack of boards
    through it end for end, on the diagonal, with a shoulder, or one board at a time on his shoulder. **Nobody was
    hurt and no mouth in that yard offered a better account of it than two that do not agree.** The stack was left
-   standing square on the barrow out in the open and its near corner went soft. **A later chapter may not say how it
-   came to be there and may not say who moved it.**
+   standing square on the barrow out in the open and its near corner went soft, **and before the light was gone that
+   corner came down on the stone of the yard and the whole stack slid back along the top of the barrow about as far
+   as a hand is wide and came to rest with its far end out over the flags, and the man of about thirty-eight came
+   out and put the flat of his hand on the top board and left it there in the rain. A later chapter may not say how
+   the door came to be there and may not say who moved it.**
 3. **A SOUND ON THAT STAIR AT ABOUT THE FIFTH HOUR.** New on day 864. One man was sure he heard it and one man was
    sure he did not, and a third said the stair gives a sound back twice and the second time is louder than the first.
    **Nobody went down to look, nobody said where the man of about thirty-one was, and he came back up with the flap
@@ -296,8 +284,10 @@ same words on 870 is not a question and is not answered and is not improved on, 
 ten days says it in the same words and no chapter of these ten counts the family of sentences this manuscript has.**
 The trough with a crack in its near end came up in that room on 866 and some mouths answered it and some said nothing
 and nobody settled whether it wanted doing and **nobody said out loud that there was no way of settling it.** The
-man of about thirty-four was asked about the rate at the foot of his own board on 867 and 870 and said the page
-would be open, and the page is open and nothing has been entered on it.
+rate at the foot of the man of about thirty-four's own board had wanted a day against it since the middle of the
+week and got none on 867 or on 870, the keeper said on 870 that he would get one or would not, he said the page
+would be open, and the page is open and nothing has been entered on it, **and nobody asked him about the rate on
+either of the ten days.**
 
 **AND THE FOUR THINGS THE PLAN GIVES TO LATER DAYS, WHICH NO CHAPTER OF DAYS 861 TO 870 MAY PREPARE. No chapter of
 these ten puts a name into anybody's mouth, may name the man who has not arrived, may turn that board face out, may

@@ -3,7 +3,16 @@
 **This is the third batch of the eighteenth volume and the volume runs to day 900. Write ten chapters and stop at
 0880. Days 881 to 900 are twenty of them and none of them is yours.**
 
-**You are a writer. You decide nothing, you invent nothing, and you print no string this file has not given you.**
+**You decide nothing that is not already a day in the table below, you invent no person, you take no descriptor from
+the pool, you send no notice, you write no document, and you print none of the five things this plan holds. EVERYTHING
+ELSE ON THE PAGE IS YOURS, AND THE TEN CHAPTERS ARE PROSE AND NOT A COMPLIANCE REPORT.**
+
+**AND THE SENTENCE THAT USED TO STAND HERE IS GONE BECAUSE IT WAS WRONG, AND YOU SHOULD KNOW IT WAS WRONG. It read
+*you print no string this file has not given you*, and the batch before you wrote ten days under it, and an outside
+read of those days — `logs/batch-0002.review.log` — found six of the ten closing on a statement that nothing had
+happened, two of the ten with no change in them at all, and every one of the ten built out of the same sentence
+mould. The prohibitions that are real are all of them in the list at the foot of this file, and they are unchanged by
+this. What was wrong was a sentence that told a writer that craft was a fault.**
 
 **AND THERE ARE NO CARDS ON DISK FOR YOUR TEN DAYS, and that is not an omission and it is the arrangement.** The
 Volume 18 planning phase wrote the first ten of this volume's cards at `outline/batches/volume-18-batch-0001.md`
@@ -22,8 +31,13 @@ frame five, on days 863 and 870 — is recorded at `state/batch-summaries/volume
 disturbed by you.**
 
 **A chapter is not finished until somebody is somewhere in it, and a chapter in which a room is watched from outside
-is a chapter with no focalizer in it.** Frame nine is the only one of the nine that is inside a head, and it may not
-be used on 878, 886, 890 or 900, and on 871 it may not replace the thing his hands are on.
+with nobody thinking anything is a chapter with nobody in it.** Frame nine is the only one of the nine that is inside a
+head, and it may not be used on 878, 886, 890 or 900, and on 871 it may not replace the thing his hands are on. **THE
+OTHER EIGHT MAY EACH CARRY ONE SHORT PASSAGE OF WHAT THE PERSON DOING THE LOOKING IS THINKING — two or three sentences,
+in one place in the chapter, attached to the thing that person is looking at or not doing, and never in place of an
+action. §17.21 CARRIES THAT AMENDMENT AND ITS LIMITS, AND IT WAS MADE BECAUSE FORTY-ONE OF THIS VOLUME'S FIFTY DAYS
+KEEP THE PROTAGONIST OUT AND ALL EIGHT OF THOSE FRAMES ARE STAGED OUTSIDE A HEAD, AND A CARD WITH NOWHERE TO PUT A
+PERSON'S THOUGHT IS A CARD THAT PUTS A MAN IN A ROOM TO BE LOOKED AT.**
 
 ## WHAT YOU DO FIRST, IN THIS ORDER
 
@@ -46,8 +60,13 @@ be used on 878, 886, 890 or 900, and on 871 it may not replace the thing his han
    things that read found wrong.** Its last block is the repair of Chapters 0851 to 0860 and **the text on disk is
    the repaired text and not the text that was first written.** Note that the batch before you was written without
    an independent reader and said so in its own record, and that its ten days have now had one, and the record says
-   so too. `reviews/volume-16/` does not exist and the dispatch falls back to the writer's own agent, so do not
-   pretend to an independent reader in your own record either.
+   so too. **The ten days behind those, 0861 to 0870, have now had an outside read as well, at
+   `logs/batch-0002.review.log`, and that read found the batch summary of those ten days asserting three compliance
+   figures that were wrong — a shared-run count that had never been measured, a count of nothing-changed closings
+   printed as zero over six real cases, and a claim of compliance with a rule those closings broke. Its repair block
+   is at the head of `state/batch-summaries/volume-18-batch-0002.md` and it withdraws all three in writing.**
+   `reviews/volume-16/` does not exist and the dispatch falls back to the writer's own agent, so do not pretend to an
+   independent reader in your own record either, and do not copy that fallback's habit of certifying its own work.
 6. **`state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`,
    `state/chapter-summaries.md`** — the live layer. **They carry what you must not break. If a state file tells you
    what a chapter says, open the chapter.**
@@ -159,23 +178,34 @@ spans. Do not print a span. Do not certify that any of them is absent from anywh
 
 **Publish every figure with its reading and its scope on the same line, in both directions. An instrument that returns
 a number where you expected a fault is the same failure as one that returns nothing where you expected a number, and a
-record that publishes only the figure that agrees with it is a record of a different check.** Two figures to check for
-yourself before you publish yours. The demonstrative: `that` stands at **3.85** per 1,000 words on the bodies of
-Chapters 0861 to 0870 as they stand on disk, against 4.57 for the ten days behind them, 4.51 for Volume 17's last ten
-and 20.36 for Volume 17 whole on the same reading, and **the first writing of that batch measured 15.25 and was
-reworded down.** The longest run: the longest run of consecutive words any two of Chapters 0861 to 0870 share is 18,
-the longest against Volume 17's fifty is also 18, the longest inside one file at two positions is 14, and the first
-writing of that batch measured 44 and 39 on the same instrument. Every one of those runs is a row of long handles
-standing in a room in the same order, and that is the class the instrument catches and the class you should expect to
-generate. Reading for both: whitespace tokens, the file excluded from its own comparison, a token a run of letters
-not broken by a letter or an apostrophe, hyphen and apostrophe delimiting, whole files.
+record that publishes only the figure that agrees with it is a record of a different check.** **AND YOU MAY NOT PRINT A
+COUNT YOU HAVE NOT MEASURED WITH AN INSTRUMENT IN THE SAME RUN. The record of the ten days behind you printed a
+longest-shared-run figure of five that was eight, printed a count of closings that state nothing changed as zero in
+ten over six real cases, and printed a claim of compliance with a rule one of those closings broke. §17.22 holds
+that rule now. Where the reading of a figure involves judgement — a closing that states a change against a closing
+that states a state — publish the reading, name the cases a reader could argue the other way, and do not print the
+word zero over a count you reached by reading.** Two figures to check for yourself before you publish yours. The
+demonstrative: `that` stands at **3.91** per 1,000 words on the bodies of Chapters 0861 to 0870 as they stand on disk
+after their repair, against 4.53 for Volume 17's last ten on the same reading. The longest run: the longest run of
+consecutive words any two of Chapters 0861 to 0870 share is 18, the longest against Volume 17's fifty is also 18,
+the longest inside one file at two positions is 14, and the first writing of that batch measured 44 and 39 on the same
+instrument and 29 before its own repair finished. Every one of those runs is a row of long handles standing in a room
+in the same order, and that is the class the instrument catches and the class you should expect to generate. Reading
+for both: whitespace tokens, the file excluded from its own comparison, a token a run of letters not broken by a letter
+or an apostrophe, hyphen and apostrophe delimiting, whole files. **RUN THE INSTRUMENT. The batch before you published
+a figure for this without running it.**
 
-**Three rules the two batches before you wrote by and did not break.** **Give each person the full handle from §7.2
-on their first appearance in a chapter and let them be he or she for the rest of it.** **Every chapter needs three or
-more marked speech paragraphs and never more than four consecutive speech paragraphs between the same two people**,
-and a speech paragraph carries a bold mark and a quotation mark or it counts in neither measure. **A moment somebody
-says something that costs them is answered with what hands and bodies do, and not with a roll-call of what nobody
-did.**
+**Four rules the three batches before you wrote by, and the third of them was broken twice before it was learned.**
+**Give each person the full handle from §7.2 on their first appearance in a chapter and let them be he or she, the
+keeper or the stallholder, for the rest of it, and never build a possessive off an approximation — *the man of
+about thirty-four's hand* is a fault and *the stallholder's hand* is not.** **Every chapter needs three or more marked
+speech paragraphs and never more than four consecutive speech paragraphs between the same two people**, and a speech
+paragraph carries a bold mark and a quotation mark or it counts in neither measure. **A moment somebody says something
+that costs them is answered with what hands and bodies do, and not with a roll-call of what nobody did — and the same
+rule governs a whole day: a chapter may not carry its stillness in a chain of *nobody* clauses standing in for a
+scene.** **A closing states something that has not been stated in that chapter, in different words from the chapter's
+own body, and no two of your ten may close on the same construction, and no closing of yours may be a statement that
+nothing happened.**
 
 **AND THE FAULT NO INSTRUMENT IN THIS REPOSITORY CAUGHT, WHICH YOU SHOULD EXPECT TO GENERATE AND SHOULD NOT.** A
 cross-file word-run cannot see one fact restated in seven openings, and Batch 0001 had exactly that: the bar in its

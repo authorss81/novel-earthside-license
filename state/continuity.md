@@ -1,38 +1,21 @@
-
 # continuity.md — the live layer
 
 **This file carries the live layer only: where every standing object in the world stands, and the figures
 that hold. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-batch-0002-full.md`, taken by the
-Volume 18 Batch 0002 pass before it replaced the Volume 18 Batch 0001 block and the review-repair block below it with
-the Volume 18 Batch 0002 block, and verified against the live file by SHA256 before a single line was removed. It is
-a complete byte-for-byte copy of this file as it stood after that review repair and holds both blocks in full. BEHIND
-IT IS `state/archive/continuity.md.volume-18-batch-0001-full.md`, taken by the Volume 18 Batch 0001 pass before it
-replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and behind that
-`state/archive/continuity.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass rewrote the two
-Volume 17 blocks at its foot; **the head of this file named that one as the most recent whole copy until the review
-repair of Chapters 0851 to 0860 corrected it, and that repair's own record at one point said this file needed no
-correction, which was wrong, and the correction is here.** Behind that, every earlier block is at
-`state/archive/continuity.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this file
-before that compaction — including the block on days 801 to 810 and the review-repair block on Chapters 0811
-to 0820 — and behind that at
-`state/archive/continuity.md.volume-17-batch-0002-full.md`,
-`state/archive/continuity.md.volume-13-through-volume-15-batch-0005-full.md`,
-`state/archive/continuity.md.volumes-01-to-12.md`,
-`state/archive/continuity.md.volume-13-batches-0001-to-0004-full.md` and
-`state/archive/continuity.md.volume-13-batch-0002-stale-redispatch-full.md`. Nothing was deleted. The
-compaction moved text and changed no record: no state was reversed, no object moved in the world, and no
-figure was withdrawn.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-batch-0002-full.md`, verified
+by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
+BEFORE THE BATCH 0002 PASS REPLACED THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0851 TO 0860, AND
+IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0002 BLOCK OR THE REPAIR BLOCK ON CHAPTERS 0861 TO
+0870. EVERY EARLIER BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED. THE
+FIGURES FOR ANY BATCH ARE IN `state/batch-summaries/`, ONE FILE PER BATCH, AND THE DAY-BY-DAY STATES FOR ANY EARLIER
+BATCH ARE IN THE ARCHIVE.**
 
-**This file has now been compacted eight times, for the same reason and by the same convention: after a review
-found it carrying, word for word, a layer of superseded per-batch history that no writer could read and no
-batch could afford to load, and after four of those compactions were undone by the appending that followed
-them. The figures for any earlier batch are in `state/batch-summaries/`, one file per batch, and the
-day-by-day states for any earlier batch are in the archive. A phase that appends to this file is expected to
-leave it smaller than it found it, or to say in its own record why not, and three passes have now said
-nothing about it and grown anyway. The Volume 18 planning pass left it smaller and recorded the fact, and the
-Volume 18 Batch 0002 pass left it smaller and recorded the fact.**
+**THIS FILE HAS NOW BEEN COMPACTED NINE TIMES, for the reason a review gave: it had grown a layer of superseded
+per-batch history that no writer can read and no batch could afford to load, and four of those compactions were
+undone by the appending that followed them. A phase that appends here is expected to leave it smaller than it
+found it, or to say in its own record why not, and the review repair of Chapters 0861 to 0870 shortened this head
+and kept every line of state.**
 
 **THE STATES IN THE TABLE BELOW ARE THE DAY-750 STANDING POSITION AND EVERY ONE OF THEM STILL HOLDS AT DAY
 850; nothing in Volume 17 reversed a state set before day 800. The block at the foot carries the standing
@@ -365,6 +348,18 @@ prohibitions, the two newest batch blocks and this block.
 ---
 
 
+# THE REVIEW REPAIR OF CHAPTERS 0861 TO 0870 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**THE BLOCK BELOW DESCRIBES THE REPAIRED TEXT AND NOT THE TEXT AS IT WAS FIRST WRITTEN.** An outside read at
+`logs/batch-0002.review.log` found six object states or claims in it out of date after the repair and they are
+corrected in place: the near course of boards gone over on day 861, the chalk smear washed off the door and coming
+away on a hand on 862, the lid of the box of chalk standing wider open on 870, the stool turned along the wall on
+866, the edge-mark in the shelf's dust on 866, and the stack sliding along its barrow on 868. **Every other line of
+the block below stands.** No thread was closed, no object was un-set, no figure was withdrawn, no day moved, and the
+whole of this file as it stood before this repair is at
+`state/archive/continuity.md.volume-18-batch-0002-full.md`. The repair's own account of what it did and did not
+change is at `state/batch-summaries/volume-18-batch-0002.md`.
+
 # WHAT VOLUME 18, BATCH 0002 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
 
 **Ten chapters, ten days, days 861 to 870, and the world moved by what ten mornings do to a room that has no
@@ -394,9 +389,24 @@ grit lying in the bottom of it and nothing broken in it. THIS IS THE SECOND HOLL
 to it.** A wet coat over the back of the chair at the far side of the room with one sleeve of it wet to the shoulder
 and the other sleeve dry, **and dust on the seat of that chair showing plain and unbroken and nobody having sat in
 it.** A mark of chalk dust a thumb's width across on the stone at the top of the market step beside the box of chalk,
-hard on the side away from the wall and still soft where the lid stands over it. A trestle at the store's end with
+hard on the side away from the wall and still soft where the lid stands over it, **and on day 870 the lid of that
+box standing a finger wider open than it had stood any morning of that week, with a bar of light through the gap and
+a straight edge across the soft of the dust that had not been there before.** A trestle at the store's end with
 its near leg out of square a finger's width and the grit round the foot of it pressed into a ring by the rocking.
-A course of boards laid crooked on it.
+A course of boards laid crooked on it, **and, on day 861, the near course of the boards lying along the front of
+that trestle gone over on its far end and come to rest across the foot of the trestle with its far end in the water
+and its near end on the dry stone, where nobody has propped it and nobody lifted it.**
+**THE SMARE OF CHALK ACROSS THE SECOND LINE OF THE DATE ON THE OUTSIDE OF THAT DOOR, WHICH A HAND PUT ON DAY 862,
+WAS WASHED OFF THE WOOD BY A SHEET OF WATER OFF THE AWNING AT THE END OF THAT SAME AFTERNOON AND CAME AWAY ON THE
+FLAT OF THE MAN OF ABOUT THIRTY-FOUR'S HAND, WHICH CARRIES A GREY MARK IN THE SHAPE OF THE SECOND LINE DOWN TO THE
+END OF DAY 870 AND ON WHICH NOBODY SAID ANYTHING.** **The stool of the woman of about fifty-two stood two inches
+further along the wall at the side of that bench on day 866 than it had stood at the light, because she turned it
+out of a stranger's way and left it there.** **The dust on the shelf at the far end of that room carries the edge
+of the man of about thirty-four's board pressed into it a finger's depth in from the front of the shelf, from the
+hour he stood that board against it on day 866, and the board itself was back across his knees at the ninth hour.**
+**The stack of boards on the barrow at that yard slid back along the top of the barrow about as far as a hand is
+wide on day 868, its near corner having come down on the stone and its far end out over the flags, and the man of
+about thirty-eight came out and put the flat of his hand on the top board and left it there.**
 
 **NEW CONTINUITIES THE TEN DAYS ESTABLISHED AND OWE ON.** A sound on that stair at about the fifth hour of day 864
 which the man of about thirty-nine who trades on a board was sure he heard and the man of about thirty-four who keeps
@@ -425,12 +435,15 @@ in none of the other eight. **The other seven of the volume's nine are 0871, 088
 with 0853 and 0861 they make the volume's nine.** His hands on 861 were on the flat of a trestle board at the store's
 end and he wanted that row's boards off the flags before the rain came back, published `no`, and **the thing he
 causes is that the man of about thirty-four cannot set his own board down on the near end of that trestle, because
-the top board of it is under Adrian Vale's hands, and carries it to the far end and holds it with one hand from the
-fifth hour to the tenth.** His hands on 866 were on nothing that is on a page and he wanted to have been in that room
-when whoever came up the stair came up it, published `yes`, and **the thing he causes is that the man of about
-thirty-four carries his board the length of the room and props it against the shelf at the far end where it will not
-stand, and puts it back where it was at the ninth hour.** `Adrian Vale` stands at 9 occurrences in 2 files of these
-ten and 0 in the other eight. He is Stage 2 on all ten days, no working, no threshold, no workway offered and none
+the top board of it is under Adrian Vale's hands, and carries it the length of the trestle to the far end, where the
+leg is round and wet and the board goes over twice, and holds it with one hand from the fifth hour to the tenth.**
+**And at about the tenth hour the course of boards he wanted off the flags goes over on its own, without him,
+because the water got between the courses, and comes to rest across the foot of the trestle.** His hands on 866 were
+on nothing that is on a page and he wanted to have been in that room when whoever came up the stair came up it,
+published `yes`, and **the thing he causes is that the man of about thirty-four carries his board the length of the
+room, because there is nowhere to stand it at the near end of that bench with Adrian at it, props it against the
+shelf at the far end where it goes over once and the dust on that shelf is disturbed, and brings it back at the
+ninth hour.** `Adrian Vale` stands at 11 occurrences in 2 files of these ten and 0 in the other eight. He is Stage 2 on all ten days, no working, no threshold, no workway offered and none
 asked for, aged nowhere, `passage` and `privilege` at zero, and the other side of anything is named on one page of
 these ten, in his mouth, in that room, in daylight, with a date on the door behind him, and in the narrator's mouth on
 no day of the ten.

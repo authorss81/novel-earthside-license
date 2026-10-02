@@ -868,8 +868,14 @@ length the days of THIS volume need, and four are new, and they are items 3, 6, 
 4. **The measure is the share of a chapter's words inside bold marks, and the mean is a consequence and not a
    plan, and no card in this file sets a target for it. THE TWO ENDS OF ANY RANGE ARE TWO SUBJECTS AND NOT TWO
    QUALITIES, and no card is to aim at either.**
-5. **A card specifies whose speech is bolded, because the bold is the only speaker marker this manuscript has.
-   Within a section the two voices alternate and no exchange carries two bold marks.**
+5. **A card specifies whose speech is bolded, because a bold mark together with a quotation mark is the way this
+   manuscript marks a speaker and §17.7 requires both on the same paragraph. Within a section the two voices
+   alternate and no exchange carries two bold marks. AND A CARD MAY NOT MAKE AN ATTRIBUTION RESTATE A PERSON'S
+   WHOLE HANDLE EVERY TIME THE PERSON SPEAKS: once a person has been named in a chapter, an attribution inside that
+   chapter may carry a pronoun or one of that person's short handles, and §17.9's handle stays the same in every
+   chapter that person is in. WHAT §17.7 FORBIDS IS A BOLD MARK WITH NO QUOTATION MARK AND IT DOES NOT FORBID AN
+   ATTRIBUTION THAT SAYS *said the keeper*, and a batch that reads this item as a rule against shortening has read
+   it wrong and the reader was shown the pattern by the batch before it.**
 6. **No chapter may contain more than two consecutive exchanges between the same two people**, which is four
    speech paragraphs, **which is the ceiling and not the target.** Every card names a third party, a task, or a
    thing that has to be carried somewhere, and the chapter's first paragraph has somebody's hands on something.
@@ -881,6 +887,12 @@ length the days of THIS volume need, and four are new, and they are items 3, 6, 
 9. **The people who carry the volume get a second handle beside the age and the trade and never instead of it, and
    it is the same in every chapter that person is in. §7.2 gives every handle. ABOUT FOUR PEOPLE A DAY IS A CENSUS
    AND NOT A PERSON AND MAY NOT BE GIVEN ONE, MAY NOT BE REDUCED, AND MAY NOT BE USED AS A COUNT OF ANYBODY.**
+   **AND THE HANDLE IS PRINTED IN FULL ON A PERSON'S FIRST APPEARANCE IN A CHAPTER AND MAY BE SHORTENED AFTER THAT
+   APPEARANCE BY A PRONOUN OR BY A SHORT HANDLE THAT ALREADY EXISTS IN THIS MANUSCRIPT — *the keeper*, *the
+   stallholder*, the bare age, the trade without the location — AND NO CHAPTER MAY BUILD A POSSESSIVE OFF AN
+   APPROXIMATION. *The man of about thirty-four's hand* IS A FAULT BECAUSE AN APPROXIMATION IS NOT A PERSON AND
+   *the stallholder's hand* IS NOT A FAULT. A chapter that wants the reader to hold a face puts the full handle in
+   front of the face and then lets the rest of the page do its work.**
 10. **And the one that is not a style instruction.** **Nobody in Volume 06 got stronger and nobody in Volume 07
     and nobody in Volume 08 and nobody in Volume 09 and nobody in Volume 10 and nobody in Volume 11 and nobody in
     Volume 12 and nobody in Volume 13 and nobody in Volume 14 and nobody in Volume 15 and nobody in Volume 16 and
@@ -930,6 +942,16 @@ length the days of THIS volume need, and four are new, and they are items 3, 6, 
     where what he gets is to see a thing, and §4.1 publishes those two so that a reviewer can fail a plan that has
     turned round. **AND ON DAY 890 THE THING HE IS THE CAUSE OF IS THAT A MAN SAYS IT BACK IN HIS OWN WORDS, AND NO
     CHAPTER MAY SAY THAT IT WAS PERSUADED BY HIM.**
+    **AND THE CLAUSE THAT FOLLOWS IS THE ONE A WRITER GETS WRONG, AND IT IS ADDED HERE AFTER TEN DAYS OF THIS
+    VOLUME WERE WRITTEN AGAINST IT. *Nobody asks him anything* IS THE PRESSURE OF A DAY AND IT IS NOT A LICENCE TO
+    WRITE A DAY OUT OF NEGATION. A chapter may not carry its stillness in a chain of *nobody* clauses standing in
+    for a scene: three sentences beginning *nobody* in a row is a summary of an absence and not an account of a
+    room. WHAT THIS ITEM ACTUALLY ASKS FOR ON HIS NINE DAYS IS VISIBLE WORK. He is standing or sitting where
+    somebody else has to work, the working is physical, and the chapter shows the working — the board carried the
+    length of a room because there was nowhere to set it down, the boards left lying because nobody lifted them,
+    the coat over a chair because there was nowhere else for it — and then shows what it cost that person, in that
+    person's own hands and not in a sentence about him. HE IS NOT USEFUL TO ANYBODY. HE IS STILL IN THE WAY, AND
+    A DAY IN WHICH HE IS IN THE WAY AND NOBODY HAS TO DO ANYTHING ABOUT IT IS NOT A DAY THIS PLAN ASKED FOR.**
 20. **AND THE ONE THAT IS ABOUT PARAGRAPH SHAPE.** A single-sentence paragraph is a legal shape in three distinct
     cases and they must be counted apart: a speech paragraph; a speech-attribution lead-in, being a one-sentence
     narration paragraph immediately followed by a marked speech; and a free-standing one-sentence narration
@@ -961,6 +983,25 @@ length the days of THIS volume need, and four are new, and they are items 3, 6, 
     FRAME WAS ADDED AFTER THE FIRST TEN CARDS OF THIS VOLUME HAD BEEN DRAWN AND WRITTEN; THOSE TWO REPEATS ARE
     RECORDED AT `outline/batches/volume-18-batch-0001.md`, WHICH DREW FROM EIGHT, AND THEY ARE NOT DISTURBED BY
     THE ADDITION, AND A BATCH WRITING AFTER THAT ONE DRAWS FROM NINE.**
+    **AND THE CONCESSION IN THE TEXT OF THE FIRST EIGHT IS AMENDED AND NOT REPEATED, BECAUSE THE REVIEW REPAIR ON
+    CHAPTERS 0861 TO 0870 FOUND TEN DAYS WRITTEN INSIDE THAT CONCESSION AND FOUND THEM FLAT. All eight are staged
+    outside a head and that is where their strength is and none of them becomes frame nine. BUT A CARD DRAWN FROM
+    ONE OF THE EIGHT MAY CARRY A SHORT PASSAGE OF WHAT THE PERSON DOING THE LOOKING IS THINKING WHILE THE LOOKING
+    GOES ON — two or three sentences, at most, in one place in the chapter, attached to the thing that person is
+    looking at or not doing, and never replacing an action. A ROW THAT A MAN IS STANDING IN FRONT OF IS ALSO WHAT HE
+    IS THINKING ABOUT. WHAT MAY NOT HAPPEN IS THE THING THE AMENDMENT EXISTS TO STOP: the interiority may not
+    become the chapter's spine, may not run to more than one passage, and may not stand in the place of a hand on a
+    thing. §17.19's clause about visible work and §17.1's clause about the first paragraph are unchanged and still
+    bind, and a chapter with an interior passage and no physical consequence is a chapter that has failed both.**
+22. **AND THE ONE THAT IS ABOUT WHAT A BATCH IS ALLOWED TO CLAIM ABOUT ITS OWN WORK. A batch record may not publish
+    a compliance figure it has not measured with an instrument in the same run, and where the reading of a figure
+    involves judgement — a closing that states a change against a closing that states a state, a repetition that is
+    a required handle against one that is not — the record publishes the instrument, the reading and the scope on
+    the same line as the number, names the cases an outside reader could argue the other way, and does not print
+    the word *zero* over a count it reached by reading rather than by measuring. THE FIRST EDITION OF THE RECORD OF
+    DAYS 861 TO 870 PRINTED *ZERO IN TEN* ON ITS CLOSINGS AND *FIVE WORDS* ON THE SHARED RUN BETWEEN THEM AND BOTH
+    FIGURES WERE WRONG, AND THE INSTRUMENT FOR THE SECOND HAD NEVER BEEN RUN. A RECORD THAT ASSERTS AN ABSENCE IT
+    HAS NOT MEASURED IS THE FAILURE §17.11(iii) NAMES, AND IT IS WORSE THAN NO RECORD.**
 
 ---
 
@@ -1251,6 +1292,16 @@ BEFORE THEY FIND THEM THE HARD WAY.**
 3. **`outline/volume-03.md` does not exist and its five beats stand unaudited.** Recorded by the review-fix pass on
    `workspace/volume-17/batch-0002` and owed by a phase that treats Volume 03 as its subject. **This plan does not
    touch it and may not.**
+
+**AND THE ONE THIS PLAN OWES ITSELF, ADDED BY THE REVIEW REPAIR ON CHAPTERS 0861 TO 0870 AND NAMED HERE SO THAT A
+LATER READER FINDS IT IN THE PLAN AND NOT ONLY IN A BATCH RECORD: §17.5, §17.9, §17.19 AND §17.21 WERE THE CAUSE OF
+THOSE TEN DAYS BEING FLAT AND NOT ONLY OF THOSE TEN DAYS, AND FOUR OF THE FIVE AMENDMENTS OF THIS FILE ARE IN
+THOSE FOUR ITEMS. §17.21 HAD NAMED ITS OWN DEFECT IN ITS OWN TEXT AND CODIFIED IT INSTEAD OF FIXING IT; §17.19
+MADE STANDING INERTNESS THE VOLUME'S PREMISE WITHOUT SAYING THAT A DAY MAY NOT BE BUILT OUT OF IT; §17.5 FORCED AN
+ATTRIBUTION TO RESTATE A WHOLE HANDLE; AND §17.22 IS NEW AND IS ABOUT THE RECORD AND NOT ABOUT THE PROSE, BECAUSE
+THE RECORD OF THOSE TEN DAYS CERTIFIED THREE FIGURES THAT WERE WRONG AND ONE INSTRUMENT WAS NEVER RUN AT ALL. THE
+DAYS, THE CARD FRAMES, THE NINE HEAVY DAYS, THE FIVE HELD WORDINGS, THE PROHIBITIONS AND THE ENDING ARE UNTOUCHED
+BY ALL FIVE, AND NO AMENDMENT OF THIS FILE MOVES A DAY.**
 
 **AND THE ONES INHERITED WHOLE AND UNPAID, none of which is a plan's to repair:** nineteen stray closing quotation
 marks in Chapters 0281 to 0290; `chapters/volume-07/chapter-0341.md:149`; a thirty-nine-word run across the 0254

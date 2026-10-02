@@ -3,65 +3,15 @@
 **This file carries where the work stands, what is on the tables and shelves, what a next writer must carry
 forward, and what is owed. It does not carry a list of things a phase did not do.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-batch-0002-full.md`, taken by the
-Volume 18 Batch 0002 pass before it replaced the Volume 18 Batch 0001 block and the two review-repair blocks below it
-with the Volume 18 Batch 0002 block, and verified against the live file by SHA256 before a single line was removed.
-It is a complete byte-for-byte copy of this file as it stood after the review repair of Chapters 0851 to 0860 and
-holds those three blocks in full. BEHIND IT IS
-`state/archive/current.md.volume-18-batch-0001-full.md`, taken by the Volume 18 Batch 0001 pass before it replaced
-the Volume 18 planning block with the Volume 18 Batch 0001 block, and behind that
-`state/archive/current.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass replaced four
-superseded blocks with one; the head of this file named that one as the most recent whole copy until the review repair
-of Chapters 0851 to 0860 corrected it. Behind that, every earlier block is at
-`state/archive/current.md.volume-17-batch-0004-full.md`, word for word and undeleted — a complete byte-for-byte
-copy of this file as it stood after Batch 0004 wrote its chapters and before the review repair rewrote its
-block, and it holds that block in full — and behind that at
-`state/archive/current.md.volume-17-batch-0003-full.md`, itself a complete copy as it stood before the fourth
-compaction, and behind that at `state/archive/current.md.volume-17-batch-0002-full.md`,
-`state/archive/current.md.volume-13-through-volume-15-batch-0005-full.md`,
-`state/archive/current.md.volumes-01-to-12.md`,
-`state/archive/current.md.volume-12-close-through-volume-13-batch-0003.md`,
-`state/archive/current.md.volume-13-batches-0001-to-0004-full.md`,
-`state/archive/current.md.volume-13-batch-0002-stale-redispatch-full.md` and
-`state/archive/current.md.volume-15-through-volume-16-batch-0002-full.md`.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-batch-0002-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
+THE BATCH 0002 PASS REPLACED THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0851 TO 0860, AND IT
+HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0002 BLOCK OR THE REPAIR BLOCK ON CHAPTERS 0861 TO
+0870. EVERY EARLIER BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
 
-**THE COMPACTION IS A MOVE OF TEXT AND NOT A CHANGE OF RECORD. No thread was closed, no figure was withdrawn,
-no decision was reversed, and no block was edited as it was carried. A block that says a thread stands is
-carrying the live position forward; the reasoning behind it is in the archive and in the batch records.**
-
-**WHAT LEFT THIS LIVE FILE IN THE LAST PASS, SO THAT A READER CAN FIND IT AGAIN. The Volume 18 Batch 0001 block and
-the two review-repair blocks below it, in this file and in the other four, where each of the other four lost its
-Batch 0001 block and its review-repair block. Everything they carried is in
-`state/archive/current.md.volume-18-batch-0002-full.md`, in `outline/volume-18.md`, in the two Volume 18 batch
-records, and in `state/volume-17-close.md`, which is Volume 17's canonical record and which carries the §17.17
-closing-count ceiling the standing-debts block named.**
-
-**THE FIGURES ARE IN THE BATCH RECORDS AND ARE NOT RESTATED HERE. For days 861 to 870 at
-`state/batch-summaries/volume-18-batch-0002.md`; for days 851 to 860 at
-`state/batch-summaries/volume-18-batch-0001.md`; for days 841 to 850 at
-`state/batch-summaries/volume-17-batch-0005.md`; for days 821 to 830 at
-`state/batch-summaries/volume-17-batch-0003.md`; for 811 to 820 at
-`state/batch-summaries/volume-17-batch-0002.md`; for 801 to 810 at
-`state/batch-summaries/volume-17-batch-0001.md`; for 751 to 800 at `state/volume-16-close.md` and the five
-Volume 16 batch records; for 741 to 750 at `state/batch-summaries/volume-15-batch-0005.md`. FOR DAYS 871 TO
-900 THERE ARE NO FIGURES BECAUSE THERE ARE NO CHAPTERS, and the plan for those thirty days is
-`outline/volume-18.md`. IF YOU ARE LOOKING FOR A FIGURE, CHECK THE ARCHIVE AND THE BATCH RECORD BEFORE YOU
-RE-MEASURE IT, AND IF YOU RE-MEASURE IT, PUBLISH BOTH.**
-
-**A NOTE ON THE WORD *ABOVE*, because the blocks in the archive were each written to declare that they win
-over every block above them, and that was true when they were written: there are no blocks above them here any
-more. *Above* now means the archives named in this header.**
-
-**THIS FILE HAS NOW BEEN COMPACTED EIGHT TIMES, FOR THE SAME REASON AND BY THE SAME CONVENTION: a live state file
-that grows by appending every pass is a record no later pass will read whole. Four of the first six were undone by
-the appending that followed them. This pass did not append: it copied the file whole into `state/archive/` as
-`state/archive/current.md.volume-18-batch-0002-full.md`, verified the copy by SHA256 before a line was removed,
-replaced the Volume 18 Batch 0001 block and the two review-repair blocks below it with the Volume 18 Batch 0002 block,
-and did the same four things to the other four live files. **A phase that appends to this file is expected to leave
-it smaller than it found it, or to say in its own record why not, and this one left the five together 15,139 bytes
-smaller than it found them.**
-
----
+**THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
+SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
+smaller than it found it or to say in its own record why not.**
 
 ## VOLUME 17, BATCH 0003 — CHAPTERS 0821 TO 0830, DAYS 821 TO 830. THIRTY CHAPTERS OF FIFTY ARE WRITTEN. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
 
@@ -225,6 +175,20 @@ PHASE, NO PROMPT AND NO DIRECTORY.**
 ---
 
 
+## WHERE THE WORK STANDS AFTER THE REVIEW REPAIR OF CHAPTERS 0861 TO 0870. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**THE BLOCK BELOW DESCRIBES THE REPAIRED TEXT. ITS FIGURES ARE CORRECTED IN PLACE, ITS `that` COUNT IS RE-MEASURED
+AT 3.91, ITS THREE WITHDRAWN CLAIMS ARE NAMED, AND ITS SENTENCE THAT THESE TEN DAYS HAVE HAD NO OUTSIDE READ IS
+OUT OF DATE AND CORRECTED. An outside read at `logs/batch-0002.review.log` required a repair of all ten chapters,
+four amendments to `outline/volume-18.md` and one to `workspace/volume-18/batch-0003/PROMPT.md`; the full account is
+at `state/batch-summaries/volume-18-batch-0002.md`, whose repair block is at its head. NOTHING WAS RESTARTED, NO DAY
+MOVED, NO CARD CHANGED, AND THE ENDING, THE FIVE HELD WORDINGS, THE PANEL AND THE NAME ARE UNTOUCHED.**
+
+**THE NEXT PHASE IS STILL `workspace/volume-18/batch-0003/PROMPT.md` AND STILL WRITES CHAPTERS 0871 TO 0880. THAT
+PROMPT WAS AMENDED SO THAT IT CANNOT REPRODUCE WHAT WAS REPAIRED: the sentence that told the writer it could print
+no string the file had not given it is withdrawn in the prompt itself, with its reason, and the prompt now carries
+the corrected figures, the four craft rules and a rule that a record may not print a count it has not measured.**
+
 ## WHERE THE WORK STANDS AFTER VOLUME 18, BATCH 0002. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
 
 **THE NEXT PHASE IS `workspace/volume-18/batch-0003/PROMPT.md` AND NOTHING ELSE. Batch 0002 wrote ten chapters,
@@ -250,7 +214,8 @@ five hundred and eighty-fifth for the volume, or convert an ordinal into a span.
 
 **WHAT THE TEN DAYS DID, ONE LINE EACH, AND NONE OF IT SETTLED ANYTHING.** A man stood at the near end of a trestle
 with his hands on the flat of a board and the boards he wanted off the flags stayed where they were and the rain came
-back on to them. The row said out loud at its own trestles that it wanted nothing off a door that has stood open for
+back on to them, **and at about the tenth hour the near course went over on its own where the water got between the
+courses and came to rest across the foot of that trestle, and nobody lifted it and nobody propped it.** The row said out loud at its own trestles that it wanted nothing off a door that has stood open for
 the whole of the flood. A trestle leg that would not stand square and a course of boards laid crooked on it and no
 wedge fetched. A sound on that stair at about the fifth hour that one man was sure of and one man was not, and
 nobody went down. A board on the outside wall hanging on one nail with the other hole empty above it, and its
@@ -259,7 +224,8 @@ of his coat wet to the shoulder and the other sleeve dry, and nobody in that roo
 thanked him and nobody was waiting for him.** A wet coat over the back of a chair at the far side of the room and
 nobody asked him a single thing all Sunday. **Two hollows in the flags at the side of the wharf yard and a store
 door a hand's breadth from where it stood on Sunday morning, and a stack that will not go through it, and nobody hurt
-and nobody able to say how it moved.** **The volume's second cost, named by the woman of about twenty-nine who keeps
+and nobody able to say how it moved, and the stack left standing in the open until its near corner came down and it
+slid along its barrow with its far end out over the flags.** **The volume's second cost, named by the woman of about twenty-nine who keeps
 a public register, in her own mouth, before anything else that morning.** **Two men at two ends of one market saying
 one sentence in the same words, neither of them quoting the other, and nobody in that room saying they had heard it
 before.**
@@ -279,19 +245,26 @@ mouth on no day of the ten, before that morning or after it.**
 
 **THE FIGURES FOR DAYS 861 TO 870 ARE AT `state/batch-summaries/volume-18-batch-0002.md` WITH EVERY READING AND
 SCOPE ON THE SAME LINE AS ITS NUMBER, and the three a later phase should look at first are these. `that` stands at
-3.85 per 1,000 words on the bodies of these ten, against 4.57 for the ten days behind them, 4.51 for Volume 17's last
-ten and 20.36 for Volume 17 whole on the same reading, and the first writing of this batch measured 15.25 and was
-reworded until it was not. The longest run of consecutive words any two of these ten share is 18, the longest against
-Volume 17's fifty is also 18, and the longest inside one file at two positions is 14. Four of the ten titles are
-seven words, one is six and the rest are eight and nine.** The wording of the cost of 869 is printed once, in
+3.91 per 1,000 words on the bodies of these ten as they stand after the review repair below, against 3.86 for these
+ten as they were first written and 4.53 for Volume 17's last ten on the same reading. The longest run of consecutive
+words any two of these ten share is 18, the longest against Volume 17's fifty is also 18, and the longest inside one
+file at two positions is 14. Six of the ten titles are seven words, one is six and the rest are eight and nine.**
+**THE FIRST EDITION OF THAT RECORD ALSO PRINTED THREE FIGURES THAT WERE WRONG AND THE REPAIR WITHDRAWS ALL THREE:
+the shared-run count over the ten closings, which was printed as five and was eight and had never been measured; the
+count of closings that state nothing changed, which was printed as zero in ten over six real cases; and the claim
+that none of the ten closes on a shape §17.18 puts off limits, which 0867 broke by closing on that man's coat.
+THE CORRECTED FIGURES ARE IN THE REPAIR BLOCK AT THE HEAD OF `state/batch-summaries/volume-18-batch-0002.md` AND
+THE CORRECTED CLOSINGS ARE PUBLISHED THERE IN FULL.** The wording of the cost of 869 is printed once, in
 `chapters/volume-18/chapter-0869.md`, and no file this batch wrote repeats it and no record this batch wrote prints
 it. The sentence said twice on 870 is printed once, in `chapters/volume-18/chapter-0870.md`, in two mouths, and no
 other mouth on any of the ten days says it in the same words.
 
 **AND WHAT IS STILL A HUMAN'S, UNCHANGED AND CARRIED. `reviews/volume-16/` does not exist and the review dispatch
 falls back to the writer's own agent, so the five repairs this batch made to its own first writing were made by the
-agent kind that wrote the chapters, and the ten days behind these have had one outside read and these ten have not.
-`state/phase-ledger.json` still reads `phase-000-bootstrap` after seventeen closed volumes. `NOVEL_SPEC.md`'s Status
+agent kind that wrote the chapters, **and these ten have now had their outside read at `logs/batch-0002.review.log`,
+which found six findings and was made by that same kind of agent, so it is a read and it is not an independent one.
+`state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` after eighteen volumes, a reader
+flagged it, and it is a controller file and was not opened by either pass.** `NOVEL_SPEC.md`'s Status
 section is stale. All three are controller- or owner-owned and none was opened.** The consent fracture stays
 unmended, the fifth condition is not given, no milestone is paid and none may be before day 888, no standing question
 is answered including the ones of days 798 and 848, the mark of day 440 is not traced for the eleventh time running,
