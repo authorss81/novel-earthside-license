@@ -172,7 +172,7 @@ figures for days 801 to 810, which left this file with that block, are at
 | 0895 | 895 | Leaf/rate/rag work not coming out; two go down with the one past the bar, third stays; no forgiveness/condemnation/handing. Quieter-by-two closing. |
 | 0896 | 896 | Top of shut road, open gate, nobody on it; two look down it, nothing moved/measured. Empty road closing. |
 | 0897 | 897 | Woman-52 alone with stool/shut book, three-sentence looking on flags; room on drying weather. Pale edge at stool closing. |
-| 0898 | 898 | Hand over pocket nothing out; Otto Marsh to one man at near bench end daylight date behind, unheard, unanswered, unthanked. Square smoothed closing. |
+| 0898 | 898 | Hand over pocket nothing out; the man who came up that stair on 866 puts a question to one man at near bench end daylight date behind, unheard, unanswered, unthanked. Square smoothed closing. |
 | 0899 | 899 | ADRIAN 9. Stack on barrow past hollows, wanting dry by fourth hour `no`; two boards off onto flags. Sheet drawing back closing. |
 | 0900 | 900 | LAST IMAGE. Rain, shut road, open gate, about nine waiting ordinary, child asks (`players`), one-sentence answer, woman far side book shut, two hands on gate, stone worn in two places. Gate as it stood closing. |
 
