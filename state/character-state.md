@@ -1091,4 +1091,51 @@ round the wide side, coming back for it, and leaving two flags wet that were dry
 nobody, told nothing, useful to nobody, with nobody waiting for him to be useful. Stage 2 on all ten days, no
 working, no threshold, the other world not named once, `passage` and `privilege` at zero, and he is not on that
 stair on the last seven mornings of the volume for a reason at `outline/volume-17.md` §6.9 that this batch does
-not reach.**
+not reach.
+
+---
+
+# WHAT THE SECOND TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
+or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
+unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days.**
+
+**THE WOMAN OF ABOUT FIFTY-TWO — the only person whose business moved, once.** On day 813 she said out loud,
+in her own mouth and before she said anything else that morning, what it has cost her to stand at the foot of
+that stair in the wet and see whether the iron was in the door. Nobody thanked her, nobody bettered one word,
+nobody asked her a second question, and nothing in that room was done about it at any hour of that day. **SHE
+WAS NOT ASKED WHAT SHE DOES AT THE FOOT OF THAT STAIR ON ANY OF THE TEN DAYS, AND NO CHAPTER SAYS WHY SHE
+GOES. HER STATE AT DAY 820: hands at the sides of her dress, as ever.**
+
+**THE KEEPER — carried the book and opened it.** On day 814 she carried the register the length of the room,
+set it square on the bench and opened it where anybody could see the page, and nobody asked what it is for. On
+day 815 she held the page against the draught while the five strokes with a day against each and no sixth were
+looked at, and nobody said it out loud. On day 812 she said a person had not come up, and nobody put a morning
+to it. **She was asked nothing about the book on any of the ten days.**
+
+**THE MAN OF ABOUT THIRTY-NINE — said nothing that moved anything.** He stood at the near end through the cost
+of day 813 without turning round. He looked at the open page on day 815 and at the empty place below the last
+stroke. On day 818 he stood a morning at one end of the market beside the man of about thirty-four and neither
+asked the other. **His board stayed under his arm and no mouth asked him about the bare place on it.**
+
+**THE MAN OF ABOUT THIRTY-FOUR — his hand did not go into his pocket.** He squared his board, answered in
+about four words where the iron is lying on day 816, and tipped nothing, wrote nothing, asked nothing. **His
+chalk is in his inside breast pocket and it has not been out, and the volume's one day for it is 837.**
+
+**THE MAN OF ABOUT THIRTY-ONE — carried and stood.** He stood at the far end through the cost of day 813 and
+said nothing. On day 817 he carried boards under the awning with the man of about thirty-eight. On day 819 he
+came down past the open door and said the light is on the stair, and the keeper answered it and nothing came
+of it. **His satchel stayed under his arm with its flap down and was not opened.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT — carried in weather.** On day 817 he carried a stack in under an awning out
+of the weather off eleven miles of flats, steadying his barrow with one hand. **The board face up under two
+lines of grit was not wiped, not turned and not gone near.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN — looked at two empty sockets.** On day 820 he set his bucket down at the foot
+of that stair and looked at the sockets with the dust lying in them. **He was asked nothing on any of the ten
+days.**
+
+**ADRIAN VALE — in none of these ten and in no other of them: 0 of 10.** For ten consecutive chapters nobody
+in this manuscript is in that room who could open a threshold. Stage 2 on all ten days, no working, no
+threshold, the other world not named once, `passage` and `privilege` at zero.**

@@ -1204,3 +1204,37 @@ BE WRITTEN BY ANY OTHER PHASE.**
     after sixteen volumes; and `NOVEL_SPEC.md`'s Status section publishes fifteen volumes and 750 chapter files
     and ends its panel row at fifteen, where seventeen volumes is what will be on disk when this phase is marked
     done. NONE OF THE THREE IS A FICTION FILE AND NONE WAS OPENED, EDITED OR WORKED AROUND.**
+
+---
+
+# WHAT THE SECOND TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+
+**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0003/PROMPT.md`,
+WHICH WRITES CHAPTERS 0821 TO 0830 AND NOTHING ELSE. NO CHAPTER PAST 0820 EXISTS AND NO CHAPTER PAST 0820 IS TO
+BE WRITTEN BY ANY OTHER PHASE.**
+
+1. **THE FIRST COST IS PAID AND SPENT. NEW, AND IT IS THE VOLUME'S FIRST, AND IT IS NOT ANSWERED BECAUSE A COST
+   IS NOT A QUESTION.** On day 813 the woman of about fifty-two named what it cost her to stand at the foot of
+   that stair and see whether the bar was in the door, before anything else she said, unthanked, unbettered,
+   unacted on. **No later chapter may treat it as a complaint to be settled, and no chapter may have anybody
+   thank her for it late.**
+2. **AN ABSENCE WITHOUT A MORNING. NEW, AND CORRECT, AND UNDATABLE.** On day 812 a person was noticed not to
+   have gone up and nobody could put a morning to it. **A later chapter may not date it and may not supply a
+   figure for it.**
+3. **THE PAGE LOOKED AT TOGETHER. NEW, AND NOTHING WAS MADE OF IT.** On days 814 and 815 the book lay open on
+   the bench and the five strokes with a day against each and no sixth were seen, and nobody asked what the
+   book is for and nobody wrote. **A later chapter may not enter a sixth on the back of these two days.**
+4. **THE STAIR LIGHTED FROM BELOW. NEW, AND NOBODY REMARKED ON IT.** On day 819 the door stood open with the
+   light coming up it, and no mouth said which was wanted. On day 820 the fortnight of empty sockets was said
+   out loud for the first time. **Neither day moves the bar and neither day dates the rest of the fifty.**
+5. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
+   volume's own standing list at `outline/volume-17.md` §16 and the ten items of the block above. **THE
+   QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK OF DAY 440 IS NOT TRACED AND THIS IS THE TENTH VOLUME
+   RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED AT ANY VALUE. THE FIGURE THE VOLUME BEHIND THIS ONE
+   SPENT IS AT ZERO ON ALL TEN NEW FILES AND IS NOT RESTORED. THE SEVEN WORDS OF DAY 825 ARE IN NO MOUTH AND
+   WHAT THAT ROOM IS GOING TO SETTLE IS SAID NOWHERE.**
+6. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
+   AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER. ADRIAN VALE IS IN NONE OF THE TEN.**
+7. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-17/` does not exist and the review
+   dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`;
+   and `NOVEL_SPEC.md`'s Status section is owed by a human. NONE WAS OPENED, EDITED OR WORKED AROUND.**

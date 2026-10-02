@@ -902,3 +902,60 @@ bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits 
 any body; zero month ordinals; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the
 eleven §16.14 words at 0; `player` at 0; `nine steps` at 0; Adrian Vale in 0809 and in no other; ten files of
 ten ending in a newline.**
+
+---
+
+# WHAT THE SECOND TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
+AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCK ABOVE STAND.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+41. **THE FIRST COST OF THIS VOLUME IS PAID AND IT IS ON A PAGE.** On day 813 the woman of about fifty-two
+    said out loud, in that room, in daylight, with a date in chalk on the outside of the door at the foot of
+    that stair, what it has cost her to stand at the foot of that stair in the wet and see whether the iron
+    was in the door, and she said it before she said anything else that morning. **Nobody thanked her, nobody
+    bettered one word of it, nobody asked her a second question, and nothing in that room was done about it at
+    any hour of that day. IT IS SPENT AND IT DOES NOT COME BACK, and it is the only naming of a cost before a
+    decision in this volume. The second cost is fixed to day 840 and this batch does not reach it.**
+42. **AN ABSENCE WAS SAID OUT LOUD WITHOUT A MORNING ON IT.** On day 812 the keeper said a person had not
+    come up and another mouth said he may have gone past below, and the notice is correct and nobody in that
+    room could put a morning to it. **The chapter does not date it and does not supply a figure.**
+43. **THE BOOK SPENT A MORNING OPEN ON THE BENCH.** On day 814 the keeper carried the register the length of
+    the room, set it down square and opened it where anybody could see the page, and no mouth asked what it
+    is for. On day 815 the column with a day against each of five strokes and no sixth entered was looked at
+    together, and nobody said it out loud and nobody wrote. **The figure about a page is the one printed and
+    no other, and no elapsed figure is printed on either day.**
+44. **THE ROW HEARD WHERE THE IRON IS, ONCE.** On day 816 one man told another in about four words that the
+    bar is on the top step, and the row did not take it up. **A stack went under an awning out of the weather
+    on day 817, board by board, and the board face up under two lines of grit was not wiped, not turned and
+    not gone near.**
+45. **THE STAIR STOOD LIGHTED FROM BELOW.** On day 819 the door at the foot of that stair stood open with the
+    light coming up it the better part of the day, and no mouth said which of the two the room wanted. On day
+    820 the sockets empty for a fortnight and nobody asking was said out loud for the first time, and nothing
+    was done about it. **No elapsed figure is printed on either day.**
+46. **AND ADRIAN VALE IS IN NONE OF THESE TEN.** For ten consecutive chapters nobody in this manuscript is in
+    that room who could open a threshold, and every one of the ten finds its pressure without him. **Stage 2
+    on all ten days, no working, no threshold, the other world not named once, `passage` and `privilege` at
+    zero.**
+
+**AND WHAT DID NOT MOVE: the bar on the top step in no hand on any of the ten days; the register with five
+strokes and a day against each, none struck, no sixth, none taken out; the shaded form behind it on the same
+shelf never lifted by any hand but hers; the one word in the column on the right of that page, printed nowhere
+and asked about by nobody; the word on the shaded form, printed nowhere and set beside nothing; the bare piece
+of board under the date, which means nothing; the fence sixteen willow posts and eleven withies on the same
+cord, unmeasured, no post moved; the length of new rope never lifted; the store's board with three sets of
+figures and no line of words under any of them; the chalk in the inside breast pocket taken out on none of the
+ten days with no chapter saying when it was last out; the satchel shut with its flap down; no notice, no
+document, no name, no new person, no new place, no panel, no stronger person, no answered question, and the
+figure the volume behind this one spent at zero on all ten files in narration and in every mouth.**
+
+**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, whitespace
+tokens, both file orders, ten files, days 811 to 820: 3,173 words (3,081 out); chapter length 304 to 349;
+bolded share 4.57 per cent unweighted over 145 words; titles five to six words in 10 of 10; eighty-three
+paragraphs — fourteen speech, eight lead-ins, sixty-one free-standing narration — with zero
+bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits in any body; zero month
+ordinals; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the eleven §16.14 words
+at 0; `player`, `passage`, `privilege`, `nine steps` and `name, names, named` at 0; Adrian Vale in 0 of 10;
+ten files of ten ending in a newline.**

@@ -739,3 +739,49 @@ ten cards, the decision, the costs, the wants and the outcomes are unaltered.**
     hour the trough stands dry with its rim dark all round except under the trestle. **Day 810 is a trap day at
     `outline/volume-17.md` §14.5 and no elapsed figure is printed on the page.** DID NOT DO: asked why, counted,
     printed a figure.
+
+## VOLUME 17, BATCH 0002 — CHAPTERS 0811 TO 0820, DAYS 811 TO 820, ONE CHAPTER TO ONE DAY
+
+**Ten days, one chapter to a day, from a Sunday to a Tuesday, the four hundred and ninety-sixth to the five
+hundred and fifth day of the Bare Month. Read `outline/volume-17.md` before this block. The ten cards are at
+the head of `state/batch-summaries/volume-17-batch-0002.md` and this block is a summary and not a plan.**
+
+1. **0811, Sunday BM 496, political. Adrian: no.** FOR: a quarter of an hour at the foot of that stair and no
+   stair taken. CHANGED: somebody with both hands in a coat stands while about four people a day go past on
+   the paving, and the room above goes on with its morning. DID NOT DO: said whose feet those were, asked,
+   went up.
+2. **0812, Monday BM 497, discovery. Adrian: no.** FOR: a person noticed not to have gone up, correct and
+   undatable. CHANGED: the keeper says he has not come up; another mouth says he may have gone past below;
+   nobody puts a morning to it. DID NOT DO: dated it, supplied a figure, asked anything.
+3. **0813, Tuesday BM 498, cost. Adrian: no.** FOR: THE FIRST COST OF THIS VOLUME, named by the person it is
+   paid to, in her own mouth, before anything else she says. CHANGED: the woman of about fifty-two says what
+   it has cost her to stand at the foot of that stair in the wet and see whether the iron was in the door;
+   nobody thanks her, nobody betters one word, nobody asks her a second question, nothing done about it.
+   DID NOT DO: said why she goes, asked her, prepared day 825.
+4. **0814, Wednesday BM 499, character. Adrian: no.** FOR: the register on the bench and the book open and no
+   mouth asking what it is for. CHANGED: the keeper carries the book the length of the room, opens it where
+   anybody can see the page, and the morning goes on round it. DID NOT DO: asked what it is for, wrote
+   anything, took the second slate.
+5. **0815, Thursday BM 500, discovery. Adrian: no.** FOR: a column with a day against each of five strokes and
+   no sixth entered. CHANGED: the page is looked at together at the bench and nobody says it out loud and
+   nobody writes. DID NOT DO: said a number, printed any other figure, dated anything.
+6. **0816, Friday BM 501, political. Adrian: no.** FOR: a man told by another man where the bar is lying, in
+   about four words. CHANGED: on the top step, said once, and the row does not take it up. DID NOT DO: added
+   a fifth word, decided anything, went up.
+7. **0817, Saturday BM 502, physical. Adrian: no.** FOR: eleven miles of flats in weather and a stack carried
+   in under an awning. CHANGED: board by board the pile by the store door goes under the awning by the ninth
+   hour, dry. DID NOT DO: touched the grit board, measured anything, thanked anybody.
+8. **0818, Sunday BM 503, character. Adrian: no.** FOR: two men at one end of one market and neither asking the
+   other. CHANGED: a morning side by side on rates and weather with the nearest thing unsaid. DID NOT DO:
+   asked, told, turned toward the stair.
+9. **0819, Monday BM 504, political. Adrian: no.** FOR: a door standing open on a stair with the light coming
+   up it. CHANGED: the stair lighted from below the better part of the day and no mouth saying which of the
+   two the room wanted. DID NOT DO: shut it, said which was wanted, decided anything.
+10. **0820, Tuesday BM 505, discovery. Adrian: no.** FOR: what it is to have the sockets empty for a fortnight
+    and not to have asked. CHANGED: the fortnight said out loud in that room for the first time and nothing
+    done about it. DID NOT DO: printed an elapsed figure, asked, acted.
+
+**AND WHAT NONE OF THE TEN DOES: no decision of record, no preparation of day 825, no second cost, no panel,
+no document, no notice, no name spoken, no question asked of the room and none answered, no new person, no new
+descriptor, no Adrian Vale on any of the ten, no hand on the bar, no chalk out of any pocket, no figure off
+any object in the inventory, and no day after 820.**
