@@ -320,3 +320,96 @@ Those blocks record, four times, that `reviews/volume-17/` does not exist and th
 falls back to the writer's own agent. **`reviews/volume-17/batch-0002.md` exists as of this pass and
 declares the fall-back in its first lines. `reviews/volume-16/` still does not exist, and the
 independence debt is unpaid for that volume and for every volume before it.**
+
+---
+
+# WHAT THE THIRD TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
+AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCKS ABOVE STAND.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+47. **A STOOL WENT INTO A CORNER NOBODY CAN GET AT.** On day 821 the woman of about fifty-two carried the
+    stool the length of the side of that room and set it into the corner behind the near leg of the bench,
+    under the shelf at the height of a person's shoulder, with the table against the wall in front of it, and
+    pushed it back with her heel. **To sit on it a person would have to move the table and climb, and nobody in
+    that room moved the table. A man who came up that stair at about the seventh hour put his hand on the far
+    end of the bench and went back down. NO CHAPTER SAYS WHY SHE MOVED IT AND NO MOUTH ASKS.**
+48. **THE HOLLOW AT THE SIDE OF THAT YARD STOOD FULLER AT THE TENTH HOUR THAN AT THE FOURTH.** Chapter 0822,
+    published `no`. Water standing in a hollow of the flags at the side of the yard at the near end of eleven
+    miles of flats; a filled joint under the flags brought out as a fistful of grit and a cake of mortar with
+    stone in it; the water came back into the same place behind his hands. **The man of about thirty-eight
+    swung the barrow wide over the dry crown to get past him, a wheel went down into the hollow, the near end
+    of the load stood in the water, and the boards put the run-off back into the same hollow. The near end of
+    that load stayed wet and he went on up the yard and did not look back. The grit of the stone was skinned
+    over the top of the water at the tenth hour.**
+49. **THE BENCH WAS TURNED END FOR END ON DAY 823 AND WAS NOT TURNED BACK.** The man of about thirty-one did
+    it at the fourth hour so that the worn place came to the near end and the far end stood against the wall
+    with nothing on it, and he went and stood at that far end, which put him in the part of that room the
+    light had not got to. **Nothing said at the near end of that bench carried to the far end of it on that
+    morning, and the man of about thirty-nine said a thing again at the far end in other words and nobody told
+    him he had it wrong. The worn place in that bench was at the near end under the light at the tenth hour
+    and darker than the wood round it.**
+50. **THE BOARD ON THE OUTSIDE WALL HAS BEEN WIPED ROUND ITS THREE SETS OF FIGURES AND NOT OVER ANY OF THEM.**
+    Chapter 0824. Somebody went over that stone with a wet cloth, round each of the three and stopping short of
+    every one, and each set stands in a field of washed stone dried paler than the stone round it, with the
+    grit of the cloth dried into the low places of the chalk. **No line of words was put under any of the three
+    and none was taken out from under any of them, and no figure was printed. NO CHAPTER ASKS WHO DID IT AND
+    THE WALL ABOVE THE TOP EDGE OF THAT BOARD IS STILL THE THING WASHED ONCE IN THE WHOLE OF THE FLOOD.**
+51. **THE VOLUME'S ONE DECISION IS TAKEN, ON A PAGE, WITH THE COST NAMED FIRST IN HIS OWN MOUTH.** On day 825,
+    in that room, in daylight, with a date in chalk on the outside of the door at the foot of that stair and a
+    bare piece of board under that date about as wide as a hand, the man of about thirty-nine said the cost out
+    loud first — that there is nothing on that board for what he is about to say, and there will be no day
+    against it, and nobody will ever know that he said it at all — and then said the decision in his own mouth
+    in the middle of that day. **THE WORDING IS HELD IN `outline/volume-17.md` §6.6 AND IS ON NO PAGE AND IS
+    NOT IN ANY STATE FILE, AND NO FILE COUNTS IT AND NO OTHER MOUTH IN THAT ROOM SAYS IT IN OTHER WORDS.**
+    Nobody in that room agreed with it, nobody argued with it, nobody improved on one word of it, nobody
+    thanked him for it, and **nothing whatever was done about it at any hour of that day. THE NARRATION SAYS ONCE
+    THAT IT WAS DONE FASTER THAN A THING OF THAT WEIGHT OUGHT TO BE DONE, BECAUSE THE FOUR DAYS A SUMMONED ROOM
+    WOULD HAVE SPENT FINDING OUT WHAT IT WAS BEING ASKED ARE NOT AVAILABLE, AND IT IS THE ONLY USE OF THOSE
+    FOUR DAYS IN THIS VOLUME. No elapsed figure is printed on that chapter and no headcount of that room is
+    printed on it.**
+52. **THE IRON WAS LIFTED OUT OF ITS SOCKETS ON DAY 827, WIPED, AND SET BACK DOWN ON THE TOP STEP.** That
+    door stood shut at the foot of that stair in the morning of that day with the light stopping short of the
+    bottom step, and before the light came back onto the flags somebody had been up that stair and come down
+    again. The iron lay across the top step with the dust of the wiping in a smear across the wood of it, and
+    the sockets in the frame stood with clean rings round them where the dust had been and nothing in them.
+    **THE CHAPTER DOES NOT SAY WHO LIFTED IT, DOES NOT PRINT WHOSE HAND, DOES NOT PUT IT IN A HAND, AND PRINTS
+    NO RECONCILIATION OF ANY KIND. The light came back up that stair and lay along it, two mouths noticed that
+    and one of them noticed that it had not been there in the morning, and nobody asked anything.**
+53. **THE ROOM COULD NOT FIND OUT WHO WENT UP THAT STAIR, AND ON DAY 829 IT DID NOT ASK.** Two men were both
+    in that room at the fourth hour and both in it at the seventh, and one of them went up and came down in
+    between, and nobody in that room could say which, and nobody went down to look at the step and nobody asked
+    the man of about thirty-one and nobody said out loud that it could not be settled.
+54. **THE FENCE STANDS AS IT STANDS AND NOTHING ON IT MOVED.** Chapter 0830: sixteen willow posts and eleven
+    withies on the same cord along the top of that shut road, seen from the top of it, with a handcart and a
+    hazel mallet standing in the yard beside it and nobody on the road. **A man there said the wood was his to
+    cut if anybody wanted it cut and the man of about thirty-four said it was not his to give away, nothing
+    was settled, and the wood was still on the posts at the tenth hour. The fence was not measured, no post
+    moved, no withy went on or came off, and the length of new rope was not lifted.**
+55. **AND THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN FILES, IN NARRATION AND IN EVERY
+    MOUTH, AND NO HEADCOUNT OF THAT ROOM IS PRINTED ON ANY OF THEM, INCLUDING ON DAY 825 WHERE THE PLAN ITSELF
+    DESCRIBES THAT ROOM'S POPULATION IN A WORD. NO MOUTH IN THAT ROOM REACHES A NUMBER OF PEOPLE BY ANY ROAD
+    ON ANY OF THE TEN DAYS.**
+
+**AND WHAT DID NOT MOVE: the bar on the top step in no printed hand on any of the ten days; the register with
+five strokes and a day against each, none struck, no sixth, none taken out; the shaded form behind it on the
+same shelf never lifted by any hand but hers; the one word in the column on the right of that page, printed
+nowhere and asked about by nobody; the word on the shaded form, printed nowhere and set beside nothing; the
+bare piece of board under the date, which means nothing; the fence sixteen willow posts and eleven withies on
+the same cord, unmeasured, no post moved; the length of new rope never lifted; the board on the outside wall
+with three sets of figures and no line of words under any of them; the chalk in the inside breast pocket taken
+out on none of the ten days with no chapter saying when it was last out; the satchel shut with its flap down;
+no notice, no document, no name, no new person, no new place, no panel, no stronger person, and no answered
+question.**
+
+**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, whitespace
+tokens, both file orders, ten files, days 821 to 830: 5,439 words (5,337 out); chapter length 448 to 776;
+bolded share 4.50 per cent unweighted over 245 words; titles four to nine words in 10 of 10; one hundred and
+one paragraphs — twenty-six speech, seventy-five free-standing narration — with zero
+bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits in any body; zero month
+ordinals for a numbered month; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the
+eleven §16.14 words at 0; `player`, `passage`, `privilege`, `nine steps` and `name, names, named` as a person
+or a verb at 0; Adrian Vale in 1 of 10 and in 0822 only; two separators in each of ten files; ten files of ten
+ending in a newline.**

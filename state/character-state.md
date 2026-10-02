@@ -305,3 +305,69 @@ Those blocks record, four times, that `reviews/volume-17/` does not exist and th
 falls back to the writer's own agent. **`reviews/volume-17/batch-0002.md` exists as of this pass and
 declares the fall-back in its first lines. `reviews/volume-16/` still does not exist, and the
 independence debt is unpaid for that volume and for every volume before it.**
+
+---
+
+# WHAT THE THIRD TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
+or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
+unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days.**
+
+**THE MAN OF ABOUT THIRTY-NINE — in seven of these ten, and he is the only one of them who decides anything.**
+On day 821 he said that there was room at that end of the bench this morning. On day 823 he said a thing again
+at the far end of that bench in his own words and nobody told him he had it wrong. On day 824 he put the flat of
+his hand on the wall below the three sets of figures and found the board wiped round them and asked nobody
+who. On day 825 he named the cost of what he was about to say out loud, in his own mouth, before he said it,
+and then said it. On day 826 nobody asked him whether he was sure of it and he was asked nothing else. On day
+828 he was in that room the whole morning and said one flat thing about where the weather comes in, and a
+sentence aimed at him by the man of about thirty-one was turned into the window sill before it finished and he
+never knew it was aimed at him. On day 829 he was one of two men that room could not place. **HIS BOARD STAYED
+UNDER HIS ARM OR AGAINST A LEG ON EVERY ONE OF THE TEN DAYS, NO MOUTH ASKED HIM ABOUT THE NAME THAT IS NOT ON
+IT, AND HIS STATE AT DAY 830 IS UNCHANGED.**
+
+**THE WOMAN OF ABOUT FIFTY-TWO — moved one thing and said two things.** On day 821 she carried that stool the
+length of the side of the room and set it where nobody can get at it, and the man of about thirty-nine's one
+sentence about it was met with two words and nothing else. On day 826 she said the light had come round further
+than it had the day before and was not believed and did not say it again. **SHE WAS AT THE SIDE OF THAT BENCH
+WITH HER HANDS AT THE SIDES OF HER DRESS ON EVERY DAY SHE WAS IN IT, NO MOUTH ASKED HER WHAT SHE DOES AT THE FOOT
+OF THAT STAIR ON ANY OF THE TEN DAYS, AND NO CHAPTER SAYS WHY SHE GOES.**
+
+**THE MAN OF ABOUT THIRTY-FOUR — said a thing about the wood and would not give it away.** He said round them,
+not over them, about that board on day 824 and asked nobody who had wiped it. He held one side of a trestle leg
+against the man of about thirty-one on day 823 without giving the other one. He walked out past the last named
+house on day 830 to the top of that shut road and said the wood was not his to give away, and the man there
+offered it and nobody wanted it. **HIS CHALK IS IN HIS INSIDE BREAST POCKET AND IT HAS NOT BEEN OUT ON ANY OF
+THE TEN DAYS, HIS HAND DID NOT GO INTO THAT POCKET AT ANY HOUR, AND THE VOLUME'S ONE DAY FOR IT IS 837.**
+
+**THE MAN OF ABOUT THIRTY-ONE — turned the bench, kept quiet, and was not asked.** On day 823 he turned that
+bench end for end and went and stood at the far end of it, where the light had not got to. On day 827 he said
+the light was on that stair and that it was not on it in the morning, and nobody asked him anything about it.
+On day 828 he began a sentence about the decider and turned it into the window sill. On day 829 he went up and
+down that stair in front of a room that could not tell afterwards who had gone up. **HIS SATCHEL STAYED UNDER
+HIS ARM WITH ITS FLAP DOWN AT EVERY HOUR IT IS SHOWN AND WAS NOT OPENED.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN — looked at a bottom step in the dark and was asked nothing.** On day 827 he
+set his bucket down at the foot of that stair with his hand flat on the stone of the bottom step while the light
+stopped short of it, and he was in that room on the morning of the decision with his bucket at his feet and his
+rag over his shoulder and nobody asked him one word. **HE WAS ASKED NOTHING ON ANY OF THE TEN DAYS.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT — lost the near end of a load to a stranger in the flags.** On day 822 he came
+in at that yard with his barrow, had to swing wide over the dry crown to get past Adrian Vale, put a wheel into
+the hollow and the near end of his load into the water, and went on up the yard without looking back. **The
+board face up on the stack under two lines of grey grit was not wiped, not turned and not gone near on any of
+the ten days and there is no third line of grit on it.**
+
+**THE KEEPER — turned leaves, carried nothing new, and asked nothing.** **THE REGISTER WAS NEVER CARRIED THE
+LENGTH OF THAT ROOM ON ANY OF THESE TEN DAYS AND STOOD ON ITS SHELF EVERY MORNING OF THEM, the second slate
+stood behind it and was not picked up, not turned over and not written on, the one word in the column on the
+right of that page was not printed and was not referred to, no sixth figure was entered, and no mouth in that
+room asked her what the book was for on any of the ten days.**
+
+**ADRIAN VALE — in one of these ten and in no other: 0822.** His hands in the water standing in a hollow of the
+flags at the side of the yard at the near end of the flats, to have that hollow dry before a barrow came down
+it, **not obtained**; the cause of a wheel going into that hollow and of the near end of a load of boards
+standing in the water while the run-off went back into it. Thanked by nobody, told nothing, useful to nobody,
+with nobody waiting for him to be useful. Stage 2 on all ten days, no working, no threshold, the other world
+not named once, `passage` and `privilege` at zero, and he is not on that stair on the last seven mornings of the
+volume for a reason at `outline/volume-17.md` §6.9 that this batch does not reach.

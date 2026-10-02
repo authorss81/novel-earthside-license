@@ -219,3 +219,54 @@ declared failure mode all forbid.**
 declaration of the bar ran four chapters deep in the same words and is now three occurrences with no two
 adjacent; the flat formula that opens the room's inventory ran four deep and is now two; the stallholder's
 hollow ran five deep and is now two. **The refrain stands and the run is what came out.**
+
+---
+
+# WHAT THE THIRD TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+
+**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0004/PROMPT.md`,
+WHICH WRITES CHAPTERS 0831 TO 0840 AND NOTHING ELSE. NO CHAPTER PAST 0830 EXISTS AND NO CHAPTER PAST 0830 IS TO
+BE WRITTEN BY ANY OTHER PHASE.**
+
+1. **THE VOLUME'S ONE DECISION IS TAKEN AND IT IS ON A PAGE, AND NOTHING IS DONE ABOUT IT.** On day 825 the
+   decider named his own cost out loud first and then said the decision in his own mouth, and the wording is
+   held in the plan and on no page. **A later chapter may not print that wording, may not count it, may not
+   paraphrase it, and may not put it in a second mouth.** Nobody agreed with it, nobody argued with it,
+   nobody improved on one word of it and nobody was thanked for it, **AND NOTHING WAS DONE ABOUT IT AT ANY HOUR
+   OF THAT DAY OR OF ANY DAY SINCE, AND A LATER CHAPTER MAY NOT HAVE ANYBODY SETTLE IT, REOPEN IT, IMPROVE ON IT
+   OR CARRY IT ON.**
+2. **THE IRON CAME OUT OF THAT DOOR ON DAY 827 AND NOBODY IN THAT ROOM KNOWS ANYTHING ABOUT IT. NEW, AND IT MAY
+   NOT BE TRACED.** Somebody went up that stair and came down again before the light came back onto the flags,
+   and the iron was on the top step afterwards with the wiping in the dust of it. **No chapter may say who
+   lifted it, may guess at it, may report it to that room, or may ask anybody about it.**
+3. **THE ROOM CANNOT FIND OUT WHO GOES UP THAT STAIR. NEW ON DAY 829 AND IT IS THE FIRST TIME THAT ROOM HAS PUT
+   ITS OWN HAND TO IT.** Two men, both in the room at the fourth hour and both in it at the seventh, and no
+   way of saying which of them went up. **A later chapter may not answer this either, may not give that room an
+   instrument for it, and may not join it to the day-832 notice.** The resolution on day 845 gives that room one
+   morning of a different kind and may not touch this one.
+4. **A STOOL IN A CORNER NOBODY CAN GET AT. NEW ON DAY 821.** **No chapter may say why she moved it and no mouth
+   may ask her.**
+5. **A BOARD WIPED ROUND ITS THREE SETS OF FIGURES. NEW ON DAY 824.** **No chapter may ask who wiped it, and
+   the man of about twenty-seven is asked nothing on any day of this volume, and no chapter may put the wiping
+   on his hands.** The wall above the top edge of that board is its own thing and was washed once in the whole
+   of the flood.
+6. **THE WHOSE-HAND-IS-THE-WOOD-OF-A-SHUT-ROAD'S-FENCE QUESTION, UNANSWERED ON DAY 830.** A man out past the
+   last named house offered the wood of a fence on a shut road and the man of about thirty-four would not give
+   it away, and nothing was settled. **No chapter may settle it, may measure that fence, may move a post, may
+   put a withy on or take one off, and may not name the keeper of the Redroot gate.**
+7. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
+   volume's own standing list at `outline/volume-17.md` §16, the ten items two blocks above, and the ten items
+   of the block before it. **THE QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK OF DAY 440 IS NOT TRACED AND THIS
+   IS THE ELEVENTH VOLUME RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED AT ANY VALUE. THE FIGURE THE
+   VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN NEW FILES IN NARRATION AND IN EVERY MOUTH AND IS NOT
+   RESTORED, AND FROM DAY 826 THE RULE BINDS THE NARRATOR AS WELL, AND NO HEADCOUNT OF THAT ROOM IS PRINTED ON
+   ANY DAY.**
+8. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
+   AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER. ADRIAN VALE IS IN ONE OF THE TEN AND IN NO OTHER, AND HE
+   FAILED.**
+9. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-16/` does not exist and the review
+   dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`;
+   and `NOVEL_SPEC.md`'s Status section is owed by a human. NONE WAS OPENED, EDITED OR WORKED AROUND.**
+10. **AND THE TWO THINGS THE NEXT BATCH IS HANDED AND MAY NOT SPEND AND MAY NOT REHEARSE: the panel on day 837,
+    whose wording is in the plan and on no page, and the second cost on day 840, which is named by the man
+    whose own cost it is in his own mouth and is not on any page.**

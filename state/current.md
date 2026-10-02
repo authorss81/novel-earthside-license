@@ -212,3 +212,74 @@ independence debt is unpaid for that volume and for every volume before it.**
 
 **AND THE STANDING DECISION THIS PASS TOOK ON THE SHAPE OF THESE CHAPTERS IS AT THE FOOT OF
 `state/open-threads.md`, and a next phase reads it there.**
+
+---
+
+## VOLUME 17, BATCH 0003 — CHAPTERS 0821 TO 0830, DAYS 821 TO 830. THIRTY CHAPTERS OF FIFTY ARE WRITTEN. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**WHAT THIS PHASE WAS. A batch and nothing else.** Ten chapters, ten days, days 821 to 830, one chapter to a
+day, from a Wednesday to a Friday, the five hundred and sixth to the five hundred and fifteenth day of the Bare
+Month. It decided nothing that was not given to it as a day, invented no person, took no descriptor, sent no
+notice, wrote no document, printed no elapsed figure on any of its ten days, opened no plan file, and touched
+nothing under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`,
+`REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`, and created and removed no
+marker file. The ten cards are at the head of `state/batch-summaries/volume-17-batch-0003.md`, as the card-file
+arrangement requires, and there is no card file under `outline/` and there is not going to be one.
+
+**VOLUME 17 RUNS DAYS 801 TO 850 AND HAS CHAPTERS TO DAY 830. THIRTY CHAPTERS OF FIFTY ARE WRITTEN: 0801 TO
+0830. NO CHAPTER PAST 0830 EXISTS AND NONE IS TO BE WRITTEN BY THIS PHASE.**
+
+**THE VOLUME'S ONE DECISION IS TAKEN AND IT IS ON A PAGE, HANDED AS A DAY AND NOT AS WORDS.** On day 825, in
+that room, in daylight, with a date in chalk on the outside of the door at the foot of that stair, the man of
+about thirty-nine named the cost out loud first, in his own mouth, and then said the decision in his own mouth
+in the middle of that day. **THE WORDING IS HELD IN `outline/volume-17.md` §6.6 AND IS ON NO PAGE AND IS IN NO
+STATE FILE AND NO FILE COUNTS IT AND NO OTHER MOUTH SAYS IT IN OTHER WORDS.** Nobody agreed with it, nobody
+argued with it, nobody improved on one word of it, nobody was thanked for it, and nothing whatever was done about
+it at any hour of that day. **The chapter says in plain narration and not in a mouth that it was done faster
+than a thing of that weight ought to be done, because the four days a summoned room would have spent finding
+out what it was being asked are not available.**
+
+**AND THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN NEW FILES, IN NARRATION AND IN EVERY
+MOUTH, AND NO HEADCOUNT OF THAT ROOM IS PRINTED ON ANY OF THEM — INCLUDING ON DAY 825, WHERE THE PLAN ITSELF
+DESCRIBES THAT ROOM'S POPULATION IN A WORD AND THE CHAPTER WRITES THE ROOM AS FULL AND AS STANDING AND NEVER
+COUNTS IT. From day 826 the rule binds the narrator as well, and the batch that follows may not write a
+headcount of that room on any of its days either.**
+
+**ADRIAN VALE IS IN ONE OF THESE TEN AND IN NO OTHER: 0822.** His hands in the water standing in a hollow of the
+flags at the side of the yard at the near end of the flats, to have that hollow dry before a barrow came down
+it, published `no`; the cause of a wheel in the hollow and of the near end of a load of boards standing in the
+water. Stage 2 on all ten days, no working, no threshold, the other world not named once, `passage` and
+`privilege` at zero.
+
+**THE FIGURES, RE-DERIVED HERE AND NOT INHERITED. 5,439 words across ten files heading in (5,337 out), chapter
+length 448 to 776, bolded share 4.50 per cent unweighted over 245 words, titles four to nine words in 10 of 10,
+one hundred and one paragraphs — twenty-six speech, seventy-five free-standing narration — with zero
+bold-without-a-quotation-mark and zero quotation-mark-without-bold, zero digits in any body, zero month
+ordinals for a numbered month, zero narrator frame, zero panels, the thirty-five-entry zero column at 0, the
+eleven §16.14 words at 0, `player`, `passage`, `privilege` and `nine steps` at 0, Adrian Vale in 1 of 10, two
+separators in each of ten files, ten files of ten ending in a newline; the day run re-derived from day 1 being a
+Tuesday with the Bare-Month ordinal as day less three hundred and fifteen at zero mismatches on each of three
+checks out of ten in both orders.**
+
+**THE THINGS THE TEN DAYS DID. A stool put where nobody can get at it. A hollow in the flags that stayed full
+and took a wheel and a load end with it. A bench turned end for end and not turned back, and a thing said at
+one end of it that did not reach the other. A board wiped round its three sets of figures and not over any of
+them. The decision. A morning that went on exactly as the morning before. The iron lifted out of its sockets,
+wiped and set back down on the top step by a hand no chapter prints. A room that could not find out who went up
+a stair and did not ask. Sixteen posts and eleven withies on the top of a shut road with nobody on the road.**
+
+**AND WHAT IS STILL A HUMAN'S, UNCHANGED AND CARRIED. `reviews/volume-16/` does not exist and the review
+dispatch falls back to the writer's own agent. `state/phase-ledger.json` still reads `phase-000-bootstrap`.
+`NOVEL_SPEC.md`'s Status section publishes fifteen volumes and 750 chapter files where seventeen volumes and
+eight hundred files were on disk before this batch began. All three are controller- or owner-owned and none was
+opened.** The consent fracture stays unmended, the fifth condition is not given, no relationship milestone is
+paid, no standing question is answered including day 798, the mark of day 440 is not traced for the eleventh
+time running, the chalk stays in the inside breast pocket until its own day on 837, and `outline/ending.md`
+does not move.
+
+**THE NEXT PHASE IS `workspace/volume-17/batch-0004/PROMPT.md` AND NOTHING ELSE.** It writes chapters 0831 to
+0840, days 831 to 840, from a Saturday to a Monday. It reaches **the volume's one panel on day 837** and **the
+volume's second cost on day 840**, and it is handed both as days and not as words, and it does not reach the
+disclosure on day 843 and may not prepare it. It does not amend `outline/volume-17.md`,
+`bible/power-system.md` §64, `outline/series.md` or `outline/ending.md`, prints no elapsed figure on any of its
+ten days, and prints no headcount of that room on any of them.

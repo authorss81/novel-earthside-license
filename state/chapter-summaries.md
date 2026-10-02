@@ -162,3 +162,70 @@ Those blocks record, four times, that `reviews/volume-17/` does not exist and th
 falls back to the writer's own agent. **`reviews/volume-17/batch-0002.md` exists as of this pass and
 declares the fall-back in its first lines. `reviews/volume-16/` still does not exist, and the
 independence debt is unpaid for that volume and for every volume before it.**
+
+---
+
+## VOLUME 17, BATCH 0003 — CHAPTERS 0821 TO 0830, DAYS 821 TO 830, ONE CHAPTER TO ONE DAY
+
+**Ten days, one chapter to a day, from a Wednesday to a Friday, the five hundred and sixth to the five hundred
+and fifteenth day of the Bare Month. Read `outline/volume-17.md` before this block. The ten cards are at the
+head of `state/batch-summaries/volume-17-batch-0003.md` and this block is a summary and not a plan.**
+
+1. **0821, Wednesday BM 506, character. Adrian: no.** FOR: a stool put back against a wall where nobody can get
+   at it. CHANGED: the stool carried the length of the side of that room into the corner behind the near leg
+   of the bench, under the shelf, with the table against the wall in front of it; a man who came up that stair
+   at the seventh hour put his hand on the far end of the bench and went back down without sitting anywhere.
+   DID NOT DO: said why she moved it, asked her, dated anything, printed a figure.
+2. **0822, Thursday BM 507, physical. Adrian: 2, published `no`.** FOR: water standing in a hollow of the flags
+   at the side of a yard and a barrow that came down it. CHANGED: he gets both hands and his fingers into the
+   joint and the water comes back behind his hands; **the man of about thirty-eight swings the barrow wide to
+   get past him, a wheel goes down into the hollow, the near end of his load stands in the water, and the
+   boards put the run-off back into the same hollow from four sides at once.** DID NOT DO: dried it, was thanked,
+   was told he was right, was waited for, opened a threshold, named the other world.
+3. **0823, Friday BM 508, political. Adrian: no.** FOR: a bench with the far end empty and nobody sitting at it.
+   CHANGED: two men hold two positions about a trestle leg without either giving the other one; a thing said at
+   the near end does not carry to the far end and the man of about thirty-nine says it again there in other
+   words and nobody tells him he has it wrong. DID NOT DO: said what that room is going to settle, counted
+   anybody, asked anything.
+4. **0824, Saturday BM 509, discovery. Adrian: no.** FOR: a store's board wiped round three sets of figures and
+   no line of words under any of them. CHANGED: each of the three stands in a field of stone washed paler than
+   the stone round it and nothing has been gone over any of the figures; two men find it out together and
+   neither of them asks who. DID NOT DO: printed a figure off any of the three, put a line of words under one,
+   asked the man of about twenty-seven anything.
+5. **0825, Sunday BM 510, decision. Adrian: no.** FOR: **THE VOLUME'S ONE DECISION.** CHANGED: the cost named
+   first, in his own mouth, that there is nothing on that board for what he is about to say and there will be no
+   day against it and nobody will ever know he said it; then the decision, in his own mouth, with a date in
+   chalk on the outside of the door at the foot of that stair behind him. **THE WORDING IS ON NO PAGE AND IS NOT
+   IN THIS BLOCK.** Nobody agrees with it, nobody argues with it, nobody improves on a word of it, nobody is
+   thanked for it, and nothing whatever was done about it at any hour of that day. **The chapter says in plain
+   narration and not in a mouth that it was done faster than a thing of that weight ought to be done, because
+   the four days a summoned room would have spent finding out what it was being asked are not available.**
+   DID NOT DO: printed the wording, printed the number of words, printed an elapsed figure, printed a headcount
+   of that room, spent the panel, took the chalk out of any pocket.
+6. **0826, Monday BM 511, recovery. Adrian: no.** FOR: §9 item 6 whole — that room went on exactly as it had
+   gone on the morning before and nothing whatever was done about it. CHANGED: the narration says so in plain
+   words; a rate still wants a day against it and the hand stays in the coat; nobody asks the decider whether he
+   is sure of it. DID NOT DO: **printed the bar on this chapter at all**, asked anything, dated anything.
+7. **0827, Tuesday BM 512, physical. Adrian: no.** FOR: **a bar lifted out of its sockets and wiped and set back
+   down on the step.** CHANGED: that door stands shut in the morning with the light stopping short of the
+   bottom step; before the light comes back onto the flags somebody has been up that stair and come down, the
+   iron is lying across the top step with the wiping in the dust of it, and the sockets stand with clean rings
+   in them. DID NOT DO: said who lifted it, printed a hand, put it in a hand, printed any reconciliation.
+8. **0828, Wednesday BM 513, character. Adrian: no.** FOR: the decider in that room and not asked whether he
+   agrees with it. CHANGED: the man of about thirty-one begins a sentence about him at the far end and turns it
+   into the window sill; the decider says one flat thing about where the weather comes in and nothing else at
+   any hour of the day. DID NOT DO: asked him, agreed with him, argued with him, thanked him.
+9. **0829, Thursday BM 514, discovery. Adrian: no.** FOR: a room that cannot find out who came up a stair and
+   is not asking. CHANGED: two men are both in that room at the fourth hour and both in it at the seventh and
+   nobody can say which of them went up; nobody tries and nobody asks. DID NOT DO: dated anything, counted
+   anybody, noticed anybody missing.
+10. **0830, Friday BM 515, political. Adrian: no.** FOR: the fence on the top of a shut road seen from the top
+    of it, and nobody on the road. CHANGED: a man there says the wood is his to cut if anybody wants it cut and
+    the man of about thirty-four says it is not his to give away; the two of them stand at the top and look
+    down the road and the wood is still on the posts at the tenth hour. DID NOT DO: measured the fence, moved a
+    post, lifted the rope, settled it, printed a figure.
+
+**AND WHAT NONE OF THE TEN DOES: no panel, no second cost, no disclosure, no preparation of day 837 or day 843,
+no document, no notice, no name spoken, no question asked of the room and none answered, no new person, no new
+descriptor, no chalk out of any pocket on any of the ten days, no hand printed on the bar, no headcount of that
+room on any of the ten days, no elapsed figure on any of the ten days, and no day after 830.**
