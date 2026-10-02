@@ -104,11 +104,111 @@ NOT A PAGE, and they are published here because a resolver that cannot read one 
    is a bare tens with no units word after it. **A resolver that cannot read a day reports a missing day.**
 5. **Run five** is the one every figure in the table below was produced with.
 
+**AND THE RESOLVER ITSELF IS PUBLISHED HERE AS CODE AND NOT ONLY AS THE PROSE ABOVE, because the prose above was
+written for a reader and a reader built a different instrument out of it. A review of this record re-derived the
+prose, did not get this volume's fifty, and could not have known which of two readings was the one that produced
+the figures. That is a fault in the record and not in the review. Running the code below returns every figure in
+the table, and it returns the three the prose-only version left a reader to reconstruct: how many of the form
+stand in the tree at all, how many of them this table cannot read, and the difference between a phrase and a
+phrase this table can read.**
+
+```
+cd /home/runner/work/novel-earthside-license/novel-earthside-license
+python3 - <<'EOF'
+# The resolver of this section. Letters-only tokens, so a HYPHEN DELIMITS.
+# Anchor: the five tokens day of the Bare Month. Walk BACKWARDS from `day` over the
+# contiguous run of number words, permitting ONE bare `and`, stopping at the first
+# token that is neither. `hundred` multiplies what stands in front of it and ends
+# the number; a bare `and` is inert. `hundred` is held in NUM as None so that the
+# WALK may cross it; it is read as a multiplier only in the parse below.
+import re, glob
+
+UNIT_ORD = {'first':1,'second':2,'third':3,'fourth':4,'fifth':5,
+            'sixth':6,'seventh':7,'eighth':8,'ninth':9}
+CARD     = {'one':1,'two':2,'three':3,'four':4,'five':5,
+            'six':6,'seven':7,'eight':8,'nine':9}
+TENS_CARD= {'twenty':20,'thirty':30,'forty':40,'fifty':50,
+            'sixty':60,'seventy':70,'eighty':80,'ninety':90}
+TENS_ORD = {'twentieth':20,'thirtieth':30,'fortieth':40,'fiftieth':50,
+            'sixtieth':60,'seventieth':70,'eightieth':80,'ninetieth':90}
+NUM = dict(UNIT_ORD); NUM.update(CARD); NUM.update(TENS_CARD); NUM.update(TENS_ORD)
+NUM['hundred'] = None
+ANCHOR = ['day','of','the','bare','month']
+
+def day_of(path):
+    return int(re.search(r'chapter-(\d{4})', path).group(1))
+
+def phrases(path):
+    toks = re.findall(r'[a-z]+', open(path, encoding='utf-8').read().lower())
+    out = []
+    for i in range(len(toks) - 4):
+        if toks[i:i+5] != ANCHOR:
+            continue
+        run, ands, j = [], 0, i - 1
+        while j >= 0:
+            t = toks[j]
+            if t in NUM:
+                run.append(t); j -= 1
+            elif t == 'and' and ands == 0:
+                ands += 1; run.append(t); j -= 1
+            else:
+                break
+        run.reverse()
+        if not run:                      # a shape this table cannot read at all
+            out.append((None, None)); continue
+        cur = 0
+        for t in run:
+            if t == 'and':
+                continue
+            cur = (cur if cur else 1) * 100 if t == 'hundred' else cur + NUM[t]
+        out.append((cur, day_of(path)))
+    return out
+
+def measure(label, files):
+    total = readable = right = 0
+    wrong, unread = [], []
+    for f in files:
+        for v, day in phrases(f):
+            total += 1
+            if v is None:
+                unread.append(f)
+            else:
+                readable += 1
+                if v == day - 315:
+                    right += 1
+                else:
+                    wrong.append(f)
+    print(f"{label}: {total} of the form | readable {readable} | own day {right} | "
+          f"wrong {len(wrong)} in {len(set(wrong))} files | not read {len(unread)} "
+          f"in {len(set(unread))} files")
+
+measure('this volume    ', sorted(glob.glob('chapters/volume-16/chapter-*.md')))
+measure('Volume 15 ctrl ', sorted(glob.glob('chapters/volume-15/chapter-*.md')))
+measure('whole tree     ', sorted(glob.glob('chapters/volume-*/chapter-*.md')))
+EOF
+```
+
+**WHAT THAT CODE RETURNS, AND IT IS WHAT THE TABLE BELOW PUBLISHES: this volume, fifty of the form, fifty readable,
+fifty resolving to their own day, none wrong and none unread; Volume 15, fifty of the form, thirty-nine readable,
+thirty-nine resolving, none wrong and eleven not read; the whole tree, five hundred and eighty-seven of the form,
+five hundred and twenty-three readable, five hundred and nine resolving, fourteen wrong standing in twelve files,
+and sixty-four not read at all standing in forty-four files.**
+
+**AND THE CLASS THE RESOLVER CANNOT READ, NAMED HERE BECAUSE THE FIGURE ABOVE HAD NEVER SAID IT EXISTED: the
+table carries no teen ordinals — no *tenth* through *nineteenth* — and no *hundredth*, and every one of the sixty-four
+is a form of one of those two kinds. They stand in Volumes 09, 11, 13 and 15 and NOT ONE OF THE SIXTY-FOUR IS IN
+THIS VOLUME, which is why this volume's fifty read clean and why a reader who built a table with the teens in it
+would not reproduce the tree row above but would reproduce this volume's row and neither would be wrong about a
+page. This close read none of them, repaired none, and certifies nothing about them, and the earlier edition of this
+table printed five hundred and twenty-three as though it were the whole tree when the tree holds five hundred and
+eighty-seven. The number is right. The label on it was not, and it is corrected here.**
+
 | Instrument, named — reading and scope on the same line | Figure, both file orders |
 |---|---|
-| phrases of the form *the Nth day of the Bare Month* on this volume's fifty files — the token walk above, whole files, both orders | **FIFTY, in fifty of fifty of them, and ALL FIFTY resolve to their own chapter's day — first run 50, reverse run 50** |
-| the same instrument on Volume 15's fifty files, as a control the resolver was not tuned on — same reading and scope | **THIRTY-NINE phrases in thirty-nine of fifty files, and all thirty-nine resolve — first run 39, reverse run 39. A reading with a control is worth something a reading without one is not** |
-| the same instrument on all 800 chapter files on disk, this volume's fifty among them — same reading and scope | **523 phrases, 509 resolving, 14 not, standing in twelve files, and NOT ONE OF THE FOURTEEN IS IN THIS VOLUME. This close traced none of the fourteen, repaired none, and certifies nothing about them** |
+| phrases of the form *the Nth day of the Bare Month* on this volume's fifty files — the token walk above, whole files, both orders | **FIFTY of the form, in fifty of fifty of them, all FIFTY readable by this table and ALL FIFTY resolving to their own chapter's day — first run 50, reverse run 50, none unread and none wrong** |
+| the same instrument on Volume 15's fifty files, as a control the resolver was not tuned on — same reading and scope | **FIFTY of the form, in fifty of fifty of them; THIRTY-NINE readable and all thirty-nine resolving to their own day; eleven NOT READ AT ALL in eleven files, no readable one wrong. The earlier edition of this row read *thirty-nine phrases*, and the total is fifty — first run 39, reverse run 39. A reading with a control is worth something a reading without one is not** |
+| the same instrument on all 800 chapter files on disk, this volume's fifty among them — same reading and scope | **FIVE HUNDRED AND EIGHTY-SEVEN of the form, of which FIVE HUNDRED AND TWENTY-THREE are readable by this table, and of those FIVE HUNDRED AND NINE resolve to their own chapter's day and FOURTEEN do not, the fourteen standing in twelve files. AND SIXTY-FOUR ARE NOT READ AT ALL, standing in forty-four files. NOT ONE OF THE FOURTEEN AND NOT ONE OF THE SIXTY-FOUR IS IN THIS VOLUME. This close traced none of the fourteen, repaired none, and certifies nothing about either set** |
+| the same instrument, the sixty-four unreadable, by kind — same reading and scope | **every one of the sixty-four is a teen ordinal, *tenth* through *nineteenth*, or a *hundredth*, standing in Volumes 09, 11, 13 and 15 and in no other volume on disk** |
 | ordinals in the fifty, low and high — same reading and scope | **the four hundred and thirty-sixth to the four hundred and eighty-fifth, and nothing outside that range** |
 | an ordinal used for a month on any form — same reading and scope | **ZERO** |
 | *of this month*, *of the month*, *of next month*, *six months*, *since the month began*, *month* followed by a numeral — same reading and scope | **ZERO, ZERO, ZERO, ZERO, ZERO, ZERO on all fifty days** |
@@ -151,7 +251,7 @@ NOT A PAGE, and they are published here because a resolver that cannot read one 
 chapter and cell for cell, and that a close which finds the two disagreeing has found a real fault. THIS CLOSE WENT
 AND LOOKED, AND THE TWO DISAGREE ON FIVE OF SEVEN ROWS.**
 
-| the tag | counted in the map's own fifty pressure cells, first tag only, whole files, both file orders | published at §14.3 under that same table and at §15 in the same words | agree? |
+| the tag | counted in the map's own fifty pressure cells, first tag only, whole files, both file orders | published at `outline/volume-16.md` §14.3 under that same table and at `outline/volume-16.md` §15 in the same words | agree? |
 |---|---|---|---|
 | physical | **TEN** | NINE | **no** |
 | character | **EIGHTEEN** | THIRTEEN | **no** |
@@ -169,13 +269,15 @@ Character, eighteen — 0752, 0754, 0758, 0761, 0763, 0766, 0769, 0770, 0773, 07
 0782, 0792. Decision, three — 0775, 0776, 0787. Cost, two — 0764, 0778. Recovery, four — 0755, 0795, 0799, 0800.**
 
 **THE DISAGREEMENT IS IN TWO ROWS OF ARITHMETIC IN ONE FILE AND NOT IN A CHAPTER-LEVEL LIST, because the rotation at
-§15 is a count and not a per-chapter assignment, so there is no per-chapter list for the two to differ about. The two
+`outline/volume-16.md` §15 is a count and not a per-chapter assignment, so there is no per-chapter list for the two to
+differ about. The two
 rows each sum to fifty; they agree on two tags and disagree on five; and the plan's own claim that they agree cell
 for cell is not supported by the plan's own table, and the claim and the table are in the same file. **NO CHAPTER OF
 THE FIFTY CARRIES ANY PRESSURE IN ITS PROSE, so no page is wrong and no page could be. NO PLAN FILE WAS EDITED, NO
 TABLE WAS CHANGED TO PRODUCE EITHER NUMBER, AND NEITHER FIGURE IS CORRECTED BY THE OTHER HERE. It is a third
 arithmetic fault inside `outline/volume-16.md` and it stands beside the two that `state/open-threads.md` §6.1 item 2
-already names at §4.1 and §20.2, and all three are owed by a human or by the next outline phase.** Which of the two
+already names at `outline/volume-16.md` §4.1 and §20.2, and all three are owed by a human or by the next outline
+phase.** Which of the two
 rows a later volume measures against is not a close's decision, and this close does not make it.
 
 ---
@@ -327,7 +429,7 @@ and that is the same omission as the status count at §10.2 and is named there o
 
 **THEREFORE, AND THIS CLOSE DOES NOT REOPEN IT: the block is not restored here, the wording is not printed here, the
 chapter is not called incomplete for the absence of it, and the volume's panel figure is recorded as 0 on the block
-reading with the reason on this line, while §20.2's 1 is published beside it and the difference is named as the
+reading with the reason on this line, while `outline/volume-16.md` §20.2's 1 is published beside it and the difference is named as the
 deliberate withholding and not as a lost chapter. A later close or a later repair that restores the block reverses a
 repair an independent review already made and prints words that five state files say are on no page, and the
 adjudication that stands is at `state/open-threads.md` §6.1 item 7 and in the section after it.**
@@ -377,9 +479,9 @@ not edit the plan, and does not edit any chapter to make either one come out.**
 | 0765 | 765 | a wet rag on a stone lip | to leave that lip wet for somebody who comes at a later hour than he does | no | §4.1 row 6 |
 | 0766 | 766 | two boards off the top of a stack | to put the clean piece at the near edge of that face out of the rain | no | §4.1 row 7 |
 | 0768 | 768 | the sill of the one window | to look down at that ground without his own face being in the glass | no | §4.1 row 8 |
-| **0771** | 771 | a barrow taken out of the yard at the near end of eleven miles of flats | **§4.1 has no row for this day. The want is the day map's own business line: a barrow taken out of a yard and left against a wall, and no figure on anything in it** | no, on the conservative reading | **no §4.1 row; §14.3's column entry 9** |
+| **0771** | 771 | a barrow taken out of the yard at the near end of eleven miles of flats | **§4.1 has no row for this day. The want is the day map's own business line: a barrow taken out of a yard and left against a wall, and no figure on anything in it** | no, on the conservative reading | **no §4.1 row; `outline/volume-16.md` §14.3's column entry 9** |
 | 0773 | 773 | a coil of rope off the bed of a handcart out past the last named house | to have carried it out past the last named house and left it by the top of a shut road | no, **on the conservative reading and not on a textual one, which is carried at §4.3** | §4.1 row 9, where it is listed among the first nine |
-| **0780** | 780 | a barrow handle at the near end of eleven miles of flats | **§4.1 has no row for this day. The want is the day map's own business line: a barrow handle and an empty yard at the seventh hour** | no, on the conservative reading | **no §4.1 row; §14.3's column entry 11** |
+| **0780** | 780 | a barrow handle at the near end of eleven miles of flats | **§4.1 has no row for this day. The want is the day map's own business line: a barrow handle and an empty yard at the seventh hour** | no, on the conservative reading | **no §4.1 row; `outline/volume-16.md` §14.3's column entry 11** |
 | 0786 | 786 | the flat of a door at the foot of that stair | to have that door standing open in the morning so that anybody going past could see into the room | no | §4.1 row 10 |
 | 0793 | 793 | a barrow handle in that yard | to have his own barrow back in that yard before the man of about thirty-eight came in with his | no | §4.1 row 11 |
 
@@ -823,7 +925,10 @@ WRITES A CHAPTER OR BY A HUMAN AND NOT BY A CLOSE.**
 
 **A close that publishes a figure it did not measure is the fault this repository exists to catch, and this section
 is where this record's own disagreements stand, with the measurement and the reading on the same line. None of these
-is resolved here and none is corrected by the other side.**
+is resolved here and none is corrected by the other side. ITEM 10 IS THE ONE EXCEPTION AND IT IS EXCEPTION BY
+NAMING: it is not a disagreement between this record and another record, it is a mislabel in this record's own table,
+and a mislabel in one's own table is repairable by the author of it and by nobody else, so it is repaired here and
+the repair is named rather than made silently.**
 
 1. **THE PRESSURE COLUMN.** §1.3 carries the whole of it, and it is the one on this list that the plan itself
    instructs a close to go and look for.
@@ -854,6 +959,15 @@ is resolved here and none is corrected by the other side.**
    arithmetic that record's correction settled on for its own ten.
 9. **`NOVEL_SPEC.md`'s STATUS FIGURE.** §10.2 carries the whole of it, and it is the one real fault the last review
    found that is in a file no fiction phase owns.
+10. **THIS RECORD'S OWN §1.1 ROWS, AND THE FAULT WAS THE LABEL AND NOT THE NUMBER.** Found by the review of this
+    close at §10.4 and fixed here rather than left standing. **NO FIGURE CHANGED. The earlier edition of §1.1 read
+    *523 phrases* where the tree holds five hundred and eighty-seven of the form; it read *thirty-nine phrases* on
+    Volume 15 where that volume holds fifty; and it published neither the sixty-four occurrences its own table could
+    not read nor the fact that its table has no teens in it and no *hundredth*. The number five hundred and
+    twenty-three is the count the table can READ and not the count of the form, and it was printed as the count of
+    the form. This record was written by an author who prefers a sentence to a table and it wrote the sentence
+    before it wrote the instrument, and the instrument did not exist in a form anybody else could run.** The resolver
+    is now published as code at §1.1, that code returns every figure in that table, and the sixty-four are named.
 
 ---
 
@@ -992,18 +1106,27 @@ repair.**
    FOR THE ABSENCE OF IT, AND DID NOT RECORD THE VOLUME'S PANEL FIGURE AS 1.**
 8. **State files crowding out real plot.** NOT A DEFECT AND NOT FIXABLE BY ADDING TO THEM. **This close is written to
    one file, adds no thread block to `state/open-threads.md`, adjudicates nothing that has already been adjudicated,
-   and names every disagreement in one place instead of opening a ninth argument about one.**
+   and names every disagreement in one place instead of opening a ninth argument about one. THE CLOSE ADDED NONE; THE
+   REPAIR PASS THAT FOLLOWED THE REVIEW OF THIS RECORD APPENDED ONE POINTER BLOCK TO THAT FILE AND NO ARGUMENT, AND
+   §10.4 ITEM 4 CARRIES WHY.**
 
-### 10.1 TWO THINGS ABOUT THE REVIEW ITSELF THAT A CLOSE OWES THE NEXT READER
+### 10.1 THREE THINGS ABOUT THE REVIEWS THEMSELVES THAT A CLOSE OWES THE NEXT READER
 
-**THE LOG IS NOT IN THE REPOSITORY.** `logs/` holds three files and none of them is a review log: there is no
-`logs/batch-0005.review.log`, and no `*.review.log` anywhere in the tree. **The eight findings are therefore known to
+**THE LOG OF *THAT* REVIEW IS NOT IN THE REPOSITORY.** `logs/` held three files and none of them was a review log
+when this record was written: there is no `logs/batch-0005.review.log`, and there was no `*.review.log` anywhere in
+the tree. **The eight findings are therefore known to
 this record only through the quotations and the adjudications at `state/open-threads.md` §6.1, in
 `state/current.md`'s last block, and in the two files that carry the repair, and every one of those sources agrees
 with the others on all eight.** A close that publishes a count of a log's findings is publishing a count of a
 document it cannot open, and the count is published here as *eight, as adjudicated* and not as *eight, as read*.
 **THIS IS NOT A FAULT IN ANY FICTION FILE AND IT IS NOT CORRECTED BY A CLOSE, AND IT IS THE SAME CLASS AS THE MISSING
 REVIEW GATE AT FINDING 6: the machinery that would keep the log is the machinery that is not running.**
+
+**AND THE POSITION HAS CHANGED FOR THE BETTER SINCE, IN ONE FILE AND NOT IN THE OTHER, SO THAT A LATER READER IS NOT
+TOLD THE FALSE THING TWICE: `logs/close.review.log`, the review of THIS record, is in the tree and can be opened,
+and §10.4 reads it and answers it finding by finding. `logs/batch-0005.review.log` is still not in the tree and the
+eight findings above are still a citation rather than a document. THE SAME MISSING GATE PRODUCED BOTH FACTS AND IT IS
+STILL THE SAME GATE.**
 
 **AND ITS INSTRUMENTS DO NOT ALL REPRODUCE THE FIGURES THEY AUDIT.** Its first log line is a fallback notice — the
 reviewer is a subagent and the dispatch fell back to the default agent — so the review ran on the writer's own agent
@@ -1053,6 +1176,59 @@ re-measured both figures and publishes them so that whoever pays the debt does n
 6. **`NOVEL_SPEC.md`'s volume count and its panel row.** §10.2. The one real fault the last review found that is in a
    file no fiction phase owns, and the panel row of the same file is short by the same one volume.
 
+### 10.4 THE REVIEW OF THIS CLOSE, ITS SIX FINDINGS, AND WHAT WAS DONE WITH EACH ONE
+
+**`logs/close.review.log` RAN AGAINST THIS RECORD AND, UNLIKE THE LOG AT §10.1, IT IS IN THE TREE AND IT COULD BE
+READ. Its first line is the same fallback notice — the reviewer is a subagent and the dispatch fell back — so the
+independence debt at §11 stands and this review does not lift it by one degree. It found NO CORRECTNESS DEFECT IN
+ANY CHAPTER, IN THE PLAN, IN THE BIBLE OR IN ANY OF THE FIFTY FILES, and it says so. Every finding below is against
+this record, against a file this record does not own, or against the machinery. Two were repaired here, one was
+repaired in the live layer, and three are reported and not repaired, and each is named with what was done to it so
+that a later reader does not have to guess whether a finding was seen and declined or was never seen.**
+
+1. **`NOVEL_SPEC.md:25` publishes fifteen volumes and 750 chapters where sixteen and 800 are on disk.** TRUE,
+   RE-MEASURED, AND CONFIRMED BY THE REVIEW INDEPENDENTLY OF §10.2. **NOT REPAIRED, AND THE REASON IS SCOPE AND NOT
+   DISAGREEMENT: `NOVEL_SPEC.md` is not a chapter, a plan, a bible file, a summary, a continuity file, a character
+   file or an open-thread file, and the close phase that wrote this record was given one file to write. The review
+   reaches the same conclusion and declines it on the same ground — out of this phase's scope, owed by a human or
+   by an authorised fiction phase. §10.2 and §11 item 4 already carry it and this section does not carry it a third
+   time in a fourth place. IT HAS NOW SURVIVED ONE WHOLE VOLUME AND THE NEXT AUTHORISED PHASE OWE IT.**
+2. **§1.1's control figure is not independently reproducible.** TRUE, AND THE WORST FINDING IN THE REVIEW, AND IT
+   IS WORSE THAN THE REVIEW STATED. **REPAIRED HERE, AT §1.1, AT §7.8 item 10 AND AT §1.1's own table.** The resolver
+   is published as code, the code returns every figure in that table, and two labels were wrong and are corrected:
+   *523 phrases* where the tree holds 587 of the form, and *thirty-nine phrases* on Volume 15 where that volume holds
+   fifty. **NO FIGURE CHANGED, AND THE SIXTY-FOUR OCCURRENCES THE TABLE CANNOT READ ARE NOW NAMED AND COUNTED FOR THE
+   FIRST TIME.** The review called this a reading difference and it was not; it was a real fault in this record, and
+   the instrument that found it was a reader's.
+3. **Two unqualified external `§` references in §1.3's table header.** TRUE, AND THE REVIEW SAMPLED THE REST AND
+   FOUND THEM QUALIFIED. **REPAIRED HERE, AND EIGHT MORE OF THE SAME CLASS WERE FOUND ON A FULL SWEEP AND REPAIRED
+   WITH IT** — the `§15` of the rotation paragraph under that same table; the `§20.2` in §3; the two `§14.3` entries in
+   §4.1's last column, which sat in a column headed *the row's home* beside eight internal `§4.1` references and were
+   therefore readable as internal; and the `§4.1`/`§20.2` pair at the end of §1.3 and the same pair in §13, where
+   **`outline/volume-16.md` §4.1 and this record's own §4.1 are different sections and a bare `§4.1` could mean
+   either.** This record's numbering stops at §13 and the plan's stops at §21.1, so a bare `§14.3`, a bare `§15` or
+   a bare `§20.2` is ambiguous on its face and there are now none. **THE REVIEW FOUND TWO OF THE TEN AND WAS RIGHT
+   ABOUT BOTH, AND ITS SAMPLED VERDICT ON THE REST WAS WRONG IN THE SAME DIRECTION IT WAS RIGHT IN, WHICH IS THE
+   ARGUMENT FOR THE FULL SWEEP RATHER THAN THE SAMPLE.**
+4. **Handoff risk from the live layer, which this close deliberately did not touch.** TRUE, AND IT IS THE FINDING
+   THAT EXPLAUNDS FINDING 1. **REPAIRED IN THE LIVE LAYER AND NOT IN THIS RECORD: a pointer block was appended to
+   `state/open-threads.md`, additively, at the end of that file, and it closes no thread, answers no question and
+   settles nothing.** It exists because the eighteen standing threads, the four arithmetic faults inside the plan
+   and the question asked on day 798 stood only in this file, and a next phase that reads the live layer and not
+   this file inherited none of them. **NOTE THE CHANGE THIS MAKES TO §10 ITEM 8 AND TO §12, both of which say this
+   close added no thread block: the close added none and the repair pass after it added one pointer, and §12's
+   sentence about the live layer now names that.**
+5. **Controller-side state is stale.** TRUE AND CONTROLLER-OWNED. **NOT REPAIRED, AND IT WILL NOT BE BY ANY PHASE
+   THAT CAN BE ASKED.** `workspace/volume-16/close/` still holds `.deferred` and `.retry-after` beside a completed
+   and committed close, and `state/phase-ledger.json` still reads `phase-000-bootstrap`. Both are named at §11
+   items 1 and 2 and **the independence debt stands at §11 item 1 and this review does not reduce it.**
+6. **The record is a machine audit artifact rather than a document a person can consult.** TRUE AS A DESCRIPTION
+   AND NOT A DEFECT, AND NOT REPAIRED. **The finding itself names the cause: the density is what made finding 2
+   possible, because a sentence written before an instrument is the shape in which a mislabel hides. The repair for
+   it is the one that was made at §1.1 — an instrument published beside every figure that matters — and the remedy is
+   to keep doing that and not to make the record shorter.** A record of sixteen volumes that is hard to read is
+   better than a record of sixteen volumes that is easy to read and wrong in its own table.
+
 ---
 
 ## 11. THE INDEPENDENCE DEBT AND THE CONTROLLER DEBTS, NAMED AND NOT WORKED AROUND
@@ -1071,7 +1247,8 @@ machinery that produced it is a record of the wrong thing.**
    after sixteen volumes and sixteen hundred chapter files. **It was not opened. It is controller-owned and no writer,
    review, fix or close phase may open it, and this close did not.**
 3. **THE REVIEW LOGS ARE NOT KEPT.** §10.1. Whatever produced the eight findings is not in the tree, and the next
-   phase that cites them will be citing a citation.
+   phase that cites them will be citing a citation. **ONE IS NOW IN THE TREE — `logs/close.review.log`, the review of
+   this record — AND THE ONE THAT MATTERS TO A READER OF THE EIGHT IS NOT.**
 4. **`NOVEL_SPEC.md`'s STATUS FIGURE.** §10.2. Named again here so that the list of things a human owns is in one
    place and not split across two.
 5. **THE PROMPT THAT PRODUCED BATCH 0004 WAS SELF-CONTRADICTORY** — its step one ordered the writer to read §6.7 and
@@ -1093,6 +1270,11 @@ archive; it edited no state file; it did not update `state/current.md`, `state/c
 finding forward on its own page and the live layer is carried forward as it stood. It opened no file under `scripts/`,
 `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`,
 `opencode.json` or `state/phase-ledger.json`.**
+
+**AND ONE SENTENCE OF THE PARAGRAPH ABOVE IS NO LONGER THE WHOLE TRUTH, AND IT IS CORRECTED HERE RATHER THAN LEFT:
+THE CLOSE EDITED NO STATE FILE, AND THE REPAIR PASS THAT FOLLOWED THE REVIEW OF THIS RECORD APPENDED ONE POINTER
+BLOCK TO `state/open-threads.md` AND EDITED NOTHING ELSE IN THE LIVE LAYER. §10.4 ITEM 4 CARRIES WHY, AND IT IS THE
+ONE PLACE IN THIS RECORD WHERE A LATER PHASE AND THIS RECORD WOULD OTHERWISE DISAGREE ABOUT WHAT EXISTS ON DISK.**
 
 **It printed no word of the wording of the panel, no word of the word in the column on the right of that page, no word
 of the word on the shaded form behind the register, no word of the name that is not on that board, no word of the
@@ -1128,9 +1310,10 @@ authoritative specification and `outline/ending.md` is the ending, and **this cl
 ending does not move, and no new final enemy, no new cosmic layer, no new antagonist and no new world has been
 introduced anywhere in this volume or by this record.**
 
-**THE FOUR THINGS A NEXT OUTLINE PHASE OWES BEFORE IT PLANS ANOTHER VOLUME, and all four are faults in a plan file
-rather than in a page: the pressure column at §1.3, the number of mornings at §5 item 17, the two rows at §4.1 and
-§20.2, and the published panel figure against the block reading at §3. AND THE TWO THINGS A HUMAN OWES THAT NO
+**THE FOUR THINGS A NEXT OUTLINE PHASE OWES BEFORE IT PLANS ANOTHER VOLUME, and all four are faults in
+`outline/volume-16.md` rather than in a page: the pressure column at §1.3 of this record, the number of mornings at
+§5 item 17 of this record, the two rows at `outline/volume-16.md` §4.1 and §20.2, and the published panel figure
+against the block reading at §3 of this record. AND THE TWO THINGS A HUMAN OWES THAT NO
 FICTION PHASE CAN: the review gate and the frozen ledger at §11, and `NOVEL_SPEC.md`'s volume count and panel row at
 §10.2.**
 

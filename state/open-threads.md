@@ -1089,3 +1089,67 @@ standing question is answered including day 798, day 775 is not reopened, and `o
 **`workspace/volume-16/close/PROMPT.md`, THE CLOSE OF THE SIXTEENTH VOLUME, AND NOTHING ELSE. IT IS TOLD ABOUT
 THE EIGHT FINDINGS, IT IS TOLD THE PANEL'S YES/NO SO THAT IT MAY NOT REVERSE IT, AND IT IS TOLD THAT "ELEVEN"
 AND "THIRTEEN" BOTH STAND IN THE PLAN AND THAT IT MAY NOT PICK ONE SILENTLY.**
+
+---
+
+# 6.2 THE VOLUME 16 CLOSE RECORD EXISTS AND A POINTER TO IT, APPENDED AFTER THE REVIEW OF THAT CLOSE. NEWEST AND IT WINS.
+
+**This block closes no thread, answers no question, settles nothing, and adds no ninth argument about anything. It
+is a signpost, and it is here because the review of the close found a real consequence of the close's own decision
+to write to one file: `state/volume-16-close.md` is the only place the eighteen standing threads, the four
+arithmetic faults inside `outline/volume-16.md` and the question asked on day 798 were written down, and a next phase
+that reads this live layer and not that record inherited none of them. The close was right that a close carries its
+finding on its own page. A next phase does not know that, and signs are cheaper than lectures.**
+
+**WHERE THE THINGS ARE: `state/volume-16-close.md`, and it is the record of record for Volume 16 at §1 the fifty-day
+run, §3 the panel, §4 the protagonist's thirteen measured days against the plan's eleven-row table, §5 the eighteen
+things this volume deliberately did not answer, §6 where every standing object stands at day 800, §7 the figures each
+with the instrument that produced it, §9 the six debts an outline phase owes, §10.4 the review of the close and what
+was done with each of its six findings, §11 the debts no phase can pay, and §13 what the next phase inherits. Volume
+16 IS COMPLETE AT FIFTY CHAPTERS AND FIFTY DAYS, 0751 TO 0800, no chapter past 0800 exists and none is to be
+written, and there is no sixth batch and no continuation directory.**
+
+**AND THE FIVE THINGS A NEXT PHASE MUST CARRY AND MAY NOT REOPEN, RESTATED SO THAT A PHASE READING ONLY THIS FILE HAS
+THEM:**
+
+1. **THE PANEL'S SETTLED YES/NO STANDS.** `chapters/volume-16/chapter-0787.md` does NOT print the wording of this
+   volume's one panel and that is the SETTLED STATE OF THE FILE AND NOT A GAP IN IT. The volume's panel figure is
+   **0** on the reading *a block between blank lines whose first character is `>`* — fifty files, whole files, both
+   file orders, first run and reverse run — while `outline/volume-16.md` §20.2 publishes **1**. BOTH FIGURES ARE TRUE
+   AND THE WHOLE OF THE DIFFERENCE IS THE DELIBERATE WITHHOLDING. **DO NOT RESTORE THE BLOCK, DO NOT PRINT THE
+   WORDING, DO NOT CALL THE CHAPTER INCOMPLETE FOR THE ABSENCE OF IT, AND DO NOT RECORD THE VOLUME'S PANEL FIGURE AS
+   1.** The wording is in `outline/volume-16.md` §6.7 and in no other file in this repository, and the adjudication
+   that settled it is at §6.1 item 7 above and at `state/volume-16-close.md` §3.
+2. **"ELEVEN" AND "THIRTEEN" BOTH STAND AND NEITHER MAY BE PICKED SILENTLY.** `outline/volume-16.md` §4.1's table has
+   ELEVEN rows; §14.3's protagonist column has THIRTEEN entries; and the fifty files on disk name Adrian Vale in
+   THIRTEEN chapters, agreeing with the day map's column and not with the eleven-row table. §4.1's `Obtained` column
+   also reads `no` in all eleven of its rows, against a four-and-seven sentence two paragraphs above it. **THE CLOSE
+   PUBLISHES BOTH FIGURES, PICKS NEITHER, AND SETTLES NEITHER, and this block settles neither.**
+3. **THE FOUR ARITHMETIC FAULTS INSIDE `outline/volume-16.md`, ALL CARRIED AND NONE SETTLED:** the pressure column at
+   the close's §1.3, where the map's own fifty cells read ten, eighteen, seven, six, three, two and four against a
+   published nine, thirteen, nine, six, six, two and five that claims cell-for-cell agreement; the number of mornings
+   the decider was not in the room at the close's §5 item 17; and the two named in §6.1 above, `outline/volume-16.md`
+   §4.1 and §20.2. **NO PLAN FILE WAS EDITED BY ANY PHASE AND NONE MAY BE.**
+4. **THE QUESTION ASKED ON DAY 798 IS NOT ANSWERED AND MAY NOT BE ANSWERED HERE.** *What a morning is for*, asked of one
+   man and not to a room, joining a family of standing questions this manuscript has carried for many volumes. It
+   stands with the other seventeen at the close's §5. **NO STANDING QUESTION IS ANSWERED BY THIS BLOCK, DAY 775 IS NOT
+   REOPENED, `outline/ending.md` DOES NOT MOVE, AND NO NEW FINAL ENEMY, NO NEW COSMIC LAYER, NO NEW ANTAGONIST AND NO
+   NEW WORLD IS INTRODUCED BY IT.**
+5. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID, AND
+   NOBODY IN THESE FIFTY CHAPTERS GOT STRONGER.**
+
+**AND THE DEBTS, UNCHANGED BY ANYTHING BELOW: `NOVEL_SPEC.md`'s Status section STILL publishes fifteen volumes and
+750 chapters where sixteen and eight hundred are on disk, and its panel row STILL ends at fifteen. It was re-measured
+by the close and again by the review of the close, both times confirmed, and it is still owed — by a human or by the
+next authorised fiction phase, and by neither a writer, a reviewer, a fixer nor a close. It has now survived a whole
+volume.** The independence debt stands: `reviews/volume-16/` does not exist, the review dispatch falls back to the
+writer's own agent, `logs/batch-0005.review.log` is still not in the tree, and `state/phase-ledger.json` still reads
+`phase-000-bootstrap`. **NONE OF THESE IS A FICTION FILE AND NONE WAS OPENED, EDITED OR WORKED AROUND.**
+
+## THE NEXT PHASE
+
+**THE CLOSE OF VOLUME 16 RAN AND ITS RECORD IS `state/volume-16-close.md`. THE POINTER ABOVE REPLACES THE EARLIER
+POINTER IN THIS FILE, WHICH NAMED `workspace/volume-16/close/PROMPT.md`, AND THAT PROMPT HAS NOW BEEN RUN. THE NEXT
+PHASE IS WHATEVER PLANS A VOLUME AFTER THIS ONE, OR A HUMAN, AND IT OWES WHAT THE CLOSE'S §13 NAMES: the four things
+an outline phase owes before it plans another volume, and the two things only a human owes. NO CHAPTER IS TO BE
+WRITTEN IN VOLUME 16 AND NONE EXISTS PAST 0800.**
