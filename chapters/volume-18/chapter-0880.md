@@ -10,20 +10,20 @@ At the store's end of the market row the door in the wall stood a hand's breadth
 
 ---
 
-**"Prop it and go through it,"** said the man of about thirty-four who keeps a stall two stalls along. He had left his own trestle to come across the flags with his board under his arm.
+**"Prop it and go through it,"** said the stallholder. He had left his own trestle to come across the flags with his board under his arm.
 
 **"It will not stay propped,"** said the man of about twenty-seven, who was up at the trough with his bucket and had come down the step to say it, **"not on those flags and not with the water on them."**
 
 So the man of about thirty-eight got the end of a board off the bottom of the stack and put it down on edge against the step and came at the door with his shoulder, and the board went up about the height of his knee and the door came back on it and lay against it. He got the near end of the stack in then, one board at a time, and the board under the door slid out along the wet stone about the width of two fingers and the door came back on the stack and stood against it.
 
-**"Then it is a doorway with a man in it,"** said the man of about thirty-four, at the near jamb, **"and it is a thing a door is."**
+**"Then it is a doorway with a man in it,"** said the stallholder, at the near jamb, **"and it is a thing a door is."**
 
 **"It is,"** said the man of about twenty-seven, and went on with his own work at the trough.
 
 ---
 
-The man of about thirty-eight stopped trying and carried the load in past a man. The man of about thirty-four stood in the opening with his right shoulder against the near edge of the stack and his left hand flat on the jamb, and one board went in over his shoulder and one under it for the better part of a morning, and he did not shift his feet once while it was going, and the bucket of the man of about twenty-seven stood on the flags a length off the doorway where he had put it down. The cloth of his coat at the shoulder took a wet print from the stack and kept it, and the skin of his left hand went white along the rim of the jamb and stayed white, and he worked at it with the thumb of his right hand between one board and the next and it came back.
+The man of about thirty-eight stopped trying and carried the load in past a man. The stallholder stood in the opening with his right shoulder against the near edge of the stack and his left hand flat on the jamb, and one board went in over his shoulder and one under it for the better part of a morning, and he did not shift his feet once while it was going, and the bucket of the man of about twenty-seven stood on the flags a length off the doorway where he had put it down. The cloth of his coat at the shoulder took a wet print from the stack and kept it, and the skin of his left hand went white along the rim of the jamb and stayed white, and he worked at it with the thumb of his right hand between one board and the next and it came back.
 
-At about the ninth hour the man of about twenty-seven came along the row to the doorway and stood a length off it a while with the water standing flat in his bucket, and nobody said anything to anybody and the carrying went on. At about the tenth hour the last board of the stack went in over the shoulder of the man of about thirty-four and the stack was inside the wall of the store and the barrow stood empty in the open at the edge of the flags with the tally-board face up on the frame of it under its two lines of grey grit.
+At about the ninth hour the man of about twenty-seven came along the row to the doorway and stood a length off it a while with the water standing flat in his bucket, and nobody said anything to anybody and the carrying went on. At about the tenth hour the last board of the stack went in over the shoulder of the stallholder and the stack was inside the wall of the store and the barrow stood empty in the open at the edge of the flags with the tally-board face up on the frame of it under its two lines of grey grit.
 
-The man of about thirty-four came out of the doorway and put his hand up to his shoulder and looked at the wet print the stack had left on the cloth of it, and the water coming off the awning all morning stood in a line along the flags on the store's side of the door about the width of a hand, and it came up inside that doorway in a line about as wide again, and it stood there in the open with nothing running into it and nothing coming out of it, and it did not go down.
+The stallholder came out of the doorway and put his hand up to his shoulder and looked at the wet print the stack had left on the cloth of it, and the water coming off the awning all morning stood in a line along the flags on the store's side of the door about the width of a hand, and it came up inside that doorway in a line about as wide again, and it stood there in the open with nothing running into it and nothing coming out of it, and it did not go down.

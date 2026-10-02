@@ -392,3 +392,44 @@ directly.**
 was removed, and the Volume 18 Batch 0002 block and the review-repair block on Chapters 0861 to 0870 were replaced by
 this one. **No descriptor moved, no age moved, no name was given and no name was spoken, and no held wording was
 touched.**
+
+---
+
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0871 TO 0880 DID TO THE PEOPLE ON THIS PAGE. NEWEST AND IT WINS.
+
+**NO AGE MOVED, NO DESCRIPTOR MOVED, NO TRADE MOVED, NO RELATIONSHIP MOVED, AND NO HANDLE WAS GIVEN OR TAKEN FROM
+ANYBODY EXCEPT THE ONE §6.8 AND §7.2 ALREADY OWED. The repair changed how the figures on these ten days are REFERRED
+TO after their first appearance in a chapter, and it is the one change in this pass that altered a printed page.**
+
+**THE HANDLES, AND THE RULE THAT NOW GOVERNS THEM ON EVERY PAGE.** §17.9 requires the full handle in front of a figure
+on its first appearance in a chapter and permits a short handle after that appearance, from its own list: *the keeper*,
+*the stallholder*, the bare age, the trade without the location. **Measured on the ten bodies of this batch, the full
+age-plus-trade string went from eighty-seven restatements to ten, and every one of the ten is a first appearance in a
+chapter or a figure inside a speech paragraph, which is a person's own words.** A possessivalike the man of about
+thirty-four's own board is gone; **the stallholder's is what stands.**
+
+| Figure | Full handle | Short handle now in use | Note |
+|---|---|---|---|
+| the woman of about twenty-nine who keeps a public register | first appearance in a chapter, in full | **the keeper** | §17.9's own short form. Her hand is on the page in all ten chapters and on the 878 morning it does not move. |
+| the man of about thirty-four who keeps a stall two stalls along | first appearance, in full | **the stallholder** | **His board is not the board of 875** and no chapter of this batch put the two together. **His piece of chalk stayed in his inside breast pocket at every hour of all ten days and is not on any surface.** |
+| the man of about thirty-nine who trades on a board | first appearance, in full | **the man of about thirty-nine**, or the trade without the location | **He is a different man from the keeper's office and from the stallholder's stall and the three are never merged.** |
+| the man of about thirty-one who carries things for a living | first appearance, in full | **the man of about thirty-one** | His satchel is not opened on any of the ten days and no chapter says why. |
+| the woman of about fifty-two | first appearance, in full | **the woman of about fifty-two** | Her hands stay at the sides of her dress. **She pays the first cost of this volume on 856 and is thanked for neither that nor the question, which is owed to 898.** |
+| the man of about twenty-seven | already short | the man of about twenty-seven | Bucket, rag, and a trough at the top of the market step with a crack in the near end of it that wants lead and a heat. **Nobody fetches either and nobody in that room has got one.** |
+| the man of about thirty-eight at that salt wharf | first appearance, in full | **the man of about thirty-eight** | Tally-board, knife, barrow, two lines of grey grit, both as they were. **His barrow and his stack are owed to 885 and 899.** |
+| **the man who came up that stair on 866** | **the wet-sleeve handle until 878; his name from 879** | **the handle, unvaried, on 866 to 878; his name on 879** | **THE ONE PRINTED CHANGE IN THIS PASS.** §7.2: the handle may not be given to anybody else, may not be varied and may not be explained by any mouth in any of the fifty days. **No mouth explains it and no chapter varies it.** |
+
+**WHAT EACH OF THEM DID ON THESE TEN DAYS IS UNCHANGED AND IS NOT RESTATED HERE.** It is in
+`state/chapter-summaries.md` and in `state/batch-summaries/volume-18-batch-0003.md`.
+
+**ADRIAN VALE IS IN ONE OF THESE TEN CHAPTERS AND IT IS 0871.** His hands are on the back of a stool at the side of that
+bench at every hour of that morning and he wanted somebody in that room to sit down, **and he got nothing.** §4.1
+publishes his nine days and it is closed input: 853, 861, 866, 871, 881, 889, 890, 893, 899. **The repair did not put
+him in a second chapter of this batch and did not put him in any of the eight days §4.1 keeps him out of.** Nobody
+thanks him, nobody tells him he was right, and nobody in that chapter is waiting for him to be useful — **on 881 and
+889 and 890 he is the only figure in this batch's successor who appears, and what he gets on 881 is to see a thing.**
+
+**AND THE ONE THING THE REPAIR WOULD NOT DO IS GIVE ANYBODY A NAME.** §7.1 and §17.13: no name is spoken before day
+878, and the one new person takes no descriptor at all. **A repair that handed this room a handful of names would have
+taken away the volume's whole subject, which is that a name on a page is a place a person can be found in. The review
+asked for names; the plan asks for one of them, on one day, in one mouth, and that one is now on its page.**

@@ -508,3 +508,46 @@ and no stage name is printed.
 SHA256 before a line was removed. **The Volume 18 Batch 0002 block and the review-repair block on Chapters 0861 to 0870
 went to the archive, undeleted, and no thread, no figure, no decision and no prohibition was withdrawn by the move.**
 This is the ninth compaction of these five files.
+
+---
+
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0871 TO 0880 DID TO CONTINUITY. NEWEST AND IT WINS.
+
+**NOTHING ON THESE TEN DAYS MOVED. The repair changed the words a figure is carried by and the sentence two chapters
+close on, and it put one held name onto the one page §6.8 says it may be on. No figure, no date, no prohibition, no
+price and no state was altered, and no continuity thread was closed or opened.**
+
+**THE ONE CONTINUOUS CHANGE IS THE NAME, AND IT IS NOT NEW CANON — IT IS CANON THE CHAPTERS WERE NOT YET CARRYING.**
+`outline/volume-18.md` §6.8(iii) and §7.2 have said since before Batch 0003 that the chapters call the man who came up
+that stair by the wet-sleeve handle until 878 and **by his name from 879**, and `chapter-0879.md` was still using the
+handle on the first day it was owed. It now carries the name once, in narration, as a word for that man.
+
+| Rule | Where it lives | What holds now |
+|---|---|---|
+| the name is on the chapters and nowhere else | §6.8 | **In print on `chapters/volume-18/chapter-0879.md` only.** Not in a state file, not in a batch record, not in a prompt, not in a summary. This block does not print it. |
+| never on a surface | §6.8(iv) | He writes it nowhere: not the register, not the column on the right, not a board, not the box of chalk, not the bare piece of board under the date, not the store's board's figures. |
+| nobody may ask him what it means | §6.8(v) | Nobody does. The room works on the register, the boards, the trough and the satchel, and never on him. |
+| it is not counted against anything | §6.8(vi) | No mouth reaches a number by any road on 879. The only figures in that chapter are the hour and the width of a hand's ridges. |
+| the handle may not be varied or explained | §7.2 | The wet-sleeve handle is unvaried across Volume 18 and no mouth explains it. The repair varied nothing and explained nothing. |
+| the handle belongs to nobody else | §7.2 | It stands in eight chapters of this volume for that man and for no one. |
+
+**THE THREE HELD WORDINGS ARE ALL STILL HELD AND ALL STILL UNPRINTED.** The cost and the seven words of 875 stand as
+three speech paragraphs whose quotation holds a dash and nothing else — two in 0875 and the chapter says the cost first,
+and the reviewer did not propose to touch them and this repair did not. The name of 878 stands as one such paragraph in
+0878 and the chapter prints the room instead, which §6.8(ii) asks for in those words. **The panel of 886 is untouched
+and is not in any of these ten files.**
+
+**THE FIGURES OF THESE CHAPTERS NOW STAND ON SHORT HANDLES, AND THAT IS A RULE AND NOT A STYLE.** §17.9: full handle on
+a first appearance, short handle after it, from the list *the keeper*, *the stallholder*, the bare age, the trade
+without the location; and no possessive off an approximation. **Measured on these ten bodies, the count of full
+age-plus-trade restatements went from 87 to 10, and all ten are a first appearance or a figure inside somebody's actual
+words. A possessivalike the man of about thirty-four's own board is now gone and the stallholder's is what stands.**
+
+**THE BAR, THE SOCKETS, THE DATE IN CHALK AND THE BARE BOARD UNDER IT ARE UNCHANGED ON ALL TEN DAYS.** They are set out
+in §5 and §14.4 and were not touched. **The board the man of about thirty-nine put up in his own row on 875 is still out
+in that row and is still altered by nobody, and §8 closes that it stays that way for the twenty-five days that follow.**
+
+**THE DEBTS THIS REPAIR ADDS TO THE LAYER ARE THREE AND NONE OF THEM IS A CONTINUITY THREAD.** The long decay in mean
+chapter length, which is an outline-layer fact. The stale controller-owned phase ledger, which a phase may not write.
+The two missing volume outlines for volumes 03 and 05, which have never existed. **All three are carried at
+`state/open-threads.md` and none of them is fixed here.**

@@ -286,3 +286,47 @@ every fact the blocks it replaced carried is in the archive named above, in `out
 BYTES BEFORE THIS PASS AND THE FIVE ARE SMALLER AFTER IT, and the two per-file figures that this file can quote without
 quoting itself are `state/continuity.md` and `state/open-threads.md`. A reader who measures the five will get a total
 that includes this paragraph and the five archives are the pre-pass text.**
+
+---
+
+# THE REVIEW REPAIR ON CHAPTERS 0871 TO 0880. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**THE TEN CHAPTERS ARE ON DISK AND THEY ARE FINISHED PROSE. THE REPAIR CHANGED HOW THE FIGURES ARE CARRIED AND NOT
+WHAT HAPPENS ON ANY OF THE TEN DAYS. NO CHAPTER WAS RESTARTED, NO DAY MOVED, NO CARD CHANGED, THE ENDING IS UNTOUCHED,
+THE PANEL OF 886 IS UNTOUCHED, AND NEITHER OF THE THREE HELD WORDINGS WAS PRINTED.**
+
+**THE NEXT PHASE IS STILL `workspace/volume-18/batch-0004/PROMPT.md` AND NOTHING ELSE.** Batch 0003 wrote Chapters 0871
+to 0880, days 871 to 880, and stopped at 0880. Batch 0004 writes Chapters 0881 to 0890, days 881 to 890, a Sunday to a
+Tuesday, and it reaches the volume's one panel on 886, Tamsin Quill on 888, and the act on 890.
+
+**WHAT THE REPAIR DID, AND THE FOUR THINGS A NEXT WRITER MUST NOT UNDO.**
+
+1. **THE NAME IS NOW IN PRINT ON ONE PAGE, AND IT IS 0879.** `outline/volume-18.md` §7.2: the chapters call the man who
+   came up that stair by the wet-sleeve handle until 878 and **by his name from 879**. 0879 had been using the handle on
+   a day the plan gives him his name. It now carries the name once, in narration. **It is on no surface, nobody asks him
+   anything, it is counted against nothing, and it must not appear in a state file, a batch record, a prompt or a
+   summary — §6.8 puts it on the chapters and nowhere else.** From 089 onward the narration may use it as a word for that
+   man and for nothing else.
+2. **THE TWO EMPTY SPEECH PARAGRAPHS IN 0875 AND 0878 ARE CORRECT AND MUST STAY EMPTY.** A bold mark around a dash and
+   a pair of quotation marks is a speech paragraph whose words are withheld on purpose: §6.6 for the cost and the seven
+   words of 875, §6.8(ii) for the name of 878. **A later phase that fills either of them has spent a held wording.**
+3. **THE FIGURES ARE CARRIED BY SHORT HANDLES NOW.** The keeper, the stallholder, the bare age, the trade without the
+   location — §17.9's list, on first appearance in full and after that shortened. **Do not go back to writing the whole
+   age-plus-trade string for a figure a page has already introduced.**
+4. **THE CLOSINGS OF 0874 TO 0879 WERE REWRITTEN AND NO TWO OF THE TEN SHARE AN OPENING.** The longest shared
+   leading-word run between any two is two. **0875's closing is the only one that was cut into, because 0876 and 0877
+   had closed on the same construction on adjacent days.**
+
+**WHAT THE REPAIR REFUSED, IN ONE LINE EACH.** No name before 878 (§7.1, §17.13). No descriptor added (§7.1). Adrian
+outside his nine days (§4.1 is closed input). No bold mark removed (§17.5 and §17.7 make the mark the speaker's). No
+word of the 875 seven, no word of the 878 name, no word of the 886 panel. No file under `scripts/`,
+`.github/workflows/`, `.opencode/agent/`, no `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`,
+`opencode.json`, and no `state/phase-ledger.json`.
+
+**THE REVIEW'S OTHER FINDINGS, AND WHERE THEY STAND.** `state/phase-ledger.json` still reads `phase-000-bootstrap` and
+`planned` after 880 chapters and **is controller-owned and was not touched** — it is a controller bug to be fixed in the
+controller, not by a phase. `outline/volume-03.md` and `outline/volume-05.md` have never existed in this repository and
+were not written, because inventing plan material for two closed volumes is not a repair pass's work.
+`state/archive/` holds 69 files and the seventeen volume-close records about 1.7 MB, and **this repair took no new
+archive copy** because it withdrew no state and because the review asked for less bloat. **The full triage, with the
+section citation for every declined finding, is at `state/batch-summaries/volume-18-batch-0003.md`.**

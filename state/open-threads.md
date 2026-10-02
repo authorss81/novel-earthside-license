@@ -301,3 +301,59 @@ open-thread file that this phase was asked to write.
 was removed, and the Volume 18 Batch 0002 block and the review-repair block on Chapters 0861 to 0870 were replaced in
 each by its Volume 18 Batch 0003 block. **No thread left this file in this pass that was not already gone, and none that
 stayed was edited as it was carried.** This is the ninth compaction of these five files.
+
+---
+
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0871 TO 0880 OPENED, AND WHAT IT DID NOT. NEWEST AND IT WINS.
+
+**THE REPAIR CLOSED NO THREAD AND OPENED NO STORY THREAD. It carried three debts forward and it closed one thing that
+had been owed since Batch 0003 was written. Everything below that is marked OWED was already owed; the repair is
+recording, not starting.**
+
+## CLOSED BY THE REPAIR
+
+- **THE NAME WAS OWED ON A PAGE FROM DAY 879 AND WAS NOT ON ONE.** `outline/volume-18.md` §7.2 has said since before this
+  batch that the chapters call the man who came up that stair by the wet-sleeve handle until 878 and by his name from
+  879. `chapter-0879.md` was still using the handle on the first day it was owed. **It now carries the name once, in
+  narration. Closed, and the wording stays at §6.8 and on the chapter page and goes in no state file, no batch record,
+  no prompt and no summary.**
+
+## OWED, AND CARRIED
+
+1. **THE MEAN LENGTH OF A CHAPTER OF THIS VOLUME HAS FALLEN ACROSS EIGHTEEN VOLUMES AND NOBODY OWNS THE FIX.**
+   **Volume 01 averages 5,736 words a chapter and Volume 18 averages 1,013.** The count of age-plus-trade handles is the
+   clearest symptom and it is now nearly gone from these ten bodies, but the length is not a handle problem. **It is set
+   where §17.4 says a consequence is set — by what the days are — and it belongs to whoever owns `outline/volume-18.md`.
+   This repair did not pad ten chapters to a number the plan does not set, because padding to reach a count is the fault
+   §17.4 names.** Carried for Batch 0004 and for whoever reviews the outline.
+2. **`state/phase-ledger.json` HAS READ `phase-000-bootstrap` AND `planned` FOR 880 CHAPTERS.** **It is controller-owned
+   and no phase may write it, so it is not fixed here and cannot be fixed by any phase.** It needs a controller fix.
+   Flagged, not repaired.
+3. **`outline/volume-03.md` AND `outline/volume-05.md` DO NOT EXIST AND HAVE NEVER EXISTED.** There is no add, delete or
+   rename for either in the whole of git history, and both volumes carry fifty chapters and full close records. **Every
+   other volume has an outline.** Writing two outlines now would be inventing plan material for two closed volumes,
+   which is the one thing a repair pass must not do, so this is owed and not done. **`AGENTS.md` asks a next writer to
+   use a volume index; for volumes 03 and 05 that index has two holes in it and a next writer should know that.**
+
+## RAISED BY THE REPAIR AND NOT RESOLVED IN IT
+
+- **CARD FOUR CONTRADICTS ITSELF, ITS OWN TABLE AND TWO CHAPTERS.** The card for 0874 says 0874 **may not print the
+  wording of the sentence said on 870 anywhere but that chapter.** The same card's statement of what the chapter is for
+  describes that sentence being said three times on 874. The third-party column of the batch record's table says the
+  stallholder put it into the floor on 870 and put it there again on 874. **And `chapter-0870.md` and `chapter-0874.md`
+  both print the sentence, word for word.** **The card's opening-paragraph description is also a copy error: it
+  describes a hand going into an apron pocket, which is the opening of `chapter-0867.md` and not of 0874.** This repair
+  did not touch it, because deleting a prohibition out of a card to match what a writer has already written is the
+  failure §17.22 names, and because either real fix — a different sentence on 874, or a different device on 874 — is a
+  change to the planned plot and is not a repair pass's to make. **Both readings are published at
+  `state/batch-summaries/volume-18-batch-0003.md` and this is owed to the owner of the outline.**
+
+## CARRIED AND NOT DISTURBED
+
+- **The panel of day 886 is owed to Batch 0004 and is untouched.** Its wording is at §6.7 and belongs on
+  `chapters/volume-18/chapter-0886.md` and nowhere else.
+- **The two wordings of day 890, and the one thing said back in another man's words**, are owed to Batch 0004 and are on
+  no page. The named material of `outline/ending.md` is not on a page of this volume and its not being on a page is a
+  debt and not an omission. **DO NOT ADD A FINAL ENEMY: the final human antagonist of this manuscript is on days 894
+  and 895 and no name of his is on any page of the ten days a batch may write.**
+- **The question of day 898 and the last image of day 900** are owed and untouched.
