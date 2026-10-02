@@ -294,16 +294,3 @@ and the chapter are given for every item; the record is `state/batch-summaries/v
     morning in an answer and no thanks, and it is the first time anybody asks the man of about thirty-one
     anything. Neither may be prepared or anticipated by any chapter, and day 843 carries the volume's act with
     both of its wordings on no page.
-
----
-
-# WHAT THE FIFTH TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
-
-The pointer above is replaced: the next phase is `workspace/volume-18/PROMPT.md`, an OUTLINE phase. No chapter past 0850 exists. No thread was closed or answered by this batch.
-
-1. The act is spent on day 843 with both wordings on no page. He is not on the stair on the seven mornings after, and no chapter says why and no mouth asks where he has gone.
-2. The resolution is paid on day 845 with one question and one morning in answer and no thanks. The morning itself is on no page, and no chapter says the cost was worth it or joins the two mornings.
-3. The fifth and last Adrian Vale appearance is spent on day 846 with the iron in a hand and not got up and not in its sockets. §4.1 is closed; there is no sixth.
-4. The new question is asked on day 848 to one man and not answered, with no wording on any page. It joins the family and is not answered here.
-5. The last image is on day 850 with no telling whether before. No elapsed subtraction is on that chapter.
-6. Carried whole and unpaid: the standing eighteen, the §16 list, the figure the volume behind spent at zero, no headcount, the mark of day 440 untraced, the fourth of the four uncounted, the consent fracture unmended, the fifth condition not given, no milestone paid, nobody stronger, `outline/ending.md` unmoved.

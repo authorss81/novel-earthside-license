@@ -451,24 +451,3 @@ words at 0; `player`, `passage`, `privilege`, `threshold`, `nine steps` and `nam
 `number, count` and `about four people a day` at 0; Adrian Vale in 1 of 10; 21 separators; ten files of ten
 ending in a newline. The longest run shared by any two of the ten is eight words and it is the census handle
 for the woman of about fifty-two, which is a fixed handle and is not reworded.
-
----
-
-# WHAT THE FIFTH TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
-
-Nothing in the standing list moved. What follows is what the ten days added.
-
-65. A stranger came up the stair on day 841, found nobody waiting at the top of it, and went down again. Nothing was given to him and nothing asked of him.
-66. A cost about the man of about thirty-one was said on day 842 by a mouth not his own, and nobody bettered one word of it. Hands did their own work while it stood in the air.
-67. Adrian Vale came up on day 843, said the cost first and one thing once with neither on the page, sat the middle of the day on the bench end, and went down at about the tenth hour. The bench end stood clear after him.
-68. Nobody came up the stair on day 844 at any hour. The room went on with rates and loads, and the keeper eased the window wider before the tenth hour.
-69. The resolution stands on day 845: the woman of about fifty-two asked the man of about thirty-one one thing, he answered with a morning, nobody thanked him, nobody asked him a second thing. The morning itself is on no page.
-70. Adrian Vale put his hand on the iron on day 846 to lift it clear of the wet and from under feet, did not get it up, and went down empty-handed. A barrow went past him. The bar is in a hand on this morning only.
-71. Rain ran down the stairwell on day 847 with the bottom step shining and the iron above it untouched. A new water line came down the wall at about the ninth hour.
-72. The new question was asked on day 848 by the woman of about fifty-two to the man of about thirty-four at the near end of the bench, not to the room. He did not answer and nobody thanked him for not answering. No wording of it is on any page.
-73. The room talked of nothing but the weather on day 849. A rag dried through on the sill by the tenth hour.
-74. The last image stands on day 850: the man of about thirty-one put his hand on the iron, lifted it a hand's breadth, set it down in the same place, with no telling from iron, hand or dust whether before. No elapsed subtraction is on that chapter.
-
-And what did not move: register, second slate, word in the column, word on the shaded form, bare board under the date, fence, new rope, board on the outside wall, chalk in the inside breast pocket (never out in these ten), satchel shut with flap down, no notice, no document, no name, no new person, no new place, no panel but the one, nobody stronger, no answered question, spent figure at zero, no headcount.
-
-Figures, each with reading: whole files, heading line in, whitespace tokens, both file orders, ten files, days 841 to 850 — 4,791 words; chapters 373 to 622; bolded share 5.74 per cent over 275 words in 39 spans; 125 paragraphs, 39 speech; zero bold-without-quote and zero quote-without-bold; zero digits; zero month ordinals; zero narrator frame; zero panels; zero column and §16.14 words at 0; player, passage, privilege, threshold, nine steps and name as person or verb at 0; number, count, figure, row at 0; about four people a day at 0; Adrian Vale in 2 of 10.

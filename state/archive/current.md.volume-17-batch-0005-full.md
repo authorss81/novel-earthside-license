@@ -47,10 +47,10 @@ to say in its own record why not.**
 
 ## WHERE THE WORK STANDS
 
-**VOLUME 17 IS COMPLETE ON DISK. SIXTEEN VOLUMES ARE COMPLETE AND ON DISK, CHAPTERS 0751 TO 0800 BEING THE
-SIXTEENTH.** Volume 17 runs days 801 to 850 and has chapters to day 850. **FIFTY CHAPTERS OF THE FIFTY
-ARE WRITTEN: 0801 TO 0850, DAYS 801 TO 850, THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FIVE HUNDRED AND
-THIRTY-FIFTH DAY OF THE BARE MONTH. NO CHAPTER PAST 0850 EXISTS AND NONE IS TO BE WRITTEN BY ANY OTHER
+**VOLUME 17 IS IN PROGRESS. SIXTEEN VOLUMES ARE COMPLETE AND ON DISK, CHAPTERS 0751 TO 0800 BEING THE
+SIXTEENTH.** Volume 17 runs days 801 to 850 and has chapters to day 840. **FORTY CHAPTERS OF THE FIFTY
+ARE WRITTEN: 0801 TO 0840, DAYS 801 TO 840, THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FIVE HUNDRED AND
+TWENTY-FIFTH DAY OF THE BARE MONTH. NO CHAPTER PAST 0840 EXISTS AND NONE IS TO BE WRITTEN BY ANY OTHER
 PHASE.**
 
 **THE PLAN IS `outline/volume-17.md`, WHICH CARRIES NO NAME, and it is read before this file. THE LINE
@@ -365,15 +365,3 @@ record were copied whole into `state/archive/` and verified by SHA256 before any
 the Batch 0004 block in each was rewritten in plain prose with every fact it carried kept. That is the
 fifth compaction of these five and it is the answer to the fifth append that grew them, and the figures
 for the append and for this compaction are in `reviews/volume-17/batch-0004.md`.
-
----
-
-## WHERE THE WORK STANDS AFTER VOLUME 17, BATCH 0005. NEWEST AND IT WINS.
-
-Volume 17 is complete on disk: fifty of fifty are written, 0801 to 0850, days 801 to 850, the four hundred and eighty-sixth to the five hundred and thirty-fifth day of the Bare Month. No chapter past 0850 exists.
-
-The plan is `outline/volume-17.md`. The iron at the foot of the stair lies on the top step on day 850 as on day 801, in no sockets, and no chapter put it in a hand except on day 846, which did not get it up.
-
-Spent and on their pages: the decision of day 825 (wording in the plan, on no page); the panel of day 837 (on Chapter 0837 only); the second cost of day 840 (in the man of about thirty-one's own mouth); the act of day 843 (both wordings on no page; he goes down at about the tenth hour and is not on the stair on the seven mornings after); the resolution of day 845 (one question, one morning in answer, no thanks; the morning itself on no page); the new question of day 848 (to one man, not answered, wording on no page); the last image of day 850 (hand on the iron, lifted a hand's breadth, set down same place, no telling whether before).
-
-The next phase is `workspace/volume-18/PROMPT.md` and nothing else. It is an OUTLINE phase for Volume 18, Chapters 0851 to 0900. `outline/volume-18.md` is not on disk, so it writes no day.

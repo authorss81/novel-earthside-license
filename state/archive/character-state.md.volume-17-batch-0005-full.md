@@ -373,18 +373,3 @@ behind it are what get varied, never the handle itself, and no handle was reword
 Seven sentences in these ten files were written as verbatim copies of sentences already on disk in closed batches of
 this volume, and all seven were reworded in the files of this batch and not in the closed ones; they are named in
 the batch record.
-
----
-
-# WHAT THE FIFTH TEN DAYS OF VOLUME 17 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
-
-Nothing on the people changed. No descriptor altered, no name given or spoken, nobody stronger, Tamsin Quill at zero across the ten.
-
-- The man of about thirty-nine who trades on a board: in the room through the ten, drying his board, turning leaves with the keeper, silent through the act and the resolution.
-- The woman of about fifty-two: asked the one thing of day 845 and the thing of day 848, thanked for neither, asked about neither. Hands at the sides of her dress throughout.
-- The man of about thirty-four who keeps a stall two stalls along: dried his board, kept his hand out of his coat on all ten, did not answer on day 848.
-- The man of about thirty-one who carries things for a living: paid for on 842 by another mouth, answered on 845 with a morning, lifted the iron a hand's breadth on 850. Satchel shut with flap down throughout.
-- The man of about twenty-seven: trough, bucket and rag through the ten, asked nothing.
-- The keeper: squared pages, eased the window, said the weather and nothing else on 849.
-- The man of about thirty-eight at that salt wharf: held his barrow back on 846 and went on past.
-- Adrian Vale, in 0843 and 0846 and in no other: on 843 his hands on nothing on a page, to have said one thing out loud and been let go of afterwards, obtained no; on 846 his hands on the iron on the top step, to have it out of the weather and from under feet, obtained no. Thanked by nobody, told nothing, useful to nobody, nobody waiting for him to be useful. Stage 2 on all ten, no working, no threshold opened, the other world not said, passage and privilege at zero.

@@ -270,18 +270,3 @@ of the chapters as they stand on disk now.
     thirty-nine says one flat thing about a crack in the near end of the trough, and nothing in that room was done
     about the cost at any hour of that day. DID NOT DO: print an elapsed figure, print a headcount of that room,
     reach day 845, reach day 843, prepare either, say what it buys.
-
----
-
-## VOLUME 17, BATCH 0005 — CHAPTERS 0841 TO 0850, DAYS 841 TO 850, ONE CHAPTER TO ONE DAY
-
-1. **0841, Tuesday BM 526, political. Adrian: no.** FOR: a stranger up the stair and nobody at the top. CHANGED: boots on the boards, nothing given, nothing asked, stranger down again. DID NOT DO: count the room, date anything, prepare 843.
-2. **0842, Wednesday BM 527, cost. Adrian: no.** FOR: a cost about another man, said by a mouth not his own. CHANGED: words stood, hands worked, nobody bettered one word. DID NOT DO: improve, thank, ask him.
-3. **0843, Thursday BM 528, character. Adrian: 4, obtained no.** FOR: the act, cost first then one thing once, neither on the page. CHANGED: bench end sat through the middle of the day, clear after; he went down at about the tenth hour. DID NOT DO: print either wording, thank, repeat, ask second, say why, say what it was.
-4. **0844, Friday BM 529, political. Adrian: no.** FOR: a door with nobody up it all morning. CHANGED: rates and loads went on, window eased wider. DID NOT DO: watch the door, count, remark on him.
-5. **0845, Saturday BM 530, recovery. Adrian: no.** FOR: the resolution, one question and one morning in answer and no thanks. CHANGED: a morning given with weather and light, no second question. DID NOT DO: print the morning, say he is right, say the room has what it wanted, join the two mornings.
-6. **0846, Sunday BM 531, physical. Adrian: 5, obtained no.** FOR: a hand on the iron and it not got up. CHANGED: barrow held back, then past; prints filling with rain. DID NOT DO: work, open, name, offer, thank, tell right, socket it.
-7. **0847, Monday BM 532, physical. Adrian: no.** FOR: rain in the stairwell, bottom step shining, iron above. CHANGED: new water line down the wall. DID NOT DO: touch the iron, count, date.
-8. **0848, Tuesday BM 533, character. Adrian: no.** FOR: the new question to one man, not answered. CHANGED: sun talk went on, light left the bench. DID NOT DO: print wording, answer, thank, join the three unasked.
-9. **0849, Wednesday BM 534, recovery. Adrian: no.** FOR: weather talk and nothing else. CHANGED: air through, rag dried on the sill. DID NOT DO: say more, count, date.
-10. **0850, Thursday BM 535, recovery. Adrian: no.** FOR: the last image, hand on the iron, hand's breadth up, down same place, no telling whether before. CHANGED: dust white along his palm going up. DID NOT DO: print any elapsed subtraction, observe any rhyme, close on nothing changed.
