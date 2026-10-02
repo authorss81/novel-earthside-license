@@ -18,7 +18,9 @@ The woman of about fifty-two nodded once and said nothing. The man of about thir
 
 A silence settled that was not the silence of waiting. It was the silence of a room that had said a thing every morning for a season and now passed the hour where the thing used to stand. At about the eighth hour two people shifted on the bench at once, as if the same thought had touched them.
 
-The man of about twenty-seven cleared his throat from the window. **"Yesterday at this hour we were louder, I remember the sound of it."** he said. 
+The man of about twenty-seven cleared his throat from the window.
+
+**"Yesterday at this hour we were louder, I remember the sound of it," he said.**
 
 **"It was Friday," the man of about thirty-four said. "Fridays carry the week's talk."**
 
@@ -34,4 +36,4 @@ The woman of about fifty-two came a step nearer and stopped. Her hands rose a li
 
 At about the tenth hour he lifted the board again, turned the face against his side, and went down that stair with it under his arm. The room emptied behind him. The keeper carried the book to the shelf behind the bench and set it down before the dark shape that is never lifted by any hand but hers. She laid her palm flat on the cover for the length of a breath.
 
-The bench at the far end kept the shape of the board in its dust for an hour after the stair went quiet. Then the light moved off that floor, and the dust settled back, and the wood showed nothing where hands and boards had been all morning.
+That stretch of the bench kept the shape of the board in its dust for an hour after the stair went quiet. Then the light moved off that floor, and the dust settled back, and the wood showed nothing where hands and boards had been all morning.

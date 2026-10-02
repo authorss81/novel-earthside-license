@@ -40,4 +40,4 @@ At about the tenth hour the room emptied in the ordinary way. The man of about t
 
 The man of about thirty-nine lifted his board off the leg with his left hand and went down that stair with the face of it against his side. His right hand stayed open at his side all the way down.
 
-On the bench at the far end the wood held the cold of the morning after every hand had left it. The jug on the table stood where it had stood since the sixth hour, with the water in it untouched, and the cloth under it folded twice and smooth at the corners.
+At the far end of the bench the wood held the cold of the morning after every hand had left it. The jug on the table stood where it had stood since the sixth hour, with the water in it untouched, and the cloth under it folded twice and smooth at the corners.

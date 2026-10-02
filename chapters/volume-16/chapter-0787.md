@@ -12,7 +12,9 @@ By the fifth hour the light had moved. It went off the middle of that floor and 
 
 Then the wall said one thing. It was not spoken by any mouth in that room. It stood plain on the plaster in a block of its own, with no mark of any kind on it.
 
-> A room is not a number. Nine is not a room and eight is not a room, and a room with nobody in it is not an empty room and a room with everybody in it is not a full one, and no person in a room is a figure that somebody said out loud, and a morning is not a count of the mornings before it. A room cannot tell afterwards who came up the stair on which of them, and after this morning it will not be able to tell how many of them there were either, and nobody in it is asked about it.
+It stood well up that wall, from the height of the man of about thirty-four's shoulder to above his own head, set out in plain lines with the ends squared and the space between them even, with bare plaster to either side of it from the floor to the roof. Where the light off the middle of the floor came across, it was the brightest thing in that room.
+
+People went on with what they had been saying. The man of about thirty-four turned his head toward the wall once, the way a man turns toward a noise that turns out to be nothing, and turned it back to the middle of the floor. The man of about twenty-seven wiped his hands down the front of his coat and went back to the window. Nobody said a word about the plaster.
 
 No mouth in that room repeated one word of it. Nobody said it was right and nobody said it was wrong. The man of about thirty-nine stood at the near end of the bench with his hand on the face of his board and looked at the middle of the floor. He was not asked whether he agreed with it.
 
@@ -30,6 +32,6 @@ Nobody thanked her. Nobody improved on one word of her answer. Nobody asked her 
 
 At about the ninth hour the light went off the far wall and the plaster stood bare again. The keeper turned a leaf and smoothed it. The man of about thirty-nine carried his board to the far end and laid it flat there through the hour, then took it up again with the face against his side.
 
-At about the tenth hour the room emptied. The keeper closed the book and placed it on the rear shelf ahead of the shaded form with its cut day and clear space below, which only her hands ever near and which stays unlifted. The man of about thirty-nine went down that stair last with his board under his arm.
+At about the tenth hour the room emptied. The keeper closed the book and placed it on the rear shelf ahead of the shaded form with its cut day and clear space below, which no hand but hers ever comes to. The man of about thirty-nine went down that stair last with his board under his arm.
 
-The cloth on the table lay folded twice with its corners smooth. The stool stood at the side of the bench with dust on its seat. The chalk day on the door below held through the evening without being touched.
+She did not go back to the far end of that bench. She stood the rest of that morning at the keeper's end, and the far end of that bench had nobody on it from the seventh hour to the dark.

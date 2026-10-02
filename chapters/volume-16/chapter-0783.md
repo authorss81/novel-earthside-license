@@ -34,4 +34,4 @@ At about the seventh hour the man of about sixty came down the side turning with
 
 The carrier laughed once, short. He lifted his satchel strap and settled it. The two men had nothing more to say, and the lack of it sat easy between them. They had stood at that end through a whole flood of mornings, and asking would have been a different kind of morning.
 
-At about the tenth hour the stalls came down in the ordinary way. The stallkeeper turned his board face in against his trestle, the way he always leaves it, and the carrier went off with his satchel still shut. The flags held their puddles, and the canvas dripped from its lowest corners onto the wood below.
+About the tenth hour the stalls came down in the ordinary way. The stallkeeper turned his board face in against his trestle, the way he always leaves it, and the carrier went off with his satchel still shut. The flags held their puddles, and the canvas dripped from its lowest corners onto the wood below.

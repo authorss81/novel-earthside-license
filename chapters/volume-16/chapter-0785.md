@@ -10,7 +10,7 @@ He lifted the bucket and let it down into the low place, where it settled on its
 
 He worked the trough first. He took the rag off the lip and wrung it into the flags, then wiped the lip from one end to the other, pushing the night's grit ahead of it. The stone came clean in a band a hand's breadth wide. He laid the rag back on the lip with the damp side up.
 
-At about the fifth hour the carrier came through the gate with his satchel under his arm and stopped to watch. About four people a day cross that paving at the foot of the stair in the market, and this yard has its own tread of feet, and the two do not meet.
+At about the fifth hour the carrier came through the gate with his satchel under his arm and stopped to watch. About four people a day cross the paving at the foot of that stair.
 
 **"That lip holds the wet longer than the flags," the carrier said.**
 

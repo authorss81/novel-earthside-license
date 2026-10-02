@@ -18,12 +18,12 @@ At about the sixth hour the carrier came past with his satchel under his arm and
 
 He did not reach above the top edge at any hour of that morning. The streaks on the plaster stayed as they were, from the roof drip down to the frame. He had washed that stretch once in the whole of this flood and had not gone back to it, and no other hand in this city had gone near it either.
 
-At about the seventh hour he emptied the bucket into the trough and set the bucket down in the low place in the stone at the side of the yard, on its side in the water, where it belongs. He spread the rag on the stone lip of the step with the damp side up. The box of chalk on the step stood with its lid ajar, for the lid does not shut, and he nudged it a finger's width from the drip and left it.
+At about the seventh hour he emptied the last of the water out of the bucket into the trough and left the trough standing level with it. He spread the rag on the stone lip of that step with the damp side up. The box of chalk stood on the step with its lid ajar, for the lid does not shut, and he nudged it a finger's width out of the drip and left it where it was. Then he carried the empty bucket down the flags to the yard at the near end of the flats and set it down in the low place in the stone at the side of that yard, on its side in the water, where it belongs.
 
 ---
 
-At about the ninth hour the light came round the corner of the building and struck the board face on. The chalk strokes stood out white against the wiped wood. Above them the unwashed plaster showed dark at the edges where the water runs.
+About the ninth hour the light came round the corner of the building and struck the face of the board. The chalk strokes stood out white against the wiped wood, and above them the unwashed plaster showed dark at the edges where the water runs.
 
-The man of about twenty-seven stood back on the flags with his hands empty and looked at the morning's work. He picked up the bucket, hung the rag over its rim, and went up toward the room with water for the table.
+The man of about twenty-seven came back up the flags from that yard with his hands empty and stood in front of the board a while. He put nothing back and touched nothing. Then he went up toward the room with his hands still empty.
 
-By the tenth hour the step stood clear, the trough level, the board clean on its two nails. The wall above its top edge kept its streaks untouched, from one side of the frame to the other, and the drip from the roof found the same path it had found all flood.
+The step stood clear by the tenth hour, the trough level, the board clean on its two nails. The wall above its top edge kept its streaks untouched, from one side of the frame to the other, and the drip from the roof found the same path it had found all flood.
