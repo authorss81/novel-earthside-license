@@ -433,4 +433,10 @@ question she has ever asked.**
 none of these ten pages and were asked nothing and none of them was brought up that stair; the handcart was named on
 915 and 0919 and was empty and was not loaded. **The two women of twenty-nine, the two men of about thirty-eight
 and the two stallholders of about thirty-four were never merged and never settled in any of the ten, and the stallholder
-of about thirty-four was never in a room with the man of about thirty-nine's board's business settled.**
+of about thirty-four was never in a room with the man of about thirty-nine's board's business settled.
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 921 TO 930 DID TO THE PEOPLE. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+No person invented, no descriptor taken, no merge. Adrian in 0921 (lid; heat wanted, none got) and 0927 (chair back not rope; cut wanted, none got), both not obtained, unthanked, not useful; Stage 2 throughout. Keeper pays no new cost here beyond the decision-day cost and the two word-day costs of others; tradesman puts figure in space on 924 and speaks the fourth word-day on 921 with own cost first; stallholder speaks no word but holds his board face-in throughout with chalk pocketed; wharf man speaks the sixth word-day on 930 with own cost first; keeper speaks the fifth word-day after the decision on 925. All unthanked, unimproved, nothing done about any.**

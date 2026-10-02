@@ -305,3 +305,9 @@ it. The second slate stands on its shelf in the place it stood, with one line on
   about thirty-four in different words, and nobody in that row put the two side by side at any hour of the day. **The
   gate was not shut and nothing whatever was done about what either of them said, and day 933 is the day it is shut
   for one morning.**
+
+---
+
+# WHAT THE BATCH THAT WROTE DAYS 921 TO 930 DID TO THE THREADS. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+Closed nothing, answered nothing, mended nothing. Paid on pages: the fourth word-day (921), the figure in the space (924), the decision with the fifth word-day (925), the wall block (929, unanswered on this and the twenty-one days after), the sixth word-day (930). The space thread is now a figure thread (what it is stays unasked). The second-book thread is now standing (on bench/in use, on shelf otherwise). Seventh word-day, act, resolution and last image stay open and unprepared.

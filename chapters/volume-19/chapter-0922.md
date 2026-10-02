@@ -1,0 +1,23 @@
+# Chapter 0922 — A Page Squared Against The Fold
+
+Two hands went along the edge of an open page and squared the leaf against the fold, and the hands stayed there.
+
+It was Saturday, the six hundred and seventh day of the Bare Month. The night had gone damp and the frost had come off the flags before the light and left the walking spaces dark from end to end. At the top of the market step the trough had running water in it with the crack in its near end going thin underneath. Along the top step of the stair the bar lay out of its two sockets. At the foot of that stair the chalk date stood on the wood of the door, with the bare piece of board beneath it carrying nothing.
+
+The woman of about twenty-nine who keeps a public register had the register open on the bench at the far end with her own hands along the edge of the page. The man of about thirty-nine who trades on a board had his own board propped against the near end of the bench with the face of it out and nineteen rates standing in three columns. The woman of about fifty-two stood at the far wall with her hands at the sides of her dress and the stool she had carried out of a room a year ago standing against the wood at a foot's reach from her. The man of about thirty-four who keeps a stall two stalls along sat in the middle of the bench with his own board on edge across his knees and the bare back of it turned out. That room was full and nearly all of what stood in it was off the bench, and the light lay along the wood from the far end to about the middle of it. The bucket stood where it had stood since before the light with the rag folded over the rim, and the dust on the shelf behind the bench lay undisturbed round the shape of what stood there.
+
+---
+
+The keeper read the page down from the head of the leaf to the foot of the column that holds figures, and then she read the board across from one side to the other along the middle row of rates, and the bench stood between the two of them doing what a bench does, holding a book on one part of it and nothing else on the other. The register held six strokes in the column that holds figures with a day against each, and the board held its three columns with the space about two fingers wide at the foot of the middle one, and the two did not agree about anything and neither of them said anything. On the shelf behind the bench at the height of a person's shoulder the second slate stood with the register in front of it. Beside the leg of the table the man of about twenty-seven had the bucket standing on the stone with the rag folded over the rim.
+
+**"The head of that leaf has cockled and the leaf will not lie flat this morning,"** said the woman of about fifty-two, at the far wall without coming off it, **"and the dry cloth wants folding along it twice before it is touched again."**
+
+**"My own board has stood face in all week and it will stand that way today,"** said the man of about thirty-four who keeps a stall two stalls along, in the middle of the bench with his own thumb along the foot of his own board, **"and a rate at the foot of it wants its day and it will go on wanting it."**
+
+**"Then it will go on wanting it past the light, and the page will go on standing up off the leaf,"** said the woman of about fifty-two, and put her own hands back at the sides of her dress.
+
+She did not go near the bench and he did not take his own hand off his own board, and she did not look at the face of his board and he did not look at the head of her page, and the keeper squared the leaf again and left her own hands along the edge of it. The man of about twenty-seven came up the stair with nothing in his hands and went down again for the bucket, and the water stood flat in it both times he carried it. The keeper turned the leaf back and smoothed the cockled head with the flat of her hand and left it to stand up off the paper again. About four people a day went past the foot of that stair on their own business while the light was on the flags, and about four people a day went along that row, and none of them came up the stair at the back of the store.
+
+---
+
+At about the tenth hour the keeper lifted the dry cloth off the head of the leaf and found the pale line standing where it had stood with the paper cockled at the end of it about as thick as a nail, and she put the cloth back along the head again and the line did not move under it.

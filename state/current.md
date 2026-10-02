@@ -328,3 +328,15 @@ WROTE NO PROMPT FOR IT AND DRAFTED NO CARDS FOR IT.** The reason is published at
 it in four places and names this run specifically, **and a specific instruction about a named run governs over a
 general one in a file the phase prompt also forbids opening.** This block names the next phase and writes nothing
 else about it.
+
+---
+
+# THE BATCH THAT WROTE CHAPTERS 0921 TO 0930, DAYS 921 TO 930. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**TEN CHAPTERS EXIST. The manuscript is at nine hundred and thirty chapters and no chapter past 0930 exists.** File of record is `reviews/volume-19/batch-0003.md`; index is `state/batch-summaries/volume-19-batch-0003.md`. Writer's own record; no independent reader exists.
+
+**REACHED:** the fourth word-day on 921 with own cost first; the figure into the space on 924 as rate not name, untold and unthanked; the decision fixed at plan §6.6 with the fifth word-day after it on 925; the morning after on 926; the wall block of plan §6.8 once on 929, unbold, unread aloud, unanswered; the sixth word-day on 930 with own cost first. **NOT REACHED:** seventh word-day on 934, act on 940, resolution on 943, last image on 950.
+
+**STANDING AT DAY 930.** Register six strokes, none struck, no seventh; second slate on shelf behind bench with register in front, on bench while in use after 925; space on tradesman's board no longer empty (figure of 924, unnamed, unexplained, unread); tally-board face up with grit unbroken and uncounted; trough with no heat and ice unbroken; rope never lifted and man never asked; fence sixteen/eleven unmeasured and unmoved; bar along top step; bare board under date empty with nothing under any date; gate open; satchel shut; room never counted. Adrian in two of ten (0921, 0927), both not obtained, unthanked.
+
+**NEXT: `workspace/volume-19/batch-0004/` does not exist and this run does not create it.** No prompt written for any other batch. Debts unchanged and owned elsewhere.

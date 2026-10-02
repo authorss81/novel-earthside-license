@@ -378,3 +378,9 @@ people a day went past the foot of the stair in five of the ten bodies, always w
 the phrase *the strip of ground at the foot of that stair* is in none of the ten.** **The room was never counted
 and no mouth in it reached any number by any road, including on 914 where a question is put and is not answered
 and including on 918 where a man puts his own name down and a woman puts a sixth figure in a column.**
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 921 TO 930 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**Two states changed; everything else only moved.** (1) The space on the tradesman's board is no longer empty: a figure went into it on 924 in his own hand as rate not name, untold, unthanked, unexplained, unread, and the chapter does not say how long it had been empty. (2) The second slate is the second book from 925: on the bench while in use, on the shelf otherwise; nothing printed about either face beyond the one line of 918. Register stays six with no seventh; tally-board face up; trough heatless with ice unbroken; rope unlifted; fence sixteen/eleven; bar out; bare board empty; gate open; satchel shut; room never counted. Figures in `reviews/volume-19/batch-0003.md` §§7–8.
