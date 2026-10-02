@@ -288,8 +288,20 @@ OF DAY 843 IS IN IT, AND NO FIGURE SEVEN IS PRINTED ANYWHERE IN THIS FILE.**
 
 **Twenty-six speech paragraphs carrying both marks, seventy-five free-standing narration paragraphs, and one
 hundred and one paragraphs in all excluding the heading lines and the separators. No bold mark without a quotation
-mark and no quotation mark without a bold mark at any value. The day-825 decision is a speech paragraph
-carrying both marks and holding no words, and it is counted once in the twenty-four.**
+mark and no quotation mark without a bold mark at any value.**
+
+**AND THE ONE CONVENTION IN THIS BATCH THAT A NEXT WRITER INHERITS UNEXPLAINED, PUBLISHED HERE SO THAT IT IS
+NOT INHERITED UNEXPLAINED: THE DAY-825 DECISION IS A SPEECH PARAGRAPH CARRYING BOTH MARKS AND HOLDING NO
+WORDS.** On `chapter-0825.md` the line stands as a quoted dash and nothing else — bolded, in quotation marks,
+carrying no words behind it. **It is not a placeholder, not a stage direction, not an interruption, not a
+gesture, not a figure, not a count, and not the decision in other words. It is the decision withheld by
+`outline/volume-17.md` §6.6 and the chapter's way of showing a mouth opening and nothing coming of it in front
+of nine people. It is counted once in the twenty-six above, it carries a quotation mark and a bold mark like any
+other speech paragraph, and it is therefore at zero under both paragraph-class instruments.** **NO LATER CHAPTER
+MAY RESOLVE IT, MAY PUT ANY WORD BEHIND IT, MAY HAVE ANY MOUTH SAY THE DECISION THAT DAY DID NOT SAY, MAY
+PARAPHRASE IT, MAY COUNT IT, MAY PRINT THE FIGURE SEVEN, MAY SAY HOW MANY WORDS IT WAS, AND MAY NOT HAVE ANY
+OTHER MOUTH IN THAT ROOM CARRY IT IN OTHER WORDS. THE WORDING IS IN THE PLAN AND IS ON NO PAGE AND IS NOT IN
+THIS RECORD.** If a later chapter needs the room to have heard something on day 825, it may not be this line.
 
 ### THE FIGURES, EVERY ONE WITH ITS READING AND ITS SCOPE
 
@@ -298,9 +310,9 @@ tokens, both file orders, ten files, days 821 to 830.**
 
 | what | figure | reading | scope |
 |---|---|---|---|
-| words across the ten files | **5,439** | whitespace tokens, heading line in (5,337 out) | the ten files |
-| chapter length, shortest and longest | **448** and **776** | same | ten of ten |
-| share of words inside bold marks | **4.50%** | unweighted, `**…**` spans, 245 words | 5,439 words |
+| words across the ten files | **5,453** | whitespace tokens, heading line in (5,351 out) | the ten files |
+| chapter length, shortest and longest | **447** and **776** | same | ten of ten |
+| share of words inside bold marks | **4.49%** | unweighted, `**…**` spans, 245 words | 5,453 words |
 | titles in four to nine words of title text | **10 of 10** | words after the `—` | the ten headings |
 | title range | **four to nine** | same | ten headings |
 | files ending in a newline | **10 of 10** | whole files | the ten files |
@@ -393,11 +405,101 @@ so where it introduces them.**
    the weather came in. 9. 0829: the two of them both standing at the far end at the tenth hour with nothing
    to say about where either had been. 10. 0830: the sun over the far side and the shut road in light from one
    end to the other with nobody on it.
-**Ten different constructions, each stating what is nowhere else in its own chapter, none on any of the six
-shapes §17.18 puts off limits, and not one of them a statement that nothing changed. ONE CALL IS RECORDED AND IT
-IS A CONSIDERED ONE: Chapter 0827 closes on flags drying at the foot of that stair, which is the weather on a
-floor and is not the strip of ground and is not what the strip used to be, which is the shape §17.18(iii) puts
-off limits.**
+**Ten different constructions, each stating what is nowhere else in its own chapter, and none on any of the six
+shapes §17.18 puts off limits. ONE CALL IS RECORDED AND IT IS A CONSIDERED ONE: Chapter 0827 closes on flags
+drying at the foot of that stair, which is the weather on a floor and is not the strip of ground and is not what
+the strip used to be, which is the shape §17.18(iii) puts off limits.**
+
+### THE §17.17 COUNT, MEASURED AND RULED, WHICH THE PREVIOUS TEXT OF THIS FILE GOT WRONG
+
+**§17.17 reads: *A chapter's closing movement may not be a statement that nothing changed, in more than two
+chapters of any ten.* The text this file carried above claimed that not one of these ten closings was a
+statement that nothing changed. THAT CLAIM WAS FALSE AND IT WAS NEVER MEASURED. It is withdrawn and replaced
+by this count, and the reading is published so that it can be disagreed with.**
+
+**THE READING, STATED BEFORE THE COUNT SO THAT THE COUNT CAN BE CHECKED. A closing counts against §17.17 when
+its movement asserts that the day's business came to nothing and the state of affairs is the state it was. A
+closing does not count when its movement is a thing arriving, going, drying, filling, emptying, opening or
+being found out, and carries a standing absence or an unacted-on thing inside that movement. An absence on its
+own is not a nothing-changed statement and a change is not a nothing-changed statement.**
+
+**APPLIED TO THESE TEN, WITH THE MOVEMENT GIVEN FOR EACH: COUNTED, 0825** — the hand off the board and into his
+coat, the board face in in shadow, and nothing on the table or on the shelf that a morning could be set down on;
+the day's business is a decision and the closing asserts it is on nothing. **COUNTED, 0829** — the two of them
+both standing at the far end at the tenth hour, neither with anything to say about where he had been, nobody
+asking either of them; the day's business is a question and the closing asserts that nothing came of it. **NOT
+COUNTED, 0821** — the damp shape of where the stool stood with the damp at its edge going off the stone: the
+shape exists because the stool was moved, so the closing is the residue of a change and not an assertion that
+nothing changed; it counted before the review-fix pass and the pass reworded that one closing so the movement
+registers the drying. **NOT COUNTED, 0822** — the water standing deeper than at the fourth hour with the grit
+skinned over it. **NOT COUNTED, 0823** — the worn place at the near end under the light, darker than the wood
+round it and darker than it had been anywhere on that bench before. **NOT COUNTED, 0824** — the wiped hollows
+pale at their edges with the figures standing up off the stone. **NOT COUNTED, 0826** — the man going down that
+stair and out and the chalk on the outside of that door wet enough to take the print of a thumb from a hand
+nobody in that room had seen: a man leaves the room and a fresh mark appears on the chalk, and the unacted-on
+decision is inside that movement and not in place of it. **NOT COUNTED, 0827** — the flags drying from the
+middle outwards. **NOT COUNTED, 0828** — the water coming back into that sill an hour after the rain and his
+having been the only one in that room who had said where the weather came in. **NOT COUNTED, 0830** — the sun
+coming over the far side and lying along that shut road from one end of it to the other: the light arrives, and
+the emptiness of the road and the wood still on the posts are carried inside that arrival. **This card's own
+line gives the arrival as the beat.**
+
+**THE COUNT FOR THIS BATCH'S OWN TEN IS TWO, AT THE CEILING OF TWO AND NOT OVER IT, AND IT WAS THREE AT
+WRITING.** No closing of these ten was replaced, no closing beat of any card was re-planned, no fact a card
+fixes was removed from any closing, and the one rewording kept the carded fact of 0821 exactly and added the
+drying at the edge of the shape to it.
+
+**AND THE SAME READING RUN OVER THE VOLUME'S FIRST TWENTY CHAPTERS, WHOSE WINDOWS ARE OVER THE CEILING AND
+WHOSE CHAPTERS THIS PASS DID NOT TOUCH. Counted in 0801 to 0810: 0802, 0804, 0806, 0807 — four. Counted in
+0811 to 0820: 0812, 0813, 0816, 0818, 0820 — five. Counted in 0819 to 0828: 0820, 0825 — two. Counted in
+0820 to 0829: 0820, 0825, 0829 — three. **The worst window of any ten across the volume's thirty chapters
+holds FIVE counted closings and it runs from 0812 to 0821. Every one of those files belongs to a closed batch
+of this volume, the two batch records for them carry no count of their own, and a repair pass that took this
+finding into them would have had to re-plan closing beats that were written before the chapters were.** It is
+written down here as an inherited breach and as a debt owed by the Volume 17 close.
+
+**AND THE WORD *TEN* IN §17.17 IS NOT DEFINED IN THE PLAN, AND BOTH READINGS ARE GIVEN BECAUSE THE COUNT
+DIFFERS.** *Any ten* may mean one batch's ten chapters, or any ten consecutive chapters. **On the batch
+reading this volume's three batches stand at four, five and two. On the rolling reading, of the twenty-one
+windows of ten consecutive chapters that the volume's thirty files make, TWO are inside the cap — 0819 to 0828
+and 0821 to 0830, both at two — and NINETEEN ARE NOT, and the worst is five.** The close settles which reading
+binds Volume 17's remaining days, and whichever it takes, a chapter of days 831 to 840 that closes on a
+statement that nothing changed makes two more windows worse and cannot make any of them better.
+
+### THE REPEATED-SENTENCE RUN, MEASURED ON THESE TEN FILES BEFORE AND AFTER THE REVIEW-FIX PASS
+
+**The reading: the longest unbroken run of consecutive words that any two of these ten files share, a hyphen and
+an apostrophe both delimiting, compared pair against pair and taken as a maximum. Thirty files of the volume
+are the scope for the volume figure; ten of them are the scope for the batch figure.**
+
+| what | at writing | after the review-fix pass |
+|---|---|---|
+| longest run shared by any two of these ten | **30** words (0825 against 0828) | **20** words (0825 against 0826) |
+| pairs of these ten sharing a run of twelve words or more | **10** | **9** |
+| 0821 against 0827 — the run the review named | **15** words maximal, of which the shared sentence is twelve | **10**, and the ten are the volume's own date formula and no two of these ten share anything longer |
+| 0821 against 0829 — the shared tail the review named | **11** words of tail | **tail gone**; a 15-word run between that pair remains and it is the one window and the bench wood, which stands in eight of the volume's thirty files |
+
+**AND THE NINE THAT REMAIN ARE ALL FURNITURE, AND EACH IS THE HANDLE `state/character-state.md` GIVES FOR THE
+PERSON IT BELONGS TO, AND NONE IS REWORDED. The volume-wide file count for each is beside it and is the count
+of the literal string across the volume's thirty files, not of the run:** twenty words between 0825 and 0826
+and fifteen each between 0825 and 0828 and between 0826 and 0828, all three of them the woman of about
+fifty-two at the side of that bench with her hands at the sides of her dress, the full phrase in three files
+and *at the sides of her dress* in ten; sixteen between 0821 and 0826, the man of about thirty-four's hollow
+turned over and set down on his knee, the full phrase in two and *turned his hollow over* in four; fifteen
+between 0821 and 0829, the one window and the bench wood, the full phrase in three and *the light came in at
+the one window* in eight; fourteen between 0821 and 0828, the keeper at the near end with the register on the
+shelf behind her, in two; fourteen between 0821 and 0825, the man of about thirty-nine saying a thing into the
+middle of that floor that nobody had asked him for, in three; twelve between 0826 and 0829, the man of about
+thirty-one going up and down that stair, in two, though *at the foot of that stair* stands in six; twelve
+between 0827 and 0828, the man of about thirty-four was at the far end, in five. **A census that changes its
+wording is a census that cannot be counted, and the volume-wide measure for comparison is fifty-seven words
+between 0807 and 0813, which is the bar-and-door declaration and belongs to a closed batch and was not touched
+by this pass.**
+
+**FOUR SENTENCES WERE REWORDED AND THE RUNS THEY CARRIED ARE GONE: 0821's the talk coming back, 0827's
+opening, 0828's opening and 0826's board.** No carded fact was removed from any of them, no day's business
+moved, no mouth was given or taken a word, and the chapter, the day, the weekday, the Bare-Month ordinal, the
+cast, the pressure tag and the plot are all where they were.
 
 ### THE FIGURES THESE TEN DAYS DID NOT TAKE, AND THE INSTRUMENTS THAT CAME BACK CLEAN
 
@@ -425,5 +527,38 @@ edge of that board is still the thing washed once in the whole of the flood; (ii
 its sockets on day 827 by a hand no chapter prints, and may not be settled, and the three-whether-the-bar-is-in
 the-door question of days 826 and 827 is carried exactly as the plan carries it, with §9 item 6 whole on 826,
 the map's business whole on 827, and no reconciliation printed on either.**
+
+**AND ONE DEBT THIS BATCH DID NOT KNOW IT HAD, WHICH THE REVIEW-FIX PASS FOUND BY MEASURING: THE §17.17
+TWO-OF-TEN CEILING IS OVER IN THE TWO CLOSED WINDOWS OF THIS VOLUME AND IS NOT OVER IN THIS ONE.** Counted
+closings in 0801 to 0810 are four and in 0811 to 0820 are five, and the worst window of any ten across the
+volume's thirty chapters runs from 0812 to 0821 with five. Every one of those files belongs to a batch already
+closed and neither of their batch records carries a count, and closing them would mean re-planning closing beats
+that were written before the chapters were. **It is owed by the Volume 17 close and not by any batch, and the
+count and the reading are published above so that the close phase does not have to re-derive them.**
+
+---
+
+## THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. THE FILE OF RECORD IS `reviews/volume-17/batch-0003.md`
+
+**This pass read `logs/batch-0003.review.log` and repaired against it. The review was run by the same agent kind
+that wrote the chapters — line 1 of that log reads `agent "novel-reviewer" is a subagent, not a primary agent.
+Falling back to default agent` — and this repair pass is the same agent kind again, so it declares that here and
+in that review file rather than claiming an independence it does not have.**
+
+**SIX SENTENCES ACROSS FIVE CHAPTERS WERE REWORDED AND NOTHING ELSE IN ANY CHAPTER WAS TOUCHED.** No chapter was
+restarted, reordered or rewritten; no card was re-planned; no day, weekday, Bare-Month ordinal, cast member,
+object, decision, cost, held string, pressure tag or plot beat moved; no panel was spent; no controller file was
+opened or edited; no marker file was created or removed; and no phase, prompt or directory was created. **The
+six are: 0821's the talk coming back and 0821's closing, 0822's wheel, 0826's board, 0827's opening and 0828's
+opening.** Chapter 0825 was not edited at all, because the one convention the review found there — a speech
+paragraph holding no words — is `outline/volume-17.md` §6.6 working exactly as the plan says it must, and the
+repair for it is a line of record and not a line of prose.
+
+**THE FIGURES ABOVE WERE RE-RUN AFTER THE PASS AND THREE MOVED BECAUSE THREE FILES CHANGED: words across the
+ten files 5,439 to 5,453, chapter length shortest 448 to 447, and the bolded share 4.50% to 4.49% over the same
+245 bolded words.** Paragraph count 101, speech 26, free-standing narration 75, the zero column, the eleven
+§16.14 words, digits, narrator frame, panels, separators, trailing newlines, titles and Adrian Vale were re-run
+and did not move. **The batch record's earlier claim that not one of these ten closings was a statement that
+nothing changed was false, was never measured, and is withdrawn above in favour of the measured count of two.**
 
 **THE NEXT PHASE IS `workspace/volume-17/batch-0004/PROMPT.md` AND NOTHING ELSE.**

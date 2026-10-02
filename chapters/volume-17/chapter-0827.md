@@ -1,6 +1,6 @@
 # Chapter 0827 — The Light Came Back Up The Stair
 
-The man of about twenty-seven set his bucket down on the flags at the foot of that stair and put his hand flat on the stone of the bottom step and left it there, and the light stopped short of the bottom step and did not come past his hand.
+The man of about twenty-seven left his bucket standing on the flags at the foot of that stair and put the flat of his right hand on the stone of the bottom step, and the light stopped short of the bottom step and did not come past his hand.
 
 It was the fourth hour on the five hundred and twelfth day of the Bare Month, a Tuesday. That door had been standing shut at the foot of that stair since before the light had come on that market, and the iron was in its sockets on the far side of it, and nobody in the room over that market knew any part of that. The man of about twenty-seven picked his bucket up and went on up the paving with it. Above him the keeper turned a leaf at the near end of the bench, and the man of about thirty-four was at the far end of it with the bare back of his own board turned out into the room.
 

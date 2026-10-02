@@ -17,3 +17,10 @@ the absent `outline/volume-03.md` recorded in the terms of the Volume 05 precede
 EPUBs confirmed against the build history, and three findings of the review that were faults in its own
 instruments — including one that would have rewritten ten chapter openings that already satisfied the
 plan.
+
+**Volume 17** — `volume-17/batch-0003.md`: a twelve-word run reported by the review and a thirty-word run
+it did not report, both in the same batch; the undocumented convention of the day-825 decision published
+rather than edited; §17.17's closing ceiling counted for the first time in this volume, one closing reworded,
+and the same count showing the ceiling already breached in both closed windows; the state layer compacted a
+fourth time with the honest figure published; three published figures corrected in place and one internal
+contradiction in the batch record found; and two heads of the state layer lying again and corrected.

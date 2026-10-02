@@ -3,10 +3,8 @@
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-**EVERY EARLIER BLOCK IS AT `state/archive/character-state.md.volume-17-batch-0003-full.md`, a complete
-byte-for-byte copy of this file before this compaction — including the block on days 801 to 810 and the
-review-repair block on Chapters 0811 to 0820 — and behind that at
-`state/archive/character-state.md.volume-17-batch-0002-full.md`,
+**EVERY EARLIER BLOCK IS AT `state/archive/character-state.md.volume-17-batch-0002-full.md`, a complete
+byte-for-byte copy of this file before this compaction, and behind that at
 `state/archive/character-state.md.volume-13-through-volume-15-batch-0005-full.md`,
 `state/archive/character-state.md.volumes-01-to-12.md`,
 `state/archive/character-state.md.volume-13-batches-0001-to-0004-full.md` and
@@ -14,17 +12,15 @@ review-repair block on Chapters 0811 to 0820 — and behind that at
 The compaction moved text and changed no record: no descriptor, no age, no number, no place and no name
 moved, and no standing disagreement was settled.**
 
-**This file has now been compacted four times, for the same reason and by the same convention: after a
+**This file has now been compacted three times, for the same reason and by the same convention: after a
 review found it carrying, word for word, a layer of superseded per-batch history that no writer could
-read and no batch could afford to load, and after two of those compactions were undone by the appending
-that followed them. A phase that appends to this file is expected to leave it smaller than it found it,
-or to say in its own record why not, and three passes have now said nothing about it and grew anyway.**
+read and no batch could afford to load. A phase that appends to this file is expected to leave it
+smaller than it found it, or to say in its own record why not.**
 
 **THE PEOPLE BELOW ARE THE STANDING CAST WITH THE SECOND HANDLE EACH ONE CARRIES, AND THE HANDLES ARE
-THE SAME IN EVERY CHAPTER THAT PERSON IS IN; the two Volume 17 batch blocks on the foot carry what days
-811 to 830 did to them, and what days 801 to 810 did is in the archive and in
-`state/batch-summaries/volume-17-batch-0001.md`. The people Volume 16 carried are in
-`state/volume-16-close.md`, which is that volume's canonical record, and not here.**
+THE SAME IN EVERY CHAPTER THAT PERSON IS IN; the two Volume 17 blocks on the foot carry what days 801
+to 820 did to them. The people Volume 16 carried are in `state/volume-16-close.md`, which is that
+volume's canonical record, and not here.**
 
 ## THE PROTAGONIST
 
@@ -146,6 +142,84 @@ WOMAN.**
 
 ---
 
+# WHAT THE FIRST TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
+or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
+unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days.**
+
+**THE MAN OF ABOUT THIRTY-NINE — in all ten, and the only one of the ten days he does something on.** On day
+801 his hand finds the iron on the top step before his boot is on it and he looks down the open length of that
+stair and asks one question at the near end and is told the keeper does not come down it till the tenth hour.
+On day 807 he says, once, in the ordinary course, that anybody who wants to be in the room when the bar is
+settled should be in the room, and that he is not going to say it twice, and nobody answers him and about four
+seconds go by. On day 808 his words go about the market in three shapes and come back changed. **HIS STATE AT
+DAY 810: board face in against the near leg, hands in his coat, the bare place at the foot of the middle column
+unasked about, and he is not in that room on any of the heavy days of this volume because none of them is in
+these ten.**
+
+**THE WOMAN OF ABOUT FIFTY-TWO — at the foot of that stair, before the light is on the flags, on day 803.** She
+came down at the fourth hour, put her right hand flat on the outer face of the door at the height of her own
+hip, put her fingers through into the two sockets, wiped her hand down the front of her dress and stood. She
+moved a pace for one person going past and a second pace for the next, which took her out onto the flags clear
+of the step where anybody coming up could see her standing there with nothing in her hands. The man of about
+thirty-eight stopped his barrow and neither of them said anything. She went up and nobody in that room said one
+word to her about the hour she had spent at the bottom of it. **She washed her hand at the sixth hour, the
+chalk came off it, the lines of her palm stayed white in the creases of it for the rest of that morning, and
+she put that hand in her apron pocket and did not take it out again. NO CHAPTER SAYS WHY SHE GOES AND NO MOUTH IN
+ANY OF THESE TEN DAYS ASKS HER, and that is §7.2's row and it held.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN — said nine words on day 804 and cleared himself.** He had been in that room
+fourteen mornings earlier, standing with a full bucket, and had said that the door shut from the inside, and
+about four of the people along that bench had heard him and said nothing then. **On day 804 he said he had never
+had that bar in his hands. Nobody asked him a second question, nobody improved on one word of it, and nothing in
+that room was done with it. HE WAS ASKED NOTHING ON ANY OTHER OF THE TEN DAYS, and his bucket was carried to the
+yard at the near end of the flats and set in the low place in the stone at the side of that yard, which is the
+one place this batch gives it.**
+
+**THE MAN OF ABOUT THIRTY-FOUR — his hand did not go into his pocket.** A rate on his board wanted a day put
+against it on day 806 and the day was not put there. The man of about thirty-nine stood at the back of his
+trestle looking at the face of the board and said nothing about it and went on. **On day 809 Adrian Vale asked
+him from a market step whether the lid of the box of chalk had ever shut and he said it had not in his time and
+went on up the paving without stopping. On day 810 he tipped the trough at the top of the market step himself
+and did not say so and nobody in that row asked him why. HIS CHALK IS IN HIS INSIDE BREAST POCKET AND IT HAS
+NOT BEEN OUT, AND THE VOLUME'S ONE DAY FOR IT IS 837.**
+
+**THE MAN OF ABOUT THIRTY-ONE — offered, and did not carry.** On day 802 he offered, in an ordinary way, to
+carry the bar down that stair and set it where it had been, and was not taken up on it, and said nothing
+either, and took his hand off the strap and put it back on the strap. **On day 805 a hand carried the bar down
+that stair and back up again and the chapter does not print whose, and he stood at the far end with his hands
+open and did not say that he had done it, and nobody asked him.** His satchel stayed under his arm with its
+flap down at every hour of all ten days and was not opened and no chapter says why he opens nothing he carries.
+
+**THE MAN OF ABOUT THIRTY-EIGHT — said nothing at all, on the morning that mattered.** He came up the paving on
+day 803 with his barrow, stopped short of her, set his hands down on the handles, looked at her, and after a
+moment lifted the barrow again and went on past her and up the row. **The board lying face up on the stack at
+the salt wharf was not wiped, not turned and not gone near on any of the ten days and there is no third line of
+grit on it.** On day 808 he was at the far end of the market row with two other men and one of them was wrong
+about where a sentence had come from.
+
+**THE WOMAN OF ABOUT TWENTY-NINE, THE KEEPER — asked nothing and answered one question.** She turned a leaf at
+the fourth hour on nine of the ten days. On day 801 the decider asked her, at the near end of the bench,
+whether the door had been shut on Friday, and she said she did not know and did not come down that stair till
+the tenth hour. **On day 806 she told the man of about thirty-nine that a rate on his board had been copied
+twice out of the same hand and once out of a different one and he said that was the way it had always been
+copied and he would not be changing it at that hour. THE BOOK CARRIES NO SIXTH FIGURE, THE SECOND SLATE WAS
+NEVER PICKED UP, TURNED OVER OR WRITTEN ON, AND NO CHAPTER OF THESE TEN ASKS HER WHAT THE BOOK IS FOR.**
+
+**ADRIAN VALE — in one of these ten and in no other: 0809.** His hands on the lid of a box of chalk at the top
+of a market step, to have that lid shut so the chalk in it would not be walked off that step, **not obtained**;
+the cause of a man with a full bucket turning out into the trestles, setting the bucket down on the flags, going
+round the wide side, coming back for it, and leaving two flags wet that were dry at the fourth hour. Thanked by
+nobody, told nothing, useful to nobody, with nobody waiting for him to be useful. Stage 2 on all ten days, no
+working, no threshold, the other world not named once, `passage` and `privilege` at zero, and he is not on that
+stair on the last seven mornings of the volume for a reason at `outline/volume-17.md` §6.9 that this batch does
+not reach.
+
+---
+
+---
+
 # WHAT THE SECOND TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
 
 **NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
@@ -190,6 +264,48 @@ days.**
 **ADRIAN VALE — in none of these ten and in no other of them: 0 of 10.** For ten consecutive chapters nobody
 in this manuscript is in that room who could open a threshold. Stage 2 on all ten days, no working, no
 threshold, the other world not named once, `passage` and `privilege` at zero.**
+---
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0811 TO 0820. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**This pass read `logs/batch-0002.review.log` and repaired against it. The file of record is
+`reviews/volume-17/batch-0002.md`. The review was run by the same agent kind that wrote the chapters —
+line 1 of that log reads `agent "novel-reviewer" is a subagent, not a primary agent. Falling back to
+default agent` — and this repair pass is the same agent kind again, so it declares that here rather
+than claiming an independence it does not have.**
+
+**FOUR SENTENCES IN TWO CHAPTERS WERE REWORDED AND NOTHING ELSE IN ANY CHAPTER WAS TOUCHED.** No card
+was re-planned; no day, weekday, Bare-Month ordinal, cast member, object, decision, cost, held string
+or plot beat moved; no panel was spent; no chapter was restarted, reordered or reworded beyond those
+four sentences; no controller file was opened or edited; no marker file was created or removed; and no
+new phase, prompt or directory was created. Chapters 0813 and 0815 were not edited at all.
+
+**THE FIGURES IN THE BATCH 0002 BLOCK ABOVE WERE CORRECTED IN THE BATCH RECORD BECAUSE THE PASS
+CHANGED THE FILES THEY WERE MEASURED ON: words across the ten files 3,173 to 3,182 and the bolded
+share 4.57% to 4.56%. Every other figure in that block stands and was re-run after the pass.** That
+is §17.11(vi) — a published figure that is no longer the figure is the same failure as a wrong count.
+
+**THE STATE LAYER WAS COMPACTED AND NOTHING WAS DELETED.** Each of the five live state files was copied
+whole into `state/archive/` first and the copies were verified byte-for-byte before anything was
+removed. This file went from 15,354 words to 2,954; `continuity.md` from 17,370 to 4,306;
+`open-threads.md` from 20,942 to 2,865; `character-state.md` from 23,484 to 3,842; and
+`chapter-summaries.md` from 20,849 to 1,985. **The five together went from 98,000 words to 15,952,
+which is the finding the review called the largest of its actionable ones and the direct cause of the
+batch being written at a third of the volume's word count.**
+
+**THE HEAD OF THIS FILE WAS LYING AND IT IS CORRECTED IN PLACE.** It said *VOLUME 16 IS IN PROGRESS…
+THIRTY CHAPTERS OF THE FIFTY ARE WRITTEN* and pointed at `workspace/volume-16/batch-0004/PROMPT.md`,
+which was completed a volume and a half ago. **Volume 16 is closed, Volume 17 has twenty chapters on
+disk, and the next phase is Batch 0003.** The same stale pointer was corrected in
+`state/chapter-summaries.md`, which named Volume 15 Batch 0005 as the block that mattered to the
+current phase.
+
+**AND ONE STANDING CLAIM IN THE BLOCKS ABOVE IS NOW OUT OF DATE, BECAUSE THIS PASS PAID PART OF IT.**
+Those blocks record, four times, that `reviews/volume-17/` does not exist and that the review dispatch
+falls back to the writer's own agent. **`reviews/volume-17/batch-0002.md` exists as of this pass and
+declares the fall-back in its first lines. `reviews/volume-16/` still does not exist, and the
+independence debt is unpaid for that volume and for every volume before it.**
+
 ---
 
 # WHAT THE THIRD TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
@@ -255,45 +371,3 @@ standing in the water while the run-off went back into it. Thanked by nobody, to
 with nobody waiting for him to be useful. Stage 2 on all ten days, no working, no threshold, the other world
 not named once, `passage` and `privilege` at zero, and he is not on that stair on the last seven mornings of the
 volume for a reason at `outline/volume-17.md` §6.9 that this batch does not reach.
-
----
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**This pass read `logs/batch-0003.review.log` and repaired against it, and the file of record is
-`reviews/volume-17/batch-0003.md`. NOTHING ON THE PEOPLE CHANGED: no descriptor altered, no age moved, no
-trade changed, no second handle added or removed, no name given and no name spoken, nobody got stronger, and
-Tamsin Quill is at zero across the ten days. Six sentences in five chapters were reworded and no mouth was
-given or taken a word.**
-
-**AND THE ONE FACT ABOUT THE HANDLES THAT THIS PASS LEARNS BY MEASURING, WHICH A NEXT WRITER NEEDS AND WHICH
-THE BATCH RECORD ALSO CARRIES: THE HANDLES IN THE STANDING CAST ABOVE ARE WHY NINE SHARED RUNS SURVIVE IN
-THESE TEN FILES, AND THEY ARE NOT REWORDED.** The longest run of consecutive words any two of days 821 to
-830 share is now twenty words, and it is the woman of about fifty-two at the side of that bench with her
-hands at the sides of her dress, which appears in ten of the volume's thirty files and in three of these ten;
-the others are the man of
-about thirty-four's hollow, the one window and the bench wood, the keeper at the near end with the register
-on the shelf behind her, the man of about thirty-nine saying a thing into the middle of that floor that
-nobody asked him for, the man of about thirty-one going up and down that stair, and the man of about
-thirty-four at the far end. **The thirty-word run that this pass reworded was not a handle — it was two
-chapters repeating one man's whole arrival — and that is the distinction: a handle is prescribed and a
-repeated action is a fault.**
-
-**AND ONE CONVENTION ABOUT A MOUTH, PUBLISHED SO IT IS NOT INHERITED UNEXPLAINED. On day 825 the man of
-about thirty-nine says the volume's one decision and the line stands as a bolded, quoted dash holding no
-words.** No later chapter may resolve it, put words behind it, paraphrase it, count it, or have any mouth in
-that room say what he said that day. **His chalk stayed in the inside breast pocket on all ten days and his
-hand did not go into that pocket at any hour, and the volume's one day for it is 837.**
-
-**AND ADRIAN VALE IS IN ONE OF THESE TEN AND IN NO OTHER AND HE FAILED IN IT.** His hands were in the water
-standing in a hollow of the flags at the side of that yard at the near end of eleven miles of flats and he
-wanted it dry before a barrow came down it, published `no`, and he is the cause of a wheel going into that
-hollow and of the near end of a load of boards standing in the water. Thanked by nobody, told nothing, useful
-to nobody, with nobody waiting for him to be useful. **The pass made one thing about that day clearer and
-changed nothing in it: the wheel that had been running wide of the hollow is now named as the wheel that came
-down into it, so the mechanism of what he caused reads clean.**
-
-**THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT TO
-`state/archive/character-state.md.volume-17-batch-0003-full.md`, UNDELETED AND VERIFIED BY SHA256 BEFORE
-ANYTHING WAS REMOVED.** What stays is the standing cast with its handles, the handles that are not people, the
-standing disagreements, the two newest batch blocks and this block.

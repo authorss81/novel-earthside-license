@@ -40,6 +40,21 @@
 
 **A CARRIED THREAD YOU DO NOT RESOLVE AND DO NOT REOPEN.** Nobody knows who lifted the iron out of its sockets on day 827 and wiped it and set it back down on the top step, and no chapter may say, guess, ask about or report it. Nobody knows why the woman of about fifty-two stands at the foot of that stair, and no mouth may ask her and no chapter may say why. No chapter may date any morning of the fifty.
 
+**THREE THINGS THE REVIEW OF THE BATCH BEFORE THIS ONE FOUND, AND ALL THREE BIND YOUR TEN DAYS.** (i) **The
+day-825 decision stands on the page as a bolded, quoted line holding no words, and it is not a placeholder.** No
+chapter of your ten may resolve it, put a word behind it, paraphrase it, count it, print the figure seven, say
+how many words it was, or have any mouth say what he said that day — and a card for day 833, 838 or any other
+that wants a room to have heard something on the Sunday may not have it come from that line. (ii) **§17.17's
+two-of-ten ceiling on closings that state nothing changed is binding and the window is tight.** Counted in days
+821 to 830 are two, and 0820 counts beside them, **so not one of days 831 to 834 may close on a statement that
+nothing changed**, and the reading and the per-chapter rulings are at
+`state/batch-summaries/volume-17-batch-0003.md`. (iii) **A census handle is not a duplication.** The longest run
+of consecutive words any two of days 821 to 830 now share is twenty words, and it is the woman of about
+fifty-two at the side of that bench with her hands at the sides of her dress, which stands in ten of the
+volume's thirty files; **reword the sentence around a handle and never the handle itself**, because a census
+that changes its wording is a census that cannot be counted, and the instrument that finds these runs is the
+one the volume publishes at `reviews/volume-17/batch-0003.md` §2.1.
+
 ## WHAT YOU DO AT THE END, IN THIS ORDER
 
 1. Write cards and record to `state/batch-summaries/volume-17-batch-0004.md` with every figure carrying reading and scope.

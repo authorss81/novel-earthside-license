@@ -14,7 +14,7 @@ At about the sixth hour the man of about thirty-nine looked down the length of t
 
 **"There was,"** the woman of about fifty-two said, without turning round.
 
-Nobody improved on that and nobody argued with it. The keeper turned a leaf. The man of about thirty-four turned his hollow over and set it down on his knee the other way up, and the talk came back in about four seconds on a rate that wanted settling and a trestle leg at the far end of that market, and nobody said one word about where a stool had gone.
+Nobody improved on that and nobody argued with it. The keeper turned a leaf. The man of about thirty-four turned his hollow over and set it down on his knee the other way up, and inside about four seconds the talk was back on a rate that wanted settling and on the weather, and nobody said one word about where a stool had gone.
 
 At about the seventh hour a man came up that stair and stopped just inside that door and looked along the bench for somewhere to sit, and the far end of it was full, and he put his hand flat on the wood at the near end for a moment and took it off again and went back down. He did not go into the corner and he did not say anything about the corner. Nobody asked him what he had come up for.
 
@@ -22,6 +22,6 @@ The light came off the bench wood before the ninth hour and went onto the wall a
 
 ---
 
-The flags at the side of that bench kept the damp shape of where that stool had stood, and at the tenth hour the shape was still on them.
+The flags at the side of that bench kept the damp shape of where that stool had stood, and the damp at the edge of that shape had begun to go off the stone before the tenth hour and the shape itself was still on them.
 
 

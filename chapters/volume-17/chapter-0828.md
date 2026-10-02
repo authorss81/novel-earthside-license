@@ -1,6 +1,6 @@
 # Chapter 0828 — Nobody In That Room Asked Him
 
-The man of about thirty-nine came up that stair with his board under his arm and stood it against the leg of the bench at the near end and turned his right hand over and looked at the palm of it and wiped it on his coat and put it back on the face of the board.
+The man of about thirty-nine was already at the near end of that bench with his board stood up against the leg of it and the face of it out, and he turned his right hand over, looked at the palm of it, wiped it on his coat and put the hand back on the face of the board.
 
 It was the fourth hour on the five hundred and thirteenth day of the Bare Month, a Wednesday. The light was on the near end of that bench and got a little further along the wood than it had the morning before, and the keeper was at the near end with the register on the shelf behind her, and the woman of about fifty-two was at the side of that bench with her hands at the sides of her dress, and the man of about thirty-four was at the far end with the chalk in his inside breast pocket and both his hands on his hollow.
 

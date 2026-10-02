@@ -4,27 +4,23 @@
 is currently carrying is named here with its state. It does not carry a per-batch history that no
 writer can read.**
 
-**EVERY EARLIER BLOCK IS AT `state/archive/open-threads.md.volume-17-batch-0003-full.md`, a complete
-byte-for-byte copy of this file before this compaction — including the block on days 801 to 810 and the
-review-repair block on Chapters 0811 to 0820 — and behind that at
-`state/archive/open-threads.md.volume-17-batch-0002-full.md`,
+**EVERY EARLIER BLOCK IS AT `state/archive/open-threads.md.volume-17-batch-0002-full.md`, a complete
+byte-for-byte copy of this file before this compaction, and behind that at
 `state/archive/open-threads.md.volume-13-through-volume-15-batch-0005-full.md`,
 `state/archive/open-threads.md.volumes-01-to-12.md`,
 `state/archive/open-threads.md.volume-13-batches-0001-to-0004-full.md` and
 `state/archive/open-threads.md.volume-13-batch-0002-stale-redispatch-full.md`. Nothing was deleted. The
 compaction moved text and closed no thread, answered no question and withdrew no measurement.**
 
-**This file has now been compacted four times, for the same reason and by the same convention: after
+**This file has now been compacted three times, for the same reason and by the same convention: after
 a review found it carrying, word for word, a layer of superseded per-batch history that no writer could
-read and no batch could afford to load, and after two of those compactions were undone by the appending
-that followed them. A phase that appends to this file is expected to leave it smaller than it found it,
-or to say in its own record why not, and three passes have now said nothing about it and grown anyway.**
+read and no batch could afford to load. A phase that appends to this file is expected to leave it
+smaller than it found it, or to say in its own record why not.**
 
 **THE THREADS THE FIFTY DAYS OF VOLUME 15 LEFT OPEN ARE IN THE TABLE BELOW AND EVERY ONE OF THEM IS
-STILL OPEN; the Volume 17 batch blocks on the foot carry what days 811 to 830 opened on top of them, and
-what days 801 to 810 opened is in the archive and in `state/batch-summaries/volume-17-batch-0001.md`.
-The threads Volume 16 carried are in `state/volume-16-close.md`, which is that volume's canonical
-record, and not here.**
+STILL OPEN; the two Volume 17 blocks on the foot carry what days 801 to 820 opened on top of them. The
+threads Volume 16 carried are in `state/volume-16-close.md`, which is that volume's canonical record,
+and not here.**
 
 ## THE THREADS THIS MANUSCRIPT IS CARRYING AT THE END OF DAY 750
 
@@ -62,6 +58,59 @@ THREE.**
 
 ---
 
+# WHAT THE FIRST TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+
+**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0002/PROMPT.md`,
+WHICH WRITES CHAPTERS 0811 TO 0820 AND NOTHING ELSE. NO CHAPTER PAST 0810 EXISTS AND NO CHAPTER PAST 0810 IS TO
+BE WRITTEN BY ANY OTHER PHASE.**
+
+1. **SINCE WHICH MORNING THE BAR HAS BEEN OUT OF THAT DOOR. NEW, AND IT IS THE VOLUME'S CENTRE, AND IT IS NOT
+   ANSWERED BY ANY OF THESE TEN DAYS.** The decider asked one question on day 801 and was told the keeper does
+   not come down that stair till the tenth hour, and the narration supplies nothing. **A later volume may not
+   answer it before the resolution on day 845, and the resolution answers one morning of it and not the rest,
+   and no chapter may date the other forty-four.**
+2. **WHOSE HAND CARRIED THE BAR DOWN AND WHOSE HAND TOOK IT BACK UP ON DAY 805. NEW, AND IT IS NOT A MYSTERY IN
+   THIS MANUSCRIPT, IT IS A HAND, AND IT MAY NOT BE TRACED, GUESSED AT, OR REPORTED TO A ROOM BY ANY MOUTH IN
+   ANY CHAPTER OF THIS VOLUME.** **And whether the two were the same one is not settled and may not be.**
+3. **WHO FIRST SAID THE SENTENCE THAT WENT ABOUT THE MARKET ON DAY 807. NEW, AND ON DAY 808 THREE MEN COULD NOT
+   AGREE AND THE ROOM ABOVE NEVER HEARD IT SAID AT ALL, AND THAT IS THE CHAPTER.** **No chapter may trace it,
+   may ask any of the three men, or may say that the room above should have heard it.**
+4. **WHAT THE MAN OF ABOUT THIRTY-FOUR'S BOARD WOULD CARRY IF THE DAY WERE PUT AGAINST A RATE. NEW, AND
+   UNRESOLVED, AND THE CHALK THAT WOULD DO IT IS IN HIS INSIDE BREAST POCKET AND DOES NOT COME OUT UNTIL DAY
+   837.** **No chapter of days 801 to 836 may take it out and no chapter may say when it was last out.**
+5. **THE MAN OF ABOUT THIRTY-NINE'S OWN SENTENCE, WHICH HE SAID ONCE AND SAID HE WOULD NOT SAY TWICE. NEW, AND
+   NOBODY TOOK IT UP AND NOBODY ANSWERED IT, AND IT IS THE SENTENCE THAT PUTS ABOUT NINE PEOPLE IN THAT ROOM ON
+   DAY 825.** **A chapter of days 811 to 824 may not prepare day 825 and may not say what that room is going to
+   decide, and may not put the seven words of §6.6 into any mouth.**
+6. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
+   volume's own standing list at `outline/volume-17.md` §16. **THE QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK
+   OF DAY 440 IS NOT TRACED AND THIS IS THE NINTH VOLUME RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED
+   AT ANY VALUE. THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN NEW FILES AND IS NOT
+   RESTORED.**
+7. **THE THREE NEW DEBTS THE CLOSE BEHIND THIS ONE OWED AND THIS PHASE INHERITS: the pressure column at its
+   §1.3; the number of mornings at its §5 item 17; the two rows at `outline/volume-16.md` §4.1 and §20.2; and
+   the published panel figure against the block reading at its §3.** **AND TWO NEW ONES THAT ARE OURS: THE
+   CHALK ON THE OUTSIDE OF THAT DOOR IS WRITTEN FRESH EVERY MORNING BY A HAND NO CHAPTER NAMES, AND CHAPTER 0803
+   GETS CHALK OFF A WOMAN'S PALM, AND NO CHAPTER IN ANY VOLUME MAY NAME THE HAND; AND THE BOX OF CHALK ON THE
+   MARKET STEP IS THE ROOM'S AND NOT THE STALLHOLDER'S AND NO CHAPTER SAYS WHOSE IT IS.**
+8. **AND THE NAMED MATERIAL OF THE ENDING THAT IS ON NO PAGE OF THIS VOLUME, WHICH IS A DEBT AND NOT AN
+   OMISSION: the Charter of Two Worlds, the twelve civic seals, the assemblies on the Earth side, and the Crown
+   of Witnesses.** **THE ACT THAT `outline/ending.md` RESERVES TO THIS VOLUME IS ON A PAGE: day 843, a man comes
+   up that stair, names the cost out loud first in his own words, says one thing once, and is not on that stair
+   again for seven mornings. IT IS PAID. WHAT IS NOT PAID IS EVERYTHING THE WORD *CHARTER* STANDS FOR, AND IT IS
+   CARRIED AT `outline/volume-17.md` §21.4 AND `outline/series.md`'s Volume 17 block.**
+9. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
+   AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER.**
+10. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-17/` does not exist and the review
+    dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`
+    after sixteen volumes; and `NOVEL_SPEC.md`'s Status section publishes fifteen volumes and 750 chapter files
+    and ends its panel row at fifteen, where seventeen volumes is what will be on disk when this phase is marked
+    done. NONE OF THE THREE IS A FICTION FILE AND NONE WAS OPENED, EDITED OR WORKED AROUND.**
+
+---
+
+---
+
 # WHAT THE SECOND TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
 
 **AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0003/PROMPT.md`,
@@ -93,6 +142,48 @@ BE WRITTEN BY ANY OTHER PHASE.**
 7. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-17/` does not exist and the review
    dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`;
    and `NOVEL_SPEC.md`'s Status section is owed by a human. NONE WAS OPENED, EDITED OR WORKED AROUND.**
+---
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0811 TO 0820. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**This pass read `logs/batch-0002.review.log` and repaired against it. The file of record is
+`reviews/volume-17/batch-0002.md`. The review was run by the same agent kind that wrote the chapters —
+line 1 of that log reads `agent "novel-reviewer" is a subagent, not a primary agent. Falling back to
+default agent` — and this repair pass is the same agent kind again, so it declares that here rather
+than claiming an independence it does not have.**
+
+**FOUR SENTENCES IN TWO CHAPTERS WERE REWORDED AND NOTHING ELSE IN ANY CHAPTER WAS TOUCHED.** No card
+was re-planned; no day, weekday, Bare-Month ordinal, cast member, object, decision, cost, held string
+or plot beat moved; no panel was spent; no chapter was restarted, reordered or reworded beyond those
+four sentences; no controller file was opened or edited; no marker file was created or removed; and no
+new phase, prompt or directory was created. Chapters 0813 and 0815 were not edited at all.
+
+**THE FIGURES IN THE BATCH 0002 BLOCK ABOVE WERE CORRECTED IN THE BATCH RECORD BECAUSE THE PASS
+CHANGED THE FILES THEY WERE MEASURED ON: words across the ten files 3,173 to 3,182 and the bolded
+share 4.57% to 4.56%. Every other figure in that block stands and was re-run after the pass.** That
+is §17.11(vi) — a published figure that is no longer the figure is the same failure as a wrong count.
+
+**THE STATE LAYER WAS COMPACTED AND NOTHING WAS DELETED.** Each of the five live state files was copied
+whole into `state/archive/` first and the copies were verified byte-for-byte before anything was
+removed. This file went from 15,354 words to 2,954; `continuity.md` from 17,370 to 4,306;
+`open-threads.md` from 20,942 to 2,865; `character-state.md` from 23,484 to 3,842; and
+`chapter-summaries.md` from 20,849 to 1,985. **The five together went from 98,000 words to 15,952,
+which is the finding the review called the largest of its actionable ones and the direct cause of the
+batch being written at a third of the volume's word count.**
+
+**THE HEAD OF THIS FILE WAS LYING AND IT IS CORRECTED IN PLACE.** It said *VOLUME 16 IS IN PROGRESS…
+THIRTY CHAPTERS OF THE FIFTY ARE WRITTEN* and pointed at `workspace/volume-16/batch-0004/PROMPT.md`,
+which was completed a volume and a half ago. **Volume 16 is closed, Volume 17 has twenty chapters on
+disk, and the next phase is Batch 0003.** The same stale pointer was corrected in
+`state/chapter-summaries.md`, which named Volume 15 Batch 0005 as the block that mattered to the
+current phase.
+
+**AND ONE STANDING CLAIM IN THE BLOCKS ABOVE IS NOW OUT OF DATE, BECAUSE THIS PASS PAID PART OF IT.**
+Those blocks record, four times, that `reviews/volume-17/` does not exist and that the review dispatch
+falls back to the writer's own agent. **`reviews/volume-17/batch-0002.md` exists as of this pass and
+declares the fall-back in its first lines. `reviews/volume-16/` still does not exist, and the
+independence debt is unpaid for that volume and for every volume before it.**
+
 ---
 
 # THE SHAPE OF THESE CHAPTERS IS A DECISION AND NOT A DRIFT. NEWEST AND IT WINS.
@@ -179,41 +270,3 @@ BE WRITTEN BY ANY OTHER PHASE.**
 10. **AND THE TWO THINGS THE NEXT BATCH IS HANDED AND MAY NOT SPEND AND MAY NOT REHEARSE: the panel on day 837,
     whose wording is in the plan and on no page, and the second cost on day 840, which is named by the man
     whose own cost it is in his own mouth and is not on any page.**
-
----
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**This pass read `logs/batch-0003.review.log` and repaired against it, and the file of record is
-`reviews/volume-17/batch-0003.md`. The review was run by the same agent kind that wrote the chapters under
-it and this pass is that kind again. NO THREAD WAS CLOSED, ANSWERED OR WITHDRAWN, AND NO QUESTION WAS ASKED.**
-
-**THREE THREADS OPEN OR WIDENED BY THIS PASS, NONE OF THEM SETTLED.**
-
-11. **THE DAY-825 DECISION IS A LINE ON A PAGE WITH NO WORDS BEHIND IT, AND IT IS NOW A NAMED CONVENTION
-    RATHER THAN AN UNEXPLAINED ONE.** It stands as a bolded, quoted dash and nothing else. **A later chapter
-    may not resolve it, may not put any word behind it, may not paraphrase it, may not count it, may not
-    print the figure seven, may not say how many words it was, and may not have any mouth in that room say
-    what he said that day.** The wording is in `outline/volume-17.md` §6.6 and is on no page and not in this
-    file and not in the batch record. **If a later chapter needs that room to have heard something on day 825,
-    it may not be this line.**
-12. **THE §17.17 CLOSING CEILING IS OVER IN THE FIRST TWO TENS OF THIS VOLUME. NEW, AND IT IS OWED BY THE
-    CLOSE.** Counted closings in days 801 to 810 are four and in days 811 to 820 are five, and the count for
-    days 821 to 830 is two after one closing was reworded, and the worst window of any ten across the
-    volume's thirty chapters runs from day 812 to day 821 with five. **No chapter of days 831 to 840 may
-    push the rolling window up, and the count and the reading are published at
-    `state/batch-summaries/volume-17-batch-0003.md` so that the close does not re-derive them.**
-13. **THE REPEATED-SENTENCE RUN IN THE CHAPTERS, MEASURED AND NOW PUBLISHED, WITH THE NINE THAT REMAIN NAMED
-    AS FURNITURE.** The longest run of consecutive words any two of days 821 to 830 shared was thirty and is
-    twenty, and the twenty is the census handle for the woman of about fifty-two, which stands in ten of the
-    volume's thirty files and is prescribed by `state/character-state.md`. **A census that changes its wording
-    is a census that cannot be counted, so a next writer must not reword those handles to shorten a run, and
-    must reword the sentence around a handle instead, which is what this pass did.**
-
-**THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT TO
-`state/archive/open-threads.md.volume-17-batch-0003-full.md`, UNDELETED AND VERIFIED BY SHA256 BEFORE
-ANYTHING WAS REMOVED.** What stays is the thread table at day 750, the three shared sentences inside Volume
-15, the two newest batch blocks, the standing decision on the shape of these chapters, and this block.
-**The controller faults stand and were not touched: `state/phase-ledger.json` still reads
-`phase-000-bootstrap`, `reviews/volume-16/` does not exist, and `NOVEL_SPEC.md`'s Status section is owed by a
-human.**

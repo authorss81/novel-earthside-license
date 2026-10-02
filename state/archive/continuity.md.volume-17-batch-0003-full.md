@@ -3,10 +3,8 @@
 **This file carries the live layer only: where every standing object in the world stands, and the
 figures that hold. It does not carry a per-batch history that no writer can read.**
 
-**EVERY EARLIER BLOCK IS AT `state/archive/continuity.md.volume-17-batch-0003-full.md`, a complete
-byte-for-byte copy of this file before this compaction — including the block on days 801 to 810 and the
-review-repair block on Chapters 0811 to 0820 — and behind that at
-`state/archive/continuity.md.volume-17-batch-0002-full.md`,
+**EVERY EARLIER BLOCK IS AT `state/archive/continuity.md.volume-17-batch-0002-full.md`, a complete
+byte-for-byte copy of this file before this compaction, and behind that at
 `state/archive/continuity.md.volume-13-through-volume-15-batch-0005-full.md`,
 `state/archive/continuity.md.volumes-01-to-12.md`,
 `state/archive/continuity.md.volume-13-batches-0001-to-0004-full.md` and
@@ -14,18 +12,16 @@ review-repair block on Chapters 0811 to 0820 — and behind that at
 compaction moved text and changed no record: no state was reversed, no object moved in the world, and
 no figure was withdrawn.**
 
-**This file has now been compacted four times, for the same reason and by the same convention: after a
+**This file has now been compacted three times, for the same reason and by the same convention: after a
 review found it carrying, word for word, a layer of superseded per-batch history that no writer could
-read and no batch could afford to load, and after two of those compactions were undone by the appending
-that followed them. The figures for any earlier batch are in
+read and no batch could afford to load. The figures for any earlier batch are in
 `state/batch-summaries/`, one file per batch, and the day-by-day states for any earlier batch are in
 the archive. A phase that appends to this file is expected to leave it smaller than it found it, or to
-say in its own record why not, and three passes have now said nothing about it and grown anyway.**
+say in its own record why not.**
 
 **THE STATES BELOW ARE THE DAY-750 STANDING POSITION AND THEY ARE STILL THE STANDING POSITION; the two
-Volume 17 batch blocks on the foot carry what days 811 to 830 did to them, and nothing in this volume
-has reversed a state set before day 800. What days 801 to 810 did is in the archive and in
-`state/batch-summaries/volume-17-batch-0001.md`.**
+Volume 17 blocks on the foot carry what days 801 to 820 did to them, and nothing in this volume has
+reversed a state set before day 800.**
 
 ## THE STATES THE FIFTY DAYS OF VOLUME 15 LEFT EVERYTHING IN, AND ALL OF THEM HOLD AT DAY 750
 
@@ -165,6 +161,70 @@ has reversed a state set before day 800. What days 801 to 810 did is in the arch
 
 ---
 
+# WHAT THE FIRST TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
+AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCKS ABOVE STAND.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+34. **THE BAR IS ON THE TOP STEP AND THE DOOR IS STANDING OPEN, AND THAT IS PAGE ONE OF THE VOLUME.** On day
+    801 the decider's hand finds the iron lying across the top step of that stair before his boot is on it, and
+    the door at the foot of that stair stands a hand's width off its frame. **The sockets are on the far side of
+    that door at the bottom of the stair and the iron is at the top of it, so the two are in different places on
+    the same morning, and every chapter of this batch says one and does not say the other in the same
+    sentence.** **NOBODY IN THAT ROOM CAN SAY SINCE WHICH MORNING THE IRON HAS BEEN OUT, AND ON DAY 801 THE
+    DECIDER ASKS ONE QUESTION AT THE NEAR END OF THAT BENCH AND IS TOLD THAT THE KEEPER DOES NOT COME DOWN THAT
+    STAIR TILL THE TENTH HOUR, and the narration does not supply a figure and no mouth does.**
+35. **THE MAN OF ABOUT TWENTY-SEVEN CLEARED HIMSELF OF IT IN NINE WORDS, ON DAY 804, AND FOUR PEOPLE HEARD HIM
+    SAY SOMETHING ABOUT THE SAME DOOR FOURTEEN MORNINGS EARLIER AND SAID NOTHING THEN.** **He said he had never
+    had that bar in his hands. Nobody asked him a second question and nobody improved on it and nothing in that
+    room was done with it. THE FACT IS SPENT AS A FACT AND IT RESOLVES NOTHING.**
+36. **THE IRON WENT DOWN THE STAIR AND CAME BACK UP, ON DAY 805, AND NO CHAPTER PRINTS WHOSE HAND DID EITHER.**
+    It went down end first and was turned twice in the turn; the door shut for the better part of two hours and
+    the light on the flags stopped at the step; at about the seventh hour a hand took it out again and it lay on
+    the top step by the tenth. **The chapter does not say whether the hand that put it in and the hand that took
+    it out were the same one, and the plan does not, and neither may be settled by a later chapter.**
+37. **A SENTENCE EXISTS IN THIS CITY THAT DID NOT EXIST ON THE MORNING BEFORE, AND IT WENT ABOUT THE MARKET
+    WITHOUT COMING BACK UP THE STAIR.** Said once on day 807 by the man of about thirty-nine, to nobody in
+    particular, in the ordinary course, with his own second sentence that he was not going to say it twice. **On
+    day 808 it is said twice at the market row in two shapes and a third man puts his own version on it and is
+    wrong about where it came from, and by the tenth hour the three of them cannot say which of them heard it
+    first, and nobody at the top of that stair heard one word of any of it.**
+38. **ADRIAN VALE FAILED ON A LID AND WETTED TWO FLAGS.** Chapter 0809: the lid of a box of chalk at the top of
+    a market step, which has never shut in the man of about thirty-four's time, was not shut; a man with a full
+    bucket had to turn out into the trestles, put the bucket down on the flags, go round the wide side, come
+    back for it, and leave two flags wet that were dry at the fourth hour. **Published `no`. Nobody thanked him,
+    nobody told him he was right, and nobody in that row was waiting for him to be useful.**
+39. **THE CHALK IN THE INSIDE BREAST POCKET DID NOT COME OUT ON ANY OF THESE TEN DAYS, AND NO CHAPTER OF THESE TEN
+    MAY SAY WHEN IT WAS LAST OUT.** There is a rate on the man of about thirty-four's board that wants a day put
+    against it and the day was not put there and his hand did not go into the pocket at any hour of that
+    morning. **The volume's one day for that chalk is 837 and this batch does not reach it.**
+40. **AND THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN FILES, IN NARRATION AND IN EVERY
+    MOUTH, AND THE RULE DOES NOT LAPSE.**
+
+**AND WHAT DID NOT MOVE: the register with five strokes and a day against each, none struck, no sixth, none
+taken out; the shaded form behind it on the same shelf never lifted by any hand but hers; the one word in the
+column on the right of that page, printed nowhere and asked about by nobody; the word on the shaded form,
+printed nowhere and set beside nothing; the bare piece of board under the date, which means nothing; the fence
+sixteen willow posts and eleven withies on the same cord, unmeasured, no post moved; the store's board wiped
+round three sets of figures with no line of words under any of them; the chalk-box lid ajar at the same angle;
+the trough emptied on day 810 and standing dry; no notice, no document, no name, no new person, no new place,
+no panel, no stronger person, no answered question.**
+
+**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, word-bounded
+tokens with a hyphen and an apostrophe both delimiting, both file orders, ten files, days 801 to 810: 4,106
+words; chapter length 351 to 460; bolded share 4.77 per cent unweighted; titles four to seven words in 10 of
+10; eighty-seven paragraphs — thirteen speech, eleven lead-ins, sixty-three free-standing narration — with zero
+bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits in
+any body; zero month ordinals; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the
+eleven §16.14 words at 0; `player` at 0; `nine steps` at 0; Adrian Vale in 0809 and in no other; ten files of
+ten ending in a newline.**
+
+---
+
+---
+
 # WHAT THE SECOND TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
 
 **NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
@@ -219,6 +279,48 @@ bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits 
 ordinals; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the eleven §16.14 words
 at 0; `player`, `passage`, `privilege`, `nine steps` and `name, names, named` at 0; Adrian Vale in 0 of 10;
 ten files of ten ending in a newline.**
+---
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0811 TO 0820. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**This pass read `logs/batch-0002.review.log` and repaired against it. The file of record is
+`reviews/volume-17/batch-0002.md`. The review was run by the same agent kind that wrote the chapters —
+line 1 of that log reads `agent "novel-reviewer" is a subagent, not a primary agent. Falling back to
+default agent` — and this repair pass is the same agent kind again, so it declares that here rather
+than claiming an independence it does not have.**
+
+**FOUR SENTENCES IN TWO CHAPTERS WERE REWORDED AND NOTHING ELSE IN ANY CHAPTER WAS TOUCHED.** No card
+was re-planned; no day, weekday, Bare-Month ordinal, cast member, object, decision, cost, held string
+or plot beat moved; no panel was spent; no chapter was restarted, reordered or reworded beyond those
+four sentences; no controller file was opened or edited; no marker file was created or removed; and no
+new phase, prompt or directory was created. Chapters 0813 and 0815 were not edited at all.
+
+**THE FIGURES IN THE BATCH 0002 BLOCK ABOVE WERE CORRECTED IN THE BATCH RECORD BECAUSE THE PASS
+CHANGED THE FILES THEY WERE MEASURED ON: words across the ten files 3,173 to 3,182 and the bolded
+share 4.57% to 4.56%. Every other figure in that block stands and was re-run after the pass.** That
+is §17.11(vi) — a published figure that is no longer the figure is the same failure as a wrong count.
+
+**THE STATE LAYER WAS COMPACTED AND NOTHING WAS DELETED.** Each of the five live state files was copied
+whole into `state/archive/` first and the copies were verified byte-for-byte before anything was
+removed. This file went from 15,354 words to 2,954; `continuity.md` from 17,370 to 4,306;
+`open-threads.md` from 20,942 to 2,865; `character-state.md` from 23,484 to 3,842; and
+`chapter-summaries.md` from 20,849 to 1,985. **The five together went from 98,000 words to 15,952,
+which is the finding the review called the largest of its actionable ones and the direct cause of the
+batch being written at a third of the volume's word count.**
+
+**THE HEAD OF THIS FILE WAS LYING AND IT IS CORRECTED IN PLACE.** It said *VOLUME 16 IS IN PROGRESS…
+THIRTY CHAPTERS OF THE FIFTY ARE WRITTEN* and pointed at `workspace/volume-16/batch-0004/PROMPT.md`,
+which was completed a volume and a half ago. **Volume 16 is closed, Volume 17 has twenty chapters on
+disk, and the next phase is Batch 0003.** The same stale pointer was corrected in
+`state/chapter-summaries.md`, which named Volume 15 Batch 0005 as the block that mattered to the
+current phase.
+
+**AND ONE STANDING CLAIM IN THE BLOCKS ABOVE IS NOW OUT OF DATE, BECAUSE THIS PASS PAID PART OF IT.**
+Those blocks record, four times, that `reviews/volume-17/` does not exist and that the review dispatch
+falls back to the writer's own agent. **`reviews/volume-17/batch-0002.md` exists as of this pass and
+declares the fall-back in its first lines. `reviews/volume-16/` still does not exist, and the
+independence debt is unpaid for that volume and for every volume before it.**
+
 ---
 
 # WHAT THE THIRD TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
@@ -311,41 +413,3 @@ ordinals for a numbered month; zero narrator frame; zero panels; the thirty-five
 eleven §16.14 words at 0; `player`, `passage`, `privilege`, `nine steps` and `name, names, named` as a person
 or a verb at 0; Adrian Vale in 1 of 10 and in 0822 only; two separators in each of ten files; ten files of ten
 ending in a newline.**
-
----
-
-# THE REVIEW-FIX PASS ON CHAPTERS 0821 TO 0830. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**This pass read `logs/batch-0003.review.log` and repaired against it, and the file of record is
-`reviews/volume-17/batch-0003.md`. The review was run by the same agent kind that wrote the chapters under
-it and this pass is that kind again.**
-
-**NOTHING IN THE STANDING LIST MOVED, AND ALL SIXTEEN STILL STAND, AND ITEMS 41 TO 46 ABOVE STILL STAND
-TOO. Six sentences in five chapters were reworded and no state was reversed, no object moved in the world,
-no figure was withdrawn, no day was re-derived and no thread was closed by the rewordings.** The six are
-0821's the talk coming back, 0821's closing, 0822's wheel, 0826's board, 0827's opening and 0828's opening,
-and each of them says what it said before in another shape.
-
-**AND TWO CONTINUITY FACTS THIS PASS ADDED, BOTH OF THEM THINGS A NEXT WRITER WOULD OTHERWISE HAVE TO
-RE-DERIVE FROM THE CHAPTERS.** (i) **THE DAY-825 DECISION IS ON THE PAGE AS A BOLDED, QUOTED LINE HOLDING NO
-WORDS, and that is the whole of it.** It is not a placeholder and not a stage direction and no later chapter
-may put a word behind it, may have any mouth say what he said that day, may count it, or may print the
-figure seven; the wording is in `outline/volume-17.md` §6.6 and is on no page and not in this file. (ii)
-**§17.17's two-of-ten ceiling on closings that state nothing changed is over in this volume's first twenty
-days and not over in its third ten.** Counted closings in days 801 to 810 are four and in days 811 to 820 are
-five, and the count for days 821 to 830 is two, which is at the ceiling and not over it, and the reading and
-the per-chapter rulings are at `state/batch-summaries/volume-17-batch-0003.md`. **It is owed by the Volume 17
-close and not by any batch, and no chapter of days 831 to 840 may make the window worse than the reading puts
-it.**
-
-**THE FIGURES OF THE BLOCK ABOVE WERE CORRECTED IN IT AND IN THE BATCH RECORD BECAUSE THE PASS CHANGED THE
-FILES THEY WERE MEASURED ON: 5,439 words to 5,453, 5,337 out to 5,351 out, chapter length shortest 448 to
-447, and the bolded share 4.50 per cent to 4.49 per cent over the same 245 bolded words.** Paragraph count
-101, speech 26, free-standing narration 75 and every zero stand and were re-run. The spent figure of the
-volume behind this one is still at zero on all ten files in narration and in every mouth, no headcount of
-that room is printed on any of them, and from day 831 onward the rule binds the narrator as well.
-
-**THE VOLUME-17 BATCH 0001 BLOCK WENT TO `state/archive/continuity.md.volume-17-batch-0003-full.md` AND THE
-REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT WITH IT, UNDELETED AND VERIFIED BY SHA256 BEFORE ANYTHING
-WAS REMOVED.** What stays is the day-750 standing position, the figures that hold, the standing
-prohibitions, the two newest batch blocks and this block.
