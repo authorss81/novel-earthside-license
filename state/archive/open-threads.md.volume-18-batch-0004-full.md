@@ -4,12 +4,12 @@
 currently carrying is named here with its state. It does not carry a per-batch history that no writer can
 read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-18-batch-0004-full.md`,
-verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
-BEFORE THE BATCH 0004 PASS WROTE ITS OWN BLOCK IN PLACE OF THE BATCH 0003 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS
-0871 TO 0880, AND IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0004 BLOCK. THE COPY TAKEN BY BATCH 0003
-IS AT `state/archive/open-threads.md.volume-18-batch-0003-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER
-BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-18-batch-0003-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE
+BATCH 0003 PASS REPLACED THE BATCH 0002 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0861 TO 0870, AND IT HOLDS THOSE
+TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0003 BLOCK. THE COPY TAKEN BY BATCH 0002 IS AT
+`state/archive/open-threads.md.volume-18-batch-0002-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER BLOCK IS
+IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.****
 
 **THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
 SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
@@ -208,17 +208,17 @@ ANYTHING WAS REMOVED.** What stays is the thread table at day 750, the three sha
 human.**
 
 
-# WHAT VOLUME 18, BATCH 0004 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+# WHAT VOLUME 18, BATCH 0003 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
 
-**The pointer below is superseded by this one. The next phase is `workspace/volume-18/batch-0005/PROMPT.md`, which writes
-Chapters 0891 to 0900 and nothing else, and it is the last batch of this manuscript.** Chapters 0851 to 0890 are on
-disk. **No chapter past 0890 exists and no chapter of the eighteenth volume past 0890 exists.** This phase wrote ten
-chapters and closed no thread, answered no question, settled nothing and moved no thread out of this file. **Volume 17
-is closed; its seventeen open threads are listed in full at `state/volume-17-close.md` §6.1 and they all stand, and none
-of them may be closed by a batch, and this batch closed none of them.**
+**The pointer below is superseded by this one. The next phase is `workspace/volume-18/batch-0004/PROMPT.md`, which
+writes Chapters 0881 to 0890 and nothing else.** Chapters 0851 to 0880 are on disk. **No chapter past 0880 exists and
+no chapter of the eighteenth volume past 0880 exists.** This phase wrote ten chapters and closed no thread, answered no
+question, settled nothing, and moved no thread out of this file. **Volume 17 is closed; its seventeen open threads are
+listed in full at `state/volume-17-close.md` §6.1 and they all stand, and none of them may be closed by a batch, and
+this batch closed none of them.**
 
 **THE EIGHTEEN THREADS THE FIFTY DAYS OF VOLUME 17 LEFT OPEN, CARRIED WHOLE INTO VOLUME 18 AND ALL EIGHTEEN STILL
-STAND AFTER DAY 890.** The stool that went into a corner and came out and was rocked once; the door that stood shut on
+STAND AFTER DAY 880.** The stool that went into a corner and came out and was rocked once; the door that stood shut on
 833 and a room that said nothing; two people noticed not to have gone up on 812 and 832; the box on the market step and
 two owners' positions; the man who carried his board out of that room at the ninth hour of 838; the panel of 837, spent,
 on one page; the chalk, out of that pocket on one morning of the fifty days behind this one and back without being used;
@@ -226,86 +226,134 @@ the second cost of 840, paid and paying for nothing yet; the man who looked at t
 nobody either time; the act of 843 with both wordings on no page; the resolution of 845 with the morning itself on no
 page; the new question of 848, asked to one man and not answered, with no wording on any page; the last image of 850
 with no telling whether before; **the iron's morning out of its sockets, untraceable across fifty chapters and
-untraceable across the thirty the last two batches wrote; the mark of a boot in the dust on the outer edge of the top
-step, found on 859, not joined to any morning and not joined to the sound on the stair of 864 and not joined to the
-boot-mark on the leg of the stool found on 871; the bare piece of board standing off the door under the date;** why the
-woman of about fifty-two stands at the foot of that stair before the light is on the flags, which 884 touched again
-without settling; and the Bare Month, which this volume does not declare over either.
+untraceable across the thirty this batch wrote; the mark of a boot in the dust on the outer edge of the top step, found
+on 859, not joined to any morning and not joined to the sound on the stair of 864 and not joined to the boot-mark on the
+leg of the stool found on 871; the bare piece of board standing off the door under the date;** why the woman of about
+fifty-two stands at the foot of that stair before the light is on the flags, which day 879 touched without settling;
+and the Bare Month, which this volume does not declare over either.
 
-## THE EIGHT THAT THESE TEN DAYS TOOK UP AND DID NOT SETTLE, NAMED AS THREADS RATHER THAN AS ANSWERS
+**AND THE SIX THAT THESE TEN DAYS TOOK UP AND DID NOT SETTLE, NAMED AS THREADS RATHER THAN AS ANSWERS.**
 
 1. **THE SPACE ABOUT TWO FINGERS WIDE AT THE FOOT OF THE COLUMN BETWEEN THE OTHER TWO ON THE MAN OF ABOUT THIRTY-NINE'S
-   OWN BOARD.** It went out into the open on 875 with the rest of that face and **this batch did not print it, did not
-   describe it, did not count it, did not have anybody ask about it, did not have anybody answer about it, and did not
-   say whether it is one name or two.** Adrian Vale put both hands on that face on 881 and read the column from the top
-   to the foot and from the foot to the top and **what he got off it was rates with the rates in their places and the
-   paint of them hard under the wet, and no chapter of these ten days says what else was on that face or where his
-   reading stopped.** It has been a space for about nine years and it is a space for ten more days. It is not printed in
-   this file.
-2. **THE QUESTION THE MAN OF ABOUT THIRTY-NINE PUT INTO THE WALKING SPACE ON 881.** He said *you have not been out in
-   this* and the man who came up that stair on 866 did not answer it, and the man of about thirty-nine did not ask it a second time. **Nobody in
-   this batch answers it, nobody repeats it, nobody refers to it again after that morning, and it joins the family of
-   things said in this manuscript that a room let go of without settling.**
-3. **A SECOND PERSON FROM THE SAME SIDE AS THE MAN WHO CAME UP THAT STAIR, STANDING ON THE STEP BELOW THE TOP ONE.**
-   New on 883. **He has no descriptor, no age, no number and no name on any page of this batch, no mouth in that room
-   asked him one thing, no mouth dated his coming or said how long he had been there, he is not explained, he is not
-   merged with the man who came up that stair, and he is never in one room with him.** The man of about thirty-four went
-   up that stair and past him twice and said nothing either time, and the man who came up that stair on 866 was in the room the whole morning and did
-   not go down it.
-4. **ONE ROUND TRIP UP THAT STAIR WHERE TWO HAD BEEN, AND TWO SHAPES IN THE DUST OF THE SILL.** New on 884. **One trip
-   is on the page as a thing the room went on about, and the older of the two shapes in the dust is joined to nothing and
-   is dated to nothing, and no chapter of these ten days says which morning set it down.** The satchel was not opened at
-   any hour of that morning and no reason for it was given and nobody asked him for one, and the cost of 879 is paid
-   about it and pays for nothing yet.
-5. **A PLACE ABOUT THE MIDDLE OF ELEVEN MILES OF FLATS WHERE A BARROW WILL NOT GO OVER TWICE.** New on 885, on one page,
-   and the man of about thirty-eight at that salt wharf said in his own mouth that he has not told anybody else where it
-   is and is not going to. **No chapter of these ten days puts it anywhere else, no chapter counts how far round he came,
-   and the two hollows in the flags at the side of that yard are still joined to nothing.**
-6. **A KNOT IN THE WOOD OF THE FAR END OF THAT BENCH, AND A PRINT OF IT IN THE PAD OF A THUMB THAT DID NOT RUB OFF.** The
-   man of about thirty-nine has his thumb on it on 884, on 886 and on 890, and on 886 he found a print in the skin of his
-   own thumb which stayed there. **No chapter of these ten days dates the knot and no chapter says what it is.**
-7. **A MAN WHO CANNOT GET UP THAT STAIR WITHOUT TWO HANDS ON THE NEWEL.** New on 889. **Nobody in that room said why,
-   nobody asked him about it, the stallholder stood at the top of that stair the whole of it and then left the stair
-   alone, and no chapter of these ten days explains it.**
-8. **THE THING NO MOUTH IN THIS CITY CAN ASK HIM ANYTHING ABOUT, AFTER THE TENTH HOUR OF 890.** This is the plan's own
-   statement and the whole of what is on a page of it. **No chapter of days 881 to 890 says he is gone, says why, or has
-   anybody miss him out loud, and no chapter of days 891 to 900 may do any of those three things either.**
+   OWN BOARD.** It went out into the open on day 875 with the rest of that face and **this batch did not print it, did
+   not describe it, did not count it, did not have anybody ask about it, did not have anybody answer about it, and did
+   not say whether it is one name or two.** It has been a space for about nine years and it is a space for fifty more
+   days. **THE STRICTEST READING OF `outline/volume-18.md` §16.6 WAS TAKEN ON THE DAY THE FACE WENT OUT AND THE FACE
+   ITSELF WAS DESCRIBED ONLY AS CARRYING RATES WITH THE RATES IN THEIR PLACES, AND A REVIEWER WHO WANTS §14.3'S CELL
+   RENDERED ON THE PAGE WILL FIND IT IN §8 AND §14.3 AND NOT ON PAGE 0875.** It is not printed in this file.
+2. **A SATCHEL ON THE SILL OF THE ONE WINDOW WITH A MARK IN THE DUST UNDER IT.** New on day 879 and not dated to any
+   earlier morning, though the dust in the shape of it has clearly been kept pale for longer than one day. **He carried
+   it up that stair and down it and up it again that morning with the flap down and did not open it at any hour, and no
+   reason was given for that and nobody asked him for one.** The cost of 879 is paid about it and pays for nothing yet,
+   and no chapter of these ten says it was worth it.
+3. **A BOOT-MARK ON THE NEAR LEG OF THE STOOL AT THE SIDE OF THAT BENCH.** Found on 871 and joined to nothing: not to
+   the mark of day 859, not to the morning the bar came out of its sockets, not to any other morning. **No chapter of
+   these ten dates it and no chapter says whether it could be dated, and no mouth in that room said anything about it.**
+4. **A SHAPE THAT WAS SAID OUT LOUD IN THAT ROOM ON DAY 872 AND WENT ON NO SURFACE.** A thing said in a room, the same
+   thing written by somebody else, the second one read back. **Nobody settled how a day gets into that column, no such
+   thing exists in this city, it was not written down, not put on a surface, not laid beside another form and not
+   compared with another form, and the rate at the foot of the man of about thirty-four's own board wanted its day from
+   the middle of the week onward and has not got one.** It joins the family of questions this manuscript carries
+   unanswered and **nobody in that room says out loud that there is no way of settling it.**
+5. **A SENTENCE SAID THREE TIMES IN THE SAME WORDS IN ONE MORNING.** New on 874. **It is the sentence two men of that
+   row said in the same words on 870, and `outline/volume-18.md` §9 item 3 and §10 schedule it said again on 874, and
+   the third mouth on that morning was the man who came up that stair on Saturday.** Nobody in that room said they had
+   heard it before, nobody quoted anybody, nobody answered it, and nobody improved on one word of it. **The wording is
+   on two pages of this manuscript and on no other, and this file does not restate it and does not count the family of
+   sentences this manuscript has.**
+6. **A CRACK IN THE NEAR END OF THE TROUGH AT THE TOP OF THE MARKET STEP, GONE TO THE WIDTH OF A FINGER.** It came up in
+   that room on 866 and it is still letting water out of the end of it, and on 873 the water had cut a line in the dust
+   of the stone at the top of the step and the line was beginning to widen at the wood. **No piece of lead was fetched,
+   no heat was found, no mouth in that room said where either would be kept, and the man it belongs to fills his
+   bucket out of the far end of that trough anyway.**
 
-## AND WHAT THE TEN DAYS ADDED TO THE LIST OF THINGS THE VOLUME'S PLAN OPENS BY SCHEDULING, none of them closed
+**AND WHAT THE TEN DAYS ADDED TO THE LIST OF THINGS THE VOLUME'S PLAN OPENS BY SCHEDULING, none of them closed.** The
+decision of 875 is taken and **NOTHING WHATEVER WAS DONE ABOUT IT AT ANY HOUR OF 876, and about four people a day went
+past that row on 877 and some of them stopped and some of them did not and nobody in that row said the face was new and
+nobody asked the man it belonged to one thing about it.** The name said out loud on 878 is on no board, in no column, in
+no register and on no bare piece of board anywhere in this manuscript, **and it is not in this file.** The cost of 879
+is paid and paying for nothing yet.
 
-The decision of 875 is taken and **NOTHING WHATEVER WAS DONE ABOUT IT AT ANY HOUR OF ANY OF THE TEN DAYS, and about four
-people a day went past that row and some of them stopped and some of them did not, and nobody in that row said the face
-was new and nobody asked the man it belonged to one thing about it.** The panel of 886 is on one page and nowhere else.
-The name said out loud on 878 is on no board, in no column, in no register and on no bare piece of board anywhere in this
-manuscript, **and it is in narration on eight of these ten pages as a word for that man and it is not in this file.**
-The cost of 879 is paid and paying for nothing yet. **The act of 890 is paid and paid and it is in nobody's hands and on
-no page, and the three lines stand on that page holding no words, and no mouth in that room agrees or disagrees or
-improves on one word of it or thanks either man for it.** Milestone nine was paid on 888 as a refusal and no other
-milestone was paid.
+**AND THE THINGS THE PLAN GIVES TO LATER DAYS, WHICH NO CHAPTER OF DAYS 871 TO 880 MAY PREPARE. No chapter of these ten
+puts a name into anybody's mouth, may name the man who has not named himself, may turn that board face out on any day
+but the one it went out on, may move that door a hand's breadth again, may spend the panel, may measure the fence, and
+may reach for any word belonging to the other side. No chapter of these ten did any of those things. The panel of 886,
+the act of 890, the resolution of 893, the new question of 898 and the last image of 900 are all held at
+`outline/volume-18.md` §6.7 through §6.10 and printed nowhere, and no file this batch wrote prints any of them and no
+mouth in these ten days has one.**
 
-## THE THINGS THE PLAN GIVES TO THE LAST TEN DAYS, WHICH NO CHAPTER OF DAYS 881 TO 890 MAY PREPARE
+**CARRIED WHOLE AND UNPAID: the standing eighteen prohibitions of `outline/volume-18.md` §16, the figure the volume
+behind spent at zero and not restored, no headcount of that room on any day, the mark of day 440 untraced for the
+eleventh time running, the fourth of the four uncounted, the consent fracture unmended, the fifth condition not given,
+milestone nine paid on 888 as a refusal and no other milestone paid, nobody stronger, and `outline/ending.md` unmoved.**
 
-No chapter of these ten puts a name into anybody's mouth, names the man who has not named himself, or reaches for any
-word belonging to the other side. No chapter of these ten spends the panel again, moves that door a hand's breadth,
-puts the bar back in its sockets, lifts it out of the weather or says the morning it came out of them. No chapter of
-these ten writes on the bare board under the date, takes the chalk out of that pocket, picks up the second slate,
-measures the fence, moves a post or lifts the new rope. No chapter of these ten names a final antagonist, and **the final
-human antagonist of this manuscript is on days 894 and 895 and no name of his is on any page of these ten.** The
-resolution of 893, the name said out loud for a man from that side on 894, the two people and a door on 895, the new
-question of 898 and the last image of 900 are all held at `outline/volume-18.md` §6.11, §9 and §6.10, are printed
-nowhere, and **no file this batch wrote prints any of them and no mouth in these ten days has one.**
+**AND THE THINGS A HUMAN OWES. `reviews/volume-16/` does not exist and the review dispatch falls back to the writer's
+own agent, and **the five revisions this batch made to its own first writing were made by the agent kind that wrote the
+chapters, applied to the chapters that agent wrote, which is not independence.** Still open and still owed:
+`state/phase-ledger.json` reads `phase-000-bootstrap` after seventeen closed volumes and **is controller-owned and no
+phase may touch it**; `NOVEL_SPEC.md`'s Status section is stale; `bible/power-system.md` has no §65 for days 851 to 900;
+and `outline/series.md` has no DECISIONS OF RECORD block for Volume 18 and no mark on its Volume 18 entry. None of those
+four was opened by this batch and none is a fiction, chapter, outline, bible, summary, continuity, character or
+open-thread file that this phase was asked to write.
 
-## CARRIED WHOLE AND UNPAID
+**AND THIS PASS COMPACTED THE LIVE LAYER INSTEAD OF APPENDING TO IT.** All five live state files were copied whole into
+`state/archive/` as `<name>.md.volume-18-batch-0003-full.md`, verified against the live files by SHA256 before a line
+was removed, and the Volume 18 Batch 0002 block and the review-repair block on Chapters 0861 to 0870 were replaced in
+each by its Volume 18 Batch 0003 block. **No thread left this file in this pass that was not already gone, and none that
+stayed was edited as it was carried.** This is the ninth compaction of these five files.
 
-The standing eighteen prohibitions of `outline/volume-18.md` §16, the figure the volume behind spent at zero and not
-restored, no headcount of that room on any day, the mark of day 440 untraced for the eleventh time running, the fourth
-of the four uncounted, the three on the road with a barrow each given no elapsed figure, the woman who walked a market
-on no page, the consent fracture unmended, the fifth condition not given, no milestone but the one paid on 888, nobody
-stronger, and `outline/ending.md` unmoved.
+---
 
-## AND THE THINGS A HUMAN OWES
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0871 TO 0880 OPENED, AND WHAT IT DID NOT. NEWEST AND IT WINS.
 
-`reviews/volume-16/` does not exist and the review dispatch falls back to the writer's own record; the mean length of a
-chapter of this volume has come down over eighteen volumes and is set at the outline layer; and the debts
-`outline/volume-18.md` §21.4 carries are not repaired by a batch, among them the fact that the named material of
-`outline/ending.md` is on no page of this volume.
+**THE REPAIR CLOSED NO THREAD AND OPENED NO STORY THREAD. It carried three debts forward and it closed one thing that
+had been owed since Batch 0003 was written. Everything below that is marked OWED was already owed; the repair is
+recording, not starting.**
+
+## CLOSED BY THE REPAIR
+
+- **THE NAME WAS OWED ON A PAGE FROM DAY 879 AND WAS NOT ON ONE.** `outline/volume-18.md` §7.2 has said since before this
+  batch that the chapters call the man who came up that stair by the wet-sleeve handle until 878 and by his name from
+  879. `chapter-0879.md` was still using the handle on the first day it was owed. **It now carries the name once, in
+  narration. Closed, and the wording stays at §6.8 and on the chapter page and goes in no state file, no batch record,
+  no prompt and no summary.**
+
+## OWED, AND CARRIED
+
+1. **THE MEAN LENGTH OF A CHAPTER OF THIS VOLUME HAS FALLEN ACROSS EIGHTEEN VOLUMES AND NOBODY OWNS THE FIX.**
+   **Volume 01 averages 5,736 words a chapter and Volume 18 averages 1,013.** The count of age-plus-trade handles is the
+   clearest symptom and it is now nearly gone from these ten bodies, but the length is not a handle problem. **It is set
+   where §17.4 says a consequence is set — by what the days are — and it belongs to whoever owns `outline/volume-18.md`.
+   This repair did not pad ten chapters to a number the plan does not set, because padding to reach a count is the fault
+   §17.4 names.** Carried for Batch 0004 and for whoever reviews the outline.
+2. **`state/phase-ledger.json` HAS READ `phase-000-bootstrap` AND `planned` FOR 880 CHAPTERS.** **It is controller-owned
+   and no phase may write it, so it is not fixed here and cannot be fixed by any phase.** It needs a controller fix.
+   Flagged, not repaired.
+3. **`outline/volume-03.md` AND `outline/volume-05.md` DO NOT EXIST AND HAVE NEVER EXISTED.** There is no add, delete or
+   rename for either in the whole of git history, and both volumes carry fifty chapters and full close records. **Every
+   other volume has an outline.** Writing two outlines now would be inventing plan material for two closed volumes,
+   which is the one thing a repair pass must not do, so this is owed and not done. **`AGENTS.md` asks a next writer to
+   use a volume index; for volumes 03 and 05 that index has two holes in it and a next writer should know that.**
+
+## RAISED BY THE REPAIR AND NOT RESOLVED IN IT
+
+- **CARD FOUR CONTRADICTS ITSELF, ITS OWN TABLE AND TWO CHAPTERS.** The card for 0874 says 0874 **may not print the
+  wording of the sentence said on 870 anywhere but that chapter.** The same card's statement of what the chapter is for
+  describes that sentence being said three times on 874. The third-party column of the batch record's table says the
+  stallholder put it into the floor on 870 and put it there again on 874. **And `chapter-0870.md` and `chapter-0874.md`
+  both print the sentence, word for word.** **The card's opening-paragraph description is also a copy error: it
+  describes a hand going into an apron pocket, which is the opening of `chapter-0867.md` and not of 0874.** This repair
+  did not touch it, because deleting a prohibition out of a card to match what a writer has already written is the
+  failure §17.22 names, and because either real fix — a different sentence on 874, or a different device on 874 — is a
+  change to the planned plot and is not a repair pass's to make. **Both readings are published at
+  `state/batch-summaries/volume-18-batch-0003.md` and this is owed to the owner of the outline.**
+
+## CARRIED AND NOT DISTURBED
+
+- **The panel of day 886 is owed to Batch 0004 and is untouched.** Its wording is at §6.7 and belongs on
+  `chapters/volume-18/chapter-0886.md` and nowhere else.
+- **The two wordings of day 890, and the one thing said back in another man's words**, are owed to Batch 0004 and are on
+  no page. The named material of `outline/ending.md` is not on a page of this volume and its not being on a page is a
+  debt and not an omission. **DO NOT ADD A FINAL ENEMY: the final human antagonist of this manuscript is on days 894
+  and 895 and no name of his is on any page of the ten days a batch may write.**
+- **The question of day 898 and the last image of day 900** are owed and untouched.

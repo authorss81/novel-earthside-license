@@ -3,23 +3,33 @@
 **This file carries where the work stands, what is on the tables and shelves, what a next writer must carry
 forward, and what is owed. It does not carry a list of things a phase did not do.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-batch-0003-full.md`, verified by
-SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
-THE BATCH 0003 PASS REPLACED THE BATCH 0002 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0861 TO 0870, AND IT HOLDS
-THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0003 BLOCK. THE COPY TAKEN BY BATCH 0002 IS AT
-`state/archive/current.md.volume-18-batch-0002-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER BLOCK IS IN
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-batch-0004-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE
+BATCH 0004 PASS WROTE ITS OWN BLOCK IN PLACE OF THE BATCH 0003 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0871 TO
+0880, AND IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0004 BLOCK. THE COPY TAKEN BY BATCH 0003 IS AT
+`state/archive/current.md.volume-18-batch-0003-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER BLOCK IS IN
 `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
+
+**VOLUME 18, BATCH 0004 WROTE TEN CHAPTERS AND STOPPED AT 0890. THE NEXT PHASE IS
+`workspace/volume-18/batch-0005/PROMPT.md`, AND IT IS THE LAST BATCH OF THE MANUSCRIPT.**
+Volume 18 has Chapters 0851 to 0890 on disk, forty of its fifty days, and ten are not; there are eight hundred and
+ninety chapter files on disk and the series plan is nine hundred across eighteen volumes, so ten chapters are the whole
+of what remains. **The blocks below are in reverse order of recency: the newest is the Volume 18 Batch 0004 block at the
+foot, and every older block in it is a closed volume's or a closed batch's, and none of them is the head of this file
+any more.**
 
 **THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
 SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
 smaller than it found it or to say in its own record why not.**
 
-**VOLUME 18, BATCH 0003 WROTE TEN CHAPTERS AND STOPPED AT 0880. THE NEXT PHASE IS `workspace/volume-18/batch-0004/PROMPT.md`.**
-Volume 18 has Chapters 0851 to 0880 on disk, forty of its fifty days, and ten are not; there are eight hundred and
-eighty chapter files on disk and the series plan is nine hundred across eighteen volumes, so ten chapters are the whole
-of what remains. **The blocks below are in reverse order of recency: the newest is the Volume 18 Batch 0003 block at the
+**VOLUME 18, BATCH 0004 WROTE TEN CHAPTERS AND STOPPED AT 0890. THE NEXT PHASE IS
+`workspace/volume-18/batch-0005/PROMPT.md`, AND IT IS THE LAST BATCH OF THE MANUSCRIPT.**
+Volume 18 has Chapters 0851 to 0890 on disk, forty of its fifty days, and ten are not; there are eight hundred and
+ninety chapter files on disk and the series plan is nine hundred across eighteen volumes, so ten chapters are the whole
+of what remains. **The blocks below are in reverse order of recency: the newest is the Volume 18 Batch 0004 block at the
 foot, and every older block in it is a closed volume's or a closed batch's, and none of them is the head of this file
 any more.**
+
 
 ## VOLUME 17, BATCH 0003 — CHAPTERS 0821 TO 0830, DAYS 821 TO 830. THIRTY CHAPTERS OF FIFTY ARE WRITTEN. A CLOSED BATCH'S BLOCK AND IT NO LONGER WINS OVER ANY BLOCK BELOW IT.
 
@@ -182,151 +192,57 @@ PHASE, NO PROMPT AND NO DIRECTORY.**
 
 ---
 
-## WHERE THE WORK STANDS AFTER VOLUME 18, BATCH 0003. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+## WHERE THE WORK STANDS AFTER VOLUME 18, BATCH 0004. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
 
-**THE BLOCK BELOW DESCRIBES CHAPTERS 0871 TO 0880 AS THEY STAND ON DISK. ITS FIGURES WERE RUN IN THIS RUN AND EVERY
-ONE CARRIES ITS READING AND ITS SCOPE, AND ITS COUNT OF CLOSINGS THAT STATE THAT NOTHING CHANGED IS PUBLISHED BOTH ON
-THE NARROW READING AND ON THE WIDEST ONE AVAILABLE. NOTHING WAS RESTARTED, NO DAY MOVED, NO CARD CHANGED, AND THE
-ENDING, THE FIVE HELD WORDINGS AND THE PANEL ARE UNTOUCHED.**
+**TEN CHAPTERS, TEN DAYS, DAYS 881 TO 890, SUNDAY TO A TUESDAY, AND THE MANUSCRIPT HAS TEN DAYS LEFT IN IT.** The
+calendar was re-derived in this run from two figures and two figures only, day 1 being a Tuesday and the Bare-Month
+ordinal being the day less three hundred and fifteen, and all ten agree with `outline/volume-18.md` §14.3. **There are
+eight hundred and ninety chapter files on disk and the series plan is nine hundred, so Chapters 0891 to 0900 are the
+whole of what remains and they are the last batch of this manuscript.** `outline/ending.md` was read before the next
+prompt was written and is not moved.
 
-**THE NEXT PHASE IS `workspace/volume-18/batch-0004/PROMPT.md` AND NOTHING ELSE. Batch 0003 wrote ten chapters,
-Chapters 0871 to 0880, days 871 to 880, and it stopped at 0880.** Batch 0004 writes Chapters 0881 to 0890, days 881 to
-890, and it reaches **the volume's one panel on day 886, Tamsin Quill on day 888, and the act on day 890**, and it is
-handed all three as days and not as words.
+**THE FOUR THINGS THE PLAN GIVES THIS VOLUME AND THIS BATCH REACHED, AND NONE OF THEM IS ON A PAGE OF THESE TEN DAYS IN
+ANY WORDS.** The panel of 886 is printed once, on `chapters/volume-18/chapter-0886.md`, fifty-nine words, plain, in a
+block of its own, and a search across every chapter file, state file, batch record and prompt returns that one page and
+no other. The two lines of 890 stand on that page as three bolded quoted lines holding no words, two of them from him
+and the third the man who came up that stair on day 866 saying the same thing back in his own words. **The name said out
+loud once in that room on 878 is in narration on eight of these ten pages, sixteen times, as a word for that man and for
+nothing else, and it is on no board, in no column, in no register and on no bare piece of board.** The question of 898 is
+not among these ten days.
 
-**Volume 17 is closed and Volume 18 is four fifths written.** Volume 17 closed at day 850. Volume 18 has Chapters 0851
-to 0880 on disk, forty of its fifty days, and ten are not. There are eight hundred and eighty chapter files and the
-series plan is nine hundred across eighteen volumes, so ten chapters are the whole of what remains. The plan for all
-fifty is `outline/volume-18.md`, the ten cards for the first ten were written by the planning phase at
-`outline/batches/volume-18-batch-0001.md`, and **the ten cards for these ten were written at the head of
-`state/batch-summaries/volume-18-batch-0003.md` before Chapter 0871 existed, which is the card-file arrangement every
-batch behind the first one in this repository works to.**
+**WHAT IS ON THE TABLES AND SHELVES AND ON THE STAIRS AFTER 890, IN ONE PLACE, AND A NEXT WRITER DOES NOT HAVE TO
+DERIVE IT.** The register stands open on the bench with five strokes in the column that holds figures and a day against
+each, none struck and no sixth entered, and the second slate stands behind it on its shelf and was not picked up, not
+turned over and not written on on any of the ten days. The board of the man of about thirty-nine is standing out in his
+own row with the face of it out and the space at the foot of the column on it standing on it in the weather, and it was
+never turned in and nothing whatever was done about it at any hour of any of the ten days. The stallholder's own board
+stood face in on all ten. The piece of chalk stayed in his inside breast pocket at every hour of all ten days. The bar
+lies along the top step of that stair out of its two sockets and lay there on all ten mornings and was not put back and
+not lifted, and it is named on one of the ten days only and no chapter of these ten opens on it. The door at the foot of
+that stair stands open on its latch with a date in chalk on the outside of it, and the bare piece of board under the
+chalk stands a finger's width off the wood at its near end and nothing is on it. The store door in the wall at the
+store's end stands a hand's breadth from where it stood on the Monday with the opening that much narrower at the far
+edge and was not moved again. The trough at the top of the market step is cracked in its near end and lets water out of
+it. The stool at the side of that bench stands a foot further out than the woman of about fifty-two set it down. The
+board on the outside wall at the far end of that market is on one nail with the hole of the other empty above it. The
+two hollows in the flags at the side of the wharf yard stand as they stood, one with its crack gone deeper and one with
+pale grit in it, and no mouth in these ten days dated either.
 
-**The line.** A room over a market spent fifty days learning that it could not find out who came up its stair, and on
-the sixth morning of this volume somebody came up it who has not come up it from that side before, and that room has
-no instrument for a person at all. Day 871 was a Thursday and the five hundred and fifty-sixth day of the Bare Month;
-day 880 was a Saturday and the five hundred and sixty-fifth. **The month does not end in this volume, no chapter may
-use an ordinal for a month, may print a day after the five hundred and sixty-fifth for this batch or after the five
-hundred and eighty-fifth for the volume, or convert an ordinal into a span.**
+**WHAT A NEXT WRITER MUST CARRY, NAMED.** Four voices are open in the room and none of them was closed. The man of about
+thirty-nine cannot get up that stair without two hands on the newel and nobody said why and no chapter of these ten days
+will. The rate at the foot of the stallholder's own board still wants its day and nobody settled it. The question the man
+of about thirty-nine put into the walking space on 881 is still where he put it. The place on eleven miles of flats
+where a barrow will not go over twice is on one page and he has not told anybody else where it is and says he is not
+going to. **And after the tenth hour of 890 no mouth in this city can ask him anything at all, which is the whole of
+what is on a page of it, and the ten days that follow are not this batch's and no chapter of them may say he is gone,
+say why, or have anybody miss him out loud.**
 
-**WHAT THE TEN DAYS DID, ONE LINE EACH, AND NONE OF IT SETTLED ANYTHING.** A stool at the side of that bench with a
-man's two hands flat on the top rail of it and nobody sitting down on it all morning, **and the one thing he causes is
-that the man of about thirty-one who carries things for a living has to turn the satchel end for end in the gap beside
-it, and the buckle cuts the coat on a shoulder it had not cut before.** A shape said out loud in that room — a thing
-said in it, the same thing written by somebody else, the second one read back — **and no such thing in this city and
-it on no surface and the rate at the foot of a board still wanting its day.** A crack in the near end of a trough gone
-to the width of a finger and a man filling his bucket out of the trough anyway, and a second man down on one knee in
-the wet to see into it and up again with the knee of his trousers wet through. **A sentence two men of that row have
-said before, said again in the same words, and said a third time by the man who came up that stair on Saturday, and
-nobody in that room asked him where he had had it from.** **THE VOLUME'S ONE DECISION ON DAY 875: the man of about
-thirty-nine who trades on a board carried his board down that stair and stood it up in his own row with the face of it
-out for the first morning, said the cost out loud first in his own mouth and the decision after it in his own mouth,
-and nobody in that room agreed with it, nobody argued, nobody improved on one word of it and nobody was thanked.**
-**AND NOTHING WHATEVER IS DONE ABOUT IT AT ANY HOUR OF DAY 876.** About four people a day going past that row on the
-Wednesday, some of them stopping and some of them not, and the man whose own board has stood face in all this flood
-taking his board down and standing it back the same way and nobody asking him to do the other thing. **THE NAME ON DAY
-878, SAID OUT LOUD ONCE IN THAT ROOM BY THE MAN WHO CAME UP THAT STAIR ON DAY 866, AND PRINTED ON NO PAGE OF THIS
-BATCH: the chapter carries it as a bolded quoted line holding no words, no hand writes it down, it goes on no board and
-in no column and on no page of anything, the keeper's hand is on the page all through and writes none of it, and the
-second slate behind the register is not picked up and not turned over and not written on.** **THE VOLUME'S THIRD COST
-ON DAY 879, NAMED BY THE WOMAN OF ABOUT FIFTY-TWO ABOUT THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING,
-IN HER OWN WORDS AND HER OWN MOUTH, AND BY NOBODY ELSE, AND NOBODY ANSWERED IT AND NOBODY IMPROVED ON ONE WORD OF IT
-AND NOBODY SAID IT WAS RIGHT OR WHAT IT WAS WORTH AND NOBODY THANKED HER AND NOTHING WHATEVER WAS DONE ABOUT IT AT ANY
-HOUR OF THAT DAY.** A load carried in past a man because a door would not stay propped, a wet print left on the cloth
-of that man's shoulder and a white ring along his hand that came back between one board and the next.
-
-**ADRIAN VALE IS IN ONE OF THOSE TEN AND IN NO OTHER: 0871.** His hands were on the top rail of the stool at the side of
-that bench and what he wanted the thing for was to have somebody sit down, published `no`; he did not sit down on it and
-did not move it and nobody sat down on it and nobody asked him for it, the woman of about fifty-two came and stood
-beside it at about the seventh hour, put her hand on the rail where his hands had been, and went back and did not sit
-down on it either. **He performs no working, no threshold is opened, no workway is offered and none is asked for, he
-is not thanked, nobody tells him he was right, nobody in that room was waiting for him to be useful and he was not
-useful to them, and the other seven of his nine are on days 881, 889, 890, 893 and 899.** Stage 2 on all ten days, aged
-nowhere, `passage` and `privilege` at zero across these ten files.
-
-**THE FIGURES FOR DAYS 871 TO 880 ARE AT `state/batch-summaries/volume-18-batch-0003.md` WITH EVERY READING AND SCOPE
-ON THE SAME LINE AS ITS NUMBER, and the three a later phase should look at first are these. `that` stands at **5.17
-per 1,000 words** on the bodies of these ten, against 3.91 for the ten days behind these and 4.53 for Volume 17's last
-ten on the same reading, and **the ten as they first stood measured 18.32 and these ten as they stand measure 5.17, brought down by giving
-the noun and cutting the demonstrative.** The longest run of consecutive words any two of these ten share is **17**, the longest
-against the twenty days behind them and Volume 17's fifty is **18**, and the longest inside one file at two positions
-is **16**. **THE SHARED-RUN INSTRUMENT RETURNED A RUN ABOVE EIGHTEEN WORDS FOR EVERY ONE OF THESE TEN FILES AGAINST AT LEAST ONE
-OTHER, THE LARGEST OF THEM A HUNDRED AND TWENTY-ONE WORDS BETWEEN 0875 AND 0878 AND THE NEXT SEVENTY-NINE BETWEEN 0874
-AND 0875, AND EVERY ONE OF THEM WAS THE STANDING-STATE PARAGRAPH OF THAT ROOM WRITTEN OUT IN THE SAME ORDER WITH THE
-SAME PREDICATES, WHICH IS THE FAULT THE REVIEW OF CHAPTERS 0851 TO 0860 PUBLISHED AND WHICH THIS BATCH FOUND AGAIN IN
-ITS OWN FIRST WRITING. ALL TEN CAST PARAGRAPHS WERE REWRITTEN AS TEN DIFFERENT PARAGRAPHS LEADING WITH TEN DIFFERENT
-PEOPLE, AND NO DAY, NO CARD, NO OBJECT STATE AND NO HELD WORDING MOVED IN IT. THE `that` FIGURE FOR THESE TEN AS THEY
-FIRST STOOD WAS 18.32 PER 1,000 AND THE FIGURE ABOVE IS FOR THEM AS THEY NOW STAND; NO FIGURE IS PUBLISHED FOR THE
-MIDDLE OF THAT PASS, BECAUSE THE TEXT WAS BEING REWRITTEN WHILE THE INSTRUMENT WAS RUN AGAINST IT.**
-
-**AND WHAT IS STILL A HUMAN'S, UNCHANGED AND CARRIED. `reviews/volume-16/` does not exist and the review dispatch
-falls back to the writer's own agent, so the five revisions this batch made to its own first writing were made by the
-agent kind that wrote the chapters and applied to the agent kind that wrote the chapters, and a finding being correct
-does not make it independent. `state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` after
-eighteen volumes, a reader flagged it on the batch before this one, and it is a controller file and was not opened by
-this batch. `NOVEL_SPEC.md`'s Status section is stale, `bible/power-system.md` has no §65 for days 851 to 900, and
-`outline/series.md` has no DECISIONS OF RECORD block for Volume 18. All four are controller- or owner-owned and none was
-opened.** The consent fracture stays unmended, the fifth condition is not given, no milestone is paid and none may be
-before day 888, no standing question is answered including the ones of days 798 and 848, the mark of day 440 is not
-traced for the eleventh time running, the chalk stays in the man of about thirty-four's inside breast pocket at every
-hour of all one hundred days of this volume, the bar stays off that door and nobody in that room may learn whose hand
-lifted it, the second slate stays untouched, and `outline/ending.md` does not move. **No new final enemy entered this
-manuscript: the final human antagonist is on days 894 and 895.**
-
-**AND THIS PASS COMPACTED THE LIVE LAYER INSTEAD OF APPENDING TO IT.** All five live state files were copied whole into
-`state/archive/` as `<name>.md.volume-18-batch-0003-full.md` and every copy was verified against its live file by
-SHA256 before a single line was withdrawn; the five digests of the pre-pass files begin `ae380040`, `1eb2fbfd`,
-`c3347851`, `8a2fefa` and `dbc2b1db`, and each copy was re-read against its live file and matched. **In this file the
-review-repair block on Chapters 0861 to 0870 and the Volume 18 Batch 0002 block that stood below it were replaced by
-this one, and in each of the other four the same two blocks were replaced by its Volume 18 Batch 0003 block.** That is a
-move of text and not a change of record: no thread was closed, no figure was withdrawn, no decision was reversed, and
-every fact the blocks it replaced carried is in the archive named above, in `outline/volume-18.md`, in
-`state/batch-summaries/volume-18-batch-0002.md`, in `state/batch-summaries/volume-18-batch-0003.md` and in
-`state/volume-17-close.md`. **This is the ninth compaction of these five files. THE FIVE TOGETHER MEASURED 159,053
-BYTES BEFORE THIS PASS AND THE FIVE ARE SMALLER AFTER IT, and the two per-file figures that this file can quote without
-quoting itself are `state/continuity.md` and `state/open-threads.md`. A reader who measures the five will get a total
-that includes this paragraph and the five archives are the pre-pass text.**
-
----
-
-# THE REVIEW REPAIR ON CHAPTERS 0871 TO 0880. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
-
-**THE TEN CHAPTERS ARE ON DISK AND THEY ARE FINISHED PROSE. THE REPAIR CHANGED HOW THE FIGURES ARE CARRIED AND NOT
-WHAT HAPPENS ON ANY OF THE TEN DAYS. NO CHAPTER WAS RESTARTED, NO DAY MOVED, NO CARD CHANGED, THE ENDING IS UNTOUCHED,
-THE PANEL OF 886 IS UNTOUCHED, AND NEITHER OF THE THREE HELD WORDINGS WAS PRINTED.**
-
-**THE NEXT PHASE IS STILL `workspace/volume-18/batch-0004/PROMPT.md` AND NOTHING ELSE.** Batch 0003 wrote Chapters 0871
-to 0880, days 871 to 880, and stopped at 0880. Batch 0004 writes Chapters 0881 to 0890, days 881 to 890, a Sunday to a
-Tuesday, and it reaches the volume's one panel on 886, Tamsin Quill on 888, and the act on 890.
-
-**WHAT THE REPAIR DID, AND THE FOUR THINGS A NEXT WRITER MUST NOT UNDO.**
-
-1. **THE NAME IS NOW IN PRINT ON ONE PAGE, AND IT IS 0879.** `outline/volume-18.md` §7.2: the chapters call the man who
-   came up that stair by the wet-sleeve handle until 878 and **by his name from 879**. 0879 had been using the handle on
-   a day the plan gives him his name. It now carries the name once, in narration. **It is on no surface, nobody asks him
-   anything, it is counted against nothing, and it must not appear in a state file, a batch record, a prompt or a
-   summary — §6.8 puts it on the chapters and nowhere else.** From 089 onward the narration may use it as a word for that
-   man and for nothing else.
-2. **THE TWO EMPTY SPEECH PARAGRAPHS IN 0875 AND 0878 ARE CORRECT AND MUST STAY EMPTY.** A bold mark around a dash and
-   a pair of quotation marks is a speech paragraph whose words are withheld on purpose: §6.6 for the cost and the seven
-   words of 875, §6.8(ii) for the name of 878. **A later phase that fills either of them has spent a held wording.**
-3. **THE FIGURES ARE CARRIED BY SHORT HANDLES NOW.** The keeper, the stallholder, the bare age, the trade without the
-   location — §17.9's list, on first appearance in full and after that shortened. **Do not go back to writing the whole
-   age-plus-trade string for a figure a page has already introduced.**
-4. **THE CLOSINGS OF 0874 TO 0879 WERE REWRITTEN AND NO TWO OF THE TEN SHARE AN OPENING.** The longest shared
-   leading-word run between any two is two. **0875's closing is the only one that was cut into, because 0876 and 0877
-   had closed on the same construction on adjacent days.**
-
-**WHAT THE REPAIR REFUSED, IN ONE LINE EACH.** No name before 878 (§7.1, §17.13). No descriptor added (§7.1). Adrian
-outside his nine days (§4.1 is closed input). No bold mark removed (§17.5 and §17.7 make the mark the speaker's). No
-word of the 875 seven, no word of the 878 name, no word of the 886 panel. No file under `scripts/`,
-`.github/workflows/`, `.opencode/agent/`, no `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`,
-`opencode.json`, and no `state/phase-ledger.json`.
-
-**THE REVIEW'S OTHER FINDINGS, AND WHERE THEY STAND.** `state/phase-ledger.json` still reads `phase-000-bootstrap` and
-`planned` after 880 chapters and **is controller-owned and was not touched** — it is a controller bug to be fixed in the
-controller, not by a phase. `outline/volume-03.md` and `outline/volume-05.md` have never existed in this repository and
-were not written, because inventing plan material for two closed volumes is not a repair pass's work.
-`state/archive/` holds 69 files and the seventeen volume-close records about 1.7 MB, and **this repair took no new
-archive copy** because it withdrew no state and because the review asked for less bloat. **The full triage, with the
-section citation for every declined finding, is at `state/batch-summaries/volume-18-batch-0003.md`.**
+**WHAT IS OWED AND NOT OWED BY THIS BATCH.** Owed: the long decay in mean chapter length, which is set at the outline
+layer and is not this phase's to change; the contradiction inside the card for 874 that the review repair of 0871 to 0880
+flagged with both readings; `reviews/volume-16/` and the other missing review folders; and the debts `outline/volume-18.md`
+§21.4 carries, including the fact that the named material of `outline/ending.md` is on no page of this volume. **Not owed
+by this batch: nothing was broken and nothing was withdrawn.** All five live state files were copied whole into
+`state/archive/` as `<name>.md.volume-18-batch-0004-full.md` and every copy was verified against its live file by SHA256
+before a line was removed, and the Batch 0003 block and the review-repair block on Chapters 0871 to 0880 went to the
+archive undeleted, and no thread, no figure, no decision, no handle and no prohibition was withdrawn by the move. This
+is the tenth compaction of these five files.
