@@ -2,19 +2,17 @@
 # Chapter Summaries
 
 **HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** The only block that
-matters to the current phase is the **Volume 18 Batch 0002** block at the foot, which carries the ten summaries for
-days 861 to 870 and the plan index for the twenty days after them. **It replaced the Volume 18 Batch 0001 block,
-which carried the summaries for days 851 to 860, and that block is in the archive named below and is not restated
-here; the Volume 17 Batch 0004 and Batch 0005 blocks were removed by the Volume 18 planning pass before either and
-are not restated here either, and their figures are at `state/batch-summaries/volume-17-batch-0004.md` and
-`state/batch-summaries/volume-17-batch-0005.md`.**
+matters to the current phase is the **Volume 18 Batch 0001** block at the foot, which carries the ten summaries for
+days 851 to 860 and the plan index for the forty days after them. **The Volume 18 planning block that stood here,
+which carried no summaries because Volume 18 had no chapters, was replaced by that one, and the Volume 17 Batch 0004
+and Batch 0005 blocks were removed by the Volume 18 planning pass before it and are not restated here; they are in
+the archive named below, and their figures are at `state/batch-summaries/volume-17-batch-0004.md` and
+`state/batch-summaries/volume-17-batch-0005.md`. The Volume 17 Batch 0001 block is in the same archive and is
+not restated here either.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/chapter-summaries.md.volume-18-batch-0002-full.md`,
-taken by the Batch 0002 pass before it replaced the Volume 18 Batch 0001 block with the Volume 18 Batch 0002 block, and
-verified against the live file by SHA256 before a single line was removed. It is a complete byte-for-byte copy of this
-file as it stood after the review repair of Chapters 0851 to 0860 and holds that block in full. BEHIND IT IS
-`state/archive/chapter-summaries.md.volume-18-batch-0001-full.md`, taken by the Batch 0001 pass before it replaced
-the Volume 18 planning block with the Volume 18 Batch 0001 block, and behind that at
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/chapter-summaries.md.volume-18-batch-0001-full.md`,
+taken by the Batch 0001 pass before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and
+verified against the live file by SHA256 before a single line was removed. BEHIND IT AT
 `state/archive/chapter-summaries.md.volume-18-outline-full.md` IS THE COPY TAKEN BEFORE THE VOLUME 18 PLANNING PASS
 REMOVED THE BATCH 0004 BLOCK AND THE BATCH 0005 BLOCK AND ADDED THE VOLUME 18 BLOCK; the head of this file named that
 one as the most recent whole copy until the review repair of Chapters 0851 to 0860 corrected it, and the correction is
@@ -31,10 +29,10 @@ for that volume rather than read this file. The compaction moved text and change
 rewritten, no day was merged, and no day was dropped. **THE FIGURES FOR DAYS 801 TO 810, WHICH MOVED OUT OF
 THIS FILE LONG AGO, ARE AT `state/batch-summaries/volume-17-batch-0001.md`.**
 
-**THIS FILE HAS NOW BEEN COMPACTED EIGHT TIMES FOR THE SAME REASON AND A PHASE THAT APPENDS TO IT IS EXPECTED
+**THIS FILE HAS NOW BEEN COMPACTED SEVEN TIMES FOR THE SAME REASON AND A PHASE THAT APPENDS TO IT IS EXPECTED
 TO LEAVE IT SMALLER THAN IT FOUND IT, OR TO SAY IN ITS OWN RECORD WHY NOT.** This pass did not append. It copied
-the file whole into `state/archive/chapter-summaries.md.volume-18-batch-0002-full.md`, verified the copy by SHA256,
-and replaced the Volume 18 Batch 0001 block with the Volume 18 Batch 0002 block. **The Volume 17 Batch 0004 and
+the file whole into `state/archive/chapter-summaries.md.volume-18-batch-0001-full.md`, verified the copy by SHA256,
+and replaced the Volume 18 planning block with the Volume 18 Batch 0001 block. **The Volume 17 Batch 0004 and
 Batch 0005 blocks went out of this file in the pass before that one and their twenty one-line summaries are in
 `state/archive/chapter-summaries.md.volume-18-outline-full.md`, recoverable in one read.**
 
@@ -187,44 +185,40 @@ figures for days 801 to 810, which left this file with that block, are at
 
 ---
 
-# VOLUME 18, BATCH 0002 — CHAPTERS 0861 TO 0870, DAYS 861 TO 870, ONE CHAPTER TO ONE DAY. NEWEST AND IT WINS.
+# VOLUME 18, BATCH 0001 — CHAPTERS 0851 TO 0860, DAYS 851 TO 860, ONE CHAPTER TO ONE DAY. NEWEST AND IT WINS.
 
-**Ten days, one chapter to a day, from a Monday to a Wednesday, the five hundred and forty-sixth to the five hundred
-and fifty-fifth day of the Bare Month.** The figures for these ten days are at
-`state/batch-summaries/volume-18-batch-0002.md` with every reading and scope on the same line as its number, and the
-ten cards they were written to are at the head of that same file. **Thirty of Volume 18's fifty days are written and
-twenty are not, and no chapter past 0870 exists.**
+**Ten days, one chapter to a day, from a Friday to a Sunday, the five hundred and thirty-sixth to the five hundred
+and forty-fifth day of the Bare Month.** The figures for these ten days are at
+`state/batch-summaries/volume-18-batch-0001.md` with every reading and scope on the same line as its number, and
+the ten cards they were written to are at `outline/batches/volume-18-batch-0001.md`. **Twenty of Volume 18's fifty
+days are written and thirty are not, and no chapter past 0860 exists.**
 
 **THE TEN, ONE LINE EACH.**
 
 | Ch | Day | What the day did |
-|---|---|-|
-| 0861 | 861 | **Adrian Vale laid both hands on the flat of the top board of a trestle at the store's end and stood there from before the light, and the boards he wanted off the flags stayed on the flags and the rain came back on to them.** He knew before the light was on the awning that he could have got the top of the stack off by himself and where he would have put it, and he did not do it, and nobody told him he was right and nobody thanked him. **The one thing he caused is that the man of about thirty-four cannot set his own board down on the near end of that trestle and carries it to the far end and holds it with one hand from the fifth hour to the tenth.** Stage 2, no working, no threshold, no workway asked for. |
-| 0862 | 862 | A hand on the outside of that door took chalk off the last stroke and left a smear across the day, and no mouth settled who puts that date there and nobody went along the row to ask. **The row said out loud, at its own trestles and in its own morning, that it wanted nothing off a door that has stood open for the whole of the flood**, the man of about twenty-seven said that door was the one thing at this end of the market a person who cannot read a board would still stop for, and nobody improved on either. About four people a day went past and some stopped long enough to read the day off the chalk and some did not stop at all, and none of them went up the stair. |
-| 0863 | 863 | The near leg of the trestle at the store's end came up out of its socket in the wet grit with a fist-sized piece of grit in the palm and went out of square every time he let go of it, and the boards laid flat on that trestle rocked and slid about a finger's width towards the near end and the course went up crooked and stayed crooked. **No wedge was fetched and nobody said out loud where one would be kept**, and the man it belonged to went on laying boards on it exactly as it stood. Nothing was traded at any trestle at that end of the market for the fourth morning running. |
-| 0864 | 864 | The man of about thirty-one went down that stair before the light with the flap of the satchel down and was not in the room when the sound came. **At about the fifth hour one man was sure somebody was on the top step and one man was sure he had heard nothing and a third said the stair gives a sound back twice and the second time is louder than the first. Nobody got up, nobody said where the man of the satchel was, and nobody asked. He came back up at about the sixth hour with the flap down and was asked nothing and did not go down again.** The stair did not make the sound again that day. |
-| 0865 | 865 | **The board on the outside wall is hanging on one nail and the hole of the other stands empty above it, round and clean inside with a ring of old grit in the bottom of it, and the three sets of figures on it come out at the height where a man walks, so that a person going along that row no longer has to go up on the step.** The man of about twenty-seven got a bucket handle under the lower edge and lifted it about the thickness of a coin and the nail held it. Nobody can say when the second nail came out, nobody asked, and the hole could not be read down or across at all. |
-| 0866 | 866 | **THE ARRIVAL.** Adrian Vale stood at the one window with the flat of his hand on the sill because he wanted to be in that room when whoever came up that stair came up it, and at about the fifth hour a man came up the open length of the steps and stopped at the top with **one sleeve of his coat wet to the shoulder and the other sleeve dry** and came in and stood against the far wall. **Nobody asked him anything, nobody thanked him, nobody stood up when he came to the steps, nobody had sent anybody, and nobody in that room was waiting for him or waiting for anything.** Adrian said one flat sentence and nothing came of it and nobody answered him and nobody turned round. **The one thing he caused is that the man of about thirty-four carries his board the length of the room and props it against the shelf at the far end where it will not stand, and puts it back where it was at the ninth hour.** |
-| 0867 | 867 | A wet coat was over the back of the chair at the far side of the room with one sleeve of it wet to the shoulder and the other sleeve dry, and **nobody asked the man in his shirtsleeves one single thing about Saturday, about the stair, about the row or about the coat at any hour of the whole day**, and he asked nobody for anything and thanked nobody for anything. The row said out loud that it was not going to ask him one thing, and the keeper said that then it wants nothing off him, and nobody improved on either. The keeper's own hand went into the pocket of her apron twice and came out with nothing in it both times and went back onto the page. **The chair had not been sat in and the dust on its seat was showing plain and unbroken.** |
-| 0868 | 868 | **A store door at the store's end stood a hand's breadth from where it had stood on Sunday morning, with the opening that much narrower at the far edge, and a man of about thirty-eight could not get a square stack of boards through it end for end, on the diagonal, with a shoulder, or one at a time on his shoulder.** Nobody was hurt. Two mouths offered accounts that do not agree and nobody improved on them and nobody said how it came to be there. **Two hollows stand in the flags at the side of that yard where on the previous Wednesday there was one, the first with its crack gone deeper into the skin and the second with bare pale grit in the bottom of it and nothing broken in it, and no mouth on any of these ten days dates the second one to any morning.** The stack was left standing square in the open and its near corner began to give. |
-| 0869 | 869 | **THE VOLUME'S SECOND COST.** The woman of about twenty-nine who keeps a public register put the flat of her hand on the page and left it there, and **before anything else that morning she said out loud, into the middle of the floor and not to anybody, one sentence of her own. THE WORDING OF THAT SENTENCE IS IN `chapters/volume-18/chapter-0869.md` AND IN NO OTHER FILE, AND THIS TABLE DOES NOT RESTATE IT AND DID NOT RESTATE IT IN OTHER WORDS BEFORE THIS CLAUSE WAS STRUCK ON THE FIRST PASS.** The person it was said to, about nine feet off, is the man of about thirty-nine who trades on a board, and his hand came off the near edge of his own board and went to the other edge and lay there. Nobody thanked her, nobody improved on one word of it, nobody answered it, nobody said it was right or what it was worth, nobody asked her a second thing about it, and **nothing whatever was done about it at any hour of that day.** The cost of day 856 is a different cost and is not touched here. |
-| 0870 | 870 | **Two people in that room said one sentence in the same words.** The man of about thirty-nine who trades on a board said it into the middle of the floor at about the eighth hour, and near the end of the morning the man of about thirty-four who keeps a stall two stalls along lifted his thumb off the rate at the foot of his own board and said the same sentence in the same words to nobody in particular. **Neither of them was quoting the other, the first did not turn round, the keeper's hand stayed on the page and she wrote nothing down, and nobody in that room said they had heard it before or said it was the second time.** The page had not been shut since the middle of the week and nothing had been entered on it that morning, and the sentence is printed once in that chapter and no other mouth on any of these ten days says it in the same words. Chalk dust a thumb's width across stood on the stone at the top of the market step in two textures. |
+|---|---|---|
+| 0851 | 851 | A bare piece of board under the date in chalk was found standing off the wood of the door at its near end, with a finger's width behind it and the chalk-dust gone hard and pale in the grain along its top edge. Nobody went down to look at it and nobody can say when it came off or by whose hand. The room went on with the register, the boards and the light, and the bar lay where it has lain on every morning of the flood. |
+| 0852 | 852 | The right hand of the man of about thirty-four went inside his coat and came out again with nothing in it. The man of about thirty-nine offered to go along the market row and ask at each trestle who puts the date on that door and was not sent, went down the stair on his own business and came back up and said nothing about it. Near the end of the morning the man of about thirty-four went down to his trestle without his board and left it standing face in against the leg of the bench. |
+| 0853 | 853 | Ice an inch deep stood in the trough at the top of the market step before the light and Adrian Vale's hands lay flat on the rim of it until the fourth hour, **and he knew he had not asked anybody for the back of a knife that would have come out of it, and that was the whole of what he had brought to the trough.** Nobody broke it, then or afterwards. The man of about twenty-seven filled his bucket at the low place in the stone at the side of the yard instead and carried it a longer way. Nobody thanked anybody and the ice went out of the trough over the three days that followed without a hand at it. |
+| 0854 | 854 | A crack was found running from the near rim of the hollow at the side of the wharf yard to the middle of it and stopping there, with dark damp grit under it where the grit round the edge had gone pale and hard. The man of about thirty-eight took his barrow the long way round on the dry crown and said so to nobody, carried a light load up the market row, stood under the board on the two nails with the keeper, and went back down the flats with grit drying off his wheel rims onto the dry flags **by the shallow dip at the wharf wall, which is a different place from the low place in the stone at the side of the market yard at the store's end and is not called that.** |
+| 0855 | 855 | The question of who puts the date in chalk on the outside of that door went along the bench in the ordinary course of about an hour. Two of the mouths it came back with said out loud that they had not looked to see who it was and gave nothing the next mouth could use, and the rest of it went on with what they had in their hands, the keeper was not asked it, the man who could have gone and asked was not sent, and nobody settled it and nobody said it could not be settled. When the light had gone the date stood with one stroke fresh and the rest gone hard, and nobody could say which had been done that morning. |
+| 0856 | 856 | **The volume's first cost.** The woman of about fifty-two set both hands on the cold wood of the bench and then folded them again, and said out loud, into the middle of the floor and not to anybody, one sentence of her own, **and the wording of that sentence is in the chapter and nowhere else, and this file does not restate it and did not before this line was struck.** The man of about thirty-four, about nine feet off her and doing something else, is inside the beat: his thumb stopped on a rate he had been holding without knowing, and he left it where it was rather than move it and show that he had moved it. Nobody thanked her, nobody improved on one word of it, nobody answered it, nobody said it was right or worth it, and nothing whatever was done about it at any hour of that day. The wording is printed once, in that chapter, and no file this batch wrote repeats it. |
+| 0857 | 857 | Rain by the fourth hour. The man of about twenty-seven went down that stair and up it four times with the bucket, filled it at the trough at the top of the step, and spilled over the rim on every one of them. Nobody in that room timed him, nobody counted the journeys, and nobody asked the man of about thirty-one, who went down once and came up once with the flap down, what was at the bottom of that stair. |
+| 0858 | 858 | A man who carries things for a living went up the stair and down it and along the market row and back up with the flap of the satchel down on all four journeys, and squared the strap where it had cut into his coat three times in that morning and not on every journey, and no mouth in that room asked him anything about it and no chapter gives a reason. By the tenth hour the strap had cut through the cloth and there was a thin place in the coat where the light came through, and he did not turn that shoulder to the window. |
+| 0859 | 859 | A mark of a boot stood in the dust on the outer edge of the top step with nothing on it, and nobody in that room mentioned it and nobody went down to look. The man of about thirty-four and the man of about thirty-one said four things to each other about the grit on the iron going pale, and every one of the four turns is attributed in the chapter, **and the mark was not what they were talking about and the exchange settles nothing about it.** Just before the light went the man of about thirty-one went down the stair, turned at the bottom step and looked back up the whole run of it, and every mark on that stair stood in a line the width of a hand wide down the middle of it and the one at the wall side was not in the line. No morning was put to it. |
+| 0860 | 860 | Eleven miles of flats in weather, a barrow with sacking over something round and heavy on it, and two lines pressed into the ground that were not there on Saturday morning and that no cart had taken. The near wheel dropped into the track and did not turn in it and went on through it. The load got to the store's end anyway and went in under the awning, and the satchel came off the other man's shoulder and stood against the wall with the flap down. |
 
-**AND THE TWENTY DAYS AFTER THESE TEN, AS A PLAN INDEX AND NOT AS SUMMARIES, AND A WRITER TAKES THE DAY, THE WEEKDAY,
+**AND THE FORTY DAYS AFTER THESE TEN, AS A PLAN INDEX AND NOT AS SUMMARIES, AND A WRITER TAKES THE DAY, THE WEEKDAY,
 THE ORDINAL, THE PRESSURE TAG AND WHETHER ADRIAN VALE IS IN THE CHAPTER FROM `outline/volume-18.md` §14.3 AND NOT
-FROM HERE.** Two batches of ten remain: **0871 to 0880 and 0881 to 0890, and then days 891 to 900.** In the first of
-the two are **the volume's one decision on day 875, a board put up face out with the cost named first and nobody
-improving on one word of it**, nothing whatever done about it on 876, **and on 878 a name said out loud once in that
-room and written down by nobody**, and the third cost on 879. In the second are **a second person from that side
-standing on the step below saying nothing on 883, one version arriving where two had been on 884, the flats on 885,
-the panel on 886, Tamsin Quill on 888, a man who cannot get up that stair without two hands on the newel on 889, and
-the act on 890**, and days 891 to 900 carry one question answered twice, the resolution on 893, Ivenn Marrow on 894
-and 895, the new question on 898 and the last image on 900. **No chapter of days 861 to 870 prepared any of them and
-no chapter of days 861 to 870 mentioned the decision, the name, the panel or the act.**
+FROM HERE.** Four batches of ten remain: **0861 to 0870, 0871 to 0880, 0881 to 0890 and 0891 to 0900.** In the first
+of them is **the arrival on 866**, one sleeve wet and one dry, and the second cost on 869. In the third are the
+decision on 875, a board put up face out, and **a name said out loud once in that room on 878 and written down by
+nobody.** In the fourth are **the panel on 886**, Tamsin Quill on 888, a man who cannot get up that stair, and **the
+act on 890.** In the fifth are one question answered twice, the resolution on 893, Ivenn Marrow on 894 and 895, and
+**the new question on 898, and the last image on 900.** **No chapter of days 851 to 860 prepared any of them and no
+chapter of days 851 to 860 mentioned the arrival or brought anybody up that stair.**
 
-**AND WHAT A WRITER OF THIS FILE NEEDS AND MUST NOT TAKE FROM HERE: the name, the decision and its cost, the panel,
-the two wordings of day 890 and the question are all held in `outline/volume-18.md` at §6.6 through §6.10, are printed
-in this block nowhere, and are printed in the ten cards of Batch 0002 nowhere. Their days are fixed and closed to the
-batch that writes each of them. The wording of the cost of day 869 and the wording of the sentence of day 870 are on
-their own pages and nowhere else and are not held at any plan section, and the state layer points at the chapter
-instead of restating either of them.**
+**AND WHAT A WRITER OF THIS FILE NEEDS AND MUST NOT TAKE FROM HERE: the name, the decision, the panel, the two
+wordings of day 890 and the question are all held in `outline/volume-18.md` at §6.6 through §6.10, are printed in
+this block nowhere, and are printed in the ten cards of Batch 0001 nowhere. Their days are fixed and closed to the
+batch that writes each of them.**

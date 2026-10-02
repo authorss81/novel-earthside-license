@@ -4,12 +4,9 @@
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-18-batch-0002-full.md`, taken
-by the Volume 18 Batch 0002 pass before it replaced the Volume 18 Batch 0001 block and the review-repair block below
-it with the Volume 18 Batch 0002 block, and verified against the live file by SHA256 before a single line was removed.
-It is a complete byte-for-byte copy of this file as it stood after that review repair and holds both blocks in full.
-BEHIND IT IS `state/archive/character-state.md.volume-18-batch-0001-full.md`, taken by the Volume 18 Batch 0001 pass
-before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and behind that
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-18-batch-0001-full.md`, taken
+by the Volume 18 Batch 0001 pass before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block,
+and verified against the live file by SHA256 before a single line was removed. BEHIND IT IS
 `state/archive/character-state.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass rewrote the two
 Volume 17 blocks at its foot; **the head of this file named that one as the most recent whole copy until the review
 repair of Chapters 0851 to 0860 corrected it, and that repair's own record at one point said this file needed no
@@ -25,13 +22,12 @@ to 0820 — and behind that at
 compaction moved text and changed no record: no descriptor, no age, no number, no place and no name moved,
 and no standing disagreement was settled.**
 
-**This file has now been compacted eight times, for the same reason and by the same convention: after a review
+**This file has now been compacted six times, for the same reason and by the same convention: after a review
 found it carrying, word for word, a layer of superseded per-batch history that no writer could read and no
 batch could afford to load, and after four of those compactions were undone by the appending that followed
 them. A phase that appends to this file is expected to leave it smaller than it found it, or to say in its
 own record why not, and three passes have now said nothing about it and grown anyway. The Volume 18 planning
-pass left it smaller and recorded the fact, and the Volume 18 Batch 0002 pass left it smaller and recorded the
-fact.**
+pass left it smaller and recorded the fact.**
 
 **THE PEOPLE BELOW ARE THE STANDING CAST WITH THE SECOND HANDLE EACH ONE CARRIES, AND THE HANDLES ARE THE
 SAME IN EVERY CHAPTER THAT PERSON IS IN. The block at the foot carries what the Volume 18 planning pass
@@ -314,97 +310,124 @@ standing disagreements, the two newest batch blocks and this block.
 ---
 
 
-# WHAT VOLUME 18, BATCH 0002 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
+# WHAT VOLUME 18, BATCH 0001 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
 
 **No descriptor altered, no age given or corrected, no name given or spoken by anybody on a page, nobody stronger,
-and the whole of what ten days did to the people on this page is one person arriving, one page costing a woman
-something she names out loud, and a week of ordinary work in a room that has nothing to say about any of it.**
+and the whole of what ten days did to the people on this page is one man's cost said out loud, one man's hands on
+ice that did not get it, and one week of ordinary work in a room.**
 
-**THE ONE NEW PERSON OF THIS VOLUME IS ON FOUR OF THESE TEN PAGES AND HAS NO AGE, NO NUMBER, NO DESCRIPTOR AND NO
-NAME.** He came up the stair on day 866 with **one sleeve of his coat wet to the shoulder and the other sleeve dry,
-and the sleeve is dry because the stair he came up is not wet on that side.** The chapters call him by that handle
-until day 878 and by his name from 879, and **the handle is the same in every chapter he is in and is not varied and
-is not explained by any mouth in any of the fifty days.** He is on 0866, 0867, 0869 and 0870 and on no other page of
-this batch. **On 866 he is spoken to by nobody, thanked by nobody, waited for by nobody, and asked what he is by
-nobody, and no mouth in that room says he is the first of anything; he asks nobody for anything and thanks nobody
-for anything; his coat is over the back of the chair at the far side of the room on 867 and the chair has not been
-sat in; on 869 he is in that room through the whole of a cost named by somebody else and does not move and is not
-asked; and on 870 he is against the far wall with his coat over the chair and does not move.**
+**ADRIAN VALE IS IN ONE OF THESE TEN CHAPTERS AND IN NO OTHER: 0853, and no other of the ten mentions him.** The
+volume's nine remain 0853, 0861, 0866, 0871, 0881, 0889, 0890, 0893 and 0899 and a card may not take a tenth. He is
+Stage 2 on all ten of these days, no working, no threshold opened, no workway offered and none asked for, aged
+nowhere, and `passage` and `privilege` are at zero across these ten files. **On 853 his hands were on ice standing
+in a trough at the top of the market step and what he wanted it for was to have that trough usable before the fourth
+hour so the bucket could be filled, published `no`.** Nobody in that room thanked him, nobody told him he was right,
+nobody in that room was waiting for him to be useful and he was not useful to them, and **the thing he causes is
+that the man of about twenty-seven fills his bucket at the low place in the stone at the side of the yard and
+carries it a longer way than the trough was.** The other world is named on no page of these ten days in any mouth
+and in no narration.
 
-**ADRIAN VALE IS IN TWO OF THESE TEN CHAPTERS AND IN NO OTHER: 0861 and 0866, and no other of the eight mentions him.**
-The volume's nine remain 0853, 0861, 0866, 0871, 0881, 0889, 0890, 0893 and 0899 and a card may not take a tenth. On
-861 his hands were on the flat of a trestle board at the store's end and what he wanted it for was to have that row's
-boards off the flags before the rain came back, published `no`. On 866 his hands were on nothing that is on a page
-and what he wanted it for was to have been in that room when whoever came up the stair came up it, published `yes`.
-**Nobody thanked him, nobody told him he was right, nobody in either room was waiting for him to be useful and he was
-not useful to them, and the two things he causes are that a man carries a board the length of a trestle and holds it
-with one hand all morning on 861, and that a man carries a board the length of the room and props it where it will
-not stand on 866.** He is Stage 2 on all ten of these days, aged nowhere, `passage` and `privilege` at zero across
-these ten files, and **the other side of anything is named on one page of these ten, in his mouth, in that room, in
-daylight, with a date in chalk on the outside of the open door behind him, and it is in the narrator's mouth on no
-day of the ten.**
+**AND THE WOMAN OF ABOUT FIFTY-TWO, WHO IS THE ONE PERSON ON THIS PAGE WHOSE STATE MOVED IN THESE TEN DAYS.** On
+day 856 she said out loud, in her own mouth and before anything else that morning, one sentence of her own, **and
+the wording of that sentence is in `chapters/volume-18/chapter-0856.md` and in no other file in this repository, and
+this file does not restate it and did not before the review repair struck the clause that did. A state file that puts
+a held wording into other words is a second page wearing a summary's clothes, and that is the fault this repair
+corrected in the same class twice.** She said it into
+the middle of the floor and not to anybody. **Nobody thanked her, nobody improved on one word of it, nobody answered
+it, no mouth said it was right or that it was worth it, nobody asked her a second thing about it, and nothing
+whatever was done about it at any hour of that day.** **The wording is printed once, in
+`chapters/volume-18/chapter-0856.md`, and no file this batch wrote repeats it; it is in no mouth on any of
+the other nine days of this batch and in no paraphrase, and it is that chapter's own and the plan does not hold it
+and no other file may print it.** **She was not asked
+what she does at the foot of that stair on any of the ten days, and no chapter of the ten says why she goes there,
+and her state at day 860 is hands at the sides of her dress, as ever.** On 855 she was not asked the question that
+went along that bench about the date in chalk and said nothing about it.
 
-**AND THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER, WHO IS THE ONE PERSON ON THIS PAGE WHOSE STATE
-MOVED IN THESE TEN DAYS.** On 867 her hand went into the pocket of her own apron and came out with nothing in it, and
-went back onto the page and turned no leaf, and nobody asked her what the pocket is for. On 869, **before anything
-else that morning, she named out loud, in one sentence of her own and into the middle of the floor and not to
-anybody, a thing she had not named out loud before. THE WORDING OF THAT SENTENCE IS IN
-`chapters/volume-18/chapter-0869.md` AND IN NO OTHER FILE IN THIS REPOSITORY, AND THIS FILE DOES NOT RESTATE IT AND
-DID NOT BEFORE THE REVIEW REPAIR OF CHAPTERS 0851 TO 0860 STRUCK A CLAUSE THAT DID, AND IT DID NOT BEFORE THIS
-PARAGRAPH WAS STRUCK ON THE SAME GROUND IN THE FIRST PASS OF THE PASS THAT WROTE IT.** Nobody
-thanked her, nobody improved on one word of it, nobody answered it, no mouth said it was right or what it was worth,
-nobody asked her a second thing about it, and nothing whatever was done about it at any hour of that day. **The cost
-of day 856 is a different cost, is in `chapters/volume-18/chapter-0856.md`, was not touched and is not restated
-here, and no chapter of these ten says it was worth it.** On 870 her hand was on the page all through both times the
-sentence was said, she wrote nothing down, and she turned a leaf and squared it against the fold. **The second slate
-is not named on any of these ten pages and no hand but hers went near that shelf.**
-
-**AND EVERYBODY ELSE ON THIS PAGE, ONE LINE EACH, AND NO HANDLE MOVED.** The keeper at the trestle on 863, who did not
-come over to where the leg was and did not fetch a wedge; the woman of about twenty-nine who keeps a public register
-down at the step under the wall board on 861, 863 and 865, reading the figures and putting her thumb against the
-lowest stroke of the middle set on 861; the man of about thirty-four who keeps a stall two stalls along — **his
-hand did not go into his inside breast pocket on any of these ten days and the chalk did not come out of it on any of
-them**, his board could not be set down on the near end of the trestle on 861 and he carried it to the far end and
-held it until the light was gone, he said the row wants nothing off that door on 862, he said the row will not be
-asking the man with the wet sleeve on 867 and then said the row wants nothing off him and said it in the keeper's
-mouth when he said nothing else worth hearing, he got the leg square twice and let it go off square twice on 863, he
-said it would come up again with the next lot of water on 864, he said the door was on that hinge before the flood on
-868, he said the row could take boards in a piece at a time on 868, he said the trestle was still out of square and
-wanted a wedge on 869, and he said the same sentence as another man on 870 and **his board's face did not come out
-in his own row on any of these ten days and no mouth asked him about the space on it on any of them and the space is
-not printed on any of the ten.** The man of about thirty-nine who trades on a board — offered nothing, asked
-nothing, and said nothing on 863 when he walked past the trestle, put his board down face in against the leg of his
-own trestle on 862 and looked at the door the whole length of the row, said the flag at the near end had come up
-loose on 864, was the only one who was sure he had heard the sound on the stair on 864 and said nothing else about it,
-put his board down on his own trestle on 865 and read the figures standing on the flags, said the door was on that
-hinge and then nothing more on 868, was the person the cost of 869 was said to about nine feet off and put his hand
-on the other edge of his board afterwards, said one sentence into the middle of the floor on 870 and did not turn
-round when the same sentence was said again near the end of the morning. The man of about twenty-seven — filled his
-bucket, carried it, wrung the rag, **lifted the board on the wall a thickness of a coin with a bucket handle and
-could not get it off the nail**, said the trestle wanted a wedge at both ends of it on 861 and answered for himself
-on 867 about the door being the one thing a person who cannot read a board would still stop for, and **was the man
-of about thirty-four who keeps a stall two stalls along answered on 869, and the man of about twenty-seven answered
-twice in that exchange**. The man of about thirty-eight at that salt wharf — **came eleven miles of flats in steady
-rain with a stack square on his barrow and the tally-board face up under two lines of grey grit, brought the barrow
-round two hollows in the flags at the side of that yard, could not get the stack through the store door, did not get
-hurt, and did not turn the tally-board over on any of the ten days and printed no figure off any object.** The man
-of about thirty-one who carries things for a living — went down that stair before the light on 864 and was not in the
-room when the sound was, came back up at the sixth hour with the flap down and was asked nothing, went down and came up
-three times across the ten days with the flap down, **crossed that room in fewer strides than he had been taking all
-week on 869 because the flags had gone hard, and the satchel was not opened on any of the ten days and no chapter
-says what is in it and no mouth asked him.** The man of about thirty-seven, the man of about fifty-seven, the man of
-about sixty, the woman of about sixty-nine, Tamsin Quill and Ivenn Marrow are on no page of these ten days at all, so
-no hand lifted the new rope and no fence post moved and no milestone was paid.
+**AND EVERYBODY ELSE ON THIS PAGE, ONE LINE EACH, AND NO HANDLE MOVED.** The keeper — carried the register, opened
+it, squared the page, turned a leaf, shut it on the mark of her own thumb and put it back on the shelf with the second
+slate standing behind it on 0851, and she asked nothing about the column on the right of her page and about the word
+in it on any of the ten days and put no name in it. The man of about thirty-nine who trades on a board — carried his
+board under his arm, kept the flat of his hand on the face, offered once to go along the market row and find out who
+puts the date on that door and was not sent, went down the stair and came back up and said nothing about it, and said
+one flat thing about a crack in the trough on 856 that nobody answered him about. **His board's face did not come
+out in his own row on any of the ten days, and no mouth asked him about the space on it on any of the ten, and the
+space is not printed on any of the ten.** The man of about thirty-four who keeps a stall two stalls along — **his
+right hand went inside his coat on 852 and came out again with nothing in it and the chalk was not in his hand when
+it came, and the chalk did not come out of that pocket on any of the ten days**, his board went down to his trestle
+without him at the end of 852 and was across his knees again on 853 and after, and he said nothing to anybody about
+either. The man of about thirty-seven was not available to anybody and is on no page of these ten. The man of about
+twenty-seven — filled his bucket out of a trough that had ice standing an inch deep in it and could not, went round
+to the low place in the stone and filled it there instead and carried it further, and went on with his own work
+afterwards, washing the sill of the store's door and the stone at the side of the step and **not washing the wall he
+washed once and has not washed since**, and he was not thanked for the long carry and nobody said anything about the
+ice. The man of about thirty-eight at that salt wharf — put his fingers into the skin across the hollow and found a
+crack running from the near rim to the middle with dark damp grit under it, took his barrow the long way round on the
+dry crown from 854 and said so to nobody, carried a load on it and got it to the store's end on 860 and asked nothing
+and was asked nothing, **and his tally-board was not turned over on any of the ten days and his two lines of grey grit
+are as they were.** The man of about thirty-one who carries things for a living — made four journeys on 0858 and down that stair on 0859 and along the market row, **the satchel was not opened on any of the ten days, no
+chapter says what is in it beyond the one thing its owner knows is in it, no mouth in that room asked him about it,
+and no chapter gives a reason for it.** The man of about fifty-seven and the man of about sixty and Tamsin Quill and
+Ivenn Marrow are on no page of these ten days at all, so no hand lifted the new rope and no fence post moved and no
+milestone was paid.
 
 **AND THE STANDING DISAGREEMENTS ON THIS PAGE ALL STAND AND NONE WAS SETTLED BY THESE TEN DAYS:** the stallholder of
-about thirty-four is two people in this repository and no page has ever said so; the two men of about thirty-eight
-are two people and this batch kept the wharf man at the wharf distinct from anything else; the two women of
-twenty-nine are never in one room; and the man of about thirty-seven is not available to anybody. **The fourth of
-the four who said no was not counted at any value, the three on the road with a barrow each were given no elapsed
-figure, and the woman who walked a market is on no page of these ten.**
+about thirty-four is two people in this repository and no page has ever said so; the two men of about thirty-eight are
+two people and this batch kept the wharf man at the wharf and the board he carries distinct from anything else; the
+two women of twenty-nine are never in one room; and the man of about thirty-seven is not available to anybody. **The
+fourth of the four who said no was not counted at any value, the three on the road with a barrow each were given no
+elapsed figure, and the woman who walked a market is on no page of these ten.**
 
 **AND THIS PASS MOVED TEXT AND DID NOT CHANGE A RECORD.** This file was copied whole into
-`state/archive/character-state.md.volume-18-batch-0002-full.md` and the copy was verified against the live file by
-SHA256 before any line was removed, and the Volume 18 Batch 0001 block and the review-repair block on Chapters 0851
-to 0860 went to that archive undeleted. **No descriptor, no age, no number, no place, no name and no standing
-disagreement moved.**
+`state/archive/character-state.md.volume-18-batch-0001-full.md` and the copy was verified against the live file by
+SHA256 before any line was removed, and the Volume 18 planning block was replaced by this one. **No descriptor, no
+age, no number, no place, no name and no standing disagreement moved.**
+
+---
+
+# WHAT THE REVIEW REPAIR OF CHAPTERS 0851 TO 0860 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**No descriptor moved, no age was given, no name was given or spoken, no standing disagreement was settled, and
+nobody got stronger. What moved is this: two people on this page are now inside one sentence of their own, and one
+held wording stopped being restated in this file.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG IS NOW INSIDE A SENTENCE.** On 856, which is the
+chapter where the woman of about fifty-two names the volume's first cost about nine feet off him while he goes on with
+his thumb along the foot of his own board, his thumb stops on a rate he had been holding without knowing he was holding
+it, and he leaves it where it is rather than move it and show that he had moved it. **That is the whole of what he
+gets on that day. He is not given a view of the cost, nothing in him agrees with it, nothing in him answers it, he is
+not thanked, nobody tells him he was right, and no chapter says the cost was worth it.** His chalk did not come out of
+that pocket on any of the ten days before this repair or after it, his board still went down to his trestle without him
+at the end of 852 and was across his knees again on 853 and after, and he still said nothing to anybody about either.
+
+**ADRIAN VALE IS STILL IN ONE CHAPTER OF THE FIFTY AND IN NO OTHER, AND ON THAT ONE CHAPTER HE IS NOW INSIDE A
+SENTENCE.** On 853 his hands were on ice standing in a trough and what he wanted it for was to have that trough usable
+before the fourth hour so the bucket could be filled, published `no`, and the ice is still not broken in that chapter
+and nobody breaks it. **He now knows he did not ask for the back of a knife that would have come out of it, and the
+chapter says that was the whole of what he had brought to the trough.** Nobody thanked him, nobody told him he was
+right, nobody in that room was waiting for him to be useful and he was not useful to them, and the thing he causes is
+still that the man of about twenty-seven fills his bucket at the market yard's low place in the stone and carries it a
+longer way than the trough was. He is Stage 2, aged nowhere, and the volume's nine days are still 0853, 0861, 0866,
+0871, 0881, 0889, 0890, 0893 and 0899.
+
+**TWO MOUTHS ON THIS PAGE NOW SPEAK WHERE THEY USED TO BE SUMMARIZED, AND NEITHER OF THEM IS A NEW PERSON.** The man
+of about twenty-seven said on 855 that he did not know and had not looked to see who it was. The man of about
+thirty-one who carries things for a living said that it would be the same for anybody who had not looked. **Both were
+already on this page and both are already in the room in that chapter; nothing was invented and no descriptor was
+taken from the pool. The man of about thirty-one's satchel was still not opened on any of the ten days, no chapter
+still says what is in it beyond the one thing its owner knows is in it, and no mouth still asks him about it.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THE WHARF AND THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD ARE NOT MERGED,
+AND THE REPAIR DID NOT MAKE THEM MORE ALIKE.** The wharf man got his first turn in an exchange named on 860, where he
+says where the wheel goes, and **the four turns named on 859 belong to the man of about thirty-four who keeps a stall
+two stalls along and the man of about thirty-one who carries things for a living, both of whom were already in that
+room; the man of about thirty-nine who trades on a board says nothing on 859 and is on no page of it in any mouth, and
+naming the man of about thirty-four there did not turn him into the man of about thirty-nine or make the two one
+person.** The two men of about thirty-eight are still two people and the two men of about thirty-four are still one
+unresolved thing that no page has ever settled.
+
+**AND THE HELD WORDING IS IN ONE FILE AND NOT IN THIS ONE.** `state/chapter-summaries.md` restated the wording of day
+856 in one clause and this file restated it in another, and both clauses are struck. **The sentence is printed once,
+in `chapters/volume-18/chapter-0856.md`, and it is in no mouth on any other day, in no plan section, in no prompt and
+in no summary, and the state layer now points at the chapter instead of paraphrasing it. A paraphrase in a state file
+is the same fault as a second printed copy and this repository has now had it twice on one sentence and struck it
+twice.** The day 813 cost is a different cost, is held at `state/volume-17-close.md`, and is not touched by this.
