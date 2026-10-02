@@ -3,13 +3,13 @@
 **This file carries the live layer only: where every standing object in the world stands, and the figures
 that hold. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-batch-0003-full.md`, verified
-by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE
-BATCH 0003 PASS REPLACED THE BATCH 0002 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0861 TO 0870, AND IT HOLDS
-THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0003 BLOCK. THE COPY TAKEN BY BATCH 0002 IS AT
-`state/archive/continuity.md.volume-18-batch-0002-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER BLOCK IS
-IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED. THE FIGURES FOR ANY BATCH ARE IN
-`state/batch-summaries/`, ONE FILE PER BATCH, AND THE DAY-BY-DAY STATES FOR ANY EARLIER BATCH ARE IN THE ARCHIVE.****
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-batch-0002-full.md`, verified
+by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
+BEFORE THE BATCH 0002 PASS REPLACED THE BATCH 0001 BLOCK AND THE REVIEW-REPAIR BLOCK ON CHAPTERS 0851 TO 0860, AND
+IT HOLDS THOSE TWO BLOCKS IN FULL AND DOES NOT HOLD THE BATCH 0002 BLOCK OR THE REPAIR BLOCK ON CHAPTERS 0861 TO
+0870. EVERY EARLIER BLOCK IS IN `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED. THE
+FIGURES FOR ANY BATCH ARE IN `state/batch-summaries/`, ONE FILE PER BATCH, AND THE DAY-BY-DAY STATES FOR ANY EARLIER
+BATCH ARE IN THE ARCHIVE.**
 
 **THIS FILE HAS NOW BEEN COMPACTED NINE TIMES, for the reason a review gave: it had grown a layer of superseded
 per-batch history that no writer can read and no batch could afford to load, and four of those compactions were
@@ -345,166 +345,134 @@ REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT WITH IT, UNDELETED AND VERIFIE
 WAS REMOVED.** What stays is the day-750 standing position, the figures that hold, the standing
 prohibitions, the two newest batch blocks and this block.
 
+---
 
-# WHAT VOLUME 18, BATCH 0003 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
 
-**Ten chapters, ten days, days 871 to 880, and the world moved by what ten mornings do to a room that has had a person
-in it since Saturday. Nothing else in it moved, and this block supersedes the Volume 18 Batch 0002 block and the
-review-repair block on Chapters 0861 to 0870 that stood below it, which are in
-`state/archive/continuity.md.volume-18-batch-0003-full.md` along with everything this one replaces.**
+# THE REVIEW REPAIR OF CHAPTERS 0861 TO 0870 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**THE BLOCK BELOW DESCRIBES THE REPAIRED TEXT AND NOT THE TEXT AS IT WAS FIRST WRITTEN.** An outside read at
+`logs/batch-0002.review.log` found six object states or claims in it out of date after the repair and they are
+corrected in place: the near course of boards gone over on day 861, the chalk smear washed off the door and coming
+away on a hand on 862, the lid of the box of chalk standing wider open on 870, the stool turned along the wall on
+866, the edge-mark in the shelf's dust on 866, and the stack sliding along its barrow on 868. **Every other line of
+the block below stands.** No thread was closed, no object was un-set, no figure was withdrawn, no day moved, and the
+whole of this file as it stood before this repair is at
+`state/archive/continuity.md.volume-18-batch-0002-full.md`. The repair's own account of what it did and did not
+change is at `state/batch-summaries/volume-18-batch-0002.md`.
+
+# WHAT VOLUME 18, BATCH 0002 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**Ten chapters, ten days, days 861 to 870, and the world moved by what ten mornings do to a room that has no
+instrument for a person and then gets one in it. Nothing else in it moved, and this block supersedes the Volume 18
+Batch 0001 block and the review-repair block that stood below it, which are in
+`state/archive/continuity.md.volume-18-batch-0002-full.md` along with everything this one replaces.**
 
 **WHERE THE MANUSCRIPT STANDS. Seventeen volumes are written and sixteen are closed. Volume 17 closed at day 850.
-Volume 18 has Chapters 0851 to 0880 on disk, forty of its fifty days, and ten are not. There are eight hundred and
-eighty chapter files and the series plan is nine hundred across eighteen volumes, so ten chapters are the whole of what
-remains.**
+Volume 18 has begun: Chapters 0851 to 0870 are on disk, thirty of its fifty days, and twenty are not. There are
+eight hundred and seventy chapter files and the series plan is nine hundred across eighteen volumes, so thirty
+chapters are the whole of what remains.**
 
-**WHAT THE TEN DAYS ADDED TO THE STATE, AND IT IS ALL STANDING STATE.**
+**WHAT THE TEN DAYS ADDED TO THE STATE, AND IT IS ALL STANDING STATE.** A board on the outside wall at the far end
+of that market, on two nails above a step, **hanging on one nail with the hole of the other empty above it**, round
+and clean inside, with a ring of old grit in the bottom of it, **and its figures showing at the height where a man
+walks, so that a person going along that row no longer has to go up on the step to read them.** The man of about
+twenty-seven put a bucket handle under its lower edge on day 865 and lifted it about the thickness of a coin and the
+nail held it and he let it go. **Nobody can say when the second nail came out and no chapter of these ten says so and
+nobody in that row asked.** A store door at the store's end standing a hand's breadth from where it stood on Sunday
+morning, with the opening that much narrower at the far edge and **a stack of boards square on a barrow that will
+not go through it, turned end for end, put on the diagonal, put against with a shoulder, and carried in one at a
+time on a shoulder until the third one would not follow the first two**; nobody was hurt and nobody in that yard can
+say how the door came to be there. **Two hollows in the flags at the side of the wharf yard, where on day 854 there
+was one: the first has a crack in the skin across it which the wet has gone deeper into, and the second has bare pale
+grit lying in the bottom of it and nothing broken in it. THIS IS THE SECOND HOLLOW THAT
+`outline/batches/volume-18-batch-0001.md` HELD FOR DAY 868 AND IT IS WRITTEN, as a state, with no morning attached
+to it.** A wet coat over the back of the chair at the far side of the room with one sleeve of it wet to the shoulder
+and the other sleeve dry, **and dust on the seat of that chair showing plain and unbroken and nobody having sat in
+it.** A mark of chalk dust a thumb's width across on the stone at the top of the market step beside the box of chalk,
+hard on the side away from the wall and still soft where the lid stands over it, **and on day 870 the lid of that
+box standing a finger wider open than it had stood any morning of that week, with a bar of light through the gap and
+a straight edge across the soft of the dust that had not been there before.** A trestle at the store's end with
+its near leg out of square a finger's width and the grit round the foot of it pressed into a ring by the rocking.
+A course of boards laid crooked on it, **and, on day 861, the near course of the boards lying along the front of
+that trestle gone over on its far end and come to rest across the foot of the trestle with its far end in the water
+and its near end on the dry stone, where nobody has propped it and nobody lifted it.**
+**THE SMARE OF CHALK ACROSS THE SECOND LINE OF THE DATE ON THE OUTSIDE OF THAT DOOR, WHICH A HAND PUT ON DAY 862,
+WAS WASHED OFF THE WOOD BY A SHEET OF WATER OFF THE AWNING AT THE END OF THAT SAME AFTERNOON AND CAME AWAY ON THE
+FLAT OF THE MAN OF ABOUT THIRTY-FOUR'S HAND, WHICH CARRIES A GREY MARK IN THE SHAPE OF THE SECOND LINE DOWN TO THE
+END OF DAY 870 AND ON WHICH NOBODY SAID ANYTHING.** **The stool of the woman of about fifty-two stood two inches
+further along the wall at the side of that bench on day 866 than it had stood at the light, because she turned it
+out of a stranger's way and left it there.** **The dust on the shelf at the far end of that room carries the edge
+of the man of about thirty-four's board pressed into it a finger's depth in from the front of the shelf, from the
+hour he stood that board against it on day 866, and the board itself was back across his knees at the ninth hour.**
+**The stack of boards on the barrow at that yard slid back along the top of the barrow about as far as a hand is
+wide on day 868, its near corner having come down on the stone and its far end out over the flags, and the man of
+about thirty-eight came out and put the flat of his hand on the top board and left it there.**
 
-- **THE BOARD OF THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD WENT UP IN HIS OWN ROW WITH THE FACE OF IT OUT ON
-  DAY 875 AND IT IS STILL OUT.** It stands in two notches cut near the ends of the top of his trestle, **and the wood
-  inside those notches had gone pale and hard where the weather could not get at it, and by the light's going on the
-  day it went up the water had climbed the two feet of it about the depth of a finger and the pale wood inside the
-  notches went dark and wet.** It has been in the open every morning since and **no chapter of these ten days says how
-  long it stood turned in, no chapter prints or describes or counts the space on its face, and no mouth asks him about
-  it on any day.** It was turned in against that trestle on every morning before 875 and it is not turned in on any
-  morning after it.
-- **THE COST AND THE DECISION OF DAY 875 ARE BOTH SPENT AND NEITHER IS ON A PAGE IN ANY OTHER WORDS.** He said the cost
-  out loud first, in his own mouth, into the middle of that floor, with a date in chalk on the outside of the door at
-  the foot of the stair behind him, and then the decision after it, in his own mouth. Nobody agreed with him, nobody
-  argued, nobody improved on one word of it, nobody asked him afterwards whether he was sure of it, and nobody thanked
-  him for saying it out loud or for anything else. **The wording is held at `outline/volume-18.md` §6.6 and is on no
-  page at all, and both of the two lines on that page are the manuscript's standing convention of a bolded quoted line
-  holding no words.** **The narration does not say he is right, does not say the row wanted it, and does not say what
-  the space on that face is for, and no chapter of these ten says so either.**
-- **A NAME WAS SAID OUT LOUD ONCE IN THAT ROOM ON DAY 878 BY THE MAN WHO CAME UP THAT STAIR ON DAY 866.** No hand wrote
-  it down, it went on no board and in no column and on no page of the register and on no bare piece of board and on no
-  other surface in this manuscript, **and the chapter that carries it prints the room and not the name, which is the
-  house's instrument and not the page.** The woman of about twenty-nine who keeps a public register had her hand flat
-  on that page all through that morning and wrote none of it, and no chapter says she was going to write it and did
-  not. **The name is held at `outline/volume-18.md` §6.8 and is printed on no page of these ten days in any mouth and in
-  no other form, and it is not in this file.**
-- **THE VOLUME'S THIRD COST IS PAID AND PAYS FOR NOTHING YET.** On day 879 the woman of about fifty-two with her hands
-  at the sides of her dress said out loud, in her own mouth and in her own words and into the middle of the floor and
-  not to anybody, what it has cost the man of about thirty-one who carries things for a living to come up that stair
-  every morning of this flood with the flap of that satchel down and never once be asked a question about it. **Nobody
-  named it for her, nobody answered it, nobody improved on one word of it, nobody said it was right or what it was
-  worth, nobody thanked her for saying it, nobody asked her a second thing about it, and nothing whatever was done
-  about it at any hour of that day.** **The wording is printed once, in `chapters/volume-18/chapter-0879.md`, and it is
-  in no other file in this repository, and this file does not restate it and did not restate it in other words at any
-  stage.**
-- **THE SATCHEL ON THE SILL OF THE ONE WINDOW NOW CARRIES A MARK IN THE DUST UNDER IT.** A hand set it down there on the
-  morning of 879 took the shape of it, **and by the tenth hour the dust inside the shape of it was pale and standing up
-  loose where the dust along the rest of the sill had gone hard and grey, and along the two long edges of that shape the
-  older dust stood out in two low ridges pushed by the strap and the flap swinging against the wood, and those ridges
-  have begun to set.** He took it off the sill and went down the stair with it at the tenth hour and **did not come back
-  up on that day.** The satchel was not opened at any hour of that morning and no reason was given for it and nobody in
-  that room asked him for one.
-- **A BOOT-MARK ON THE NEAR LEG OF THE STOOL AT THE SIDE OF THAT BENCH, FOUND OUT ON DAY 871 AND JOINED TO NOTHING.**
-  A foot of that leg stands out on the flags away from where that bench is, **and the dust had gone off the wood of
-  that foot for the length of a hand and up the leg for a finger's width above it, and the wood in between had come up
-  pale.** The man with the one wet sleeve stood and looked along its legs at it for the better part of a minute and had
-  been in that room on every morning since he came up that stair and had not seen it happen. **It is joined to no
-  morning, it is joined to the mark of a boot in the dust of the top step on day 859 to nothing, and no chapter of these
-  ten days dates it and no chapter says whether it could be dated.**
-- **A CRACK IN THE NEAR END OF THE TROUGH AT THE TOP OF THE MARKET STEP, GONE TO THE WIDTH OF A FINGER.** It has let
-  water out of the end of it every morning since day 873, **and by the tenth hour on 873 the water coming through it
-  had cut a line in the dust of the stone at the top of the step about the length of a hand, with the dust in the line
-  dark and packed and the dust on either side of it pale and standing up, and where the line came out of the wood it
-  had begun to widen at the top.** **No chapter of these ten days mends it, no chapter fetches a piece of lead or a heat
-  for it, and the man it belongs to fills his bucket out of the far end of that trough anyway.**
-- **THE MAN OF ABOUT THIRTY-NINE'S OWN BOARD IS NOT IN THAT ROOM FROM THE AFTERNOON OF DAY 875.** He carried it down
-  that stair at about the fifth hour of 875 and left it standing out in his own row, and **on 876, 877, 878 and 879 he
-  is in the room with his own hand flat on the wood of the end of the bench and no board.** Before 875 he brought it up
-  and propped it against the leg of that bench on 871 to 874, and on 875 at about the seventh hour he came back up the
-  stair without it.
-- **THE STALLHOLDER'S OWN BOARD STAYED FACE IN ON ALL TEN DAYS, INCLUDING THE MORNING HE TOOK IT DOWN AND STOOD IT
-  BACK.** At about the ninth hour of 877 he took it off the leg of his own trestle and stood it against the leg with
-  the face of it in and the bare back of it out, **and nobody in that row asked him to do the other thing with it and
-  nobody said anything to him about it.**
-- **A MAN CARRIED A LOAD IN PAST A MAN AT A DOOR THAT WOULD NOT STAY PROPPED, ON DAY 880.** The store door at the store's
-  end **stood a hand's breadth from where it stood on Monday morning, with the opening that much narrower at the far
-  edge, and it was still standing there on Saturday.** A board put under it on edge skidded out along the wet stone
-  about the width of two fingers and the door came back on the stack, **and the load went in past a man in the opening,
-  board by board, over his right shoulder and under it, for the better part of a morning.** **The cloth of that man's
-  coat took a wet print at that shoulder and kept it, and the skin of his left hand went white along the rim of the jamb
-  and stayed white and came back between one board and the next when he worked at it with the thumb of his other hand.**
-  **Nobody was hurt and no mouth in that yard offered an account of how that door came to be there and nobody said how it
-  moved, and no chapter of these ten days moved it again.**
-- **THE WALKING SPACES OF THAT ROW GOT TO BE A THING PEOPLE STEPPED ROUND BY THE NINTH HOUR OF DAY 877**, and nobody in
-  that row said it out loud. **The store door and the date on it stand at the store's end of that row and not one
-  person in that row went near that door on any of the ten days, and it is named on two of the ten days and on eight of
-  them it is not named at all.**
-- **THE SECOND HOLLOW IN THE FLAGS AT THE SIDE OF THE WHARF YARD STANDS AS IT STOOD AT THE END OF DAY 868**, one with
-  its crack gone deeper into the skin across it and one with pale grit in the bottom of it and nothing broken in it,
-  and **the man of about thirty-eight brought his barrow round the far side of both of them on 880 and neither came near
-  his wheel, and no mouth in that yard dated either of them and no chapter of these ten days dates the second one to any
-  morning.**
+**NEW CONTINUITIES THE TEN DAYS ESTABLISHED AND OWE ON.** A sound on that stair at about the fifth hour of day 864
+which the man of about thirty-nine who trades on a board was sure he heard and the man of about thirty-four who keeps
+a stall two stalls along was sure he did not, and the woman of about twenty-nine who keeps a public register said
+the stair gives a sound back twice and the second time is louder than the first. **Nobody went down to look, nobody
+asked the man of about thirty-one who carries things for a living where he was, and he came back up at about the
+sixth hour with the flap of the satchel down and was asked nothing. THE SOUND IS NOT JOINED TO THE MARK OF A BOOT IN
+THE DUST OF DAY 859, NOT JOINED TO THE MORNING THE BAR CAME OUT OF ITS SOCKETS, NOT JOINED TO ANY OTHER MORNING, AND
+NO CHAPTER SAYS WHETHER IT COULD BE PUT TO ONE.** The bare piece of board under the date stood off the wood at its
+near end on all six of the days it is named on, and nothing was written on it, nothing was put under it, and it was
+not moved and not accounted for on any of the ten days. The date in chalk went on being gone on every morning of the
+ten and no mouth in these ten days settled who puts it there.
 
-**NEW CONTINUITIES THE TEN DAYS ESTABLISHED AND OWE ON.** A shape said out loud in that room on 872 — a thing said in
-it, the same thing written by somebody else, the second one read back — **and there is no such thing in this city, it was
-not written down, it was not put on a surface, it was not laid beside another form and it was not compared with another
-form, and the rate at the foot of the man of about thirty-four's own board wanted a day against it from the middle of the
-week onward and has still not got one, and nobody settled it.** A sentence said three times in the same words on 874,
-twice by two men of that row and once by the man who came up that stair on Saturday, **and nobody in that room said they
-had heard it before, nobody quoted anybody, nobody answered it, and no chapter of these ten days says whether it could be
-put to a person.** **THE WORDING OF THAT SENTENCE IS PRINTED ON TWO PAGES OF THIS MANUSCRIPT AND ON NO OTHER, THE PAGE
-OF CHAPTER 0870 WHERE IT WAS FIRST SAID AND THE PAGE OF CHAPTER 0874 WHERE IT WAS SAID AGAIN, AND THIS FILE DOES NOT
-RESTATE IT.** A buckle mark the width of a thumb on one shoulder of a coat and the strap laying across the other one.
+**THE WALKING OF DAYS 861 TO 870, SO A LATER PHASE DOES NOT HAVE TO DERIVE IT.** Rain coming back from the west on
+861 and not yet on the flags. The rain gone off in the night and the row wet from end to end on 862, drying in
+patches under the awnings. A bright cold morning with the row drying from the store's end back on 863. No wind at all
+on 864 and the stairwell keeping everything done in it. A low sun under the awning on 865 that had not reached the
+wall. Weather gone round to the north on 866 and the morning coming up the stairwell in a hard white light. A mist off
+the flats that had not cleared by the light on 867 and no light in that room at all. Rain steady on eleven miles of
+flats on 868 and coming on harder at the ninth hour. Dry and cold with the flags gone hard in the night on 869. Light
+straight up the market row on 870 with no break in it. **No two of the ten days' weather is described the same way
+and no chapter of these ten derives one of them from another.**
 
-**THE WALKING OF DAYS 871 TO 880, SO A LATER PHASE DOES NOT HAVE TO DERIVE IT.** A Thursday with the sun not yet on the
-flags at the fourth hour. A Friday with the light in under the awning from the near end of that bench to about the
-middle of that room. A Saturday flat and cold with no wind in it and the flags gone hard in the night. A Sunday with the
-weather got up again off the flats and the light in low under the awning and never past the middle of that bench. A
-Monday with the light coming straight in under the awning and lying along that bench from end to end. A Tuesday close
-and flat with no shadow standing anywhere in that room and the flags of the row gone the colour of ash. A Wednesday
-with the wind round to the south-west pushing at the back of that row all morning and the edges of the boards moving
-in it. A Thursday clear and cold with a low sun under the awning. A Friday with the sky gone over at the top and the
-light in that room the colour of the inside of a shell. A Saturday with water standing in the ruts between the tracks
-along eleven miles of flats. **No two of the ten days' weather is described the same way and no chapter of these ten
-derives one of them from another.**
+**THE ADRIAN VALE STATE, WHICH A WRITER CHECKS AGAINST THE FILES.** He is in 2 of these 10, at 0861 and at 0866, and
+in none of the other eight. **The other seven of the volume's nine are 0871, 0881, 0889, 0890, 0893 and 0899, and
+with 0853 and 0861 they make the volume's nine.** His hands on 861 were on the flat of a trestle board at the store's
+end and he wanted that row's boards off the flags before the rain came back, published `no`, and **the thing he
+causes is that the man of about thirty-four cannot set his own board down on the near end of that trestle, because
+the top board of it is under Adrian Vale's hands, and carries it the length of the trestle to the far end, where the
+leg is round and wet and the board goes over twice, and holds it with one hand from the fifth hour to the tenth.**
+**And at about the tenth hour the course of boards he wanted off the flags goes over on its own, without him,
+because the water got between the courses, and comes to rest across the foot of the trestle.** His hands on 866 were
+on nothing that is on a page and he wanted to have been in that room when whoever came up the stair came up it,
+published `yes`, and **the thing he causes is that the man of about thirty-four carries his board the length of the
+room, because there is nowhere to stand it at the near end of that bench with Adrian at it, props it against the
+shelf at the far end where it goes over once and the dust on that shelf is disturbed, and brings it back at the
+ninth hour.** `Adrian Vale` stands at 11 occurrences in 2 files of these ten and 0 in the other eight. He is Stage 2 on all ten days, no working, no threshold, no workway offered and none
+asked for, aged nowhere, `passage` and `privilege` at zero, and the other side of anything is named on one page of
+these ten, in his mouth, in that room, in daylight, with a date on the door behind him, and in the narrator's mouth on
+no day of the ten.
 
-**THE ADRIAN VALE STATE, WHICH A WRITER CHECKS AGAINST THE FILES.** He is in 1 of these 10, at 0871, and in none of the
-other nine. **The other eight of the volume's nine are 881, 889, 890, 893 and 899, and with 0853, 0861 and 0866 they
-make the volume's nine.** His hands on 871 were on the top rail of the stool at the side of that bench and he wanted
-somebody to sit down, published `no`, **and the thing he causes is that the man of about thirty-one who carries things
-for a living cannot get past the side of that bench with a satchel under his arm except sideways, because the stool
-stands a foot further out than the woman of about fifty-two set it down and the stool does not move because the two
-hands on the rail of it are not coming off it, and he turns the satchel end for end on his arm to get the buckle past
-the near leg of the bench and the strap comes a half turn round and lays across his other shoulder and cuts the coat
-there in a place it had not cut in before.** Nobody thanked him, nobody told him he was right, nobody in that room was
-waiting for him to be useful and he was not useful to them. `Adrian Vale` stands at 4 occurrences in 1 file of these ten
-and 0 in the other nine. He is Stage 2 on all ten days, no working, no threshold, no workway offered and none asked
-for, aged nowhere, `passage` and `privilege` at zero, and **no word belonging to the other side is named on any of these
-ten days in any mouth and in the narrator's mouth, and the literal `other side` is at zero across all ten bodies.**
-
-**THE COSTS.** The cost of day 856 is spent and does not come back, and **no chapter of these ten repeats a word of it,
-paraphrases it, puts any part of it in a second mouth, or says it was worth it, and no file this batch wrote paraphrases
-it in other words.** The cost of day 869 is paid and does not come back and its wording is printed once, in
-`chapters/volume-18/chapter-0869.md`. **THE THIRD COST, OF DAY 879, IS PAID AND DOES NOT COME BACK, and its wording is
-printed once, in `chapters/volume-18/chapter-0879.md`, and it is in no plan section and in no other file.** Nobody
-thanked the woman of about fifty-two, nobody improved on one word of it, nobody answered it, nobody said it was right or
-what it was worth, nobody asked her a second thing about it, and nothing whatever was done about it at any hour of that
-day.
+**THE COSTS.** The cost of day 856 is spent and does not come back, and **no chapter of these ten repeats a word of
+it, paraphrases it, puts it in a second mouth, or says it was worth it.** The cost of day 869 is paid and does not
+come back: the woman of about twenty-nine who keeps a public register named it, in her own mouth, before anything
+else that morning, into the middle of the floor and not to anybody. **Its wording is printed once, in
+`chapters/volume-18/chapter-0869.md`, and it is in no plan section and in no other file, and no file this batch wrote
+prints a word of it or a paraphrase of it.** Nobody thanked her, nobody improved on one word of it, nobody answered
+it, nobody said it was right or what it was worth, nobody asked her a second thing about it, and nothing whatever was
+done about it at any hour of that day. **The sentence said twice on day 870 stands in two mouths and is printed once,
+in `chapters/volume-18/chapter-0870.md`, and no other mouth on any of these ten days says it in the same words.**
 
 **THE STANDING PROHIBITIONS AND WHICH OF THEM THESE TEN DAYS TOUCHED.** The figure the volume behind spent is in no
-mouth and in no narration on any of the ten days and is not restored, and **no mouth on any of these ten days reaches a
-number by any road and no numeral stands in any mouth on any of them.** No headcount of that room is printed on any of
-the ten days. The chalk was in the man of about thirty-four's inside breast pocket at every hour of all ten days and
-came out on none of them, his hand did not go into that pocket on any of the ten days, **and the word `chalk` stands at
-seventeen across the ten bodies and every one of the seventeen is the chalk on the outside of the door and the two
-chalks are never joined in one sentence on any of the ten.** The bare piece of board under the date carries nothing and
-is named on nine of the ten and moved on none of them. The bar is out of its sockets and not lifted and **is named on
-two of the ten days, 873 and 879, and on no morning joined to any other, and no chapter of the ten opens on it.** The
-board on the outside wall stands on one nail. The store door stands a hand's breadth across and nobody knows how and it
-was not moved again on any of the ten days. No name is spoken. No standing question is asked or answered, including
-the ones of days 798 and 848. The mark of day 440 is not traced. The fourth of the four who said no is not counted at
-any value. No seventh date form, no ordinal for a month, no day after the five hundred and sixty-fifth, no span,
-nothing said about what the month does at its end. No notice and no document. The wall says nothing on all ten days. No
-charter, seal, council, quorum, assembly, crossing or witness is named on any page of these ten. Nobody gets stronger
-and no stage name is printed.
+mouth and in no narration on any of the ten days and is not restored, and no mouth on any of the ten reaches a number
+by any road. No headcount of that room is printed on any day. The chalk was in the man of about thirty-four's inside
+breast pocket at every hour of all ten days and came out on none of them, and his hand did not go into that pocket on
+any of the ten days. The board under the date carries nothing. The bar is out of its sockets and not lifted and is
+named on three of the ten days and on no morning joined to any other. The board on the outside wall stands on one
+nail. The store door stands a hand's breadth across and nobody knows how. No name is spoken. No standing question is
+asked or answered, including the ones of days 798 and 848. The mark of day 440 is not traced. The fourth of the four
+who said no is not counted at any value. No seventh date form, no ordinal for a month, no day after the five hundred
+and fifty-fifth, no span, nothing said about what the month does at its end. No notice and no document. The wall
+says nothing on all ten days. No charter, seal, council, quorum, assembly, crossing or witness is named on any page
+of these ten. Nobody gets stronger and no stage name is printed.
 
 **AND THIS PASS MOVED TEXT AND DID NOT CHANGE A RECORD.** All five live state files were copied whole into
-`state/archive/` as `<name>.md.volume-18-batch-0003-full.md` and every copy was verified against its live file by
-SHA256 before a line was removed. **The Volume 18 Batch 0002 block and the review-repair block on Chapters 0861 to 0870
-went to the archive, undeleted, and no thread, no figure, no decision and no prohibition was withdrawn by the move.**
-This is the ninth compaction of these five files.
+`state/archive/` as `<name>.md.volume-18-batch-0002-full.md` and every copy was verified against its live file by
+SHA256 before a line was removed. **The Volume 18 Batch 0001 block and the review-repair block on Chapters 0851 to
+0860 went to the archive, undeleted, and no thread, no figure, no decision and no prohibition was withdrawn by the
+move.** This is the eighth compaction of these five files.
