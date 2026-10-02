@@ -354,3 +354,48 @@ prohibitions, the two newest batch blocks and this block.
 **ADRIAN VALE.** In 893 (page in own hand unreadable, wanting one question twice, `no`; causing bucket to go wide and spill), 899 (near end of stack, wanting dry by fourth hour, `no`; causing two top boards to come off while he holds), 900 (empty hands, answering child in one sentence). Stage 2 throughout, no working, no threshold, `passage`/`privilege` zero, thanked by nobody, told nothing, useful to nobody.
 
 **UNMOVED.** Five strokes no sixth, second slate untouched, face-out board with opened top writing, face-in board, chalk in pocket, bar on step, date plus blank bare board, store door, cracked trough, stool, one-nail board, hollows, rate wanting day, sill shapes, 881 question, two-hands man. No elapsed figure on 900; none reaching a number by any road on any of ten; room never counted; no lock-word on any page but the image uses road/gate/stone/rain.
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
+`reviews/volume-18/batch-0005.md`. The reviewer was not invoked and this pass is the agent kind that wrote the ten
+chapters. NOTHING IN THE STANDING LIST MOVED, NO OBJECT CHANGED PLACE IN THE WORLD, NO FIGURE WAS WITHDRAWN, NO
+DAY WAS RE-DERIVED AND NO THREAD WAS CLOSED BY ANY REWORDING.**
+
+**ONE CONTINUITY FAULT WAS FOUND INSIDE ONE CHAPTER AND REPAIRED, AND IT WAS A CONTRADICTION.** **On 897 the woman
+of about fifty-two stood alone in that room before light, put her hand out to the stool and drew it back, heard the
+stair sound and went to the wall side — and then, in the paragraph where that room fills, the same page had her
+coming in last and finding the wall.** She now stands where the stair put her for the rest of that morning and is
+not in the arrivals list at all, which also leaves her alone before light as frame nine requires and leaves the
+stool and the shut book untouched at the end of it. **Its closing was also reworded — the stool was where she had
+left it, for a closing that shared a construction with 0892 and 0900 — and it is the only one of the ten closings
+this pass touched.**
+
+**THE FIGURES OF THE BLOCK ABOVE WERE RE-RUN ON THE REPAIRED TEXT AND EVERY ONE OF THEM IS PUBLISHED WITH BOTH
+READINGS WHERE THE TWO DISAGREE, IN `reviews/volume-18/batch-0005.md`.** Words across the ten bodies 6,588
+to 6,664 and the mean 659 to 666 on `wc -w` heading line out; paragraphs 99 to 99; speech paragraphs **published at
+33 by the batch record and measured at 34 on the reading *a paragraph whose first characters are `**"`*, and at 32 with
+the two held empty lines left out — all three published, and none of the three is a reading this pass can close** —
+with **zero** bold marks without a quotation mark and **zero** quotation marks without a bold mark, both re-run after
+the rewordings; `that` at 0 and re-run at 0, because a first wording of the 0892 repair introduced one and it was
+reworded back out rather than published; the longest run of consecutive words shared by any two of the ten 20 as the
+batch record published it and **21 on this pass's own tokenising**, now **18 after the rewordings**, and every run at
+seventeen or over is the standing state of one sleeve wet and one sleeve dry in prescribed words; the longest run
+between any two of the ten closings 8 as published and **7 after the 0897 rewording**, and the survivor is the hour
+and not a construction. Repeated sentences of 38 characters or more stand at 0 and were re-run at 0.
+
+**THE ZEROES WERE RE-RUN ON THE REPAIRED TEXT AND ALL OF THEM STAND.** The thirty-five-entry zero column at 0 in all
+ten files; `charter`, `seal`, `council`, `quorum`, `assembly`, `crossing`, `witness` and `recognised` at 0, which is
+§16.2 and is the debt carried at §21.4 and not an omission; `player` and `players` at 0 and 1, the one in the child's
+mouth on 900 as §11 and §16.13 put it there; `passage` and `privilege` at 0; `system`, `monster` and `version` at 0;
+`name`, `names`, `named`, `number` and `count` at 0 in all ten bodies; digits at 0 in all ten bodies; the panel at 0
+in these ten, with the volume's one still on `chapter-0886.md` alone and not reprinted here; `Adrian Vale` in three
+files of ten, 893, 899 and 900, and in none of the other seven. **Two words that a reader may grep and find are
+named with their sense rather than argued about: *crown* stands at 2 in 0899 and both are the crown of a flagstone,
+and *tally* stands at 2 in 0899 and both are the tally-board on the frame of that barrow, which is standing state and
+is not the column the plan forbids.**
+
+**AND THE SIX FIGURES THE CLOSE OWES THE READER ARE OWED BY IT AND NOT BY ANYTHING ELSE: the volume's rolling count
+of closings that state nothing changed across fifty days and not across one batch, and the worst window of any ten
+days in it, with the instrument named.** `workspace/volume-18/close/PROMPT.md` is written and is the only next phase
+this repository has, and it writes `state/volume-18-close.md` and no chapter.

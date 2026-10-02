@@ -10,17 +10,65 @@ BATCH 0004 PASS WROTE ITS OWN BLOCK IN PLACE OF THE BATCH 0003 BLOCK AND THE REV
 `state/archive/current.md.volume-18-batch-0003-full.md` AND IS BEHIND IT AND WAS NOT DELETED. EVERY EARLIER BLOCK IS IN
 `state/archive/` UNDER THIS FILE'S OWN NAME AND NONE OF THEM WAS DELETED.**
 
-**VOLUME 18, BATCH 0004 WROTE TEN CHAPTERS AND STOPPED AT 0890. THE NEXT PHASE IS
-`workspace/volume-18/batch-0005/PROMPT.md`, AND IT IS THE LAST BATCH OF THE MANUSCRIPT.**
-Volume 18 has Chapters 0851 to 0890 on disk, forty of its fifty days, and ten are not; there are eight hundred and
-ninety chapter files on disk and the series plan is nine hundred across eighteen volumes, so ten chapters are the whole
-of what remains. **The blocks below are in reverse order of recency: the newest is the Volume 18 Batch 0004 block at the
-foot, and every older block in it is a closed volume's or a closed batch's, and none of them is the head of this file
-any more.**
+**VOLUME 18 IS COMPLETE ON DISK AND THE MANUSCRIPT STANDS AT NINE HUNDRED CHAPTERS ACROSS EIGHTEEN VOLUMES. THE
+NEXT PHASE IS `workspace/volume-18/close/PROMPT.md`, IT IS A CLOSE AND NOT A BATCH, IT WRITES
+`state/volume-18-close.md` AND NO CHAPTER, AND IT IS THE LAST PHASE OF THIS MANUSCRIPT BECAUSE THERE IS NO
+VOLUME 19.** Chapters 0851 to 0900 are on disk, fifty of fifty days, and no chapter past 0900 exists and none is
+to be written. **The blocks below are in reverse order of recency: the newest is the review-repair block on
+Chapters 0891 to 0900 under this paragraph, then the Volume 18 Batch 0005 block, and every older block in it is a
+closed volume's or a closed batch's.**
 
 **THE HEAD OF THIS FILE USED TO CARRY THIRTY LINES OF ARCHIVE BOOKKEEPING BEFORE A LINE OF STATE, AND A REVIEW
 SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
-smaller than it found it or to say in its own record why not.**
+smaller than it found it or to say in its own record why not. THIS PASS MADE IT LONGER BY THE BLOCK ABOVE AND SAID
+WHY IN `reviews/volume-18/batch-0005.md`, WHICH IS THE REASONING THE HEAD ASKS FOR AND WHICH IS NOT A DEFENCE.**
+
+# THE REVIEW-REPAIR PASS ON CHAPTERS 0891 TO 0900. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
+
+**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
+`reviews/volume-18/batch-0005.md`. The reviewer was not invoked — line 1 of that log reads `agent
+"novel-reviewer" is a subagent, not a primary agent. Falling back to default agent` — and this repair pass is the
+same agent kind that wrote the ten chapters, so it declares that here rather than claiming an independence it does
+not have. The head paragraph above is the standing position and it supersedes every pointer to a next phase inside
+any older block below, including the one in the paragraph after this one.**
+
+**WHAT MOVED IN THE TEN CHAPTERS, AND IT IS PROSE AND ONE CONTINUITY FAULT.** Nine chapters were touched and 0899
+was not wrong and was not touched. A stutter of verbs and a paragraph built from parallel restatement in 0891; a
+phrase doubled inside one sentence in 0892; two clearings of the same man in 0893; a chain of negations standing in
+place of an account of a room, and an opening that doubled a clause and tied a new man to a stair he had
+not been on before, in 0894; a second chain of negations in 0895; a first appearance carried on a bare age in 0896,
+where §17.9 wants the full handle first and the shortening after; a cast member who came into a room she was
+already standing in on 0897, which was a contradiction inside one chapter; an opening on 0898 that used a short
+handle before the full one and stuttered *his own* three times in one sentence; four words of ordinary business at
+the bars on 0900. **No
+chapter was restarted, no day, weekday, Bare-Month ordinal, card, pressure tag, cast member, object,
+decision, cost, held string or plot beat moved, no held wording was printed and none was filled in, no chapter was
+lengthened to a number, and nine of the ten closings are word for word as the batch wrote them — 0897's was reworded
+inside its own construction because it shared one with 0892 and 0900, which §17.18 forbids.**
+
+**THE MISSING NEXT PHASE IS WRITTEN AND THE MANUSCRIPT NO LONGER STOPS AT A DIRECTORY THAT DID NOT EXIST.**
+`workspace/volume-18/close/PROMPT.md` did not exist when this pass began and `state/current.md` said so in its own
+text and named the debt as owed. **It exists now**, on the pattern of `workspace/volume-17/close/PROMPT.md`,
+carrying the fifty-day verification, the three costs at 856, 869 and 879, the decision at 875, the name at 878, the
+panel at 886 with its wording neither reprinted nor certified absent, the act at 890, the resolution at 893, the
+new question at 898, the last image at 900, the nine Adrian days with none obtained but 866 and 881, the standing
+objects and where each one stands at day 900, the eight things held in a file that a close may neither print nor
+report on, the §17.22 rule about a record asserting an absence it has not measured, and the debts owed by a human
+with the file and the line named. **No other directory and no other prompt was created, and no `.done`,
+`.checkpoint` or `.retired` file was created or removed.**
+
+**WHAT IS OWED AND NOW NEEDS AN OWNER, AND IT IS NOT REPAIRED HERE.** **THE NAMED MATERIAL OF
+`outline/ending.md` IS ON NO PAGE OF THIS VOLUME AND AT NINE HUNDRED CHAPTERS THERE IS NO VOLUME LEFT TO PAY IT
+IN.** `outline/volume-18.md` §16.2, §18 and §19.5 make that absence a decision of the plan — §16.2 forbids any
+page of these fifty naming a charter, a seal, a council, a quorum, an assembly, a crossing or a witness, and §19.5
+publishes the struck Volume 18 line of the series volume list with four of its six beats struck — and §21.4
+carries it as a debt. **A review returned it as a structural fault, and the fault is real and it is an owner's:
+either `outline/ending.md` is amended to declare the gate-in-rain image canonical, or the last volume is re-outlined
+to carry that material, and that decision is not to be made inside a chapter batch and was not made here.** **The
+two findings this pass declined on the same ground are the length of these chapters, which is set at the outline
+layer, and the six of seven people in that room who have no names, which is the volume's own method and the
+plan's §7.2 gives every handle as an age and a trade.** Both are in `reviews/volume-18/batch-0005.md` with the
+finding, the reading, and the reason.
 
 **THE REVIEW REPAIR ON CHAPTERS 0881 TO 0890 TOOK THE HEAD OF THIS FILE DOWN BY SEVEN LINES AND ADDED ONE PARAGRAPH
 TO IT, AND THIS PARAGRAPH IS THE ONE IT ADDED.** Seven lines of this file stood there twice, byte for byte, from the

@@ -8,7 +8,7 @@ She had been thinking, while she looked, of how long the flags take to go pale a
 
 ---
 
-The room filled and stood. The woman of about twenty-nine who keeps a public register came in and opened the book on the bench with her hand on the page. Otto Marsh came up after her and took the wall side of the table with his fingers laced at his back, one sleeve of his coat wet to the shoulder and the other sleeve dry. He did not move into the light. The woman of about fifty-two came in last and found the wall. The man of about thirty-nine who trades on a board came in and sat at the far end of the bench. The man of about thirty-four who keeps a stall two stalls along came in with his own board under his arm. The man of about twenty-seven came up with the bucket and the rag in his hand.
+The room filled and stood. The woman of about twenty-nine who keeps a public register came in and opened the book on the bench with her hand on the page. Otto Marsh came up after her and took the wall side of the table with his fingers laced at his back, one sleeve of his coat wet to the shoulder and the other sleeve dry. He did not move into the light. The man of about thirty-nine who trades on a board came in and sat at the far end of the bench. The man of about thirty-four who keeps a stall two stalls along came in with his own board under his arm. The man of about twenty-seven came up with the bucket and the rag in his hand.
 
 **"The flags will dry from the middle out,"** said the man of about twenty-seven, setting the bucket by the table leg.
 
@@ -16,8 +16,8 @@ The room filled and stood. The woman of about twenty-nine who keeps a public reg
 
 **"The seams are dark now,"** said the man of about thirty-nine, at the far end of the bench.
 
-Some of them answered and some went on with what they had in their hands. The man of about thirty-four laid his board across his knees and left it there. Otto Marsh said nothing all morning. The woman of about fifty-two said nothing about the stool or the book. Out in the row the face on its own trestle stood out in the open with the wet going off it, and about four people a day went past on their own business, and some of them stopped and some of them did not.
+Some of them answered and some went on with what they had in their hands. The man of about thirty-four laid his board across his knees and left it there. Otto Marsh said nothing all morning. The woman of about fifty-two said nothing about the stool or the book. In the row the face on its own trestle stood out in the open with the wet going off it, and about four people a day went past on their own business, and some of them stopped and some of them did not.
 
 ---
 
-Toward evening the crowns of the flags went pale as the keeper had said, and the seams held dark in lines between them. The stool stood where it had stood, and the pale edge of the dry stone reached the foot of it and stopped.
+Toward evening the crowns of the flags went pale as the keeper had said, and the seams held dark in lines between them. The stool was where she had left it, and the pale edge of the dry stone reached the foot of it and stopped.

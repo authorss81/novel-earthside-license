@@ -1,9 +1,12 @@
 # Chapter Summaries
 
-**HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** The only block that
-matters to the current phase is the **Volume 18 Batch 0004** block at the foot, which carries the ten summaries for
-days 881 to 890 and the plan index for the ten days after them. **It replaced the Volume 18 Batch 0003 block, which
-carried the summaries for days 871 to 880 and is in the archive named below and is not restated here.**
+**HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** The two blocks that
+matter to the current phase are at the foot: the **review-fix block on Chapters 0891 to 0900**, which carries what
+the repair changed on the page, and the **Volume 18 Batch 0005** block above it, which carries the ten summaries for
+days 891 to 900. **Chapter 0900 is the last chapter of this manuscript and the next phase is
+`workspace/volume-18/close/PROMPT.md`, which writes `state/volume-18-close.md` and no chapter.** **They replaced the
+Volume 18 Batch 0004 block, which carried the summaries for days 881 to 890 and is in the archive named below and is
+not restated here.**
 
 **THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/chapter-summaries.md.volume-18-batch-0004-full.md`,
 verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
@@ -174,3 +177,23 @@ figures for days 801 to 810, which left this file with that block, are at
 | 0900 | 900 | LAST IMAGE. Rain, shut road, open gate, about nine waiting ordinary, child asks (`players`), one-sentence answer, woman far side book shut, two hands on gate, stone worn in two places. Gate as it stood closing. |
 
 **MANUSCRIPT COMPLETE AT 900 CHAPTERS. No chapter past 0900 exists. Next phase is close only.**
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. THIS BLOCK IS NEWEST AND IT WINS.
+
+**No day was re-derived and no summary of a day changed what that day did. Nine of the ten files were touched and
+only for prose and for one contradiction; the two days a repair could have changed most — 894 and 895, where the
+last enemy of this manuscript stands and goes down that stair — kept every fact, every mouth and every silence they
+had, and 900 kept every element §11 gives it and gained four words of ordinary business at the bars.**
+
+| Ch | Day | What the repair changed on the page, and what it did not |
+|---|---|---|
+| 0891 | 891 | A stutter of verbs and a paragraph of parallel restatement rewritten into hands and faces. The two answers, the ordinary hour, the bucket, the census, the closing drip band: all stand. |
+| 0892 | 892 | A phrase that was doubled inside one sentence reworded, and the order of two people in the standing paragraph untouched. Tuesday said again Thursday, the sill shapes, the closing crumble of dust: all stand. |
+| 0893 | 893 | Two clearings of the same man merged into one. The seventh-hour asking, the leaf turned, the two answers, the page curled at the corner: all stand, and the narration still does not say what was asked, what it cost, or that it was a memory. |
+| 0894 | 894 | Three negations standing in for a room replaced by the room, and an opening that tied the new man to a stair he had not been on before unhooked. The empty line, one thing said once, two plain things, no thanks, the closing dust drying pale: all stand. |
+| 0895 | 895 | Two sentences of negation made into one. Leaf, rate and rag not coming out; two going down past the bar; the third staying; no forgiveness, no condemnation, no handing to a side; the closing light stopping short of his boots: all stand. |
+| 0896 | 896 | The stallholder's full handle moved out of a speech attribution into the standing paragraph, where §17.9 wants a first appearance. Sixteen posts, eleven withies, no post moved, no fence measured, the empty road, the closing mist: all stand. |
+| 0897 | 897 | **A contradiction inside one chapter repaired: she no longer comes into a room she is already standing in.** Its closing said *stood where it had stood*, which is the construction 0892 and 0900 also close on, and now says the stool was where she had left it. Frame nine, the three sentences of looking, the shut book, the weather, the pale edge at the foot of the stool: all stand. |
+| 0898 | 898 | The opening gave the full handle before the short one and stopped stuttering *his own*. The hand on the pocket with nothing out, the question put to one man and not the room, unanswered and unheard, the closing square smoothing out: all stand. |
+| 0899 | 899 | Nothing. He is not in this file's repairs because nothing in it was wrong. |
+| 0900 | 900 | Four words of ordinary business at the bars: a sack turned on its end to go through, and the two hands on the gate staying where they were. Rain, the shut road, the gate, about nine waiting with ordinary things, the child's one question, the one-sentence answer, the woman far side with the book shut, the stone worn in two places, and the closing water running out of them: all stand, and this is still the last page of the manuscript. |

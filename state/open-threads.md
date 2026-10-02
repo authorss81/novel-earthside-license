@@ -216,3 +216,37 @@ human.**
 **EIGHT TAKEN UP 891–900 AND NOT SETTLED.** Double answers ordinary on 891/893 with neither called right. Tuesday sentence Thursday again on 892 with older sill shape still undated. Unheard asking of 893 with leaf turned, what/cost/memory all unstated. Words once for the one on 894 with no thanks and no decision and two plain things. Two down one staying on 895 with no forgiveness/condemnation and no handing. Empty road-top gate on 896. Drying flags with weather talk on 897. Unheard question to one man on 898 unanswered and unheard. Two boards off on 899. Last image on 900 with gate left open. **Second person of 883 on no page after 883; final antagonist of 894–895 on pages with no descriptor/age/number and empty-line words; Otto Marsh and second person never in one room.**
 
 **CARRIED UNPAID.** §16 eighteen, spent figure zero un-restored, no room count, mark 440 untraced, fourth-of-four uncounted, no road elapsed, market-walker off page, fracture unmended, fifth condition not given, milestone nine only, nobody stronger, ending unmoved. Human-owed debts unchanged.
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. THIS BLOCK IS NEWEST AND IT WINS.
+
+**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
+`reviews/volume-18/batch-0005.md`. The reviewer was not invoked and this pass is the agent kind that wrote the ten
+chapters. NO THREAD WAS CLOSED, ANSWERED OR WITHDRAWN, AND NO QUESTION WAS ASKED IN THE REPAIR.**
+
+14. **THE CLOSE IS NO LONGER OWED AND NO LONGER NAMED AS MISSING. IT NOW EXISTS.**
+    `workspace/volume-18/close/PROMPT.md` did not exist when this pass began and two files said so in their own
+    text. It is written, on the pattern of `workspace/volume-17/close/PROMPT.md`, and it is the only next phase
+    this repository has. **It writes `state/volume-18-close.md` and no chapter, and a close does not dispatch, so
+    there is no phase after it and there is no Volume 19.** The debt the Batch 0005 record named and did not work
+    around is closed by the file existing, not by anything being answered.
+15. **THE NAMED MATERIAL OF `outline/ending.md` IS STILL ON NO PAGE, AND AT NINE HUNDRED CHAPTERS IT HAS NO VOLUME
+    LEFT TO BE PAID IN. THIS IS NOW A THREAD WITH NO OWNER AND IT IS THE LARGEST ONE.** `outline/volume-18.md`
+    §16.2, §18 and §19.5 make the absence a decision of the plan and §21.4 carries it as a debt, and the plan also
+    forbids any page of these fifty naming a charter, a seal, a council, a quorum, an assembly, a crossing or a
+    witness. **A review returned it as a structural fault, and it is one, and it cannot be paid by a batch, a
+    repair pass or a close: either `outline/ending.md` is amended to declare the gate-in-rain image canonical, or
+    the last volume is re-outlined to carry that material.** That decision belongs to the owner of those two files.
+    **No chapter, state file, prompt or record of this repository may print any of it, and none now does.**
+16. **THE MEAN LENGTH OF THESE CHAPTERS AND THE FACT THAT SIX OF SEVEN PEOPLE IN THAT ROOM CARRY NO NAME ARE BOTH
+    CARRIED, NEITHER IS REPAIRED, AND NEITHER IS THIS PASS'S TO REPAIR.** The mean is set at the outline layer and
+    every volume behind this one is shorter than the one before it except this one, which is longer than Volume 17.
+    The unnamed cast is the volume's own method and §7.2 gives every person an age and a trade as their handle;
+    a review returned it as a readability fault and it is a readability fault, and it is not fixed by renaming seven
+    people across eighteen volumes inside a repair pass.
+17. **AND THE FIGURES THIS PASS RE-RAN, WITH THE ONE THAT DISAGREED WITH ITS OWN RECORD PUBLISHED BOTH WAYS.** The
+    longest run of consecutive words any two of 0891 to 0900 share was published at 20 by the batch record and
+    measured at 21 on this pass's tokenising, and is 18 after the rewordings, and every run at seventeen or over is
+    the standing state of one sleeve wet and one sleeve dry in words the plan prescribes. **`nobody` was published
+    at 39 and measures at 41 on the reading `\b[Nn]obody\b` in the ten bodies, before the rewordings that removed two
+    chains of it, and 38 after them.** Both figures are published with their readings because a record that publishes
+    only the one that agrees with it is a record of a different check.

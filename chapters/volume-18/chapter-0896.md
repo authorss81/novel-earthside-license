@@ -2,7 +2,7 @@
 
 The wind came off the flats before light with rain in it, and the man of about sixty stood at the top of the shut road with his handcart beside him and looked down the length of it where nobody was walking.
 
-It was Monday, the five hundred and eighty-first day of the Bare Month. The rain ran off the willow posts and hung in drops on the withies along the top of them, sixteen posts and eleven withies bound on with the same cord, and the wood was dark to the height where a man's hand goes. The gate at the near end of the road stood open as it had stood since before the flood, and the footing under it showed two hollows polished by use where the stone had worn. The man of about sixty had his hazel mallet in the bed of the cart with the head of it bound in cord, and a coil of rope used and dark with wet beside it.
+It was Monday, the five hundred and eighty-first day of the Bare Month. The rain ran off the willow posts and hung in drops on the withies along the top of them, sixteen posts and eleven withies bound on with the same cord, and the wood was dark to the height where a man's hand goes. The gate at the near end of the road stood open as it had stood since before the flood, and the footing under it showed two hollows polished by use where the stone had worn. The man of about sixty had his hazel mallet in the bed of the cart with the head of it bound in cord, and a coil of rope used and dark with wet beside it. The man of about thirty-four who keeps a stall two stalls along stood a few paces back from him with his own board under his arm and the bare back of it turned out.
 
 ---
 
@@ -10,7 +10,7 @@ He walked the first length of the road and back, with the mud giving under his b
 
 **"The top wants clearing before the water sits in it,"** said the man of about sixty, to the empty road.
 
-**"It wants clearing,"** said the man of about thirty-four, who had come up behind him with his own board under his arm, **"and it will not be cleared today."**
+**"It wants clearing,"** said the man of about thirty-four, a few paces back, **"and it will not be cleared today."**
 
 **"It will not,"** said the man of about sixty.
 

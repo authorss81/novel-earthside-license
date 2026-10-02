@@ -6,7 +6,7 @@ It was Friday, the five hundred and seventy-eighth day of the Bare Month. The mo
 
 ---
 
-At about the seventh hour Adrian Vale asked a question in the room, and he had asked it on every morning of the flood, and nobody answered it, and the reason was nobody else ever heard him ask it. Nobody in the room remarked on it. The keeper turned a leaf and squared it against the fold and put her hand back on the page. The man of about twenty-seven lifted the bucket and carried it down the stair round Adrian Vale's feet, and had to go wide at the bottom step to clear the page on his knees, and a little water went over the rim onto the stone. Adrian Vale drew his feet back to give the width of the floor and did not look up from the page.
+At about the seventh hour Adrian Vale asked a question in the room, and he had asked it on every morning of the flood, and nobody answered it, and the reason was nobody else ever heard him ask it. Nobody in the room remarked on it. The keeper turned a leaf and squared it against the fold and put her hand back on the page. The man of about twenty-seven lifted the bucket and carried it down the stair, and had to go wide at the bottom step to clear the page on Adrian Vale's knees, and a little water went over the rim onto the stone. Adrian Vale drew his feet back to give the width of the floor and did not look up from the page.
 
 He had wanted to have said one question twice, and he did not. Nobody thanked him, nobody told him he was right, nobody in the room was waiting for him to be useful and he was not useful to them.
 

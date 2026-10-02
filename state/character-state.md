@@ -300,3 +300,36 @@ standing disagreements, the two newest batch blocks and this block.
 **OTHERS.** Keeper: hand on page, leaf work, double answers, unheard things unremarked. Stallholder/man-34: board across knees face in, hand over pocket on 897–898 with nothing out, rate wanting day. Man-39: far/near bench ends, knot/thumb, double answers, two-hands stair unquestioned, unanswering on 898. Man-27: bucket/rag/trough thread, questions, top-step trip on 895. Woman-52: hands at dress sides, wall, alone with stool/book on 897 with three-sentence looking, two plain things one hers on 894. Man-31: satchel flap down unopened, question-asker 891/893, sayer 894, stair-goer 895. Man-38: barrow/tally/grit, stack 899, place told to nobody. Man-60: top road, cart/mallet, no post moved. Tamsin Quill: far side 900 with book under arm, one short answer. Child: one question with `players` in mouth, first since Volume 03, expressly allowed.
 
 **DISAGREEMENTS STAND.** Stallholder two people never in one room; two men-38 two people; two women-29 never in one room; man-37 unavailable; no possessive off approximation; full handle first then short.
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0891 TO 0900. THIS BLOCK IS NEWEST AND IT WINS.
+
+**This pass read `logs/batch-0005.review.log` and repaired against it, and the file of record is
+`reviews/volume-18/batch-0005.md`. The reviewer was not invoked and this pass is the agent kind that wrote the ten
+chapters. NO DESCRIPTOR ALTERED, NO AGE MOVED, NO TRADE CHANGED, NO HANDLE ADDED OR REMOVED, NOBODY STRONGER, NO
+STAGE PRINTED, `passage` AND `privilege` ZERO, NO HELD WORDING TOUCHED, AND 0894 AND 0898 STILL STAND AS EMPTY
+LINES.**
+
+**ONE ENTRY IN THE BLOCK ABOVE WAS WRONG AND IS CORRECTED HERE.** It gave the stallholder's hand over the pocket on
+897 and 898. **It is 898 alone: 897 is the woman of about fifty-two alone before light with the stool and the shut
+book, and there is no pocket in that chapter and no hand goes into one.** The card at the head of
+`state/batch-summaries/volume-18-batch-0005.md` gives that day correctly and the slip was in this file only.
+
+**AND THE ONE THAT WAS NOT WRONG IN THE STATE LAYER BUT WAS WRONG ON THE PAGE, WHICH IS WORSE, IS THE RULE AT THE
+FOOT OF THE BLOCK ABOVE: full handle first, then short.** 0898 broke it. Its opening carried the short handle and
+then stuttered *his own* three times in one sentence, and the full handle arrived in the second paragraph. **The
+opening now gives the man of about thirty-four who keeps a stall two stalls along in full, the standing paragraph
+carries the stallholder, and every later mention is the stallholder or a pronoun — which is the rule this file
+already published and the chapter had stopped obeying.**
+
+**THE HANDLING OF THE MAN OF 894 AND 895 IS TIGHTER BY ONE CLAUSE AND ITS FACTS ARE UNCHANGED.** He has no
+descriptor, no age, no number and no name, he is on no surface, and no mouth asks him what he is. The one clause
+that tied him to a stair he had come up before is gone, **so that he cannot be read as the second person of 883, who
+is on no page after 883 and is never to be merged with him or with the man who came up that stair on 866.** He is
+still given two hands empty at his sides, the light finding his face, and he still goes down that stair on 895 past
+the bar without touching it while the third stays.
+
+**AND THE CONTRADICTION ON 897 IS GONE: the woman of about fifty-two is in that room before light and is not in
+the arrivals list when it fills.** She stands where the stair put her, with her hands at the sides of her dress, for
+the rest of that morning, she says nothing about the stool or the book, and the stool and the shut book are
+untouched at the end of it. No possessible was built off an approximation anywhere in the ten files after the
+repairs, and the census handles stand word for word where the plan requires them.

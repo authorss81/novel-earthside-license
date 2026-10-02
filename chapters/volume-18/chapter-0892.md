@@ -12,7 +12,7 @@ The keeper kept the book open on the bench all morning with her hand on the page
 
 **"It wants wiping,"** said the keeper, and did not take her hand off the page.
 
-The sentence had been said on Tuesday in the same words by the same mouth, and on Thursday it was said again in the same words and nobody in the room said they had heard it before. The man of about thirty-nine looked up from the far end of the bench and then down again at the wood under his thumb. Otto Marsh stayed against the far wall and said nothing, and the woman of about fifty-two stayed by the wall side of the bench with her hands at the sides of her dress and said nothing.
+The sentence had been said on Tuesday in the same words by the same mouth, and on Thursday the same mouth said it again over the sill, and nobody in the room said they had heard it before. The man of about thirty-nine looked up from the far end of the bench and then down again at the wood under his thumb. Otto Marsh stayed against the far wall and said nothing, and the woman of about fifty-two stayed by the wall side of the bench with her hands at the sides of her dress and said nothing.
 
 **"There is lead on the row and every bit of it is on a nail,"** said the man of about thirty-nine, at the far end of the bench, **"and the thread out of the trough wants a heat as well as the lead."**
 

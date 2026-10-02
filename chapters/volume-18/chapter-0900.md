@@ -18,7 +18,7 @@ Adrian Vale said it in one sentence, to the middle of those waiting, and he did 
 
 **"It will stay open,"** said Tamsin Quill, from the far side.
 
-The rain went on over the road and the gate and the stone. The ordinary people moved forward by ones and twos through the opening, with their sacks and baskets held clear of the bars, and the child went through with her bundle held up under her chin to keep it dry. Adrian Vale stepped aside to give the width of the gate to those going through, and then walked toward the far side where the woman with the book waited.
+The rain went on over the road and the gate and the stone. The ordinary people moved forward by ones and twos through the opening, with their sacks and baskets held clear of the bars. One sack would not go through on its side and was turned on its end at the bars by the man carrying it, and the two hands on the gate stayed where they were while it went by and did not touch it. The child went through with her bundle held up under her chin to keep it dry. Adrian Vale stepped aside to give the width of the gate to those going through, and then walked toward the far side where the woman with the book waited.
 
 ---
 

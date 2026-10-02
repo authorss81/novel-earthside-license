@@ -16,7 +16,7 @@ The piece of work on the bench did not come out all morning. The keeper held the
 
 At about the eighth hour the one by the door pushed off the door frame and went to the head of the stair. The man of about thirty-one went with him with the satchel under his arm, and the man of about twenty-seven set down the bucket and went with the two of them as far as the top step. The three went down a little way together, and then Otto Marsh stayed where he was on the far side of the table with his hands behind him and did not follow. The one by the door went on down with the two men, past the bar lying along the top step, without touching it, and the sound of their boots went down the stairwell and out through the open door at the foot.
 
-Nobody said he was forgiven and nobody said he was condemned. Nobody gave him to one side and nobody gave him to one man. The keeper squared the leaf against the fold once the door below had swung to. The man of about thirty-nine kept his hand on the wood of the bench and looked at the door and said nothing more.
+Nobody said he was forgiven and nobody said he was condemned, and he was given to no side and to no one man. The keeper squared the leaf against the fold once the door below had swung to. The man of about thirty-nine kept his hand on the wood of the bench and looked at the door and said nothing more.
 
 ---
 
