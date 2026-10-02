@@ -22,7 +22,4 @@ At about the ninth hour the keeper looked at the far end of that bench again for
 
 ---
 
-At the tenth hour those two men were both standing at the far end of that bench in the light, and neither of them had anything to say about where he had been between the fourth hour and the seventh, and nobody in that room asked either of them.
-
-
-
+At the tenth hour those two men were both standing at the far end of that bench in the light, and neither of them had anything to say about where either of them had been between the fourth hour and the seventh, and nobody in that room asked either of them.

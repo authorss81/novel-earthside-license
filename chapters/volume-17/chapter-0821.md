@@ -23,5 +23,3 @@ The light came off the bench wood before the ninth hour and went onto the wall a
 ---
 
 The flags at the side of that bench kept the damp shape of where that stool had stood, and the damp at the edge of that shape had begun to go off the stone before the tenth hour and the shape itself was still on them.
-
-

@@ -23,5 +23,3 @@ A thing said at the near end of that bench at about the seventh hour did not car
 ---
 
 The worn place in that bench was at the near end of it that morning where the light was on the wood, and it was darker than the wood round it and darker than it had been anywhere on that bench before.
-
-

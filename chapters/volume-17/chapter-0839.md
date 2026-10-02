@@ -8,7 +8,7 @@ Nobody in that room said one word about the stool being where it was.
 
 ---
 
-At the near end the keeper put both hands flat on the wood on either side of her page and said that there was a stool at that side again.
+At the near end the keeper put both hands flat on the wood on either side of her page.
 
 **"There is a stool at that side again."**
 

@@ -2,7 +2,7 @@
 
 The man of about thirty-eight at that salt wharf came up the stair behind his barrow until the near wheel came against the iron, and put his right hand flat along the top of it to keep the load from going forward over the step.
 
-Sunday had come in with the rain driving over the store's end and the stairwell running. The five hundred and thirty-first day of the Bare Month was on the door below in chalk, and the stair ran wet down past him to the bottom step. The bar lay along the top step where it had lain since the flood, with the water standing in beads along the top of it and the grit of the step stuck along the underside where the iron met the stone.
+Sunday had come in with the rain driving over the store's end and the stairwell running. The five hundred and thirty-first day of the Bare Month was on the door below in chalk, and the stair ran wet down past him to the bottom step. The bar lay along the top step out of its sockets, with the water standing in beads along the top of it and the grit of the step stuck along the underside where the iron met the stone.
 
 He got the end of his barrow shaft under the near end of it and put his weight on the shaft, and the iron came up as far as the width of two fingers and stopped there, and it stayed up only while his weight was on it. He moved his hands to the end that stood nearest the wall and pulled at it, and that end would not move at all. The water came off the top of the iron and ran down over his knuckles into his sleeve, and he took his hands off it and stood with them hanging while the barrow leaned against him in the wet.
 

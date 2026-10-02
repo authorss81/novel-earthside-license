@@ -4,7 +4,7 @@ The woman of about fifty-two came up that stair with rain on the shoulders of he
 
 It was the fourth hour on the four hundred and ninety-eighth day of the Bare Month, a Tuesday. The light came in at the one window and stopped short of the bench wood. The bar lay on the top step of that stair and the door at the bottom of it stood a hand's width off its frame.
 
-The morning filled in the ordinary way. The keeper turned a leaf. The man of about thirty-four took his hollow. The man of about thirty-one stood at the far end with his satchel under his arm.
+The morning filled in the ordinary way. The keeper turned a leaf. The man of about thirty-four took his hollow. At the far end the man of about thirty-one stood with his satchel under his arm.
 
 ---
 

@@ -661,7 +661,7 @@ its own comparison.**
 
 | scope | longest run | which pair | what the run is |
 |---|---|---|---|
-| **inside the fifty** | **58 words** | 0807 against 0813 | the bar-and-door declaration and the flat ordinary-morning formula that follows it; it sits in two closed batches and is not this close's to repair |
+| **inside the fifty** | **57 words** | 0807 against 0813 | the bar-and-door declaration and the flat ordinary-morning formula that follows it. **The first edition of this record published 58 here, and 58 does not reproduce: re-measured on the instrument published at §7 with a script, this pair is 57, and 57 is what `state/current.md` and `state/batch-summaries/volume-17-batch-0004.md` both already carried, so the close was the only file in the repository holding the odd figure.** Both are published and 58 is withdrawn. **The run has since been broken at 0813 by the repair pass at §15 and now stands at 46 words on the same instrument, measured with a script after the reword. It stops there and is not pushed lower: the 46 is the date-and-bar sentence plus three sentences this volume prints deliberately in six files each, two of which carry a census handle that `state/continuity.md` forbids a pass from rewording to shorten a run, so the sentence around a handle is what was reworded and that is where the repair ends. 33 is a later figure and not a correction of the 57.** |
 | **inside Batch 0005's ten** | **40 words** | 0843 against 0849 | two census handles standing next to one another; §17.9 requires the handle to stand word for word |
 | **across the volume's two halves** | **23 words** | 0840 against 0841 | the bare board under the date followed by the decider's handle |
 
@@ -979,9 +979,10 @@ published. **No file outside this one was edited to make any figure agree.**
 
 **AND THE FIFTY DAYS ARE FIFTY DAYS.** Day 801 is a Thursday and the four hundred and eighty-sixth day of the Bare
 Month, and a piece of iron was lying on the top step of a stair in no sockets. Day 850 is a Thursday and the five
-hundred and thirty-fifth, and the piece of iron is on the top step of that stair in no sockets, and two mornings of
-the fifty put a hand on it and on neither of the two was it got up. **A third morning did, once, and for the better
-part of two hours, and nothing in that room said one word about it and no page records whose hand it was.** A room
+hundred and thirty-fifth, and the piece of iron is on the top step of that stair in no sockets, and four mornings of
+the fifty put a hand on it, on days 801, 805, 846 and 850, and on three of the four it was not got up. **The fourth
+did, once, and for the better part of two hours, and nothing in that room said one word about it and no page records
+whose hand it was.** A room
 over a market lost the ability to say how many of its own people were in it in the volume before this one, and
 this volume found that dating one absence takes a man going past a door who remembers a door, and it got one, and
 nobody thanked him, and a man who had been coming up that stair for the whole of a flood came up it one morning,

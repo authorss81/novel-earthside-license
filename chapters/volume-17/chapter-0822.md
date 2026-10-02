@@ -25,5 +25,3 @@ Nobody in that yard thanked Adrian Vale for anything and nobody told him he was 
 ---
 
 The water in that hollow stood deeper at the tenth hour than it had stood at the fourth, and there was a skin of the grit of the stone lying across the top of it where his hands had been working.
-
-
