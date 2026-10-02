@@ -1002,3 +1002,17 @@ own prose saying four are obtained. THAT IS A THREAD AND NOT A REPAIR, AND THE C
 - **The man of about twenty-seven:** worked lip, trough, bucket and rag in the ordinary course; **spilled water down his own coat and over his boot on day 786 because Adrian Vale's hand was on the door and a stone was wedged at its foot, and he kicked that stone clear**; carried his bucket to the store's end of the market on day 789, emptied it into the trough there and left the emptied bucket in the low place in the stone at the side of the yard at the near end of the flats; was not asked anything on any of the ten days. **He is the man of 0786's whole scene. The first writing introduced him at the fifth hour and then handed the scene to the carrier, and this entry said carrier while the batch card said the man of about twenty-seven. The card was right and the page now agrees with it.**
 - **The man of about thirty-eight:** absent undatably on days 781–782; at his stack and lip on days 785 and after; asked nothing.
 - **Adrian Vale:** in one of these ten (0786), palm to a door flat to hold it open for passers-by, failing; the cause of a carrier shifting a full bucket and spilling water; thanked by nobody, told nothing, useful to nobody.
+
+---
+
+# WHAT THE LAST TEN DAYS OF VOLUME 16 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN.** NOBODY GOT STRONGER. The consent fracture stays unmended, the fifth condition is not given, no milestone paid.
+
+**THE WOMAN OF ABOUT FIFTY-TWO — the only person whose business moved, twice.** On day 795 she put both hands on the back of the stool and said the man of about thirty-nine is not in the room and she does not know since which morning, unasked how, unthanked, unacted on. On day 798 she asked him at the near end of the bench, low and unheard, what a morning is for when the only use is having been in a room in it, and got no answer. **HER STATE AT DAY 800: hands at the sides of her dress, as ever.**
+
+**THE MAN OF ABOUT THIRTY-NINE — the decider, absent four mornings and asked one question.** He is not in the room on 795 and the room cannot date since which morning; he is at the near end on 798 and does not answer. His second handle is unchanged: a board under his arm and one place bare at the foot of the middle column. **No mouth asks him about that place and no chapter prints a figure off that board.**
+
+**THE MAN OF ABOUT THIRTY-ONE — the carrier of the last image.** On day 800 his hand rests on the flap of his satchel, lifts and sets down in the same place, flap down as every morning, unopened, unexplained. **No chapter opens it and none says why he opens nothing he carries.**
+
+**ADRIAN VALE — in one of these ten and in no other: 0793.** His hands on a barrow handle, to have his own barrow back in that yard before the wharf man came with his, not obtained; the cause of a tipping, a dragging-out and a working round, thanked by nobody, told nothing, useful to nobody, with nobody waiting for him to be useful. Stage 2 on all ten days, no working, no threshold, the other world not named once, passage and privilege at zero.

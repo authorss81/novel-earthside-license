@@ -593,3 +593,13 @@ card file under `outline/`, no marker file.
 
 **THE NEXT PHASE IS `workspace/volume-16/batch-0005/PROMPT.md` AND NOTHING ELSE. It writes chapters 0791 to 0800, days 791 to 800, and it reaches the resolution on day 795, the new question on day 798 asked and not answered, and the last image on day 800 of a hand on a flap. It inherits this block, including the four corrected figure rows and the scene-room thread, and it does not reprint the panel's wording, which it is not given.**
 
+
+---
+
+## VOLUME 16, BATCH 0005 — CHAPTERS 0791 TO 0800, DAYS 791 TO 800. THE VOLUME IS COMPLETE AT FIFTY CHAPTERS. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**WHAT THIS PHASE WAS. A batch and nothing else.** Ten chapters, ten days, days 791 to 800, one chapter to a day, from a Monday to a Wednesday, the four hundred and seventy-sixth to the four hundred and eighty-fifth day of the Bare Month. It decided nothing, invented no person, took no descriptor, sent no notice, wrote no document, printed no figure off any object, opened no plan or bible file, and touched nothing under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`, and created and removed no marker file. The ten cards are at the head of `state/batch-summaries/volume-16-batch-0005.md`, and there is no card file under `outline/`.
+
+**FIFTY CHAPTERS OF FIFTY ARE WRITTEN: 0751 to 0800, DAYS 751 TO 800. NO CHAPTER PAST 0800 EXISTS.** The resolution is paid on 795, the new question asked and not answered on 798, the last image standing on 800 of a hand on a flap with no telling whether before. Adrian Vale is in 0793 and in no other of the ten. From page one of day 776 the spent figure is in no mouth in that room and in no narration, and the rule did not lapse.
+
+**THE NEXT PHASE IS `workspace/volume-16/close/PROMPT.md` AND NOTHING ELSE.** It closes the sixteenth volume and writes no chapter, no day past 0800, no card file, no marker file.

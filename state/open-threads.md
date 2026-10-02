@@ -928,3 +928,21 @@ own appended block, and it inherits the bucket thread with the two chapters that
 ## THE NEXT PHASE
 
 **`workspace/volume-16/batch-0005/PROMPT.md`, WHICH WRITES CHAPTERS 0791 TO 0800, DAYS 791 TO 800, AND WHICH REACHES DAY 795, THE RESOLUTION, DAY 798, THE NEW QUESTION ASKED TO ONE MAN AND NOT ANSWERED, AND DAY 800, THE HAND ON THE FLAP. IT INHERITS THREAD 28, THE SCENE-ROOM SHORTFALL, WHICH IS THE ONE MEASUREMENT IN THIS BLOCK THAT THE NEXT BATCH SHOULD ANSWER WITH ITS OWN PAGES AND NOT WITH A FIGURE.**
+
+---
+
+# WHAT THE LAST TEN DAYS OF VOLUME 16 DID TO THE THREADS. THIS BLOCK IS NEWEST AND IT WINS.
+
+**THIS BLOCK CLOSES NOTHING THAT A LATER VOLUME MUST SETTLE AND ANSWERS NO QUESTION. It records one resolution as PAID, one question as ASKED AND UNANSWERED, and one image as STANDING.**
+
+**THE RESOLUTION — a person correctly noticed absent on the fourth morning of it, undatable — is paid on day 795 and does not come back.** The room can still notice and can never date, which is the volume's finding, spoken by nobody.
+
+**THE NEW QUESTION — what a morning is for, when the only use is having been in a room in it — stands unanswered with the questions of days 346, 396, 445, 498, 548, 598, 648, 698 and 748.** Asked day 798 by the woman of about fifty-two to the man of about thirty-nine at the near end of that bench, in daylight, with a date in chalk on the door, unheard by the room, unanswered, unthanked. **A later volume may ask it again in a mouth, in a room, in daylight, with a date on the door, and may not answer it.**
+
+**THE OLD THREADS, CARRIED WHOLE.** The word in the column on the right stays undefined and unasked; the day cut across the head of the second form stays clear below it and the form unlifted; the bare wood under the date stays bare and meaning nothing; the length of new rope stays unused and unasked; the fence stays sixteen willow posts and eleven withies, unmeasured, no post moved; the mark of day 440 stays untraced; the consent fracture stays unmended, the fifth condition not given, no milestone paid; nobody got stronger.
+
+**AND THE DEBTS NO PHASE CAN PAY, CARRIED AND UNCHANGED. `reviews/volume-16/` does not exist and the review dispatch falls back to the writer's own agent. `state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0`. Both are controller-owned and neither was touched.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/close/PROMPT.md`, THE CLOSE OF THE SIXTEENTH VOLUME, AND NOTHING ELSE.**
