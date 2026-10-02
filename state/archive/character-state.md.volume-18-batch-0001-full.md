@@ -306,71 +306,76 @@ standing disagreements, the two newest batch blocks and this block.
 ---
 
 
-# WHAT VOLUME 18, BATCH 0001 DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
+# WHAT THE VOLUME 18 PLANNING PHASE DID TO THE PEOPLE. THIS BLOCK IS NEWEST AND IT WINS.
 
 **No descriptor altered, no age given or corrected, no name given or spoken by anybody on a page, nobody stronger,
-and the whole of what ten days did to the people on this page is one man's cost said out loud, one man's hands on
-ice that did not get it, and one week of ordinary work in a room.**
+and the whole of what this volume's planning changed about the people on this page is one new person, one returning
+name, and nine days for a man who is not going to be useful on any of them.**
 
-**ADRIAN VALE IS IN ONE OF THESE TEN CHAPTERS AND IN NO OTHER: 0853, and no other of the ten mentions him.** The
-volume's nine remain 0853, 0861, 0866, 0871, 0881, 0889, 0890, 0893 and 0899 and a card may not take a tenth. He is
-Stage 2 on all ten of these days, no working, no threshold opened, no workway offered and none asked for, aged
-nowhere, and `passage` and `privilege` are at zero across these ten files. **On 853 his hands were on ice standing
-in a trough at the top of the market step and what he wanted it for was to have that trough usable before the fourth
-hour so the bucket could be filled, published `no`.** Nobody in that room thanked him, nobody told him he was right,
-nobody in that room was waiting for him to be useful and he was not useful to them, and **the thing he causes is
-that the man of about twenty-seven fills his bucket at the low place in the stone at the side of the yard and
-carries it a longer way than the trough was.** The other world is named on no page of these ten days in any mouth
-and in no narration.
+**ADRIAN VALE IS IN NINE OF THE FIFTY AND IN NO OTHER: 0853, 0861, 0866, 0871, 0881, 0889, 0890, 0893 and 0899.**
+He is in two of the volume's heavy days, the arrival on 866 and the act on 890, and both are named with the reason
+at `outline/volume-18.md` §4.1. **HE IS STAGE 2 ON ALL FIFTY DAYS**, no working, no threshold opened, no workway
+offered and none asked for, aged nowhere, and `passage` and `privilege` at zero. **The other world is named on one
+day of the fifty and by a person and not by the narrator.**
 
-**AND THE WOMAN OF ABOUT FIFTY-TWO, WHO IS THE ONE PERSON ON THIS PAGE WHOSE STATE MOVED IN THESE TEN DAYS.** On
-day 856 she said out loud, in her own mouth and before anything else that morning, what it has cost her to be the
-one who stands at that door and looks while nobody in that room has ever asked her what she saw. She said it into
-the middle of the floor and not to anybody. **Nobody thanked her, nobody improved on one word of it, nobody answered
-it, no mouth said it was right or that it was worth it, nobody asked her a second thing about it, and nothing
-whatever was done about it at any hour of that day.** **The wording is printed once, in
-`chapters/volume-18/chapter-0856.md`, and no file this batch wrote repeats it; it is in no mouth on any of
-the other nine days of this batch and in no paraphrase, and it is that chapter's own and the plan does not hold it
-and no other file may print it.** **She was not asked
-what she does at the foot of that stair on any of the ten days, and no chapter of the ten says why she goes there,
-and her state at day 860 is hands at the sides of her dress, as ever.** On 855 she was not asked the question that
-went along that bench about the date in chalk and said nothing about it.
+**THE NINE HANDS, THE NINE WANTS AND THE NINE OUTCOMES ARE PUBLISHED AT §4.1 SO THAT A CARD MAY ONLY TAKE FROM THEM
+AND MAY NOT RESTATE THEM, and the figure that came out of them is TWO OBTAINED AND SEVEN NOT, against none of four
+and four not in the volume behind this one. NEITHER SET IS A REWARD AND NEITHER IS A LESSON, AND NO REVIEWER MAY READ
+THE TWO AS THE VOLUME GETTING BETTER.** The two obtained are a man getting to see a thing — the face of a board
+that has always stood turned in, on 881 — and a man being in a room when somebody came up a stair, on 866 — **and on
+neither of the two does anybody thank him, tell him he was right, or wait for him to be useful, and §4.1 publishes
+that so that a plan cannot turn round on it.** On 889 he has two hands on the newel at the foot of that stair and
+cannot get up it, and on 893 he asks a question nobody in that room can answer because nobody else ever heard him
+ask it. On 890 he says the cost out loud first and then one thing once, and afterwards no mouth in that city can
+ask him anything at all. **On every one of the nine he must be the cause of at least one thing that happens to
+somebody else, and the consequence may not be a decision, a word, a document, a notice or the panel.**
 
-**AND EVERYBODY ELSE ON THIS PAGE, ONE LINE EACH, AND NO HANDLE MOVED.** The keeper — carried the register, opened
-it, squared the page, turned a leaf, shut it on the mark of her own thumb and put it back on the shelf with the second
-slate standing behind it on 0851, and she asked nothing about the column on the right of her page and about the word
-in it on any of the ten days and put no name in it. The man of about thirty-nine who trades on a board — carried his
-board under his arm, kept the flat of his hand on the face, offered once to go along the market row and find out who
-puts the date on that door and was not sent, went down the stair and came back up and said nothing about it, and said
-one flat thing about a crack in the trough on 856 that nobody answered him about. **His board's face did not come
-out in his own row on any of the ten days, and no mouth asked him about the space on it on any of the ten, and the
-space is not printed on any of the ten.** The man of about thirty-four who keeps a stall two stalls along — **his
-right hand went inside his coat on 852 and came out again with nothing in it and the chalk was not in his hand when
-it came, and the chalk did not come out of that pocket on any of the ten days**, his board went down to his trestle
-without him at the end of 852 and was across his knees again on 853 and after, and he said nothing to anybody about
-either. The man of about thirty-seven was not available to anybody and is on no page of these ten. The man of about
-twenty-seven — filled his bucket out of a trough that had ice standing an inch deep in it and could not, went round
-to the low place in the stone and filled it there instead and carried it further, and went on with his own work
-afterwards, washing the sill of the store's door and the stone at the side of the step and **not washing the wall he
-washed once and has not washed since**, and he was not thanked for the long carry and nobody said anything about the
-ice. The man of about thirty-eight at that salt wharf — put his fingers into the skin across the hollow and found a
-crack running from the near rim to the middle with dark damp grit under it, took his barrow the long way round on the
-dry crown from 854 and said so to nobody, carried a load on it and got it to the store's end on 860 and asked nothing
-and was asked nothing, **and his tally-board was not turned over on any of the ten days and his two lines of grey grit
-are as they were.** The man of about thirty-one who carries things for a living — made four journeys on 0858 and down that stair on 0859 and along the market row, **the satchel was not opened on any of the ten days, no
-chapter says what is in it beyond the one thing its owner knows is in it, no mouth in that room asked him about it,
-and no chapter gives a reason for it.** The man of about fifty-seven and the man of about sixty and Tamsin Quill and
-Ivenn Marrow are on no page of these ten days at all, so no hand lifted the new rope and no fence post moved and no
-milestone was paid.
+**AND ONE PERSON IS ADDED, AND HE IS GIVEN NO AGE, NO NUMBER, NO DESCRIPTOR AND NO NAME UNTIL DAY 878.** **One
+second handle, and it is the same in every chapter he is in and may not be varied and may not be given to anybody
+else and may not be explained by any mouth: one sleeve of his coat is wet to the shoulder and the other is dry.**
+The chapters call him by that handle until 878 and by his name from 879. **His name is held at
+`outline/volume-18.md` §6.8, is on no page of this manuscript before day 878, is spoken once out loud in that room
+in daylight with a date in chalk on the door behind him, is written down by nobody, and is on no board and in no
+column and on no surface anywhere in the volume. NO CHAPTER MAY ASK HIM WHAT IT MEANS, WHERE IT COMES FROM, OR WHAT
+IS ON THE OTHER SIDE OF THE STAIR HE CAME UP, and no chapter may make him ask anybody for anything or thank anybody,
+and no chapter may say in any mouth that he is the first of anything.**
 
-**AND THE STANDING DISAGREEMENTS ON THIS PAGE ALL STAND AND NONE WAS SETTLED BY THESE TEN DAYS:** the stallholder of
-about thirty-four is two people in this repository and no page has ever said so; the two men of about thirty-eight are
-two people and this batch kept the wharf man at the wharf and the board he carries distinct from anything else; the
-two women of twenty-nine are never in one room; and the man of about thirty-seven is not available to anybody. **The
-fourth of the four who said no was not counted at any value, the three on the road with a barrow each were given no
-elapsed figure, and the woman who walked a market is on no page of these ten.**
+**AND ONE NAME COMES BACK ONTO A PAGE AFTER A VOLUME AT ZERO.** **Tamsin Quill is in one chapter of this volume,
+Chapter 0888, and she comes up that stair and says one thing once and does not come with him.** She is a folded
+sheet of road with about nine places on it and that is the whole of her second handle and it is the same in every
+chapter she is in. **MILESTONE NINE IS PAID THERE AND IT IS PAID AS A REFUSAL: she chooses where her work and her
+conscience lead, he does not ask her to choose a side, nobody thanks either of them, and no chapter says a
+relationship is repaired, no chapter says the consent fracture is mended, no chapter gives the fifth condition, and
+no chapter puts them in one room and one life.**
+
+**AND THE PEOPLE WHO CARRY THIS VOLUME ARE UNCHANGED AND EVERY HANDLE ON THIS PAGE STANDS WORD FOR WORD.** The man
+of about thirty-nine who trades on a board — **his board goes up in his own row with the face of it out on day 875,
+and the face carries nineteen rates and a space about two fingers wide where a name is not, and nobody in that row
+asks what the space is for on any of the fifty days and nobody is thanked for the board going up.** The man of
+about thirty-four who keeps a stall two stalls along — **his board is not the board of day 875 and no chapter may put
+the two together**, and the chalk has not been out of his inside breast pocket since the six hundred and
+seventy-eighth day, came out on day 837 for a breath and went back without being used, and is in that pocket at
+every hour of all one hundred days including day 900. The woman of about twenty-nine who keeps a public register —
+**she is in the room on the morning a name is said out loud on 878 with her hand on the page and writes none of it
+down.** The woman of about fifty-two — **she pays the volume's first cost on day 856 in her own words and is thanked
+for neither that nor the question she asks on 898.** The man of about twenty-seven, the man of about thirty-eight at
+that salt wharf, the man of about thirty-one who carries things for a living, the man of about fifty-seven and the
+man of about sixty — **all unchanged, all at their standing handles, and none of them asked anything this phase did
+not ask on a page.**
+
+**AND IVENN MARROW IS ON TWO DAYS OF THIS VOLUME, 894 AND 895, AND THAT IS THE FIRST TIME IN FIVE VOLUMES THAT HIS
+NAME IS ON A PAGE, and it gets there the only way a name gets onto a page in this manuscript: somebody says it out
+loud, in a room, in daylight, with a date on the door.** He comes into that room, the room decides nothing, two
+people each say one plain thing, and he goes down that stair with two of them and the third stays. **No chapter says
+he is forgiven and no chapter says he is condemned, and no chapter may hand him to one person or to one side,
+because the condition the ending puts on that is refused in the same breath it is paid. HE IS THE FINAL HUMAN
+ANTAGONIST AND THIS VOLUME INTRODUCES NO NEW ONE.**
+
+**THE STANDING DISAGREEMENTS ON THIS PAGE ALL STAND AND NONE WAS SETTLED: the stallholder of about thirty-four is
+two people in this repository and no page has ever said so; the two men of about thirty-eight are two people; the
+two women of twenty-nine are never in one room; and the man of about thirty-seven is not available to anybody.**
 
 **AND THIS PASS MOVED TEXT AND DID NOT CHANGE A RECORD.** This file was copied whole into
-`state/archive/character-state.md.volume-18-batch-0001-full.md` and the copy was verified against the live file by
-SHA256 before any line was removed, and the Volume 18 planning block was replaced by this one. **No descriptor, no
-age, no number, no place, no name and no standing disagreement moved.**
+`state/archive/character-state.md.volume-18-outline-full.md` and the copy was verified against the live file by
+SHA256 before any line was removed, and the fourth and fifth ten-day blocks of Volume 17 were replaced by this one.
+**No descriptor, no age, no number, no place, no name and no standing disagreement moved.**
