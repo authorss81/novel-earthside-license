@@ -297,3 +297,116 @@ down into it, so the mechanism of what he caused reads clean.**
 `state/archive/character-state.md.volume-17-batch-0003-full.md`, UNDELETED AND VERIFIED BY SHA256 BEFORE
 ANYTHING WAS REMOVED.** What stays is the standing cast with its handles, the handles that are not people, the
 standing disagreements, the two newest batch blocks and this block.
+
+---
+
+# WHAT THE FOURTH TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added or
+removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
+unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days. The
+two women of twenty-nine were never in one room and the two men of about thirty-eight are two people and were
+not merged or settled in narration, and the stallholder of about thirty-four is two people in this repository and
+no page of these ten puts the two in one room or asks either about the other.**
+
+**THE MAN OF ABOUT THIRTY-NINE — in eight of these ten, and he took the volume's one panel morning in his room
+and went out of it the morning after.** On day 831 he was in the wharf yard and Adrian Vale was in his doorway.
+On day 833 he came up and stood his board against the near leg of that bench and said that the man of about
+thirty-one went past that door and did not come up it and that nobody had ever asked him about it. On day 834 he
+came down that market row with his board under his arm and held the position that a box of chalk on a step is
+what that row uses it for. On day 835 he went down four steps and looked at the mark in the dust on the top step
+and said it is not a size and that the wind off that market comes over that step first, and he did not say it
+again. **On day 837 he was in that room the whole morning with his hand on the face of his board, nobody asked
+him whether he agreed with the thing on that wall, nobody asked him again at any hour of that day, and nobody
+thanked him for not being asked.** On day 838 he took his hand off that board at about the ninth hour, picked it
+up, went down that stair and away along that market row and did not come back up at any hour of that day, and
+nobody said good day to him. On day 839 he did not remark on the stool being out where anybody could get at it.
+**HIS BOARD WAS UNDER HIS ARM OR AGAINST A LEG OR IN HIS HAND ON EVERY ONE OF THE TEN DAYS EXCEPT DAY 838 WHEN IT
+LEFT THE ROOM WITH HIM, NO MOUTH ASKED HIM ABOUT THE NAME THAT IS NOT ON IT, AND HIS STATE AT DAY 840 IS
+UNCHANGED.**
+
+**THE MAN OF ABOUT THIRTY-ONE — paid this volume's second cost in his own mouth on day 840, and was asked
+nothing before it and will be asked one thing on day 845.** On day 832 he went across that market row with a
+crate on his shoulder past the foot of that stair and did not stop, and the keeper said he had not come up. On
+day 835 he found a mark of a boot in the dust on the top step of that stair, stood about four or five breaths
+and said nothing, and told the keeper and the man of about thirty-nine what was standing on that step when they
+asked him. On day 836 he stopped at the foot of that stair with a coil of rope under his arm, looked at the
+outside of that door and at the bare board under the date and up at the top step where the iron lies until a
+woman going the other way had to step wide of him, and went on and told nobody and did not come up. On day 839
+he put the toe of his boot against the lower rail of that stool and rocked it once. **On day 840 he said out loud,
+in his own mouth and first, with nobody having asked him for it, that he has carried a thing up that stair every
+morning of this flood and has gone past the foot of it every morning of this flood and could not tell anybody on
+which morning that door began to stand open, and nobody thanked him, nobody improved on a word of it, nobody
+bettered one word of it afterwards, nobody asked him a second thing about it, and nothing in that room was done
+about it at any hour of that day.** He refused a crate at the store's end on day 836 without giving a reason.
+**HIS SATCHEL STAYED UNDER HIS ARM WITH ITS FLAP DOWN AT EVERY HOUR IT IS SHOWN ON ALL TEN DAYS AND WAS NOT
+OPENED, AND AT THE TENTH HOUR OF DAY 840 HIS HAND WAS OFF THE STRAP OF IT FOR THE FIRST TIME IN THAT DAY WITH THE
+SKIN OF THE PALM WET TO THE FIRST JOINT OUT OF THE TROUGH AT THE TOP OF THAT MARKET STEP.**
+
+**THE WOMAN OF ABOUT FIFTY-TWO — put a stool out where anybody could get at it and said nothing about it.** On day
+839 the stool was at the side of that bench and not in the corner behind the near leg of it, and nobody in that
+room said one word about that, nobody said why and nobody thanked her, and she was at the side of that bench
+with her hands at the sides of her dress and did not say one word about where it had been or where it was. **She
+was asked nothing about it on any of the ten days and no chapter of this batch says why she goes to the foot of
+that stair, and she is not in the room on day 831 and day 832 and is in it on the other eight.**
+
+**THE MAN OF ABOUT THIRTY-FOUR — held one position about a box and took his chalk out on the volume's one day
+and put it back without using it.** On day 834 he said that box belongs to the room above that step and there is
+no reason on earth for it to be standing out there, and he got his board square at his own trestle and stood it
+face in with the bare back turned out into the row, and nobody agreed with him and nobody thanked him. On day 839
+he laid his hand along the top of that bench and said only that the stool was not in the corner, and later came
+past it and went round it. **On day 837 he put his right hand into his coat at the far end of that bench and
+brought out the piece of chalk he keeps in his inside breast pocket, turned it over once between his finger and
+his thumb, and put it back without writing with it; he did not go to the board on the outside wall, or to the
+bare piece of board under the date, or to any other surface in that room or anywhere else, and nobody in that
+room saw him do it, nobody remarked on it, nobody was told anything about it, and it was nobody's asking that
+brought his hand into that coat.** **HIS CHALK IS IN HIS INSIDE BREAST POCKET AND WAS OUT ON ONE OF THESE TEN
+DAYS ONLY, AND NO CHAPTER OF THIS BATCH SAYS WHEN IT WAS LAST OUT. HIS HAND DID NOT GO INTO THAT POCKET ON ANY OF
+THE OTHER NINE DAYS, INCLUDING ON DAY 838 WHEN A RATE ON HIS OWN BOARD STILL WANTED A DAY AGAINST IT.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT — lost a load into a hollow that looked like ground and carried a stack in past
+a stranger.** On day 831 he came into that yard with a barrow and a stack and found a man in the opening of that
+store door and did not ask him to move out of it or to find something to prop it with; two boards went off the
+stack on to the flags and one of them took the water through and he got the door open himself with his knee and
+carried the whole stack in past Adrian Vale on his own. On day 832 he took a loaded barrow down a hollow that had
+been dry and broke the skin of it and went over on his side in it, and the water came back into that hollow from
+four sides at once, and he said out loud that that is not ground and nobody in that yard said anything back to
+him. **The tally-board, the knife and the barrow are where they were and the board face up on a stack under two
+lines of grey grit was not wiped, not turned and not gone near on any of the ten days and there is no third line
+of grit on it.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN — could not move a shut door with his hand, carried a bucket about, and was asked
+nothing.** On day 833 he put the flat of his right hand on the outside of that door at the foot of that stair
+before the light was on the flags and it did not give, and he got it open himself with his shoulder and went up
+with his bucket and stood at the near end of that bench with the bucket at his feet. On day 837 he pushed a chair
+in under that table with the cloth on it and carried his bucket out to the step and stood against the wall. On
+day 840 he carried his bucket out to the step and came back and stood against the wall. **HE WAS ASKED NOTHING
+ON ANY OF THE TEN DAYS, and his bucket ends the run of days with a hand's depth of water in it on day 833.**
+
+**THE KEEPER — turned leaves, carried the box of chalk and nothing else, and asked two things and got no
+answer worth having.** On day 832 she said the man of about thirty-one had not come up and said that what another
+mouth said about it was not the same thing. On day 834 she lifted the chalk out of that box, looked at it and put
+it back the same way up and shut the lid, and said nothing about the two men holding positions on her step. On
+day 835 she asked the man of about thirty-one what was on that top step. **THE REGISTER WAS NEVER CARRIED THE
+LENGTH OF THAT ROOM ON ANY OF THESE TEN DAYS AND STOOD ON ITS SHELF EVERY MORNING OF THEM, the second slate stood
+behind it and was not picked up, not turned over and not written on, the one word in the column on the right of
+that page was not printed and was not referred to, no sixth figure was entered, and no mouth in that room asked
+her what the book was for on any of the ten days.**
+
+**ADRIAN VALE — in one of these ten and in no other: 0831.** His hands on the flat of that store door at the
+salt wharf and his shoulder in the opening, to have that door propped so a stack could be carried in out of the
+weather, published `no`; **the cause of two boards going off that stack on to the flags, of the near end of one
+of them standing in the water against that wall, and of a man having to pick them up and go on with the load he
+was carrying.** Thanked by nobody, told nothing, useful to nobody, with nobody waiting for him to be useful.
+**Stage 2 on all ten days, no working, no threshold opened, the other world not named once, `passage` and
+`privilege` at zero, and the word `threshold` is at zero in the prose of all ten files.**
+
+**AND THE ONE FACT ABOUT THE HANDLES THAT THIS BLOCK LEARNS BY MEASURING, WHICH A NEXT WRITER NEEDS AND WHICH THE
+BATCH RECORD ALSO CARRIES: THE LONGEST VERBATIM RUN INSIDE THIS BATCH IS SIXTEEN WORDS AND IT IS THE CENSUS
+HANDLE, AND THE SENTENCES AROUND THE HANDLE ARE WHAT WERE VARIED.** The woman of about fifty-two at the side of
+that bench with her hands at the sides of her dress is the longest run between any two of these ten files and is
+the longest run between any of these ten and any of the volume's earlier thirty as well. **THE VERB IN FRONT OF
+THE HANDLE AND THE CLAUSE BEHIND IT WERE MADE TO DIFFER IN 0833, 0837, 0838, 0839 AND 0840, AND IN 0840 THE
+WHOLE CLAUSE WAS TURNED ROUND SO THAT THE HANDLE STANDS IN A NEW FRAME, AND NO HANDLE WAS REWORDED.** Seven
+sentences in these ten files were written as verbatim copies of sentences already on disk in closed batches of
+this volume and all seven were reworded here and not in the closed files; they are named in the batch record.

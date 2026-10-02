@@ -349,3 +349,130 @@ that room is printed on any of them, and from day 831 onward the rule binds the 
 REVIEW-REPAIR BLOCK ON CHAPTERS 0811 TO 0820 WENT WITH IT, UNDELETED AND VERIFIED BY SHA256 BEFORE ANYTHING
 WAS REMOVED.** What stays is the day-750 standing position, the figures that hold, the standing
 prohibitions, the two newest batch blocks and this block.
+
+---
+
+# WHAT THE FOURTH TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
+AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCKS ABOVE STAND, AND NO STATE WAS REVERSED BY THE
+REWORDINGS THAT WENT WITH THIS BATCH.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+56. **THE HOLLOW AT THE SIDE OF THAT YARD WENT DRY AND MADE A SKIN OF ITS OWN GRIT, AND ON DAY 832 IT WAS TAKEN
+    AS GROUND.** Chapter 0832. The wind dropped in the night, the hollow had been dry for several mornings, and
+    the grit of the stone had come up out of the bottom of it and made a skin across it with its edges gone down
+    into the flags on either side and its middle sound. **The man of about thirty-eight took the loaded barrow
+    down it, the skin broke under the near wheel with a noise like a board breaking and not like stone, the
+    barrow went over on its side with the boards off it, and the boards put the water back into that hollow from
+    four sides at once. The low place in the stone at the side of that yard was dry as well.** A piece of the
+    broken skin was lying up on the dry crown of that run of flags at the tenth hour and nobody picked it up.
+57. **A DOOR AT THE FOOT OF THAT STAIR STOOD SHUT ON ONE MORNING OF THIS FLOOD, AND BY THE NINTH HOUR OF THE SAME
+    DAY IT STOOD A HAND'S WIDTH OFF ITS FRAME AGAIN, AND NOBODY IN THAT ROOM SAID ONE WORD ABOUT EITHER STATE.**
+    Chapter 0833. Before the light was on the flags that door was shut, which is not the state it stands in,
+    and the man of about twenty-seven put the flat of his hand on the outside of it and it did not move a
+    finger's width. He got it open himself with his shoulder, went up with his bucket and stood at the near end
+    of that bench with the bucket at his feet, and he was asked nothing at any hour of that day. **By the ninth
+    hour it stood a hand's width off its frame, and nobody in that room said one word about that either. THE
+    CHAPTER DATES NEITHER STATE, EXPLAINS NEITHER, AND SAYS WHY NOBODY SAID NOTHING.**
+58. **A BOX OF CHALK ON THAT MARKET STEP WAS LIFTED OUT OF, LOOKED AT AND PUT BACK, AND ITS CHALK WAS IN IT.**
+    Chapter 0834. The keeper took the chalk out of the box, held it, put it back the same way up and brought
+    the lid down, and the lid stopped on the same pin it had always stopped on. **The chalk was in the box all
+    the same, with the dust of that step on the top of it and a clean crescent in that dust at the near side
+    where a thumb had been, and by the tenth hour the dust lay on the top of that chalk with two thumbprints in
+    it and the lid stood at the angle it had stood at before anybody said anything. THE BOX IS THE KEEPER'S TO
+    THAT ROOM AND IS NOT THE MAN OF ABOUT THIRTY-FOUR'S, HIS OWN CHALK WAS IN HIS INSIDE BREAST POCKET AT EVERY
+    HOUR OF THAT DAY AND DID NOT COME OUT, AND NO CHAPTER OF THIS BATCH PUTS THE TWO CHALKS IN ONE SENTENCE.**
+59. **A MARK OF A BOOT IN THE DUST AT THE OUTER EDGE OF THE TOP STEP OF THAT STAIR WAS FOUND OUT, AND HALF OF IT
+    WAS GONE BY THE TENTH HOUR.** Chapter 0835. The man of about thirty-one saw it going up at the fourth hour
+    and stood in that room about four or five breaths and said nothing; at about the seventh hour the keeper
+    asked what was on that step and he told her, and the man of about thirty-nine went down four steps, looked at
+    it and said it is not a size and that the wind off that market comes over that step first. **Nobody asked who
+    made it, nobody went down that stair a second time, nobody said out loud that it could not be put to a
+    morning, and NO CHAPTER OF THIS BATCH PUTS A MORNING ON IT. BY THE TENTH HOUR THE TOE OF THAT MARK WAS GONE
+    AND ONLY THE HEEL OF IT WAS LEFT ON THE STEP.** **THE CHAPTER SAYS NOTHING ABOUT THE IRON, NOTHING ABOUT
+    WHO LIFTED IT OUT OF ITS SOCKETS ON DAY 827, AND NOTHING THAT LINKS THE MARK TO ANYTHING.**
+60. **THE VOLUME'S ONE PANEL WAS SPENT, ON ONE PAGE, ON DAY 837.** Chapter 0837, in that room over that market,
+    in daylight, with a date in chalk on the outside of the door at the foot of that stair and a bare piece of
+    board about as wide as a hand under the date with nothing on it. **The wall along the far side of that room
+    said one thing, in a block of its own, with no mark on it, and it was not said out loud by anybody, no mouth
+    in that room repeated one word of it, nobody asked the man of about thirty-nine whether he agreed with it,
+    and nobody in that room said it was right and nobody in that room said it was wrong. THE WORDING IS ON THAT
+    ONE PAGE AND IS IN NO OTHER FILE IN THIS REPOSITORY OUTSIDE THE PLAN THAT HOLDS IT.** In the same hour, and
+    by nobody's asking, **the man of about thirty-four brought the piece of chalk out of his own inside breast
+    pocket, turned it over once between his finger and his thumb, and put it back without writing with it, and
+    he did not go to the board on the outside wall, or to the bare piece of board under the date, or to any other
+    surface in that room or anywhere else; nobody in that room saw him do it, nobody remarked on it, nobody was
+    told anything about it, and no chapter says when that chalk was last out.** **That room was written as full
+    and as standing and was never counted, and no headcount of it is printed on any of the ten days of this
+    batch. Nothing whatever was done about either at any hour of that day.**
+61. **THE MAN OF ABOUT THIRTY-NINE CARRIED HIS BOARD OUT OF THAT ROOM AT ABOUT THE NINTH HOUR OF DAY 838 AND DID
+    NOT COME BACK UP AT ANY HOUR OF THAT DAY.** Chapter 0838. He took his hand off the face of that board,
+    turned it over once, took it up off the floor where it stood against that bench leg, went down that stair,
+    out under that door and away along that market row. **Nobody said good day to him and nobody asked him why
+    he was going out at that hour and nobody said that he would be back. That board was gone off the leg of that
+    bench at the tenth hour and the place on the flags where its foot had stood held the print of it in the
+    dust.** He is in that room again on the days after.
+62. **THE STOOL IS AT THE SIDE OF THAT BENCH AGAIN.** Chapter 0839. On day 821 the woman of about fifty-two
+    carried it into the corner behind the near leg of that bench, under the shelf, with the table against the
+    wall in front of it. **On the morning of day 839 it stands at the side of that bench with the seat of it
+    turned into the room, and the corner is empty, and nobody in that room said one word about that and nobody
+    said why and nobody thanked her. That room had a place to sit and nobody sat on it, and at about the sixth
+    hour the man of about thirty-one put the toe of his boot against the lower rail of that stool to turn it out
+    of the way of that bench leg, and it rocked once across the flags and came down with the seat of it facing
+    the wall instead of the room. Nobody put it back and nobody set it right and nobody asked him why he had
+    turned it, and at the tenth hour the seat of it had gone pale along its front edge where the light came along
+    the bench wood and not at the back of it at all, and it stood a foot further out from that bench than the
+    woman of about fifty-two had set it down.** **THE DAY-821 THREAD STAYS OPEN AND MAY NOT BE SETTLED: NO
+    CHAPTER OF THIS BATCH SAYS WHY IT WENT INTO THE CORNER AND NO CHAPTER SAYS WHY IT CAME OUT, AND NO MOUTH
+    ASKS HER.**
+63. **THE VOLUME'S SECOND COST IS PAID AND IT IS ON A PAGE.** Chapter 0840, in that room, in daylight, with a
+    date in chalk on the outside of the door at the foot of that stair and a bare piece of board about as wide
+    as a hand under that date with nothing on it. **At about the seventh hour the man of about thirty-one said
+    out loud, in his own mouth and first, with nobody having asked him for it, that he has carried a thing up
+    that stair every morning of this flood and has gone past the foot of it every morning of this flood, and he
+    could not tell anybody on which morning that door began to stand open. Nobody thanked him for saying it,
+    nobody improved on one word of it, nobody bettered one word of it afterwards, nobody asked him a second
+    thing about it, nobody asked him what ought to be done about it, and nothing in that room was done about it
+    at any hour of that day.** He went down that stair at about the ninth hour and out into that market and did
+    not come up it again at any hour of that day; at the tenth hour his hand was off the strap of that satchel
+    for the first time in that day, the skin of the palm of it was wet to the first joint out of the trough at
+    the top of that market step, and the flap of that satchel was still down. **THE THING THIS COST PAYS FOR IS
+    COLLECTED FIVE MORNINGS LATER, IN A DIFFERENT CHAPTER, AND NO CHAPTER MAY PUT THEM IN ONE MORNING. NO ELAPSED
+    FIGURE IS PRINTED ON THAT CHAPTER, AND ITS ORDINAL IS A MULTIPLE OF TWENTY-FIVE AND IT CARRIES FOUR SEPARATE
+    ANCHORS AT ROUND VALUES.**
+64. **AND ADRIAN VALE IS IN ONE OF THESE TEN AND IN NO OTHER: 0831.** His hands on the flat of that store door at
+    the salt wharf and his shoulder in the opening, to have that door propped so a stack could be carried in
+    out of the weather, published `no`; **the cause of two boards going off that stack on to the flags and of the
+    near end of one of them standing in the water against that wall, and of a man having to pick them up and go
+    on with the load he was carrying.** Thanked by nobody, told nothing, useful to nobody, with nobody waiting
+    for him to be useful. **Stage 2 on all ten days, no working, no threshold, the other world not named once,
+    `passage` and `privilege` at zero, and the other world is not named in any of the ten.**
+
+**AND WHAT DID NOT MOVE: the iron on the top step in no printed hand on any of the ten days and no chapter of
+these ten says, guesses, asks about or reports anything about the morning it came out of its sockets; the
+register with five strokes and a day against each, none struck, no sixth, none taken out; the shaded form behind
+it on the same shelf never lifted by any hand but hers; the one word in the column on the right of that page,
+printed nowhere and asked about by nobody; the word on the shaded form, printed nowhere and set beside nothing;
+the bare piece of board under the date, which means nothing, on 0837 and 0840 as on every other day; the fence
+sixteen willow posts and eleven withies on the same cord, unmeasured, no post moved; the length of new rope never
+lifted; the board on the outside wall with three sets of figures and no line of words under any of them, wiped
+round and not over on day 824 and gone near by nobody on these ten days; the chalk in the inside breast pocket
+taken out on one of the ten days only and not written with on that day and no chapter saying when it was last out;
+the satchel shut with its flap down at every hour it is shown; the trough and the bucket and the rag all in this
+city and one of each; the second slate never picked up, never turned over and never written on; no notice, no
+document, no name, no new person, no new place, no panel but the one, no stronger person, and no answered
+question.**
+
+**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, whitespace
+tokens, both file orders, ten files, days 831 to 840: 6,452 words (6,339 out); chapter length 531 to 963; bolded
+share 4.62 per cent unweighted over 298 words; titles six to nine words in 10 of 10; one hundred and fourteen
+paragraphs — twenty-seven speech, eighty-seven free-standing narration — with zero bold-without-a-quotation-mark
+and zero quotation-mark-without-bold; zero digits in any body; zero month ordinals for a numbered month; zero
+narrator frame; one panel and it is on Chapter 0837 and nowhere else; the thirty-five-entry zero column at 0; the
+eleven §16.14 words at 0; `player`, `passage`, `privilege`, `threshold`, `nine steps` and `name, names, named` as
+a person or a verb at 0; `number, count` and `about four people a day` at 0; Adrian Vale in 1 of 10 and in 0831
+only; two separators in each of ten files; ten files of ten ending in a newline; and a longest verbatim run
+shared by any two of these ten of sixteen words, which is the census handle for the woman of about fifty-two and
+is not reworded.**

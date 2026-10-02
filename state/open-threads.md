@@ -217,3 +217,96 @@ ANYTHING WAS REMOVED.** What stays is the thread table at day 750, the three sha
 **The controller faults stand and were not touched: `state/phase-ledger.json` still reads
 `phase-000-bootstrap`, `reviews/volume-16/` does not exist, and `NOVEL_SPEC.md`'s Status section is owed by a
 human.**
+
+---
+
+# WHAT THE FOURTH TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+
+**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0005/PROMPT.md`,
+WHICH WRITES CHAPTERS 0841 TO 0850 AND NOTHING ELSE. NO CHAPTER PAST 0840 EXISTS AND NO CHAPTER PAST 0840 IS TO
+BE WRITTEN BY ANY OTHER PHASE. DAYS 841 TO 850 REMAIN AND THIS VOLUME IS NOT CLOSED.**
+
+**NO THREAD WAS CLOSED, ANSWERED OR WITHDRAWN BY THIS BATCH, AND NO QUESTION WAS ASKED BY IT.**
+
+1. **THE STOOL CAME OUT OF ITS CORNER AND NOBODY KNOWS WHY IT WENT IN AND NOBODY KNOWS WHY IT CAME OUT. NEW ON
+   DAY 839, AND IT WIDENS DAY 821 AND DOES NOT SETTLE IT.** On day 821 the woman of about fifty-two carried
+   that stool into the corner behind the near leg of that bench and pushed it back with her heel, and to sit on
+   it a person would have had to move that table and climb. **On the morning of day 839 it stands at the side of
+   that bench with the seat of it turned into the room and the corner is empty, and that room had a place to sit
+   and nobody sat on it, and nobody in that room said one word about it, nobody said why and nobody thanked her.
+   At about the sixth hour the toe of the man of about thirty-one's boot went against its lower rail and it
+   rocked once and came down with the seat of it facing the wall.** **No chapter may say why it went into the
+   corner and no chapter may say why it came out, and no mouth may ask her.**
+2. **A DOOR STOOD SHUT AND A ROOM DID NOT NOTICE, AND THEN IT STOOD OPEN AND THE ROOM DID NOT NOTICE THAT
+   EITHER. NEW ON DAY 833.** That door at the foot of that stair stood shut before the light was on the flags and
+   the man of about twenty-seven could not move it with his hand; he got it open with his shoulder and was asked
+   nothing. By the ninth hour it stood a hand's width off its frame, which is the ordinary state of it. **Nobody
+   in that room said one word about either state and no chapter dates either state and no chapter says why the
+   room said nothing.**
+3. **A SECOND PERSON WAS NOTICED NOT TO HAVE GONE UP AND THE NOTICE WAS CORRECT AND THE ROOM DATED NOTHING. NEW ON
+   DAY 832, AND IT IS THE SECOND OF THESE IN THE VOLUME AFTER DAY 812.** The man of about thirty-one went
+   across that market row with a crate on his shoulder and past the foot of that stair and did not stop, and the
+   keeper said he had not come up, and another mouth said he goes past that door every morning and has never
+   once come up it, and the keeper said that was not the same thing. **No chapter may date it, may supply a
+   figure for it, may join it to the day-833 shut door, and the resolution on day 845 may not settle it.**
+4. **A BOX ON A MARKET STEP HAS TWO OWNERS' POSITIONS AND NEITHER IS SETTLED. NEW ON DAY 834.** The man of about
+   thirty-four says that box of chalk belongs to the room above the step and has no reason on earth to be
+   standing out on it; the man of about thirty-nine says it stands out there because that market row uses it
+   where it stands. **Nothing was settled, nobody was thanked, and the box stayed on the step with its lid at the
+   angle it had always stood at. No chapter may settle it, may move the box, may close the lid, and may not put
+   the two chalks of this volume in one sentence.**
+5. **A MARK OF A BOOT IN THE DUST ON THE TOP STEP OF THAT STAIR, AND NO MORNING FOR IT. NEW ON DAY 835.** A mark
+   at the outer edge of that top step where it goes up to meet the wall, not a size, with nothing on it to tell.
+   **By the tenth hour the toe of it was gone and only the heel of it was left. NO CHAPTER MAY SAY WHO MADE IT,
+   MAY GUESS, MAY ASK ABOUT IT, MAY OFFER A MORNING FOR IT, OR MAY CONNECT IT TO ANYTHING — AND IN PARTICULAR
+   NOT TO THE MORNING THE IRON CAME OUT OF ITS SOCKETS, WHICH REMAINS ITEM 2 BELOW AND REMAINS UNTRACEABLE.**
+6. **A MAN CARRIED HIS BOARD OUT OF THAT ROOM AND WAS NOT ASKED WHY, ON DAY 838.** At about the ninth hour the
+   man of about thirty-nine picked it up and went down that stair and away along that market row and did not come
+   back up at any hour of that day; nobody said good day to him and nobody said he would be back. **He is in
+   that room again on the days after and no chapter may say where he went or make his going out a decision, a
+   cost, a word or a departure with a meaning, and it is not a preparation of day 843.**
+7. **THE VOLUME'S ONE PANEL IS SPENT AND IT IS ON ONE PAGE.** Chapter 0837. **THE WORDING IS IN
+   `outline/volume-17.md` §6.7 AND ON THAT ONE PAGE AND NOWHERE ELSE IN THE REPOSITORY. NO LATER CHAPTER MAY
+   PRINT IT, PARAPHRASE IT, IMPROVE ON IT, PUT IT IN A SECOND MOUTH OR DESCRIBE IT.** Nobody said it was right
+   and nobody said it was wrong, nobody asked the man of about thirty-nine whether he agreed with it, and
+   nothing whatever was done about it at any hour of that day or of any day since.
+8. **THE CHALK CAME OUT OF THE MAN OF ABOUT THIRTY-FOUR'S INSIDE BREAST POCKET ON DAY 837 AND WENT BACK IN
+   WITHOUT BEING USED, AND IT IS THE ONLY MORNING OF THE FIFTY ON WHICH THAT HAS HAPPENED.** Nobody in that room
+   saw him do it, nobody remarked on it and nobody was told, and it went on no surface. **No later chapter may
+   take it out again, may say when it was last out, may put it on any surface, and may join it in one sentence
+   with the chalk in the box on that market step, which is a different chalk and is the keeper's to that room.**
+9. **THE VOLUME'S SECOND COST IS PAID AND IT IS ON A PAGE AND IT PAYS FOR NOTHING YET.** Chapter 0840, in the
+   man of about thirty-one's own mouth, first, with nobody having asked him. **Nobody thanked him, nobody improved
+   on a word, nobody asked him a second thing about it, and nothing in that room was done about it at any hour
+   of that day.** **THE THING IT PAYS FOR IS COLLECTED ON DAY 845, IN A DIFFERENT CHAPTER, AND THE TWO MAY NOT BE
+   PUT IN ONE MORNING AND NO CHAPTER MAY SAY THAT THE COST WAS WORTH IT.**
+10. **A MAN HAS NOW LOOKED AT THAT DOOR TWICE IN THREE DAYS AND TOLD NOBODY EITHER TIME. NEW ON DAYS 835 AND
+    836.** On day 835 he saw the mark on that step and told the keeper and the man of about thirty-nine what was
+    standing on it. On day 836 he stopped at the foot of that stair with a coil of rope under his arm, looked at
+    the outside of that door, at the bare board under the date and up at the top step where the iron lies, until
+    a woman going the other way had to step wide of him, and then went on and told nobody and did not come up.
+    **NO CHAPTER MAY JOIN THESE TWO MORNINGS, MAY MAKE ANYBODY NOTICE THE SECOND, MAY HAVE ANYBODY ASK HIM ABOUT
+    EITHER, AND THE RESOLUTION ON DAY 845 IS THE FIRST TIME ANYBODY ASKS HIM ANYTHING AND IS NOT REACHED BY
+    EITHER OF THESE DAYS.**
+11. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
+    volume's own standing list at `outline/volume-17.md` §16, the ten items three blocks above, the ten items two
+    blocks above and the ten items above them. **THE QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK OF DAY 440 IS
+    NOT TRACED AND THIS IS THE TWELFTH VOLUME RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED AT ANY
+    VALUE. THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN NEW FILES IN NARRATION AND IN EVERY
+    MOUTH AND IS NOT RESTORED, AND NO HEADCOUNT OF THAT ROOM IS PRINTED ON ANY OF THE TEN DAYS.**
+12. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
+    AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER. ADRIAN VALE IS IN ONE OF THE TEN AND IN NO OTHER, AND HE
+    FAILED.**
+13. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-16/` does not exist and the review
+    dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`;
+    and `NOVEL_SPEC.md`'s Status section is owed by a human. NONE WAS OPENED, EDITED OR WORKED AROUND.**
+14. **THE §17.17 CLOSING CEILING IS NOT MADE WORSE BY THIS BATCH, AND THE COUNT IS ZERO.** Counted in days 831 to
+    840 is **none** on the reading published at `state/batch-summaries/volume-17-batch-0003.md`, and the four days
+    the review of that batch named — 0831 to 0834 — are four for four not counted. **The breach in the two closed
+    windows of this volume is untouched and remains a debt of the close and not of any batch.**
+15. **AND THE TWO THINGS THE NEXT BATCH IS HANDED AND MAY NOT SPEND: the resolution on day 845 and the new
+    question on day 848.** The new question is asked to the man of about thirty-four and is not answered and
+    joins the family of days 346, 396, 445, 498, 548, 598, 648, 698, 748 and 798. **The resolution on day 845 is
+    one question and one morning in an answer and no thanks, and it is the first time anybody asks the man of
+    about thirty-one anything. NEITHER MAY BE PREPARED, REHEARSED OR ANTICIPATED BY ANY CHAPTER, AND DAY 843
+    CARRIES THE VOLUME'S ACT AND ITS TWO WORDINGS ARE ON NO PAGE.**

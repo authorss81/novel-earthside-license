@@ -44,15 +44,17 @@ and should be replaced with something that is.**
 ## WHERE THE WORK STANDS
 
 **VOLUME 17 IS IN PROGRESS. SIXTEEN VOLUMES ARE COMPLETE AND ON DISK, CHAPTERS 0751 TO 0800 BEING THE
-SIXTEENTH.** Volume 17 runs days 801 to 850 and has chapters to day 830. **THIRTY CHAPTERS OF THE FIFTY
-ARE WRITTEN: 0801 TO 0830, DAYS 801 TO 830, THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FIVE HUNDRED AND
-FIFTEENTH DAY OF THE BARE MONTH. NO CHAPTER PAST 0830 EXISTS AND NONE IS TO BE WRITTEN BY THIS PHASE.**
+SIXTEENTH.** Volume 17 runs days 801 to 850 and has chapters to day 840. **FORTY CHAPTERS OF THE FIFTY
+ARE WRITTEN: 0801 TO 0840, DAYS 801 TO 840, THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FIVE HUNDRED AND
+TWENTY-FIFTH DAY OF THE BARE MONTH. NO CHAPTER PAST 0840 EXISTS AND NONE IS TO BE WRITTEN BY ANY OTHER
+PHASE.**
 
 **THE PLAN IS `outline/volume-17.md`, WHICH CARRIES NO NAME, and it is read before this file. THE LINE
 IS A PIECE OF IRON IN TWO SOCKETS ON A TOP STEP.** On day 801 the bar at the foot of that stair is out
 of its sockets and lying on the top step, and on day 850 it is still there, and fifty days is the whole
-of what this volume knows about it. **ON ALL THIRTY DAYS WRITTEN SO FAR NO CHAPTER HAS PUT THE BAR IN A
-HAND, PRINTED WHOSE HAND WOULD, AND NO MOUTH IN THAT ROOM HAS SAID A FIGURE.**
+of what this volume knows about it. **ON ALL FORTY DAYS WRITTEN SO FAR NO CHAPTER HAS PUT THE BAR IN A
+HAND, PRINTED WHOSE HAND WOULD, SAID ANYTHING ABOUT THE MORNING IT CAME OUT OF ITS SOCKETS, AND NO MOUTH IN
+THAT ROOM HAS SAID A FIGURE.**
 
 **THE VOLUME'S ONE DECISION IS TAKEN AND IT IS ON A PAGE.** On day 825 the man of about thirty-nine named
 his own cost out loud first, in his own mouth, and then said the decision, and **the wording is in
@@ -60,15 +62,16 @@ his own cost out loud first, in his own mouth, and then said the decision, and *
 Nobody agreed with it, nobody argued with it, nobody improved on a word of it, nobody was thanked for it,
 and nothing whatever was done about it on any day since.
 
-**THE NEXT PHASE IS `workspace/volume-17/batch-0004/PROMPT.md` AND NOTHING ELSE.** It writes chapters
-0831 to 0840, days 831 to 840, from a Saturday to a Monday, and it reaches **the volume's one panel on
-day 837** and **the volume's second cost on day 840**, both handed to it as days and not as words, and it
-does not reach the disclosure on day 843 and may not prepare it. **No continuation directory beyond it,
+**THE NEXT PHASE IS `workspace/volume-17/batch-0005/PROMPT.md` AND NOTHING ELSE.** It writes chapters
+0841 to 0850, days 841 to 850, from a Tuesday to a Thursday, and it reaches **the volume's act on day 843**,
+**the resolution on day 845**, **the fifth and last appearance of Adrian Vale on day 846**, **the new question
+on day 848** and **the last image on day 850**, all handed to it as days and not as words. **THIS VOLUME IS NOT
+CLOSED AND THIS IS NOT A CLOSE PHASE: DAYS 841 TO 850 REMAIN. No continuation directory beyond it,
 no card file under `outline/`, no marker file.**
 
 **THE THREE FIXED DAYS A WRITER OF THIS VOLUME IS WORKING AROUND ARE ON THE PLAN AND NOT HERE:** the
-decision is day 825 and it is spent, the panel is day 837, and the disclosure and the cost named first
-are day 843.
+decision is day 825 and it is spent, the panel is day 837 and it is spent, and the disclosure and the cost
+named first are day 843 and neither of its two wordings is on any page.
 
 ---
 
@@ -263,3 +266,123 @@ The consent fracture is unmended, no relationship milestone is paid, no standing
 
 **THE NEXT PHASE IS `workspace/volume-17/batch-0004/PROMPT.md` AND NOTHING ELSE, AND THIS PASS CREATED NO
 PHASE, NO PROMPT AND NO DIRECTORY.**
+
+---
+
+## WHERE THE WORK STANDS AFTER VOLUME 17, BATCH 0004. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**VOLUME 17 IS IN PROGRESS AND IS NOT CLOSED. SIXTEEN VOLUMES ARE COMPLETE AND ON DISK, CHAPTERS 0751 TO 0800
+BEING THE SIXTEENTH. Volume 17 runs days 801 to 850 and has chapters to day 840. FORTY CHAPTERS OF THE FIFTY ARE
+WRITTEN: 0801 TO 0840, DAYS 801 TO 840, THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FIVE HUNDRED AND TWENTY-FIFTH
+DAY OF THE BARE MONTH. NO CHAPTER PAST 0840 EXISTS AND NONE IS TO BE WRITTEN BY THIS PHASE.**
+
+**THE PLAN IS `outline/volume-17.md`, WHICH CARRIES NO NAME, and it is read before this file. THE LINE IS A PIECE
+OF IRON IN TWO SOCKETS ON A TOP STEP.** On day 801 that bar was out of its sockets and lying on the top step,
+and on day 850 it is still there, and fifty days is the whole of what this volume knows about it. **ON ALL FORTY
+DAYS WRITTEN SO FAR NO CHAPTER HAS PUT THAT BAR IN A HAND, PRINTED WHOSE HAND WOULD, OR SAID ANYTHING ABOUT THE
+MORNING IT CAME OUT OF ITS SOCKETS, AND NO MOUTH IN THAT ROOM HAS SAID A FIGURE.**
+
+**THE VOLUME'S ONE DECISION IS TAKEN AND IT IS ON A PAGE. On day 825 the man of about thirty-nine named his own
+cost out loud first, in his own mouth, and then said the decision, and the wording is in
+`outline/volume-17.md` §6.6 and is on no page, in no state file, in no batch record and in no prompt.** Nobody
+agreed with it, nobody argued with it, nobody improved on a word of it, nobody was thanked for it, and nothing
+whatever was done about it on any day since. **No chapter of days 831 to 840 resolves that line, puts a word
+behind it, paraphrases it, counts it, prints the figure seven, says how many words it was, or has any mouth say
+what he said that day.**
+
+**THE VOLUME'S ONE PANEL IS SPENT AND IT IS ON ONE PAGE. Chapter 0837, in that room over that market, in
+daylight, with a date in chalk on the outside of the door at the foot of that stair.** The wall along the far side
+of that room said one thing, in a block of its own, with no mark on it. **The wording is in
+`outline/volume-17.md` §6.7 and is on `chapters/volume-17/chapter-0837.md` and on no other page in this
+repository, and no state file, batch record, prompt or summary prints it.** Nobody said it was right and nobody
+said it was wrong, nobody asked the man of about thirty-nine whether he agreed with it, and nothing whatever was
+done about it at any hour of that day or of any day since.
+
+**THE VOLUME'S SECOND COST IS PAID AND IT IS ON A PAGE. Chapter 0840, in the man of about thirty-one's own
+mouth and first, with nobody having asked him for it.** Nobody thanked him, nobody improved on a word of it,
+nobody asked him a second thing about it, and nothing in that room was done about it at any hour of that day.
+**The thing it pays for is collected on day 845, in a different chapter, and the two may not be put in one
+morning.**
+
+**THE NEXT PHASE IS `workspace/volume-17/batch-0005/PROMPT.md` AND NOTHING ELSE.** It writes chapters 0841 to
+0850, days 841 to 850, from a Tuesday to a Thursday, the five hundred and twenty-sixth to the five hundred and
+thirty-fifth day of the Bare Month. It reaches **the volume's act on day 843**, **the resolution on day 845**,
+**the volume's fifth and last appearance of Adrian Vale on day 846**, **the new question on day 848** and **the
+last image on day 850**, and it is handed all of them as days and not as words. **This is a batch and not a
+close phase: ten days remain and this volume does not end at 0840.** No continuation directory beyond that one,
+no card file under `outline/`, no marker file.
+
+**THE THREE FIXED DAYS A WRITER OF THIS VOLUME IS WORKING AROUND ARE ON THE PLAN AND NOT HERE:** the decision is
+day 825 and it is spent, the panel is day 837 and it is spent, and the disclosure and the cost named first are day
+843 and its two wordings are on no page.
+
+---
+
+## WHAT THIS PHASE WAS, AND WHAT IT MEASURED, AND THE READING IS ON THE SAME LINE AS EVERY NUMBER
+
+**A batch and nothing else.** Ten chapters, ten days, days 831 to 840, one chapter to a day, from a Saturday to a
+Monday. It decided nothing that was not given to it as a day, invented no person, took no descriptor, sent no
+notice, wrote no document, printed no elapsed figure on any of its ten days, printed no headcount of that room on
+any of its ten days, opened no plan file, and touched nothing under `scripts/`, `.github/workflows/`,
+`.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or
+`state/phase-ledger.json`, and created and removed no marker file. The ten cards are at the head of
+`state/batch-summaries/volume-17-batch-0004.md`, as the card-file arrangement requires, and there is no card file
+under `outline/` and there is not going to be one.
+
+**THE DAY RUN WAS RE-DERIVED AND NOT TRANSCRIBED, from day 1 being a Tuesday and the Bare-Month ordinal being day
+less three hundred and fifteen, forward and in reverse with the index rebuilt, and it agrees with
+`outline/volume-17.md` §14.3 at zero mismatches out of ten on all three of chapter-equals-day, weekday and
+ordinal.** Days 831 to 840 are ten days from a Saturday to a Monday; the ordinals are the five hundred and
+sixteenth to the five hundred and twenty-fifth; one chapter to one day holds at ten of ten.
+
+**THE TRAP DAYS WERE NAMED BEFORE ANY CHAPTER OF THEM WAS WRITTEN.** A day falls in the list when at least one
+anchor row at `outline/volume-17.md` §14.5 that carries a figure has day less anchor-day equal to a multiple of
+twenty-five. Days 833, 835, 836, 837, 838, 839 and 840 are trap days and days 831, 832 and 834 are not. **NO
+CHAPTER OF THESE TEN PRINTS AN ELAPSED FIGURE AT ALL ON ANY OF THE TEN DAYS, AND DAY 840 — WHOSE ORDINAL IS A
+MULTIPLE OF TWENTY-FIVE, WHICH IS THE DAY THE SECOND COST IS PAID, AND WHICH CARRIES FOUR SEPARATE ANCHORS AT
+ROUND VALUES — PRINTS NONE EITHER, AND ITS MOUTH NAMES A COST IN TERMS AND NOT IN MORNINGS.**
+
+**ADRIAN VALE IS IN ONE OF THESE TEN AND IN NO OTHER: 0831.** His hands on the flat of a store door at a salt
+wharf and his shoulder in the opening, to have that door propped so a stack could be carried in out of the
+weather, published `no` at §4.1; **the cause of two boards going off that stack on to the flags, of the near end
+of one of them standing in the water against that wall, and of a man having to pick them up and go on with the
+load he was carrying.** Thanked by nobody, told nothing, useful to nobody, with nobody waiting for him to be
+useful. Stage 2 on all ten days, no working, no threshold, the other world not named once, `passage` and
+`privilege` at zero, and `threshold` is at zero in the prose of all ten files.
+
+**THE FIGURES, RE-DERIVED HERE AND NOT INHERITED. 6,452 words across ten files heading in (6,339 out), chapter
+length 531 to 963, bolded share 4.62 per cent unweighted over 298 words, titles six to nine words in 10 of 10,
+one hundred and fourteen paragraphs — twenty-seven speech, eighty-seven free-standing narration — with zero
+bold-without-a-quotation-mark and zero quotation-mark-without-bold, zero digits in any body, zero month ordinals
+for a numbered month, zero narrator frame, one panel and it is on Chapter 0837 and nowhere else, the
+thirty-five-entry zero column at 0, the eleven §16.14 words at 0, `player`, `passage`, `privilege`, `threshold`,
+`nine steps` and `name, names, named` at 0, `number, count` and `about four people a day` at 0, Adrian Vale in 1 of
+10, two separators in each of ten files, ten files of ten ending in a newline. The longest verbatim run shared by
+any two of these ten files is sixteen words and it is the census handle for the woman of about fifty-two; the
+longest run between any of these ten and any of the volume's earlier thirty is sixteen words; the volume-wide top
+run remains fifty-seven words between 0807 and 0813, a closed batch, and is not this batch's.**
+
+**THE THINGS THE TEN DAYS DID.** A store door that would not stay propped and a stack carried in past a man who
+was in the way of it. A hollow that had dried hard and a barrow that took it for ground. A door that stood shut
+in the morning and open by the ninth hour and a room that said nothing about either. A chalk-box lid ajar and a
+box two men disagreed about and nobody settled. A boot mark in the dust on a top step that half went in the wind.
+A man who looked at a door and went on. **The panel.** A morning like the morning before and a man who went out
+of the room in the ninth hour. A stool out of its corner and a boot that rocked it once. **The second cost.**
+
+**AND WHAT IS STILL A HUMAN'S, UNCHANGED AND CARRIED. `reviews/volume-16/` does not exist and the review dispatch
+falls back to the writer's own agent. `state/phase-ledger.json` still reads `phase-000-bootstrap`.
+`NOVEL_SPEC.md`'s Status section publishes fifteen volumes and 750 chapter files where seventeen volumes and
+eight hundred files were on disk before the batches of this volume began. All three are controller- or
+owner-owned and none was opened.** The consent fracture stays unmended, the fifth condition is not given, no
+relationship milestone is paid, no standing question is answered including day 798, the mark of day 440 is not
+traced for the twelfth time running, `outline/ending.md` does not move, and the §17.17 breach in the two closed
+windows of this volume is untouched and remains a debt of the close.
+
+**AND THIS PASS GREW THE FIVE LIVE STATE FILES BY FORTY-EIGHT PER CENT AND DID NOT COMPACT THEM, AND THE REASON IS
+PUBLISHED HERE BECAUSE THE HEADER OF EACH FILE REQUIRES IT.** 108,570 bytes before and 160,505 after, whole
+files, the five together. **This batch carried the volume's one panel and the volume's second cost, which no
+earlier batch of this volume could carry, and the seven verbatim copies it found and repaired, which a repair that
+publishes nothing cannot be held to.** A compaction of these five is a review-pass action with its own archive and
+SHA256 convention, and no compaction was requested of this phase and none was made. **This is the fifth pass to
+grow them and it is the same fault the review of Batch 0003 named: THE NEXT PHASE THAT APPENDS TO THESE FIVE IS
+OWED A REAL DECISION, COMPACT AND SAY SO OR REWRITE AND SAY SO, AND NOT ANOTHER APPEND.**
