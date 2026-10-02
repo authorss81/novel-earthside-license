@@ -3,10 +3,7 @@
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-19-batch-0002-review-fix-full.md`,
-which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that
-read `logs/next-0006.review.log`.** **The copy before that is
-`state/archive/character-state.md.volume-19-outline-full.md`,
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-19-outline-full.md`,
 verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
 BEFORE THE PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND
 WROTE ITS OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND
@@ -95,15 +92,6 @@ ON ANY OF THE FIFTY DAYS.**
 **The man of about sixty.** A hazel mallet with its head bound in cord, a coil of rope that has been
 used, and a handcart. **He put the fence up and it is sixteen willow posts and eleven withies and it is
 never measured and no post moves.**
-
-**The man who came up that stair on 866.** One sleeve of his coat wet to the shoulder and the other dry, and the
-handle may not be given to anybody else, may not be varied and may not be explained by any mouth. **He is on the
-pages of days 879 to 899 and on no page of days 900 to 917 and on the page of day 918, and the eighteen days between
-are a real gap in a real sequence and no chapter narrates his leaving. His name is held at `outline/volume-18.md`
-§6.8, is printed on one page of this volume and on no other surface anywhere, and is written in this file nowhere.
-This entry was added by the repair pass that read `logs/next-0006.review.log`, because a review found a man with
-seventeen pages behind him and eighteen days in the middle of the manuscript and no standing entry in this file at
-all.** He comes back on 918 and nobody asks him why.
 
 **The man of about forty-one in a very good coat.** A document inside the coat. **The man of about
 fifty-nine.** A hurdle he made and a bar he replaced. **The woman of about sixty-nine.** A tin.
@@ -304,50 +292,6 @@ merged and never settled in any of the ten.**
 
 
 ---
-
-## WHAT THE REPAIR PASS ON THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE PEOPLE ABOVE. NEWEST AND IT WINS WHERE THEY CONFLICT.
-
-**NO PERSON WAS INVENTED, NO DESCRIPTOR TAKEN, NO AGE GIVEN, NO HANDLE CHANGED, NO SECOND HANDLE ADDED AND NO TWO
-PEOPLE MERGED. NOBODY GETS STRONGER OR WEAKER IN A REWORDING, AND NOBODY'S STATE MOVED EXCEPT IN ONE PLACE, WHICH IS
-THE PLACE BELOW. A repair pass read `logs/next-0006.review.log`; the reviewer was not invoked and this pass is the
-same agent kind that wrote the ten days.**
-
-**THE ONE ADDITION TO THIS FILE, AND IT IS THE FINDING THAT MATTERED MOST.** **THE MAN WHO CAME UP THAT STAIR ON 866
-IS NOW IN THIS FILE WITH HIS DAYS, AND HE WAS NOT IN IT BEFORE, AND HE IS IN SEVENTEEN CHAPTERS OF VOLUME 18 ALREADY
-— 0879 to 0899 — and one chapter of this volume.** What this file held before was a phrase in a heading, *the man who
-came up that stair*, and no days and no exit. It holds them now:
-
-- **DAY 899, the last page he is on, and he is still in the room: standing against the wall of the store, saying
-  nothing, on a morning when the tally-board was lifted off a frame and set face down.**
-- **DAYS 900 TO 917, EIGHTEEN DAYS, NO PAGE. He is not on one of them and no chapter of any of them narrates his
-  leaving, or his not coming, or anybody noticing. His sleeve is not described and his coat is not described and no
-  mouth asks where he was.**
-- **DAY 912, the only notice taken of it on any page of this volume: one man who had gone up that stair in the week
-  before did not go up it that day, and nobody in that room said one word to anybody about either fact. He is a man
-  in that sentence and not named and not counted.**
-- **DAY 918, the first page after the gap, and the page the plan gives it: he comes up on the rail, one sleeve wet to
-  the shoulder and the other dry, names the cost of being a person in no book out loud before anything else that
-  morning, and writes his own name on the second slate in his own hand. The name stands on that page and on no other
-  surface in this volume and on no surface anywhere in this repository before it.**
-
-**WHAT A NEXT WRITER MAY AND MAY NOT DO WITH THAT.** He is carried by the handle *the man who came up that stair* and
-never by his name, and a next writer takes the name from `outline/volume-18.md` §6.8 only on a page the plan gives it
-to. **A later volume may not stage his departure to tidy the eighteen days, may not move the return to an earlier day,
-may not have anybody in that room ask him where he was, may not explain the sleeve, and may not give the handle to
-anybody else.** The gap is deliberate and `state/open-threads.md` carries it as a thread; the reason it is deliberate
-is that the volume's rule is that nobody in that room asks and nobody acts, and staging a departure would need a mouth
-to notice.
-
-**AND WHAT THE THIRTY-SEVEN REWORDINGS DID TO EVERY OTHER PERSON IN THESE TEN DAYS: nothing that a person could feel.**
-The words `nobody` and `not one of them` were traded against each other in six of the ten files so that the motif of
-the volume — that nobody thanks anybody and nobody improves on one word — is carried in different words in every file
-instead of in the same words, **and the motif itself, the thank nobody gives and the usefulness nobody waits for, stands
-in all ten files exactly where it stood, and the two cost speeches and the eight speech turns around them are
-untouched in wording except for four words in 918's cost speech, which lost *nobody in this room has* and *nobody in
-this room is* and took *no voice in this room has* and *none of them is* in their place.** Adrian Vale's three days
-are three spent. The keeper has paid one cost in this batch and the woman of about fifty-two has paid one, and neither
-is thanked. **The four unmerged pairs are still four unmerged pairs and no page of the ten settles any of them.**
-
 
 ## WHAT THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE PEOPLE ABOVE. NEWEST AND IT WINS WHERE THEY CONFLICT.
 

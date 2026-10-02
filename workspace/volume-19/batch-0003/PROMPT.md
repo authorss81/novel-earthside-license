@@ -49,11 +49,13 @@ is printed on exactly one page of this volume and onto no other surface. NAME WH
 THEM. PARAPHRASE NONE, IMPROVE ON NONE, DESCRIBE NONE, AND CERTIFY NO ABSENCE OF ANY OF THEM, because a false
 absence asserted by a record is worth more than it has ever been asserted anywhere in this book.**
 
-**AND THE SEVEN WORDS ARE AT ZERO ON ALL TEN OF THESE DAYS EXCEPT TWO.** `outline/volume-19.md` §6.4 fixes them to
-seven days and forbids all seven on the other forty-three. **This batch holds two of them, on 921 and 930, and the
-other five are forbidden on all ten days, in narration and in every mouth, in the body and in the heading.** **No
-card may write any of the five, and no card writes either of the two it holds.** A chapter prints one of the two
-once, in a mouth, on its own day.
+**AND THE SEVEN WORDS ARE AT ZERO ON ALL TEN OF THESE DAYS EXCEPT THREE.** `outline/volume-19.md` §6.4 fixes them to
+seven days and forbids all seven on the other forty-three. **This batch holds three of them, on 921, 925 and 930, and
+the other four are forbidden on all ten days, in narration and in every mouth, in the body and in the heading, and so
+are the three of this batch's own on the seven days here that are not their own day.** **No card may write any of the
+four, and no card writes any of the three it holds.** A chapter prints one of the three once, in a mouth, on its own
+day. **The first version of this paragraph said two and named 921 and 930, and the day-map row it was copied from
+carries a third on 925; that is corrected here and the three days have not moved.**
 
 **AND NO CARD MAY PRINT ANY OF THE FOUR HELD STRINGS, AND NO CARD MAY NAME, INVENT, DRAW, OR GIVE A NUMBER, AN AGE,
 A DESCRIPTOR OR A NAME TO ANYBODY WHO DOES NOT ALREADY HAVE ONE.** The clean pool is zero by the reading at
@@ -74,8 +76,10 @@ and neither of them touches the block, and the wall does what a wall does.** Fra
 frames 10 and 12 are barred on four of its days; that is published here rather than left for a reader to find.
 
 **THE BATCH'S OWN FIGURES, COUNTED BEFORE THE FIRST CHAPTER, AND NOT TARGETS.** Ten cards. The pressure column gives
-cost two, character two, recovery two, physical two, discovery one and decision one. **The Adrian column gives him
-one of the ten, at 0921, and he is not in the other nine.** The wall says nothing on nine of the ten days and says
+character two, recovery two, physical two, discovery two, decision one and political one, **and there is no cost day
+among these ten; the first version of this sentence gave cost two and discovery one, which counts eleven across ten
+days, and the printed list in §3 is the authority.** **The Adrian column gives him
+two of the ten, at 0921 and 0927, and he is not in the other eight.** The wall says nothing on nine of the ten days and says
 one thing on 929 and nothing whatever is done about it. No notice is written on any of the ten. No document arrives,
 is read out, is filled in, is shut or leaves this city on any of the ten. The door carries a date and a bare piece
 of board about as wide as a hand and nothing goes under the date on any of the ten, and **the tenth day of this
@@ -83,8 +87,8 @@ volume that may write a mark on that board is the fiftieth and not any of these 
 second mouth on any of the ten. The Bare-Month form is printed at least once in each of the ten and the ordinals
 are 606 to 615 and no chapter of the ten prints a day after the six hundred and fifteenth and no chapter converts
 one into a span. **THE BATCH REACHES THE VOLUME'S FOURTH WORD ON 0921, THE FIGURE IN THE SPACE ON 0924, THE
-DECISION ON 0925, THE PANEL ON 0929 AND THE SIXTH WORD ON 0930, AND IT DOES NOT REACH THE SEVENTH WORD ON 934 AND
-MAY NOT PREPARE IT.**
+DECISION AND THE FIFTH WORD ON 0925, THE PANEL ON 0929 AND THE SIXTH WORD ON 0930, AND IT DOES NOT REACH THE SEVENTH
+WORD ON 934 AND MAY NOT PREPARE IT.**
 
 ### CARD ONE — CHAPTER 0921, DAY 921, A FRIDAY, THE SIX HUNDRED AND SIXTH DAY OF THE BARE MONTH
 
@@ -115,7 +119,7 @@ MAY NOT PREPARE IT.**
   mouth, on this day**; may not put the word in the narrator's mouth on this day; may not say that a word has come
   back or how long it had been gone; may not put the word in the heading; may not print a headcount of the room;
   may not take a stick out of the box of chalk; may not put anything under the date on that door; may not print
-  any of the five words that are not this batch's; may not name a place; may not prepare the decision, which is on
+  any of the four words that are not this batch's; may not name a place; may not prepare the decision, which is on
   925 and not in this batch, or the panel, which is on 929.
 - **Its two hands, its second handle and its task:** the tradesman's — a board, a cloth, and nineteen rates and one
   space that has been empty about nine years — and the keeper's — a book on a bench, a column that holds figures,
@@ -371,7 +375,7 @@ MAY NOT PREPARE IT.**
   mouth, on this day**; may not put the word in the narrator's mouth; may not say that a word has come back or how
   long it had been gone; may not put the word in the heading; **may not turn the tally-board over on this page or
   count the two lines of grey grit as figures**; may not print a headcount of the room; may not print any of the
-  five words that are not this batch's; may not name a place; may not prepare the seventh word, which is on 934 and
+  four words that are not this batch's; may not name a place; may not prepare the seventh word, which is on 934 and
   not in this batch.
 - **Its two hands, its second handle and its task:** the wharf man's — a barrow, a knife, and a figure on the side
   the sun gets to — and the keeper's — a book on a bench and a second slate on a shelf behind it.**
@@ -382,20 +386,25 @@ MAY NOT PREPARE IT.**
 
 | Ch | Day | Weekday | Month day | Pressure | Adrian | The day's own business |
 |---|---|---|---|---|---|---|
-| **0921** | 921 | Friday | BM 606 | character | **1** | **council comes back, in a mouth, in daylight, and the fourth cost of this volume is named before it** |
+| **0921** | 921 | Friday | BM 606 | character | **1** | **the volume's fourth word comes back, in a mouth, in daylight, and the fourth cost of this volume is named before it** |
 | 0922 | 922 | Saturday | BM 607 | recovery | — | the room carrying on |
 | 0923 | 923 | Sunday | BM 608 | physical | — | sixteen posts and eleven withies on the top of that road and no post moved |
 | 0924 | 924 | Monday | BM 609 | discovery | — | a figure put in the space on a board that has stood empty about nine years, in his own hand, and nobody told what it is |
-| **0925** | 925 | Tuesday | BM 610 | **decision** | — | **the decision, in ten words, and quorum comes back in the same mouth on the same morning** |
+| **0925** | 925 | Tuesday | BM 610 | **decision** | — | **the decision, in ten words, and the fifth word of the seven comes back in the same mouth on the same morning** |
 | 0926 | 926 | Wednesday | BM 611 | recovery | — | the room carrying on |
 | 0927 | 927 | Thursday | BM 612 | character | **1** | a length of new rope over the back of a chair and not lifted |
 | 0928 | 928 | Friday | BM 613 | physical | — | the trough at the top of that step and a heat nobody fetches |
 | **0929** | 929 | Saturday | BM 614 | **discovery** | — | **the panel, on the wall along the far side, in a block of its own, answering nothing** |
-| 0930 | 930 | Sunday | BM 615 | political | — | **seal comes back, in a mouth, in daylight, and it is said by the man with the tally-board** |
+| 0930 | 930 | Sunday | BM 615 | political | — | **the sixth word of the seven comes back, in a mouth, in daylight, and it is said by the man with the tally-board** |
 
-**Those three columns are binding. Adrian Vale is in two of these ten — 0921 and 0927 — and there are eight of your
-ten he is not in, and §4.1 publishes what his hands are on in the two and forbids a chapter carrying him in the
-other eight.** The wall says nothing on nine of the ten days and says one thing on 929. No notice is written. No
+**THOSE THREE COLUMNS ARE BINDING, AND THE LAST ONE IS NOW BINDING WITHOUT THE WORDS IN IT. Three of the seven words
+belong to these ten days, on 0921, 0925 and 0930, and a chapter prints each of those three once, in a mouth, on its
+own day; the other four are on days outside these ten and are forbidden on every one of these ten days. Take the three
+words themselves from `outline/volume-19.md` §6.4 and take them from nowhere else, and print none of the seven in
+this file, in a chapter's narration, in a heading or in a record.**
+
+**Adrian Vale is in two of these ten — 0921 and 0927 — and there are eight of your ten he is not in, and §4.1
+publishes what his hands are on in the two and forbids a chapter carrying him in the other eight.** The wall says nothing on nine of the ten days and says one thing on 929. No notice is written. No
 document arrives, is read out, is filled in, is shut or leaves this city. Nothing goes under the date on that door.
 Nobody is thanked. Nobody is told anybody else was right.
 
@@ -412,9 +421,10 @@ did not instrument in the same run.**
 4. **The name of the man who came up that stair on 866** — held at `outline/volume-18.md` §6.8, and it is on one
    surface in this volume, on one day, in one hand, and that day is 918 and it is not yours. **It is printed on
    `chapters/volume-19/chapter-0918.md` and on no other page of this volume and no other page may carry it.**
-5. **The seven words, on the five days that are not theirs** — §6.4. **Two of the seven are yours, on 921 and on
-   930, and each is said once, in a mouth, and you print each once, and the other five are on no day of your ten in
-   narration, in any mouth, in any body and in any heading.**
+5. **The seven words, and the seven days that are not theirs** — §6.4. **Three of the seven are yours, on 921, 925
+   and 930, and each is said once, in a mouth, and you print each once, and the other four are on no day of your ten
+   in narration, in any mouth, in any body and in any heading — and neither are the three of your own on the seven
+   days of these ten that are not their own.**
 6. **What is under the day cut across the head of the second slate** — §6.3. **It goes onto a bench on 925 and you
    print nothing about what is on either face of it.**
 
@@ -443,12 +453,17 @@ once and neither is printed twice.**
 ## 6. THE CHECKS YOU RUN IN YOUR OWN RECORD, WITH AN INSTRUMENT IN THE SAME RUN
 
 Words per chapter, shortest and longest and the mean; paragraphs; speech paragraphs; bold mark without a quotation
-mark and quotation mark without a bold mark; digits in bodies; title word counts and the range; panels; the five
-forbidden words at zero across the ten and the two of this batch's at one across the ten and in one file each;
+mark and quotation mark without a bold mark; digits in bodies; title word counts and the range; panels; the four
+forbidden words at zero across the ten and the three of this batch's at one across the ten and in one file each;
 `nobody`; the longest run of words shared by any two of the ten and by any two of the ten closings; the longest run
-inside one body; repeated sentences of 38 characters or more; sentence-initial *Nobody* runs; `about four` without
-*people*; your ten closing paragraphs printed side by side and read; and your own object inventory against
-`outline/volume-19.md` §5 and §7.2 in both directions.
+inside one body; repeated sentences of 38 characters or more, **split paragraph by paragraph so that a sentence that
+opens a paragraph is a sentence, which is the reading that found the fault in the record in front of you**;
+eight-word phrases standing in three or more of the ten, which stood at 177 in the ten days behind you and at 226
+before a repair pass brought it down; sentence-initial *Nobody* runs; `about four` without
+*people*; your ten closing paragraphs printed side by side and read; your own object inventory against
+`outline/volume-19.md` §5 and §7.2 in both directions; **and the held-string measurement run over your ten chapters,
+your ten headings, the state files, your own record, your own summary and this prompt, because the leak a review found
+in this file happened in a file the earlier measurement had left out of its scope.**
 
 **§17.11(ix), §17.21 and §17.22 bind you: publish the reading and the instrument and the scope on the same line as
 every number, publish every competing figure, and never print the word zero over a count you reached by reading
@@ -469,9 +484,36 @@ directory beyond the one that holds this prompt.**
 phase is `workspace/volume-19/batch-0004/` and it does not exist yet and this run does not create it.** Your record
 names it as the next phase and writes nothing else.
 
+## 9. WHAT THIS FILE OWES, AND WHAT A NEXT WRITER MAY NOT TREAT AS SETTLED
+
+**A REPAIR PASS READ `logs/next-0006.review.log` AND REPAIRED THIS FILE AGAINST IT, AND IT IS NAMED HERE BECAUSE YOU
+WILL BUILD ON IT.** It did not move a day, a weekday, a Bare-Month ordinal, a pressure tag, an Adrian day, a frame, a
+cost or a prohibition. It withdrew **three of the seven words out of the binding table at §3**, corrected the count of
+how many of the seven are yours from two to **three**, corrected the Adrian count in this file's own figures from one
+to **two**, corrected the pressure tally from eleven days counted across ten to **character two, recovery two,
+physical two, discovery two, decision one, political one**, corrected two card prohibitions that said five words
+where four are meant, and put the fifth word back into the sentence that lists what this batch reaches.
+
+**AND THE DEBTS YOUR OWN PHRASES MUST NOT CLOSE.** `state/open-threads.md` carries the calendar fault at
+`chapters/volume-18/chapter-0864.md:5`, which prints *the five hundred and fifty-ninth day of the Bare Month* where
+day 864 less 315 is **549** and the weekday on that page is right. **That page is not yours to repair, it is owed by a
+phase that writes chapters, and no chapter of days 921 to 930 may quote that page, lean on it or agree with it.** The
+same file carries `outline/volume-03.md` absent, `outline/series.md` carrying no Volume 19 and no decisions-of-record
+block for Volumes 18 or 19, `NOVEL_SPEC.md`'s Status section stale by three volumes, and `bible/power-system.md`
+carrying no §65 and no §66. `reviews/volume-16/` does not exist, so the review dispatch falls back to the writer's own
+agent and **you will have no independent reader; say so in your record rather than implying otherwise.**
+
+**AND ONE MORE THING THIS FILE OWES YOU, WHICH IS A TRUTH ABOUT THE RECORD YOU ARE TOLD TO READ.** The record of the
+twenty days in front of you, `reviews/volume-19/batch-0002.md`, published a verified zero for repeated sentences of
+thirty-eight characters or more and it was false; it published a longest shared run of 11 words and this repair's
+instrument returns 30; it published `nobody` at 67 and the repair brought that to 25; and it named a card file for its
+own ten days that does not exist in this repository. **All four are corrected in that file and its §15 says how. Read
+it as a repaired record and not as a clean one, and hold your own to the same standard: a figure you did not measure in
+your own run is not a figure you may print.**
+
 ---
 
 **Ten days, a Friday to a Sunday, the six hundred and sixth to the six hundred and fifteenth day of the Bare Month,
-two words of the seven coming back in two mouths on two of them and the other five on none of them, one decision
+three words of the seven coming back in three mouths on three of them and the other four on none of them, one decision
 in ten words, one panel on a wall that answers nothing, one figure into a nine-year-old space, and nothing else
 written down.**

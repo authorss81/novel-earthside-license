@@ -4,10 +4,7 @@
 that hold. It does not carry a per-batch history that no writer can read.**
 
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-19-batch-0002-review-fix-full.md`,
-which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that
-read `logs/next-0006.review.log`.** **The copy before that is
-`state/archive/continuity.md.volume-19-review-fix-full.md`, verified by
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-19-review-fix-full.md`, verified by
 SHA256 against the live file before a single line of the repair pass was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT
 STOOD AFTER THE PHASE THAT PLANNED VOLUME 19 AND BEFORE THE REPAIR PASS THAT READ `logs/next-0005.review.log`. The copy
 that phase took, `state/archive/continuity.md.volume-19-outline-full.md`, and every earlier copy under this file's own
@@ -239,46 +236,6 @@ fracture, which is not mended, and the fifth condition, which is not given, and 
 
 
 ---
-
-## WHAT THE REPAIR PASS ON THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
-
-**This pass read `logs/next-0006.review.log` and repaired against it, and it is the same agent kind that wrote the ten
-days. It moved no object and changed no state of the world, and it is short on purpose: thirty-seven sentences were
-reworded across ten chapters, and a rewording is not a state. The figures for every object are in
-`reviews/volume-19/batch-0002.md` §7 and §8, as they stood before the repair and as they stand after it, and the
-standing layer above is untouched and nothing in it is withdrawn.**
-
-**THE FOUR INVENTORY FIGURES THAT MOVED.** The bench stands at 41 mentions in six files where it stood at 40; the
-sill at 14 in two where it stood at 13, the extra one being the phrase *the end of that sill* in 0913; the row at 42 in
-eight where it stood at 43; the board on the outside wall at 6 in three where it stood at 7, the phrase being taken
-out of 0920 and the board still named there once. **Everything else stands where it stood: the register at 21 in six,
-the second slate at 3 in two, the shelf at 9 in two, the table at 10 in six, the cloth at 26 in seven, the date in
-chalk and the bare piece of board at 5 in five each, the bar at 5 in five, the sockets at 7 in five, the trough at 11
-in seven and its crack at 8 in eight, the bucket at 16 in eight, the rag at 17 in eight, the box of chalk at 6 in
-five, the salt wharf at 9 in three, the yard at 29 in four, the stack at 22 in two, the store door at 2 in two and a
-hand's breadth at 4 in two, the tally-board and its two lines of grey grit at 2 in two each, the handcart at 5 in two
-and the hazel mallet at 2 in two, the satchel at 14 in seven, the gate at 2 in two and its one worn place at 1 in one,
-the stool at 6 in five, the column on the tradesman's board at 12 in four, and about four people a day at 7 in five.
-The fence, the length of new rope, the chair at the far side of the room and the strip of ground at the foot of that
-stair stand at nothing in ten bodies.**
-
-**TWO INVENTORY FIGURES THAT WERE WRONG IN THE RECORD AND ARE CORRECTED THERE, AND NO STATE THEY BEAR ON MOVED.** The
-salt wharf is named in **three** of the ten files and not two, 0920 carrying *that salt wharf* in its casting
-paragraph, and the stool is named in **five** files and not six, 0913 having no stool on it. And the space about two
-fingers wide at the foot of the middle column of the tradesman's board is named **four times in three of the ten
-bodies** — 911, 913 and 914, with 914 naming it twice; the fifth mention the record carried was 918's column on the
-second slate, which is a different column. **The space is still empty and was still printed, explained, asked about
-and counted on none of the ten days.**
-
-**AND THE ONE THING THIS PASS ADDS TO WHAT A NEXT WRITER CANNOT GET FROM ANY OTHER FILE.** The man who came up that
-stair on 866 is on the page of day 899 and on no page of days 900 to 917, and he is on the page of day 918. **No
-chapter of days 900 to 917 narrates him leaving, and the only notice anybody takes of his absence is on 912, where one
-man who had gone up that stair in the week before did not go up it that day and no mouth in that room said one word
-about it.** He is carried by his handle in this file and in the other three state files and never by his name, and
-the name stands on one page of this volume and on no other surface anywhere.
-
----
-
 
 ## WHAT THE BATCH THAT WROTE DAYS 901 TO 910 DID TO THIS FILE'S STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
 

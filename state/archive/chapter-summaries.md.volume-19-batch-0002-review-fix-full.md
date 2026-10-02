@@ -1,10 +1,7 @@
 # Chapter Summaries
 
 **HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** **THE MOST RECENT WHOLE COPY
-OF THIS FILE IS `state/archive/chapter-summaries.md.volume-19-batch-0002-review-fix-full.md`, which is the whole of
-this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that read
-`logs/next-0006.review.log`; the copy before that is
-`state/archive/chapter-summaries.md.volume-19-outline-full.md`, verified by SHA256 against the live
+OF THIS FILE IS `state/archive/chapter-summaries.md.volume-19-outline-full.md`, verified by SHA256 against the live
 file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE PHASE THAT PLANNED
 VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK IN IT AND WROTE ITS OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT
 WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER COPIES UNDER THIS FILE'S OWN NAME ARE
@@ -143,12 +140,3 @@ still a plan and still are not written. `reviews/volume-19/batch-0002.md` is the
 
 **The state of every standing object at day 920, Adrian Vale's one day in this batch, and the figures with their
 instruments are in `reviews/volume-19/batch-0002.md`. The next phase is `workspace/volume-19/batch-0003/`.**
-
-**AND THESE TEN ROWS DESCRIBE THE PAGES AS A REPAIR PASS LEFT THEM.** That pass read `logs/next-0006.review.log` and
-reworded thirty-seven sentences across all ten files: no day, no tag, no word-day, no Adrian day, no cost and no object
-state in the rows above moved, and nothing in these ten rows was withdrawn. **What changed in the prose and not in
-these rows: the sentence `Nothing whatever was done about it at any hour of that day.` stood twice, byte for byte, at
-0911 and 0916, and 0916 now reads `Nothing came of either of the two things at any hour of that day.`; the thank
-nobody gives is now phrased differently in each file that carries it; and the casting paragraph of the two wharf
-chapters no longer repeats itself across 0915 and 0919. The figures in the record, both the ones that read well and
-the four that did not, are in `reviews/volume-19/batch-0002.md` §2, §5 and §15.**

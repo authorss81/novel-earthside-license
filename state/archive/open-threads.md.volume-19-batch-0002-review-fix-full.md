@@ -4,10 +4,7 @@
 currently carrying is named here with its state. It does not carry a per-batch history that no writer can
 read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-19-batch-0002-review-fix-full.md`,
-which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that
-read `logs/next-0006.review.log`.** **The copy before that is
-`state/archive/open-threads.md.volume-19-outline-full.md`, verified
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-19-outline-full.md`, verified
 by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
 THE PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND WROTE ITS
 OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER
@@ -144,61 +141,6 @@ act and the resolution are on pages.**
 
 
 ---
-
-# WHAT THE REPAIR PASS ON THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE THREADS. NEWEST AND IT WINS WHERE THEY CONFLICT.
-
-**This pass closed no thread, answered no question and mended nothing. It repaired a record, ten chapters and one
-prompt, and it is the same agent kind that wrote the ten chapters. Every thread in the standing layer above stands,
-and one thread is added below because a review found that a man stood in the middle of the manuscript for eighteen
-days with nothing in this file about him.**
-
-**1. THE MAN WHO CAME UP THAT STAIR ON 866, AND THE EIGHTEEN DAYS NOBODY FILLED. OPEN, NEW TO THIS FILE, AND IT IS A
-CONTINUITY THREAD AND NOT A QUESTION.** He is on the page of day 899, in the volume behind this one, standing against
-the wall of the store. **He is on no page of days 900 to 917 — eighteen days — and no chapter of any of those days
-narrates him leaving, or his not coming, or anybody noticing.** The one notice taken of it is on 912: one man who had
-gone up that stair in the week before did not go up it that day, and no mouth in that room said one word about it. He
-comes back on 918, named in his own hand on the second slate, and that chapter builds its return on *a man who had not
-come up that stair for a long time*, which the text earns and no chapter explains. **What this thread carries: the
-departure is deliberately unstaged, because the volume's rule is that nobody in that room asks and nobody acts, and
-staging it would need a mouth to notice; and the eighteen days are a real gap in a real sequence and not a device,
-because day 900 is the last day of Volume 18 and day 901 is the first day of this one. A later volume may not stage a
-departure in order to tidy the gap, may not move the return to an earlier day, may not have anybody in that room ask
-him where he was, and may not put the held name on a second surface.** He is carried by his handle in all four state
-files and **never by the name, which is held at `outline/volume-18.md` §6.8 and is printed in this file nowhere; a
-next writer takes the handle from here and takes the name from the plan only on a page the plan gives it to.**
-
-**2. THE HELD STRINGS AND THE SEVEN WORDS ARE STILL HELD, AND THE SCOPE THEY ARE MEASURED OVER HAS GROWN.** A review
-found three of the seven words printed in `workspace/volume-19/batch-0003/PROMPT.md`, with their days, inside the table
-that file calls binding, **and they were invisible to every published count because every count was scoped to the
-chapters and the state files and a prompt is neither.** They are out of the prompt, and the counts in the ten days
-behind you were true and are not what the prompt was doing. **The rule for the next writer, and it is the rule this
-file should have carried at the time: a held-string measurement that does not include your own prompt, your own record
-and your own summary is not a measurement of where the held things are.** The decision's wording, its cost, the panel
-and the three wordings of day 940 return at 0 across twenty-eight files now, which is the twenty-five of the record in
-front of you plus that record, that batch's summary and that prompt.
-
-**3. THE FIGURES THAT READ WORSE AND THE FIGURES THAT READ FALSE ARE NOT THREADS ABOUT THE WORLD AND ARE NOT
-RECORDED AS ANY.** `nobody` stood at 67 in those ten days and is now 25; the repeated-sentence zero was 1 and is now 0;
-the longest shared run was 60 and is now 30 and is a required descriptor handle.
-
-**4. THE STANDING QUESTIONS, THE CONSENT FRACTURE, THE FIFTH CONDITION, THE MARK OF DAY 440, THE WORD IN THE COLUMN
-ON THE RIGHT OF THE KEEPER'S PAGE, THE WORD UNDER THE DAY ON THE SECOND SLATE, THE FOUR UNMERGED PAIRS OF PEOPLE,
-THE STOOL, THE ROPE, THE FENCE, THE SATCHEL, THE TALLY-BOARD, THE GATE, THE BARE BOARD AND THE SPACE ON THE
-TRADESMAN'S BOARD** — carried whole and all untouched. **On 912 one man's non-arrival is now recorded in this file for
-the first time, and nothing was asked about it and nothing was done about it.**
-
-**5. AND THE DEBTS, WHICH ARE NOT THREADS ABOUT THE WORLD AND ARE OWED BY THEIR OWN OWNERS.** The calendar fault at
-`chapters/volume-18/chapter-0864.md:5` stands at item 15 above and is still owed by a phase that writes chapters, and
-the next batch's prompt now carries it, which a review found it did not. `outline/volume-03.md` does not exist.
-`outline/series.md` carries no Volume 19 and no decisions-of-record block for Volumes 18 or 19. `NOVEL_SPEC.md`'s
-Status section is stale. `bible/power-system.md` has no §65 and no §66. `reviews/volume-16/` does not exist, so every
-finding ever taken over this manuscript has been taken by the agent kind that wrote it. **And two debts that no file
-was carrying: `reviews/volume-19/batch-0001.md` refers six times to a §15 that the file does not contain, and no
-prompt anywhere in this repository has ever existed for this batch's own ten days, which is why its record had to be
-corrected about where its cards came from.**
-
----
-
 
 # WHAT THE BATCH THAT WROTE DAYS 901 TO 910 DID TO THE THREADS. NEWEST AND IT WINS.
 

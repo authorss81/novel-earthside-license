@@ -2,11 +2,18 @@
 
 **WHAT THIS PHASE IS. A batch and nothing else.** Ten chapters, ten days, days 911 to 920, one chapter to a day,
 from a Tuesday to a Thursday. It decided nothing not given as a day, invented no person, took no descriptor, named
-no place, sent no notice and wrote no document. **THE TEN CARDS WERE WRITTEN AT THE HEAD OF THIS WORK AND FOLLOWED,
-AND THEY WERE WRITTEN BEFORE `chapters/volume-19/chapter-0911.md` EXISTED, so they were a plan and not a
-reconstruction. `outline/batches/` ends at `volume-19-batch-0001.md` and this volume's later batches carry their
+no place, sent no notice and wrote no document. **THE TEN DAYS WERE TAKEN FROM `outline/volume-19.md`'S OWN DAY MAP
+AND FROM THE ONE PROMPT THAT EXISTED WHEN THE RUN BEGAN, AND NOT FROM A CARD FILE: no
+`workspace/volume-19/batch-0002/` directory has ever existed in this repository, which the first version of this
+summary did not say and which `reviews/volume-19/batch-0002.md` now says on its own line.
+`outline/batches/` ends at `volume-19-batch-0001.md` and this volume's later batches carry their
 cards in their own phase prompt under `workspace/`, which is where the four batches after this one will carry
 theirs.**
+
+**AND A REPAIR PASS READ `logs/next-0006.review.log` AND REPAIRED ALL OF THIS. `reviews/volume-19/batch-0002.md` §15
+is its file of record, the reviewer was not invoked, and that pass is the same agent kind that wrote the ten days.
+Thirty-seven sentences across the ten files were reworded; no day, tag, cost, object state or next phase moved, and
+four figures this summary published did not reproduce on the pages and are corrected.**
 
 **THE RECORD OF THE WORK, WITH EVERY FIGURE, ITS INSTRUMENT, ITS SCOPE AND ITS READING, IS
 `reviews/volume-19/batch-0002.md`. IT IS THE FILE OF RECORD FOR THIS BATCH AND THIS SUMMARY IS AN INDEX OF IT. The
@@ -42,14 +49,20 @@ read as preparing it.**
 
 ## THE FIGURES, SHORT
 
-**11,294 words across the ten bodies, mean 1129.4, shortest 963 at 0920 and longest 1255 at 0911. 102
-paragraphs, 30 speech paragraphs, 50 quoted strings, 0 bold marks without a quotation mark and 0 quotation marks
-without a bold mark. 0 panels. 0 digits in bodies. Titles 5 to 8 words of title text. Longest run shared by any
-two of the ten bodies 11, by any two of the ten closings 5, inside one body 15 at 0911 and 13 or under in nine of
-the ten, and 0 sentences of 38 characters or more repeat across the ten after seven casting-paragraph repeats were
-reworded. `nobody` 67 across ten files with a longest sentence-initial run of one. Files ending in a newline 10 of
-10.** Every figure, its instrument, its scope and the competing readings are in `reviews/volume-19/batch-0002.md`,
-including the two rows that read worse for this batch than for the one in front of it.
+**THE FIGURES AS THEY STOOD BEFORE THE REPAIR AND AS THEY STAND AFTER IT, BOTH PUBLISHED.** **Before: 11,294 words
+across the ten bodies on the reading that counts each file's two `---` rules, mean 1129.4, 963 to 1255; longest run
+shared by any two of the ten bodies 11, by any two of the ten closings 5, inside one body 15 at 0911; 0 repeated
+sentences of 38 characters or more; `nobody` 67 across ten files.** **After: 11,383 on that reading and 11,363 with
+the rules out, mean 1138.3 and 1136.3, 980 to 1257; longest run shared by two bodies 30 and by two closings 12, both
+of them a required descriptor handle; inside one body 15 at 0911 and 13 or under in the other nine; 0 repeated
+sentences of 38 characters or more on a paragraph-wise reading; `nobody` 25 across nine files, with 0916 at nothing
+whatever; eight-word phrases standing in three or more of the ten files down from 226 to 177.** **Unchanged by the
+repair: 102 paragraphs, 30 speech paragraphs, 50 quoted strings, 0 bold marks without a quotation mark and 0 quotation
+marks without a bold mark, 0 panels, 0 digits in bodies, titles 5 to 8 words of title text, a longest
+sentence-initial *Nobody* run of one, and files ending in a newline 10 of 10.** **The two figures that read worse
+for this batch than for the one in front are published in both readings: the mean is 86 words a chapter above Batch
+0001 and 253 above Volume 18's fifty, and the casting paragraph's overlap is 0.224 to 0.515 over forty-five pairs.**
+Every figure, its instrument, its scope and the competing readings are in `reviews/volume-19/batch-0002.md`.
 
 **The seven words of §6.4, measured on the ten bodies and the ten headings: the two this batch owns each stand at 1
 in 1 file and 0 in every heading, and the other five stand at 0 in ten bodies and 0 in ten headings.**
@@ -59,9 +72,14 @@ in 1 file and 0 in every heading, and the other five stand at 0 in ten bodies an
 **It printed none of the four held strings and none of the held name outside the one page the plan gives it to, and
 it certifies no absence it did not measure.** `reviews/volume-19/batch-0002.md` §12 carries the measured figures and
 the instrument for each, **including the row where the name is a direct count of one page and the record states
-plainly which measurement it refused to run and why.**
+plainly which measurement it refused to run and why.** **The repair pass widened that scope from twenty-five files to
+twenty-eight by adding the record itself, this summary and the next batch's prompt, and that is how it found three
+of the seven words printed in that prompt with their days; they are out of it and all four held spans return 0 in
+twenty-eight.**
 
 ## THE NEXT PHASE
 
-**`workspace/volume-19/batch-0003/PROMPT.md`. Day 921 is a Friday and the six hundred and sixth day of the Bare
-Month, and the fourth word of §6.4 belongs to it, and nothing in these ten days prepares it.**
+**`workspace/volume-19/batch-0003/PROMPT.md`, which the repair pass has since corrected: three of the seven words
+are out of it, its own counts of how many words and how many Adrian days are this batch's are right, and it now
+carries in its §9 the debts `state/open-threads.md` holds. Day 921 is a Friday and the six hundred and sixth day of
+the Bare Month, and the fourth word of §6.4 belongs to it, and nothing in these ten days prepares it.**

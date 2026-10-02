@@ -3,74 +3,13 @@
 **This file carries where the work stands, what is on the tables and shelves, what a next writer must carry forward,
 and what is owed. It does not carry a list of things a phase did not do.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-19-batch-0002-review-fix-full.md`,
-which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass
-that read `logs/next-0006.review.log`.** **The copy before that is
-`state/archive/current.md.volume-19-review-fix-full.md`, verified by
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-19-review-fix-full.md`, verified by
 SHA256 against the live file before a single line of the repair pass was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT
 STOOD AFTER THE PHASE THAT PLANNED VOLUME 19 AND BEFORE THE REPAIR PASS THAT READ `logs/next-0005.review.log`. The copy
 that phase took, `state/archive/current.md.volume-19-outline-full.md`, and every earlier copy under this file's own
 name are still in `state/archive/` and were not disturbed. THE REPAIR PASS ADDED ITS OWN BLOCK BELOW THIS HEAD AND
 LEFT THE PLANNING PHASE'S BLOCK UNDER IT IN PLACE AND UNTOUCHED, SO THIS FILE IS LONGER THAN IT FOUND IT BY THAT BLOCK
 AND BY NOTHING ELSE, WHICH `reviews/volume-19/outline.md` explains.**
-
-# THE REPAIR PASS ON THE BATCH THAT WROTE CHAPTERS 0911 TO 0920. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
-
-**THIS PASS READ `logs/next-0006.review.log` AND REPAIRED AGAINST IT, AND THE FILE OF RECORD IS
-`reviews/volume-19/batch-0002.md` §15. The reviewer was not invoked — line 1 of that log reads `agent
-"novel-reviewer" is a subagent, not a primary agent. Falling back to default agent` — and this pass is the same agent
-kind that wrote the ten days, so it declares that here rather than claiming a reader it does not have. No day, no
-weekday, no Bare-Month ordinal, no pressure tag, no Adrian day, no word-day, no cost, no object state and no next
-phase moved, `outline/ending.md` was not opened, no controller file was opened, and no new batch directory was
-created.**
-
-**WHAT MOVED IN THE CHAPTERS, AND IT WAS TWENTY-SEVEN LINES OF PROSE AND THIRTY-SEVEN SENTENCES ACROSS ALL TEN
-FILES.** A review found that the
-record's own repeated-sentence measure was a certified zero and that one sentence stood twice, byte for byte, at
-`chapter-0911.md:21` and `chapter-0916.md:21`; **0916 now reads `Nothing came of either of the two things at any hour
-of that day.`** A review also found three defects the batch had published honestly and then left on the page: a
-closing formula repeated near verbatim across three chapters, the same census sentence given twice in different words
-across two wharf chapters at sixty consecutive words, and `nobody` at 67 against 21 in the ten behind it. **Those are
-repaired in the pages and not only in the numbers: `nobody` stands at 25, the longest run shared by any two of the ten
-bodies stands at 30 and is a required descriptor handle, the eight-word phrases standing in three or more files fell
-from 226 to 177, and the casting paragraph's overlap range is 0.224 to 0.515.** **No figure in the block below this
-one is withdrawn and no state of any object moved: the register still stands at six strokes, the second slate still
-carries one line that was not there on 911, the bar is still along the top step, the chalk is still in the
-stallholder's pocket, the space on the tradesman's board is still empty and was still not printed, the gate is still
-open, the satchel is still shut, the tally-board is still face up, the trough has still had no heat, the store door is
-still a hand's breadth across, and the room was still never counted.**
-
-**THE THREE FIGURES THE BLOCK BELOW THIS ONE STATES THAT WERE WRONG, ALL THREE CORRECTED HERE AND IN THE RECORD.**
-(i) **The repeated-sentence zero** stood at 0 and was 1. (ii) **The longest shared run** stood at 11 and was 60, the
-sixty being a casting paragraph printed twice; it is 30 now. (iii) **The space on the tradesman's board** is named
-**four times in three of the ten bodies** — 911, 913 and 914 — and the "five times in five files" that stood here
-counted 918's column on the second slate, which is a different column.
-
-**AND ONE HEADING ABOVE THAT ROW HAS MOVED WITH IT.** The block below used to carry the three figures that read
-worst as its own last paragraph; that paragraph now carries both readings, the figure as the batch published it and
-the figure as it stands after the repair, and nothing in it was deleted.
-
-**WHAT A NEXT WRITER MUST CARRY, AND THE ONE NEW ITEM ON THIS LIST.** The state of every object is as the block below
-states it, with the three corrections above. **New and carried: the man who came up that stair on 866 was on the
-page of day 899 in the volume behind and on no page of days 900 to 917 and came back on 918, and no chapter narrates
-him leaving, so his return rests on a departure nobody staged and nobody asked about. He is carried by the handle
-`the man who came up that stair` in every state file and never by the name, because the name is held at
-`outline/volume-18.md` §6.8 and 918 is the one page of this volume it is given to. `state/character-state.md` and
-`state/open-threads.md` now say so in their own blocks.**
-
-**OWED, AND BY WHOM, AND ONE ITEM MORE THAN THE BLOCK BELOW THIS ONE NAMES.** `outline/series.md` carries no Volume 19
-and no decisions-of-record block for Volumes 18 or 19. `NOVEL_SPEC.md`'s Status section is stale. `bible/power-system.md`
-has no §65 and no §66. The calendar fault at `chapters/volume-18/chapter-0864.md:5` is owed by a phase that writes
-chapters and is still unrepaired, and **`workspace/volume-19/batch-0003/PROMPT.md` now carries it in a block of its
-own, which the review found it did not.** `outline/volume-03.md` does not exist. `reviews/volume-16/` does not exist,
-**so every finding ever taken over this manuscript has been taken by the agent kind that wrote it, and the ten days
-behind this block are no exception and are not pretended to be one.** `state/phase-ledger.json` still reads
-`phase-000-bootstrap` and is controller-owned and was not opened. **Two debts more: `reviews/volume-19/batch-0001.md`
-refers six times to a §15 that the file does not contain, and no directory anywhere in this repository has ever held
-a prompt for this batch's own ten days, which is why the repair had to correct its record's account of where its
-cards came from.**
-
----
 
 # THE BATCH THAT WROTE CHAPTERS 0911 TO 0920, DAYS 911 TO 920. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
 
@@ -87,37 +26,27 @@ belongs to day 921, and they did not prepare it and printed nothing that could b
 decided, no person was invented, no descriptor taken, no place named, no notice written, no document sent, and the
 wall said nothing on all ten days.
 
-**THE FIGURES IN ONE LINE, AS THEY STOOD BEFORE THE REPAIR PASS ABOVE AND AS THEY STAND AFTER IT, BOTH PUBLISHED.**
-**Before:** 11,294 words across the ten bodies on the reading that counts each file's two `---` rules, mean 1129.4, 963
-to 1255; 102 paragraphs and 30 speech paragraphs; 50 quoted strings with zero bold marks without a quotation mark and
-zero quotation marks without a bold mark; zero panels; zero digits in bodies; titles five to eight words of title
-text; longest run shared by any two bodies 11, by any two closings 5, inside one body 15 at 0911 and 13 or under in
-nine of the ten; zero repeated sentences of 38 characters or more; `nobody` 67 across ten files.
-**After: 11,383 on that same reading and 11,363 with the rules out, mean 1138.3 and 1136.3, 980 to 1257; 102
-paragraphs and 30 speech paragraphs, unchanged; 50 quoted strings, unchanged; zero panels and zero digits in bodies,
-unchanged; titles five to eight words, unchanged; longest run shared by any two bodies 30 and by any two closings 12,
-both of them a full descriptor handle; inside one body 15 at 0911 and 13 or under in the other nine; zero repeated
-sentences of 38 characters or more on a paragraph-wise reading and on a joining one; `nobody` 25 across nine files
-with a longest sentence-initial run of one; chapter equals day, weekday and Bare-Month ordinal 10 of 10 on a run
-derived from day 1 being a Tuesday and the ordinal being day less 315.** **`passage` and `privilege` at 0.
-Adrian Vale in one of the ten and in nine he is not in. The seven words: two at 1 in 1 file each and 0 in every
-heading, five at 0 in ten bodies and 0 in ten headings.**
+**THE FIGURES IN ONE LINE.** 11,294 words across the ten bodies, mean 1129.4, 963 to 1255; 102 paragraphs and 30
+speech paragraphs; 50 quoted strings with zero bold marks without a quotation mark and zero quotation marks without
+a bold mark; zero panels; zero digits in bodies; titles five to eight words of title text; longest run shared by
+any two bodies 11, by any two closings 5, inside one body 15 at 0911 and 13 or under in nine of the ten; zero
+repeated sentences of 38 characters or more after seven casting-paragraph repeats were found and reworded;
+`nobody` 67 across ten files with a longest sentence-initial run of one; chapter equals day, weekday and Bare-Month
+ordinal 10 of 10 on a run derived from day 1 being a Tuesday and the ordinal being day less 315. **`passage` and
+`privilege` at 0. Adrian Vale in one of the ten and in nine he is not in. The seven words: two at 1 in 1 file each
+and 0 in every heading, five at 0 in ten bodies and 0 in ten headings.**
 
-**THE FIGURES THAT READ WORSE FOR THIS BATCH THAN FOR THE ONE IN FRONT OF IT, PUBLISHED RATHER THAN PASSED OVER,
-AND WHAT CAME OF THEM.** The mean is now 86 words a chapter above Batch 0001 and 253 above Volume 18's fifty bodies;
-the casting paragraph of six of the ten chapters reads like a ledger restated, with a Jaccard overlap of 0.224 to
-0.515 over all forty-five pairs; and `nobody` stood at 67 against 21 across the ten behind them and is now 25. **All
-three are in `reviews/volume-19/batch-0002.md` with their instruments, §17.4 says the mean is a consequence and not a
-plan, §16 item 2's rule is a rule about chains and not about the word, and the second and third of the three were
-repaired in the pages rather than only in this file.**
+**THE FIGURES THAT READ WORSE FOR THIS BATCH THAN FOR THE ONE IN FRONT OF IT, PUBLISHED RATHER THAN PASSED OVER.**
+The mean is 77 words a chapter above Batch 0001 and 245 above Volume 18's fifty bodies; the casting paragraph of six
+of the ten chapters reads like a ledger restated, with a Jaccard overlap of 0.224 to 0.549 over all forty-five
+pairs; and `nobody` stands at 67 across these ten files against 21 across the ten behind them. **All three are in
+`reviews/volume-19/batch-0002.md` with their instruments, and §17.4 says the mean is a consequence and not a plan
+and §16 item 2's rule is a rule about chains and not about the word.**
 
 **THE FOUR HELD STRINGS.** None is printed on any of the ten pages and none is printed in the state layer, the
 batch record or the summary. **Measured on the twenty chapter files of `chapters/volume-19/` and the five live state
 files: the decision's wording, its cost, the panel and the three wordings of day 940 each return at 0 across all
-twenty-five searched files, and the repair pass widened that scope to twenty-eight by adding this batch's record,
-this batch's summary and the next batch's prompt, and all four spans return 0 in twenty-eight as well.** **The seven words are a different
-matter and the repair pass found three of them in the prompt, which had been outside every published scope, and took
-them out of it; `reviews/volume-19/batch-0002.md` §12 says so on its own line.** For the name held at `outline/volume-18.md` §6.8 the plan lifts the hold for one page
+twenty-five searched files.** For the name held at `outline/volume-18.md` §6.8 the plan lifts the hold for one page
 and for that page only: **the direct count is 1, the one file is `chapter-0918.md`, and the same count over the
 nineteen other chapter files and the five state files returns 0.** What is not published is a manuscript-wide
 count, and `reviews/volume-19/batch-0002.md` §12 says why in the row that carries the refusal.
@@ -129,7 +58,7 @@ the register in front of it, and it **carries one line on its face that did not 
 printed about what is on the other face of it. The bar is along the top step out of its two sockets. The bare piece
 of board under the date in chalk has nothing on it and nothing went under the date. The gate stands open and was not
 shut. The chalk is in the stallholder's inside breast pocket at every hour of all ten days. The space on the
-tradesman's board is empty and was named four times in three of the ten bodies and not printed. The trough has had no heat and its ice was not
+tradesman's board is empty and was named four times and not printed. The trough has had no heat and its ice was not
 broken. The satchel has not been opened. The tally-board is face up. The store door is a hand's breadth across and
 nobody has given a reason. The stool is where the woman of about fifty-two left it. The two shapes in the sill's
 dust are undated and will not lift. About four people a day went past the foot of that stair in five of the ten
