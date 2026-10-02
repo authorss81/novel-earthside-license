@@ -34,7 +34,7 @@ He said it into the middle of that floor. He was not saying it to anybody in par
 
 Nobody improved on a word of it. Nobody argued with it, and nobody agreed with it. Nobody thanked him for it, and nobody said one word to him about whether he had it right or whether he had it wrong. Nobody asked him why, and nobody asked him afterwards whether he agreed with it.
 
-The woman of about fifty-two stood at the far end of that bench with her hands at the sides of her own dress and said nothing whatever about any part of it. She had said a thing of her own into that room four days before, and nothing had come of that one either.
+The woman of about fifty-two stood at the far end of that bench with her hands at the sides of her own dress and said nothing whatever about any part of it. She had said a thing of her own into that room earlier in that flood, and nothing had come of that one either.
 
 "**No number is said in this room.**"
 
@@ -60,7 +60,7 @@ The man of about thirty-eight took his barrow down that stair at about the tenth
 
 ---
 
-The man of about thirty-nine got that board from under his arm, turned it face down against his side, and went down the stair with it.
+The man of about thirty-nine got that board off the leg of that bench, turned it face down against his side, and went down the stair with it.
 
 He stopped on the top step, halfway down, and put the flat of his hand against the wall beside him, the way a man steadies himself on a stair going down in a room that is not lit yet. He stood there the length of a breath with his palm on that wall.
 

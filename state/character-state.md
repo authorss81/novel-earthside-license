@@ -772,9 +772,10 @@ that bench from the fourth hour to the tenth hour with five figures in the colum
 each of the five, and nothing entered after them and nothing taken out, and no hand goes near that page at any hour
 of that morning, and **nobody in that room says one word to her about the decision at any hour of that day.** On
 day 776 she turns a page over and there is nothing on the back of it and there has never been anything on the back
-of it. On day 779 she is alone at that bench with a stranger's board face up on the wood for the length of about a
-minute, she looks at the bare place at the foot of the column between the other two, and she does not put a finger
-on it. **The second slate is not on the page of day 775 at all and is on no other of these ten days, and the
+of it. On day 779 she is the only person in that room who stands up off that bench, she comes the length of that
+floor and stands over a stranger's board lying face up on the wood at the far end of that bench for the length of
+about a minute, she looks at the bare place at the foot of the column between the other two, and she does not put a
+finger on it. **The second slate is not on the page of day 775 at all and is on no other of these ten days, and the
 register and the second slate and that man's board are not in one paragraph with one another on any of the ten.**
 
 **The man of about thirty-eight at the salt wharf** has a barrow that fills with water because a stranger stood it
@@ -821,3 +822,114 @@ ROAD. THE MAN OF ABOUT FIFTY-SEVEN IS NOT ASKED ANYTHING ON ANY OF THESE TEN DAY
 USED AND IS NOT LIFTED, AND THE FENCE IS NEITHER MEASURED NOR HAS A POST MOVED. NO NAME IS SPOKEN ON ANY OF THESE
 TEN DAYS. NO RELATIONSHIP MILESTONE IS PAID ON ANY OF THEM AND THE CONSENT FRACTURE STAYS UNMENDED AND THE FIFTH
 CONDITION IS NOT GIVEN.**
+
+---
+
+## THE BLOCK APPENDED BY THE PHASE THAT CONTINUED FROM THE CHECKPOINT, AND WHAT THE THIRD PASS CHANGED IN THE PEOPLE
+
+**Every figure in this block was re-derived by running the instrument on the ten files on disk after the third pass
+over days 0778, 0779 and 0780. It is not inherited from the block above.**
+
+**The man of about thirty-nine who trades on a board. UNCHANGED IN EVERYTHING THE PLAN FIXES, AND THREE THINGS
+ABOUT HIM ARE NOW STATED ON THE PAGE INSTEAD OF BEING STATED ONLY IN A CLOSING THAT CONTRADICTED THE BODY.** He is
+the decider of this volume's one decision on day 775 and he is thanked by nobody and nobody tells him he was right
+and nobody in that room is asked whether he agrees with it, on that day or on any other. **WHAT THE THIRD PASS
+SETTLED ABOUT WHERE THAT BOARD GOES, and the two days are now readable together: on day 778 he lays it face up on
+the wood of that bench at the far end of the room at about the ninth hour, and he stands beside it at the far end of
+that bench for the whole of that hour and lets it lie, and the room walks past it and looks at it and does not stop,
+and at about the tenth hour he picks it up, turns the face of it against his own side and takes it down that stair,
+and IT DOES NOT LIE ON THAT BENCH OVERNIGHT. On day 779 he comes up at the fourth hour carrying it under his arm and
+does not stand it in the gap at the far end of that bench with its back to the wall the way he stood it the day
+before, and lays it down flat on the wood at that far end instead, and goes down that stair and out into that row,
+and it lies there face up until he comes back at about the seventh hour and stands it against the leg of that bench,
+and at about the tenth hour he puts his right hand flat over the bare place at the foot of the column between the
+other two, low down, where his own hand comes to without him having to look for it, and keeps it there going down
+that stair.** He still does not look at that bare place at any hour of that day, and no mouth in either chapter
+asks him what it is or whether he agrees with anything, and the space about two fingers wide is still on a page for
+the first time in this manuscript and is still a space and not a name and no name is spoken. **HE IS NOT ASKED
+WHETHER HE AGREES WITH THE DECISION ON DAY 787 EITHER, AND THAT REMAINS FIVE VOLUMES RUNNING FOR HIM AND IT IS NOT
+A REWARD.**
+
+**The woman of about twenty-nine who keeps that public register. UNCHANGED, AND ONE FALSE SENTENCE ABOUT HER OWN
+BENCH WAS CORRECTED.** She is at the **near** end of that bench with the book open in front of her and her own hands
+flat on the wood on either side of the page on every one of these ten days, and the man of about thirty-nine stood at
+that same near end of that bench on her own side of the book on days 776 and 777 and has been at the far end of it
+for one morning of that bench at the far end only, on the two mornings since the Saturday, which is what the pages
+now say and which is true. **On day 779 she is the only person in that room who stands up off that bench. SHE COMES
+THE LENGTH OF THAT FLOOR AND STANDS OVER THAT BOARD, LYING FACE UP ON THE WOOD AT THE FAR END OF THAT BENCH, FOR THE
+LENGTH OF ABOUT A MINUTE, AND SHE SEES A STRETCH OF BARE WOOD ABOUT TWO FINGERS ACROSS AT THE FOOT OF THE MIDDLE ONE
+OF THOSE THREE COLUMNS, AND NOTHING HAS EVER BEEN CUT INTO THAT PLACE AND NOTHING HAS EVER BEEN CUT OUT OF IT AND THE
+GRAIN OF THE WOOD IN IT RUNS THE SAME WAY AS THE GRAIN EITHER SIDE OF IT, AND A MAN'S HAND HAD BEEN ON THAT BOARD FOR
+NINE YEARS AND HAD NOT WORN IT. SHE PUTS HER OWN RIGHT HAND OUT ABOUT A FOOT OVER THAT WOOD AND STOPS IT THERE, AND
+THEN TAKES IT BACK AND GOES THE LENGTH OF THAT FLOOR AND SITS DOWN AT THE NEAR END OF THAT BENCH WITH HER HANDS ON THE
+WOOD ON EITHER SIDE OF HER OWN BOOK. She is not going to put a finger on a stranger's board, there is nobody in that
+room to say anything to about it, and the man of about thirty-four does not look up off the middle of that floor while
+she is standing over it.** On day 778 that face lay up in the light at the far end of that room for the length of an
+hour with her at her own end of that bench and **she never turned a page of it**, and that is now the closing of
+that chapter, and on days 776 and 777 he took that board off the leg of that bench and laid it flat on the wood of it
+at the near end and stood beside it, and on the Saturday it stood against the leg of that bench at the near end and
+came off that leg when he went down that stair. She is asked nothing about the decision on day 775, she says nothing whatever on that day, and she
+pays no cost in this volume.
+
+**Adrian Vale. Stage 2 on all ten of these days and in three of them, 0771, 0773 and 0780, and he is in none of the
+volume's seven heavy days, and no threshold is opened, no working is performed, the other world is not named once,
+nobody offers him a workway and he asks for none, and he is aged nowhere.** **ON DAY 780 HIS WHEREABOUTS AT THE TENTH
+HOUR ARE NOW FIXED BY THE PAGE AND NOT BY A CLOSING THAT CONTRADICTED THE BODY: he came back into that yard on foot
+late in that morning, having walked every foot of that mile and a half down again in the weather, and there was
+nothing in either hand to show for the whole of it, and his coat had been wet through and dried and been wet through
+again since the fourth hour. HE DOES NOT GO ON UP THOSE FLATS.** He took a barrow that is not his out of that yard
+and pushed it up eleven miles of them, and stopped three times in the first mile because he was lifting it on the
+axle instead of going up the rise on its handles, and was on the second of them at the sixth hour with no more idea
+of what he was going to do with it than he had at the bottom. The man of about thirty-eight came through that gate at
+the seventh hour to an empty yard, walked a mile and a half up those flats on foot, and the two of them stood there
+together for the length of about a minute and neither said one word to the other, and then the man of about
+thirty-eight took the far handle and walked it down the rest of those flats himself and Adrian Vale walked beside it
+for the first half mile and then turned round and went back down. **That yard was emptied an hour later than it is
+emptied on a morning of the flood, and the man of about thirty-eight was still working at the low place at the ninth
+hour on a job he had finished by the seventh hour every morning, and nobody in that yard said one word to anybody
+about where that barrow had spent the morning, and nobody was thanked, and nobody was told that anything a stranger
+had done there was the reason for anything.** He is the cause of that in all three of the chapters he is in and the
+consequence is not a decision, a word, a document, a notice or the panel in any of them.
+
+**The man of about thirty-eight at that salt wharf.** He comes up that stair with his barrow at the seventh hour on
+day 772, is asked for the first time in the flood where he will be on the morrow, is told he was the last one asked,
+goes back down, and at the tenth hour puts the flat of his own hand on the bar of that door at the foot of that
+stair, which he had never once done in the whole of this flood. On day 777 he stops on the top step for the length
+of a minute, the way he had stopped once already in this flood. On day 780 he walks a mile and a half up those
+flats to fetch his own barrow and carries it back down himself. **NOBODY IN THIS VOLUME ASKS HIM ANYTHING, HE IS
+ASKED ONCE BY THE MAN OF ABOUT THIRTY-FOUR ON DAY 772 AND NOT BY AN INSTRUMENT, AND THE TALLY-BOARD LYING FACE UP
+ON THAT STACK IS NOT WIPED, NOT TURNED AND NOT GONE NEAR ON ANY OF THE TEN DAYS AND THERE IS NO THIRD LINE OF GRIT.**
+
+**The man of about thirty-four who keeps that stall, two stalls along.** He moved to the far end of that bench for
+the better part of two hours on day 772 and said nothing whatever there, and he is at the near end of that bench in
+the hollow in that wood on days 774 and 777, and on day 779 he comes in off the row at the sixth hour, stops in the
+middle of that floor for ten seconds, does not touch a stranger's board lying face up a few feet from him, and sits
+down on the flat wood at the far end of that bench instead. He has a figure of his own and gave it to nobody and did
+not take hers up, and on day 777 he worked out for the first time in a run of mornings that he has been counting a
+room from the corner of his own eye at his stall, and nobody is going to do it with him any more, and at the tenth
+hour he turned his two hands over and there was nothing on them at all. **HIS CHALK DID NOT COME OUT OF THAT INSIDE
+BREAST POCKET ON ANY OF THESE TEN DAYS AND HE IS NOT THE DECIDER IN THIS VOLUME AND MAKES NO DECISION IN IT.**
+
+**The woman of about fifty-two.** She says the room's figure into that room in a mouth on days 774, 775 and 772, she
+stands at the far end of that bench with her hands down the sides of her own dress and says nothing whatever about
+any part of the decision on day 775, she says nothing whatever about the second cost on day 778, and **she pays the
+first cost of this volume on day 764, which is not one of these ten days, and she does not pay a second one here.**
+She has her own hands on the back of that stool on day 795, which is not one of these ten days. Nobody asks her what
+a morning is for on any of the ten.
+
+**The man of about thirty-one who carries things for a living** comes up that stair on day 775 with his satchel under
+his arm and the flap down, stands short of that bench with the heel of his own hand on the flap and his other hand
+down at the side of his coat, does not come the rest of the way in, offers no word, and goes back down at about the
+tenth hour with the flap down against its own side the whole of the way. **NOTHING IN THAT SATCHEL IS OPENED ON ANY
+OF THESE TEN DAYS, THE SATCHEL IS NOT SET DOWN ON ANY SURFACE ON ANY OF THESE TEN DAYS, AND NO MOUTH IN ANY OF THESE
+TEN FILES ASKS WHAT IS IN IT OR WHY HE OPENS NOTHING HE CARRIES.**
+
+**THE MAN OF ABOUT SIXTY STILL PUTS THE COIL BACK ON HIS OWN BED ON DAY 773 AND STILL DOES NOT GO DOWN THAT ROAD, AND
+HE IS STILL THE ONLY MAN ON THAT ROAD WORKING AT A FOOT FROM HIS OWN GATE INSTEAD OF A MILE FROM IT, AND NOBODY ASKED
+HIM WHY. THE MAN OF ABOUT FIFTY-SEVEN IS NOT ASKED ANYTHING ON ANY OF THESE TEN DAYS, HIS LENGTH OF NEW ROPE IS NOT
+USED AND IS NOT LIFTED, THE FENCE IS NEITHER MEASURED NOR HAS A POST MOVED, AND ABOUT FOUR FEET IS A NUMBER IN A
+MAN'S MOUTH AND IS NOT A MEASUREMENT ANYBODY TOOK. THE WOMAN OF ABOUT SIXTY-NINE HAS A TIN AND HAS NOT ASKED A FOURTH
+QUESTION IN THIS VOLUME, AND THAT IS THE NINTH VOLUME RUNNING, AND IT IS ON NO PAGE. THE WOMAN WHO WALKED A MARKET
+AND STOPPED IS ON NO PAGE OF THESE TEN DAYS AND IS GIVEN NO AGE, NO DESCRIPTOR, NO NAME AND NO NUMBER. NO NAME IS
+SPOKEN ON ANY OF THESE TEN DAYS. NO RELATIONSHIP MILESTONE IS PAID ON ANY OF THEM, THE CONSENT FRACTURE STAYS
+UNMENDED, AND THE FIFTH CONDITION IS NOT GIVEN. TAMSIN QUILL IS NOT IN ANY OF THESE TEN ROOMS.**

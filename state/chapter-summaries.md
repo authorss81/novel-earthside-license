@@ -484,20 +484,153 @@ DECISION.**
    of about thirty-nine lays that board down face up on the wood of that bench at the far end at the fourth hour and
    goes down into that row and leaves it; the man of about thirty-four comes in at the sixth hour, stops in the
    middle of that floor for ten seconds, does not touch it, and sits down a few feet along from it; and the woman of
-   about twenty-nine is alone at that bench with a stranger's board for the length of about a minute, and looks at
-   the bare place, and does not put a finger on it. He does not look at the bare place either. At the tenth hour his
+   about twenty-nine is the only person in that room who stands up off that bench, walks the length of that floor to
+   where that board is lying, looks at the bare place at the foot of the middle one of those three columns, holds her
+   own hand out about a foot over it and stops it there, and does not put a finger on it. He does not look at the bare place either. At the tenth hour his
    own hand goes flat over it and stays there going down that stair. WHAT IT DID NOT DO: no mouth in it asks him
    what that space is, no name is spoken, the second slate is not on the page, the word in the column on the right
    of that page is not printed and is not asked about, and the register and the second slate are not in one
    paragraph with one another or with his board.
 10. **0780, day 780, a Thursday, the four hundred and sixty-fifth, physical. Adrian, eleventh.** WHAT THE DAY WAS FOR:
     to have a barrow stood in the corner of a room over a market before the seventh hour. WHAT IT CHANGED: Adrian
-    Vale took that barrow out of that yard altogether and pushed it up eleven miles of flats and was on the second
-    mile at the sixth hour and the fourth at the tenth; the man of about thirty-eight came through that gate at the
-    seventh hour to an empty yard, walked a mile and a half up those flats on foot to fetch it, and carried it back
-    himself; that yard was emptied an hour later than it is emptied on a morning of the flood, the weather came over
-    those flats at the seventh hour and went into the low place in the stone in one long push with nothing standing
-    in the way of it, and the bucket lying in that low place lay in that water for longer than it has lain in it on
-    any morning of this flood. WHAT IT DID NOT DO: it did not get that barrow into that room, and it printed no
-    figure and said no figure, and the eleventh of the eleven is a `no`. **§4.1 has no row for this day and the
-    outcome is published `no` on the conservative reading.**
+   Vale took that barrow out of that yard altogether and pushed it up eleven miles of flats and was on the second
+   mile at the sixth hour; the man of about thirty-eight came through that gate at the
+   seventh hour to an empty yard, walked a mile and a half up those flats on foot to fetch it, and carried it back
+   himself, and Adrian Vale walked beside it for the first half mile and then turned round and came back down on
+   foot; that yard was emptied an hour later than it is emptied on a morning of the flood, the weather came over
+   those flats at the seventh hour and went into the low place in the stone in one long push with nothing standing
+   in the way of it, and the bucket lying in that low place lay in that water for longer than it has lain in it on
+   any morning of this flood. WHAT IT DID NOT DO: it did not get that barrow into that room, and it printed no
+   figure and said no figure, and the eleventh of the eleven is a `no`. **§4.1 has no row for this day and the
+   outcome is published `no` on the conservative reading.**
+   **CORRECTED BY THE REPAIR AT `state/batch-summaries/volume-16-batch-0003.md` §10: the first writing of this entry
+   said he was on the fourth of those miles at the tenth hour, which was on the closing of the chapter at the time
+   and is on no page now. The closing put him back on the handles at the tenth hour and the body had him turn round
+   at the eighth hour and walk down, and the two sentences could not both be true of one morning. The body was left
+   standing and the closing was re-aimed, and the want is still not obtained and the outcome is still `no`.**
+
+### CORRECTION AND REPAIR BLOCK FOR CHAPTERS 0771 TO 0780, appended by the phase that continued from the checkpoint
+
+**The ten entries above are the work of three passes. Three of them described a page that was not the page, and all
+three are corrected here and at `state/batch-summaries/volume-16-batch-0003.md` §10, in the same pass, because a
+correction made in one file and not in the others is a second fault wearing the first one's coat. The ten days, the
+ten cards, the decision, the costs, the wants and the outcomes are unaltered.**
+
+1. **0771, day 771 — UNALTERED.** A barrow is taken out of a yard and left against a wall with water in the bottom
+   of it, the weather comes over the wall with no gutter and no lip on it and everything the wall brings goes into
+   whatever is standing against that wall, and the man of about thirty-eight comes in at the seventh hour to water
+   over his knuckles, turns the barrow out where it stands, and sets it down where he puts it and not where the
+   stranger put it, and has to walk round the length of it four times more that morning. No figure is cut into
+   anything and no chalk is on either handle, and the two marks on those flags go out by the middle of the next
+   day. **He does not obtain a barrow left against that wall: the man of about thirty-eight moves it off it, and
+   the published outcome is `no` on the conservative reading, §4.1 having no row for this day.**
+2. **0772, day 772 — UNALTERED.** A room finds out on the morning it is asked that it has been hearing answers to
+   questions all flood without knowing there were questions in it, because the man of about thirty-four has been
+   asking everybody out in the row on his way up and not one of them knew. He asks the man of about thirty-eight
+   to his face, is told he was the last one, and moves to the far end of the bench for two hours and says nothing
+   whatever. The man of about thirty-eight leaves with a hand flat on the bar of that door at the foot of that
+   stair, which he had never once done in the whole of this flood. **The room's own figure is said in a mouth at the
+   fifth hour and again in narration at the eighth, and both are before the decision.**
+3. **0773, day 773 — UNALTERED, AND IT STILL PERFORMS ITS WANT AND UNDOES IT.** A coil of rope is carried twenty
+   feet from the bed of a handcart to the foot of the shut road and set down on the gravel, and the man who carried
+   it understands standing there that a rope put by the top of a shut road is not a rope left for somebody. The man
+   of about sixty comes out at the sixth hour, looks at the wet print of the grit in it for about as long as it
+   takes to decide a thing is not worth asking anybody about, carries it back up the yard, puts it on the bed of
+   his own cart over the mallet, and does not take that cart down that road at all that morning. He hoes instead,
+   and there is a line of turned gravel on that yard a spade deep from the gate to the wall that is going to be a
+   line there for the rest of that flood. **The want is performed and undone on the page, the outcome published is
+   `no`, the page was not rewritten to make the row true, and the finding is at `state/open-threads.md` #22 and is a
+   question for a human.**
+4. **0774, day 774 — UNALTERED.** Two hollows in the wood of that bench, a forearm apart, one on each side of the
+   place where a book lies, and the book rocks on the high wood between them, and the woman of about twenty-nine has
+   been holding one end of it down every morning of this flood and has worked out that a hollow in a bench is not a
+   thing anybody in a room says out loud. The man of about thirty-four's own hands go about half an inch lower than
+   they went a week before and he never works out that his own weight did it. At the ninth hour the high wood takes
+   the book flat by itself and she takes her hands off the wood, and in the morning her hand goes back onto that
+   page anyway. **The room's own figure is said in a mouth at the fifth hour, and the man of about thirty-four has
+   a figure of his own that he gives to nobody and does not take hers up.**
+5. **0775, day 775 — UNALTERED IN ITS DECISION, AND ONE SENTENCE IN IT WAS CORRECTED IN THE SECOND REPAIR ROUND.** The correction is that the board was standing against the leg of that bench from the fourth hour and the closing had him take it *from under his arm* with nothing in between moving it, and it now comes off the leg of that bench, and the woman of about fifty-two's thing of her own is no longer dated to *four days before*, which landed on a day she is not shown saying anything. **THE DECISION IS THE VOLUME'S ONE DECISION.** The cost is named first, in his own mouth,
+   at about the eighth hour: *There is one thing I am going to lose out of saying that. I am naming it now,
+   because after this morning there will be nobody in that room left who can hear me name it. I will not be able to
+   say whether any of you came.* Then the decision, seven words, in his own mouth, in front of about nine people,
+   with a date in chalk on the outside of that door behind him: *No number is said in this room.* The room's own
+   figure has been said twice before it that morning, by two different people, who give two different figures.
+   There is no notice and there has never been one and there is nobody anybody in that room knows of who could have
+   been told, so the room is the people who turned up, and the chapter says in a plain sentence of narration that it
+   was done faster than a thing of that weight ought to be done. About four of them say out loud that they had not
+   known what it was about and about four say nothing at all. It is not written down and no hand goes near any
+   surface    with anything to make a mark with. The woman of about twenty-nine who keeps that register is in that
+   room and is asked nothing and says nothing, and the woman of about fifty-two says nothing whatever about any part
+   of it, and the man of about thirty-one comes up, stands short of that bench with the heel of his own hand on a
+   flap that stays down, and goes back down without offering a word. **The closing is a print of the flat of a palm
+   in the dust on the wall at the top of that stair, no other mark on that wall, and that stair dark from the top
+   of it to the bottom.**
+6. **0776, day 776 — UNALTERED.** The first morning with nothing in it. The decider does not go to the far end of
+   that bench and stands at the near end of it instead, and the whole length of that floor bends around him and not
+   one person says a word about the bending. Where a thing had been said into the middle of that floor every
+   morning of this flood, nobody says it, and about four people notice the place where it used to come and two of
+   them catch themselves and look at something else, and then the small talk comes forward the way water comes into
+   a low place. **No number is said in a mouth on this page and none is stated by the narrator, and the room is
+   louder at the tenth hour than at any hour since the flood came.**
+7. **0777, day 777 — UNALTERED.** A morning exactly like the one before it, and the only difference in it is that
+   the man of about thirty-four says out loud, to nobody, that a man could have come in at the fifth hour on
+   Friday or Saturday or this morning and not told one of the three from the other two. The decider goes down that
+   stair at the eighth hour and comes back at the tenth and not one person turns round, and the man of about
+   thirty-four works out for the first time in a run of mornings that he has been counting a room from the corner
+   of his own eye at his stall two stalls along, and nobody is going to do it with him any more. He turns his two
+   hands over at the tenth hour and there is nothing on them at all, and he sits on in that bench after the room has
+   gone, which is the first morning of that flood he has not got up off it the moment the room emptied.
+8. **0778, day 778 — THE CLOSING WAS RE-AIMED, THE BODY WAS NOT TOUCHED.** **WHAT WAS WRONG: the body said the
+   board went down that stair under his arm at the tenth hour and the closing said that bench stood with it lying
+   face up on it in an empty room at the tenth hour and would be there in the morning when the light came over that
+   roof. A board cannot be in the two places on one morning, and 0779 opens with that man coming up that stair
+   carrying it, so the body was right and the closing was wrong. THE CLOSING NOW STANDS ON: a bench with nothing on
+   it where that board had been lying, the board face down against a man's own side with the shape of his own right
+   hand still lying in the middle of the rates where the light of the ninth hour had stood on it, and the woman of
+   about twenty-nine at her own end of that bench with the book open in front of her the whole of that hour and never
+   turning a page of it. NOTHING ELSE ON THE DAY MOVED, AND FOUR MORE PRE-EXISTING FAULTS IN THIS CHAPTER WERE FIXED
+   IN THE SAME PASS: it no longer claims he laid that board face up *once in the length of this flood, for the length
+   of about a minute*, which days 776 and 777 both contradict; it no longer dates the woman of about fifty-two's thing
+   of her own to *four days before*; it no longer says the light of the ninth hour was still lying in the rates after
+   the light had gone off that floor at the tenth hour; and it no longer has him *coming back from* the far end of that
+   bench to pick the board up when he had put it down at the far end and was not near it.** The day is still the second cost in the man's own mouth and still thanks by
+   nobody: *I have put that figure into this room on more mornings of this flood than I can put in an order. Since
+   Saturday morning I have not been able to tell you for one morning of this flood whether I stood in this room on
+   it, and I am not going to be able to for the rest of my life.* Nobody improves on a word, nobody argues, nobody
+   asks him why he did what he did on the Saturday, and nobody asks him whether he agrees with it. At the ninth
+   hour he lays the board face up on the wood and leaves it lying there for the rest of the morning, and the room
+   walks past it and looks at it and does not stop.
+9. **0779, day 779 — FIVE SENTENCES RE-AIMED, THE DAY UNCHANGED.** **WHAT WAS WRONG: the opening said he did not
+   take the board to the far end of that bench and put it down at the far end two lines later; the body then put it
+   a few feet from where a man's hands had been when those hands had been in the hollow at the near end; it had
+   that man settle into a hollow in the wood at the far end, where there is no hollow; it had the woman of about
+   twenty-nine say he had been at the other end of that bench every morning of this flood, which is false on days
+   776 and 777; and the closing put the light of that roof on a place in the wood of a board that had gone down the
+   stair and out into that row.** All five are re-aimed and the board now goes down flat on the wood at that far
+   end instead of being stood in the gap there, the man of about thirty-four comes in at the sixth hour, stops in
+   the middle of that floor for ten seconds, does not touch it, and sits down a few feet along from it on the flat
+   wood; and the woman of about twenty-nine is the only person in that room who stands up off that bench, comes the
+   length of that floor and stands over that board for the length of about a minute, looks at a stretch of bare wood
+   about two fingers across at the foot of the middle one of those three columns, puts her own hand out about a foot
+   over it and stops it there, takes it back and sits down again at the near end of that bench with her hands on the
+   wood on either side of her own book. He does not look at the bare place
+   either. At the tenth hour his own hand goes flat over it and stays there going down that stair, and the closing
+   stands on the ninth year of that space lying face up in the light of that roof in the morning and on the hand
+   that went down over it being the same hand that would go up it. **No mouth in the chapter asks him what that
+   space is, no name is spoken, and the second slate is on no page of it.**
+10. **0780, day 780 — THE CLOSING WAS RE-AIMED, THE BODY WAS NOT TOUCHED.** **WHAT WAS WRONG: the body had the
+    man of about thirty-eight take the far handle and walk the barrow down, and Adrian Vale walk beside it for the
+    first half mile and then turn round and go back down, and the barrow back in that yard at about the eighth hour
+    — and the closing put him on the fourth of those eleven miles at the tenth hour with his right hand on that
+    handle since the fourth hour, which is three miles further up the same flats and away from a barrow that had
+    already come home.** The closing now stands on him coming back into that yard on foot late in that morning
+    having walked every foot of that mile and a half down again in the weather with nothing in either hand to show
+    for it, the barrow standing where he puts it with the bottom of it scraped out and the week's work gone into that
+    low place, and nothing at all in the corner of that room over that market. **THE FIRST RE-AIMING OF THIS CLOSING
+    ALSO SAID THAT BARROW STOOD WHERE IT HAD STOOD EVERY MORNING OF THE FLOOD WITH THE WEEK'S WORK STILL IN THE BOTTOM
+    OF IT, WHICH ERASED THE ONE LASTING CONSEQUENCE THE CHAPTER HAD, AND THAT IS CORRECTED IN THE SAME PASS.**
+    NOTHING ELSE ON THE PAGE MOVED,
+    and the day still ends with that yard emptied an hour later than it is emptied on a morning of the flood and
+    the man of about thirty-eight still working at the low place at the ninth hour on a job he had finished by the
+    seventh hour every morning. **He does not obtain the barrow in that corner and the outcome is `no`, §4.1 having
+    no row for this day.**

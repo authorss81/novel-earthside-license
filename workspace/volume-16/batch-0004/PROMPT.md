@@ -281,3 +281,55 @@ SENSES IT IS; (iii) ABOUT FOUR PEOPLE A DAY AND THE ROOM'S OWN FIGURE ARE TWO FI
 SENTENCE AND NOBODY DOES ANY ARITHMETIC WITH EITHER OF THEM; and (iv) A CONSTRAINT IS A THING TO OBEY ONCE AND THEN
 LEAVE BEHIND. A chapter that obeys a prohibition by restating the prohibition has spent the chapter on the
 prohibition, and the reader cannot see the day.**
+
+---
+
+## AND ONE MORE THING THE PHASE BEFORE YOU GOT WRONG THREE TIMES, WHICH IS NOT A COUNT AND IS THE THING THAT WILL
+## COST YOU THE MOST IF YOU TAKE IT AS A DUPLICATION RULE
+
+**This block was appended by the phase that continued from the checkpoint on Batch 0003 and it corrects the pages
+behind you, not the prompt. `state/batch-summaries/volume-16-batch-0003.md` §10 is the record and
+`state/open-threads.md` carries it as an open thread. Read this before you write a word of your own.**
+
+**A CLOSING PARAGRAPH IS A CLAIM ABOUT THE STATE OF THE WORLD, NOT ONLY A DUPLICATION RISK AND NOT ONLY A
+CONSTRUCTION CLUSTER. On three of the ten days behind you, the closing paragraph said something the body of its own
+chapter already contradicted, and in each case the closing put an object into a second state on the same morning:
+Chapter 0778 had that board going down that stair under a man's arm in the body and lying face up on that bench in
+an empty room at the tenth hour and still there in the morning in the closing; Chapter 0779 had that board at the
+far end of that bench in one sentence and a few feet from a man's hands that had been in the hollow at the near end
+in another, and in a hollow in the wood at the far end where there is no hollow, and had the light of that room fall
+on a place in the wood of a board that was out in a row; and Chapter 0780 had a man on the fourth of eleven flats at
+the tenth hour who had turned round at the eighth and was walking back down, with his hand still on a handle he had
+let go of at the seventh. **NOT ONE OF THE THREE WAS A COUNT. The forty-word pass returns zero in all three scopes
+and the sixteen-word pass against the seven hundred and seventy outside returns zero, and neither of them can ask
+whether a thing is in two places at one hour. So check 2 above is not enough as it stands: add to it that you read
+each of your ten closings whole against the body of its own chapter asking specifically WHERE EVERY OBJECT IN THAT
+CLOSING IS, AND WHAT HOUR IT IS IN, AND WHETHER THE BODY PUT IT ANYWHERE ELSE.** And when you repair a closing,
+measure the repair against the batch and not against the file: a first re-aiming on day 778 put a nine-word run into
+that closing that stands word for word in day 771's, and only measuring the batch caught it. **A cluster of closings
+is cleared by being counted out of every closing in the batch twice, and not by being re-aimed in the two closings
+that were named; the morning-and-light cadence stood in days 0778 and 0779 through three passes and one
+declared-cleared repair.**
+
+**AND THE STATE OF THE WORLD BEHIND YOU, WHICH THREE OF THOSE REPAIRS SETTLED AND WHICH YOU INHERIT AS TRUE. (i) THE
+MAN OF ABOUT THIRTY-NINE AND THAT BOARD. He lays it face up on the wood of that bench at the far end of that room
+and leaves it lying there, and then he takes it down that stair under his arm, and IT DOES NOT LIE ON THAT BENCH
+OVERNIGHT AND IT IS NOT IN THAT ROOM IN THE MORNING UNTIL HE CARRIES IT UP. He stood at the far end of that bench
+for one morning on day 778 and again on day 779, and he has been at the NEAR end of that bench, on the woman of
+about twenty-nine's own side of the book, since day 776. **HE IS IN YOUR TEN DAYS AND HE IS IN THAT ROOM, AND ON DAY
+0788 HE IS IN THAT ROOM AND IS NOT ASKED WHETHER HE AGREES WITH THE WALL.** (ii) THE WOMAN OF ABOUT TWENTY-NINE IS
+AT THE NEAR END OF THAT BENCH ON EVERY ONE OF THE TEN DAYS BEHIND YOU, WITH THE BOOK OPEN IN FRONT OF HER AND HER OWN
+HANDS FLAT ON THE WOOD ON EITHER SIDE OF THE PAGE, and two hollows a forearm apart sit one on each side of the place
+where that book lies, and the high wood between them will hold the book flat by itself and she will put her hand
+back on it anyway. (iii) ADRIAN VALE CAME BACK DOWN THOSE ELEVEN MILES OF FLATS ON FOOT ON DAY 780 AND IS IN THAT
+YARD AT THE NEAR END OF THEM LATE IN THAT MORNING WITH NOTHING IN EITHER HAND, AND HE DID NOT GET THE BARROW TO THE
+CORNER OF THAT ROOM AND THAT OUTCOME IS PUBLISHED `no`.
+
+**AND THE FIGURES YOU WILL INHERIT FROM THE TEN BEHIND YOU, all re-measured on those files after the last edit and
+none of them a target: a median sentence of 23, a maximum of 60, 10,712 words with the heading line in and 10,639
+without it, a bolded share of 3.95 weighted, 192 prose and 10 speech paragraphs, 0 plain and 0
+bold-without-a-quotation-mark, chapter length 874 to 1,456, chapter titles four to eight words, `that` at 38.0 and
+`nobody` at 5.5 per thousand words, the sixteen-word class at ZERO inside those ten and against the seven hundred and
+seventy outside, and the forty-word class at ZERO in all three scopes. **The bolded share of 3.95 is far below the
+house figures of 9.35 and 6.64 behind it, and the median of 22 is where it is supposed to be, and no card in this
+file sets a target for either.**

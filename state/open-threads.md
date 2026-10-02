@@ -742,3 +742,88 @@ restated, paraphrased or improved on in any of these ten files.** (xii) **The fo
 counted at any value on any of these ten pages, and a sweep for `days since` across the ten returns zero.**
 (xiii) **The independence debt is unchanged and is owed by a human, and this is the ninth time it has been named in
 this volume, and the eleventh fault it is standing behind is the eleventh that no instrument could have found.**
+
+---
+
+## THE BLOCK APPENDED BY THE PHASE THAT CONTINUED FROM THE CHECKPOINT, AND THE ONE NEW QUESTION IN IT
+
+**The thirteen prohibitions the block above carries are unchanged and were re-measured on the ten files after the
+third pass over days 0778, 0779 and 0780: the mark that came back out of place on the sheet of day 440 is still not
+traced and no mouth in any of these ten files says anybody moved it; the second slate is on no page of the ten and a
+literal *slate* across `chapters/volume-16/chapter-07{71..80}.md` is **zero**; the word in the column on the right
+of that page is not printed and is not asked about and is not set beside the word on that slate anywhere; the
+man of about fifty-seven is not asked anything, his length of new rope is not used and not lifted, and the fence is
+neither measured nor has a post moved; the woman of about sixty-nine has not asked a fourth question and her
+not-asking is on no page; the man of about thirty-four is not the decider and his chalk has not come out of that
+inside breast pocket; the two men of about thirty-eight are two people and no chapter of these ten merged or settled
+them; the two women of twenty-nine are never in one room; the day-154 sentence is not said; the fourth of the four
+said no is not counted at any value and `days since` is zero across the ten; the seven documents are never joined,
+conflated or compared aloud and this volume has no eighth and sent none; *nine steps*, *passage*, *privilege* and
+*player* are at zero; and a narrator frame is on none of the ten pages.**
+
+**AND 0773 IS STILL THE STANDING EXAMPLE AND IT IS STILL A QUESTION FOR A HUMAN, and the pass that continued from
+the checkpoint re-read the page and did not settle it. §4.1's one row for that day publishes the want as *to have
+carried it out past the last named house and left it by the top of a shut road* and the outcome as `no`, and the page
+performs the carrying and the setting down and then has the man of about sixty carry it back up his own yard and put
+it on the bed of his own handcart and not take that cart down that road at all. **The weaker reading is published
+and `no` IS KEPT, the page was not rewritten and the row was not edited, and the reason is the one §4.1's own table
+gives and the one this repository has now twice declined to paper over: the only ways to make that page a `no` are a
+new event or a different room, and both are a writer's invention and not a reading.** The same finding stands for
+day 761 at `state/batch-summaries/volume-16-batch-0002.md` §13.1 finding 2 and §13.4, where a man who wants his back
+to a wall is given a chair with his back to the wall and is still in it six hours later and the row above him says
+he does not get it. **A PLAN ROW THAT A FINISHED CHAPTER CONTRADICTS IS NOT A WRITER'S TO SETTLE.**
+
+### THE ONE NEW THREAD THIS PASS ADDS, AND IT IS NEW IN KIND RATHER THAN IN SUBJECT
+
+**A CLOSING PARAGRAPH IS NOT ONLY A DUPLICATION RISK AND NOT ONLY A CONSTRUCTION CLUSTER. IT IS A CLAIM ABOUT THE
+STATE OF THE WORLD, AND WHEN IT DISAGREES WITH THE BODY OF ITS OWN CHAPTER IT PUTS TWO STATES OF THE SAME OBJECT INTO
+THE SAME MANUSCRIPT, AND THE STATE LAYER INHERITS BOTH AND HAS TO CHOOSE.** Three of these ten did it and all three
+were found by reading and not by a count: day 778 put that board under a man's arm going down that stair and lying
+face up on that bench until morning; day 779 put that board at the far end of that bench and a few feet from a
+man's hands that had been at the near end of it, and in a hollow in the wood where there is no hollow, and had the
+light of a room fall on a place in a board that was out in a row; and day 780 put a man on the fourth mile of
+eleven flats at the tenth hour who had turned round at the eighth and was walking back down. **THE INSTRUMENTS
+RETURNED CLEAN ON ALL THREE. The forty-word pass returns zero in all three scopes and returned zero before the
+third pass. The sixteen-word pass against the seven hundred and seventy outside returns zero and returned zero.
+What none of them can do is ask whether an object is in two places at one hour, and the only reader who can ask it is
+a person reading the whole of a chapter and then the whole of the chapter after it.** This is published as a
+standing obligation on every batch behind this one and it is not answered by any instrument in this repository.**
+
+**AND THE METHOD FAILURE THAT CAME WITH IT, NAMED SO THAT IT IS NOT REPEATED: A CLOSING PARAGRAPH MUST BE READ
+WHOLE, FROM ITS FIRST WORD TO ITS LAST, AGAINST THE BODY OF ITS OWN CHAPTER, AND A CLOSING REPAIR MUST BE MEASURED
+AGAINST THE BATCH AND NOT AGAINST THE FILE. A first re-aiming on day 778 put a nine-word run into that closing that
+stands word for word in day 771's, and a six-word run into it that stands in day 779's, and both were caught only
+because the batch was measured and not the file. AND A CLUSTER OF CLOSINGS IS CLEARED BY BEING COUNTED OUT OF EVERY
+CLOSING IN THE BATCH TWICE, AND NOT BY BEING RE-AIMED IN THE TWO CLOSINGS THAT WERE NAMED: the morning-and-light
+cadence stood in days 0778 and 0779 through three passes and one declared-cleared repair, and it is now in 0779
+alone, and the five-word run *in front of her and* is shared between 0776 and 0778 and is left standing and named
+rather than aimed at, because it is five words of a locative and a conjunction.**
+
+**AND THE INDEPENDENCE DEBT IS NAMED FOR THE TENTH TIME IN THIS VOLUME AND IS UNCHANGED AND UNPAID. `reviews/volume-16/`
+DOES NOT EXIST, the review dispatch falls back to the writer's own agent, and the three faults in the paragraph above
+are the strongest available evidence that the debt is real: they sat in ten files and in six state files and were
+described correctly in none of them until a person read the three chapters again with the record out of sight.**
+
+**AND THE BUCKET IS A NEW THREAD AND IT IS THE ONE FINDING OF THIS PASS THAT WAS NOT REPAIRED, AND IT IS NAMED
+RATHER THAN FIXED.** Chapter 0771 and chapter 0780 each say that the bucket lying in the water at the low place in
+the stone at the side of that yard is the only bucket in this city, and chapter 0771 says it has lain in that water
+through the whole of this flood, and chapters 0776 and 0777 have the man of about twenty-seven coming up that stair
+with the bucket hanging out of his hand out of the yard below that room. Either that man carries that same bucket up
+and puts it back again, or there are two buckets, and no page of this volume says which, and
+`outline/volume-16.md` §5's list of places gives one bucket at the low place in the stone and §7.2 gives the man of
+about twenty-seven a bucket and a rag and does not say whose. **THE REPAIR WOULD BE ONE WORD IN ONE OF TWO PLACES,
+AND THE SENTENCE THAT WOULD HAVE TO CHANGE IN 0771 IS ONE OF THE FOUR LOAD-BEARING DECLARATIONS THE PLAN REQUIRES,
+AND NO WRITER ON A CHECKPOINT CONTINUATION REWRITES A REQUIRED DECLARATION TO SETTLE A CONTINUITY QUESTION THAT ONE
+LINE OF A HUMAN'S READING SETTLES. It is carried here, it is not published as clean, and the next batch inherits it
+with the two chapters that hold both halves of it.**
+
+**AND THE INDEPENDENCE DEBT STOPPED BEING A FORMALITY IN THIS PASS, WHICH IS THE ELEVENTH TIME IT HAS BEEN NAMED AND
+THE FIRST TIME IT WAS PAID FOR. The first round of the repairs on days 0778, 0779 and 0780 was written and checked by
+one agent, and that agent read the same three files a second time and found three of them and missed four of its own,
+and a reviewer that did not write the chapters found those four and five more that three passes had missed. **THE
+FINDING IS NOT THAT THE REVIEWER WAS RIGHT AND THE WRITER WAS WRONG. THE FINDING IS THAT THE WRITER CHECKED ITSELF
+TWICE AND A SECOND READER FOUND MORE, AND THAT NO INSTRUMENT IN THIS REPOSITORY FOUND ANY OF THE NINE, AND THAT THE
+NINE ARE ALL THE SAME CLASS: A PAGE SAYING SOMETHING ABOUT THE STATE OF THE WORLD THAT ANOTHER PAGE OF THE SAME
+MANUSCRIPT SAYS DIFFERENTLY. A closing paragraph, an opening paragraph, a side clause and a closing paragraph are all
+places a claim about the world can stand, and a check that only looks at the closing paragraph is looking at one of
+the four.**

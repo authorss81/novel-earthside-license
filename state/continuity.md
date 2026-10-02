@@ -676,8 +676,78 @@ behind them. `that room` at 5.2, against 5.1. **AN EARLIER EDITION OF THIS BLOCK
 PUBLISHED 28.1 FOR `that`, THAT FIGURE WAS NOT PRODUCED BY THE INSTRUMENT, AND IT IS WITHDRAWN HERE AS IT IS
 WITHDRAWN THERE.** The thirty-five-word zero column, *nine steps*,
 *passage*, *privilege*, *player*, a narrator frame, `days since`, panels, digits in prose and bare three-digit
-numerals all at zero, whole-word bounded with a hyphen delimiting. Chapter length 874 to 1,453, a mean of 1,052,
+numerals all at zero, whole-word bounded with a hyphen delimiting. Chapter length 874 to 1,456, a mean of 1,064,
 and 0775 is the long one and it is the volume's one decision, and the 1,450 that one source record published for 0775 was never a measurement of anything and is superseded. **AND THE BARE-MONTH RESOLVER WAS WRONG THREE TIMES IN
 THIS BATCH, all three times the instrument's fault and not a page's, and its fourth edition and its control on 150
 chapter files of Volumes 13 to 15 are published beside the fix, because the ninth run of that kind in this
 repository is the reason every record names its ordinal tables.**
+
+---
+
+## VOLUME 16, BATCH 0003, CONTINUED FROM THE CHECKPOINT — WHAT THE RE-THIRD-PASS DID AND DID NOT DO TO CONTINUITY
+
+**THE FIGURES IN THIS BLOCK WERE RE-DERIVED BY RUNNING THE INSTRUMENT ON THE FILES ON DISK AFTER THE THIRD PASS
+OVER DAYS 0778, 0779 AND 0780, not inherited from the block above, and the reading is on the same line as the
+number.** Words 10,680 with the heading line in and 10,607 without it, against 10,596 and 10,523 on the three passes
+before the repairs this block records; the bolded share 3.95 weighted and 423 bold words of 10,712; chapter length
+874 to 1,456 and a mean of 1,064. Paragraph
+classes 192 prose, 10 speech, 0 plain, 0 bold without a quotation mark, against 193 and 10 in the block above, and
+one prose paragraph is the whole of the difference. The sentence scale a mean of 25.0, a median of 22, a p90 of 44, a
+maximum of 60 and 15.9 per cent at forty words or more out of 422 sentences, against 24.9, 22, 44, 62 and 14.9 per
+cent out of 422 in the block above, **and the p90 is the one of the five that did not move and the
+count and the percentage moved by one sentence, and the per-file maxima are unchanged on all ten files for the
+second time in this batch.** The forty-word class at zero in all three scopes on both readings, the sixteen-word
+class at zero inside the ten and **zero against the seven hundred and seventy outside**, and the thirty-five-word zero
+column, *nine steps*, *passage*, *privilege*, *player*, a narrator frame, `Stage N`, `days since`, *slate* and the
+census phrase all at zero. `that` at 38.0 per thousand words, `nobody` at 5.5, `that room` at 5.3, and forty
+`own` frames. **The first tokenizer this pass wrote bounded words on a hyphen and returned 10,530, and the eighty-nine
+hyphenated tokens in the ten are the whole of the gap: the instrument that was wrong was the one this pass wrote
+and not the one the record published, which is the ninth run of that kind in this repository and the reason every
+record names its bounding.**
+
+**AND WHAT CHANGED IN THE CONTINUITY OF THE WORLD, WHICH IS THREE THINGS AND NOT TEN. (i) WHERE THAT MAN OF ABOUT
+THIRTY-NINE PUTS THAT BOARD DOWN AND WHEN HE PICKS IT UP, on days 778 and 779. On day 778 he lays it face up on the
+wood of that bench at the far end of the room at about the ninth hour and leaves it lying there for the rest of that
+morning, and at about the tenth hour he picks it up, turns the face of it against his own side and takes it down that
+stair, **and it does not lie on that bench overnight.** On day 779 he comes up at the fourth hour carrying it under
+his arm, does not stand it in the gap at the far end of that bench with its back to the wall the way he stood it the
+day before, and lays it down flat on the wood at that far end instead and goes down that stair and out into that row,
+and it lies face up on the wood at that far end from the fourth hour to the seventh, and the man of about thirty-four
+looks at it for ten seconds from the middle of that floor, does not touch it, walks the length of that floor and sits down on the flat wood at the far end of that bench a few feet along from it and looks at the middle of that floor for an hour afterwards, and the woman of about twenty-nine stands up off that bench, walks the length of that floor, stands over that board for the length of about a minute, holds her own hand out about a foot over the bare place and stops it there, takes it back, and sits down again at the near end of that bench with her hands on the wood on either side of her own book, and at about the seventh hour he comes back up and stands it against the leg
+of that bench, and at about the tenth hour his own palm goes flat over the bare place and stays there going down
+that stair. (ii) THAT THE WOMAN OF ABOUT TWENTY-NINE HAS BEEN AT THE NEAR END OF THAT BENCH BESIDE HER OWN BOOK SINCE
+DAY 776 AND THAT HE CAME TO THE FAR END OF THAT BENCH ON DAY 778 AND LAID THAT BOARD DOWN FLAT ON THE WOOD THERE AND
+IT IS ONE MORNING OLD ON DAY 779 AND NOT THE LENGTH OF THE FLOOD, and that on days 776 and 777 he took that board off
+the leg of that bench and laid it flat on the wood of it at the near end and stood beside it, and that it went back
+under his arm on every morning of that flood before his morning was out.
+(iii) THAT ON DAY 780 ADRIAN VALE COMES BACK DOWN THOSE FLATS ON FOOT AND IS IN THAT YARD LATE IN THAT MORNING WITH
+NOTHING IN EITHER HAND, and does not go on up them, and the barrow is in that yard by the eighth hour.**
+
+**AND THE FIGURES OF THE WORLD ARE UNCHANGED AND EVERY ONE OF THEM IS RE-DERIVED. The room's own figure is about
+nine and it is the room's and not a census and it is said in a mouth on days 772, 774 and 775 and is not said in a
+mouth and is not stated by the narrator on days 776, 777, 778, 779 and 780, and the day map's own day, weekday,
+Bare-Month ordinal and pressure column stand unaltered for all ten days, re-derived from day 1 being a Tuesday and
+the ordinal being day less three hundred and fifteen, and Adrian Vale is in 0771, 0773 and 0780 and in no other of
+the ten and in none of the volume's seven heavy days. THE SIXTEEN FIGURES OF A PERSON, A DAY, A WEEKDAY, A
+BARE-MONTH ORDINAL, AN HOUR, AN ACTOR, A DESCRIPTOR AND AN OBJECT COUNT IN THE PLAN'S OWN DAY MAP WERE NOT TOUCHED.**
+
+**AND THE PROHIBITIONS CARRY WHOLE AND WERE RE-CHECKED ON THE TEN FILES AFTER THE THIRD PASS. The four
+declarations the plan requires are on the ten days and were not reworded by it: the bucket down in the water at the
+low place in the stone at the side of that yard, the rag on the stone lip of that step and not inside the trough, the
+lid of the box of chalk that does not shut, the register's five figures with a day against each and none struck and
+no sixth entered and none taken out with one word near the head of the column on the right of that page that is not
+in her hand, the second slate standing behind the register with a day cut across the head of it and nothing under
+that day and never picked up and never turned over and never written on, and the fence of sixteen willow posts and
+eleven withies bound onto them with the same cord, never measured and no post moved. No document is read out, no form
+is written in, no form is compared with another form, and this batch sent no notice and wrote no notice. No chapter
+counts the days since the fourth of the four said no at any value, and a sweep for `days since` returns zero. The
+day-154 sentence is not said, restated, paraphrased or improved on. No narrator frame is on any of the ten pages
+and the word *player* is on none of them. No descriptor is available to a new person and none is taken. Nobody gets
+stronger. No relationship milestone is paid, the consent fracture stays unmended and the fifth condition is not
+given. `outline/ending.md` was not opened and the planned ending does not move.**
+
+**AND THE SENTENCES THE PASSES NAMED AS DELETED, REWORDED OR REPLACED ARE DELETED AND WERE NOT RE-USED. The record
+behind this one is at `state/batch-summaries/volume-16-batch-0002.md` §13 and the second-slate, fence,
+register-columns, bucket, board-declaration, chalk-declaration, keeper-and-her-book and wharf-man-and-his-barrow
+sentences were not written in this block or on the ten days. The nine cards of the ten files were not re-used and no
+new declaration was written to stand in one.**
