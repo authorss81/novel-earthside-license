@@ -1,33 +1,35 @@
+
 # Chapter Summaries
 
 **HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** The blocks that
-matter to the current phase are **Volume 17, Batch 0002**, **Volume 17, Batch 0003** and **Volume 17, Batch
-0004**, and the last ten entries of the last of them are Chapters 0831 to 0840, days 831 to 840. **The Volume
-17 Batch 0001 block is in the archive named below and is not restated here.**
+matter to the current phase are **Volume 17, Batch 0005**, whose last ten entries are Chapters 0841 to 0850,
+days 841 to 850, and the **Volume 18** block at the foot, which carries no summaries because Volume 18 has
+no chapters. **The Volume 17 Batch 0001 block is in the archive named below and is not restated here.**
 
-**IT NOW CARRIES ONLY THE LIVE LAYER. The most recent copy of this file, taken after Batch 0004 wrote
-its ten chapters and before the review repair rewrote its block, is at
-`state/archive/chapter-summaries.md.volume-17-batch-0004-full.md`. Every earlier block is at
-`state/archive/chapter-summaries.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of
-this file before that compaction — including the Batch 0001 block and the review-repair block on Chapters
-0811 to 0820 — and behind that at
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/chapter-summaries.md.volume-18-outline-full.md`,
+taken before the Volume 18 planning pass removed the Batch 0004 block and added the Volume 18 block, and
+verified against the live file by SHA256 before a single line was removed. That archive copy is the only
+place the Volume 17 Batch 0004 block now lives, and its figures for days 831 to 840 are also at
+`state/batch-summaries/volume-17-batch-0004.md`. Behind it, every earlier block is at
+`state/archive/chapter-summaries.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this
+file before that compaction — including the Batch 0001 block and the review-repair block on Chapters 0811 to
+0820 — and behind that at
 `state/archive/chapter-summaries.md.volume-17-batch-0002-full.md`,
 `state/archive/chapter-summaries.md.volume-13-through-volume-15-batch-0005-full.md` and
-`state/archive/chapter-summaries.md.volumes-01-to-06.md`. A writer that needs an earlier volume should
-ask for that volume rather than read this file. The compaction moved text and changed no record: no
-summary was rewritten, no day was merged, and no day was dropped. **THE FIGURES FOR DAYS 801 TO 810, WHICH
-MOVED OUT OF THIS FILE WITH THAT BLOCK, ARE AT `state/batch-summaries/volume-17-batch-0001.md`.**
+`state/archive/chapter-summaries.md.volumes-01-to-06.md`. A writer that needs an earlier volume should ask
+for that volume rather than read this file. The compaction moved text and changed no record: no summary was
+rewritten, no day was merged, and no day was dropped. **THE FIGURES FOR DAYS 801 TO 810, WHICH MOVED OUT OF
+THIS FILE LONG AGO, ARE AT `state/batch-summaries/volume-17-batch-0001.md`.**
 
-**THIS FILE HAS NOW BEEN COMPACTED FIVE TIMES FOR THE SAME REASON AND A PHASE THAT APPENDS TO IT IS
-EXPECTED TO LEAVE IT SMALLER THAN IT FOUND IT, OR TO SAY IN ITS OWN RECORD WHY NOT.** This pass did not
-append. It copied the file whole into `state/archive/`, verified the copy by SHA256, and rewrote the
-Batch 0004 block so that each entry says what its day did and no more. This file is a shade larger than it
-was, and the reason is in `reviews/volume-17/batch-0004.md`: the repair gave four of the ten chapters
-dialogue they did not have, and a summary of a day has to say what the day did.
+**THIS FILE HAS NOW BEEN COMPACTED SIX TIMES FOR THE SAME REASON AND A PHASE THAT APPENDS TO IT IS EXPECTED
+TO LEAVE IT SMALLER THAN IT FOUND IT, OR TO SAY IN ITS OWN RECORD WHY NOT.** This pass did not append. It
+copied the file whole into `state/archive/`, verified the copy by SHA256, and replaced two superseded
+blocks with the Volume 18 block, and it left the file about forty per cent smaller than it found it, because
+Volume 18 has no chapters to summarise and a plan index of fifty unwritten days is short.
 
-**THE FIGURES AND THE FULL TEXT OF EVERY BATCH ARE IN `state/batch-summaries/`, ONE FILE PER BATCH,
-AND THE PER-CHAPTER INDEX FOR EVERY CLOSED VOLUME IS IN THE `state/volume-NN-close.md` FILE FOR THAT
-VOLUME. THIS FILE CARRIES THE DAY AND WHAT THE DAY DID AND NOTHING ELSE.**
+**THE FIGURES AND THE FULL TEXT OF EVERY BATCH ARE IN `state/batch-summaries/`, ONE FILE PER BATCH, AND THE
+PER-CHAPTER INDEX FOR EVERY CLOSED VOLUME IS IN THE `state/volume-NN-close.md` FILE FOR THAT VOLUME. THIS
+FILE CARRIES THE DAY AND WHAT THE DAY DID AND NOTHING ELSE.**
 
 ## VOLUME 17, BATCH 0002 — CHAPTERS 0811 TO 0820, DAYS 811 TO 820, ONE CHAPTER TO ONE DAY
 
@@ -171,119 +173,36 @@ figures for days 801 to 810, which left this file with that block, are at
 
 ---
 
-## VOLUME 17, BATCH 0004 — CHAPTERS 0831 TO 0840, DAYS 831 TO 840, ONE CHAPTER TO ONE DAY
-
-Ten days, one chapter to a day, from a Saturday to a Monday, the five hundred and sixteenth to the five hundred
-and twenty-fifth day of the Bare Month. Read `outline/volume-17.md` before this block. The ten cards are at the
-head of `state/batch-summaries/volume-17-batch-0004.md`; this block is a summary and not a plan. The chapters were
-repaired after they were written, on the review at `reviews/volume-17/batch-0004.md`, and the summaries below are
-of the chapters as they stand on disk now.
-
-1. **0831, Saturday BM 516, character. Adrian: 3, obtained `no`.** FOR: the flat of a store door at a wharf and a
-   stack carried in past a man. CHANGED: his hands on the face of that door and his shoulder in the opening, and
-   nothing on that wharf to prop it with, so the barrow will not go through an opening with a man standing in it
-   and that stack stands in the rain; when he comes out of the opening the door swings back against the near end
-   of the load behind him, puts two boards off the stack on to the flags, and the near end of one of them takes
-   the water through. The man of about thirty-eight gets the door open himself with his knee and carries the whole
-   stack in past Adrian Vale on his own, with that wet end at the bottom. DID NOT DO: propped it, was thanked, was
-   told he was right, was waited for, opened a threshold, named the other world, asked for anything.
-2. **0832, Sunday BM 517, physical. Adrian: no.** FOR: eleven miles of flats and a barrow down a hollow of the flags
-   that had been dry. CHANGED: the hollow dry for several mornings with a hard skin of the stone's own grit across
-   it that looks like ground; the man of about thirty-eight takes the load down it, the skin breaks under the near
-   wheel like a board and not like stone, the barrow goes over on its side, and the boards put the water back into
-   that hollow from four sides at once. And the man of about thirty-one goes across that market row past the foot
-   of that stair and does not stop, and the keeper says he has not come up. DID NOT DO: put a morning to it, date
-   it, print a figure, count anybody.
-3. **0833, Monday BM 518, recovery. Adrian: no.** FOR: a morning in which the door is shut and nobody says one word
-   about it. CHANGED: that door stands shut before the light is on the flags and the man of about twenty-seven's
-   hand flat on the outside of it does not move it; he gets it open with a shoulder, goes up with his bucket, and
-   is asked nothing at any hour of the day. Nobody in that room says one word about the door being shut; by the
-   ninth hour it stands a hand's width off its frame again and nobody remarks on that either. The talk goes on
-   about a trough that runs over, a board face that will not take anything in the damp, and a bucket that was
-   filled, and the man of about thirty-four moves his own board off the bench to make room for it without saying
-   so. The man of about thirty-one was not in that room at all that day and one person noticed. DID NOT DO: say why
-   the woman of about fifty-two goes to the foot of that stair, ask her, print a headcount of that room, date
-   anything.
-4. **0834, Tuesday BM 519, political. Adrian: no.** FOR: the chalk-box lid found ajar again and the chalk in it gone
-   nowhere. CHANGED: the lid standing ajar on its pin and the chalk in it, all of it, with the dust of the step on
-   the top of it and a clean crescent in that dust where a thumb had been; the keeper takes the chalk out, puts it
-   back the same way up, and the lid stops on the same pin. The man of about thirty-four says that box belongs to
-   the room above and there is no reason on earth for it to be standing out here; the man of about thirty-nine says
-   it stands out here because that market row uses it where it stands. Nothing settled, nobody thanked, and the
-   two chalks are not in one sentence. DID NOT DO: shut the lid, settle it, take the man of about thirty-four's
-   chalk out of his pocket, put the box's chalk anywhere else.
-5. **0835, Wednesday BM 520, discovery. Adrian: no.** FOR: a mark of a boot in the dust on a top step and nobody able
-   to put a morning to it. CHANGED: a mark of a boot in the dust at the outer edge of the top step of that stair
-   where it goes up to meet the wall; the man of about thirty-one sees it going up and stands in that room about
-   four or five breaths and says nothing; at the seventh hour the keeper asks what is on that step and he tells her;
-   the man of about thirty-nine goes down four steps, looks at it, and says it is not a size and that the wind off
-   that market comes over that step first; and the man of about thirty-four says it is not his business what made
-   it. Nobody asked who, nobody went down a second time, nobody said out loud that it could not be put to a
-   morning, and no mouth in this batch offers one. DID NOT DO: date anything, connect it to anything, say anything
-   about the iron.
-6. **0836, Thursday BM 521, character. Adrian: no.** FOR: the carrier going past a door and looking at it and going
-   on. CHANGED: he stops with the toe of his boot on the bottom step of that stair and looks at the outside of that
-   door, at the bare board under the date and up at the top step where the iron lies, until a woman going the other
-   way has to step wide of him in the wet, and then he goes on up that market row, does not stop, and does not come
-   up that stair. He refuses a crate at the store's end, goes on, and puts the coil of rope down on the boards of
-   the trestle where the next man can lift it. He is asked nothing about it and nobody in that row knew he had
-   looked. DID NOT DO: say anything to anybody about the door, prepare day 845, put anything in a hand, thank
-   anybody.
-7. **0837, Friday BM 522, decision. Adrian: no.** FOR: the panel, and the chalk out of the pocket and back in, and
-   no word said by anybody. CHANGED: **the volume's one panel, and it is spent here and nowhere else. The wall
-   along the far side of that room says one thing, in a block of its own, with no mark on it, printed once in the
-   whole repository outside `outline/volume-17.md` §6.7. It is not said out loud by anybody, no mouth repeats one
-   word of it, and nobody in that room said it was right and nobody said it was wrong. Nobody asked the man of
-   about thirty-nine whether he agreed with it. And in the same hour, by nobody's asking, the man of about
-   thirty-four brings the chalk out of his inside breast pocket, turns it over once between his finger and his
-   thumb, and puts it back without writing with it, and nobody in that room saw him do it, nobody remarked on it,
-   nobody was told, and it went on no surface.** That room is written as full and as standing and is never counted.
-   Nothing whatever was done about either at any hour of that day. DID NOT DO: print the panel twice, put it in a
-   mouth, say when that chalk was last out, print a headcount of that room, print an elapsed figure.
-8. **0838, Saturday BM 523, recovery. Adrian: no.** FOR: a morning exactly like the one before it and a room
-   carrying on. CHANGED: that room went on exactly as it had gone on the morning before, nobody in it said one word
-   about the wall along the far side of it at any hour of the day, and nobody asked anybody whether they thought it
-   right or wrong. A rate on the man of about thirty-four's own board still wants a day against it, the hand stays
-   in his coat and never goes into his inside breast pocket, and the keeper and the two men at the bench say four
-   lines about that rate and the damp and nothing is set. And at about the ninth hour the man of about thirty-nine
-   took his hand off the face of that board, picked it up, went down that stair and away along that market row and
-   did not come back up at any hour of that day. DID NOT DO: say the room carried on as if the wall had not spoken,
-   ask whether it was right, print a figure.
-9. **0839, Sunday BM 524, character. Adrian: no.** FOR: a stool at the side of a bench and a boot rocking it once.
-   CHANGED: the stool is at the side of that bench and is not in the corner behind the near leg of it. The keeper
-   says once that there is a stool at that side again, the man of about thirty-four answers that it is not in the
-   corner, and nobody says why it came out and nobody thanks her. That room has a place to sit and nobody sits on
-   it, the man of about thirty-nine does not remark on it and talks about a trestle instead, and at about the
-   sixth hour the man of about thirty-one puts the toe of his boot against the lower rail of that stool to turn it
-   out of the way of that bench leg, and it rocks once across the flags and comes down with the seat of it facing
-   the wall instead of the room. The card's
-   sentence that nobody says one word about the stool stands here for the why and the thanks, and the page carries
-   the keeper noticing it once and being answered once. DID NOT DO:
-   say why it came out of the corner, ask her, put it back, ask him why he had turned it.
-10. **0840, Monday BM 525, cost. Adrian: no.** FOR: the second cost, named by the man whose own cost it is, in his
-    own mouth. CHANGED: the man of about thirty-one says out loud at about the seventh hour, in his own mouth and
-    first and with nobody having asked him, that he has carried a thing up that stair every morning of this flood
-    and gone past the foot of it every morning of this flood and could not tell anybody on which morning that door
-    began to stand open. The room's hands do three things while he is saying it and no mouth answers him. Nobody
-    thanked him, nobody improved on one word of it, nobody asked him a second thing about it, the man of about
-    thirty-four then tells the keeper to put her page back and is told it is not his page, the man of about
-    thirty-nine says one flat thing about a crack in the near end of the trough, and nothing in that room was done
-    about the cost at any hour of that day. DID NOT DO: print an elapsed figure, print a headcount of that room,
-    reach day 845, reach day 843, prepare either, say what it buys.
 
 ---
 
-## VOLUME 17, BATCH 0005 — CHAPTERS 0841 TO 0850, DAYS 841 TO 850, ONE CHAPTER TO ONE DAY
+# VOLUME 18 — CHAPTERS 0851 TO 0900, DAYS 851 TO 900. PLANNED AND UNWRITTEN. THIS BLOCK IS NEWEST AND IT WINS.
 
-**The ten summaries below were written before the review-repair pass and three of them described pages the pass changed. The changed sentences are corrected here and the change is named. No day, card, pressure tag, closing beat or plot beat moved.**
+**THERE ARE NO CHAPTER SUMMARIES IN THIS BLOCK BECAUSE THERE ARE NO CHAPTERS. No chapter past 0850 exists and no
+chapter of the eighteenth volume exists. Eighteen volumes are planned by `outline/series.md`, seventeen are written,
+sixteen are closed, and Volume 18 is the whole of what remains: fifty chapters, days 851 to 900, and none of them
+begun. The plan is `outline/volume-18.md` and the day map is its §14.3, and the ten cards for the first ten days
+are at `outline/batches/volume-18-batch-0001.md` and were written before Chapter 0851 existed.**
 
-1. **0841, Tuesday BM 526, political. Adrian: no.** FOR: a stranger up the stair and nobody at the top. CHANGED: boots on the boards, nothing given, nothing asked, stranger down again, and nobody in the room gets up, goes to the window or goes after him. DID NOT DO: count the room, date anything, prepare 843. **THE PASS REMOVED THE ROOM'S SIGHTING OF HIM OUT OF THE WINDOW AND THE LINE THAT REPORTED HIM GOING UP AND COMING DOWN, because that was 0843's beat done twice, and it gave the chapter a different title.**
-2. **0842, Wednesday BM 527, cost. Adrian: no.** FOR: a cost about another man, said by a mouth not his own. CHANGED: words stood, hands worked, nobody bettered one word. DID NOT DO: improve, thank, ask him.
-3. **0843, Thursday BM 528, character. Adrian: 4, obtained no, and the last of the four.** FOR: the act, cost first then one thing once, neither on the page. CHANGED: bench end sat through the middle of the day, clear after; he went down at about the tenth hour. DID NOT DO: print either wording, thank, repeat, ask second, say why, say what it was. **THE PASS REPLACED THE SENTENCE THAT REPORTED WHAT HE HAD SAID WITH THE MANNER AND THE LENGTH OF IT, and cut the four-clause run of nobodys that stood between the reader and the act, including the clause that came within one word of naming what he caused.**
-4. **0844, Friday BM 529, political. Adrian: no.** FOR: a door with nobody up it all morning. CHANGED: rates and loads went on, window eased wider. DID NOT DO: watch the door, count, remark on him. **THE PASS PUT THE REGISTER OPEN, which it had shut on the shelf and then turned a leaf of, and moved the bucket up before the fourth hour, because the chapter had the keeper send a man down the stair and bring him up again on a day whose whole business is that nobody comes up it.**
-5. **0845, Saturday BM 530, recovery. Adrian: no.** FOR: the resolution, one question and one morning in answer and no thanks. CHANGED: a morning given in pieces with the paving and the awning and a load going in late, no second question. DID NOT DO: print the morning, say he is right, say the room has what it wanted, join the two mornings. **THE PASS CUT THE SENTENCE THAT SUMMARISED WHAT HE GAVE AND LEFT THE PIECES.**
-6. **0846, Sunday BM 531, physical. Adrian: no.** FOR: a hand on the bar on the top step and it not being got up. CHANGED: the man of about thirty-eight at that salt wharf levered it up as far as the width of two fingers, it would not stay up, and he got his barrow up sideways in the gutter and went on without looking back. DID NOT DO: work, open, name, offer, thank, tell right, socket it, ask him anything. **THE PASS TOOK ADRIAN VALE OUT OF THIS CHAPTER ENTIRELY, because days 844 to 850 are the seven mornings of the giving up, and the card and the chapter's business stayed.**
-7. **0847, Monday BM 532, physical. Adrian: no.** FOR: rain in the stairwell, bottom step shining, iron above. CHANGED: new water line down the wall. DID NOT DO: touch the iron, count, date.
-8. **0848, Tuesday BM 533, character. Adrian: no.** FOR: the new question to one man, not answered. CHANGED: sun talk went on, light left the bench. DID NOT DO: print wording, answer, thank, join the three unasked. **THE PASS REPLACED THE CLAUSE THAT NAMED WHAT SHE ASKED WITH THE MANNER OF THE ASKING AND THE OUTLINE'S OWN FACT THAT NOBODY IN THAT ROOM HEARD A WORD OF IT.**
-9. **0849, Wednesday BM 534, recovery. Adrian: no.** FOR: weather talk and nothing else. CHANGED: air through, rag dried on the sill. DID NOT DO: say more, count, date. **THE PASS CORRECTED ITS WEATHER, which said two days of rain behind a Tuesday with the sun on the bench, and gave the last of the four weather lines to the man of about thirty-nine instead of to the keeper answering herself.**
-10. **0850, Thursday BM 535, recovery. Adrian: no.** FOR: the last image, hand on the iron, hand's breadth up, down same place, no telling whether before. CHANGED: dust white along his palm going up. DID NOT DO: print any elapsed subtraction, observe any rhyme, close on nothing changed. **THE PASS GAVE THE OFFSTAGE HOUR SOMETHING TO IMPLY AND NOTHING TO NAME — a coat buttoned to the throat and wet at the shoulders in fair weather, and one man looking at it and asking nothing — and gave the chapter a title that matches the dust in it instead of a light the chapter does not carry.**
+**The Batch 0004 block for days 831 to 840 left this file with the Volume 18 block and is now in
+`state/archive/chapter-summaries.md.volume-18-outline-full.md`, verified against the live file by SHA256 before a
+line was removed. Its figures for those ten days are at `state/batch-summaries/volume-17-batch-0004.md` and its
+ten one-line summaries are recoverable from the archive in one read. This is a move of text and not a change of
+record: no day, no summary and no figure was withdrawn by it.**
+
+**THE FIFTY DAYS AS A PLAN INDEX AND NOT AS SUMMARIES, FIVE BATCHES OF TEN, AND A WRITER TAKES THE FULL BUSINESS,
+THE DAY, THE WEEKDAY, THE ORDINAL, THE PRESSURE TAG AND WHETHER ADRIAN VALE IS IN THE CHAPTER FROM
+`outline/volume-18.md` §14.3 AND NOT FROM HERE.**
+
+| Batch | Days | Chapters | What the ten days are for |
+|---|---|---|---|
+| 0001 | 851 to 860 | 0851 to 0860 | **WRITTEN AS CARDS, NOT YET WRITTEN AS CHAPTERS.** A bar that has lain on a top step for fifty days, a door that has stood open for fifty days, a room that cannot find out who comes up a stair, ice in a trough nobody breaks, a second hollow in a yard, the question of whose hand the date is in, **the volume's first cost on 856**, a morning with nobody on the stair, a satchel carried and not opened, a mark of a boot in the dust with no morning for it, and a barrow over a track that was not there on Saturday. |
+| 0002 | 861 to 870 | 0861 to 0870 | **The arrival on 866**, one sleeve wet and one dry, and the room's week after it: a wet coat over a chair, a door a hand's breadth from where it stood, the second cost on 869, and two people saying the same sentence in the same words. |
+| 0003 | 871 to 880 | 0871 to 0880 | A bench and nobody making room on it, a form that does not exist, **the decision on 875 and a board put up face out**, nothing done about it, **a name said out loud once on 878**, the third cost on 879, and a door that will not stay propped. |
+| 0004 | 881 to 890 | 0881 to 0890 | The tradesman and the man who came up that stair and a question neither answers, a second person from the other side on the step below, one version arriving where two had been, **the panel on 886**, **Tamsin Quill on 888**, a man who cannot get up the stair, and **the act on 890**. |
+| 0005 | 891 to 900 | 0891 to 0900 | One question answered twice, the resolution on 893, Ivenn Marrow on 894 and 895, the road and the gate, **the new question on 898**, a stack carried in past a man, and **the last image on 900**. |
+
+**AND WHAT A WRITER OF THIS FILE NEEDS AND MUST NOT TAKE FROM HERE: the name, the decision, the panel, the two
+wordings of day 890 and the question are all held in `outline/volume-18.md` at §6.6 through §6.10, are printed in
+this block nowhere, and are printed in the ten cards of Batch 0001 nowhere. Their days are fixed and closed to the
+batch that writes each of them.**
