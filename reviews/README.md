@@ -18,6 +18,16 @@ EPUBs confirmed against the build history, and three findings of the review that
 instruments — including one that would have rewritten ten chapter openings that already satisfied the
 plan.
 
+**Volume 17** — `volume-17/batch-0004.md`: the reviewer subagent was unavailable again and this repair pass is
+the same agent kind that wrote the chapters and produced the findings, so the review in it is not independent; ten
+chapters repaired in place for determiner saturation, missing dialogue, unstable character handles, one-template
+monotony and a negative-inventory narration that had replaced dramatisation, with the panel, the confession, the
+day map, the day-825 line and all ten closing beats left standing and every figure re-measured before and after; the
+state layer compacted a fifth time with the bytes published on both sides and the archive copies verified; the two
+findings the review itself got wrong named; and the two findings it got right that belong to the volume owner rather
+than to a writer, on Adrian Vale's five appearances and on the print-no-figures rule, left for an outline decision
+and written into the open threads so the next batch reads them.
+
 **Volume 17** — `volume-17/batch-0003.md`: a twelve-word run reported by the review and a thirty-word run
 it did not report, both in the same batch; the undocumented convention of the day-825 decision published
 rather than edited; §17.17's closing ceiling counted for the first time in this volume, one closing reworded,
