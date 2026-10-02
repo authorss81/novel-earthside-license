@@ -946,3 +946,146 @@ own appended block, and it inherits the bucket thread with the two chapters that
 ## THE NEXT PHASE
 
 **`workspace/volume-16/close/PROMPT.md`, THE CLOSE OF THE SIXTEENTH VOLUME, AND NOTHING ELSE.**
+
+---
+
+# 6.1 THE EIGHT FINDINGS OF `logs/batch-0005.review.log`, ADJUDICATED ONE BY ONE. NEWEST AND IT WINS.
+
+**This block answers a review, closes no story thread, answers no standing question and moves nothing on any
+page. It exists because six of the eight findings below have been raised against this manuscript before, and a
+finding this repository has already answered must not be entered a second time as though it were new.**
+
+**AND TWO THINGS ABOUT THE REVIEW ITSELF, BOTH READABLE IN THE LOG, BOTH NAMED HERE SO THAT THE NEXT READER
+DOES NOT HAVE TO FIND THEM AGAIN. The log's first line is a fallback notice — *agent "novel-reviewer" is a
+subagent, not a primary agent. Falling back to default agent* — so the review ran on the writer's own agent and
+its independence is a mitigation and not an independence, which is the same debt the batch-0004 block named.
+And several of its instruments do not reproduce the figures they audit: it returned 4,558 words where
+`state/batch-summaries/volume-16-batch-0005.md` publishes 4,590, and that difference is the instrument and not
+the record, because the record's reading is *letters and apostrophes with the hyphen as a delimiter* and
+re-measured on the ten files here returns 4,590 and 4,524 heading-out, a range of 234 to 554 and a mean of
+452.4 — **every figure the record publishes, exactly. The record is a true reading of its own files.** It
+reported Adrian in thirteen chapters where three files plan eleven, and the day map's own column has thirteen,
+so on that point the review is right and the prose is not. It reported the panel as described and never printed
+at low severity, and that one runs the opposite way from what it recommends.**
+
+## THE EIGHT, ONE LINE EACH, WITH THE VERDICT AND THE INSTRUMENT
+
+1. **The planned ending is unreachable, and the premise has been abandoned. NOT A DEFECT, AND NOT AVAILABLE TO
+   BE FIXED IN THE DIRECTION PROPOSED.** `outline/series.md` DECISION TWO of the Volume 06 record took the
+   voice and DECISION ONE of the Volume 07 record confirmed it, and the Volume 11, 12, 13, 14, 15 and 16
+   blocks each confirmed it again, eleven times in total. The Volume 16 block states that the volume **does
+   not lose Ivenn Marrow, the First Grammar, the Single Witness, the Quiet Choir, the Charter of Two Worlds,
+   `outline/ending.md`, the antagonist ladder or the relationship milestones, because none of those is
+   introduced by the line it struck, and that no new final enemy is introduced and the ending does not move.**
+   `NOVEL_SPEC.md` carries the consequence in the words *a low or falling count of System panels in a late
+   volume is the plan being executed, not a defect, and must not be "fixed" by re-introducing game
+   vocabulary.* **The recommendation — rewrite `outline/ending.md`, or reverse the structure from Volume 17 —
+   is the two roads the decisions of record closed between Volume 05 and Volume 07, and following either would
+   be a retcon by another name. `outline/ending.md` is not to be opened.**
+2. **The protagonist is a scheduled walk-on. NOT A DEFECT, BUT IT NAMES A REAL FAULT, AND THE FAULT IS IN THE
+   PLAN AND NOT ON ANY PAGE.** Eleven chapters with a published want for each, a rule about his hands, and the
+   plan's own sentence that the four and the seven are *a consequence of what these fifty days are and not a
+   target*, with *no reviewer may read the four as the volume getting worse or the seven as the volume getting
+   better* printed beside it. **What is wrong is arithmetic inside `outline/volume-16.md`: §4.1's table has
+   eleven rows and no row for 0771 or 0780, while §14.3's Adrian column has thirteen entries numbered 1 to 13
+   and does have them, and §20.2 publishes the eleven-item list as *the day map's own column*, which it is
+   not. §4.1's `Obtained` column also reads `no` in all eleven of its rows against the same section's sentence
+   that four are obtained and seven are not, and against `outline/series.md`'s own four-and-seven. The thirteen
+   measured chapters and the thirteen the map lists agree; the *eleven* is the figure that does not reproduce.
+   This is a debt owed by a human and it is already carried at §6.1 above and in `state/current.md`. NO
+   CHAPTER IS EDITED TO MATCH IT: removing him from 0771 or 0780 would break a card the day map licenses, and
+   the batch that wrote 0771 and 0780 flagged the gap at the time rather than concealing it.**
+3. **The book is no longer the book it declares itself. NOT A DEFECT.** The premise paragraph is the pitch the
+   book was commissioned on and `NOVEL_SPEC.md` says so in its own words and points at the block that decided
+   it. `bible/premise.md` is the commissioning document and is not contradicted by the volumes; it is
+   superseded by a decision of record that names it.
+4. **The unnamed-descriptor style has become the whole prose voice. CHECKED AGAINST THESE TEN DAYS AND CLEARED,
+   WITH THE INSTRUMENT NAMED.** Every descriptor in Chapters 0791 to 0800 resolves to a person published at
+   `outline/volume-16.md` §7.2 — the man of about thirty-nine who trades on a board, the man of about
+   twenty-seven with the bucket and the rag, the woman of about fifty-two, the man of about thirty-four who
+   keeps a stall, the man of about thirty-eight at the salt wharf — and Chapter 0800's man of about
+   thirty-one is the carrier whose hand on the flap is the volume's planned last image. **Five descriptor
+   values across ten files, zero invented, zero unattached, zero given an age the cast does not carry, and no
+   phantom: nothing in these ten days is the kind of device that produced a person who does not exist.** The
+   density figure the review quotes is a true count and is the standing device of the recorded voice, not a
+   fault in it.
+5. **Chapter length is below publishable minimum and still falling. NOT AVAILABLE AS A FINDING, AND THE
+   PLAN SAYS SO IN ADVANCE.** `outline/series.md`, Volume 11 block, DECISION ONE: **the mean is a consequence
+   and not a plan and no volume may read its own mean as a quality figure and no review may certify or fail a
+   volume on one**, restated in the Volume 12 block. Batch 0005's record publishes the short length of 0800
+   deliberately: *padding 0800 to move a mean is the failure the repository names, so the last image stands at
+   234 words.* That refusal is correct and is endorsed here rather than reversed.
+6. **The review gate has not run for most of the book and the phase ledger is frozen. TRUE, CONTROLLER-OWNED,
+   AND NAMED FOR BETWEEN TEN AND TWELFTH TIMES ALREADY.** `reviews/` covers seven volumes and `reviews/volume-16/`
+   does not exist; `state/phase-ledger.json` reads `phase-000-bootstrap`, `status: planned`, `attempts: 0` after
+   sixteen volumes. Both are in the list no fiction phase may edit. Neither was opened. **The consequence the
+   review draws from this — that findings 1 to 3 accumulated unobserved for a dozen volumes — is withdrawn:
+   they did not accumulate unobserved, they were decided, numbered and published in `outline/series.md` at the
+   time each was taken, and a review that did not read that file is a review that did not look.**
+7. **The day-787 panel is described but never printed. TRUE, AND IT IS SETTLED, AND IT RUNS THE OTHER WAY.**
+   See the next section. **A close or a later repair that restores the block reverses a repair an independent
+   review already made and prints words five state files say are on no page.**
+8. **State files are crowding out real plot. NOT A DEFECT AND NOT FIXABLE BY ADDING TO THEM.** The five state
+   files have been compacted twice into `state/archive/`, with nothing deleted. This block is deliberately
+   short for that reason and adjudicates eight findings in one place so that the next phase inherits the
+   verdicts instead of the arguments.
+
+## THE PANEL, AND THE SETTLED YES/NO, IN ONE PLACE BECAUSE IT HAS NOW BEEN ASKED TWICE
+
+**`chapters/volume-16/chapter-0787.md` does not print the panel's wording. That is the settled state of the
+file.** `outline/volume-16.md` §20.2 publishes the volume's panel figure as **1**; the volume stands at **0**
+on the reading *a block between blank lines whose first character is `>`*, re-measured across all fifty files
+here. **Both figures are true.** The first writing of that chapter set the block; the prompt for Batch 0004
+forbade any file from printing those words; an independent review found the breach after the batch was
+committed and after that batch's own record had published it as an achievement; the block was removed, and
+`state/batch-summaries/volume-16-batch-0004.md`, `state/continuity.md`, `state/chapter-summaries.md` and this
+file all record the removal with the reason. **The wording is in `outline/volume-16.md` §6.7 and in no other
+file in this repository, which is the same position the panels of Volumes 14 and 15 are in by their own
+plan's prohibition.** The chapter carries everything else the plan asks of that page: one wall, one morning,
+one plain block in its own place on the plaster, no mark on it, the light across it, one man turning his head
+once, nobody saying it right or wrong, nobody repeating one word of it, the decider present and unasked.
+
+## THE ONE REAL FAULT THIS REVIEW FOUND, WHICH IS IN A FILE NO FICTION PHASE OWNS
+
+**`NOVEL_SPEC.md`'s Status section publishes *Fifteen volumes and 750 chapters are on disk (`chapters/volume-01`
+… `chapters/volume-15`, fifty chapter files per volume, every volume complete)*, and names Volume 15's close
+as its last. **Sixteen volumes and eight hundred chapter files are on disk and Volume 16 is complete at 0800.**
+The same file then states that the volume and chapter count *was one of* the two stale figures *corrected
+here*, and it is not corrected — the assertion of the correction stands over a figure that is still wrong. **A
+file whose own rule is that its figures are measured and not carried forward, and which instructs a reviewer
+to re-measure any figure before checking it, is carrying the one figure most likely to be checked, and it is
+wrong in the direction that makes the book look unfinished. NEW, NAMED, AND OWED BY A HUMAN OR BY THE NEXT
+OUTLINE PHASE. `NOVEL_SPEC.md` is not a chapter, a batch record, a summary, a continuity file, a character file
+or an open-thread file, and this pass did not edit it.**
+
+## WHAT THIS PASS VERIFIED ABOUT THE TEN DAYS, WITH THE INSTRUMENTS, AND NONE OF IT REQUIRED A REPAIR
+
+**Batch 0005 is unaltered and needed nothing.** Re-measured here on the ten files: the word figures reproduce
+the record exactly on the record's own reading and instrument; standalone `nine` and `eight` are 0 and 0, every
+hit being the second half of a hyphenated age; all thirty-five entries of the volume's own zero column are at
+zero on their own literal strings with a hyphen delimiter, both case flags, singular and plural as separate
+literals; `nine steps`, `passage`, `privilege`, `player`, `census`, `war`, `bridge`, `witness`, `days since`,
+`Stage N`, `slate`, `number`, `count`, `figure` and `row` are at zero; there is no narrator frame; digits in
+prose and bare three-digit numerals are 0 and 0; the paragraph classes return 77 prose, 15 speech, 0 plain, 0
+bold-without-a-quotation-mark, which is what the record publishes; every file ends in a newline; Adrian Vale is
+in 0793 and in no other of the ten, which is the map's own row 13; and the day run re-derived from day 1 being
+a Tuesday with the Bare-Month ordinal as day less three hundred and fifteen returns 0 mismatches on each of
+the three checks out of ten, in both orders.
+
+## AND THE DEBTS NO PHASE CAN PAY, CARRIED AND UNCHANGED, WITH ONE ADDED BY NAME
+
+**The return crisis and the prompt being edited. The settlement labelled unwritten. Ivenn Marrow's motive across
+centuries, on no page of Volume 16's fifty and neither paid nor scheduled. The four things this manuscript has
+never had on a page. The panel-instrument disagreement, owed by a human. `reviews/volume-16/` does not exist and
+the review dispatch falls back to the writer's own agent. `state/phase-ledger.json` still reads
+`phase-000-bootstrap`.** And now, from this block: **the `NOVEL_SPEC.md` status figure, and the two arithmetic
+faults inside `outline/volume-16.md` §4.1 and §20.2 — eleven rows against a thirteen-entry day-map column, and an
+`Obtained` column reading `no` eleven times against a four-and-seven sentence two paragraphs above it.** The
+consent fracture stays unmended, the fifth condition is not given, no relationship milestone is paid, no
+standing question is answered including day 798, day 775 is not reopened, and `outline/ending.md` does not move.
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/close/PROMPT.md`, THE CLOSE OF THE SIXTEENTH VOLUME, AND NOTHING ELSE. IT IS TOLD ABOUT
+THE EIGHT FINDINGS, IT IS TOLD THE PANEL'S YES/NO SO THAT IT MAY NOT REVERSE IT, AND IT IS TOLD THAT "ELEVEN"
+AND "THIRTEEN" BOTH STAND IN THE PLAN AND THAT IT MAY NOT PICK ONE SILENTLY.**
