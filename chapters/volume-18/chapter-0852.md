@@ -2,13 +2,15 @@
 
 The man of about thirty-four who keeps a stall two stalls along had his right hand inside his coat and brought it out again with nothing in it, and the chalk was not in his hand when it came, and he went on with the edge of his own board under his thumb.
 
-Saturday came in still and bright on the five hundred and thirty-seventh day of the Bare Month, with the date gone on to the outside of the door at the foot of the stair again in the morning and the bare piece of board under it standing a finger's width off the wood. The door stood open on its latch. The light came up the steps and lay along the top of them, and the iron lay along the top step out of its two sockets where it lay every morning of the flood.
+Saturday came in still and bright on the five hundred and thirty-seventh day of the Bare Month, with the date gone on to the outside of the door at the foot of the stair again in the morning and the bare piece of board under it standing a finger's width off the wood. The door stood open on its latch. The light came up the steps and lay along the top of them, and on that step the two sockets the iron belongs in stood open and empty with the dust lying undisturbed in the bottom of them, and the iron lay along the step beside them with nothing under it.
 
 The man of about thirty-nine who trades on a board had his board under his arm at the far end of the bench. The woman of about twenty-nine who keeps a public register had the register open in front of her at the near end of it with her hand flat on the page. The window stood open on its hinge and the light off it lay along the middle of the bench. The woman of about fifty-two with her hands at the sides of her dress stood with her shoulder to the wall by the bench, and the man of about twenty-seven came up the stair with the bucket in his hand and the rag over the rim of it. The man of about thirty-one who carries things for a living came up behind him with his satchel under his arm and the flap of it down and stood by the window.
 
 About four people a day went past the door. Some of them looked at the chalk on it and some of them did not, and the ones who did not kept on up the market row, and the ones who did stood a moment on the strip of ground and then went on as well, and not one of them went up the stair.
 
 ---
+
+The man of about thirty-nine who trades on a board said it from the far end of the bench, and his hand came onto the face of the board as he said it and stayed there.
 
 **"Somebody is putting that date on the door every morning."**
 

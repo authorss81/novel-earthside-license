@@ -2,7 +2,7 @@
 
 The toe of a boot came down on the outer edge of the top step of the stair where the dust lay against the wall, and a mark of a boot was in that dust, and the toe went down beside it and not on it.
 
-Saturday came in dry with a wind off the market. The five hundred and forty-fourth day of the Bare Month was in chalk on the outside of the door standing open on its latch, and the bare board under the date stood out from the door. Out of its two sockets the iron lay along the top step, and the smears of grit across the wood of it had gone pale where the light had got at them. The dust on the outer edge of the step was a different colour from the dust in the middle of it, and it had been blown about more than once, and there was a mark of a boot in it with nothing on the mark at all.
+Saturday came in dry with a wind off the market. The five hundred and forty-fourth day of the Bare Month was in chalk on the outside of the door standing open on its latch, and the bare board under the date stood out from the door. The iron lay along the top step where it lay every morning, and the smears of grit across the wood of it had gone pale where the light had got at them. The dust on the outer edge of the step was a different colour from the dust in the middle of it, and it had been blown about more than once, and there was a mark of a boot in it with nothing on the mark at all.
 
 About four people a day went past the foot of the stair. Some of them looked up into the stairwell at the dust on the top step as they passed and some of them went on up the row without lifting their eyes, and not one of the ones who looked went up the stair.
 
@@ -10,11 +10,11 @@ About four people a day went past the foot of the stair. Some of them looked up 
 
 The man of about thirty-one who carries things for a living stood by the window with his satchel under his arm and the flap of it down, looking up the room at the stairwell door. The man of about thirty-nine who trades on a board was at the far end with his board propped against the leg of it and his own hand flat on the face. The woman of about twenty-nine who keeps a public register had her hand flat on the page in front of her. The woman of about fifty-two with her hands at the sides of her dress made her place at the side of the bench and stood in it, and the man of about thirty-four who keeps a stall two stalls along came up with his own board face in and stood at the middle of the bench.
 
-**"That grit on the iron has gone pale across the middle of it."**
+**"That grit on the iron has gone pale across the middle of it,"** said the man of about thirty-four who keeps a stall two stalls along.
 
 **"It was wet on Wednesday and it is dry now,"** the man of about thirty-one said.
 
-**"Then it will lift off in a week."**
+**"Then it will lift off in a week,"** said the man of about thirty-four.
 
 **"Or sooner,"** the man of about thirty-one said, and went on looking up the room at the stairwell door.
 

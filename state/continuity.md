@@ -4,9 +4,13 @@
 **This file carries the live layer only: where every standing object in the world stands, and the figures
 that hold. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-outline-full.md`, taken
-before the Volume 18 planning pass rewrote the two Volume 17 blocks at its foot, and verified against the
-live file by SHA256 before a single line was removed. Behind that, every earlier block is at
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-18-batch-0001-full.md`, taken by the
+Volume 18 Batch 0001 pass before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and
+verified against the live file by SHA256 before a single line was removed. BEHIND IT IS
+`state/archive/continuity.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass rewrote the two
+Volume 17 blocks at its foot; **the head of this file named that one as the most recent whole copy until the review
+repair of Chapters 0851 to 0860 corrected it, and that repair's own record at one point said this file needed no
+correction, which was wrong, and the correction is here.** Behind that, every earlier block is at
 `state/archive/continuity.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this file
 before that compaction — including the block on days 801 to 810 and the review-repair block on Chapters 0811
 to 0820 — and behind that at
@@ -435,3 +439,55 @@ page of these ten. Nobody gets stronger and no stage name is printed.
 SHA256 before a line was removed. **The Volume 18 planning block was replaced in this file and in the other four by
 their Volume 18 Batch 0001 blocks, and no thread, no figure, no decision and no prohibition was withdrawn by the
 move.** This is the seventh compaction of these five files.
+
+---
+
+# WHAT THE REVIEW REPAIR OF CHAPTERS 0851 TO 0860 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**AND THE ANSWER IS ALMOST NOTHING, WHICH IS THE ANSWER A REPAIR SHOULD GIVE.** Nine chapter files were edited and
+`chapter-0851.md` was not. **The repair created no new standing state, moved no object, changed no day, no weekday and
+no Bare-Month ordinal, and owes a later phase nothing it did not already owe.** What follows is the whole of what a
+writer has to know differently after reading the repaired ten, and it is four lines and a name.
+
+1. **The wharf yard's dip has a name of its own and it is not the market yard's.** A hollow in the flags at the side
+   of the wharf yard at the near end of eleven miles of flats, with a crack in the skin across it running from the near
+   rim to the middle and stopping there, and a shallow dip by the wharf wall at that yard which was dry on 854 and
+   which the grit off two wheel rims dried on. **The market yard at the store's end has the low place in the stone
+   where the water always stands, the man of about twenty-seven filled his bucket there on 853 and left a ring, and
+   that is a different place eleven miles from the first. THE FIRST EDITION OF THESE TEN GAVE ONE NAME TO BOTH, AND
+   THE REPAIR GIVES EACH ONE BACK ITS OWN.**
+2. **The bar in its two sockets is the same bar in the same place on every morning of the ten it is on the page for,
+   which is seven of the ten: 0851, 0852, 0856, 0857 and 0858 name its sockets outright, 0855 and 0859 name the bar
+   without naming the sockets, and 0853, 0854 and 0860 do not carry it at all, and nothing about it changed.** The
+   seven sentences that opened those seven mornings said one fact seven times and are now seven different sentences.
+   **The facts are unchanged: it lies along the top step, out of
+   its sockets, with nothing under it, and the sockets stand empty.** Two details of those mornings are now stated
+   more plainly and both are continuities: **on 852 the dust in the bottom of the two sockets is undisturbed, and on
+   857 the rain darkened the dust on that step and no grit came off the bar in it.**
+3. **The room asked on 855 and the two mouths it came back with are on the page now.** The man of about twenty-seven
+   said he did not know and had not looked to see who it was. The man of about thirty-one said it would be the same
+   for anybody who had not looked. **Neither settles anything, neither points at anybody else, the keeper was not
+   asked, the woman of about fifty-two was not asked, and the man of about thirty-nine said nothing through the whole
+   hour and nobody in that room asked him anything. A later phase may not have anybody settle it and may not have
+   anybody say out loud that it cannot be settled.**
+4. **On 859 the man of about thirty-four and the man of about thirty-one said four things to each other about the grit
+   on the iron going pale**, and every one of the four turns is attributed. **They were not talking about the mark of
+   a boot in the dust on the outer edge of the top step, they settled nothing about it, and the mark is where 0859
+   found it, with nothing on it and no morning put to it and not joined to the mark of 835 or to any other morning.**
+
+**AND TWO FIGURES OF A PERSON, WHICH ARE NOT STATE AND ARE PUBLISHED SO THAT NOBODY TREATS THEM AS IT.** The man of
+about thirty-four is inside one sentence of his own on 856, in the chapter where the woman of about fifty-two names
+the first cost about nine feet off him while he goes on with his thumb along the foot of his own board: his thumb
+stopped on a rate he had been holding without knowing, and he left it where it was rather than move it and show that
+he had moved it. Adrian, on 853 and nowhere else, knows he did not ask for the back of a knife and that this was the
+whole of what he had brought to the trough. **Neither man was given a view of the cost, neither agreed with anything,
+neither was thanked and neither was told he was right, and no chapter says the cost was worth it or that Adrian's day
+turned on anything.** The cost of 856 is printed once, in `chapters/volume-18/chapter-0856.md`, was not touched in one
+word, is in no second mouth and in no paraphrase in any file, and `state/chapter-summaries.md` no longer restates it
+in other words either.
+
+**AND THE ONE PLAN FACT THAT MOVED, WHICH IS NOT A CHAPTER.** The day map at `outline/volume-18.md` §14.3 gave day
+854 a second hollow in the flags at the wharf yard; the card that governs 854 forbade that and gave the second hollow
+to day 868. **The cell is corrected in the plan and Chapter 0854 is a crack in the skin across the hollow that is
+already there, and the second hollow is still owed by day 868 and is still not written. NO OTHER CELL OF THAT MAP
+MOVED AND NO DAY DID.**

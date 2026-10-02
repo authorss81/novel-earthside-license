@@ -12,7 +12,7 @@ The man of about thirty-one who carries things for a living was at the side of t
 
 **"You are going the whole of it with the wheel in the same line."**
 
-**"It is where the wheel goes."**
+**"It is where the wheel goes,"** said the man of about thirty-eight.
 
 **"That is not a road."**
 

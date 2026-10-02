@@ -2,15 +2,23 @@
 
 Two hands went onto the near end of the bench and took the weight off a board propped against it, and the board went over toward the flags, and the hands got it by the edge and stopped it and set it back against the leg where it had been.
 
-It was Tuesday, the five hundred and fortieth day of the Bare Month, with the door at the foot of the stair standing open on its latch and the light coming up the open length of the steps. The date in chalk stood on the outside of the door and the bare piece of board under it stood off the wood at its near end where it had stood off it since Friday. The iron lay along the top step out of its two sockets. The register stood open on the bench in front of the woman of about twenty-nine who keeps a public register. The man of about thirty-four who keeps a stall two stalls along had his own board across his knees, and the woman of about fifty-two with her hands at the sides of her dress stood at the far side of the bench with her face to the light.
+It was Tuesday, the five hundred and fortieth day of the Bare Month, with the door at the foot of the stair standing open on its latch and the light coming up the open length of the steps. The date in chalk stood on the outside of the door and the bare piece of board under it stood off the wood at its near end where it had stood off it since Friday. Where the iron had lain every morning of the flood the dust on the top step had not been disturbed at all, and the iron was on the step and not in it. The register stood open on the bench in front of the woman of about twenty-nine who keeps a public register. The man of about thirty-four who keeps a stall two stalls along had his own board across his knees, and the woman of about fifty-two with her hands at the sides of her dress stood at the far side of the bench with her face to the light.
 
 ---
 
-The room went on with its ordinary work for the first hour and the question came up out of the ordinary course of the hour the way everything in the room came up. It went along the bench and nobody stood up to put it. Some of them said they did not know. Some of them said nothing at all and went on with what they had in their hands. The woman of about fifty-two with her hands at the sides of her dress was not asked it and said nothing about it. The keeper was not asked it at any hour of that morning, and the man of about thirty-nine who trades on a board stood at the far end with the flat of his hand on the face of his board and said nothing through the whole of the hour, and nobody in the room asked him anything.
+The room went on with its ordinary work for the first hour and the question came up out of the ordinary course of the hour the way everything in the room came up. It went along the bench and nobody stood up to put it.
+
+**"I do not know,"** the man of about twenty-seven said, **"and I have not looked to see who it is."**
+
+**"It would be the same for anybody who has not looked,"** said the man of about thirty-one who carries things for a living, and he did not take his hand off the strap of the satchel.
+
+The question came back where it had started from and went along the bench again, and the mouths it came back with gave nothing that the next mouth could use, and some of them said nothing at all and went on with what they had in their hands. The woman of about fifty-two with her hands at the sides of her dress was not asked it and said nothing about it. The keeper was not asked it at any hour of that morning, and the man of about thirty-nine who trades on a board stood at the far end with the flat of his hand on the face of his board and said nothing through the whole of the hour, and nobody in the room asked him anything.
 
 The man of about twenty-seven carried the bucket down and up twice and set it by the leg of the table. The man of about thirty-one who carries things for a living came up at about the middle of the hour with his satchel under his arm and the flap of it down and went down again with the same satchel and the flap still down. At about the eighth hour the keeper turned a leaf and squared it against the fold, and the light came off the sill and up the wall above the shelf.
 
 ---
+
+The man of about thirty-four who keeps a stall two stalls along said it to the middle of the bench with his thumb still on the foot of his own board.
 
 **"I would like to know who puts that date on the door."**
 

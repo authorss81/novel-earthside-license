@@ -634,7 +634,7 @@ THAT WITHOUT SPENDING §6.9, AND A PLAN DOES NOT SPEND IT TO CLOSE A CALENDAR.**
 | 0851 | 851 | Friday | BM 536 | recovery | — | a bar on the top step where it has lain for fifty days and a door standing open and a room going on |
 | 0852 | 852 | Saturday | BM 537 | political | — | a date in chalk going on that door for the fifty-first morning running and nobody able to say who writes it |
 | **0853** | 853 | Sunday | BM 538 | character | **1** | ice standing in a trough at the top of the market step and nobody breaking it |
-| 0854 | 854 | Monday | BM 539 | discovery | — | a second hollow in the flags at the side of the wharf yard that was one hollow on Friday |
+| 0854 | 854 | Monday | BM 539 | discovery | — | a crack come in the skin across the hollow in the flags at the side of the wharf yard, and a barrow taken the long way round on the dry stone |
 | 0855 | 855 | Tuesday | BM 540 | political | — | two men at one end of one market and the question of whose hand the date is in |
 | **0856** | 856 | Wednesday | BM 541 | **cost** | — | **the first cost, named by the woman of about fifty-two, in her own words** |
 | 0857 | 857 | Thursday | BM 542 | recovery | — | the room carrying on with nobody coming up that stair |
@@ -681,6 +681,17 @@ THAT WITHOUT SPENDING §6.9, AND A PLAN DOES NOT SPEND IT TO CLOSE A CALENDAR.**
 | **0898** | 898 | **Wednesday** | **BM 583** | character | — | **the new question, asked to one man, not the room, and not answered** |
 | **0899** | 899 | Thursday | BM 584 | physical | **9** | a stack carried in past a man and two boards off it on to the flags |
 | **0900** | 900 | **Friday** | **BM 585** | recovery | — | **the last image: rain, a gate, ordinary people waiting, one child, one answer, and a woman with a book on the far side** |
+
+**THE 0854 CELL WAS WRONG IN THIS TABLE AND WAS CORRECTED BY THE REVIEW REPAIR ON CHAPTERS 0851 TO 0860, and the
+repair is published here so that the correction is not read as a quiet change of a day. The cell read *a second
+hollow in the flags at the side of the wharf yard that was one hollow on Friday*; the card at
+`outline/batches/volume-18-batch-0001.md` forbids exactly that and gives the second hollow to day 868; the ten
+chapters were written to the card and Chapter 0854 is a crack in the skin across the hollow that is already there.
+**The cell now reads what the card gives it. The second hollow is still held for 868 by the card file, and §9's own
+868 entry carries a door in a wall at the store's end and does not name a second hollow, so a batch writing 868
+must read both and may not settle the difference by putting a second hollow into 854, which is written and closed.**
+No other cell of this map moved, no day moved, and the count of the pressure column below is the same with or
+without the correction.
 
 **Counted in the map's own pressure column: physical seven, character ten, political ten, discovery seven,
 decision four, cost three, recovery nine, and the seven sum to FIFTY on fifty distinct chapters — reading: first
@@ -924,7 +935,7 @@ length the days of THIS volume need, and four are new, and they are items 3, 6, 
     narration paragraph immediately followed by a marked speech; and a free-standing one-sentence narration
     paragraph, which has to be a beat. **THE FAULT THIS RULE EXISTS TO STOP IS THE FIFTH THING: a chapter in which
     no paragraph of three or more sentences carries a physical action.**
-21. **AND THE EIGHT FRAMES A CARD OF THIS VOLUME MAY BE DRAWN FROM, published here because four volumes of cards
+21. **AND THE NINE FRAMES A CARD OF THIS VOLUME MAY BE DRAWN FROM, published here because four volumes of cards
     have gone looking for them in a plan that does not carry them.** (1) A surface in a public place and what it
     says to the people who walk past it, and about four of them getting a thing off it and about four not. (2) A
     thing carried somewhere and not opened, and the reason it is not opened is not given. (3) A hand on a thing in
@@ -934,9 +945,22 @@ length the days of THIS volume need, and four are new, and they are items 3, 6, 
     (6) A thing said out loud in a room and not on a page, and the thing in nobody's hands, and the person it was
     said to about nine feet away doing something else. (7) Weather, water, and a distance somebody walks, and what
     is at the end of the walk. (8) A page and a surface read down and read across, and a third thing that is
-    neither. **A CARD MAY USE ONE AND MAY NOT USE ONE TWICE IN A BATCH, AND TEN CARDS CANNOT BE DRAWN OUT OF EIGHT
-    FRAMES WITHOUT TWO REPEATS, SO THE RULE IS READ AS BEING ABOUT A CARD AND NOT ABOUT A BATCH AND THE TWO
-    REPEATS ARE NAMED IN THE CARD FILE INSTEAD OF HIDDEN.**
+    neither. **(9) A person alone with a thing in front of him for a few minutes, and what goes through him while
+    he is looking at it, and the thing itself untouched at the end of it. IT IS THE ONLY ONE OF THE NINE THAT IS
+    INSIDE A HEAD, AND IT WAS ADDED BY THE REVIEW REPAIR ON CHAPTERS 0851 TO 0860, BECAUSE ALL EIGHT OF THE OTHERS
+    ARE OUTSIDE ONE: §4.1 KEEPS ADRIAN OUT OF FORTY-ONE OF THE FIFTY DAYS, §17.1 ASKS ONLY FOR SOMEBODY'S HANDS ON
+    SOMETHING, AND A CARD WITH NO FRAME FOR WHAT A PERSON IS THINKING IS A CARD THAT CAN PUT A MAN IN A ROOM TO BE
+    LOOKED AT AND CANNOT PUT HIM IN ONE. ON A DAY THAT IS ONE OF HIS NINE IT MAY NOT REPLACE THE THING HIS HANDS
+    ARE ON. IT MAY NOT BE USED ON 866, 878, 886, 890 OR 900, AND THE REASON FOR THOSE FIVE IS NAMED HERE SO THAT A
+    CARD AUTHOR IS NOT LEFT WITH A BARE LIST: **866 AND 890 ARE HIS OWN TWO DAYS AND CARRY AN ARRIVAL AND AN ACT,
+    878 CARRIES THE NAME, 886 CARRIES THE PANEL AND 900 CARRIES THE LAST IMAGE, AND ON ALL FIVE OF THOSE DAYS THE DAY
+    ALREADY HOLDS THE ONE THING IT IS FOR, SO A FRAME THAT GAVE A PERSON SOMEWHERE TO BE WOULD STAND IN FRONT OF IT
+    AND THE DAY WOULD LOSE THE THING THIS PLAN PUT IN IT.** **A CARD MAY USE ONE AND MAY NOT USE ONE TWICE
+    IN A BATCH, AND TEN CARDS CANNOT BE DRAWN OUT OF NINE FRAMES WITHOUT ONE REPEAT, SO THE RULE IS READ AS BEING
+    ABOUT A CARD AND NOT ABOUT A BATCH AND THE REPEATS ARE NAMED IN THE CARD FILE INSTEAD OF HIDDEN. THE NINTH
+    FRAME WAS ADDED AFTER THE FIRST TEN CARDS OF THIS VOLUME HAD BEEN DRAWN AND WRITTEN; THOSE TWO REPEATS ARE
+    RECORDED AT `outline/batches/volume-18-batch-0001.md`, WHICH DREW FROM EIGHT, AND THEY ARE NOT DISTURBED BY
+    THE ADDITION, AND A BATCH WRITING AFTER THAT ONE DRAWS FROM NINE.**
 
 ---
 

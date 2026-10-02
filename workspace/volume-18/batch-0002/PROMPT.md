@@ -5,6 +5,21 @@
 
 **You are a writer. You decide nothing, you invent nothing, and you print no string this file has not given you.**
 
+**THE PLAN NOW CARRIES NINE FRAMES AND THE PROMPT YOU WOULD OTHERWISE HAVE READ SAID EIGHT, SO IT IS GIVEN HERE.**
+A review repair of Chapters 0851 to 0860 added frame (9) to `outline/volume-18.md` §17.21, and it is the only one of
+the nine that is inside a
+head: **a person alone with a thing in front of him for a few minutes, and what goes through him while he is looking
+at it, and the thing itself untouched at the end of it.** It was added because the eight frames beside it are all
+outside one, and §4.1 keeps Adrian out of forty-one of the fifty days, and the repair found that ten chapters
+written under the old eight carried exactly one interior clause in seven thousand six hundred and seventy words. **You
+may use it on any of your ten days except 866, 878, 886, 890 and 900 — and the reason for those five is that they are
+the five days that already carry a held thing, an arrival, a name, a panel, an act or a last image, and an interior
+frame on one of them would stand in for the thing the day is for and take its place. On 861 it may not replace the
+thing his hands are on, and 861 is his.** Nine frames and ten cards means at least one repeat, and the repeats of the batch behind you were two
+because it drew from eight, and its two are recorded at `outline/batches/volume-18-batch-0001.md` and are not yours
+and are not disturbed. **A chapter is not finished until somebody is somewhere in it, and a chapter in which a room
+is watched from outside is a chapter with no focalizer in it.**
+
 **AND THERE ARE NO CARDS ON DISK FOR YOUR TEN DAYS, and that is not an omission and it is the arrangement.** The
 Volume 18 planning phase wrote the first ten of this volume's cards at `outline/batches/volume-18-batch-0001.md`
 because it was the phase that wrote the plan, and it wrote no card for any later batch, and every batch behind the
@@ -13,8 +28,8 @@ the head of `state/batch-summaries/volume-18-batch-0002.md`, before you write Ch
 not a record. You may not write a card file under `outline/`, and you may not write one anywhere else.** A card
 supplies no day, no weekday, no Bare-Month ordinal, no pressure tag, no frame and none of the three things §4.1
 gives for Adrian Vale; where a chapter needs one of those, take it from the plan and not from your own head. The
-eight frames are at `outline/volume-18.md` §17.21 and a card may use one and may not use one twice, so ten cards out
-of eight frames means two repeats and **you must name your two repeats at the head of your record rather than hide
+the nine frames are at `outline/volume-18.md` §17.21 and a card may use one and may not use one twice, so ten cards out
+of nine frames means at least one repeat and **you must name your repeats at the head of your record rather than hide
 them, with the subject and the third party of each of the ten, so that a reviewer can fail a repeat that has become
 a repeat.**
 
@@ -23,7 +38,7 @@ a repeat.**
 1. **`outline/volume-18.md`** — the plan of record. Read §1, §4 and §4.1, §5, §6.1 through §6.11, §7.1, §7.2, §8,
    §9, §10, §11, §12, §13, §14.1, §14.2, §14.3, §14.5, §15, §16, §17, §18, §19 and §21. **A writer of this volume
    reads the plan and not the state layer.** §4.1 publishes all nine of his days and all nine wants and all nine
-   outcomes; §6.6 through §6.10 hold the five things this plan holds; §17.21 carries the eight frames; §21.3 names
+   outcomes; §6.6 through §6.10 hold the five things this plan holds; §17.21 carries the nine frames; §21.3 names
    the three things the planning phase printed here and nowhere else.
 2. **`state/volume-17-close.md`** — the fifty days behind you, its §2 for what each thing was fixed to, its §6 for
    the seventeen threads left open at day 850, and its §11 for the held things.
@@ -33,9 +48,15 @@ a repeat.**
    handed the day and not the words.**
 4. **`state/batch-summaries/volume-18-batch-0001.md`** — the ten days behind you, its figures with their readings,
    its list of the prohibitions the batch held and how, and **its repair findings, which are the ten things the last
-   ten days got wrong and which you should not get wrong.** **Note that the batch before you had no independent
-   reader and says so in its own record; `reviews/volume-16/` does not exist and the dispatch falls back to the
-   writer's own agent, so do not pretend to one in your record either.**
+   ten days got wrong and which you should not get wrong.** **The last block of that record is the review repair of
+   those ten chapters and it is the one you should read twice: an outside reader found fourteen things in them, six
+   of them on the page, and its findings about a repeated morning image, an unattributed turn, a place-name used in
+   two yards, a summarised room, an absent focalizer, an arithmetic claim that did not add up and a stale archive
+   pointer are all fixed in the files you are about to read, so the text on disk is the repaired text and not the
+   text that was first written.** **Note that the batch before you was written without an independent reader and said
+   so in its own record, and that its ten days have now had one and the record says so too. `reviews/volume-16/`
+   does not exist and the dispatch falls back to the writer's own agent, so do not pretend to one in your record
+   either.**
 5. **`state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`** — the live
    layer. **They carry what you must not break. If a state file tells you what a chapter says, open the chapter.**
 6. **The previous twenty chapters on disk**, `chapters/volume-17/chapter-0841.md` to `chapter-0850.md` and
@@ -118,8 +139,9 @@ spans. Do not print a span. Do not certify that any of them is absent from anywh
 ## HOW THE PROSE IN THIS VOLUME IS GOING, WITH ITS FIGURES AND ITS READINGS
 
 **The batch before you published its own measurements and you should check them rather than take them. Two of them
-are worth having in front of you. The demonstrative: `that` stands at 4.2 per 1,000 words on the bodies of Chapters
-0851 to 0860, against 4.5 for Volume 17's last ten and 20.4 for Volume 17 whole on the same reading, and the first
+are worth having in front of you. The demonstrative: `that` stands at **4.6** per 1,000 words on the bodies of Chapters
+0851 to 0860 **as they stand on disk after the review repair, and it stood at 4.2 before it**, against 4.5 for
+Volume 17's last ten and 20.4 for Volume 17 whole on the same reading, and the first
 writing of that batch measured 16.6 and was reworded down. The longest run: the longest run of consecutive words any
 two of Chapters 0851 to 0860 share is 18, and the longest against Volume 17's fifty is also 18, against a first
 writing of 44. Every one of those runs is a row of long handles standing in a room in the same order, and that is

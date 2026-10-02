@@ -8,7 +8,7 @@ Adrian Vale stood at the trough with his hands where they were. He wanted the ic
 
 ---
 
-He took his hands off the rim at about the fourth hour and stood back from it and turned his palms over and looked at them, and the two marks on them were the white patches the cold of the stone had left. He did not go up the stair. He stood at the top of the step with his hands at his sides and watched the row come up.
+He took his hands off the rim at about the fourth hour and stood back from it and turned his palms over and looked at them, and the two marks on them were the white patches the cold of the stone had left. He did not go up the stair. Along the row a man had said the back of a knife would come out of it, and it had not been said to him, and he knew he had not asked for it, and that was the whole of what he had brought to the trough. He stood at the top of the step with his hands at his sides and watched the row come up.
 
 Over at the far side of the row the man of about thirty-four who keeps a stall two stalls along stood at his own trestle with his board face in against it and the bare back of it out into the row behind his shoulder. The man of about twenty-seven came up the row with the bucket in his right hand and the rag over the rim of it, and he could not fill it.
 

@@ -3,9 +3,12 @@
 **This file carries where the work stands, what is on the tables and shelves, what a next writer must carry
 forward, and what is owed. It does not carry a list of things a phase did not do.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-outline-full.md`, taken before
-the Volume 18 planning pass replaced four superseded blocks with one, and verified against the live file by
-SHA256 before a single line was removed. Behind that, every earlier block is at
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-batch-0001-full.md`, taken by the
+Volume 18 Batch 0001 pass before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block, and
+verified against the live file by SHA256 before a single line was removed. BEHIND IT IS
+`state/archive/current.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass replaced four
+superseded blocks with one; the head of this file named that one as the most recent whole copy until the review repair
+of Chapters 0851 to 0860 corrected it. Behind that, every earlier block is at
 `state/archive/current.md.volume-17-batch-0004-full.md`, word for word and undeleted — a complete byte-for-byte
 copy of this file as it stood after Batch 0004 wrote its chapters and before the review repair rewrote its
 block, and it holds that block in full — and behind that at
@@ -348,3 +351,74 @@ has been executed: Batch 0001 wrote Chapters 0851 to 0860, days 851 to 860, it c
 856, it did not reach the arrival on 866 and did not prepare it, and it stopped at 0860. The next phase is
 `workspace/volume-18/batch-0002/PROMPT.md`.** This repair pass created no directory, wrote no prompt and added no
 phase.
+
+---
+
+## WHERE THE WORK STANDS AFTER THE REVIEW REPAIR OF CHAPTERS 0851 TO 0860. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**THE NEXT PHASE IS `workspace/volume-18/batch-0002/PROMPT.md` AND NOTHING ELSE, and it is the same prompt Batch 0001
+left, corrected in three places. Batch 0002 writes Chapters 0861 to 0870, days 861 to 870, and stops there.** No
+chapter past 0860 exists. **Chapters 0851 to 0860 are on disk and they are the repaired text: nine of the ten files
+were edited and Chapter 0851 was not.** The read that asked for the repair is `logs/batch-0001.review.log`, its
+fourteen findings and the whole of what answered them are at the foot of
+`state/batch-summaries/volume-18-batch-0001.md`, and this block carries only what a writer starting tomorrow needs.
+
+**WHAT A WRITER OF THE NEXT FORTY DAYS HAS TO KNOW THAT THE REPAIRED CHAPTERS AND THE PLAN NOW SAY.**
+
+1. **The plan has a ninth frame and it is the only one of the nine that is inside a head.** `outline/volume-18.md`
+   §17.21 carries it: a person alone with a thing in front of him for a few minutes, and what goes through him while he
+   is looking at it, and the thing itself untouched at the end of it. **It exists because all eight frames beside it
+   are outside a head while §4.1 keeps Adrian out of forty-one of the fifty days, and a chapter with no frame for what
+   a person is thinking is a chapter that can put a man in a room to be looked at and cannot put him in one.** It may
+   not be used on 866, 878, 886, 890 or 900, and on 861 it may not replace the thing his hands are on. **Ten cards
+   cannot be drawn out of nine frames without one repeat, and the two repeats of Batch 0001 are recorded in its card
+   file, drew from eight, and are not disturbed.**
+2. **The day map's cell for 854 was wrong and is corrected.** It read *a second hollow in the flags at the side of the
+   wharf yard that was one hollow on Friday*; the card that governs 854 forbids that and gives the second hollow to
+   868. **The cell now reads a crack in the skin across the hollow that is already there, and a barrow taken the long
+   way round on the dry stone, and the correction is published under the table in the plan with its reason. The second
+   hollow is still owed by day 868 and is still not written, and §9's own 868 entry carries a door and does not name a
+   second hollow, and that difference is left standing on purpose. NO OTHER CELL AND NO DAY MOVED.**
+3. **A morning sentence is not a motif and six of seven were the same sentence.** The bar in its two sockets opened
+   seven of these ten chapters, in seven sentences that all said the same thing in nearly the same words. **The fact is
+   unchanged on every day the bar is on the page for, which is seven of the ten, and the seven sentences are now seven
+   different sentences, and the next forty days may not find an eighth copy of it.** A cross-file word-run cannot see
+   this fault, because the wording varies and the fact does not; it took an outside reader to see it and it is worth
+   publishing that the instrument that was supposed to catch repetition returned eighteen words and the repetition it
+   missed was a fact repeated in seven openings.
+4. **A chapter in which a room is watched from outside is now a named fault**, and the plan says so in the ninth frame
+   and the next prompt says it in its first paragraph. **Chapters 0853 and 0856 each carry one interior position and
+   nothing else in the batch does.**
+5. **The wording of the cost of day 856 is in `chapters/volume-18/chapter-0856.md` and in no other file, and that now
+   includes this repository's own state layer.** Two state files paraphrased it in other words and both were struck by
+   this repair. **A paraphrase in a summary is a second printed copy and the next writer may add none.**
+
+**AND WHAT DID NOT MOVE, AND A REPAIR THAT MOVED ONE OF THESE WOULD BE A DIFFERENT PASS.** No day, weekday, Bare-Month
+ordinal, pressure tag, Adrian row, card, cast member, descriptor, object state, prohibition or held wording moved. The
+cost of 856 was not touched in one word. The chalk did not come out of the pocket. Nothing went under the date. The bar
+did not go back into its sockets. The second slate was not picked up. The satchel was not opened. The tally-board was
+not turned over. No headcount, no elapsed subtraction, no notice, no document, no name, no place, no word belonging to
+the other side. **The arrival on 866 was not reached and not prepared; the decision on 875, the name on 878, the panel
+on 886 and the act on 890 were not reached and not prepared. `outline/ending.md` was read and was not moved. No new
+final enemy entered this manuscript: Ivenn Marrow remains the final human antagonist and he is on 894 and 895.**
+
+**AND THE TWO THINGS A HUMAN OWES, WHICH THIS REPAIR DID NOT PAY.** `reviews/volume-16/` still does not exist and
+the review dispatch still falls back to the writer's own agent, so the next forty days will be read the same way until a
+review dispatch is routed to `reviews/volume-18/`. `state/phase-ledger.json` still reads `phase-000-bootstrap` and
+`planned` at Volume 18 Batch 0001, and **it is controller-owned and `AGENTS.md` forbids any phase from touching it, so
+it is named here as owed and is not repaired; a reader should not take it for an oversight.** `NOVEL_SPEC.md`'s Status
+section is stale, `bible/power-system.md` has no §65 for days 851 to 900, and `outline/series.md` has no DECISIONS OF
+RECORD block for Volume 18. **None of the four was opened.**
+
+**AND THIS REPAIR APPENDED TO THIS FILE AND TO THE OTHER FOUR, AND SAYS WHY RATHER THAN LEAVING IT TO BE FOUND.** A
+repair's business is the record of what it corrected, and that record has to sit where a later writer will meet it, and
+the compaction convention belongs to a pass that is compacting. **The five live files stood at 147,558 bytes as this
+repair found them and grew to about 173,000 as it leaves them, all five of them growing. THE PER-FILE FIGURES ARE NOT
+RESTATED HERE AND THAT IS DELIBERATE: this file quotes the total inside the very block the total measures, so any
+number printed here is a floor by the length of this sentence, and the exact per-file deltas, the exact total and a
+declared floor are published once, at the foot of `state/batch-summaries/volume-18-batch-0001.md`, where no file
+quotes them.** The repair replaced four wrong figures in place, added one block to each of the five live
+files and one to the batch record, wrote no new archive, opened no controller file, created no directory and no phase,
+and left `workspace/volume-18/batch-0002/PROMPT.md` as the only next-phase artifact in the repository. **THE NEWEST WHOLE
+COPY OF EACH OF THE FIVE IS STILL THE ONE BATCH 0001 TOOK, each file says at its head when that copy was taken, and a
+reader who wants the state before this repair has it in one read.**

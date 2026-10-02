@@ -2,7 +2,7 @@
 
 A hand went down onto the rim of the hollow at the side of the yard with the four fingers laid over the edge of it, and the fingers went into the grit come up into a skin across the hollow, and the skin took the weight of them and did not break.
 
-It was Monday at the wharf at the near end of eleven miles of flats, on the five hundred and thirty-ninth day of the Bare Month, and a north-easterly had got up in the night and had not gone down again. The hollow stood at the side of the yard where the flags dip, and the skin across it had been hard since a barrow had gone down into it and had come up out of it again. The low place in the stone along the wall of the store was dry, and the awning over the boards had been dripping off its edge all the morning and had not made a puddle.
+It was Monday at the wharf at the near end of eleven miles of flats, on the five hundred and thirty-ninth day of the Bare Month, and a north-easterly had got up in the night and had not gone down again. The hollow stood at the side of the yard where the flags dip, and the skin across it had been hard since a barrow had gone down into it and had come up out of it again. The shallow dip by the wharf wall was dry, and the awning over the boards had been dripping off its edge all the morning and had not made a puddle.
 
 The man of about thirty-eight at that salt wharf took his fingers out of the skin and looked at the grit on them and rubbed it off his coat. The skin was not one piece any more. There was a crack in it running from the rim of the hollow at the near side to the middle of the hollow and stopping there, and the grit under the crack was dark and damp where the grit round the edge of the hollow had gone pale and hard, and the water the yard takes in the wet season was finding the crack and getting in under the skin.
 
@@ -28,4 +28,4 @@ Nobody in the row asked him where his load came from and nobody asked him what h
 
 ---
 
-He went back down the flats at about the ninth hour with the barrow empty and the tally-board under his arm, and he came in off the flats on the dry crown again and went round the hollow the long way with the wheel on the dry stone, and the grit come up out of the hollow and stuck along the two rims came off again on the dry flags at the side of the low place in the stone and lay there in two long smears, and by the tenth hour the edges of those two smears had gone into the dry flags and the middle of them had not.
+He went back down the flats at about the ninth hour with the barrow empty and the tally-board under his arm, and he came in off the flats on the dry crown again and went round the hollow the long way with the wheel on the dry stone, and the grit come up out of the hollow and stuck along the two rims came off again on the dry flags at the side of the shallow dip and lay there in two long smears, and by the tenth hour the edges of those two smears had gone into the dry flags and the middle of them had not.

@@ -4,9 +4,13 @@
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-18-outline-full.md`,
-taken before the Volume 18 planning pass rewrote the two Volume 17 blocks at its foot, and verified against
-the live file by SHA256 before a single line was removed. Behind that, every earlier block is at
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-18-batch-0001-full.md`, taken
+by the Volume 18 Batch 0001 pass before it replaced the Volume 18 planning block with the Volume 18 Batch 0001 block,
+and verified against the live file by SHA256 before a single line was removed. BEHIND IT IS
+`state/archive/character-state.md.volume-18-outline-full.md`, taken before the Volume 18 planning pass rewrote the two
+Volume 17 blocks at its foot; **the head of this file named that one as the most recent whole copy until the review
+repair of Chapters 0851 to 0860 corrected it, and that repair's own record at one point said this file needed no
+correction, which was wrong, and the correction is here.** Behind that, every earlier block is at
 `state/archive/character-state.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this file
 before that compaction — including the block on days 801 to 810 and the review-repair block on Chapters 0811
 to 0820 — and behind that at
@@ -324,8 +328,11 @@ carries it a longer way than the trough was.** The other world is named on no pa
 and in no narration.
 
 **AND THE WOMAN OF ABOUT FIFTY-TWO, WHO IS THE ONE PERSON ON THIS PAGE WHOSE STATE MOVED IN THESE TEN DAYS.** On
-day 856 she said out loud, in her own mouth and before anything else that morning, what it has cost her to be the
-one who stands at that door and looks while nobody in that room has ever asked her what she saw. She said it into
+day 856 she said out loud, in her own mouth and before anything else that morning, one sentence of her own, **and
+the wording of that sentence is in `chapters/volume-18/chapter-0856.md` and in no other file in this repository, and
+this file does not restate it and did not before the review repair struck the clause that did. A state file that puts
+a held wording into other words is a second page wearing a summary's clothes, and that is the fault this repair
+corrected in the same class twice.** She said it into
 the middle of the floor and not to anybody. **Nobody thanked her, nobody improved on one word of it, nobody answered
 it, no mouth said it was right or that it was worth it, nobody asked her a second thing about it, and nothing
 whatever was done about it at any hour of that day.** **The wording is printed once, in
@@ -374,3 +381,53 @@ elapsed figure, and the woman who walked a market is on no page of these ten.**
 `state/archive/character-state.md.volume-18-batch-0001-full.md` and the copy was verified against the live file by
 SHA256 before any line was removed, and the Volume 18 planning block was replaced by this one. **No descriptor, no
 age, no number, no place, no name and no standing disagreement moved.**
+
+---
+
+# WHAT THE REVIEW REPAIR OF CHAPTERS 0851 TO 0860 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**No descriptor moved, no age was given, no name was given or spoken, no standing disagreement was settled, and
+nobody got stronger. What moved is this: two people on this page are now inside one sentence of their own, and one
+held wording stopped being restated in this file.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG IS NOW INSIDE A SENTENCE.** On 856, which is the
+chapter where the woman of about fifty-two names the volume's first cost about nine feet off him while he goes on with
+his thumb along the foot of his own board, his thumb stops on a rate he had been holding without knowing he was holding
+it, and he leaves it where it is rather than move it and show that he had moved it. **That is the whole of what he
+gets on that day. He is not given a view of the cost, nothing in him agrees with it, nothing in him answers it, he is
+not thanked, nobody tells him he was right, and no chapter says the cost was worth it.** His chalk did not come out of
+that pocket on any of the ten days before this repair or after it, his board still went down to his trestle without him
+at the end of 852 and was across his knees again on 853 and after, and he still said nothing to anybody about either.
+
+**ADRIAN VALE IS STILL IN ONE CHAPTER OF THE FIFTY AND IN NO OTHER, AND ON THAT ONE CHAPTER HE IS NOW INSIDE A
+SENTENCE.** On 853 his hands were on ice standing in a trough and what he wanted it for was to have that trough usable
+before the fourth hour so the bucket could be filled, published `no`, and the ice is still not broken in that chapter
+and nobody breaks it. **He now knows he did not ask for the back of a knife that would have come out of it, and the
+chapter says that was the whole of what he had brought to the trough.** Nobody thanked him, nobody told him he was
+right, nobody in that room was waiting for him to be useful and he was not useful to them, and the thing he causes is
+still that the man of about twenty-seven fills his bucket at the market yard's low place in the stone and carries it a
+longer way than the trough was. He is Stage 2, aged nowhere, and the volume's nine days are still 0853, 0861, 0866,
+0871, 0881, 0889, 0890, 0893 and 0899.
+
+**TWO MOUTHS ON THIS PAGE NOW SPEAK WHERE THEY USED TO BE SUMMARIZED, AND NEITHER OF THEM IS A NEW PERSON.** The man
+of about twenty-seven said on 855 that he did not know and had not looked to see who it was. The man of about
+thirty-one who carries things for a living said that it would be the same for anybody who had not looked. **Both were
+already on this page and both are already in the room in that chapter; nothing was invented and no descriptor was
+taken from the pool. The man of about thirty-one's satchel was still not opened on any of the ten days, no chapter
+still says what is in it beyond the one thing its owner knows is in it, and no mouth still asks him about it.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THE WHARF AND THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD ARE NOT MERGED,
+AND THE REPAIR DID NOT MAKE THEM MORE ALIKE.** The wharf man got his first turn in an exchange named on 860, where he
+says where the wheel goes, and **the four turns named on 859 belong to the man of about thirty-four who keeps a stall
+two stalls along and the man of about thirty-one who carries things for a living, both of whom were already in that
+room; the man of about thirty-nine who trades on a board says nothing on 859 and is on no page of it in any mouth, and
+naming the man of about thirty-four there did not turn him into the man of about thirty-nine or make the two one
+person.** The two men of about thirty-eight are still two people and the two men of about thirty-four are still one
+unresolved thing that no page has ever settled.
+
+**AND THE HELD WORDING IS IN ONE FILE AND NOT IN THIS ONE.** `state/chapter-summaries.md` restated the wording of day
+856 in one clause and this file restated it in another, and both clauses are struck. **The sentence is printed once,
+in `chapters/volume-18/chapter-0856.md`, and it is in no mouth on any other day, in no plan section, in no prompt and
+in no summary, and the state layer now points at the chapter instead of paraphrasing it. A paraphrase in a state file
+is the same fault as a second printed copy and this repository has now had it twice on one sentence and struck it
+twice.** The day 813 cost is a different cost, is held at `state/volume-17-close.md`, and is not touched by this.
