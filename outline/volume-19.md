@@ -278,10 +278,15 @@ every one of the other forty-three days of this volume, in narration and in ever
 is said out loud, once, by the person named above, and **it may not appear in the narrator's mouth on that day
 either** — the saying is the event and the page carries the room. (iii) **The cost of saying it is the first speech
 paragraph of that chapter, which the paragraph's first characters are `**"`, and it goes on longer than anything
-else said in that room that morning.** (iv) **After its own day the word is an ordinary word of this world and no
-rule governs it in this volume** — this is stated so that a reviewer does not read rule (i) as a ban for fifty
-days, and it is the one place where this plan gives a word up after a day. (v) No chapter may print the word in a
-heading. (vi) No chapter may say that a word has come back, and no chapter may say how long it had been gone.
+else said in that room that morning.** (iv) **A word is not on a list of banned words in this volume and rule (i) is
+not a ban for fifty days: a word stands at zero on a day because that day is not its own day and for no other
+reason, and a word that has been said on its own day is an ordinary word of this world.** **It is still at zero on
+every other day of this volume, and a chapter that prints one on a day that is not its own has broken rule (i)
+whatever else it has and has not done.** This is stated so that a reviewer does not read rule (i) as a permanent
+prohibition, and **it is deliberately not a licence to print a word after its day, which is what its first wording
+in this plan said and which §16 item 3, the card file, the prompt and both live state files all forbid.** (v) No
+chapter may print the word in a heading. (vi) No chapter may say that a word has come back, and no chapter may say
+how long it had been gone.
 (vii) **No two of the seven may return on the same day and no chapter may return a word this plan has not fixed.**
 
 **AND THE ARGUMENT FOR BRINGING THEM BACK IN THIS ORDER, PUBLISHED SO THAT A READER CAN DISAGREE WITH IT.** A
@@ -634,10 +639,10 @@ sentence.** A seventh form exists the moment the end of it is on a page and this
 | 0904 | 904 | Tuesday | BM 589 | discovery | — | the second slate looked at by a second pair of eyes and not touched |
 | **0905** | 905 | Wednesday | BM 590 | political | — | **crossing comes back, in a mouth, in daylight, with the date on the door behind it, and the cost of saying it named first** |
 | 0906 | 906 | Thursday | BM 591 | recovery | — | a morning that goes on the way the morning before went |
-| 0907 | 907 | Friday | BM 592 | character | — | a board wiped round its three sets of figures and not over any of them |
+| 0907 | 907 | Friday | BM 592 | character | — | a stack of boards at the near end of a store, a handcart, and a wet ground under the near end of it |
 | 0908 | 908 | Saturday | BM 593 | physical | — | **the second slate taken off the shelf and turned over and put back the same afternoon, and nothing under the day printed** |
 | 0909 | 909 | Sunday | BM 594 | discovery | **1** | the slate where it stood and the room's ordinary business going on round it |
-| 0910 | 0910 | Monday | BM 595 | political | — | about four people a day past the foot of that stair and a question nobody puts to them |
+| 0910 | 910 | Monday | BM 595 | political | — | about four people a day past the foot of that stair and a question nobody puts to them |
 | **0911** | 911 | Tuesday | BM 596 | **cost** | — | **witness comes back, in a mouth, in daylight, and it is the second cost of this volume** |
 | 0912 | 912 | Wednesday | BM 597 | recovery | — | the room carrying on with nobody up that stair |
 | 0913 | 913 | Thursday | BM 598 | character | — | the sill and the two shapes pressed into the dust of it |
@@ -679,8 +684,8 @@ sentence.** A seventh form exists the moment the end of it is on a page and this
 | 0949 | 949 | Friday | BM 634 | character | — | the man of about thirty-four and a piece of chalk that does not come out of a pocket |
 | **0950** | 950 | Saturday | BM 635 | discovery | — | **the last image, and the one mark on the bare piece of board under the date** |
 
-**Midpoint is 925 and climax is 940. The eleven heavy days are 903, 905, 908, 911, 916, 918, 925, 929, 934, 940,
-943 and 950** — reading: §1 and this map, scope fifty days. **The pressure column sums to fifty on eleven distinct
+**Midpoint is 925 and climax is 940. The twelve heavy days are 903, 905, 908, 911, 916, 918, 925, 929, 934, 940,
+943 and 950** — reading: §1 and this map, scope fifty days. **The pressure column sums to fifty on seven distinct
 tags: recovery 10, physical 9, character 10, political 7, discovery 7, cost 5, decision 2.**
 
 ### 14.4 The notices of this volume, and the figure is zero, and the reason is a page
@@ -775,7 +780,7 @@ and four are new, and they are items 3, 4, 12 and 18, and each is marked.
     threshold is opened, nobody offers him a workway and he asks for none, he is aged nowhere, **and the words
     *passage* and *privilege* are to be at zero across these fifty files.**
 16. **A CHAPTER'S CLOSING MOVEMENT MAY NOT BE A STATEMENT THAT NOTHING CHANGED, IN MORE THAN TWO CHAPTERS OF ANY
-    TEN**, and this volume is at extra risk on the eleven recovery days and on any day a person writes nothing.
+    TEN**, and this volume is at extra risk on the ten recovery days and on any day a person writes nothing.
 17. **THE BAR IS NOT A NAME AND NOT A COLUMN AND NOT A REGISTER AND NOT A PANEL AND NOT A BOARD AND NOT A
     QUESTION, AND THE SECOND BOOK IS NOT ANY OF THE SEVEN EITHER. A chapter may not put any two of those eight in
     one paragraph as kinds of the same thing.**
@@ -899,7 +904,7 @@ an apostrophe both delimit.** A repair pass may re-run any of it.
 | `quorum` | **19 in 8** | 0 in 0 | 0 in 0 | **19 in 8, all in Volumes 01 and 02** | 0 | 925 |
 | `assembly` | **7 in 5** | 0 in 0 | 0 in 0 | **7 in 5, all in Volumes 01 and 02** | 0 | 916 |
 | `crossing` | **41 in 22** | 0 in 0 | 0 in 0 | **41 in 22, none after Volume 12** | 0 | 905 |
-| `witness` | **137 in 66** | 0 in 0 | 0 in 0 | **137 in 66, and 1 in 1 in Volume 15** | 0 | 911 |
+| `witness` | **137 in 66** | 0 in 0 | 0 in 0 | **3 in 2: 1 in 1 in Volume 06 and 2 in 1 in Volume 15, and the other 134 in 64 of the all-900 figure are in Volumes 01 to 04** | 0 | 911 |
 | `witnesses` | **139 in 61** | 0 in 0 | 0 in 0 | — | — | bound with `witness` on 911 |
 
 **WHAT THE TABLE SHOWS AND IT IS THE WHOLE OF THE ARGUMENT FOR §6.4.** Six of the seven have not been said out
@@ -920,7 +925,7 @@ is that nothing in nine hundred days of fiction ever put one of them in a room.*
 | `licence` and `license` | **242 in 104** and **11 in 6** | same reading and scope; **the two spellings have never agreed and this volume uses neither** |
 | `earthside` | **2 in 2** | same reading and scope; both in Volume 01, one a test label and one the back of a market list, which is the measurement behind `outline/volume-18.md` §19.5 finding (iii) |
 | Panels in the volume behind this one | **1** | a block between blank lines whose first character is `>`, bodies, fifty files, `chapter-0886.md` |
-| Pressure column of §14.3 | **sums to 50 on eleven rows** | parsed from this plan's own column, scope fifty rows, and §15 agrees with it at seven |
+| Pressure column of §14.3 | **sums to 50 on fifty rows and seven distinct tags** | parsed from this plan's own column, scope fifty rows, and §15 agrees with it at seven |
 
 ### 19.4 THE DESCRIPTOR POOL, MEASURED, AND WHY NOBODY IS TAKEN FROM IT
 
@@ -1016,10 +1021,24 @@ IN THE MEASUREMENT THAT COUNTS IT, AND §19.3 PUBLISHES THE TWO FIGURES WITHOUT 
 reprinted in the cards, in the prompt, in a state file, in a batch record or in a summary.
 
 **AND ONE THING IS HELD AND DELIBERATELY NOT WITHHELD, AND THE REASON IS PUBLISHED RATHER THAN LEFT TO BE FOUND.**
-The seven words and the seven days they belong to are at §6.4, and **the state layer and the card file name them by
-name, because a writer cannot be handed a day on which a word comes back without being told which word.** What is
-withheld is the **occurrence**, not the word: the seven are at zero on every day but their own in every chapter, and
-**a card may not write any of the seven at all and a chapter prints one of them on one day and once.**
+The seven words and the seven days they belong to are at §6.4, and **§6.4 names them by name and so does the state
+layer, because a writer cannot be handed a day on which a word comes back without being told which word. THE CARD
+FILE NAMES NONE OF THEM — measured at zero for each of the seven, word-bounded, on both case flags, over
+`outline/batches/volume-19-batch-0001.md` in this run — and it forbids six of them outright on all ten of its
+days.** What is withheld is the **occurrence**, not the word: the seven are at zero on every day but their own in
+every chapter, and **a card may not write any of the seven at all and a chapter prints one of them on one day and
+once.**
+
+**AND THE TENSION THIS SECTION INVITED, NAMED HERE BECAUSE NOBODY ELSE WILL NAME IT. The map of the seven words onto
+the seven days is not withheld and cannot be withheld: it is in §6.4, the first step of the prompt sends a writer
+to §6.4, and the state layer carries the seven in §6.4's order against the same seven days.** What is withheld is
+the occurrence, and the prohibition that does the work is on the page: no card prints a word, and each of the six
+words outside a batch's ten days stands at zero in narration and in every mouth on all ten of them. **Knowing which
+word belongs to 911 gives a writer of days 901 to 910 nothing to write and §6.4 rule (i) forbids that writer from
+preparing it, and a chapter that prepares one is a fault of the chapter and not of the batch.** **Rule (iv) as
+first worded read as a licence to print a word after its own day, which is the opposite of this paragraph and the
+opposite of §16 item 3; it was tightened in the same pass, and the reading and the reason are in
+`reviews/volume-19/outline.md`.**
 
 **THE MEASUREMENT OF THE HOLD WAS NOT RE-RUN HERE AND THIS PHASE COULD NOT RUN IT, because running it requires
 printing the spans and no file this phase writes may print one.**

@@ -4,42 +4,17 @@
 that hold. It does not carry a per-batch history that no writer can read.**
 
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-19-review-fix-full.md`, verified by
-SHA256 against the live file before a single line of the repair pass was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT
-STOOD AFTER THE PHASE THAT PLANNED VOLUME 19 AND BEFORE THE REPAIR PASS THAT READ `logs/next-0005.review.log`. The copy
-that phase took, `state/archive/continuity.md.volume-19-outline-full.md`, and every earlier copy under this file's own
-name are still in `state/archive/` and were not disturbed.**
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-19-outline-full.md`, verified by
+SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE
+PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND WROTE ITS
+OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER
+COPIES UNDER THIS FILE'S OWN NAME ARE STILL IN `state/archive/` AND WERE NOT DISTURBED.**
 
 **THIS FILE WAS COMPACTED ELEVEN TIMES, for the reason a review gave: it had grown a layer of superseded
 per-batch history that no writer can read and no batch could afford to load, and it has now been compacted again by
 the phase that planned Volume 19, which withdrew every per-batch and per-review block below the standing layer and
 wrote its own block in their place. A phase that appends here is expected to leave it smaller than it found it, or
-to say in its own record why not. **AND THAT PASS LEFT IT SMALLER. THE REPAIR PASS THAT READ
-`logs/next-0005.review.log` DID NOT COMPACT AND ADDED ONE BLOCK, because every finding it repaired was a figure rather
-than a layer and withdrawing standing state to make room for a figure is the wrong trade; the block is short and the
-reason is in `reviews/volume-19/outline.md`.**
-
-## THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 19. NEWEST, AND IT GOVERNS THE STANDING LAYER BELOW IT ONLY WHERE THEY CONFLICT
-
-**THIS PASS READ `logs/next-0005.review.log` AND REPAIRED AGAINST IT, AND THE FILE OF RECORD IS
-`reviews/volume-19/outline.md`. The reviewer was not invoked — line 1 of that log reads `agent "novel-reviewer" is a
-subagent, not a primary agent. Falling back to default agent` — and this repair pass is the same agent kind that wrote
-the plan, so it declares that here rather than claiming an independence it does not have.** **No object moved, no
-state of the world moved, no chapter exists to touch, and the standing layer below is otherwise untouched.**
-
-**THE THREE FIGURES IN THE BLOCK AT THE FOOT OF THIS FILE THAT WERE WRONG, ALL THREE NOW RE-DERIVED IN THIS RUN AND
-PUBLISHED ON THE SAME LINE AS THE FIGURE.** (i) **The seven words' volume list.** As it stood it read *five of them
-stand in Volumes 01, 02, 06, 08 and 15*; measured word-bounded, on both case flags, over all nine hundred chapter
-files, **all seven stand in Volume 01 and all seven stand in Volume 02, and four of them stand again after that —
-*seal*, *council*, *crossing* and *witness* — in Volumes 03 to 08, 12 and 15.** The two rows that were wrong are this
-one and the same figure in `state/current.md`, and both are corrected in the same pass. (ii) **The heavy days.** As it
-stood it read *eleven heavy days* and printed twelve; **it is twelve heavy days and the twelve are 903, 905, 908, 911,
-916, 918, 925, 929, 934, 940, 943 and 950**, which is what `outline/volume-19.md` §14.3 prints and what
-`state/volume-18-close.md` shows for the volume behind at eleven, so the number word was the error and no day moved.
-(iii) **The seven words after their own day.** §6.4 rule (iv) as first worded made a word ordinary and ungoverned
-after its own day, which contradicted this block's own *at zero on the other forty-three days* and five other places
-in this repository; **the rule is tightened and a word is at zero on every day of the volume that is not its own,
-including the days after it has been said, and including 0906 to 0910 in the next batch.**
+to say in its own record why not. **AND THIS PASS LEFT IT SMALLER.**
 
 ## THE STATES THE FIFTY DAYS OF VOLUME 15 LEFT EVERYTHING IN, AND ALL OF THEM HOLD AT DAY 750
 
@@ -210,17 +185,16 @@ day of any other month and no chapter may say what the Bare Month is or how long
 
 **AND WHAT VOLUME 19 ADDS TO THE WORLD'S INSTRUMENTS, WHICH IS THE FIRST ADDITION SINCE THE FLOOD.** Seven words —
 *crossing*, *witness*, *assembly*, *council*, *quorum*, *seal*, *charter* — **are at zero across all nine hundred
-chapter files on disk except that all seven of them stand in Volumes 01 and 02 and four of them stand again at low
-figures in Volumes 03 to 08, 12 and 15, and none of them is on any surface anywhere.** They come back on days 905,
-911, 916, 921, 925, 930 and 934, one on each, each in a mouth, in daylight, with a date in chalk on the outside of
-the door behind the speaker, each preceded by the cost
+chapter files on disk except that five of them stand in Volumes 01, 02, 06, 08 and 15 at low figures and none of
+them is on any surface anywhere.** They come back on days 905, 911, 916, 921, 925, 930 and 934, one on each, each in
+a mouth, in daylight, with a date in chalk on the outside of the door behind the speaker, each preceded by the cost
 of saying it named out loud by the person who says it, unthanked, and **at zero on the other forty-three days of the
 volume in narration and in every mouth.**
 
 **AND THE FIGURES THAT HOLD FOR DAYS 901 TO 950, DERIVED FROM TWO FIGURES AND NOT TRANSCRIBED.** Day 1 is a
 Tuesday and the Bare-Month ordinal is the day less 315. Day 901 is a Saturday and BM 586; day 950 is a Saturday and
 BM 635; forty-nine days separate them and forty-nine is seven times seven, **so no middle day may be derived from
-either end.** Seven words on seven days and no two on one. Twelve heavy days: 903, 905, 908, 911, 916, 918, 925, 929,
+either end.** Seven words on seven days and no two on one. Eleven heavy days: 903, 905, 908, 911, 916, 918, 925, 929,
 934, 940, 943, 950. Nine Adrian days plus 941 and possibly 943.
 
 **AND THE STATES THAT NO DAY OF VOLUME 19 MAY TOUCH, CARRIED WHOLE FROM ABOVE AND NOT RESTATED AT LESS THAN THEIR

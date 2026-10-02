@@ -27,7 +27,12 @@ You have to write ten days inside it.**
 3. **`outline/ending.md`** — read it before you write and **do not move it, do not amend it, and do not plan a
    chapter against it.** This volume pays part of it and `outline/volume-19.md` §19.5 says exactly which part and
    exactly which part it does not. **Seven of the words on that file are on your day 905 and on six days that are not
-   yours, and you may not prepare any of those six.**
+   yours, and you may not prepare any of those six.** **And know what step 1 has just done, because this prompt does
+   not pretend otherwise: §6.4 names all seven of those words against all seven of those days, and `state/current.md`
+   carries the same seven in the same order, and neither of those files is a secret from you. Knowing is not
+   writing.** The six that are not yours are at zero across your ten days in every body, every mouth and every
+   heading, a chapter that prepares one is a fault of the chapter and not of the batch, and §6.4 rule (iv) does not
+   license one after its own day.
 4. **`state/volume-18-close.md`** — the fifty days behind you, its §1 for the calendar run, its §2 for what each
    thing was fixed to, its §5 for where every standing object stands at day 900, its §6 for the eighteen debts open
    at day 900 and its §6.1 for the eight things held in a file. **The bar on the top step, the second slate, the
@@ -80,7 +85,8 @@ not instrument in the same run.**
    surface in this manuscript until day 918, which is not your day.
 5. **The seven words, on the six days that are not theirs** — §6.4. **One of the seven is yours, on 905, and it is
    said once, in a mouth, and you print it once, and the other six are on no day of your ten in narration, in any
-   mouth, in any body and in any heading.**
+   mouth, in any body and in any heading.** **And the one that is yours on 905 is at zero again on 0906 to 0910** —
+   five days of yours in which it is an ordinary word of this world and is not printed once.
 6. **What is under the day cut across the head of the second slate** — §6.3. **You lift that slate on 908 and you
    print nothing about what is on it.**
 

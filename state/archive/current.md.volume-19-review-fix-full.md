@@ -3,39 +3,11 @@
 **This file carries where the work stands, what is on the tables and shelves, what a next writer must carry forward,
 and what is owed. It does not carry a list of things a phase did not do.**
 
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-19-review-fix-full.md`, verified by
-SHA256 against the live file before a single line of the repair pass was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT
-STOOD AFTER THE PHASE THAT PLANNED VOLUME 19 AND BEFORE THE REPAIR PASS THAT READ `logs/next-0005.review.log`. The copy
-that phase took, `state/archive/current.md.volume-19-outline-full.md`, and every earlier copy under this file's own
-name are still in `state/archive/` and were not disturbed. THE REPAIR PASS ADDED ITS OWN BLOCK BELOW THIS HEAD AND
-LEFT THE PLANNING PHASE'S BLOCK UNDER IT IN PLACE AND UNTOUCHED, SO THIS FILE IS LONGER THAN IT FOUND IT BY THAT BLOCK
-AND BY NOTHING ELSE, WHICH `reviews/volume-19/outline.md` explains.**
-
-# THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 19. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
-
-**THIS PASS READ `logs/next-0005.review.log` AND REPAIRED AGAINST IT, AND THE FILE OF RECORD IS
-`reviews/volume-19/outline.md`. The reviewer was not invoked — line 1 of that log reads `agent "novel-reviewer" is a
-subagent, not a primary agent. Falling back to default agent` — and this repair pass is the same agent kind that wrote
-the plan, so it declares that here rather than claiming an independence it does not have.**
-
-**WHAT MOVED, AND NO CHAPTER WAS TOUCHED BECAUSE THERE IS NO CHAPTER.** The phase under repair wrote a plan, ten cards
-and one prompt, and all three were re-read in full before a line of any of them was changed. **All six findings the
-review returned are repaired: a §19.2 cell that reported an all-nine-hundred count inside a subset column; a day-map
-cell at 0907 carrying another volume's business while the card and the prompt both carried this day's; three count
-words where the word and the printed list disagreed, on the heavy days, on the distinct pressure tags and on the row
-count of the pressure column; a claim that the card file names the seven words, which it does not and which this pass
-measured at zero for each of the seven, word-bounded on both case flags; and the volume list for those seven words,
-below, which was wrong in this file and in `state/continuity.md`.** Three more faults the review did not report are
-repaired too, and the file of record publishes all three: a fourth occurrence of that same wrong count word, on the
-recovery days; a four-digit day in a three-digit column at 0910, which stopped that map parsing as §19.3 says it
-parses; **and §6.4 rule (iv) as first worded, which licensed a writer to print a word after its own day, contradicted
-five other places in this repository, and opened on 0906 — inside the ten days of the next batch.**
-
-**THE PLOT DID NOT MOVE.** No day, weekday, Bare-Month ordinal, pressure tag, Adrian day, word-day, cost, decision,
-panel, act, resolution or last image moved; the twelve heavy days, the seven word-days and the eleven Adrian days stand
-where they stood; `outline/ending.md` was not opened; no controller file was opened; and no prompt and no directory was
-created. **The next phase is unchanged: `workspace/volume-19/batch-0001/PROMPT.md`, ten chapters, days 901 to 910.** The
-whole of what this pass touched is three files of the phase, two state files and one review record.
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-19-outline-full.md`, verified by SHA256
+against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THIS PASS
+WITHDREW EVERY CLOSED-BATCH AND CLOSED-REVIEW BLOCK IN IT AND WROTE ITS OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT
+WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER COPIES UNDER THIS FILE'S OWN NAME ARE
+STILL IN `state/archive/` AND WERE NOT DISTURBED. THIS PASS LEFT THE FILE SMALLER.**
 
 # THE PHASE THAT PLANNED VOLUME 19. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
 
@@ -68,7 +40,7 @@ Volume 18 spent a person and found that the cheapest instrument this world has f
 **Volume 19 spends a line.** Day 901 is a Saturday and BM 586 and day 950 is a Saturday and BM 635 and the two ends
 are forty-nine days apart, which is seven times seven, **so no middle day may be derived from either end.** Seven
 words — *crossing*, *witness*, *assembly*, *council*, *quorum*, *seal*, *charter*, which stand at zero on all nine
-hundred chapter files behind us except for low figures spread across Volumes 01 to 08, 12 and 15 and are on no surface
+hundred chapter files behind us except for low figures in Volumes 01, 02, 06, 08 and 15 and are on no surface
 anywhere — **come back one on each of days 905, 911, 916, 921, 925, 930 and 934, each said out loud once in a
 mouth, in daylight, with a date in chalk on the outside of the door behind the speaker, each preceded by the cost of
 saying it named out loud by the person who says it, unthanked, and at zero on the other forty-three days in
