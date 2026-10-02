@@ -19,14 +19,14 @@ prohibitions is yours.**
 |---|---|---|---|---|---|---|
 | **0891** | 891 | Wednesday | the five hundred and seventy-sixth day of the Bare Month | physical | — | one question answered twice in two different words |
 | 0892 | 892 | Thursday | the five hundred and seventy-seventh day of the Bare Month | discovery | — | a morning in which a thing said on Tuesday is said again on Thursday |
-| **0893** | 893 | **Friday** | the five hundred and seventy-eighth day of the Bare Month | recovery | **8** | **the resolution, and a question nobody in that room can answer** |
-| **0894** | 894 | Saturday | the five hundred and seventy-ninth day of the Bare Month | political | — | **a name said out loud in that room for a man from that side, and nobody thanked** |
+| **0893** | 893 | **Friday** | the five hundred and seventy-eighth day of the Bare Month | recovery | **8** | **the resolution: a question answered twice, and a question nobody in that room can answer** |
+| **0894** | 894 | Saturday | the five hundred and seventy-ninth day of the Bare Month | political | — | **a name said out loud in that room for a man from the other side, and nobody thanked** |
 | **0895** | 895 | Sunday | the five hundred and eightieth day of the Bare Month | character | — | **two people and a door down a stair and a third who stays** |
 | 0896 | 896 | Monday | the five hundred and eighty-first day of the Bare Month | political | — | the road at the top of the shut one and a gate and nobody on it |
 | 0897 | 897 | Tuesday | the five hundred and eighty-second day of the Bare Month | recovery | — | the flags drying and that room saying a thing about the weather |
 | **0898** | 898 | **Wednesday** | the five hundred and eighty-third day of the Bare Month | character | — | **the new question, asked to one man, not to the room, and not answered** |
 | **0899** | 899 | Thursday | the five hundred and eighty-fourth day of the Bare Month | physical | **9** | a stack carried in past a man and two boards off it on to the flags |
-| **0900** | 900 | **Friday** | the five hundred and eighty-fifth day of the Bare Month | recovery | — | **the last image: rain, a gate, ordinary people waiting under it, one child, one answer, and a woman with a book on the far side** |
+| **0900** | 900 | **Friday** | the five hundred and eighty-fifth day of the Bare Month | recovery | — | **the last image: rain, a gate, ordinary people waiting, one child, one answer, and a woman with a book on the far side** |
 
 **That table came out of `outline/volume-18.md` §14.3 and it is not to be amended. Day 891 is a Wednesday and day 900
 is a Friday, the two ends are not the same weekday, and no middle day is derived from either. Re-derive the run
@@ -277,7 +277,7 @@ room can read and he wanted to have said one question twice, published `no`. **N
 was right, nobody in that chapter is waiting for him to be useful and he is not useful to them.**
 
 **AND ON 894 AND 895 YOU ARE WRITING THE VOLUME'S LAST ENEMY AND HE IS NOT A MONSTER AND HE IS NOT A SYSTEM.** A name is
-said out loud in that room for a man from that side, by somebody who has been in the way of him, and nobody thanked. The
+said out loud in that room for a man from the other side, by somebody who has been in the way of him, and nobody thanked. The
 room decides nothing, two people each say one plain thing, and he goes down that stair with two of them and the third
 stays. **No chapter says he is forgiven and no chapter says he is condemned, and no chapter may hand him to one person
 or to one side, because the ending's condition on that is refused in the same breath it is paid. You are not given his

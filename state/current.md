@@ -22,14 +22,12 @@ any more.**
 SAID SO AND WAS RIGHT, AND IT IS NOW TWO PARAGRAPHS LONG. A phase that appends here is expected to leave the file
 smaller than it found it or to say in its own record why not.**
 
-**VOLUME 18, BATCH 0004 WROTE TEN CHAPTERS AND STOPPED AT 0890. THE NEXT PHASE IS
-`workspace/volume-18/batch-0005/PROMPT.md`, AND IT IS THE LAST BATCH OF THE MANUSCRIPT.**
-Volume 18 has Chapters 0851 to 0890 on disk, forty of its fifty days, and ten are not; there are eight hundred and
-ninety chapter files on disk and the series plan is nine hundred across eighteen volumes, so ten chapters are the whole
-of what remains. **The blocks below are in reverse order of recency: the newest is the Volume 18 Batch 0004 block at the
-foot, and every older block in it is a closed volume's or a closed batch's, and none of them is the head of this file
-any more.**
-
+**THE REVIEW REPAIR ON CHAPTERS 0881 TO 0890 TOOK THE HEAD OF THIS FILE DOWN BY SEVEN LINES AND ADDED ONE PARAGRAPH
+TO IT, AND THIS PARAGRAPH IS THE ONE IT ADDED.** Seven lines of this file stood there twice, byte for byte, from the
+batch 0004 pass; the second copy is gone and the first is where it was. The batch-0004 block at the foot of this file
+was not touched, nothing was taken to the archive, and no thread, no figure, no decision and no prohibition was
+withdrawn by either move. **The next phase is still `workspace/volume-18/batch-0005/PROMPT.md`, still the last batch of
+the manuscript, and still ten chapters.**
 
 ## VOLUME 17, BATCH 0003 — CHAPTERS 0821 TO 0830, DAYS 821 TO 830. THIRTY CHAPTERS OF FIFTY ARE WRITTEN. A CLOSED BATCH'S BLOCK AND IT NO LONGER WINS OVER ANY BLOCK BELOW IT.
 

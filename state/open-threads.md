@@ -309,3 +309,30 @@ stronger, and `outline/ending.md` unmoved.
 chapter of this volume has come down over eighteen volumes and is set at the outline layer; and the debts
 `outline/volume-18.md` §21.4 carries are not repaired by a batch, among them the fact that the named material of
 `outline/ending.md` is on no page of this volume.
+
+---
+
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0881 TO 0890 LEFT OPEN. NEWEST AND IT WINS.
+
+**THIS REPAIR CLOSED NOTHING AND OPENED NOTHING.** It fixed one identifier in one paragraph of one page, restored three
+cards to `outline/volume-18.md` §14.3, and removed a duplicated block from the head of `current.md`. **No thread of this
+layer moved and no standing prohibition was touched.**
+
+**THE THREE THINGS THE REVIEW NAMED AND THIS REPAIR DID NOT FIX ARE NAMED HERE AND NONE IS A THREAD.**
+
+1. **THE STOCK CLAUSES. These ten days lean harder on *the water stood flat in it every time* and *nobody asked him
+   anything* and their kin than the ten days before them, and the mean length of a chapter of this volume is at the
+   outline layer.** They are house voice and they stand identically at 871, 876 and 878, so this is not a regression
+   made by this batch and it is not a defect a repair pass should rewrite ten pages to answer. **It is the reader-facing
+   prose risk of this volume and it belongs to the outline layer, which set a card for a morning exactly like the one
+   before it and got a morning exactly like the one before it.** No word of it was touched and none should be.
+2. **`reviews/volume-18/` does not exist and no review of this batch has been filed to it.** The review ran and its
+   findings are in `logs/batch-0004.review.log`, and the dispatch fell back to the writer's own agent, which is the same
+   fault already named at item 7 above for the volume behind and at line 308 for the volume before that. **It was not
+   opened, created, edited or worked around, and a review directory is not a page.**
+3. **THE PANEL OF 886 AND THE THREE HELD WORDINGS OF 875, 878 AND 890 ARE STILL HELD AND STILL UNPRINTED ANYWHERE BUT
+   THEIR OWN PAGES.** The review verified the hold and this repair did not print one word of any of them.
+
+**AND THE THINGS A HUMAN OWES ARE UNCHANGED BY THIS REPAIR.** `state/phase-ledger.json` still reads `phase-000-bootstrap`;
+`outline/volume-03.md` and `outline/volume-05.md` have never existed; `NOVEL_SPEC.md`'s Status section is owed; and the
+named material of `outline/ending.md` is on no page of this volume, which is the last batch's work and not this one's.

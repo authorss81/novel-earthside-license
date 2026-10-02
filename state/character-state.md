@@ -429,3 +429,37 @@ This file was copied whole into `state/archive/character-state.md.volume-18-batc
 file by SHA256 before a line was removed, and the Volume 18 Batch 0003 block and the review-repair block on Chapters
 0871 to 0880 were replaced by this one. **No descriptor moved, no age moved, no name was given and no name was spoken,
 and no held wording was touched.**
+
+---
+
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0881 TO 0890 DID TO THE PEOPLE. NEWEST AND IT WINS.
+
+**THE REPAIR TOUCHED ONE PERSON'S HANDLE AND NOTHING ELSE ABOUT HIM.** No descriptor altered, no age moved, no trade
+changed, no second handle added or removed, and no name was given to anybody and no name was spoken in any mouth.
+**Nobody got stronger on any of these ten days, the consent fracture stays unmended, the fifth condition is not given,
+and the one milestone this volume pays is not un-paid and not re-costed.** Tamsin Quill is at zero across the ten days.
+
+**THE ONE IDENTIFIER THAT MOVED IS A HANDLE AND IT MOVED ONTO THE RULE.** The man who came up that stair on day 866 was
+identified in one paragraph of `chapter-0888.md` by a bare weekday, and that weekday bound to a Saturday he is not in.
+**§6.8(iii) has said since before this batch that the narration may carry his name from 879 onward and that the
+chapters are the only place it may be on a page at all, and 888 already carried it earlier in the same page.** The
+repair puts him on the page the way 879, 881, 882, 883, 884, 886, 889 and 090 already carry him, and the name is not
+printed in this block or in any state file.
+
+**THE FULL-AND-SHORT HANDLE RULE AT §17.9 IS UNTOUCHED AND IS STILL WHAT THE TEN DAYS RUN ON.** The long handles stand
+in the staging paragraphs, the short ones carry the rest of each page, no possessive is built off an approximation, and
+the one change this repair made to a handle moved a paragraph from a description onto the name the plan already allows
+and did not lengthen, shorten, vary or explain any other handle in any of the ten files.
+
+**THE NINE OTHERS STOOD EXACTLY WHERE THEY STOOD.** The keeper with her hand flat on the page and the second slate
+untouched. The stallholder with the rate wanting its day and the chalk where it is. The man of about thirty-four with
+his own board and the space on the face of it where a name is not. The man of about thirty-nine at the far end of the
+bench with a knot in the wood under his thumb. The man of about twenty-seven and his bucket and his rag and the crack
+out of the trough. The man of about thirty-one and a satchel that was not opened. The man of about thirty-eight and
+his barrow and his two lines of grey grit. The woman of about fifty-two with her hands at the sides of her dress. And
+the person on the step below the top one on 883, who is not given an age or a number or a name by this repair or by
+any of the ten files.
+
+**AND THIS REPAIR TOOK NO BLOCK TO THE ARCHIVE AND WITHDREW NOTHING.** It appended to this file and shortened the head of
+`current.md`, and `state/archive/character-state.md.volume-18-batch-0004-full.md` still stands as the whole of this file
+before this repair, verified by SHA256 when it was taken.

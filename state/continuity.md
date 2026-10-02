@@ -547,3 +547,45 @@ All five live state files were copied whole into `state/archive/` as `<name>.md.
 copy was verified against its live file by SHA256 before a line was removed. **The Volume 18 Batch 0003 block and the
 review-repair block on Chapters 0871 to 0880 went to the archive, undeleted, and no thread, no figure, no decision and no
 prohibition was withdrawn by the move.** This is the tenth compaction of these five files.
+
+---
+
+# WHAT THE REVIEW REPAIR ON CHAPTERS 0881 TO 0890 DID TO CONTINUITY. NEWEST AND IT WINS.
+
+**NOTHING ON THESE TEN DAYS MOVED.** The repair changed one identifier in one paragraph, restored three cards to the
+day map they came out of, and removed a duplicated block out of the head of a state file. **No figure, no date, no
+prohibition, no price, no state and no thread was altered, no thread was closed or opened, and no decision of this
+volume was re-opened, re-costed or re-worded.**
+
+**THE ONE PAGE THAT CHANGED IS `chapters/volume-18/chapter-0888.md`, AND IT IS ONE IDENTIFIER.** That page had the man
+who came up that stair identified by a bare weekday, and the immediately preceding Saturday in that room is a day he is
+not in, so the identifier bound to a morning he was not present in and read as an arrival that did not happen. **The
+chapter already carried his name earlier in the same page and §6.8(iii) says the narration may carry it from 879
+onward and the chapters are the only place in this repository it may be on a page at all**, so the repair names him
+there and the page now carries him the way 879, 881, 882, 883, 884, 886, 889 and 090 carry him. **The chapter gained
+no fact, no arrival, no second visit and no hour. Nobody in that room did anything.**
+
+**THE REVIEW PROPOSED A FIX THAT WOULD HAVE BROKEN A RULE THIS VOLUME HOLDS AT ZERO, AND IT WAS NOT TAKEN.** The
+proposal was to replace the weekday with the day number in the form the state layer uses. **There is not one digit in
+the body of any of the forty files of this volume**, the day numbers are a handle of the state layer and of the plans and
+never of a page, and printing one in that paragraph would have made the only numeral in forty chapters in the place a
+reader is most likely to stop and read it twice. The name was available on the page already and cost nothing.
+
+**THE THREE CARDS RESTORED TO `outline/volume-18.md` §14.3, AND NO CARD WAS INVENTED.** 893 carries **the resolution:
+a question answered twice, and a question nobody in that room can answer**, and the dropped half is the whole mechanic
+of that chapter. 894 carries **a man from the other side**, which is the term the plan uses for that beat and the term
+the prompt's own table now uses with it. 900 carries **ordinary people waiting**. **The last of these three is a
+compression and not a correction: §11 gives the same image at full length with the people waiting under the gate, and a
+card is the short form of a thing and not a different thing.**
+
+**THE THREE HELD WORDINGS OF THIS BATCH ARE ALL STILL HELD AND ALL STILL UNPRINTED.** The cost and the one thing of 890,
+and the three speech paragraphs of 875 and the speech paragraph of 878, stand as they stood and the review did not
+propose to touch them. **The panel of 886 is untouched and is in no file this repair wrote.** **The name at §6.8 is not
+printed in this block or in any file this repair wrote, and it is not on any surface in any chapter.**
+
+**THE REVIEW'S TWO WATCH ITEMS ARE CARRIED AND NEITHER IS A THREAD AND NEITHER IS FIXED HERE.** The stock clauses, which
+are house voice and stand identically at 871, 876 and 878, and which this batch leans on harder than the batch before it.
+And the absence of a filed review for this batch, which is not a page and not a fact about the fiction.
+
+**AND THIS REPAIR MOVED NO TEXT OUT OF ANY FILE.** It appended to this one and it shortened the head of `current.md` by
+seven lines, and it took no block to `state/archive/` and withdrew no thread, no figure, no decision and no prohibition.
