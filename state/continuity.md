@@ -233,3 +233,43 @@ book is not an eighth document and a chapter that calls it one has invented a th
 mile road and the town four hundred miles inland and the page a hundred and forty years old; and **the consent
 fracture, which is not mended, and the fifth condition, which is not given, and milestone ten, which is paid on day
 935 as a promise and is not a repair.**
+
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 901 TO 910 DID TO THIS FILE'S STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**This block is short on purpose and the reason is in the batch's own record. Ten chapters moved ten standing
+objects and none of them changed state; the figures for each are in `reviews/volume-19/batch-0001.md` §8, and
+repeating them here would make this file longer without making it more useful. The standing layer above is
+untouched and nothing in it is withdrawn.**
+
+**THE FOUR THINGS A NEXT WRITER CANNOT GET FROM ANY OTHER FILE.**
+
+1. **The register's column still holds five strokes and a day against each, none struck, and no sixth was entered
+   on any of the ten days. On 901 the rain got under the cover and the day against the topmost figure began to run
+   down the margin and stopped on the line, and the keeper has been working at the wet head of the page on 901, 905
+   and 910. The chapter prints the run and prints no figure.**
+2. **The second slate went back on its shelf on 908 and it is in front of the register, in the same place and the
+   same way up as it stood. It was the first hand on it since before this flood and it is the only hand of the ten
+   days that went near it. Nothing about what is on either face of it was printed and no mouth asked.**
+3. **The thread out of the crack in the near end of the trough changed its course on 909.** It went along the stone
+   lip of the step and off the end instead of into the low place in the yard, the low place went dry and pale with a
+   ring round where the water had stood, and it took the water back again before the light was off the flags. **No
+   heat was fetched on any of the ten days by any hand and the ice in the trough was not broken.**
+4. **The register is open on the bench at the near end at day 910, having come off the shelf about the tenth hour
+   on 908, and the dust on the shelf and on the bench holds a rectangle each and the one on the bench is longer by
+   about the length of a hand.**
+
+**AND THE THINGS THAT DID NOT MOVE AND THAT THE TEN DAYS DID NOT PRINT.** The bar is along the top step out of its
+two sockets. The bare piece of board under the date in chalk has nothing on it and nothing went under the date, and
+the woman of about fifty-two put her own hand on the wood of the door an inch to one side of it on 903 and took it
+off. The gate stands open and was not shut. The chalk is in the stallholder's inside breast pocket at every hour of
+all ten days and his hand went into the coat once, on 905, and came out with nothing in it. The space about two
+fingers wide on the tradesman's board is empty and was not printed, not explained, not asked about and not counted
+on any of the ten days. The satchel was not opened. The tally-board was face up on 902 and 907 and was not turned
+over. The fence was named on 907 alone and was not measured and no post moved. The length of new rope was not
+lifted. The two shapes in the dust of the sill are still two and were not dated on any of the ten days. About four
+people a day went past the foot of the stair in five of the ten bodies, always with the word *people* after it, and
+was never reduced and never used as a count of anybody. **The room was never counted and no mouth in it reached any
+number by any road, including on 910 where a question went round it for the better part of an hour.**

@@ -138,3 +138,54 @@ act and the resolution are on pages.**
 17. **AND THE THREAD THIS WHOLE PHASE EXISTS TO MOVE, WHICH IS A DEBT AND NOT A QUESTION: the passage of nine hundred
     and fifty days and eighteen volumes described in `NOVEL_SPEC.md` and `outline/series.md`, neither of which this
     phase opened.** Named at `outline/volume-19.md` §21.4 items 1 and 2.
+
+
+---
+
+# WHAT THE BATCH THAT WROTE DAYS 901 TO 910 DID TO THE THREADS. NEWEST AND IT WINS.
+
+**This batch closed no thread, answered no question, mended nothing and paid nothing but one cost, and the one cost
+was paid by the person it was paid to and nobody thanked her.** Every thread in the standing layer above stands.
+
+**1. THE NAMED MATERIAL OF `outline/ending.md` IS NOW ON TWO PAGES OF A VOLUME THAT IS BEING WRITTEN, AND THAT IS A
+STEP AND NOT A PAYMENT.** The first of the seven words of `outline/volume-19.md` §6.4 was said out loud once, in a
+mouth, in daylight, with a date in chalk on the outside of the door behind the speaker, on day 905, by the man of
+about thirty-four who keeps a stall two stalls along, after he had named the cost of saying it out loud in his own
+mouth. **Measured on the ten bodies and the ten headings: that word stands at one occurrence in one file and at zero
+in every heading, and the other six stand at zero in ten bodies and zero in ten headings.** **Nothing whatever was
+done about it at any hour of that day and nobody thanked him and nobody improved on one word of it.** **THE THREAD
+STAYS OPEN AND THE WORD ON 911 IS NOT PREPARED BY ANYTHING ON THESE TEN PAGES.**
+
+**2. THE SECOND SLATE HAS NOW BEEN TOUCHED AND IT IS STILL NOT PRINTED.** Open and carried whole. On 908 the woman
+of about twenty-nine who keeps a public register took it off the shelf behind the bench, carried it the length of the
+room, turned it over, looked at the back of it, turned it back the way it was and put it on the same shelf in the
+same place the same afternoon. **It is the first hand on that slate since before this flood. What is under the cut
+across the head of it is not printed, not asked about, not described, and the chapter that lifted it does not say
+what the day is.** Carried at `outline/volume-19.md` §§6.3 and 6.5.
+
+**3. THE THREAD OF DAY 898, THE TWELVE STANDING QUESTIONS, THE CONSENT FRACTURE, THE FIFTH CONDITION, THE MARK OF
+DAY 440, THE WORD IN THE COLUMN ON THE RIGHT OF THE KEEPER'S PAGE, THE FOUR UNMERGED PAIRS OF PEOPLE, THE MAN OF
+866 AND HIS NAME, THE STOOL, THE ROPE, THE FENCE, THE SATCHEL, THE TALLY-BOARD AND THE BARE BOARD** — all carried
+whole and all untouched. **On 910 a question went into that room in the ordinary course of an hour and did not get
+past the room and was not settled and nobody said out loud that it could not be, and no standing question was asked
+in any of the ten days and none was answered.**
+
+**4. THE SPACE ON THE MAN OF ABOUT THIRTY-NINE'S OWN BOARD.** Open, and it was neither printed nor explained nor
+asked about nor counted on any of the ten days, and no name went into it, and day 924 is the day a figure goes into
+it and nothing on these ten pages prepares that.
+
+**5. AND THE TWO NEW THREADS THESE TEN DAYS OPENED, BOTH OF THEM SMALL AND BOTH OF THEM ABOUT INSTRUMENTS.**
+
+- **THE WET HEAD OF THE REGISTER'S PAGE.** The day against the topmost of the five figures has begun to run down the
+  margin. A page in this world is not a durable instrument and this is the first time a page has been shown
+  damaging itself on the page. **What it runs to, and whether the day against it can ever be read again, and whether
+  anybody writes it out again in another hand, are not decided on any of these ten days and no chapter of the ten
+  treats it as a thing to be fixed.**
+- **THE CHANGE OF COURSE OF THE THREAD OUT OF THE CRACK IN THE TROUGH ON 909.** It went along the lip of the step
+  and off the end instead of into the low place in the yard, and the low place went dry and pale. **No heat was
+  fetched and no chapter of the ten says what it means and the water took the low place back again before the light
+  was off the flags.**
+
+**6. AND THE THREE FIGURES THAT STAND AND THAT NOBODY MAY ARGUE DOWN.** **The register has five strokes and no
+sixth. The bar has lain along that top step for every morning of these ten days and nobody put it back and nobody
+lifted it. The second slate stands on its shelf in the place it stood.**

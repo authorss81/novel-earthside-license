@@ -1,0 +1,27 @@
+# Chapter 0909 — The Clean Stripe In The Dust
+
+The flat of a hand lay along the end of the shelf at the height of a person's shoulder and rested there, and the hand was not on the book that stood in front of the second slate on the shelf and it was not on the slate behind the book.
+
+It was Sunday, the five hundred and ninety-fourth day of the Bare Month. The hard had gone off in the night and the water was coming back up out of the seams of the flags in thin lines again, and the trough at the top of the market step had gone from standing ice to running water in about two hours. The register stood on the shelf behind the bench and the second slate stood on the same shelf behind the book, turned away from the room, with a cut across the head of it. On the step below the door at the foot of the stair at the back of the store the box of chalk had its lid standing off it at one corner in the wet.
+
+The man of about twenty-seven stood by the leg of the table with the bucket on the stone at his feet and the rag folded over the rim of it. The man of about thirty-nine who trades on a board had the far end of the bench to himself with his own two hands down on the wood and the knot in it under his right thumb. The man of about thirty-four who keeps a stall two stalls along had his board on his knees at the middle of that bench, bare side out. Against the near wall the man of about thirty-one who carries things for a living stood with the satchel held against his ribs. The keeper was at the near end of the bench with her own hand flat on the register. The woman of about fifty-two stood against the wall with her hands at the sides of her dress, with the stool she had carried out of a room a year ago left against the wood at a foot's reach from her and nobody sitting on it at any hour of that morning. That room was full and most of what was in it was standing, and nobody in it looked at the shelf at any hour of the morning except the two people at it.
+
+---
+
+Adrian Vale stood at the shelf with his own hand along the end of it for the better part of a quarter of an hour and did not go round the end of the bench to get at what was behind the book. There was one thing he wanted and it was for somebody else to lift the slate off the shelf, and there was no way of putting that to a woman who kept a book on a Sunday morning without it being a thing asked, and he did not ask. He had wanted it so his own hand could go flat on the slate and learn nothing whatever from it, and standing at the shelf with his own hand on the edge of it he could not get his hand that far, and the edge of the shelf was the whole of the morning he got. At about the seventh hour he took his hand off it and went and stood at the far end of the bench, and the slate was where it had been and had not been touched.
+
+Nobody thanked him and nobody told him he was right, and nobody in the room was waiting for him to be useful and he was not useful to them. The keeper worked her way along the open page with her own hand flat on it and turned a leaf and squared it against the fold. The man of about thirty-nine who trades on a board eased his thumb along the grain of the bench and looked out of the one window at the boards standing on the trestles. The man of about twenty-seven carried the bucket down and up twice and the water stood flat in it both times. The man of about thirty-four who keeps a stall two stalls along got his own thumb to the foot of his own board, where the rate wanted its day, and left it there.
+
+At about the ninth hour the woman of about twenty-nine who keeps a public register got up off the bench, went along it to the shelf and put her own hand on the register to draw it toward her, and then ran the sleeve of her own coat along the top of the shelf for the length of her arm and stopped with her face turned away from the shelf. The sleeve came away with a clean stripe in the dust on it about the width of four fingers, and she looked at the stripe for a moment and put the register down on the bench in front of her and went on with the page.
+
+---
+
+**"The thread out of the near end of the trough has gone along the lip of the step and off the end of it,"** said the woman of about fifty-two, who was down at the step with a hand flat on the stone, **"and it has not gone into the low place in the yard the way it has gone every morning of this flood, and the low place has gone dry and pale and there is a ring of it round where the water used to stand in it."**
+
+**"It will find it again when the cold comes back into the stone,"** said the woman of about twenty-nine who keeps a public register, without lifting her hand off the page.
+
+**"It will find it again and it will go on finding it every day, and nobody in this room has fetched a heat for the trough and I am not going to ask anybody in this room for one,"** said the woman of about fifty-two, and put her other hand at the side of her dress and stayed at the step.
+
+---
+
+The low place in the stone at the side of the yard had taken the first of the thread off the end of the step before the light was off the flags, and inside the ring of pale stone there was a mark the width of a thumb and about as long as a hand, dark in the middle and going pale at its two ends, and the woman of about fifty-two stood at the step looking down at it with her hands at the sides of her dress and the water running past the toe of one of her boots.

@@ -1,0 +1,23 @@
+# Chapter 0907 — Every Board Wet Underneath
+
+Two hands went onto the near end of a stack of boards standing in the yard at the store and went along that end of it looking for a place where the wood was not wet, and the near end they were on was wet through, and the hands came off it before they had got to the middle of the stack.
+
+It was Friday, the five hundred and ninety-second day of the Bare Month. The night had gone hard and dry with no wind in it, and the ground in the yard had been walked on while it was soft and had gone hard on the top of it with the water still standing underneath, so that the flags at the side of the yard showed two hollows in them, one of them with its crack gone wider across the skin of it and one of them with pale grit in it and nothing broken anywhere. The store door at the back of the yard stood open and nothing went through it the morning.
+
+The man of about thirty-eight at that salt wharf was at the near end of the stack with the knife in his belt and the tally-board standing face up on the top of it with its two lines of grey grit lying across it. At the mouth of the yard the man of about sixty stood with his handcart behind him and the hazel mallet lying in the bed of it with the head of the mallet bound in cord, and a coil of rope used and dark with the cold lying beside the mallet. He had put the fence up out past the last named house, and it was sixteen willow posts and eleven withies along the top of a shut road, and none of them had moved, and he had not come out with a barrow.
+
+---
+
+The work was to get the wet boards off the bottom of the stack, and the work did not come out. The man of about thirty-eight at that salt wharf went at the stack board by board from the top, taking the top one off and setting it on the dry stone along the wall, and under every board he took off there was another one with its underside wet and its top dry, and the wet on the underside of each one had come up out of the ground the stack was standing on. He went on doing it. There was a rhythm in it that anybody could have watched and set a clock by, and the pile of boards on the stone by the wall grew at the same rate all morning while the stack on the ground did not get any lower in the way he wanted it to. He turned the boards over as he took them off so their wet faces were up and let them lie, and the wet went into the stone under them and came out again on the underside within the hour.
+
+**"There is water coming up through the ground under the near end of the stack and it has been coming up through the same ground since before the frost,"** said the man of about thirty-eight at that salt wharf, straightening up at the middle of the stack, **"and every board I have off the top of it has had a wet one under it, and I will be here for the wet ones as well tomorrow."**
+
+**"Then the stack wants moving and the ground it stands on wants drying, and a handcart will not do a stack while the ground is like that,"** said the man of about sixty, at the mouth of the yard with his hand on the shaft of the cart.
+
+**"The stack can stand where it is,"** said the man of about thirty-eight, going at the top of it again, **"and the boards that are wet will be dry by tomorrow, and the ones under them will be wet, and that is the whole of what this stack is."**
+
+The man of about sixty stood where he had stood all morning and did not load the cart and did not go away. He had come out with the cart at the fourth hour because there was a stack at the near end of the yard and a handcart in his own yard and the two of them belonged to the same morning, and he knew before he had got to the mouth of it that he would be taking an empty cart back. He tightened the cord on the head of the mallet with his teeth and his one free hand, and put his hand flat on the shaft of the cart and left it there, and he did not ask the man of about thirty-eight at that salt wharf for one thing to do and he did not ask him what the work was for. The man at the middle of the stack neither asked the man at the mouth of the yard to go away nor looked at him while he was standing there.
+
+---
+
+At the light's going the boards he had taken off lay in a row along the wall of the yard with their wet faces up and their edges gone the colour of dry wood, and one of them at the end of the row had lifted at its near corner where the day had got under it, and the grit that had been lying against the underside of it had come out onto the stone in a line the width of a finger. The man of about sixty took the handcart back the way he had brought it with the mallet lying in the bed of it and did not take a board.

@@ -117,3 +117,68 @@ days 901 to 910, from a Saturday to a Monday. It reaches the first cost on day 9
 the second slate on day 908, and **it does not reach the second word on 911 and may not prepare it.** It decides
 nothing, invents no person, takes no descriptor, sends no notice and writes no document. **No other batch directory
 was created and no `.done` or `.checkpoint` file was created or removed.**
+
+
+---
+
+# THE BATCH THAT WROTE CHAPTERS 0901 TO 0910, DAYS 901 TO 910. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
+
+**TEN CHAPTERS EXIST. The manuscript is at nine hundred and ten chapters and nineteen volumes and no chapter past
+0910 exists.** The file of record for this batch is `reviews/volume-19/batch-0001.md`, which carries every figure with
+its instrument, its scope and its reading, and `state/batch-summaries/volume-19-batch-0001.md` is its index.
+
+**WHAT THE TEN DAYS REACHED AND WHAT THEY DID NOT.** **They reached the volume's first cost on 903 and the volume's
+first of the seven words on 905 and the second slate on 908, and nothing else of Volume 19. They did not reach the
+second word, which belongs to day 911, and they printed nothing that could be read as preparing it.** Nothing was
+decided, no person was invented, no descriptor taken, no place named, no notice written, no document sent, and the
+wall said nothing on all ten days.
+
+**THE FIGURES IN ONE LINE.** 10,434 words across the ten bodies, mean 1043.4, 906 to 1292; 105 paragraphs and 33
+speech paragraphs; 102 bold marks and 102 quotation marks with zero and zero for the two faults; zero panels; zero
+digits in bodies; titles four to eight words of title text; longest run shared by any two bodies 16, by any two
+closings 8, inside one body 13; zero repeated sentences of 38 characters or more; `nobody` 21 in eight files with a
+longest sentence-initial run of one; chapter equals day, weekday and Bare-Month ordinal 10 of 10 on a run derived
+from day 1 being a Tuesday and the ordinal being day less 315. **`passage` and `privilege` at 0. Adrian Vale in two of
+the ten and in eight he is not in. The seven words: one at 1 in 1 file and 0 in every heading, six at 0 in ten bodies
+and 0 in ten headings.**
+
+**THE FOUR HELD STRINGS.** None is printed on any of the ten pages and none is printed in the state layer, the batch
+record or the summary. **Measured: the decision's wording, its cost, the panel and the three wordings of day 940 each
+return at 0 across the eighteen files searched, and across 1,445 tracked and untracked files the four spans are on
+`outline/volume-19.md` alone.** **For the name held at `outline/volume-18.md` §6.8 no count is published and no
+absence is certified, because no honest instrument could be built for it without printing it; what is measured
+instead is that the ten bodies of this batch introduce no proper name of any kind, and the reason is published with
+its own instrument in `reviews/volume-19/batch-0001.md` §12, which also publishes the two attempts that failed and
+were discarded rather than offered as figures.**
+
+**WHERE EVERYTHING STANDS AT DAY 910.** The register is open on the bench at the near end with five strokes in the
+column and a day against each and no sixth, and the day against the topmost figure has begun to run down the margin
+where the rain got in on 901. The second slate is on the shelf behind the bench in front of the register, in the
+place it stood, turned over once on 908 and put back the same afternoon. The bar is along the top step out of its
+two sockets. The bare piece of board under the date in chalk has nothing on it and nothing went under the date. The
+gate stands open. The chalk is in the stallholder's inside breast pocket. The space on the tradesman's board is
+empty and was not printed. The satchel has not been opened. The tally-board is face up. The trough has had no heat.
+The stool is where the woman of about fifty-two left it. The two shapes in the sill's dust are undated. About four
+people a day went past the foot of that stair and was never reduced. **The room was never counted.**
+
+**MUST CARRY INTO THE NEXT BATCH.** Day 911 is a Tuesday and the five hundred and ninety-sixth day of the Bare
+Month, and the second word of `outline/volume-19.md` §6.4 belongs to it, said by the woman of about twenty-nine who
+keeps a public register, with her own cost named out loud first, and **nothing in these ten days prepares it**. The
+sixth stroke in the register is 918's and not this batch's. The figure in the space on that board is 924's. The
+decision about a second book is 925's. The panel is 929's. The act is 940's. The resolution is 943's. The one mark on
+the bare board is 950's.
+
+**OWED, AND BY WHOM, UNCHANGED BY THIS BATCH.** `outline/series.md` carries no Volume 19 and no decisions-of-record
+block for Volume 18 or 19. `NOVEL_SPEC.md`'s Status section is stale. `bible/power-system.md` has no §65 and no §66.
+The calendar fault at `chapters/volume-18/chapter-0864.md:5` is owed by a phase that writes chapters and is still
+unrepaired. `outline/volume-03.md` does not exist. `reviews/volume-16/` does not exist, **so every finding ever
+taken over this manuscript has been taken by the agent kind that wrote it, and the ten days behind this block are
+no exception and are not pretended to be one.** `state/phase-ledger.json` still reads `phase-000-bootstrap`.
+**All of these are at `outline/volume-19.md` §21.4 and this batch opened none of the files.**
+
+**THE NEXT PHASE IS `workspace/volume-19/batch-0002/` AND IT DOES NOT EXIST AND THIS BATCH DID NOT CREATE IT AND
+WROTE NO PROMPT FOR IT AND DRAFTED NO CARDS FOR IT.** The reason is published at `reviews/volume-19/batch-0001.md`
+§13: `AGENTS.md` asks a finished batch to create one next batch directory, and this phase's own instruction forbids
+it in four places and names this run specifically, **and a specific instruction about a named run governs over a
+general one in a file the phase prompt also forbids opening.** This block names the next phase and writes nothing
+else about it.

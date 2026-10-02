@@ -205,3 +205,87 @@ fracture is not mended.**
 **AND NO NEW PERSON APPEARS IN VOLUME 19 AND NO DESCRIPTOR IS TAKEN FROM THE POOL AT `outline/volume-19.md` §19.4,
 WHICH IS THE FIFTH VOLUME RUNNING A NEW PERSON HAS BEEN GIVEN NO AGE. Seven places, about eleven standing figures and
 two books, and the plan does not need the pool.**
+
+
+---
+
+# WHAT THE BATCH THAT WROTE DAYS 901 TO 910 DID TO THE PEOPLE. NEWEST AND IT WINS.
+
+**No person was invented, no descriptor taken, no age given, no handle changed, no second handle added and no two
+people merged. The standing layer above stands.**
+
+**ADRIAN VALE IS IN TWO OF THE TEN AND IN NONE OF THE OTHER EIGHT, and the literal string measures five occurrences in
+two files.** His hands are on the sill and its two shapes on 903 and on the edge of the shelf the slate stands on
+without touching the slate on 909, exactly as `outline/volume-19.md` §4.1 fixes them, and **both are not obtained.**
+On 903 the man of about twenty-seven's rag went along the sill, stopped at his hand, went along it again on the near
+side and stopped again at the same place, wiped the rest and left that end of the dust standing exactly as it was,
+and came back once with the dry end and did not reach the near end. On 909 his own hand lay along the end of the
+shelf for the better part of a quarter of an hour and the thing he wanted was for somebody else to lift the slate
+off that shelf and he did not ask, and about two hours later the keeper ran her own sleeve along the top of that
+shelf and it came away with a clean stripe in the dust about the width of four fingers and she looked at it and went
+on with her page. **Nobody thanked him on either day, nobody told him he was right on either day, and nobody in
+either chapter was waiting for him to be useful and he was not useful to them.** Stage 2 on all ten days; measured,
+`stage`, `stronger`, `power`, `workway`, `threshold`, `permission`, `passage` and `privilege` at 0 across the ten
+bodies.
+
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER. She paid no cost on any of these ten days; the first
+cost of the volume was paid on 903 by the woman of about fifty-two and not by her.** She carried the second slate the
+length of the room and turned it over on 908 and put it back the same afternoon, and she said one thing about having
+had a hand on it and asked for no questions and nobody asked her one. On 901, 905
+and 910 she worked at the wet head of her own page. **On 910 the question went into the room and she was not asked.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG.** **On 905 he said the first of the seven words
+out loud in that room, in daylight, with the date in chalk on the outside of the door behind him, after naming the
+cost of saying it in his own mouth, and he was thanked for neither, and the word is at zero on every one of the
+other nine days of this batch in narration and in every mouth.** His chalk is in his inside breast pocket at every
+hour of all ten days: his hand went into the coat once, on 905, and came out with nothing in it and nobody remarked
+on it. His own board stood face in against his own trestle with the bare back out on every day of the ten and the
+rate at its foot wanted its day on every one of them and got none. **His descriptor is one of two people in this
+repository and no chapter of days 901 to 910 put the two in one room.**
+
+**THE WOMAN OF ABOUT FIFTY-TWO. She paid the first cost of this volume on 903**, in her own mouth, as the first
+speech paragraph of the chapter, into the middle of the floor and not to anybody, and she said it once and did not
+say it again at any hour of the day, and nobody answered it and nobody thanked her and nothing was done about it.
+Her stool is named on 909 and nobody sits on it and no chapter of the ten says why it went out of its corner or why
+it came out. At 910 she said she had been up that stair every morning of the week and had not gone up the row. **She
+is thanked for none of it.**
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD.** On 904 he held the far edge of the open book with both
+hands for the length of a morning while the keeper held the near edge, neither let go, and he looked at the head of
+the second slate from where he sat and did not go round the bench to get at it and asked nobody one thing about what
+stood at the back of that shelf. **His discovery was that the dust on the shelf has one strip gone out of it and not
+two.** He went down to his row at the ninth hour on 904 and at the sixth hour and the ninth hour on 906 and left his
+board standing out in the open and never turned it. **The space on it was not printed and not asked about and no
+name went into it on any of the ten days.**
+
+**THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING.** He walked out along the shut road alone on 902, to
+a far end where the metalling goes under the grass and there is nothing but the end of it, and on the way back got
+down on his knees at the gate and put his own hands into the two worn places in the stone, and told the man of about
+thirty-eight at that salt wharf that there is nothing on the stone that would tell anybody anything. **On 910 he was
+in that room, he put the question into it himself, nobody in the room put it to him, he had walked out there on the
+Sunday morning and said no word about it, and at the ninth hour he said one thing and stopped.** The satchel was not
+opened on any of the ten days and no chapter of the ten says why he opens nothing he carries.
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THAT SALT WHARF.** On 902 he loaded the barrow at the tenth hour and went out
+of the yard and up the market row with the tally-board still face up on the frame and its two lines of grey grit not
+broken. On 907 he went at a stack of boards board by board all morning and the work did not come out. **The tally-board
+was not turned over on any of the ten days and its two lines of grey grit were not counted as figures.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN.** His bucket and his rag were in that room on every day of the ten and the rag did
+the batch's one piece of blocked work, on 903, going round Adrian Vale's hand on the sill and stopping, and what that
+cost him is in his own hands when he wrings the rag out over the sill and the water goes over the edge and down onto
+the stone. **No heat was fetched for the trough on any of the ten days and the ice in it was not broken.**
+
+**THE MAN OF ABOUT SIXTY.** On 907 he stood at the mouth of a yard with an empty handcart all morning, asked for
+nothing, was sent for nothing, and took the cart back with the mallet lying in the bed of it and did not take a
+board. **His fence was named on that day alone and was not measured and no post moved and no withy went on or came
+off.**
+
+**THE MAN WHO CAME UP THAT STAIR ON 866 IS ON NONE OF THESE TEN PAGES.** Measured: the plan's own descriptor and the
+held name both return at nothing across the ten bodies, and the only proper noun on any of these ten pages is
+Adrian Vale's.
+
+**THE WOMAN OF ABOUT SIXTY-NINE WITH HER TIN, THE MAN OF ABOUT FIFTY-SEVEN, THE WOMAN OF ABOUT FIFTY-FOUR AND TAMSIN
+QUILL** are on none of these ten pages and were asked nothing and none of them was brought up that stair. **The two
+women of twenty-nine, the two men of about thirty-eight and the two stallholders of about thirty-four were never
+merged and never settled in any of the ten.**
