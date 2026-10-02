@@ -73,7 +73,7 @@ and nothing settles whether they are one woman. The two men of about thirty-eigh
 merges them or settles them in narration. **The stallholder of about thirty-four is two people in this
 repository and no page has ever said so, and no chapter of this volume puts the two in one room, asks either
 about the other, or uses a descriptor that settles it.** Tamsin Quill is not in this volume's rooms and no
-chapter may pay a milestone with her or without her. **Adrian Vale is in five chapters and he is not in the
+chapter may pay a milestone with her or without her. **Adrian Vale is in four chapters and he is not in the
 room on any of the last seven mornings of the volume, and the reason is on a page and is not printed, and no
 chapter may say what the reason was.**
 
@@ -85,22 +85,23 @@ chapter may say what the reason was.**
 not named once across the fifty files, nobody offers him a workway and he asks for none, and he is aged
 nowhere. `passage` and `privilege` are to be at zero across these fifty files.
 
-### 4.1 THE FIVE, AND WHAT THIS VOLUME'S FIVE DAYS ARE
+### 4.1 THE FOUR, AND WHAT THIS VOLUME'S FOUR DAYS ARE
 
-**Five chapters, and he is in none of the volume's heavy days: not 813, not 825, not 826, not 837, not 840, not
-845, not 848 and not 850.** Four of the five fail and the fifth is not a physical business at all.
+**Four chapters, and he is in none of the volume's heavy days: not 813, not 825, not 826, not 837, not 840, not
+845, not 846, not 848 and not 850.** Three of the four fail and the fourth is not a physical business at all.
+**Day 846 is named in that row and not by accident: it is one of the seven mornings of §6.9 and he is not in it.**
 
 **THE RULE ABOUT HIS HANDS STANDS AND THE SECOND CLAUSE IS CARRIED WHOLE: a card may not put him in a chapter
 unless the card names the thing his hands are on AND WHAT HE WANTED THE THING FOR, and a card that cannot name
 the second may use him once in a batch and not twice.** **Every card this batch writes must be able to name
-both, and the plan below publishes all five in advance so that the batch is handed an input that is closed.**
+both, and the plan below publishes all four in advance so that the batch is handed an input that is closed.**
 
-**The five, and what he got, published here so that a card may only take from this table.** The volume behind
-this one obtained four of its thirteen and did not obtain nine; **this volume obtains none of its five and does
-not obtain five, and the number is a consequence of what these fifty days are and not a target, this plan does
-not set it, and no reviewer may read the five as the volume getting worse.** In all five he is the cause of at
+**The four, and what he got, published here so that a card may only take from this table.** The volume behind
+this one obtained four of its thirteen and did not obtain nine; **this volume obtains none of its four and does
+not obtain four, and the number is a consequence of what these fifty days are and not a target, this plan does
+not set it, and no reviewer may read the four as the volume getting worse.** In all four he is the cause of at
 least one thing that happens to somebody else, nobody thanks him, nobody tells him he was right, and nobody in
-any of the five is waiting for him to be useful and he is not useful to them.
+any of the four is waiting for him to be useful and he is not useful to them.
 
 | Ch | Day | His hands are on | What he wanted the thing for | Obtained |
 |---|---|---|---|---|
@@ -108,9 +109,18 @@ any of the five is waiting for him to be useful and he is not useful to them.
 | 0822 | 822 | the water standing in a hollow of the flags at the side of a yard | to have that hollow dry before a barrow came down it | no |
 | 0831 | 831 | the flat of a store door at a wharf | to have that door propped so a stack could be carried in out of the weather | no |
 | 0843 | 843 | nothing that is on a page | to have said one thing out loud in a room and been let go of afterwards | no |
-| 0846 | 846 | a bar lying on a top step | to have it out of the weather and out of the way of feet | no |
 
-**AND THE FIFTH IS THE VOLUME'S ONE ACT AND IS NOT A PHYSICAL BUSINESS, AND A CARD MAY NOT REPLACE IT WITH ONE.**
+**DAY 846 WAS IN THIS TABLE AND IS NOT ANY MORE, AND THE REASON IS THE SEVEN MORNINGS AND NOT A TASTE.** The
+day map below used to close §4.1 at 0846, and §5 used to say that the bar is in a hand on that morning only,
+and both were wrong against §3, §6.9 and §9 item 9, which all carry the act `outline/ending.md` reserves to this
+volume and all of which put day 846 inside the seven mornings after the tenth hour of day 843. **The act wins
+and the count follows it: Adrian Vale is in four chapters and not in five, and a card may not take a fifth from
+anywhere, because 841, 842 and 843 are written and he is in one of them and 844 to 850 are the seven mornings.**
+**AND THE DAY'S BUSINESS IS NOT AFFECTED BY ANY OF IT: on 0846 a hand is still put on the bar on the top step and
+it is still not got up, and the hand is the man of about thirty-eight at a salt wharf, who has a barrow he
+cannot get past it and has never been asked anything in this volume and is asked nothing on that morning.**
+
+**AND THE FOURTH IS THE VOLUME'S ONE ACT AND IS NOT A PHYSICAL BUSINESS, AND A CARD MAY NOT REPLACE IT WITH ONE.**
 On day 843 he comes up that stair and says the cost out loud first, in his own words, and then says one thing
 once, and the chapter does not print the wording of either, and after the tenth hour he goes down that stair
 and is not on it again on any morning of the seven that follow. §6.9 holds both wordings and no chapter holds
@@ -132,7 +142,10 @@ all and its meaning is spent and is not spent again.**
 
 **The top step of that stair**, which is not the bottom step, and where the bar lies from page one of this
 volume. **The bar is not on a shelf and is not in a room and is not in anybody's hand on any of the fifty
-days, and no chapter of this volume puts it in a hand except on day 846, and day 846 does not obtain it.**
+days, and no chapter of this volume puts it in a hand except on days 846 and 850, which are the last image and
+the morning before it, and on neither of the two is it got up out of the weather and on neither of the two is
+it in its sockets at the end of that day.** The two hands are two different men's and a chapter may not put them
+in one morning and may not say they are the same hand.
 
 **The strip of ground at the foot of that stair**, from the bottom step to wherever the paving gives out. About
 four people a day. Never measured, never cleared, never paved over, never widened, never narrowed, and no
@@ -384,7 +397,7 @@ but the one, and no number printed on any page.**
 - **Tamsin Quill.** A folded sheet of road with about nine places on it, folded the same way every time. She is
   not in this volume's rooms and no relationship milestone is paid and the consent fracture stays unmended and
   the fifth condition is not given.
-- **Adrian Vale.** Stage 2, five chapters, §4.1, and absent from that room for the last seven mornings of the
+- **Adrian Vale.** Stage 2, four chapters, §4.1, and absent from that room for the last seven mornings of the
   volume for the reason at §6.9.
 
 ---
@@ -548,7 +561,7 @@ a person, who says the cost out loud first and is refused by somebody before she
 days 801 to 850 may use an ordinal for a month.** The only two instruments a chapter has for a date are a
 count of days of this flood and a day of the Bare Month with its own form.
 
-### 14.3 The day map, days 801 to 850, and the five, and the two columns that are part of the map
+### 14.3 The day map, days 801 to 850, and the four, and the two columns that are part of the map
 
 | Ch | Day | Weekday | Month day | Pressure | Adrian | The day's own business |
 |---|---|---|---|---|---|---|
@@ -597,7 +610,7 @@ count of days of this flood and a day of the Bare Month with its own form.
 | **0843** | 843 | Thursday | **BM 528** | character | **4** | **the cost named first, and then one thing, once, and neither printed, and the seventh morning without him** |
 | 0844 | 844 | Friday | BM 529 | political | — | a door with nobody coming up it for a whole morning |
 | **0845** | 845 | **Saturday** | **BM 530** | **recovery** | — | **the resolution: one question and one morning in an answer and no thanks** |
-| **0846** | 846 | Sunday | BM 531 | physical | **5** | a bar on a top step and a hand on it and it not being got up |
+| **0846** | 846 | Sunday | BM 531 | physical | — | a bar on a top step and a hand on it and it not being got up, **and the hand is not his** |
 | 0847 | 847 | Monday | BM 532 | physical | — | rain in a stairwell and the bottom step shining and a bar above it |
 | **0848** | 848 | **Tuesday** | **BM 533** | character | — | **the new question, asked to one man, not the room, and not answered** |
 | 0849 | 849 | Wednesday | BM 534 | recovery | — | a morning in which the room says a thing about the weather and nothing else |
@@ -887,11 +900,11 @@ THIS volume, and four are new, and they are items 1, 3, 14 and 18 and each is ma
     and what it used to be; (iv) may not close on the bar; (v) may not close on the sockets; (vi) may not close
     on a page that says a number.**
 19. **AND THE ONE THAT IS ABOUT THE PROTAGONIST.** **"Nobody asks him anything" is the pressure of this volume
-    and it is not the reward.** In each of the five chapters Adrian Vale is in he must be the cause of at least
+    and it is not the reward.** In each of the four chapters Adrian Vale is in he must be the cause of at least
     one thing that happens to somebody else. **The consequence may not be a decision, may not be a word, may not
     be a document, may not be a notice and may not be the panel. Nobody thanks him. Nobody tells him he was right.
     Nobody in that chapter is waiting for him to be useful and he is not useful to them.** §4.1 publishes the
-    want and the outcome for each of the five and a card supplies none of the three and may only take them.
+    want and the outcome for each of the four and a card supplies none of the three and may only take them.
     **AND ON DAY 843 THE THING HE IS THE CAUSE OF IS A ROOM GOING ON, AND NO CHAPTER MAY SAY SO.**
 20. **AND THE ONE THAT IS ABOUT PARAGRAPH SHAPE.** A single-sentence paragraph is a legal shape in three distinct
     cases and they must be counted apart: a speech paragraph; a speech-attribution lead-in, being a one-sentence
@@ -1086,7 +1099,9 @@ they were in Volume 09 and are not available.**
 8. **No title outside four to nine words of title text.**
 9. **The four figures this phase carried and did not settle, published here so that a later phase may not inherit
    them silently: the pressure column's day-840 tag is `cost` and is also the day whose ordinal is a multiple of
-   twenty-five; the plan's own §4.1 is five and `outline/series.md`'s Volume 17 line is struck; the panel is
+   twenty-five; the plan's own §4.1 stood at five and has been amended down to four, with the amendment and its
+   reason printed at §4.1 and the first edition of the row still standing in that file's own words, and
+   `outline/series.md`'s Volume 17 line is struck; the panel is
    printed on its page and this is a divergence from Volume 16 published at §6.7; and the day 843 wording is in
    this file at §6.9 and is on no page.**
 9a. **AND ONE FIGURE OF THIS PLAN'S OWN THAT DID NOT REPRODUCE, RE-MEASURED AND CORRECTED IN PLACE, WITH THE FIRST

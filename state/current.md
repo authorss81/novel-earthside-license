@@ -56,9 +56,10 @@ PHASE.**
 **THE PLAN IS `outline/volume-17.md`, WHICH CARRIES NO NAME, and it is read before this file. THE LINE
 IS A PIECE OF IRON IN TWO SOCKETS ON A TOP STEP.** On day 801 the bar at the foot of that stair is out
 of its sockets and lying on the top step, and on day 850 it is still there, and fifty days is the whole
-of what this volume knows about it. **ON ALL FORTY DAYS WRITTEN SO FAR NO CHAPTER HAS PUT THE BAR IN A
-HAND, PRINTED WHOSE HAND WOULD, SAID ANYTHING ABOUT THE MORNING IT CAME OUT OF ITS SOCKETS, AND NO MOUTH IN
-THAT ROOM HAS SAID A FIGURE.**
+of what this volume knows about it. **ON ALL FORTY DAYS THAT WERE ON DISK WHEN THIS BLOCK WAS WRITTEN NO CHAPTER HAD PUT THE BAR IN A HAND.
+ON ALL FIFTY THAT ARE NOW ON DISK, TWO HAVE, ON DAY 846 AND ON DAY 850, AND ON NEITHER OF THE TWO WAS IT
+GOT UP: PRINTED NEITHER HANDS, SAID ANYTHING ABOUT THE MORNING IT CAME OUT OF ITS SOCKETS, OR SAID A
+FIGURE, AND NO MOUTH IN THAT ROOM HAS SAID A FIGURE.**
 
 **THE VOLUME'S ONE DECISION IS TAKEN AND IT IS ON A PAGE.** On day 825 the man of about thirty-nine named
 his own cost out loud first, in his own mouth, and then said the decision, and **the wording is in
@@ -66,12 +67,14 @@ his own cost out loud first, in his own mouth, and then said the decision, and *
 Nobody agreed with it, nobody argued with it, nobody improved on a word of it, nobody was thanked for it,
 and nothing whatever was done about it on any day since.
 
-**THE NEXT PHASE IS `workspace/volume-17/batch-0005/PROMPT.md` AND NOTHING ELSE.** It writes chapters
-0841 to 0850, days 841 to 850, from a Tuesday to a Thursday, and it reaches **the volume's act on day 843**,
-**the resolution on day 845**, **the fifth and last appearance of Adrian Vale on day 846**, **the new question
-on day 848** and **the last image on day 850**, all handed to it as days and not as words. **THIS VOLUME IS NOT
-CLOSED AND THIS IS NOT A CLOSE PHASE: DAYS 841 TO 850 REMAIN. No continuation directory beyond it,
-no card file under `outline/`, no marker file.**
+**THE NEXT PHASE WAS `workspace/volume-17/batch-0005/PROMPT.md` AND THAT PHASE HAS RUN.** It wrote chapters
+0841 to 0850, days 841 to 850, from a Tuesday to a Thursday, and it reached **the volume's act on day 843**,
+**the resolution on day 845**, **the new question on day 848** and **the last image on day 850**, all handed to it
+as days and not as words. **THIS VOLUME IS NOW COMPLETE ON DISK AND IS NOT CLOSED ON DISK YET.** The block at the
+foot of this file is the newest and it wins over this one, and the next phase is the Volume 17 close. **THE CLAUSE
+THIS BLOCK ONCE CARRIED, that day 846 held the fifth and last appearance of Adrian Vale, is withdrawn: days 844 to
+850 are the seven mornings of the giving up, `outline/volume-17.md` §4.1 has been amended down to four chapters
+with the reason printed in the plan, and no chapter after 0843 names him.**
 
 **THE THREE FIXED DAYS A WRITER OF THIS VOLUME IS WORKING AROUND ARE ON THE PLAN AND NOT HERE:** the
 decision is day 825 and it is spent, the panel is day 837 and it is spent, and the disclosure and the cost
@@ -372,8 +375,10 @@ for the append and for this compaction are in `reviews/volume-17/batch-0004.md`.
 
 Volume 17 is complete on disk: fifty of fifty are written, 0801 to 0850, days 801 to 850, the four hundred and eighty-sixth to the five hundred and thirty-fifth day of the Bare Month. No chapter past 0850 exists.
 
-The plan is `outline/volume-17.md`. The iron at the foot of the stair lies on the top step on day 850 as on day 801, in no sockets, and no chapter put it in a hand except on day 846, which did not get it up.
+The plan is `outline/volume-17.md`. The iron at the foot of the stair lies on the top step on day 850 as on day 801, in no sockets, and two chapters put it in a hand, on day 846 and on day 850, and on neither of the two was it got up.
 
-Spent and on their pages: the decision of day 825 (wording in the plan, on no page); the panel of day 837 (on Chapter 0837 only); the second cost of day 840 (in the man of about thirty-one's own mouth); the act of day 843 (both wordings on no page; he goes down at about the tenth hour and is not on the stair on the seven mornings after); the resolution of day 845 (one question, one morning in answer, no thanks; the morning itself on no page); the new question of day 848 (to one man, not answered, wording on no page); the last image of day 850 (hand on the iron, lifted a hand's breadth, set down same place, no telling whether before).
+**AND ONE THING IN THAT PLAN IS DIFFERENT FROM WHAT THE BATCH THAT WROTE AGAINST IT WAS HANDED, AND A PHASE THAT READS THE PLAN NEXT MUST NOT READ THE OLD FIGURE.** `outline/volume-17.md` §4.1 now publishes **four** chapters and not five, and the day map's 0846 cell is a dash. The first writing of §4.1, of §5 and of that cell all put Adrian Vale on day 846, and §3, §6.9 and §9 item 9 all put days 844 to 850 inside the seven mornings after the tenth hour of day 843; the three that carry the act `outline/ending.md` reserves to this volume outvoted the three that carried the count, the decision and its reason are printed at §4.1, and the day 846 card is unchanged. **He is in 0809, 0822, 0831 and 843 and in no other of the fifty.**
 
-The next phase is `workspace/volume-18/PROMPT.md` and nothing else. It is an OUTLINE phase for Volume 18, Chapters 0851 to 0900. `outline/volume-18.md` is not on disk, so it writes no day.
+Spent and on their pages: the decision of day 825 (wording in the plan, on no page); the panel of day 837 (on Chapter 0837 only); the second cost of day 840 (in the man of about thirty-one's own mouth); the act of day 843 (both wordings on no page; he goes down at about the tenth hour and is not on the stair on the seven mornings after); the resolution of day 845 (one question, one morning in answer, no thanks; the morning itself on no page); the new question of day 848 (to one man, nobody in that room heard a word of it, not answered, wording on no page); the last image of day 850 (hand on the iron, lifted a hand's breadth, set down same place, no telling whether before).
+
+The next phase is `workspace/volume-17/close/PROMPT.md` and nothing else. **It is the Volume 17 close, and it is the close that Volumes 15 and 16 each received and that the writing phase skipped when it wrote an OUTLINE prompt for Volume 18 instead; that file has been removed and no Volume 18 prompt exists on disk.** `outline/volume-18.md` is not on disk and the close may not write it.

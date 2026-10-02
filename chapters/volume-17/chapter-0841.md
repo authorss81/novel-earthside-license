@@ -1,4 +1,4 @@
-# Chapter 0841 — A Stranger Came Up And Found Nobody
+# Chapter 0841 — The Yard Is Where A Load Waits
 
 The woman of about twenty-nine who keeps a public register set both hands on the edge of the register to square it on the shelf, so the page would lie flat for the morning, and left the second slate standing behind it where it always stood.
 
@@ -24,13 +24,9 @@ He tried once more, turning his hat round in his hands.
 
 **"There is nobody here for storage,"** she said, and squared the page again with the flat of her hand.
 
-He set his hat on his head again and went back down the way he had come, with the stair taking the water off his boots. The man of about thirty-four got up, crossed to the window, and looked down past the sill at the paving below until the stranger's shoulders went out of sight past the store's end.
+He set his hat on his head again and went back down the way he had come, with the stair taking the water off his boots, and nobody went to the head of the stair to call after him or to the window to see him out, and nobody said he should have stayed.
 
-**"He went up,"** he said.
-
-**"And he has gone down again,"** she said.
-
-Nobody went to the head of the stair to call after him, and nobody said he should have stayed. The morning went on with the damp on the boards where he had stood going dull at the edges. The man of about thirty-nine laid his board flat to dry the back of it, and the keeper turned a leaf, found the place she wanted, and ran a finger down the fold.
+The morning went on with the damp on the boards where he had stood going dull at the edges. The man of about thirty-nine laid his board flat to dry the back of it, and the keeper turned a leaf, found the place she wanted, and ran a finger down the fold. The man of about thirty-four asked her whether the rate on the board was the one that was on it yesterday, and she said it was, and he turned his own board over and set it against the bench leg.
 
 ---
 

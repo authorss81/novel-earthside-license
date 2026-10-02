@@ -8,7 +8,7 @@ She looked at him across the bench and asked him the one thing she had to ask.
 
 **"Tell me the morning you first saw the iron off the door."**
 
-He shifted the strap on his shoulder and looked at the floor a while before he spoke. When he spoke he gave a morning, with the weather of it and the light on the paving and where his feet had been, and his voice stayed level all through. Nobody in the room thanked him for it, and nobody asked him a second thing after it.
+He shifted the strap on his shoulder and looked at the floor a while before he spoke, and his voice stayed level all the way through what he gave them. When it was done nobody asked him for any of it again.
 
 ---
 

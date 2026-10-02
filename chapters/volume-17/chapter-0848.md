@@ -4,7 +4,7 @@ The woman of about fifty-two with her hands at the sides of her dress came and s
 
 It was Tuesday, the five hundred and thirty-third day of the Bare Month, with the date in chalk outside the door at the foot of the stair and daylight coming up the stairwell with it. The room stood full, with people standing behind the bench. The woman of about twenty-nine who keeps a public register was at the near end with her page open. The man of about thirty-four who keeps a stall two stalls along sat at the near end of the bench with his board across his knees. The man of about thirty-nine who trades on a board stood behind him with his own board under his arm.
 
-She bent a little toward him, so her words went to him and not to the room, and asked him the thing she had carried up the stair with her. He looked up at her, looked down again at the face of his board, and said nothing at all. Nobody in the room thanked him for saying nothing, and nobody took the asking up for him.
+She bent a little toward him so her mouth was near his ear, and she asked him one thing, and nobody in that room heard a word of it. He looked up at her, looked down again at the face of his board, and said nothing at all.
 
 ---
 

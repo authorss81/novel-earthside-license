@@ -2,7 +2,7 @@
 
 The woman of about twenty-nine who keeps a public register set both hands on the sill of the one window to ease it wider for the air, and the hinge gave with a soft sound. Dust came off the sill on to her palms, and she wiped it on her skirt.
 
-Wednesday came in mild after two days of rain, on the five hundred and thirty-fourth day of the Bare Month, with the date in chalk outside the door below. The room above stood with the bench damp at one end and dry at the other, and the air moved through it for the first time in a long while. The man of about thirty-nine who trades on a board was at the near end with his board face up to dry. The man of about thirty-four who keeps a stall two stalls along sat at the far end. The woman of about fifty-two with her hands at the sides of her dress stood at the side of the bench out of the draught. The man of about thirty-one who carries things for a living stood at the far end with his satchel under his arm.
+Wednesday came in mild after the dry day before it, on the five hundred and thirty-fourth day of the Bare Month, with the date in chalk outside the door below. The room above stood with the bench damp at one end and dry at the other, and the air moved through it for the first time in a long while. The man of about thirty-nine who trades on a board was at the near end with his board face up to dry. The man of about thirty-four who keeps a stall two stalls along sat at the far end. The woman of about fifty-two with her hands at the sides of her dress stood at the side of the bench out of the draught. The man of about thirty-one who carries things for a living stood at the far end with his satchel under his arm.
 
 The keeper leaned on the sill a moment and looked out over the market.
 
@@ -12,7 +12,7 @@ The keeper leaned on the sill a moment and looked out over the market.
 
 **"The flags will dry by evening."**
 
-**"They will,"** she said, and came back to the bench.
+**"They will,"** he said, and the keeper came back to the bench.
 
 ---
 

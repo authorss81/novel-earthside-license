@@ -4,7 +4,7 @@ The woman of about twenty-nine who keeps a public register put the flat of her h
 
 Adrian Vale came up the stair in the middle of the morning with nothing in his hands and stood inside the doorway. It was Thursday, the five hundred and twenty-eighth day of the Bare Month, with the date in chalk outside the door below. The man of about thirty-nine who trades on a board was at the near end of the bench. The man of about thirty-four who keeps a stall two stalls along sat at the far end. The woman of about fifty-two with her hands at the sides of her dress stood at the side of the bench. The man of about thirty-one who carries things for a living stood at the far end with his satchel under his arm.
 
-He said what it had cost him to come up, first, in his own words, looking at the floor and not at anybody, and then he said one other thing, once, in the same voice, and stopped. Nobody in the room thanked him for either, nobody said one word of either back to him, and nobody asked him a second thing about either.
+He stood with his hands open at his sides and said a thing at the floor that went on longer than anything else said in that room that morning, and it was not loud. When it had gone he drew breath and said one more thing after it, once, in the same voice, and stopped, and nobody in that room said one word back to him.
 
 The keeper kept her hand on the bench wood all through it. The man of about thirty-four looked down at his own hands and then up at the window. The woman of about fifty-two did not move.
 
@@ -20,7 +20,7 @@ After he had spoken he sat down on the bench at the far end where there was room
 
 **"Then put the board on it,"** she said, and she did, and the talk went on about a bucket left on a step and about a trestle with its feet in water.
 
-He asked for nothing while he sat there, and nobody offered him anything, and nobody told him he had been right about anything, and nobody in the room had been holding anything back for him to do. The man of about thirty-one went down the stair with his satchel at about the ninth hour and came up again with the same thing under his arm. Adrian got up from the bench end to let him pass, and stayed standing after.
+He asked for nothing while he sat there. The man of about thirty-one went down the stair with his satchel at about the ninth hour and came up again with the same thing under his arm. Adrian got up from the bench end to let him pass, and stayed standing after.
 
 ---
 

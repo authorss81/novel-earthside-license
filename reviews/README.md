@@ -34,3 +34,20 @@ rather than edited; §17.17's closing ceiling counted for the first time in this
 and the same count showing the ceiling already breached in both closed windows; the state layer compacted a
 fourth time with the honest figure published; three published figures corrected in place and one internal
 contradiction in the batch record found; and two heads of the state layer lying again and corrected.
+
+**Volume 17** — `volume-17/batch-0005.md`: the reviewer subagent was unavailable again and this repair pass is the
+same agent kind that wrote the chapters and produced the findings, so the review in it is not independent. The
+batch contradicted its own plan: `outline/volume-17.md` put Adrian Vale on day 846 in §4.1's table, in §5 and in the
+day map, and put days 844 to 850 inside the seven mornings of the giving up at §3, §6.9 and §9, and the batch wrote
+0846 from the cell that cancels an act `outline/ending.md` reserves to the volume. **This pass took the outline
+decision that `batch-0004.md` §6 declined, and §1 of that file says why the two are not the same call and what it
+cost**: §4.1 now publishes four chapters, the amendment and its reason are printed in the plan in its own words, day
+846 keeps its card with the salt wharf man's hand on the bar instead, and §5 admits the bar into a hand on 846 and on
+850, which the plan's own last image required and its first edition of that clause excluded. Also repaired: 0844's
+register shut and then turned, and a chapter about an empty stair that sent a man down it and back; 0849's two days
+of rain behind a dry Tuesday; 0841 and 0843 staging the same beat under near-identical titles; 0843, 0845 and 0848
+announcing the two speeches they are forbidden to print instead of staging them; and 0850's title promising a light
+the chapter does not carry and an offstage hour with nothing in it. The next-phase deliverable, which had been a
+Volume 18 outline prompt that skipped the close both preceding volumes received, is now the Volume 17 close prompt
+and the Volume 18 prompt is removed. Every figure re-measured before and after, the two that disagree with the
+writing phase's own record published beside it, and the controller debts named and not opened.
