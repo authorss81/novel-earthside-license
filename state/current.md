@@ -4,7 +4,7 @@
 forward, and what is owed. It does not carry a list of things a phase did not do.**
 
 **THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/current.md.volume-18-outline-full.md`, taken before
-the Volume 18 planning pass replaced three superseded blocks with one, and verified against the live file by
+the Volume 18 planning pass replaced four superseded blocks with one, and verified against the live file by
 SHA256 before a single line was removed. Behind that, every earlier block is at
 `state/archive/current.md.volume-17-batch-0004-full.md`, word for word and undeleted — a complete byte-for-byte
 copy of this file as it stood after Batch 0004 wrote its chapters and before the review repair rewrote its
@@ -45,7 +45,7 @@ more. *Above* now means the archives named in this header.**
 **THIS FILE HAS NOW BEEN COMPACTED SIX TIMES, FOR THE SAME REASON AND BY THE SAME CONVENTION: a live state file
 that grows by appending every pass is a record no later pass will read whole. Four of the six were undone by
 the appending that followed them. This pass did not append: it copied the file whole into `state/archive/`,
-verified the copy by SHA256, replaced three superseded blocks with one, and did the same four things to the
+verified the copy by SHA256, replaced four superseded blocks with one, and did the same four things to the
 other four live files. A phase that appends to this file is expected to leave it smaller than it found it, or
 to say in its own record why not.**
 
@@ -304,6 +304,70 @@ standing-debts block, the Volume 17 Batch 0004 block and the Volume 17 Batch 000
 and in each of the other four the Volume 17 Batch 0004 and Batch 0005 blocks were replaced by its Volume 18 block.**
 That is a move of text and not a change of record: no thread was closed, no figure was withdrawn, no decision was
 reversed, and every fact those blocks carried is in the archive, in the four Volume 17 batch records, and in
-`state/volume-17-close.md`. **The five files went from 169,505 bytes to 138,826, a fall of about eighteen per
-cent.** This is the sixth compaction of these five and the answer to the sixth append, and a pass that appends
+`state/volume-17-close.md`. **The five files went from 169,505 bytes to 139,031 as that compaction left them, a
+fall of about eighteen per cent, and 139,031 is what the compaction produced and not what the five files measure
+now — the review-repair pass at the foot of this file has since moved them again and publishes the figure it
+leaves.** This is the sixth compaction of these five and the answer to the sixth append, and a pass that appends
 again should stop and rewrite.
+
+---
+
+# THE REVIEW-REPAIR PASS ON THE VOLUME 18 PLANNING PHASE. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**This pass read `logs/next-0004.review.log`, applied all eight findings, and re-measured every figure it
+published rather than softening one. It wrote no prose, touched no chapter, moved no day, and changed no plan.**
+
+**AND WHAT IT CORRECTED, IN THE REVIEW'S OWN ORDER. (1) The compaction total published above was wrong and is
+re-measured: the five files went from 169,505 bytes to 139,031, not to 138,826. (2) The header and the
+convention note said the compaction replaced three superseded blocks in this file when it replaced four, and both
+now say four, which is what the body of this file has said since the compaction. (3) `outline/volume-18.md` §19.2
+published "Nine rows" that could not be reproduced from its own table, and the count is now re-measured and
+reproducible: **thirty-five rows, seventeen moved, seven of those seventeen furniture and counting, ten moved on
+something else.** (4) `state/chapter-summaries.md` pointed its head at a Volume 17 Batch 0005 block that the
+compaction had already removed, and it now points only at the Volume 18 block. (5) The same header accounted for
+one of the two removed blocks and now accounts for both, Batch 0004 and Batch 0005. (6) A garbled sentence in the
+Volume 18 block is rewritten to say that both blocks left the file. (7) "about forty per cent smaller" is
+replaced by the figure, 37.9. (8) `outline/volume-18.md` §4.1 used "the volume's heavy days" for two disjoint sets
+and now names one set of eleven.
+
+**AND TWO THINGS THAT REPAIR FOUND INSIDE THE SENTENCES IT WAS REPAIRING, BOTH PUBLISHED RATHER THAN LEFT.**
+The §19.2 paragraph also claimed that "not one of them has any occurrence in Volume 17 at all" and that they were
+"every one of them ... in Volumes 01 to 06", and **both were false: `sockets` has ten occurrences in Volume 17 and
+none in Volumes 01 to 06, `witness` keeps two in Volume 15, and `nine steps` runs from Volume 03 to Volume 14.** The
+paragraph now says the two rows Volume 17 causes are `socket`, `sockets` and `barred`, which is what the table's
+own `socket`, `sockets` row already said. And `state/chapter-summaries.md` carried an unclosed bold mark in its
+first header paragraph, which is closed. **No finding was answered by removing a sentence, and none was answered
+by rounding a figure the right way.**
+
+**AND THE MEASUREMENT, SO A LATER PHASE MAY RE-RUN IT RATHER THAN TAKE IT FROM HERE.** The §19 figures are
+word-bounded on all eight hundred and fifty chapter files, both case flags, whole files, on the rule published at
+§19.1. Seventeen moved rows: `routes`, `quorum`, `licence`, `passage`, `player`, `quest`, `witness`, `nine steps`,
+`socket` and `barred`, plus the seven furniture rows `door`, `lock`, `row`, `number`, `figure`, `count` and
+`name`. Of the ten, two carry Volume 17 — `sockets` at ten and `barred` at two — and eight do not; of the eight,
+six sit wholly inside Volumes 01 to 06 and two do not. Adrian Vale's nine remain 0853, 0861, 0866, 0871, 0881,
+0889, 0890, 0893 and 0899, two obtained and seven not. The eleven heavy days are 856, 866, 869, 875, 878, 879,
+886, 890, 894, 898 and 900, of which he is in 866 and 890; the "other seven" belongs to his own nine and is
+853, 861, 871, 881, 889, 893 and 899, and §4.1 now says so on the same line.
+
+**AND WHAT DID NOT MOVE, BECAUSE A REPAIR PASS THAT MOVES ONE OF THESE IS A DIFFERENT PASS.** The day map
+§14.3 is byte-identical across all fifty rows, the pressure column still reads physical seven, character ten,
+political ten, discovery seven, decision four, cost three and recovery nine on fifty distinct chapters, the ten
+rows of `workspace/volume-18/batch-0001/PROMPT.md` are still cell-for-cell identical to §14.3, and no card, no
+name, no panel wording, no act, no decision, no thread, no descriptor and no planned day was written, moved or
+withdrawn. **No new final enemy entered this manuscript and none was proposed: Ivenn Marrow remains the final
+human antagonist and this volume has him on 894 and 895.** No controller file was opened or edited — not
+`scripts/`, not `.github/workflows/`, not `.opencode/agent/`, not `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`.
+
+**AND THIS PASS APPENDED INSTEAD OF COMPACTING, AND SAYS WHY RATHER THAN LEAVING IT TO BE FOUND LATER.** It
+appended because its whole business is the record of eight corrections and that record has to sit where a later
+writer will meet it. It made no compaction worse: it replaced four wrong figures in place, added no new block to
+any of the other four live files, and `state/continuity.md`, `state/open-threads.md` and
+`state/character-state.md` are **byte-for-byte unchanged** at 37,492, 27,433 and 29,700. **The five files measure
+145,174 bytes as this pass leaves them, against the 139,031 the compaction produced, and both figures are
+published here because a published figure that has gone stale is the fault §19.2 is about.**
+
+**THE NEXT PHASE IS UNCHANGED AND IS STILL `workspace/volume-18/batch-0001/PROMPT.md` AND NOTHING ELSE.** This
+repair created no directory, wrote no prompt and added no phase. It writes Chapters 0851 to 0860, days 851 to
+860, it carries the volume's first cost on 856, it does not reach the arrival on 866 and must not prepare it, and
+it stops at 0860.

@@ -1,16 +1,20 @@
 
 # Chapter Summaries
 
-**HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** The blocks that
-matter to the current phase are **Volume 17, Batch 0005**, whose last ten entries are Chapters 0841 to 0850,
-days 841 to 850, and the **Volume 18** block at the foot, which carries no summaries because Volume 18 has
-no chapters. **The Volume 17 Batch 0001 block is in the archive named below and is not restated here.**
+**HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** The only block that
+matters to the current phase is the **Volume 18** block at the foot, which carries no summaries because
+Volume 18 has no chapters. **The Volume 17 Batch 0004 block and the Volume 17 Batch 0005 block were both
+removed by the Volume 18 planning pass and neither is restated here; they are in the archive named below,
+and their figures are at `state/batch-summaries/volume-17-batch-0004.md` and
+`state/batch-summaries/volume-17-batch-0005.md`. The Volume 17 Batch 0001 block is in the same archive and is
+not restated here either.**
 
 **THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/chapter-summaries.md.volume-18-outline-full.md`,
-taken before the Volume 18 planning pass removed the Batch 0004 block and added the Volume 18 block, and
-verified against the live file by SHA256 before a single line was removed. That archive copy is the only
-place the Volume 17 Batch 0004 block now lives, and its figures for days 831 to 840 are also at
-`state/batch-summaries/volume-17-batch-0004.md`. Behind it, every earlier block is at
+taken before the Volume 18 planning pass removed the Batch 0004 block and the Batch 0005 block and added the
+Volume 18 block, and verified against the live file by SHA256 before a single line was removed.** That archive
+copy is the only place the Volume 17 Batch 0004 and Batch 0005 blocks now live, and their figures for days 831
+to 840 and days 841 to 850 are also at `state/batch-summaries/volume-17-batch-0004.md` and
+`state/batch-summaries/volume-17-batch-0005.md`. Behind it, every earlier block is at
 `state/archive/chapter-summaries.md.volume-17-batch-0003-full.md`, a complete byte-for-byte copy of this
 file before that compaction — including the Batch 0001 block and the review-repair block on Chapters 0811 to
 0820 — and behind that at
@@ -24,7 +28,7 @@ THIS FILE LONG AGO, ARE AT `state/batch-summaries/volume-17-batch-0001.md`.**
 **THIS FILE HAS NOW BEEN COMPACTED SIX TIMES FOR THE SAME REASON AND A PHASE THAT APPENDS TO IT IS EXPECTED
 TO LEAVE IT SMALLER THAN IT FOUND IT, OR TO SAY IN ITS OWN RECORD WHY NOT.** This pass did not append. It
 copied the file whole into `state/archive/`, verified the copy by SHA256, and replaced two superseded
-blocks with the Volume 18 block, and it left the file about forty per cent smaller than it found it, because
+blocks with the Volume 18 block, and it left the file 37.9 per cent smaller than it found it, because
 Volume 18 has no chapters to summarise and a plan index of fifty unwritten days is short.
 
 **THE FIGURES AND THE FULL TEXT OF EVERY BATCH ARE IN `state/batch-summaries/`, ONE FILE PER BATCH, AND THE
@@ -184,11 +188,13 @@ sixteen are closed, and Volume 18 is the whole of what remains: fifty chapters, 
 begun. The plan is `outline/volume-18.md` and the day map is its §14.3, and the ten cards for the first ten days
 are at `outline/batches/volume-18-batch-0001.md` and were written before Chapter 0851 existed.**
 
-**The Batch 0004 block for days 831 to 840 left this file with the Volume 18 block and is now in
+**The Volume 17 Batch 0004 block for days 831 to 840 and the Volume 17 Batch 0005 block for days 841 to 850
+both left this file when the Volume 18 block was put in at its foot, and both are now in
 `state/archive/chapter-summaries.md.volume-18-outline-full.md`, verified against the live file by SHA256 before a
-line was removed. Its figures for those ten days are at `state/batch-summaries/volume-17-batch-0004.md` and its
-ten one-line summaries are recoverable from the archive in one read. This is a move of text and not a change of
-record: no day, no summary and no figure was withdrawn by it.**
+line was removed. Their figures for those twenty days are at `state/batch-summaries/volume-17-batch-0004.md` and
+`state/batch-summaries/volume-17-batch-0005.md`, and their twenty one-line summaries are recoverable from the
+archive in one read. This is a move of text and not a change of record: no day, no summary and no figure was
+withdrawn by it.**
 
 **THE FIFTY DAYS AS A PLAN INDEX AND NOT AS SUMMARIES, FIVE BATCHES OF TEN, AND A WRITER TAKES THE FULL BUSINESS,
 THE DAY, THE WEEKDAY, THE ORDINAL, THE PRESSURE TAG AND WHETHER ADRIAN VALE IS IN THE CHAPTER FROM

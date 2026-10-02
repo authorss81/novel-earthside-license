@@ -130,9 +130,13 @@ narration does not add them up.
 
 ### 4.1 THE NINE, AND WHAT THIS VOLUME'S NINE DAYS ARE
 
-**Nine chapters, and he is in two of the volume's heavy days — the arrival on 866 and the act on 890 — and in
-none of the other seven, and both of the two are days the ending cannot be paid without.** 856, 869, 875, 878,
-879, 886, 894, 898 and 900 are the volume's heavy days and he is in none of them.
+**THE VOLUME HAS ELEVEN HEAVY DAYS AND THE WORD IS USED FOR ONE SET ONLY: 856, 866, 869, 875, 878, 879, 886,
+890, 894, 898 and 900. Nine chapters, and he is in two of the eleven — the arrival on 866 and the act on 890 —
+and in none of the other nine, and both of the two are days the ending cannot be paid without. THE OTHER NINE
+ARE 856, 869, 875, 878, 879, 886, 894, 898 AND 900 AND HE IS IN NONE OF THEM.** **The seven is a different
+count and belongs to his own nine and not to the heavy days: of the nine chapters he is in, 866 and 890 are
+heavy and the other seven — 853, 861, 871, 881, 889, 893 and 899 — are not. Two and seven are nine and nine are
+eleven, and a card author may not read the seven as seven heavy days he missed.**
 
 **THE RULE ABOUT HIS HANDS STANDS AND THE SECOND CLAUSE IS CARRIED WHOLE: a card may not put him in a chapter
 unless the card names the thing his hands are on AND WHAT HE WANTED THE THING FOR, and a card that cannot name
@@ -1010,16 +1014,23 @@ published. NONE OF THE THREE IS REPAIRED HERE, because the plan behind them is a
 pass owns it and a close owns the other two.**
 
 **AND THE FOURTH FINDING, WHICH IS BIGGER THAN THE THREE, AND IT IS ABOUT THE WHOLE TABLE AND NOT ABOUT A STRING.
-Nine rows of the published table do not reproduce on eight hundred and fifty files, and this phase measured where
-every one of the nine sits by volume: `licence`, `passage`, `player`, `witness`, `nine steps`, `sockets` and
-`quorum` are all wrong and **not one of them has any occurrence in Volume 17 at all** — every one of them is in
-Volumes 01 to 06 — and the eighth, `barred`, is the only row where Volume 17 is the cause of the movement, at two
-occurrences. So the table was not out of date because the manuscript grew under it. It was out of date, and
-**A PLAN-LINE TABLE THAT CANNOT BE REPRODUCED BY THE VOLUME THAT PUBLISHED IT IS NOT USABLE AS A BASELINE, AND THE
-FINDING IS THAT A CLOSE PASS THAT HAD RUN IT TWICE WOULD HAVE FOUND IT AND NONE DID.** This phase did not repair
-it, because every row of it belongs to a closed volume's plan, and **§19.2 of this plan is therefore a re-measurement
-and not an inheritance, and a later phase that wants to move a figure must re-measure it here and not take it from
-the table behind.**
+Seventeen of the thirty-five rows of that table do not reproduce on eight hundred and fifty files, and seven of the
+seventeen are the furniture and the counting — `door`, `lock`, `row`, `number`, `figure`, `count` and `name` —
+which the table itself puts down as the arithmetic of this series' furniture and as senses. Seventeen less seven is
+**TEN**, and this phase measured every one of the ten by volume: `routes`, `quorum`, `licence`, `passage`,
+`player`, `quest`, `witness`, `nine steps`, `socket`, `sockets` and `barred`. **Eight of the ten have no occurrence in
+Volume 17 at all and two do. THE TWO ARE `socket`, `sockets`, at ten in Volume 17, AND `barred`, at two, AND
+THOSE TWO ARE THE ONLY ROWS OF THIS TABLE WHERE VOLUME 17 IS THE CAUSE OF THE MOVEMENT**, which is what the
+`socket`, `sockets` row above already says when it calls the plural the one row in this table that matters to
+this volume, and this paragraph now agrees with it instead of standing against it. Of the other eight, **six sit
+wholly inside Volumes 01 to 06** — `licence` in 01 to 04, `passage` in 01, 02, 03 and 06, `player` and `quorum`
+in 01 and 02, `routes` and `quest` in 01 — **and two do not: `witness` keeps two in Volume 15 and `nine steps`
+runs from Volume 03 to Volume 14.** So the table was not out of date because the manuscript grew under it. It was
+out of date, and **A PLAN-LINE TABLE THAT CANNOT BE REPRODUCED BY THE VOLUME THAT PUBLISHED IT IS NOT USABLE AS A
+BASELINE, AND THE FINDING IS THAT A CLOSE PASS THAT HAD RUN IT TWICE WOULD HAVE FOUND IT AND NONE DID.** This
+phase did not repair it, because every row of it belongs to a closed volume's plan, and **§19.2 of this plan is
+therefore a re-measurement and not an inheritance, and a later phase that wants to move a figure must re-measure it
+here and not take it from the table behind.**
 
 ### 19.3 THE ZERO COLUMN OF THIS VOLUME'S OWN, AND IT IS THIRTY-FIVE ENTRIES WIDE AGAIN, AND ONE OF THEM IS NOT
 ZERO ON ANY FILE AND IS PUBLISHED AS NOT ZERO
