@@ -933,3 +933,57 @@ QUESTION IN THIS VOLUME, AND THAT IS THE NINTH VOLUME RUNNING, AND IT IS ON NO P
 AND STOPPED IS ON NO PAGE OF THESE TEN DAYS AND IS GIVEN NO AGE, NO DESCRIPTOR, NO NAME AND NO NUMBER. NO NAME IS
 SPOKEN ON ANY OF THESE TEN DAYS. NO RELATIONSHIP MILESTONE IS PAID ON ANY OF THEM, THE CONSENT FRACTURE STAYS
 UNMENDED, AND THE FIFTH CONDITION IS NOT GIVEN. TAMSIN QUILL IS NOT IN ANY OF THESE TEN ROOMS.**
+
+---
+
+## THE REVIEW-FIX PASS ON DAYS 0778, 0779 AND 0780 — WHAT THE THREE CHAPTERS NOW HOLD. NEWEST AND IT WINS.
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD.** His board is one board, carried under his arm through four
+markets for about nine years, with nineteen rates cut deep into its face in three columns and gone dark at the edges,
+and at the foot of the middle column, between the other two, a stretch of bare wood about two fingers across that is
+the colour the wood was before anything was ever cut into that face, and that nothing has ever been cut into or cut
+out of or painted over or smoothed, and that a man's hand has been on that board for nine years and has not worn it.
+**ON DAY 0779 HE PUTS THE FLAT OF HIS RIGHT HAND ON THAT FACE AT THE SEVENTH HOUR AND KEEPS IT THERE FOR THE REST OF
+THE MORNING WITHOUT ONCE LOOKING AT THE BARE PLACE, AND AT THE TENTH HOUR HIS OWN HAND GOES DOWN ONTO THAT PLACE
+WITHOUT HIM LOOKING FOR IT, AND HE CARRIES THAT BOARD DOWN THAT STAIR UNDER THAT PALM. THAT IS THE WHOLE OF WHAT IS
+NEW ABOUT HIM AND IT IS NOT A DECISION AND IT IS NOT SPOKEN ABOUT AND NOBODY IN THAT ROOM ASKS HIM ONE WORD ABOUT
+IT.** On day 0778 he says his own cost out loud at the seventh hour, unasked, and is thanked by nobody, and at the
+ninth hour he carries that board the length of that room and leaves it lying face up at the far end of that bench.
+He is in the volume's day 0788 and **is not asked whether he agrees with the panel, and no chapter of this volume may
+ask him.** Five volumes running for him and it is not a reward.
+
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS THE BOOK.** She sits at the near end of that bench with the book open in
+front of her and her own hands flat on the wood on either side of the page, and two hollows a forearm apart sit one
+on each side of the place where that book lies, and the high wood between them will hold the book flat by itself and
+she puts her hand back on it every morning anyway. **ON DAY 0779 SHE IS THE ONLY PERSON IN THAT ROOM WHO STANDS UP OFF
+THAT BENCH, AND WHAT SHE DOES IS WALK THE LENGTH OF THAT FLOOR AND STAND OVER A STRANGER'S BOARD AND LOOK AT IT, AND
+HOLD HER OWN HAND OUT ABOUT A FOOT OVER IT, AND TAKE IT BACK, AND GO BACK AND SIT DOWN. SHE PUTS NO FINGER ON IT AND
+SHE ASKS NOBODY ANYTHING ABOUT IT AND SHE SAYS NOTHING.** That is her whole action on that day and it is the first
+time in the length of this flood that she has stood that near to it. **A NEXT WRITER MAY NOT HAVE HER AT THE FAR END
+OF THAT BENCH ON A MORNING WITHOUT SAYING WHY.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO HAS A FIGURE OF HIS OWN.** He keeps it in his own head at that same bench at that
+same hour every morning of that flood and has never once said it in that room and nobody there has ever asked him for
+it. On day 0779 he comes in at the sixth hour and stops in the middle of that floor for about ten seconds looking at
+that board, and does not touch it, and goes and sits down a few feet along the bench from it, and looks at the middle
+of that floor. He does not look up while the woman is standing over it. He asked the whole row a question on day 772
+and got told he was the last one. **HE IS NOT THE MAN WHO PUTS ANYTHING IN THAT YARD, AND HE IS NOT A MAN WHO PUTS
+ANYTHING BACK IN IT, AND A PAGE THAT SAYS OTHERWISE IS WRONG.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT AND HIS BARROW.** The barrow is his and he stands it where he puts it and not where a
+stranger put it, and a hand's breadth off that wall further than the stranger's mark every morning since a stranger
+took two boards off the top of his stack. On day 0780 he comes through the gate at the seventh hour to an empty yard,
+walks a mile and a half up the flats on foot, takes the far handle, walks the barrow down the rest of those flats
+himself, and is still working at the low place at the ninth hour on a job he finishes by the seventh hour every
+morning of a flood. **HE PUTS THAT BARROW WHERE HE PUTS IT AND NOBODY ELSE PUTS IT ANYWHERE, AND THE CLOSING OF THAT
+CHAPTER WAS A FAULT FOR THE ONE TIME IT SAID SOMEBODY ELSE DID.**
+
+**ADRIAN VALE.** He is in 0771 as his ninth and in 0773 as his tenth and in 0780 as his eleventh, and in no other of
+the ten, and his surname appears on no other of them either. **He obtains nothing on any of the three. He is the cause
+of at least one thing that happens to somebody else on day 0771 and on day 0780, and nobody thanks
+him and nobody tells him he was right and nobody in any of them is waiting for him to be useful and he is not useful
+to them.** On day 0780 he is at the near end of eleven miles of flats at the seventh hour with his hands on a barrow
+that is not his, and he is inside that yard toward the tenth hour with nothing in either hand, and his coat has been
+wet through and dried and been wet through again since the fourth hour. **`outline/volume-16.md` §4.1's table has no
+row for 0771 or for 0780 and the map has both, and §4.1's table publishes `no` in all eleven of its rows against its
+own prose saying four are obtained. THAT IS A THREAD AND NOT A REPAIR, AND THE CONSERVATIVE READING IS `no` FOR BOTH.**

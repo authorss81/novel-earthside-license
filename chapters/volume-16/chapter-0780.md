@@ -20,7 +20,7 @@ He had carried it about a mile and a half off the ground it belonged to.
 
 At the seventh hour the man of about thirty-eight came through the gate of that yard and stopped on the flags just inside it.
 
-There was the trough, and there was the stack of boards, and there was the stone step with the rag lying on it, and there was the low place in the stone at the side of that yard with water standing in it. The bucket lying in that water is the only bucket in this city, and it lay in it. There was no barrow.
+There was the trough, and there was the stack of boards, and there was the stone step with the rag lying on it, and there was the low place in the stone at the side of that yard with water standing in it. The bucket lying in that water is the only bucket in this city, and it lies in it. There was no barrow.
 
 He stood in the middle of that yard and looked at the whole length of it. Then he went out of the gate and up the near end of those flats on foot, the way a man goes to look for a thing he has lost. He went a mile and a half up them and found a barrow standing on the second rise with a stranger's hands coming off it.
 
@@ -40,4 +40,4 @@ Nobody in that yard said one word to anybody about where that barrow had spent t
 
 At about the seventh hour a barrow handle was in a man's hand out on the second of eleven miles of flats, and the wind was coming up the whole length of them from behind him. A yard was standing empty at the near end of them, with a trough in it and a step and a bucket.
 
-He came back into that yard on foot late in that morning, having walked every foot of that mile and a half down again in the weather, and there was nothing in either hand to show for the whole of it. The barrow stood where he puts it with the bottom of it scraped out and the week's work gone into that low place, and there was nothing at all in the corner of that room over that market, and his coat had been wet through and dried and been wet through again since the fourth hour.
+He came back into that yard on foot toward the tenth hour, having walked every foot of that mile and a half down again in the weather, and there was nothing in either hand to show for the whole of it. The barrow was back in that yard with the bottom of it scraped out and the week's work gone into that low place, and there was nothing at all in the corner of that room over that market, and Adrian's own coat had been wet through and dried and been wet through again since the fourth hour.

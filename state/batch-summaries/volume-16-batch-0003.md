@@ -855,7 +855,11 @@ ACTIONS. NEITHER WAS OPENED OR TOUCHED AND NO MARKER FILE WAS CREATED OR REMOVED
 ### 10.7 THE NEXT PHASE, UNCHANGED
 
 **`workspace/volume-16/batch-0004/PROMPT.md`, WHICH WRITES CHAPTERS 0781 TO 0790, DAYS 781 TO 790. IT WAS WRITTEN BY
-THE PASS BEFORE THIS ONE AND IS ON DISK, AND THIS PASS READ IT AND LEFT IT STANDING RATHER THAN REWRITING IT, and no
+THE PASS BEFORE THIS ONE AND IS ON DISK, **AND THIS PASS APPENDED FIFTY-FIVE LINES TO IT — A BLOCK AT ITS FOOT
+HEADED *AND ONE MORE THING THE PHASE BEFORE YOU GOT WRONG THREE TIMES* — AND THAT APPEND IS PART OF WHAT THIS PASS
+DID. THE FIRST DRAFTING OF THIS PARAGRAPH SAID THE OPPOSITE, THAT THIS PASS READ THAT PROMPT AND LEFT IT STANDING
+RATHER THAN REWRITING IT, AND A REVIEWER CAUGHT THE RECORD CONTRADICTING ITS OWN DIFF IN THE SAME COMMIT. THE SENTENCE
+IS CORRECTED HERE AND THE FILE WAS APPENDED TO, NOT REWRITTEN.** No
 directory was created beyond it, no card file under `outline/`, and no marker file of any kind. IT REACHES DAY 787,
 WHICH IS THE ONE PANEL OF THIS VOLUME, AND IT IS HANDED THAT DAY AND NOT THE WORDS AND MUST NOT REPRINT THEM, AND IT
 INHERITS A NARRATOR THAT DOES NOT KNOW THE FIGURE AND A ROOM IN WHICH NO MOUTH MAY SAY IT.**
@@ -995,3 +999,165 @@ with 0779, and a length clause that left one bench with no wood at either end fo
 it. NONE OF THE THREE WAS FOUND BY A COUNT OF SENTENCES AND NONE WAS FOUND BY THE INSTRUMENT THAT WAS SUPPOSED TO
 CATCH DUPLICATION, AND TWO OF THE THREE WERE FOUND ONLY BECAUSE THE MEASUREMENT WAS RUN AGAINST THE BATCH AFTERWARDS
 RATHER THAN BEFORE.**
+
+---
+
+## 11. THE REVIEW-FIX PASS ON DAYS 0778, 0779 AND 0780, DONE BY A REVIEWER THAT DID NOT WRITE THEM
+
+**§10 ABOVE IS THE RECORD OF THREE PASSES. THIS BLOCK IS THE RECORD OF A FOURTH, AND IT WINS OVER §10 ON EVERY POINT
+WHERE THE TWO DISAGREE, AND THE FIGURES IN IT ARE THE FIGURES OF THE FILES ON DISK.**
+
+### 11.1 THE SIX FAULTS ON THE PAGES, ALL OF THE CLASS §10.6 DECLARES THE STANDING OBLIGATION AGAINST, AND ALL SIX FIXED
+
+**EVERY ONE OF THEM WAS A PAGE ASSERTING SOMETHING ABOUT THE STATE OF THE WORLD THAT ANOTHER PART OF THE SAME
+MANUSCRIPT SAYS DIFFERENTLY. NOT ONE WAS A COUNT, AND EVERY INSTRUMENT IN THIS REPOSITORY RETURNED CLEAN ON ALL SIX,
+AND THE FORTY-WORD AND SIXTEEN-WORD CLASSES RETURN ZERO ON ALL SIX BECAUSE A DUPLICATE IS NOT WHAT THESE WERE.**
+
+1. **`chapter-0779.md` — A HAND COULD NOT REACH THE MARKS.** At the seventh hour that man *turned the board over once in
+   the air so that the face of it went down* and stood it against the leg of that bench, and then put the flat of his
+   right hand *on the face of it*. At the tenth hour he put that hand *flat over the bare place at the foot of the
+   column between the other two*. A face turned down against a bench leg is not a face a hand can be laid on. **NOW:
+   he stands it against the leg of that bench WITH THE FACE OF IT TURNED OUT, THE WAY HE HAD STOOD IT EVERY MORNING OF
+   THAT FLOOD, and the seventh-hour paragraph ends on his own hand staying on that face for the rest of the morning.**
+2. **`chapter-0779.md` — THE SAME IMPOSSIBILITY A SECOND TIME, IN THE SAME CHAIN.** At the tenth hour he *lifted that
+   board with the other one and turned it over, and went down that stair with the palm of his hand flat on a piece of
+   bare wood*. Turning it over puts the rates against his own side. **NOW: he takes the flat of that hand off the face
+   and puts it low down over the bare place, his own hand comes to that place without him having to look for it, he
+   lifts the board off the leg of that bench with his left one, and he goes down that stair with the palm of his right
+   hand on the bare place. THE CHAPTER'S OWN LAST IMAGE — a hand covering it — IS NOW PHYSICALLY TRUE INSTEAD OF
+   ASPIRING TO BE, AND THE BEAT LANDS BETTER FOR IT: he stood a hand flat on that face from the seventh hour and did
+   not once look at the bare place, and then at the tenth hour his own hand goes down onto it without him looking.**
+3. **`chapter-0779.md` — A NUMBER THAT WAS WRONG AND THAT THE REPAIR ITSELF LEFT BEHIND.** One morning was introduced
+   and then two were counted. **NOW: *on that morning* and *on this one*, named.**
+4. **`chapter-0779.md` — A CLOSING THAT WAS NOT A SENTENCE.** *that place would be lying face up **in it** at the far
+   end of that bench* put a stretch of bare wood inside the light and on a bench at the same time, with no antecedent
+   for *it*. **NOW: *that board would be lying face up in it at the far end of that bench*, which is the same forecast
+   the body of the chapter makes at its fourth hour, and *the hand that went down that stair **over that place***.**
+5. **`chapter-0778.md` — AN OPENING THAT PUT A HAND ON A BOARD THAT WAS STILL UNDER AN ARM.** *He stopped at the near
+   end of that bench and stood the flat of his right hand on the face of it* — and that board was under his arm, and
+   nine hundred words later the ninth-hour paragraph still had him *taking his board from under his arm*. The rewrite
+   §10.9 made had been made precisely because the old sentence did not say where the board was, and it still did not
+   say where the board was. **NOW: he puts that board down flat on the wood at the near end of that bench in the
+   opening, and the ninth-hour paragraph has him PICK IT UP OFF THE WOOD WHERE IT HAD BEEN LYING ALL THAT MORNING AND
+   CARRY IT THE LENGTH OF THAT ROOM. The day is unchanged, the ninth hour is still the hour the room changes, and the
+   move across the floor is now a thing he does rather than a thing the narrator states.**
+6. **`chapter-0780.md` — A CLOSING WITH THE WRONG MAN IN IT.** *The barrow stood where **he** puts it* — that barrow is
+   the man of about thirty-eight's, he is standing at the far end of those flats at the tenth hour, he put nothing
+   there and emptied nothing, and *he coat had been wet through* then had the man of about thirty-eight's coat or
+   Adrian's according to which way the sentence was read. **NOW: *The barrow was back in that yard with the bottom of it
+   scraped out and the week's work gone into that low place*, the hour is *toward the tenth hour* and not *late in that
+   morning*, and the coat is *Adrian's own coat*, so that the paragraph names the man it is about instead of leaning
+   on the nearest pronoun. THE ONE LASTING CONSEQUENCE OF THAT DAY — that yard emptied an hour later than it is
+   emptied on a morning of the flood — STANDS.**
+
+**AND ONE SMALL THING IN THE SAME CHAPTER, FIXED BECAUSE IT IS THE SAME CLASS AND COSTS A WORD: `chapter-0780.md`
+mixed tenses inside a declaration this manuscript keeps in the present, reading *The bucket lying in that water **is**
+the only bucket in this city, and it **lay** in it* against `chapter-0771.md`'s *The bucket **is** the only one in this
+city. It **lies** in that water*. It now reads *and it **lies** in it.* THE BUCKET QUESTION ITSELF IS **NOT** REPAIRED
+AND IS NOT SETTLED HERE; IT IS THE THREAD AT §11.3 AND IT SPANS TWO BATCHES AND TOUCHES A REQUIRED DECLARATION.**
+
+### 11.2 THE TWO DEFECTS IN THE HANDOFF, AND BOTH WERE SENT TO THE NEXT BATCH AS TRUE INHERITED STATE
+
+7. **`workspace/volume-16/batch-0004/PROMPT.md`, APPENDED BLOCK: THE 0788 HANDOFF WAS MISQUOTED.** It read *ON DAY
+   0788 HE IS IN THAT ROOM AND IS NOT ASKED WHETHER HE AGREES WITH **THE WALL***. `outline/volume-16.md`'s map row for
+   0788 says *the decider in that room and not asked whether he agrees with **it***, and *it* is the panel that goes
+   up on day 787. §4.1's own prose two pages from it says *the wall says nothing*, which is where the substitution came
+   from, and the two are not the same beat at all: the wall is a thing in the room, the panel is the volume's one
+   block of words. **THE APPENDED BLOCK NOW READS *WITH IT — AND ON THAT DAY **IT** IS THE PANEL THAT GOES UP ON DAY
+   787 AND NOT THE WALL. The wall says nothing on the other forty-nine days and saying so is not the same beat.*** THE
+   SAME BLOCK'S OTHER HALF WAS WRONG IN THE OTHER DIRECTION AND IS ALSO CORRECTED: it said the man of about thirty-nine
+   had stood at the far end of that bench for one morning on day 778, which is not what 0778 says — he stood at the
+   NEAR end from the fourth hour and carried the board across the floor at the ninth — and it now says so.
+8. **THE SAME BLOCK, INHERITED-STATE NOTE (ii), WAS CONTRADICTED BY THE PAGE IT DESCRIBES.** It stated the woman of
+   about twenty-nine *IS AT THE NEAR END OF THAT BENCH ON EVERY ONE OF THE TEN DAYS BEHIND YOU*. On day 779 she crosses
+   that floor and stands over that board. **THE BLOCK NOW SAYS SO AND NAMES WHAT SHE DID, AND IT ALSO NAMES THE
+   CONSEQUENCE FOR THE NEXT BATCH: the far end of that bench is live, the day 0790 card is a carrier with both hands
+   empty at the far end of a bench, and the man of about thirty-four and the woman of about fifty-two both sit and
+   stand at that end of it.** The same block's note (i) is rewritten to match 0779 as it now stands, including the
+   seventh-hour and tenth-hour state of that board and the hour Adrian Vale comes back into that yard.
+
+### 11.3 THE FINDING THAT IS A THREAD AND NOT A REPAIR, AND IT IS THE SAME ONE AS BEFORE
+
+**`chapter-0771.md` AND `chapter-0780.md` BOTH SAY THE BUCKET LYING IN THE LOW PLACE IN THE STONE IS THE ONLY BUCKET IN
+THIS CITY, AND `chapter-0771.md` SAYS IT HAS LAIN IN THAT WATER THROUGH THE WHOLE OF THIS FLOOD, AND `chapter-0776.md`
+AND `chapter-0777.md` BOTH HAVE THE MAN OF ABOUT TWENTY-SEVEN COMING UP THAT STAIR CARRYING A BUCKET OUT OF THE YARD
+BELOW.** Either he carries that same bucket up and puts it back, or there are two, and no page says which, and
+`outline/volume-16.md` §5 gives one bucket at the low place in the stone while §7.2 gives that man a bucket and a rag
+and does not say whose. **THE REPAIR IS ONE WORD IN ONE OF TWO PLACES AND THE SENTENCE IN 0771 IS ONE OF THE FOUR
+LOAD-BEARING DECLARATIONS THIS MANUSCRIPT'S PLAN REQUIRES. IT IS NOT REPAIRED HERE. IT IS CARRIED AT
+`state/open-threads.md` WITH THE TWO CHAPTERS THAT HOLD BOTH HALVES OF IT AND IT IS NOT PUBLISHED AS CLEAN.**
+
+### 11.4 THE FIGURES AFTER THESE REPAIRS, EVERY ONE WITH ITS INSTRUMENT, ITS READING AND ITS SCOPE ON THE SAME LINE
+
+| Figure | Instrument, reading and scope | Value now | What it replaced |
+|---|---|---|---|
+| words, heading line in and out | letters and apostrophes, ten files, both orders | **10,704 and 10,621** | 10,712 and 10,639 |
+| **bolded share** | words inside bold marks over all words, heading line in | **3.95 weighted, 423 bold words of 10,704** | 3.95 and 423 |
+| chapter length | heading line out | **874 to 1,449, a mean of 1,062** | 874 to 1,456, a mean of 1,064 |
+| paragraph classes | a speech paragraph carries a quotation mark **and** a bold mark; heading lines and `---` excluded | **192 prose, 10 speech, 0 plain, 0 bold-without-a-quotation-mark, 0 prompts** | the same five figures, and **the only row on either side of this table that no sentence in either direction moved** |
+| paragraphs of three sentences or more carrying a physical action | three or more sentences and one of the twenty verbs at §3 | **61, of which 50 carry the action** | 59, of which 52 |
+| sentence scale | more than two words, split on `.!?`, heading line out, whole files | **mean 25.0, median 23, p90 43, max 60, 15.8 per cent at forty words or more, out of 424** | mean 25.2, median 23, p90 44, max 60, 15.9 per cent, out of 422 |
+| sentence scale, per file | same instrument, per file | **medians 23, 28, 20, 23.5, 19, 22, 22, 23, 27, 25; maxima 50, 52, 56, 48, 44, 58, 57, 60, 49, 60** | **the maximum did not rise. The three sentences this pass wrote that went over sixty words were split before they were published, which is the only reason the maximum is still sixty, and 0779's own maximum came down by ten.** |
+| `that`, `nobody`, `that room` | word-bounded, both case flags, heading line out, per thousand words | **38.7, 5.6, 5.6** | 38.0, 5.5, 5.3 |
+| `his/her/its/their own` | literal, both case flags, heading line out | **41 occurrences, 3.9 per thousand** | 41 occurrences, 3.8 per thousand |
+| the triple-*nobody* chain | `nobody X and nobody Y and nobody Z` inside one sentence | **0** | 0 |
+| the forty-word class | scope 1, my ten against my other nine, both readings | **0 shared passages in 0 pairs** | 0 |
+| the forty-word class | scope 2, my ten against the seven hundred and seventy outside, both readings | **0 files of the ten share a forty-word run with any of them** | 0 |
+| the forty-word class | scope 3, my ten against itself at distinct positions | **0**, and the sixteen-word self-repeat **0 in 10 of 10 files** | 0 |
+| the sixteen-word class, within the ten | the same instrument at sixteen, both readings | **0 shared passages in 0 pairs** | 0 |
+| the sixteen-word class, against the outside | the same instrument at sixteen against all seven hundred and seventy | **0 files of the ten share a sixteen-word run with any of them, and so none at forty** | 0 |
+| the ten closings | read whole, each against the body of its own chapter, and all ten counted against one another, twice | **0 shared runs of six words or more, and 2 at five words**, and both of the two are on the files as three passes left them: *the side of that yard* between 0771 and 0773, and *in the middle of it* between 0771 and 0775 | 0 at six and 2 at five, and **the same two** |
+| closing/body self-overlap | a run of eight words or more shared between a closing and the body of its own chapter | **0 in eight of the ten; 1 in 0779 and 5 in 0771, and all six are locatives** | the same six |
+| panels, digits in prose, bare three-digit numerals, trailing newline, chapter-title range | as at §3 | **0, 0, 0, 10 of 10, four to eight in 10 of 10** | the same five figures |
+| the zero column | *nine steps*, *passage*, *privilege*, *player*, a narrator frame, `Stage N`, *days since*, *slate*, *about four people a day*, the un-reduced `four people a day*, *four days before* | **all zero** | all zero |
+| the two figures in one sentence | a sentence carrying a nine-figure and an `about four` together, §16.14 | **0** | 0 |
+| Adrian Vale | literal, whole files, both orders, against `outline/volume-16.md` §14.3's own Adrian column | **3 of 10 — 0771, 0773, 0780**, and on no other of the ten does his surname or his forename appear | 3 of 10 |
+
+**THE TWO FIGURES THAT ARE WORTH A ROW BECAUSE THEY ARE THE ONES A SCRIPT CANNOT RAISE. (i) THE SIX FAULTS OF §11.1
+ARE ON THE PAGE NOW AND WERE NOT A COUNT OF ANYTHING: the forty-word class returns 0 in all three scopes, the
+sixteen-word class returns 0 inside the ten and against the seven hundred and seventy outside, the closings return 0
+shared runs at six words, and **all six of the six faults would still be on the page if every one of those instruments
+had been run a hundred times.** (ii) THE PHRASE *HE PUTS IT* APPEARS NOW ONCE IN THE TEN, IN 0771, WHERE IT IS ABOUT
+THE MAN OF ABOUT THIRTY-EIGHT AND HIS OWN BARROW, AND IT APPEARS NOWHERE IN 0780'S CLOSING WHERE IT ATTACHED ITSELF
+TO THE WRONG MAN — **which is the whole of finding 6, and it is a pronoun fault, and no pronoun instrument in this
+repository exists.**
+
+### 11.5 WHAT THIS PASS DID NOT DO, AND IT IS THE SAME LIST
+
+**The ten days, the ten cards, the decision on 0775, both costs, the wants, the outcomes, the four declarations,
+`outline/volume-16.md`, `outline/series.md`, `bible/`, `outline/ending.md`, the second slate, the mark that came back
+out of place, the fence, the satchel, and the six prohibitions the batches behind this one carry. NO NUMBER IS SAID
+ALOUD BY ANYBODY IN THAT ROOM AND NONE IS STATED BY THE NARRATOR ON ANY PAGE FROM DAY 776 TO DAY 780, AND THE RULE
+DID NOT LAPSE. NO PLAN FILE WAS EDITED. NO NOTICE WAS SENT AND NO DOCUMENT WRITTEN. NO MARKER FILE WAS CREATED OR
+REMOVED, AND `workspace/volume-16/batch-0003/.checkpoint` WAS LEFT ON DISK WHERE IT WAS FOUND, BECAUSE IT IS A
+CONTROLLER MARKER AND **WHETHER IT SHOULD SURVIVE A CLOSED BATCH IS A QUESTION FOR THE CONTROLLER AND NOT FOR A
+WRITER.** NO PHASE-LEDGER FIELD WAS TOUCHED. NO REVIEW DIRECTORY WAS CREATED. `workspace/volume-16/batch-0004/PROMPT.md`
+WAS EDITED IN THE ONE APPENDED BLOCK AND WAS NOT REWRITTEN, AND NO DIRECTORY WAS CREATED BEYOND IT.**
+
+### 11.6 THE TWO PROCESS FINDINGS, BOTH NAMED AND NEITHER ONE WORKED AROUND
+
+**THE INDEPENDENCE DEBT IS PAID FOR A SECOND TIME IN THIS VOLUME AND IT IS THE TWELFTH TIME IT HAS BEEN NAMED.
+`reviews/volume-16/` STILL DOES NOT EXIST, THE REVIEW DISPATCH STILL FALLS BACK TO THE WRITER'S OWN AGENT, AND THE
+EVIDENCE IS AGAIN THIS BATCH: SIX FAULTS SAT IN THREE CHAPTERS THROUGH THREE ROUNDS OF REPAIR AND EVERY INSTRUMENT
+IN THE REPOSITORY RETURNED CLEAN ON ALL SIX, AND THE REVIEW THAT FOUND THEM WAS A DIFFERENT AGENT FROM THE ONE THAT
+HAD BEEN RE-AIMING THOSE CHAPTERS. `state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status: planned`
+AND `attempts: 0`. BOTH LIVE IN FILES OWNED BY GITHUB ACTIONS AND NEITHER WAS OPENED.**
+
+**AND THE STATE LAYER IS A MEASURABLE COST NOW, AND THIS PASS PAID SOMETHING AGAINST IT RATHER THAN ONLY NAMING IT.
+`state/current.md` HAD REACHED 1,499 LINES AND 137 KB AS A STACK OF TWELVE BLOCKS, TEN OF THEM HEADED *THIS BLOCK IS
+NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT*, AND IT IS THE FIRST FILE THE NEXT RUN READS. THE ELEVEN SUPERSEDED
+BLOCKS HAVE BEEN MOVED WHOLE AND UNALTERED INTO `state/archive/current.md.volume-15-through-volume-16-batch-0002-full.md`
+AND `state/current.md` KEEPS THE LIVE LAYER AND THE THREE VOLUME-16 BLOCKS, WITH A ONE-LINE INDEX POINTING AT THE
+ARCHIVE. NOTHING WAS DELETED AND NOTHING WAS SUMMARISED ON THE WAY IN, AND **THE SAME PASS FOUND TWO OTHER STATE FILES
+AT 935 AND 829 LINES AND DID NOT TOUCH EITHER, BECAUSE A COMPACTION THAT HALVES A FILE THE NEXT BATCH WILL WRITE INTO
+IS A BIGGER RISK THAN THE BLOAT ON A FILE IT WILL ONLY READ.** `state/batch-summaries/volume-16-batch-0003.md` IS NOW
+1,163 LINES FOR TEN CHAPTERS AND THAT NUMBER IS PUBLISHED HERE RATHER THAN HIDED, AND IT IS THE SAME DEFECT §10.6
+NAMES AS THE INDEPENDENCE DEBT IN A DIFFERENT PLACE: A RECORD THAT GROWS BY APPENDING EVERY PASS IS A RECORD NO LATER
+PASS WILL READ WHOLE, AND THIS BLOCK IS DELIBERATELY THE LAST APPEND.**
+
+### 11.7 THE NEXT PHASE, UNCHANGED
+
+**`workspace/volume-16/batch-0004/PROMPT.md`, WHICH WRITES CHAPTERS 0781 TO 0790, DAYS 781 TO 790. IT REACHES DAY 787,
+WHICH IS THE ONE PANEL OF THIS VOLUME, AND IT IS HANDED THAT DAY AND NOT THE WORDS AND MUST NOT REPRINT THEM. IT
+INHERITS A NARRATOR THAT DOES NOT KNOW THE FIGURE AND A ROOM IN WHICH NO MOUTH MAY SAY IT, AND IT INHERITS THE TWO
+CORRECTIONS OF §11.2, WHICH ARE THE ONLY THINGS THIS PASS CHANGED IN IT.**

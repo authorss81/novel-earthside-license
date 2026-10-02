@@ -580,27 +580,33 @@ ten cards, the decision, the costs, the wants and the outcomes are unaltered.**
    of his own eye at his stall two stalls along, and nobody is going to do it with him any more. He turns his two
    hands over at the tenth hour and there is nothing on them at all, and he sits on in that bench after the room has
    gone, which is the first morning of that flood he has not got up off it the moment the room emptied.
-8. **0778, day 778 — THE CLOSING WAS RE-AIMED, THE BODY WAS NOT TOUCHED.** **WHAT WAS WRONG: the body said the
+8. **0778, day 778 — THE CLOSING WAS RE-AIMED, AND THE OPENING AND THE NINTH-HOUR PARAGRAPH WERE RE-AIMED WITH IT IN A
+   LATER PASS.** **WHAT WAS WRONG: the body said the
    board went down that stair under his arm at the tenth hour and the closing said that bench stood with it lying
    face up on it in an empty room at the tenth hour and would be there in the morning when the light came over that
    roof. A board cannot be in the two places on one morning, and 0779 opens with that man coming up that stair
    carrying it, so the body was right and the closing was wrong. THE CLOSING NOW STANDS ON: a bench with nothing on
    it where that board had been lying, the board face down against a man's own side with the shape of his own right
-   hand still lying in the middle of the rates where the light of the ninth hour had stood on it, and the woman of
+   hand still there in the middle of the rates where the light of the ninth hour had stood on it, and the woman of
    about twenty-nine at her own end of that bench with the book open in front of her the whole of that hour and never
    turning a page of it. NOTHING ELSE ON THE DAY MOVED, AND FOUR MORE PRE-EXISTING FAULTS IN THIS CHAPTER WERE FIXED
    IN THE SAME PASS: it no longer claims he laid that board face up *once in the length of this flood, for the length
    of about a minute*, which days 776 and 777 both contradict; it no longer dates the woman of about fifty-two's thing
    of her own to *four days before*; it no longer says the light of the ninth hour was still lying in the rates after
    the light had gone off that floor at the tenth hour; and it no longer has him *coming back from* the far end of that
-   bench to pick the board up when he had put it down at the far end and was not near it.** The day is still the second cost in the man's own mouth and still thanks by
+   bench to pick the board up when he had put it down at the far end and was not near it.** **AND THE REVIEW-FIX PASS
+   FOUND THE OPENING STILL HAD A HAND ON A BOARD THAT WAS UNDER HIS ARM, WITH THE NINTH-HOUR PARAGRAPH STILL SAYING
+   *FROM UNDER HIS ARM* NINE HUNDRED WORDS LATER. THE OPENING NOW SETS THAT BOARD DOWN FLAT ON THE WOOD AT THE NEAR END
+   OF THAT BENCH AT THE FOURTH HOUR, AND THE NINTH HOUR HAS HIM PICK IT UP OFF THE WOOD WHERE IT HAD BEEN LYING ALL
+   THAT MORNING AND CARRY IT THE LENGTH OF THAT ROOM. THE DAY, THE COST AND THE HOUR ARE UNCHANGED AND THE MOVE ACROSS
+   THAT FLOOR IS NOW SOMETHING HE DOES RATHER THAN SOMETHING THE NARRATOR STATES.** The day is still the second cost in the man's own mouth and still thanks by
    nobody: *I have put that figure into this room on more mornings of this flood than I can put in an order. Since
    Saturday morning I have not been able to tell you for one morning of this flood whether I stood in this room on
    it, and I am not going to be able to for the rest of my life.* Nobody improves on a word, nobody argues, nobody
    asks him why he did what he did on the Saturday, and nobody asks him whether he agrees with it. At the ninth
    hour he lays the board face up on the wood and leaves it lying there for the rest of the morning, and the room
    walks past it and looks at it and does not stop.
-9. **0779, day 779 — FIVE SENTENCES RE-AIMED, THE DAY UNCHANGED.** **WHAT WAS WRONG: the opening said he did not
+9. **0779, day 779 — SIX SENTENCES RE-AIMED OVER TWO PASSES, THE DAY UNCHANGED.** **WHAT WAS WRONG: the opening said he did not
    take the board to the far end of that bench and put it down at the far end two lines later; the body then put it
    a few feet from where a man's hands had been when those hands had been in the hollow at the near end; it had
    that man settle into a hollow in the wood at the far end, where there is no hollow; it had the woman of about
@@ -614,23 +620,38 @@ ten cards, the decision, the costs, the wants and the outcomes are unaltered.**
    about two fingers across at the foot of the middle one of those three columns, puts her own hand out about a foot
    over it and stops it there, takes it back and sits down again at the near end of that bench with her hands on the
    wood on either side of her own book. He does not look at the bare place
-   either. At the tenth hour his own hand goes flat over it and stays there going down that stair, and the closing
-   stands on the ninth year of that space lying face up in the light of that roof in the morning and on the hand
-   that went down over it being the same hand that would go up it. **No mouth in the chapter asks him what that
+   either. **AND THE REVIEW-FIX PASS FOUND THAT HE COULD NOT HAVE DONE ANY OF IT WITH THE BOARD AS THE PAGE HAD IT:
+   at the seventh hour he turned it face down against the leg of that bench and then laid his hand on the face of it,
+   and at the tenth hour he turned it over again with his palm on the bare place, and a face against a bench leg and a
+   face against a man's coat are both faces no hand can be on. HE NOW STANDS IT AGAINST THE LEG OF THAT BENCH WITH THE
+   FACE TURNED OUT AND HIS HAND ON THAT FACE FOR THE REST OF THE MORNING, AND AT THE TENTH HOUR HE TAKES THE HAND OFF
+   THE FACE AND PUTS IT LOW DOWN OVER THE BARE PLACE AND CARRIES THE BOARD DOWN THE STAIR UNDER THAT PALM. THE BEAT IS
+   STRONGER FOR IT: he keeps a hand flat on that face from the seventh hour and never once looks at the bare place, and
+   then his own hand goes down onto it without him looking. THE CHAPTER'S LAST IMAGE, A HAND COVERING IT, IS NOW TRUE
+   INSTEAD OF ASPIRING. A NUMBER THAT SAID *BOTH OF THOSE MORNINGS* AFTER NAMING ONE IS NOW *THAT MORNING* AND *THIS
+   ONE*, AND THE CLOSING NO LONGER PUTS A STRETCH OF BARE WOOD *INSIDE THE LIGHT*.**
+   At the tenth hour his own hand goes flat over it and stays there going down that stair, and the closing
+   stands on that board lying face up in the light of that roof at the far end of that bench in the morning and on the hand
+   that went down over that place being the same hand that would go up it. **No mouth in the chapter asks him what that
    space is, no name is spoken, and the second slate is on no page of it.**
-10. **0780, day 780 — THE CLOSING WAS RE-AIMED, THE BODY WAS NOT TOUCHED.** **WHAT WAS WRONG: the body had the
-    man of about thirty-eight take the far handle and walk the barrow down, and Adrian Vale walk beside it for the
-    first half mile and then turn round and go back down, and the barrow back in that yard at about the eighth hour
-    — and the closing put him on the fourth of those eleven miles at the tenth hour with his right hand on that
-    handle since the fourth hour, which is three miles further up the same flats and away from a barrow that had
-    already come home.** The closing now stands on him coming back into that yard on foot late in that morning
-    having walked every foot of that mile and a half down again in the weather with nothing in either hand to show
-    for it, the barrow standing where he puts it with the bottom of it scraped out and the week's work gone into that
-    low place, and nothing at all in the corner of that room over that market. **THE FIRST RE-AIMING OF THIS CLOSING
-    ALSO SAID THAT BARROW STOOD WHERE IT HAD STOOD EVERY MORNING OF THE FLOOD WITH THE WEEK'S WORK STILL IN THE BOTTOM
-    OF IT, WHICH ERASED THE ONE LASTING CONSEQUENCE THE CHAPTER HAD, AND THAT IS CORRECTED IN THE SAME PASS.**
-    NOTHING ELSE ON THE PAGE MOVED,
-    and the day still ends with that yard emptied an hour later than it is emptied on a morning of the flood and
-    the man of about thirty-eight still working at the low place at the ninth hour on a job he had finished by the
-    seventh hour every morning. **He does not obtain the barrow in that corner and the outcome is `no`, §4.1 having
-    no row for this day.**
+10. **0780, day 780 — THE CLOSING WAS RE-AIMED TWICE, THE BODY WAS NOT TOUCHED.** **WHAT WAS WRONG: the body had the
+     man of about thirty-eight take the far handle and walk the barrow down, and Adrian Vale walk beside it for the
+     first half mile and then turn round and go back down, and the barrow back in that yard at about the eighth hour
+     — and the closing put him on the fourth of those eleven miles at the tenth hour with his right hand on that
+     handle since the fourth hour, which is three miles further up the same flats and away from a barrow that had
+     already come home.** The closing now stands on him coming back into that yard on foot toward the tenth hour
+     having walked every foot of that mile and a half down again in the weather with nothing in either hand to show
+     for it, the barrow back in that yard with the bottom of it scraped out and the week's work gone into that
+     low place, and nothing at all in the corner of that room over that market. **THE FIRST RE-AIMING OF THIS CLOSING
+     ALSO SAID THAT BARROW STOOD WHERE IT HAD STOOD EVERY MORNING OF THE FLOOD WITH THE WEEK'S WORK STILL IN THE BOTTOM
+     OF IT, WHICH ERASED THE ONE LASTING CONSEQUENCE THE CHAPTER HAD, AND THAT IS CORRECTED IN THE SAME PASS.**
+     **AND THE REVIEW-FIX PASS FOUND THAT THE SECOND RE-AIMING HAD PUT THE WRONG MAN IN THE SENTENCE: *the barrow
+     stood where **he** puts it*, with *he* now Adrian, who put nothing in that yard and emptied nothing, and *his
+     coat*, which could be either of the two men on the page. THE BARROW IS NOW *BACK IN THAT YARD* WITHOUT A CLAIM
+     ABOUT WHO PUT IT THERE, THE HOUR IS *TOWARD THE TENTH HOUR*, AND THE COAT IS *ADRIAN'S OWN COAT*. THE TENSE IN
+     THE BUCKET DECLARATION WAS ALSO PUT BACK INTO THE PRESENT THIS MANUSCRIPT KEEPS IT IN.**
+     NOTHING ELSE ON THE PAGE MOVED,
+     and the day still ends with that yard emptied an hour later than it is emptied on a morning of the flood and
+     the man of about thirty-eight still working at the low place at the ninth hour on a job he had finished by the
+     seventh hour every morning. **He does not obtain the barrow in that corner and the outcome is `no`, §4.1 having
+     no row for this day.**

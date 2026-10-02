@@ -751,3 +751,62 @@ behind this one is at `state/batch-summaries/volume-16-batch-0002.md` §13 and t
 register-columns, bucket, board-declaration, chalk-declaration, keeper-and-her-book and wharf-man-and-his-barrow
 sentences were not written in this block or on the ten days. The nine cards of the ten files were not re-used and no
 new declaration was written to stand in one.**
+
+---
+
+## THE REVIEW-FIX PASS ON DAYS 0778, 0779 AND 0780 — SETTLED STATE OF THE WORLD. NEWEST AND IT WINS.
+
+**This block exists because three of these pages had a state of the world in them that another part of the same page
+contradicted, and a next writer who inherits either half without the other will build a contradiction of their own.
+Everything below was re-read against the files after the last edit and none of it is a plan.**
+
+**THE BOARD OF THE MAN OF ABOUT THIRTY-NINE, AND IT IS ONE BOARD AND NOT TWO, AND IT IS THE SAME BOARD ON DAYS 0788
+AND 0789 AS ON DAYS 0776, 0777, 0778 AND 0779. On days 0776 and 0777 it comes up that stair under his arm at the
+fourth hour, goes flat on the wood at the NEAR end of that bench, and goes back under his arm when he leaves. On day
+0778 it goes flat on the wood at the NEAR end of that bench at the fourth hour, he says his cost at the seventh hour,
+and at the NINTH hour he picks it up off the wood where it has been lying all morning, carries it the length of that
+room and lays it down flat at the FAR end of that bench with the long edge along the wood and the far end squared
+with the end of that bench, and he leaves it lying there until the tenth hour. On day 0779 he brings it up at the
+fourth hour and lays it down flat at that far end, face up, goes down into the row, comes back at the seventh hour
+and stands it against the leg of that bench WITH THE FACE OF IT TURNED OUT, keeps the flat of his right hand on that
+face for the rest of the morning without once looking at the bare place, and at the tenth hour takes that hand off the
+face, puts it low down over the bare place, lifts the board off the leg of that bench with his left hand and goes
+down that stair with the palm of his right hand on the bare place. THAT BOARD IS NEVER TURNED OVER AT ANY HOUR OF DAY
+0779 AND IT IS NEVER CARRIED WITH THE FACE AGAINST HIS OWN SIDE ON THAT DAY. IT DOES NOT LIE ON THAT BENCH OVERNIGHT
+AND IT IS NOT IN THAT ROOM IN THE MORNING UNTIL HE CARRIES IT UP, AND NO PAGE MAY PUT IT IN THAT ROOM ON A MORNING
+HE DID NOT BRING IT INTO.**
+
+**THE WOMAN OF ABOUT TWENTY-NINE AND THAT BENCH.** She is at the NEAR end of that bench on every one of the ten days
+771 to 780 **except day 779**, when she crosses that floor, stands over that board for the length of about a minute,
+puts her right hand out about a foot over the bare wood and stops it there, takes it back, goes the length of that
+floor and sits down at the near end again with her hands on the wood on either side of the book. **THE FAR END OF
+THAT BENCH IS LIVE: the man of about thirty-four sits at it a few feet along from that board on day 779, the woman of
+about fifty-two stands at it on the mornings she says nothing, and the man of about thirty-eight is at it with his
+barrow's handles on day 778. A NEXT WRITER MAY NOT HAND THE FAR END OF THAT BENCH TO A NEW PERSON WITHOUT SAYING WHERE
+THE PEOPLE WHO STAND AT IT WENT.**
+
+**THE BUCKETS.** Unchanged, and still a thread and not a fact: `chapter-0771.md` and `chapter-0780.md` each say the
+bucket in the low place in the stone is the only bucket in this city and `chapter-0771.md` says it has lain in that
+water through the whole of this flood, against `chapter-0776.md` and `chapter-0777.md`, which have the man of about
+twenty-seven carrying a bucket up out of the yard below that room. **The only change in this pass is the tense in
+0780's declaration, which is back in the present: *it lies in it*.** Whether there is one bucket or two is not settled
+here and is at `state/open-threads.md`.
+
+**ADRIAN VALE'S MORNING ON DAY 0780, SETTLED.** He puts a barrow that is not his up eleven miles of flats on its
+handles, is on the second of those miles at the sixth hour, meets the man of about thirty-eight coming up on foot at
+the seventh hour, that man takes the far handle and walks it down the rest of those flats, Adrian walks beside it for
+the first half mile, **TURNS ROUND AND GOES BACK DOWN ON FOOT, AND COMES INTO THAT YARD AT THE NEAR END OF THEM TOWARD
+THE TENTH HOUR WITH NOTHING IN EITHER HAND.** That yard was emptied an hour later than it is emptied on a morning of
+the flood and the man of about thirty-eight was still working at the low place at the ninth hour on a job he finished
+by the seventh hour every morning. The barrow came back down at about the eighth hour and was not emptied until the
+ninth. **He does not get it into the corner of that room over that market, and there is nothing at all in that corner.
+He is on the second of eleven miles of flats at the seventh hour and not on the fourth of them, and he is not on any
+handle after the seventh hour. The outcome is published `no`.** `outline/volume-16.md` §4.1 has no row for this day and
+`outline/volume-16.md` §14.3's map does, and that mismatch is a thread and not a repair.
+
+**WHAT WAS NOT TOUCHED BY THIS BLOCK.** The four declarations, the second slate, the mark that came back out of
+place, the fence, the satchel, the register's five figures, the lid of the box of chalk that does not shut, the rag on
+the stone lip and not inside the trough, and the six prohibitions. The ten days, the ten cards, the decision on 775,
+both costs, the wants and the outcomes. **No number is said aloud by anybody in that room and none is stated by the
+narrator on any page from day 776 to day 780, and the rule did not lapse. No plan file was edited and no notice was
+sent.**

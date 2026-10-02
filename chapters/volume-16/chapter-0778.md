@@ -1,6 +1,6 @@
 # Chapter 0778 — He Named What It Had Cost Him
 
-The man of about thirty-nine came up that stair at the fourth hour with his board under his arm. He stopped at the near end of that bench and stood the flat of his right hand on the face of it and left it there. At about the seventh hour he took it off and said it.
+The man of about thirty-nine came up that stair at the fourth hour with his board under his arm. He put that board down flat on the wood at the near end of that bench and stood the flat of his right hand on the face of it and left it there. At about the seventh hour he took it off and said it.
 
 It was the four hundred and sixty-third day of the Bare Month, a Tuesday. On the outside face of that door at the foot of the stair there was a day in chalk and nothing under it. The light was in the middle of that floor, and the man of about thirty-eight was at the far end of that bench with his barrow's handles round the corner behind him.
 
@@ -20,7 +20,7 @@ Then everybody in that room went on with the morning, which is what a room does.
 
 The change in that room came at about the ninth hour, and it was not a word.
 
-The man of about thirty-nine took his board from under his arm and laid it down flat on the wood of that bench at the far end of the room, face up, with the long edge along the edge of that bench. He put his right hand down flat in the middle of the face of it, and then he took his hand off and left it there and put both his hands in his coat.
+Then the man of about thirty-nine picked his board up off the wood where it had been lying all that morning and carried it the length of that room. He laid it down flat on the wood of that bench at the far end of it, face up, with the long edge of it along the wood and its far end squared with the end of that bench. He put his right hand down flat in the middle of the face of it, and then he took his hand off and left it there and put both his hands in his coat.
 
 He had carried that board under his arm through four markets for about nine years. He had laid it face up on that bench on the two mornings since the Saturday, and on both of those mornings he had stood at the near end of that bench with the flat of his hand on the face of it, and both of those mornings it had gone back under his arm before the morning was out.
 

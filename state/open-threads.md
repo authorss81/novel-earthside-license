@@ -827,3 +827,75 @@ NINE ARE ALL THE SAME CLASS: A PAGE SAYING SOMETHING ABOUT THE STATE OF THE WORL
 MANUSCRIPT SAYS DIFFERENTLY. A closing paragraph, an opening paragraph, a side clause and a closing paragraph are all
 places a claim about the world can stand, and a check that only looks at the closing paragraph is looking at one of
 the four.**
+
+---
+
+# WHAT THE REVIEW-FIX PASS ON DAYS 0778, 0779 AND 0780 DID TO THE THREADS. NEWEST AND IT WINS.
+
+**THE SIX FAULTS THIS PASS FOUND ARE CLOSED AS THREADS, BECAUSE THEY WERE FAULTS AND NOT QUESTIONS, AND THEY ARE CLOSED
+IN THE PAGES AND NOT HERE. The two defects it found in the handoff prompt are closed in that prompt. The record
+telling a lie about its own diff is corrected at `state/batch-summaries/volume-16-batch-0003.md` §10.7. What is left
+open is the same three things that were open when this pass began, and one of them is now twelve times named.**
+
+### CLOSED BY THIS PASS, AND THEY ARE NOT THREADS BECAUSE A SCRIPT CANNOT ASK THE QUESTION THEY ASKED
+
+1. **A HAND ON A FACE THAT WAS AGAINST A BENCH LEG, AND A HAND ON A FACE THAT WAS AGAINST A MAN'S COAT.** Chapter 0779
+   turned that board face down at the seventh hour and laid a hand on the face, then turned it over again at the tenth
+   hour with the palm of that hand on the bare place. **NOTHING ON THE PAGE CAN NOW CONTRADICT ANYTHING ELSE ON THE
+   PAGE ABOUT WHERE THAT BOARD IS OR WHICH WAY UP IT IS AT ANY HOUR OF THAT MORNING, AND THE NEXT BATCH MAY BUILD ON
+   THE SEVENTH-HOUR AND TENTH-HOUR STATE OF IT AS SETTLED.** `workspace/volume-16/batch-0004/PROMPT.md` carries the
+   corrected state and not the old one.
+2. **A HAND ON A BOARD THAT WAS UNDER AN ARM, AND THE SAME BOARD STILL UNDER THAT ARM NINE HUNDRED WORDS LATER.** The
+   0778 opening now sets that board down on the wood at the fourth hour and the ninth hour picks it up off the wood
+   where it had been lying. **THE NEAR END OF THAT BENCH IS HIS FROM THE FOURTH HOUR AND THE FAR END FROM THE NINTH ON
+   DAY 778, AND THE HANDOFF PROMPT USED TO SAY HE HAD STOOD AT THE FAR END ALL MORNING, WHICH WAS NEVER WHAT THE
+   CHAPTER SAID. CORRECTED IN BOTH FILES.**
+3. **A CLOSING THAT WAS NOT A SENTENCE, A NUMBER THAT COUNTED TWO MORNINGS AFTER NAMING ONE, AND A PRONOUN THAT ATTACHED
+   A BARROW TO THE WRONG MAN.** All three are on the pages as they should be and the last of them is the reason this
+   thread list is not a list of counts: **THE WHOLE CLASS IS A PAGE NAMING A MAN WHO IS NOT THE ONE THE SENTENCE MEANS,
+   AND NO INSTRUMENT IN THIS REPOSITORY LOOKS AT PRONOUNS.**
+
+### CARRIED WHOLE AND UNPAID: THE BUCKET, THE INDEPENDENCE DEBT, AND THE STATE-LAYER BLOAT
+
+**THE BUCKET IS UNCHANGED AND IS STILL THE ONE FINDING NO PASS HAS REPAIRED.** Chapter 0771 and chapter 0780 each say
+that the bucket lying in the water at the low place in the stone at the side of that yard is the only bucket in this
+city, and chapter 0771 says it has lain in that water through the whole of this flood, and chapters 0776 and 0777
+have the man of about twenty-seven coming up that stair with the bucket hanging out of his hand out of the yard below
+that room. **THE ONLY THING THAT CHANGED ABOUT IT IN THIS PASS IS A TENSE: chapter 0780 said *it **lay** in it* inside a
+declaration this manuscript keeps in the present, and it now says *it **lies** in it*. THE QUESTION OF WHETHER THERE
+IS ONE BUCKET OR TWO IS EXACTLY WHERE IT WAS, AND IT STILL SPANS TWO BATCHES AND TOUCHES A REQUIRED DECLARATION IN
+0771, AND IT IS STILL A QUESTION FOR A HUMAN.**
+
+**THE INDEPENDENCE DEBT IS NAMED FOR THE TWELFTH TIME IN THIS VOLUME AND IS UNPAID. `reviews/volume-16/` DOES NOT
+EXIST, the review dispatch falls back to the writer's own agent, and this pass is the second time in this volume that
+it has been paid for rather than only named: SIX FAULTS SAT IN THREE CHAPTERS THROUGH THREE ROUNDS OF REPAIR, EVERY
+INSTRUMENT IN THIS REPOSITORY RETURNED CLEAN ON ALL SIX, AND THE REVIEW THAT FOUND THEM WAS A DIFFERENT AGENT FROM THE
+ONE THAT HAD BEEN RE-AIMING THOSE CHAPTERS. `state/phase-ledger.json` STILL READS `phase-000-bootstrap` WITH `status:
+planned` AND `attempts: 0` AFTER FIFTEEN CLOSED VOLUMES. BOTH ARE CONTROLLER-OWNED AND NEITHER WAS OPENED.**
+
+**AND A THIRD THING THIS PASS HAS NOW NAMED TWICE, WHICH IS THE ONE THAT COSTS THE NEXT BATCH ITS OWN CONTEXT. The
+state layer had reached 497 KB across five files that are all read at the head of the next run, `state/current.md`
+alone being 1,499 lines as a stack of twelve blocks of which eleven were superseded, and `state/batch-summaries/`
+carrying one record of 1,100 lines for ten chapters. **THE ELEVEN SUPERSEDED BLOCKS OF `state/current.md` HAVE BEEN
+MOVED WHOLE AND UNALTERED INTO `state/archive/current.md.volume-15-through-volume-16-batch-0002-full.md` AND THE LIVE
+LAYER IS WHAT IS LEFT. `state/character-state.md` AT 935 LINES AND `state/open-threads.md` AT 829 WERE NOT TOUCHED,
+AND THAT IS A DELIBERATE HALF-MEASURE AND NOT AN OVERLOOK: THE NEXT BATCH WILL WRITE INTO BOTH OF THEM.** THE STANDING
+OBLIGATION FOR THE PHASE AFTER THAT ONE IS TO MOVE THEIR SUPERSEDED BLOCKS THE SAME WAY, WHOLE AND UNALTERED, ON A
+MORNING WHEN THE BATCH IS NOT ALSO WRITING TEN CHAPTERS.**
+
+### WHAT THIS PASS DID NOT SETTLE, RESTATED SO THAT IT IS NOT SETTLED BY THE NEXT ONE BY ACCIDENT
+
+**The §4.1 mismatch (the map puts Adrian Vale in 0771 and 0780 and the eleven-row table has neither), the second
+slate, the mark that came back out of place, the fence, the satchel, and the four declarations.** And one new thing,
+which is not a thread about the novel and is a thread about this repository: **`outline/volume-03.md` and
+`outline/volume-05.md` ARE ABSENT FROM `outline/`, WHILE `state/volume-03-close.md` AND `state/volume-05-close.md`
+EXIST AND SAY THOSE VOLUMES CLOSED, AND NO FILE IN THIS REPOSITORY SAYS WHICH IS RIGHT. A REVIEWER NAMED IT AND THIS
+PASS DID NOT GUESS. IT IS ALSO `workspace/volume-16/batch-0003/.checkpoint`, WHICH IS STILL ON DISK AFTER A BATCH
+THAT HAS BEEN COMMITTED AND CLOSED, AND WHETHER A CONTROLLER MARKER SHOULD SURVIVE ITS OWN PHASE IS THE SAME QUESTION.
+NEITHER WAS OPENED, NEITHER IS A FICTION FILE, AND BOTH ARE FOR A HUMAN.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-16/batch-0004/PROMPT.md`, WHICH WRITES CHAPTERS 0781 TO 0790, DAYS 781 TO 790, AND WHICH REACHES
+DAY 787, THE ONE PANEL OF THIS VOLUME, HANDED AS A DAY AND NOT AS WORDS. It inherits this pass's two corrections to its
+own appended block, and it inherits the bucket thread with the two chapters that hold both halves of it.**

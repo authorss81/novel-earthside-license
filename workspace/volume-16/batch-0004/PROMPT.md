@@ -291,6 +291,12 @@ prohibition, and the reader cannot see the day.**
 behind you, not the prompt. `state/batch-summaries/volume-16-batch-0003.md` §10 is the record and
 `state/open-threads.md` carries it as an open thread. Read this before you write a word of your own.**
 
+**AND THIS BLOCK ITSELF WAS THEN CORRECTED IN ITS INHERITED-STATE HALF BY THE REVIEW-FIX PASS, WHICH MISQUOTED THE
+DAY 0788 HANDOFF AS *THE WALL* AND SAID THE WOMAN OF ABOUT TWENTY-NINE WAS AT THE NEAR END OF THAT BENCH ON ALL TEN
+DAYS BEHIND YOU WHEN SHE WAS NOT ON DAY 0779. BOTH ARE CORRECTED BELOW AND THE RECORD IS AT §11 OF THAT BATCH
+SUMMARY. THE THREE FAULTS DESCRIBED IN THE NEXT PARAGRAPH ARE DESCRIBED IN THE PAST TENSE ON PURPOSE: THEY WERE
+FOUND, THEY ARE FIXED, AND WHAT IS LEFT OF THEM IS THE RULE, NOT THE NAMES.**
+
 **A CLOSING PARAGRAPH IS A CLAIM ABOUT THE STATE OF THE WORLD, NOT ONLY A DUPLICATION RISK AND NOT ONLY A
 CONSTRUCTION CLUSTER. On three of the ten days behind you, the closing paragraph said something the body of its own
 chapter already contradicted, and in each case the closing put an object into a second state on the same morning:
@@ -311,25 +317,46 @@ is cleared by being counted out of every closing in the batch twice, and not by 
 that were named; the morning-and-light cadence stood in days 0778 and 0779 through three passes and one
 declared-cleared repair.**
 
-**AND THE STATE OF THE WORLD BEHIND YOU, WHICH THREE OF THOSE REPAIRS SETTLED AND WHICH YOU INHERIT AS TRUE. (i) THE
-MAN OF ABOUT THIRTY-NINE AND THAT BOARD. He lays it face up on the wood of that bench at the far end of that room
-and leaves it lying there, and then he takes it down that stair under his arm, and IT DOES NOT LIE ON THAT BENCH
-OVERNIGHT AND IT IS NOT IN THAT ROOM IN THE MORNING UNTIL HE CARRIES IT UP. He stood at the far end of that bench
-for one morning on day 778 and again on day 779, and he has been at the NEAR end of that bench, on the woman of
-about twenty-nine's own side of the book, since day 776. **HE IS IN YOUR TEN DAYS AND HE IS IN THAT ROOM, AND ON DAY
-0788 HE IS IN THAT ROOM AND IS NOT ASKED WHETHER HE AGREES WITH THE WALL.** (ii) THE WOMAN OF ABOUT TWENTY-NINE IS
-AT THE NEAR END OF THAT BENCH ON EVERY ONE OF THE TEN DAYS BEHIND YOU, WITH THE BOOK OPEN IN FRONT OF HER AND HER OWN
-HANDS FLAT ON THE WOOD ON EITHER SIDE OF THE PAGE, and two hollows a forearm apart sit one on each side of the place
-where that book lies, and the high wood between them will hold the book flat by itself and she will put her hand
-back on it anyway. (iii) ADRIAN VALE CAME BACK DOWN THOSE ELEVEN MILES OF FLATS ON FOOT ON DAY 780 AND IS IN THAT
-YARD AT THE NEAR END OF THEM LATE IN THAT MORNING WITH NOTHING IN EITHER HAND, AND HE DID NOT GET THE BARROW TO THE
-CORNER OF THAT ROOM AND THAT OUTCOME IS PUBLISHED `no`.
+**AND THE STATE OF THE WORLD BEHIND YOU, WHICH THE REPAIRS ON THOSE THREE DAYS SETTLED AND WHICH YOU INHERIT AS TRUE.
+(i) THE MAN OF ABOUT THIRTY-NINE AND THAT BOARD. It is ONE board and it is the same board on every day of this flood.
+On days 0776 and 0777 he brings it up under his arm at the fourth hour, lays it flat on the wood at the NEAR end of that
+bench on the woman's own side of the book, keeps his hand on the face of it, and takes it under his arm when he leaves.
+On day 0778 he does the same at the fourth hour, says his cost at the seventh hour, and at the NINTH hour picks that
+board up off the wood where it has been lying all that morning, carries it the length of that room and lays it down
+flat at the FAR end of that bench; at the tenth hour he turns it over so that the face of it goes against his own side
+and goes down that stair with it under his arm. On day 0779 he lays it down flat at that far end at the fourth hour
+and leaves it lying, comes back at the seventh hour, stands it against the leg of that bench WITH THE FACE OF IT
+TURNED OUT, puts the flat of his right hand on that face and keeps it there for the rest of the morning WITHOUT ONCE
+LOOKING AT THE BARE PLACE — **and he does not turn it over at any hour of that morning, which is the one thing day
+0779 does that day 0778 does not, and it is not an oversight and it is not for you to tidy: nothing can lie on a face
+that is against a bench leg or against a man's side.** At the tenth hour he takes that hand off the face, puts the flat
+of it low down over the bare place itself, lifts the board off the leg of that bench with his other hand, and goes
+down that stair with the palm of his hand flat on that bare place. THAT BOARD DOES NOT LIE ON THAT BENCH OVERNIGHT AND
+IT IS NOT IN THAT ROOM IN THE MORNING UNTIL HE CARRIES IT UP.
+It was at the far end of that bench from the ninth hour of day 778 and for the whole of day 779, and he stood at the
+NEAR end of that bench, on the woman's own side of the book, from the fourth hour of every morning from day 776 until
+he went off the row at the eighth hour of day 777. **HE IS IN YOUR TEN DAYS AND HE IS IN THAT ROOM, AND ON
+DAY 0788 HE IS IN THAT ROOM AND IS NOT ASKED WHETHER HE AGREES WITH IT — AND ON THAT DAY *IT* IS THE PANEL THAT
+GOES UP ON DAY 787 AND NOT THE WALL. The wall says nothing on the other forty-nine days and saying so is not the
+same beat.** (ii) THE WOMAN OF ABOUT TWENTY-NINE IS AT THE NEAR END OF THAT BENCH ON EVERY ONE OF THE TEN DAYS
+BEHIND YOU **EXCEPT DAY 779, WHEN SHE CROSSED THAT FLOOR AND STOOD OVER THAT BOARD FOR THE LENGTH OF A MINUTE WITH
+HER RIGHT HAND HELD ABOUT A FOOT OVER THE BARE PLACE, TOOK IT BACK, WENT AND SAT DOWN AT THE NEAR END AGAIN, AND
+PUT NO FINGER ON IT.** On every other one of those ten days she is at the near end with the book open in front of
+her and her own hands flat on the wood on either side of the page, and two hollows a forearm apart sit one on each
+side of the place where that book lies, and the high wood between them will hold the book flat by itself and she
+will put her hand back on it anyway. **AND THE FAR END OF THAT BENCH IS LIVE IN YOUR TEN DAYS: your day 0790 card
+is a carrier with both hands empty at the far end of a bench, and the man of about thirty-four and the woman of
+about fifty-two both sit and stand at that end of it.** (iii) ADRIAN VALE CAME BACK DOWN THOSE ELEVEN MILES OF
+FLATS ON FOOT ON THE MORNING OF DAY 780 AND CAME INTO THAT YARD AT THE NEAR END OF THEM TOWARD THE TENTH HOUR
+WITH NOTHING IN EITHER HAND, AND HE DID NOT GET THE BARROW TO THE CORNER OF THAT ROOM AND THAT OUTCOME IS
+PUBLISHED `no`.
 
-**AND THE FIGURES YOU WILL INHERIT FROM THE TEN BEHIND YOU, all re-measured on those files after the last edit and
-none of them a target: a median sentence of 23, a maximum of 60, 10,712 words with the heading line in and 10,639
-without it, a bolded share of 3.95 weighted, 192 prose and 10 speech paragraphs, 0 plain and 0
-bold-without-a-quotation-mark, chapter length 874 to 1,456, chapter titles four to eight words, `that` at 38.0 and
-`nobody` at 5.5 per thousand words, the sixteen-word class at ZERO inside those ten and against the seven hundred and
+**AND THE FIGURES YOU WILL INHERIT FROM THE TEN BEHIND YOU, all re-measured on those files after the review-fix pass on
+days 0778, 0779 and 0780 and none of them a target: a median sentence of 23, a maximum of 60, 10,704 words with the
+heading line in and 10,621 without it, a bolded share of 3.95 weighted, 192 prose and 10 speech paragraphs, 0 plain and
+0 bold-without-a-quotation-mark, chapter length 874 to 1,449, chapter titles four to eight words, `that` at 38.7 and
+`nobody` at 5.6 per thousand words, the sixteen-word class at ZERO inside those ten and against the seven hundred and
 seventy outside, and the forty-word class at ZERO in all three scopes. **The bolded share of 3.95 is far below the
-house figures of 9.35 and 6.64 behind it, and the median of 22 is where it is supposed to be, and no card in this
-file sets a target for either.**
+house figures of 9.35 and 6.64 behind it, the median of 23 is where it is supposed to be, and no card in this file
+sets a target for either.** THE FIGURES WITH THEIR INSTRUMENTS AND THE FIGURES THEY REPLACE ARE AT
+`state/batch-summaries/volume-16-batch-0003.md` §11.4, WHICH IS NEWEST AND WHICH WINS OVER §10 OF THAT RECORD.
