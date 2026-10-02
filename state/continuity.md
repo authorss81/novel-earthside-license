@@ -810,3 +810,18 @@ the stone lip and not inside the trough, and the six prohibitions. The ten days,
 both costs, the wants and the outcomes. **No number is said aloud by anybody in that room and none is stated by the
 narrator on any page from day 776 to day 780, and the rule did not lapse. No plan file was edited and no notice was
 sent.**
+
+---
+
+# WHAT THE THIRD TEN DAYS OF VOLUME 16 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST AN ARCHIVE.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+30. **The panel went up on day 787 and came down with the light.** One wall, one morning, one plain block with no mark, unrepeated in any mouth, unjudged by any mouth, the man of about thirty-nine present and unasked. The wall says nothing on the other nine days of this batch.
+31. **The third cost is paid and it is on a page.** On day 787 the woman of about fifty-two asked one question about the book and the woman of about twenty-nine answered it with one answering word. No thanks, no improvement, no second question, nothing acted on before the tenth hour. Nobody remarked that a number was said aloud.
+32. **Adrian Vale's twelfth day failed on the page.** He set his palm to the flat of the door to hold it open for passers-by; the bar held it to a slit; a carrier shifted a full bucket, spilled water, kicked the wedging stone clear; the door shut and was made sure from inside. Published `no`.
+33. **The stool, the lip, the outside board and the far end stand as left.** The stool empty on its knot; the lip damp; the outside board wiped with the plaster above untouched; the far end of the bench twice holding a board and once holding empty hands.
+
+**AND WHAT DID NOT MOVE: the register with five strokes and a day against each, none struck, no sixth, none taken out; the shaded form behind it on the same shelf never lifted by any hand but hers; the fence sixteen willow posts and eleven withies on the same cord, unmeasured, no post moved; the bucket in the low place, the rag on the lip and not inside the trough, the chalk-box lid ajar; the bar in its sockets; no notice, no document, no name, no new person, no stronger person, no answered question.**

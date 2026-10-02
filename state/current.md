@@ -560,3 +560,13 @@ REACHES DAY 787, IS HANDED THAT DAY AND NOT THE WORDS, AND MUST NOT REPRINT THEM
 know the figure and a room in which no mouth may say it, and it inherits this pass's two corrections to its own
 appended block, and the far end of that bench is live on its day 0790.** No continuation directory, no sixth batch, no
 card file under `outline/`, no marker file.
+
+---
+
+## VOLUME 16, BATCH 0004 — CHAPTERS 0781 TO 0790, DAYS 781 TO 790. THE PANEL IS UP AND THE THIRD COST IS PAID. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**WHAT THIS PHASE WAS.** Ten chapters, ten days, days 781 to 790, one chapter to a day, Friday to Sunday, the four hundred and sixty-sixth to the four hundred and seventy-fifth day of the Bare Month. It decided nothing, invented no person, took no descriptor, sent no notice, wrote no document, opened no plan file, and touched nothing under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`, and created and removed no marker file. The ten cards are at the head of `state/batch-summaries/volume-16-batch-0004.md`.
+
+**THE PANEL IS ON DAY 787 IN ITS OWN PLAIN BLOCK, UNREPEATED AND UNJUDGED, DECIDER PRESENT AND UNASKED. THE THIRD COST IS ON THE SAME MORNING: one question about the book, one answering word, no thanks, no second question, nothing acted on. FROM PAGE ONE OF DAY 776 THE SPENT FIGURE IS IN NO MOUTH AND IN NO NARRATION, AND THIS BATCH KEEPS IT SO ON 781–785 AND 788–790; the only answering word in the ten is `Five` about the book's middle column. ADRIAN VALE IS IN 0786 AND IN NO OTHER, PUBLISHED `no`. Figures with readings and scopes are at `state/batch-summaries/volume-16-batch-0004.md`; the sixteen-word class is at zero within the ten and against the seven hundred and eighty outside and the forty-word class at zero in all three scopes.**
+
+**THE NEXT PHASE IS `workspace/volume-16/batch-0005/PROMPT.md` AND NOTHING ELSE. It writes chapters 0791 to 0800, days 791 to 800, and it reaches the resolution on day 795, the new question on day 798 asked and not answered, and the last image on day 800 of a hand on a flap.**

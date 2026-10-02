@@ -899,3 +899,14 @@ NEITHER WAS OPENED, NEITHER IS A FICTION FILE, AND BOTH ARE FOR A HUMAN.**
 **`workspace/volume-16/batch-0004/PROMPT.md`, WHICH WRITES CHAPTERS 0781 TO 0790, DAYS 781 TO 790, AND WHICH REACHES
 DAY 787, THE ONE PANEL OF THIS VOLUME, HANDED AS A DAY AND NOT AS WORDS. It inherits this pass's two corrections to its
 own appended block, and it inherits the bucket thread with the two chapters that hold both halves of it.**
+
+---
+
+# VOLUME 16, BATCH 0004 — WHAT THESE TEN DAYS OPENED, CLOSED, AND DID NOT TOUCH. NEWEST AND IT WINS.
+
+24. **THE PANEL IS UP AND IT IS SPENT.** Day 787 carries the one panel in fifty chapters, in its own plain block, unrepeated, unjudged, decider present and unasked. Nothing in this batch repeats one word of it in any mouth or narration outside the block. This thread closes as a placement; the wall's silence on the other forty-nine days stands.
+25. **THE THIRD COST IS PAID AND IT IS ON A PAGE.** Day 787: one question about the book, one answering word that is a number, no thanks, no second question, nothing acted on. Nobody in the room remarks on it. Carried as spent, not to be rehearsed or undone.
+26. **ADRIAN VALE'S TWELFTH DAY IS PUBLISHED `no` FROM §4.1's ROW.** The door stayed shut, the bar stayed home, a carrier spilled water because of him, nobody thanked him. Carried as `no` on the page's own terms; no fourth `yes` invented.
+27. **THE FIGURE STAYS GONE.** Days 781–785 and 788–790 say it in no mouth and state it nowhere; the only answering word in the ten is `Five` on day 787 about the book's middle column. The sixteen-word class is at zero within the ten and against the seven hundred and eighty outside; the forty-word class is at zero in all three scopes. The bucket question (one or two) is inherited untouched; this batch neither settles it nor worsens it.
+
+**UNTOUCHED AND CARRIED WHOLE: the decision of day 775; costs 764 and 778; the resolution of day 795; the new question of day 798 unasked and unanswered; the last image of day 800; the missing name; the column-right word and the second-slate word never set beside one another; the mark of day 440 untraced; the fence unmeasured; the satchel shut; the woman of about sixty-nine still asking nothing; the consent fracture unmended; the independence debt and controller faults, owed by a human.**

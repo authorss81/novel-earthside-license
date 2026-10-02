@@ -987,3 +987,18 @@ that is not his, and he is inside that yard toward the tenth hour with nothing i
 wet through and dried and been wet through again since the fourth hour. **`outline/volume-16.md` §4.1's table has no
 row for 0771 or for 0780 and the map has both, and §4.1's table publishes `no` in all eleven of its rows against its
 own prose saying four are obtained. THAT IS A THREAD AND NOT A REPAIR, AND THE CONSERVATIVE READING IS `no` FOR BOTH.**
+
+---
+
+# WHAT THE THIRD TEN DAYS OF VOLUME 16 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added or removed, and NO NAME WAS GIVEN TO ANYBODY AND NO NAME WAS SPOKEN. Nobody got stronger and no milestone was paid.**
+
+- **The man of about thirty-nine (the decider):** carried his board up every room morning and down every tenth hour with its face to his side; stood it near-end then far-end; was in the room when the wall spoke and was not asked whether he agreed with it; was in the room the next day and was asked nothing.
+- **The woman of about twenty-nine (the keeper):** sat the near end with hands flanking the page; carried the book to the rear shelf every tenth hour; answered one question about the book with one word and was thanked by nobody.
+- **The woman of about fifty-two:** stood the far end with hands by her dress; asked the one question of the volume on day 787 and was given the one answering word; moved a pace for the carrier on day 790; never sat the stool in these ten days.
+- **The man of about thirty-four:** kept his hollow and his chalk in his pocket; noticed the empty far end on day 781; asked nothing of anybody; moved far-end once in memory only.
+- **The man of about thirty-one (the carrier):** kept his satchel shut with its flap down; left it below on day 790 and stood the morning at the far end with both hands empty.
+- **The man of about twenty-seven:** worked lip, trough, bucket and rag in the ordinary course; spilled nothing himself; was not asked anything.
+- **The man of about thirty-eight:** absent undatably on days 781–782; at his stack and lip on days 785 and after; asked nothing.
+- **Adrian Vale:** in one of these ten (0786), palm to a door flat to hold it open for passers-by, failing; the cause of a carrier shifting a full bucket and spilling water; thanked by nobody, told nothing, useful to nobody.
