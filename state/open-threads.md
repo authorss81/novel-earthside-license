@@ -189,3 +189,61 @@ it and nothing on these ten pages prepares that.
 **6. AND THE THREE FIGURES THAT STAND AND THAT NOBODY MAY ARGUE DOWN.** **The register has five strokes and no
 sixth. The bar has lain along that top step for every morning of these ten days and nobody put it back and nobody
 lifted it. The second slate stands on its shelf in the place it stood.**
+
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE THREADS ABOVE. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**1. TWO OF THE SEVEN WORDS CAME BACK, ON THEIR OWN DAYS, AND THE OTHER FIVE ARE AT ZERO ON ALL TEN OF THESE DAYS.**
+Measured on the ten bodies and the ten headings: **the word on 911 stands at one occurrence in one file and at zero
+in every heading, and the word on 916 stands at one occurrence in one file and at zero in every heading**, each said
+out loud once by the person `outline/volume-19.md` §6.4 fixes it to, each preceded by that person's own cost named
+out loud as the first speech paragraph of that chapter and going on longer than anything else said in that room
+that morning, and each unthanked, and in each case **nothing whatever was done about it at any hour of its day.**
+**THE OTHER FIVE STAND AT ZERO IN TEN BODIES AND ZERO IN TEN HEADINGS. THE THREADS STAY OPEN AND THE WORD ON 921 IS
+NOT PREPARED BY ANYTHING ON THESE TEN PAGES.**
+
+**2. THE NAME HELD AT `outline/volume-18.md` §6.8 IS NOW ON ONE SURFACE IN THIS MANUSCRIPT.** Open, and paid on a
+page, and it is the plan's own rule and not a leak: `outline/volume-19.md` §6.7 lifts that rule for one page of one
+day. **On 918 a man wrote his own name on the second slate in his own hand at the foot of the column that holds
+figures with a day against it, and the name appears once on that page and as writing and on no other surface in
+this volume.** Nothing about the other face of that slate is printed, no mouth in that room read the line while it
+was going in or after it was, nobody asked him why, and nobody said that anybody is more real for being in a book or
+less real for being out of one. **Rule (iv) of `outline/volume-18.md` §6.8 is in force again on every other day of
+this volume and on every other surface.**
+
+**3. THE REGISTER HAS ITS SIXTH STROKE.** Open, and it is a line about a person and not the person, and no chapter
+of these ten days says what the line is or whose line it is. **Five figures stood in that column for a hundred days
+and a sixth was entered on 918 and no seventh was entered on any of the ten and none was taken out. The thread stays
+open and no chapter of the ten asks to see the page while anything is being written on either of them.**
+
+**4. THE THREAD OF DAY 898, THE TWELVE STANDING QUESTIONS, THE CONSENT FRACTURE, THE FIFTH CONDITION, THE MARK OF
+DAY 440, THE WORD IN THE COLUMN ON THE RIGHT OF THE KEEPER'S PAGE, THE FOUR UNMERGED PAIRS OF PEOPLE, THE STOOL,
+THE ROPE, THE FENCE, THE SATCHEL, THE TALLY-BOARD AND THE BARE BOARD** — carried whole and all untouched. **On 914
+this volume asked a question in the family, to a different person, about a different thing, did not answer it, and
+asked no question about the room; that is `outline/volume-19.md` §16 item 7 discharged and nothing else was asked
+and nothing else was answered on any of the ten days.**
+
+**5. THE SPACE ON THE MAN OF ABOUT THIRTY-NINE'S OWN BOARD.** Open, and it was named four times in the ten days
+and was printed, explained, asked about and counted on none of them, and no name and no figure went into it. **Day
+924 is the day a figure goes into it and nothing on these ten pages prepares that.** The shaving the cloth pulled
+off the face of that board on 914 lies on the stone at the foot of his own trestle and nobody picked it up.
+
+**6. THE THREE FIGURES THAT STAND AND THAT NOBODY MAY ARGUE DOWN.** **The register has six strokes and no seventh.
+The bar has lain along that top step for every morning of these ten days and nobody put it back and nobody lifted
+it. The second slate stands on its shelf in the place it stood, with one line on its face that was not there on
+911.**
+
+**7. AND THE TWO NEW SMALL THREADS THESE TEN DAYS OPENED, BOTH OF THEM ABOUT INSTRUMENTS.**
+
+- **THE SILL'S TWO SHAPES WILL NOT LIFT.** They are not scratches and they are not marks made this morning, and no
+  rag goes under a shape and lifts it. A man went at that sill six times and could not move them and said so out
+  loud because he wanted it known he had been at it four times. **Nobody in that room said whose hand put the newer
+  one down or on what morning, nobody asked, and the two shapes came out of the sixth pass whiter than the wood
+  round them.**
+- **A GATE NAMED AS STANDING OPEN A FORTNIGHT, TWICE, IN TWO DIFFERENT WORDS, BY TWO PEOPLE, ON TWO MORNINGS.** It
+  was said in that market on the Thursday by the woman of about fifty-two and again on the Friday by the man of
+  about thirty-four in different words, and nobody in that row put the two side by side at any hour of the day. **The
+  gate was not shut and nothing whatever was done about what either of them said, and day 933 is the day it is shut
+  for one morning.**

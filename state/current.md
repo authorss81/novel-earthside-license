@@ -11,6 +11,81 @@ name are still in `state/archive/` and were not disturbed. THE REPAIR PASS ADDED
 LEFT THE PLANNING PHASE'S BLOCK UNDER IT IN PLACE AND UNTOUCHED, SO THIS FILE IS LONGER THAN IT FOUND IT BY THAT BLOCK
 AND BY NOTHING ELSE, WHICH `reviews/volume-19/outline.md` explains.**
 
+# THE BATCH THAT WROTE CHAPTERS 0911 TO 0920, DAYS 911 TO 920. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
+
+**TEN CHAPTERS EXIST. The manuscript is at nine hundred and twenty chapters and nineteen volumes and no chapter past
+0920 exists.** The file of record for this batch is `reviews/volume-19/batch-0002.md`, which carries every figure
+with its instrument, its scope and its reading, and `state/batch-summaries/volume-19-batch-0002.md` is its index.
+**This is the writer's own record of the writer's own pages and no independent reader of them exists, because
+`reviews/volume-16/` does not exist and the dispatch falls back to the default agent.**
+
+**WHAT THE TEN DAYS REACHED AND WHAT THEY DID NOT REACH.** **They reached the volume's second word on 911, its
+third word on 916, the sixth stroke in the register and a man's own name on the second slate on 918, the barrow and
+the store door at the salt wharf on 915 and 919, and the sill on 913. They did not reach the fourth word, which
+belongs to day 921, and they did not prepare it and printed nothing that could be read as preparing it.** Nothing was
+decided, no person was invented, no descriptor taken, no place named, no notice written, no document sent, and the
+wall said nothing on all ten days.
+
+**THE FIGURES IN ONE LINE.** 11,294 words across the ten bodies, mean 1129.4, 963 to 1255; 102 paragraphs and 30
+speech paragraphs; 50 quoted strings with zero bold marks without a quotation mark and zero quotation marks without
+a bold mark; zero panels; zero digits in bodies; titles five to eight words of title text; longest run shared by
+any two bodies 11, by any two closings 5, inside one body 15 at 0911 and 13 or under in nine of the ten; zero
+repeated sentences of 38 characters or more after seven casting-paragraph repeats were found and reworded;
+`nobody` 67 across ten files with a longest sentence-initial run of one; chapter equals day, weekday and Bare-Month
+ordinal 10 of 10 on a run derived from day 1 being a Tuesday and the ordinal being day less 315. **`passage` and
+`privilege` at 0. Adrian Vale in one of the ten and in nine he is not in. The seven words: two at 1 in 1 file each
+and 0 in every heading, five at 0 in ten bodies and 0 in ten headings.**
+
+**THE FIGURES THAT READ WORSE FOR THIS BATCH THAN FOR THE ONE IN FRONT OF IT, PUBLISHED RATHER THAN PASSED OVER.**
+The mean is 77 words a chapter above Batch 0001 and 245 above Volume 18's fifty bodies; the casting paragraph of six
+of the ten chapters reads like a ledger restated, with a Jaccard overlap of 0.224 to 0.549 over all forty-five
+pairs; and `nobody` stands at 67 across these ten files against 21 across the ten behind them. **All three are in
+`reviews/volume-19/batch-0002.md` with their instruments, and §17.4 says the mean is a consequence and not a plan
+and §16 item 2's rule is a rule about chains and not about the word.**
+
+**THE FOUR HELD STRINGS.** None is printed on any of the ten pages and none is printed in the state layer, the
+batch record or the summary. **Measured on the twenty chapter files of `chapters/volume-19/` and the five live state
+files: the decision's wording, its cost, the panel and the three wordings of day 940 each return at 0 across all
+twenty-five searched files.** For the name held at `outline/volume-18.md` §6.8 the plan lifts the hold for one page
+and for that page only: **the direct count is 1, the one file is `chapter-0918.md`, and the same count over the
+nineteen other chapter files and the five state files returns 0.** What is not published is a manuscript-wide
+count, and `reviews/volume-19/batch-0002.md` §12 says why in the row that carries the refusal.
+
+**WHERE EVERYTHING STANDS AT DAY 920.** The register is open on the bench at the far end with **six** strokes in the
+column that holds figures and a day against each and none struck, and the sixth went in on 918 in the keeper's hand
+and no chapter says whose line it is. The second slate is on the shelf behind the bench in the place it stood, with
+the register in front of it, and it **carries one line on its face that did not stand there on 911**, and nothing is
+printed about what is on the other face of it. The bar is along the top step out of its two sockets. The bare piece
+of board under the date in chalk has nothing on it and nothing went under the date. The gate stands open and was not
+shut. The chalk is in the stallholder's inside breast pocket at every hour of all ten days. The space on the
+tradesman's board is empty and was named four times and not printed. The trough has had no heat and its ice was not
+broken. The satchel has not been opened. The tally-board is face up. The store door is a hand's breadth across and
+nobody has given a reason. The stool is where the woman of about fifty-two left it. The two shapes in the sill's
+dust are undated and will not lift. About four people a day went past the foot of that stair in five of the ten
+bodies and the strip of ground itself is named in none of them. **The room was never counted.**
+
+**MUST CARRY INTO THE NEXT BATCH.** Day 921 is a Friday and the six hundred and sixth day of the Bare Month, and the
+fourth word of `outline/volume-19.md` §6.4 belongs to it, said by the man of about thirty-nine who trades on a
+board, with his own cost named out loud first, and **it is Adrian Vale's fourth of the nine, with his own hands on
+the lid of the box of chalk on the step that does not shut.** Nothing in these ten days prepares it. The figure in
+the space on that board is 924's. The decision about a second book is 925's. The panel is 929's. The act is 940's.
+The resolution is 943's. The one mark on the bare board is 950's.
+
+**OWED, AND BY WHOM, UNCHANGED BY THIS BATCH.** `outline/series.md` carries no Volume 19 and no decisions-of-record
+block for Volume 18 or 19. `NOVEL_SPEC.md`'s Status section is stale. `bible/power-system.md` has no §65 and no §66.
+The calendar fault at `chapters/volume-18/chapter-0864.md:5` is owed by a phase that writes chapters and is still
+unrepaired. `outline/volume-03.md` does not exist. `reviews/volume-16/` does not exist, **so every finding ever
+taken over this manuscript has been taken by the agent kind that wrote it, and the ten days behind this block are
+no exception and are not pretended to be one.** `state/phase-ledger.json` still reads `phase-000-bootstrap`.
+**All of these are at `outline/volume-19.md` §21.4 and this batch opened none of those files.**
+
+**THE NEXT PHASE IS `workspace/volume-19/batch-0003/PROMPT.md`, WHICH THIS BATCH CREATED, WITH ITS TEN CARDS AT
+THE HEAD OF IT.** It writes Chapters 0921 to 0930, days 921 to 930, from a Friday to a Sunday, and it reaches the
+fourth word on 921, the decision on 925 and the panel on 929. **This batch created that one directory and wrote that
+one prompt and nothing else.**
+
+---
+
 # THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 19. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
 
 **THIS PASS READ `logs/next-0005.review.log` AND REPAIRED AGAINST IT, AND THE FILE OF RECORD IS

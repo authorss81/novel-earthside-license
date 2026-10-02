@@ -273,3 +273,65 @@ lifted. The two shapes in the dust of the sill are still two and were not dated 
 people a day went past the foot of the stair in five of the ten bodies, always with the word *people* after it, and
 was never reduced and never used as a count of anybody. **The room was never counted and no mouth in it reached any
 number by any road, including on 910 where a question went round it for the better part of an hour.**
+
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE STANDING LAYER ABOVE. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**Ten days moved ten standing objects and two of them changed state. The figures for every one of them are in
+`reviews/volume-19/batch-0002.md` §7 and §8, and the standing layer above is untouched and nothing in it is
+withdrawn.**
+
+**THE TWO THAT CHANGED STATE, AND NOTHING ELSE DID.**
+
+1. **THE REGISTER NOW STANDS AT SIX STROKES IN THE COLUMN THAT HOLDS FIGURES, with a day against each, none
+   struck, and the sixth went in on 918 in the keeper's own hand and the chapter does not say whose line it is.**
+   Five strokes stood there for a hundred days and a sixth was not entered, and this is the first of the six that
+   exists. **No seventh was entered on any of the ten days and none was taken out, and the word *stroke* is in one
+   file of these ten.**
+2. **THE SECOND SLATE CARRIES ONE LINE ON ITS FACE THAT DID NOT STAND THERE ON 911.** A man wrote his own name on
+   it on 918 in his own hand at the foot of the column that holds figures with a day against it, and the name
+   appeared once on that page and as writing and on no other surface in this volume. **The slate is back on its
+   shelf in the place it stood with the register in front of it, it was carried back by the keeper's own hand, and
+   no hand but the keeper's lifted, turned or moved it on any of the ten days.** The phrase *the second slate*
+   returns three occurrences in two of the ten files and not one of the three describes a face.
+
+**THE FOUR THINGS A NEXT WRITER CANNOT GET FROM ANY OTHER FILE.**
+
+3. **THE WET HEAD OF THE REGISTER'S PAGE WENT FURTHER AND THE PAGE HAS COCKLED.** By 911 the pale line where the
+   water stopped on 901 had gone a thumbnail's length further into the paper overnight, and at the end of the pale
+   line the paper had cockled and stood up off the leaf about as thick as a nail. The keeper has the dry cloth on
+   the head of the leaf on 912, 916 and 917 and the wet got under the cover again on 911. **What it runs to, and
+   whether that day can ever be read off the page again, and whether anybody writes it out again in another hand,
+   are not decided on any of these ten days.**
+4. **A BARROW WENT OVER A RIDGE IN THE SALT WHARF YARD ON 915 THAT WAS NOT THERE ON MONDAY, AND FOUR BOARDS OF THE
+   STACK ENDED UP IN THE WET ON THE FAR SIDE OF IT.** On 919 a stack came down a board at a time and went along
+   the yard to the store door and stopped, because a hand's breadth is not enough to get a board through on its
+   side, and one board stood up in the gap for as long as it took somebody to stop talking. **Nobody gave a reason
+   and nobody was asked for one, the door was pushed once and went as far as it had ever gone, and the door is not
+   shut and not widened.**
+5. **THE BOARD ON THE OUTSIDE WALL AT THE FAR END OF THAT MARKET HAS BEEN SMEARED.** On 916 a woman with a basket
+   rubbed the heel of her hand across two of the figures in the middle of it and left a smear about as wide as four
+   fingers, and by the light's going those two figures could not be read again from that row. **Nothing was put on
+   that board on any of the ten days.**
+
+**AND THE THINGS THAT DID NOT MOVE AND THAT THE TEN DAYS DID NOT PRINT.** The bar is along the top step out of its
+two sockets and it is named in five of the ten bodies and in no closing. The bare piece of board under the date in
+chalk has nothing on it and nothing went under the date, and it is named in five of the ten bodies and was not
+touched on any of them. **The chalk stayed in the stallholder's inside breast pocket at every hour of all ten days,
+and on 917 a hand came off the bare back of his board and went to the outside of the coat and stopped on the cloth
+over the pocket and stayed there for the length of a minute, and the chalk did not come out of it.** No stick came
+out of the box of chalk on the step. The space about two fingers wide on the tradesman's board was named four times
+in the ten days and was printed, explained, asked about and counted on none of them, and no name and no figure went
+into it. The trough had no heat fetched on any of the ten days and the ice in it was not broken on any of them.
+The satchel was not opened on any of the ten days and no chapter says why he opens nothing he carries, and the flap
+of it was up on 0919 and down on every other day of the ten. The tally-board was face up on 915 and 0919 and was not
+turned over. The fence was not named on any of the ten days and was not measured and no post moved. The length of
+new rope was not lifted. The gate stands open and was not shut. The two shapes in the dust of the sill are still two
+and were not dated on any of the ten days and the man of about twenty-seven went at that sill six times and could
+not lift them. The stool was named in six of the ten bodies and nobody sat on it on any of them. **About four
+people a day went past the foot of the stair in five of the ten bodies, always with the word *people* after it, and
+the phrase *the strip of ground at the foot of that stair* is in none of the ten.** **The room was never counted
+and no mouth in it reached any number by any road, including on 914 where a question is put and is not answered
+and including on 918 where a man puts his own name down and a woman puts a sixth figure in a column.**

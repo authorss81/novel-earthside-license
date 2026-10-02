@@ -289,3 +289,92 @@ Adrian Vale's.
 QUILL** are on none of these ten pages and were asked nothing and none of them was brought up that stair. **The two
 women of twenty-nine, the two men of about thirty-eight and the two stallholders of about thirty-four were never
 merged and never settled in any of the ten.**
+
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 911 TO 920 DID TO THE PEOPLE ABOVE. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**NOBODY GETS STRONGER IN THESE TEN DAYS AND NOBODY GETS WEAKER EITHER, EXCEPT THAT TWO PEOPLE PUT SOMETHING DOWN
+THAT THEY HAD BEEN HOLDING AND NEITHER OF THEM IS THANKED. Adrian Vale is Stage 2 on all ten days, is in one of
+them, and is not in the other nine. A name is not a power and a line in a book is not a person; both of those are
+the volume's subject and neither is rendered as a gain.**
+
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER.** She paid **the volume's second cost** on 911, in her
+own mouth, as the first speech paragraph of that chapter, before anything else that morning, into the middle of the
+floor and not to anybody: saying the word took it out of her mouth alone and put it into the air of a room with nine
+feet between her and the far end of the bench, and from that morning anybody in the room who has seen anything at
+all will bring it to her before they bring it to anybody else, and she keeps the book, and she has not asked one
+person in that room where they were on any morning of this flood. **She said it once and did not say it again at
+any hour of that day, nobody answered it, nobody thanked her, and nothing whatever was done about it.** On 918 she
+entered the sixth stroke into the register in her own hand with a day against it, it was not struck, **nobody
+thanked her for it, and no chapter of the ten says whose line it is.** She told a man on 918 that she would not
+look at what he was writing and would not ask him afterwards what it said, and he asked nothing and said one thing.
+
+**THE WOMAN OF ABOUT FIFTY-TWO.** She paid **the volume's first cost on 903 and its third on 916**, in her own
+mouth, as the first speech paragraph of each chapter, and **she has now paid two costs and been thanked for
+neither, and no chapter of the ten says so.** The third cost is that saying a word for a room full of people makes
+her a person who has said it, and she is standing in the room as well, and there is no way of having said it from
+outside a room. **On 914 she said the same thing in two different words that the stallholder said the next morning
+and nobody put the two side by side.** She keeps her stool a foot out of its corner and nobody sits on it on any of
+the ten days.
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG.** He said one thing out loud into that market on
+914 and it had been said the day before in other words by somebody else, and he improved on neither. **His piece of
+chalk did not come out of his inside breast pocket on any of the ten days, and on 917 his own hand went to the
+outside of the coat and stopped on the cloth over the pocket and stayed there for the length of a minute and came
+off.**
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD.** He paid the third of the room's ordinary mornings at the
+cloth and did not stop it while a woman said the volume's second cost nine feet off him. **On 914 he put a question
+of his own into the row about what a board is for, and said he was not asking for an answer, and nobody gave him
+one and he did not ask again.** The space about two fingers wide at the foot of the middle column of that board was
+named four times in the ten days and was printed and explained and asked about and counted on none of them, and no
+figure went into it and no name did.
+
+**THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING.** He stood at the near wall for the better part of a
+quarter of an hour on 912 looking at the stair with nothing coming up it, and what went through him there was the
+Sunday morning at the gate and his own hands in the two worn places in the stone, and he has still not said one word
+about that to anybody. **The satchel was not opened on any of the ten days and no chapter of the ten says why he
+opens nothing he carries, and a strap-shaped band of plaster behind him has gone pale where it has crossed that
+wall morning after morning and he is the one who noticed it.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN.** His bucket and his rag were in that room or at the leg of that table on eight of
+the ten days. On 913 the piece of work his rag was for **did not come out**, because no rag goes under a shape in the
+dust of a sill and lifts it, and he said so out loud because he wanted it known he had been at it four times, and he
+went on with it. **On 917 he would not carry the bucket up to a room over a market for the sake of a board and said
+why in his own mouth. No heat was fetched for the trough on any of the ten days and the ice in it was not broken.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THAT SALT WHARF.** On 915 a barrow he sent over eleven miles of flats came back
+without the load, a ridge that was not in the yard on Monday took the near wheel up and the far side down into the
+soft to the axle, and he put four boards of the stack down in the wet on the far side of that ridge to get the barrow
+out. **On 919 he brought the stack down a board at a time and took it along the yard to the store door and the stack
+would not go through, and nobody in that yard gave a reason and nobody was asked for one.** His tally-board was face
+up on 915 and 0919 and its two lines of grey grit were not broken and were not counted as figures.
+
+**ADRIAN VALE.** In one of these ten and not in the other nine. On 915 his own hand was under the shaft of a barrow
+where it comes down out of the frame and his own shoulder against the frame of it, and he stayed there through three
+passes over a ridge so that the man at the handles got over without stopping, which he would not have done with the
+near end down. **He wanted the stack off the wet ground and not put down in it and got none of it: the stack went
+four boards short and four of those boards ended up in the wet on the far side of a ridge.** Nobody thanked him,
+nobody told him he was right, nobody in that yard was waiting for him to be useful and he was not useful to them.
+**His nine days are three spent — 903, 909 and 915 — and he learned nothing on any of the three.**
+
+**THE MAN WHO CAME UP THAT STAIR.** **He came up it on 918, the first time since before this flood, with one sleeve
+of his coat wet to the shoulder and the other sleeve dry, and no mouth in that room asked him one word about it and
+no mouth explained the sleeve.** He named the cost of being a person who is in no book out loud before anything else
+that morning, and then he wrote his own name on the second slate in his own hand with a day against it, **and
+nobody thanked him, nobody asked him why, nothing whatever was done about it at any hour of the rest of that day,
+and no chapter of these ten says that anybody is more real for being in a book or less real for being out of one.**
+
+**THE WOMAN OF ABOUT SIXTY-NINE WITH HER TIN** drew a line in the grit between two flags on 920 and five more going
+up the row, and the man of about twenty-seven said in his own mouth that he had watched her do it and had not
+worked out what it is for and was not going to come over to look. **She was asked nothing by anybody on any of the
+ten days and she asked nobody anything on any of the ten days, and no chapter of the ten says anything about any
+question she has ever asked.**
+
+**THE MAN OF ABOUT SIXTY, THE MAN OF ABOUT FIFTY-SEVEN AND THE WOMAN OF ABOUT FIFTY-FOUR AND TAMSIN QUILL** are on
+none of these ten pages and were asked nothing and none of them was brought up that stair; the handcart was named on
+915 and 0919 and was empty and was not loaded. **The two women of twenty-nine, the two men of about thirty-eight
+and the two stallholders of about thirty-four were never merged and never settled in any of the ten, and the stallholder
+of about thirty-four was never in a room with the man of about thirty-nine's board's business settled.**

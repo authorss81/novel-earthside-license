@@ -1,0 +1,25 @@
+# Chapter 0914 — The Same Thing In Other Words
+
+A hand went flat on the bare back of the stallholder's own board where it stood face in against his own trestle and stayed on it while the whole of that row went on past, and the rate at the foot of that board wanted its day, and the day did not come.
+
+It was Friday, the five hundred and ninety-ninth day of the Bare Month. The overcast had come down onto the roofs again in the night and the light on the row was flat and white and dried nothing. The board on the outside wall at the far end of the market stood out in its own row on one nail above a step with the hole of a second nail empty above it. The trough at the top of the market step had running water in it and the thread out of the crack in its near end was going along the stone lip of the step and off the end of it and had stopped there for the second morning. About four people a day went along that row on their own business while the light was on the flags, and half of them stopped at one board or another and half of them went past without stopping at anything.
+
+The man of about thirty-nine who trades on a board stood in front of his own trestle with his own board standing out on it face up to the row, and a cloth over his own shoulder, and his own board carried nineteen rates in three columns with a space about two fingers wide at the foot of the middle column between the other two. The stallholder, the man of about thirty-four who keeps a stall two stalls along, stood at his own trestle two trestles along with the bare back of his board turned out into the row behind his shoulder. The woman of about fifty-two came down out of the room and along the row to the store's end and stopped at the trough at the top of the step and then went on to the end of the flags and stood there. At the mouth of the yard the man of about twenty-seven had the bucket in his hand and the rag over the rim of it and the lid of the box of chalk standing off it at one corner on the step below the door.
+
+---
+
+The woman of about fifty-two had said the same thing in that row at the store's end the day before, in about as many words, and nobody had said anything back to her about it, and nobody standing in that row on the Friday morning put the two side by side at any hour of the day.
+
+**"There is a gate at the far end of that road that has been standing open a fortnight and not one person has shut it and not one person has said they would,"** said the man of about thirty-four who keeps a stall two stalls along, to the row at the height of a man's chest, **"and I have stood at my own trestle every morning of that fortnight and looked down that road at it and I am saying it out loud this morning because there is nobody here I would rather say it to."**
+
+The man of about thirty-nine who trades on a board went on with his own cloth and the cloth went over the face of his board from the top of the top column down to the foot of it and stopped there and did not go over the space, and he did not look up, and the cloth went back to the top of the top column and came down again. He waited until the voice behind him had finished and then said one thing about a different thing and then went on with the board.
+
+**"What is a board like that for, when the whole of what anybody does with it is walk past it and stop at it long enough to read three columns of figures and then go on with their morning,"** said the man of about thirty-nine who trades on a board, at his own trestle with the cloth in his own hand, **"and I have had that asked of me in one form or another since the spring and I have never had an answer worth having out of anybody, and I am saying it to you and not asking you for one."**
+
+**"I have not got one,"** said the man of about thirty-four, **"and if I had it I should not give it to you standing in the open."**
+
+Nobody said anything else to him about it at any hour of that day and nobody asked the man of about thirty-nine who trades on a board the same question a second time, and the woman of about fifty-two stood at the end of the flags with the wind off the flats going at the back of her dress and did not turn round, and the man of about twenty-seven carried the bucket down to the yard and up the step and back again and the rag stayed over the rim of it. About four people a day went along that row and half of them stopped at one board or another, and nobody stopped to look at the man of about thirty-four who keeps a stall two stalls along and nobody stopped to look at the woman of about fifty-two at the end of the flags either.
+
+---
+
+About the eleventh hour the cloth of the man of about thirty-nine who trades on a board caught on a splinter at the foot of the middle column and pulled a shaving off the face of the board about the length of a finger, and the shaving had the wet dark face of the board on one side of it and the pale dry wood of it on the other, and he put it down on the stone at the foot of his own trestle and left it lying there on the stone, and nobody picked it up at any hour of that day.
