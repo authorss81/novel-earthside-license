@@ -1016,3 +1016,79 @@ own prose saying four are obtained. THAT IS A THREAD AND NOT A REPAIR, AND THE C
 **THE MAN OF ABOUT THIRTY-ONE — the carrier of the last image.** On day 800 his hand rests on the flap of his satchel, lifts and sets down in the same place, flap down as every morning, unopened, unexplained. **No chapter opens it and none says why he opens nothing he carries.**
 
 **ADRIAN VALE — in one of these ten and in no other: 0793.** His hands on a barrow handle, to have his own barrow back in that yard before the wharf man came with his, not obtained; the cause of a tipping, a dragging-out and a working round, thanked by nobody, told nothing, useful to nobody, with nobody waiting for him to be useful. Stage 2 on all ten days, no working, no threshold, the other world not named once, passage and privilege at zero.
+
+---
+
+# WHAT THE FIRST TEN DAYS OF VOLUME 17 DID TO THE PEOPLE ON THIS PAGE. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING ON THE PEOPLE CHANGED. No descriptor altered, no age moved, no trade changed, no second handle added
+or removed, and NO NAME WAS GIVEN AND NO NAME WAS SPOKEN. NOBODY GOT STRONGER. The consent fracture stays
+unmended, the fifth condition is not given, no milestone paid. Tamsin Quill is at zero across the ten days.**
+
+**THE MAN OF ABOUT THIRTY-NINE — in all ten, and the only one of the ten days he does something on.** On day
+801 his hand finds the iron on the top step before his boot is on it and he looks down the open length of that
+stair and asks one question at the near end and is told the keeper does not come down it till the tenth hour.
+On day 807 he says, once, in the ordinary course, that anybody who wants to be in the room when the bar is
+settled should be in the room, and that he is not going to say it twice, and nobody answers him and about four
+seconds go by. On day 808 his words go about the market in three shapes and come back changed. **HIS STATE AT
+DAY 810: board face in against the near leg, hands in his coat, the bare place at the foot of the middle column
+unasked about, and he is not in that room on any of the heavy days of this volume because none of them is in
+these ten.**
+
+**THE WOMAN OF ABOUT FIFTY-TWO — at the foot of that stair, before the light is on the flags, on day 803.** She
+came down at the fourth hour, put her right hand flat on the outer face of the door at the height of her own
+hip, put her fingers through into the two sockets, wiped her hand down the front of her dress and stood. She
+moved a pace for one person going past and a second pace for the next, which took her out onto the flags clear
+of the step where anybody coming up could see her standing there with nothing in her hands. The man of about
+thirty-eight stopped his barrow and neither of them said anything. She went up and nobody in that room said one
+word to her about the hour she had spent at the bottom of it. **She washed her hand at the sixth hour, the
+chalk came off it, the lines of her palm stayed white in the creases of it for the rest of that morning, and
+she put that hand in her apron pocket and did not take it out again. NO CHAPTER SAYS WHY SHE GOES AND NO MOUTH IN
+ANY OF THESE TEN DAYS ASKS HER, and that is §7.2's row and it held.**
+
+**THE MAN OF ABOUT TWENTY-SEVEN — said nine words on day 804 and cleared himself.** He had been in that room
+fourteen mornings earlier, standing with a full bucket, and had said that the door shut from the inside, and
+about four of the people along that bench had heard him and said nothing then. **On day 804 he said he had never
+had that bar in his hands. Nobody asked him a second question, nobody improved on one word of it, and nothing in
+that room was done with it. HE WAS ASKED NOTHING ON ANY OTHER OF THE TEN DAYS, and his bucket was carried to the
+yard at the near end of the flats and set in the low place in the stone at the side of that yard, which is the
+one place this batch gives it.**
+
+**THE MAN OF ABOUT THIRTY-FOUR — his hand did not go into his pocket.** A rate on his board wanted a day put
+against it on day 806 and the day was not put there. The man of about thirty-nine stood at the back of his
+trestle looking at the face of the board and said nothing about it and went on. **On day 809 Adrian Vale asked
+him from a market step whether the lid of the box of chalk had ever shut and he said it had not in his time and
+went on up the paving without stopping. On day 810 he tipped the trough at the top of the market step himself
+and did not say so and nobody in that row asked him why. HIS CHALK IS IN HIS INSIDE BREAST POCKET AND IT HAS
+NOT BEEN OUT, AND THE VOLUME'S ONE DAY FOR IT IS 837.**
+
+**THE MAN OF ABOUT THIRTY-ONE — offered, and did not carry.** On day 802 he offered, in an ordinary way, to
+carry the bar down that stair and set it where it had been, and was not taken up on it, and said nothing
+either, and took his hand off the strap and put it back on the strap. **On day 805 a hand carried the bar down
+that stair and back up again and the chapter does not print whose, and he stood at the far end with his hands
+open and did not say that he had done it, and nobody asked him.** His satchel stayed under his arm with its
+flap down at every hour of all ten days and was not opened and no chapter says why he opens nothing he carries.
+
+**THE MAN OF ABOUT THIRTY-EIGHT — said nothing at all, on the morning that mattered.** He came up the paving on
+day 803 with his barrow, stopped short of her, set his hands down on the handles, looked at her, and after a
+moment lifted the barrow again and went on past her and up the row. **The board lying face up on the stack at
+the salt wharf was not wiped, not turned and not gone near on any of the ten days and there is no third line of
+grit on it.** On day 808 he was at the far end of the market row with two other men and one of them was wrong
+about where a sentence had come from.
+
+**THE WOMAN OF ABOUT TWENTY-NINE, THE KEEPER — asked nothing and answered one question.** She turned a leaf at
+the fourth hour on nine of the ten days. On day 801 the decider asked her, at the near end of the bench,
+whether the door had been shut on Friday, and she said she did not know and did not come down that stair till
+the tenth hour. **On day 806 she told the man of about thirty-nine that a rate on his board had been copied
+twice out of the same hand and once out of a different one and he said that was the way it had always been
+copied and he would not be changing it at that hour. THE BOOK CARRIES NO SIXTH FIGURE, THE SECOND SLATE WAS
+NEVER PICKED UP, TURNED OVER OR WRITTEN ON, AND NO CHAPTER OF THESE TEN ASKS HER WHAT THE BOOK IS FOR.**
+
+**ADRIAN VALE — in one of these ten and in no other: 0809.** His hands on the lid of a box of chalk at the top
+of a market step, to have that lid shut so the chalk in it would not be walked off that step, **not obtained**;
+the cause of a man with a full bucket turning out into the trestles, setting the bucket down on the flags, going
+round the wide side, coming back for it, and leaving two flags wet that were dry at the fourth hour. Thanked by
+nobody, told nothing, useful to nobody, with nobody waiting for him to be useful. Stage 2 on all ten days, no
+working, no threshold, the other world not named once, `passage` and `privilege` at zero, and he is not on that
+stair on the last seven mornings of the volume for a reason at `outline/volume-17.md` §6.9 that this batch does
+not reach.**

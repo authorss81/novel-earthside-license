@@ -840,3 +840,65 @@ sent.**
 33. **A length lies squared on the top of the stack unmeasured, and a plank lay across a wet sill for a morning.** Neither was wiped, turned or measured, and both were left where hands put them.
 
 **AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading: 4,590 words heading in and 4,524 out; bolded share 4.99 weighted; 77 prose, 15 speech, 0 plain, 0 bold-without-quotation-mark; zero panels, zero digits, zero bare three-digit numerals; titles five to seven words in 10 of 10; the forty-word class at zero in all three scopes on both readings; the sixteen-word class at zero within and against the outside; standalone nine/eight at zero with ages excluded; the two figures in one sentence at zero; Adrian in 0793 and in no other.**
+
+---
+
+# WHAT THE FIRST TEN DAYS OF VOLUME 17 DID TO CONTINUITY. THIS BLOCK IS NEWEST AND IT WINS.
+
+**NOTHING IN THE STANDING LIST MOVED, AND EVERY ITEM WAS RE-DERIVED AGAINST THE TEN NEW FILES AND NOT AGAINST
+AN ARCHIVE. ALL SIXTEEN STAND, AND THE ADDITIONS OF THE BLOCKS ABOVE STAND.**
+
+**THE THINGS THAT WERE ADDED, AND THEY ARE ADDITIONS AND NOT REPLACEMENTS:**
+
+34. **THE BAR IS ON THE TOP STEP AND THE DOOR IS STANDING OPEN, AND THAT IS PAGE ONE OF THE VOLUME.** On day
+    801 the decider's hand finds the iron lying across the top step of that stair before his boot is on it, and
+    the door at the foot of that stair stands a hand's width off its frame. **The sockets are on the far side of
+    that door at the bottom of the stair and the iron is at the top of it, so the two are in different places on
+    the same morning, and every chapter of this batch says one and does not say the other in the same
+    sentence.** **NOBODY IN THAT ROOM CAN SAY SINCE WHICH MORNING THE IRON HAS BEEN OUT, AND ON DAY 801 THE
+    DECIDER ASKS ONE QUESTION AT THE NEAR END OF THAT BENCH AND IS TOLD THAT THE KEEPER DOES NOT COME DOWN THAT
+    STAIR TILL THE TENTH HOUR, and the narration does not supply a figure and no mouth does.**
+35. **THE MAN OF ABOUT TWENTY-SEVEN CLEARED HIMSELF OF IT IN NINE WORDS, ON DAY 804, AND FOUR PEOPLE HEARD HIM
+    SAY SOMETHING ABOUT THE SAME DOOR FOURTEEN MORNINGS EARLIER AND SAID NOTHING THEN.** **He said he had never
+    had that bar in his hands. Nobody asked him a second question and nobody improved on it and nothing in that
+    room was done with it. THE FACT IS SPENT AS A FACT AND IT RESOLVES NOTHING.**
+36. **THE IRON WENT DOWN THE STAIR AND CAME BACK UP, ON DAY 805, AND NO CHAPTER PRINTS WHOSE HAND DID EITHER.**
+    It went down end first and was turned twice in the turn; the door shut for the better part of two hours and
+    the light on the flags stopped at the step; at about the seventh hour a hand took it out again and it lay on
+    the top step by the tenth. **The chapter does not say whether the hand that put it in and the hand that took
+    it out were the same one, and the plan does not, and neither may be settled by a later chapter.**
+37. **A SENTENCE EXISTS IN THIS CITY THAT DID NOT EXIST ON THE MORNING BEFORE, AND IT WENT ABOUT THE MARKET
+    WITHOUT COMING BACK UP THE STAIR.** Said once on day 807 by the man of about thirty-nine, to nobody in
+    particular, in the ordinary course, with his own second sentence that he was not going to say it twice. **On
+    day 808 it is said twice at the market row in two shapes and a third man puts his own version on it and is
+    wrong about where it came from, and by the tenth hour the three of them cannot say which of them heard it
+    first, and nobody at the top of that stair heard one word of any of it.**
+38. **ADRIAN VALE FAILED ON A LID AND WETTED TWO FLAGS.** Chapter 0809: the lid of a box of chalk at the top of
+    a market step, which has never shut in the man of about thirty-four's time, was not shut; a man with a full
+    bucket had to turn out into the trestles, put the bucket down on the flags, go round the wide side, come
+    back for it, and leave two flags wet that were dry at the fourth hour. **Published `no`. Nobody thanked him,
+    nobody told him he was right, and nobody in that row was waiting for him to be useful.**
+39. **THE CHALK IN THE INSIDE BREAST POCKET DID NOT COME OUT ON ANY OF THESE TEN DAYS, AND NO CHAPTER OF THESE TEN
+    MAY SAY WHEN IT WAS LAST OUT.** There is a rate on the man of about thirty-four's board that wants a day put
+    against it and the day was not put there and his hand did not go into the pocket at any hour of that
+    morning. **The volume's one day for that chalk is 837 and this batch does not reach it.**
+40. **AND THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN FILES, IN NARRATION AND IN EVERY
+    MOUTH, AND THE RULE DOES NOT LAPSE.**
+
+**AND WHAT DID NOT MOVE: the register with five strokes and a day against each, none struck, no sixth, none
+taken out; the shaded form behind it on the same shelf never lifted by any hand but hers; the one word in the
+column on the right of that page, printed nowhere and asked about by nobody; the word on the shaded form,
+printed nowhere and set beside nothing; the bare piece of board under the date, which means nothing; the fence
+sixteen willow posts and eleven withies on the same cord, unmeasured, no post moved; the store's board wiped
+round three sets of figures with no line of words under any of them; the chalk-box lid ajar at the same angle;
+the trough emptied on day 810 and standing dry; no notice, no document, no name, no new person, no new place,
+no panel, no stronger person, no answered question.**
+
+**AND THE FIGURES THESE TEN DAYS MEASURED, each with its reading — whole files, heading line in, word-bounded
+tokens with a hyphen and an apostrophe both delimiting, both file orders, ten files, days 801 to 810: 4,106
+words; chapter length 351 to 460; bolded share 4.77 per cent unweighted; titles four to seven words in 10 of
+10; eighty-seven paragraphs — thirteen speech, eleven lead-ins, sixty-three free-standing narration — with zero
+bold-without-a-quotation-mark and zero quotation-mark-without-bold; zero digits in
+any body; zero month ordinals; zero narrator frame; zero panels; the thirty-five-entry zero column at 0; the
+eleven §16.14 words at 0; `player` at 0; `nine steps` at 0; Adrian Vale in 0809 and in no other; ten files of
+ten ending in a newline.**

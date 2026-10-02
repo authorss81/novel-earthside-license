@@ -681,3 +681,61 @@ ten cards, the decision, the costs, the wants and the outcomes are unaltered.**
 8. **0798, Monday BM 483, character. Adrian: no.** FOR: the new question to one man, not the room, not answered. CHANGED: woman of about fifty-two asks at near end, low, unheard by bench, what a morning is for when the only use is having been in a room in it; he does not answer; talk goes on of rain. DID NOT DO: answered, asked of anyone else.
 9. **0799, Tuesday BM 484, recovery. Adrian: no.** FOR: a morning the old saying is not said and one thing done anyway. CHANGED: step below washed/wiped while room above talks of weather and trestle; lip damp; board cleaned round strokes; wall untouched. DID NOT DO: said the old saying, asked anything.
 10. **0800, Wednesday BM 485, recovery. Adrian: no.** FOR: the last image and nothing else. CHANGED: carrier stands three steps up with hand on flap, lifts and sets down in same place, flap down as every morning, no telling whether before. DID NOT DO: opened anything, said anything, went up or down.
+
+## VOLUME 17, BATCH 0001 — CHAPTERS 0801 TO 0810, DAYS 801 TO 810, ONE CHAPTER TO ONE DAY
+
+1. **0801, Thursday BM 486, discovery. Adrian: no.** FOR: a room that cannot find out one thing about its own
+   door. CHANGED: the decider's hand finds iron on the top step before his boot is on it; he looks down the
+   open stair; he asks the keeper at the near end whether the door was shut on Friday and is told she does not
+   know and does not come down that stair till the tenth hour. **Nobody says since when and nobody knows and the
+   narration does not supply it.** DID NOT DO: dated anything, said a figure, thanked anybody.
+2. **0802, Friday BM 487, political. Adrian: no.** FOR: a room going on with a door it does not know the state
+   of. CHANGED: two people want to say one thing about the door and neither says it; the carrier offers in an
+   ordinary way to carry the bar down and set it and is not taken up on it and carries nothing; about four
+   seconds cover the fifth hour. DID NOT DO: named whose hand, touched the bar, said a figure.
+3. **0803, Saturday BM 488, character. Adrian: no.** FOR: the woman of about fifty-two at the foot of that
+   stair before the light is on the flags. CHANGED: her hand flat on the outer face of the door and her
+   fingers through into the two sockets; she steps a pace and then a second pace for feet on the paving and is
+   seen by the man of about thirty-eight, who stops his barrow and says nothing at all, and she goes up. **Her
+   hand is washed at the sixth hour and the lines of her palm stay white in the creases of it.** DID NOT DO:
+   said why she goes, said since when, asked anybody anything.
+4. **0804, Sunday BM 489, recovery. Adrian: no.** FOR: a fact the room already had said out loud in that room.
+   CHANGED: **the man of about twenty-seven says nine words**, that he has never had that bar in his hands, and
+   about four along that bench had heard him say a thing about that door on a Wednesday and say nothing then
+   and say nothing now; nobody asks him a second question and nobody improves on it. DID NOT DO: made it a
+   cost, acted on it, moved the bar.
+5. **0805, Monday BM 490, physical. Adrian: no.** FOR: the bar put back into its sockets and not left there.
+   CHANGED: iron goes down the stair end first and is turned twice in the turn; the door shuts for the better
+   part of two hours and the light on the flags stops at the step; at the seventh hour a hand takes the iron out
+   again and it lies on the top step by the tenth and the light comes back in. **No chapter prints whose hand
+   did either and nobody in that room says one word about it.** DID NOT DO: named a hand, asked, printed a
+   figure.
+6. **0806, Tuesday BM 491, character. Adrian: no.** FOR: a chalk in an inside breast pocket and a hand on a
+   board. CHANGED: there is a rate on that board that wants a day against it; his hand does not go into the
+   pocket at any hour of the morning; the man of about thirty-nine stands at the back of that trestle looking
+   at the face of the board and says nothing and goes on. **No chapter says when that chalk was last out.**
+   DID NOT DO: took the chalk out, wrote a day, asked anything.
+7. **0807, Wednesday BM 492, decision. Adrian: no.** FOR: a sentence said once in the ordinary course. CHANGED:
+   the decider says that anybody who wants to be in the room when the bar is settled should be in the room,
+   and that he is not going to say it twice, and nobody answers and about four seconds go by and the talk starts
+   again about a trestle and does not come back to that bench. **AND THE NARRATION SAYS ONCE, IN PLAIN WORDS
+   AND NOT IN A MOUTH, THAT NOBODY HAD BEEN SENT FOR AND THERE HAD BEEN NO TIME IN IT AND THAT ROOM WAS NOT GOING
+   TO BE GIVEN ANY.** DID NOT DO: settled the bar, prepared day 825, written anything down.
+8. **0808, Thursday BM 493, political. Adrian: no.** FOR: a sentence going about a market and not coming back up
+   that stair. CHANGED: two men say it twice in two shapes; a third man at the board on the outside wall puts his
+   own version on it before the second has finished and is wrong about who it came from; by the tenth hour
+   neither can say which of the three heard it first. **Nobody at the top of that stair heard one word of any of
+   it.** DID NOT DO: carried it up, settled it, printed a figure.
+9. **0809, Friday BM 494, character. Adrian: 1.** FOR: the lid of a box of chalk on a market step. CHANGED: the
+   lid comes up as far as it has ever come up and stops on the same pin, and comes down to within a finger of the
+   rim and does not go the rest of the way; the man of about thirty-four is asked, from the step, whether that
+   lid has ever shut and says it has not in his time and goes on; **a man with a full bucket has to turn out
+   into the trestles, set the bucket down on the flags, go round the wide side, come back for it, and leaves
+   two flags wet that were dry at the fourth hour.** Published `no`. DID NOT DO: shut the lid, earned thanks,
+   was told he was right, was waited for.
+10. **0810, Saturday BM 495, physical. Adrian: no.** FOR: a trough emptied at the top of a step by a person who
+    is not asked why. CHANGED: the man of about thirty-four tips the trough himself and does not say so; the
+    water goes across the flags, finds the dip under the near trestle and goes down into it, and by the tenth
+    hour the trough stands dry with its rim dark all round except under the trestle. **Day 810 is a trap day at
+    `outline/volume-17.md` §14.5 and no elapsed figure is printed on the page.** DID NOT DO: asked why, counted,
+    printed a figure.

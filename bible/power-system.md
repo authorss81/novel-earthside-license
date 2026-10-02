@@ -2788,3 +2788,88 @@ EOF
 ```
 
     **THE VALIDATION READS NINE TABLES OUT OF THIS SAME FILE. IT TAKES ANY RUN OF FOUR CONSECUTIVE CELLS OF A TABLE ROW IN THE FORM chapter, day, weekday, month-cell, WITH EMPHASIS MARKS STRIPPED, AND CHECKS CHAPTER-EQUALS-DAY AND THE WEEKDAY ON EVERY ROW AND THE BARE-MONTH ORDINAL ON EVERY ROW FROM DAY 316 ONWARD. IT RETURNS §33A FIFTY ROWS, §33B FIFTY, §51 FIFTY, §57 FIFTY, §58 FIFTY, §59 FIFTY-ONE INCLUDING ITS PUBLISHED DUPLICATE, §60 FIFTY, §61 FIFTY AND §62 FIFTY — FOUR HUNDRED AND FIFTY-ONE PARSED ROWS AT ZERO MISMATCHES, TWICE, IN BOTH DIRECTIONS.** The two disagreements §62 records about §33A are republished at item 2 with this instrument's scope beside them, and neither figure is corrected by the other.
+
+---
+
+## 64. THE CALENDAR FOR DAYS 801 TO 850 — decided by the phase that planned Volume 17 and wrote its first ten chapters in one run, and it is a NEW SECTION and NOT AN AMENDMENT OF §63 OR §62 OR §61 OR §60 OR §59 OR §58 OR §57 OR §51 OR §33A OR §33B OR §33 OR §32
+
+**§32 is not changed. §33 is not changed. §33A is NOT CHANGED, and this section does not amend item 2 of it. §33B is NOT CHANGED. §§34 to 63 are not changed. No calendar decision is made in this section and no form is registered in it, and the sixth form, *the Nth day of the Bare Month*, stands as §33A item 2 registered it, with no length stated, and this section states no length.**
+
+**THE PROBLEM THIS SECTION DOES NOT SOLVE, BECAUSE IT IS THE SAME ONE §63 ITEM 6 SOLVED AND IT IS THE SAME PROBLEM IT WILL KEEP SOLVING ONCE A VOLUME: the Bare Month was registered with no span at all.** A chapter may write an ordinal for any day of it; **no chapter may say what it does at its end, how many days it has, or whether it is long or short**; and a later volume that needs a seventh form may not assume this one has sixty days in it or a hundred. **SO VOLUME 17 WRITES THE FOUR HUNDRED AND EIGHTY-SIXTH TO THE FIVE HUNDRED AND THIRTY-FIFTH DAY OF THE BARE MONTH AND STOPS, AND A SEVENTH FORM EXISTS THE MOMENT THE END OF IT IS ON A PAGE, in a room, in daylight, with a date on the door, by a person, who says the cost out loud first and is refused by somebody before she does it, and who then declines to say how long the new month is and says why. THIS SECTION DOES NOT DECIDE HOW LONG IT IS AND CANNOT, AND A PHASE THAT ENDED IT WOULD BE DOING WHAT SEVEN PHASES BEFORE IT REFUSED TO DO.**
+
+1. **VOLUME 17 IS FIFTY DAYS ON FIFTY DAYS, DAYS 801 TO 850, ONE CHAPTER TO ONE DAY, NO DOUBLE DAY.** The form is ***the Nth day of the Bare Month***, **the Nth being day less 315, which is the sixth form registered at §33A item 2 and named on a page in Chapter 0316 and in no other chapter.** **Day 801 is a Thursday and the four hundred and eighty-sixth day of the Bare Month and day 850 is a Thursday and the five hundred and thirty-fifth.** The new volume's range is a decision and a later volume that wants a double day has to argue for it in its own outline against the rule that is now the default.
+
+2. **THE RUN, AND THE INSTRUMENT, AND WHAT WAS VALIDATED BEFORE IT WAS USED.** The run is built from two figures and two figures only — day 1 is a Tuesday, and the Bare-Month ordinal is the day less 315 — and **a batch re-derives it from those two figures and does not transcribe this table or any other.** The instrument below was validated against §63's fifty rows for days 751 to 800 and against `outline/volume-17.md` §14.3's fifty rows, at zero mismatches on chapter-equals-day, on the weekday and on the ordinal, in both table orders with the index rebuilt.
+
+   ```
+   cd /home/runner/work/novel-earthside-license/novel-earthside-license
+   python3 - <<'EOF'
+   WD=['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']
+   IDX={w:i for i,w in enumerate(WD)}
+   def weekday(d): return WD[(d-1+IDX['Tuesday']) % 7]   # day 1 is a Tuesday
+   def bm(d): return d-315                                 # the Nth day of the Bare Month
+   for d in range(801,851):
+       print(d, weekday(d), 'BM', bm(d))
+   EOF
+   ```
+
+3. **THE FIFTY ROWS, WITH THE PRESSURE COLUMN AND THE PROTAGONIST'S OWN COLUMN BESIDE THEM.** They are published here because §63 published its fifty and a reader in a year should not have to open a plan file to check a date.
+
+   | Ch | Day | Weekday | Month day | Pressure | Adrian |
+   |---|---|---|---|---|---|
+   | 0801 | 801 | Thursday | BM 486 | discovery | — |
+   | 0802 | 802 | Friday | BM 487 | political | — |
+   | 0803 | 803 | Saturday | BM 488 | character | — |
+   | 0804 | 804 | Sunday | BM 489 | recovery | — |
+   | 0805 | 805 | Monday | BM 490 | physical | — |
+   | 0806 | 806 | Tuesday | BM 491 | character | — |
+   | 0807 | 807 | Wednesday | BM 492 | decision | — |
+   | 0808 | 808 | Thursday | BM 493 | political | — |
+   | **0809** | 809 | Friday | BM 494 | character | **1** |
+   | 0810 | 810 | Saturday | BM 495 | physical | — |
+   | 0811 | 811 | Sunday | BM 496 | political | — |
+   | 0812 | 812 | Monday | BM 497 | discovery | — |
+   | **0813** | 813 | Tuesday | BM 498 | **cost** | — |
+   | 0814 | 814 | Wednesday | BM 499 | character | — |
+   | 0815 | 815 | Thursday | BM 500 | discovery | — |
+   | 0816 | 816 | Friday | BM 501 | political | — |
+   | 0817 | 817 | Saturday | BM 502 | physical | — |
+   | 0818 | 818 | Sunday | BM 503 | character | — |
+   | 0819 | 819 | Monday | BM 504 | political | — |
+   | 0820 | 820 | Tuesday | BM 505 | discovery | — |
+   | 0821 | 821 | Wednesday | BM 506 | character | — |
+   | **0822** | 822 | Thursday | BM 507 | physical | **2** |
+   | 0823 | 823 | Friday | BM 508 | political | — |
+   | 0824 | 824 | Saturday | BM 509 | discovery | — |
+   | **0825** | 825 | **Sunday** | **BM 510** | **decision** | — |
+   | 0826 | 826 | Monday | BM 511 | recovery | — |
+   | 0827 | 827 | Tuesday | BM 512 | physical | — |
+   | 0828 | 828 | Wednesday | BM 513 | character | — |
+   | 0829 | 829 | Thursday | BM 514 | discovery | — |
+   | 0830 | 830 | Friday | BM 515 | political | — |
+   | **0831** | 831 | Saturday | BM 516 | character | **3** |
+   | 0832 | 832 | Sunday | BM 517 | physical | — |
+   | 0833 | 833 | Monday | BM 518 | recovery | — |
+   | 0834 | 834 | Tuesday | BM 519 | political | — |
+   | 0835 | 835 | Wednesday | BM 520 | discovery | — |
+   | 0836 | 836 | Thursday | BM 521 | character | — |
+   | **0837** | 837 | **Friday** | **BM 522** | **decision** | — |
+   | 0838 | 838 | Saturday | BM 523 | recovery | — |
+   | 0839 | 839 | Sunday | BM 524 | character | — |
+   | **0840** | 840 | **Monday** | **BM 525** | **cost** | — |
+   | 0841 | 841 | Tuesday | BM 526 | political | — |
+   | 0842 | 842 | Wednesday | BM 527 | cost | — |
+   | **0843** | 843 | Thursday | **BM 528** | character | **4** |
+   | 0844 | 844 | Friday | BM 529 | political | — |
+   | **0845** | 845 | **Saturday** | **BM 530** | **recovery** | — |
+   | **0846** | 846 | Sunday | BM 531 | physical | **5** |
+   | 0847 | 847 | Monday | BM 532 | physical | — |
+   | **0848** | 848 | **Tuesday** | **BM 533** | character | — |
+   | 0849 | 849 | Wednesday | BM 534 | recovery | — |
+   | **0850** | 850 | **Thursday** | **BM 535** | recovery | — |
+
+   **Counted in the map's own pressure column: physical eight, character twelve, political ten, discovery seven, decision three, cost three, recovery seven, and the seven sum to FIFTY on fifty distinct chapters — reading: first tag only, whole files — scope: the fifty files of Volume 17, both file orders. A batch record names the reading with the figure and does not carry the column forward without it.**
+
+4. **AND THE THREE FIGURES THIS SECTION FIXES BECAUSE A BATCH MUST BE HANDED THEM CLOSED.** **The volume's one panel is fixed to day 837 and none of the ten chapters of Batch 0001 spends it. The volume's one decision is fixed to day 825 and its wording is fixed in `outline/volume-17.md` §6.6 and is on no page and is in no state file. The volume's new question is fixed to day 848 and is not answered.** **A batch may not move a day, may not add a tenth chapter to a ten-chapter list, and may not amend any row of the table above.**
+
+5. **THE PROHIBITIONS THAT BIND EVERY CHAPTER OF DAYS 801 TO 850, restated at the length the days of this range need and not at less than it: no chapter may use an ordinal for a month; no chapter may say what the month does at its end or how many days it has; no chapter may print the figure the volume behind this one spent; no chapter may name a charter, a seal, a council, a quorum, a witness or a crossing; no chapter may trace the mark of day 440; no chapter may print the word on the second slate; no chapter may answer a standing question; no chapter may pick the bag up; no chapter may count the days since the fourth of the four said no; no chapter may print an elapsed figure against a row that carries no figure on purpose; and no chapter may print a day after the five hundred and thirty-fifth.** The full list with reasons is `outline/volume-17.md` §16 and it is inherited whole and is not restated at less than its length here.

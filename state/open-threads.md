@@ -1153,3 +1153,54 @@ POINTER IN THIS FILE, WHICH NAMED `workspace/volume-16/close/PROMPT.md`, AND THA
 PHASE IS WHATEVER PLANS A VOLUME AFTER THIS ONE, OR A HUMAN, AND IT OWES WHAT THE CLOSE'S §13 NAMES: the four things
 an outline phase owes before it plans another volume, and the two things only a human owes. NO CHAPTER IS TO BE
 WRITTEN IN VOLUME 16 AND NONE EXISTS PAST 0800.**
+
+---
+
+# WHAT THE FIRST TEN DAYS OF VOLUME 17 OPENED, AND WHAT IT DID NOT. THIS BLOCK IS NEWEST AND IT WINS.
+
+**AND THE POINTER ABOVE IS REPLACED BY THIS ONE: THE NEXT PHASE IS `workspace/volume-17/batch-0002/PROMPT.md`,
+WHICH WRITES CHAPTERS 0811 TO 0820 AND NOTHING ELSE. NO CHAPTER PAST 0810 EXISTS AND NO CHAPTER PAST 0810 IS TO
+BE WRITTEN BY ANY OTHER PHASE.**
+
+1. **SINCE WHICH MORNING THE BAR HAS BEEN OUT OF THAT DOOR. NEW, AND IT IS THE VOLUME'S CENTRE, AND IT IS NOT
+   ANSWERED BY ANY OF THESE TEN DAYS.** The decider asked one question on day 801 and was told the keeper does
+   not come down that stair till the tenth hour, and the narration supplies nothing. **A later volume may not
+   answer it before the resolution on day 845, and the resolution answers one morning of it and not the rest,
+   and no chapter may date the other forty-four.**
+2. **WHOSE HAND CARRIED THE BAR DOWN AND WHOSE HAND TOOK IT BACK UP ON DAY 805. NEW, AND IT IS NOT A MYSTERY IN
+   THIS MANUSCRIPT, IT IS A HAND, AND IT MAY NOT BE TRACED, GUESSED AT, OR REPORTED TO A ROOM BY ANY MOUTH IN
+   ANY CHAPTER OF THIS VOLUME.** **And whether the two were the same one is not settled and may not be.**
+3. **WHO FIRST SAID THE SENTENCE THAT WENT ABOUT THE MARKET ON DAY 807. NEW, AND ON DAY 808 THREE MEN COULD NOT
+   AGREE AND THE ROOM ABOVE NEVER HEARD IT SAID AT ALL, AND THAT IS THE CHAPTER.** **No chapter may trace it,
+   may ask any of the three men, or may say that the room above should have heard it.**
+4. **WHAT THE MAN OF ABOUT THIRTY-FOUR'S BOARD WOULD CARRY IF THE DAY WERE PUT AGAINST A RATE. NEW, AND
+   UNRESOLVED, AND THE CHALK THAT WOULD DO IT IS IN HIS INSIDE BREAST POCKET AND DOES NOT COME OUT UNTIL DAY
+   837.** **No chapter of days 801 to 836 may take it out and no chapter may say when it was last out.**
+5. **THE MAN OF ABOUT THIRTY-NINE'S OWN SENTENCE, WHICH HE SAID ONCE AND SAID HE WOULD NOT SAY TWICE. NEW, AND
+   NOBODY TOOK IT UP AND NOBODY ANSWERED IT, AND IT IS THE SENTENCE THAT PUTS ABOUT NINE PEOPLE IN THAT ROOM ON
+   DAY 825.** **A chapter of days 811 to 824 may not prepare day 825 and may not say what that room is going to
+   decide, and may not put the seven words of §6.6 into any mouth.**
+6. **CARRIED WHOLE AND UNPAID, THE STANDING EIGHTEEN OF `state/volume-16-close.md` §5**, together with this
+   volume's own standing list at `outline/volume-17.md` §16. **THE QUESTION OF DAY 798 IS NOT ANSWERED. THE MARK
+   OF DAY 440 IS NOT TRACED AND THIS IS THE NINTH VOLUME RUNNING. THE FOURTH OF THE FOUR SAID NO IS NOT COUNTED
+   AT ANY VALUE. THE FIGURE THE VOLUME BEHIND THIS ONE SPENT IS AT ZERO ON ALL TEN NEW FILES AND IS NOT
+   RESTORED.**
+7. **THE THREE NEW DEBTS THE CLOSE BEHIND THIS ONE OWED AND THIS PHASE INHERITS: the pressure column at its
+   §1.3; the number of mornings at its §5 item 17; the two rows at `outline/volume-16.md` §4.1 and §20.2; and
+   the published panel figure against the block reading at its §3.** **AND TWO NEW ONES THAT ARE OURS: THE
+   CHALK ON THE OUTSIDE OF THAT DOOR IS WRITTEN FRESH EVERY MORNING BY A HAND NO CHAPTER NAMES, AND CHAPTER 0803
+   GETS CHALK OFF A WOMAN'S PALM, AND NO CHAPTER IN ANY VOLUME MAY NAME THE HAND; AND THE BOX OF CHALK ON THE
+   MARKET STEP IS THE ROOM'S AND NOT THE STALLHOLDER'S AND NO CHAPTER SAYS WHOSE IT IS.**
+8. **AND THE NAMED MATERIAL OF THE ENDING THAT IS ON NO PAGE OF THIS VOLUME, WHICH IS A DEBT AND NOT AN
+   OMISSION: the Charter of Two Worlds, the twelve civic seals, the assemblies on the Earth side, and the Crown
+   of Witnesses.** **THE ACT THAT `outline/ending.md` RESERVES TO THIS VOLUME IS ON A PAGE: day 843, a man comes
+   up that stair, names the cost out loud first in his own words, says one thing once, and is not on that stair
+   again for seven mornings. IT IS PAID. WHAT IS NOT PAID IS EVERYTHING THE WORD *CHARTER* STANDS FOR, AND IT IS
+   CARRIED AT `outline/volume-17.md` §21.4 AND `outline/series.md`'s Volume 17 block.**
+9. **THE CONSENT FRACTURE STAYS UNMENDED, THE FIFTH CONDITION IS NOT GIVEN, NO RELATIONSHIP MILESTONE IS PAID,
+   AND NOBODY IN THESE TEN CHAPTERS GOT STRONGER.**
+10. **THE CONTROLLER FAULTS, NAMED AND NOT WORKED AROUND: `reviews/volume-17/` does not exist and the review
+    dispatch falls back to the writer's own agent; `state/phase-ledger.json` still reads `phase-000-bootstrap`
+    after sixteen volumes; and `NOVEL_SPEC.md`'s Status section publishes fifteen volumes and 750 chapter files
+    and ends its panel row at fifteen, where seventeen volumes is what will be on disk when this phase is marked
+    done. NONE OF THE THREE IS A FICTION FILE AND NONE WAS OPENED, EDITED OR WORKED AROUND.**
