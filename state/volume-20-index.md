@@ -21,7 +21,7 @@ twenty remain.**
 | Batch | Chapters | Days | Written | Record | Batch summary | Next-phase prompt |
 |---|---|---|---|---|---|---|
 | 0001 | 0951–0960 | 951–960 | yes, and repaired once | `reviews/volume-20/batch-0001.md` | `state/batch-summaries/volume-20-batch-0001.md` | — |
-| 0002 | 0961–0970 | 961–970 | yes, and repaired on this pass | `reviews/volume-20/batch-0002.md`, and `reviews/volume-20/batch-0002-fix.md` | `state/batch-summaries/volume-20-batch-0002.md` | `workspace/volume-20/batch-0002/PROMPT.md` |
+| 0002 | 0961–0970 | 961–970 | yes, and repaired on this pass | `reviews/volume-20/batch-0002.md`, and `reviews/volume-20/batch-0002-fix.md` | `state/batch-summaries/volume-20-batch-0002.md` | `workspace/volume-20/batch-0003/PROMPT.md`, written and since run |
 | 0003 | 0971–0980 | 971–980 | **yes, and repaired on that pass** | `reviews/volume-20/batch-0003.md`, and `reviews/volume-20/batch-0003-fix.md` | `state/batch-summaries/volume-20-batch-0003.md` | **`workspace/volume-20/batch-0004/PROMPT.md`, written and ready** |
 | 0004 to 0007 | 0981–1000 | 981–1000 | **no** | — | — | to be created one at a time, one phase only |
 
@@ -41,6 +41,7 @@ file. Thirty chapters are written and twenty remain.**
 | Which threads are open and which this volume may not settle | `state/open-threads.md` | "The threads this volume may not settle", and the two days 971 to 980 opened |
 | The debts about the writing itself | `state/open-threads.md` | "The three threads about the writing before those four rules" — the length shortfall, the prose going hollow, the attribution punctuation |
 | The four rules a repair pass added | `state/open-threads.md` | "The four rules a repair pass on days 971 to 980 added" — figure-with-its-pair, no asserted absence, no held string in a record, and every object belongs to somebody |
+| Which files a writer run may edit at all | `state/open-threads.md` | "And one rule about who may edit which record, added by a repair pass on days 961 to 970" — a writing run does not amend a reviewer's artifact, and a run that finds its own work done says so once and writes no chapter |
 | Who these people are, and their second handles | `state/character-state.md` | the handle table |
 | Where each person stands on the days that mattered | `state/character-state.md` | the four people who are in days 971 to 980 and not in the room, and the keeper and the tradesman above them |
 | The prose rules this volume's first batch broke | `state/character-state.md` | "The two manner rules this volume's first batch broke" |

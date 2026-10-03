@@ -4,10 +4,7 @@
 The whole file as it stood immediately before the
 compaction is `state/archive/open-threads.md.volume-20-batch-0003-writing-full.md`, verified by SHA256 before a line was
 withdrawn; the whole file as it stood immediately before the review-fix edits is
-`state/archive/open-threads.md.volume-20-batch-0003-review-fix-full.md`, verified the same way. **A later repair pass on
-days 961 to 970 added one rule to this file and withdrew nothing, and the whole file as it stood before that pass is
-`state/archive/open-threads.md.volume-20-batch-0002-before-diary-repair-full.md`, taken from the last commit and
-verified against it. Nothing was deleted.**
+`state/archive/open-threads.md.volume-20-batch-0003-review-fix-full.md`, verified the same way. Nothing was deleted.**
 
 ---
 
@@ -33,26 +30,6 @@ its own instrument does not return. The working is `reviews/volume-20/batch-0003
    empty two-finger space and the cloth. **This is not a plan defect and there is no rule that would have stopped it: that row
    has nine people in it and a sentence of staging goes wrong. Go through your ten before you finish and ask whose each of
    those things is and whether it is in his hand on the page.**
-
-## AND ONE RULE ABOUT WHO MAY EDIT WHICH RECORD, ADDED BY A REPAIR PASS ON DAYS 961 TO 970
-
-**A WRITING RUN DOES NOT AMEND A REVIEWER'S ARTIFACT, HOWEVER CORRECT THE AMENDMENT WOULD BE.** `reviews/` belongs to the
-review pass. A writing run that finds an error in one states the error here, in the live state layer, and leaves the file
-alone for the repair pass that owns it. **Two edits were made to `reviews/volume-20/batch-0002-fix.md` by a writing run
-and both were right — one stripped a held string out of a table row whose own figure counted that string, which rule 3
-above already governs, and one resolved a sentence that contradicted another eleven lines below it about the same
-string. The rightness of the edits is not the point. A record that any run may edit is not evidence of anything, and a
-correction made in the wrong layer is a correction with no owner and no reviewer behind it.** The two edits stand, because
-reverting them would put a held string and a self-contradiction back into a file, **and the file is not to be touched
-again by a writing run.** Chapters, outlines, the bible and this state layer are the layers a writer owns; `reviews/`,
-`scripts/`, `.github/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`,
-`opencode.json` and `state/phase-ledger.json` are not, **and a run that finds a fault in one of them says so in one
-sentence and does not edit it and does not write a paragraph about having not edited it.**
-
-**AND A RUN THAT FINDS ITS OWN WORK ALREADY DONE SAYS SO ONCE, IN ONE PLACE, AND WRITES NO CHAPTER.** This file grew a
-hundred and three lines of a run's diary — marker files, file scans, what the run chose not to touch — and every later
-batch in the volume re-reads it. **The rule against padding a chapter is the rule against padding a record: a file that
-is re-read by every later batch earns its length with state, not with process.**
 
 ## DAYS 971 TO 980 CLOSED NO THREAD, ANSWERED NO STANDING QUESTION, MENDED NOTHING AND PAID NOTHING
 
