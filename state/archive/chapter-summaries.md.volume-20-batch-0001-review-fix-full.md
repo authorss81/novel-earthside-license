@@ -1,43 +1,14 @@
 # Chapter Summaries
 
 **HOW TO READ THIS FILE. One block per batch, in chapter order, one entry per day.** **THE MOST RECENT WHOLE COPY
-OF THIS FILE IS `state/archive/chapter-summaries.md.volume-20-batch-0001-review-fix-full.md`, which is the whole of
-this file as it stood after the phase that planned Volume 20 and before the repair pass that read
-`logs/next-0007.review.log`; the copy before that is
-`state/archive/chapter-summaries.md.volume-19-batch-0002-review-fix-full.md`, verified by SHA256 against the live
-file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD AFTER THE BATCH THAT WROTE DAYS
-911 TO 920 AND BEFORE THE REPAIR PASS THAT READ `logs/next-0006.review.log`; the copy before that is
+OF THIS FILE IS `state/archive/chapter-summaries.md.volume-19-batch-0002-review-fix-full.md`, which is the whole of
+this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that read
+`logs/next-0006.review.log`; the copy before that is
 `state/archive/chapter-summaries.md.volume-19-outline-full.md`, verified by SHA256 against the live
 file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE THE PHASE THAT PLANNED
 VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK IN IT AND WROTE ITS OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT
 WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER COPIES UNDER THIS FILE'S OWN NAME ARE
 STILL IN `state/archive/` AND WERE NOT DISTURBED.**
-
-# THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 20. NEWEST AND IT GOVERNS THE BLOCKS BELOW IT ONLY WHERE THEY CONFLICT.
-
-**THIS PASS READ `logs/next-0007.review.log` AND REPAIRED AGAINST IT, AND IT ADDED NO SUMMARY, CHANGED NO SUMMARY AND
-WITHDREW NO SUMMARY, because no chapter of Volume 20 exists and there is nothing here to summarise.** No entry was written
-for any day of days 951 to 1000, and the fifty planned days stay planned. `chapters/volume-20/` still does not exist.
-
-**AND THE USEFUL THING THIS PASS FOUND IN THIS FILE, WHICH IS THAT THE VOLUME 20 BLOCK BELOW WAS ALREADY RIGHT ON BOTH
-COUNTS THE REVIEW RAISED AGAINST THE PLAN, AND WAS RIGHT WHILE THE PLAN WAS WRONG.** The block below says
-**Adrian Vale is in nine of the fifty — 953, 959, 965, 971, 977, 981, 985, 990 and 994 — and 995 is permitted and is not one
-of the nine**, which is the same nine the plan's §14.3 table marks and is not contradicted by the table's tenth mark. The block below also says **three of the nine questions are asked on quiet days in the ordinary course and are in nobody's
-record: 961, 977 and 987**, which is the count and the list `outline/volume-20.md` §15 now carries after this pass
-corrected it. **The plan's prose was wrong and this file's index was not. The two counts are the review's FIRST and SECOND
-findings, both of which were raised against `outline/volume-20.md` alone — §14.3's Adrian sentence and §15's
-question-day sentence — and NEITHER WAS RAISED AGAINST THIS FILE, and this block was right on both of them before the
-repair and is right on both of them now.**
-
-**AND WHAT ELSE MOVED, IN ONE LINE, BECAUSE NO DAY MOVED.** The Adrian column of the day map marks ten rows and not nine
-and 995 is the tenth; the descriptor pool a card may not draw from is twenty names and not twenty-four; *man of about
-thirty-seven* is 6 in 1 file;
-*woman of about fifty-four* is 6 in 2 files, three in Volume 06 and three in Volume 09; and *woman of about sixty-nine* is
-re-sorted out of the candidate list and stands exactly as she stood. **The calendar, the weekdays, the Bare-Month ordinals,
-the pressure rotation, the fourteen heavy days and the whole shape of the volume are as the block below states them and
-were re-derived in this pass, row for row, with no difference.** The whole record is `outline/volume-20.md` §21.5.
-
----
 
 **THE SUMMARIES FOR DAYS 891 TO 900 ARE IN `state/batch-summaries/volume-18-batch-0005.md` AND THE PER-CHAPTER INDEX
 FOR EVERY CLOSED VOLUME IS IN THE `state/volume-NN-close.md` FILE FOR THAT VOLUME. THIS FILE CARRIES WHAT A WRITER

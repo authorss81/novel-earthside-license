@@ -1,70 +1,10 @@
 # current.md — the live layer
 
-# THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 20. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
-
-**THIS PASS READ `logs/next-0007.review.log` AND REPAIRED AGAINST IT, AND IT IS A REPAIR AND NOT A REWRITE.** No day, no
-weekday, no Bare-Month ordinal, no pressure tag, no frame, no card, no question, no object state, no descriptor taken and
-no plot moved. **`chapters/volume-20/` does not exist and did not come into being: this pass wrote no prose.** `outline/ending.md`
-was not opened, no controller file was opened, no batch directory was created and no next phase prompt was created, and
-the one prompt the planning phase created is still the only one. The five live state files were copied whole into
-`state/archive/` under `*.volume-20-batch-0001-review-fix-full.md` and verified by SHA256 before a line of this block was
-written. **The whole record of what changed in the plan itself is `outline/volume-20.md` §21.5 and the repair is not
-restated anywhere else in this layer.**
-
-**THE SEVEN FIGURES AND COUNTS THE REVIEW FOUND AND THAT WERE FOUND.** §14.3 said the Adrian column gives nine marked rows
-and its own table marks ten; **§15 said five of the nine question-days carry a tag that is not *cost* and two of the five
-it listed are *cost* days and one of them is not a question-day at all, and three carry a tag that is not *cost* — 961
-character, 977 physical, 987 character**; §17.20's heading said TWELVE FRAMES over a list of eighteen with six inherited,
-**and the inherited half was the wrong half: `outline/volume-19.md` §17.20 enumerates twelve and says so in its own closing
-sentence, while its heading says nine, and Volume 20 inherits twelve by the list and the volume-19 heading is carried as a
-debt**; the card file headed its
-list of eleven days THE THIRTEEN DAYS; §19.4 gave *man of about thirty-seven* as 6 in 6 and it is **6 occurrences in 1 file**,
-and the two records this pass at first named as its provenance, `outline/volume-10.md` §20
-and `state/volume-10-close.md` bar him by name and publish no figure at all, **and that citation was wrong and is withdrawn
-here; the figure is on disk in five other records and §21.5 item 5 names them**; **§19.4 claimed neither
-file holding *woman of about fifty-four* is in the last eleven volumes and one of them is `chapters/volume-09/chapter-0420.md`
-and Volume 09 is inside the last eleven of the nineteen on disk**; and **§19.4 listed *woman of about sixty-nine* among
-candidates at zero in both of the last two volumes and she is at 2 in 1 file in Volume 19.**
-
-**THE TWO FIGURES THE REVIEW CHALLENGED THAT WERE NOT WRONG, AND NOT ONE NUMBER WAS CHANGED FOR EITHER.** Every figure in
-`outline/volume-20.md` §19.2 and §19.3 reproduces exactly under the instrument §19.1 publishes, **and the review's readings
-are whole-file readings that include the chapter heading line, which §19.1 excludes and which is a repository index line
-and not prose.** What the repair does instead of moving a number is publish the fork: §19.1 now puts the heading-line
-exclusion in caps beside the instrument, and **the new §19.7 gives both readings of the eight rows where the two differ,
-cell for cell, and names the four files whose count moves between the two readings.** *woman of about fifty-four* is 7 on the whole-file
-reading and 6 on the body reading, **and §19.4 stands at 6 because §19.4's own stated reading is bodies.**
-
-**AND ONE COUNT THE REVIEW DID NOT RAISE, WHICH THE SAME RE-RUN FOUND: two files said the descriptor pool holds
-twenty-four candidates, and §19.4 prints nineteen at zero in both of the last two volumes with *man of about thirty-seven*
-barred by name beside them.** Both files now say nineteen and twenty and name what the twenty is.
-
-**AND WHAT THIS PASS DELIBERATELY LEFT ALONE, WITH THE REASON IN EACH CASE.** `outline/ending.md` and the question of
-whether anything follows Volume 20, which §21.4 item 2 leaves to an owner and which this pass will not decide;
-`NOVEL_SPEC.md`'s stale and self-contradictory Status section, **which is a spec file outside what this phase was authorised
-to write and which is already named as owed at `outline/volume-20.md` §21.4 and at item 7 of the block below**;
-`outline/series.md`, which the planning phase had already amended and which this pass did not need to touch;
-`state/phase-ledger.json`; and every controller, workflow, dispatcher and agent file. **AND THE PLAN LAYER'S OWN INHERITED
-MARKER FAULT: twenty-three files in `outline/` and `state/` carry an odd number of `**` emphasis markers, so at least one
-bold span in each runs unclosed past a line break. It is measured and published at `outline/volume-20.md` §21.4 and it is
-NOT swept here, because a pass that opens twenty-three files to close one marker each has stopped repairing and started
-tidying. The one instance this pass did close is in `state/continuity.md`'s compaction paragraph, which sits beside the
-block this pass wrote.**
-
-**THE NEXT PHASE IS UNCHANGED AND IS `workspace/volume-20/batch-0001/PROMPT.md`.** It writes Chapters 0951 to 0960, days
-951 to 960. **It reaches the first question on 957 and the first of the three that cannot be found out on 958, and it does
-not reach the refusal of 965 and may not prepare it.** The prompt was corrected in this pass in three places — the
-whole-volume Adrian count, the question-day tag list and the descriptor-pool count — **and its ten-row binding table was
-already right and was not touched, because §14.3's error was in the sentence under the table and not in any row of it.**
-
----
-
 # THE PHASE THAT PLANNED VOLUME 20. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
 
-**AND THE WHOLE COPY OF THIS FILE AS IT STOOD BEFORE A LINE OF THE REPAIR BLOCK ABOVE WAS WRITTEN IS
-`state/archive/current.md.volume-20-batch-0001-review-fix-full.md`, taken and verified by SHA256 first. THE COPY BEFORE
-THAT IS `state/archive/current.md.volume-20-batch-0001-planning-full.md`, which is the whole of this file as it stood
-after the phase that planned Volume 19 and before the planning phase withdrew anything, and the archive note that sits
-under that block is the note of the phase behind it and is left standing unaltered.**
+**AND THE WHOLE COPY OF THIS FILE AS IT STOOD BEFORE A LINE OF THE BLOCK ABOVE WAS WRITTEN IS
+`state/archive/current.md.volume-20-batch-0001-planning-full.md`, taken and verified by SHA256 first, and the archive
+note that sits under that block is the note of the phase behind it and is left standing unaltered.**
 
 **WHAT THIS PHASE WAS. A planning phase and nothing else.** It wrote `outline/volume-20.md`, the plan of record for days
 951 to 1000; `outline/batches/volume-20-batch-0001.md`, the ten cards for Chapters 0951 to 0960, written before

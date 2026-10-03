@@ -3,47 +3,11 @@
 **This file carries who the people in this manuscript are, where each one stands, and the handles a
 chapter gives them. It does not carry a per-batch history that no writer can read.**
 
-# THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 20. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
-
-**THIS PASS READ `logs/next-0007.review.log` AND REPAIRED AGAINST IT, AND IT CHANGED NOBODY.** No person was invented, no
-descriptor was taken or given, no name was printed, no handle was varied, no relationship moved and no age, number or
-trade was altered. The whole copy of this file as it stood before this block is
-`state/archive/character-state.md.volume-20-batch-0001-review-fix-full.md`, taken and verified by SHA256 first. **The
-whole record of what changed in the plan is `outline/volume-20.md` §21.5 and it is not restated here.**
-
-**AND THREE FIGURES ABOUT PEOPLE THAT WERE WRONG AND ARE NOW RIGHT IN PLACE, IN THE ROWS THEY WERE WRONG IN.** Entry 12
-above, *the woman of about fifty-four*, carried the phrase **"none of them in the last eleven volumes"** and it was false:
-her six occurrences are three in `chapters/volume-06/chapter-0294.md` and three in `chapters/volume-09/chapter-0420.md`,
-**and Volume 09 is inside the last eleven volumes on disk.** The row now names both files, gives the three-and-three
-split, and says that she is at zero from Volume 10 to Volume 19. **The figure of six did not move and the plan's use of her
-did not move: her descriptor goes into a mouth on 994 and nowhere else, and nobody goes to look for her.**
-
-**Entry 13 below, *man of about thirty-seven*, was given as 6 in 6 and is 6 occurrences in 1 file**,
-`chapters/volume-06/chapter-0293.md`. **That figure is already on disk in five records — `outline/volume-07.md`,
-`outline/volume-09.md`, `outline/series.md`, `state/volume-07-close.md` and `state/volume-09-close.md` — so nothing was
-reversed by this correction. THE TWO RECORDS THIS PASS AT FIRST NAMED AS ITS PROVENANCE, `outline/volume-10.md` §20 and
-`state/volume-10-close.md`, BAR HIM BY NAME AND PUBLISH NO FIGURE, AND `outline/volume-10.md`'s table carries the *woman*
-of about thirty-seven at 10 in 3, WHICH IS A DIFFERENT PERSON; THAT CITATION IS WRONG AND IS WITHDRAWN.** He is barred by
-name and is in no chapter of days 951 to 1000, exactly as before.
-
-***Woman of about sixty-nine* was listed in `outline/volume-20.md` §19.4 among candidates at zero in both of the last two
-volumes, and she is at 2 in 1 file in Volume 19 and at 0 in Volume 18, so the criterion was violated by one of the volume's
-load-bearing figures. She is re-sorted out of that list by name. SHE IS NOT A CANDIDATE FOR ANYTHING AND WAS NEVER
-ONE, AND THE CORRECTION CHANGES NOTHING ABOUT HER: entry 11 below stands word for word, her five lines in the grit drawn
-on 920 and never asked about, her sixth on 1000 with nobody stopping, and her sixth question of her own put to the man of
-about fifty-seven on 997, which is the resolution of this volume.**
-
-**AND THE POOL COUNT TWO FILES GOT WRONG AND THIS FILE'S OWN COPY OF IT IS NOT ONE OF THE TWO.** The card file and the
-writer prompt said the pool holds twenty-four candidates; it holds **nineteen at zero in both of the last two volumes,
-with *man of about thirty-seven* barred by name beside them at 6 in 1 file.** Both files now say so.
-
----
-
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-20-batch-0001-review-fix-full.md`,
-which is the whole of this file as it stood after the phase that planned Volume 20 and before the repair pass that read
-`logs/next-0007.review.log`.** **The copy before that is
-`state/archive/character-state.md.volume-19-batch-0002-review-fix-full.md`, verified by SHA256 against the live file
-before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/character-state.md.volume-19-batch-0002-review-fix-full.md`,
+which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that
+read `logs/next-0006.review.log`.** **The copy before that is
+`state/archive/character-state.md.volume-19-outline-full.md`,
+verified by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD
 BEFORE THE PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND
 WROTE ITS OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND
 THE EARLIER COPIES UNDER THIS FILE'S OWN NAME ARE STILL IN `state/archive/` AND WERE NOT DISTURBED.**
@@ -121,9 +85,7 @@ it.**
 
 12. **THE WOMAN OF ABOUT FIFTY-FOUR. AT ZERO ON ALL FIFTY DAYS EXCEPT 994, AND HER DESCRIPTOR IS IN A MOUTH ON 994 AND ON
     NO OTHER DAY, AND NOBODY GOES TO LOOK FOR HER AND NOBODY SENDS FOR HER.** **Measured at six occurrences in two files
-    across all nine hundred and fifty chapter files — three in `chapters/volume-06/chapter-0294.md` and three in
-    `chapters/volume-09/chapter-0420.md`, and at nothing else. ONE OF THE TWO IS IN VOLUME 09 AND VOLUME 09 IS INSIDE THE
-    LAST ELEVEN VOLUMES ON DISK, and she is at zero from Volume 10 to Volume 19.** **She is carried by her
+    across all nine hundred and fifty chapter files, none of them in the last eleven volumes.** **She is carried by her
     descriptor and never by a name, and she has no name on a page of this manuscript that this plan can find, and none
     was invented for her.**
 
