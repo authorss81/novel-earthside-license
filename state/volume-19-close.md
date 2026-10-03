@@ -17,6 +17,13 @@ that had told the contrary were corrected in place before this run began — `st
 `state/chapter-summaries.md`, `state/batch-summaries/volume-19-batch-0005.md` and `reviews/volume-19/batch-0005.md`
 §11.3. This record inherits the corrected text and does not repeat the false sentence.
 
+**AND THE CONTINUATION RUN THAT EDITED IT.** This phase was resumed from a checkpoint with this file already written
+and committed, and **the run that resumed it did not rewrite it.** It re-ran this record's instruments over the fifty
+chapter files, found that every published figure it tested returned exactly except two, repaired those two in place
+at §5 item 16 and §7.2, corrected one piece of bookkeeping in §5 that named four objects and gave its figures for
+four others, added §11 to publish that re-run and those three changes, and made no fourth change. **It is still the
+first edition of this record and its only file.** §11 carries the whole of what it did.
+
 **AND THE REVIEWER. `reviews/volume-16/` does not exist and the review dispatch in this repository falls back to the
 writer's own agent, because `novel-reviewer` is registered as a subagent. Nothing in this file is an outside reader's
 finding and nothing in it should be taken for one. Every finding ever taken over this manuscript has been taken by the
@@ -328,9 +335,44 @@ proof of a state, and where a row's state rests on the live layer rather than on
     above it.** The board or the outside wall is named in **6 of 50 bodies**, first at 901 and last at 939; *nail* in
     **10**, last at 944; and the empty second hole in **4**, first at 914 and last at 939. **No chapter of the fifty
     writes on that board and no second nail goes into that wall above it.**
-16. **The door at the foot of that stair.** Named in **16 of 50 bodies** and asserted standing open in **16** — 901,
-    903, 904, 905, 907, 911, 912, 915, 918, 921, 934, 936, 943, 944, 946 and 950 — first at 901 and last at 950. **No
-    chapter of the fifty shuts it and no chapter of the fifty has anybody watching it.**
+16. **The door at the foot of that stair, and the store door, which are two doors and were counted here as one.**
+    **REPAIRED IN THE CONTINUATION RUN, and the repair is published rather than made quietly.** This row first
+    published **16 of 50 bodies and asserted standing open in 16**, with one list of sixteen days and no second figure.
+    **That sixteen reproduces exactly under one instrument and does not measure the object this row is named for, and
+    the row has been rewritten to say so.**
+    - **The figure that returns the sixteen.** A body counted when some single sentence inside it carries both the word
+      *door* and the word *open*, within sixty characters of one another and across no full stop — literal match, scope
+      fifty bodies. **It returns sixteen: 901, 903, 904, 905, 907, 911, 912, 915, 918, 921, 934, 936, 943, 944, 946
+      and 950.** That is a count of bodies in which a door and an openness stand in one sentence together, and it is
+      the same sixteen the row carried before the repair.
+    - **What those sixteen actually are, read one by one.** **Twelve assert the door at the foot of that stair standing
+      open — 901, 903, 904, 905, 911, 912, 918, 921, 934, 943, 944 and 950** — and in 918 it is in a mouth, as a
+      preference, and the sentence is that he would rather it were done in the daylight with the door standing open
+      than anywhere else. **Four assert a different door standing open — 907, 915, 936 and 946 — and that door is the
+      store door at the back of the yard or at the side of the yard, not this one.** Twelve and four are the sixteen,
+      and the row's own figure for its own object is therefore **12, not 16.**
+    - **The mention figure for the object the row is named for.** `door at the foot of that stair` or `door at the foot
+      of the stair`, literal, either case flag, scope fifty bodies: **25 bodies, first at 903 and last at 948.** A wider
+      reading that lets an anaphoric *that door* stand for it gives 16 on `that door` and 35 on `the door`, and the
+      bare word *door* stands in **41 of 50 bodies**; **all four are published and none is chosen over another.**
+    - **The store door is a second standing object and was not in §5 before this repair.** `store door`, literal, scope
+      fifty bodies: **7 bodies — 907, 915, 919, 930, 936, 939 and 946** — first at 907 and last at 946, two of which
+      (930 and 939) name this row's door as well. **No chapter of the fifty shuts the store door either.**
+    - **No chapter of the fifty shuts the door at the foot of that stair, and that holds — and the sweep behind the
+      claim is published because the claim is easy to get wrong.** A sweep of every sentence in the fifty bodies that
+      carries both the word *door* and one of *shut*, *closed* or *close* returns **three bodies and four sentences:
+      927 twice, 926 once and 928 once.** **927 is the only one of the three that shuts a door**, and the door it shuts
+      is **the door of the house out past the last named house, with the chair against the swing of it** — not this
+      one. **926 and 928 are the sweep's two false positives and are named so a reader does not spend time on them:
+      in both, the word doing the shutting is on the *lid of the box of chalk*, in a sentence that mentions a door
+      elsewhere in it** — 926's is the box nobody had shut and 928's is the box that stayed shut in the way it stays
+      shut. So the count of bodies shutting a door is one, and the door is not this row's.
+    - **And the clause about nobody watching it is narrowed, because one page argues the other way.** No chapter has a
+      person standing at that door keeping it, and no chapter shuts it. **But 950 has a mouth say that she is the only
+      one in that room who looks at that door, and the same page has the tradesman read the outside face of the open
+      door across twice.** What is being read there is the face the date is chalked on, **and calling that watching a
+      door is a reading and this record does not make it.** The clause is published in both forms rather than one being
+      dropped.
 
 **And these stand with them, none moved:** the strip of ground at the foot of that stair, **never measured, never
 cleared, never paved over, and never named in any of the fifty bodies — the phrase stands at 0 across the fifty, which
@@ -343,13 +385,21 @@ does not shut, in **21 of 50 bodies** and last at 950; and the handcart with the
 §17.22 names.** `state/volume-18-close.md` §5 gives a mention figure for every one of its objects, and a writer who
 copies those numbers forward publishes figures about a volume they were never measured on. **Four objects in this
 section were first written here from that file rather than from an instrument: the two hollows, the outside-wall
-board, the empty second nail, and the door at the foot of the stair. All four have been measured here, and what the
-other close published for its own fifty against what this close measures for this fifty is 7 against 5 for the
-hollows, 5 against 6 for the board with the nail, nothing against 4 for the empty second hole alone, and 20 against 19
-for the bare piece of board — the last on `bare piece of board` exactly, which is the phrase that file's own figure was
-taken on.** Three of the four do not agree and one has no figure to agree with, **and no reader should take a figure
-in this section from the volume behind this one.** The item numbered 1 above is measured on the wider phrase and gives
-26, and both readings are published rather than one being chosen.
+board, the empty second nail, and the door at the foot of that stair. All four have been measured here.** **The
+comparison this sentence carries was corrected in the continuation run, because as first written it named four
+objects and then gave its four figures for a different four: the bare piece of board was given a comparison figure it
+was never named as having inherited, and the door was named as inherited and given none.** The correct reading is that
+**five objects carry a figure from that file and all five have been re-measured here: the two hollows, the outside-wall
+board with the nail, the empty second nail alone, the door at the foot of that stair, and the bare piece of board.**
+What the other close published for its own fifty against what this close measures for this fifty is **7 against 5** for
+the hollows, **5 against 6** for the board with the nail, **nothing against 4** for the empty second hole alone, **and
+for the door, `state/volume-18-close.md` §5 carries no mention figure that this close can match to a phrase on these
+pages, so this close publishes only its own: 25 on `door at the foot of that stair` or `door at the foot of the
+stair`, 12 asserting it standing open, and 7 for the store door.** The fifth is **20 against 19** for the bare piece of
+board, on `bare piece of board` exactly, which is the phrase that file's own figure was taken on. **Four of the five do
+not agree and one has no figure to agree with, and no reader should take a figure in this section from the volume
+behind this one.** The item numbered 1 above is measured on the wider phrase and gives 26, and both readings are
+published rather than one being chosen.
 
 **The room was never counted.** No sentence of the fifty gives a headcount of that room. §1.4 above carries the sweep
 and the two partial figures a reader will find.
@@ -521,7 +571,7 @@ and none is deleted.**
 | The seven words | each of the five records measured its own ten against its own days | **one on each of seven days, zero on the other forty-nine bodies, zero in fifty headings, no inflected form anywhere** | §2. **Every batch record's own figure is consistent with this one and none of them is quoted as authority for it** |
 | The panel | 0001: 0 in its ten. 0002: 0 in its ten. 0003: **1, on 0929**, 268 characters. 0004 and 0005: 0 | **1, on 0929, 268 characters** | same instrument, scope fifty. **0003's figure is the one that holds and it is reproduced exactly** |
 | `at any hour of that day` | 0005 §11.2: **9 before its repair and 0 after, in its ten days** | **24 across the fifty, in 19 files; `at any hour` at 59 in 33 files** | literal, both case flags, scope fifty bodies. **This is the volume-wide figure and it is the one that reads worst: the negation formula the last batch cut out of its ten days stands twenty-four times in the forty days before them, and a later writer who inherits only §11.4 will believe the volume does not have it. That is why this row is here** |
-| `his own` | 0005 §11.4: **117 across its ten days**, one in every 103 words | **441 across the fifty** | literal, scope fifty bodies, out of 54,377 words — one in every 123. **This is the volume's possessive style and §17.9 is part of the cause, and no figure here is set out to be driven lower** |
+| `his own` | 0005 §11.4: **117 across its ten days**, one in every 103 words | **441 across the fifty** | literal, **both case flags**, scope fifty bodies, out of 54,377 words — one in every 123. **The case flag is load-bearing and is now published, because a case-sensitive scan returns 436 and not 441: the five that separate them are capitalised `His own` at the opening of a sentence, at 935, 940, 947 twice and 948, and 54,377 over 441 is 123.3 and over 436 is 124.7.** **This is the volume's possessive style and §17.9 is part of the cause, and no figure here is set out to be driven lower** |
 | Longest repeated window inside one body | 0002 named the ten-word descriptor handle and 0005 §11.4 published **11** for its ten days | **the maximum across the fifty is 18, at 0947**, and **the single commonest cause is a §17.9 descriptor handle** | for each body, the longest window of tokens occurring at least twice inside it; 8-token windows and upward, letters-only tokenising. **Thirty-two of the fifty bodies return a window of 12 tokens or more, and the bucket each one falls in is measured and printed here rather than left to be inferred: the stallholder's handle in 15 bodies, the carrier's in 5, the tradesman's in 2, the keeper's in 1, the wharf-man's in 4, a §5 standing object in 6, and neither a handle nor a standing object in 3** — 0911, 0922 and 934, and **assigning those three to a bucket is a reading and this record does not make it over fifty bodies.** **The floor on the other twenty-nine is set by `outline/volume-19.md` §17.9, which requires a person's descriptor in full on first appearance in a chapter, and it is the plan's and not carelessness** |
 | Distinct eight-word windows standing in three or more bodies | 0005 §11.4: **58** across its ten, on the per-file-deduplicated reading, and **70** on the occurrences reading | **1,110 distinct windows in three or more of the fifty bodies, and 1,143 distinct windows occurring three or more times in total** | §11.1's two readings exactly, scope fifty bodies. **These are not comparable to a ten-day figure and are not scored against one: a fifty-body set has roughly five times the pairs a ten-body set has, and a volume-wide count of this kind is published as a shape and not as a grade. The bucket that matters is the third one §11.4 names — windows that are neither a required handle nor a standing object — and **assigning a window to that bucket is a reading, not a measurement, and this record does not make the assignment over fifty bodies** |
 
@@ -654,6 +704,76 @@ plan and no bible; it opened no controller file; and it created and removed no `
 5. **The three words nobody is told are still not told.** One hundred and ten occurrences of them across the fifty
    bodies and not one of the hundred and ten is about the month. **What the Bare Month is called, how many days it has
    and whether it is long or short are not on a page of this volume and are not on this one.**
+
+---
+
+## 11. The continuation run, and what it re-ran, and the three changes it made
+
+**This section was added by the run that resumed this phase from its checkpoint. It wrote no chapter and moved no day
+and it moved no figure that was standing correctly. It re-ran the instruments of this record over the fifty files as
+they stand, found that almost every published figure returns exactly, and repaired two that did not. It is published
+here because the reason `reviews/volume-19/batch-0005.md` needed a §11 of its own — set out in this phase's prompt at
+§7.1 — is that a record whose figures cannot be re-derived from the repository is a record that cannot be checked by
+the reader it is written for, and that fault is not repaired by being written in a file that exists.**
+
+### 11.1 What the run found, and the whole of it
+
+| | |
+|---|---|
+| Published figures re-run and returning exactly | **the run returns the record's own figure in every row it tested except the two at §11.2** |
+| Specifically reproduced | 50 files; chapter equals day 50 of 50 both directions; weekday 50 of 50; **Bare-Month ordinal 50 of 50 at zero mismatches, range 586 to 635, and 0915's `six hundredth` the one unusual form**; one date form in fifty bodies and fifty distinct ordinal phrases; titles 4 to 8 words; zero digits in fifty bodies; **54,377 words, mean 1,087.5, shortest 770 at 0929, longest 1,705 at 0943, spread 935**; **500 paragraphs**; **128 speech paragraphs**; **372 bold marks and 372 quotation marks**; **one panel, at 0929**; **`nobody` 166 in 44 bodies and 1 in 1 heading, the heading being 0912's**; **41 sentence-initial `Nobody` and a longest run of 2 at 0941**; **the plan's own pressure column parsed out of `outline/volume-19.md` §14.3 — recovery 10, character 10, physical 9, discovery 7, political 7, cost 5 and decision 2, summing to 50 on seven distinct tags, and §15 agreeing with it at every one of the seven**; **`Adrian Vale` 30 occurrences in exactly the plan's eleven files, and the §14.3 Adrian column marked on exactly those eleven days and no other**; the seven words one on each of their own seven days, zero on the other forty-nine bodies, zero in fifty headings, no inflected form anywhere, each inside a bold speech block; `length` 55 in 31 files, `long` 44 in 27, `short` 11 in 10; **bare board 26 on the wide phrase and 19 / 5 / 7 on its three components; register 33; second book or second slate 23; bar 27 and sockets 26; gate 8 at the plan's eight days; trough 21 and heat 7 with 921 carrying three; rope 6; fence 6 with `sixteen willow posts` and `eleven withies` in 3 each, both last at 923; satchel 32; tally-board 7; stool 15; sill 5; hollow 5 at 13 occurrences; `at any hour of that day` 24 in 19 files; the ten per-file word counts and their 12,076 total; the five batch totals; **11 repeated sentences of 38 characters or more out of 1,426, 1,413 distinct, and the two that stand three times each**; **the longest shared closing run, 15 tokens, between 0908 and 0918, and the run itself printed exactly as §8 prints it**; and the longest shared body run across the last ten, 17 tokens, which is a §5 standing object and not prose |
+| Published figures that did not return | **two, and both are repaired in place and not deleted** — §11.2 — with a third change beside them that is not a figure and is repaired at §11.2 item 3 |
+| Figures reached by reading that were checked and not turned into numbers | the twelve standing questions; the non-adjudication of 943; the closing-shape check of §8; the classification of the hundred and ten occurrences of the three words; and the four arguable closings of §8's R1 row. **Each is still published as a reading and none is published as a measurement** |
+
+### 11.2 The two figures that did not return, and the one piece of bookkeeping, all repaired above
+
+1. **§5's item 16, the door.** The row published **16 of 50 bodies and asserted standing open in 16**, one list of
+   sixteen. **The sixteen reproduces exactly** under a single-sentence co-occurrence instrument, and it is published
+   above with that instrument and with its list, so that it can be checked. **But it is not a count of the object the
+   row is named for: twelve of the sixteen assert the door at the foot of that stair standing open and four assert the
+   store door at the back or the side of the yard standing open, which is a second door this section did not carry.**
+   The row now gives **12** for its own object, **25** as its mention figure, **7** for the store door, and keeps the
+   clause about nobody watching it with the one page that argues the other way named beside it.
+2. **§7.2's `his own`.** The row published **441** and described the instrument as literal without a case flag.
+   **441 is a both-case-flags count and 436 is the case-sensitive one**, the five difference being capitalised `His own`
+   at a sentence opening. The row now carries the flag, the split, the five days, and both divisions of 54,377.
+3. **§5's closing comparison paragraph, which is a figure that pointed at nothing.** As first written it named four
+   objects as having been inherited from `state/volume-18-close.md` and then measured — the two hollows, the
+   outside-wall board, the empty second nail, and the door — **and gave its four comparison figures for a different
+   four, ending with the bare piece of board, which was never in the inherited list, while giving the door, which was,
+   no figure at all.** It now names five objects, states that all five have been re-measured here, and gives the
+   comparison for each, including the honest entry that the volume behind this one **carries no door figure this close
+   can match to a phrase on these pages**, so this close publishes only its own.
+
+### 11.3 And the four the run itself got wrong, published because §17.22 requires it
+
+**The instrument was wrong four times and the record was right four times, and a reader deserves to know which is
+which.** **The ordinal row reported thirty-one faults on the first run** — the resolver this run wrote omitted the
+ordinals *twentieth* to *ninetieth*, and §1.2 of this record lists them; **§1.2 was the more careful document and said
+so in advance, including the exact page that would defeat a careless parser.** **The `sixteen posts` row returned zero
+files** because the pages say `sixteen willow posts` and the pattern did not. **The fence, chalk box, handcart, sill
+and empty-second-hole rows each returned a figure below the one published** — 10 for `two fingers` against a published
+10 on the same phrase, 21 for `box of chalk` or `chalk box` against a published 21, 9 for the handcart carrying the
+mallet bound in cord against a published 9, and 4 for the empty second hole across 914, 916, 920 and 939 against a
+published 4 — **all of which agree once the phrase the record names is the phrase the instrument uses.** **And the
+longest run of sentence-initial `Nobody` first returned 3 across five files, because that instrument carried a run
+over a paragraph boundary; with the run reset at every paragraph it returns 2 at 0941, which is what §1.1 publishes and
+what the plan's ceiling of three is measured against.** **Five of this record's figures were checked against a wrong
+instrument before they were checked against a right one, and in no case did the record move.**
+
+### 11.4 What the continuation run did not do
+
+**It wrote no chapter, no day and no line of fiction; it moved no card, no frame, no pressure tag, no cast member and
+no decision; it settled nothing about 943 and adjudicated no plan collision; it printed no held string and no span of
+one; it put the bar in no socket, wrote on no board, cut no rope, opened no satchel, turned no tally-board, fetched no
+heat, measured no fence and moved no post; it named no day after 950; it edited no chapter, no plan, no bible, no
+batch record, no review record, no summary, no continuity file and no open-thread file; and it opened no controller
+file.** **The only file it changed is this one, and the three changes it made in it were each a count made narrower
+and its evidence made wider — sixteen becoming twelve for the row's own object, 441 becoming 441-with-a-case-flag, and
+a comparison list becoming the list it had claimed to be giving.** It created no directory, and it created and removed
+no `.done`, `.checkpoint`, `.blocked`, `.deferred` or `.retired` file; **the dispatch markers in
+`workspace/volume-19/close/` had already been moved by the runner before this run began, and it left exactly as it
+found them.**
 
 ---
 
