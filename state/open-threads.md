@@ -102,21 +102,21 @@ and not a gap to be filled.**
 ## THE FOUR THREADS ABOUT THE WRITING BEFORE THOSE FIVE RULES, WHICH ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD
 
 **1. THE LENGTH SHORTFALL, OPEN ON PURPOSE, AND IT HAS MOVED AGAIN AND THE RIGHT WAY.** `PHASE_SYSTEM.md` asks for about 2,200
-to 3,200 words and days 991 to 1000 measure a mean of **1,556.5**, against 1,389.6 for the batch behind it, 1,339.0,
-1,217.3 and 1,305.9. **The movement was made by opening out scenes that had room and by splitting about fifty sentences over
-forty-five words, and by adding no paragraph that was not carrying something and cutting no finished scene to reach a number.
-The thread stays open across whatever comes next, and a writer who closes it by padding has closed it wrong.**
+to 3,200 words and days 991 to 1000 measure a mean of **1,572.9**, against 1,389.6 for the batch behind it, 1,339.0, 1,217.3 and
+1,305.9. **It moved by opening out scenes that had room and by splitting about fifty sentences over forty-five words, and by
+adding no paragraph that was not carrying something and cutting no finished scene to reach a number. The thread stays open across
+whatever comes next, and a writer who closes it by padding has closed it wrong.** The repair pass added 165 words to the ten
+days and did not aim at the number.
 
 **2. THE PROSE GOING HOLLOW, AND FIVE POINTS ARE STILL NOT A DIRECTION.** Negation tokens run one in 45.5 words on days 951 to
-960, 41.3 on 961 to 970, 62.6 on 971 to 980, 57.9 on 981 to 990 and **62.0 here**. Bare *that* runs **3.25, 3.88, 3.14, 3.99
-and 4.35 per cent.** Read as negations per thousand words the five points are 21.98, 24.23, 15.98, 17.27 and **16.13**, so
-this batch sits under four of the four behind it. **What moved them on batch 0003 was writing what people do with their hands
-instead of paragraphs that report the absence of events, and this batch wrote the same way.** A held string binds what a
-chapter may print and does not license a paragraph spent reporting that it did not print it, and neither figure was moved by
-cutting a required handle or a piece of standing geometry. **AND THIS BATCH'S OWN BARE-*that* INSTRUMENT RETURNS ITS FOUR
-COMPARATORS 0.03 AND 0.05 POINTS UNDER THE FIGURES PUBLISHED FOR THEM IN THE LIVE LAYER, and it reproduces the third exactly;
-the difference is the instrument and not the prose, and this run's instrument is published on the same line as all five of its
-numbers at `reviews/volume-20/batch-0005.md` §7.**
+960, 41.3 on 961 to 970, 62.6 on 971 to 980, 57.9 on 981 to 990 and **63.4 here**. Bare *that* runs **3.32, 3.95, 3.15, 4.01 and
+4.37 per cent**, and read as negations per thousand words the five points are 21.98, 24.23, 15.98, 17.27 and **15.77**, so this
+batch is the least dense of the five on negation. **What moved them on batch 0003 was writing what people do with their hands
+instead of paragraphs that report the absence of events, and this batch wrote the same way.** A held string binds what a chapter
+may print and does not license a paragraph spent reporting that it did not print it, and **neither figure was moved by cutting a
+required handle or a piece of standing geometry.** The repair pass moved both of them the wrong way by a little and moved them by
+writing, not by cutting; **the four comparators and the instruments are at `reviews/volume-20/batch-0005-fix.md` §2, and where
+this run's instrument differs from the figures published in the live layer the difference is the instrument and not the prose.**
 
 **3. THE ATTRIBUTION PUNCTUATION FAULT, WHICH IS A HOUSE FAULT AND IS MEASURED ON EVERY BATCH NOW.** The pattern is a full stop
 inside the closing quote of a bolded speech immediately followed by a speech tag, and the correct form is
@@ -132,7 +132,7 @@ a mean of **1,303.6** and `state/batch-summaries/volume-20-batch-0002.md` still 
 prose as it stood BEFORE their own review-fix passes. One repair pass, commit `66d4329`, rewrote days 951 to 969 in place, so
 both published means went out of date in the same commit that changed the words. **Re-measured on the files now on disk with
 the instrument `reviews/volume-20/batch-0005.md` §7 names, batch 0001 is 13,059 words and a mean of 1,305.9 and batch 0002 is
-12,173 words and a mean of 1,217.3, and this batch's own file publishes 1,556.5 for days 991 to 1000.** **This run did not
+12,173 words and a mean of 1,217.3, and this batch's own file publishes 1,572.9 for days 991 to 1000.** **This run did not
 edit those two summaries, because a pass on batch 0005 does not own them. A pass that owns batches 0001 and 0002 should
 re-measure both summaries, correct 1,303.6 to 1,305.9 and 1,215.1 to 1,217.3, and settle the 1,215.1 against the 1,215.7 that
 `state/current.md` printed for a while. This is the same failure as rule 1 at the head of this file, one level further out: a
@@ -152,23 +152,14 @@ recorded so that a later writer knows the number is 22.0 and what moved it.
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| Review-fix on batch 0005 | Nine prose and nine figure findings; the thumb put back on the stallholder; three *nobody* runs broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall; the grit lines no longer enumerated; the `nobody`-chain figure and every count re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Batch 0005, days 991 to 1000 | The five rules; the three opened threads — the putting-to of 898, the three mornings of 994, the answer of 997 — the four moved states, and the writing threads | summarised above; run record at `reviews/volume-20/batch-0005.md` |
-| Batch 0004, days 981 to 990 | The three opened threads — the sheet and the answer on 981, the word on 985, the second decision on 982 — the three moved states, and the writing threads | `state/archive/open-threads.md.volume-20-batch-0005-writing-full.md` |
-| Review-fix on batch 0003 | The record threads: figure-and-pair together, no asserted absence a chapter contradicts, no held string in a record, a four-point comparator is not a direction; the two-board ownership rule | same file, with the working at `reviews/volume-20/batch-0003-fix.md` |
-| Batch 0003, days 971 to 980 | The two opened threads; the four moved states; the writing threads | same file |
-| Review-fix on batch 0001 | The stair as settled geometry; the man of about thirty-four's answer and where he said his last thing | same file |
-| Batch 0002, days 961 to 970 | The two opened threads; the 969 thread; the four moved states; the writing threads | same file |
-| Batch 0001, days 951 to 960 | The threads of days 951 to 960, including the first putting-to of 957 and the statement of 958 | same file, and `state/archive/open-threads.md.volume-20-batch-0001-writing-full.md` |
-| Repair pass on the phase that planned Volume 20 | What planning did to the threads | `state/archive/open-threads.md.volume-20-batch-0005-writing-full.md` |
+| Batches 0004 and 0005, days 981 to 1000 | The five rules; the six opened threads — the putting-to of 898, the three mornings of 994, the answer of 997, the sheet and the answer on 981, the word on 985, the second decision on 982; the writing threads | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |
+| Review-fix on batch 0003 | The record threads: figure-and-pair together, no asserted absence a chapter contradicts, no held string in a record | same file |
+| Batches 0001 to 0003, days 951 to 980, and their repair passes | The first putting-to of 957 and the statement of 958; the 969 thread; the stair as settled geometry; the man of about thirty-four's answer; the opened threads and moved states of those four batches | same file, and `state/archive/open-threads.md.volume-20-batch-0001-writing-full.md` |
+| The phase that planned Volume 20, and its repair pass | What planning did to the threads | same file |
 | The phase that planned Volume 20 | The volume's threads | same file |
 | **The threads this manuscript is carrying at the end of day 750** | **Volume 15's fifty days of threads, all still live — the oldest layer still carrying live prohibitions. It must be read whole from the archive before any volume-close audit.** | same file |
 | The three shared sentences inside Volume 15 that no repair pass has touched | Held strings | same file |
 | What the phase that planned Volume 19 did to the threads | Volume 19 threads | same file |
-| Repair pass on days 911 to 920 | Findings applied | same file |
-| Batch 0901 to 0910, days 901 to 910 | Written. | same file |
-| Batch 0911 to 0920, days 911 to 920 | Written. | same file |
-| Repair of days 921 to 930 | Attributions and tense | same file |
-| Batch 0931 to 0940, days 931 to 940 | Written. | same file |
-| Review-fix of days 931 to 940 | Findings applied | same file |
-| Batch 0941 to 0950, days 941 to 950 | Written. Last ten days of Volume 19. | same file |
-| The repair pass, and the voices | Findings applied | same file |
+| **The Volume 19 era, in nine blocks: the threads this manuscript was carrying at the end of day 750, all still live and the oldest layer a volume-close audit must read; the three shared sentences inside Volume 15 that no repair pass has touched; what planning Volume 19 did to the threads; and the six batches 0901 to 0950 with their three repair passes.** | Volume 15's fifty days of threads and everything after them | same file |

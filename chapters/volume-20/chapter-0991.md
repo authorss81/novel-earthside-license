@@ -30,7 +30,7 @@ She was in that room and she was in neither of their two mornings. She had not b
 
 Then the man who came up that stair turned round off that window and went to the near end of that bench and put it to the man of about thirty-nine who trades on a board for the second time.
 
-He put it to him low, to one man and not to the room, the way he had put it the first time. What he said went out of his mouth into the other man's ear and stayed there. Nobody in that room heard a word of it. There is no leaf on either of those two books with a scratch of it on it, and nothing on the sheet on the bench and nothing on the bare board on the outside of that door and no chalk anywhere in this city that carries one word of what was asked that morning or of what had been asked on the day it was asked the first time.
+He put it to him low, to one man and not to the room, the way he had put it the first time. What he said went out of his mouth into the other man's ear and stayed there. Nobody in that room heard a word of it. There is no leaf on either of those two books with a scratch of it on it. There is nothing on the sheet on that bench and nothing on the bare board on the outside of that door. No chalk anywhere in this city carries one word of what was asked that morning, or of what had been asked on the day it was asked the first time.
 
 The man of about thirty-nine who trades on a board had his own hands on the wood of that bench and he looked down at them.
 
@@ -40,7 +40,7 @@ Then the man who came up that stair said one thing back, and he said it to the m
 
 **"Then I am not going to say it again. That is all. I am not going to put it to you a third time and I am not going to tell you what it was, and if you are asked again by somebody it will not be by me and it will not be in this room while I am standing in it," ** said the man who came up that stair, at the near end of that bench with his own coat open and one sleeve of it wet to the shoulder.
 
-Nobody in that room said a word back to either of them. Nobody in that room told either of them that what he had said was right or that it was wrong. Nobody asked the man of about thirty-nine who trades on a board to say it again, and nobody asked the man who came up that stair what it had been, and the woman of about sixty-nine with her tin said nothing about any part of it and did not come near that bench.
+Nobody in that room said a word back to either of them. The tradesman took the cloth off his own shoulder and went down the face of his own board with it and said nothing at all while he did it. Nobody asked the man of about thirty-nine who trades on a board to say it again, and nobody asked the man who came up that stair what it had been, and the woman of about sixty-nine with her tin said nothing about any part of it and did not come near that bench.
 
 What went out of that room went down that stair in two men's mouths and along that row and out past the store's end of it. It is not written down, and it is not written down anywhere in this city, and there is no way now of showing anybody what either of those two men said about it after the light went off that row.
 

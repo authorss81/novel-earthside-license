@@ -36,17 +36,17 @@ She put one thing to him about it.
 
 She put it to him about whether that shelf stands square with the wall behind it or hangs forward at its near end, and whether the near end of it hangs forward enough that a register put up on it would come down off it of its own weight.
 
-He answered her. What he said went about nine feet from her own mouth and it took about as long as it takes to say a thing twice. Nobody in that room was waiting for him to have a useful answer, and nobody said a word back to him about it, and nobody thanked him for it and nobody told him that it was not wanted.
+He answered her. What he said went about nine feet from her own mouth and it took about as long as it takes to say a thing twice. Nobody in that room was waiting for him to have a useful answer, and nobody said a word back to him about it. Nobody thanked him for it and nobody told him that it was not wanted.
 
 Nothing was done with what he said. The keeper put the topmost page of her own leaf down square again and carried on down the column that holds figures and came back up it.
 
 Her own register lay on the wood of that bench at the far end of that room where it had been lying since the morning before, and the shelf behind that bench stayed as it was with nothing on it but the dust that had come up that stair on it.
 
-Adrian Vale went on standing at that end of that bench. He was of no use to anybody in that room at any hour of that morning, and nobody in that room told him so, and nobody in that room asked him anything else.
+Adrian Vale went on standing at that end of that bench. He was of no use to anybody in that room at any point of that morning, and nobody in that room told him so, and nobody in that room asked him anything else.
 
 ---
 
-The man of about twenty-seven took that step four times that morning with a full bucket and brought it back up four times, and on the last of those four he did not go on down the row afterwards. He stood on the flags with his own hand on the outside of the rim of that trough and looked at the ice in it for about as long as it takes to read a thing twice. Nothing had been fetched for that trough that day and nothing had been broken in it.
+The man of about twenty-seven took that step four times that morning with a full bucket and brought it back up four times, and on the last of those four he did not go on down the row afterwards. He stood on the flags with his own hand on the outside of the rim of that trough and looked at the ice in it while a slow count of thirty went past in his own head. Nothing had been fetched for that trough that day and nothing had been broken in it.
 
 No mouth in that room said the name of the man who came up that stair on any day of that week. Nobody went and stood in front of the block of writing on that wall. No hand in that room picked that second book up or turned it over or wrote on it at any hour of that day.
 
@@ -54,4 +54,4 @@ In the middle of that afternoon she went out of that room and down that stair an
 
 ---
 
-The light came off that sill about the fourth hour and went down the wall under it, and the dust on that sill stood in a low ridge along the near edge of it. The two shapes pressed into that dust stood in the flat of it beyond that ridge where the light did not reach them.
+The dust on that sill stood in a low ridge along the near edge of it, and the light came off that sill about the fourth hour and went down the wall under it. The two shapes pressed into that dust stood in the flat of it beyond that ridge where the light did not reach them.

@@ -1,6 +1,6 @@
 # Chapter 0993 — She Carries That Stool Up That Stair Again
 
-The woman of about fifty-two set that stool down against the wall along the far side of that room and stood looking at it, and then she put her own hands back at the sides of her dress and left it standing there.
+The woman of about fifty-two set that stool down against the wall along the far side of that room, went the length of that room to the far end of that bench, and stood with her own back to the wood behind the far end of it and her own hands at the sides of her dress, and she left that stool standing where she had put it.
 
 It was Sunday, the six hundred and seventy-eighth day of the Bare Month. The night had been hard and clear for the eleventh morning running and the sun came up over eleven miles of flats a little after the light and stood over the roofs at the far end of that market before it came over the ridge of them. The air stood white and close under the awning at the store's end of that row until about the eighth hour. Four hundred yards of flags ran from the store's end of that row to where the row gave out into the side of a yard, and the crust where the carting has been stood pale and hard in the middle of the walking spaces.
 
@@ -36,7 +36,7 @@ The block of writing was on the wall along the far side of that room and it stoo
 
 ---
 
-The woman of about fifty-two carried that stool down that stair at the middle of the afternoon and up it again, and she was not carrying anything else up or down it at any hour of that day.
+The woman of about fifty-two carried that stool down that stair at the middle of the afternoon and up it again, and she was not carrying anything else up or down it before the light went or after it.
 
 That bar lay along the top step of that stair out of its two sockets, and the two of them were empty in the far side of the door below. There was a day in chalk on the outside of that door, and the chalk of it crossed the joint between the two planks and about a finger's width of that writing was lost down in the groove of it. Below that day the bare board stood a thumb clear of the near plank with one mark on it.
 

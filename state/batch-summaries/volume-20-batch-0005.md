@@ -46,3 +46,12 @@ man of about fifty-seven read it twice and answered, and **nothing was written d
 
 **THE NEXT PHASE IS A VOLUME CLOSE, AND WHAT IT IS FOR IS A QUESTION FOR THE OWNER OF `outline/series.md` AND NOT FOR A
 BATCH PROMPT. This run wrote no next-phase prompt and created no directory, and Volume 20 ends at day 1000.**
+
+**AND A REPAIR PASS HAS SINCE RUN OVER ALL TEN DAYS.** `reviews/volume-20/batch-0005-fix.md` is its record. Nine
+prose findings and nine figure findings, eighteen applied, four looked at and left standing and named there. The four that matter to a
+reader are a thumb that was on the wrong man on the volume's climax day and has been put back on the stallholder it has always belonged
+to; three runs of three sentences opening *nobody*, in the memory day, the climax and the resolution, each broken with the work the
+room is doing; a pronoun at 997 that had handed the keeper's register to the woman of about sixty-nine; and the woman of about
+fifty-two standing against her own far wall on 993, which the continuity layer forbids. **No day, no weekday, no Bare-Month ordinal,
+no pressure tag, no frame and no object state moved, and the three held wordings of 994 were not touched and are still at one
+occurrence each in one file each.**

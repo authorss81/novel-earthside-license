@@ -1,6 +1,6 @@
 # Chapter 0996 — Out Past The Last Named House Along The Flats
 
-It had rained hard in the night of that Wednesday and stopped a little before the light, and the standing water in eleven miles of flats was about the depth of two fingers in the flat places and had gone down off the crust on the high places by about the fourth hour.
+It had rained hard in the night and stopped a little before the light, and the standing water in eleven miles of flats was about the depth of two fingers in the flat places and had gone down off the crust on the high places by about the fourth hour.
 
 It was Wednesday, the six hundred and eighty-first day of the Bare Month. The sun was not up before the light and the wind came off that rain out of the west and went along the flats and died about two miles out. The ground out past the last named house had taken two days of that rain and had gone hard on the top of it, and the carts and the barrows and the feet of everything stood on that crust with soft ground an inch or two under it. The walking spaces of that row stood pale and hard in the middle and the joints of them had not dried at all.
 

@@ -18,7 +18,7 @@ question for the owner of `outline/series.md` and not for a batch prompt, and ne
 | **0991** | 991 | Friday | 676 | **discovery** | — | 14 | **THE QUESTION OF DAY 898 ASKED A SECOND TIME, AND THE MAN IT WAS ASKED OF SAYS HE DOES NOT REMEMBER BEING ASKED ANYTHING.** The latch on that door at the foot of that stair goes up and comes down three times before the light and twice after it. The man who came up that stair is at the window from the fifth hour with his own coat open and one sleeve wet to the shoulder, and goes along the room to the shelf at the height of a person's shoulder and back again without anybody in that room moving off its own business. **At about the seventh hour the woman of about sixty-nine with her tin comes up that stair and stands about two feet short of the near end of that bench, and she is in that room and she is in neither of their two mornings.** He puts it to the man of about thirty-nine who trades on a board for the second time, low, to one man and not to the room. **The tradesman says he has a board in front of him and he is telling you that he does not remember being asked anything by anybody in that room, and that if somebody put something to him and he did not answer it then that is a thing he would be carrying and he is not carrying it. The asker says he is not going to say it again, and is not going to put it to him a third time, and is not going to tell him what it was.** What he said goes from his mouth into the other man's ear and stays there; there is no leaf on either of those two books with a scratch of it on it and no chalk anywhere in this city carrying one word of it. The closing is the grain of the wood at the near end of that bench standing up along about the length of a thumb |
 | **0992** | 992 | Saturday | 677 | **political** | — | 18 | **THE BOARDS GOING UP ALONG THAT ROW, ABOUT FOUR PEOPLE A DAY GOING PAST IT, AND NOBODY STOPPING.** The man of about thirty-four who keeps a stall two stalls along puts his own board up face in with the bare back of it turned out into the row behind his own shoulder. **The tradesman puts his board up face out with the cloth over his own shoulder and says out loud that he has had it up eleven days and wiped it every morning of them and not one person in that row has ever come and stood in front of it, and that the whole of the difference between a board that is read and a board that is not is whether anybody stops. The stallholder says out loud that he puts his own out with the face of it to the wall every morning because he has never known one reason to put it out.** Neither improves on one word of the other. **About four people a day went along that row; two of them read the top line of that board going past without breaking their step and two of them went past with their own eyes on the walking spaces; nobody stopped.** The woman of about sixty-nine with her tin goes up the row, stands at a dozen joints with the stick held down against the stone, and makes none of them. The closing is the light lying on the face of that board and making every one of the nineteen rates readable in a row where nobody read them |
 | **0993** | 993 | Sunday | 678 | **recovery** | — | 5 | **A PIECE OF WORK THAT DOES NOT COME OUT, AND THE PERSON IT BELONGS TO GOING ON WITH IT.** The woman of about fifty-two carries that stool up that stair in her own two hands at about the fifth hour and sets it down against the wall along the far side of that room in the place she sets it down, and does not sit on it, and has not sat on it once since the water came. **She carries it down and up again at the middle of the afternoon and is not carrying anything else up or down that stair at any hour of that day.** The keeper goes down the column that holds figures and comes back up it, and squares her own leaf and lifts the topmost page of it at its outer corner. The shavings from the stallholder's trestle foot are gone off the walking space and the earth is packed flat and pale where they lay. The man of about twenty-seven says one ordinary thing to the carrier about the bucket coming up four times with as much in it as the last. **Nobody said one word about the block on that wall and no hand went near it at any hour of that day.** The closing is a damp ring on the top of that stool about the size of a coin, dry, standing out pale against the wood inside it |
-| **0994** | 994 | Monday | 679 | **cost** | **1** | 6 | **THE ACT.** Adrian Vale comes up that stair at about the fifth hour and puts the flat of his own hand on the plaster along the far side of that room at the height of a man's shoulder, a foot along from where the block of writing stands, and leaves it there. **The keeper names her own cost out loud first, in her own mouth, in her own words, and nobody says a word back to her about any part of it. Then she says it out loud and nobody answers it. Then she asks one thing once about a day that is not anybody's own.** Three people answer it, one after another, and each of them takes about as long as the asking had: **the woman of about fifty-two** describes a morning with no ice in that trough and a man at the near end of that bench who did not go down the face of his own board once and nobody at the door; **the man of about thirty-nine who trades on a board** describes a wet morning, soft grit, ice about the depth of a thumb, an empty far end of that bench and a woman at the near end of it with the flat of her own hand on the page of that register; **the man of about thirty-four who keeps a stall two stalls along** describes a morning when the board on the outside wall was not on its nail and was back up on it before the light had got off the roof line. **Nobody in that room asked any of them one word about any part of it, and nobody in that room was told that anybody else's account of that morning was the right one, and the three accounts are never compared, preferred or summarised anywhere in that chapter.** **In the middle of that morning Adrian Vale says one thing into the middle of that room, addressed to nobody, and the tradesman is about nine feet off at the near end of that bench with his own thumb going along the foot of his own board and does not look up and does not answer it, and nobody else answers it and nobody turns about at it.** He wants to be asked something out loud in that room in daylight with a date on the door behind him. **No mouth in that room puts anything to him at any hour of that day, and the chapter does not say that anybody decided not to.** The register holds six strokes and no seventh and the two accounts of one day are two accounts of one day. The closing is the print of her own hand in the dust on the wood at the far end of that bench where the light had been coming |
+| **0994** | 994 | Monday | 679 | **cost** | **1** | 6 | **THE ACT.** Adrian Vale comes up that stair at about the fifth hour and puts the flat of his own hand on the plaster along the far side of that room at the height of a man's shoulder, a foot along from where the block of writing stands, and leaves it there. **The keeper names her own cost out loud first, in her own mouth, in her own words, and nobody says a word back to her about any part of it. Then she says it out loud and nobody answers it. Then she asks one thing once about a day that is not anybody's own.** Three people answer it, one after another, and each of them takes about as long as the asking had: **the woman of about fifty-two** describes a morning with no ice in that trough and a man at the near end of that bench who did not go down the face of his own board once and nobody at the door; **the man of about thirty-nine who trades on a board** describes a wet morning, soft grit, ice about the depth of a thumb, an empty far end of that bench and a woman at the near end of it with the flat of her own hand on the page of that register; **the man of about thirty-four who keeps a stall two stalls along** describes a morning when the board on the outside wall was not on its nail and was back up on it before the light had got off the roof line. **Nobody in that room asked any of them one word about any part of it, and nobody in that room was told that anybody else's account of that morning was the right one, and the three accounts are never compared, preferred or summarised anywhere in that chapter.** **In the middle of that morning Adrian Vale says one thing into the middle of that room, addressed to nobody, and the tradesman is about nine feet off at the near end of that bench with the cloth off his own shoulder and his own hand going down the face of that board and does not look up and does not answer it, and nobody else answers it and nobody turns about at it.** He wants to be asked something out loud in that room in daylight with a date on the door behind him. **No mouth in that room puts anything to him at any hour of that day, and the chapter does not say that anybody decided not to.** The register holds six strokes and no seventh and the two accounts of one day are two accounts of one day. The closing is the print of her own hand in the dust on the wood at the far end of that bench where the light had been coming |
 | **0995** | 995 | Tuesday | 680 | **character** | **1** | 9 | **A PERSON ALONE WITH A THING IN FRONT OF HIM FOR ABOUT AS LONG AS IT TAKES TO READ A THING TWICE, AND THE THING UNTOUCHED AT THE END OF IT.** Adrian Vale stands at the far end of that bench from the fifth hour with his own hands at his own sides and looks at the column that holds figures. **He goes down the column from the head of it to the foot of it and then at the six days standing against the six strokes one after another, and he cannot tell from any one of them whose hand had put the stroke down beside it, and that is not because the days were hard to read.** He does not put a hand on that register and does not turn a leaf of it. **At about the eighth hour the keeper puts one ordinary thing to him about whether the shelf behind that bench stands square with the wall behind it or hangs forward at its near end. He answers her. What he said took about as long as it takes to say a thing twice. Nobody was waiting for him to have a useful answer, nobody said a word back to him about it, nobody thanked him for it and nobody told him that it was not wanted, and nothing whatever was done with what he said.** The chapter does not report what he said. The second book's leaf is untouched all day. The closing is the light coming off that sill and the two shapes in its dust standing beyond the ridge |
 | **0996** | 996 | Wednesday | 681 | **physical** | — | 7 | **RAIN, STANDING WATER, ELEVEN MILES OF FLATS, AND THE TOP OF THAT SHUT ROAD.** The man of about thirty-one who carries things for a living walks out past the last named house at about the sixth hour with the satchel on his own back and nothing in it, and his own heel goes through the wet crust about halfway and he stands in the soft ground up to the ankle before he gets himself out of it. **There is a fence along the top of that road made of willow posts with withies bound onto them out of one cord, and nobody has measured it, nobody has walked it with anything in their hands, and no post of it has been moved since it was put up.** The man of about fifty-seven is in his own yard with the door of that yard standing crooked on its own hinge and a bucket under the run-off from the corner of his own roof; he looks at the other man on that road for about as long as it takes to say something twice, and neither of them says anything at all, and **no question is put to him on that day or on any day before it.** Through his open door, over the back of one chair, lies a length of new rope, and no hand went near it and nothing was lifted off that chair. The closing is that two withies on that fence are slack and the next one is not, and there was no wind at that hour and nobody untied or tied any of them |
 | **0997** | 997 | Thursday | 682 | **character** | — | 8 | **THE RESOLUTION: A THING PUT ON A PAGE BEFORE IT IS PUT, READ TWICE, ANSWERED, AND NOT WRITTEN DOWN AFTER.** The man of about fifty-seven comes up that stair at about the sixth hour with his own coat buttoned and stops about two feet short of the middle of that bench. **The woman of about sixty-nine with her tin comes up at about the seventh hour, puts her own hand on the wood about two feet short of the near end of that bench, and tells the keeper in her own words what she means to put to him. The keeper takes the pencil out of the pocket of her dress and writes three lines on that sheet below the first three, and no more: the day, who it is about, and whether the house he was born in is still standing, and what is on the shelf in the front room of it, and whether the page in the book on that shelf says what he has always said it says.** Nobody says anything about the three lines while they are being written and nobody asks her where the house was or how long ago she had last seen it. **He comes the length of that bench and reads it, and reads it a second time, and between the two times he puts his own thumb on the second line. Then he answers her.** What he said took about as long as the reading had and it went out of that room in his own mouth and down that stair and along that row. **Nothing was written down after that. There was no leaf turned, nothing added to that paper, and the space below the third of those new lines stayed as blank as the rest of the sheet.** Nobody asked him to make it so, nobody thanked him, nobody told him he was right, and nobody asked him anything else at any hour of that day or on the two mornings that came after it. The closing is the light lying on the outside face of that door and the chalk of that day on it, and then the shade coming back up |
@@ -371,26 +371,26 @@ over all fifty files of days 951 to 1000. Instrument for a *nobody* chain: the c
 
 | Ch | Words | Paragraphs | Speech paragraphs | Panel lines | Digits | Title words |
 |---|---|---|---|---|---|---|
-| 0991 | 1929 | 30 | 2 | 0 | 0 | 8 |
+| 0991 | 1937 | 30 | 2 | 0 | 0 | 8 |
 | 0992 | 1406 | 22 | 2 | 0 | 0 | 7 |
-| 0993 | 1378 | 22 | 1 | 0 | 0 | 8 |
-| 0994 | 2075 | 40 | 7 | 0 | 0 | 8 |
-| 0995 | 1652 | 28 | 0 | 0 | 0 | 8 |
-| 0996 | 1298 | 25 | 0 | 0 | 0 | 9 |
-| 0997 | 1658 | 28 | 0 | 0 | 0 | 7 |
-| 0998 | 1393 | 22 | 0 | 0 | 0 | 9 |
-| 0999 | 1463 | 24 | 1 | 0 | 0 | 7 |
-| 1000 | 1313 | 22 | 0 | 0 | 0 | 7 |
+| 0993 | 1404 | 22 | 1 | 0 | 0 | 8 |
+| 0994 | 2162 | 40 | 7 | 0 | 0 | 8 |
+| 0995 | 1651 | 28 | 0 | 0 | 0 | 8 |
+| 0996 | 1295 | 25 | 0 | 0 | 0 | 9 |
+| 0997 | 1684 | 28 | 0 | 0 | 0 | 7 |
+| 0998 | 1414 | 22 | 0 | 0 | 0 | 9 |
+| 0999 | 1464 | 24 | 1 | 0 | 0 | 7 |
+| 1000 | 1312 | 22 | 0 | 0 | 0 | 7 |
 
-**Total 15,565, mean 1,556.5, shortest 1,298, longest 2,075, spread 777.** Paragraphs 263, of which 46 are scene rules and 13
+**Total 15,729, mean 1,572.9, shortest 1,295, longest 2,162, spread 867.** Paragraphs 263, of which 46 are scene rules and 13
 are speech paragraphs. **Panel lines 0 across all ten, and the only panel in this volume is on 0983 and is on disk.** Digits
 in bodies **0 across all ten**, reading: any character zero to nine, body, heading line out. Titles seven, eight or nine
 words.
 
 **THE LENGTH THREAD MOVED AGAIN AND IT MOVED THE RIGHT WAY.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words an
-ordinary chapter and this batch measures a mean of **1,556.5**, which is 643.5 a chapter under the floor, and **166.9 a
+ordinary chapter and this batch measures a mean of **1,572.9**, which is 627.1 a chapter under the floor, and **183.4 a
 chapter above the batch behind it at 1,389.6**. Batch 0001 measured 1,305.9, batch 0002 1,217.3, batch 0003 1,339.0, batch
-0004 1,389.6 and this batch 1,556.5. **It moved by opening out scenes that had room — a second time put to a man in a room
+0004 1,389.6 and this batch 1,572.9. **It moved by opening out scenes that had room — a second time put to a man in a room
 and not remembered, a row of trestles going up before the light, a stool carried up a stair and set down, three answers and
 a thing said in the middle of them, a register leaf looked at alone and not touched, nine hundred paces out over a crust and
 back, a page written on and read and a man answering, a handcart carried the length of a row and out along the flats, a
@@ -400,8 +400,8 @@ not carrying something, and no finished scene was split to reach a number, and t
 
 **SENTENCES.** Split one way, a bolded speech and its attribution are joined by the splitter because the speaker marker sits
 between them with no full stop, and that is a measurement artefact. Counted on the whole batch with `---` section breaks
-read as whitespace and the bold markers stripped: **472 sentences at a mean of 32.9 words, a median of 32 and a longest of
-87, with 103 at forty-five words or over, which is 21.8 per cent, 16 at sixty words or over and 4 at eighty words or over.**
+read as whitespace and the bold markers stripped: **475 sentences at a mean of 33.0 words, a median of 32 and a longest of
+87, with 106 at forty-five words or over, which is 22.3 per cent, and 4 at eighty words or over.**
 Batch 0001 published 30.9 mean, 28 median, 73 longest, 23.9 per cent at forty-five or over and zero at eighty or over. Batch
 0002 published 32.5 mean, 32 median and 24.9 per cent at forty-five or over. Batch 0003 published 28.2 mean, 27 median and
 11.4 per cent at forty-five or over. Batch 0004 published 29.5 mean, 29 median, 79 longest, 16.9 per cent at forty-five or
@@ -470,13 +470,13 @@ it cannot be varied out of existence and the length of it is a consequence of th
 
 **CLOSINGS. Ten closings on ten different subjects and ten different constructions:** the grain of the wood at the near end
 of that bench standing up pale along a thumb where his own thumb had gone; the light lying on the face of that board and
-making every one of the nineteen rates readable; a dry ring on the top of that stool about the size of a coin; the print of a
-hand in the dust on the wood at the far end of that bench where the light had been coming; the light coming off that sill
-and the two shapes in its dust standing beyond the ridge; two withies slack and the next one not, with no wind on that road;
-the light on the outside face of that door and the chalk of that day on it; two lines cut in the crust about the width of a
-wheel apart with the water standing in them; the film of dust in the space below the lowest of those six lines with the
-shape of a hand pressed into it; and the light going along the walking spaces of that row and not stopping anywhere on the
-way. **The similarity ratio between any two of these ten closing paragraphs is at most 0.175, between 0997 and 1000**,
+making every one of the nineteen rates readable; a dry ring on the top of that stool about the size of a coin; the shade of a
+man's own shoulder lying on that wood without once lifting and a hand's print standing in it; the dust on that sill and the
+two shapes in its dust standing beyond the ridge; two withies slack and the next one not, with no wind on that road; the
+light on the outside face of that door and the chalk of that day on it; a heap of shavings at the foot of a walking space
+that had not been there at the light; the film of dust in the space below the lowest of those six lines with the shape of a
+hand pressed into it; and the light going along the walking spaces of that row and not stopping anywhere on the
+way. **The similarity ratio between any two of these ten closing paragraphs is at most 0.173, between 0997 and 1000**,
 against 0.107 for the batch behind this one and 0.255 for the batch two behind it. Both of those are pairs of light on a
 door or on a board, and the two paragraphs say different things about different doors.
 
@@ -502,9 +502,14 @@ were written: 991, 994, 995, 997 and 999.** All five are carried by a person doi
 about absence: on 991 the tradesman goes down the face of his own board with the cloth and the man at the window goes to a
 shelf; on 994 three people answer and a man at a wall puts his hand back on the plaster afterwards; on 995 the keeper goes
 at her own column and a hand goes flat on a shelf and comes off it; on 997 the keeper writes three lines and the man reads
-them twice; on 999 the keeper's own hand goes flat on bare paper and comes off it. **The strictest reading of the *nobody*
-chain returns a worst case of 1 in every one of these ten chapters, against the ceiling of 3 that §16 item 2 sets.** The
-looser sentence-initial reading returns the same.
+them twice; on 999 the keeper's own hand goes flat on bare paper and comes off it. **THE FIGURE THIS SECTION PUBLISHED WAS
+WRONG AND WAS CORRECTED BY THE REPAIR PASS. As written it read that the strictest reading of the *nobody* chain returned a
+worst case of 1 in every one of these ten chapters. Measured on this record's own instrument — clauses beginning with *nobody*,
+*no one* or *not one* inside one sentence, counting `^`, a comma and *and* as openers — 0994 returned 4 openers in one sentence
+and three chapters carried a run of three consecutive sentences opening *nobody*: 0991, 994 and 997. Each run has since been
+broken with the work the room is doing. **The figure now is a worst case of 3 openers in one sentence and 0 chapters of 10
+carrying a run of three or more, and the ceiling §16 item 2 sets is 3. `reviews/volume-20/batch-0005-fix.md` §2 has the
+re-measurement.**
 
 **§17.5 IS BINDING AND THIS IS THE FIRST TIME THE VOLUME HAS HAD TO WORK IT FOR REAL.** **One person speaks more than once
 in one of these ten chapters and it is the woman of about twenty-nine who keeps a public register on 994, who speaks three
@@ -547,12 +552,12 @@ and fifty bodies, which is a different reading on a much larger scope and is not
 
 **AND THE TWO HOUSE FIGURES A REVIEWER HAS ALREADY RAISED TWICE, MEASURED AGAINST ALL THREE COMPARATORS AND PUBLISHED SO
 THAT THEY ARE NOT RAISED A THIRD TIME AS NEW.** True contractions, with a delimiter that excludes the possessive — a run of
-letters, an apostrophe, and one of *t re ll ve d m*, both case flags, bodies, heading line out: **0 in 15,565 words**, and
+letters, an apostrophe, and one of *t re ll ve d m*, both case flags, bodies, heading line out: **0 in 15,729 words**, and
 the same reading returns **0 on days 951 to 960, 0 on 961 to 970, 0 on 971 to 980 and 0 on 981 to 990**, all five measured in
 this run with the same instrument. **Zero true contractions is the register of this manuscript and not a defect of these ten
 days, and nothing was changed to reach it.**
 
-*his own* stands at **170 in 15,565 words, one in every 91.6**, against **one in every 146.7** on days 951 to 960, **one in
+*his own* stands at **172 in 15,729 words, one in every 91.4**, against **one in every 146.7** on days 951 to 960, **one in
 every 139.9** on days 961 to 970, **one in every 97.7** on days 971 to 980 and **one in every 99.3** on days 981 to 990, all
 five measured in this run on bodies with the same instrument. **The five figures are 146.7, 139.9, 97.7, 99.3 and 91.6, and
 the first four of them are two points at about 140 and two points at about 98 while this batch is the fifth and the lowest
@@ -562,18 +567,20 @@ is not reopened here on a fifth point.**
 **AND THE TWO FIGURES THAT TURN ON THE RECORD, MEASURED AGAINST ALL FOUR COMPARATORS.** Negation tokens being *nothing,
 nobody, no, not, never, cannot, neither*, matched as whole words on both case flags with a non-letter on each side, bodies
 with the heading line out: **287 in 13,059 words on days 951 to 960, 295 in 12,173 on 961 to 970, 214 in 13,390 on 971 to
-980, 240 in 13,896 on 981 to 990 and 251 in 15,565 here** — one in 45.5, then 41.3, then 62.6, then 57.9, then **62.0**. Bare
+980, 240 in 13,896 on 981 to 990 and 248 in 15,729 here** — one in 45.5, then 41.3, then 62.6, then 57.9, then **63.4**. Bare
 *that*, same reading and scope after `---` scene rules are dropped, bold markers stripped, and the match made on either
-case: **3.25 per cent, then 3.88, then 3.14, then 3.99, then 4.35.** **A negation token every 62.0 words is 4.1 words further
+case: **3.32 per cent, then 3.95, then 3.15, then 4.01, then 4.37.** **A negation token every 63.4 words is 5.5 words further
 apart than the 57.9 behind it, so this batch is the least dense of the five on negation, and bare *that* is 0.36
 points heavier than the batch behind it.** Read as negations per thousand words the five points are 21.98, 24.23, 15.98,
-17.27 and **16.13**, so this batch sits under all four of the ones behind it. **Neither figure was moved by cutting a required
+17.27 and **15.77**, so this batch sits under all four of the ones behind it. **Neither figure was moved by cutting a required
 descriptor handle or a piece of standing geometry, and no held string was traded against either one.** **THE CASES AN
 OUTSIDE READER COULD ARGUE THE OTHER WAY ARE PUBLISHED RATHER THAN ARGUED: this run's bare-*that* instrument returns
-3.25, 3.88, 3.14 and 3.99 on the four sets behind it, where the chain in the live state layer publishes 3.30, 3.93, 3.14
-and 4.00, so the first two comparators come back between 0.03 and 0.05 points under the figures published for them and the
-third reproduces exactly. The difference is the instrument and not the prose, this run's own instrument is published on the
-same line as all five of its numbers, and nothing in these ten days was changed to move either figure.**
+3.32, 3.95, 3.15 and 4.01 on the four sets behind it, where the chain in the live state layer publishes 3.30, 3.93, 3.14
+and 4.00, so the first two comparators come back between 0.02 and 0.07 points above the figures published for them and the
+third and fourth reproduce to within a hundredth of a point. **THE SAME CAVEAT NOW APPLIES TO *his own*, WHICH THIS RUN MEASURES
+AT 146.7, 141.5, 100.7 AND 102.9 ON THE FOUR SETS BEHIND IT AGAINST THE PUBLISHED 146.7, 139.9, 97.7 AND 99.3.** The differences
+are the instrument and not the prose, this run's own instrument is published on the same line as all five of its numbers, and
+nothing in these ten days was changed to move either figure.**
 
 ---
 

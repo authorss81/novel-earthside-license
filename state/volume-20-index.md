@@ -29,6 +29,7 @@ AND VOLUME 20 IS COMPLETE.**
 | 0003 | 0971–0980 | 971–980 | **yes, and repaired on that pass** | `reviews/volume-20/batch-0003.md`, and `reviews/volume-20/batch-0003-fix.md` | `state/batch-summaries/volume-20-batch-0003.md` | **`workspace/volume-20/batch-0004/PROMPT.md`, written and ready** |
 | **0004** | **0981–0990** | **981–990** | **yes** | **`reviews/volume-20/batch-0004.md`** | **`state/batch-summaries/volume-20-batch-0004.md`** | **`workspace/volume-20/batch-0005/PROMPT.md`, written and ready** |
 | **0005** | **0991–1000** | **991–1000** | **yes, and the last ten days of the volume** | **`reviews/volume-20/batch-0005.md`** | **`state/batch-summaries/volume-20-batch-0005.md`** | **none, and that is deliberate — see the last section** |
+| **0005-fix** | **0991–1000** | **991–1000** | **a repair pass over the same ten days: nine prose findings and nine figure findings applied, four left standing and named** | **`reviews/volume-20/batch-0005-fix.md`** | — | **none, and that is deliberate** |
 
 **Card files exist for batch 0001 only, at `outline/batches/volume-20-batch-0001.md`. Batches 0002, 0003, 0004 and 0005 had
 none and their prompts carried their own cards, and batch-0005's says so in its own first lines. Do not stop for the want of
@@ -99,6 +100,14 @@ plan gives it.** Their wording is in `outline/volume-20.md` and nowhere else, wh
 4. The three wordings of day 994 — §6.9. **Written once each, in `chapters/volume-20/chapter-0994.md`, in the three mouths §6.9 gives them to, and once in the plan. This is the one held string a batch of this volume owns the page of, and `reviews/volume-20/batch-0005.md` §3.1 is the measurement.**
 5. The refusal of 965 — §6.10. **Written once, in `chapters/volume-20/chapter-0965.md`, and once in the plan.**
 6. The name of the man who came up that stair on 866 — held at `outline/volume-18.md` §6.8. Not written.
+
+**AND A REPAIR PASS HAS SINCE RUN OVER THOSE TEN DAYS.** `reviews/volume-20/batch-0005-fix.md` is its record: **a thumb that was on the
+wrong man on the volume's climax day and has been put back on the stallholder it has always belonged to; three runs of three
+sentences opening *nobody*, in the memory day, the climax and the resolution, each broken with the work the room is doing; a
+pronoun at 997 that had handed the keeper's register to the woman of about sixty-nine; and the woman of about fifty-two
+standing against her own far wall on 993, which the continuity layer forbids.** No day, no weekday, no Bare-Month ordinal, no
+pressure tag, no frame and no object state moved, and the three held wordings of 994 were not touched and stand at one
+occurrence each in one file each.
 
 ## THE NEXT PHASE, AND THERE IS NONE
 

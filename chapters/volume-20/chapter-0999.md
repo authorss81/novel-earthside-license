@@ -6,7 +6,7 @@ It was Saturday, the six hundred and eighty-fourth day of the Bare Month. The ai
 
 Along the top step of that stair, out of its two sockets and clear of them, lay that bar, and the sockets themselves stood empty in the far side of the door below. The trough at the store's end of that row had ice in it about the depth of a thumb and nothing had been fetched for it that day and nothing had been broken in it. Outside that door at the foot of that stair there was a day in chalk, and the chalk of it stood broken along the joint between the two planks with about a finger's width of that writing gone down into the groove. The bare board under that day stood clear of the near plank by the width of a thumb and carried one mark on it. About four people a day went past the foot of that stair while the light was on the flags, and that stair is walked past at other hours of that day as well.
 
-The block of writing stood on that wall with the plaster either side of it the colour it has been for twelve days, and it was not read out that day and nothing was done about it at any hour of it. The two books lay open side by side on the wood of that bench at the far end of the room and the second book had the dry cloth lying in the crack of its leaf where it had gone down on Tuesday.
+The block of writing stood on that wall with the plaster either side of it the colour it has been for sixteen days, and it was not read out that day and nothing was done about it at any hour of it. The two books lay open side by side on the wood of that bench at the far end of the room and the second book had the dry cloth lying in the crack of its leaf where it had gone down on Tuesday.
 
 ---
 
@@ -40,7 +40,7 @@ The man of about thirty-one who carries things for a living came up at about the
 
 The man of about twenty-seven made four trips up that stair with the bucket, and the water stood flat in it every one of the four times. On the fourth of those trips he stayed on the flags at the top of that step with his own hand on the outside of the rim of that trough, looking at the ice.
 
-Nobody went and stood in front of that block of writing on that wall, and no hand in that room went near it at any hour of that day, and not one mouth in that room said a word about it.
+Nobody went and stood in front of that block of writing on that wall, and no hand in that room went near it while the light was on that wall, and not one mouth in that room said a word about it.
 
 In the middle of that afternoon she went out of that room, down that stair and along that row and away past the store's end of it, and the stool stood in that room where she had left it.
 

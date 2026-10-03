@@ -32,7 +32,7 @@ She was answered, one after another, and each of them took about as long as the 
 
 The woman of about fifty-two answered first and she answered standing up at the far end of that bench with her own hands at the sides of her dress.
 
-**"It was a morning when there was no ice in that trough at the top of that step and the rag on the stone lip of it was dry where I went out to it at about the sixth hour. The crack in the near end of it was running a thread you could follow with your eye from the lip of that step all the way across the flags, and the thread stopped in the joint of the flags a foot short of the walking space, and it has stopped in that same joint every morning since. There was a man at the near end of this bench with the cloth over his own shoulder and he did not go down the face of his own board once the whole of that morning, and the door at the foot of that stair stood open on its latch all of it and nobody stood at it," ** said the woman of about fifty-two, at the far end of that bench.
+**"It was a morning when there was no ice in that trough at the top of that step and the rag on the stone lip of it was dry where I went out to it at about the sixth hour. The crack in the near end of it was running a thread you could follow with your eye from the lip of that step to the near joint of them, and the thread stopped in the joint of the flags a foot short of the walking space, and it has stopped in that same joint every morning since. There was a man at the near end of that bench with the cloth over his own shoulder and he did not go down the face of his own board once the whole of that morning, and the door at the foot of that stair stood open on its latch all of it and nobody stood at it," ** said the woman of about fifty-two, at the far end of that bench.
 
 Nobody in that room asked her one word about any part of it.
 
@@ -44,9 +44,9 @@ Adrian Vale took the flat of his own hand off that plaster and said it into the 
 
 **"A page of people is a list, and a list is how anybody gets moved off ground they were standing on, and that is the only use it has ever had," ** said Adrian Vale, at the wall along the far side of that room with his own hand coming down off the plaster at the height of a man's shoulder.
 
-The man of about thirty-nine who trades on a board was about nine feet off from him at the near end of that bench with his own thumb going along the foot of his own board. He went on along the foot of that board from the top of the middle of it to the foot of it, and he did not look up and did not answer it. Nobody in that room answered it. Nobody in that room turned about at it.
+The man of about thirty-nine who trades on a board was about nine feet off from him at the near end of that bench with his own board lying face out on the wood in front of him and the cloth off his own shoulder. He came down the face of that board with the cloth from the top of the top column, and the cloth stopped at the foot of the middle column where it stops every morning, and he did not look up and did not answer it. Nobody in that room answered it. The stallholder in the middle of that bench went along the foot of his own board with his own thumb twice and did not turn about at it. The woman of about twenty-nine who keeps a public register put her own hand flat on the page in front of her and went on with that morning.
 
-Nobody in that room said a word about what Adrian Vale had said, and nobody said that it was right and nobody said that it was wrong, and nobody thanked him for it, and no mouth in that room said his name.
+Nobody in that room said a word about what Adrian Vale had said, and nobody thanked him for it, and no mouth in that room said his name.
 
 Then he put the flat of his own hand back on that plaster at the height of a man's shoulder and left it there for the rest of that day.
 
@@ -64,7 +64,7 @@ The man of about thirty-four who keeps a stall two stalls along answered third, 
 
 **"It was a morning when that board on the outside wall at the far end of that market was not on its nail. It was standing on the flags at the foot of that step with the face of it against the stone and the bare back of it to the air, and it was back up on that nail before the light had got off the roof line at the far end of that market. No hand in that row would say that they had had it in their own hands that morning, and I have asked about it since and got nothing out of anybody, and that is the whole of what I have got about it," ** said the man of about thirty-four who keeps a stall two stalls along, in the middle of that bench.
 
-Nobody in that room asked him one word about any part of it, and nobody in that room was told that anybody else's account of that morning was the right one.
+Nobody in that room asked him one word about any part of it, and nobody in that room was told that anybody else's account of that morning was the right one, or that there was a right one.
 
 ---
 
@@ -78,4 +78,4 @@ No mouth in that room put anything to Adrian Vale at any hour of that day. He st
 
 ---
 
-The light came in at that window about the seventh hour and came across that room and fell on the wood of that bench at its far end, where it has fallen every morning since the water came. His own shoulder and his own arm took it off that wood for the rest of that day. About the tenth hour the woman of about fifty-two came back up that stair and put the flat of her own hand on the bare wood where the light had been coming. The dust that had come up that stair on it took the print of her hand, and the print was on the wood of that bench when the light went.
+The light came in at that window about the seventh hour and came across that room and fell on the wood of that bench at its far end, where it has fallen every morning since the water came. His own shoulder and his own arm took it off that wood for the rest of that day. About the tenth hour the woman of about fifty-two came back up that stair and put the flat of her own hand on the bare wood where the light had been coming, and the dust that had come up that stair on it took the print of her hand. The shade of his own shoulder lay on that wood from the seventh hour to the going of the light without once lifting off it, and her hand's print was standing in that shade when the light went.

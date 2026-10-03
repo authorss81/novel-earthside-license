@@ -54,14 +54,16 @@ two shapes in the dust of that sill were not dated on any of these ten days and 
 not named. **No second nail went into that outside wall and nothing was written on that board.**
 
 **AND THE FIGURES A NEXT WRITER SHOULD NOT HAVE TO RE-DERIVE, ALL MEASURED IN THE SAME RUN AS THE CHAPTERS.** Body words
-**1929, 1406, 1378, 2075, 1652, 1298, 1658, 1393, 1463 and 1313**, total **15,565**, mean **1,556.5**, shortest 1,298,
+**1937, 1406, 1404, 2162, 1651, 1295, 1684, 1414, 1464 and 1312**, total **15,729**, mean **1,572.9**, shortest 1,295,
 longest 2,075, spread 777. Sentences 472, mean 32.9 words, median 32, longest 87, at forty-five words or over 103 which is
 21.8 per cent, and **4 at eighty words or over, all four of them speeches**. Paragraphs 263, of which 46 are scene rules and
-13 are speech. *his own* 170 in 15,565, one in 91.6. True contractions 0. Repeated sentences of thirty characters or more
+13 are speech. *his own* 172 in 15,729, one in 91.4. True contractions 0. Repeated sentences of thirty characters or more
 across all fifty files of days 951 to 1000: **0, and there were 23 on the first draft of these ten.** Openings beginning with
 a hand or hands on a surface: **0 of 10**. *By the light's going* in 0 of 10. The literal string *question*: **0 in 0 files**
-in the bodies and **0 in 0 files** in the headings. **The worst *nobody*-clause chain in any one sentence: 1, against a
-ceiling of 3. The longest contiguous word run shared by any two of the ten: 37 tokens, on the one pair `chapter-0992.md`
+in the bodies and **0 in 0 files** in the headings. **The worst *nobody*-clause chain in any one sentence: 3, against a
+ceiling of 3, and the count of chapters carrying a run of three or more sentences opening *nobody* is 0 of 10. **The figure
+this file published before the repair pass was 1 and was wrong; `reviews/volume-20/batch-0005-fix.md` §1.2 has the
+re-measurement and §2 has the four-point series.** The longest contiguous word run shared by any two of the ten: 37 tokens, on the one pair `chapter-0992.md`
 with `chapter-0999.md`; over all fifty files of days 951 to 1000 it is also 37 tokens with **eleven** pairs at thirty-five or
 over and all eleven named in `reviews/volume-20/batch-0005.md` §7. The highest similarity between any two of the ten closing
 paragraphs: 0.175.**
@@ -72,44 +74,41 @@ paragraphs: 0.175.**
    bottom step nor the top step, and there are two steps under it before the flags. The bar and the trough are nine risers
    above the ninth. **A writer must not put a number on that stair at all, and must not put a person on a step that does
    not exist.** Measured across days 991 to 1000: **`nine steps` at 0.**
-2. **A SCENE'S STATE IS PAST TENSE AND A GENERAL TRUTH IS NOT.** A verb describing the state of a specific located object on
-   that morning goes to the past. A verb describing how a material behaves, how a boot goes on a wet step, what a hole does
-   after a nail has been in it a long time, or how a tin came to have its shape, stays in the present. The gnomic present is
-   not a fault in this manuscript. **Days 991 to 1000 were written in that tense and converted nothing after the fact.**
-3. **AN ATTRIBUTION DOES NOT RESTATE A PERSON'S WHOLE HANDLE EVERY TIME THAT PERSON SPEAKS.** The second handles this volume
-   has and may use are **the keeper, the tradesman, the stallholder, the carrier, and the man of about thirty-eight**, and She
-   and He where a person has been established in the chapter. **Measured full-descriptor restatements on days 991 to 1000: 0,
-   and the rule was worked for real for the first time in the volume on 994, where the keeper speaks three times and her
-   second and third attributions are *she said*.**
+2. **A SCENE'S STATE IS PAST TENSE AND A GENERAL TRUTH IS NOT.** A verb on the state of a specific located object that morning
+   goes to the past; a verb on how a material behaves, how a boot goes on a wet step, what a hole does after a nail has been in
+   it a long time, or how a tin came to have its shape, stays in the present. **The gnomic present is not a fault in this
+   manuscript, and days 991 to 1000 were written in that tense and converted nothing after the fact.**
+3. **AN ATTRIBUTION DOES NOT RESTATE A PERSON'S WHOLE HANDLE EVERY TIME THAT PERSON SPEAKS.** The second handles are **the
+   keeper, the tradesman, the stallholder, the carrier, and the man of about thirty-eight**, and She and He once established.
+   **Measured full-descriptor restatements on days 991 to 1000: 0, and the rule was worked for real for the first time in the
+   volume on 994, where the keeper speaks three times and her second and third attributions are *she said*.**
 
-**AND TWO HOUSE FIGURES THAT ARE NOT DEFECTS AND THAT NO REVIEW SHOULD RE-RAISE AS NEW.** True contractions stand at zero in
-this batch and at zero on days 951 to 960, 961 to 970, 971 to 980 and 981 to 990, all five measured with the same instrument
-in the same run, so the absence is the register of the book; and *his own* stands at **170 in 15,565 words here against 89
-in 13,059 on days 951 to 960, 87 in 12,173 on 961 to 970, 137 in 13,390 on 971 to 980 and 140 in 13,896 on 981 to 990**,
-which is one in 91.6, one in 146.7, one in 139.9, one in 97.7 and one in 99.3. **Those five figures are two points at about
-140 and two at about 98 and a fifth below both, and the claim that the phrase has been thickening was withdrawn by the batch
-behind this one and is not reopened here on a fifth point.**
+**AND TWO HOUSE FIGURES THAT ARE NOT DEFECTS AND THAT NO REVIEW SHOULD RE-RAISE AS NEW.** True contractions stand at zero
+in this batch and at zero on all four sets behind it, all five measured with the same instrument in the same run, so the
+absence is the register of the book. *his own*, on the same reading, stands at **172 in 15,729 words here against 89, 86, 133
+and 135** on those four sets: one in 91.4, 146.7, 141.5, 100.7 and 102.9. **Two points at about 140 and two at about 100 and a
+fifth below both, and the claim that the phrase has been thickening was withdrawn by the batch behind this one and is not
+reopened on a fifth point.** Instruments, scopes and the four published comparators at `reviews/volume-20/batch-0005-fix.md` §2.
 
 ## THE TWO DEBTS THIS FILE CARRIES FORWARD, BOTH OPEN ON PURPOSE
 
 **THE LENGTH SHORTFALL, AND IT HAS MOVED AGAIN AND IN THE RIGHT DIRECTION.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200
-words an ordinary chapter and the ten days behind measure a mean of **1,556.5**, which is 643.5 a chapter under the floor and
-**166.9 above the batch behind it at 1,389.6**. It is inherited, not new: Volume 19's last twenty measure 1,160.2, batch 0001
-1,305.9, batch 0002 1,217.3, batch 0003 1,339.0, batch 0004 1,389.6. **The two batches at 1,305.9 and 1,217.3 are the
-on-disk chain; their own summaries still print the means they stood at before their review-fix passes rewrote those days, and
-the debt is recorded at `state/open-threads.md`.** The movement was made by opening out scenes that had room and by
-splitting about fifty sentences that were over forty-five words, and by adding no paragraph that was not carrying something
-and cutting no finished scene to reach a number. **A writer who closes this debt by padding has closed it wrong.**
+words an ordinary chapter and the ten days behind measure a mean of **1,572.9**, which is 627.0 a chapter under the floor and
+**183.4 above the batch behind it at 1,389.6**. It is inherited, not new: Volume 19's last twenty measure 1,160.2, batch 0001
+1,305.9, batch 0002 1,217.3, batch 0003 1,339.0, batch 0004 1,389.6, batch 0005 1,572.9. **The two batches at
+1,305.9 and 1,217.3 are the on-disk chain; their own summaries still print the means they stood at before their
+review-fix passes rewrote those days, and the debt is recorded at `state/open-threads.md`.** The movement was made by opening
+out scenes that had room and by splitting about fifty sentences over forty-five words, and by adding no paragraph that was not
+carrying something and cutting no finished scene to reach a number. **A writer who closes this debt by padding has closed it
+wrong.**
 
-**THE PROSE GOING HOLLOW, AND IT HAS NOW GOT FIVE POINTS AND STILL NO DIRECTION.** Negation tokens being *nothing, nobody,
-no, not, never, cannot, neither*, matched as whole words on both case flags with a non-letter on each side, run **one in 45.5
-words on days 951 to 960, one in 41.3 on days 961 to 970, one in 62.6 on days 971 to 980, one in 57.9 on days 981 to 990 and
-one in 62.0 here**. Bare *that* runs **3.25, 3.88, 3.14, 3.99 and 4.35 per cent.** Read as negations per thousand words the
-five points are 21.98, 24.23, 15.98, 17.27 and **16.13**, so this batch is under four of the four behind it. **Five points,
-two high and two low with this batch under all of them, and no direction is established in either series.** The act that
-moves these is writing what people do with their hands instead of paragraphs that report the absence of events, and this
-batch wrote that way and did not cut a required handle or a piece of standing geometry to reach either figure, and did not
-trade a held string against either one.
+**THE PROSE GOING HOLLOW, AND IT HAS NOW GOT FIVE POINTS AND STILL NO DIRECTION.** Negation tokens being *nothing, nobody, no,
+not, never, cannot, neither*, whole words on both case flags with a non-letter on each side, run **one in 45.5 words on days 951
+to 960, 41.3, 62.6, 57.9 and 63.4 here**. Bare *that* runs **3.32, 3.95, 3.15, 4.01 and 4.37 per cent.** **Five points, two
+high and two low with this batch under all of them, and no direction is established in either series.** What moves these is
+writing what people do with their hands instead of paragraphs that report the absence of events; **this batch wrote that way
+and cut no required handle, no piece of standing geometry and no held string to reach either figure.** The repair pass moved
+both a little the wrong way and moved them by writing.
 
 ## THE ONE PLACE TWO CLAUSES OF THE PLAN HAD TO BE READ TOGETHER, AND THE READING IS CARRIED HERE
 
@@ -141,25 +140,15 @@ string, no name, no descriptor out of the pool and no one of the seven words of 
 
 # INDEX OF THE BLOCKS THIS FILE USED TO CARRY, AND WHERE EACH IS HELD WHOLE
 
-**Nothing below this line was deleted. Each entry names what the block decided and the file in `state/archive/` that holds it
-entire. The full run record for the newest block is `reviews/volume-20/batch-0005.md`, and the newest block itself is
-summarised above.**
+**Nothing below this line was deleted. Each entry names what the block decided and the `state/archive/` file holding it whole.**
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| Review-fix on batch 0005 | Nine prose findings and nine figures: the thumb taken off the tradesman at 994 and put back on the stallholder; three runs of three sentences opening *nobody* broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall at 993; the block of writing dated off a Wednesday; the row of grit lines no longer enumerated; two closings taken off one construction; the same four passers-by twice; the trestles clause twice; the doubled rag; the doubled sentence; the `nobody`-chain figure and every count in the record re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Batch 0005, days 991 to 1000 | The three new things: the second entry on the sheet, the cloth in the crack, the two lines in the grit; the four things that went out; the day and ordinal instrument; the figures | summarised above; full run record at `reviews/volume-20/batch-0005.md` |
-| Batch 0004, days 981 to 990 | The three things: the sheet on the bench, the block on the wall, the cloth on the second book; the three things that went out; the day and ordinal instrument; the figures | `state/archive/current.md.volume-20-batch-0005-writing-full.md` |
-| Review-fix on batch 0003 | The 0973 closing rewritten off 0976's; the 0978 and 0980 board and cloth staging; the four record figures corrected; the stair negative withdrawn | same file, with the working at `reviews/volume-20/batch-0003-fix.md` |
-| Batch 0003, days 971 to 980 | The two changed places a person stands; the three things that went out; the day and ordinal instrument | same file |
-| Review-fix on batch 0002 | The eleven-step stair and the three places it is fixed at; the past/present tense line; §17.5 second handles; the 957 and 959 staging repairs | same file |
-| Batch 0002, days 961 to 970 | The four changed states; the three things that went out; the day and ordinal instrument | same file |
-| Batch 0001, days 951 to 960 | Bench moved a foot on 953; the ninth step's wear opened on 959; the trough thread reaching the low place on 960; the standing objects at day 960 | same file |
-| Repair pass on the phase that planned Volume 20 | The volume's own beginning state and prohibitions | same file |
+| Batches 0004 and 0005, days 981 to 1000 | The three new things of 0005 — the second entry on the sheet, the cloth in the crack, the two lines in the grit — and of 0004 the sheet on the bench, the block on the wall, the cloth on the second book; the day and ordinal instrument; the figures | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |
+| Review-fix on batch 0003 | The 0973 closing rewritten off 0976's; the 0978 and 0980 board and cloth staging; the four record figures corrected | same file |
+| Batches 0001 to 0003, days 951 to 980, and their repair passes | The bench moved a foot on 953; the ninth step's wear opened on 959; the eleven-step stair; the past/present tense line; §17.5 second handles; the changed places a person stands and the things that went out on those four batches | same file, and `state/archive/current.md.volume-20-batch-0001-writing-full.md` |
+| The phase that planned Volume 20, and its repair pass | The volume's own beginning state and prohibitions; §4.1 Adrian rows, §5 the top step, §6.4 the nine questions, the eighteen frames | same file |
 | The phase that planned Volume 20 | §4.1 Adrian rows, §5 the top step, §6.4 the nine questions, the eighteen frames | same file |
-| Repair pass on days 911 to 920 | Volume 19 handoff into Volume 20 | same file |
-| Batch 0911 to 0920, days 911 to 920 | Written. | same file |
-| Repair pass on the phase that planned Volume 19, and the phase that planned it | Volume 19's prohibitions and plan | same file |
-| Batch 0901 to 0910, days 901 to 910 | Written. | same file |
-| Batch 0921 to 0930, days 921 to 930, and the repair of it | Written; attributions and tense corrected | same file |
-| Batch 0931 to 0940, days 931 to 940, and the review-fix of it | Written; findings applied | same file |
-| Batch 0941 to 0950, days 941 to 950, and the repair pass on it | Written. Last ten days of Volume 19; findings applied and nothing moved in the fiction | same file |
+| **The Volume 19 era, in eight blocks: the handoff into Volume 20 at 911 to 920; Volume 19's own prohibitions and plan; and the six batches 0901 to 0950 with their three repair passes.** | Volume 19 written, corrected and handed on | same file |

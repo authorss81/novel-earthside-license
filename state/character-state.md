@@ -9,19 +9,24 @@ withdrawn: **c2ea75c7c82c80ac3f9508f83b5072ed03a36174693253dd70fe40527160450d**.
 ## NOBODY'S STATE CHANGED IN THE SENSES THAT MATTER, ON THIS BATCH EITHER
 
 **No one got stronger, no one got weaker, nobody learned anything except one man who answered one thing, nobody was thanked
-on any of these ten days, nobody was told anybody else was right, and no relationship moved.** What moved is that a page
-carries a second entry, that a cloth has gone into a crack, that a hand's print is in dust, and that there are two lines in
-grit where there was one. Stage 2 on all fifty days of this volume, and on the two days Adrian Vale is in. **NO RUN INVENTED A PERSON, TOOK A DESCRIPTOR FROM THE POOL, NAMED A PLACE, PRINTED A NAME, GAVE ANYBODY AN AGE AND MOVED
+on any of these ten days, nobody was told anybody else was right, and no relationship moved.** What moved: a page carries a
+second entry, a cloth has gone into a crack, a hand's print is in dust, and there are two lines in grit where there was one. Stage 2 on all fifty days of this volume, and on the two days Adrian Vale is in. **NO RUN INVENTED A PERSON, TOOK A DESCRIPTOR FROM THE POOL, NAMED A PLACE, PRINTED A NAME, GAVE ANYBODY AN AGE AND MOVED
 NOBODY.** The literal string `Adrian Vale` stands at 7 occurrences in 2 files across the ten bodies of days 991 to 1000, and
-those two files are `chapter-0994.md` and `chapter-0995.md`. **Twenty descriptor strings are barred to a card at
-`outline/volume-20.md` §19.4 — the nineteen at zero in both of the last two volumes, and *man of about thirty-seven* barred by
-name beside them — and EIGHTEEN of the twenty return 0 hits across those ten bodies and those ten headings, measured one at a
-time as literal strings with a non-letter or a non-digit on each side and internal whitespace matched with one or more
-characters. THE TWO THAT ARE NOT AT ZERO ARE *man of about fifty-seven* AT 5 AND *woman of about fifty-four* AT 1, AND BOTH
-ARE STRINGS THIS PLAN ITSELF PUTS ON NAMED DAYS, THE FIRST AT §11 AND §7.2 FOR 997 AND THE OTHER AT §6.9 FOR 994.** A card
-may not invent a new person out of that pool and this batch did not. *man of about thirty* returns 0 on the same reading.
-A capitalised-token scan of the ten bodies and the ten headings returns **no non-sentence-initial capitalised token outside
-the seven weekday names, *Bare*, *Month*, *Adrian*, *Vale* and the words of the ten titles, and no personal name at all.**
+those two files are `chapter-0994.md` and `chapter-0995.md`. **Twenty descriptor strings are barred to a card at `outline/volume-20.md` §19.4 — the nineteen at zero in both of the
+last two volumes, and *man of about thirty-seven* barred by name beside them — and EIGHTEEN OF THE TWENTY RETURN 0 HITS ACROSS
+THE TEN BODIES AND THE TEN HEADINGS OF DAYS 991 TO 1000, and *man of about thirty* returns 0 on the same reading. THE TWO THAT
+ARE NOT AT ZERO ARE *man of about fifty-seven* AT 5 AND *woman of about fifty-four* AT 1, AND BOTH ARE STRINGS THE PLAN ITSELF
+PUTS ON NAMED DAYS, THE FIRST AT §11 AND §7.2 FOR 997 AND THE OTHER AT §6.9 FOR 994.** A card may not invent a new person out of
+that pool and this batch did not. **The instrument, its reading and its scope are at `reviews/volume-20/batch-0005-fix.md` §2 and
+§3 and are not restated here.** A capitalised-token scan of the ten bodies and the ten headings returns **no non-sentence-initial capitalised token
+outside the seven weekday names, *Bare*, *Month*, *Adrian*, *Vale* and the words of the ten titles, and no personal name at
+all.**
+
+**AND A REPAIR PASS ON THIS BATCH TOOK FOUR THINGS OFF PEOPLE WHO WERE CARRYING THEM AND PUT EACH ONE BACK WHERE IT
+BELONGS: THE THUMB OFF THE TRADESMAN AT 994 AND BACK TO THE STALLHOLDER, THE WOMAN OF ABOUT FIFTY-TWO OFF HER OWN FAR WALL AT
+993 AND ONTO THE FAR END OF THAT BENCH, THE RAG OFF THE RIM OF A BUCKET IN 0998 AND 1000 AND BACK ONTO THE STONE LIP OF THAT
+STEP, AND THE PRONOUN AT 997 OFF THE WOMAN OF ABOUT SIXTY-NINE AND ONTO THE KEEPER. `reviews/volume-20/batch-0005-fix.md` §1
+has all four and the twelve others.**
 
 ## THE PEOPLE OF THIS VOLUME, AND THE SECOND HANDLE EACH ONE CARRIES BESIDE THE AGE AND THE TRADE AND NEVER INSTEAD OF IT
 
@@ -29,12 +34,12 @@ the seven weekday names, *Bare*, *Month*, *Adrian*, *Vale* and the words of the 
 |---|---|---|
 | **Adrian Vale** | `Adrian Vale`, seven times in two files and nowhere else in days 991 to 1000 | Nowhere in particular on any day but 994 and 995; on 995 at the far end of that bench in front of that register leaf with his own hands at his own sides, having told one person in that room one ordinary thing and watched nothing be done with it |
 | **The woman of about fifty-two** | *she*, once established | **At the far end of that bench, not against her own far wall.** She carried that stool up that stair in her own two hands on all ten days and set it down in the same place and did not sit on it |
-| **The man of about thirty-nine who trades on a board**, the tradesman | the tradesman | The near end of that bench with his own board, up at the fifth hour and down again before the light has got off the roofs, and **on 991 with his own thumb gone along the grain of that wood, and on 994 with his own mouth carrying the middle of the three accounts of that morning** |
+| **The man of about thirty-nine who trades on a board**, the tradesman | the tradesman | The near end of that bench with his own board and **the cloth, which is his and not the stallholder's; the thumb along the foot of a board is the stallholder's**, up at the fifth hour and down again before the light has got off the roofs, and **on 991 with his own thumb gone along the grain of that wood, and on 994 with his own mouth carrying the middle of the three accounts of that morning** |
 | **The woman of about twenty-nine who keeps a public register**, the keeper | the keeper | The far end of that bench with her register open, the dry cloth in the crack of the second book's leaf, and the sheet beside the register with six lines on it in two blocks and a bare space under the lower block |
 | **The man of about thirty-four who keeps a stall two stalls along**, the stallholder | the stallholder | The middle of that bench with his own board across his own knees, the near foot of his own trestle shaved on two sides and still gone into its flag, and **his own hand a third time flat on the top rail of that bench before he sat down on it** |
 | **The man of about thirty-one who carries things for a living**, the carrier | the carrier | The near wall with the satchel up under his own arm and the flap of it down, and on 996 that satchel on his own back out past the last named house and empty there and empty back |
 | **The man of about thirty-eight at that salt wharf** | the man of about thirty-eight | Not in any of these ten days; asked nothing |
-| **The man of about twenty-seven** | the man of about twenty-seven | The step at the store's end of that row with the bucket and the rag, and the trough's ice whole on all ten |
+| **The man of about twenty-seven** | the man of about twenty-seven | The step at the store's end of that row with the bucket, **and the one rag folded on the stone lip of that step and nowhere else**, and the trough's ice whole on all ten |
 | **The man who came up that stair** | handle is *the man who came up that stair*, without a day number, and that is deliberate | **In 0991 and 0997 of these ten chapters and no others, and his handle is not varied in either, and his one sleeve is wet to the shoulder in both and neither chapter explains it** |
 | **The woman of about sixty-nine with her tin** | the woman of about sixty-nine | Up that stair on 991 and on 997, standing about two feet short of the near end of that bench both times; at the store's end of that row on 992 and 1000. **Her sixth question is 997 and it is the last thing she does on a page in this manuscript** |
 | **The man of about sixty** | the man of about sixty | In that row on 998 with his own handcart and its shaft; **asked nothing on any of these ten days** |
@@ -54,79 +59,71 @@ not to ask him.** **He is the cause of one thing that happens to somebody else:*
 light off the wood of that bench at its far end for the rest of that day, and the woman of about fifty-two put the flat of
 her own hand on that bare wood at about the tenth hour and the dust on it took the print of it, and the print was on that
 bench when the light went. **And he said one thing once, in the middle of that morning, addressed to nobody in particular, and
-about nine feet off from him the man of about thirty-nine who trades on a board went on along the foot of his own board with
-his own thumb and did not look up and did not answer it, and nobody in that room answered it and nobody turned about at it.** **ADRIAN VALE, STAGE 2, AND ON 995 HE IS IN FRONT OF THAT REGISTER LEAF.** His own hands at his own sides at the far end of
-that bench from the fifth hour, about as long as it takes to read a thing twice, with the column that holds figures open in
-front of him. **What he wanted is not in §4.1 because 995 is the one permitted tenth day and is not one of the nine; what the
-chapter does is a person alone with a thing in front of him, and the thing untouched at the end of it.** He goes down that
-column and then at the six days standing against the six strokes one after another, and he cannot tell from any of them whose
-hand had put the stroke down beside it, **and that is not because the days were hard to read. He does not put a hand on that
-register and does not turn a leaf of it, and at the going of the light that leaf is exactly as he found it.** At about the
-eighth hour the keeper puts one ordinary thing to him about whether the shelf behind that bench stands square with the wall
-behind it or hangs forward at its near end. **He answers her, and what he said took about as long as it takes to say a thing
-twice. Nobody was waiting for him to have a useful answer, nobody said a word back to him about it, nobody thanked him for it,
-nobody told him that it was not wanted, nothing whatever was done with it, and the chapter does not report what he said.**
+about nine feet off from him the man of about thirty-nine who trades on a board came down the face of his own board with
+the cloth and did not look up and did not answer it, nobody in that room answered it, and the stallholder in the middle of
+that bench went along the foot of his own board with his own thumb twice and did not turn about at it.** **ADRIAN VALE, STAGE 2, AND ON 995, WHICH IS SECTION 4.1'S ONE PERMITTED TENTH DAY AND NOT ONE OF THE NINE, HE IS IN FRONT OF THAT REGISTER LEAF**, his own hands at his own sides at the far end of that bench from the fifth hour, with the column that holds figures open in front of him. **What the chapter does is a person alone with a thing in front of him, and the thing untouched at the end of it.** He goes down that column and then at the six days standing against the six strokes one after another, and he cannot tell from any of them whose hand had put the stroke down beside it, **and that is not because the days were hard to read. HE DOES NOT PUT A HAND ON THAT REGISTER AND DOES NOT TURN A LEAF OF IT, AND AT THE GOING OF THE LIGHT THAT LEAF IS EXACTLY AS HE FOUND IT.** **HE ANSWERS ONE ORDINARY THING THE KEEPER PUTS TO HIM ABOUT THE SHELF BEHIND THAT BENCH, AND NOBODY WAITED FOR HIM TO HAVE A USEFUL ANSWER, NOBODY SAID A WORD BACK TO HIM ABOUT IT, NOBODY THANKED HIM FOR IT, NOBODY TOLD HIM IT WAS NOT WANTED, NOTHING WHATEVER WAS DONE WITH IT, AND THE CHAPTER DOES NOT REPORT WHAT HE SAID.**
 
-**THE WOMAN OF ABOUT FIFTY-TWO.** **She has not been back to her own far wall since 971 and is at the far end of that bench on
-every one of these ten days at which she is in that room**, with her own shoulder to the wood behind the far end of it. On
-993 she carried that stool up that stair in her own two hands, set it down, did not sit on it and went on carrying it. **On
-994 she is the first of the three people who answer what was asked about that morning, and her answer is printed once and in
-her own mouth, and is not in a second mouth, and is not compared with either of the other two.** On 995 she asked Adrian Vale
-nothing and he asked her nothing, and she put her own hand flat on the wood at about the tenth hour and left a print of it in
-the dust. On 997 she was at the far end of that bench with the window at her back and the stool standing against the wall
-where she had set it down. On 999 she went out along that row at the middle of the afternoon and the stool stood where she
-had left it. **THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD, THE TRADESMAN.** Comes up at the fifth hour, goes along the face of
-his own board with the cloth, and the cloth stops at the foot of the middle column every morning. **On 991 he says out loud
-that he has got a board in front of him and he has had it in front of him every morning since the water came, and that he is
-telling you that he does not remember being asked anything by anybody in that room, and that if somebody put something to him
-and he did not answer it then that is a thing he would be carrying and he is not carrying it.** On 992 he says out loud that
-he has had that board up eleven days and wiped it every morning of them and not one person in that row has ever come and
-stood in front of it. On 994 **his thumb went along the foot of his own board at the moment Adrian Vale said his one thing,
-and about nine feet off, and he went on and did not look up.** **THE CLOTH IS HIS AND NOT THE STALLHOLDER'S. HIS NINETEEN
-RATES AND THE TWO-FINGER SPACE AT THE FOOT OF THE MIDDLE COLUMN WERE NOT WRITTEN IN ON ANY OF THESE TEN DAYS, and nobody in
-that row said one word about the space to anybody.**
+**THE WOMAN OF ABOUT FIFTY-TWO. NOT AGAINST HER OWN FAR WALL SINCE 971; AT THE FAR END OF THAT BENCH ON EVERY ONE OF THESE
+TEN DAYS AT WHICH SHE IS IN THAT ROOM**, with her own shoulder to the wood behind the far end of it. **She has not sat on her
+own stool once since the water came, and carries it up and down that stair in her own two hands every morning and sets it
+against that wall and leaves it standing there.** On 994 she is the first of the three people who answer, **her answer is
+printed once and in her own mouth and is not in a second mouth and is not compared with either of the other two.** On 995 she
+asked Adrian Vale nothing and he asked her nothing. **A CHAPTER THAT PUTS HER BACK ON THAT WALL IS WRONG, AND 0993 DID AND WAS
+CORRECTED BY THE REPAIR PASS.**
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD, THE TRADESMAN.** Comes up at the fifth hour and goes along the face of
+his own board **with the cloth**, and the cloth stops at the foot of the middle column every morning. **THE THUMB ALONG THE
+FOOT OF A BOARD IS THE STALLHOLDER'S AND NOT HIS, AND THE THUMB ON HIM AT 994 WAS A STAGING ERROR THE REPAIR PASS TOOK OFF
+HIM.** **HIS NINETEEN RATES, THE MIDDLE COLUMN STANDING A THUMB DEEPER THAN THE TWO ENDS, THE TWO-FINGER SPACE AT THE FOOT OF
+IT AND THE CLOTH ARE HIS, AND NOBODY IN THAT ROW SAID ONE WORD ABOUT THAT SPACE TO ANYBODY ON ANY OF THESE TEN DAYS.** His
+face is the one anybody reads across, because there is anything on it to read.
 
 **THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER, THE KEEPER.** **On 991 she put the flat of her own hand on that
-sheet and kept it there a while and took it off again. On 994 she names the cost of her own decision out loud first, in her own
-mouth, about herself, then says a name out loud in her own mouth, then asks one thing once, and that is the only place in
-fifty days of this volume in which a descriptor otherwise at six occurrences in two files across nine hundred and fifty
-chapters is spoken. On 995 she wants her own register back on the shelf behind that bench, she asks Adrian Vale one ordinary
-thing about the shelf and does nothing whatever with his answer. On 997 she takes a pencil out of the pocket of her dress and
-writes three lines on that sheet below the first three, and no more. On 999 she puts the flat of her own hand on the bare
-paper under the six lines and takes it off again without the pencil going near it. She is the one person in these ten days
-who speaks more than once in one chapter, and her second and third attributions are *she said*, which is §17.5 worked for the
-first time in the volume.** About nine people were in that room on 975 and on 983, which is narration and not a figure
-anybody in it may reach by any road, and no mouth in that room reached any figure by asking anybody anything on any of these
-ten days.
+sheet and kept it there a while. On 994 she names the cost of her own decision out loud first, in her own mouth, about
+herself, then says a name out loud in her own mouth, then asks one thing once — and that is the only place in fifty days of
+this volume in which a descriptor otherwise at six occurrences in two files across nine hundred and fifty chapters is
+spoken. On 995 she asks Adrian Vale one ordinary thing about the shelf behind that bench and does nothing whatever with his
+answer. On 997 she writes three lines on that sheet below the first three, and no more. On 999 she puts the flat of her own
+hand on the bare paper under the six lines and takes it off again without the pencil going near it.** **She is the one person
+in these ten days who speaks more than once in one chapter, and her second and third attributions are *she said*, which is
+§17.5 worked for the first time in the volume.** **ABOUT NINE PEOPLE WERE IN THAT ROOM ON 975 AND ON 983, WHICH IS NARRATION
+AND NOT A FIGURE ANYBODY IN IT MAY REACH BY ANY ROAD, AND NO MOUTH IN THAT ROOM REACHED ANY FIGURE BY ASKING ANYBODY
+ANYTHING ON ANY OF THESE TEN DAYS.**
 
 ## THE FIVE PEOPLE WHO ARE IN DAYS 991 TO 1000 AND NOT IN THE ROOM
 
 **THE MAN OF ABOUT THIRTY-EIGHT AT THAT SALT WHARF. Not in any of these ten chapters, asked nothing on any of them, asks
 nothing of anybody, and is asked none of the nine on any day of this volume.**
-**THE MAN OF ABOUT TWENTY-SEVEN. At the step at the store's end of that row all ten days, filling the bucket and carrying it
-up that stair four times with the water standing flat in it, and on the last of those four standing with his own hand on the
-outside of the rim of that trough and looking at the ice in it. On 993 he says one ordinary thing to the carrier about that
-bucket. No heat was fetched for that trough on any of these ten days and its ice was not broken on any of them.** **THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG, THE STALLHOLDER. HIS OWN BOARD IS FACE IN AGAINST THE WOOD
+
+**THE MAN OF ABOUT TWENTY-SEVEN. At the step at the store's end of that row on every one of these ten days, filling the
+bucket and carrying it up that stair four times with the water standing flat in it, and on the last of those four standing
+with his own hand on the outside of the rim of that trough and looking at the ice in it.** **THERE IS ONE RAG IN THIS
+MANUSCRIPT AND IT LIES FOLDED ON THE STONE LIP OF THAT STEP, AND IT WAS ON THE LIP AND ALSO FOLDED OVER THE RIM OF THAT
+BUCKET IN 0998 AND 1000, WHICH WAS THE SAME ERROR TWICE AND IS CORRECTED IN BOTH.** **No heat was fetched for that trough on
+any of these ten days and its ice was not broken on any of them.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG, THE STALLHOLDER. HIS OWN BOARD IS FACE IN AGAINST THE WOOD
 OF HIS OWN TRESTLE WITH THE BARE BACK OF IT TURNED OUT INTO THE ROW BEHIND HIS OWN SHOULDER, AND THE NINETEEN RATES AND THE
 TWO-FINGER SPACE BELONG TO THE TRADESMAN TWO STALLS ALONG AND NOT TO HIM; EVERY ONE OF THESE TEN CHAPTERS STAGES THAT
-CORRECTLY. On 991 and on 998 he went at the near foot of his own trestle with the edge of his own board and about an inch came
-off the near side of that foot in shavings the length of a finger, and he put them in a heap at the foot of that walking space,
-and the trestle stood exactly as it had stood and the foot of it was still gone into the flag it went down into; on 993 that
-heap was gone off the walking space and the earth was packed flat and pale where it had lain. On 999 he says out loud that the
-near corner of that flag will go over with the next cart that comes along that walking space and that he is not going to say
-anything about it to anybody and has not said anything about it to anybody, **and the chalk in his own inside breast pocket
-did not come out of it on any of these ten days and his own hand went flat over it once, on 999.**
+CORRECTLY. ON 991 AND ON 998 HE WENT AT THE NEAR FOOT OF HIS OWN TRESTLE WITH THE EDGE OF HIS OWN BOARD AND ABOUT AN INCH CAME
+OFF THE NEAR SIDE OF THAT FOOT IN SHAVINGS THE LENGTH OF A FINGER, AND HE PUT THEM IN A HEAP AT THE FOOT OF THAT WALKING SPACE,
+AND THE TRESTLE STOOD EXACTLY AS IT HAD STOOD AND THE FOOT OF IT WAS STILL GONE INTO THE FLAG IT WENT DOWN INTO. ON 999 THAT
+HEAP WAS THE CLOSING OF THAT CHAPTER.** On 999 he says out loud that the near corner of that flag will go over with the next
+cart that comes along that walking space and that he is not going to say anything about it to anybody and has not said anything
+about it to anybody, **and the chalk in his own inside breast pocket did not come out of it on any of these ten days and his
+own hand went flat over it once, on 999.**
 
 **THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING. On 996 he walks out past the last named house with the satchel
 on his own back and nothing in it, across eleven miles of flats and up to the top of that shut road, and comes back along that
 road with the satchel still empty. On 998 he takes hold of the end rail of that handcart with the man of about sixty on the
-shaft of it from the other side, and neither of them lets go while it goes out along those flats. On 993 he stops at the top
-of that step and says one ordinary thing back about the length of that walk. The satchel was not opened on any of these ten
-days and no chapter of them says why he opens nothing he carries.** **THE MAN OF ABOUT SIXTY. In that row on 998 with his own handcart, the coil of rope and the hazel mallet with its head bound
-in cord on the bed of it and a load under a rope across the boards. He is asked nothing on any of these ten days, and neither
-of the two men who have hold of that cart puts anything to the other one about it. His cart came up the four hundred yards of
-that row and went back out along the flats and cut two lines in the wet crust at the store's end of that row about the width
-of a wheel apart.**
+shaft of it from the other side, and neither of them lets go while it goes out along those flats.** **THE SATCHEL WAS NOT
+OPENED ON ANY OF THESE TEN DAYS, ITS FLAP WAS NEVER TURNED BACK, AND NO CHAPTER OF THEM SAYS WHY HE OPENS NOTHING HE
+CARRIES.**
+
+**THE MAN OF ABOUT SIXTY. In that row on 998 with his own handcart, the coil of rope and the hazel mallet with its head
+bound in cord on the bed of it and a load under a rope across the boards. HE IS ASKED NOTHING ON ANY OF THESE TEN DAYS, AND
+NEITHER OF THE TWO MEN WHO HAVE HOLD OF THAT CART PUTS ANYTHING TO THE OTHER ONE ABOUT IT OR GIVES AN ACCOUNT OF WHERE THAT
+CART HAD BEEN.**
 
 ## THE THREE MANNER RULES THIS VOLUME'S FIRST BATCH BROKE AND THAT HOLD, SO NOBODY HAS TO LEARN THEM AGAIN
 
@@ -151,23 +148,9 @@ Measured on days 991 to 1000: thirteen speech paragraphs and 0 sites of the wron
 | Block | What it decided | Held whole in |
 |---|---|---|
 | Batch 0005, days 991 to 1000 | The staging of 994 and 995; the five people not in the room; the barred descriptor pool at 0 in eighteen strings out of twenty; the three manner rules; the handle table at day 1000 | summarised above; run record at `reviews/volume-20/batch-0005.md` |
-| Batch 0004, days 981 to 990 | The staging of 981, 985 and 990; the four people not in the room; the barred descriptor pool at 0; the three manner rules | `state/archive/character-state.md.volume-20-batch-0005-writing-full.md` |
-| Batch 0003, days 971 to 980 | The staging of 971 and 977; the four people not in the room; the barred descriptor pool at 0; the three manner rules | same file |
-| Review-fix on batch 0001 | The staging of 957 and 959; the second handles; the tense line | same file |
-| Batch 0002, days 961 to 970 | The staging of 965; the four people not in the room; the barred descriptor pool at 0; the two manner rules | same file |
-| Batch 0001, days 951 to 960 | What each of the twenty days did to each person, nobody different and three further along | same file, and `state/archive/character-state.md.volume-20-batch-0001-writing-full.md` |
-| Repair pass on the phase that planned Volume 20 | What planning did to the people | `state/archive/character-state.md.volume-20-batch-0005-writing-full.md` |
+| Batches 0004 and 0005, days 981 to 1000 | The staging of 981, 985, 990, 994 and 995; the people not in the room; the barred descriptor pool at 0 in eighteen strings out of twenty; the three manner rules; the handle table at day 1000 | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |
+| Review-fix on batch 0005 | The thumb taken off the tradesman and given back to the stallholder; the woman of about fifty-two taken off her own far wall; the rag put back on one lip; the plaster figure at 999; the pronoun at 997 resolved to the keeper; three *nobody* runs broken | summarised above; `reviews/volume-20/batch-0005-fix.md` |
+| Batches 0001 to 0003, days 951 to 980, and their three repair passes | The staging of 957, 959, 965, 971 and 977; the second handles; the tense line; the descriptor pool; the manner rules | `state/archive/character-state.md.volume-20-batch-0005-writing-full.md` |
+| The phase that planned Volume 20, and its repair pass | What planning did to the people | same file |
 | The phase that planned Volume 20 | **The protagonist, the volume's people and their second handles, the handles that are not people, and the standing disagreements — the oldest layer still carrying live description of who these people are. Read it whole from the archive before any volume-close audit.** | same file |
-| The protagonist | Who he is at Volume 19 | same file |
-| The volume's people, and the second handle each carries | The handle table | same file |
-| The handles that are not people and may not be given a face | The bar, the tin, the satchel, the gate, the stool and the rest | same file |
-| The standing disagreements, carried and not settled | Disagreements | same file |
-| What the phase that planned Volume 19 did to the people | Volume 19 people | same file |
-| Batch 0901 to 0910, days 901 to 910 | Written. | same file |
-| Repair pass on days 911 to 920 | Findings applied | same file |
-| Batch 0911 to 0920, days 911 to 920 | Written. | same file |
-| Repair of days 921 to 930 | Attributions and tense | same file |
-| Batch 0931 to 0940, days 931 to 940 | Written. | same file |
-| Review-fix of days 931 to 940 | Findings applied | same file |
-| Batch 0941 to 0950, days 941 to 950 | Written. Last ten days of Volume 19. | same file |
-| The repair pass, and the voices | Voice findings | same file |
+| **The Volume 19 era, in twelve blocks: the protagonist as he stood at 19; the volume's people and the handle table; the handles that are not people and may not be given a face; the standing disagreements, carried and not settled; what planning Volume 19 did to the people; and the six batches 0901 to 0950 with their four repair passes.** | Who these people are, and what each one was corrected for | same file — **read the protagonist block whole from the archive before any volume-close audit, because it is the oldest layer still carrying live description of who they are** |
