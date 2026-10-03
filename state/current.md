@@ -60,9 +60,9 @@ strip of ground at the foot of that stair was never measured and never named. Th
 dated on any of these ten days and the hand that put either of them down was not named.
 
 **AND THE FIGURES A NEXT WRITER SHOULD NOT HAVE TO RE-DERIVE, ALL MEASURED IN THE SAME RUN AS THE CHAPTERS.** Body words
-**1672, 1408, 1424, 1321, 1391, 1398, 1286, 1199, 1393 and 1373**, total **13,865**, mean **1,386.5**, shortest 1,199, longest
+**1672, 1408, 1453, 1321, 1391, 1398, 1286, 1199, 1395 and 1373**, total **13,896**, mean **1,389.6**, shortest 1,199, longest
 1,672, spread 473. Sentences 467, mean 29.5 words, median 29, longest 79, at forty-five words or over 79 which is 16.9 per
-cent, and **0 at eighty words or over**. Paragraphs 248, of which 7 are speech. *his own* 138 in 13,865, one in 100.5. True
+cent, and **0 at eighty words or over**. Paragraphs 248, of which 7 are speech. *his own* 140 in 13,896, one in 99.3. True
 contractions 0. Repeated sentences of thirty characters or more across all forty files of days 951 to 990: **0, and there
 were 14 on the first draft of these ten.** Openings beginning with a hand or hands on a surface: **0 of 10**. *By the light's
 going* in 0 of 10. The literal string *question*: **1 in 1 file** in the bodies, being inside the panel on 983, and **0 in 0
@@ -88,8 +88,8 @@ them one of these ten. The highest similarity between any two of the ten closing
 
 **AND TWO HOUSE FIGURES THAT ARE NOT DEFECTS AND THAT NO REVIEW SHOULD RE-RAISE AS NEW.** True contractions stand at zero in
 this batch and at zero on days 951 to 960, 961 to 970 and 971 to 980, all four measured with the same instrument in the same
-run, so the absence is the register of the book; and *his own* stands at **138 in 13,865 words here against 89 in 13,059 on
-days 951 to 960, 87 in 12,173 on days 961 to 970 and 137 in 13,390 on days 971 to 980**, which is one in 100.5, one in 146.7,
+run, so the absence is the register of the book; and *his own* stands at **140 in 13,896 words here against 89 in 13,059 on
+days 951 to 960, 87 in 12,173 on days 961 to 970 and 137 in 13,390 on days 971 to 980**, which is one in 99.3, one in 146.7,
 one in 139.9 and one in 97.7. **Those four figures are two points at about 140 and two at about 98, so the phrase is not
 thickening and has not been, and the claim that it has been thickening for two volumes was withdrawn by the batch behind this
 one and is not reopened here.**
@@ -97,7 +97,7 @@ one and is not reopened here.**
 ## THE TWO DEBTS THIS FILE CARRIES FORWARD, BOTH OPEN ON PURPOSE
 
 **THE LENGTH SHORTFALL, AND IT HAS MOVED AGAIN.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words an ordinary chapter and
-the ten days behind measure a mean of **1,386.5**, which is 813.5 a chapter under the floor and **47.5 above the batch behind
+the ten days behind measure a mean of **1,389.6**, which is 810.4 a chapter under the floor and **50.7 above the batch behind
 it**. It is inherited, not new: Volume 19's last twenty measure 1,160.2, batch 0001 of this volume 1,303.6, batch 0002
 1,215.7, batch 0003 1,339.0. **The movement was made by opening out scenes that had room — a sheet written on in front of a
 man who had been sitting on it since the fourth hour, four minutes in front of a wall, nine hundred paces out to a yard and
@@ -108,9 +108,9 @@ this debt by padding has closed it wrong.
 
 **THE PROSE GOING HOLLOW, AND IT HAS NOT MOVED MUCH.** Negation tokens being *nothing, nobody, no, not, never, cannot,
 neither*, matched as whole words on both case flags with a non-letter on each side, run **one in 45.5 words on days 951 to
-960, one in 41.3 on days 961 to 970, one in 62.6 on days 971 to 980 and one in 58.0 here.** Bare *that* runs **3.30 per cent,
-then 3.93, then 3.14, then 3.98.** **Four points at 45.5, 41.3, 62.6 and 58.0 have two high and two low, and four at 3.30,
-3.93, 3.14 and 3.98 have two high and two low, so no direction is established and this file declines to call one.** The act
+960, one in 41.3 on days 961 to 970, one in 62.6 on days 971 to 980 and one in 57.9 here.** Bare *that* runs **3.30 per cent,
+then 3.93, then 3.14, then 4.00.** **Four points at 45.5, 41.3, 62.6 and 57.9 have two high and two low, and four at 3.30,
+3.93, 3.14 and 4.00 have two high and two low, so no direction is established.** The act
 that moved both series on batch 0003 was writing what people do with their hands instead of paragraphs that report what a
 chapter did not print, and this batch wrote the same way and moved them back by a few words in each direction without cutting
 a required handle or a piece of standing geometry and without trading a held string against either figure.
@@ -121,11 +121,11 @@ a required handle or a piece of standing geometry and without trading a held str
 are written down before they are asked — no. §17.20's frame sixteen, which the card gives to 990, is *a page with one thing
 on it and the space below that thing left empty*. Those cannot all be obeyed at once.** The reading this batch took is that
 §6.4's per-day column governs the two days it names, so on 987 the asking happened in the market row and not in that room,
-and on 989 the keeper's own hand went to the pocket of her dress after she had named her cost and came back out with nothing
-in it, and the pencil stayed where it was — **and the consequence is rendered as a room that announced a rule on 975 and does
-not keep it, which is what this manuscript does.** **The consequence for a later writer is on the sheet: it carries one entry
-and the space under that entry is bare, and if a later chapter writes a second entry on it, that chapter has changed the
-world and its record must say so.** The two cases an outside reader could argue the other way, and the correction that belongs
+and on 989 the woman of about fifty-two's own hand went to the pocket of her own dress after naming her cost, came back
+out with nothing in it and went back to the side of it — **and the consequence is rendered as a room that announced a rule on
+975 and does not keep it, which is what this manuscript does.** **The consequence for a later writer is on the sheet: it
+carries one entry and the space under that entry is bare, and if a later chapter writes a second entry on it, that chapter has
+changed the world and its record must say so.** The two cases an outside reader could argue the other way, and the correction that belongs
 to a phase which owns the plan, are at `reviews/volume-20/batch-0004.md` §3.2.
 
 ## THE NEXT PHASE

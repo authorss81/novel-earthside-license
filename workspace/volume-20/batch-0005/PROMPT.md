@@ -234,9 +234,9 @@ batch harder than they bit the last one:
    speech standing on its own. **Your ten openings must not share one construction with each other and no more than three of
    the ten may begin with a hand or hands on a surface at all.**
 3. **§17.4 and the mean word count.** The share of bold is a consequence and not a plan and no card here sets a target for
-   it. **The same is true of length and you will be tempted to pad, so hear this once: days 981 to 990 mean 1,386.5 words and
+   it. **The same is true of length and you will be tempted to pad, so hear this once: days 981 to 990 mean 1,389.6 words and
    `PHASE_SYSTEM.md` asks for 2,200 to 3,200, and that shortfall is inherited from the two volumes behind those and is still
-   real at 813.5 a chapter. Do not pad to reach a number and do not split a complete scene to reach one. Let a scene that has
+   real at 810.4 a chapter. Do not pad to reach a number and do not split a complete scene to reach one. Let a scene that has
    room take it, and where a scene is finished, end it.**
 4. **§17.21 and §17.22, the two about your own record.** Your record may not publish a compliance figure it has not measured
    with an instrument in the same run, may not publish the word *zero* over a count it reached by reading rather than
@@ -269,8 +269,8 @@ three comparators, publish the four, and change nothing.**
 
 **AND TWO FIGURES THAT HAD BEEN DRIFTING THE WRONG WAY ACROSS THREE BATCHES, WHICH A HELD STRING DOES NOT LICENSE.** Negation
 tokens being *nothing, nobody, no, not, never, cannot, neither*, matched as whole words on bodies with the heading line out:
-**one in 45.5 words on days 951 to 960, one in 41.3 on 961 to 970, one in 62.6 on 971 to 980 and one in 58.0 on 981 to 990.**
-Bare *that* runs **3.30 per cent, then 3.93, then 3.14, then 3.98.** Four points each, two high and two low, and no
+**one in 45.5 words on days 951 to 960, one in 41.3 on 961 to 970, one in 62.6 on 971 to 980 and one in 57.9 on 981 to 990.**
+Bare *that* runs **3.30 per cent, then 3.93, then 3.14, then 4.00.** Four points each, two high and two low, and no
 direction in either. **A held string binds what a chapter may print. It does not license a paragraph spent reporting that it
 did not print one, and it is not a licence to spend a morning saying that a question went out of a room and was not written
 down. Write what people do with their hands.** **Neither figure may be moved by cutting a required descriptor handle or a

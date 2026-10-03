@@ -38,7 +38,7 @@ The keeper went down the column that holds figures and came back up it, and ther
 
 The tradesman took the cloth along the face of his own board from the top of the top column, and the cloth came off at the foot of the middle column, which is where it comes off every morning. He put the cloth over his own shoulder, took his own board down that stair to his own trestle about the tenth hour, and brought it back up with nothing in his hands.
 
-The man of about thirty-four who keeps a stall two stalls along came up that stair at about the ninth hour and sat in the middle of that bench with his own board flat across his own knees and the bare back of it turned out into the room. He worked along the foot of it with his own thumb and worked back again, twice.
+The man of about thirty-four who keeps a stall two stalls along came up that stair at about the ninth hour and sat in the middle of that bench with his own board flat across his own knees and the bare back of it turned out into the room. He worked along the foot of it with his own thumb and worked back again, twice, and then carried his own board back down that stair to his own trestle and left it standing there face in and did not come up again that morning.
 
 The man of about thirty-one who carries things for a living stood at the near wall with the satchel held up against his own ribs and the flap of it down, and turned about off that wall twice and looked at the flags and turned about again.
 

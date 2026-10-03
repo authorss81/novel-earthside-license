@@ -105,13 +105,13 @@ woman or two, and that is a finding and not a gap to be filled.**
 ## THE THREE THREADS ABOUT THE WRITING BEFORE THOSE FOUR RULES, WHICH ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD
 
 **1. THE LENGTH SHORTFALL, OPEN ON PURPOSE, AND IT HAS MOVED AGAIN.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words
-and days 981 to 990 measure a mean of **1,386.5**, against 1,339.0 for the batch behind it, 1,215.7 and 1,303.6. **The
+and days 981 to 990 measure a mean of **1,389.6**, against 1,339.0 for the batch behind it, 1,215.7 and 1,303.6. **The
 movement was made by opening out six scenes that had room and by splitting forty-two sentences that were over sixty words
 long, and by adding no paragraph that was not carrying something. Nothing was padded and no finished scene was split to reach
 a number, and the thread stays open across batch 0005. A writer who closes it by padding has closed it wrong.**
 
 **2. THE PROSE GOING HOLLOW, AND FOUR POINTS ARE NOT A DIRECTION.** Negation tokens run one in 45.5 words on days 951 to 960,
-41.3 on 961 to 970, 62.6 on 971 to 980 and **58.0 here**. Bare *that* runs **3.30, 3.93, 3.14, and 3.98 per cent.** Both
+41.3 on 961 to 970, 62.6 on 971 to 980 and **57.9 here**. Bare *that* runs **3.30, 3.93, 3.14, and 4.00 per cent.** Both
 series have two points high and two points low and no review should read either as a trend. **What moved them on batch 0003
 was writing what people do with their hands instead of paragraphs that report the absence of events, and this batch wrote the
 same way.** A held string binds what a chapter may print and does not license a paragraph spent reporting that it did not

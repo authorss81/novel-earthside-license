@@ -141,12 +141,13 @@ page with one thing on it and the space below that thing left empty, and a hand 
 four cannot all be obeyed at once, and this record names the reading rather than arguing it away.**
 
 **The reading this run took: §6.4's per-day column governs the two days it names, and the sheet carries one entry on 990.**
-So on 987 the asking happened in the market row and not in that room, and on 989 the keeper's own hand went to the pocket
-of her dress after she had named her cost and came back out with nothing in it, and the pencil stayed where it was. **The
-consequence is rendered in the fiction as a room that announced a rule on 975 and does not keep it, which is what this
-manuscript does and is the whole texture of days 976 to 990.** No mouth in 989 says that a rule has been broken and no
-narration says it either; what is on the page is a hand going to a pocket and coming back out empty, and on 990 the sheet
-lying on the bench with one thing on it a hand's width in from its right edge and the space below that thing empty.
+So on 987 the asking happened in the market row and not in that room, and on 989 the woman of about fifty-two's own hand went
+to the pocket of her own dress after she had named her cost and came back out with nothing in it, and she put it back at the
+side of that dress. **The consequence is rendered in the fiction as a room that announced a rule on 975 and does not keep
+it, which is what this manuscript does and is the whole texture of days 976 to 990.** No mouth in 989 says that a rule has
+been broken and no narration says it either; what is on the page is a hand going to a pocket and coming back out empty, and on
+990 the sheet lying on the bench with one thing on it a hand's width in from its right edge and the space below that thing
+empty.
 
 **The cases an outside reader could argue the other way, and they are these two.** (i) §6.5's blanket sentence is a
 decision in force, and §11 confirms the rule operating in exactly this way on 997, so a reader who takes §6.5 over §6.4
@@ -163,7 +164,7 @@ either half of it, and no mouth in any of the ten says either half of it.
 
 **§17.8 bars a title of four to nine words, bars the word *question* in any form, and bars a title that names the panel's
 rule, the decision, the refusal of 965 or the word of 985.** Measured: **ten titles, eight and nine words of title text
-(three at eight, seven at nine), and 0 of them contain *question* in any form.** No title names the panel's rule; the
+(four at eight and six at nine), and 0 of them contain *question* in any form.** No title names the panel's rule; the
 panel's own title is *A Block Of Writing On The Far Wall* and gives no rule. No title names the decision; 982 is headed
 *What The Chalk Says To The People Going Past*. No title names the refusal of 965 and none is on that day. **No title names,
 points at, or quotes the word of 985: 985 is headed *One Word And Then The Morning Goes On*.** The instrument at §3.1
@@ -354,27 +355,27 @@ of §16 item 2 and not the sentence-initial one.**
 |---|---|---|---|---|---|---|
 | 0981 | 1672 | 29 | 1 | 0 | 0 | 9 |
 | 0982 | 1408 | 24 | 1 | 0 | 0 | 9 |
-| 0983 | 1424 | 26 | 0 | **1** | 0 | 8 |
+| 0983 | 1453 | 26 | 0 | **1** | 0 | 8 |
 | 0984 | 1321 | 22 | 1 | 0 | 0 | 9 |
 | 0985 | 1391 | 30 | 1 | 0 | 0 | 8 |
-| 0986 | 1398 | 24 | 1 | 0 | 0 | 9 |
+| 0986 | 1398 | 24 | 1 | 0 | 0 | 8 |
 | 0987 | 1286 | 23 | 0 | 0 | 0 | 8 |
 | 0988 | 1199 | 21 | 1 | 0 | 0 | 9 |
-| 0989 | 1393 | 25 | 1 | 0 | 0 | 9 |
+| 0989 | 1395 | 25 | 1 | 0 | 0 | 9 |
 | 0990 | 1373 | 24 | 0 | 0 | 0 | 9 |
 
-**Total 13,865, mean 1,386.5, shortest 1,199, longest 1,672, spread 473.** Paragraphs 248, of which 7 are speech
+**Total 13,896, mean 1,389.6, shortest 1,199, longest 1,672, spread 473.** Paragraphs 248, of which 7 are speech
 paragraphs. **Panel lines 1 across all ten, and the one is on 0983 and nowhere else.** Digits in bodies **0** across all
 ten, reading: any character zero to nine, body, heading line out. Titles between eight and nine words of title text.
 
 **THE LENGTH THREAD MOVED AND IT MOVED BY OPENING SCENES OUT.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words an
-ordinary chapter and this batch measures a mean of **1,386.5**, which is 813.5 a chapter under the floor and **47.5 a
-chapter above the batch behind it at 1,339.0** and 171.3 above batch 0002 at 1,215.7. **It moved by opening out scenes
+ordinary chapter and this batch measures a mean of **1,389.6**, which is 810.4 a chapter under the floor and **50.7 a
+chapter above the batch behind it at 1,339.0** and 174.0 above batch 0002 at 1,215.7. **It moved by opening out scenes
 that had room — a sheet being written on in front of a man who had been sitting on it since the fourth hour, four minutes
 in front of a wall, nine hundred paces out to a yard and four hundred yards back with a bucket, a trestle foot being
 shaved on dry ground, a walk to the store's end of a row and the coming back — and by splitting sentences that were over
 sixty words. No paragraph was added that was not carrying something, and no finished scene was split to reach a number.**
-Batch 0001 measured 1,303.6, batch 0002 1,215.7, batch 0003 1,339.0 and this batch 1,386.5. **The thread carries into batch
+Batch 0001 measured 1,303.6, batch 0002 1,215.7, batch 0003 1,339.0 and this batch 1,389.6. **The thread carries into batch
 0005 open, and a writer who closes it by padding has closed it wrong.**
 
 **SENTENCES.** Split one way, a bolded speech and its attribution are joined by the splitter because the speaker marker
@@ -503,14 +504,14 @@ not a figure this batch regressed from.
 
 **AND THE TWO HOUSE FIGURES A REVIEWER HAS ALREADY RAISED TWICE, MEASURED AGAINST ALL THREE COMPARATORS AND PUBLISHED SO
 THAT THEY ARE NOT RAISED A THIRD TIME AS NEW.** True contractions, with a delimiter that excludes the possessive — a run of
-letters, an apostrophe, and one of *t re ll ve d m*, both case flags, bodies, heading line out: **0 in 13,865 words**, and
+letters, an apostrophe, and one of *t re ll ve d m*, both case flags, bodies, heading line out: **0 in 13,896 words**, and
 the same reading returns **0 on days 951 to 960, 0 on days 961 to 970 and 0 on days 971 to 980**, all four measured in this
 run with the same instrument. **Zero true contractions is the register of this manuscript and not a defect of these ten
 days, and nothing was changed to reach it.**
 
-*his own* stands at **138 in 13,865 words, one in every 100.5**, against **one in every 146.7** on days 951 to 960, **one in
+*his own* stands at **140 in 13,896 words, one in every 99.3**, against **one in every 146.7** on days 951 to 960, **one in
 every 139.9** on days 961 to 970 and **one in every 97.7** on days 971 to 980, all four measured in this run on bodies with
-the same instrument. **The four figures are 146.7, 139.9, 97.7 and 100.5, and they are two points at about 140 and two points
+the same instrument. **The four figures are 146.7, 139.9, 97.7 and 99.3, and they are two points at about 140 and two points
 at about 98, so the phrase is not thickening and has not been, and the interpretive claim is withdrawn rather than restated
 on a fourth point.** Batch 0003's record already withdrew the older two-volume claim on the same ground and this record
 agrees with that withdrawal rather than reopening it.
@@ -518,12 +519,15 @@ agrees with that withdrawal rather than reopening it.
 **AND THE TWO FIGURES THAT TURNED ON THE BATCH BEHIND, MEASURED AGAINST ALL THREE COMPARATORS.** Negation tokens being
 *nothing, nobody, no, not, never, cannot, neither*, matched as whole words on both case flags with a non-letter on each
 side, bodies with the heading line out: **287 in 13,059 words on days 951 to 960, 295 in 12,173 on days 961 to 970, 214 in
-13,390 on days 971 to 980, and 239 in 13,865 on days 981 to 990** — one in 45.5, then 41.3, then 62.6, then **58.0**. Bare
-*that*, same reading, same scope: **3.30 per cent, then 3.93, then 3.14, then 3.98.** **This batch is 3.4 words an inch
-sparser on negation than the batch behind it and 2.9 points heavier on bare *that*, and neither figure was moved by cutting
-a required descriptor handle or a piece of standing geometry, and no held string was traded against either one.** The
-thickness the three batches behind this one were accused of is not established and is not a direction: four points at 45.5,
-41.3, 62.6 and 58.0 have two high and two low, and 3.30, 3.93, 3.14 and 3.98 have two high and two low.
+13,390 on days 971 to 980, and 240 in 13,896 on days 981 to 990** — one in 45.5, then 41.3, then 62.6, then **57.9**. Bare
+*that*, same reading, same scope: **3.30 per cent, then 3.93, then 3.14, then 4.00.** **A negation token every 57.9 words is
+4.7 words closer together than the 62.6 behind it, so this batch is 4.7 words DENSER on negation than the batch behind it and
+0.86 points heavier on bare *that*, and neither figure was moved by cutting a required descriptor handle or a piece of standing
+geometry, and no held string was traded against either one.** Read as negations per thousand words the four points are
+21.98, 24.23, 15.98 and 17.27, so this batch sits between the two batches before it and above the batch immediately behind it
+and nowhere near either extreme. The thickness the three batches behind this one were accused of is not established and is
+not a direction: four points at 45.5, 41.3, 62.6 and 58.0 have two high and two low, and 3.30, 3.93, 3.14 and 4.00 have two
+high and two low.
 
 **AND ONE NOTE ON AN INSTRUMENT, PUBLISHED BECAUSE A LATER READER WILL OTHERWISE COMPARE TWO DIFFERENT NUMBERS FOR THE SAME
 FILES.** This run's instrument on days 971 to 980 returns **214** negation tokens and batch 0003's record publishes **214**

@@ -139,13 +139,13 @@ this volume, the answer is barred from nine of the nine question-days, and the o
 string in this volume that has to carry it. **A writer who wants the ordinary word on a day this volume gives it to them; a
 writer who wants it because it is a nice word has run out.**
 
-**THE MEAN LENGTH IS 1,386.5 AND THE DEBT IS OPEN BUT IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words.
-This batch is 813.5 a chapter under the floor, against 865 for the batch behind it. **Nothing was padded and no finished scene
+**THE MEAN LENGTH IS 1,389.6 AND THE DEBT IS OPEN BUT IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words.
+This batch is 810.4 a chapter under the floor, against 865 for the batch behind it. **Nothing was padded and no finished scene
 was split to reach a number, and the debt carries into batch 0005 open.**
 
 **AND THE THREE FIGURES THAT HAVE NOW GOT FOUR POINTS EACH, NONE OF WHICH ESTABLISHES A DIRECTION.** Negation tokens one in
-45.5 words on days 951 to 960, 41.3 on 961 to 970, 62.6 on 971 to 980 and 58.0 on 981 to 990. Bare *that* 3.30 per cent, then
-3.93, then 3.14, then 3.98. *his own* one in 146.7, then 139.9, then 97.7, then 100.5. **Each series is two points high and two
+45.5 words on days 951 to 960, 41.3 on 961 to 970, 62.6 on 971 to 980 and 57.9 on 981 to 990. Bare *that* 3.30 per cent, then
+3.93, then 3.14, then 4.00. *his own* one in 146.7, then 139.9, then 97.7, then 99.3. **Each series is two points high and two
 points low, and no review should read any of the three as a trend.**
 
 **AND EIGHT OF TEN FRAMES REPEAT THE THREE BATCHES BEHIND AND ALL EIGHT ARE NAMED IN THE RECORD.** Frames 8, 1, 9, 5, 4, 7, 3

@@ -12,8 +12,8 @@ in 0981, in 0985 and in 0990 and in no other of the ten, and he obtains somethin
 two.** Ten frames out of eighteen, all ten distinct, **and frame 12 on 0989 is the last frame in the whole volume that had
 never been drawn.**
 
-**THE FIGURES, MEASURED IN THE SAME RUN AS THE CHAPTERS.** Body words 1672, 1408, 1424, 1321, 1391, 1398, 1286, 1199, 1393
-and 1373; total **13,865**, mean **1,386.5**, shortest 1,199, longest 1,672. Paragraphs 248, of which 7 are speech
+**THE FIGURES, MEASURED IN THE SAME RUN AS THE CHAPTERS.** Body words 1672, 1408, 1453, 1321, 1391, 1398, 1286, 1199, 1395
+and 1373; total **13,896**, mean **1,389.6**, shortest 1,199, longest 1,672. Paragraphs 248, of which 7 are speech
 paragraphs. **Panel lines 1 across all ten and the one is on 983.** Digits in bodies **0**. Titles eight and nine words.
 Repeated sentences of thirty characters or more across all forty files of days 951 to 990: **0**, and there were 14 on this
 batch's first draft. Longest shared run **27 tokens inside these ten**, all three pairs at it being the same clause about a
@@ -21,9 +21,9 @@ sheet on a bench, and **34 tokens over all forty files**, that pair being `chapt
 of them one of these ten. Highest similarity between any two of the ten closings **0.107**. Worst *nobody*-clause chain in any
 one sentence **2**, against a ceiling of 3. Full-descriptor restatements **0**. Openings beginning with a hand or hands on a
 surface **0 of 10**. *By the light's going* **0 of 10**. *question* **1 in 1 file** in the bodies, being inside the panel on
-983, and **0 in 0 files** in the headings. Negation tokens **1 in 58.0** against 45.5, 41.3 and 62.6 on the three sets behind;
-bare *that* **3.98 per cent** against 3.30, 3.93 and 3.14. *his own* **1 in 100.5** against 146.7, 139.9 and 97.7. True
-contractions **0 in 13,865 words** and 0 on each of the three sets behind.
+983, and **0 in 0 files** in the headings. Negation tokens **1 in 57.9** against 45.5, 41.3 and 62.6 on the three sets behind;
+bare *that* **4.00 per cent** against 3.30, 3.93 and 3.14. *his own* **1 in 99.3** against 146.7, 139.9 and 97.7. True
+contractions **0 in 13,896 words** and 0 on each of the three sets behind.
 
 **THE THING THE NEXT WRITER MOST NEEDS, AND IT IS THREE.** **1. There is a sheet on that bench.** It was not there on 980.
 From 981 it carries three lines — the day, the person it is about, and the putting-to — a hand's width in from its right edge,

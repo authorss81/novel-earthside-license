@@ -16,7 +16,7 @@ She said what it cost her before she said what it was, and she said it out loud 
 
 That was the first of that morning and she did not come back to it before the light went or after it.
 
-Her own hand went to the pocket of her dress after that and came back out with nothing in it, and it went to the dry cloth along the head of the keeper's leaf instead, and she put the cloth down square against the fold and left it there.
+Her own hand went to the pocket of her dress after that and came back out with nothing in it, and she put it back at the side of that dress and pressed the cloth of it flat under her own fingers, the way she stands every morning of that flood.
 
 ---
 
