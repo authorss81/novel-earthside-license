@@ -74,16 +74,12 @@ the sides of her dress and had no part in the morning at all. **She is the perso
 
 **THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD, the tradesman.** Comes up at the fifth hour, goes along the face of his
 own board with the cloth, and the cloth stops at the foot of the middle column where it stops every morning, and takes the
-board down that stair to his own trestle and brings it up again. **THE CLOTH IS HIS AND NOT THE STALLHOLDER'S, AND THE
-REPAIR PASS ON DAYS 971 TO 980 TOOK IT OFF THE STALLHOLDER IN 0978 WHERE THE SAME CHAPTER ALSO HAD THE STALLHOLDER USING
-IT.** **On 974 he has nothing to do with the outside-wall board and
+board down that stair to his own trestle and brings it up again. **On 974 he has nothing to do with the outside-wall board and
 on 977 he is not in the chapter. On 975 he asks the man of about twenty-seven at the top of that step, with his own two hands
 on the rim of that trough, whether the rim would take a hoop of the width they get at the wharf, and he is told it would take
 two and not one, and neither of them went up that step and looked at the rim of it.** His nineteen rates and the two-finger
-space at the foot of the middle column were not written in on any of these ten days, **and on 980 a woman stops at that board
-and asks him out loud in that row what the rate at the foot of the middle column is and he tells her and she says it back to
-him once to see whether she had it right and he tells her it was right,** and nobody in that row said one word about the
-space to anybody.
+space at the foot of the middle column were not written in on any of these ten days and nobody in that row said one word about
+the space.
 
 **THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER, the keeper.** **On 975 she stands up behind the far end of that
 bench at about the fourth hour with her own hands on the wood and does not sit down, names the cost of her own decision out
@@ -106,21 +102,14 @@ and answers it, and the answer is on no surface anywhere.** He tells the woman o
 through the eye of a bucket with a bad handle, and does not make it for her, and says he is not going to be the one who starts
 it. **No heat was fetched for that trough on any of days 971 to 980 and its ice was not broken on any of them.**
 
-**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG, the stallholder.** **HIS OWN BOARD IS FACE IN AGAINST
-THE WOOD OF HIS OWN TRESTLE WITH THE BARE BACK OF IT TURNED OUT INTO THE ROW BEHIND HIS OWN SHOULDER, AND THE NINETEEN
-RATES AND THE TWO-FINGER SPACE BELONG TO THE TRADESMAN TWO STALLS ALONG AND NOT TO HIM; THE REPAIR PASS ON DAYS 971 TO 980
-FIXED TWO CHAPTERS THAT PUT THEM TOGETHER.** **On 974 he takes the board on the
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG, the stallholder.** **On 974 he takes the board on the
 outside wall a fraction of an inch off that wall with the flat of his own left hand on its face and his own right hand in the
 gap behind its bottom edge, twice, and lets it back both times, and finds out that the nail is going at the rate it was going
 a month ago.** **On 979 he goes at the near foot of his own trestle again on dry ground with the flat of his own board as a
-lever and it does not come up, and he says why in his own mouth and goes on along the face of his own board twice.** The foot
-did not move and the flag came up at its near corner instead. His own hand goes flat against the outside of the inside breast
+lever and it does not come up, and he says why in his own mouth and goes on along the face of his own board twice.** **The foot
+did not move and the flag came up at its near corner instead.** His own hand goes flat against the outside of the inside breast
 pocket of his coat on 972, on 975 and on 979, and **the chalk did not come out of that pocket on any of the ten days, and
-nobody went up that row and offered him another piece and nobody came at that wall with a hammer.** **On 980 he says out loud
-that he could walk two stalls along and put a figure in that space before the light went off that board, because he has the
-hand for it and the chalk to do it with, and that the whole of it comes to nothing, because that board is not his and nobody
-at that trestle has asked him to write on it, and a figure of his put in there would be about him and not about the day. He
-does not cross the row.**
+nobody went up that row and offered him another piece and nobody came at that wall with a hammer.**
 
 **THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING.** **He names the cost out loud first on 973, about his own
 satchel and nobody else, and then puts one thing to the woman of about fifty-two and is answered at length.** **On 976 he
@@ -128,11 +117,7 @@ carries the satchel out past the store's end of that row and along four hundred 
 at the side of that yard, sets it down on the dry side of the rim, stands over it, goes to the far side of that yard and back,
 picks it up and comes the whole way back up the row with the flap of it hanging away from his own side.** **The flap stayed
 down the whole of that time and he put his own hand flat on it once going past the store's end of that row and the flap stayed
-down under his own hand, and the reason it was not opened is not in that yard and not in that row and not in that room.** **On
-973 that flap stayed down too and its crease along the top had taken a set of its own by the end of that day, so that a
-finger's width of air sat under it at the edge nearest his own side with nothing holding it open; the repair pass put that in
-the place of a closing paragraph that was 0976's sentence with one word out of it, and the hand flat on the flap and the
-reason not given belong to 976 and not to 973.** He
+down under his own hand, and the reason it was not opened is not in that yard and not in that row and not in that room.** He
 asks the stallholder one ordinary thing about the foot of his trestle on 975 and stops the tradesman on the row on 973. **The
 satchel was not opened on any of days 971 to 980 and no chapter of them says why he opens nothing he carries.**
 

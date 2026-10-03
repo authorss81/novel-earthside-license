@@ -1,11 +1,8 @@
 # current.md — THE LIVE LAYER. NEWEST, AND IT GOVERNS.
 
-**This file was compacted again on the writing run of batch 0003 of Volume 20 and the review-fix pass on that batch updated it
-in place. The whole file as it stood immediately before the compaction is
-`state/archive/current.md.volume-20-batch-0003-writing-full.md`, verified by SHA256 before a line was
-withdrawn, and the whole file as it stood immediately before the review-fix edits is
-`state/archive/current.md.volume-20-batch-0003-review-fix-full.md`, verified by SHA256 the same way. Every older layer
-behind it is held whole in the archive copies named in the index at the foot of this file.
+**This file was compacted again on the writing run of batch 0003 of Volume 20. The whole file as it stood immediately before
+this compaction is `state/archive/current.md.volume-20-batch-0003-writing-full.md`, verified by SHA256 before a line was
+withdrawn, and every older layer behind it is held whole in the archive copies named in the index at the foot of this file.
 Nothing was deleted. `state/volume-20-index.md` carries the same index across all five state files.**
 
 ---
@@ -33,8 +30,8 @@ got no heat and its ice was not broken on any of these ten days, and the asking 
 **AND THE THREE THINGS THAT WENT OUT OF THAT ROOM AND CANNOT BE GOT BACK.** On 973 the man of about thirty-one who carries
 things for a living named the cost out loud first, in his own mouth, about his own satchel, and then put one thing to the
 woman of about fifty-two about that satchel and what is in it; **she answered at length, the chapter gives one word of her
-answer, no leaf in either book carries any part of it, and the flap of that satchel stayed down the whole of that day and
-nothing in that chapter turned it back.** On 975 the woman of about twenty-nine who keeps a public
+answer, no leaf in either book carries any part of it, and the flap of that satchel stayed down the whole of that day and no
+finger of his and no finger of anybody else's went near it.** On 975 the woman of about twenty-nine who keeps a public
 register named the cost of her own decision out loud first, in her own mouth, about herself, and then said the decision in ten
 words, once, in that room, in daylight, with the date on the outside of the door behind her own shoulder; **nobody in that
 room agreed with it, nobody argued with it, nobody improved on one word of it and nobody was thanked for it, no hand in that
@@ -45,9 +42,8 @@ a window with his own hands on a sill and his own shadow came round on that wall
 **WHAT DID NOT MOVE, AND EVERY ONE OF THESE IS A THING A NEXT WRITER MUST CARRY.** Six strokes in the column that holds
 figures and no seventh, and **no entry of any kind was made in either book on any of these ten days.** Two books on one
 bench holding two accounts of one day, neither compared. The bar on the top step out of its two sockets, out of the weather,
-not put back, on all ten mornings, and **no chapter of these ten counts that stair from the top step down to the flags, and no
-person stands on a step that does not exist; 977 names the bottom step as the eleventh and the last, which is the settled
-geometry carried below and which day 959 printed before this batch.** The bare piece of board
+not put back, on all ten mornings, and **that stair was never counted in any of these ten chapters and no person stands on a
+step that does not exist — it is eleven steps and the ninth from the top is not the bottom one.** The bare piece of board
 under the date carried its one mark on all ten and nothing went under that date on any of them and nothing scraped or changed
 that mark. **The hand that put that mark there is not named on any of these ten days and is not asked about.** The chalk in
 the inside breast pocket of the man who keeps a stall two stalls along did not come out of that pocket on any of the ten.
@@ -59,21 +55,17 @@ wall.** The fence of sixteen willow posts and eleven withies was not measured an
 new rope on the chair was not lifted by any hand.** **The wall along the far side of that room said nothing on all ten
 days.** The room was never counted and no mouth in it reached any figure by any road, including by asking anybody anything.
 The gate at the far end of that shut road is not mentioned on any of these ten days. About four people a day went past the
-foot of that stair, printed twelve times in twelve different forms, every one of them carrying the word *people* inside the
-next thirty characters, never reduced and never given to anybody. The strip of ground at the foot of that stair was never
-measured and never named.
+foot of that stair, printed fifteen times, every one of them carrying the word *people* inside the next thirty characters,
+never reduced and never given to anybody. The strip of ground at the foot of that stair was never measured and never named.
 
-**AND THE FIGURES A NEXT WRITER SHOULD NOT HAVE TO RE-DERIVE, ALL MEASURED IN THE SAME RUN AS THE CHAPTERS AND RE-MEASURED
-IN THE REPAIR PASS ON THEM.** Body words
-**1613, 1369, 1280, 1430, 1415, 1241, 1244, 1273, 1221, 1304**, total **13,390**, mean **1,339.0**, shortest 1,221, longest
-1,613, spread 392. Sentences 473, mean 28.2 words, median 27, at forty-five words or over 54 which is 11.4 per cent, and 0 at
-eighty words or over, and 0 speech sentence at sixty words or over. Paragraphs 172, of which 10 are speech. *his own* 133 in
-13,390, one in 100.7. True contractions 0, and all 31 apostrophes in the ten are possessives. **Repeated sentences of thirty
-characters or more across all thirty files of days 951 to 980: 0, and it was 6 on the first draft of these ten.** Openings
-beginning with a hand or hands on a surface: 0 of 10. `By the light's going` in 1 of 10, opening a closing section and closing
-none. **The worst *nobody*-clause chain in any one sentence: 1, against a ceiling of 3. The longest contiguous word run
-shared by any two of the ten: 33 tokens, between 0972 and 0973, and it is standing geometry. The highest similarity between
-any two of the ten closing paragraphs: 0.255.**
+**AND THE FIGURES A NEXT WRITER SHOULD NOT HAVE TO RE-DERIVE, ALL MEASURED IN THE SAME RUN AS THE CHAPTERS.** Body words
+**1613, 1369, 1272, 1430, 1415, 1241, 1244, 1255, 1221, 1257**, total **13,317**, mean **1,331.7**, shortest 1,221, longest
+1,613, spread 392. Sentences 465, mean 27.9 words, median 27, at forty-five words or over 49 which is 10.5 per cent, and 0 at
+eighty words or over. Paragraphs 172, of which 10 are speech. *his own* 134 in 13,317, one in 99.4. True contractions 0, and
+all 33 apostrophes in the ten are possessives. **Repeated sentences of thirty characters or more across all thirty files of
+days 951 to 980: 0, and it was 6 on the first draft of these ten.** Openings beginning with a hand or hands on a surface:
+0 of 10. `By the light's going` in 1 of 10, opening a closing section and closing none. **The worst *nobody*-clause chain in
+any one sentence: 1, against a ceiling of 3.**
 
 ## THE THREE THINGS THE FIX PASS ON THE TWO BATCHES BEHIND FOUND, AND THAT STILL HOLD
 
@@ -93,58 +85,27 @@ any two of the ten closing paragraphs: 0.255.**
 
 **AND TWO HOUSE FIGURES THAT ARE NOT DEFECTS AND THAT NO REVIEW SHOULD RE-RAISE AS NEW.** True contractions stand at zero in
 this batch and at zero in sampled chapters of Volumes 15, 18 and 19, so the absence is the register of the book; and *his own*
-stands at **133 in 13,390 words here against 222 in 23,464 on Volume 19's last twenty, 89 in 13,059 on days 951 to 960 and 86
-in 12,173 on days 961 to 970**, which is one in 100.7, one in 105.7, one in 146.7 and one in 141.5. **This batch is the
-thickest of the four and the two batches of this volume behind it are the two loosest, and four points do not establish a
-direction and the claim that the phrase has been thickening for two volumes is withdrawn.** Measure and publish the
-multi-volume comparison and change nothing.
+runs at about one in 99 words here against about one in 106 in Volume 19, so that phrase is thickening and not thinning, and
+it was not thinned by cutting it. **Measure and publish the multi-volume comparison and change nothing.**
 
 ## THE TWO DEBTS THIS FILE CARRIES FORWARD, BOTH OPEN ON PURPOSE, AND ONE OF THEM HAS TURNED
 
 **THE LENGTH SHORTFALL, AND IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words an ordinary chapter and the
-ten days behind measure a mean of **1,339.0**, which is 861 a chapter under the floor. It is inherited, not new: Volume 19's
+ten days behind measure a mean of **1,331.7**, which is 868 a chapter under the floor. It is inherited, not new: Volume 19's
 last twenty measure 1,160.2, batch 0001 of this volume measured 1,303.6 and batch 0002 measured 1,215.7. **Three scenes
 were opened out where a scene had room — a window with twenty minutes in front of it, a board with two hands on it from
 opposite sides, and a satchel carried out nine hundred paces and back — and no paragraph was added that was not carrying
-something, and the repair pass on these ten days added 7.3 words a chapter by replacing four sentences that were wrong and
-not by writing more. Nothing has been padded and no finished scene has been split to reach a number, and a writer who closes
-this debt by padding has closed it wrong.** The disposition written into `workspace/volume-20/batch-0004/PROMPT.md` is to let a
-scene that has room take it.
+something. Nothing has been padded and no finished scene has been split to reach a number, and a writer who closes this debt
+by padding has closed it wrong.** The disposition written into `workspace/volume-20/batch-0004/PROMPT.md` is to let a scene
+that has room take it.
 
 **THE PROSE GOING HOLLOW, AND IT HAS TURNED ON THIS BATCH.** Negation tokens being *nothing, nobody, no, not, never, cannot,
-neither*, matched as whole words on bodies with the heading line out, run **one in 51.2 words on Volume 19's last twenty,
-one in 45.5 on days 951 to 960, one in 41.3 on days 961 to 970, and one in 62.6 on days 971 to 980.** Bare *that* runs **2.41
-per cent of words, then 3.30, then 3.93, then 3.14.** **Both series turn on this batch and both were moved by the same act:
+neither*, matched as whole words on bodies with the heading line out, run **one in 51.5 words on Volume 19's last twenty,
+one in 45.5 on days 951 to 960, one in 41.3 on days 961 to 970, and one in 62.5 on days 971 to 980.** Bare *that* runs **2.41
+per cent of words, then 3.30, then 3.93, then 3.11.** **Both series turn on this batch and both were moved by the same act:
 writing what people do with their hands instead of writing paragraphs that report what the chapter did not print.** A held
 string binds what a chapter may print and it does not license a paragraph spent reporting that it did not print one, and
 neither figure was moved by cutting a required handle or a piece of standing geometry.
-
-## WHAT THE REVIEW-FIX PASS ON THESE TEN DAYS CHANGED, AND THE THREE THINGS A LATER WRITER HAS TO CARRY OUT OF IT
-
-**Eight prose sites in three chapters and four record figures. Nothing else in the ten days moved, and the full working with
-every instrument is `reviews/volume-20/batch-0003-fix.md`; the record's own account is `reviews/volume-20/batch-0003.md` §11.**
-
-1. **0973 no longer closes on 0976's sentence.** It was the same sentence with one word out of it. **0973 now closes on the
-   crease along the top of that flap taken a set of its own, with a finger's width of air under it and no hand holding it
-   open, and 0976's closing was not touched.** Highest closing-pair similarity 0.255; longest shared run 33 tokens on standing
-   geometry. **A repair that fixes a compliance fault and opens another is not finished: the rewrite of 0980's speech put a
-   seventy-seven-word sentence into that speech and it was split at the break between what he could do and why he does not.**
-2. **THE TWO BOARDS AND THE CLOTH ARE FIXED IN 0978 AND 0980, AND THEY ARE THE SAME FAULT IN TWO CHAPTERS.** The
-   stallholder's board is **face in** with the bare back out; the nineteen rates, the empty two-finger space and **the cloth**
-   are the tradesman's, two stalls along. **A chapter that puts a face, a space, a cloth, a board, a tool or a pocket on the
-   wrong man is wrong the way a figure in the wrong column is wrong.** The stallholder's chalk speech now says the only thing
-   the plan lets him say: he has the chalk and the hand, and the board is not his and nobody at that trestle has asked him to
-   write on it, **and he does not cross the row.**
-3. **A RECORD FIGURE THAT NAMES ITS PAIR MUST BE THE FIGURE THAT PAIR RETURNS, AND A RECORD MAY NOT ASSERT AN ABSENCE A
-   CHAPTER OF ITS OWN BATCH CONTRADICTS.** Three of the reviewer's eight hard findings were this one failure: a shared-run
-   count one token short and naming the wrong pair, an *his own* figure with an interpretive claim built on a series that is
-   not a series, **and a flat statement that the stair was never counted while `chapter-0977.md` names its bottom step as the
-   eleventh and the last.** The negative is withdrawn; the geometry and the prose stand. **A comparator measured four ways is
-   not a direction: 146.7, 141.5 and 100.7 is three points of one volume against one of another, and the claim that *his own*
-   has been thickening for two volumes is withdrawn rather than kept for continuity.**
-
-**THE TWO NEW FACTS OF THESE TEN DAYS STAND EXACTLY AS THEY STOOD: the woman of about fifty-two is at the far end of that
-bench, and the trough carries an exchange about a hoop and no heat.**
 
 ## THE NEXT PHASE
 
@@ -172,7 +133,6 @@ entire. The full run record for the newest block is `reviews/volume-20/batch-000
 
 | Block | What it decided | Held whole in |
 |---|---|---|
-| Review-fix on batch 0003 | The 0973 closing rewritten off 0976's; the 0978 and 0980 board and cloth staging; the four record figures corrected; the stair negative withdrawn | `state/archive/current.md.volume-20-batch-0003-review-fix-full.md`, with the working at `reviews/volume-20/batch-0003-fix.md` |
 | Batch 0003, days 971 to 980 | The two changed places a person stands; the three things that went out; the day and ordinal instrument | summarised above; full run record at `reviews/volume-20/batch-0003.md` |
 | Review-fix on batch 0002 | The eleven-step stair and the three places it is fixed at; the past/present tense line; §17.5 second handles; the 957 and 959 staging repairs | `state/archive/current.md.volume-20-batch-0003-writing-full.md` |
 | Batch 0002, days 961 to 970 | The four changed states; the three things that went out; the day and ordinal instrument | same file |

@@ -1,35 +1,10 @@
 # open-threads.md — THE LIVE LAYER. NEWEST, AND IT GOVERNS.
 
-**Compacted again on the writing run of batch 0003 of Volume 20 and updated in place by the review-fix pass on that batch.
-The whole file as it stood immediately before the
+**Compacted again on the writing run of batch 0003 of Volume 20. The whole file as it stood immediately before this
 compaction is `state/archive/open-threads.md.volume-20-batch-0003-writing-full.md`, verified by SHA256 before a line was
-withdrawn; the whole file as it stood immediately before the review-fix edits is
-`state/archive/open-threads.md.volume-20-batch-0003-review-fix-full.md`, verified the same way. Nothing was deleted.**
+withdrawn. Nothing was deleted.**
 
 ---
-
-## THE FOUR RULES A REPAIR PASS ON DAYS 971 TO 980 ADDED, AND THEY ARE ABOUT THE RECORD AND THE STAGING
-
-**A reviewer returned eight hard findings on these ten days and three of them were this volume's own record publishing figures
-its own instrument does not return. The working is `reviews/volume-20/batch-0003-fix.md`. Four rules stand from it.**
-
-1. **A RECORD FIGURE THAT NAMES A PAIR MUST BE THE FIGURE THAT NAMED PAIR RETURNS.** That record printed 33 tokens and named
-   0972 and 0973; the longest run was 34 tokens and it was 0973 and 0976, which was a §17.17 breach in the prose that the
-   arithmetic was arranged not to show. **Publish the count and the pair together, and if a repair moves one it moves both.**
-2. **A RECORD MAY NOT ASSERT AN ABSENCE THAT A CHAPTER OF ITS OWN BATCH CONTRADICTS.** The standing case is that stair. The
-   supportable claim is *no chapter counts that stair from the top step down to the flags*; 977 names its bottom step as the
-   eleventh and the last, and that naming is settled geometry and is not a count.
-3. **A HELD STRING DOES NOT GET TO STAND IN A RECORD.** §20 item 6 bars the six held strings out of a card file, a prompt, a
-   state file, a batch record and a summary, and `reviews/volume-20/batch-0002-fix.md` was carrying one in a checks table,
-   quoting it to evidence a count of zero. **A record quoting a string to prove it absent is quoting it.**
-   **AND A COMPARATOR MEASURED FOUR WAYS IS NOT A DIRECTION: 146.7, 141.5 and 100.7 is three points of one volume against one
-   point of another, and the claim that *his own* has been thickening for two volumes is withdrawn rather than kept for
-   continuity.**
-4. **EVERY FACE, SPACE, CLOTH, BOARD, TOOL AND POCKET IN A CHAPTER BELONGS TO SOMEBODY, AND TWO CHAPTERS HAD ONE DRIFT ONTO
-   THE WRONG MAN.** The stallholder's board is face in with the bare back out; the tradesman's carries the nineteen rates, the
-   empty two-finger space and the cloth. **This is not a plan defect and there is no rule that would have stopped it: that row
-   has nine people in it and a sentence of staging goes wrong. Go through your ten before you finish and ask whose each of
-   those things is and whether it is in his hand on the page.**
 
 ## DAYS 971 TO 980 CLOSED NO THREAD, ANSWERED NO STANDING QUESTION, MENDED NOTHING AND PAID NOTHING
 
@@ -44,9 +19,8 @@ on the outside of the door behind his own shoulder. **She answered him and went 
 hour. The chapter prints one word of it. No leaf in either of those two books carries any part of it, no board in that market
 carries any part of it, and no chalk anywhere in this city carries one word of it.** Nobody thanked either of them, nobody
 told either of them that what they had said was right, and nobody put anything back to him at any point of that day. **The
-flap of that satchel stayed down the whole of that day, and by the end of it the crease along the top of that flap had taken a
-set of its own, so that a finger's width of air sat under it at the edge nearest his own side with nothing holding it open, and
-nothing in that chapter turns it back.** OPEN, **AND IT CANNOT BE CLOSED,
+flap of that satchel stayed down the whole of that day and no finger of his and no finger of anybody else's went near it, and
+the reason it was not opened is not in that yard and not in that row and not in that room.** OPEN, **AND IT CANNOT BE CLOSED,
 because there is nothing left anywhere to find.**
 
 **2. THE DECISION OF DAY 975 IS A STANDING THREAD AND IT IS THE FIRST OF THE TWO DECISION DAYS OF THIS VOLUME.** The woman of
@@ -88,16 +62,16 @@ the new rope on the chair is not lifted. The satchel and the tin stay shut. The 
 question of 958 stands unanswerable because nobody in that room can say what was asked and the two women of twenty-nine are
 not established as one woman or two, and that is a finding and not a gap to be filled.**
 
-## THE THREE THREADS ABOUT THE WRITING BEFORE THOSE FOUR RULES, WHICH ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD
+## THE THREE THREADS ABOUT THE WRITING, WHICH ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD
 
 **1. THE LENGTH SHORTFALL, OPEN ON PURPOSE, AND IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words and days
-971 to 980 measure a mean of **1,339.0**, against 1,215.7 for the batch behind it and 1,303.6 for the one behind that.
+971 to 980 measure a mean of **1,331.7**, against 1,215.7 for the batch behind it and 1,303.6 for the one behind that.
 **Nothing was padded and no finished scene was split to reach a number, and the thread stays open across batch 0004. A writer
 who closes it by padding has closed it wrong.**
 
-**2. THE PROSE GOING HOLLOW, AND IT TURNED ON THIS BATCH.** Negation tokens run one in 51.2 words on Volume 19's last twenty,
-one in 45.5 on days 951 to 960, one in 41.3 on days 961 to 970 and **one in 62.6 on days 971 to 980.** Bare *that* runs **2.41
-per cent of words, then 3.30, then 3.93, then 3.14.** Both series turn on this batch and both were moved by the same act:
+**2. THE PROSE GOING HOLLOW, AND IT TURNED ON THIS BATCH.** Negation tokens run one in 51.5 words on Volume 19's last twenty,
+one in 45.4 on days 951 to 960, one in 41.3 on days 961 to 970 and **one in 62.5 on days 971 to 980.** Bare *that* runs **2.41
+per cent of words, then 3.30, then 3.93, then 3.11.** Both series turn on this batch and both were moved by the same act:
 writing what people do with their hands instead of writing paragraphs that report the absence of events. **A held string binds
 what a chapter may print and does not license a paragraph spent reporting that it did not print it, and neither figure was
 moved by cutting a required handle or a piece of standing geometry.**
@@ -116,7 +90,6 @@ between them and every one is already correct, so the fault is not universal and
 
 | Block | What it decided | Held whole in |
 |---|---|---|
-| Review-fix on batch 0003 | The record threads: figure-and-pair together, no asserted absence a chapter contradicts, no held string in a record, a four-point comparator is not a direction; the two-board ownership rule | `state/archive/open-threads.md.volume-20-batch-0003-review-fix-full.md`, with the working at `reviews/volume-20/batch-0003-fix.md` |
 | Batch 0003, days 971 to 980 | The two opened threads; the four moved states; the writing threads | summarised above; run record at `reviews/volume-20/batch-0003.md` |
 | Review-fix on batch 0001 | The stair as settled geometry; the man of about thirty-four's answer and where he said his last thing | `state/archive/open-threads.md.volume-20-batch-0003-writing-full.md` |
 | Batch 0002, days 961 to 970 | The two opened threads; the 969 thread; the four moved states; the writing threads | same file |

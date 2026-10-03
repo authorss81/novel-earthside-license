@@ -59,8 +59,9 @@ of it was not turned back. The tin was not opened; it stands on the walking spac
 the lid on it and her own thumb off the lid. The tally-board was not turned over and its two lines of grey grit were not
 counted. **No seventh stroke went into any column of either book and no leaf of either book was picked up, turned over,
 closed or written on.** No second nail went into that outside wall. The trough had no heat fetched and its ice was not broken
-on any of the ten. The bar stayed on the top step out of its two sockets and **that stair was never counted and no person
-stands on a step that does not exist.** The space at the foot of the middle column was not written in and the figure that
+on any of the ten. The bar stayed on the top step out of its two sockets and **no chapter of these ten counts that stair from
+the top step down to the flags and no person stands on a step that does not exist; 977 names the bottom step as the eleventh and
+the last, which is settled geometry and not a count.** The space at the foot of the middle column was not written in and the figure that
 used to stand there is not printed and is not said to have gone anywhere. Nothing went under the date on the outside of that
 door and the one mark on the bare board was not scraped, washed out or changed. **The wall along the far side of that room
 said nothing on all ten days. The room was never counted and no mouth in it reached any figure by any road, including by
@@ -70,25 +71,29 @@ nothing at all.**
 
 ## THE FIGURES THAT READ BEST AND WORST FOR THIS BATCH, PUBLISHED RATHER THAN THE IMPROVEMENT ALONE
 
-**Words per body 1613, 1369, 1272, 1430, 1415, 1241, 1244, 1255, 1221, 1257; total 13,317, mean 1,331.7, shortest 1,221,
-longest 1,613, spread 392.** Sentences 465, mean 27.9 words, median 27, at forty-five words or over 49 which is 10.5 per cent,
-and **0 at eighty words or over**. Paragraphs 172, of which 10 are speech. *his own* 134 in 13,317, one in 99.4. **True
-contractions 0, and all 33 apostrophes in the ten bodies are possessives. `question` and `questions` at 0 in bodies and at 0
-in headings, against the plan's own 1,774 in 477 across nine hundred and fifty bodies, and `asked` at 11: the ordinary verb is
+**Words per body 1613, 1369, 1280, 1430, 1415, 1241, 1244, 1273, 1221, 1304; total 13,390, mean 1,339.0, shortest 1,221,
+longest 1,613, spread 392.** Sentences 473, mean 28.2 words, median 27, at forty-five words or over 54 which is 11.4 per cent,
+and **0 at eighty words or over, and 0 speech sentence at sixty words or over**. Paragraphs 172, of which 10 are speech.
+*his own* 133 in 13,390, one in 100.7, against 222 in 23,464 on Volume 19's last twenty, 89 in 13,059 on days 951 to 960 and
+86 in 12,173 on days 961 to 970 — **and that is four points and not a direction, and the claim that the phrase has been
+thickening for two volumes is withdrawn.** **True contractions 0, and all 31 apostrophes in the ten bodies are possessives. `question` and `questions` at 0 in bodies and at 0
+in headings, against the plan's own 1,774 in 477 across nine hundred and fifty bodies, and `asked` at 12: the ordinary verb is
 doing the work and that is a decision and not a gap.** `at any hour of that day` 0. `passage` and `privilege` 0, and the
 seven words of Volume 19 at 0, and 26 further structuring words at 0, each measured separately. `Adrian Vale` at 3
 occurrences in 2 files. Panel lines 0. Digits in bodies 0. **Titles between eight and nine words and no title contains the
-word *question*, names the panel's rule, the decision, the refusal of 965 or the word of 985.** About four printed fifteen
-times and every one has the word *people* inside the next thirty characters. **Repeated sentences of thirty characters or
+word *question*, names the panel's rule, the decision, the refusal of 965 or the word of 985.** About four printed twelve
+times in twelve different forms and every one has the word *people* inside the next thirty characters. **Repeated sentences of thirty characters or
 more across all thirty files of days 951 to 980: 0, and it was 6 on the first draft of these ten.** Openings that begin with
 a hand or hands on a surface: **0 of 10.** `By the light's going` in **1** of the 10, opening a closing section and closing
-none. Worst *nobody*-clause chain in any one sentence: **1**, against a ceiling of 3.
+none. Worst *nobody*-clause chain in any one sentence: **1**, against a ceiling of 3. **Longest contiguous word run shared by
+any two of these ten: 33 tokens, between 0972 and 0973, and it is standing geometry. Highest similarity between any two of the
+ten closing paragraphs: 0.255.**
 
 **THE TWO FIGURES THAT WERE DRIFTING THE WRONG WAY ACROSS THREE BATCHES BOTH TURNED ON THIS ONE.** Negation tokens
-*nothing, nobody, no, not, never, cannot, neither*, whole words, bodies, heading line out: **456 in 23,464 words on Volume
-19's last twenty, 287 in 13,059 on days 951 to 960, 295 in 12,173 on days 961 to 970, and 213 in 13,317 on days 971 to 980** —
-one in 51.5, then 45.5, then 41.3, then **62.5**. Bare *that*, same reading: **2.41 per cent, then 3.30, then 3.93, then
-3.11.** **Both were moved by writing what people do with their hands instead of writing paragraphs that report what the
+*nothing, nobody, no, not, never, cannot, neither*, whole words, bodies, heading line out: **458 in 23,464 words on Volume
+19's last twenty, 287 in 13,059 on days 951 to 960, 295 in 12,173 on days 961 to 970, and 214 in 13,390 on days 971 to 980** —
+one in 51.2, then 45.5, then 41.3, then **62.6**. Bare *that*, same reading: **2.41 per cent, then 3.30, then 3.93, then
+3.14.** **Both were moved by writing what people do with their hands instead of writing paragraphs that report what the
 chapter did not print, and neither was moved by cutting a required handle or a piece of standing geometry, and no held
 string was traded against either figure.**
 
@@ -124,7 +129,7 @@ markers and were not swept.
 
 **THE LENGTH THREAD IS STILL OPEN AND THIS RUN DID NOT CLOSE IT, AND CLOSING IT BY PADDING WOULD BE CLOSING IT WRONG.**
 `PHASE_SYSTEM.md` asks for about two thousand two hundred to three thousand two hundred words and this batch measures a mean
-of **1,331.7**, which is 868 words a chapter under the floor. **It is 171.5 above Volume 19's published 1,160.2 and 28.1
+of **1,339.0**, which is 861 words a chapter under the floor. **It is 178.8 above Volume 19's published 1,160.2 and 35.4
 above the batch behind this one at 1,303.6, and that is the largest movement any batch of this volume has made against the
 debt. Three scenes were opened out where a scene had room — a window with twenty minutes in front of it, a board with two
 hands on it from opposite sides, and a satchel carried out nine hundred paces and back — which added no paragraph that was
@@ -152,3 +157,37 @@ chalk standing off at one corner. A strap gone pale where a hand closes on it. A
 hundred paces away with a clean arc on its hinge. **And the three things that went out and cannot be got back: an answer
 given at length in that room and printed nowhere, a decision said out loud in daylight that nobody agreed with and nobody
 was thanked for, and a woman standing at a bench instead of a wall because a man stood in a window.**
+## WHAT THE REVIEW-FIX PASS ON THESE TEN DAYS FOUND AND CHANGED, AND IT IS APPENDED RATHER THAN WOVED IN
+
+**A reviewer read these ten days and returned eight hard findings and three for decision. Eight prose sites in three chapters
+were changed and no chapter was restarted, no paragraph was cut, and no day, no weekday, no Bare-Month ordinal, no pressure tag
+and no frame moved. The full working is `reviews/volume-20/batch-0003-fix.md`; the record's own account is
+`reviews/volume-20/batch-0003.md` §11. Three of the eight hard findings were one failure — this batch's record publishing
+figures its own instrument does not return — and that is the honest reading of this run's compliance work.**
+
+1. **0973 closed on 0976's closing sentence with one word out of it**, a §17.17 breach. Its closing is now the crease along
+   the top of that flap taken a set of its own, with a finger's width of air under it and no hand holding it open. **0976 was
+   not touched.** Highest closing-pair similarity 0.255, longest shared run 33 tokens and it is standing geometry.
+2. **0978 gave the tradesman's cloth to the stallholder** and had both boards face out. The stallholder's board is face in
+   with the bare back out, and the cloth is on the tradesman's own shoulder.
+3. **0980 turned the stallholder's board face out, handed him the tradesman's middle column and its empty space, printed his
+   handle twice in one speech tag, and had him say he would have to go two stalls along for a chalk the plan puts in his own
+   pocket.** The speech now says what the plan allows: he has the chalk and the hand, the board is not his, nobody at that
+   trestle has asked him to write on it, and a figure of his there would be about him and not about the day. **He does not
+   cross the row.**
+4. **The census in 0980 was stated three ways in one chapter** and is now stated once.
+5. **The stair.** The claim that the batch never counted that stair is withdrawn; **977 names its bottom step as the eleventh
+   and the last, which is settled geometry carried on day 959 before this batch.**
+6. ***his own*.** 133 in 13,390 is one in 100.7. Against 105.7, 146.7 and 141.5 on the other three sets, **this batch is the
+   thickest of the four and the two batches of this volume behind it are the two loosest, and four points do not establish a
+   direction. The claim that the phrase has been thickening for two volumes is withdrawn.**
+7. **Two faults the reviewer did not report.** A held string stood in `reviews/volume-20/batch-0002-fix.md`, which §20 item 6
+   forbids in a batch record, and it is removed; and this record's inside-one-body figure named the wrong two files, and it is
+   now 13 in six files with all six named.
+8. **Confirmed deliberate.** 0973 reports the third of the nine without printing its wording and **that stands**: §6.4 rule
+   (v) bars the answer, rule (iii) bars the word in a heading, and the asking itself is on the page three times in ordinary
+   words. **Frame ten's opening clause, *a hand making a mark*, is not merely unreached on 977 but unavailable, because §20
+   item 8 spends the seventh form of the date and forbids any mark going under that date on any day of this volume.**
+
+**THE TWO NEW FACTS OF THESE TEN DAYS STAND EXACTLY AS THEY STOOD: the woman of about fifty-two is at the far end of that
+bench and not against her own far wall, and the trough carries an exchange about a hoop and no heat.**

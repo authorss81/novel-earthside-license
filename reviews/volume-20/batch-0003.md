@@ -16,14 +16,14 @@ pretending otherwise.**
 |---|---|---|---|---|---|---|---|
 | 0971 | 971 | Saturday | 656 | character | **1** | 9 | **THE SILL AND THE TWO UNDATED SHAPES IN ITS DUST.** Adrian Vale has both his own hands flat on the front edge of that sill from the fourth hour, with the dust of it behind his wrists, and he goes at the rim of the newer of the two shapes and finds that it is standing up on three sides and gone flat on the fourth, and finds that the older one has no rim left to read at all. **He wants to be able to say which hand put the newer one down and on what morning, and there is no way on that sill or on any other surface in this city to say it.** His own shadow comes round on the wall at about the seventh hour and stands on it at the height of a person's chest, and after about twenty minutes the woman of about fifty-two comes off that wall and stands at the far end of that bench for the rest of that morning, and that is the one thing his two hands did to that morning. **Nobody in that room says his name, nobody is waiting for him to be useful, and the dust and the two shapes are exactly as they were at the light.** The closing is the clear floor between that wall and the near leg of the stool |
 | 0972 | 972 | Sunday | 657 | recovery | — | 8 | **FOUR THINGS IN THAT ROOM A PERSON COULD READ, AND NO TWO OF THEM AGREEING.** The keeper's own leaf read down the column that holds figures, six strokes with a day against each and not one struck. The tradesman's board read across, nineteen rates in three columns and not one of them with a day against it. The second book, which is neither a page to be read down nor a surface to be read across, with its filled crack and the word near the head of the column on the right of it. And the bare back of the stallholder's own board across his own knees, grain and two battens and nothing written on it at all. **No two of them are the same kind of thing and no mouth in that room put two of them together.** The closing is the stallholder turning that board over on his own knees so the bare back lay face up in the light |
-| **0973** | 973 | Monday | 658 | **cost** | — | 17 | **THE VOLUME'S THIRD QUESTION, ASKED BY THE MAN WHO CARRIES THINGS ABOUT HIS OWN SATCHEL, AND THE SATCHEL IS NOT OPENED.** He names the cost out loud in his own mouth before anything else that morning, and the cost is his and about his own satchel and nobody else in that room is paying a part of it. Then he goes the length of that bench and puts it to her about a foot off her own shoulder. **She answers him and goes on for the better part of a quarter of an hour, and the chapter does not give one word of her answer, and the room went on with what it was doing while she was giving it.** **The flap of that satchel stayed down the whole of that day and no finger of his and no finger of anybody else's went near it.** He gets nothing, and what he wanted was for somebody to put a second thing to him about that satchel and mean it. The closing is the strap standing up off the leather where his own hand had let go of it |
+| **0973** | 973 | Monday | 658 | **cost** | — | 17 | **THE VOLUME'S THIRD QUESTION, ASKED BY THE MAN WHO CARRIES THINGS ABOUT HIS OWN SATCHEL, AND THE SATCHEL IS NOT OPENED.** He names the cost out loud in his own mouth before anything else that morning, and the cost is his and about his own satchel and nobody else in that room is paying a part of it. Then he goes the length of that bench and puts it to her about a foot off her own shoulder. **She answers him and goes on for the better part of a quarter of an hour, and the chapter does not give one word of her answer, and the room went on with what it was doing while she was giving it.** **The flap of that satchel stayed down the whole of that day and nothing in that chapter turned it back.** He gets nothing, and what he wanted was for somebody to put a second thing to him about that satchel and mean it. The closing is the crease along the top of that flap taken a set of its own, with a finger's width of air under it and no hand holding it open |
 | 0974 | 974 | Tuesday | 659 | physical | — | 11 | **TWO HANDS ON ONE BOARD FROM OPPOSITE SIDES AND NEITHER LETTING GO.** The stallholder puts the flat of his own left hand on the face of the board on the outside wall and his own right hand into the gap behind its bottom edge, and pulls. The board gives about the fraction of an inch and the nail at its head comes a little further out of the wall and stops. **He does it twice and lets it back both times and finds that the nail is going at the rate it was going a month ago, and the rain of the night is still standing in the empty second hole above that board and goes down over an hour of afternoon sun without running out anywhere.** He has nothing to put in that hole and the one piece of chalk in that row is in his own pocket. The closing is the pale dust in the gap behind that bottom edge, which was not there at the light |
 | **0975** | 975 | Wednesday | 660 | **decision** | — | 4 | **THE MIDPOINT. THE COST NAMED OUT LOUD FIRST, BY HER, ABOUT HERSELF, AND THEN THE DECISION, IN TEN WORDS, IN HER MOUTH, ONCE.** **Nobody in that room agrees with it, nobody argues with it, nobody improves on one word of it, and nobody is thanked for it. Nothing whatever is done about it at any hour of that day, no hand in that room reached for a chalk, and no leaf of either book was picked up, turned over, closed or written on.** About nine people are in that room and in the hour that follows about four of them answer something that is said to them and about four of them say nothing at all. The closing is the wood of that bench under the place where the dry cloth had lain, standing a shade paler than the wood either side of it |
 | 0976 | 976 | Thursday | 661 | recovery | — | 2 | **A THING CARRIED SOMEWHERE AND NOT OPENED, AND THE REASON NOT GIVEN.** The carrier takes the satchel out past the store's end of that row and along four hundred yards of flags to the low place in the stone at the side of that yard, sets it down on the dry side of the rim, stands over it, goes along the stones to the far side of the yard and back, picks it up and comes the whole way back up that row. **The flap stayed down the whole of that time and he puts his own hand flat on it once going past the store's end and the flap stayed down under his own hand, and the reason it was not opened is not in that yard and not in that row and not in that room.** **Nothing whatever was done about the day before and no page in that city carries a word of it.** The closing is the strap gone pale where his own hand closes on it |
 | **0977** | 977 | Friday | 662 | **physical** | **1** | 10 | **THE OUTSIDE FACE OF THAT DOOR AT THE LEVEL OF THE DATE, AND THE MARK UNDER IT.** About four people a day go past the foot of that stair, two of them look at the outside of that door and two of them do not, and nobody stops. **He wants to be able to tell whether the mark on the bare board under that date is a figure or a letter or a piece of a word, and a one and an I and the first stroke of a longer mark all stand up the same and end the same and are put down by a hand doing the same three motions in the same order.** He reads it from a finger's thickness off, from further off, and from the side with his own head beside it. **There is no chalk dust round it, no second stroke under it, no place worn on it, and nothing on that door or that stair or in the room above it or on any board in that market that would tell him which of the three things it is, and he gets no.** His own two hands on that outside face are why the woman of about fifty-two stood on the bottom step and waited before she went out into the strip of ground. The closing is a stripe of light under that door packing the grit flat as it walks across the flags |
 | 0978 | 978 | Saturday | 663 | character | — | 15 | **A THING SAID OUT LOUD THAT IS NOT A NAME AND NOT A NUMBER AND NOT ON A PAGE, AND NOT SAID AGAIN.** The woman of about sixty-nine with her tin goes the whole length of that row with the stick in her own hand and stops at a dozen places and at every one of them she stands with the end of the stick held down against the stone and lifts it and carries on, **and she makes none of them.** At about the middle of that row she says one thing out loud into that row about a patch of light between two trestles that nobody in that market has ever stopped in, and she does not say it again before the light goes or after it. The man of about twenty-seven tells her about a rope loop through the eye of a bucket and does not make it for her, and she says nothing back. **Nobody in that row put anything to her.** The closing is the shade of the awning gone off the walking spaces by the time the light had reached that end of the row |
 | 0979 | 979 | Sunday | 664 | recovery | — | 5 | **A PIECE OF WORK THAT DOES NOT COME OUT, AND THE PERSON IT BELONGS TO GOING ON WITH IT.** The keeper puts the lid of the box of chalk down on that box three times, the last time with the heel of her own hand, and it stands off at the same corner three times, and she puts it back standing off at that corner and goes on with the column that holds figures. Down that row the stallholder goes at the near foot of his own trestle again on dry ground with the flat of his own board as a lever, and it does not come up, and he says why in his own mouth and goes on along the face of his own board. **The foot did not move; the flag at the near corner came up about the width of two fingers on the side away from the trestle and showed the earth under it.** The closing is that corner of that flag standing up on its edge with nothing under it holding it |
-| 0980 | 980 | Monday | 665 | political | — | 1 | **NINETEEN RATES ON A BOARD WITH ITS FACE OUT IN ITS OWN ROW, AND ABOUT FOUR PEOPLE A DAY GETTING A THING OFF IT AND ABOUT FOUR NOT.** A man reads the middle column down and goes on; a woman stops and asks the tradesman what the rate at the foot of the middle column is and says it back to him to see whether she has it right; a boy looks at it for as long as it takes to read two lines and does not stop at it; a man goes by with his own hands full and does not turn his head. **The space about two fingers wide at the foot of that middle column stands empty and the wood in it is pale, and the piece of chalk that would go into it is in the inside breast pocket of the man two stalls along and did not come out on any of these ten days.** The closing is that chalk in that pocket when the light had gone off that row |
+| 0980 | 980 | Monday | 665 | political | — | 1 | **NINETEEN RATES ON A BOARD WITH ITS FACE OUT IN ITS OWN ROW, AND ABOUT FOUR PEOPLE A DAY GETTING A THING OFF IT AND ABOUT FOUR NOT.** A man reads the middle column down and goes on; a woman stops and asks the tradesman what the rate at the foot of the middle column is and says it back to him to see whether she has it right; a boy looks at it for as long as it takes to read two lines and does not stop at it; a man goes by with his own hands full and does not turn his head. **The space about two fingers wide at the foot of that middle column stands empty and the wood in it is pale, and the piece of chalk that would go into it is in the inside breast pocket of the man two stalls along and did not come out on any of these ten days, and he says out loud that he could walk two stalls along and fill that space and that the whole of it comes to nothing, because the board is not his and nobody at that trestle has asked him to write on it.** The closing is that chalk in that pocket when the light had gone off that row |
 
 **THE CALENDAR, AND THE INSTRUMENT THAT DERIVES IT. Two figures and two figures only, taken from `outline/volume-20.md` §14.1
 and not from that file's own day table: day one is a Tuesday, and the Bare-Month ordinal is the day less three hundred and
@@ -79,7 +79,10 @@ page.**
 
 **AND THE SATCHEL IS NOT OPENED, AND NO CHAPTER SAYS WHY HE OPENS NOTHING HE CARRIES.** He puts his own hand flat on the
 flap of it once, going past the store's end of that row, and the flap stays down under his own hand, and the reason it was
-not opened is not in that yard and not in that row and not in that room.
+not opened is not in that yard and not in that row and not in that room. **THAT SENTENCE IS ABOUT DAY 976 AND NOT ABOUT
+DAY 973, AND AN EARLIER DRAFT OF THIS RECORD PUT IT UNDER 973 BECAUSE §6.9'S SATCHEL IS THE SAME SATCHEL; the hand flat on
+the flap and the reason not given are in `chapter-0976.md` and in no other of these ten files, and day 973's own hold on
+that flap is the crease along the top of it, which the closing paragraph prints.**
 
 **§16 item 3 clause (vi), which forbids saying that anybody remembered correctly or wrongly on the three days a memory is
 the subject, does not bite on this day** — 973 is not one of those three days — and no memory of any morning is compared
@@ -264,11 +267,15 @@ the middle one.
 
 **Frame 10 on 0977.** §17.20's frame ten reads *a hand making a mark on a surface where people walk past, and about four of
 them looking at it go by and about four not, and nobody stopping*. **The hand that made the mark on that bare board made it
-on the morning before this flood came, and no chapter of this volume may put anything under that date on any day.**
-So the frame's first clause cannot happen on this day and did not happen in this chapter. **The frame's other three clauses
-are honoured in full: a mark stands on a surface where people walk past, about four of them a day go by, two of them look at
-it and two of them do not, and nobody stops.** The card for the day is the outside face of that door at the level of the date
-and the mark under that date that nobody can read, and the card and the frame agree on everything except the hand.
+on the morning before this flood came, and no chapter of this volume may put anything under that date on any day.** So the
+frame's first clause cannot happen on this day and did not happen in this chapter. **THE STRONGER REASON IS IN THE PLAN ITSELF
+AND WAS NOT CITED HERE BEFORE THIS PASS: `outline/volume-20.md` §20 item 8 states that the seventh form of the date is spent
+and that no mark goes under that date on any day of this volume. A card that honoured frame ten's first clause would have
+broken §20 item 8, so the frame's opening clause is not available to 977 at all and no reading of it exists.** **The frame's
+other three clauses are honoured in full: a mark stands on a surface where people walk past, about four of them a day go by,
+two of them look at it and two of them do not, and nobody stops.** The card for the day is the outside face of that door at
+the level of the date and the mark under that date that nobody can read, and the card and the frame agree on everything
+except the hand.
 
 ---
 
@@ -298,9 +305,13 @@ other of these ten chapters except as the thing she carries up the row.** The ta
 lines of grey grit are not counted and no counting of them appears. **No seventh stroke went into any column of either book
 on any of these ten days, and no leaf of either book was picked up, turned over, closed or written on.** No second nail went
 into that outside wall. The trough had no heat fetched and its ice was not broken on any of the ten. The bar stayed on the
-top step out of its two sockets and **the stair was not counted in any of these ten chapters and no person stands on a step
-that does not exist.** The space at the foot of the middle column of that board was not written in, and the figure that used
-to stand there is not printed and is not said to have gone anywhere. **Nothing went under the date on the outside of that
+top step out of its two sockets and **no chapter of these ten counts that stair from the top step down to the flags, and no
+person stands on a step that does not exist.** **AND THE FLAT NEGATIVE THIS RECORD USED TO PRINT HERE IS WITHDRAWN, AND
+`chapter-0977.md` IS WHY: its thirty-first line names the bottom step as the eleventh and the last of them. That ordinal is
+settled geometry carried in `state/continuity.md` and printed on day 959 before this batch, so the prose stands and the
+negative does not. A record may not assert an absence it has not measured, and this one had not.** The space at the foot of
+the middle column of that board was not written in, and the figure that used to stand there is not printed and is not said
+to have gone anywhere. **Nothing went under the date on the outside of that
 door and the one mark on the bare board was not scraped, washed out or changed. The wall along the far side of that room said
 nothing on all ten days.** The room was never counted and no mouth in it reached any figure, and no mouth in it reached any
 figure by asking anybody anything either, which is the second half of §16 item 1 and is new to this volume.
@@ -312,30 +323,50 @@ a man of about twenty-seven carrying a bucket down and up three and four times, 
 bringing it up, a stallholder going along the foot of his own board with his own thumb, a carrier turning about off the near
 wall, and a woman standing at the far end of that bench with her own hands at the sides of her dress.
 
-**THE CENSUS.** About four people a day is printed **fifteen** times across these ten bodies and **every one of the fifteen
+**THE CENSUS.** About four people a day is printed **twelve** times across these ten bodies and **every one of the twelve
 has the word *people* inside the next thirty characters**, measured, which is what §14.5 requires. It was never reduced,
-never given to anybody and never used as a count of anybody. **THE SENTENCE THAT CARRIES IT APPEARS IN FIVE DIFFERENT
-FORMS ACROSS THESE TEN CHAPTERS AND IN NONE OF THEM IS THE FORM THE BATCH BEHIND USED**, and that was a deliberate act: the
-run's own repetition pass found one census sentence repeated across six of these ten files and across `chapter-0968.md`,
-and all seven were rewritten. The fourth hundred yards of flags, the eleven miles of flats and the about nine hundred paces
-are the plan's own distances at §14.5 and this batch printed no distance that is not one of them.
+never given to anybody and never used as a count of anybody. **THE SENTENCE THAT CARRIES IT APPEARS IN TWELVE DIFFERENT
+FORMS ACROSS THESE TEN CHAPTERS AND IN NONE OF THEM IS THE FORM THE BATCH BEHIND USED**, and that was a deliberate act:
+the run's own repetition pass found one census sentence repeated across six of these ten files and across `chapter-0968.md`,
+and all seven were rewritten. **The figure was fifteen before this repair pass and is twelve now, and the three that left
+were the ones finding 10 named: 0980 had the same census stated three ways in one chapter, once as a walk-past count, once
+as a get-a-thing count and once as a get-nothing count, and three readings of one standing figure made *about four people a
+day* behave as a derived count instead of a census. One statement of it is left in 0980 and the payload of the paragraph it
+was in is kept.** The fourth hundred yards of flags, the eleven miles of flats and the about nine hundred paces are the
+plan's own distances at §14.5 and this batch printed no distance that is not one of them.
 
 **THE ONE FIGURE A LATER WRITER SHOULD NOT HAVE TO RE-DERIVE.** The literal string *question* stands at **0 in 0 files**
-across these ten bodies and at **0 in 0** across these ten headings, and *asked* at **11**. **That is a decision and not a
+across these ten bodies and at **0 in 0** across these ten headings, and *asked* at **12**. **That is a decision and not a
 gap.** The word is barred from a heading on every day of this volume, the answer is barred from nine of the nine
 question-days, the narrator's mouth on the decision day cannot carry it, and the ordinary verb is doing the work. The figure
 to compare it against is `outline/volume-20.md` §19.2's **1,774 in 477** across nine hundred and fifty bodies, which is a
 different reading on a much larger scope and is not a figure this batch regressed from.
 
+**AND THE SENTENCE ABOVE IS THE REPAIR PASS'S ANSWER TO FINDING 9.** A reviewer asked whether 0973 reporting the third of
+the nine without printing it was deliberate over-correction. **It was deliberate and it is not corrected, and the reasoning
+is published here so that a later writer does not read the silence as an oversight.** §6.4 rule (v) bars the answer, and
+rule (iii) bars the word in a heading, and nothing in §6.4 bars the asking itself from being printed. **But the batch prompt
+barred the narrator's mouth from carrying *question* on 975 and did not bar it on 973, and 0973 is the one day in this batch
+where the asking is the whole of the card: it is put, she answers at length, the room carries on, and the chapter gives the
+reader the length of the answer and not its matter.** Printing the asking would have added a sentence of the volume's
+ordinary word to a chapter whose figure it already has. **The asking is on the page three times over in
+`chapter-0973.md`: at :13 as *Then he went the length of the bench and put it to her*, in that file's speech paragraph at its
+head as *I am going to put a thing to somebody in this room this morning*, and at :15 as *He put it to her standing about a
+foot off her own shoulder* and *It was said once*.**
+
 **AND THE TWO HOUSE FIGURES A REVIEWER HAS ALREADY RAISED TWICE, MEASURED AGAIN HERE SO THAT THEY ARE NOT RAISED A THIRD
 TIME AS NEW.** True contractions, with a delimiter that excludes the possessive — a run of letters, an apostrophe, and one of
-*t re ll ve d m*, both case flags, bodies, heading line out: **0 in 13,317 words.** A naive apostrophe count returns 33 and
-every one of the 33 is a possessive such as *the keeper's leaf* or *the tradesman's board*. **Zero true contractions is the
+*t re ll ve d m*, both case flags, bodies, heading line out: **0 in 13,390 words.** A naive apostrophe count returns 31 and
+every one of the 31 is a possessive such as *the keeper's leaf* or *the tradesman's board*. **Zero true contractions is the
 register of this manuscript and not a defect of these ten days, and nothing was changed to reach it.** *his own* stands at
-**134 in 13,317 words, one in every 99.4**, against one in every 145.5 on Volume 19's fifty days, one in every 128 on days
-951 to 960 and one in every 141.4 on days 961 to 970. **It is thicker than all three, and that is the direction the phrase has
-been going for two volumes, and it was not thinned by cutting it.** Nine of them stood in one sentence in this run's first
-draft and were spread out.
+**133 in 13,390 words, one in every 100.7**, against **one in every 105.7** on Volume 19's last twenty, **one in every 146.7**
+on days 951 to 960 and **one in every 141.5** on days 961 to 970, all four measured in the repair pass on bodies with the
+same instrument. **This batch is the thickest of the four and the two batches of this volume behind it are the two loosest,
+and that is the whole of what the four numbers say. An earlier draft of this line published 134 in 13,317 as one in 99.4
+against a batch-0001 figure of one in 128, and the instrument returns 133 in 13,390, 89 in 13,059 and 86 in 12,173; the
+direction this phrase has been travelling is therefore NOT established, Volume 19 is not looser than this batch, and the
+interpretive claim is withdrawn rather than restated.** Nine of them stood in one sentence in this run's first draft and were
+spread out.
 
 ---
 
@@ -356,29 +387,34 @@ counting `^`, `, ` and `and ` as openers, which is the stricter reading of §16 
 |---|---|---|---|---|---|---|
 | 0971 | 1613 | 21 | 1 | 0 | 0 | 8 |
 | 0972 | 1369 | 14 | 0 | 0 | 0 | 9 |
-| 0973 | 1272 | 15 | 1 | 0 | 0 | 9 |
+| 0973 | 1280 | 15 | 1 | 0 | 0 | 9 |
 | 0974 | 1430 | 18 | 1 | 0 | 0 | 9 |
 | 0975 | 1415 | 18 | 2 | 0 | 0 | 8 |
 | 0976 | 1241 | 16 | 0 | 0 | 0 | 8 |
 | 0977 | 1244 | 19 | 0 | 0 | 0 | 9 |
-| 0978 | 1255 | 18 | 2 | 0 | 0 | 8 |
+| 0978 | 1273 | 18 | 2 | 0 | 0 | 8 |
 | 0979 | 1221 | 17 | 2 | 0 | 0 | 9 |
-| 0980 | 1257 | 16 | 1 | 0 | 0 | 8 |
+| 0980 | 1304 | 16 | 1 | 0 | 0 | 8 |
 
-**Total 13,317, mean 1,331.7, shortest 1,221, longest 1,613, spread 392.** Paragraphs 172, of which 10 are speech
+**Total 13,390, mean 1,339.0, shortest 1,221, longest 1,613, spread 392.** Paragraphs 172, of which 10 are speech
 paragraphs. Panel lines **0** across all ten. Digits in bodies **0** across all ten, reading: any character zero to nine,
-body, heading line out. Titles between eight and nine words of title text.
+body, heading line out. Titles between eight and nine words of title text. **0973, 0978 and 0980 carry the three figures that
+changed in the repair pass, 1272 to 1280, 1255 to 1273 and 1257 to 1304, and the other seven are as the writing run
+measured them.**
 
 **SENTENCES. Split one way, a bolded speech and its attribution are joined by the splitter because the speaker marker sits
 between them with no full stop, and that is a measurement artefact. Split properly — quoted speech on one side of the
-marker, attribution on the other — the figures are: 41 speech sentences at a mean of 29.2 words, a median of 32 and a longest
-of 56, with **0 at sixty words or over**; 424 narration sentences at a mean of 27.7, a median of 26.5 and a longest of 57,
-with **0 at sixty words or over**; and 465 sentences in all at a mean of 27.9, a median of 27 and 49 at forty-five words or
-over, which is 10.5 per cent, with **0 at eighty words or over.** Batch 0001 published 30.9 mean, 28 median, 73 longest,
+marker, attribution on the other — the figures are: 40 speech sentences at a mean of 30.1 words, a median of 32.5 and a
+longest of 56, with **0 at sixty words or over**; 433 narration sentences at a mean of 28.0, a median of 27 and a longest of
+59, with **0 at sixty words or over**; and 473 sentences in all at a mean of 28.2, a median of 27 and 54 at forty-five words
+or over, which is 11.4 per cent, with **0 at eighty words or over.** Batch 0001 published 30.9 mean, 28 median, 73 longest,
 23.9 per cent at forty-five or over, zero at eighty or over. Batch 0002 published 32.5 mean, 32 median, zero at eighty or
-over, and 24.9 per cent at forty-five or over. **This batch is lighter in the mean by 4.6 words against the batch behind it
-and one point lighter at forty-five words or over, and no sentence in it is eighty words long.** **Sixty compound sentences
-were split in this run and none of the ten chapters was lengthened to reach a figure and none was cut short to avoid one.**
+over, and 24.9 per cent at forty-five or over. **This batch is lighter in the mean by 2.5 words against the batch behind it
+and three points lighter at forty-five words or over, and no sentence in it is eighty words long.** **Sixty compound
+sentences were split in the writing run and none of the ten chapters was lengthened to reach a figure and none was cut
+short to avoid one, and one further compound was split in this repair pass because the rewrite of 0980's speech had put a
+seventy-seven-word sentence into that speech and the writing run's own ceiling of no speech sentence at sixty words or over
+is a figure this record published.**
 
 **REPEATED SENTENCES, MEASURED AGAINST THE TWENTY CHAPTERS BEHIND AND NOT AGAINST THEMSELVES.** 0 sentences of thirty
 characters or more occur in more than one file across all thirty files of days 951 to 980, and 0 at thirty-eight characters.
@@ -388,31 +424,53 @@ instrument for:** one census sentence standing in six of these ten files and in 
 shared with `chapter-0966.md`; one door-and-date sentence shared with three of these ten; one bar-and-trough sentence shared
 across three of these ten; one register-and-slab sentence shared between two of these ten; one carrier-and-near-wall
 sentence shared between two of these ten. **All six were cut by rewriting the staging and not by deleting a duplicate, and no
-day, no weekday, no Bare-Month ordinal, no pressure tag, no frame and no object state changed to cut them.**
+day, no weekday, no Bare-Month ordinal, no pressure tag, no frame and no object state changed to cut them. Re-run in this
+repair pass over all thirty files and after every prose change below: still 0 at thirty characters and still 0 at
+thirty-eight.**
 
 **SHARED RUNS. The longest contiguous word sequence shared by any two of these ten bodies is 33 tokens, between
 `chapter-0972.md` and `chapter-0973.md`.** §17.21 requires this record to name the cases an outside reader could argue the
-other way, and here they are, measured on the same instrument. **A thirty-three-token run and two thirty-two-token runs, all
-three of them the standing geometry that §5 of the plan fixes and §17.9 requires to be staged** — the bar on the top step of
-the stair out of its two sockets and the trough on the flags beside it with its ice in it; and **a thirty-token run that is
-the date in chalk on the outside of the door and the bare board under it standing clear of the near plank by the width of a
-thumb.** Batch 0001 measured 17 and batch 0002 measured 20; this batch measures 33, and **the difference is that §5 requires
-the bar, the trough, the ice, the date and the bare board in the same staging paragraph on a morning and this batch staged
-them together four times instead of varying the order.** No run of thirty-three tokens is a copied sentence and none of them
-is a paragraph carried across files.
+other way, and here they are, measured on the same instrument. **One thirty-three-token run, one thirty-two-token run and
+two thirty-token runs, and all four of them are the standing geometry that §5 of the plan fixes and §17.9 requires to be
+staged** — the bar on the top step of the stair out of its two sockets and the trough on the flags beside it with its ice
+in it; and **two thirty-token runs that are the date in chalk on the outside of the door and the bare board under it
+standing clear of the near plank by the width of a thumb.** Batch 0001 measured 17 and batch 0002 measured 20; this batch
+measures 33, and **the difference is that §5 requires the bar, the trough, the ice, the date and the bare board in the same
+staging paragraph on a morning and this batch staged them together four times instead of varying the order.** No run of
+thirty-three tokens is a copied sentence and none of them is a paragraph carried across files.
 
-**INSIDE ONE BODY. The longest sequence of words repeated at two different positions inside a single file is 13, in
-`chapter-0976.md` and `chapter-0979.md`, and in both it is the age-and-trade handle that §17.9 requires to stand beside a
-person.** §17.5 makes that handle the thing both speech instruments read, so it cannot be varied out of existence.
+**AND A FIFTH RUN WAS HERE BEFORE THE REPAIR PASS AND IS NOT HERE NOW, AND IT IS NAMED BECAUSE IT WAS A §17.17 BREACH IN
+THE PROSE.** Before this pass the longest run on this instrument was **34 tokens, between `chapter-0973.md` and
+`chapter-0976.md`**, and it was the tail of a closing sentence the two chapters shared word for word over about a hundred
+and thirty characters. **This record published 33 and therefore published the wrong figure on the one pair an outside reader
+would have tested first, which is the fault §17.22 names.** The repair was made in the prose and not in the number: the
+closing paragraph of 0973 was rewritten onto the crease along the top of that flap taking a set of its own, which is
+stated nowhere else in that chapter, and the closing paragraph of 0976 was not touched. **Re-measured after the repair,
+the longest run on this instrument is 33 and the pair is 0972 and 0973.**
+
+**INSIDE ONE BODY. The longest sequence of words repeated at two different positions inside a single file is **13, and it is
+13 in six of these ten files**: in `chapter-0972.md` it is *the light had got off the roof line at the far end of*; in
+`chapter-0974.md`, `chapter-0978.md`, `chapter-0979.md` and `chapter-0980.md` it is the age-and-trade handle that §17.9
+requires to stand beside a person, which is *the man of about thirty-four who keeps a stall two stalls along*; and in
+`chapter-0975.md` it is a clause of the keeper's own speech. **The three remaining files measure 11 and 7.** §17.5 makes that
+handle the thing both speech instruments read, so it cannot be varied out of existence, and the length of it is a
+consequence of that rule and not a lapse in it.
 
 **CLOSINGS. Ten closings on ten different subjects and ten different opening constructions:** clear floor between the wall and
-the near leg of the stool; the bare back of the stallholder's own board lying face up across his own knees; the flap of a
-satchel down and the strap standing up off the leather; pale dust in the gap behind the bottom edge of the board on the
-outside wall, which was not there at the light; the wood of that bench under the place where the dry cloth had lain; the
-strap of the satchel gone pale where a hand closes on it; a stripe of light under the door packing the grit flat in the
-joints as it walks across the flags; the shade of the awning gone off the walking spaces at the store's end of that row;
-the near corner of a flag standing up on its edge with nothing under it holding it; the chalk in the inside breast pocket
-of the man who keeps a stall two stalls along.
+the near leg of the stool; the bare back of the stallholder's own board lying face up across his own knees; the crease along
+the top of a flap taking a set of its own, with a finger's width of air under it and no hand holding it open; pale dust in
+the gap behind the bottom edge of the board on the outside wall, which was not there at the light; the wood of that bench
+under the place where the dry cloth had lain; the strap of the satchel gone pale where a hand closes on it; a stripe of
+light under the door packing the grit flat in the joints as it walks across the flags; the shade of the awning gone off the
+walking spaces at the store's end of that row; the near corner of a flag standing up on its edge with nothing under it
+holding it; the chalk in the inside breast pocket of the man who keeps a stall two stalls along.
+
+**AND ONE OF THOSE TEN SUBJECTS IS A REPAIR, AND IT IS THE THIRD, AND IT WAS A DUPLICATE OF THE SIXTH.** Before this pass
+the closing of 0973 and the closing of 0976 were the same sentence with one word out of it, and 0973's own subject was a
+satchel strap standing up off the leather. **The closing paragraph of 0973 was rewritten and no other closing in the batch
+was touched.** Measured after the repair, on the same instrument: the similarity ratio between any two of these ten closing
+paragraphs is **below 0.55 at every pair**, against a ceiling of 0.80 that this record used before the repair and that the
+pair at 0.973 blew through.
 
 **AND EACH CLOSING WAS CHECKED AGAINST §17.17'S TEN OFF-LIMITS SHAPES AND NONE OF THEM IS ON ONE.** No closing is the room's
 figure. No closing is *about four people a day*. No closing is the strip of ground at the foot of that stair. No closing is
@@ -485,9 +543,13 @@ outside-wall board on one nail and the empty second hole above it, **which held 
 slowly over an hour of afternoon sun and is now soft about the width of a nail all round its lip as the rain of 966 left it,
 and no second nail went into that wall.** The space about two fingers wide at the foot of the middle column, empty, with the
 figure that used to stand in it not printed and not said to have gone anywhere. The chalk in the stallholder's inside breast
-pocket, which did not come out on any of these ten days. The box of chalk whose lid does not shut. About four people a day,
-never reduced. The strip of ground at the foot of that stair, never measured, never named. **That stair is eleven steps and
-this batch never counted it and never put a person on a step that does not exist.** The word near the head of the column on
+pocket, which did not come out on any of these ten days, **and which on 980 he says out loud he could have used, because he
+has the hand for it and the chalk to do it with, and that the whole of it comes to nothing because the board with the space
+on it is not his and nobody at that trestle has asked him to write on it, and a figure of his put in that space would be
+about him and not about the day. He does not cross the row to do it.** The box of chalk whose lid does not shut. About four
+people a day, never reduced. The strip of ground at the foot of that stair, never measured, never named. **That stair is
+eleven steps and no chapter of these ten counts it from the top step down to the flags, 977 names the bottom step as the
+eleventh and the last, and no person stands on a step that does not exist.** The word near the head of the column on
 the right of the keeper's page, never printed and never asked about, and named in the body of 0972 only as a thing that has
 never been printed. The mark of day 440, the hand that moved it, and the woman of about fifty-four, untouched on all ten of
 these days.
@@ -535,20 +597,22 @@ pass at all.
 
 **THE LENGTH THREAD IS STILL OPEN AND THIS BATCH DID NOT CLOSE IT, WHICH IS THE CORRECT DISPOSITION.**
 `PHASE_SYSTEM.md` asks for approximately two thousand two hundred to three thousand two hundred words for ordinary chapters
-and this batch measures a mean of **1,331.7**. That is 868 words a chapter under the bottom of the range. **It is also 171.5
-above Volume 19's published 1,160.2 and 28.1 above the batch behind this one at 1,303.6, and 180 words a chapter is the
+and this batch measures a mean of **1,339.0**. That is 861 words a chapter under the bottom of the range. **It is also 178.8
+above Volume 19's published 1,160.2 and 35.4 above the batch behind this one at 1,303.6, and 180 words a chapter is the
 largest movement any of the three batches of this volume has made against the debt, and it was made by opening out three
 scenes that had room — a window with twenty minutes in front of it, a board with two hands on it from opposite sides, and a
-satchel carried out nine hundred paces and back — and by adding no paragraph that was not carrying something.** What was not
-done is padding, and padding is forbidden in the same paragraph of the specification that sets the range. What was also not
-done is splitting a finished scene to reach a number. The thread therefore carries into batch 0004 open, with the measurement
-on it.
+satchel carried out nine hundred paces and back — and by adding no paragraph that was not carrying something.** **The repair
+pass on this batch moved the mean up by a further 7.3 words a chapter and it did so by fixing prose, not by writing more:
+0973's closing, 0978's staging line and four lines of 0980 grew by 73 words between them, and nothing was added that was not
+replacing a sentence that was wrong.** What was not done is padding, and padding is forbidden in the same paragraph of the
+specification that sets the range. What was also not done is splitting a finished scene to reach a number. The thread
+therefore carries into batch 0004 open, with the measurement on it.
 
 **THE TWO FIGURES THAT WERE DRIFTING THE WRONG WAY ACROSS THREE BATCHES BOTH WENT BACK, AND THE INSTRUMENT AND ITS SCOPE
 ARE PUBLISHED ABOVE.** Negation tokens being *nothing, nobody, no, not, never, cannot, neither*, matched as whole words on
-bodies with the heading line out: **456 in 23,464 words on Volume 19's last twenty, 287 in 13,059 on days 951 to 960, 295 in
-12,173 on days 961 to 970, and 213 in 13,317 on days 971 to 980** — one in 51.5, then 45.5, then 41.3, then **62.5**. Bare
-*that*, same reading, same scope: **2.41 per cent, then 3.30, then 3.93, then 3.11.** **Both series turn on this batch and
+bodies with the heading line out: **458 in 23,464 words on Volume 19's last twenty, 287 in 13,059 on days 951 to 960, 295 in
+12,173 on days 961 to 970, and 214 in 13,390 on days 971 to 980** — one in 51.2, then 45.5, then 41.3, then **62.6**. Bare
+*that*, same reading, same scope: **2.41 per cent, then 3.30, then 3.93, then 3.14.** **Both series turn on this batch and
 both were moved by the same act: writing what people do with their hands instead of writing paragraphs that report what the
 chapter did not print.** Neither was moved by cutting a required handle or a piece of standing geometry, and no held string
 was traded against either figure, **because a held string binds what a chapter may print and it does not license a paragraph
@@ -577,3 +641,44 @@ of them.**
 `reviews/volume-20/batch-0001.md` finding 7 records that a batch prompt which forbids it leaves self-dispatch with nothing to
 select. `workspace/volume-20/batch-0004/` now exists, it is the only directory this run created, and it holds one prompt.
 No cards were drafted for any other batch and no card file was written for this one.**
+---
+
+## 11. WHAT THE REPAIR PASS THAT READ `logs/batch-0003.review.log` CHANGED IN THIS RECORD, AND WHAT IT DID NOT
+
+**A reviewer read these ten days and returned eight hard findings and three for decision. This section says what was applied,
+in the prose and in this record, and the working is in `reviews/volume-20/batch-0003-fix.md` with every figure measured in the
+same run as the repair. Nothing was restarted, no planned plot moved, and no day, no weekday, no Bare-Month ordinal, no
+pressure tag and no frame changed.**
+
+**FOUNDING 1, TWO CHAPTERS CLOSING ON THE SAME SENTENCE, WAS A REAL §17.17 BREACH AND IS FIXED IN THE PROSE.** The closing
+paragraph of `chapter-0973.md` was the closing paragraph of `chapter-0976.md` with one word out of it, and the fix was a new
+closing for 0973 rather than a new number in this record. **Finding 2 was the same fault seen from the record's side and is
+fixed in the figures at §7: the longest shared run was 34 tokens between 0973 and 0976, this record published 33, and it is
+now 33 between 0972 and 0973, measured after the repair. Finding 8 was the same fault a third time and is fixed at §6: *his
+own* is 133 in 13,390 and the direction claim is withdrawn. Three of the eight hard findings were one failure to re-derive
+three numbers, and that is the honest reading of this run's own compliance work.**
+
+**FOUNDING 7, THE ASSERTED ABSENCE, IS FIXED AT §6 AND AT §8.** The flat negative that the stair was never counted is
+withdrawn and replaced with what the instrument returns: **no chapter of these ten counts that stair from the top step down to
+the flags, and 977 names the bottom step as the eleventh and the last, which `state/continuity.md` and day 959 both already
+carried.** The prose of 0977 was left standing and the negative was taken back, because §17.22 puts the fault on the
+assertion and not on the page.
+
+**FOUNDINGS 3, 4, 5 AND 6 ARE ALL ONE ERROR IN TWO CHAPTERS AND ALL FOUR ARE FIXED IN THE PROSE.** 0978 gave the tradesman's
+cloth to the stallholder and put the stallholder's board face out in a chapter that also has the tradesman using that cloth.
+0980 put a duplicated handle fragment in a speech tag, gave the stallholder the tradesman's middle column and its empty
+space, turned the stallholder's board face out, and had him say he would have to go and stand in front of another man's
+pocket for a piece of chalk that the plan puts in his own pocket and that 0980 twice says is in his own pocket. **The
+staging of both boards and the ownership of the cloth are now as `outline/volume-20.md` §7.2 has them and as `chapter-0963.md`
+staged them, and the chalk speech was rewritten so that the man's difficulty is the only difficulty the plan allows: he has
+the chalk and the hand, and the board is not his and nobody asked him to write on it.**
+
+**FINDING 10 IS NOT A FAULT AND IS NOW ANSWERED FROM THE PLAN INSTEAD OF FROM THE CHAPTER.** Frame ten's opening clause is
+**a hand making a mark**, and §20 item 8 spends the seventh form of the date and forbids any mark going under that date on
+any day of this volume. **The clause is therefore unavailable to 977, not merely unreached, and that is the reason the card
+governs.** Finding 9 is confirmed deliberate at §6, where the asking is shown to stand on the page three times in ordinary
+words, and finding 11 was taken and the census in 0980 is now stated once.
+
+**AND THIS PASS FOUND TWO THINGS THE REVIEW DID NOT REPORT.** A held string was standing in a batch record:
+`reviews/volume-20/batch-0002-fix.md` printed the wording §6.6 fixes, which §20 item 6 forbids in a batch record, and it is
+removed. And this record's own inside-one-body figure named the wrong two files; it is now 13 in six files, and §7 names them.

@@ -4,7 +4,7 @@ The woman of about sixty-nine with her tin came along that row at about the sixt
 
 It was Saturday, the six hundred and sixty-third day of the Bare Month. The night had been clear and hard for the fourth morning running and the sun was not up before the light. The air over eleven miles of flats stood white and close until about the eighth hour. Then it thinned along the ground and let the light come in under the ridge at the far end of that market at once. Four hundred yards of flags ran from the store's end of that row to where they gave out into the side of a yard, and the crust where the carting has been all that week stood pale and hard in the middle of the walking spaces.
 
-The man of about twenty-seven had the step at the store's end of that row with the bucket on the stone beside his own foot and the rag folded over the rim of it. The man of about thirty-four who keeps a stall two stalls along had his own trestle with his own board face out on it and the cloth over his own shoulder. The man of about thirty-nine who trades on a board had his own trestle two along with his own board face out on it.
+The man of about twenty-seven had the step at the store's end of that row with the bucket on the stone beside his own foot and the rag folded over the rim of it. The man of about thirty-four who keeps a stall two stalls along had his own trestle with his own board face in against the wood of it and the bare back of it turned out into the row behind his own shoulder. The man of about thirty-nine who trades on a board had his own trestle two along with his own board face out on it and the cloth over his own shoulder.
 
 ---
 

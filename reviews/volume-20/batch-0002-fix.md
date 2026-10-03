@@ -226,7 +226,7 @@ into a second mouth. `outline/volume-20.md` and `outline/ending.md` were read an
 | Words added or removed by the punctuation repair alone | **0** |
 | `question`, `questions` in bodies and headings, days 961 to 970 | 0 and 0 |
 | `passage`, `privilege` in days 961 to 970 | 0 and 0 |
-| `It goes in first, or it does not get asked` in Volume 20 chapters | 0 |
+| The wording held at `outline/volume-20.md` §6.6 in Volume 20 chapters | 0 |
 | `cannot be proved to have been asked` in Volume 20 chapters | 0 |
 | `borrowed` in Volume 20 chapters | 0 |
 | The refusal of 965 | once, in `chapter-0965.md`, and once in the plan |

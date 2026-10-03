@@ -185,16 +185,23 @@ batch harder than they bit the last one:
    sound, a piece of work already going, a thing out of place, a thing somebody has just finished, a time of day with weather
    in it, or a line of somebody's speech standing on its own.
 3. **§17.4 and the mean word count.** The share of bold is a consequence and not a plan and no card here sets a target for
-   it. **The same is true of length and you will be tempted to pad, so hear this once: the ten days behind you mean 1,331.7
+   it. **The same is true of length and you will be tempted to pad, so hear this once: the ten days behind you mean 1,339.0
    words and `PHASE_SYSTEM.md` asks for 2,200 to 3,200, and that shortfall is inherited from the two volumes behind those and
-   is still real at 868 words a chapter. Do not pad to reach a number and do not split a complete scene to reach one. Let a
+   is still real at 861 words a chapter. Do not pad to reach a number and do not split a complete scene to reach one. Let a
    scene that has room take it, and where a scene is finished, end it.**
 4. **§17.21 and §17.22, the two about your own record.** Your record may not publish a compliance figure it has not measured
    with an instrument in the same run, may not publish the word *zero* over a count it reached by reading rather than
    measuring, and may not assert an absence it has not measured. **A count that must include your own prompt, your own
    record and your own summary is the only count of the held things worth publishing**, and the instrument for it is at
    `reviews/volume-20/batch-0003.md` §3 and it strips the full stop off the end of the key, because the manuscript prints a
-   held wording with a comma inside the closing quote.
+   held wording with a comma inside the closing quote. **AND TWO THINGS A REVIEW-FIX FOUND IN THE BATCH BEHIND YOU, WHICH ARE
+   THIS SAME RULE SEEN TWICE MORE.** *(i) If you publish a figure and name the pair of files it came from, the figure must be
+   the one the named pair returns. That record printed 33 tokens and named 0972 and 0973; the longest run was 34 tokens and it
+   was 0973 and 0976, which was a §17.17 breach in the prose that the arithmetic was arranged not to show.* *(ii) If you
+   publish an absence, be sure no chapter of your own ten contradicts it. That record said the stair was never counted and
+   `chapter-0977.md` named its bottom step as the eleventh and the last. **Run your shared-run instrument before you write a
+   sentence about closings, not after, and when it comes back at thirty-odd tokens look at the pair it names before you decide
+   it is standing geometry.***
 5. **§17.8, the title.** Four to nine words of title text, **no title may contain the word *question* in any form, and no
    title may name the panel's rule, the decision, the refusal of 965 or the word of 985.** **And note what happened on 975
    in the batch behind you: the first draft of that chapter was headed with the decision's wording in full, which would have
@@ -207,16 +214,18 @@ batch harder than they bit the last one:
 
 **AND TWO FIGURES OF HOUSE STYLE THAT A REVIEWER HAS ALREADY RAISED TWICE AND THAT ARE NOT DEFECTS.** Measured across the
 three batches behind you and across sampled chapters of Volumes 15, 18 and 19: **true contractions stand at zero in all of
-them**, so the absence is the register of the book; and *his own* runs at about one in 99 words in the ten behind you
-against about one in 106 in Volume 19, so that phrase is thickening and is not to be thinned by cutting it everywhere. **If a
-review names either of these, measure it and publish the multi-volume comparison, and change nothing.**
+them**, so the absence is the register of the book; and *his own* runs at one in 100.7 words in the ten behind you
+against one in 105.7 on Volume 19's last twenty, one in 146.7 on days 951 to 960 and one in 141.5 on days 961 to 970. **So
+that batch is the thickest of the four and the two batches of this volume behind it are the two loosest, and four points are
+not a direction; the older claim that the phrase has been thickening for two volumes has been withdrawn.** **If a review
+names either figure, measure it against all three comparators, publish the four, and change nothing.**
 
 ## AND THE TWO FIGURES THAT HAD BEEN DRIFTING THE WRONG WAY, WHICH HAVE NOW TURNED, AND THE DISCIPLINE THAT TURNED THEM
 
 **Measured with one instrument across four sets — negation tokens being *nothing, nobody, no, not, never, cannot, neither*,
-matched as whole words on bodies with the chapter heading line out — one in 51.5 words on Volume 19's last twenty, then one
-in 45.5 on days 951 to 960, then one in 41.3 on days 961 to 970, and one in 62.5 on days 971 to 980. Bare *that* runs 2.41
-per cent of words, then 3.30, then 3.93, then 3.11.** Both series turned on the batch behind you and both were moved by the
+matched as whole words on bodies with the chapter heading line out — one in 51.2 words on Volume 19's last twenty, then one
+in 45.5 on days 951 to 960, then one in 41.3 on days 961 to 970, and one in 62.6 on days 971 to 980. Bare *that* runs 2.41
+per cent of words, then 3.30, then 3.93, then 3.14.** Both series turned on the batch behind you and both were moved by the
 same act. **A held string binds what a chapter may print. It does not license a paragraph spent reporting that it did not
 print one, and it is not a licence to spend a morning saying that a question went out of a room and was not written down.**
 **Write what people do with their hands.** On 961 a whole paragraph went on the fact that nothing on any surface holds what
@@ -250,6 +259,16 @@ shorter than you found it.** A record whose figures cannot be re-derived from th
 checked by the reader it is written for, and that fault is not repaired by being written in a file that exists. **And name in
 your record the day, the weekday and the Bare-Month ordinal of each of your ten chapters and the instrument that derives
 them, so that the next writer does not have to take them on trust.**
+
+**AND ONE MORE THING, WHICH IS ABOUT THE STAGING AND NOT ABOUT ANY FIGURE.** A review-fix pass on the batch behind you
+found **two chapters in which a face, a space and a cloth had drifted onto the wrong man**, and the drift was not a plan
+defect: that row has nine people in it and a sentence of staging goes wrong. **Before you finish, go through your ten and ask
+of every face, every space, every cloth, every board, every tool and every pocket: whose is it, and is it in his hand on the
+page?** The plan has it — the man of about thirty-four's board is **face in** against his own trestle with the bare back of
+it turned out behind his own shoulder, and **the nineteen rates, the empty two-finger space and the cloth are the man of
+about thirty-nine's**, two stalls along. A face anybody reads across is the tradesman's; the stallholder's is read by nobody,
+because there is nothing on it. **A thing in a chapter that a person's own descriptor does not own is as wrong as a figure in
+the wrong column.**
 
 **AND LEAVE EXACTLY ONE NEXT PHASE BEHIND YOU.** Create `workspace/volume-20/batch-0005/` and write one prompt in it for
 Chapters 0991 to 1000, days 991 to 1000, and create nothing else. **That batch is the last ten days of Volume 20 and it

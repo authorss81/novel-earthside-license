@@ -1,29 +1,10 @@
 # continuity.md — THE LIVE LAYER. NEWEST, AND IT GOVERNS.
 
-**Compacted again on the writing run of batch 0003 of Volume 20 and updated in place by the review-fix pass on that batch.
-The whole file as it stood immediately before the
+**Compacted again on the writing run of batch 0003 of Volume 20. The whole file as it stood immediately before this
 compaction is `state/archive/continuity.md.volume-20-batch-0003-writing-full.md`, verified by SHA256 before a line was
-withdrawn; the whole file as it stood immediately before the review-fix edits is
-`state/archive/continuity.md.volume-20-batch-0003-review-fix-full.md`, verified the same way. Every older layer is held whole
-there and in the copies it names. Nothing was deleted.**
+withdrawn, and every older layer is held whole there and in the copies it names. Nothing was deleted.**
 
 ---
-
-## WHAT THE REVIEW-FIX PASS ON DAYS 971 TO 980 SETTLED, AND IT IS THREE THINGS
-
-1. **THOSE TWO BOARDS ARE NOT ONE BOARD AND THE CLOTH IS NOT THE STALLHOLDER'S.** The man of about thirty-four's board is
-   **face in against the wood of his own trestle with the bare back turned out into the row behind his own shoulder**; the
-   nineteen rates and the empty two-finger space are **the tradesman's**, two stalls along; and **the cloth is on the
-   tradesman's shoulder.** 0978 and 0980 both broke this and both are fixed. A chapter that reads either man's board across,
-   or puts the cloth on the wrong man, is wrong.
-2. **THAT STAIR IS NOT COUNTED END TO END AND ITS BOTTOM STEP IS NAMED.** No chapter of days 971 to 980 counts it from the top
-   step down to the flags and no person in them stands on a step that does not exist. **977 does name the bottom step as the
-   eleventh and the last, which is the settled geometry set out at the foot of this file and printed on day 959, and that
-   naming stands.** A state file or a record may not assert that the stair was never counted while a chapter of the same batch
-   names its last step.
-3. **THE CREASE ALONG THE TOP OF THAT FLAP IS A STATE AND IT CHANGED ON 973.** By the end of that day the flap lay against the
-   body of that satchel with a finger's width of air between them at the edge nearest his own side and nothing holding it
-   open. **The flap was not opened on any day of days 971 to 980 and nothing says why he opens nothing he carries.**
 
 ## THE TWO STATES THAT CHANGED ON DAYS 971 TO 980, AND WHAT EACH OF THEM COSTS A LATER WRITER
 
@@ -125,13 +106,13 @@ an hour of afternoon sun. A clean arc about the width of a hand on that gate's h
 question-days, and the narrator's mouth on the decision day cannot carry it. **A writer who wants the ordinary word on a day
 this volume gives it to them; a writer who wants it because it is a nice word has run out.**
 
-**THE MEAN LENGTH IS 1,339.0 AND THE DEBT IS OPEN BUT IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words.
-This batch is 861 a chapter under the floor, against 985 for the batch behind it. **Nothing was padded and no finished scene
+**THE MEAN LENGTH IS 1,331.7 AND THE DEBT IS OPEN BUT IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words.
+This batch is 868 a chapter under the floor, against 985 for the batch behind it. **Nothing was padded and no finished scene
 was split to reach a number, and the debt carries into batch 0004 open.**
 
 **AND THE TWO FIGURES THAT HAD BEEN DRIFTING THE WRONG WAY ACROSS THREE BATCHES BOTH TURNED ON THIS ONE.** Negation tokens
-one in 51.2 words on Volume 19's last twenty, then 45.5, then 41.3, and **one in 62.6 here**. Bare *that* **2.41 per cent,
-then 3.30, then 3.93, then 3.14**. **Both were moved by writing what people do with their hands instead of writing paragraphs
+one in 51.5 words on Volume 19's last twenty, then 45.5, then 41.3, and **one in 62.5 here**. Bare *that* **2.41 per cent,
+then 3.30, then 3.93, then 3.11**. **Both were moved by writing what people do with their hands instead of writing paragraphs
 that report what the chapter did not print, and neither was moved by cutting a required handle or a piece of standing
 geometry, and no held string was traded against either one.**
 

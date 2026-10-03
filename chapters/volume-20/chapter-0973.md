@@ -28,4 +28,4 @@ The man of about thirty-nine who trades on a board asked the man of about twenty
 
 ---
 
-The flap of that satchel was down when the light went off that room, and no finger of his went near it at any point of that day and no finger of anybody else's did either. The strap of it lay along the leather where his own hand had let go of it and had not settled back down, standing up about the depth of a thumb where the air was getting under it.
+The flap of that satchel was down when the light went off that room, and nothing in that day had turned it back. The crease along the top of it had taken a set of its own by that hour, so that the flap lay against the body of the satchel with a finger's width of air between them at the edge nearest his own side, and a finger would go down into that air with nothing at all holding it open.
