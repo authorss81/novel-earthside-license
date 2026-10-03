@@ -6,6 +6,11 @@ withdrawn: **520672058cc2509516d8267fdcfa6ce656004c4436c76b126d092f7b1c3ae37e**.
 the archive copies named in the index at the foot of this file. Nothing was deleted. `state/volume-20-index.md` carries the
 same index across all five state files.**
 
+**A SECOND REPAIR PASS ON THE SAME BATCH HAS SINCE EDITED THIS FILE AND HAS WITHDRAWN NOTHING.** The pass corrected figures
+that had been left standing by the first one and added the block at the foot of the index; every block below the index line
+was already held whole in `state/archive/` before this pass began, so nothing this pass changed was the only copy of anything.
+Its own record is `reviews/volume-20/batch-0005-fix-2.md`.
+
 ---
 
 ## THE BATCH THAT WROTE CHAPTERS 0991 TO 1000, DAYS 991 TO 1000, AND THE LAST TEN DAYS OF VOLUME 20
@@ -22,8 +27,11 @@ refused.** Ten frames out of eighteen, all ten distinct, **all ten repeats, and 
 ON THAT SHEET**, written on 997 below the three lines of 981 — the day, the person and the putting-to — with the space under
 the third of those three lines bare and still bare at the going of the light on 1000. **2. THE DRY CLOTH IS IN THE CRACK IN
 THE COLUMN OF THAT SECOND BOOK'S LEAF**, where it went down between about the fifth hour of 995 and the going of the light,
-and it is not along the head of that leaf. **3. THERE ARE TWO LINES IN THE GRIT AT THE STORE'S END OF THAT ROW AND FOUR GOING
-UP FROM THEM**, the newest made before the light on 1000, and nobody has asked what any of them are for.
+and it is not along the head of that leaf. **3. THERE ARE TWO LINES IN THE GRIT AT THE STORE'S END OF THAT ROW, AND LINES GOING
+UP FROM THAT END OF IT JOINT AFTER JOINT TOWARD THE FAR END OF THAT MARKET, AND MORE OF THEM THAN ANYBODY HAS EVER COUNTED**,
+the newest of the two at that end of the row made before the light on 1000, and nobody has asked what any of them are for.
+**The row is not enumerated and no chapter of this volume may state how many there are; this file printed the figure of four
+at four joints until this pass and four chapters contradict it at 952, 978, 992 and 1000.**
 
 **AND THE FOUR THINGS THAT WENT OUT OF THAT ROOM AND CANNOT BE GOT BACK.** On 991 the putting-to of day 898 went into one
 man's ear for the second time in five hundred and ninety-three days and nowhere else, the man it was asked of says he does
@@ -55,18 +63,24 @@ not named. **No second nail went into that outside wall and nothing was written 
 
 **AND THE FIGURES A NEXT WRITER SHOULD NOT HAVE TO RE-DERIVE, ALL MEASURED IN THE SAME RUN AS THE CHAPTERS.** Body words
 **1937, 1406, 1404, 2162, 1651, 1295, 1684, 1414, 1464 and 1312**, total **15,729**, mean **1,572.9**, shortest 1,295,
-longest 2,075, spread 777. Sentences 472, mean 32.9 words, median 32, longest 87, at forty-five words or over 103 which is
-21.8 per cent, and **4 at eighty words or over, all four of them speeches**. Paragraphs 263, of which 46 are scene rules and
+longest 2,162, spread 867. Sentences 475 or 476 by one token of the splitter, mean 33.0 or 32.9 words, median 32, longest
+87, at forty-five words or over 106 which is 22.3 per cent on either reading, and **4 at eighty words or over, all four of
+them speeches.** Paragraphs 263, of which 46 are scene rules and
 13 are speech. *his own* 172 in 15,729, one in 91.4. True contractions 0. Repeated sentences of thirty characters or more
 across all fifty files of days 951 to 1000: **0, and there were 23 on the first draft of these ten.** Openings beginning with
 a hand or hands on a surface: **0 of 10**. *By the light's going* in 0 of 10. The literal string *question*: **0 in 0 files**
 in the bodies and **0 in 0 files** in the headings. **The worst *nobody*-clause chain in any one sentence: 3, against a
-ceiling of 3, and the count of chapters carrying a run of three or more sentences opening *nobody* is 0 of 10. **The figure
+ceiling of 3, and it stands in three chapters — `chapter-0994.md`, `chapter-0996.md` and `chapter-0997.md` — while the count
+of chapters carrying a run of three or more sentences opening *nobody* is 0 of 10. **The figure
 this file published before the repair pass was 1 and was wrong; `reviews/volume-20/batch-0005-fix.md` §1.2 has the
-re-measurement and §2 has the four-point series.** The longest contiguous word run shared by any two of the ten: 37 tokens, on the one pair `chapter-0992.md`
-with `chapter-0999.md`; over all fifty files of days 951 to 1000 it is also 37 tokens with **eleven** pairs at thirty-five or
-over and all eleven named in `reviews/volume-20/batch-0005.md` §7. The highest similarity between any two of the ten closing
-paragraphs: 0.175.**
+re-measurement and §2 has the four-point series.** The longest contiguous word run shared by any two of the ten: 37 tokens,
+on **two pairs and both are published** — `chapter-0992.md` with `chapter-0999.md`, and `chapter-0991.md` with
+`chapter-0997.md`; over all fifty files of days 951 to 1000 it is also 37 tokens on **three** pairs, the third being
+`chapter-0978.md` with `chapter-0991.md`, and **eleven** pairs at thirty-five or over, all eleven named in
+`reviews/volume-20/batch-0005.md` §7. The highest similarity between any two of the ten closing paragraphs: **0.173 in the record
+and 0.171 on a re-measure with `difflib.SequenceMatcher(None, a, b).ratio()` over the whitespace-normalised closing paragraph
+of each body; the pair is `chapter-0997.md` with `chapter-1000.md` on both readings and no other pair is within 0.02 of either.
+The figure this file published before the repair pass was 0.175.**
 
 ## THE THREE THINGS THE FIX PASSES ON THE TWO BATCHES BEHIND FOUND, AND THAT STILL HOLD
 
@@ -81,7 +95,14 @@ paragraphs: 0.175.**
 3. **AN ATTRIBUTION DOES NOT RESTATE A PERSON'S WHOLE HANDLE EVERY TIME THAT PERSON SPEAKS.** The second handles are **the
    keeper, the tradesman, the stallholder, the carrier, and the man of about thirty-eight**, and She and He once established.
    **Measured full-descriptor restatements on days 991 to 1000: 0, and the rule was worked for real for the first time in the
-   volume on 994, where the keeper speaks three times and her second and third attributions are *she said*.**
+   volume on 994, where the keeper speaks three times and her second and third attributions are *she said*. THE INSTRUMENT,
+   WHICH THIS FILE DID NOT PUBLISH BEFORE AND NOW DOES: a full-descriptor restatement is a person who speaks more than once
+   in one chapter and carries the whole age-and-trade handle in the attribution of every one of those speeches. Nobody in
+   these ten is one, because nobody in these ten speaks twice in a chapter except the keeper of 994, and one of her three is
+   the short form. A full descriptor standing in NARRATION beside a person who is not speaking is not an attribution and is
+   not counted: 994 carries the keeper's whole handle in narration at its thirteenth, fifteenth and forty-seventh lines and
+   the second handle at its seventy-third, and the forty-seventh was put there by the repair pass to break a run of *nobody*
+   sentences, and it breaches nothing.**
 
 **AND TWO HOUSE FIGURES THAT ARE NOT DEFECTS AND THAT NO REVIEW SHOULD RE-RAISE AS NEW.** True contractions stand at zero
 in this batch and at zero on all four sets behind it, all five measured with the same instrument in the same run, so the
@@ -97,7 +118,9 @@ words an ordinary chapter and the ten days behind measure a mean of **1,572.9**,
 **183.4 above the batch behind it at 1,389.6**. It is inherited, not new: Volume 19's last twenty measure 1,160.2, batch 0001
 1,305.9, batch 0002 1,217.3, batch 0003 1,339.0, batch 0004 1,389.6, batch 0005 1,572.9. **The two batches at
 1,305.9 and 1,217.3 are the on-disk chain; their own summaries still print the means they stood at before their
-review-fix passes rewrote those days, and the debt is recorded at `state/open-threads.md`.** The movement was made by opening
+review-fix passes rewrote those days, and the debt is recorded at `state/open-threads.md`. A third instance of the same
+fault was found in this batch's own summary after its repair pass and has been corrected here, so the debt now names two
+summaries and not three.** The movement was made by opening
 out scenes that had room and by splitting about fifty sentences over forty-five words, and by adding no paragraph that was not
 carrying something and cutting no finished scene to reach a number. **A writer who closes this debt by padding has closed it
 wrong.**
@@ -128,6 +151,13 @@ wrote no next-phase prompt and created no directory, and Volume 20 ends at day 1
 `outline/volume-20.md` §13 lists what the volume leaves the world holding and §21.4 item 2 says in so many words that whether
 anything follows it is not decided by that plan.
 
+**AND THE MISSING CLOSE PHASE IS NOW A NAMED DEBT RATHER THAN A SILENCE, BECAUSE A REVIEWER HAS LOOKED FOR IT.** Every one of
+the nineteen volumes before this one has a `workspace/volume-NN/close/` directory with a `.done` marker in it and Volume 20 has
+none, so whether this volume ends the manuscript or whether a Volume 21 is planned is being settled by whatever the dispatch
+falls back to rather than by anybody who decided it. **A repair pass does not create that directory and this pass did not,
+because the question it would be answering is the owner's.** It is named here, at `reviews/volume-20/batch-0005-fix-2.md` §5 and
+at `reviews/volume-20/batch-0005.md` §9, so that the next reader does not find the absence and think it an oversight.
+
 ## WHAT THIS FILE DID NOT TOUCH
 
 **No planned plot moved. No day, no weekday, no Bare-Month ordinal, no pressure tag and no frame changed. No panel, no held
@@ -144,6 +174,7 @@ string, no name, no descriptor out of the pool and no one of the seven words of 
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| Review-fix 2 on batch 0005, on an outside reader's findings | One sentence of 994's closing: the shade's span now said once, at the seventh hour, and the duplicate all-day claim gone; the two measurement runs in one sentence here separated and the pre-repair longest, spread and sentence figures replaced by the post-repair ones; the shared-run claim here corrected from one pair to two on the ten and three over fifty; the closing-similarity figure re-measured and its instrument published; the instrument for a full-descriptor restatement published for the first time; the three chapters carrying a *nobody*-chain of three named; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Review-fix on batch 0005 | Nine prose findings and nine figures: the thumb taken off the tradesman at 994 and put back on the stallholder; three runs of three sentences opening *nobody* broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall at 993; the block of writing dated off a Wednesday; the row of grit lines no longer enumerated; two closings taken off one construction; the same four passers-by twice; the trestles clause twice; the doubled rag; the doubled sentence; the `nobody`-chain figure and every count in the record re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Batch 0005, days 991 to 1000 | The three new things: the second entry on the sheet, the cloth in the crack, the two lines in the grit; the four things that went out; the day and ordinal instrument; the figures | summarised above; full run record at `reviews/volume-20/batch-0005.md` |
 | Batches 0004 and 0005, days 981 to 1000 | The three new things of 0005 — the second entry on the sheet, the cloth in the crack, the two lines in the grit — and of 0004 the sheet on the bench, the block on the wall, the cloth on the second book; the day and ordinal instrument; the figures | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |

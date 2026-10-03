@@ -51,3 +51,21 @@ the chapter does not carry and an offstage hour with nothing in it. The next-pha
 Volume 18 outline prompt that skipped the close both preceding volumes received, is now the Volume 17 close prompt
 and the Volume 18 prompt is removed. Every figure re-measured before and after, the two that disagree with the
 writing phase's own record published beside it, and the controller debts named and not opened.
+
+**Volume 20** — `volume-20/batch-0005-fix.md` and `volume-20/batch-0005-fix-2.md`: the reviewer subagent was unavailable
+and both repair passes are the same agent kind that wrote the ten days, so neither review in them is independent, and the
+second pass says so again rather than letting the first pass's disclosure cover it. Batch 0005 wrote days 991 to 1000 and
+closed the volume. The first pass applied nine prose findings and nine figure findings, including a thumb that was on the
+wrong man on the volume's climax day, three runs of three sentences opening *nobody*, a pronoun at 997 that had handed the
+keeper's register to the woman of about sixty-nine, and a closing recast so that 0994 and 0999 no longer close on one
+construction. **The second pass ran on an outside reader's findings against the first pass's own work and found that the
+repair had published a fresh set of faults: one sentence of 0994's closing said the span of that shade twice and said it two
+ways, and the whole pre-repair figure set was left standing in the batch summary, in three of the five live state files and,
+in one case, in the rule that exists to forbid exactly that.** Applied: the sentence, the figures, a shared-run claim that
+named one pair where the instrument returns two on the ten and three over fifty, an enumeration of four joints that four
+chapters contradict, and two counts that did not return. **One sentence of prose changed, and the chapter's word count is
+2,162 on both sides of it, so no figure in the layer moved because of the repair.** The full-descriptor instrument and the
+three chapters carrying a *nobody*-chain at the ceiling are now published so the figures are reproducible, and the two places
+where two readings differ by one are published as two readings instead of being picked between. **Left standing and named:
+there is no volume-close phase for Volume 20 where all nineteen earlier volumes have one, and whether this manuscript ends
+here or a Volume 21 is planned is now a decision somebody has to take rather than a silence in a directory.**

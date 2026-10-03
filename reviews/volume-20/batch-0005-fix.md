@@ -263,7 +263,7 @@ letters, an apostrophe and one of *t re ll ve d m*, both case flags, bodies, hea
 the same reading returns **0, 0, 0 and 0** on days 951 to 960, 961 to 970, 971 to 980 and 981 to 990, all five measured in
 this run. **Zero true contractions is the register of this manuscript and nothing was changed to reach it.**
 
-*his own*, whole words, same reading and scope: **171 in 15,729 words, one in every 91.4**, against **146.7**, **141.5**,
+*his own*, whole words, same reading and scope: **172 in 15,729 words, one in every 91.4**, against **146.7**, **141.5**,
 **100.7** and **102.9** on the four sets behind it, all five measured in this run. **THE FIGURE THE RECORD PUBLISHED FOR
 THE FOUR SETS BEHIND WAS 146.7, 139.9, 97.7 and 99.3, and this run's instrument returns 146.7, 141.5, 100.7 and 102.9.**
 The first reproduces exactly and the other three come back between 1.4 and 3.2 words further apart than published. **The

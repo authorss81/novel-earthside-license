@@ -4,6 +4,11 @@
 compaction is `state/archive/character-state.md.volume-20-batch-0005-writing-full.md`, verified by SHA256 before a line was
 withdrawn: **c2ea75c7c82c80ac3f9508f83b5072ed03a36174693253dd70fe40527160450d**. Nothing was deleted.**
 
+**A SECOND REPAIR PASS ON THE SAME BATCH HAS SINCE EDITED THIS FILE AND HAS WITHDRAWN NOTHING.** The 0994 closing is now
+described the way the chapter says it, with the span of that shade said once; two figures that did not return have been
+corrected; and every block below the index line was already held whole in `state/archive/` when this pass began. Its own
+record is `reviews/volume-20/batch-0005-fix-2.md`.
+
 ---
 
 ## NOBODY'S STATE CHANGED IN THE SENSES THAT MATTER, ON THIS BATCH EITHER
@@ -56,9 +61,10 @@ hour to the going of the light. **What he wanted was to be asked something out l
 the door behind him. He got no: no mouth in that room put anything to him at any hour of that day, no mouth in that room said
 his name, nobody in that room was waiting for him to be of any use to them, and the chapter does not say that anybody decided
 not to ask him.** **He is the cause of one thing that happens to somebody else:** his own shoulder and his own arm took the
-light off the wood of that bench at its far end for the rest of that day, and the woman of about fifty-two put the flat of
-her own hand on that bare wood at about the tenth hour and the dust on it took the print of it, and the print was on that
-bench when the light went. **And he said one thing once, in the middle of that morning, addressed to nobody in particular, and
+light off the wood of that bench at its far end as soon as the light was on it, and the shade of his own shoulder lay on that
+wood from the seventh hour to the going of the light without once lifting off it; the woman of about fifty-two put the flat of
+her own hand on that bare wood at about the tenth hour and the dust on it took the print of it, and her hand's print was
+standing in that shade when the light went. **The chapter says that span once and says it once only.** **And he said one thing once, in the middle of that morning, addressed to nobody in particular, and
 about nine feet off from him the man of about thirty-nine who trades on a board came down the face of his own board with
 the cloth and did not look up and did not answer it, nobody in that room answered it, and the stallholder in the middle of
 that bench went along the foot of his own board with his own thumb twice and did not turn about at it.** **ADRIAN VALE, STAGE 2, AND ON 995, WHICH IS SECTION 4.1'S ONE PERMITTED TENTH DAY AND NOT ONE OF THE NINE, HE IS IN FRONT OF THAT REGISTER LEAF**, his own hands at his own sides at the far end of that bench from the fifth hour, with the column that holds figures open in front of him. **What the chapter does is a person alone with a thing in front of him, and the thing untouched at the end of it.** He goes down that column and then at the six days standing against the six strokes one after another, and he cannot tell from any of them whose hand had put the stroke down beside it, **and that is not because the days were hard to read. HE DOES NOT PUT A HAND ON THAT REGISTER AND DOES NOT TURN A LEAF OF IT, AND AT THE GOING OF THE LIGHT THAT LEAF IS EXACTLY AS HE FOUND IT.** **HE ANSWERS ONE ORDINARY THING THE KEEPER PUTS TO HIM ABOUT THE SHELF BEHIND THAT BENCH, AND NOBODY WAITED FOR HIM TO HAVE A USEFUL ANSWER, NOBODY SAID A WORD BACK TO HIM ABOUT IT, NOBODY THANKED HIM FOR IT, NOBODY TOLD HIM IT WAS NOT WANTED, NOTHING WHATEVER WAS DONE WITH IT, AND THE CHAPTER DOES NOT REPORT WHAT HE SAID.**
@@ -148,6 +154,7 @@ Measured on days 991 to 1000: thirteen speech paragraphs and 0 sites of the wron
 | Block | What it decided | Held whole in |
 |---|---|---|
 | Batch 0005, days 991 to 1000 | The staging of 994 and 995; the five people not in the room; the barred descriptor pool at 0 in eighteen strings out of twenty; the three manner rules; the handle table at day 1000 | summarised above; run record at `reviews/volume-20/batch-0005.md` |
+| Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batches 0004 and 0005, days 981 to 1000 | The staging of 981, 985, 990, 994 and 995; the people not in the room; the barred descriptor pool at 0 in eighteen strings out of twenty; the three manner rules; the handle table at day 1000 | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |
 | Review-fix on batch 0005 | The thumb taken off the tradesman and given back to the stallholder; the woman of about fifty-two taken off her own far wall; the rag put back on one lip; the plaster figure at 999; the pronoun at 997 resolved to the keeper; three *nobody* runs broken | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Batches 0001 to 0003, days 951 to 980, and their three repair passes | The staging of 957, 959, 965, 971 and 977; the second handles; the tense line; the descriptor pool; the manner rules | `state/archive/character-state.md.volume-20-batch-0005-writing-full.md` |

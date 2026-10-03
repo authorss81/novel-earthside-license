@@ -5,6 +5,11 @@ is `state/archive/continuity.md.volume-20-batch-0005-writing-full.md`, verified 
 **eb75f0d372e8aebbff41e63e9d7b2e5d583b0a1d2e5ec3c35c794d7f8a24594e**. Every older layer is held whole there and in the
 copies it names. Nothing was deleted.**
 
+**A SECOND REPAIR PASS ON THE SAME BATCH HAS SINCE EDITED THIS FILE AND HAS WITHDRAWN NOTHING.** The 0994 closing is now
+described the way the chapter says it, with the span of that shade said once; two figures that did not return have been
+corrected; and every block below the index line was already held whole in `state/archive/` when this pass began. Its own
+record is `reviews/volume-20/batch-0005-fix-2.md`.
+
 ---
 
 ## THE THREE STATES THAT CHANGED ON DAYS 991 TO 1000, AND WHAT EACH COSTS A LATER WRITER
@@ -26,8 +31,10 @@ any day of days 971 to 1000.**
 **3. THE WOOD AT THE FAR END OF THAT BENCH STANDS IN THE SHADE AND CARRIES THE PRINT OF A HAND.** On 994 Adrian Vale stood at
 the wall along the far side of that room from the fifth hour to the going of the light, and his own shoulder and arm stood
 between the one window and the wood at the far end of that bench, **where the light has fallen every morning since the water
-came and did not fall there for the rest of that day.** At about the tenth hour the woman of about fifty-two put the flat of
-her own hand on that bare wood and the dust took the print of it. **On 999 the bare paper under the six lines on that sheet
+came and did not fall there while he stood in front of it, the shade of his own shoulder lying on that wood from the seventh
+hour to the going of the light.** At about the tenth hour the woman of about fifty-two put the flat of
+her own hand on that bare wood and the dust took the print of it, and her hand's print was standing in that shade when the
+light went. **On 999 the bare paper under the six lines on that sheet
 took the shape of the same hand pressed into a film of dust about the depth of a grain of rice.** And **there are two lines in the grit at the store's
 end of that row where there was one, and lines going up from that end of it joint after joint toward the far end of
 that market, and more of them than anybody has ever counted** — **the row is no longer
@@ -115,7 +122,7 @@ mentioned on any of days 991 to 1000**.
 ## THE MANNER OF THESE DAYS THAT IS NOT OBJECTS, AND THE FIGURES THAT DID NOT ESTABLISH A DIRECTION
 
 **THE WORD *QUESTION* IS AT ZERO ACROSS THESE TEN BODIES AND AT ZERO IN ALL TEN HEADINGS, AND THAT IS A DECISION.** `asked` is
-at 29 across the ten bodies. The word is barred from a heading on every day of this volume, the answer is barred from nine of
+at 27 across the ten bodies. The word is barred from a heading on every day of this volume, the answer is barred from nine of
 the nine question-days, and on the ten days of this batch nothing needed it. **A writer who wants the ordinary word on a day this
 volume gives it to them; a writer who wants it because it is a nice word has run out.**
 
@@ -125,7 +132,8 @@ no finished scene was split to reach a number.**
 
 **AND THE FIGURES THAT HAVE NOW GOT FIVE POINTS EACH, NONE OF WHICH ESTABLISHES A DIRECTION.** Negation tokens one in 45.5
 words on 951 to 960, 41.3, 62.6, 57.9 and 63.4; bare *that* 3.32, 3.95, 3.15, 4.01 and 4.37 per cent; *his own* one in 146.7,
-141.5, 100.7, 102.9 and 91.5. **Two points high and two low in each, and no review should read any of the three as a trend.
+141.5, 100.7, 102.9 and 91.4. **Two points high and two low in each, and no review should read any of the three as a trend.
+This file printed 91.5 for the fifth point until the second repair pass and the count that returns it is 172 in 15,729.**
 Carried in full, with the instruments and their scopes, at `state/current.md`, `state/open-threads.md` and
 `reviews/volume-20/batch-0005-fix.md` §2.**
 
@@ -164,6 +172,7 @@ The **top step**, where the bar lies and the trough stands, is nine risers above
 | Block | What it decided | Held whole in |
 |---|---|---|
 | Review-fix on batch 0005 | Nine prose findings and nine figures: the thumb taken off the tradesman at 994 and put back on the stallholder; three runs of three sentences opening *nobody* broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall at 993; the block of writing dated off a Wednesday; the row of grit lines no longer enumerated; two closings taken off one construction; the same four passers-by twice; the trestles clause twice; the doubled rag; the doubled sentence; the `nobody`-chain figure and every count in the record re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
+| Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batch 0005, days 991 to 1000 | The three states that changed — the second entry on the sheet, the cloth in the crack, the hand's print in the dust and the second line in the grit — and the standing objects at day 1000, which is the list this file now carries forward | summarised above; run record at `reviews/volume-20/batch-0005.md` |
 | Batches 0004 and 0005, days 981 to 1000 | The states that changed on those twenty days — the second entry on the sheet, the cloth in the crack, the hand's print in the dust, the second line in the grit — and the standing objects at day 1000, which is the list this file now carries forward | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |
 | Batches 0001 to 0003, days 951 to 980, and their repair passes | The eleven-step stair and its three fixed places; the 957, 959 and 965 restaging; the tense line; §17.5; the changed states and the standing objects at days 960, 970 and 980 | same file, and `state/archive/continuity.md.volume-20-batch-0001-writing-full.md` |

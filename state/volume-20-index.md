@@ -30,6 +30,7 @@ AND VOLUME 20 IS COMPLETE.**
 | **0004** | **0981–0990** | **981–990** | **yes** | **`reviews/volume-20/batch-0004.md`** | **`state/batch-summaries/volume-20-batch-0004.md`** | **`workspace/volume-20/batch-0005/PROMPT.md`, written and ready** |
 | **0005** | **0991–1000** | **991–1000** | **yes, and the last ten days of the volume** | **`reviews/volume-20/batch-0005.md`** | **`state/batch-summaries/volume-20-batch-0005.md`** | **none, and that is deliberate — see the last section** |
 | **0005-fix** | **0991–1000** | **991–1000** | **a repair pass over the same ten days: nine prose findings and nine figure findings applied, four left standing and named** | **`reviews/volume-20/batch-0005-fix.md`** | — | **none, and that is deliberate** |
+| **0005-fix-2** | **0991–1000** | **991–1000** | **a second repair pass over the same ten days on an outside reader's findings: one sentence of 994's closing and every stale figure in the records and the live layer** | **`reviews/volume-20/batch-0005-fix-2.md`** | — | **none, and that is deliberate** |
 
 **Card files exist for batch 0001 only, at `outline/batches/volume-20-batch-0001.md`. Batches 0002, 0003, 0004 and 0005 had
 none and their prompts carried their own cards, and batch-0005's says so in its own first lines. Do not stop for the want of
@@ -109,6 +110,8 @@ standing against her own far wall on 993, which the continuity layer forbids.** 
 pressure tag, no frame and no object state moved, and the three held wordings of 994 were not touched and stand at one
 occurrence each in one file each.
 
+**AND A SECOND REPAIR PASS HAS SINCE RUN OVER THE SAME TEN DAYS, AGAINST AN OUTSIDE READER'S FINDINGS.** `reviews/volume-20/batch-0005-fix-2.md` is its record: **the closing of 994 said the span of that shade twice and said it two ways, and now says it once, at the seventh hour, with the chapter's own word count unchanged at 2,162; the shared-run claim named one pair at thirty-seven tokens where the instrument returns two on these ten and three over fifty, and every pair at the top length is now published; the grit row's figure of four at four joints is out of the live layer, because four chapters contradict it; the full-descriptor instrument and the three chapters carrying a *nobody*-chain of three are published; and the batch summary no longer prints the pre-repair figure set.** No day, no weekday, no Bare-Month ordinal, no pressure tag, no frame and no object state moved, and the six held strings stand at one occurrence each in their owner chapter and nowhere else across the volume's fifty files, the three wordings of 994 measured after the edit.
+
 ## THE NEXT PHASE, AND THERE IS NONE
 
 **Volume 20 ends at day 1000, its fifty chapter files are on disk, and the batch that wrote the last ten of them created no
@@ -117,3 +120,11 @@ the owner of `outline/series.md` and not for a batch prompt**: `outline/volume-2
 whether anything follows that volume is not decided by that plan, and `outline/ending.md` reserves what it reserves. **So the
 next reader of this index should take `outline/volume-20.md` §13 for what the volume leaves the world holding, and
 `state/volume-20-index.md` for where everything else is, and should not take this file for an answer it does not have.**
+
+**AND A READER HAS NOW LOOKED FOR THAT DIRECTORY AND NOT FOUND IT, WHICH IS A DEBT AND NOT A GAP IN A
+FILE.** All nineteen earlier volumes have a `workspace/volume-NN/close/` directory with a `.done` marker in it and Volume 20
+has none, and `AGENTS.md` asks for exactly one volume-close prompt where a volume is complete. **Whether Volume 20 ends this
+manuscript or whether a Volume 21 is planned is being settled by whatever the dispatch falls back to rather than by anybody
+who chose it, and no repair pass has written the prompt or created the directory, including this one, because that question
+belongs to the owner of `outline/series.md`.** It is named at `reviews/volume-20/batch-0005-fix-2.md` §5 and at §9 of
+`reviews/volume-20/batch-0005.md` so that it is a decision somebody has to take.

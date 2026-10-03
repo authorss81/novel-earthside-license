@@ -12,9 +12,13 @@ rule to this file and withdrew nothing, and the whole file as it stood before th
 
 1. **A RECORD FIGURE THAT NAMES A PAIR MUST BE THE FIGURE THAT NAMED PAIR RETURNS.** Publish the count and the pair
    together, and if a repair moves one it moves both. Publish the tokenizer as well, and publish every pair at the top length
-   rather than one of them. **A later repair pass caught batch 0004 breaking this twice and this batch did not break it:
-   `reviews/volume-20/batch-0005.md` §7 publishes the longest shared run at 37 tokens, the one pair at it, and all eleven
-   pairs at thirty-five or over over the fifty files of the volume, and each of the eleven is named with what it is.**
+   rather than one of them. **A later repair pass caught batch 0004 breaking this twice, and this batch broke it in one
+   sentence while obeying it in the table underneath:
+   `reviews/volume-20/batch-0005.md` §7 published the longest shared run at 37 tokens, named one pair at it, and its table
+   under the sentence carried two pairs at thirty-seven on its own ten and three over the fifty files of the volume, with all
+   eleven pairs at thirty-five or over named with what each one is. A later reader found the sentence and a second repair
+   pass corrected it; the correction is at `reviews/volume-20/batch-0005-fix-2.md` and every pair at the top length is
+   published on both scopes.**
 2. **A RECORD MAY NOT ASSERT AN ABSENCE THAT A CHAPTER OF ITS OWN BATCH CONTRADICTS.** The standing case is that stair. The
    supportable claim is *no chapter counts that stair from the top step down to the flags*, and this batch measured it
    rather than asserting it.
@@ -135,16 +139,22 @@ the instrument `reviews/volume-20/batch-0005.md` §7 names, batch 0001 is 13,059
 12,173 words and a mean of 1,217.3, and this batch's own file publishes 1,572.9 for days 991 to 1000.** **This run did not
 edit those two summaries, because a pass on batch 0005 does not own them. A pass that owns batches 0001 and 0002 should
 re-measure both summaries, correct 1,303.6 to 1,305.9 and 1,215.1 to 1,217.3, and settle the 1,215.1 against the 1,215.7 that
-`state/current.md` printed for a while. This is the same failure as rule 1 at the head of this file, one level further out: a
+`state/current.md` printed for a while. **A THIRD INSTANCE OF THIS FAULT WAS FOUND IN THE SUMMARY OF BATCH 0005 ITSELF,
+WHICH WAS PUBLISHING THE WHOLE PRE-REPAIR FIGURE SET AFTER THE REPAIR THAT PRODUCED THE POST-REPAIR SET, AND IT HAS BEEN
+CORRECTED TO THE FIGURES OF THE CHAPTERS AS THEY STAND; THE DEBT THEREFORE NAMES TWO SUMMARIES AND NOT THREE, AND WHAT IS
+LEFT OPEN IS THE TWO FILES THAT NO PASS SINCE HAS OWNED.** This is the same failure as rule 1 at the head of this file, one level further out: a
 figure that was true when it was published and is not true of the corpus it names.**
 
 **AND A FIFTH WRITING THREAD THAT THIS BATCH ADDED, BECAUSE IT IS THE FIRST BATCH TO MEASURE IT: the sentence weight of this
 volume's chapters is heavier than the four batches behind it and this batch corrected about fifty sentences to bring it
-back.** Days 991 to 1000 measure 472 sentences at a mean of 32.9 words, a median of 32, a longest of 87, and 21.8 per cent at
-forty-five words or over, against 30.9, 3.93-era means behind it and 16.9 per cent at forty-five or over for batch 0004. **The
-first draft of these ten days measured 37.5 mean and 33.3 per cent at forty-five or over, and all four sentences at eighty
-words or over are speeches and one of the four is a held wording that cannot be cut.** No thread is opened on this; it is
-recorded so that a later writer knows the number is 22.0 and what moved it.
+back.** Days 991 to 1000 measure **475 or 476 sentences at a mean of 33.0 or 32.9 words**, a median of 32, a longest of 87,
+and **106 at forty-five words or over, which is 22.3 per cent on either reading**, against 30.9 and 3.93-era means behind it
+and 16.9 per cent at forty-five or over for batch 0004. **The first draft of these ten days measured 37.5 mean and 33.3 per
+cent at forty-five or over, and all four sentences at eighty words or over are speeches and one of the four is a held wording
+that cannot be cut.** No thread is opened on this; it is recorded so that a later writer knows the number is **22.3 and not
+the 21.8 this file printed until the second repair pass corrected it, and not the 22.0 it printed in the same sentence as
+the 21.8**, and what moved it. **The sentence count and the mean differ by one between the two published splitters and every
+other figure on that line is identical on both; the instrument is at `reviews/volume-20/batch-0005-fix-2.md` §2.**
 
 ---
 
@@ -153,6 +163,7 @@ recorded so that a later writer knows the number is 22.0 and what moved it.
 | Block | What it decided | Held whole in |
 |---|---|---|
 | Review-fix on batch 0005 | Nine prose and nine figure findings; the thumb put back on the stallholder; three *nobody* runs broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall; the grit lines no longer enumerated; the `nobody`-chain figure and every count re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
+| Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batch 0005, days 991 to 1000 | The five rules; the three opened threads — the putting-to of 898, the three mornings of 994, the answer of 997 — the four moved states, and the writing threads | summarised above; run record at `reviews/volume-20/batch-0005.md` |
 | Batches 0004 and 0005, days 981 to 1000 | The five rules; the six opened threads — the putting-to of 898, the three mornings of 994, the answer of 997, the sheet and the answer on 981, the word on 985, the second decision on 982; the writing threads | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |
 | Review-fix on batch 0003 | The record threads: figure-and-pair together, no asserted absence a chapter contradicts, no held string in a record | same file |

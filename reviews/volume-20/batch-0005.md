@@ -433,9 +433,11 @@ the splitting pass and cut again in the same pass. Re-run in the same run as eve
 change: still 0 at thirty characters and 0 at thirty-eight.**
 
 **SHARED RUNS. On the token published in §7 the longest run shared by any two of these ten bodies is 37 tokens, and there
-is ONE pair at it, `chapter-0992.md` with `chapter-0999.md`, and it is the standing geometry of the middle column of the
-tradesman's own board and the depth it stands proud by. Measured over all fifty files of days 951 to 1000 the longest run is
-also 37 tokens, and the same pair is at it, and there are ELEVEN pairs at thirty-five or over and they are all in this table:**
+are **TWO** pairs at it and not one — `chapter-0992.md` with `chapter-0999.md`, which is the standing geometry of the middle
+column of the tradesman's own board and the depth it stands proud by, and `chapter-0991.md` with `chapter-0997.md`. Measured
+over all fifty files of days 951 to 1000 the longest run is also 37 tokens, on those same two pairs **and a third, `0978`
+with `0991`, which this table carried and the sentence above this one did not**, and there are ELEVEN pairs at thirty-five or
+over and they are all in this table:
 
 | Run | Pair | What it is |
 |---|---|---|
@@ -543,8 +545,10 @@ in nineteen of the twenty files, and the two batches behind this one spent it on
 was not spent here at all.**
 
 **AND THE FIGURE THE PROMPT ASKED TO BE GIVEN: THE WORD *QUESTION*.** The literal string stands at **0 in 0 files** across
-these ten bodies and at **0 in 0 files** across these ten headings. `asked` stands at **29 in the bodies** and 0 in the
-headings, and `asking` at 3 in the bodies and 0 in the headings. **That is a decision and not a gap:** the word is barred
+these ten bodies and at **0 in 0 files** across these ten headings. `asked` stands at **27 in the bodies** and 0 in the
+headings, and `asking` at 3 in the bodies and 0 in the headings. **The figure this line printed until the second repair
+pass was 29 and a whole-word count of `asked` on these ten bodies returns 27 on every reading tried, with the heading line
+in or out; `asked` together with `asking` returns 30.** That is a decision and not a gap:** the word is barred
 from a heading on every day of this volume, the answer is barred from nine of the nine question-days, the finding of the
 volume is barred from every mouth, and the two days of this batch that carry the act and the resolution say what they say
 in their own words. The figure to compare it against is `outline/volume-20.md` §19.2's **1,774 in 477** across nine hundred
@@ -559,7 +563,7 @@ days, and nothing was changed to reach it.**
 
 *his own* stands at **172 in 15,729 words, one in every 91.4**, against **one in every 146.7** on days 951 to 960, **one in
 every 139.9** on days 961 to 970, **one in every 97.7** on days 971 to 980 and **one in every 99.3** on days 981 to 990, all
-five measured in this run on bodies with the same instrument. **The five figures are 146.7, 139.9, 97.7, 99.3 and 91.6, and
+five measured in this run on bodies with the same instrument. **The five figures are 146.7, 139.9, 97.7, 99.3 and 91.4, and
 the first four of them are two points at about 140 and two points at about 98 while this batch is the fifth and the lowest
 of the five, and the interpretive claim that the phrase has been thickening was withdrawn by the batch behind this one and
 is not reopened here on a fifth point.**
@@ -637,7 +641,18 @@ and none was written, **so this record's own table at §1 is the batch's ten car
 
 `state/phase-ledger.json` still reads `phase-000-bootstrap` and is a controller file; this run did not open it. **No
 independent reader of these ten chapters exists, because `reviews/volume-16/` does not exist and the dispatch falls back to
-the default agent, so this record was written by the same agent kind that wrote the ten days.** `outline/volume-03.md` and
+the default agent, so this record was written by the same agent kind that wrote the ten days. A reader did come back over
+this batch afterwards — its findings are at `reviews/volume-20/batch-0005-fix.md` and `batch-0005-fix-2.md` — and the
+quality gate's line *a reviewer has checked the result* is still not satisfied by an agent of the same kind, which this
+record says rather than implying otherwise.**
+**AND THERE IS NO VOLUME-CLOSE PHASE FOR VOLUME 20, WHERE ALL NINETEEN VOLUMES BEFORE IT HAVE ONE.** Every earlier volume has
+a `workspace/volume-NN/close/` directory with a `.done` marker in it. **Whether Volume 20 ends this manuscript or whether a
+Volume 21 is planned is therefore being settled by whatever the dispatch falls back to rather than by anybody who decided
+it, and the deferral is argued from `outline/volume-20.md` §21.4 item 2, which says that whether anything follows is not that
+plan's to decide. No run since has written the prompt or created the directory, including the two repair passes, and this
+is recorded as an open item for the owner of `outline/series.md` rather than solved by a batch.**
+
+`outline/volume-03.md` and
 `outline/volume-05.md` do not exist and cover a hundred chapters that are on disk. `NOVEL_SPEC.md`'s Status section is stale
 and contradicts itself. `bible/power-system.md` has no §65, no §66 and no §67. `outline/series.md` carries a title on its
 Volume 19 entry that `outline/volume-19.md`'s own first line says is not put there. `outline/volume-19.md` §17.20's heading
