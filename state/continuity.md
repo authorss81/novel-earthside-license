@@ -487,3 +487,85 @@ which is three places in the plan against two and is already on two written page
 disputer who has not been in that room on any of the fifty days and a keeper who turns the book so he can read the
 line on one of them. And the figure at §7.2 for the day a piece of chalk was last out of a pocket, which this
 volume's calendar cannot support and which no chapter of days 941 to 950 may print.
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 941 TO 950 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**THE VOLUME'S LAST TEN DAYS, ITS RESOLUTION AND ITS LAST IMAGE. No object moved that the standing layer did not already
+move, no room changed, no standing fact above this line is disturbed, and nothing was resolved that the plan did not fix
+for this day.**
+
+**1. TWO BOOKS ON ONE BENCH, EACH WITH AN ACCOUNT OF THE SAME DAY IN IT.** **The second book holds the line of 918 and the
+line of 940 in the column that holds figures, and the register now holds a third entry: on 943 the man of about
+fifty-two who digs wrote his own account of one day into the register in his own hand with the same day standing against
+it, and the keeper's hand was at the foot of the same page while he wrote and neither hand was taken off.** **Nothing was
+read out of either book on any of these ten days, no name went into any column of either book on any of them, no seventh
+stroke was entered in any column, and no chapter of these ten days says which of the two accounts of that day is the one
+that happened.** Both entries were still standing at the light's going on 950 with the two books lying open side by side
+on the bench and neither of them shut, and **nobody in that room compared one leaf with the other.**
+
+**2. THE BARE PIECE OF BOARD UNDER THE DATE.** It was empty on nine of the ten days, **and on 950 it carries one mark and
+one only**: a single upright stroke about the length of a finger and the width of the chalk, thick at the top and thin at
+the bottom, pressed into the grain, **put there in the hand of the woman of about fifty-two, unasked about and unthanked.**
+Nothing else went under that date on any of the ten days and no chapter of the ten says what the mark is for, what the
+month is called, how long it is, or whether it is long or short. **The bar lay on the top step out of its two sockets on
+all ten mornings and was not put back and was not lifted out of the weather, and the two sockets on the far side of the
+door below stood empty on all ten of them.**
+
+**3. THE FIGURE OF 924 IS NOT ON ANY SURFACE ON ANY OF THESE TEN DAYS.** On 947 it was not standing in the space about two
+fingers wide at the foot of the middle column of the man of about thirty-nine's own board, and nobody in that row saw it
+go, and **no chapter of the ten says who took it, where it went, or what the space is for, and it is in no column of
+either book and on no board.** **And the one concrete fact 947 gives about that space is that the wood inside it is
+paler than the wood either side of it, because the cloth comes down that face every morning and stops at the middle
+column and has never once been into the foot of it, so that space has not been wet since the board went out.** The board
+itself was untouched at the light's going: his own trestle had not been moved out of its place and nothing but a wet
+cloth that could not reach it had touched it all day.
+
+**4. THE OTHER OBJECTS, AND WHAT MOVED ON THEM.** The shaving the cloth pulled off the face of that board on an earlier
+morning was lying on the stone at the foot of that trestle on 942 and was not on the stone on 947. The bucket at the
+leg of that table came loose at its rim and was set down into the low place in the stone at the side of that yard on 944,
+where it cut a ring of stone for itself about the width of a nail deep and stood lower in the hole at the light's going
+than it had stood at the fourth hour, and the water in the hole stood level with the water in the bucket whichever he
+lifted. **A hurdle of his own making was laid flat on the flags at the wharf on 946 under the near end of the stack and
+the foot of that stack came up off the wet about the thickness of a finger, and two hollows were pressed under the
+hurdle's feet and the water came back into both of them.** **The top of the man of about thirty-four's own board drew
+back off its trestle by the width of a card on 949** and the dark line along the foot of its bare back dried the whole
+length of it. The flap of the carrier's satchel curled where the damp got to it and dried and stood out from the leather
+about the width of a card. The damp that had come off the head of the keeper's leaf dried to a hard lip and stopped about
+the width of a thumb short of the foot of the margin, and nobody wrote that day out again in another hand. **The line of
+broken crust across the flats dried pale again in long stretches after the rain and is black and wet in every dip.**
+
+**5. AND THE THINGS THAT DID NOT MOVE, MEASURED.** The register stands at six strokes with no seventh entered and none
+taken out. The gate is shut on no day of the ten and is open on every one. **The satchel was not opened on any of the ten
+days, twice over on 945 — once with the row going past and once with nobody in that yard at all — and no chapter of the
+ten says why he opens nothing he carries.** The tally-board was not turned over on any of them and its two lines of grey
+grit were not counted as figures. The trough had no heat fetched and its ice was not broken. The length of new rope was
+not lifted and the man who put it there was asked nothing at any hour of any of the ten days. The fence was not measured
+and no post was moved and no withy was put on or taken off. **A piece of chalk did not come out of an inside breast
+pocket on 949 and no chapter of the ten says when it was last out and no figure for that day is printed on any of them.**
+The stool was named on three of the ten bodies and nobody sat on it on any of them and it did not move. **The wall block
+of 929 was not printed, not read aloud and not answered on any of the ten days.** The word under the day cut across the
+head of the second slate was not printed on any of them and no mouth asked about it. The mark of day 440, the woman of
+about fifty-four, and the word in the column on the right of the keeper's page were not traced, not asked about and not
+printed. **The board on the outside wall at the far end of that market was not written on and no second nail went into the
+wall above it.**
+
+**6. THE ROOM AND THE FIGURES, WHICH ARE THE TWO ROWS A LATER WRITER IS MOST LIKELY TO GET WRONG.** **The room was never
+counted and no mouth in it reached any figure by any road on any of the ten days, including on 943 and on 950.** Ten of
+the twelve speech paragraphs in the ten chapters carry a numeral word and **every one of those ten is an indefinite
+pronoun or a count of books and not of people**, which is a reading and is named as one in the record. **About four people
+a day stands on 0942 four times, always with the word *people* after it**, and was never reduced and never used as a
+count of anybody; the string *about four* stands at six occurrences across the ten bodies and **every one of the six has
+the word *people* inside the next thirty characters.**
+
+**7. THE SEVEN WORDS ARE AT ZERO ON ALL TEN OF THESE DAYS.** Word-bounded, both case flags, each measured separately,
+ten bodies and ten headings counted separately: **all seven stand at zero in ten bodies and zero in ten headings.** All
+seven word-days are behind these ten days, the last of them on 934, and this batch had no word-day to bring one back on.
+
+**8. THE THREE WORDINGS OF 940, THE PANEL AND THE DECISION'S WORDING ARE ALL UNPRINTED ON ALL TEN OF THESE DAYS**, and so
+are the seven words, measured in this run and published as counts only in `reviews/volume-19/batch-0005.md` §7. **And from
+the morning of 941 no mouth in that room treats Adrian Vale's name as an answer to anything, and that is rendered as
+ordinary behaviour and never as a sentence about what he has lost: on 941 he is asked one question about the shape of a
+page in the ordinary course of an hour, he answers it, about four people go on with what they have in their own hands, and
+nobody acts on the answer.**

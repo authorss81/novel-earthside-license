@@ -466,3 +466,82 @@ is a controller file. `reviews/volume-16/` does not exist, **so this repair was 
 wrote the ten chapters, and the independent reader the quality gate asks for is still missing.** `NOVEL_SPEC.md`'s
 Status section is stale. `bible/power-system.md` has no §65 and no §66. The three deferral markers in
 `workspace/volume-19/batch-0003/` are dispatch state and were left alone.
+
+---
+
+# THE BATCH THAT WROTE CHAPTERS 0941 TO 0950. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**THE VOLUME IS WRITTEN TO ITS FIFTIETH DAY AND NINE HUNDRED AND FIFTIETH DAY. Fifty chapters, days 901 to 950, Bare-Month
+ordinals 586 to 635, Thursday to Saturday, one chapter to one day, and this batch is the last ten of them and carried
+the resolution and the last image.** Every thread in the standing layer above stands as it stood at day 940 unless this
+block moves it, and this block moves two.
+
+**1. THE RESOLUTION IS ON A PAGE AND IT IS TWO ACCOUNTS OF ONE DAY AND NEITHER OF THEM IS SETTLED.** On 943 a man who is
+not one of that room's people — **the man of about fifty-two who digs, taken from the pages of Volumes 05, 07 and 08 and
+not from the descriptor pool, whose descriptor stood already at 31 occurrences in 17 files and 16 of them behind this
+volume** — came up nine steps and stopped at the bottom step and disputed a line in the second book about a day that is
+not his own, naming the cost before the thing and refusing to say what the line says. **The keeper did not tell him he
+was wrong.** She turned the book so the face of the leaf looked at the door, he read it standing at the bottom step, and
+then he came up and put his own account of that day into the register in his own hand with the same day against it, with
+her own hand at the far corner of the same page and neither hand taken off. **Two entries about one day stand in two
+books on one bench. No chapter says the room is right, no chapter says the disputer is wrong, no chapter says which of
+the two is the one that happened, nobody was thanked, and both entries were still standing at the light's going on 950.**
+
+**2. THE ONE MARK IS ON THE BARE PIECE OF BOARD UNDER THE DATE, IN THE WOMAN OF ABOUT FIFTY-TWO'S OWN HAND, AND NOBODY
+ASKED HER WHAT IT WAS.** On 950 she took a stick of chalk out of the box on the table, was outside at the foot of that
+stair for a while with her back to the room, and came back and put the chalk in the box and stood at the wall again. **By
+the light's going there was one mark on that board and one only: a single upright stroke about the length of a finger,
+with the chalk thick at the top and thin at the bottom, and nothing else on that board under that day.** **No chapter of
+days 941 to 950 says what the month is called, how long it is, whether it is long or short, or what the mark is for, and
+no chapter of days 901 to 949 prepared it.**
+
+**3. AND THE THING THE WHOLE VOLUME WAS WALKING TOWARDS, WHICH IS ORDINARY BEHAVIOUR AND NOT A SENTENCE.** On 941 the man
+of about thirty-nine who trades on a board asked, in the ordinary course of an hour, one thing about the hand that put a
+line in one of the two books and not what the line says, and Adrian Vale answered it, and about four people went on with
+what they had in their own hands while he was saying it, and nobody acted on the answer, nobody thanked him, nobody told
+him it had not been wanted, and the chapter does not report what he said. **From that morning to the end of the volume
+no mouth in that room treats his name as an answer to anything, and no sentence in any of these ten chapters contains the
+word the plan forbids — measured at zero across ten bodies and ten headings, together with `steady` and `steadier`, which
+are at zero for the same reason.**
+
+**4. TWO MORE SMALL THREADS, BOTH ABOUT INSTRUMENTS AND NEITHER A DECISION.** **The wood inside the space on the
+tradesman's board has never been wet**, because the cloth comes down that face every morning and stops at the middle
+column and has never once been into the foot of it; a place that has stood empty about nine years is the only part of
+that board no morning has touched. And **the figure that went into that space on 924 was not standing in it on 947 and
+nobody in that row saw it go**; it is on no surface on any of these ten days and is in no column of either book, and
+nothing on these ten pages says who took it or where it went or what the space is for.
+
+**5. THE THIRTEEN PLACES AND OBJECTS THAT DID NOT MOVE.** Six strokes in the register and no seventh. The bar on the top
+step out of its two sockets on all ten mornings, and the two sockets empty. The satchel shut, twice over on 945. The
+tally-board face up with its two lines of grit unbroken. The trough without a heat and its ice unbroken. The rope
+unlifted and its man unasked. The fence sixteen posts and eleven withies, unmeasured, no post moved, no withy on or off.
+The gate open on all ten. A piece of chalk that did not come out of a pocket on 949, with no figure printed anywhere for
+when it was last out. Nine boards still on edge under the eave at the wharf, and a hurdle now flat on the flags under
+the near end of that stack with two hollows under its feet. The shaving the cloth pulled off that board was on the
+stone on 942 and was not on the stone on 947. **The step below the door bare since the box of chalk was carried in off
+it. The panel of 929 not printed, not read aloud and not answered. The word under the day on the second slate not
+printed. The mark of day 440, the woman of about fifty-four and the word in the column on the right of the keeper's page
+not traced. The seven words of §6.4 at zero in ten bodies and zero in ten headings, each measured separately. The room
+uncounted on all ten days and no mouth in it reaching a figure by any road.**
+
+**AND THE THREE PLAN-LEVEL DEBTS, ALL THREE STILL OWED TO `outline/` AND NONE OF THEM REOPENED.** Neither of the two
+names the consent fracture concerns went into any column of either book on any of these ten days, which satisfies both
+of the plan's own colliding readings at once. §11's first clause and §11's own middle pull against each other on whether
+the disputer is in that room, and 0943 holds both facts by stage and explains neither. §7.2's figure for the day a piece
+of chalk was last out cannot be carried by this volume's calendar and no chapter printed it.
+
+**AND THE ONE DEBT THIS BATCH ADDS, which is about the writing and not about the fiction.** The ten chapters share a
+room-description paragraph, because §5 puts that room on every page of the volume, and the first draft carried three of
+those sentences across three files verbatim; that was measured at 42 tokens of shared run and three repeated sentences of
+38 characters or more and was cut, and the record publishes the figures after the cut beside the figures before.
+
+**AND THE OWED LIST UNCHANGED AND STILL OWNED ELSEWHERE.** `state/phase-ledger.json` reads `phase-000-bootstrap` and is a
+controller file. `reviews/volume-16/` does not exist, **so this batch's record was taken by the same agent kind that wrote
+its ten chapters, and the independent reader the quality gate asks for is still missing.** `outline/volume-03.md` does
+not exist. `outline/volume-05.md` does not exist and covers fifty chapters that are on disk. `NOVEL_SPEC.md`'s Status
+section is stale. `bible/power-system.md` has no §65 and no §66. The three deferral markers in
+`workspace/volume-19/batch-0003/` are dispatch state and were left alone.
+
+**THE NEXT PHASE IS `workspace/volume-19/close/`, AND IT IS A CLOSER AND NOT A BATCH: it writes no chapter and writes
+`state/volume-19-close.md`. It did not exist when this batch finished, this run did not create it, and this block names it
+and writes nothing else.**

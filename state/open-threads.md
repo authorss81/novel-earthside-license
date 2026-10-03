@@ -419,3 +419,71 @@ forbids printing it.
 rewritten. The plan behind them contains two internal contradictions and one figure that its own calendar cannot
 carry, and all three are named rather than decided, because deciding any of them is an outline decision and not a
 writer's.
+
+---
+
+# WHAT THE BATCH THAT WROTE DAYS 941 TO 950 DID TO THE THREADS. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**Closed nothing, answered nothing, mended nothing. Paid on pages: the resolution of 943, the one mark on the bare board
+on 950, and seven mornings of ordinary behaviour in which a man's name answers nothing.** The threads above stand.
+
+**1. THE NAMED MATERIAL OF `outline/ending.md` IS NOW ON EVERY PAGE IT CAN BE ON, AND NONE OF IT IS PAID IN THE FORM THE
+ENDING NAMES.** **The ending's right of refusal, and the first thing done in this manuscript under a rule a room agreed
+together, are 943: one line, two books, and a person who was not in that room disputing it and being allowed to
+put his own account in the other one.**
+**Its public reckoning and its surrendered seat of first holder are 940 and the seven mornings after it, and the seven
+mornings are rendered as ordinary behaviour and not as a sentence.** **Its seven separate places with a book in each are
+939's seven marks in dust.** **Its two records held apart are two books on one bench.** **THE FIRST TWO ITEMS OF THAT
+MATERIAL, THE PATCH AND THE MAN IT IS NAMED FOR, ARE STILL NOT IN THIS VOLUME AND MAY NOT BE, and `outline/ending.md` is not contradicted by any of these ten
+days.** This thread is closed as an open question at the end of Volume 19 and is not a debt.
+
+**2. THE TWO ACCOUNTS OF ONE DAY ARE A NEW STANDING THREAD AND IT IS NOT A QUESTION ANY MORE.** The second book holds two
+lines in the column that holds figures and the register holds a third entry about one of those days, written by a man who
+was not in that room on it. **Both entries stand, neither is read out, neither is adjudicated, no chapter says which of
+the two is the one that happened, and no seventh stroke goes into any column.** The thread stays open and **it may not be
+adjudicated, compared aloud, or settled by any phase that writes chapters.**
+
+**3. THE FIGURE OF 924 IS A DISAPPEARANCE THREAD AND IT IS NOW OPEN IN A NEW SHAPE.** It was put in a space about two
+fingers wide at the foot of the middle column of the man of about thirty-nine's own board on 924, it was spoken about
+once in the open on 942 by a man who said he did not know what a figure in a space is for and would not tell anybody, and
+**it was not standing in that space on 947 and nobody in that row saw it go.** It is on no surface on any of days 941 to
+950 and in no column of either book. **What is new and is not explained: the wood inside that space is paler than the
+wood either side of it, because the cloth that has been wiped over that face every morning of this flood stops at the
+middle column and has never once been into the foot of it.** The thread stays open and **it may not be traced, restored,
+replaced, explained or counted on any further day.**
+
+**4. THE THREAD OF DAY 898, THE TWELVE STANDING QUESTIONS, THE CONSENT FRACTURE, THE FIFTH CONDITION, THE MARK OF DAY
+440, THE WORD IN THE COLUMN ON THE RIGHT OF THE KEEPER'S PAGE, THE WORD UNDER THE DAY ON THE SECOND SLATE, THE FOUR
+UNMERGED PAIRS OF PEOPLE, THE STOOL, THE ROPE, THE FENCE, THE SATCHEL, THE TALLY-BOARD AND THE PANEL OF 929** — carried
+whole and all untouched. **No standing question was asked on any of these ten days and none was answered, the panel of
+929 was not answered on any of them, and the two entries of 943 are not an answer to it and may not be read as one.**
+
+**5. THE BARE BOARD IS NO LONGER A BARE BOARD.** It carries one mark, in the woman's own hand, and it is not a day of
+any month this manuscript has named. **Nothing else went under that date on any of the ten days and no further mark may
+go under it.** The thread at the standing layer that says this board means nothing whatever on all fifty days is now
+false on one day and only on one day, and that day is 950.
+
+**6. AND THE THREE FIGURES THAT STAND AND THAT NOBODY MAY ARGUE DOWN.** **The register has six strokes and no seventh.
+The bar has lain along that top step on every morning of this volume and nobody put it back and nobody lifted it. The
+second book stands on its shelf in the place it stood, with the slab off its leaf while it is in use, and the register
+lies open beside it, and both hold an account of one day.**
+
+**7. AND THE ONE SMALL NEW THREAD, WHICH IS ABOUT A BOARD AND NOT ABOUT A PERSON.** **The top of the man of about
+thirty-four's own board has drawn back off its trestle by the width of a card, and the dark line along the foot of its
+bare back has dried the whole length of it.** Nobody measured it, nobody moved the trestle, nobody said a word about it,
+and **no chapter of any later volume may measure that board or move that trestle.**
+
+**8. AND THE DEBTS THIS BATCH ADDS, ALL OF THEM THE PLAN'S.** (1) `outline/volume-05.md` does not exist and covers fifty
+chapters that are on disk. (2) **The collision is now three places in the plan against two and it was not reopened: this
+batch put no name in any column of either book on any of its ten days, which satisfies both readings at once.**
+(3) **§11's own first clause and its own middle pull against each other** and 0943 holds both facts by stage without
+explaining either — the disputer stands at the bottom step for the disputing and for the reading, comes up for the
+writing, and is back at the bottom step at the light's going. (4) **§7.2 carries a figure for the day a piece of chalk
+was last out of a pocket that this volume's calendar cannot support, and no chapter of days 941 to 950 printed it and no
+chapter may.**
+
+**9. AND THE NEWEST FACT OF ALL, WHICH A READER IN A YEAR MUST NOT LEARN BY SILENCE: THE DISPUTER OF 943 IS THE MAN OF
+ABOUT FIFTY-TWO WHO DIGS, AND HE IS NOT A NEW PERSON.** His descriptor stood already at thirty-one occurrences in
+seventeen files, sixteen of them in Volumes 05, 07 and 08, and his given name is printed on three pages of Volumes 07 and
+08 and on no page of this volume. **Volume 04 carries a woman of about fifty-two who digs, at seven occurrences in six
+files, and that is a pre-existing collision in this repository and not a fault of these ten days.**

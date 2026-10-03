@@ -563,3 +563,107 @@ man of about fifty-seven has still not been asked. The woman of about sixty-nine
 sixth. The woman of about fifty-four is still not traced and is still not in that room. **Adrian Vale's name is in the
 second book and from the morning of 941 no mouth in that room may treat it as an answer to anything, and that is
 rendered as ordinary behaviour and never as a sentence about what he has lost.**
+
+---
+
+## THE BATCH THAT WROTE DAYS 941 TO 950. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**THE VOLUME'S LAST TEN DAYS, AND TWO OF THEM END A THREAD AND ONE OF THEM OPENS IT.**
+
+**ADRIAN VALE. In two of the ten days, 941 and 943, and in eight he is not in the room, and §4.1 forbids the eight.** On
+941 he is asked one question in the ordinary course of that hour about the hand that put a line in one of the two books
+and not what the line says, and he answers it, and about four people in that room go on with what they have in their own
+hands while he is saying it, and nobody acts on the answer and nobody thanks him and nobody tells him it was not wanted,
+and **the chapter does not report what he said.** On 943 he has the near end of the bench, and at the point where the
+dispute is being written into the register he takes his own hand off the wood and goes down to the step below the door at
+the foot of the stair and comes back up again and puts his own hand in the same place, **and nothing is said about that
+either.** He does not speak for the disputer, does not translate him, does not answer for him and does not say which
+account is the true one, and **the room never treats his name as an answer to anything from that morning to the end of
+the volume.** **He obtained nothing on either day, nobody thanked him, and nobody told him he was right.** He is not in
+0942, 0944, 0945, 0946, 0947, 0948, 0949 or 950, and **no chapter of those eight names him at all**, measured at two
+occurrences in 0941 and two in 0943 and zero in the other eight.
+
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER.** **On 943 she is the one who turns the second book round on
+the bench so that the face of the leaf looks at the open door, so that a man standing at the bottom step of that stair
+can read it; she does not tell him he is wrong and she does not tell him he is right; and when he comes up she draws
+the register round until the page lies square under his own hand and keeps her own hand at the far corner of it while
+he writes his own account of that day into it.** **She entered no stroke after the sixth and read out no line of either
+book on any of the ten days.** On 950 her own hand went down the column of figures from the head of it to the foot of it
+and came back up and stopped nowhere.
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD.** **He is the man who asks the question on 941 that Adrian answers
+and nobody acts on, and he is the man who says the second of the two things on 948 that were said first in his own
+stallholder's words on 938, in different words, and nobody compares the two.** He wiped the face of his own board on 941,
+942, 947, 948 and 949, and **the cloth came down the face every one of those mornings and stopped at the middle column
+and did not go into the space.** On 947 he stood alone with his own board for the better part of a quarter of an hour and
+found that **the figure of 924 was not standing in that space, and that the wood inside it is paler than the wood either
+side of it because no cloth has ever reached it.** He did not put his hand on it, did not ask, and told nobody. **The
+figure is not standing in that space and is on no surface on any of these ten days and is in no column of either book.**
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG.** **He is the one who says out loud in the open on 942
+that there is a figure at the foot of the middle column of that board and that he does not know what it is for and will
+not tell anybody.** He is the mouth of the first of the two things said on two mornings, reprinted on 948 exactly as it
+went into chapter 0938. **On 949 his own hand went flat against the front of his coat over the inside breast pocket
+twice, and the pocket did not come open and nothing came out of it and no reason was given, and his one speech says what
+is in the pocket and that it will be in the pocket this evening and gives no reason for any of it.** **No figure for when
+it was last out is printed on any of these ten days and no chapter says when it was last out.** The rate at the foot of
+his own board still stands without a day against it and **no day was entered against it on any of the ten days**, and the
+dark line along the foot of his bare back dried the whole length of it and the top of the board came away from the
+trestle by the width of a card. **His board was not joined to any other board and he was not asked about the other man
+of about thirty-four, and the two were not in one room.**
+
+**THE MAN OF ABOUT FIFTY-TWO WHO DIGS. NEW TO THIS VOLUME AND NOT A NEW PERSON.** He came up the nine steps of that
+stair on 943 with a rod in his own hand and stopped at the bottom step. **He disputed a line in the second book about a
+day that is not his own, named the cost of it out loud before the thing itself, refused to say what the line says, and
+did not ask anybody to tell him he was wrong.** The keeper turned the book so he could read it and he read it standing at
+the bottom step, and then he came up and wrote his own account of that day into the register in his own hand with the
+same day against it, **with her hand at the foot of the same page and neither hand taken off.** He went back down to the
+bottom step at the light's going and **nobody in that room asked him what the rod was for and the rod is standing in the
+corner of that room with its end gone into the flags about the depth of a nail.** **Nobody thanked him, nobody told him
+he was right, nobody told him he was wrong, and no chapter says which of the two accounts is the one that happened.** He
+is in 0943 and in no other of the ten and is not in 0944, 0945, 0946, 0947, 0948, 0949 or 950, and **the corner of that
+room is bare on 950 and nobody in that room asked where the rod had gone.** His descriptor stood already at thirty-one
+occurrences in seventeen files, sixteen of them in Volumes 05, 07 and 08; his given name is on three pages of Volumes 07
+and 08 and on no page of this volume.
+
+**THE WOMAN OF ABOUT FIFTY-TWO. She is the only person in this volume who is thanked on none of its fifty days, and on
+950 she puts the one mark on the one board that had nothing on it, and nobody asks her what it is and nobody thanks
+her.** She said one thing once on 950 about the stool she carried out of a room and about the door at the foot of the
+stair standing open on its latch wider than the day before, **and she said nothing whatever about the mark and nobody in
+that room asked her about it.** She kept her own wall on all ten days and the stool never moved and nobody sat on it.
+
+**THE MAN OF ABOUT TWENTY-SEVEN. A piece of work of his own that did not come out on 944** — the bucket set into the
+low place in the stone at the side of the yard, which stopped at about the depth of two fingers and cut a ring of stone
+for itself, and the water in the hole standing level with the water in the bucket whichever he lifted. **He said so out
+loud once and went on with it and the step was his to keep.** The trough had no heat fetched on any of the ten days and
+its ice was not broken and no chapter of the ten puts him at it.
+
+**THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING. He carried a board down the row to the far end of that
+market and back up the stair twice on 945 and did not open the satchel at any hour of that day, twice over — once with
+the row going past and once with nobody in that yard at all — and no chapter of the ten says why he opens nothing he
+carries and no mouth in that room was told.** The one concrete fact the page teaches comes from something else on it:
+**the tradesman put a board into his hands without saying what it was for or what the carrying would come to, and he did
+not ask.** His own one speech says the arrangement has not changed in a long time and that if the satchel ever wants
+opening it will get opened where nobody is standing about.
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THAT SALT WHARF. He lifted his own end of the near end of the stack on 946 while the
+hurdle went under it and then went back to his own knife and his own boards.** The tally-board lay face up on the top of
+that stack with its two lines of grey grit across it, **it was not turned over on any of the ten days, and its two
+lines were not counted as figures on any of them.**
+
+**THE MAN OF ABOUT SIXTY. He walked eleven miles of flats out to the wharf in the rain with a handcart and a hurdle and
+the hazel mallet bound in cord, and the work came out**: the foot of that stack came up off the wet flags about the
+thickness of a finger onto the hurdle, **and two hollows were pressed into that yard under the hurdle's feet and the water
+came back into both of them.** He said so out loud once, nobody in that yard said anything to him about the two hollows,
+and **he did not measure the fence out past the last named house and did not move a post on it and did not go back that
+way at all.**
+
+**THE WOMAN OF ABOUT SIXTY-NINE WITH HER TIN, THE MAN OF ABOUT FIFTY-SEVEN AND THE WOMAN OF ABOUT FIFTY-FOUR** are on
+none of these ten days and were asked nothing on any of them, and the length of new rope was not lifted and its man was
+not asked what it was for. **The man who came up that stair on 866 is in none of these ten chapters and his name went
+nowhere near any of these pages.** **Tamsin Quill is in none of these ten chapters.**
+
+**AND THE ONE FIGURE THIS BATCH COULD NOT CERTIFY AND DID NOT ASSERT: the name held at `outline/volume-18.md` §6.8 was
+not instrumented, because no honest instrument for it can be built without printing it. A capitalised-token scan of the
+ten bodies and the ten headings returns no proper name in any of the twenty files other than the words of the ten titles,
+and a separate literal scan for the two words of that name, and for the given name of the disputer, returns zero.**
