@@ -1,11 +1,12 @@
 # state/volume-20-index.md — THE VOLUME-LEVEL INDEX
 
-**Created on the review-fix pass of batch 0002 of Volume 20, brought up to date on the review-fix pass of batch 0003, and
-brought up to date again on the writing run of batch 0004. `PHASE_SYSTEM.md` asks for exactly this: "If the continuity files
-grow too large, create a volume-level index and retrieve only relevant sections." The five live state files were 4,274 lines
-between them before the batch-0002 pass, 687 after the batch-0003 compaction, 813 after that pass added its prohibitions,
-and **808 now, after the batch-0004 compaction; this index is how a writer finds the rest without loading all of it.**
-**The previous version of this file ended in the middle of a sentence, at a line the batch-0003 writing run left
+**Created on the review-fix pass of batch 0002 of Volume 20, brought up to date on the review-fix pass of batch 0003, brought
+up to date again on the writing run of batch 0004, and **brought up to date for the last time on the writing run of batch
+0005, which finished the volume**. `PHASE_SYSTEM.md` asks for exactly this: "If the continuity files grow too large, create a
+volume-level index and retrieve only relevant sections." The five live state files were 4,274 lines between them before the
+batch-0002 pass, 687 after the batch-0003 compaction, 813 after that pass added its prohibitions, 808 after the batch-0004
+compaction and **781 now, after the batch-0005 compaction; this index is how a reader finds the rest without loading all of
+it.** **The previous version of this file ended in the middle of a sentence, at a line the batch-0003 writing run left
 unfinished, and that is repaired here.**
 
 **HOW TO USE THIS FILE.** Read this index first. It tells you which live section answers your question and which archive
@@ -15,9 +16,11 @@ file to open when the live layer does not carry enough. **Open a chapter when a 
 
 **Volume 20 is chapters 0951 to 1000, days 951 to 1000, and it is a flood.** A room over a market, a stair of eleven steps,
 a bench, two books that hold two accounts of one day and have never been compared, six strokes in a column that holds
-figures and no seventh. Nine questions are asked across the fifty days and none of them is written down. Adrian Vale is in
-nine of the fifty days and obtains something on **one** of them, and that one is 985 and is not the one he was after. **Day 951 is a Sunday; the Bare-Month ordinal is the day
-less 315; no middle day may be derived from either end of the range.** **Forty chapters are written, days 951 to 990, and ten remain.**
+figures and no seventh. Nine questions are asked across the fifty days and eight of them are not written down. Adrian Vale is
+in nine of the fifty days and obtains something on **one** of them, and that one is 985 and is not the one he was after, and
+995 is the one permitted tenth day and he obtains nothing on it either. **Day 951 is a Sunday; the Bare-Month ordinal is the
+day less 315; no middle day may be derived from either end of the range.** **FIFTY CHAPTERS ARE WRITTEN, DAYS 951 TO 1000,
+AND VOLUME 20 IS COMPLETE.**
 
 | Batch | Chapters | Days | Written | Record | Batch summary | Next-phase prompt |
 |---|---|---|---|---|---|---|
@@ -25,16 +28,16 @@ less 315; no middle day may be derived from either end of the range.** **Forty c
 | 0002 | 0961–0970 | 961–970 | yes, and repaired on this pass | `reviews/volume-20/batch-0002.md`, and `reviews/volume-20/batch-0002-fix.md` | `state/batch-summaries/volume-20-batch-0002.md` | `workspace/volume-20/batch-0003/PROMPT.md`, written and since run |
 | 0003 | 0971–0980 | 971–980 | **yes, and repaired on that pass** | `reviews/volume-20/batch-0003.md`, and `reviews/volume-20/batch-0003-fix.md` | `state/batch-summaries/volume-20-batch-0003.md` | **`workspace/volume-20/batch-0004/PROMPT.md`, written and ready** |
 | **0004** | **0981–0990** | **981–990** | **yes** | **`reviews/volume-20/batch-0004.md`** | **`state/batch-summaries/volume-20-batch-0004.md`** | **`workspace/volume-20/batch-0005/PROMPT.md`, written and ready** |
-| 0005 | 0991–1000 | 991–1000 | **no** | — | — | **the last ten days of Volume 20** |
+| **0005** | **0991–1000** | **991–1000** | **yes, and the last ten days of the volume** | **`reviews/volume-20/batch-0005.md`** | **`state/batch-summaries/volume-20-batch-0005.md`** | **none, and that is deliberate — see the last section** |
 
 **Card files exist for batch 0001 only, at `outline/batches/volume-20-batch-0001.md`. Batches 0002, 0003, 0004 and 0005 had
 none and their prompts carried their own cards, and batch-0005's says so in its own first lines. Do not stop for the want of
-a card file. Forty chapters are written and ten remain.**
+a card file. Fifty chapters are written and none remain.**
 
-**AND THE FRAME POOL IS NOW EMPTY, MEASURED.** All eighteen frames at `outline/volume-20.md` §17.20 have been drawn somewhere in
-this volume across its four written batches, **so every one of batch 0005's ten cards is a repeat and §17.20 requires all ten
-of them to be named in its card file rather than hidden, and `workspace/volume-20/batch-0005/PROMPT.md` names them all with the
-day each was last drawn.**
+**AND THE FRAME POOL IS EMPTY AND THIS IS THE PROOF, MEASURED.** All eighteen frames at `outline/volume-20.md` §17.20 were
+drawn somewhere in this volume across its first four written batches, **so every one of batch 0005's ten cards was a repeat
+and §17.20 required all ten to be named rather than hidden; `reviews/volume-20/batch-0005.md` §5 names all ten with every
+earlier day that frame was drawn on, and **after days 991 to 1000 there is nothing undrawn in the volume.**
 
 ## WHAT IS IN EACH LIVE STATE FILE, AND WHERE THE REST IS
 
@@ -53,10 +56,11 @@ day each was last drawn.**
 | Who these people are, and their second handles | `state/character-state.md` | the handle table |
 | Where each person stands on the days that mattered | `state/character-state.md` | the four people who are in days 971 to 980 and not in the room, and the keeper and the tradesman above them |
 | The prose rules this volume's first batch broke | `state/character-state.md` | "The two manner rules this volume's first batch broke" |
-| What each of the forty written days was | `state/chapter-summaries.md` | the per-day table |
-| What the ten unwritten days are for | `state/chapter-summaries.md` | "Volume 20 — chapters 0991 to 1000" |
-| What the last run measured | `state/current.md` | "The batch that wrote chapters 0981 to 990", and the three debts beneath it |
+| **What each of the fifty written days was** | `state/chapter-summaries.md` | the per-day table, which ends at chapter 1000 |
+| **What Volume 20 leaves the world holding, in the plan's own terms** | `state/chapter-summaries.md` | "Volume 20 at day 1000, and what it leaves the world holding" |
+| **What the last run measured** | `state/current.md` | "The batch that wrote chapters 0991 to 1000", and the three debts beneath it |
 | **The one place two clauses of the plan had to be read together, and the reading** | `state/current.md` | "The one place two clauses of the plan had to be read together" — §6.5 against §6.4 against frame sixteen, and what it means for the sheet |
+| **The three threads the last ten days opened and the three that cannot be closed by finding out** | `state/open-threads.md` | "The three threads days 991 to 1000 opened" |
 
 ## THE ARCHIVE, AND WHEN TO OPEN IT
 
@@ -75,6 +79,7 @@ layer is still readable in full. **Open an archive copy when the live layer does
 | Everything this repository decided before day 971, and the batch-0003 block as the writing run left it | any of the five `*.volume-20-batch-0003-writing-full.md` copies |
 | The five live state files exactly as the batch-0003 review-fix pass found them | any of the five `*.volume-20-batch-0003-review-fix-full.md` copies |
 | **The five live state files exactly as they stood before the batch-0004 compaction** | any of the five `*.volume-20-batch-0004-writing-full.md` copies |
+| **The five live state files exactly as they stood before the batch-0005 compaction, which is the last full layer before Volume 20 closes** | any of the five `*.volume-20-batch-0005-writing-full.md` copies |
 
 ## THE PLAN IS THE PLAN OF RECORD AND THE STATE LAYER IS NOT
 
@@ -91,16 +96,15 @@ plan gives it.** Their wording is in `outline/volume-20.md` and nowhere else, wh
 1. The decision's wording and its cost — §6.6, day 975. **Written once, in `chapters/volume-20/chapter-0975.md`, and once in the plan. A review-fix on batch 0002 found it standing in `reviews/volume-20/batch-0002-fix.md` and removed it: §20 item 6 bars a held string out of a batch record, and a record quoting a string to prove it absent is quoting it.**
 2. The panel's wording — §6.7, day 983. **Written once, in `chapters/volume-20/chapter-0983.md`, in a block of its own, and once in the plan. `outline/volume-20.md` §21.3 gives it as 257 characters and this repository's extraction returns 257.**
 3. The word under the day cut across the head of the second slate — §6.8, day 985. **Written once, in `chapters/volume-20/chapter-0985.md`, in that man's mouth and nowhere else in the volume. `outline/volume-20.md` §21.3 gives it as six characters and it is eight; its instrument is a whole word, and a whole-word instrument does not care how many characters it is.**
-4. The three wordings of day 994 — §6.9. Not written.
+4. The three wordings of day 994 — §6.9. **Written once each, in `chapters/volume-20/chapter-0994.md`, in the three mouths §6.9 gives them to, and once in the plan. This is the one held string a batch of this volume owns the page of, and `reviews/volume-20/batch-0005.md` §3.1 is the measurement.**
 5. The refusal of 965 — §6.10. **Written once, in `chapters/volume-20/chapter-0965.md`, and once in the plan.**
 6. The name of the man who came up that stair on 866 — held at `outline/volume-18.md` §6.8. Not written.
 
-## THE NEXT PHASE, AND IT IS THE ONLY ONE
+## THE NEXT PHASE, AND THERE IS NONE
 
-**`workspace/volume-20/batch-0005/PROMPT.md`. Chapters 0991 to 1000, days 991 to 1000, Friday to Sunday. It is written, it
-carries its own ten cards with all ten frame repeats named, and it is the only next phase that exists.** Volume 20 runs to day
-1000 and **these are the last ten days of it**: the question of day 898 asked a second time and not remembered on 991, the act
-on 994, the morning after on 995, the fence on 996, the resolution on 997 and the last image on 1000. **It decides none of them
-and it says so in its own closing section.** **Volume 20 ends at 1000, and no phase after this one may be created by a batch:
-`AGENTS.md` requires exactly one, and what may follow this batch is the record and the summary and the rolling of the live
-state layer and nothing else.**
+**Volume 20 ends at day 1000, its fifty chapter files are on disk, and the batch that wrote the last ten of them created no
+directory for anything after them.** What comes next is a volume close, **and what a volume close is for is a question for
+the owner of `outline/series.md` and not for a batch prompt**: `outline/volume-20.md` §21.4 item 2 says in its own words that
+whether anything follows that volume is not decided by that plan, and `outline/ending.md` reserves what it reserves. **So the
+next reader of this index should take `outline/volume-20.md` §13 for what the volume leaves the world holding, and
+`state/volume-20-index.md` for where everything else is, and should not take this file for an answer it does not have.**
