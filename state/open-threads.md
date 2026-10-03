@@ -158,10 +158,100 @@ other figure on that line is identical on both; the instrument is at `reviews/vo
 
 ---
 
+# PLANNING BLOCK, VOLUME 21 — THE THREADS THIS VOLUME OPENS, THE ONES IT MAY NOT CLOSE, AND THE ONE IT MAKES WORSE
+
+**THIS BLOCK IS NEWEST AND IT GOVERNS. IT WITHDREW NOTHING**; every block below it was already held whole in
+`state/archive/` when this block was written. **No chapter of Volume 21 exists, so this block records what the plan opens
+and what it is forbidden to close, and not what a page did.**
+
+**THE THREE THREADS VOLUME 21 OPENS, AND ALL THREE ARE THE KIND THAT CANNOT BE CLOSED BY FINDING OUT, WHICH IS THE SAME
+KIND THE VOLUME BEHIND OPENED AND IT IS NOT A COINCIDENCE — IT IS WHAT THE INSTRUMENT DOES.**
+
+1. **THE NINE THINGS THAT CAME BACK, AND NOBODY KNOWS WHICH OF THEM IS THE ONE THAT WAS SAID.** Nine days, nine
+   sentences, none of them printed, none of them comparable, and **§16 item 4 forbids any chapter of this volume from
+   printing what the man of about fifty-seven said on 997 in order that a reader could compare.** The volume will end
+   with nine sentences going about four hundred miles in words this room did not choose, and the room will never be able
+   to establish that they are its own. **OPEN, AND CANNOT BE CLOSED, because there is no instrument in four hundred miles
+   that separates a carrying from a making and this volume has spent the only two there are.**
+2. **THE MAN OF ABOUT FIFTY-SEVEN'S OWN WORDS, HEARD BACK IN WORDS HE DOES NOT USE, ON DAY 1044, WITH NOBODY ASKING HIM
+   ANYTHING.** He is not asked whether it is his, not asked to say it again, not asked to explain it, not asked to say it
+   was not his. He says nothing about it and the chapter renders his silence as neither refusal nor agreement. **OPEN,
+   AND IT IS NOT RESOLVED BY 1047 EITHER, BECAUSE 1047 IS NOT A CORRECTION ANYBODY NOTICES AND §16 ITEM 12 FORBIDS A
+   CHAPTER FROM SAYING THAT IT WAS.**
+3. **THE DECISION OF 1025, WHICH IS IRREVERSIBLE AND WHICH THE PLAN DOES NOT PAY.** From that morning no mouth in that
+   room asks where a thing came from. **The cost is that nothing anybody ever tells that room can be checked against
+   anything, ever, by anybody, including the woman who decided it, and §16 item 3 is the standing consequence: nothing
+   that was said in that room goes on a page on any of the fifty days.** OPEN, **AND CANNOT BE CLOSED, because the only
+   way to close it is to start asking again, and nothing in this volume is going to undo it.**
+
+**AND THE SECOND DECISION OF 1032, WHICH IS A THREAD AND NOT A CLOSURE: the keeper will say out loud, once, that a thing
+came back, and will say nothing else about it, and nobody will answer her.** She does it on nine mornings of the fifty
+and nobody answers her on five of them and on two of the nine she is not in the room and does not do it. **A chapter may
+not render this as a practice with a shape, and §18's answer to the ceremony objection stands on those two mornings and
+on nothing else.**
+
+**THE THREE DAYS A THING ARRIVES FROM A MOUTH THAT ROOM HAS NEVER HAD IN IT, at 1019, 1036 and 1043, ARE A FOURTH THREAD
+AND THEY ARE THE SAME KIND AGAIN.** No chapter may name the mouth, count it, or say whether it is the same one as any
+other. **And no chapter may settle them, and §16 item 3 means they cannot be settled by a page either.**
+
+## THE THREADS VOLUME 21 MAY NOT SETTLE, AND IT SETTLES NONE OF THEM
+
+**Carried from the volume behind and unpaid into this one: the consent fracture is not mended and the fifth condition is
+not given; the standing questions of days 346, 396, 445, 498, 548, 598, 648, 698, 748, 798 and 848 stand unanswered and
+are not asked, answered, gathered, counted, listed or referred to on any of the fifty days; the question of day 898 is
+paid and is not paid again; the sixth question of day 997 is not repeated and not referred to; the thread of day 969 — the
+woman of about fifty-two carrying the answer to a question of day 598 without knowing it until that morning — is not
+referred to, not paid and not settled; the mark of day 440 and the hand that moved it are untouched; the two shapes in
+the dust of that sill are undated; the bar is out of its sockets and goes back on no day; the trough gets no heat and its
+ice is not broken; the fence is unmeasured, no post moves and its totals are printed on no day of the fifty; the rope on
+the chair is not lifted; the gate at the far end of that shut road is not mentioned; the satchel and the tin stay shut; the
+tally-board is not mentioned and its two lines of grey grit are not counted; and the second book is not picked up, turned
+over, closed or written on.**
+
+**AND ONE INHERITED PROHIBITION IS NOT LIFTED TWICE: the woman of about fifty-four is at zero on all fifty days,
+nobody goes to look for her, nobody sends for her, and no chapter says what came of saying her descriptor on 994.** The
+volume behind this one lifted that bar for one page. A bar that is lifted twice in two volumes is a habit, and this plan
+does not have the habit.
+
+**AND THE NEW THREAD THE PLAN OPENS AND DOES NOT PAY: whether anything follows Volume 21.** The series was commissioned
+for eighteen volumes and nine hundred chapters; this is the twenty-first volume and the thousand and first chapter, and
+neither `outline/series.md` nor `outline/volume-21.md` decides the question, and the missing
+`workspace/volume-20/close/` means Volume 20 has no close record on disk either. **All three of those are named for the
+owner of this repository and not for a batch.**
+
+## THE WRITING THREADS, CARRIED AND NOT CLOSED BY A PLANNING PHASE
+
+**1. THE LENGTH SHORTFALL IS OPEN AND UNCHANGED BY THIS PHASE.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words;
+the five Volume 20 batches measure means of 1,305.9, 1,217.3, 1,339.0, 1,389.6 and 1,572.9, so the last volume closed
+**627.0 a chapter under the floor against 810.4 for the batch behind it, and it moved the right way.** The thread crosses
+into Volume 21 with the whole standing figure attached, and it is closed by opening out scenes that have room and by
+splitting the long sentences. **A writer who closes it by padding has closed it wrong.**
+
+**2. THE PROSE GOING HOLLOW HAS FIVE POINTS AND STILL NO DIRECTION**, and Volume 21 adds none, because a planning phase
+writes no prose. Negation tokens and bare *that* are carried at the five published points and the instruments are at
+`reviews/volume-20/batch-0005-fix.md` §2.
+
+**3. THE ATTRIBUTION PUNCTUATION FAULT, MEASURED ON EVERY BATCH, IS A HOUSE FAULT AND IS NOT A VOLUME 21 DEBT.** Volume 19
+carries 21 outstanding sites in chapters 0925, 0931 and 0934 to 0950, Volume 07 one in 0311 and Volume 16 one in 0781.
+**Volumes 17 and 18 carry none and are the model, and the correct form is `**"…," ** said the keeper.`**
+
+**4. THE TWO SUMMARIES THAT PUBLISH PRE-REPAIR MEANS ARE STILL OPEN, AND SO IS THE THIRD.** `state/batch-summaries/volume-20-batch-0001.md`
+publishes 1,303.6 and `volume-20-batch-0002.md` publishes 1,215.1, both of the prose as it stood before their own
+review-fix passes; the files now measure 1,305.9 and 1,217.3. **A pass that owns those two batches should correct both.**
+This planning phase owns neither.
+
+**5. AND THE FIGURE FAULT THE PLAN FOUND AND PUBLISHED RATHER THAN SWEPT: `outline/volume-20.md` §19.4 gives *woman of
+about fifty-four* as 6 on the body reading and the body reading of a thousand files returns 7.** Both numbers are
+published at `outline/volume-21.md` §19.4 with the three files named. **The plan behind is not amended by a phase that does
+not own it.**
+
+---
+
 # INDEX OF THE BLOCKS THIS FILE USED TO CARRY, AND WHERE EACH IS HELD WHOLE
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| The phase that planned Volume 21 | The three threads it opens and cannot be closed, the keeper's practice and its two mornings off, the three unplaceable days, the standing threads it may not settle, the bar not lifted twice, and the writing threads carried across | summarised above; `outline/volume-21.md` |
 | Review-fix on batch 0005 | Nine prose and nine figure findings; the thumb put back on the stallholder; three *nobody* runs broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall; the grit lines no longer enumerated; the `nobody`-chain figure and every count re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batch 0005, days 991 to 1000 | The five rules; the three opened threads — the putting-to of 898, the three mornings of 994, the answer of 997 — the four moved states, and the writing threads | summarised above; run record at `reviews/volume-20/batch-0005.md` |

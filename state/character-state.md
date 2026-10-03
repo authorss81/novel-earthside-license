@@ -11,6 +11,51 @@ record is `reviews/volume-20/batch-0005-fix-2.md`.
 
 ---
 
+# PLANNING BLOCK, VOLUME 21 — NOBODY'S STATE CHANGED. NO CHAPTER OF THIS VOLUME EXISTS.
+
+**THIS BLOCK IS NEWEST AND IT GOVERNS. IT WITHDREW NOTHING**; every block below it was already held whole in
+`state/archive/` when this block was written.
+
+**NOTHING ABOUT ANY PERSON IN THIS FILE MOVED WHEN VOLUME 21 WAS PLANNED, BECAUSE A PLAN MOVES NOBODY.** Every stage below
+is the stage at day 1000 and it is the stage on day 1001. **Volume 21 adds no person, no descriptor, no age, no name and
+no place, and it is the seventh volume running in which that is a decision and not a shortage; **thirty-eight descriptor
+strings were measured free of the last two volumes, three of them are named in `outline/volume-21.md` §19.4 as ineligible
+with a reason each, thirty-five are free, and all thirty-five go untaken.** A card may not
+invent a person out of that pool.**
+
+**AND THE FOUR CHANGES TO PEOPLE THAT VOLUME 21 PLANS, NONE OF WHICH IS A STAGE AND ALL FOUR OF WHICH ARE BARS.**
+
+1. **THE MAN OF ABOUT FIFTY-SEVEN IS ASKED EXACTLY ONE THING IN FIFTY DAYS AND IT IS ON 1046 AND IT IS ABOUT A FENCE.**
+   He is not asked whether a thing is his. He is not told that it is his. He is not asked to explain it, to say it again,
+   or to say it was not his. **He is not thanked, and no chapter may render his silence as a refusal and no chapter may
+   render it as agreement.** That is §16 item 13 and it is the strictest bar in this volume's cast list.
+2. **THE WOMAN OF ABOUT FIFTY-TWO SAYS ONE WORD ON DAY 1031 AND NOBODY ASKS HER WHERE SHE GOT IT AND IT IS NOT SAID AGAIN
+   ON ANY OF THE FIFTY DAYS.** Her thread of 969 — carrying the answer to a question of day 598 without knowing it until
+   that morning — is untouched, is not referred to, and is not settled. **The word is at `outline/volume-21.md` §6.8 and
+   it is one word and no file this repository writes outside that plan may write it at all.**
+3. **THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD REFUSES ONCE, ON DAY 1021, AND IS NEVER PUT TO AGAIN.** He says the
+   first of the nine on 1005 and does not say where he got it. **The refusal's wording is held at §6.10 and is printed
+   nowhere else, and §16 item 6 bars your putting it to him on any day of days 1001 to 1020 or putting any other thing to
+   him about it on days 1022 to 1050.**
+4. **THE CHALK IN THE INSIDE BREAST POCKET OF THE MAN OF ABOUT THIRTY-FOUR COMES OUT OF THAT POCKET ON NO DAY OF THE
+   FIFTY.** His board stays face in against his own trestle with the bare back of it turned out into the row behind his
+   own shoulder, and the nineteen rates and the two-finger space belong to the tradesman two stalls along and not to him,
+   and no hand lifts the length of new rope on the back of that chair.
+
+**ADRIAN VALE IS IN NINE DAYS OF FIFTY AND THE FIGURE IS AT `outline/volume-21.md` §4.1, WHICH NAMES THE THING HIS HANDS
+ARE ON AND WHAT HE WANTED IT FOR ON ALL NINE.** 1004, 1009, 1013, 1018, 1023, 1030, 1035, 1044, 1046. **There is no
+permitted tenth day in this volume. He is Stage 2 on all fifty days, he is aged nowhere, no working is performed, no
+threshold is opened, nobody offers him a workway and he asks for none. TWO OF THE NINE AND SEVEN NOT, and neither set is a
+reward and neither is a lesson and this plan sets neither, and the two things he obtains are that he finds out where a
+thread of water stops and that he finds out by touch which withe is the loose one, and he tells nobody either.** On 1044
+his hands are on a wall and on 1046 they are on the wood of a bench and **he puts no hand on either book on any day of
+the fifty.**
+
+**AND THE THINGS THAT ARE NOT PERSONS AND MAY NOT BE GIVEN A FACE ON ANY OF THE FIFTY DAYS: the bar, the trough and its
+ice, the tin, the satchel, the tally-board, the length of new rope, the piece of chalk, the two books, the sheet, the
+grit and the stick.** And **no name is spoken in any body or any heading on any of the fifty days, and no name is written
+on any surface**, and `Tamsin Quill` is on no page of this volume and her name is not spoken in it.
+
 ## NOBODY'S STATE CHANGED IN THE SENSES THAT MATTER, ON THIS BATCH EITHER
 
 **No one got stronger, no one got weaker, nobody learned anything except one man who answered one thing, nobody was thanked
@@ -153,6 +198,7 @@ Measured on days 991 to 1000: thirteen speech paragraphs and 0 sites of the wron
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| The phase that planned Volume 21 | That nothing moved: Volume 21's cast is the cast at day 1000 and no descriptor is taken, and the four bars it puts on four people, and Adrian Vale's nine days with their wants and their two obtained | summarised above; `outline/volume-21.md` |
 | Batch 0005, days 991 to 1000 | The staging of 994 and 995; the five people not in the room; the barred descriptor pool at 0 in eighteen strings out of twenty; the three manner rules; the handle table at day 1000 | summarised above; run record at `reviews/volume-20/batch-0005.md` |
 | Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batches 0004 and 0005, days 981 to 1000 | The staging of 981, 985, 990, 994 and 995; the people not in the room; the barred descriptor pool at 0 in eighteen strings out of twenty; the three manner rules; the handle table at day 1000 | summarised above; run records at `reviews/volume-20/batch-0004.md` and `batch-0005.md` |

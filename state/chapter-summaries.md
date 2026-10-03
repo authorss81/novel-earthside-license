@@ -12,6 +12,34 @@ record is `reviews/volume-20/batch-0005-fix-2.md`.
 
 ---
 
+# PLANNING BLOCK, VOLUME 21 — ZERO CHAPTERS WRITTEN, ZERO SUMMARIES TO GIVE, AND THAT IS THE RECORD
+
+**THIS BLOCK IS NEWEST AND IT GOVERNS. IT WITHDREW NOTHING**; every block below it was already held whole in
+`state/archive/` when this block was written. **This file carries no per-day entry for any day of Volume 21 because no
+day of Volume 21 has been written. A summary of a chapter that does not exist is a plan dressed as a record, and this
+repository has been struck by that twice.**
+
+**THE TEN CARDS THAT ARE THE ONLY THING IN THIS REPOSITORY THAT ANYBODY MAY USE AS A SUMMARY OF DAYS 1001 TO 1010, AND
+WHAT THEY ARE: `outline/batches/volume-21-batch-0001.md`, written before Chapter 1001 existed, ten cards, ten distinct
+frames out of the sixteen at `outline/volume-21.md` §17.21 and therefore no repeat to name. When those ten chapters are
+written, this file gets ten rows and they are written from the chapters and not from the cards.**
+
+**AND THE THIRTY-ONE-ITEM CHECKLIST IN THAT CARD FILE IS THE THING A WRITER RUNS BEFORE FINISHING THE BATCH, not a summary
+of anything.** And the twenty prohibitions at §16, the twenty-three prose instructions at §17, and the held strings at §6.6
+to §6.10 are likewise plans and not records.
+
+**WHAT A LATER WRITER SHOULD KNOW ABOUT THE SHAPE OF VOLUME 20's last fifty rows, so that a Volume 21 row is written in
+the same kind of cell and not a new kind: each row carries chapter, day, weekday, Bare-Month ordinal, pressure tag,
+whether Adrian Vale is in it, the frame drawn, a word count measured on the file, and a paragraph of the day's own
+business as written. Volume 21's day map already supplies the first six of those seven for all fifty days at
+`outline/volume-21.md` §14.3.**
+
+**AND THE TWO THINGS THIS BLOCK ASSERTS ABOUT VOLUME 21 THAT ARE FIGURES AND THAT A REVIEWER CAN CHECK WITHOUT READING A
+CHAPTER: the day map returns fifty rows, fifty distinct days, no gap, chapter equals day on all fifty, every weekday and
+every Bare-Month ordinal correct, day 1001 a Monday and BM 686, day 1050 a Monday and BM 735; and the pressure column
+sums to fifty on seven distinct tags, discovery 10, character 11, recovery 9, political 6, physical 7, cost 5, decision 2,
+with nine rows marked in the Adrian column and no permitted tenth.**
+
 # VOLUME 20 IS COMPLETE. CHAPTERS 0951 TO 1000, DAYS 951 TO 1000. FIFTY CHAPTERS, FIFTY DAYS, ALL FIFTY ON DISK.
 
 # VOLUME 20, BATCH 0005 — CHAPTERS 0991 TO 1000, DAYS 991 TO 1000. WRITTEN. THE LAST TEN DAYS OF THE VOLUME.
@@ -72,6 +100,7 @@ words.**
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| The phase that planned Volume 21 | That there is nothing to summarise, and where the only thing anybody may mistake for a summary of days 1001 to 1010 actually is, and what a later Volume 21 row looks like | summarised above; `outline/volume-21.md`, `outline/batches/volume-21-batch-0001.md` |
 | Review-fix on batch 0005 | The thumb taken off the tradesman, the woman of about fifty-two taken off her own far wall, the pronoun at 997 resolved to the keeper, three *nobody* runs broken, the row of grit lines no longer enumerated, and every figure in the ten rows above re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batch 0005, days 991 to 1000 | The ten per-day entries above, the four things no later day may undo, and the close of Volume 20 | above |

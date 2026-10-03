@@ -12,6 +12,51 @@ record is `reviews/volume-20/batch-0005-fix-2.md`.
 
 ---
 
+# PLANNING BLOCK, VOLUME 21 — NOTHING MOVED. THIS VOLUME HAS NO CHAPTER ON DISK.
+
+**THIS BLOCK IS NEWEST AND IT GOVERNS. IT WITHDREW NOTHING**; every block below it was already held whole in
+`state/archive/` when this block was written.
+
+**THE ONE FACT A WRITER OF DAYS 1001 TO 1050 HAS TO KNOW BEFORE THEY STAGE ANYTHING: NOT ONE STATE IN THIS FILE MOVED,
+AND NONE OF IT IS MOVED BY THE PLAN.** The whole standing state below is the state at day 1000 and it is the state on day
+1001. **Volume 20's fifty chapters are on disk and its last day is its last day, and a chapter of Volume 21 stages that
+room, that bench, that stair and that row exactly as the block below stages them, and a chapter that changes one of those
+states has changed the world and its record must say so.**
+
+**THE FOUR THINGS THAT ARE DIFFERENT ABOUT VOLUME 21'S STAGE AND ARE NOT STATES OF ANY OBJECT.**
+
+1. **A thing that was said in that room on day 997 is in the world.** It went down that stair and along that row on that
+   morning and it is on no surface, and **on the fifth day of this volume, day 1005, it comes back into that room in other
+   words.**
+   A chapter of days 1001 to 1050 may put a version of it in a mouth and **may not put the thing itself on a page, a
+   board, a column, a book, the outside of a door, the back of a board or the grit**, and **may not print the thing as it
+   was said on 997** — that is the plan's §16 items 3 and 4 and it is the strictest structural bar this manuscript has.
+2. **There is no new surface.** Two books, one register, one sheet, one bench, one board, one slate, one bare board under
+   a date, one gate at the far end of a shut road, the grit in a market row. **Seven places and no more, and the count is
+   the count of the volume behind this one.**
+3. **A page now carries two entries and not one**, six lines in two blocks of three, **and the space under the lower
+   block is bare and stays bare on all fifty days.** A chapter may turn that sheet, may square it, may put a hand flat on
+   the bare paper under it, and may not write on it, add a seventh entry, tear it or fold it.
+4. **The chalk in the inside breast pocket of the man of about thirty-four who keeps a stall two stalls along does not
+   come out of that pocket on any of the fifty days**, and **no hand in these fifty days lifts the length of new rope on
+   the back of that chair**, and the one object a volume about a carried thing could have spent is deliberately not spent.
+   **That is the plan's §16 item 9 and a chapter that takes the chalk out has spent the volume's one movable object wrong.**
+
+**AND THE STANDING GEOMETRY CARRIED FORWARD UNCHANGED, BECAUSE A STAGE THAT GETS IT WRONG GETS IT WRONG THE SAME WAY TWICE:
+that stair has ELEVEN steps in it. The ninth step down from the top is neither the top step nor the bottom one, and there
+are two steps under it before the flags; the bar and the trough are nine risers above the ninth; the bottom step is where
+the strip of ground begins; and `nine steps` is to be at zero across Volume 21's fifty files, because no person may stand
+on a step that does not exist.** The row of grit lines is **not enumerated** and may not be counted on any day; there is a
+stroke at every joint going up that row and more of them than anybody has ever counted. **The headcount of that room is in
+no mouth in that room and in no narration on any of the fifty days, and no mouth may reach any figure by asking anybody
+anything, and about four people a day is a census and is never reduced and never appears without the word *people*.**
+
+**AND THE THREAD THE LAST TEN DAYS LEFT THAT VOLUME 21 MAY NOT TOUCH: the answer the man of about fifty-seven gave on
+997.** It is on no surface in this city, it was not written down after it, nobody in that room repeated it to anybody, and
+it cannot be printed, paraphrased, described or set beside anything on any of the fifty days. **A writer of Volume 21 who
+wants the volume to pay off must understand that the payoff is the four days on 1046 and 1047 and not a comparison, and
+the comparison is the one thing the plan forbids.**
+
 ## THE THREE STATES THAT CHANGED ON DAYS 991 TO 1000, AND WHAT EACH COSTS A LATER WRITER
 
 **1. THERE IS A SECOND ENTRY ON THAT SHEET, AND IT IS NOT ONE OF THE TWO BOOKS.** It was written on 997 below the three lines
@@ -171,6 +216,7 @@ The **top step**, where the bar lies and the trough stands, is nine risers above
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| The phase that planned Volume 21 | That nothing moved: Volume 21's beginning state IS the state at day 1000, and the four things that are different about its stage and are not states of any object, and the standing geometry carried forward unchanged | summarised above; `outline/volume-21.md` |
 | Review-fix on batch 0005 | Nine prose findings and nine figures: the thumb taken off the tradesman at 994 and put back on the stallholder; three runs of three sentences opening *nobody* broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall at 993; the block of writing dated off a Wednesday; the row of grit lines no longer enumerated; two closings taken off one construction; the same four passers-by twice; the trestles clause twice; the doubled rag; the doubled sentence; the `nobody`-chain figure and every count in the record re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Review-fix 2 on batch 0005, on an outside reader's findings | The 0994 closing's span of shade said once and not twice; the two measurement runs in one sentence separated and the pre-repair longest, spread and sentence figures replaced; the grit row's enumeration of four taken out of this file where four chapters contradict it; `asked` and the fifth *his own* point corrected to the counts that return; the shared-run claim corrected from one pair to two on the ten and three over fifty; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Batch 0005, days 991 to 1000 | The three states that changed — the second entry on the sheet, the cloth in the crack, the hand's print in the dust and the second line in the grit — and the standing objects at day 1000, which is the list this file now carries forward | summarised above; run record at `reviews/volume-20/batch-0005.md` |

@@ -13,6 +13,78 @@ Its own record is `reviews/volume-20/batch-0005-fix-2.md`.
 
 ---
 
+# PLANNING BLOCK, VOLUME 21 — THE PHASE THAT PLANNED IT, ITS CARDS, AND ITS ONE NEXT-PHASE PROMPT. IT WROTE NO CHAPTER.
+
+**THIS BLOCK IS NEWEST AND IT GOVERNS. IT WITHDREW NOTHING.** Every block below this one was already held whole in
+`state/archive/` before this block was written, and the index at the foot of this file still names where each of them is.
+**Volume 20 is complete: Chapters 0951 to 1000, days 951 to 1000, fifty files on disk, and the five batches behind this
+one are finished and were repaired three times between them. There was no batch left to write, so this phase was a
+VOLUME-PLANNING phase and it wrote three things and a state layer: `outline/volume-21.md`, `outline/batches/volume-21-batch-0001.md`,
+`workspace/volume-21/batch-0001/PROMPT.md`, the Volume 21 entry and decisions-of-record block in `outline/series.md`, and
+the five live state files plus `state/volume-21-index.md`. IT WROTE NO CHAPTER PROSE, IT REPAIRED NO CHAPTER, IT
+AUTHORED NO SECOND BATCH DIRECTORY, AND IT CREATED EXACTLY ONE NEXT-PHASE PROMPT.**
+
+**VOLUME 21 IS CHAPTERS 1001 TO 1050, DAYS 1001 TO 1050, AND IT IS A FLOOD. NO NAME IS PUT ON IT.** A room over a market,
+a stair of eleven steps, a bench, two books that hold two accounts of one day and have never been compared, six strokes in
+a column that holds figures and no seventh, a sheet carrying two questions and nothing under either, a bar out of its two
+sockets, six lines in the grit at the store's end of that row and more of them than anybody has ever counted. **The
+pressure is that the part of a thing nobody wrote down is the only part of it that survives a morning, and that is exactly
+why nothing in it can be checked.** Nine days on which a thing somebody in that room said comes back into that room in
+words the person who said it does not use; three days on which a thing arrives from a mouth that room has never had in it.
+Decision on day 1025 and a second on 1032. Panel on 1038. One word said out loud once on 1031. Act on 1044, resolution on
+1047, last image on 1050. **Adrian Vale is in nine days and obtains something on two of them and neither is the thing he
+went for. Day 1001 is a Monday and the Bare-Month ordinal is the day less three hundred and fifteen; no middle day may be
+derived from either end. NO CHAPTER OF THIS VOLUME HAS BEEN WRITTEN AND NONE EXISTS ON DISK.**
+
+**THE DAY MAP WAS RE-DERIVED AND RE-MEASURED IN THE RUN THAT WROTE THE PLAN, AND IT VALIDATES ON ALL FIFTY ROWS: fifty
+rows, fifty distinct days, no gap, no day twice, chapter equals day on all fifty, every weekday and every Bare-Month
+ordinal correct, day 1001 a Monday and BM 686 and day 1050 a Monday and BM 735. The pressure column sums to fifty on
+seven distinct tags — discovery 10, character 11, recovery 9, political 6, physical 7, cost 5, decision 2 — and the Adrian
+column marks nine rows and no permitted tenth.** Midpoint is 1025 and climax is 1044.
+
+**THE SIX STRINGS THIS VOLUME HOLDS, NAMED AND PRINTED NOWHERE IN THIS FILE: the decision's wording and its cost at
+`outline/volume-21.md` §6.6; the panel at §6.7; **the word said out loud once on 1031 at §6.8, WHICH IS ONE WORD AND NO FILE
+MAY WRITE IT AT ALL**; the three wordings of 1044 at §6.9; the refusal of 1021 at §6.10; and the name of the man who came
+up that stair on 866, held at `outline/volume-18.md` §6.8. **This block names where each one is and prints none of them,
+and it certifies no absence of any of them, because a record that asserts an absence it has not measured is the failure
+`outline/volume-19.md` §17.22 names and a false absence is worth more than it has ever been asserted anywhere in this
+book.** The volume behind this one holds six and inherits the seventh and so does this one: five spans of its own and one
+inherited name.
+
+**AND THE ONE PROHIBITION THAT IS STRICTER THAN THE ONE THE VOLUME BEHIND CARRIED, and a writer who does not know this
+will walk into it: §16 ITEM 4. NOTHING THE MAN OF ABOUT FIFTY-SEVEN SAID ON DAY 997 IS PRINTED IN ANY CHAPTER OF VOLUME
+21, IS PARAPHRASED, IS IMPROVED ON, IS DESCRIBED, IS PUT IN A SECOND MOUTH, AND IS NOT SET BESIDE ANYTHING. THE READER
+NEVER LEARNS WHETHER THE TWO VERSIONS DIFFER. AND §16 ITEM 20 LEAVES A THIRD ACCOUNT OF THE DAY THE TWO BOOKS ALREADY HOLD
+TWO OF UNSPENT AND OPEN ON PURPOSE, and a volume that spends it has spent the one thing this manuscript has been refusing
+to spend for six volumes.**
+
+**THE FOUR DEBTS THIS PHASE FOUND AND PUBLISHED RATHER THAN SWEPT.** (1) **WHETHER VOLUME 21 IS THE LAST VOLUME IS NOT
+DECIDED BY THE PLAN.** The series was commissioned for eighteen volumes and nine hundred chapters; this is the twenty-first
+volume and the thousand and first chapter, and `outline/volume-20.md` §21.4 item 2 left the same question open in the same
+terms. (2) **`outline/volume-20.md` §19.4 publishes *woman of about fifty-four* at 6 on the body reading and the body
+reading of a thousand files returns 7**, at 3 in `chapters/volume-06/chapter-0294.md`, 3 in
+`chapters/volume-09/chapter-0420.md` and 1 in `chapters/volume-20/chapter-0994.md`; the plan behind was not amended.
+(3) **`bible/power-system.md` has no §65, §66, §67 or §68** and this phase added none. (4) **`NOVEL_SPEC.md`'s Status
+section still publishes fifteen volumes and 750 chapter files**, and its panel row ends at fifteen volumes where
+`chapters/volume-16` returns **zero** panel-carrying files and not one. **The figures behind the first three are at
+`outline/volume-21.md` §19.4 and §20 and were measured in the run that wrote the plan, with the instrument §19.1 publishes.**
+
+**AND THE DEBT THAT IS NOT A PLAN'S AND THAT A NEXT WRITER MUST NOT SIT ON: `workspace/volume-20/close/` DOES NOT EXIST.**
+Every one of the nineteen volumes behind this one has a close directory with a `.done` marker in it and Volume 20 has none,
+so **Volume 20 has no close record on disk.** This phase did not write one and did not create the directory, because a
+close is a close phase's work, this phase was instructed in terms that it writes three things and a state layer, and
+whether this volume ends the manuscript is the owner's question and not a plan's. **A next writer must not read the absence
+as an oversight.**
+
+**THE TWO THINGS A NEXT WRITER GETS FROM THIS BLOCK THAT NO OTHER PAGE IN THIS REPOSITORY GIVES THEM.** The instrument for
+the Volume 21 audit is published at `outline/volume-21.md` §19.1 — **one thousand chapter files, bodies only with the
+heading line dropped, letters matched with a hyphen and an apostrophe both delimiting, both case flags, internal
+whitespace in a multi-word string matched with one-or-more characters** — and §19.6 publishes the heading-line fork rather
+than leaving it for a reviewer to find. And the descriptor pool for Volume 21 is **thirty-eight strings at zero in both
+Volume 19's fifty files and Volume 20's fifty files and under twenty on the corpus, of which three are named in §19.4 as
+ineligible with a reason each, which leaves THIRTY-FIVE free, and this plan takes NONE of them**, with *man of about
+thirty* barred by name inside it on the false-positive mode `outline/volume-09.md` already published once.
+
 ## THE BATCH THAT WROTE CHAPTERS 0991 TO 1000, DAYS 991 TO 1000, AND THE LAST TEN DAYS OF VOLUME 20
 
 **WHAT THE TEN DAYS ARE.** Days 991 to 1000, Friday to Sunday, Bare-Month ordinals 676 to 685, **derived from two figures
@@ -174,6 +246,7 @@ string, no name, no descriptor out of the pool and no one of the seven words of 
 
 | Block | What it decided | Held whole in |
 |---|---|---|
+| The phase that planned Volume 21, and its cards, and its one next-phase prompt | Volume 21's beginning state and prohibitions; the nine days and the three; the act, the resolution and the last image; the strictest bar in the plan at §16 item 4; the six held strings named and printed nowhere; the day map and the Adrian column; the four new debts; and the naming of the missing Volume 20 close | summarised above; `outline/volume-21.md`, `outline/batches/volume-21-batch-0001.md`, `workspace/volume-21/batch-0001/PROMPT.md` |
 | Review-fix 2 on batch 0005, on an outside reader's findings | One sentence of 994's closing: the shade's span now said once, at the seventh hour, and the duplicate all-day claim gone; the two measurement runs in one sentence here separated and the pre-repair longest, spread and sentence figures replaced by the post-repair ones; the shared-run claim here corrected from one pair to two on the ten and three over fifty; the closing-similarity figure re-measured and its instrument published; the instrument for a full-descriptor restatement published for the first time; the three chapters carrying a *nobody*-chain of three named; the missing close phase named as a debt | summarised above; `reviews/volume-20/batch-0005-fix-2.md` |
 | Review-fix on batch 0005 | Nine prose findings and nine figures: the thumb taken off the tradesman at 994 and put back on the stallholder; three runs of three sentences opening *nobody* broken in 991, 994 and 997; the pronoun at 997 resolved to the keeper; the woman of about fifty-two off her own far wall at 993; the block of writing dated off a Wednesday; the row of grit lines no longer enumerated; two closings taken off one construction; the same four passers-by twice; the trestles clause twice; the doubled rag; the doubled sentence; the `nobody`-chain figure and every count in the record re-measured | summarised above; `reviews/volume-20/batch-0005-fix.md` |
 | Batch 0005, days 991 to 1000 | The three new things: the second entry on the sheet, the cloth in the crack, the two lines in the grit; the four things that went out; the day and ordinal instrument; the figures | summarised above; full run record at `reviews/volume-20/batch-0005.md` |
