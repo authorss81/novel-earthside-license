@@ -4,43 +4,10 @@
 currently carrying is named here with its state. It does not carry a per-batch history that no writer can
 read.**
 
-# THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 20. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
-
-**THIS PASS READ `logs/next-0007.review.log` AND REPAIRED AGAINST IT, AND IT CLOSED NO THREAD, ANSWERED NO QUESTION,
-MENDED NOTHING AND PAID NOTHING.** Every thread in the standing layer below stands exactly as it stands, and no thread was
-added to this file and none was withdrawn from it. **THE HEAD OF THIS FILE IS ASKED TO BE LEFT SMALLER BY A PHASE THAT
-APPENDS HERE, AND THIS PASS LEFT IT LONGER, AND THE REASON IS THE REASON THE EARLIER REPAIR PASS GAVE AND IT IS THE SAME
-ONE: every finding repaired here was a figure and not a layer, and withdrawing standing state to make room for a figure is
-the wrong trade.** The whole copy of this file as it stood before this block is
-`state/archive/open-threads.md.volume-20-batch-0001-review-fix-full.md`, taken and verified by SHA256 first. **The whole
-record of what changed in the plan is `outline/volume-20.md` §21.5 and it is not restated here.**
-
-**AND TWO FIGURES THAT BEAR ON A STANDING THREAD AND ARE NOW RIGHT, AND NEITHER OF THEM CLOSES ANYTHING.** *woman of about
-fifty-four* stands at **6 occurrences in 2 files** — three in `chapters/volume-06/chapter-0294.md` and three in
-`chapters/volume-09/chapter-0420.md` — **and the claim that both her files sit outside the last eleven volumes is
-withdrawn, because Volume 09 is inside the last eleven of the nineteen on disk.** **The thread is untouched and it is
-still open: she is one step from being off the page, `outline/volume-20.md` §6.9 puts her descriptor in a mouth on 994 and
-nowhere else, nobody goes to look for her and nobody sends for her, and no chapter of days 995 to 1000 may say what came
-of it.** The plan's dependence on her is now restated on the figure being six and not on the two files being old.
-
-*woman of about sixty-nine* is **at 2 in 1 file in Volume 19, `chapters/volume-19/chapter-0920.md`, and at 0 in Volume 18**,
-and a review found her listed in `outline/volume-20.md` §19.4 among candidates at zero in both of the last two volumes.
-**She is re-sorted out of that list by name and the paragraph says so in words. Nothing about her changed except the
-accuracy of a sentence about her: her thread is exactly as open as it was — five lines in the grit drawn on 920 and never
-asked about, a sixth on 1000 with nobody stopping, and a sixth question of her own asked of the man of about fifty-seven on
-997, which is the resolution, and nothing written down after his answer.**
-
-**AND THE FIGURES THAT BEAR ON NOBODY'S THREAD AND WERE NOT WRONG.** `nobody` at 10,221 in 929, `asked` at 6,264 in 856,
-`question` at 1,774 in 477 and the rest of the §19.2 and §19.3 rows all reproduce exactly under the instrument
-`outline/volume-20.md` §19.1 publishes; **the review's readings include the chapter heading line and §19.7 now prints both
-readings side by side instead of this file arguing about them.**
-
----
-
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-20-batch-0001-review-fix-full.md`,
-which is the whole of this file as it stood after the phase that planned Volume 20 and before the repair pass that read
-`logs/next-0007.review.log`.** **The copy before that is
-`state/archive/open-threads.md.volume-19-batch-0002-review-fix-full.md`, verified
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/open-threads.md.volume-19-batch-0002-review-fix-full.md`,
+which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that
+read `logs/next-0006.review.log`.** **The copy before that is
+`state/archive/open-threads.md.volume-19-outline-full.md`, verified
 by SHA256 against the live file before a single line was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT STOOD BEFORE
 THE PHASE THAT PLANNED VOLUME 19 WITHDREW EVERY PER-BATCH AND PER-REPAIR BLOCK BELOW THE STANDING LAYER AND WROTE ITS
 OWN BLOCK IN THEIR PLACE. EVERY BLOCK IT WITHDREW IS IN THAT COPY IN FULL AND NONE OF IT WAS DELETED, AND THE EARLIER

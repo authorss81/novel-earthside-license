@@ -42,15 +42,20 @@ are not held by this volume, they are not a device in it, and a card that reache
 REACH ANY FIGURE BY ASKING ANYBODY ANYTHING.** About four people a day is a census and not a person and is never reduced.
 
 **AND NO CARD MAY NAME, INVENT, DRAW, OR GIVE A NUMBER, AN AGE, A DESCRIPTOR OR A NAME TO ANYBODY WHO DOES NOT ALREADY
-HAVE ONE.** The clean pool is zero by the reading at §19.4 and the twenty-four candidates are printed there with their
-figures. *man of about thirty-seven* is not available to anybody and *man of about thirty* is barred by a rule about a
-reader and not about an instrument.
+HAVE ONE.** The clean pool is zero by the reading at §19.4. **THE POOL A CARD MAY NOT DRAW FROM IS TWENTY NAMES AND NOT
+TWENTY-FOUR: nineteen descriptors at zero in both of the last two volumes, and *man of about thirty-seven* barred by name
+beside them at 6 occurrences in 1 file.** *man of about thirty* is barred by a rule about a reader and not about an
+instrument.
 
-## THE THIRTEEN DAYS YOU MAY NOT USE A NEW FRAME ON, NAMED RATHER THAN LEFT TO BE DISCOVERED
+## THE ELEVEN DAYS YOU MAY NOT USE A NEW FRAME ON, NAMED RATHER THAN LEFT TO BE DISCOVERED
 
 The eighteen frames are at `outline/volume-20.md` §17.20. **Frames 13 to 18 are barred on 957, 965, 975, 981, 982, 983,
 985, 989, 994, 997 and 1000, and 957 is yours.** The frames below are the ten this batch draws, one per card, with no
-repeat, and **frame 14 is drawn on 958 and the plan says that day may have it.**
+repeat, and **frame 14 is drawn on 958 and the plan says that day may have it. ONE MORE DEPARTURE IS NAMED HERE RATHER THAN
+LEFT SILENT: frame 13 is drawn on 959, which is not one of the three days §17.20's permissive sentence names — 958, 969 and
+991 — and 959 is not on §17.20's bar list either. THE BAR LIST IS WHAT BINDS AND 959 IS NOT ON IT, SO THE DRAW IS LAWFUL;
+§17.20's permissive sentence names where a new frame MAY be used and is not exhaustive, and this card records the departure
+because §17.20 asks for a departure to be named instead of hidden.**
 
 ## THE BATCH'S OWN FIGURES, COUNTED BEFORE THE FIRST CHAPTER, AND NOT TARGETS
 

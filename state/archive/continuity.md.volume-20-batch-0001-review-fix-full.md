@@ -3,47 +3,11 @@
 **This file carries the live layer only: where every standing object in the world stands, and the figures
 that hold. It does not carry a per-batch history that no writer can read.**
 
-# THE REPAIR PASS ON THE PHASE THAT PLANNED VOLUME 20. NEWEST AND IT WINS OVER EVERY BLOCK BELOW IT.
 
-**THIS PASS READ `logs/next-0007.review.log` AND REPAIRED AGAINST IT. It moved no object, entered no line, wrote no day and
-settled nothing, and it wrote no prose: `chapters/volume-20/` still does not exist.** The whole copy of this file as it
-stood before this block is `state/archive/continuity.md.volume-20-batch-0001-review-fix-full.md`, taken and verified by
-SHA256 first. **The whole record of what changed in the plan is `outline/volume-20.md` §21.5 and it is not restated here.**
-
-**WHAT MOVED IS FOUR FIGURES AND ONE LIST, AND NONE OF THEM IS THE STATE OF A THING IN THE WORLD.** (i) The Adrian column
-of the day map marks **ten** rows and not nine — the nine days of §4.1 and 995 beside them, and 995 is the one permitted
-tenth. (ii) Of the nine question-days, **three** carry a pressure tag that is not *cost* — 961 character, 977 physical, 987
-character — and six carry *cost*: 957, 965, 973, 981, 989 and 994. **Neither figure alters a single day, a weekday, a
-Bare-Month ordinal or a pressure tag, and the whole map re-derives: BM = day − 315 on all fifty rows, the pressure column
-sums to fifty on seven tags at recovery 11, physical 8, character 10, political 5, discovery 8, cost 6, decision 2, and the
-weekday chain runs 951 Sunday to 1000 Sunday.** (iii) *man of about thirty-seven* is **6 occurrences in 1 file**,
-`chapters/volume-06/chapter-0293.md`, and not 6 in 6. (iv) *woman of about fifty-four* is **6 occurrences in 2 files, three
-in `chapters/volume-06/chapter-0294.md` and three in `chapters/volume-09/chapter-0420.md`**, and Volume 09 is inside the
-last eleven volumes on disk, so the claim that both her files are older than the last eleven volumes is withdrawn and the
-plan's dependence on her is restated on the figure being six. **And the descriptor pool is nineteen names at zero in both
-of the last two volumes, with *woman of about sixty-nine* re-sorted out of it by name because she is at 2 in 1 file in
-Volume 19, which changes nothing about her at all and is not a change to her availability: she was never a candidate and
-§19.4 bars a card from taking a descriptor from either list. She still stands at §7.2, she still asks the
-resolution on 997, and no card may take a descriptor from any list.**
-
-**AND THE FIGURES THE REVIEW CHALLENGED THAT REPRODUCE, so that this layer's own figures are not disturbed.** `nobody`
-stands at 10,221 in 929 bodies, `asked` at 6,264 in 856, `question` at 1,774 in 477, `office` at 568 in 186, `licence` at
-242 in 104, `seal` at 77 in 37, `witness` at 138 in 67, and `at any hour of that day` at 227 in 142, **all of them word-bounded
-on both case flags with the chapter heading line out**, which is the instrument `outline/volume-20.md` §19.1 publishes.
-**The whole-file readings, which include the heading line, are 10,318 in 930, 6,303 in 857, 1,796 in 479, 570 in 186, 243
-in 104, 78 in 37, 139 in 67 and 229 in 142, and both columns are now printed side by side at §19.7 so that a reader who
-counts the heading knows which one a number came from.** No object state, no stroke, no mark, no nail, no bar, no rope, no
-post, no satchel, no tin and no page moved, and the states of all of them stand exactly as the block below states them.
-
-**AND WHAT THIS PASS DID NOT OPEN:** `outline/ending.md`, `NOVEL_SPEC.md`, `state/phase-ledger.json`, any controller file,
-and any file under `scripts/` or `.github/`.
-
----
-
-**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-20-batch-0001-review-fix-full.md`,
-which is the whole of this file as it stood after the phase that planned Volume 20 and before the repair pass that read
-`logs/next-0007.review.log`.** **The copy before that is
-`state/archive/continuity.md.volume-19-batch-0002-review-fix-full.md`, verified by
+**THE MOST RECENT WHOLE COPY OF THIS FILE IS `state/archive/continuity.md.volume-19-batch-0002-review-fix-full.md`,
+which is the whole of this file as it stood after the batch that wrote days 911 to 920 and before the repair pass that
+read `logs/next-0006.review.log`.** **The copy before that is
+`state/archive/continuity.md.volume-19-review-fix-full.md`, verified by
 SHA256 against the live file before a single line of the repair pass was withdrawn. IT IS THE WHOLE OF THIS FILE AS IT
 STOOD AFTER THE PHASE THAT PLANNED VOLUME 19 AND BEFORE THE REPAIR PASS THAT READ `logs/next-0005.review.log`. The copy
 that phase took, `state/archive/continuity.md.volume-19-outline-full.md`, and every earlier copy under this file's own
@@ -53,7 +17,7 @@ name are still in `state/archive/` and were not disturbed.**
 per-batch history that no writer can read and no batch could afford to load, and it has now been compacted again by
 the phase that planned Volume 19, which withdrew every per-batch and per-review block below the standing layer and
 wrote its own block in their place. A phase that appends here is expected to leave it smaller than it found it, or
-to say in its own record why not.** **AND THAT PASS LEFT IT SMALLER. THE REPAIR PASS THAT READ
+to say in its own record why not. **AND THAT PASS LEFT IT SMALLER. THE REPAIR PASS THAT READ
 `logs/next-0005.review.log` DID NOT COMPACT AND ADDED ONE BLOCK, because every finding it repaired was a figure rather
 than a layer and withdrawing standing state to make room for a figure is the wrong trade; the block is short and the
 reason is in `reviews/volume-19/outline.md`.**

@@ -71,11 +71,15 @@ those two days is the morning the volume's whole problem arrives.**
 
 **Those three columns are binding.** Adrian Vale is in two of these ten — 0953 and 0959 — and there are eight of your ten
 he is not in, and §4.1 publishes what his hands are on in the two and forbids a chapter carrying him in the other
-eight. The wall says nothing on all ten days. No notice is written. No document arrives, is read out, is filled in, is
-shut or leaves this city. **Nothing goes under the date on that door on any of the ten, and the one mark that is there
-was put down on day 950 and no second one may ever go under it.** Nobody is thanked. Nobody is told anybody else was
-right. **No question is asked in that room on any day of your ten but 0957, and one question is asked on 0957, and it is
-not written down, and no page exists on which it could be.**
+eight. **ACROSS THE WHOLE VOLUME THE ADRIAN COLUMN MARKS TEN ROWS AND NOT NINE: the nine days of §4.1 and 995 beside
+them, and 995 is the one permitted tenth and is not one of the nine.** The wall says nothing on all ten days. No notice
+is written. No document arrives, is read out, is filled in, is shut or leaves this city. **Nothing goes under the date on
+that door on any of the ten, and the one mark that is there was put down on day 950 and no second one may ever go under
+it.** Nobody is thanked. Nobody is told anybody else was right. **No question is asked in that room on any day of your ten
+but 0957, and one question is asked on 0957, and it is not written down, and no page exists on which it could be.** **AND
+OF THE NINE QUESTION-DAYS OF THE WHOLE VOLUME, THREE CARRY A TAG THAT IS NOT COST AND ALL THREE ARE QUIET DAYS: 961 is
+character, 977 is physical and 987 is character, and 957, 965, 973, 981, 989 and 994 are the six that carry the cost. ONE OF
+YOUR TEN IS ONE OF THE SIX AND IT IS 0957, AND IT IS THE ONLY DAY OF YOUR TEN THAT CARRIES THE COST-FIRST RULE.**
 
 ## THE SEVEN THINGS YOU MUST NOT PRINT, NAMED HERE AND PRINTED NOWHERE
 
@@ -110,9 +114,10 @@ MAY REACH ANY FIGURE BY ASKING ANYBODY ANYTHING.** About four people a day is a 
 reduced and is never given to anybody.
 
 **AND NO CARD MAY NAME, INVENT, DRAW, OR GIVE A NUMBER, AN AGE, A DESCRIPTOR OR A NAME TO ANYBODY WHO DOES NOT ALREADY
-HAVE ONE.** The clean pool is zero by the reading at §19.4 and the twenty-four candidates are printed there with their
-figures. *man of about thirty-seven* is not available to anybody and *man of about thirty* is barred by a rule about a
-reader and not about an instrument. **No name is spoken on any of your ten days and no card may put one in a mouth.**
+HAVE ONE.** The clean pool is zero by the reading at §19.4. **THE POOL YOU MAY NOT DRAW FROM IS TWENTY NAMES AND NOT
+TWENTY-FOUR: nineteen descriptors at zero in both of the last two volumes, and *man of about thirty-seven* barred by name
+beside them at 6 occurrences in 1 file.** *man of about thirty* is barred by a rule about a reader and not about an
+instrument. **No name is spoken on any of your ten days and no card may put one in a mouth.**
 
 ## THE THINGS YOU CARRY AND MAY NOT CLOSE
 
