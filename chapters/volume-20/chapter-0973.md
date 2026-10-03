@@ -1,0 +1,31 @@
+# Chapter 0973 — What He Put To Her About His Own Satchel
+
+**"I am going to put a thing to somebody in this room this morning and I am going to say what it costs me before I say what it is, and the cost is mine and it is about my own satchel and nobody else in here is paying a part of it. It goes out of this room in my mouth. There is no page in this city for it to go on and there is not going to be one, and I have not got a page of my own to put it on either. She will answer me or she will not, and either way what she says goes out of this room with her and comes down that stair in her own mouth, and I will be the only person in this city who knows it and I will not be able to show anybody where I got it. That is what it costs and I am saying it before I open my mouth because after it is said I cannot put it back quietly," ** said the man of about thirty-one who carries things for a living, at the near wall of that room with the satchel held up under his own arm and the flap of it hanging away from his own side.
+
+It was Monday, the six hundred and fifty-eighth day of the Bare Month. The sun came over the roof line at the far end of that market before the light and came along that row with the shade of the trestles going ahead of it. It came in under the awning at the store's end, lay down the length of that bench, and stopped about the middle of the wood. The bar lay along the top step of that stair out of its two sockets and the trough on the flags beside it had ice in it about the depth of a thumb and nobody had broken it. There was the day in chalk on the outside of the door at the foot of that stair and the bare board under it stood clear of the near plank by the width of a thumb with one mark on it. About four people a day went by at the foot of that stair with the light on the flags.
+
+The woman of about fifty-two came up at about the fifth hour and went to the far end of that bench, where she had stood the two mornings before, with the stool a foot further out from the wall behind her and her own hands at the sides of her dress. The keeper had her register open in front of her and the second book lay open beside it with its slab drawn back off the leaf under it.
+
+---
+
+He said it out loud in that room in daylight with the date on the outside of that door behind his own shoulder, and no mouth in that room said a word back to him about the cost of it.
+
+Then he went the length of the bench and put it to her.
+
+He put it to her standing about a foot off her own shoulder. It was said once, and it was about his own satchel with the flap of it down, and it was about what was in it. She had carried a stool out of a room and had never sat down on it, and nobody had ever asked her where she came out of. That is the whole of what went between the two of them that morning.
+
+She answered him, and she went on longer than the thing he had asked needed. She began with her own hands at the sides of her dress and they came up off them. She got as far as the length of a stool's worth of carrying before she had said the first thing with anything to do with him in it. By then the man of about thirty-nine who trades on a board had gone down that stair with his own board under his arm and come back up again with nothing in his hands, and had begun at the near end of that bench. She went on for the better part of a quarter of an hour. What she said went out of that room with her at the far end of it, down that stair, along that row, out past the store's end and away. No leaf on either of those two books carries a scratch of it, and no board in that market and no chalk anywhere in this city carries one word of it.
+
+While she was giving it the rest of that room went on with what it was doing, which is the plainest fact about that morning. The keeper went down the column that holds figures and came back up it, and the dry cloth lay along the head of her own leaf and stopped at the near edge of the second book. The tradesman went along the face of his own board with the cloth from the top of the top column down to the foot of the middle column, and the cloth stopped where it stops every morning, and he folded it over his own shoulder and did the same again twice. The stallholder came up at about the ninth hour and sat down in the middle of that bench with his own board across his own knees and went along the foot of it with his own thumb. The man of about twenty-seven carried the bucket down that stair and up it twice with the water standing flat in it. The ice in the trough at the top of that step stayed whole, and nothing was fetched for it.
+
+---
+
+He got nothing out of putting it to her, and the room gave him nothing for it.
+
+What he wanted out of it was for somebody in that room to put to him, in that room, in daylight, a second thing about his own satchel, and to mean the second time as much as she had meant hers. He stood at the near wall after he had said it and after she had answered. Everything in that room went on with what it was doing. His own name was not said in that room by anybody, and his own two hands were of no use to anybody in it, and the whole of the morning he got out of it was the sound of his own voice in a room that carried on afterwards.
+
+The man of about thirty-nine who trades on a board asked the man of about twenty-seven, at the top of the step, how wide a board would go across it, and the man of about twenty-seven told him, and they did it twice, once in the morning and once in the afternoon. That is the whole of what was said in that room between any two of them that day about anything, and it went from one to the other of them about as far as a bucket goes from a step to a trough.
+
+---
+
+The flap of that satchel was down when the light went off that room, and no finger of his went near it at any point of that day and no finger of anybody else's did either. The strap of it lay along the leather where his own hand had let go of it and had not settled back down, standing up about the depth of a thumb where the air was getting under it.
