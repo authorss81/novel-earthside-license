@@ -261,7 +261,7 @@ batch harder than they bit the last one:
 
 **AND TWO FIGURES OF HOUSE STYLE THAT A REVIEWER HAS ALREADY RAISED TWICE AND THAT ARE NOT DEFECTS.** Measured across the
 three batches behind you and across sampled chapters of Volumes 15, 18 and 19: **true contractions stand at zero in all of
-them, so the absence is the register of the book; and *his own* runs at one in every 100.5 words on days 981 to 990, against
+them, so the absence is the register of the book; and *his own* runs at one in every 99.3 words on days 981 to 990, against
 one in 146.7 on days 951 to 960, one in 139.9 on days 961 to 970 and one in 97.7 on days 971 to 980. Those four are two points
 at about 140 and two at about 98, so four points are not a direction and the claim that the phrase has been thickening for
 two volumes was withdrawn by the batch behind you and is not reopened. If a review names either figure, measure it against all

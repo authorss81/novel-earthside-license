@@ -6,6 +6,9 @@ these findings to land here and not in it. Five findings were returned and five 
 figures. Every figure below was re-measured with the same instrument after the prose changed and in the same run as the
 change, and the reading and the scope are on the same line as the number.**
 
+**A SECOND PASS OVER THIS SAME PHASE IS APPENDED AT §5 AND IT IS ALL FIGURES. IT FOUND SIX, THREE OF THEM NAMED BY THE
+REVIEW AND THREE OF THEM FOUND WHILE RE-MEASURING THE TWO THE REVIEW COULD NOT REPRODUCE. NO CHAPTER IS TOUCHED BY IT.**
+
 **NO CHAPTER OF THIS BATCH IS REWRITTEN, NO DAY IS MOVED, NO WEEKDAY, NO BARE-MONTH ORDINAL, NO PRESSURE TAG, NO FRAME AND
 NO OBJECT STATE CHANGED TO SATISFY A FINDING.** The two prose repairs are one sentence on 0983 and one sentence on 0989. The
 three figure repairs are arithmetic in the record and in the five live state files and in the next prompt, and they follow
@@ -149,8 +152,10 @@ a mixture of two, which is what §7's closing note about instruments is about.**
 the wrong way now read: negation 62.6 to 57.9, which is 4.7 words **closer** together, and bare *that* 3.14 to 4.00, which is
 0.86 points heavier. **Four points at 45.5, 41.3, 62.6 and 57.9 have two high and two low, and four at 3.30, 3.93, 3.14 and
 4.00 have two high and two low, so neither series is a direction and the withdrawal of the two-volume thickening claim stands
-unreopened.** The floor delta is 810.4 a chapter against 865 for the batch behind it and 813.5 before this pass, so the length
-thread moved again and in the right direction, by 3.1 words since this pass opened and by 54.6 since the batch behind it.
+unreopened.** The floor delta is 810.4 a chapter against 861.0 for the batch behind it and 813.5 before this pass, so the length
+thread moved again and in the right direction, by 3.1 words since this pass opened and by 50.6 since the batch behind it, which
+the second pass corrected from the 54.6 printed here before it, that figure having been taken against a floor delta of 865
+where the batch behind it returns 861.0.
 
 **Held strings, unchanged by this pass and re-run over the same twenty-one-file scope.** The decision's wording **1 in 1
 file**, being `chapter-0975.md`. The panel's wording **1 in 1 file**, being `chapter-0983.md`, and the printed block is **257
@@ -167,11 +172,16 @@ batch*, *the reader*. **`Adrian Vale`: 6 in 3 files, and the three are `chapter-
 headings.
 
 **Repetition, after the prose changed.** Repeated sentences of thirty characters or more across all forty files of days 951
-to 990, on the record's instrument: **0**, and **0 at thirty-eight** as well. Longest shared run inside these ten: **27
-tokens**, and the three pairs at it are `0982`/`0988`, `0982`/`0989` and `0988`/`0989`, all three being the same position
-clause about a sheet on a bench. Longest shared run over all forty files: **34 tokens**, and the pair is `chapter-0968.md`
-with `chapter-0971.md`, neither of them one of these ten. **The figure and the pair are published together and they are the
-pair the instrument returns, which is the fault a review-fix found once already on this batch's predecessor.** Highest
+to 990, on the record's instrument: **0**, and **0 at thirty-eight** as well. Longest shared run inside these ten: **29
+tokens**, on the one pair `chapter-0982.md` with `chapter-0989.md`, with two pairs at 28 under it, `0982`/`0988` and
+`0988`/`0989`, all three being the same position clause about a sheet on a bench. Longest shared run over all forty files:
+**35 tokens**, and there are **two** pairs at it, `chapter-0968.md` with `chapter-0971.md` and `chapter-0973.md` with
+`chapter-0990.md`, **so one of the two longest pairs is a pair these ten own.** The longest sequence repeated at two
+positions inside one body is **12 tokens**, in `chapter-0984.md` alone, with 11 in `chapter-0981.md` and
+`chapter-0988.md`. **THREE FIGURES IN THIS PARAGRAPH ARE CORRECTED BY A SECOND PASS AND ARE MARKED WHERE THEY ARE WRONG IN
+`reviews/volume-20/batch-0004.md` §7, WHICH PUBLISHES THE TOKENIZER THEY ARE READ ON.** **The figure and the pair are
+published together, and where a pair is named the named pair returns that figure, which is the fault a review-fix found once
+already on this batch's predecessor and which this file itself repeated once.** Highest
 similarity between any two of the ten closings: **0.107**, between 0986 and 0987. Openings beginning with a hand or hands on a
 surface: **0 of 10**. Worst *nobody*-clause chain in one sentence: **2**. Full-descriptor restatements: **0**, because no
 person speaks twice in any of these ten chapters.
@@ -221,3 +231,91 @@ this pass did not create, remove or touch it, and did not create a `.done`. **No
 files and the next prompt — and every change outside the two chapters is a figure that follows from the two sentences this
 pass edited.** No new phase directory was created; `workspace/volume-20/batch-0005/` was already there holding one prompt and
 holds one prompt.
+
+---
+
+## 5. THE SECOND PASS OVER THIS PHASE, SIX FINDINGS, ALL FIGURES, AND NO CHAPTER TOUCHED
+
+**A review returned three hard defects against the first pass's own propagated figures and could not reproduce three more. The
+three defects are fixed. Two of the three the reviewer could not reproduce turned out to be genuinely wrong under the
+record's own instrument and are fixed, with a false sentence that went with them. The third was correct and is now
+publishable, because the instrument was not defined tightly enough to check it. One further defect was found while
+re-measuring and is an inherited drift two batches back. No sentence of the ten chapters was altered by this pass, and no
+planned plot moved.**
+
+### 5.1 THE THREE DEFECTS THE REVIEW NAMED
+
+1. `state/chapter-summaries.md` published **1396** for 0989 in the one row the first pass edited. The file returns **1395**,
+   and the record, this file, `state/current.md` and the batch summary all already said 1395. Corrected.
+2. `workspace/volume-20/batch-0005/PROMPT.md` still read ***his own* runs at one in every 100.5 words on days 981 to 990**.
+   Post-edit value is **99.3**. The prompt had been corrected for negation and bare *that* and not for this one, and it is the
+   first file the next writer reads. Corrected.
+3. `reviews/volume-20/batch-0004.md` still said *four points at 45.5, 41.3, 62.6 and **58.0*** four lines below a corrected
+   **57.9**, so the paragraph the first pass rewrote contradicted itself. Corrected. The `58.0` and `3.98` in §1.5 above are
+   quotations of the pre-repair text and are correct there.
+
+### 5.2 THE TWO THE REVIEWER COULD NOT REPRODUCE, WHICH WERE BOTH WRONG
+
+**Both are §17.21 faults of the same kind as §1.5: a compliance figure published that the instrument does not return.**
+
+4. **The shared runs.** The record published **27** tokens inside the ten with three pairs named as tied at it, and **34** over
+   all forty files with one pair named. On the token now published in the record's §7 — a run of letters, an apostrophe kept
+   inside, lowercased, a hyphen splitting — the three named pairs return **29, 28 and 28**, so they were not tied; the longest
+   over forty is **35** and there are **two** pairs at it, not one. **AND THE SENTENCE BUILT ON THAT FIGURE WAS FALSE: the
+   record said the pair was two files of the batch behind and neither of them one of these ten, but the second pair at 35 is
+   `chapter-0973.md` with `chapter-0990.md`, and 0990 is one of these ten.** This is rule 1 of `state/open-threads.md` — a
+   figure that names a pair must be the figure that named pair returns — broken in exactly the shape rule 1 was written about.
+   Corrected in the record, in this file, in the batch summary and in `state/current.md`, and the rule's standing in
+   `state/open-threads.md` is amended from *this batch obeyed all four* to the truth. **The prose was never at fault: the 29 is
+   a position clause about where that sheet lies, the 35 is the standing geometry of the door at the foot of that stair, the two
+   occurrences of the 35 differ from each other by a comma after *stair* and by nothing else, and no paragraph is carried
+   across files by any of them.**
+5. **The repeat inside one body.** The record published **11** with two files named at it. The longest is **12**, in
+   `chapter-0984.md` alone, where the run ends *...hangs on **it*** and the record had cut the *it* off and printed eleven.
+   Eleven is in `chapter-0981.md` and `chapter-0988.md`, and the remaining seven measure 10, 9, 7, 10, 10, 10 and 8. Corrected.
+
+### 5.3 THE THIRD UNVERIFIABLE FIGURE, WHICH WAS RIGHT AND IS NOW CHECKABLE
+
+6. **Paragraphs 248.** The figure is correct and the instrument already in the record returns it exactly. What was missing is
+   that a `---` scene rule is one of those blocks, so 37 of the 248 are scene rules rather than prose; a reader who excludes
+   them gets 211 and will think the record is wrong. **The reading is now published on the instrument line, with the 37 and the
+   211 both named, so the next reader gets 248 or knows why they are getting 211.**
+
+### 5.4 THE ONE FOUND WHILE RE-MEASURING, AND IT IS INHERITED
+
+7. **The comparator chain.** The floor delta beside the batch behind was published as **865** and the movement as **54.6**,
+   and both are wrong against the means published two lines away: `PHASE_SYSTEM.md` asks for 2,200, this batch is 810.4 under
+   it, so the batch behind it at 1,339.0 is **861.0** under it and the movement is **50.6**. Chasing that found the cause one
+   level further out: **batch 0001 and batch 0002 both carry a review-fix pass, and commit `66d4329` rewrote days 951 to 969
+   in place, so the means those two batches published — 1,303.6 and 1,215.1 — are of the prose before the repair and are not
+   true of the files now on disk.** Re-measured: batch 0001 is **13,059 words and 1,305.9**, batch 0002 is **12,173 words and
+   1,217.3**. The two summaries also disagree with each other and with `state/current.md`, which printed 1,215.7 for batch
+   0002. **Every downstream republication is corrected here — this file, the record, `state/current.md`,
+   `state/continuity.md` and `state/open-threads.md`, together with the derived deltas of 50.6 and 172.3. The two batches' own
+   summaries are NOT edited, because a pass on batch 0004 does not own them, and the debt is recorded as thread 4 at
+   `state/open-threads.md` for a pass that does.**
+
+### 5.5 WHAT THIS SECOND PASS DID NOT TOUCH, AND WHAT IT LEFT NAMED
+
+**No chapter of these ten was opened for editing and no sentence of prose changed.** The two prose repairs of the first pass
+were reviewed, both hold, and neither was disturbed: 0989's `dry cloth` appears once in the chapter in the keeper's own
+sentence and 990's closing cloth is still hers, and 0983's added clause still routes the man of about thirty-four to his
+trestle and still gives line 49 its referent. **The seven-token run the reviewer noted inside 0983 — *down that stair to his
+own trestle*, shared by the stallholder's new clause with the tradesman's sentence two paragraphs above — is LEFT STANDING AND
+NAMED HERE.** It is below the record's own repeated-sentence and shared-run thresholds, it did not worsen the 0983/0984 pairing,
+which is the man of about thirty-one and is untouched by the edit, and it is the deliberate parallel of two stallholders
+mirroring one another with the same board and the same stair. **The wider point the reviewer raised beside it — that 0983 and
+0984 stage the stallholder at the middle of that bench at the ninth hour working the foot of the board with his thumb twice —
+is also left standing, and it is a house pattern across the volume rather than a lapse on two days.** A pass that opens that
+line may vary it; a pass that is fixing figures should not.
+
+**No planned plot moved. No day, no weekday, no Bare-Month ordinal, no pressure tag and no frame changed. No held string, no
+name, no descriptor out of the pool and none of the seven words of Volume 19 was introduced or removed. `outline/volume-20.md`
+was read and not edited, `outline/ending.md` was not moved. No controller file was opened or edited. No `.done` was created
+and `workspace/volume-20/batch-0005/` still holds exactly one prompt.**
+
+**Files this second pass changed, and nothing else: `reviews/volume-20/batch-0004.md`, this file,
+`state/batch-summaries/volume-20-batch-0004.md`, `state/current.md`, `state/continuity.md`, `state/open-threads.md`,
+`state/chapter-summaries.md` and `workspace/volume-20/batch-0005/PROMPT.md`. Every change in every one of them is a figure,
+a reading published beside a figure, or a compliance claim that a corrected figure had falsified. No chapter, no bible file,
+no outline and no plan file is in that list.**

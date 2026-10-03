@@ -340,12 +340,17 @@ of this volume is a putting-to on it on 981.
 ## 7. The instruments, and every figure they returned
 
 **Instrument for a count of a word: the literal string, word-bounded, non-letter on each side, both case flags, chapter
-heading line excluded, and the reading and the scope on the same line as the number. Instrument for words: whitespace
+heading line excluded, and the reading and the scope on the same line as the number. **THE TOKEN USED BY EVERY INSTRUMENT
+BELOW THAT COUNTS A SEQUENCE OF WORDS IS A RUN OF LETTERS WITH ANY APOSTROPHE KEPT INSIDE IT, LOWERCASED, AND A HYPHEN
+SPLITTING A TOKEN INTO TWO.** Instrument for words: whitespace
 tokens of the body with the heading line out. Instrument for paragraphs: non-empty blocks of the body separated by a blank
-line. Instrument for a speech paragraph: a paragraph whose first non-space characters are `**"`. Instrument for a panel: a
+line, **and a `---` scene rule is one of those blocks and is counted as one, which is why the ten total 248 and 37 of those
+248 are scene rules rather than prose; a reader who excludes the rules will get 211 and will be reading a different
+instrument, not a different number.** Instrument for a speech paragraph: a paragraph whose first non-space characters are `**"`. Instrument for a panel: a
 surviving line whose first non-space character is `>`. Instrument for a contraction: a run of letters, an apostrophe, and
-one of *t re ll ve d m*. Instrument for a shared run: longest common contiguous word sequence between two tokenised
-bodies, every pair, reported with its length and its two files. Instrument for a repeated sentence: the sentence strings
+one of *t re ll ve d m*. Instrument for a shared run: longest common contiguous sequence of those tokens between two
+bodies, every pair, reported with its length and its two files. **Instrument for a repeat inside one body: the longest
+contiguous sequence of those tokens occurring at two different positions inside one file, per file.** Instrument for a repeated sentence: the sentence strings
 of a body whitespace-normalised, the speaker marker stripped from the front, and any string of thirty characters or more
 that occurs in more than one file, over all forty files of days 951 to 990. Instrument for a *nobody* chain: the count of
 clauses beginning with *nobody* inside one sentence, counting `^`, `, ` and `and ` as openers, which is the stricter reading
@@ -369,14 +374,20 @@ paragraphs. **Panel lines 1 across all ten, and the one is on 0983 and nowhere e
 ten, reading: any character zero to nine, body, heading line out. Titles between eight and nine words of title text.
 
 **THE LENGTH THREAD MOVED AND IT MOVED BY OPENING SCENES OUT.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words an
-ordinary chapter and this batch measures a mean of **1,389.6**, which is 810.4 a chapter under the floor and **50.7 a
-chapter above the batch behind it at 1,339.0** and 174.0 above batch 0002 at 1,215.7. **It moved by opening out scenes
+ordinary chapter and this batch measures a mean of **1,389.6**, which is 810.4 a chapter under the floor and **50.6 a
+chapter above the batch behind it at 1,339.0** and 172.3 above batch 0002 at 1,217.3. **It moved by opening out scenes
 that had room — a sheet being written on in front of a man who had been sitting on it since the fourth hour, four minutes
 in front of a wall, nine hundred paces out to a yard and four hundred yards back with a bucket, a trestle foot being
 shaved on dry ground, a walk to the store's end of a row and the coming back — and by splitting sentences that were over
 sixty words. No paragraph was added that was not carrying something, and no finished scene was split to reach a number.**
-Batch 0001 measured 1,303.6, batch 0002 1,215.7, batch 0003 1,339.0 and this batch 1,389.6. **The thread carries into batch
-0005 open, and a writer who closes it by padding has closed it wrong.**
+Batch 0001 measured 1,305.9, batch 0002 1,217.3, batch 0003 1,339.0 and this batch 1,389.6. **The thread carries into batch
+0005 open, and a writer who closes it by padding has closed it wrong.** **THE TWO FIGURES BEHIND ARE RE-MEASURED HERE AND
+DIFFER FROM WHAT EARLIER EDITIONS OF THIS PARAGRAPH PUBLISHED. Batch 0001 and batch 0002 each carried a review-fix pass, and
+one of those passes rewrote days 951 to 969 in place, so the means those two batches published were true of the prose as it
+stood before the repair and are not true of the files now on disk. The chain published in this paragraph, in
+`state/current.md`, `state/continuity.md`, `state/open-threads.md` and `reviews/volume-20/batch-0004-fix.md` is now the
+on-disk chain, read with the instrument §7 names. The two batches' own summaries still print their pre-repair means and
+this phase does not own those files; the debt is recorded at `state/open-threads.md`.**
 
 **SENTENCES.** Split one way, a bolded speech and its attribution are joined by the splitter because the speaker marker
 sits between them with no full stop, and that is a measurement artefact. Counted on the whole batch with `---` section
@@ -407,23 +418,34 @@ duplicate, and no day, no weekday, no Bare-Month ordinal, no pressure tag, no fr
 them. Re-run in the same run as every other figure above, after every prose change: still 0 at thirty characters and 0 at
 thirty-eight.**
 
-**SHARED RUNS. The longest contiguous word sequence shared by any two of these ten bodies is 27 tokens, and there are
-three pairs at it: `chapter-0982.md` with `chapter-0988.md`, `chapter-0982.md` with `chapter-0989.md`, and
-`chapter-0988.md` with `chapter-0989.md`. All three are the same standing geometry, which is that the sheet lies on the
-wood of that bench at the far end of it with three lines on it a hand's width in from its right edge.** §17.21 requires this
+**SHARED RUNS. On the token published in §7 the longest run shared by any two of these ten bodies is 29 tokens, and there
+is ONE pair at it, `chapter-0982.md` with `chapter-0989.md`, and it is *the sheet lay on the wood of that bench at the
+far end of it with three lines on it a hand's width in from its right edge and*. Two pairs stand one token under it at 28,
+`chapter-0982.md` with `chapter-0988.md` and `chapter-0988.md` with `chapter-0989.md`, and all three are the same standing
+clause about where that sheet lies, which is the thing the clause exists to fix in place.** §17.21 requires this
 record to name the cases an outside reader could argue the other way, and here they are. **Measured over all forty files of
-days 951 to 990 the longest run is 34 tokens, and the pair is `chapter-0968.md` with `chapter-0971.md`, which are two
-files of the batch behind this one and neither of them is one of these ten.** Batch 0001 measured 17 and batch 0002
+days 951 to 990 the longest run is 35 tokens, and there are TWO pairs at it and not one: `chapter-0968.md` with
+`chapter-0971.md`, and `chapter-0973.md` with `chapter-0990.md`. AN EARLIER EDITION OF THIS PARAGRAPH PUBLISHED 27 AND 34,
+NAMED THREE PAIRS TIED AT THE FIRST FIGURE AND ONE PAIR AT THE SECOND, AND SAID THAT NEITHER OF THE LONGEST PAIRS WAS ONE
+OF THESE TEN. THE FIGURES WERE UNDERSTATED, THE THREE PAIRS WERE NOT TIED, AND THAT LAST SENTENCE WAS WRONG, BECAUSE 0990
+IS ONE OF THESE TEN. ALL THREE OF THOSE ARE CORRECTED HERE AGAIN BY INSTRUMENT.** The 0973 and 0990 run is the fixed
+geometry of that door — *on the outside of the door at the foot of that stair and the bare board under it stood clear of
+the near plank by the width of a thumb with on* — and the two occurrences differ from one another by a comma after *stair*
+and by nothing else. Under it stand 34 at `chapter-0975.md` with `chapter-0985.md` and 33 at `chapter-0972.md` with
+`chapter-0973.md`. Batch 0001 measured 17 and batch 0002
 measured 20; batch 0003 measured 33 on its own ten and named all four of the pairs at thirty or over as standing geometry.
-**This batch measures 27 on its own ten and 34 over forty, and the twenty-seven is a position clause about a sheet on a
-bench and not a copied sentence, and none of the four is a paragraph carried across files.** No run of twenty-seven tokens
-is prose that has been copied, and the three pairs are counted rather than hidden.
+**This batch measures 29 on its own ten and 35 over forty, and neither is prose that has been copied: one is a position
+clause about a sheet on a bench and the other is the standing geometry of a door at the foot of a stair, and no paragraph
+is carried across files by either.** No run of twenty-nine tokens
+is prose that has been copied, and every pair at twenty-eight or over is counted rather than hidden.
 
-**INSIDE ONE BODY. The longest sequence of words repeated at two different positions inside a single file is 11, and it is
-11 in two of these ten files: in `chapter-0984.md` it is *and the edge of the cloth finds that and hangs on*, which is the
-tradesman's own sentence repeated once in narration and once inside his own mouth on the same morning, and in
-`chapter-0988.md` it is *along the foot of his own board with his own thumb*. The other eight files measure 10, 10, 9, 9,
-7, 9, 10 and 8.** In five of those ten the repeated sequence is the age-and-trade handle that §17.9 requires to stand beside
+**INSIDE ONE BODY. On the same tokens the longest sequence repeated at two different positions inside a single file is 12
+tokens, and it is in `chapter-0984.md` alone, where it is *and the edge of the cloth finds that and hangs on it*, which is
+the tradesman's own sentence repeated once in narration and once inside his own mouth on the same morning; the ending *it*
+is inside the run, and an earlier edition of this paragraph cut it off and printed eleven. Eleven stands in two of the
+other files: in `chapter-0981.md` it is *the man of about thirty-nine who trades on a board*, and in
+`chapter-0988.md` it is *along the foot of his own board with his own thumb*. The remaining seven measure 10, 9, 7, 10, 10,
+10 and 8, on days 982, 983, 985, 986, 987, 989 and 990 in that order.** In five of those ten the repeated sequence is the age-and-trade handle that §17.9 requires to stand beside
 a person, and §17.5 makes that handle the thing both speech instruments read, so it cannot be varied out of existence and
 the length of it is a consequence of that rule and not a lapse in it.
 
@@ -526,7 +548,7 @@ side, bodies with the heading line out: **287 in 13,059 words on days 951 to 960
 geometry, and no held string was traded against either one.** Read as negations per thousand words the four points are
 21.98, 24.23, 15.98 and 17.27, so this batch sits between the two batches before it and above the batch immediately behind it
 and nowhere near either extreme. The thickness the three batches behind this one were accused of is not established and is
-not a direction: four points at 45.5, 41.3, 62.6 and 58.0 have two high and two low, and 3.30, 3.93, 3.14 and 4.00 have two
+not a direction: four points at 45.5, 41.3, 62.6 and 57.9 have two high and two low, and 3.30, 3.93, 3.14 and 4.00 have two
 high and two low.
 
 **AND ONE NOTE ON AN INSTRUMENT, PUBLISHED BECAUSE A LATER READER WILL OTHERWISE COMPARE TWO DIFFERENT NUMBERS FOR THE SAME

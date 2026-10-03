@@ -140,7 +140,7 @@ string in this volume that has to carry it. **A writer who wants the ordinary wo
 writer who wants it because it is a nice word has run out.**
 
 **THE MEAN LENGTH IS 1,389.6 AND THE DEBT IS OPEN BUT IT HAS MOVED.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words.
-This batch is 810.4 a chapter under the floor, against 865 for the batch behind it. **Nothing was padded and no finished scene
+This batch is 810.4 a chapter under the floor, against 861.0 for the batch behind it. **Nothing was padded and no finished scene
 was split to reach a number, and the debt carries into batch 0005 open.**
 
 **AND THE THREE FIGURES THAT HAVE NOW GOT FOUR POINTS EACH, NONE OF WHICH ESTABLISHES A DIRECTION.** Negation tokens one in

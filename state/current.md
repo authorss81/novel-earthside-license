@@ -67,9 +67,11 @@ contractions 0. Repeated sentences of thirty characters or more across all forty
 were 14 on the first draft of these ten.** Openings beginning with a hand or hands on a surface: **0 of 10**. *By the light's
 going* in 0 of 10. The literal string *question*: **1 in 1 file** in the bodies, being inside the panel on 983, and **0 in 0
 files** in the headings. **The worst *nobody*-clause chain in any one sentence: 2, against a ceiling of 3. The longest
-contiguous word run shared by any two of the ten: 27 tokens, and all three pairs at that length are the same standing clause
-about a sheet on a bench; over all forty files of days 951 to 990 it is 34 tokens and the pair is 0968 with 0971, neither of
-them one of these ten. The highest similarity between any two of the ten closing paragraphs: 0.107.**
+contiguous word run shared by any two of the ten: 29 tokens, on the one pair `chapter-0982.md` with `chapter-0989.md`, with
+two pairs at 28 under it and all three the same standing clause about a sheet on a bench; over all forty files of days 951
+to 990 it is 35 tokens with **two** pairs at it, `chapter-0968.md` with `chapter-0971.md` and `chapter-0973.md` with
+`chapter-0990.md`, **so one of the two longest pairs is a pair these ten do own.** The highest similarity between any two of
+the ten closing paragraphs: 0.107.**
 
 ## THE THREE THINGS THE FIX PASSES ON THE TWO BATCHES BEHIND FOUND, AND THAT STILL HOLD
 
@@ -97,9 +99,11 @@ one and is not reopened here.**
 ## THE TWO DEBTS THIS FILE CARRIES FORWARD, BOTH OPEN ON PURPOSE
 
 **THE LENGTH SHORTFALL, AND IT HAS MOVED AGAIN.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words an ordinary chapter and
-the ten days behind measure a mean of **1,389.6**, which is 810.4 a chapter under the floor and **50.7 above the batch behind
-it**. It is inherited, not new: Volume 19's last twenty measure 1,160.2, batch 0001 of this volume 1,303.6, batch 0002
-1,215.7, batch 0003 1,339.0. **The movement was made by opening out scenes that had room — a sheet written on in front of a
+the ten days behind measure a mean of **1,389.6**, which is 810.4 a chapter under the floor and **50.6 above the batch behind
+it**. It is inherited, not new: Volume 19's last twenty measure 1,160.2, batch 0001 of this volume 1,305.9, batch 0002
+1,217.3, batch 0003 1,339.0. **The two batches behind were re-measured on the files now on disk and their own summaries
+still print the means they stood at before their review-fix passes rewrote those days; the chain above is the on-disk
+chain and the debt is recorded at `state/open-threads.md`.** **The movement was made by opening out scenes that had room — a sheet written on in front of a
 man who had been sitting on it since the fourth hour, four minutes in front of a wall, nine hundred paces out to a yard and
 four hundred yards back with a bucket, a trestle foot shaved on dry ground, a walk to the store's end of a row and the
 coming back — and by splitting forty-two sentences that were over sixty words long, and by adding no paragraph that was not

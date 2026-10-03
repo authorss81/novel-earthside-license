@@ -13,11 +13,21 @@ against it. Nothing was deleted.**
 
 **A reviewer returned eight hard findings on those ten days and three of them were this volume's own record publishing figures
 its own instrument does not return. The working is `reviews/volume-20/batch-0003-fix.md`. Four rules stand from it, and this
-batch obeyed all four and named two of them in its own record because they were the ones it was most likely to break.**
+file formerly said that batch 0004 obeyed all four. IT DID NOT OBEY THE FIRST, AND THE FIRST IS THE ONE THAT MATTERS MOST,
+SO THE CLAIM IS CORRECTED HERE. Batch 0004 broke rule 1 in the same shape rule 1 was written about: it published 27 tokens
+and named three pairs as tied at it, and the three named pairs return 29, 28 and 28, and it published 34 tokens over forty
+files for one named pair while a second pair sat tied above it at 35. It then used that arithmetic to say that neither of
+the longest pairs was one of its own ten, which was false, because `chapter-0990.md` is one of the ten and is half of the
+tied pair.** **The figures and the sentence are corrected in `reviews/volume-20/batch-0004.md` §7, in
+`state/batch-summaries/volume-20-batch-0004.md` and in `state/current.md`, and the instrument is now published so the count
+and the pair cannot drift apart again. The prose was never at fault: no sentence was copied, and both long runs are
+standing geometry. A pass that finds a rule broken should correct the claim rather than defend it.**
 
 1. **A RECORD FIGURE THAT NAMES A PAIR MUST BE THE FIGURE THAT NAMED PAIR RETURNS.** That record printed 33 tokens and named
    0972 and 0973; the longest run was 34 tokens and it was 0973 and 0976, which was a §17.17 breach in the prose that the
-   arithmetic was arranged not to show. **Publish the count and the pair together, and if a repair moves one it moves both.**
+   arithmetic was arranged not to show. **Publish the count and the pair together, and if a repair moves one it moves both.
+   Publish the tokenizer as well, and publish every pair at the top length rather than one of them. This batch broke this
+   rule twice over and the repair is at the head of this section.**
    **This batch's own first draft had a fifty-seven-token run between 0984 and 0990 and it published the figure after the
    prose was fixed rather than before it.**
 2. **A RECORD MAY NOT ASSERT AN ABSENCE THAT A CHAPTER OF ITS OWN BATCH CONTRADICTS.** The standing case is that stair. The
@@ -102,10 +112,10 @@ stay shut. The tally-board is not turned over and its two lines of grey grit are
 unanswerable because nobody in that room can say what was asked and the two women of twenty-nine are not established as one
 woman or two, and that is a finding and not a gap to be filled.**
 
-## THE THREE THREADS ABOUT THE WRITING BEFORE THOSE FOUR RULES, WHICH ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD
+## THE FOUR THREADS ABOUT THE WRITING BEFORE THOSE FOUR RULES, WHICH ARE ABOUT THE MANUSCRIPT AND NOT ABOUT THE WORLD
 
 **1. THE LENGTH SHORTFALL, OPEN ON PURPOSE, AND IT HAS MOVED AGAIN.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words
-and days 981 to 990 measure a mean of **1,389.6**, against 1,339.0 for the batch behind it, 1,215.7 and 1,303.6. **The
+and days 981 to 990 measure a mean of **1,389.6**, against 1,339.0 for the batch behind it, 1,217.3 and 1,305.9. **The
 movement was made by opening out six scenes that had room and by splitting forty-two sentences that were over sixty words
 long, and by adding no paragraph that was not carrying something. Nothing was padded and no finished scene was split to reach
 a number, and the thread stays open across batch 0005. A writer who closes it by padding has closed it wrong.**
@@ -125,6 +135,22 @@ closer in every one is `," **` — 0 sites.** Volume 19 still carries 21 outstan
 volumes, and the figure is carried here so that a later writer does not mistake it for a Volume 20 debt.** Volumes 17 and 18
 carry 218 such tags between them and every one is already correct, so the fault is not universal and those two volumes are
 the model.
+
+**4. THE COMPARATOR MEANS OF BATCHES 0001 AND 0002 ARE PRE-REPAIR, AND THE DOWNSTREAM CHAIN IS NOW CORRECTED.** Open on
+purpose, inherited, and it is a record fault rather than a prose fault. `state/batch-summaries/volume-20-batch-0001.md` still
+publishes a mean of **1,303.6** and `state/batch-summaries/volume-20-batch-0002.md` still publishes **1,215.1**, and the two
+figures are of the prose as it stood BEFORE their own review-fix passes. One repair pass, commit `66d4329`, rewrote days 951
+to 969 in place, so both published means went out of date in the same commit that changed the words. **Re-measured on the
+files now on disk with the instrument `reviews/volume-20/batch-0004.md` §7 names, batch 0001 is 13,059 words and a mean of
+1,305.9 and batch 0002 is 12,173 words and a mean of 1,217.3.** Those two batches also disagree with each other and with
+`state/current.md`, which printed 1,215.7 for batch 0002 against its own summary's 1,215.1. **The review-fix on batch 0004 has
+corrected every downstream republication of the chain — `state/current.md`, `state/continuity.md`, this file,
+`reviews/volume-20/batch-0004.md` and `reviews/volume-20/batch-0004-fix.md`, and the floor deltas that follow from it, which
+were 865 and 54.6 where they are now 861.0 and 50.6 — and has NOT edited the two batches' own summaries, because a pass on
+batch 0004 does not own them and the archives hold their working. A pass that owns batches 0001 and 0002 should re-measure
+both summaries, correct 1,303.6 to 1,305.9 and 1,215.1 to 1,217.3, and settle the 1,215.1 against 1,215.7 disagreement. This
+is the same failure as rule 1 at the head of this file, one level further out: a figure that was true when it was published and
+is not true of the corpus it names.**
 
 ---
 

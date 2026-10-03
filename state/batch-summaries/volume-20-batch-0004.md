@@ -16,9 +16,11 @@ never been drawn.**
 and 1373; total **13,896**, mean **1,389.6**, shortest 1,199, longest 1,672. Paragraphs 248, of which 7 are speech
 paragraphs. **Panel lines 1 across all ten and the one is on 983.** Digits in bodies **0**. Titles eight and nine words.
 Repeated sentences of thirty characters or more across all forty files of days 951 to 990: **0**, and there were 14 on this
-batch's first draft. Longest shared run **27 tokens inside these ten**, all three pairs at it being the same clause about a
-sheet on a bench, and **34 tokens over all forty files**, that pair being `chapter-0968.md` with `chapter-0971.md`, neither
-of them one of these ten. Highest similarity between any two of the ten closings **0.107**. Worst *nobody*-clause chain in any
+batch's first draft. Longest shared run **29 tokens inside these ten**, the one pair at it being `chapter-0982.md` with
+`chapter-0989.md` and two pairs one token under it at 28, all three the same standing clause about a sheet on a bench, and
+**35 tokens over all forty files** with **two** pairs at it, `chapter-0968.md` with `chapter-0971.md` and `chapter-0973.md`
+with `chapter-0990.md`, **so one of the two longest pairs is a pair this batch does own.** Highest similarity between any two
+of the ten closings **0.107**. Worst *nobody*-clause chain in any
 one sentence **2**, against a ceiling of 3. Full-descriptor restatements **0**. Openings beginning with a hand or hands on a
 surface **0 of 10**. *By the light's going* **0 of 10**. *question* **1 in 1 file** in the bodies, being inside the panel on
 983, and **0 in 0 files** in the headings. Negation tokens **1 in 57.9** against 45.5, 41.3 and 62.6 on the three sets behind;
