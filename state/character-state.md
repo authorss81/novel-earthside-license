@@ -450,3 +450,85 @@ No person invented, no descriptor taken, no merge. Adrian in 0921 (lid; heat wan
 **WHAT MOVED IN THE PEOPLE, WHICH IS THREE THINGS AND ALL THREE ARE INSIDE A MAN'S OWN WAY OF ACTING.** Adrian Vale, Stage 2 throughout and in two days of ten as §4.1 fixes: on 0921 he looks the length of the room before he asks and names the three things in it that would come to him if he did, and asks in the ordinary way, and is not thanked; on 0927 he reads the rope and the door and lifts the door and it lifts as far as the chair and no further. **The keeper** still keeps the first book, still names her own cost before anything else on her two word-mornings, and still is not thanked on any of them. **The tradesman** still says his own cost first on 0921 and still carries his board with its face in, and the figure of 924 stands in the space as a rate and not a name. **The stallholder** still holds his board face in with the chalk pocketed, and on 0926 he now looks at a dark line the damp has carried along the bottom of his own board's bare back and tells nobody about it. **The wharf man** still names his own cost first on 930 and still does not turn the tally-board over.
 
 **WHAT DID NOT MOVE: nobody thanked anybody, nobody was told anybody else was right, nobody agreed with anybody, no mouth improved on one word, and nothing whatever was done about any of the seven words on any of the days they were said.**
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 931 TO 940 DID TO THE PEOPLE. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**No person invented, no descriptor taken, no merge, no handle altered, no title given to anybody, and no
+relationship moved or mended.**
+
+**ADRIAN VALE.** In four of these ten and in six he is not, and the six are 0931, 0932, 0934, 0936, 0937 and
+0938, where `outline/volume-19.md` §4.1 forbids him. **Stage 2 on all ten days and no working performed and no
+threshold opened and no workway offered and none asked for.** On 933 he walked the shut length and back twice,
+about nine hundred paces each way, put his hands into the two worn places in the stone, shut the gate, and stood
+with his own hand on the iron of it while people stood at it in the water and then went back up the road, **and
+he caused a real harm and obtained nothing; nobody thanked him, nobody said he was right, nobody said he was wrong,
+nobody was waiting for him to be useful and he was not useful to them.** On 935 his hand stopped a finger short
+of the corner of a folded sheet of road that was not his, **he wanted to be told one thing about where she was
+sleeping tonight and did not get it, and what he got was a sentence he had no way of using**, and he said one
+thing once in his own words and did not speak again that morning. On 939 his two thumbs went along the sill of a
+store door a hand's breadth across and he said out loud that the putting of a board to it was not his to decide,
+**and the man of about thirty-eight at that salt wharf put the board down and lost the light and nobody thanked
+him and nobody said he was wrong.** On 940 he came up that stair, named his own cost out loud first in his own
+words, said one thing once, had it said back to him in a woman's own words, and wrote his own name into the second
+book in his own hand at the foot of the column that holds figures with a day against it, **and no mouth in that
+room looked at what was under his hand while it was going in, and he read nothing out and nobody read anything out
+and nobody asked whose line it was. He opened nothing, he closed nothing and he repaired nothing.** From the
+morning after, no mouth in that room may treat his name as an answer to anything, and that is rendered as ordinary
+behaviour and never as a sentence about what he has lost.
+
+**THE WOMAN OF ABOUT TWENTY-NINE WHO KEEPS A PUBLIC REGISTER.** On 934 she paid the seventh and last of this
+volume's costs, in her own construction and before anything else that morning, and said the seventh word out loud
+once, with the date in chalk on the outside of the door behind her, and was thanked by nobody and had nothing done
+about it at any hour of that day. **On 935 she went on with the head of her own page while a woman came up that
+stair.** On 939 she worked out with two men where a book would sleep, drew seven marks in the dust on the top of
+that bench with her own finger and wrote nothing down anywhere else, said out loud that a book standing in a room
+makes the people standing in that room nothing at all, and **rubbed out one of the seven marks at the light's
+going and said nothing about it and was asked nothing.** On 940 she said Adrian Vale's thing back to him in her
+own words on the same morning, once, and wrote nothing herself that day. **Nobody thanked her on any of the five
+days she is in and nobody improved on one word of anything she said.**
+
+**THE MAN OF ABOUT THIRTY-NINE WHO TRADES ON A BOARD.** Nine feet off her on 934 with the cloth going over the
+face of his own board and his head down, and he did not turn it. On 939 he proposed the bare piece of board under
+the day as a place a book would sleep, went out along the row with the man who came up that stair, and looked at
+a board that about four people a day walk past and about half of them take a rate off without stopping. **His
+figure of 924 still stands in the space and was named once in these ten days and was not printed and not
+explained and not asked about, and he did not go over it again on 940.** He answered a question on 932 and got
+nothing by answering it.
+
+**THE MAN OF ABOUT THIRTY-FOUR WHO KEEPS A STALL TWO STALLS ALONG.** Said one thing once on 932 and got nothing
+for it. **On 938 he was alone with the second book for the better part of a quarter of an hour, with his own hand
+flat on the bench a hand's width from it and nothing written, and he saw that the crack down the length of the
+column had been filled with a different stone and did not put his hand on it and told nobody all day.** He changed
+walls in that room on 938 and did not come back to the near end of that bench. His board was face in on all ten
+days and the piece of chalk did not come out of his inside breast pocket on any of them.
+
+**THE MAN OF ABOUT TWENTY-SEVEN.** Carried the box of chalk in off the step on 931 and nobody asked him why. **On
+937 his piece of work did not come out**: standing water in a hollow in the stone came up out of the ground as
+fast as he wicked it out, he went at it again and again, he said so out loud because the step is his to keep, and
+he went on with it after the light went. **No heat was fetched for the trough on any of the ten days and the ice in
+it was not broken on any of them.**
+
+**THE MAN OF ABOUT THIRTY-EIGHT AT THAT SALT WHARF.** Took nine boards off the top of his own stack and got them
+across eleven miles of flats and back and stood them on edge against his own wall out of the wet on 936, and lost
+the light on 939 to a man with his thumbs on his own door sill. **His tally-board was not turned over on any of
+these ten days and its two lines of grey grit were not counted as figures on any of them**, and his store door a
+hand's breadth across took no board on any of them.
+
+**THE MAN OF ABOUT THIRTY-ONE WHO CARRIES THINGS FOR A LIVING.** Carried his satchel eleven miles over the flats
+on 936 with the flap coming up once on the crest of a rise and going down again and nothing out of it, and **did
+not open it at any hour of that day and no mouth in that yard asked him why he opens nothing he carries and he
+offered no word of reason.** He answered the question on 932 and did not carry the book.
+
+**THE MAN OF ABOUT SIXTY.** Stood at the shafts of his own handcart a good way back on the shut road on 933 with
+the rain running off the brim of his own hat into the bed of the cart, said one thing about his own business, and
+did not come past Adrian Vale at the gate and did not ask him one thing about it and did not say he was right or
+that he was wrong. He pushed the boards on 936 and took them off the barrow with the flat of his own hand.
+
+**THE WOMAN OF ABOUT FIFTY-TWO, THE WOMAN OF ABOUT SIXTY-NINE WITH HER TIN, THE MAN OF ABOUT FIFTY-SEVEN AND THE
+WOMAN OF ABOUT FIFTY-FOUR** are on none of these ten days except the woman of about fifty-two, who is named in
+six of the ten bodies and was asked nothing on any of them, and **the fifth condition was not given on 935 or on
+any other day of the ten.** The two women of twenty-nine, the two men of about thirty-eight and the two
+stallholders of about thirty-four were never merged and never settled in any of the ten, and **the man who came up
+that stair was in that room on 935 and 939 only and his name went nowhere near any of these pages.**

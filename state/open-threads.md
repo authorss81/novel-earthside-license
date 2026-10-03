@@ -321,3 +321,61 @@ Closed nothing, answered nothing, mended nothing. Paid on pages: the fourth word
 **One thread is better formed by the repair and none is moved.** The panel of §6.8 is still unanswered and unanswerable on 929 and the twenty days after it, and **the discovery that closes 0929 — the damp coming into a man's palm off the plaster and the place he took his hand from staying warm in the shape of his own hand and not in the shape of anything else — puts the panel's own subject into the page as a physical fact without answering it and without a mouth reading the block aloud.** That is a thread with more to carry forward, not less, and it may not be answered on any day of the twenty-one that follow.
 
 **And the two threads that were already open are still open and were not leaned on:** the reason the satchel is never opened, and the reason nobody asks the man who put the rope there what it is for. **A debt is added, and it is about the writing and not about the fiction: six of these ten chapters open on the same hands-on-a-thing construction because six of their cards specify that beat element by element.** That is a defect in the card format, it is named in `reviews/volume-19/batch-0003.md` §8 so that the next writer is not told by silence that the opening frame is settled, and it will recur on every batch whose cards are written that way.
+
+---
+
+# WHAT THE BATCH THAT WROTE DAYS 931 TO 940 DID TO THE THREADS. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**Closed nothing, answered nothing, mended nothing, and prepared nothing.** Paid on pages: the seventh and last
+word-day (934), the gate shut for one morning (933) and open from 934, the promise (935), the seven places worked
+out on the bench in dust (939), the act and the line in the second book (940). **The resolution on 943 and the one
+mark on the bare board on 950 are still open, still unprepared, and were named in no card and no chapter of this
+batch.**
+
+**1. THE SEVEN WORDS ARE ALL SEVEN SPOKEN AND ALL SEVEN ARE NOW HISTORY.** Measured on the ten bodies and the ten
+headings in this run, word-bounded on both case flags: **the word that belongs to 934 stands at one occurrence in
+one file and at zero in every heading, said out loud once by the person the plan fixes, preceded by that person's
+own cost named out loud as the first speech paragraph and going on longer than anything else said in that room
+that morning, unthanked, and with nothing whatever done about it at any hour of that day. THE OTHER SIX STAND AT
+ZERO IN TEN BODIES AND ZERO IN TEN HEADINGS.** This thread is closed as an open question and is not a debt.
+
+**2. THE GATE THREAD HAS A MORNING IN IT NOW.** The gate named as standing open a fortnight, twice, in two
+different words, by two people, on two mornings (914) is a closed observation, and 933 put a morning on the other
+side of it: the gate stood shut for the morning of 933 with the far side under water, and people stood at it in
+the rain and went back up the road, and Adrian Vale caused it and obtained nothing and nobody thanked him and
+nobody said he was wrong. **The gate stands open on every morning from 934.** No figure of how many stood there
+is on any of these pages and none may be supplied later from one.
+
+**3. THE SECOND BOOK HAS A LINE IN IT THAT IS THE VOLUME'S ACT, AND A CRACK IN IT THAT PREDATES THE VOLUME.**
+The line of 940 is standing and stays standing. The filled crack of 938 is a new open thread: **somebody mended
+that book a long time ago with a stone that is not from it, and no mouth in that room knows who or when, and the
+fix went out of sight in the damp by the light's going.** It may not be traced on any of the ten days remaining
+of this volume and this batch did not trace it.
+
+**4. THE SEVEN PLACES ARE WORKED OUT AND ONE OF THEM WAS TAKEN OFF THE BENCH.** Seven marks in the dust on 939,
+six standing at the light's going, and nobody asked. **No place was renamed and none was added**, the seven are
+the plan's seven, no book was called anything and nobody was given a title. What a book in a room is stays
+unsaid.
+
+**5. THE SECOND-BOOK THREAD IS A STANDING THREAD AND NOT A QUESTION ANY MORE.** It is on the bench while in use
+and on the shelf otherwise; its cover slab settles and is drawn back; its column is a groove nobody in that room
+has explained; and it now holds two lines in the column that holds figures, the first of 918 and the second of
+940. **No seventh stroke goes into the register on any of the ten days remaining of this volume.**
+
+**6. THE CONSENT FRACTURE, THE FIFTH CONDITION, THE MARK OF DAY 440, THE WORD IN THE COLUMN ON THE RIGHT OF THE
+KEEPER'S PAGE, THE WORD UNDER THE DAY ON THE SECOND SLATE, THE FOUR UNMERGED PAIRS OF PEOPLE, THE STOOL, THE
+ROPE, THE FENCE, THE SATCHEL, THE TALLY-BOARD AND THE BARE BOARD** — carried whole and all untouched. **On 935
+milestone ten was paid as a promise in each of their own words, once each, and the paying of it is not the mending
+of anything: no relationship was repaired on any of these ten days, no condition was given, no name went in a
+column of either book on that morning, and they did not speak again after the two things were said and neither of
+them looked at the other.**
+
+**7. THE PANEL OF 929 IS STILL UNANSWERED AND WAS NOT ANSWERED ON ANY OF THESE TEN DAYS.** The discovery that
+closes 0938 — a crack down the length of the column that somebody filled, well, a long time ago, and the fix going
+out of sight in one morning's damp — puts the panel's own subject into a page that never mentions the panel and
+never reads a line out of either book. **It is not an answer to the panel and may not be read as one.**
+
+**8. AND THE DEBT THIS BATCH ADDS, which is about the writing and not about the fiction.** The plan carries two
+incompatible rules about day 940: §16 item 14 and §6.9. Both are the plan of record, the batch obeyed both as far
+as a page can, and the collision is published in `reviews/volume-19/batch-0004.md` §8 with both arguments and with
+neither decided here.

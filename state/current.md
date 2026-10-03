@@ -358,3 +358,56 @@ else about it.
 **REPAIRED HERE.** `outline/series.md` now carries a Volume 19 entry, which is the first debt at `outline/volume-19.md` §21.4. A hold leak in `state/continuity.md` — a paraphrase of the decision the plan holds at §6.6 — was rewritten. **`outline/volume-19.md` was not opened and no plan text changed.**
 
 **NEXT: `workspace/volume-19/batch-0004/PROMPT.md`, Chapters 0931 to 0940, days 931 to 940.** It is the only directory this pass created.
+
+---
+
+# THE BATCH THAT WROTE CHAPTERS 0931 TO 0940, DAYS 931 TO 940. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**TEN CHAPTERS EXIST. The manuscript is at nine hundred and forty chapters and no chapter past 0940 exists.** File
+of record is `reviews/volume-19/batch-0004.md`; index is `state/batch-summaries/volume-19-batch-0004.md`. **The
+record is the writer's own and no independent reader exists**, which `reviews/volume-16/` does not exist being the
+reason for.
+
+**REACHED:** the seventh and last word-day on 934 with her own cost named first and nothing done about it at any
+hour of that day; the gate shut for the morning of 933 and standing open again from 934; the promise on 935; the
+seven places worked out on 939; **and the act on 940.** **NOT REACHED:** the resolution on 943 and the one mark on
+the bare piece of board on 950, and neither was prepared by anything on these ten pages.
+
+**STANDING AT DAY 940.** The register stands at six strokes, none struck, no seventh entered on any of the ten.
+The second book stands on the bench while it is in use and on the shelf behind the bench otherwise, with its
+cover slab drawn back off the leaf since 938. **Adrian Vale's own name is in the second book in the column that
+holds figures with a day against it, in his own hand, written on 940, and the name is not printed on the page
+because a chapter may not read a line out.** The box of chalk stands on the table inside the room and the step
+below the door stands bare. The bar lies along the top step out of its two sockets. The bare piece of board under
+the date in chalk has nothing on it and **nothing went under that date on any of the ten days**. The gate stands
+open. The satchel has not been opened. The tally-board is face up with its grit unbroken and uncounted. The trough
+has had no heat and its ice was not broken. The rope was not lifted and the man who put it there was not asked. The
+fence was not measured and no post was moved. The space on the tradesman's board holds the figure of 924 and it
+was named on 940 and not explained and not counted. **Nine boards came off the top of the stack at the wharf on 936
+and are standing on edge against the wall out of the wet, and a line of broken crust runs from the door of that
+yard across the flats and back.** **A crack down the length of the column on the second book is filled with a
+paler and harder stone, and by the light of 938 the fill had taken the colour of the stone round it.** **Seven
+marks were drawn in the dust on the top of the bench on 939 and six were standing at the light's going.** **The
+room was never counted and no mouth in it reached a figure on any of the ten days.**
+
+**MUST CARRY INTO THE NEXT BATCH.** Day 941 is a Thursday and the six hundred and twenty-sixth day of the Bare
+Month, and `outline/volume-19.md` §4.1 permits Adrian Vale in it: he answers a question put to him in the ordinary
+course of that room and **nobody acts on the answer and nobody tells him it was not wanted.** **From the morning
+after 940 no mouth in that room may treat his name as an answer to anything, and that is rendered as ordinary
+behaviour and never as a sentence about what he has lost.** The resolution is 943 and the one mark on the bare
+board is 950.
+
+**OWED, AND BY WHOM, UNCHANGED BY THIS BATCH.** `state/phase-ledger.json` still reads `phase-000-bootstrap`. The
+three deferral markers left in `workspace/volume-19/batch-0003/` on a finished phase are dispatch state and were
+left alone. `outline/volume-03.md` does not exist. `NOVEL_SPEC.md`'s Status section is stale. `bible/power-system.md`
+has no §65 and no §66. The calendar fault at `chapters/volume-18/chapter-0864.md:5` stands and was not quoted,
+leaned on or repaired. `reviews/volume-16/` does not exist, **so every finding ever taken over this manuscript has
+been taken by the agent kind that wrote it, and the ten days behind this block are no exception.**
+
+**AND THE ONE DEBT THIS BATCH ADDS, which is about the plan and not about the pages.** `outline/volume-19.md`
+§16 item 14 and §6.9 collide on day 940 and the collision is named in `reviews/volume-19/batch-0004.md` §8 with
+both arguments and with neither decided here.
+
+**THE NEXT PHASE IS `workspace/volume-19/batch-0005/` AND IT DOES NOT EXIST AND THIS RUN DID NOT CREATE IT AND
+WROTE NO PROMPT FOR IT AND DRAFTED NO CARDS FOR IT.** It is Chapters 0941 to 0950, days 941 to 950, the last batch
+of the volume before the close. **This block names the next phase and writes nothing else about it.**

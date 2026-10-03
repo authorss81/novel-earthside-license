@@ -394,3 +394,58 @@ and including on 918 where a man puts his own name down and a woman puts a sixth
 **Two things this block adds to the layer.** (1) **A hold leak in an older volume's block in this file was closed:** *a second book comes onto that bench on day 925 and does not answer to the keeper* was a paraphrase of the decision the plan holds at §6.6, in a file the prompt forbids that wording in. It now reads *and it is not the keeper's, and its wording is not restated in this file.* (2) **The two Adrian days now carry his observation rather than his stillness,** which changes no standing object and no negative: on 0921 he reads the length of the room before he asks and sees the three things in it that would come to him if he asked; on 0927 he reads the rope lying in one line and not in two, and lifts the door and it stops at the chair. **The heat is still not fetched, the rope is still not cut, the man who put it there is still asked nothing, nobody still waits for him to be useful and he is still not useful.**
 
 **And one new material fact was written into two chapters, both inside a day's own object:** a gap under the cockled head of a leaf on 0922, and a dark line the damp carried along the bottom edge of the bare back of a board on 0926. Neither is a new object and neither is named, and neither is a place.
+
+---
+
+## WHAT THE BATCH THAT WROTE DAYS 931 TO 940 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**Four objects changed state and one room changed; nothing else moved and nothing was taken out.**
+
+1. **THE BOX OF CHALK IS INSIDE THE ROOM.** On 931 the man of about twenty-seven carried it in off the step below
+   the door at the foot of the stair, where it had stood since before the flood, and set it down on the table, and
+   the step below that door stands bare from that morning. **The lid still stands off it at one corner, no stick
+   came out of the box on any of the ten days, and nobody in that room asked where it had been put or who had
+   carried it in or when.** The grit at the top of that step holds a clean rectangle that the rain has not got
+   into and that is going.
+2. **THE GATE WAS SHUT FOR THE MORNING OF 933 AND STANDS OPEN ON EVERY MORNING AFTER IT.** Adrian Vale shut it at
+   about the eighth hour of 933, with his own hand on it, because the far side of the metalling was under water
+   and had nothing on it to stand on. **People had gone through it before he shut it and nobody went through it
+   after, and those who came to it stood in the water until the light went and then went back up the road on the
+   side they had come from. Nobody thanked him, nobody said he was right and nobody said he was wrong, and the
+   man of about sixty stood at his own shafts a good way back and did not turn round about it. No chapter of these
+   ten prints the figure of how many stood there.**
+3. **NINE BOARDS CAME OFF THE STACK AT THE WHARF ON 936 AND ARE STANDING ON EDGE AGAINST THE WALL UNDER THE EAVE,
+   OUT OF THE WET, and the stack is nine boards shorter.** They went out and back on the barrow across ground that
+   is hard on top and wet underneath. **A line of broken crust runs from the door of that yard out across the
+   flats and back, and by the light's going the rims had dried pale enough that a person could walk the line with a
+   heel on every rim and never go through. The tally-board was not turned over on any of the ten days and its two
+   lines of grey grit were not counted as figures on any of them, and the store door a hand's breadth across took
+   no board on any of the ten days.**
+4. **THE CRACK DOWN THE LENGTH OF THE COLUMN ON THE SECOND BOOK WAS FILLED BEFORE THIS VOLUME BEGAN AND NOBODY
+   KNOWS BY WHOM.** It was seen on 938 by the man of about thirty-four who keeps a stall two stalls along, alone
+   with the book for the better part of a quarter of an hour, and he did not touch it and told nobody. The fill is
+   paler and harder than the stone of the leaf and stood a hair proud of it, and by the light's going on 938 the
+   day's damp had taken its colour and there was nothing to be seen to say the book had ever been mended.
+5. **THE COVER SLAB OF THE SECOND BOOK SETTLED OF ITS OWN ACCORD ON 934** and lay across the leaf through 937, and
+   was drawn back off the leaf by 938. **Nothing was written on the second book on any of the ten days except one
+   line on 940, in Adrian Vale's own hand, at the foot of the column that holds figures, with a day against it, and
+   the name is not printed on the page.**
+6. **SEVEN MARKS WERE DRAWN IN THE DUST ON THE TOP OF THE BENCH ON 939** with the keeper's own finger, one to each
+   of the seven places, and **at the light's going she rubbed out the last of them and left the other six standing
+   and said nothing about it, and nobody in that room asked which of them she had taken off the bench and why.**
+
+**AND THE THINGS THAT DID NOT MOVE.** The register stands at six strokes with no seventh entered and none taken
+out. The bar lies along the top step out of its two sockets and was not lifted and not put back. The bare piece
+of board under the date in chalk has nothing on it and **nothing went under that date on any of the ten days.**
+The gate is shut on no day but 933 and is open on every other morning of the ten. The satchel was not opened on
+any of the ten days and no chapter says why he opens nothing he carries. The trough had no heat fetched on any of
+the ten days and the ice in it was not broken on any of them. The length of new rope was not lifted and the man
+who put it there was asked nothing at any hour of any of the ten days. The fence was not measured on any of them
+and no post was moved and no withy was put on or taken off. The space about two fingers wide on the tradesman's
+board holds the figure of 924 and was named once in these ten days, at 940, and was not printed, not explained and
+not asked about. The board on the outside wall at the far end of the market was not written on and no second nail
+went into the wall above it. The stool was named in six of the ten bodies and nobody sat on it on any of them and
+it did not move. The wall block of 929 was not printed, not read aloud and not answered on any of the ten days.
+**About four people a day went past the foot of that stair in two of the ten bodies, always with the word
+*people* after it, and was never reduced and never used as a count of anybody. The room was never counted and no
+mouth in it reached any figure by any road, including on 934 and on 940.**
