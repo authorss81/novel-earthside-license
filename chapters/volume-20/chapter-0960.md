@@ -10,7 +10,7 @@ The man of about twenty-seven had that step. At about the tenth hour the man of 
 
 The crack in the near end of that trough was running. It has been in that trough since before this flood. It runs a thread of water about the thickness of a pencil out of the stone at the near end of it and away over the lip of the step and across the flags. Where the thread crosses a joint in the flags it goes down into the joint for the width of the joint and comes up out of it on the other side and goes on. It had come about as far as the edge of the side of that yard by the tenth hour.
 
-**"That thread has been carrying grit out of that trough with it and it has been laying it along the inside of that trough against the ice all morning, and there is a line of it standing on the ice about the width of a finger. I have got a bucket and a rag and I have not broken that ice and I am not going to, and if you want the rim of that trough wiped down I can do it this afternoon and not before."** said the man of about twenty-seven, at that step with his own hand on the outside of the rim.
+**"That thread has been carrying grit out of that trough with it and it has been laying it along the inside of that trough against the ice all morning, and there is a line of it standing on the ice about the width of a finger. I have got a bucket and a rag and I have not broken that ice and I am not going to, and if you want the rim of that trough wiped down I can do it this afternoon and not before."** The man of about twenty-seven said it at that step with his own hand on the outside of the rim.
 
 **"I have had that crack since before the water came and I have watched it go across those flags every day of this flood and it has never once got to the low place at the side of that yard, and today it has got there before I have been down twice with a bucket. There is no heat in that trough and there is not going to be one, and the ice in it is not getting broken by me either."** said the man of about thirty-eight at that salt wharf, at that step with his own hands off the barrow and the thread of water going past the heel of his own boot.
 
@@ -20,7 +20,7 @@ They went along that row together to the low place in the stone at the side of t
 
 The man of about thirty-eight at that salt wharf took his own hand off the barrow shaft and put his own boot flat on the rim of the low place. He pushed his own weight onto it. The rim did not move, and the water came up over the top of his own boot about the depth of a nail and stood there.
 
-**"Eleven miles out of that yard and in to this step and my boots are not dry and they are not going to be dry tonight, and that water has got a rim now and I have never seen that rim wet all the way round."** said the man of about thirty-eight at that salt wharf, at the low place with the wet standing on the top of his own boot.
+**"Eleven miles out of that yard and in to this step and my boots are not dry and they are not going to be dry tonight, and that water has got a rim now and I have never seen that rim wet all the way round."** said the man of about thirty-eight, at the low place with the wet standing on the top of his own boot.
 
 Nobody in that yard asked him anything and nobody offered him anything and nobody said that he had come a long way. He went back along the row and out across the flats with the barrow after him and the knife still in his belt.
 

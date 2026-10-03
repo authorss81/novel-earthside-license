@@ -1,4 +1,4 @@
-# Chapter 0953 — The Tin Up Nine Steps And Down
+# Chapter 0953 — The Tin Up That Stair And Down
 
 Two hands of a man's lay flat on the stone of the ninth step from the top of that stair and stayed there while he worked out what he was going to do with them, and then they went on doing nothing at all.
 
@@ -10,11 +10,11 @@ The chair at the far side of that bench stood under the window with dust on it, 
 
 ---
 
-The woman of about sixty-nine with her tin came up the nine steps at about the sixth hour with the tin under her right arm and her own stick in the pocket of her skirt, and she came the whole way up and into that room and stopped about two feet short of the near end of that bench.
+The woman of about sixty-nine with her tin came up that stair at about the sixth hour with the tin under her right arm and her own stick in the pocket of her skirt, and she came the whole way up and into that room and stopped about two feet short of the near end of that bench.
 
 Adrian Vale got his own hand off the ninth step and came the last two steps. He went along that bench to the far end of it and took the chair by the back of it, with the folded sheet of road lying on the chair. He carried the chair and the sheet of road on it away from the window and out to the side of the room, and set it down against the wall that had nothing against it. That took the width of a person out of the walk between the bench and the wall.
 
-**"I have got a tin under my arm and it is not a thing you can hold up and set down and hold up again for the length of a morning. I have been in and out of this room for a week with it. Every time I have had the end of this bench to put things down on."** said the woman of about sixty-nine with her tin, at the two feet of clear floor where the chair had been standing, with the tin still under her arm.
+**"I have got a tin under my arm and it is not a thing you can hold up and set down and hold up again for the length of a morning. I have been in and out of this room for a week with it. Every time I have had the end of this bench to put things down on."** The woman of about sixty-nine with her tin said it at the two feet of clear floor where the chair had been standing, with the tin still under her arm.
 
 **"Then set it down when you come in and not when you have got to the end of something. I have had it under my arm coming up those steps and I have had it under my arm the whole way up, and I know what the arm is like by now and I did not know it this morning."** said the man of about thirty-one who carries things for a living, at the near wall with the satchel against his ribs.
 
@@ -30,7 +30,7 @@ He wanted to be told one thing about what was under that lid. Nobody in that roo
 
 ---
 
-At about the tenth hour she picked the tin up off the wood and put it under her arm again and went down the nine steps and out under the awning at the store's end of that row and along the flags to where the flags give out into the side of that yard. She did not go along the row to her own place at the end of it and she did not stop at the store's end and she did not put her hand on the trestle of any of them. Adrian Vale came down the nine steps after her as far as the bottom one and stood there with his own hand on the frame of the door while she went out of sight along the flags, and nobody in that room asked him why he had come down and nobody followed him.
+At about the tenth hour she picked the tin up off the wood and put it under her arm again and went down that stair and out under the awning at the store's end of that row and along the flags to where the flags give out into the side of that yard. She did not go along the row to her own place at the end of it and she did not stop at the store's end and she did not put her hand on the trestle of any of them. Adrian Vale came down that stair after her as far as the bottom step and stood there with his own hand on the frame of the door while she went out of sight along the flags, and nobody in that room asked him why he had come down and nobody followed him.
 
 The light went along the sill of that window while he was standing in it and the dust on the sill stood up where the sheet of road had been sitting on the chair in front of it, and there were two shapes pressed into that dust about a hand apart. One of them was the older and had gone soft at the edges of it. The other was at the far end of the sill and had a rim round it still standing up about the depth of a grain of rice. Neither of them had been made this morning, and nothing on that sill said which hand had put either of them down or on what day, and nothing in that room said a word about it.
 
