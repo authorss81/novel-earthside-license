@@ -185,3 +185,107 @@ frame, no held string, no name, no descriptor and no one of the seven words of V
 opened, and `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and
 `state/phase-ledger.json` were not edited. **The four threads this batch opened and the two it moved are all still open,
 and no question was answered.**
+
+---
+
+# A LATER RUN WAS HANDED THIS BATCH AGAIN AND FOUND IT ALREADY WRITTEN, AND IT RESTARTED NOTHING
+
+**`workspace/volume-20/batch-0002/PROMPT.md` was dispatched a second time after the batch was already on disk, reviewed and
+repaired. This block is that run's record. It wrote no chapter, moved no day and restated no plot, and everything above
+this line stands as the writing run and the repair pass left it.**
+
+**WHAT WAS ALREADY THERE BEFORE THIS RUN BEGAN.** Ten chapter files `chapter-0961.md` to `chapter-0970.md`; this summary;
+`reviews/volume-20/batch-0002.md`; `reviews/volume-20/batch-0002-fix.md`; the five live state files and five archive copies
+of them; and the next-phase prompt at `workspace/volume-20/batch-0003/PROMPT.md`, whose own batch has since run and been
+repaired in its turn. **The only thing this batch's directory did not carry was the runner's own completion marker, and
+that marker is a controller artifact and not a fiction file, so nothing here was missing and nothing was written to make
+it look otherwise.**
+
+## THE TEN DAYS, EACH ONE NAMED, AND THE INSTRUMENT THAT DERIVES THEM
+
+**Instrument: the run at `outline/volume-20.md` §14.1, re-derived in this run and not transcribed from that file's day
+table — day 1 is a Tuesday, so weekday = (day − 1 + index of Tuesday) mod 7 over Monday-first, and the Bare-Month ordinal
+is the day less 315. Chapter equals day on all ten, and each chapter prints its own weekday and its own ordinal in words
+in its own body, so all three are checkable from the prose and not only from this table.**
+
+| Ch | Day | Weekday | Bare-Month ordinal | Printed in its own body as |
+|---|---|---|---|---|
+| 0961 | 961 | Wednesday | 646 | the six hundred and forty-sixth day of the Bare Month |
+| 0962 | 962 | Thursday | 647 | the six hundred and forty-seventh day of the Bare Month |
+| 0963 | 963 | Friday | 648 | the six hundred and forty-eighth day of the Bare Month |
+| 0964 | 964 | Saturday | 649 | the six hundred and forty-ninth day of the Bare Month |
+| 0965 | 965 | Sunday | 650 | the six hundred and fiftieth day of the Bare Month |
+| 0966 | 966 | Monday | 651 | the six hundred and fifty-first day of the Bare Month |
+| 0967 | 967 | Tuesday | 652 | the six hundred and fifty-second day of the Bare Month |
+| 0968 | 968 | Wednesday | 653 | the six hundred and fifty-third day of the Bare Month |
+| 0969 | 969 | Thursday | 654 | the six hundred and fifty-fourth day of the Bare Month |
+| 0970 | 970 | Friday | 655 | the six hundred and fifty-fifth day of the Bare Month |
+
+**The pressure tags, character, recovery, discovery, political, cost, physical, character, recovery, discovery and physical,
+agree with the plan's own column row for row. `Adrian Vale` stands at 2 occurrences in 1 file, `chapter-0965.md`, and at 0 in
+the other nine.** **Each of the ten chapters prints its own weekday and its own Bare-Month ordinal in words in its own body,
+and each was matched against the derived pair above by string comparison in this run: 10 of 10 on both.**
+
+## WHAT THIS RUN MEASURED, WITH THE INSTRUMENT, THE READING AND THE SCOPE ON THE SAME LINE AS THE NUMBER
+
+Word-bounded where the word matters, both case flags, whole files, heading line dropped for body counts and kept for
+whole-file counts, ten files of this batch and nothing else unless the row says the scope is wider.
+
+| What | Figure | Instrument, reading and scope |
+|---|---|---|
+| Words per body, heading line out | 1324, 1156, 1266, 1293, 1408, 1081, 1233, 1040, 1247, 1125 | whitespace split, ten bodies; total 12,173, mean **1,217.3**, shortest 1,040, longest 1,408, spread 368 |
+| Sentences | 373 | split on `.`, `!`, `?` followed by space, bold marks stripped; mean 32.6 words, median 32, at 45 words or over **93, which is 24.9 per cent** |
+| `question` and `questions` | **0 and 0** | word-bounded, both cases, ten bodies **and** ten headings |
+| `at any hour of that day` | **0** | literal, both cases, ten bodies |
+| `passage` and `privilege` | **0 and 0** | word-bounded, both cases, ten whole files |
+| Panels, a surviving block whose first character is `>` | **0 lines** | line-initial `>`, ten whole files |
+| Digits in bodies | **0** | any `0`–`9`, ten bodies |
+| `Adrian Vale` | **2 in 1 file** | literal, ten whole files, and the file is `chapter-0965.md` |
+| True contractions | **0** | apostrophe not followed by `s`; **33 apostrophes in the ten bodies and all 33 are possessives** |
+| `his own` | **86 in 12,173** | word-bounded, both cases, ten bodies — **one in 141.5**, against one in 139.7 published above and one in 106 across Volume 19 |
+| `about four` | **7, and 7 of them carry *people* inside 40 characters** | literal, both cases, ten whole files |
+| Sentence-initial `nobody` runs | **worst run is 1 in every one of the ten**, against a ceiling of 3 | sentences as counted above; `nobody` itself is 3, 6, 4, 5, 7, 0, 3, 4, 3, 2 across the ten |
+| Repeated sentences of 38 characters or more across days 951 to 970 | **0** | normalised for case, whitespace and bold marks, twenty bodies |
+| Closings | **ten different constructions, one per chapter** | last paragraph of each body, read by eye; none is the room's figure, *about four people a day*, the strip of ground, the bar, the sockets, a page saying a number, a name in a column, the space on that board, a wet sleeve, a question, the answer to one, the grit, a line in it, or the tin |
+
+## THE SIX HELD THINGS, MEASURED ACROSS THE WHOLE REPOSITORY IN THIS RUN
+
+Literal strings, whole files, every `.md`, `.txt`, `.json`, `.sh` and `.yml` file under the repository root with `.git`
+excluded. **No held string is printed here, in this block, or in either edit this run made to a file.**
+
+| Held thing | Files carrying it | Reading |
+|---|---|---|
+| The decision's wording and its cost | `outline/volume-20.md`, `chapter-0975.md` | two files, and `chapter-0975.md` is the day the plan gives it |
+| The panel's wording | `outline/volume-20.md` | the plan only; 983 is unwritten |
+| The three wordings of 994 | `outline/volume-20.md` | the plan only; 994 is unwritten |
+| The refusal of 965 | `outline/volume-20.md`, `chapter-0965.md` | **one occurrence in one chapter file in this batch, in her mouth, before anything else that morning, and not in the other nine** |
+| The name inherited from `outline/volume-18.md` §6.8 | **0 in 0 files** | literal, whole file, heading line included, ten chapter files of this batch. **The string was extracted by instrument and never printed: it was selected as the one candidate in that section that reproduces the figures that plan publishes for it — 17 files and 35 occurrences in Volume 18, 1 and 1 in Volume 19 — so the instrument checked itself against the repository before it reported on this batch. It does not occur in any of the ten, and no descriptor stands beside it because it is not there at all.** |
+| **The one word under the day on the second slate** | **18 files, and the split is published because a reader counts files and not kinds** | **whole word, both cases, every `.md` under the repository with `.git` and `node_modules` excluded, 1,461 files scanned: **4 chapter files and 5 occurrences, at `volume-01/chapter-0003`, `volume-01/chapter-0044`, `volume-03/chapter-0148` (twice) and `volume-04/chapter-0173`, which reproduces the 5 in 4 the plan publishes**; and 14 files that are not chapters — `outline/volume-20.md`, which holds it; `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`; `NOVEL_CATALOG.md` and `bible/terminology.md`; three early archives under `state/archive/`; five batch summaries, of Volumes
+01, 01, 06, 08 and 10; and `workspace/volume-01/batch-0002/PROMPT.md`. **`reviews/volume-20/batch-0002-fix.md` carried it in one table row before this run and does not now; that is the whole of the repair below. The other 17 were written long before this volume existed and were not touched, because sweeping forty file layers for an ordinary English word is the tidying `outline/volume-20.md` §21.4 refuses.** |
+
+## THE TWO THINGS THIS RUN CHANGED, AND BOTH ARE IN THE RECORD LAYER AND NEITHER IS A CHAPTER
+
+1. **`reviews/volume-20/batch-0002-fix.md` printed the one held word in a table row label**, in a row whose own figure was a
+   count of it. The same file had already removed a held span from itself for exactly this reason and said so, so this was
+   an omission in a repair that had the rule in hand. **The row now reads as the wording held at the plan's §6.8,
+   measured as a whole word, and its figure of 0 stands, because it was re-measured in this run over every `.md` in the
+   repository and no chapter file of Volume 20 carries the word.**
+2. **The same file said, in its fifth part, that the refusal of 965 was not written, and eleven lines lower said it stood
+   once in `chapter-0965.md`.** Both sentences were about the same string and one of them was false as it stood. **It is
+   now marked as a statement about that repair pass and not about the writing run, which is what it was always about, and
+   the chapter it names is unchanged and carries it still.**
+
+**Nothing else was edited. No chapter file was opened for anything but reading. No paragraph, scene, day, weekday, Bare-Month
+ordinal, pressure tag, frame, object state, stroke, mark, name or descriptor moved. `outline/volume-20.md` and
+`outline/ending.md` were read and not edited. No file under `scripts/`, `.github/workflows/` or `.opencode/agent/` was
+opened, and `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and
+`state/phase-ledger.json` were not edited. No directory was created, and in particular no directory for batch 0003 or any
+other next phase, which already exists in its own right.**
+
+## WHAT IS STILL OPEN AND IS NOT SETTLED BY ANYTHING ABOVE
+
+The four threads this batch opened and the two it moved are all still open. The two of the twelve things on days that sit
+on these ten days were not settled and were not gathered, counted, listed, summarised or prepared. **The length debt is
+still open and this run did not close it:** a mean of 1,217.3 words a body against `PHASE_SYSTEM.md`'s 2,200 to 3,200 is
+983 words a chapter under the bottom of that range, and the only repair for it is a writer letting scenes with room take
+it in a later batch, not a pass rewriting ten finished chapters.

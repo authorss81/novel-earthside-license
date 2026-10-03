@@ -209,8 +209,9 @@ whoever owns those chapters.**
 
 **No planned plot moved. No day, no weekday, no Bare-Month ordinal, no pressure tag and no frame changed. No panel and no
 block beginning with `>` exists on any of the ten days. No held string, no name, no descriptor out of the pool and none of
-the seven words of Volume 19 was introduced or removed. The refusal of 965 was not written, restated, paraphrased or put
-into a second mouth. `outline/volume-20.md` and `outline/ending.md` were read and not edited. No file under `scripts/`,
+the seven words of Volume 19 was introduced or removed. **By that pass, and not by the writing run, the refusal of 965
+was not written, restated, paraphrased or put into a second mouth; it stands once in `chapter-0965.md` in her mouth and once
+in the plan, and the writing run put it there before this pass began.** `outline/volume-20.md` and `outline/ending.md` were read and not edited. No file under `scripts/`,
 `.github/workflows/` or `.opencode/agent/` was opened. `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`,
 `opencode.json` and `state/phase-ledger.json` were not edited. Exactly one next phase exists and no second was created.**
 
@@ -228,7 +229,7 @@ into a second mouth. `outline/volume-20.md` and `outline/ending.md` were read an
 | `passage`, `privilege` in days 961 to 970 | 0 and 0 |
 | The wording held at `outline/volume-20.md` §6.6 in Volume 20 chapters | 0 |
 | `cannot be proved to have been asked` in Volume 20 chapters | 0 |
-| `borrowed` in Volume 20 chapters | 0 |
+| The wording held at `outline/volume-20.md` §6.8 in Volume 20 chapters, measured as a whole word | 0 |
 | The refusal of 965 | once, in `chapter-0965.md`, and once in the plan |
 | `Adrian Vale`, days 961 to 970 | 2 occurrences in 1 file, `chapter-0965.md` |
 | Chapter equals day, days 961 to 970 | 10 of 10 |
