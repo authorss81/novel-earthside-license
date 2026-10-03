@@ -28,9 +28,10 @@ stop for the want of one. Batch 0002 of this volume had no card file either and 
    things of the twelve that fell on days 961 and 969, and §3, which is about how the hold on the wording of day 965 was
    kept and can be kept. §4 is about Adrian on 965 and §7 is about the shape of the ten.**
 4. **`state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`** — the live layer,
-   each prepended to and not rewritten. **They carry what you must not break. If a state file tells you what a chapter
-   says, open the chapter.** The newest block of `state/continuity.md` carries the four states that changed on days 961 to
-   970 and they are yours to carry and not yours to undo.
+   rolling and bounded. **They carry what you must not break. If a state file tells you what a chapter says, open the
+   chapter. Where a live file points at a block it no longer carries whole, that block is in `state/archive/` under the name
+   the pointer gives and you can open it.** The newest block of `state/continuity.md` carries the four states that changed
+   on days 961 to 970 and they are yours to carry and not yours to undo.
 5. **The previous twenty chapters on disk**, `chapters/volume-20/chapter-0961.md` to `chapter-0970.md` in full, and then
    the ten of batch 0002 behind those, `chapters/volume-20/chapter-0951.md` to `chapter-0960.md`, in full. **Those two sets
    together are the closest thing to a model of what you are writing.** This volume has its own panel on its own day, its
@@ -87,7 +88,7 @@ going to write on that page, and no chapter may say that the decision was right 
 WHATSOEVER IS DONE ABOUT IT FOR SIX DAYS.** Read §6.5 and §6.6 twice. Do not write either of them into this prompt, into
 your record or into your summary.
 
-## THE FIVE THINGS THE TWO BATCHES BEHIND YOU GOT WRONG OR FOUND, AND YOU MUST NOT REPEAT THEM
+## THE SIX THINGS THE TWO BATCHES BEHIND YOU GOT WRONG OR FOUND, AND YOU MUST NOT REPEAT THEM
 
 1. **THAT STAIR HAS ELEVEN STEPS IN IT AND IS NEVER COUNTED.** The ninth step down from the top is neither the bottom step
    nor the top step, and there are two steps under it before the flags. The bar and the trough are nine risers above the
@@ -107,6 +108,17 @@ your record or into your summary.
    will try to carry the chapter. Give both of them a person doing a piece of work.**
 5. **ABOUT FOUR MUST CARRY THE WORD *PEOPLE* INSIDE IT.** §14.5 forbids printing *about four* without it, and batch 0002 had
    seven occurrences with it inside the next thirty characters on all seven. Measure it.
+6. **TWO FIGURES OF THIS VOLUME'S OWN SHAPE ARE RISING AND NEITHER IS IN THE PLAN, SO MEASURE THEM YOURSELF.** Measured over
+   bodies with the same instrument on all three sets — negation tokens being *nothing, nobody, no, not, never, cannot,
+   neither*: **Volume 19's last twenty at 458 in 23,464 words, one in 51.2; batch 0001 at 287 in 13,036, one in 45.4;
+   batch 0002 at 295 in 12,157, one in 41.2.** Bare *that*: **2.41 per cent of words, then 3.31, then 3.94.** Both are
+   drifting the wrong way across three batches and a reviewer has named both as the prose going hollow. **A held string
+   binds what you may print. It does not license you to spend a paragraph reporting that you did not print it.** On 961 a
+   whole paragraph went on the fact that nothing on any surface holds what two men said to each other, and on 965 two
+   paragraphs went on establishing that nobody will ever learn what the question was. **Say the hold once, in one clause,
+   and spend the rest of the paragraph on what somebody does with their hands.** And *that* is a real word and this book
+   is full of it, so watch the chain: a board can lie face up on a stack with two lines of grey grit lying across the face
+   of it from one edge to the other without the second *that*, and the meaning does not go when the word goes.
 
 ## THE SEVEN THINGS YOU MUST NOT PRINT, NAMED HERE AND PRINTED NOWHERE
 
@@ -182,11 +194,17 @@ batch harder than they bit the last one:
    a wet sleeve; not a question and not the answer to one; not the grit and not a line in it; not the tin. **Your 0975 may
    not close on the decision and may not close on the cost, and your 0977 may not close on the mark under that date.**
 2. **§17.1, the opening.** A chapter may not open by summarising itself and least of all its ending. The opening sentence
-   states a pressure or an arrival, with somebody's hands on something. **Every one of your ten opens with hands on a
-   thing.**
+   states a pressure or an arrival, with somebody's hands on something. **AND IT IS NOT A TEMPLATE AND YOU ARE NOT TO WRITE
+   TEN OF THE SAME SENTENCE.** Measured across all twenty chapters on disk, days 951 to 970: **every one of the twenty
+   opens `A hand` / `Two hands` / `Both hands` / `The flat of a hand` / `Two fingers` plus a verb of placing plus a named
+   surface.** A reviewer has called that out as a defect and it is one, and this line used to hand it to you as a rule.
+   **It is withdrawn. Your ten openings must not share one construction with each other, and no more than three of the ten
+   may begin with a hand or hands on a surface at all.** Ways in that are open to you and cost nothing: a person arriving,
+   a sound, a piece of work already going, a thing out of place, a thing somebody has just finished, a time of day with
+   weather in it, or a line of somebody's speech standing on its own.
 3. **§17.4 and the mean word count.** The share of bold is a consequence and not a plan and no card here sets a target for
    it. **The same is true of length and you will be tempted to pad, so hear this once: the ten chapters behind you mean
-   1,215.1 words and `PHASE_SYSTEM.md` asks for 2,200 to 3,200, and that shortfall is inherited from the two volumes behind
+   1,215.7 words and `PHASE_SYSTEM.md` asks for 2,200 to 3,200, and that shortfall is inherited from the two volumes behind
    those and is a real one. Do not pad to reach a number and do not split a complete scene to reach one. Let a scene that has
    room take it, and where a scene is finished, end it.**
 4. **§17.21 and §17.22, the two about your own record.** Your record may not publish a compliance figure it has not measured
@@ -201,6 +219,33 @@ two batches behind you and across sampled chapters of Volumes 15, 18 and 19: **t
 them**, so the absence is the register of the book; and *his own* runs at about one in 140 words in the ten behind you
 against about one in 106 in Volume 19, so that phrase is thinning and is not to be thinned further by cutting it
 everywhere. **If a review names either of these, measure it and publish the multi-volume comparison, and change nothing.**
+
+## AND THREE MECHANICAL FAULTS A REVIEW FOUND IN THE TWENTY CHAPTERS BEHIND YOU, ALL THREE NOW FIXED ON DISK, AND NONE OF THEM MAY COME BACK
+
+1. **THE FULL STOP INSIDE THE CLOSING QUOTE BEFORE A SPEECH TAG.** Every speech in this volume is printed as a bold
+   speaker marker, and every one of the twenty chapters behind you ends that marker with a full stop and then puts a tag
+   after it, which is wrong in English. Measured: **thirty-nine sites across the twenty files, and thirty-nine of the
+   thirty-nine speeches in Volume 20 carry a tag, so every tagged speech in the volume was wrong.** All thirty-nine are
+   corrected on disk now. **The form is `**"…," **said the man of about thirty-nine`, with the comma inside the quote and
+   the tag outside it.** Check your own ten for it before you finish.
+2. **THE REFRAIN IN THE CLOSING SECTION.** Measured across days 951 to 970: **`By the light's going` stands in nineteen
+   of the twenty files**, once in eighteen of them and twice in one, and it opens the closing section in every one of the
+   nineteen. **Six of the twenty close their last paragraph on it and fourteen do not, so the closing variety §17.17
+   asks for is real and partial.** It is a good instrument and it is nearly played out. **It may open the closing section
+   of at most three of your ten, and it may not close any of them.**
+3. **THE SENTENCE CARRIED ACROSS TWO BATCHES, WHICH NO WITHIN-BATCH INSTRUMENT CAN SEE.** The ten behind you publish
+   zero repeated sentences, and that figure is true of the ten and useless about the volume: measured across all twenty
+   files of days 951 to 970 there were **four exact repetitions of a sentence of thirty-eight characters or more**, each
+   one a standing-object sentence lifted out of days 951 to 960 and set down again in days 961 to 970, and a run over
+   your ten alone would never have found any of them. All four are cut on disk. **So measure your ten against the twenty
+   behind them and not against themselves, and hold a sentence at thirty characters rather than thirty-eight.** A stock
+   beat may recur; a stock sentence may not.
+
+**AND THE STANDING-OBJECT PROBLEM UNDER ALL THREE OF THOSE, WHICH NOBODY HAS FIXED.** These twenty chapters keep going
+back to the same small set of named objects — the bar and its two empty sockets, the door a hand's breadth across, the
+bare board under the date, the box of chalk with its lid off, the stool against the wall, the tally-board face up with
+two lines of grey grit lying across it — and describing each of those whole is what fills the words and empties the day.
+**Name an object and say what is different about it this morning, or do not name it.**
 
 ## WHAT YOU DO NOT WRITE
 
@@ -217,11 +262,20 @@ Nobody stronger, and `passage` and `privilege` at zero across your ten files. An
 counted at all.**
 
 **AND IF YOU FINISH, WRITE YOUR RECORD.** A batch record is a file of its own, a summary is a file of its own, and the live
-state layer is prepended to and not rewritten, with each of those five files copied whole into `state/archive/` and verified
-before a line is withdrawn. **A record whose figures cannot be re-derived from the repository is a record that cannot be
-checked by the reader it is written for, and that fault is not repaired by being written in a file that exists.** And name in
-your record the day, the weekday and the Bare-Month ordinal of each of your ten chapters and the instrument that derives
-them, so that the next writer does not have to take them on trust.
+state layer is **rolling and bounded**, with each of those five files copied whole into `state/archive/` and verified by
+SHA256 before a line of the standing layer is withdrawn. **What "rolling and bounded" means here, and it is a change from
+what the two batches behind you were told to do:** `PHASE_SYSTEM.md` asks for compact bounded state and a volume-level
+index, and the instruction to prepend and never rewrite has instead left `state/character-state.md` at 1,084 lines,
+`state/current.md` at 992, `state/continuity.md` at 971, `state/open-threads.md` at 796 and `state/archive/` at 118 files,
+with the live file now mostly a verbatim copy of its own archive. **So: keep your own block in full, and rewrite the
+standing layer beneath it down to a compact index — one line per older block saying what it was, what it decided and which
+file in `state/archive/` holds it whole. Carry nothing forward that is already settled, and carry every prohibition.** The
+prohibitions are the whole reason these files exist and they are not compressible; the history of how a prohibition came to
+be written is compressible to a pointer. **Aim to leave each of the five live files shorter than it found it.** A record
+whose figures cannot be re-derived from the repository is a record that cannot be checked by the reader it is written for,
+and that fault is not repaired by being written in a file that exists. And name in your record the day, the weekday and the
+Bare-Month ordinal of each of your ten chapters and the instrument that derives them, so that the next writer does not have
+to take them on trust.
 
 **AND LEAVE EXACTLY ONE NEXT PHASE BEHIND YOU.** `AGENTS.md` requires it, `reviews/volume-20/batch-0001.md` finding 7
 records that a batch prompt which forbids it leaves self-dispatch with nothing to select, and the run that wrote batch 0001

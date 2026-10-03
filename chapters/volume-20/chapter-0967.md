@@ -30,13 +30,13 @@ She moved it herself. She put her two hands on the top of it and lifted it clear
 
 Nobody in that room asked her why. The keeper went on with her own page and the tradesman went on with the face of his own board at the far end of that bench, and neither of them said one word about a stool being moved a foot further out from where it had stood.
 
-**"That stool came out of a room with me and it has been against this wall since before the water and I have not sat down on it and I am not going to. I have put it a foot further out because I stand here and I was against it, and that is the whole of the reason and it is not a reason anybody is going to be satisfied with."** said the woman of about fifty-two, at that wall with her hands down the sides of her dress.
+**"That stool came out of a room with me and it has been against this wall since before the water and I have not sat down on it and I am not going to. I have put it a foot further out because I stand here and I was against it, and that is the whole of the reason and it is not a reason anybody is going to be satisfied with," ** said the woman of about fifty-two, at that wall with her hands down the sides of her dress.
 
 She said it once and did not say it again that day.
 
 The keeper came up that stair at about the ninth hour and went to the far end of that bench, and the stool stood a foot further out from that wall by then, and she looked at it and at the bare place on the wall where it had been and did not say anything about either of them. The tradesman said one word about it, out loud, to himself and not to anybody.
 
-**"A foot further out."** the tradesman said it at the near end of that bench with the cloth over his own shoulder and went back to the face of his own board and said nothing else about it before the light went or after.
+**"A foot further out," ** the tradesman said it at the near end of that bench with the cloth over his own shoulder and went back to the face of his own board and said nothing else about it before the light went or after.
 
 ---
 

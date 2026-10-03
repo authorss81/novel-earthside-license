@@ -20,7 +20,7 @@ She put the end of that dry cloth down into it twice with her own fingers behind
 
 She tried the corner of her own sleeve and that did not go in either. She said one word under her own breath at it that nobody in that room heard, and then she squared the register against the fold and put her hand flat on the column that holds figures and went on with that column.
 
-**"I am not going to get that cloth into that gap today and I am not going to get it in tomorrow. I have been at it three mornings and I have got it in twice for about as far as the width of my own nail and it has stood back up off the leaves both times. There is nothing in this room that puts it right and there is nobody coming up that stair with the thing that puts it right, and I am going to go on with the page I have got."** said the woman of about twenty-nine who keeps a public register, at the far end of that bench with her own hand flat on the page in front of her.
+**"I am not going to get that cloth into that gap today and I am not going to get it in tomorrow. I have been at it three mornings and I have got it in twice for about as far as the width of my own nail and it has stood back up off the leaves both times. There is nothing in this room that puts it right and there is nobody coming up that stair with the thing that puts it right, and I am going to go on with the page I have got," ** said the woman of about twenty-nine who keeps a public register, at the far end of that bench with her own hand flat on the page in front of her.
 
 She said it once. Nobody in that room offered her anything and nobody in that room said that she had better leave it, and she went on with her own page.
 

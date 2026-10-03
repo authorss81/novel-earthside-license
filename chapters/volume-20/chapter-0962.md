@@ -4,7 +4,7 @@ A hand went flat on the wood of that bench at the far end of it, on the square o
 
 It was Thursday, the six hundred and forty-seventh day of the Bare Month. The sun had been up before the light and had come over the roof line at the far end of that market and along that row and in under the awning at the store's end by the fourth hour, and it lay down the length of that bench and stopped about the middle of the wood. The bar lay along the top step of that stair where it has lain every morning of that flood, out of its two sockets, and the two sockets on the far side of the door below were empty. On the outside of that door the day stood out in chalk and the bare board under it carried the one mark that was on it.
 
-The woman of about twenty-nine who keeps a public register had the far end of that bench with her register open in front of her and the dry cloth along the head of her own leaf. The second book lay on the wood beside it with its cover slab drawn back off the leaf under it and that leaf lying flat. The man of about thirty-four who keeps a stall two stalls along sat in the middle of that bench with his own board flat across his knees and the bare back of it turned out to the room and one hand down the side of his coat. The man of about thirty-one who carries things for a living stood at the near wall with the satchel held up under his arm and the flap of it hanging away from his own side. The woman of about fifty-two kept her far wall with her hands at the sides of her dress and the stool standing against the wood a foot off her own skirt. The tradesman came up that stair twice and went down it twice.
+The woman of about twenty-nine who keeps a public register had the far end of that bench with her register open in front of her and the dry cloth along the head of her own leaf. The second book lay on the wood beside it with its cover slab drawn back off the leaf under it and that leaf lying flat. The man of about thirty-four who keeps a stall two stalls along sat in the middle of that bench with his own board flat across his knees and the bare back of it turned out to the room and one hand down the side of his coat. The man of about thirty-one who carries things for a living stood at the near wall with the satchel held up under his arm and the flap of it hanging away from his own side. The woman of about fifty-two held her far wall with her hands down the sides of her dress, and the stool stood against the wood a foot off her own skirt. The tradesman came up that stair twice and went down it twice.
 
 ---
 
@@ -24,9 +24,9 @@ The pocket did not come open and nothing came out of it. He stood with his own h
 
 He did it again at about the eleventh hour. Nothing came out of that pocket either time, and the chalk in it is a piece of chalk and has been a piece of chalk for a week, and no hand in that row reached for it and no mouth in that row asked him about it.
 
-**"It is in there and it is going to be in there this evening, and nobody in this row has asked me for it and nobody has asked me why I am not giving it to them. I have not said a word to anybody about that pocket this morning and I am not going to say a second word about it this evening either."** said the stallholder, in the middle of that bench with his own hand down the side of his coat.
+**"It is in there and it is going to be in there this evening, and nobody in this row has asked me for it and nobody has asked me why I am not giving it to them. I have not said a word to anybody about that pocket this morning and I am not going to say a second word about it this evening either," ** said the stallholder, in the middle of that bench with his own hand down the side of his coat.
 
-He said it once. The keeper went on with her own page. Nobody in that room told him that it was wanted and nobody in that room told him that it was not.
+He said it once, and the keeper went on with her own page. Nobody in that room told him that it was wanted and nobody in that room told him that it was not.
 
 ---
 

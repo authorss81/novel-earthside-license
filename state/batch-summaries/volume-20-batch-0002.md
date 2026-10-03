@@ -129,3 +129,59 @@ round its lip, and no nail in it. A store door a hand's breadth across at that w
 and no reason given. A gate standing open with a clean arc on its hinge where somebody pushed it once. **And the two
 things that went out of that room and cannot be got back: an answer given in a yard and printed nowhere, and a refusal
 said at a wall with an answer behind it and a woman carrying a six-hundred-and-forty-one-day-old answer nobody can check.**
+
+---
+
+# THE REVIEW-FIX PASS ON THIS BATCH, AND IT RESTARTED NOTHING
+
+**A reviewer read this batch and returned nine findings. One was mechanical and blocking, one was a forward instruction that
+would have hardened a defect, and one was a state-layer fault. Those three are fixed. The other five needed either a plot
+change or a rewrite of ten finished scenes, and they are recorded rather than acted on. Everything is itemised in
+`reviews/volume-20/batch-0002-fix.md`.**
+
+**THE CHAPTERS.** Twenty files, forty-four insertions against forty-four deletions. **Thirty-nine of those pairs are a
+single comma each**, moved inside a closing quote in front of a speech tag, and no word changed. **The other five are four
+sentences that were exact repetitions of a sentence in days 951 to 960, and one sub-thousandth-of-a-passage rewording to
+take the last of them.** No paragraph, scene, chapter, day, weekday, Bare-Month ordinal, pressure tag, frame, object,
+stroke or mark was added, cut, reordered or moved.
+
+**THE FIGURES, RESTATED ON THE FILES AS THEY NOW STAND.** Words per body **1323, 1155, 1265, 1292, 1406, 1080, 1231,
+1039, 1243, 1123; total 12,157, mean 1,215.7, shortest 1,039, longest 1,406, spread 367.** Sentences 373, mean 32.5 words,
+median 32, at forty-five words or over 93 which is 24.9 per cent. Paragraphs 192, of which 16 are speech. `his own` 86 in
+12,157, one in 141.4. True contractions 0, and all 33 apostrophes in the ten bodies are possessives. **`question` and
+`questions` 0 in bodies and 0 in headings. `at any hour of that day` 0. `passage` and `privilege` 0. `Adrian Vale` at 2
+occurrences in 1 file. About four printed seven times and every one has the word *people* inside the next thirty
+characters.**
+
+**THE FIGURES THAT IMPROVED, AND THE INSTRUMENT THAT COULD NOT HAVE SEEN THEM.** **Repeated sentences of thirty-eight
+characters or more across the twenty files of days 951 to 970: 0, and it was 4.** The four were standing-object sentences
+lifted out of days 951 to 960 and set down again in days 961 to 970 — the woman of about fifty-two at her far wall, the
+round hole in the outside wall, the keeper going on with her own page, and the box of chalk with its lid off. **This
+batch's own instrument measured its own ten and returned zero, and the zero was true of the ten and useless about the
+volume.** At thirty characters the figure is 0 as well, where it was 1. **The repair is recorded at `state/open-threads.md`
+as a standing rule: measure your ten against the twenty behind them and not against themselves.**
+
+**THE FIGURES THAT DID NOT IMPROVE, PUBLISHED RATHER THAN THE IMPROVEMENT ALONE.** Mean length **1,215.7 against
+`PHASE_SYSTEM.md`'s 2,200 to 3,200**, so the debt is still 984 words a chapter and **still open**. Negation tokens **295 in
+12,157 words, one in 41.2, against one in 51.2 on Volume 19's last twenty and one in 45.4 on the batch behind this one.**
+Bare *that* **3.94 per cent of words, against 3.31 and then 2.41.** **`By the light's going` opens the closing section in
+nineteen of the twenty files of this volume and closes six of the twenty.** All twenty openings are the same construction.
+**All five of those are real, four of them need finished scenes rewritten to fix, and the fifth is now written into the
+next prompt as a cap rather than as a rule.**
+
+**AND ONE FIGURE IN THIS FILE WAS WRONG ON THE FIRST DRAFT.** The table in `state/chapter-summaries.md` printed **1257**
+for chapter 0969 where this same run printed **1243**. **1243 is right.** It is corrected in place and named, because a
+figure a reader cannot re-derive is the fault §17.22 exists to catch and a discrepancy inside one run's own two records is
+precisely that.
+
+**THE STATE LAYER.** The five live files were copied whole into `state/archive/` and verified by SHA256 before a line was
+withdrawn, then compacted from **4,274 lines to 809** and a volume-level index was written at `state/volume-20-index.md`.
+**Nothing was deleted.** The next prompt's instruction to prepend and never rewrite is replaced with an instruction to keep
+the live layer rolling and to leave each file shorter than the run found it.
+
+**WHAT THIS PASS DID NOT DO.** **No planned plot moved. No day, no weekday, no Bare-Month ordinal, no pressure tag, no
+frame, no held string, no name, no descriptor and no one of the seven words of Volume 19 was touched.
+`outline/volume-20.md` was read and not edited.** No file under `scripts/`, `.github/workflows/` or `.opencode/agent/` was
+opened, and `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and
+`state/phase-ledger.json` were not edited. **The four threads this batch opened and the two it moved are all still open,
+and no question was answered.**

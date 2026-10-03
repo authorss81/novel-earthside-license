@@ -2,15 +2,15 @@
 
 Two hands of a man lay flat on the wood of the near end of that bench, palms down and fingers out and about the width of a hand apart, and they had been in that place since the fourth hour and were still in it.
 
-It was Sunday, the six hundred and fiftieth day of the Bare Month. There had been no sun before the light and the air stood close in that market until about the eighth hour, and then the light came along the row and stopped in a stripe about the middle of the bench in the room over that market. The bar lay along the top step of that stair out of its two sockets with the frost gone out of it, and the two sockets on the far side of the door below stood empty. On the outside of that door there was the day in chalk, and the bare board under it carried the one mark that was on it. On the table inside the room the box of chalk stood with its lid off at one corner.
+It was Sunday, the six hundred and fiftieth day of the Bare Month. There had been no sun before the light and the air stood close in that market until about the eighth hour, and then the light came along the row and stopped in a stripe about the middle of the bench in the room over that market. The bar lay along the top step of that stair out of its two sockets with the frost gone out of it, and the two sockets on the far side of the door below stood empty. On the outside of that door there was the day in chalk, and the bare board under it carried the one mark that was on it. The box of chalk stood on the table inside that room with the lid of it off at one corner.
 
 The woman of about fifty-two came up that stair at about the fifth hour and went to her own far wall and put her own hands at the sides of her dress.
 
 ---
 
-She said it before anything else that morning.
+It was the first thing said in that room that morning, and she said it out loud.
 
-**"I am not having it written down, and I have known that since before I came up these stairs, and I am going to ask it anyway."** said the woman of about fifty-two, at her own far wall with her own hands at the sides of her dress and the stool standing against the wood a foot off her own skirt.
+**"I am not having it written down, and I have known that since before I came up these stairs, and I am going to ask it anyway," ** said the woman of about fifty-two, at her own far wall with her own hands at the sides of her dress and the stool standing against the wood a foot off her own skirt.
 
 She said it out loud in that room in daylight with the date on the outside of the door behind her own shoulder. No mouth in that room said one word back to her about it. She did not say it a second time before the light went or after it.
 
@@ -30,7 +30,7 @@ She put it across about nine feet of that room, to the man of about thirty-nine 
 
 He answered her. Nobody in that room was told what the answer was. He said it once and it went the same way the putting went, out of that room and down that stair and along that row to his own trestle, and he did not say it a second time before the light went or after, and nobody in that room asked him for it again.
 
-**"That is the whole of what I am going to say to you about it in this room and it is the whole of what I am going to say to you out of it. I am not going to have it written down anywhere and neither are you, and if either of us says one word of it to anybody in this row it will have gone out of this room twice, and that is twice too many."** said the man of about thirty-nine who trades on a board, at the far end of that bench with his own hand flat on the face of his own board.
+**"That is the whole of what I am going to say to you about it in this room and it is the whole of what I am going to say to you out of it. I am not going to have it written down anywhere and neither are you, and if either of us says one word of it to anybody in this row it will have gone out of this room twice, and that is twice too many," ** said the man of about thirty-nine who trades on a board, at the far end of that bench with his own hand flat on the face of his own board.
 
 She did not thank him. Nobody in that room told him he was right, and nobody told him he was wrong. The keeper's own hand went to the dry cloth along the head of her leaf, lifted one end of it about the width of a nail, and put the end down again without moving the leaf.
 

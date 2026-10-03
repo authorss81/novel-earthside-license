@@ -14,9 +14,9 @@ The man of about thirty-one who carries things for a living takes one stroke aga
 
 He stood at the bottom of that step with his arm down at his side and the chalk in the fist of that hand and he did not take it out.
 
-**"I have had that chalk in my hand since the light came up on the roofs and it has not touched anything, and it is not going to. I take one against them and I put it in my pocket and I take another out, and I have done that since before the water and I am not doing it this morning because my hand is cold and I would lose the end of it. That is all I am going to say about it to anybody."** said the man of about thirty-one who carries things for a living, at the bottom of that stair with his own hand shut at his side.
+**"I have had that chalk in my hand since the light came up on the roofs and it has not touched anything, and it is not going to. I take one against them and I put it in my pocket and I take another out, and I have done that since before the water and I am not doing it this morning because my hand is cold and I would lose the end of it. That is all I am going to say about it to anybody," ** said the man of about thirty-one who carries things for a living, at the bottom of that stair with his own hand shut at his side.
 
-**"That low place at the side of that yard took the bucket in to the depth of two fingers and cut a ring of stone for itself about the width of a nail deep, and the water in the bucket and the water in the hole stand level whichever of the two I lift. I am not going to argue with a stone ring about it. I have been down to it twice this morning and I have not broken the ice in that trough and nobody has offered to."** said the man of about twenty-seven, at the side of that yard with the bucket on the flags beside his own foot.
+**"That low place at the side of that yard took the bucket in to the depth of two fingers and cut a ring of stone for itself about the width of a nail deep, and the water in the bucket and the water in the hole stand level whichever of the two I lift. I am not going to argue with a stone ring about it. I have been down to it twice this morning and I have not broken the ice in that trough and nobody has offered to," ** said the man of about twenty-seven, at the side of that yard with the bucket on the flags beside his own foot.
 
 ---
 

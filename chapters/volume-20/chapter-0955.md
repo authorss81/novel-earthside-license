@@ -12,9 +12,9 @@ They came at it from opposite ends of that bench on the same morning and neither
 
 The keeper's hand went onto the wood at the far end and stopped an inch short of the near edge of that book and stayed there through most of the hour. The man who came up that stair put his own hand down on the wood at the near end at about the same time, and stopped about the same way short of the far edge of it. Neither of them went over the inch. Neither of them took his own hand off the wood while the other of them was doing it.
 
-**"There is a crack down the length of the column in that leaf and there is a different stone in it, and it is paler than the stone round it and harder, and it stands a hair proud of the surface. Whoever filled it did it well and did it long ago, and there is nothing whatever in this room that would tell this morning when it was done."** He said it at the near end of that bench with his own hand flat on the wood and one sleeve of his coat wet to the shoulder.
+**"There is a crack down the length of the column in that leaf and there is a different stone in it, and it is paler than the stone round it and harder, and it stands a hair proud of the surface. Whoever filled it did it well and did it long ago, and there is nothing whatever in this room that would tell this morning when it was done," ** He said it at the near end of that bench with his own hand flat on the wood and one sleeve of his coat wet to the shoulder.
 
-**"I have not looked at that crack twice since it came onto this bench, and I have been at this end of it every morning of that week, and I have not looked at it because there is nothing on that page I want off it. I am not going to have anybody's hand on that book this morning."** said the woman of about twenty-nine who keeps a public register, at the far end with her own hand flat on the wood and the dry cloth along the head of her own leaf.
+**"I have not looked at that crack twice since it came onto this bench, and I have been at this end of it every morning of that week, and I have not looked at it because there is nothing on that page I want off it. I am not going to have anybody's hand on that book this morning," ** said the woman of about twenty-nine who keeps a public register, at the far end with her own hand flat on the wood and the dry cloth along the head of her own leaf.
 
 ---
 
