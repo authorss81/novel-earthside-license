@@ -532,3 +532,34 @@ six of the ten bodies and was asked nothing on any of them, and **the fifth cond
 any other day of the ten.** The two women of twenty-nine, the two men of about thirty-eight and the two
 stallholders of about thirty-four were never merged and never settled in any of the ten, and **the man who came up
 that stair was in that room on 935 and 939 only and his name went nowhere near any of these pages.**
+
+---
+
+## THE REVIEW-FIX PASS ON DAYS 931 TO 940. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**NOTHING IN THIS FILE CHANGES, AND THAT IS THE FINDING AND NOT A NON-FINDING.** This pass edited no chapter. **No
+person moved, no mouth spoke again, no hand went anywhere, and no descriptor was taken or varied.** Every figure
+below stands at day 940 exactly as the block above it leaves it.
+
+**THE ONLY PAGE OF THE WHOLE REPAIR THAT TOUCHES PROSE AT ALL** is `chapters/volume-18/chapter-0864.md:5`, and it is
+one word in a date sentence in a volume that closed five batches ago: the five hundred and fifty-ninth day of the
+Bare Month became the five hundred and forty-ninth, which is what day 864 less three hundred and fifteen is and what
+the two pages either side of it already said. **No character in that chapter acts differently, no mouth in it says
+anything different, and no person in it is a day older or a day younger.**
+
+**AND THE FIGURE THE RECORD OF THOSE TEN DAYS GOT WRONG, WHICH IS ABOUT THE WRITING AND NOT ABOUT ANYBODY IN IT.** The
+longest run of words shared by any two of their ten closings is **6, not 5**, and the run is the volume's standing
+formula for the light going, six tokens on the tokenising that record published. **The count of sentences of
+thirty-eight characters or more is 283, not 284.** Everything else in that table reproduces.
+
+**WHAT THE NEXT WRITER INHERITS ABOUT PEOPLE, AND IT IS THE SAME TEN AND NOT A NEW ONE.** The woman of about
+twenty-nine who keeps a public register said one thing back in her own words on 940 and entered no stroke after the
+sixth. The man of about thirty-nine who trades on a board has a figure in a space about two fingers wide that nobody
+has explained. The man of about thirty-four who keeps a stall two stalls along has a piece of chalk that stays in his
+pocket and a board that is not the board of day 875. The woman of about fifty-two paid two costs in this volume and is
+the only person who puts the last mark. The man of about thirty-one who carries things for a living has still not
+opened the satchel. The man of about thirty-eight at that salt wharf has still not turned the tally-board over. The
+man of about fifty-seven has still not been asked. The woman of about sixty-nine with her tin has still not asked a
+sixth. The woman of about fifty-four is still not traced and is still not in that room. **Adrian Vale's name is in the
+second book and from the morning of 941 no mouth in that room may treat it as an answer to anything, and that is
+rendered as ordinary behaviour and never as a sentence about what he has lost.**

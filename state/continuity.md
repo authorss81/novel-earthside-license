@@ -449,3 +449,41 @@ it did not move. The wall block of 929 was not printed, not read aloud and not a
 **About four people a day went past the foot of that stair in two of the ten bodies, always with the word
 *people* after it, and was never reduced and never used as a count of anybody. The room was never counted and no
 mouth in it reached any figure by any road, including on 934 and on 940.**
+
+---
+
+## WHAT THE REVIEW-FIX PASS ON DAYS 931 TO 940 DID TO THE STANDING LAYER. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**No object moved, no room changed, no day was rewritten and no standing fact above this line is disturbed.** The ten
+chapters were not edited. **One figure is corrected, one page outside this volume is repaired, and one missing next
+phase is created.**
+
+**THE FIGURE, AND IT IS THE ONLY THING IN THIS BLOCK THAT CORRECTS A NUMBER.** The longest shared run between any two
+of the ten closings of that batch is **6 and not 5**, and the run is the volume's own formula — *by the light's going
+the* — which is six tokens on the tokenising the record itself published, at by, the, light, s, going, the. **The
+count of sentences of thirty-eight characters or more is 283 and not 284.** Every other figure in that record's
+table reproduces on the ten bodies as they stand, and one row does not: the count of eight-word phrases standing in
+three or more of the ten cannot be reproduced under any of the three definitions this pass tried, and it has been
+left standing as unexplained rather than overwritten.
+
+**THE PAGE OUTSIDE THIS VOLUME.** `chapters/volume-18/chapter-0864.md:5` now carries **the five hundred and
+fortieth-ninth** — the five hundred and forty-ninth — day of the Bare Month, where it carried the five hundred and
+fifty-ninth, and its own weekday was always right. **Across all nine hundred and forty chapter files on disk there is
+now no chapter whose own Bare-Month ordinal disagrees with the chapter number less three hundred and fifteen.** The
+day it carries is a day in Volume 18 and it moves nothing that any later volume stands on: no object, no figure, no
+line and no mouth in this file changes because of it.
+
+**THE PHASE THAT WAS MISSING.** `workspace/volume-19/batch-0005/PROMPT.md` now carries Chapters 0941 to 0950, days
+941 to 950, ordinals 626 to 635, ten cards, ten distinct frames, and it prints none of the seven words, none of the
+four held strings, none of the three wordings of 940 and not the name held at `outline/volume-18.md` §6.8. **The
+continuity a next writer needs is therefore unchanged from the block above and is restated in that file's cards: the
+resolution at 943 is a line disputed about a day that is not the disputer's own with a second account written in the
+other book in his own hand, and the last image at 950 is one mark on the bare board under the date which is not a day
+of the Bare Month, put there by the woman of about fifty-two in her own hand, unasked about and unthanked.**
+
+**AND THE FOUR DEBTS ADDED, all of them about the plan and none of them about the fifty days.** The missing
+`outline/volume-05.md`. The collision between §3 and §16 item 14 on the one hand and §6.7 and §6.9 on the other,
+which is three places in the plan against two and is already on two written pages. The pull inside §11 between a
+disputer who has not been in that room on any of the fifty days and a keeper who turns the book so he can read the
+line on one of them. And the figure at §7.2 for the day a piece of chalk was last out of a pocket, which this
+volume's calendar cannot support and which no chapter of days 941 to 950 may print.

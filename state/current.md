@@ -411,3 +411,58 @@ both arguments and with neither decided here.
 **THE NEXT PHASE IS `workspace/volume-19/batch-0005/` AND IT DOES NOT EXIST AND THIS RUN DID NOT CREATE IT AND
 WROTE NO PROMPT FOR IT AND DRAFTED NO CARDS FOR IT.** It is Chapters 0941 to 0950, days 941 to 950, the last batch
 of the volume before the close. **This block names the next phase and writes nothing else about it.**
+
+---
+
+# THE REVIEW-FIX PASS ON THE BATCH THAT WROTE CHAPTERS 0931 TO 0940. NEWEST AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**NOT ONE WORD OF THOSE TEN CHAPTERS WAS CHANGED BY THIS PASS, AND THE STANDING LAYER AT DAY 940 IS EXACTLY AS THE
+BLOCK ABOVE IT SETS IT DOWN.** This pass read the findings in `logs/batch-0004.review.log`, verified each against an
+instrument run here, and repaired three things: a figure, a missing next phase, and one page of a closed volume. Full
+account in `reviews/volume-19/batch-0004.md`'s closing section.
+
+**THE FIGURE.** The longest shared run between any two of those ten closings is **6, not 5**, and the run is the
+volume's own standing formula, six tokens long on the tokenising that record published. The count of sentences of
+thirty-eight characters or more is **283, not 284**, and 283 is what the record said. Everything else in that record's
+table reproduces on the ten bodies as they stand. **One row could not be reproduced and has not been overwritten:**
+seventy distinct eight-word phrases standing in three or more of the ten is what the record published, and an
+instrument run here returns 73 by distinct phrase, 97 by occurrence and 436 occurrences of the distinct set, and the
+record does not say which it counted.
+
+**THE PAGE.** `chapters/volume-18/chapter-0864.md:5` carried the five hundred and fifty-ninth day of the Bare Month
+where day 864 less three hundred and fifteen is the five hundred and forty-ninth. **It is repaired and the three days
+now read 548, 549, 550 across 0863, 0864 and 0865.** A full instrument over all nine hundred and forty chapter files
+now returns **zero** chapters whose own Bare-Month ordinal is wrong. That page is in a closed volume, it changed no
+object and no beat, and no chapter of days 931 to 950 quoted it or leaned on it.
+
+**THE NEXT PHASE NOW EXISTS.** `workspace/volume-19/batch-0005/PROMPT.md` — Chapters 0941 to 0950, days 941 to 950,
+ordinals 626 to 635, the last batch before the close, ten cards drawn from ten distinct frames. **Every statement in
+this repository that the next phase does not exist is superseded by this line.** After it, the next phase is
+`workspace/volume-19/close/`, which writes no chapter and writes `state/volume-19-close.md`; it does not exist and no
+batch run may create it.
+
+**WHAT THE NEXT TEN DAYS INHERIT, UNCHANGED.** Six strokes in the register, none struck, no seventh. The second book
+on the bench while in use, its cover slab off the leaf, two lines in the column that holds figures and a third is not
+going in. The box of chalk on the table inside the room and the step below the door bare. The bar along the top step
+out of its sockets. The bare board under the date empty, and nothing under that date until 950. The gate open. The
+satchel shut. The tally-board face up with its grit unbroken. The trough without a heat. The rope unlifted and its
+man unasked. The fence sixteen and eleven, unmeasured. Nine boards standing on edge under an eave at the wharf and a
+line of broken crust across the flats. A filled crack down the second book's column that has taken the colour of the
+stone round it. Six marks standing in dust on the bench. The figure of 924 in a space about two fingers wide, named
+once, never explained, never counted. **The room uncounted on all ten days and no mouth in it reaching a figure by
+any road.**
+
+**AND FOUR DEBTS ADDED TO THE LIST ABOVE, NONE OF THEM REPAIRED HERE.** (1) **`outline/volume-05.md` does not
+exist** and covers fifty chapters that are on disk; `outline/volume-03.md` has been carried as a debt for volumes
+and this one has never been named in any record until now. (2) **The collision named above is wider than one page:**
+§3 of the plan says the same thing §16 item 14 says, and §6.7 and §6.9 put a name in the second book on 918 and on
+940, so it is three places in the plan against two. (3) **§11's own first clause and its own middle pull against
+each other** on whether the disputer is in that room. (4) **§7.2 carries a figure for the day a piece of chalk was
+last out of a pocket that cannot be reconciled with this volume's calendar.** All four are the plan's and all four
+are owed by a phase whose writable set includes `outline/`.
+
+**AND THE OWED LIST UNCHANGED AND STILL OWNED ELSEWHERE.** `state/phase-ledger.json` reads `phase-000-bootstrap` and
+is a controller file. `reviews/volume-16/` does not exist, **so this repair was taken by the same agent kind that
+wrote the ten chapters, and the independent reader the quality gate asks for is still missing.** `NOVEL_SPEC.md`'s
+Status section is stale. `bible/power-system.md` has no §65 and no §66. The three deferral markers in
+`workspace/volume-19/batch-0003/` are dispatch state and were left alone.

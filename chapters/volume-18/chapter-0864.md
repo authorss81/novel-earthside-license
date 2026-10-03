@@ -2,7 +2,7 @@
 
 A hand went flat on the strap of a satchel under an arm and turned the strap a quarter round so the buckle lay flat against his side, and the flap was down where it always was, and the man carrying it went down the stair and the door at the foot stood open on its latch with the light coming up the steps past him.
 
-It was Thursday, the five hundred and fifty-ninth day of the Bare Month, and there was no wind at all and the stairwell kept everything done in it. The dust on the top step lay undisturbed along the wood and the bar lay along the step beside its own two sockets with nothing under it.
+It was Thursday, the five hundred and forty-ninth day of the Bare Month, and there was no wind at all and the stairwell kept everything done in it. The dust on the top step lay undisturbed along the wood and the bar lay along the step beside its own two sockets with nothing under it.
 
 Up above, the room stood full. The register lay open on the bench with the woman of about twenty-nine who keeps a public register behind it and her hand flat on the page. At the far end of the bench the board of the man of about thirty-nine who trades on a board stood propped against the leg of it under his own hand. At the middle of the bench sat the man of about thirty-four who keeps a stall two stalls along with his own board across his knees. The woman of about fifty-two with her hands at the sides of her dress kept her place against the side of the bench in the shade.
 

@@ -379,3 +379,43 @@ never reads a line out of either book. **It is not an answer to the panel and ma
 incompatible rules about day 940: §16 item 14 and §6.9. Both are the plan of record, the batch obeyed both as far
 as a page can, and the collision is published in `reviews/volume-19/batch-0004.md` §8 with both arguments and with
 neither decided here.
+
+---
+
+## THE REVIEW-FIX PASS ON DAYS 931 TO 940. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**THREADS 1 TO 8 ABOVE ARE UNCHANGED AND NONE OF THEM IS ADVANCED OR CLOSED BY THIS PASS, because this pass changed no
+chapter.** It corrected one figure, repaired one page in a closed volume, and created the next phase. Three things
+below are new and four are debts this pass found rather than carried.
+
+**THE FIGURE THAT WAS WRONG.** The shared run between that batch's closings is **6, not 5**. The shared run is the
+volume's own standing formula and is six tokens long on the tokenising the record published, which is why the record's
+own figure and its own named run did not agree with each other. **Sentences of thirty-eight characters or more: 283,
+not 284.** One row stays unexplained: the eight-word-phrase count, which returns 73 by distinct phrase, 97 by
+occurrence and 436 occurrences of the distinct set, against a published 70, and this pass did not overwrite a figure
+it could not account for.
+
+**THREAD 9, NEW, AND IT IS CLOSED BY THE SAME INSTRUMENT THAT FOUND IT.** The calendar fault at
+`chapters/volume-18/chapter-0864.md:5` had stood since Volume 18 and had been named in four records in this
+repository. **It is repaired: the page carries the five hundred and forty-ninth day of the Bare Month, where it
+carried the five hundred and fifty-ninth, and 0863, 0864 and 0865 now read 548, 549 and 550.** A sweep of all nine
+hundred and forty files for that fault returns zero, and the same sweep over printed weekdays returns one apparent
+fault which is an instrument false positive and not a page. **The thread is closed and no chapter of days 931 to 950
+may quote that page, lean on it or agree with it.**
+
+**THREAD 10, NEW, AND IT IS THE ONE THAT MATTERS MOST TO THE NEXT WRITER.** **The next phase existed in three files'
+wording and not on disk.** `workspace/volume-19/batch-0005/PROMPT.md` now exists, and every statement that it does
+not is superseded. **After it the next phase is `workspace/volume-19/close/`**, which writes no chapter.
+
+**THE FOUR DEBTS THIS PASS ADDS, ALL OF THEM THE PLAN'S.** (1) **`outline/volume-05.md` does not exist** and covers
+fifty chapters on disk; `outline/volume-03.md` has been carried here for volumes and this one never was.
+(2) **The collision is wider than this file's item 8 says**: §3 of the plan carries the same bar as §16 item 14, so
+the plan's own count against itself is three places to two, and the resolution is owed by an outline phase and by
+nobody writing chapters. (3) **§11 pulls against itself** on the disputer's presence. (4) **§7.2's figure for a day
+a piece of chalk was last out cannot be reconciled with this volume's calendar**, and the next batch's ninth card
+forbids printing it.
+
+**AND WHAT A NEXT WRITER MUST NOT LEARN BY SILENCE FROM ANY OF THE ABOVE.** The ten days behind are sound and were not
+rewritten. The plan behind them contains two internal contradictions and one figure that its own calendar cannot
+carry, and all three are named rather than decided, because deciding any of them is an outline decision and not a
+writer's.

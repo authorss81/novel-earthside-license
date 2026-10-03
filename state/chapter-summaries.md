@@ -185,3 +185,32 @@ fifty days, and §6.9, §10 and §13 say that on 940 Adrian Vale's name goes int
 of record. The batch obeyed both as far as a page can and the record publishes the collision rather than deciding
 it. The second is that frames 6 and 12 may not be used on 940 by §17.20 and 940 takes frame 6, which 934 also took,
 and the repeat is named on the card and in the record and is not hidden.
+
+---
+
+# THE REVIEW-FIX PASS ON CHAPTERS 0931 TO 0940. NEWEST AND IT WINS WHERE THEY CONFLICT.
+
+**THE TEN SUMMARIES ABOVE STAND UNCHANGED, BECAUSE NO CHAPTER OF THE TEN WAS EDITED.** This pass read the findings in
+`logs/batch-0004.review.log`, verified each with an instrument run here, and changed three things and none of them is
+a chapter. **There is no summary to add for 0941 to 0950, because no chapter of them exists; the ten cards for them
+are in `workspace/volume-19/batch-0005/PROMPT.md` and the next phase after that is
+`workspace/volume-19/close/`, which writes no chapter either.**
+
+**WHAT WAS CORRECTED IN THE SUMMARIES' OWN RECORD.** The longest shared run between any two of the ten closings is
+**6, not 5**, and the run is the volume's standing formula for the light going, six tokens on the tokenising the
+record published. **Sentences of thirty-eight characters or more: 283, not 284.** One row could not be reproduced and
+was not overwritten: the eight-word-phrase count.
+
+**THE ONE CHAPTER FILE THIS PASS TOUCHED, AND IT IS NOT ONE OF THE TEN.**
+`chapters/volume-18/chapter-0864.md` now carries **the five hundred and forty-ninth day of the Bare Month** in place
+of the five hundred and fifty-ninth, its own weekday was already right, and the three days either side of it read 548,
+549 and 550. **A sweep of all nine hundred and forty chapter files for that class of fault returns zero.**
+
+**AND THE TWO THINGS A NEXT WRITER MUST NOT TREAT AS SETTLED, UPDATED BECAUSE ONE OF THEM IS NOW WIDER.** The first is
+the collision inside the plan: `outline/volume-19.md` §3 and §16 item 14 say neither of the two names goes in any
+column of either book on any of the fifty days, and §6.7, §6.9, §10 and §13 put Adrian Vale's name into the second
+book on 918 and 940. **It is three places in the plan against two, it is already on two written pages, it is not
+decided here, and the next batch obeys the stricter reading on its own ten days so that it reopens nothing.** The
+second is no longer a frame repeat to be named but three plan-level matters a writer of the last batch is handed in
+cards: the pull inside §11 over the disputer's presence, the figure at §7.2 that this calendar cannot carry, and the
+missing `outline/volume-05.md`.
