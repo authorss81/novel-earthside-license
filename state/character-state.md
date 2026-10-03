@@ -667,3 +667,35 @@ nowhere near any of these pages.** **Tamsin Quill is in none of these ten chapte
 not instrumented, because no honest instrument for it can be built without printing it. A capitalised-token scan of the
 ten bodies and the ten headings returns no proper name in any of the twenty files other than the words of the ten titles,
 and a separate literal scan for the two words of that name, and for the given name of the disputer, returns zero.**
+
+---
+
+# THE REPAIR PASS, AND THE VOICES
+
+**A repair pass touched the ten chapters of days 941 to 950 and **changed no character's action, no speech's content,
+no entrance and no exit.** What it changed is how the ten pages carry their voices, and a later writer needs three
+things from this block and nothing else from it.**
+
+**1. THE HANDLES, AND WHICH IS WHICH.** After a person's descriptor has been given in full on first appearance in a
+chapter — §17.9, and not one chapter of this batch drops it — the batch uses **the tradesman** for the man of about
+thirty-nine who trades on a board, **the stallholder** for the man of about thirty-four who keeps a stall two stalls
+along, **the keeper** for the woman of about twenty-nine who keeps a public register, **the digger** and **the man
+with the rod** for the man of about fifty-two who digs, and **the man with the satchel** for the man of about
+thirty-one who carries things for a living. **The woman of about fifty-two and the man of about twenty-seven carry no
+short handle and need none; the first is the only woman of her description in the room and the second is doing a job
+with a bucket in his hands.**
+
+**2. THE SPEECHES ARE STILL TWELVE, ONE SPEAKER EACH, AND NONE OF THEM RUNS ACROSS A PARAGRAPH BREAK.** A repair pass
+tried that on one speech and it is not this manuscript's convention: the bold opens and closes inside a single block and
+the attribution follows inside it. **No bold span lacks a quotation mark and no quotation mark stands outside a bold
+span: twenty-four and twenty-four, measured on the ten bodies after the repair.** Speech sentences now average 23.9
+words and the longest is 76.
+
+**3. THE FIGURES THESE TEN DAYS PUBLISHED ABOUT THE PEOPLE IN THEM ARE UNCHANGED AND WERE RE-MEASURED, NOT CARRIED
+FORWARD.** The room is uncounted on all ten days and no mouth in it reaches a figure by any road, including on 943 and
+on 950. Ten of the twelve speech paragraphs carry a numeral word and every one of those ten is an indefinite pronoun or
+a count of books and not of people, which is a reading and is named as one at `reviews/volume-19/batch-0005.md` §2.
+*About four people a day* stands on 942 four times, always followed by *people*, and was never used as a count of
+anybody; **every occurrence of the string *about four* in the ten bodies has the word *people* inside the next thirty
+characters, measured after the repair.** Adrian Vale is in two of the ten and in eight he is not, and he obtains
+nothing in either and is thanked in neither.

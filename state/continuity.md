@@ -569,3 +569,45 @@ the morning of 941 no mouth in that room treats Adrian Vale's name as an answer 
 ordinary behaviour and never as a sentence about what he has lost: on 941 he is asked one question about the shape of a
 page in the ordinary course of an hour, he answers it, about four people go on with what they have in their own hands, and
 nobody acts on the answer.**
+
+---
+
+# THE REPAIR PASS ON DAYS 941 TO 950, AND IT MOVED NOTHING IN THE FICTION
+
+**A repair pass touched the ten chapters of days 941 to 950 after the writing run and corrected four record files.
+No event, no entry, no mark, no object and no day changed. The ten days are the same ten days and they say the same
+ten things in the same order. `reviews/volume-19/batch-0005.md` §11 is the full record and §11.4 carries every figure
+before and after on the same line.**
+
+**1. WHAT CHANGED IN THE PROSE, AND THE THREE FIGURES A LATER WRITER MUST NOT READ OFF THE OLD NUMBERS.** Mean words
+per sentence **48.0 to 28.4**, longest sentence **171 to 77**, sentences at forty-five words or more **128 of 258 to 51
+of 425**, and single-sentence paragraphs **27 of 113, or 28.1 per cent, to 12 of 97, or 12.4 per cent.** The twelve
+are all legal under `outline/volume-18.md` §17.20: **ten are chapter openings, which §17.1 requires, and two are the
+deliberate beats *He answered it.* on 941 and *It did not come out.* on 944.** Total words went **12,412 to 12,076**,
+and the spread of chapter length is **825 words against 863**, which §11.4 names as better and not fixed.
+
+**2. THE HANDLES, AND WHY THE FLOOR IS SEVEN AND NOT ZERO.** §17.9 requires a person's descriptor in full on first
+appearance in a chapter, and the tradesman and the stallholder are each in seven of these ten days, so **the full
+handle stands at least seven times in the batch and that floor is the plan's and not carelessness.** After first
+appearance the batch now uses *the tradesman*, *the stallholder*, *the keeper*, *the digger* and *the man with the
+satchel*. The three long descriptors went **22 to 17** across the batch, *his own* went **139 to 117**, and
+**distinct eight-word windows standing in three or more of the ten days went 68 to 58**, of which the ones that are
+**neither a §17.9 handle nor a §5 standing object went 17 to 9**.
+
+**3. THE ONE PARAGRAPH THAT WAS A COPY IS NOT A COPY ANY MORE.** **0948 reprinted the speech paragraph of day 938
+word for word, attribution included** — chapter 0938 line 17 against chapter 0948 line 13. It is now a fresh utterance
+in the same mouth on the same beat, and **an exact-sentence comparison of the ten bodies against chapter 0938 returns
+no shared sentence of thirty-eight characters or more.** The card is unchanged: two bolded speeches, one in each mouth,
+one on each morning, and nobody comparing them.
+
+**4. THE NEGATION FORMULA IS GONE AND THE REQUIRED FACTS ARE NOT.** *at any hour of that day* stood at **9 and is at 0**;
+*at any hour* is at 0. *said nothing* is at 4 and each of the four carries a fact a card requires. **The longest
+sentence-initial *nobody* run is 2, on 941 and on 948, and 1 on the other eight**, under §16 item 2's ceiling of three.
+
+**5. EVERYTHING §1 TO §8 ABOVE STILL STANDS AS FICTION.** Chapter equals day on all ten; weekdays Thursday to Saturday;
+ordinals 626 to 635; twelve speech paragraphs, twenty-four bold marks and twenty-four quotation marks; no digits in any
+body; no panel; the seven words at zero in ten bodies and ten headings counted separately; the two accounts of one day
+unadjudicated; the bar, the sockets, the gate, the trough, the rope, the fence, the satchel, the tally-board, the one
+mark and the sixth stroke all exactly where §3 and §6 left them. **The seven words of §6.4 were re-measured after the
+repair and stand at zero in all seven, each measured separately, and the held strings of §6.6, §6.8 and §6.9 are
+unprinted on all ten days as before.**

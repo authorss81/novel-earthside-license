@@ -545,3 +545,64 @@ section is stale. `bible/power-system.md` has no §65 and no §66. The three def
 **THE NEXT PHASE IS `workspace/volume-19/close/`, AND IT IS A CLOSER AND NOT A BATCH: it writes no chapter and writes
 `state/volume-19-close.md`. It did not exist when this batch finished, this run did not create it, and this block names it
 and writes nothing else.**
+**AND THAT SENTENCE WAS WRONG AND IS CORRECTED BY THE REPAIR BLOCK BELOW, WHICH WINS OVER IT. THIS RUN DID CREATE
+`workspace/volume-19/close/PROMPT.md`, in the same commit as these ten chapters.**
+
+---
+
+# THE REPAIR PASS ON DAYS 941 TO 950. NEWEST, AND IT WINS OVER EVERY BLOCK ABOVE IT.
+
+**THE TEN CHAPTERS OF THIS BATCH WERE REPAIRED AFTER THE WRITING RUN AND NOT ONE EVENT IN THEM MOVED.** No day, no
+entry, no mark, no object, no entrance and no exit changed, and the ten days still say the same ten things in the same
+order. **What changed is sentence shape, handle length, one copied paragraph, and four false sentences in this
+repository's own records. The record is `reviews/volume-19/batch-0005.md` §11 and the figures are §11.4, and any figure
+quoted from the block above about the ten files of days 941 to 950 is superseded by §11.4.**
+
+**1. THE SENTENCE SHAPE, MEASURED BEFORE AND AFTER ON THE SAME INSTRUMENT.** Mean words per sentence **48.0 to 28.4**,
+median **44 to 27**, longest **171 to 77**, sentences at forty-five words or more **128 of 258 to 51 of 425**, and at
+eighty words or more **6 to 0**. Speech sentences average **23.9** words and the longest is **76**; the 171-word
+speech of 942 is now four sentences. Single-sentence paragraphs **27 to 12**, and **all twelve are legal under
+`outline/volume-18.md` §17.20: ten are chapter openings and two are the beats *He answered it.* and *It did not come
+out.*** Total words **12,412 to 12,076**, which is a fall of 336 words and not a cut of scenes.
+
+**2. THE HANDLES.** §17.9 keeps a descriptor in full on first appearance in a chapter and §17.5 forbids an attribution
+restating it every time the person speaks. The batch now carries **the tradesman**, **the stallholder**, **the
+keeper**, **the digger** and **the man with the satchel** after the first mention. The three long descriptors went
+**22 to 17** across the batch, *his own* went **139 to 117**, and **distinct eight-word windows standing in three or
+more of the ten days went 68 to 58**, of which **the ones that are neither a §17.9 handle nor a §5 standing object
+went 17 to 9**. The floor is not zero and cannot be: **§17.9 puts the two board-men at seven full handles each across
+these ten days.**
+
+**3. THE NEGATION FORMULA.** *at any hour of that day* **9 to 0**, and *at any hour* **0**. *said nothing* is at 4 and
+each of the four carries a fact a card requires. The longest sentence-initial *nobody* run is **2**, under §16 item 2's
+ceiling of three.
+
+**4. THE ONE COPIED PARAGRAPH IS GONE.** **0948 reprinted chapter 0938's speech paragraph word for word, attribution
+included.** It is a fresh utterance now, in the same mouth on the same beat, and **an exact-sentence comparison of the
+ten bodies against 0938 returns no shared sentence of thirty-eight characters or more.** The card is untouched: two
+bolded speeches, one in each mouth, one on each morning, and nobody comparing them.
+
+**5. EVERYTHING THE BLOCK ABOVE ASSERTS ABOUT THE FICTION STILL STANDS, RE-MEASURED RATHER THAN CARRIED FORWARD.**
+Chapter equals day on all ten; weekdays Thursday to Saturday; Bare-Month ordinals 626 to 635; **twelve speech
+paragraphs, twenty-four bold marks and twenty-four quotation marks, with no speech running across a paragraph break**;
+no digits in any body; no panel; **the seven words at zero in ten bodies and ten headings, each measured separately**;
+the two accounts of one day unadjudicated and still standing in two open books; the bar on the top step out of its two
+sockets; the one mark on the bare piece of board in the woman of about fifty-two's own hand; six strokes and no
+seventh. **The room is uncounted on all ten days and no mouth in it reaches a figure by any road.**
+
+**6. AND THE SENTENCE AT THE END OF THE BLOCK ABOVE WAS FALSE AND IS CORRECTED FOR THE THIRD AND LAST TIME HERE, WITH
+THE OTHERS.** **`workspace/volume-19/close/PROMPT.md` EXISTS. It was written by the batch-0005 run, in the same commit
+as these ten chapters, because `AGENTS.md` requires a writer that finishes a batch to leave behind exactly one next
+phase.** The false sentence stood in four files — `state/current.md`, `state/chapter-summaries.md`,
+`state/batch-summaries/volume-19-batch-0005.md` and `reviews/volume-19/batch-0005.md` §10 — and **all four are
+corrected in place.** That prompt has been given a §7 by the same repair pass, carrying the instrument in words so
+that the close can re-derive every figure from the files alone.
+
+**7. AND WHAT THE CLOSE INHERITS AS OWED, NONE OF IT SETTLED AND NONE OF IT THIS PASS'S.** The review dispatch falls
+back to the writing agent because `novel-reviewer` is registered as a subagent, and the fix is in workflow dispatch
+that no phase may open. `state/phase-ledger.json` still reads `phase-000-bootstrap`. **`NOVEL_SPEC.md` contradicts
+itself: lines 20 to 25 claim fifteen volumes and 750 chapters and lines 42 to 45 claim that figure was corrected, and
+the true figures are nineteen volumes and nine hundred and fifty chapters.** `outline/volume-03.md` and
+`outline/volume-05.md` do not exist. `workspace/volume-19/batch-0002/` is absent and must stay absent. And the man of
+about fifty-two who digs and the woman of about fifty-two keep a wall in one room, which is in `outline/volume-19.md`
+§11 and is not a prose fix. **The next phase is `workspace/volume-19/close/` and it writes no chapter.**

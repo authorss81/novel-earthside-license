@@ -50,8 +50,8 @@ for row 13, and `/tmp/opencode/held.py` for §7. All four were run in this sessi
 
 | What | Figure | Reading, instrument and scope on the same line |
 |---|---|---|
-| Words in bodies, per file | **1400, 1295, 1771, 1036, 1107, 1277, 1264, 1182, 908, 1172** | whitespace split, bodies only, ten files; **shortest 908 (0949), longest 1771 (0943), mean 1241.2, total 12,412, spread 863** |
-| Paragraphs | **113** | blocks between blank lines, bodies only, ten files |
+| Words in bodies, per file | **1400, 1295, 1771, 1036, 1107, 1277, 1264, 1182, 908, 1172 — SUPERSEDED BY §11, MEASURED AGAIN AFTER THE REPAIR** | whitespace split, bodies only, ten files; **shortest 908 (0949), longest 1771 (0943), mean 1241.2, total 12,412, spread 863** |
+| Paragraphs | **113 — SUPERSEDED BY §11, WHICH COUNTS 97** | blocks between blank lines, bodies only, ten files |
 | Speech paragraphs | **12** | a paragraph carrying `**"`; one to two per file, and the count per file is **1, 1, 2, 1, 1, 1, 1, 2, 1, 1**. **0943 has the plan's own two, one for the disputer and one for the keeper; 0948 has the plan's own two, one on each morning** |
 | Bold marks and quotation marks | **24 and 24** | literal `**` and `"` counts, bodies only, ten files; **bold spans carrying no quotation mark: 0. Quotation marks outside a bold span: 0** |
 | Digits in bodies | **0** | literal `[0-9]`, bodies only, ten files; the only digits in the ten files are the chapter numbers in the ten headings |
@@ -59,11 +59,11 @@ for row 13, and `/tmp/opencode/held.py` for §7. All four were run in this sessi
 | Panels | **0** | a block between blank lines whose first character is `>`, bodies, ten files |
 | **The seven words of §6.4** | **none of the seven: 0** | word-bounded, both case flags, **each of the seven measured separately, ten bodies and ten headings, bodies and headings counted separately, and no span of any of them printed here.** All seven word-days are behind these ten days, the last on 934, and this batch had no word-day to bring one back on. **The record in front publishes this row the same way, by counting, and the count is the whole of the claim** |
 | `passage` `privilege` `player` `players` `licence` `license` `earthside` `stage` `stronger` `power` `workway` `threshold` `system` `seat` `route` `steady` `steadier` `stable` | **0 each, over ten bodies and ten headings, each measured separately** | word-bounded, both case flags, twenty strings, ten files. **`seat` is at zero across the ten, which matters because §16 item 18 forbids it on the ten mornings after the act, and `steady` and `steadier` are at zero, which matters because the same item forbids saying that any book is more or less steady** |
-| Longest common contiguous token run between any two **bodies** | **21** | longest common contiguous token run anywhere in the two token lists, every pair, forty-five pairs, ten bodies, `/tmp/opencode/runs.py`. **The run is `The woman of about twenty nine who keeps a public register had her own end of that bench with her own`, between 0943 and 0950, and it is a §17.9 descriptor handle — eleven tokens — plus ten tokens of stock attribution predicate.** It is named as structural and not as varied. **The record in front published 21 on this reading and returned 18 before its repair** |
+| Longest common contiguous token run between any two **bodies** | **21 — SUPERSEDED BY §11, WHICH RETURNS 17 AND NAMES THE RUN** | longest common contiguous token run anywhere in the two token lists, every pair, forty-five pairs, ten bodies, `/tmp/opencode/runs.py`. **The run is `The woman of about twenty nine who keeps a public register had her own end of that bench with her own`, between 0943 and 0950, and it is a §17.9 descriptor handle — eleven tokens — plus ten tokens of stock attribution predicate.** It is named as structural and not as varied. **The record in front published 21 on this reading and returned 18 before its repair** |
 | Longest common contiguous token run between any two **closings** | **6** | same instrument, same tokenising, ten closings, forty-five pairs. **Four different pairs reach 6 and they are four different phrases**: 941/943 *and nobody in that room had*; 942/947 *and the face of that board*; 943/945 *where he had put it down*; 945/949 *about the width of a card*; 948/949 *By the light s going the*. **The run is printed beside the number so that a reader can check the number against the words.** The record in front published 6 on this reading |
 | Longest token run occurring twice **inside one body** | **11** | the longest window occurring twice within one body, each body against itself, ten bodies; the run is *the man of about thirty nine who trades on a board* in 0941. **The record in front published 11 on the same reading** |
 | Repeated sentences of 38 characters or more | **0** | every 38+ sentence of every body in one multiset, whitespace collapsed, **split paragraph by paragraph so that a paragraph-opening sentence counts as a sentence**; **249 such sentences in the ten files and none appears twice.** The record in front published 0 out of 283 |
-| Eight-word phrases standing in three or more of the ten | **68 by distinct phrase** | the same tokenising, ten bodies; **this run counts DISTINCT phrases and says so, because the record in front published 70 without saying which of its three readings it counted.** The same instrument returns **394 occurrences** of that distinct set and **266** for the sum of the file-counts. **By occurrences instead of by phrases the figure is a different measurement and is not printed as one.** The instrument reproduces the record's own figure exactly on that record's own ten files — 73 by distinct phrase and 436 occurrences — which is how it is known to be measuring the same thing |
+| Eight-word phrases standing in three or more of the ten | **68 by distinct phrase — SUPERSEDED BY §11, WHICH RETURNS 58, AND §11 SUPPLIES THE THRESHOLD THIS ROW LACKED** | the same tokenising, ten bodies; **this run counts DISTINCT phrases and says so, because the record in front published 70 without saying which of its three readings it counted.** The same instrument returns **394 occurrences** of that distinct set and **266** for the sum of the file-counts. **By occurrences instead of by phrases the figure is a different measurement and is not printed as one.** The instrument reproduces the record's own figure exactly on that record's own ten files — 73 by distinct phrase and 436 occurrences — which is how it is known to be measuring the same thing |
 | Sentence-initial *nobody* | **9 in total, longest run 2** | sentences beginning *Nobody*, per file 2, 0, 1, 1, 1, 1, 0, 2, 0, 1; **§16 item 2's ceiling is three in a row and the worst run in the ten is 2, and the two that reach it are 0941 and 0948, where the run carries facts a card requires rather than standing in for a scene** |
 | *about four* without *people* | **0** | six occurrences of the string in ten bodies, each checked against the following thirty characters; **every one of the six has the word *people* inside that window.** The phrase *about four people a day* stands on 0942 four times and the two remaining occurrences are of the same census |
 | Numerals inside a mouth | **10 of 12 speech paragraphs carry a numeral word** | word list run over every bold span, twenty-two strings, ten files. **Ten of the twelve carry *one* and/or *two*, and every one of those is an indefinite pronoun or a count of books and not of people**: *one thing about the hand*, *two accounts of one day standing in two books in one room*, *the two of us*, *two holes in that yard*, *one day*, *one minute of it*, *one there this morning*, *the only one in this room*. **No mouth in these ten states a count of that room or of the people in it, and no mouth states any other figure of people. This is a reading and it is named: *one* as an indefinite pronoun is not a count, and this record does not claim the figure is zero in the sense of the word, it claims what the ten occurrences are** |
@@ -344,9 +344,13 @@ carrying that debt with it.**
 ## 10. The next phase, by path
 
 **`workspace/volume-19/close/`, AND IT IS A CLOSER AND NOT A BATCH.** It writes **no chapter** and writes the close
-record at `state/volume-19-close.md`. **It did not exist when this batch finished and this run did not create it**,
-because the prompt behind this batch named it as the next phase and drafted nothing for it. **This file creates no
-directory beyond the one that holds this record and writes no prompt for any other batch.**
+record at `state/volume-19-close.md`. **THE CORRECTION IS AGAINST THIS FILE'S OWN EARLIER TEXT AND AGAINST THIS
+COMMIT, MEASURED IN THE REPAIR PASS AT §11. This run DID create it**, at `workspace/volume-19/close/PROMPT.md`,
+147 lines, in the same commit that added these ten chapters, because `AGENTS.md` requires a writer that finishes a
+batch to leave behind exactly one next phase. The sentence this paragraph used to carry, that the directory did not
+exist and this run did not create it, was false and has been struck; **the closer would have inherited a record
+telling it that the prompt written for it was not there.** **This file creates no directory beyond the one that holds
+this record, writes no prompt for any other batch, and drafts no cards for the close.**
 
 **AND THE FOUR FIGURES THE CLOSE WILL INHERIT, MEASURED IN THIS RUN AND PUBLISHED HERE SO THAT IT DOES NOT HAVE TO
 RE-DERIVE THEM.** Fifty chapters and nine hundred and fifty days, and the volume ends at BM 635. Two books on one bench,
@@ -354,3 +358,196 @@ each with a line about one day that the other does not answer to. Six strokes in
 seventh. A bar on a top step out of its two sockets on its nine hundred and fiftieth morning. One mark on a bare piece
 of board under a date. Sixteen posts and eleven withies, unmeasured. A length of new rope, uncut. A trough without a
 heat. And one line that is disputed, and standing.
+---
+
+# 11. THE REPAIR PASS ON THIS BATCH, AND EVERY FIGURE IN IT WAS MEASURED AFTER THE EDITS
+
+**§§1 to 10 above are the record of the run that wrote the ten chapters and they are left standing, because a record
+of a run is not rewritten when a later pass touches the files. What is superseded is marked SUPERSEDED in §2 and the
+reasoning is here. This section was written by a later pass, over the ten files as they now stand, and every number in
+it was produced by the instrument defined in §11.1, in this pass, on these files.**
+
+**WHAT CAME IN.** A review of this batch was dispatched after the writing run and returned six findings and a list of
+lower-severity items. Four of the six were about the prose and were actionable from a repair pass; one was a false
+statement in four files; one was in the workflow dispatch and is not a phase's to fix. **The planned plot was not
+changed, no chapter was restarted, no card was re-drawn, no day moved, and nothing was added to or taken out of the
+fiction.**
+
+## 11.1 THE INSTRUMENT, WRITTEN OUT SO THAT EVERY FIGURE BELOW CAN BE RE-DERIVED FROM THE REPOSITORY ALONE
+
+**The instruments §2 names live outside this repository and will not survive it, which is a fault in §2 and this
+section is the repair of it: everything below is reproducible with nothing but the ten files and the definitions
+here, and a later reader who wants a different reading can write their own and say which.**
+
+- **Scope.** The ten bodies, meaning `chapters/volume-19/chapter-0941.md` through `chapter-0950.md`, each read as
+  everything after its first newline. Headings are excluded from body counts and measured separately.
+- **Tokenising, and this is the definition that matters.** Lowercase the text, then take every maximal run of
+  letters `[a-z]+`. **A hyphen and an apostrophe are both token boundaries.** So *thirty-nine* is two tokens,
+  *light's* is two tokens, and *Bare Month* is two tokens. This is the tokenising §2 published and the one this pass
+  used; **§11.4 gives the figure under the other tokenising beside it, and the difference between the two is one
+  window, which is worth knowing and is not worth twelve.**
+- **Words.** `len(body.split())`. **Paragraphs.** Split the body on one or more blank lines, drop blocks that are
+  empty or exactly `---`, and count what is left. **Sentences.** Split each surviving paragraph on `(?<=[.!?])\s+`
+  and drop empties, so a paragraph-opening sentence counts as a sentence and a speech counts as its own sentences.
+- **Speech paragraphs.** A surviving block that contains the two-character sequence `**"`. **Panels.** A surviving
+  block whose first character is `>`.
+- **Shared run between two bodies.** For each of the forty-five pairs, the longest common **contiguous** token
+  subsequence, found by the usual dynamic-programming row over the two token lists, and the run itself printed with
+  the figure so the number can be checked against the words.
+- **N-grams in three or more files.** Build the token list of each body. For each body, take the set of its own
+  eight-token windows and deduplicate **within that body**, so a window repeated inside one file counts once for that
+  file. Count how many bodies each distinct window appears in, and report the windows whose count is three or more.
+  **Count distinct windows, and say so, which §2 already had to.** There is a second reading and it is a different
+  measurement, not a correction of this one: count **total occurrences** across all ten bodies with no per-file
+  deduplication and report the windows occurring three or more times. §11.4 gives both.
+- **Repeated sentences.** Every sentence of 38 characters or more, whitespace collapsed, each paragraph split on its
+  own, into one multiset; report how many appear more than once.
+- **Sentence-initial *nobody*.** Sentences whose first token is *nobody*, case-insensitive; report the longest run.
+
+## 11.2 WHAT THE REPAIR CHANGED IN THE PROSE, AND WHAT IT DID NOT
+
+**Four findings were actionable and all four were acted on. Nothing else in the ten files was touched.**
+
+| Finding | What it was | What this pass did |
+|---|---|---|
+| **1. Sentence length** | mean 48.0 words, median 44, longest **171**; 128 of 258 sentences at 45 words or more. Clause-wall prose against `AGENTS.md`'s *vary sentence length and paragraph rhythm*. | **Split at the clause joints.** Mean **28.4**, median **27**, longest **77**, sentences at 45 words or more **51 of 425**, at 80 or more **0**, at 100 or more **0**. Speech sentences mean **23.9**, longest **76**. No sentence was removed to do it and no fact was dropped to shorten one: total words went **12,412 to 12,076**. |
+| **2. Handle restatement** | The full descriptors were restated in narration as well as in speech attributions. §17.5 forbids an attribution restating a person's whole handle every time the person speaks, and §17.9 requires the handle in full on first appearance in a chapter, so the fix is the one the plan already implies. | **Full handle kept at first appearance in each chapter and at each speech attribution; short handles after.** *The tradesman*, *the stallholder*, *the keeper*, *the digger*, *the man with the satchel*. The three long descriptors went **22 to 17** across the batch, *his own* went **139 to 117**, and distinct 8-grams in three or more files went **68 to 58**. |
+| **3. The negation tic** | *at any hour of that day* stood at 9 and *said nothing* at 5, and *said nothing* had become the batch's rhythm rather than its exception. | **The formula is gone: `at any hour of that day` is at 0 and `at any hour` is at 0.** *said nothing* is at 4 and each of the four carries a fact a card requires, so it stays. Longest sentence-initial *nobody* run is **2** on 0941 and 0948 and 1 on the other eight, under §16 item 2's ceiling of three. |
+| **Lower severity: 0948 reprinted day 938** | The earlier-morning speech on 0948 was a **verbatim copy of chapter 0938's speech paragraph, attribution included** — 0938 line 17 against 0948 line 13, word for word. It read as recycled text rather than as a thing remembered. | **Rewritten in the same mouth on the same beat, in different words.** The card requires two bolded speeches, one in each mouth, one on each morning, and that is unchanged; what is gone is the copy. An exact-sentence comparison of the ten bodies against chapter 0938 now returns **no shared sentence of 38 characters or more**, measured as §11.1 describes. |
+
+**AND ONE FINDING THAT WAS NOT A FINDING, WITH ITS REASON, SO THAT A LATER PASS DOES NOT REPAIR CORRECT ENGLISH.**
+The reviewer reported the ordinal form as inconsistent, *six hundred and thirtieth* on 0945 against *thirty-first* on
+0946 and after. **Those are the correct forms of two different numbers.** Day 945 is Bare-Month ordinal 630 and takes
+*thirtieth*; day 946 is 631 and takes *thirty-first*. **Making them agree would put a wrong ordinal on a page. No
+change was made and none should be.**
+
+## 11.3 THE FOUR FALSE STATEMENTS, CORRECTED IN PLACE, AND WHY IT MATTERED
+
+**This run did create `workspace/volume-19/close/PROMPT.md`.** Commit `9b4cbc0` carries it at 147 lines in the same
+commit as the ten chapters. **Four files of this batch asserted the opposite**, and each of them is a file the close
+phase is told to read first:
+
+| File | Corrected |
+|---|---|
+| `reviews/volume-19/batch-0005.md` §10 | sentence struck and replaced with the fact and the reason |
+| `state/current.md` | sentence marked false and pointed at this section |
+| `state/chapter-summaries.md` | last clause of the closing paragraph marked false and pointed at this section |
+| `state/batch-summaries/volume-19-batch-0005.md` | same |
+
+**A close that inherited those four would have believed its own prompt was not there, which is the failure
+`outline/volume-19.md` §17.22 names: a record that asserts an absence it has not measured.**
+
+## 11.4 THE FIGURES, AFTER THE REPAIR, WITH THE THRESHOLD §2 LACKED
+
+**§2 published 68 for the eight-word figure and called it better than the 73 in front of it, and published no
+threshold, so a high number was scored as an improvement. The threshold is stated here and is this pass's reading,
+named as a reading: an eight-word window standing in three or more of ten days is a fault when it is not structural,
+and the structural cases in this batch are the descriptor handles §17.9 requires and the room's standing objects §5
+puts on every page of the volume.** On that reading the figure to beat is not 73 but the count of **non-structural**
+windows, and the instrument returns the structural ones by name so a reader can subtract them.
+
+| Figure | Before | After | Reading, instrument and scope on the same line |
+|---|---|---|---|
+| Words per body | 1400, 1295, 1771, 1036, 1107, 1277, 1264, 1182, 908, 1172 | **1382, 1255, 1705, 1017, 1047, 1259, 1231, 1137, 880, 1163** | `split()`, ten bodies; shortest 880 (0949), longest 1705 (0943), mean **1207.6**, total **12,076**, spread **825**. **The spread is 38 words better and not fixed: 0943 is the resolution and 0949 is a hand going into a pocket, and §8's explanation of why still stands.** |
+| Sentences | 258 | **425** | paragraph-then-sentence split, ten bodies; mean **28.4**, median **27**, longest **77** |
+| Sentences at 45 words or more | 128 of 258 | **51 of 425** | same instrument, same scope |
+| Sentences at 80 words or more | 6 | **0** | same; the 171-word speech on 0942 is now 4 sentences |
+| Paragraphs | 113 (this pass's instrument: 96) | **97** | blocks between blank lines, `---` dropped, ten bodies. **§2's 113 and the writing run's own count of 96 disagree and this pass does not resolve why; both are given because a reader must not be handed one number where two instruments disagree** |
+| Single-sentence paragraphs | 27, **28.1 per cent** | **12, 12.4 per cent** | same scope; **all twelve are now legal under `outline/volume-18.md` §17.20 and are named: ten are chapter openings, which §17.1 requires, and two are the deliberate beats *He answered it.* on 0941 and *It did not come out.* on 0944. Not one is a free-standing narration paragraph standing in for a beat** |
+| Speech paragraphs / bold / quotes | 12 / 24 / 24 | **12 / 24 / 24** | unchanged, and checked: no speech spans a paragraph break and no bold span lacks a quote |
+| Longest shared run, two bodies | 21 | **17** | §11.1's shared-run definition, forty-five pairs; **the run is *the trough at the top of the market step stood with the crack in its near end*, between 0942 and 0948, and it is a §5 standing object and not prose. It is named here rather than left to be found** |
+| Longest shared run, two closings | 6 | **6** | same instrument, ten closings; top pairs 0945/0949 *about the width of a card*, 0943/0945 *where he had put it down*, 0942/0947 *and the face of that board*. **The pair 0948/0949 that shared *by the light's going* in the writing run no longer shares it: 0949's closing now opens on the board and carries the time inside the paragraph** |
+| Distinct 8-grams in 3+ bodies | 68 | **58** | §11.1's n-gram definition, ten bodies, 222 occurrences of those 58 |
+| Repeated 38+ char sentences | 0 | **0** | §11.1's definition, ten bodies |
+| Full descriptors, three of them | 9, 9, 4 | **8, 7, 2** | literal strings with hyphens, ten bodies |
+| `his own` | 139 | **117** | literal, ten bodies, out of 12,076 words |
+| `at any hour of that day` | 9 | **0** | literal, ten bodies |
+| Chapter = day, weekday, ordinal | 10 of 10 | **10 of 10** | day one a Tuesday and ordinal as day less three hundred and fifteen; weekdays Thursday to Saturday, ordinals 626 to 635, all ten parsed back out of the printed words. **The only day-form in any body is still *the Nth day of the Bare Month*** |
+| Digits in bodies / panels | 0 / 0 | **0 / 0** | literal `[0-9]` and a block opening `>` |
+| Title word counts | 6, 5, 5, 6, 6, 5, 6, 7, 6, 7 | **unchanged** | all ten inside §17.8's four to nine |
+
+**THE FIGURE THAT READS BEST ON PAPER IS NOT THE ONE THAT MATTERS, AND HERE IS WHY, WITH BOTH READINGS MEASURED.**
+§2 published **68** for the eight-word figure and called it better than the **73** in front of it, and published no
+threshold, so a high number was scored as an improvement. **The threshold is stated here and it is this pass's
+reading, named as a reading: an eight-word window standing in three or more of ten days is a fault when it is neither
+a descriptor handle §17.9 requires nor a standing object or date form §5 puts on every page of the volume, and it is
+the third bucket that the next writer has to beat.** The bucket totals are measurements; **the assignment of a window
+to a bucket is a reading**, and the rule is published so a reader can move a window and get a different total.
+
+| Eight-word windows, ten bodies | Before | After | Instrument and scope |
+|---|---|---|---|
+| Distinct windows in **3 or more files** | 68 | **58** | §11.1's per-file-deduplicated definition; letters-only tokenising; 222 occurrences of the 58 |
+| Distinct windows occurring **3 or more times in total** | 81 | **70** | §11.1's second reading; same files; **this is not a correction of the row above, it is a different measurement** |
+| Distinct windows in 3+ files, **apostrophe kept in the token** | 67 | **57** | same as row 1 with the tokenising changed and nothing else |
+| — of which are descriptor handles | 28 | **24** | a window counts here if it contains *who keeps*, *who trades*, *who carries* or *who digs* |
+| — of which are a standing object or the date form | 23 | **25** | a window counts here if it contains the bar and its sockets, the low place in the stone, the trough, the step below the door, the door at the foot of the stair, the bare piece of board, the awning at the store's end, the cloth's descent down the columns, *day of the Bare Month*, or the row behind a shoulder |
+| — **of which are neither** | **17** | **9** | **and this is the figure the threshold exists for** |
+
+**THE 80 IN THE REVIEW IS NOT A TOKENISING DIFFERENCE AND THIS SECTION SAYS SO RATHER THAN LETTING IT STAND AS ONE.**
+A review of this batch reported **80** eight-word windows and set it beside §2's **68** as though the two were the
+same measurement read two ways. **They are not.** The 80 is the second reading — distinct windows occurring three or
+more times in total, with no per-file deduplication — on the pre-repair files, and §11.1's first reading on those same
+files returns **68**; the tokenising alone accounts for one, not for twelve. **On that second reading the same ten
+files return 80 before this repair and 70 after it.** The reviewer's figure is not wrong and is not dismissed here;
+**it is a different quantity and it has now been given its own row instead of being argued with.**
+
+**AND THE FIGURES THAT STILL READ BADLY ARE PUBLISHED BECAUSE §17.22 REQUIRES IT.** The ten bodies carry **117**
+instances of *his own*, which is one in every 103 words and is this volume's possessive style and not a figure this
+pass set out to change. The ten-word descriptor handle still stands **7 times in the batch** for each of the two
+board-men, because §17.9 requires the handle in full on first appearance in each of the seven chapters each of them
+is in, and that floor is **7 by the plan's own rule and not by carelessness.** **Neither figure is a count of
+repetition that can be driven lower without breaking a plan instruction.**
+
+**AND ONE HOUSEKEEPING ITEM, WHICH IS THE ONLY THING IN THIS SECTION THAT IS NOT PROSE.** All ten of these files were
+written without a trailing newline, and they were the only ten files in the volume without one. **A newline has been
+put at the end of each of them and nothing else about them was touched by that**, so the volume is now fifty of fifty
+consistent. No instrument in §2 or §11 is affected, because every scope reads a body as everything after the first
+newline.
+
+## 11.5 WHAT THIS PASS COULD NOT FIX, AND WHY, AND WHERE IT IS OWED
+
+1. **The review dispatch itself.** `logs/batch-0005.review.log` line 1 records `agent "novel-reviewer" is a subagent,
+   not a primary agent. Falling back to default agent`, and the fallback's result is the review that produced these
+   findings. **The fix is in workflow dispatch, and no writer, reviewer or repair pass may open
+   `.github/workflows/` or `.opencode/agent/`.** This is the finding with the most leverage in it, because every
+   finding ever taken over this manuscript has been taken by the agent kind that wrote the chapters — `reviews/`
+   holds no directory for Volume 16 and eleven volumes have gone without an outside reader — and §1's admission of
+   that is the only reason this pass had anything to work from.
+2. **`state/phase-ledger.json` reads `phase-000-bootstrap`, `status: planned`, `attempts: 0`** at Volume 19, Chapter
+   0950. **It is a controller file and this pass neither opened nor wrote it.** It is tracking nothing and the next
+   volume's first planner should be told so by its owner.
+3. **`NOVEL_SPEC.md`'s Status section is stale and now contradicts itself.** Lines 20 to 25 still read *fifteen
+   volumes and 750 chapters are on disk* and *three volumes and 150 chapters remain*. **Lines 42 to 45 of the same
+   file already claim that this figure *was stale and is corrected here*.** So the file asserts a correction it does
+   not contain. The true figures are **nineteen volumes and nine hundred and fifty chapters, every volume complete**,
+   and the panel-file counts in the same section cover Volumes 01 to 15 and stop there. **This pass did not edit
+   `NOVEL_SPEC.md`:** it is a specification file and not one of the fiction, bible, outline, chapter, summary,
+   continuity, character or open-thread files a phase is given, and the review that raised it classed it as
+   owner-level. **It is handed on with the line numbers so that it costs its owner one edit and not a search.**
+4. **`outline/volume-03.md` and `outline/volume-05.md` do not exist**, and Volume 05's fifty chapters are on disk.
+   Owner-level; a planning phase and a repair pass are both the wrong place to invent a plan of record.
+5. **`workspace/volume-19/batch-0002/` is absent** where 0001, 0003, 0004, 0005 and close all exist, and
+   `reviews/volume-19/batch-0002.md` and chapters 0921 to 0930 are both on disk. **This pass did not create it and
+   should not: a directory for a phase that finished is dispatch history, and writing a prompt into it now would put
+   a card file in front of a writer for a batch that has already been written.**
+6. **The three deferral markers in `workspace/volume-19/batch-0003/`** on a finished phase, and **`bible/power-system.md`
+   having no §65 and no §66**, are carried forward exactly as §9 carried them.
+
+**AND THE ONE COLLISION THIS PASS FOUND AND DID NOT REPAIR, BECAUSE REPAIRING IT WOULD CHANGE THE PLAN.** The
+disputer of 943 is the man of about fifty-two who digs and the woman of about fifty-two keeps a wall in the same
+room on 943 and on 950. §8 above discloses this and this pass confirms it on the files as they stand. **§11 of
+`outline/volume-19.md` fixes who disputes the line and the card fixes that he is taken from the pages and not from
+the pool, so the alternative is not a prose fix but a change to who the volume's resolution is about. The two are
+distinguished by their sex in every sentence of all ten days, no mouth asks either about the other, and it is left
+standing and named here rather than quietly renamed.**
+
+## 11.6 WHAT THE CLOSE INHERITS FROM THIS SECTION
+
+**Everything in §10 above still stands, and four of its figures are superseded by §11.4 and the closer should use the
+§11.4 column.** The four figures the volume ends holding are unchanged by this pass: **fifty chapters and nine
+hundred and fifty days, ending at Bare-Month ordinal six hundred and thirty-five; two books on one bench each
+holding an account of one day that the other does not answer to; six strokes in a column of the register and no
+seventh; a bar on a top step out of its two sockets on the nine hundred and fiftieth morning; one mark on a bare
+piece of board under a date.** **No event, no entry, no mark and no object moved in this repair. The ten chapters are
+the same ten days and say the same ten things in the same order, and the only things that changed are where a
+sentence was broken and where a handle was shortened.**

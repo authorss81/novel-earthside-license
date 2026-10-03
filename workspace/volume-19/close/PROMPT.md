@@ -31,9 +31,11 @@ measuring.**
 2. `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md` and
    `state/chapter-summaries.md`, **and the block each of those ends with, which is the batch that wrote days 941 to 950
    and which wins over every block above it.**
-3. `reviews/volume-19/batch-0005.md` — **all of it, and especially §1, §2, §6, §8, §9 and §10.** It carries every figure
+3. `reviews/volume-19/batch-0005.md` — **all of it, and especially §1, §2, §6, §8, §9, §10 and §11.** It carries every figure
    measured in the run that wrote the last ten days, and **it publishes the figures that read worse for that batch than
-   for the batch in front of it**, and it names the three plan-level debts and the one writing debt.
+   for the batch in front of it**, and it names the three plan-level debts and the one writing debt. **§11 is a later
+   repair pass on those same ten chapters and it supersedes four of §2's figures; where the two disagree, §11.4 is
+   right and §2 is the record of what the files used to say.**
 4. `reviews/volume-19/batch-0004.md`, `batch-0003.md`, `batch-0002.md` and `batch-0001.md` — for the shape of a batch
    record in this volume and for the standing figures each of them carries.
 5. `state/volume-18-close.md`.
@@ -145,3 +147,55 @@ still are not told.**
 
 **THE VOLUME IS COMPLETE AT FIFTY CHAPTERS AND NINE HUNDRED AND FIFTY DAYS. Nothing in this file is a card, a day, a
 frame, a pressure tag, a decision or a scene, and nothing in this file may be read as one.**
+---
+
+## 7. ADDED BY THE REPAIR PASS ON `reviews/volume-19/batch-0005.md`, AND IT IS BECAUSE THE FIGURES YOU INHERIT WERE NOT REPRODUCIBLE
+
+**The reason this section exists is in §5 above and it is worth naming: the batch record's own figures cite instruments
+that live outside this repository and will not survive it, and the instruction in that record to re-run them could not
+be carried out from the repository alone. That is now fixed for the last ten days, and it is fixed here as well.**
+
+**7.1 WHAT WAS WRITTEN AFTER THOSE TEN CHAPTERS WERE WRITTEN, AND WHAT IT CHANGED.** A repair pass touched the ten
+files of days 941 to 950 and four record files after the writing run. **It changed no event, no entry, no mark and no
+object, and it moved no day.** It broke long sentences, shortened repeated handles, took one copied paragraph out of
+0948, and corrected a false statement that four files carried about this very prompt. **`reviews/volume-19/batch-0005.md`
+§11 is that pass's record and §11.4 holds its figures. Four of the figures in §3 above and in the batch record's §2
+are superseded by §11.4 and the closer should use the §11.4 column.**
+
+**7.2 THE INSTRUMENT, WRITTEN OUT, SO THAT EVERY FIGURE IN §11.4 CAN BE RE-DERIVED FROM THE FILES ALONE.** This is
+the definition the last batch's record should have carried and now carries at its §11.1.
+
+- **Scope.** `chapters/volume-19/chapter-0941.md` through `chapter-0950.md`, each read as everything after its first
+  newline. Bodies exclude the heading; headings are measured separately.
+- **Tokenising.** Lowercase, then take every maximal run of letters `[a-z]+`. **A hyphen and an apostrophe are both
+  token boundaries.** *thirty-nine* is two tokens; *light's* is two tokens; *Bare Month* is two tokens.
+- **Words.** `len(body.split())`. **Paragraphs.** Split on one or more blank lines; drop blocks that are empty or
+  exactly `---`; count the rest. **Sentences.** Split each surviving paragraph on `(?<=[.!?])\s+`, drop empties, so a
+  paragraph-opening sentence counts as a sentence.
+- **Speech paragraphs.** A surviving block containing `**"`. **Panels.** A surviving block whose first character is `>`.
+- **Shared run between two bodies.** For each of the forty-five pairs, the longest common **contiguous** token
+  subsequence, by the usual dynamic-programming row, and **print the run beside the figure** so the number can be
+  checked against the words.
+- **Eight-word windows.** Per body, the set of that body's own eight-token windows, deduplicated within the body;
+  count how many bodies each distinct window appears in; report those at three or more. **Say that you counted
+  distinct windows.** The other reading — distinct windows occurring three or more times in total, with no per-file
+  deduplication — is a different measurement and `reviews/volume-19/batch-0005.md` §11.4 gives both.
+- **Repeated sentences.** Every sentence of 38 characters or more, whitespace collapsed, each paragraph split on its
+  own, into one multiset; report how many appear more than once.
+- **Sentence-initial *nobody*.** Sentences whose first token is *nobody*, case-insensitive; report the longest run.
+
+**7.3 AND THE TWO THINGS THE CLOSE MUST NOT INHERIT AS SETTLED, BOTH FROM THE SAME REPAIR PASS.** First, **the ten
+files of the last batch were measured on their post-repair state and not on the state the writing run left**, and a
+close that quotes a figure from the writing run's §2 will quote a figure the files no longer return; §11.4 carries the
+before and the after on the same line for every one of them. Second, **the reviewer's 80 and the record's 68 are two
+different measurements of the same thing and not two tokenisations of one**, which §11.4 sets out with both columns.
+
+**7.4 AND THE SIX THINGS THE REPAIR PASS COULD NOT FIX, WHICH THE CLOSE INHERITS AS OWED.** The review dispatch itself,
+which falls back to the writing agent because `novel-reviewer` is registered as a subagent, and the fix is in workflow
+dispatch that no phase may open. `state/phase-ledger.json`, still reading `phase-000-bootstrap`, and a controller file.
+**`NOVEL_SPEC.md`, whose Status section at lines 20 to 25 still claims fifteen volumes and 750 chapters while lines 42
+to 45 of the same file claim that figure was corrected — so the file asserts a correction it does not contain, and the
+true figures are nineteen volumes and nine hundred and fifty chapters.** `outline/volume-03.md` and
+`outline/volume-05.md`, which do not exist. `workspace/volume-19/batch-0002/`, which is absent and must stay absent.
+And the collision of the man of about fifty-two who digs with the woman of about fifty-two in one room, which is in
+`outline/volume-19.md` §11 and is not a prose fix. **The close names all six and settles none of them.**

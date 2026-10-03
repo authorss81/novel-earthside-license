@@ -116,3 +116,39 @@ dispatch state and were left alone.
 **`workspace/volume-19/close/`, AND IT IS A CLOSER AND NOT A BATCH: it writes no chapter and writes the close record at
 `state/volume-19-close.md`. It did not exist when this batch finished, this run did not create it, and this record
 names it and writes nothing else.**
+**AND THE SECOND AND THIRD CLAUSES OF THAT SENTENCE WERE FALSE AND ARE CORRECTED HERE: THIS RUN DID CREATE
+`workspace/volume-19/close/PROMPT.md`, 147 lines, in the same commit as the ten chapters, because `AGENTS.md` requires
+a writer that finishes a batch to leave behind exactly one next phase. The record, this summary, `state/current.md` and
+`state/chapter-summaries.md` all carried that false sentence and all four are corrected in place. The measurement and
+the list of what the repair did and did not change is at `reviews/volume-19/batch-0005.md` §11.**
+---
+
+## THE REPAIR PASS ON THIS SUMMARY
+
+**A repair pass touched the ten chapters of days 941 to 950 after this batch was written. No event in them moved: no
+day, no entry in either book, no mark on any surface, no object, no entrance and no exit, and the ten days still say
+the same ten things in the same order.** The full record is `reviews/volume-19/batch-0005.md` §11 and the figures are
+§11.4; **any figure in this summary that describes the prose of those ten files is superseded by §11.4.**
+
+**WHAT CHANGED.** Mean words per sentence **48.0 to 28.4** and the longest sentence **171 to 77**; single-sentence
+paragraphs **27 to 12**, all twelve of them legal under `outline/volume-18.md` §17.20; the full descriptors restated in
+narration replaced by short handles after first mention, taking the three long ones **22 to 17** across the batch and
+*his own* **139 to 117**; **distinct eight-word windows in three or more of the ten days 68 to 58**, and the windows that
+are neither a §17.9 handle nor a §5 standing object **17 to 9**; the formula *at any hour of that day* **9 to 0**; and
+**the speech paragraph on 0948, which was a verbatim copy of chapter 0938's including its attribution, replaced by a
+fresh utterance in the same mouth on the same beat.**
+
+**AND THE ONE FACTUAL ERROR IN THIS FILE IS CORRECTED AT ITS HEADING: `workspace/volume-19/close/PROMPT.md` exists and
+this run wrote it**, in the same commit as the ten chapters, as `AGENTS.md` requires of a writer that finishes a batch.
+The false sentence stood in four files and all four are corrected in place. **The prompt has been given a §7 carrying
+the measurement instrument in words, so the close can re-derive every figure it inherits from the files alone.**
+
+**AND THE SIX DEBTS THIS BATCH HANDS ON ARE UNCHANGED AND NONE IS SETTLED.** The review dispatch falls back to the
+writing agent and the fix is in workflow dispatch. `state/phase-ledger.json` reads `phase-000-bootstrap` and is a
+controller file. `NOVEL_SPEC.md` contradicts itself about the volume and chapter count and the true figures are nineteen
+and nine hundred and fifty. `outline/volume-03.md` and `outline/volume-05.md` do not exist.
+`workspace/volume-19/batch-0002/` is absent and must stay absent. And the man of about fifty-two who digs shares a room
+with the woman of about fifty-two, which is in the plan and is not a prose fix.
+
+**THE NEXT PHASE IS UNCHANGED AND IS `workspace/volume-19/close/`, WHICH WRITES NO CHAPTER AND WRITES
+`state/volume-19-close.md`.**

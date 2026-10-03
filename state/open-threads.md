@@ -487,3 +487,40 @@ ABOUT FIFTY-TWO WHO DIGS, AND HE IS NOT A NEW PERSON.** His descriptor stood alr
 seventeen files, sixteen of them in Volumes 05, 07 and 08, and his given name is printed on three pages of Volumes 07 and
 08 and on no page of this volume. **Volume 04 carries a woman of about fifty-two who digs, at seven occurrences in six
 files, and that is a pre-existing collision in this repository and not a fault of these ten days.**
+
+---
+
+# THE REPAIR PASS, AND THE THREADS IT TOOK UP AND PUT DOWN AGAIN
+
+**10. THE TEN DAYS OF THIS BATCH WERE REPAIRED AND NOTHING IN THEM MOVED, so every thread in items 1 to 9 above stands
+exactly as it stood.** The record is `reviews/volume-19/batch-0005.md` §11 and the figures are §11.4. **A later writer
+must take the figures from §11.4 and not from §2, because §2 measured the files as the writing run left them and four
+of its rows are marked SUPERSEDED.**
+
+**11. AND THE THREAD THE REPAIR TOOK UP AND CLOSED.** **`workspace/volume-19/close/PROMPT.md` exists.** Four files of
+this batch — this file's block above, `state/current.md`, `state/chapter-summaries.md` and the batch summary — carried
+a sentence saying that directory did not exist and that the writing run did not create it. **It did: the prompt is at
+`workspace/volume-19/close/PROMPT.md`, and it was written by the batch-0005 run in the same commit as the ten chapters,
+because `AGENTS.md` requires a writer that finishes a batch to leave behind exactly one next phase.** All four
+sentences are corrected in place. **A close record written from the uncorrected text would have believed its own prompt
+was not there.**
+
+**12. AND THE SIX THREADS THE REPAIR PASS COULD NOT CLOSE, ALL OF THEM OWED, NONE OF THEM ITS TO CLOSE.** (1) **The
+review dispatch falls back to the writing agent, because `novel-reviewer` is registered as a subagent, and every finding
+ever taken over this manuscript has therefore been taken by the agent kind that wrote the chapters.** The fix is in
+workflow dispatch, which no phase may open, and this is the thread with the most leverage in it.
+(2) `state/phase-ledger.json` reads `phase-000-bootstrap`, `status: planned`, `attempts: 0`, at nine hundred and fifty
+chapters, and is a controller file. (3) **`NOVEL_SPEC.md` contradicts itself: lines 20 to 25 claim fifteen volumes and
+750 chapters and lines 42 to 45 claim that figure was corrected. The true figures are nineteen volumes and nine hundred
+and fifty chapters.** (4) `outline/volume-03.md` and `outline/volume-05.md` do not exist and the second covers fifty
+chapters that are on disk. (5) `workspace/volume-19/batch-0002/` is absent where 0001, 0003, 0004, 0005 and close all
+exist, and it must stay absent: it is dispatch history for a batch already written. (6) The instruments the batch
+record's figures cite live outside the repository, and the repair pass wrote them out in words at §11.1 and again in
+the close prompt at its §7.2 so that every figure is re-derivable from the files alone.
+
+**13. AND THE ONE THIS PASS FOUND AND LEFT STANDING.** The man of about fifty-two who digs and the woman of about
+fifty-two keep a wall in the same room on 943 and on 950, and both are distinguished by their sex in every sentence of
+all ten days and no mouth asks either about the other. **It is not a prose fix: `outline/volume-19.md` §11 fixes who
+disputes the line and the card fixes that he is taken from the pages and not from the descriptor pool, so changing it
+would change who the volume's resolution is about. It is named here so that a later reader is not told by silence that
+these are two people who have never been confused.**
