@@ -23,53 +23,6 @@ no middle day may be derived from either end.** The next phase is `workspace/vol
 writes Chapters 0901 to 0910 and nothing else. No chapter past 0900 exists and none is to be written by any phase but
 that one.
 
-# VOLUME 20 — CHAPTERS 0951 TO 1000, DAYS 951 TO 1000. PLANNED AND NOT WRITTEN. NO CHAPTER OF THESE FIFTY EXISTS.
-
-**`outline/volume-20.md` is the plan of record for these fifty days and is where a writer goes. This block is the index
-and the standing facts, and the fifty per-day cards are at `outline/batches/volume-20-batch-0001.md` for the first ten
-and do not exist for the other forty.** The whole copy of this file as it stood before this block is
-`state/archive/chapter-summaries.md.volume-20-batch-0001-planning-full.md`, taken and verified by SHA256 first.
-
-**THE RUN.** Day 951 is a Sunday and the six hundred and thirty-sixth day of the Bare Month. Day 1000 is a Sunday and
-the six hundred and eighty-fifth. Forty-nine days separate them, **and forty-nine is seven times seven and this is the
-third volume running to the same trap, so no middle day may be derived from either end.** The run is built from two
-figures and two figures only: **day 1 is a Tuesday, and the Bare-Month ordinal is the day less 315.** The pressure column
-sums to fifty on seven tags: **recovery 11, physical 8, character 10, political 5, discovery 8, cost 6, decision 2.**
-Adrian Vale is in nine of the fifty — **953, 959, 965, 971, 977, 981, 985, 990, 994** — with **one obtained out of nine
-and eight refused**, and 995 is permitted and is not one of the nine.
-
-**THE FOURTEEN HEAVY DAYS AND WHAT EACH ONE IS FOR.**
-
-| Day | Weekday | BM | What it is for |
-|---|---|---|---|
-| **957** | Saturday | 642 | **the first question asked in that room in fifty days**, the cost named first, and not written down |
-| **958** | Sunday | 643 | **a man says out loud he was asked something on day 748 and did not answer it, and nobody can say what** |
-| **965** | Sunday | 650 | **the first refusal: a question asked, the cost named first, the answer to be written down nowhere** |
-| **969** | Thursday | 654 | **a woman says she was asked something on day 598 and has been carrying the answer to it, and nobody can check** |
-| **973** | Monday | 658 | **the third question, asked by the man who carries things about his own satchel, and it is not opened** |
-| **975** | Wednesday | 660 | **the decision, in ten words, and its cost named first, and nobody agrees with it** — **the midpoint** |
-| **981** | Tuesday | 666 | **the first question written down before it is asked, and the person it is about reads it before she answers** |
-| **982** | Wednesday | 667 | **the second decision: the page carries the question and no answer, and nothing in fifty days changes that** |
-| **983** | Thursday | 668 | **the panel, on the wall along the far side, in a block of its own, answering nothing** |
-| **985** | Saturday | 670 | **the word under the day cut across the head of the second slate, said out loud once, and not explained** |
-| **989** | Wednesday | 674 | **the fourth of the nine, asked about the six strokes, and no seventh stroke goes into any column** |
-| **991** | Friday | 676 | **the question of day 898 asked a second time, and the man it was asked of does not remember being asked** |
-| **994** | Monday | 679 | **the act: the question about day 440, three answers that do not agree, and a name said out loud** — **the climax** |
-| **1000** | Sunday | 685 | **the last image: a sixth line in the grit at the store's end of that row, and nobody stops** |
-
-**AND THE TWO DAYS THAT ARE NOT HEAVY AND ARE ON THE PLAN.** **997**, the resolution — the woman of about sixty-nine
-asks her sixth question, of the man of about fifty-seven, written down first, read, answered, and **not written down
-after**. **And the nine questions in all, on 957, 961, 965, 973, 977, 981, 987, 989 and 994, of which three are asked on
-quiet days in the ordinary course and are in nobody's record: 961, 977 and 987.**
-
-**WHAT THE FIRST TEN DAYS ARE, AND THE NEXT PHASE.** **The next phase is `workspace/volume-20/batch-0001/PROMPT.md`,
-which writes Chapters 0951 to 0960, days 951 to 960, from a Sunday to a Monday.** It reaches the first question on 957
-and the first of the three that cannot be found out on 958, **and it does not reach the refusal of 965 and may not
-prepare it.** Its ten cards are written and are at `outline/batches/volume-20-batch-0001.md`. **No chapter past 0950
-exists and none is to be written by any phase but that one.**
-
----
-
 ## VOLUME 19 — CHAPTERS 0901 TO 0950, DAYS 901 TO 950. PLANNED AND NOT WRITTEN. NO CHAPTER OF THESE FIFTY EXISTS.
 
 **A SUMMARY OF A CHAPTER THAT DOES NOT EXIST IS A PLAN AND NOT A RECORD, AND IT IS MARKED AS ONE. Every line below

@@ -533,6 +533,64 @@ The stages are earned through practice, failure, relationships, and changed deci
 - **The one thing the volume finds, and it is about an instrument and not about a person:** **that a line in a book is the only instrument this world has that survives the morning it was made in, and that everything which made it worth having is the part of it that is not the person, and that a room which has learned to write a person down has not thereby learned to ask that person anything, and stops.**
 - **Next question:** Not a new enemy, and no new world. **The question this volume leaves is whether a record that cannot answer for anybody can still be corrected by the people it is about, and the answer it gives is one person on one morning with a book of his own and the same day against both lines — and that answer is a beginning, not a settlement.**
 
+### Volume 20: no name is put on this volume (Chapters 0951–1000, days 951 to 1000)
+
+**`outline/volume-20.md` is the plan of record for this volume and is where a reader should go; the entry below is a
+pointer and not a substitute for it. NO NAME IS PUT ON THIS VOLUME, and the eight outlines behind it each struck their
+own and put no replacement on the file, and `outline/volume-19.md` says the same of itself in the same terms. The
+Volume 19 entry above carries a title and this one does not, and the collision over Volume 19's title is named at
+`outline/volume-20.md` §21.4 item 1 and is an owner-level question that this file does not decide.**
+
+- **Central pressure:** **A question is the oldest instrument this manuscript has and the only one nobody has ever
+  written down.** On day 957, after fifty days of asking nobody anything, one question is put out loud in that room in
+  daylight with the date on the door behind the asker, and it is not written down, and on the next morning the person
+  who asked it and the person who was asked it remember two different questions and neither of them can prove anything.
+  **The pressure is not the asking. It is that the cheapest way for a room to be sure of what it asked is to write it
+  down, and that writing a question down puts the person it was asked of on a page before they have opened their
+  mouth** — which is the act the volume behind this one spent fifty days refusing to do to anybody, and which turns out
+  to be the same act.
+- **Midpoint:** **Day 975**, the decision, and it is about a page and not about the gate and not about the man whose
+  name is in the second book. The woman of about twenty-nine who keeps a public register announces that from that day a
+  question goes on a page before it is put to anybody, **and names her own cost out loud first in her own mouth, and
+  nobody agrees, nobody argues, nobody improves on one word of it, nobody is thanked, and nothing whatever is done about
+  it for six days except that on day 981 the first question goes in first.**
+- **The engine:** **Nine questions on nine days and three separate days on which a question that cannot be found out
+  arrives anyway** — a man who remembers being asked something on day 748 and cannot say what; a woman who has been
+  carrying the answer to a question of day 598 without knowing it; and the question of day 898 asked a second time and
+  not remembered. **No question may be written down before day 975, no answer may be written down on any day of the
+  fifty, no question may be gathered into a list or a count, and the finding of the volume is not said in a mouth on any
+  day.**
+- **Climax:** **Day 994.** A keeper names the cost of asking out loud first and asks one question once, about a day that
+  is not anybody's own. **Three people answer it, the three answers do not agree with one another, and none of them can
+  be checked against anything.** Adrian Vale says one thing once in the middle of that morning, addressed to nobody in
+  particular, and nobody answers it. **The woman of about fifty-four's descriptor is said out loud in a mouth for the
+  first time since Volume 09, and nobody goes to look for her, nobody sends for her, and that is the only thing in this
+  volume that cannot be put back.** He opened nothing, closed nothing and repaired nothing, and nobody tells him he was
+  right.
+- **Concrete resolution:** **Day 997.** **The woman of about sixty-nine with her tin asks her sixth question in this
+  manuscript and she asks it of the man of about fifty-seven, who has never been asked anything by anybody in twenty
+  volumes.** It is written down before it is asked, because that is what the decision of 975 is in force for; he reads
+  it, and he answers; **and nothing is written down afterwards, and nobody asks him to make it so, and the question is
+  still on the page at the light's going on day 1000 with nothing under it.** The resolution is not that anybody learns
+  anything. It is that a question can be asked a second time and be answered, which the question of day 898 could not
+  be.
+- **Final image:** Day 1000, and **the woman of about sixty-nine draws a sixth line in the grit at the store's end of
+  that row, about the length of a hand, and about four people go along that row and about four of them look and about
+  four do not, and nobody stops, and nobody has asked her what the lines are for on any of the fifty days of this
+  volume.** The bar lies on a top step out of its two sockets on the thousandth morning and is not put back on any day
+  of the volume.
+- **The one thing the volume finds, and it is about an instrument and not about a person:** **That a question asked out
+  loud and not written down is not an unfinished question. It is two questions — one that was asked and one that was
+  remembered — and the person it was asked of will say in a hundred days that he does not remember being asked anything,
+  and he will be telling the truth. And that the fix is a page, and that the page is the thing the volume behind this
+  one refused to do to anybody, and that the two facts are one fact seen from two ends of the same morning.**
+- **What the world is left holding:** **A page carrying a question, a person and a day, and nothing under it.** Six
+  strokes in a column and no seventh. Two books on a bench holding two accounts of one day, still two accounts. A word
+  said out loud once in a room on day 985 and never explained. A man who has been asked one question in twenty volumes
+  and has answered it. Six lines in the grit and nobody has asked.
+- **Next question:** Not a new enemy, and no new world, and no new institution. **Whether anything follows this volume is
+  not decided by `outline/volume-20.md` §21.4 item 2 and is not decided here.**
+
 ## Long-form continuity rules
 
 - Every volume closes its local promise: a threshold is regulated, a war has an outcome, a settlement survives, a mystery has an answer, or a relationship changes in a durable way.
@@ -1355,3 +1413,78 @@ were not touched.
 **WHAT THIS VOLUME PAYS OF THE ENDING, AND WHAT IT DOES NOT, IN THE TERMS OF `outline/volume-19.md` §19.5.** The ending's seven active seals held in seven separate places become seven places with a book in each, worked out in one room on one morning, **with no place renamed and no book called a seal and nobody given a title.** The ending's Charter of Two Worlds becomes the two books. The ending's public reckoning and the surrender of the recognised seat of first holder becomes the act at 940. The ending's right of refusal and the first plural crossing under a ratified rule becomes the resolution at 943. **The Single Witness patch, Ivenn Marrow, the Glass Crown's military faction, Northstar Civic's security force, the twelve civic seals as objects, the two civilizations as states, and the aftermath for a Crown and a civic are all outside a manuscript that has one room in it and always has.** `outline/ending.md` reserves them, this block does not contradict it, and no new final enemy was introduced.
 
 **AND WHAT THIS BLOCK IS NOT.** It is not a summary of the volume and it is not an argument that the volume was good. Thirty of its fifty chapters stand on disk and thirty do not. **The blocks above this one for Volumes 06 to 17 were written by phases that planned the volume before the first chapter existed; this one was written after thirty chapters existed, by a pass whose business was to repair a batch and not to plan a volume, and that is the whole of its difference from its neighbours and it is published here rather than left for a reader to infer.**
+
+---
+
+## DECISIONS OF RECORD, VOLUME 20 — ADDED BY THE PHASE THAT PLANNED VOLUME 20, in its own words
+
+**Recorded here because `outline/volume-19.md` §21.4 item 1 asked for exactly this and a Volume 19 repair pass left it
+unpaid: this file carried a decisions-of-record block for every volume from 06 to 19 except Volume 18, which is still
+owed and is not written here, because this phase did not read `outline/volume-18.md` and a block written from a file the
+author did not read is the fault `reviews/volume-19/batch-0003.md` §2 is about. Everything below is taken from
+`outline/volume-20.md` and from nowhere else. The antagonist ladder and the relationship milestones above are untouched,
+no new final enemy is introduced, and `outline/ending.md` was read and not moved.**
+
+**WHAT THIS VOLUME DECIDED.**
+
+1. **The subject is the asking, and Volume 19's finding is the reason.** `outline/volume-19.md` §12 ends on *a room which
+   has learned to write a person down has not thereby learned to ask that person anything, and stops.* **A finding whose
+   own verb is a stop is not a finding that has been paid, and this is the volume that pays it.** The volume spends the
+   cheapest instrument in this manuscript — a person asking another person something out loud — and the finding is what
+   that instrument costs.
+2. **The engine is not a new word and not Volume 19's device.** *question* stands at 1,774 in 477 files and *asked* at
+   6,264 in 856 across the nine hundred and fifty chapter files on disk. **There is nothing to bring back; the volume is
+   about a word this manuscript has used all along, and the point is that nobody has ever written one of them down.**
+   Nine questions on nine days, three separate days on which a question that cannot be found out arrives anyway, and
+   **no word may be gathered into a list, a count or a number on any day.**
+3. **The cost-first rule is inherited and is explicitly NOT the engine.** A question is asked out loud in that room in
+   daylight with the date in chalk on the outside of the door behind the asker, and the cost of asking is named out
+   loud by the asker first. **That rule is a courtesy this manuscript has had since Volume 07 and §18 of the plan names
+   the ceremony it invites so that a reviewer fails a card that walks into it.**
+4. **The fix is a page, and the page is the thing Volume 19 refused.** Day 975 puts the question on the page before it
+   is put. **Day 982 takes the answer back off it, six days later, and the two may not be swapped, merged or moved, and
+   the second is the reason the first is survivable.** From day 983 a person is on a page before they have opened their
+   mouth and never on one afterwards.
+5. **The volume's moral centre is the two decisions meeting.** **The best this world can do about a question it cannot
+   prove is to put the question on the page and leave the answer off it, and there is no arrangement of that which makes
+   the page harmless.** That is the ending's argument at the size of one object.
+6. **The act on 994 asks the question of day 440 and gets three answers that disagree.** The plan **does not hold the
+   three answers**, because holding them would fix which one the book wants. **A chapter may not compare them, prefer
+   one, print the day-number of anything they describe, or say which of them is the one that happened.**
+7. **The resolution is the man nobody has asked in twenty volumes.** On day 997 the woman of about sixty-nine asks her
+   sixth question and she asks it of the man of about fifty-seven. **It is written down first, he reads it, he answers,
+   and nothing is written down afterwards, and nobody asks him to make it so.**
+8. **The last image is the sixth line in the grit and nobody stops.** **And this volume pays two debts that no batch
+   before it could pay:** the word under the day cut across the head of the second slate is said out loud once, on day
+   985, by the man who came up that stair on 866, and is not explained; **and the woman of about fifty-four's
+   descriptor goes into a mouth on one page and nowhere else, and nobody goes to look for her.**
+9. **One inherited prohibition is lifted and only one.** §16 item 19 of the plan lifts the bar on *reporting her to a
+   room*, for one page, at a stated cost. **No other inherited prohibition in the standing layer is lifted**, including
+   the five that `state/volume-19-close.md` §9 item 6 publishes as untraced.
+10. **The finding is not said in a mouth on any of the fifty days.** **No chapter may put it in one, and no chapter may
+    print the sentence that states the new schedule — *from day 983 a person is on a page before they have opened their
+    mouth and a person is never on a page afterwards* — and no mouth may say either half of it.** A volume whose subject
+    is a finding must not deliver it.
+
+**WHAT IT COSTS, PLAINLY AND NOT SOFTENED.** The series **passes its commissioned length of nine hundred chapters and
+eighteen volumes by one hundred chapters and one hundred days.** It loses a book that knows where it ends. It gains a
+volume in which the thing the first nine hundred were about acquires, first, an instrument that can put a person on a
+page, and then, fifty days later, the discovery that asking is the same act and costs the same. **No relationship
+milestone is paid by this volume, the consent fracture stays unmended, and the fifth condition is not given. No new
+person is invented, no descriptor is taken, and no name and no place arrives by narration. No new world, no new cosmic
+layer, no new antagonist, and no new final enemy.**
+
+**WHAT THIS VOLUME PAYS OF THE ENDING AND WHAT IT DOES NOT, IN THE TERMS OF `outline/volume-20.md` §19.5.** The ending's
+**right of refusal** is paid twice, in a woman refusing to have an answer written down and in a question being asked of a
+person who has never been asked. **Its two civilizations accepting that no side can be the sole author of the other** is
+the shape of a page that carries a question and no answer. **The Single Witness patch, Ivenn Marrow, the Glass Crown's
+military faction, Northstar Civic's security force, the twelve civic seals as objects, the two civilizations as states,
+and the aftermath for a Crown and a civic remain outside a manuscript that has one room in it and always has.**
+`outline/ending.md` reserves them, this block does not contradict it, and no new final enemy was introduced.
+
+**AND WHAT THIS BLOCK IS NOT.** It is not a summary of the volume and it is not an argument that the volume will be
+good. **No chapter of the fifty exists. The blocks above this one for Volumes 06 to 17 were written by phases that
+planned each volume before its first chapter existed; the Volume 19 block was written after thirty chapters existed by a
+pass whose business was to repair a batch. This one was written after all fifty chapters of the volume behind it existed,
+by a phase whose business was to plan the volume in front, and that is the whole of its difference from its neighbours
+and it is published here rather than left for a reader to infer.**
