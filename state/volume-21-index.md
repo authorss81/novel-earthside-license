@@ -55,8 +55,9 @@ established, and which the last several volumes have used in practice.**
 | The six held strings and where each one is printed | `outline/volume-21.md` §6.6 to §6.10 and §21.3, and **§6.8's one word may not be written in any file at all** |
 | The instrument every figure in the plan was measured with | `outline/volume-21.md` §19.1, and the heading-line fork at §19.6 |
 | The words that were measured and rejected as this volume's subject, and why | `outline/volume-21.md` §19.2 |
-| The thirty-two-string zero column | `outline/volume-21.md` §19.3 |
-| The descriptor pool and the twenty descriptor strings named in §19.4 | `outline/volume-21.md` §19.4, and `state/open-threads.md` |
+| The thirty-four-string zero column | `outline/volume-21.md` §19.3, and the eleven figures a re-measurement corrected at §19.7 |
+| The thirty-nine-string descriptor pool and the thirty-six free descriptors | `outline/volume-21.md` §19.4, and `state/open-threads.md` |
+| The descriptor pool and the thirty-nine descriptor strings named in §19.4 | `outline/volume-21.md` §19.4, and `state/open-threads.md` |
 | What this volume pays of `outline/ending.md` and what it does not | `outline/volume-21.md` §19.5 |
 | The debts this plan carries and does not repair | `outline/volume-21.md` §21.4 |
 | What Volume 20 was, day by day | `state/chapter-summaries.md`, `reviews/volume-20/`, `state/volume-20-index.md` |
@@ -78,10 +79,15 @@ reader of this volume never learns whether the two versions differ.
 ## THE DEBTS THAT ARE NOT A BATCH'S TO PAY, ALL NAMED IN `outline/volume-21.md` §21.4
 
 **The Volume 19 title collision. Whether Volume 21 is the last volume. `bible/power-system.md`'s missing §65 to §68.
-`NOVEL_SPEC.md`'s stale Status section and its panel row. `outline/volume-03.md` and `outline/volume-05.md`, which do not
-exist and cover a hundred chapters that are on disk. `reviews/volume-16/`, which does not exist. `state/phase-ledger.json`
-still reading `phase-000-bootstrap`. `workspace/volume-20/close/`, which does not exist. And `outline/volume-20.md` §19.4's
-*woman of about fifty-four* figure of 6 against the body reading of 7.**
+`outline/volume-03.md` and `outline/volume-05.md`, which do not exist and cover a hundred chapters that are on disk. **The
+nine volumes that carry no review directory at all — `reviews/volume-01/`, `-04/`, `-07/`, `-09/`, `-10/`, `-11/`, `-12/`,
+`-15/` and `-16/`.** `state/phase-ledger.json` still reading `phase-000-bootstrap`. `workspace/volume-20/close/`, which does
+not exist. And `outline/volume-20.md` §19.4's *woman of about fifty-four* figure of 6 against the body reading of 7.**
+
+**AND ONE THAT WAS ON THIS LIST AND IS NOT ANY MORE: `NOVEL_SPEC.md`'s stale Status section and its panel row. A review-fix
+pass measured that file on the twenty volumes and one thousand files on disk and corrected it, and the batch prompt's
+standing instruction to route around it as stale is gone. A writer who finds a figure in it that does not reproduce should
+measure it and say so, the way every other figure in this repository is handled.**
 
 **AND THE ONE THAT IS NEWEST AND THAT A NEXT WRITER MUST NOT SIT ON AS IF IT WERE AN OVERSIGHT: there is no
 `workspace/volume-20/close/`. Volume 20 has no close record on disk, and whether this manuscript ends at Volume 20 or goes

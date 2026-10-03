@@ -844,15 +844,15 @@ cannot carry a volume — AND THE ANSWER IS THE SAME ANSWER AND IT IS NOT A NEW 
 THE WORD SAYS WHICH OF THE TWO SENSES IT IS, AND §16 ITEM 4 AND §19.3 ARE THE TWO PLACES THAT MATTER.**
 
 **AND THE OTHER CANDIDATES WERE MEASURED AND REJECTED, and the reason is published because a plan that adopts a word
-without saying what it rejected has not audited anything: `answer` at 1,275 in 418 files, `answers` at 148 in 91,
-`answered` at 667 in 352 and `answering` at 41 in 34 — **a high-column word in the corpus and a low-column word in the
+without saying what it rejected has not audited anything: `answer` at 1,276 in 418 files, `answers` at 148 in 91,
+`answered` at 667 in 352 and `answering` at 43 in 36 — **a high-column word in the corpus and a low-column word in the
 late volumes, standing at 15 on the fifty files of Volume 20 and 9 on the fifty of Volume 19**, which is a real and
 publishable fact and is not a reason to build fifty chapters on it, because the argument of this volume is not that
-nothing is answered. It is that what is answered cannot be checked. `ask` at 1,467 in 545, `asked` at 6,343 in 887,
-`asking` at 722 in 337 and `question` at 1,773 in 478 are Volume 20's engine and are not available to this volume in any
+nothing is answered. It is that what is answered cannot be checked. `ask` at 1,467 in 545, `asked` at 6,344 in 887,
+`asking` at 758 in 349 and `question` at 1,775 in 478 are Volume 20's engine and are not available to this volume in any
 form.**
 
-**`repeat` at 29 in 27, `repeated` at 49 in 42, `repeats` at 9 in 8 and `repeating` at 4 in 4 is the lowest family
+**`repeat` at 29 in 27, `repeated` at 49 in 42, `repeats` at 9 in 8 and `repeating` at 5 in 5 is the lowest family
 measured and was considered, and it is not the word either: it is a low number because this manuscript has been careful
 about it, and a volume built on a word this careful would be a volume about a word.**
 
@@ -909,7 +909,7 @@ about a word.**
 
 ### 19.4 THE DESCRIPTOR POOL, MEASURED, AND WHY NOBODY IS TAKEN FROM IT
 
-**Seventy distinct descriptor strings stand on the thousand files. Thirty-eight of them are at zero in BOTH Volume 19's
+**Seventy-one distinct descriptor strings stand on the thousand files. Thirty-nine of them are at zero in BOTH Volume 19's
 fifty files and Volume 20's fifty files and at fewer than twenty occurrences across the whole corpus, and that is the raw
 set a new person could be drawn from.** They are, in full: *man of about forty-five*, *woman of about forty*, *man of
 about thirty*, *man of about fifty-one*, *man of about thirty-five*, *man of about sixty-one*, *man of about fifty-eight*,
@@ -917,14 +917,14 @@ about thirty*, *man of about fifty-one*, *man of about thirty-five*, *man of abo
 about fifty-five*, *woman of about twenty-seven*, *woman of about sixty-five*, *person of about twenty-one*, *man of about
 thirty-three*, *woman of about forty-six*, *man of about forty-seven*, *woman of about fifty-three*, *man of about
 sixty-two*, *woman of about forty-five*, *man of about fifty*, *man of about thirty-seven*, *man of about sixty-four*,
-*man of about forty-nine*, *woman of about thirty-five*, *man of about sixty-three*, *woman of about sixty*, *woman of about
-forty-four*, *woman of about twenty-two*, *woman of about thirty-seven*, *woman of about fifty-one*, *woman of about
+*man of about forty-nine*, *woman of about thirty-five*, *man of about sixty-three*, *woman of about sixty*, *woman of
+about forty-four*, *woman of about twenty-two*, *woman of about thirty-seven*, *woman of about fifty-one*, *woman of about
 twenty-eight*, *woman of about thirty-six*, *woman of about seventy*, *man of about twenty-six*, *woman of about
-fifty-six*, and *woman of about thirty-eight*.
+fifty-six*, *woman of about thirty-eight*, and *woman of about nineteen*.
 
-**AND THREE OF THOSE THIRTY-EIGHT ARE NAMED AND INELIGIBLE, WITH THE REASON, BECAUSE A POOL DESCRIBED ONLY BY ITS
-ARITHMETIC IS A POOL OF PEOPLE.** **THE COUNT OF DESCRIPTOR STRINGS NAMED IN THIS SECTION IS THEREFORE THIRTY-EIGHT, AND THE
-COUNT OF FREE ONES IS THIRTY-FIVE, AND THE THREE THAT COME OFF ARE THESE.**
+**AND THREE OF THOSE THIRTY-NINE ARE NAMED AND INELIGIBLE, WITH THE REASON, BECAUSE A POOL DESCRIBED ONLY BY ITS
+ARITHMETIC IS A POOL OF PEOPLE.** **THE COUNT OF DESCRIPTOR STRINGS NAMED IN THIS SECTION IS THEREFORE THIRTY-NINE, AND THE
+COUNT OF FREE ONES IS THIRTY-SIX, AND THE THREE THAT COME OFF ARE THESE.**
 
 1. ***man of about thirty*** — **at 491 on Volume 18's fifty files and at 449 on Volume 19's and at 330 on Volume 20's, and
    at 1 in 1 file on the whole corpus, because `outline/volume-09.md`'s substring reading counted him inside *man of about
@@ -934,11 +934,11 @@ COUNT OF FREE ONES IS THIRTY-FIVE, AND THE THREE THAT COME OFF ARE THESE.**
 2. ***man of about thirty-seven*** — **6 occurrences in 1 file on the body reading, `chapters/volume-06/chapter-0293.md`,
    and he is PROTECTED.** He is a question-carrier with a page and a chapter may not give him a trade, a board, a market
    or a refusal.
-3. ***woman of about sixty*** — **8 occurrences in 3 files, in Volumes 01, 06 and 07, and she is attached to a person who
-   has a page**, which is the standing test at `outline/series.md`: *a descriptor attached to a person who has a page is
-   not a free descriptor.*
+3. ***woman of about sixty*** — **8 occurrences in 7 files on the body reading, in Volumes 01, 06 and 07, and she is
+   attached to a person who has a page**, which is the standing test at `outline/series.md`: *a descriptor attached to a
+   person who has a page is not a free descriptor.*
 
-**THIRTYY-EIGHT MEASURED, THREE INELIGIBLE, THIRTY-FIVE FREE, AND THIS PLAN TAKES NONE OF THE THIRTY-FIVE AND INVENTS NO
+**THIRTY-NINE MEASURED, THREE INELIGIBLE, THIRTY-SIX FREE, AND THIS PLAN TAKES NONE OF THE THIRTY-SIX AND INVENTS NO
 PERSON AND GIVES NOBODY AN AGE.** **AND THE FIGURE THE VOLUME BEHIND THIS ONE PUBLISHES FOR ITS OWN POOL IS TWENTY, WHICH
 REPRODUCES ON ITS OWN INSTRUMENT AND IS NOT THE SAME SET, because two volumes' worth of the corpus has come back and the
 arithmetic moved.**
@@ -985,11 +985,43 @@ The heading line of `chapters/volume-09/chapter-0420.md` carries *woman of about
 on the whole-file reading and 3 on the body reading, and the total is 8 and 7 respectively. **No other row of §19.3 and
 §19.5 moves, because no other string in them appears in a chapter heading.**
 
-**AND THE ONE FIGURE IN §19.2 THAT MOVES IS *question*, which is 1,773 on the body reading of a thousand files against
+**AND THE ONE FIGURE IN §19.2 THAT MOVES IS *question*, which is 1,775 on the body reading of a thousand files against
 the 1,774 in 477 files that `outline/volume-20.md` §18 published on nine hundred and fifty. The difference is a file and a
 token and the two readings are not the same scope and the same instrument, and the honest statement is the one this file
-makes: my instrument returns 1,773 on the body reading of a thousand files, and the volume behind me published 1,774 in
+makes: my instrument returns 1,775 on the body reading of a thousand files, and the volume behind me published 1,774 in
 477 files on nine hundred and fifty, and a figure that was true when it was published is not thereby wrong. `reviews/volume-20/batch-0005.md` §7 is the instrument and a reader who wants the fork has both numbers here.**
+
+### 19.7 THE FIGURES IN THIS FILE THAT A RE-MEASUREMENT CORRECTED, ALL OF THEM, AND WHY THE FIRST PASS GOT THEM WRONG
+
+**A REVIEWER RE-RAN §19.1's INSTRUMENT OVER THE SAME THOUSAND FILES AFTER THIS FILE WAS WRITTEN AND EVERY FIGURE BELOW WAS
+CORRECTED IN PLACE. NOTHING WAS DELETED AND NO FIGURE WAS ADJUSTED TO AGREE WITH ANYTHING ELSE. §19.7 EXISTS BECAUSE A
+RE-MEASUREMENT THAT ONLY REPAIRS LEAVES NO WAY FOR A THIRD READER TO TELL WHICH NUMBERS HAVE BEEN LOOKED AT TWICE.**
+
+| String | As first written | As re-measured | What the difference was |
+|---|---|---|---|
+| `question` | 1,773 in 478 | **1,775 in 478** | two tokens the first pass did not collect; the file count was right and the token count was not |
+| `asked` | 6,343 in 887 | **6,344 in 887** | one token; file count right |
+| `asking` | 722 in 337 | **758 in 349** | thirty-six tokens across twelve files, the largest single error in the section |
+| `answer` | 1,275 in 418 | **1,276 in 418** | one token; file count right |
+| `answering` | 41 in 34 | **43 in 36** | two tokens in two files |
+| `repeating` | 4 in 4 | **5 in 5** | one token in one file; the *repeat* family is 92 and not 91 |
+| descriptor strings on the corpus | seventy | **seventy-one** | *woman of about nineteen* at 3 in 3 files was not collected at all |
+| the raw pool at §19.4 | thirty-eight | **thirty-nine** | the same missing string, and it is at zero in both of the last two volumes and under twenty on the corpus, so it was in the pool |
+| free descriptors | thirty-five | **thirty-six** | the same missing string |
+| *woman of about sixty* | 8 in 3 files | **8 in 7 files** | the token figure was right and the file figure was wrong; the three volumes it stands in were right |
+| the zero column | thirty-two | **thirty-four** | §19.3 named thirty-four and §20 said thirty-two; the named list is right and the summary was wrong |
+
+**AND WHAT REPRODUCED EXACTLY, WHICH IS THE LARGER HALF AND IS PUBLISHED SO THAT A READER KNOWS WHAT WAS CHECKED:
+`account` 173 in 104, `accounts` 24 in 17, `ask` 1,467 in 545, `answers` 148 in 91, `answered` 667 in 352, `repeat` 29 in
+27, `repeated` 49 in 42, `repeats` 9 in 8, `version` 84 in 54, `versions` 8 in 7, `passage` 25 in 25, `privilege` 45 in 41,
+`player` 8 in 7, `players` 9 in 7, *woman of about fifty-four* 7 in 3, *man of about thirty-seven* 6 in 1,
+*man of about thirty* 1 in 1, every one of the thirty-four strings of the zero column at zero, and every figure of §19.3's
+table that is not named above.**
+
+**AND THE LESSON, PUBLISHED BECAUSE IT WILL HAPPEN AGAIN: the errors in this table are all of one kind and none of them is
+arithmetic. They are strings that were collected and not collected. A count that is short by one is not a count that is
+wrong by an amount anybody can reason about afterwards, which is why the figure a reader can check by eye and the figure a
+reader has to trust are not the same figure, and why §19.1's instrument is printed in full instead of being named.**
 
 ## 20. The checks, and the standing list, and the figures this phase measured itself
 
@@ -998,14 +1030,15 @@ makes: my instrument returns 1,773 on the body reading of a thousand files, and 
 - One thousand chapter files on disk, fifty volumes' worth, and Volume 20's fifty are complete.
 - Days 1001 to 1050 derived from day one being a Tuesday and the ordinal being the day less three hundred and fifteen: day
   1001 is a Monday and BM 686; day 1050 is a Monday and BM 735; fifty rows, no gap, no day twice.
-- Seventy distinct descriptor strings on the corpus; thirty-eight at zero in both of the last two volumes and under twenty
-  on the corpus; three of those thirty-eight named ineligible with a reason each; **thirty-five free; named in §19.4:
-  thirty-eight; taken: none.**
+- Seventy-one distinct descriptor strings on the corpus; thirty-nine at zero in both of the last two volumes and under twenty
+  on the corpus; three of those thirty-nine named ineligible with a reason each; **thirty-six free; named in §19.4:
+  thirty-nine; taken: none. §19.7 is the re-measurement that moved these four figures and it names every one of them.**
 - Panel-carrying files by volume on the reading **files carrying at least one blockquote block**: 40, 46, 26, 22, 2, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, **0**, 1, 1, 1, 1. **Volume 16 returns zero and not one, and `NOVEL_SPEC.md`'s Status row ends
-  at fifteen volumes, so the two published panel rows in this repository differ by one volume and by one file and the
-  disagreement is inherited and is carried at §21.4.**
-- The zero column: thirty-two strings at zero on a thousand files, named in full at §19.3.
+  1, 1, 1, 1, 1, 1, 1, 1, **0**, 1, 1, 1, 1. **Volume 16 returns zero and not one. `NOVEL_SPEC.md`'s panel row stood at
+  fifteen volumes while this row ran to twenty, so the two published panel rows in this repository differed by one volume
+  and by one file; the review-fix pass on this plan carried `NOVEL_SPEC.md`'s row out to all twenty volumes and the
+  disagreement is closed rather than carried.**
+- The zero column: thirty-four strings at zero on a thousand files, named in full at §19.3.
 - `Adrian Vale` at 655 in 245 files; `Tamsin` at 363 in 79; `Ivenn` at 45 in 25; `Marrow` at 78 in 27; `Celia Rusk` at 0 in
   0; `Nora` at 3 in 3.
 - The recurring-number set, unchanged and not to be added to: `about four people` 3,292 in 657; `about nine people` 1,804 in
@@ -1038,8 +1071,10 @@ added to it. No new person was invented and no descriptor was taken and no name 
 seventh form was not made and was not guessed at, and the Bare Month was given nothing. No relationship milestone is
 paid, the consent fracture stays unmended and the fifth condition is not given. And no file under `scripts/`,
 `.github/workflows/` or `.opencode/agent/` was opened; `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`,
-`opencode.json` and `state/phase-ledger.json` were not edited. `NOVEL_SPEC.md` was read and not edited and §21.4 carries
-its Status section as a debt.**
+`opencode.json` and `state/phase-ledger.json` were not edited. `NOVEL_SPEC.md` was not edited by the phase that wrote this
+file, and §21.4 carried its Status section as a debt; **the review-fix pass named at §19.7 opened it and corrected it,
+because it is not a controller file and no controller file in this repository governs it. §21.4 item 4 is what that pass
+did to it.**
 
 ### 21.3 The six things this phase held and printed here and nowhere else, and the one it inherited
 
@@ -1073,25 +1108,40 @@ instrument that a close record is to run over them.**
    THOUSAND FILES RETURNS 7.** The three files are named at §19.4 above. **This plan does not amend a closed volume's plan
    and a reader of either file has both numbers.**
 3. **`bible/power-system.md` HAS NO §65, §66, §67 OR §68.** §14.1 says why this phase did not add them.
-4. **`NOVEL_SPEC.md`'s STATUS SECTION STILL PUBLISHES FIFTEEN VOLUMES AND 750 CHAPTER FILES AND ITS PANEL ROW ENDS AT
-   FIFTEEN VOLUMES, WHERE TWENTY-ONE VOLUMES ARE ON DISK OR PLANNED WHEN THIS PHASE IS MARKED DONE, AND ITS OWN PANEL ROW
-   IS ALSO ONE FILE OUT BY THE TIME IT REACHES VOLUME 16.** It is not a fiction file and it was not opened.
+4. **`NOVEL_SPEC.md` WAS NOT A CONTROLLER FILE AND WAS NOT STALE BY RIGHT. THE REVIEW-FIX PASS NAMED AT §19.7 OPENED IT AND
+   CORRECTED ITS STATUS SECTION AND BOTH PANEL ROWS, AND THIS ITEM IS THE RECORD OF THAT AND NOT A DEBT.** The Status
+   section published fifteen volumes and 750 chapters where twenty volumes and a thousand files are on disk, and its
+   panel row ended at fifteen volumes where twenty are on disk and the first four of its panel figures did not reproduce.
+   `outline/series.md` had listed this file among the controller faults it was not permitted to touch; **that was a
+   misclassification and the misclassification is corrected there.** **A later pass that finds a figure here stale should
+   measure it and correct it, not add another caveat routing around it.**
 
 **AND THE ONES INHERITED WHOLE AND UNPAID, none of which is a plan's to repair:** nineteen stray closing quotation marks in
 Chapters 0281 to 0290; `chapters/volume-07/chapter-0341.md:149`; a thirty-nine-word run across the 0254 and 0262 boundary;
 the unmarked first-person paragraph at `chapters/volume-04/chapter-0175.md:47`; the three marks on the four-hundred-mile
 road; the sixteen-word class against the outside; the negation formula; **the bucket — one bucket or two, unrepaired since
 Volume 16**; the two trade nouns for one man at the market; **`outline/volume-03.md` and `outline/volume-05.md`, which do
-not exist and cover a hundred chapters that are on disk**; `reviews/volume-16/`, which does not exist, **so every finding
-ever taken over this manuscript has been taken by the agent kind that wrote it and this plan's own §19 audit was taken by
-that same agent kind**; **`state/phase-ledger.json` still reading `phase-000-bootstrap` after two hundred and six phases**;
+not exist and cover a hundred chapters that are on disk**; **the nine volumes that carry no review directory at all —
+`reviews/volume-01/`, `-04/`, `-07/`, `-09/`, `-10/`, `-11/`, `-12/`, `-15/` and `-16/` — so every finding ever taken over
+this manuscript has been taken by the agent kind that wrote it and this plan's own §19 audit was taken by that same agent
+kind**; **`state/phase-ledger.json` still reading `phase-000-bootstrap` after two hundred and six phases**;
 **and `workspace/volume-20/close/`, which does not exist, where every one of the nineteen volumes behind this one has
 one with a `.done` marker in it — so Volume 20 has no close record on disk and this phase did not write one, because a
 close is a close phase's work and this phase is a planning phase and was told in terms that it writes three things.**
 
-**AND THE FIVE PROHIBITIONS `state/volume-19-close.md` §9 item 6 PUBLISHES AS UNTRACED ARE CARRIED AND NONE IS LIFTED BY
-THIS PLAN. THE ONE INHERITED PROHIBITION THE VOLUME BEHIND LIFTED, AT ITS §16 ITEM 19, IS NOT LIFTED AGAIN HERE; §16 ITEM
-5 IS THIS VOLUME'S VERSION OF IT AND IT IS STRICTER.**
+**AND THE RANK THAT MISSES VOLUME 20 IS NOT A GAP IN THE STATE LAYER, BECAUSE §2 OF THIS PLAN INHERITS FROM
+`outline/volume-20.md` §2 AND FROM `state/continuity.md` AND FROM NEITHER CLOSE, AND A WRITER WHO WANTS THE STANDING
+FURNITURE OF THAT ROOM HAS IT AT `state/continuity.md` AND AT `state/volume-20-index.md`. What is missing is a close
+record's account of Volume 20 in its own words, and that is a close phase's work and not a plan's.**
+
+**AND THE FIVE PROHIBITIONS THIS PLAN'S PREDECESSORS DESCRIBED AS UNTRACED ARE CARRIED AND NONE IS LIFTED BY THIS PLAN,
+AND THE CITATION THAT NAMED THEM WAS WRONG AND IS CORRECTED HERE. `outline/volume-20.md` §21.4 item 3 and two blocks of
+`outline/series.md` all said that `state/volume-19-close.md` §9 item 6 publishes five prohibitions as untraced. **That
+section and that item were read for this correction and §9 item 6 is `NOVEL_SPEC.md`'s stale Status section and nothing
+else; it publishes no prohibition of any kind.** The volume behind this one lifted one inherited prohibition and only one,
+at its §16 item 19, and this volume lifts none; §16 item 5 is this volume's version of that bar and it is stricter. **A
+claim that a volume carries five prohibitions, resting on a citation that does not carry them, is the failure §19.7's
+table is about, and the sentence is replaced rather than softened.**
 
 ## 22. THE NEXT PHASE, BY PATH
 

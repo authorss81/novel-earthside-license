@@ -1,5 +1,72 @@
 # current.md — THE LIVE LAYER. NEWEST, AND IT GOVERNS.
 
+# REVIEW-FIX BLOCK, VOLUME 21 PLANNING — A REVIEWER WENT OVER THE PLAN, ITS CARDS, ITS PROMPT AND THE STATE LAYER, AND THIS IS WHAT THE REPAIR PASS CHANGED. IT WROTE NO CHAPTER AND IT MOVED NO DAY.
+
+**THIS BLOCK IS NEWEST AND IT GOVERNS. IT WITHDREW NOTHING.** Every block below this one was already held whole in `state/archive/` before this pass began, and the index at the foot of this file still names where each of them is. **No chapter, card, day, weekday, Bare-Month ordinal, actor, descriptor, decision of record or held string was touched. The plot is the plot the planning phase planned.**
+
+**WHAT IT FOUND, IN ONE LINE: eleven published figures in the Volume 21 planning phase did not reproduce on the instrument that phase published beside them, one citation pointed at a section that does not contain what it was said to contain, and a specification file that three phases in a row had routed around as untouchable was not on the controller list at all.**
+
+**THE ELEVEN FIGURES, all re-measured with `outline/volume-21.md` §19.1's own instrument over the same one thousand chapter files — the literal string, word-bounded, non-letter on each side, both case flags, heading line excluded — and all published in place, with the figure it was and the figure it is, at `outline/volume-21.md` §19.7:**
+
+| String | As written | As measured |
+|---|---|---|
+| `question` | 1,773 in 478 | **1,775 in 478** |
+| `asked` | 6,343 in 887 | **6,344 in 887** |
+| `asking` | 722 in 337 | **758 in 349** |
+| `answer` | 1,275 in 418 | **1,276 in 418** |
+| `answering` | 41 in 34 | **43 in 36** |
+| `repeating` | 4 in 4 | **5 in 5**, and the *repeat* family is 92 and not 91 |
+| distinct descriptor strings on the corpus | seventy | **seventy-one** |
+| the raw descriptor pool at §19.4 | thirty-eight | **thirty-nine**, and *woman of about nineteen* is named there now |
+| free descriptors | thirty-five | **thirty-six** |
+| *woman of about sixty* | 8 in 3 files | **8 in 7 files**, in Volumes 01, 06 and 07 |
+| the zero column | thirty-two | **thirty-four**, which is what §19.3 names |
+
+**AND WHAT REPRODUCED EXACTLY, which is the larger half and is published so that a reader knows what has been checked
+twice:** `account` 173 in 104, `accounts` 24 in 17, `ask` 1,467 in 545, `answers` 148 in 91, `answered` 667 in 352, `repeat`
+29 in 27, `repeated` 49 in 42, `repeats` 9 in 8, `version` 84 in 54, `versions` 8 in 7, `passage` 25 in 25, `privilege` 45
+in 41, `player` 8 in 7, `players` 9 in 7, *woman of about fifty-four* 7 in 3, *man of about thirty-seven* 6 in 1, *man of
+about thirty* 1 in 1, all thirty-four strings of the zero column at zero, every row of `outline/volume-21.md` §19.3's
+table, the fifty-row day map of §14.3 on all five of its checks, and the five word-count means in the batch prompt.
+
+**THE CITATION. `outline/series.md` and `outline/volume-21.md` both said that `state/volume-19-close.md` §9 item 6 publishes
+five inherited prohibitions as untraced. That section and item were opened for this pass and §9 item 6 is that close's
+account of `NOVEL_SPEC.md`'s Status section; it publishes no prohibition of any kind. The claim was replaced rather than
+softened, and the claim it was carrying — that Volume 21 lifts no inherited prohibition but the one the volume behind it
+lifted — is still true and now rests on `outline/volume-21.md` §16, where the volume's own bars are written.**
+
+**`NOVEL_SPEC.md` WAS NOT A CONTROLLER FILE.** `outline/series.md` had listed it among the faults this phase was not
+permitted to touch. The controller set is `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`,
+`PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json`, and that file is not
+on it. **Its Status section published fifteen volumes and 750 chapter files where twenty volumes and a thousand files are
+on disk; its panel row stopped at fifteen volumes; and the first four figures of its panel line-count row did not reproduce
+at all. All three were measured and corrected, and the batch prompt's standing instruction to treat the file as stale and
+route around it is gone.** Nothing else in `NOVEL_SPEC.md` was touched, and in particular none of the four recorded rules
+was touched, because those are decisions and not figures.
+
+**THE TWO FAULTS THAT ARE STILL FAULTS AND THAT NO AGENT IN THIS REPOSITORY CAN PAY.** `state/phase-ledger.json` still
+reads `phase-000-bootstrap` with `status: planned` and `attempts: 0` after two hundred and six phases, and it is a
+controller file this pass did not open. **Nine volumes carry no review directory at all — `reviews/volume-01/`, `-04/`,
+`-07/`, `-09/`, `-10/`, `-11/`, `-12/`, `-15/` and `-16/` — where the planning phase named one of them, and every finding
+ever taken over this manuscript has therefore been taken by the agent kind that wrote the pages.** Both are named for the
+owner of the workflow and neither was worked around.
+
+**AND THE ONE THIS PASS SETTLED BY READING RATHER THAN BY FIXING, because a reviewer raised it and it did not survive the
+reading.** The concern was that the next dispatch would not use the Volume 21 batch prompt, on the ground that
+`workspace/continuation/next-0008/PROMPT.md` sorts before `workspace/volume-21/batch-0001/PROMPT.md` and the runner breaks
+on the first eligible prompt in sorted order. **It will use it.** The runner marks this phase `.done` before it looks for
+the next phase, and it creates a fresh continuation prompt only when no other phase is open; `workspace/volume-21/batch-0001/PROMPT.md`
+is open, so no continuation prompt is created and the batch prompt is the only eligible prompt left in the tree. The
+continuation directory is this phase's own and is closed by this phase. Nothing was changed to achieve that and nothing
+needed to be.
+
+**AND THE THING THAT IS STILL MISSING AND STILL NOT AN AGENT'S TO WRITE.** `workspace/volume-20/close/` does not exist,
+where every one of the nineteen volumes behind this one has one with a `.done` marker in it, so Volume 20 has no close
+record on disk. This pass did not create the directory: a close is a close phase's work, and creating one here would also
+have meant a second next-phase prompt, which no phase may create. **The rank does not skip Volume 20 in the state layer,
+because `outline/volume-21.md` §2 inherits from `outline/volume-20.md` §2 and from `state/continuity.md` and from neither
+close.** What is missing is Volume 20's account of itself in its own words.
+
 **This file was compacted again on the writing run of batch 0005 of Volume 20. The whole file as it stood immediately before
 the compaction is `state/archive/current.md.volume-20-batch-0005-writing-full.md`, verified by SHA256 before a line was
 withdrawn: **520672058cc2509516d8267fdcfa6ce656004c4436c76b126d092f7b1c3ae37e**. Every older layer behind it is held whole in
@@ -65,8 +132,9 @@ terms. (2) **`outline/volume-20.md` §19.4 publishes *woman of about fifty-four*
 reading of a thousand files returns 7**, at 3 in `chapters/volume-06/chapter-0294.md`, 3 in
 `chapters/volume-09/chapter-0420.md` and 1 in `chapters/volume-20/chapter-0994.md`; the plan behind was not amended.
 (3) **`bible/power-system.md` has no §65, §66, §67 or §68** and this phase added none. (4) **`NOVEL_SPEC.md`'s Status
-section still publishes fifteen volumes and 750 chapter files**, and its panel row ends at fifteen volumes where
-`chapters/volume-16` returns **zero** panel-carrying files and not one. **The figures behind the first three are at
+section published fifteen volumes and 750 chapter files**, and its panel row ended at fifteen volumes where
+`chapters/volume-16` returns **zero** panel-carrying files and not one. **BOTH OF THOSE WERE CORRECTED BY THE REVIEW-FIX
+PASS AT THE HEAD OF THIS FILE, AND `NOVEL_SPEC.md` IS NOT A DEBT ANY MORE. The figures behind the first three are at
 `outline/volume-21.md` §19.4 and §20 and were measured in the run that wrote the plan, with the instrument §19.1 publishes.**
 
 **AND THE DEBT THAT IS NOT A PLAN'S AND THAT A NEXT WRITER MUST NOT SIT ON: `workspace/volume-20/close/` DOES NOT EXIST.**
@@ -80,10 +148,12 @@ as an oversight.**
 the Volume 21 audit is published at `outline/volume-21.md` §19.1 — **one thousand chapter files, bodies only with the
 heading line dropped, letters matched with a hyphen and an apostrophe both delimiting, both case flags, internal
 whitespace in a multi-word string matched with one-or-more characters** — and §19.6 publishes the heading-line fork rather
-than leaving it for a reviewer to find. And the descriptor pool for Volume 21 is **thirty-eight strings at zero in both
+than leaving it for a reviewer to find. And the descriptor pool for Volume 21 is **thirty-nine strings at zero in both
 Volume 19's fifty files and Volume 20's fifty files and under twenty on the corpus, of which three are named in §19.4 as
-ineligible with a reason each, which leaves THIRTY-FIVE free, and this plan takes NONE of them**, with *man of about
-thirty* barred by name inside it on the false-positive mode `outline/volume-09.md` already published once.
+ineligible with a reason each, which leaves THIRTY-SIX free, and this plan takes NONE of them**, with *man of about
+thirty* barred by name inside it on the false-positive mode `outline/volume-09.md` already published once. **These four
+figures were thirty-eight and thirty-five as first written and were corrected by the re-measurement at the head of this
+file; the table there names every figure it moved and every figure that stood.**
 
 ## THE BATCH THAT WROTE CHAPTERS 0991 TO 1000, DAYS 991 TO 1000, AND THE LAST TEN DAYS OF VOLUME 20
 

@@ -1,5 +1,10 @@
 # chapter-summaries.md — THE LIVE LAYER. NEWEST, AND IT GOVERNS.
 
+**A REVIEW-FIX PASS ON THE VOLUME 21 PLANNING PHASE HAS SINCE EDITED THIS FILE AND HAS ADDED NO ENTRY TO IT, BECAUSE
+THERE IS STILL NO CHAPTER TO SUMMARISE.** Volume 21 has no chapter on disk and none was written by that pass or by the
+review that sent it; the ten days 1001 to 1010 are unmade, as they were before. **The pass corrected figures in the plan
+that measures this manuscript's corpus, and a corpus count is not a chapter. Nothing in this file changed.**
+
 **Compacted again on the writing run of batch 0005 of Volume 20. The whole file as it stood immediately before this
 compaction is `state/archive/chapter-summaries.md.volume-20-batch-0005-writing-full.md`, verified by SHA256 before a line was
 withdrawn: **8b611a9ccca7947002ee4ad5ae000b6b0564965d8b1a11be5e702508162f7fab**. Every older layer behind it is held whole

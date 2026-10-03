@@ -18,10 +18,11 @@ record is `reviews/volume-20/batch-0005-fix-2.md`.
 
 **NOTHING ABOUT ANY PERSON IN THIS FILE MOVED WHEN VOLUME 21 WAS PLANNED, BECAUSE A PLAN MOVES NOBODY.** Every stage below
 is the stage at day 1000 and it is the stage on day 1001. **Volume 21 adds no person, no descriptor, no age, no name and
-no place, and it is the seventh volume running in which that is a decision and not a shortage; **thirty-eight descriptor
+no place, and it is the seventh volume running in which that is a decision and not a shortage; **thirty-nine descriptor
 strings were measured free of the last two volumes, three of them are named in `outline/volume-21.md` §19.4 as ineligible
-with a reason each, thirty-five are free, and all thirty-five go untaken.** A card may not
-invent a person out of that pool.**
+with a reason each, thirty-six are free, and all thirty-six go untaken.** A card may not
+invent a person out of that pool. **Those three figures were thirty-eight and thirty-five as first written; a re-measurement
+of the same corpus moved them and the pool's own list, and `outline/volume-21.md` §19.7 is where that is published.**
 
 **AND THE FOUR CHANGES TO PEOPLE THAT VOLUME 21 PLANS, NONE OF WHICH IS A STAGE AND ALL FOUR OF WHICH ARE BARS.**
 

@@ -219,6 +219,15 @@ neither `outline/series.md` nor `outline/volume-21.md` decides the question, and
 `workspace/volume-20/close/` means Volume 20 has no close record on disk either. **All three of those are named for the
 owner of this repository and not for a batch.**
 
+**AND THE THREAD A REVIEW-ADDED CORRECTION CLOSED, NAMED HERE SO THAT A LATER READER DOES NOT GO LOOKING FOR IT:
+`NOVEL_SPEC.md`'s stale Status section is not a thread.** It was on this list and on `outline/series.md`'s fault list and
+in the batch prompt as a standing caveat. It was not a controller file, it was five volumes and two hundred and fifty
+chapters out, and a repair pass measured it and corrected it. **The standing human debts that remain on this file are
+unchanged by that: `state/phase-ledger.json` reading `phase-000-bootstrap`, the nine volumes with no review directory —
+`reviews/volume-01/`, `-04/`, `-07/`, `-09/`, `-10/`, `-11/`, `-12/`, `-15/` and `-16/` — and `workspace/volume-20/close/`.**
+The first is a controller file and was not opened. The second is a dispatch fact and the fix is in workflow dispatch. The
+third is a close phase's work and no phase may create one.
+
 ## THE WRITING THREADS, CARRIED AND NOT CLOSED BY A PLANNING PHASE
 
 **1. THE LENGTH SHORTFALL IS OPEN AND UNCHANGED BY THIS PHASE.** `PHASE_SYSTEM.md` asks for about 2,200 to 3,200 words;

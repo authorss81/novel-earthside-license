@@ -8,11 +8,22 @@ next-phase prompt.
 repair one, do not audit one, do not continue one, and do not create `workspace/volume-20/close/` — a close is a close
 phase's work and you are not one.**
 
+## HOW YOU WERE DISPATCHED, AND WHY IT MATTERS THAT YOU ARE THE PROMPT THAT NAMED YOUR OWN CARDS
+
+**This file is the next phase of the repository and it is the only phase left open, so the run you are inside was given
+this file's text and not a generic continuation instruction. If you ever find yourself under the generic text instead,
+read this file before you write anything: `outline/batches/volume-21-batch-0001.md` holds your ten cards, and the day map at
+`outline/volume-21.md` §14.3 holds every weekday and Bare-Month ordinal. Without them you are guessing at a calendar, and a
+guess at a calendar is a wrong day on a page that cannot be taken back.**
+
 ## READ THIS BEFORE YOU WRITE ANYTHING
 
-1. `NOVEL_SPEC.md` — for what this series is and, more usefully, for the four recorded rules that have survived fifteen
+1. `NOVEL_SPEC.md` — for what this series is and, more usefully, for the four recorded rules that have survived twenty
    volumes: no System, no quest, no class, no reward, no obedience; the word *player* never enters by narration; the
-   narrator has no frame; and the standing warning that its own Status section is stale and `outline/series.md` wins.
+   narrator has no frame; and the rule that where that file and `outline/series.md` disagree, `outline/series.md` wins.
+   **Its Status section and both its panel rows were re-measured on the twenty volumes and one thousand files on disk by a
+   repair pass, so a figure in it is a figure somebody counted rather than a figure somebody carried forward. If you find
+   one that does not reproduce, measure it and say so in your own record. Do not add a caveat about it being stale.**
 2. `outline/series.md` — read the Volume 21 entry at the foot of the volume list and the decisions-of-record block below
    it, and read `outline/ending.md`. **The ending is the plan and this volume is a pointer into it, not an exception to
    it.** Do not move the ending and do not introduce a new final enemy.
@@ -62,7 +73,10 @@ AND IS REPRINTED NOWHERE.**
 CERTIFY NO ABSENCE OF ANY OF THEM. A record that asserts an absence it has not measured is worse than no record, and a false
 absence is worth more than it has ever been asserted anywhere in this book.**
 
-**None of the six spans is on your ten days. You do not own one of them.**
+**AND THE COUNT, SO THAT THE SEVEN AND THE SIX ARE NOT READ AS A CONTRADICTION: of the six this volume holds, five are its
+own and one it inherits, and the seventh belongs to the volume behind this one and is the day of 997. The split is at
+`outline/volume-21.md` §21.3. None of the five spans of its own falls on your ten days. You own none of them, and the one it
+inherits is a name held at `outline/volume-18.md` §6.8.**
 
 ## THE TWO BARS YOU ARE MOST LIKELY TO WALK INTO, AND THEY ARE BESIDE THE SIX ON PURPOSE
 
@@ -131,8 +145,8 @@ tally, a column, a count or a number.**
    `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`. **Do not open
    `reviews/` for anything but your own record — a writing run does not amend a reviewer's artifact, however correct the
    amendment would be.**
-7. **Do not write anything under `outline/` except nothing at all.** The plan and the cards are already on disk. A batch
-   that authors a plan has stopped writing chapters.
+7. **Write nothing at all under `outline/`.** The plan and the cards are already on disk. A batch that authors a plan has
+   stopped writing chapters.
 
 ## THE ONE SENTENCE THIS BATCH EXISTS TO WRITE
 

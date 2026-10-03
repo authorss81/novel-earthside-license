@@ -1,5 +1,14 @@
 # continuity.md — THE LIVE LAYER. NEWEST, AND IT GOVERNS.
 
+**A REVIEW-FIX PASS ON THE VOLUME 21 PLANNING PHASE HAS SINCE EDITED THIS FILE AND HAS MOVED NOTHING IN IT, BECAUSE
+THERE WAS NOTHING IN IT TO MOVE. IT CORRECTED NO STATE, NO OBJECT, NO PERSON, NO DAY AND NO RELATIONSHIP, AND THE WHOLE
+STANDING STATE BELOW IS THE STATE AT DAY 1000 AND THE STATE ON DAY 1001 AS BEFORE. WHAT THE PASS TOUCHED WAS THE FILES
+THAT DESCRIBE THE PLAN RATHER THAN THE WORLD: eleven published figures in `outline/volume-21.md` and its cards, one
+citation in `outline/series.md` and `outline/volume-21.md` that pointed at a section holding no prohibition, the count of
+volumes carrying no review directory, and the Status section and panel rows of `NOVEL_SPEC.md`. **The record of all of it,
+with the figure each string stood at and the figure it stands at, is at `outline/volume-21.md` §19.7 and at the review-fix
+block at the head of `state/current.md`. Nothing below this paragraph changed.**
+
 **Compacted again on the writing run of batch 0005 of Volume 20. The whole file as it stood immediately before the compaction
 is `state/archive/continuity.md.volume-20-batch-0005-writing-full.md`, verified by SHA256 before a line was withdrawn:
 **eb75f0d372e8aebbff41e63e9d7b2e5d583b0a1d2e5ec3c35c794d7f8a24594e**. Every older layer is held whole there and in the

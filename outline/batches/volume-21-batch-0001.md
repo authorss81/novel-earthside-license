@@ -51,9 +51,9 @@ A SUNDAY ELEVEN DAYS LATER.**
 REACH ANY FIGURE BY ASKING ANYBODY ANYTHING.** About four people a day is a census and not a person and is never reduced.
 
 **AND NO CARD MAY NAME, INVENT, DRAW, OR GIVE A NUMBER, AN AGE, A DESCRIPTOR OR A NAME TO ANYBODY WHO DOES NOT ALREADY HAVE
-ONE.** The pool a card may not draw from is printed in full at `outline/volume-21.md` §19.4: **thirty-eight descriptor strings
-were measured free of the last two volumes, three of them are named there as ineligible with a reason each, thirty-five are
-free, and all thirty-five go untaken.** **`man of about thirty-seven` is barred by name and is not in the pool because he is not free: he is a
+ONE.** The pool a card may not draw from is printed in full at `outline/volume-21.md` §19.4: **thirty-nine descriptor strings
+were measured free of the last two volumes, three of them are named there as ineligible with a reason each, thirty-six are
+free, and all thirty-six go untaken.** **`man of about thirty-seven` is barred by name and is not in the pool because he is not free: he is a
 question-carrier with a page, and a chapter may not give him a trade, a board, a market or a refusal.**
 
 **AND NO CARD MAY GIVE THE WOMAN OF ABOUT FIFTY-FOUR A DAY.** She is at zero on all fifty days of this volume, nobody goes to

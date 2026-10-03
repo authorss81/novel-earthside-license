@@ -1520,8 +1520,10 @@ no new final enemy is introduced, and `outline/ending.md` was read and not moved
    985, by the man who came up that stair on 866, and is not explained; **and the woman of about fifty-four's
    descriptor goes into a mouth on one page and nowhere else, and nobody goes to look for her.**
 9. **One inherited prohibition is lifted and only one.** §16 item 19 of the plan lifts the bar on *reporting her to a
-   room*, for one page, at a stated cost. **No other inherited prohibition in the standing layer is lifted**, including
-   the five that `state/volume-19-close.md` §9 item 6 publishes as untraced.
+   room*, for one page, at a stated cost. **No other inherited prohibition in the standing layer is lifted**, including the
+   five untraced items named at `state/volume-19-close.md` §9, **which is the section and not the item — §9 item 6 is that
+   close's account of a stale specification file and publishes no prohibition, and the citation that named item 6 is
+   corrected at the block below.**
 10. **The finding is not said in a mouth on any of the fifty days.** **No chapter may put it in one, and no chapter may
     print the sentence that states the new schedule — *from day 983 a person is on a page before they have opened their
     mouth and a person is never on a page afterwards* — and no mouth may say either half of it.** A volume whose subject
@@ -1577,6 +1579,16 @@ in no file. The measurement of the hold was not re-run here and this phase canno
 printing the spans and no file this phase writes outside the plan may print one except the one page that carries the
 panel.**
 
+**AND THAT A REVIEWER HAS SINCE BEEN OVER THIS BLOCK AND OVER `outline/volume-21.md`, AND WHAT THE REPAIR PASS ON THEM DID,
+PUBLISHED HERE SO THAT THE BLOCKS BELOW ARE NOT READ AS THE WHOLE OF WHAT THIS PHASE LEFT ON DISK. It corrected eleven
+published figures that no longer reproduced on their own stated instrument, and every one of them is in the table at the
+plan's §19.7 with the figure it was, the figure it is, and why the difference arose; it corrected one citation that named
+a prohibition in a section of a close record that publishes none; it corrected the count of volumes that carry no review
+directory, which is nine and not one; and it corrected `NOVEL_SPEC.md`, which the fault list below had wrongly called a
+controller file. **No day, no weekday, no Bare-Month ordinal, no card, no decision of record, no actor, no descriptor taken
+and no held string moved. The plan is the same plan and the plot is the same plot; what changed is what the files say
+about their own measurements.**
+
 **DECISION ONE — THE LINE, AND IT IS THE INVERSE OF THE ONE THE VOLUME BEHIND THIS ONE SPENT.** The subject is **a thing
 said in that room coming back into it in other words.** Volume 20 spent an instrument and found what it cost; **this
 volume spends what the instrument left out.** The finding is published at the plan's §12 and is not said in a mouth on any
@@ -1602,24 +1614,24 @@ stands at **173 in 104 files** and *accounts* at **24 in 17** across the thousan
 already uses both senses — the version of a day a book carries, and a person's telling of a thing. **A volume whose own
 instrument is a word that means two things cannot be built on the bare word, and every chapter of this volume that uses it
 says which sense it is.** This is `outline/volume-16.md` §19.2's finding about *number* and it gets the same answer and it
-is not a new answer. **The candidates that were measured and rejected are published at the plan's §19.2: *answer* at 1,275
-in 418, *asked* at 6,343 in 887, *question* at 1,773 in 478, and the whole *repeat* family at 91 across four forms.** And
+is not a new answer. **The candidates that were measured and rejected are published at the plan's §19.2: *answer* at 1,276
+in 418, *asked* at 6,344 in 887, *question* at 1,775 in 478, and the whole *repeat* family at 92 across four forms.** And
 the one word that would fit this volume's subject best is ***hearsay***, which is at zero, which is in the plan's
-thirty-two-string zero column, **and which is going to stay at zero on all fifty days, because a word that names the thing
+thirty-four-string zero column, **and which is going to stay at zero on all fifty days, because a word that names the thing
 this volume is about makes the volume a book about a word.**
 
 **What it costs, plainly. The series keeps its rotation and takes on the standing risk that a volume about a word this
-common has to say which sense it means in every chapter that uses it, and publishes a thirty-two-entry zero column it has
+common has to say which sense it means in every chapter that uses it, and publishes a thirty-four-entry zero column it has
 promised to keep.**
 
 **DECISION THREE — THE CAST IS ZERO NEW PEOPLE AND SEVEN PLACES, AND IT IS THE SEVENTH VOLUME RUNNING.** No new person, no
-new place, no new document, zero notices, no name spoken on any of the fifty days. **Thirty-eight descriptor strings stand
+new place, no new document, zero notices, no name spoken on any of the fifty days. **Thirty-nine descriptor strings stand
 at zero in both Volume 19's fifty files and Volume 20's fifty files and at fewer than twenty on the corpus, and that is
-the raw set a new person could be drawn from. **Three of those thirty-eight are named in the plan as ineligible with a
+the raw set a new person could be drawn from. **Three of those thirty-nine are named in the plan as ineligible with a
 reason each — *man of about thirty*, which is barred by name on the reader rule and is the false-positive mode
 `outline/volume-09.md` already published once; *man of about thirty-seven*, who is PROTECTED and has a page; and *woman of
-about sixty*, who is attached to a person who has a page. THIRTY-FIVE ARE FREE AND THIS VOLUME TAKES NONE OF THEM, AND
-THIRTY-EIGHT DESCRIPTOR STRINGS ARE NAMED IN THE PLAN'S §19.4.** **The one new thing is not a person: it is a sentence going
+about sixty*, who is attached to a person who has a page. THIRTY-SIX ARE FREE AND THIS VOLUME TAKES NONE OF THEM, AND
+THIRTY-NINE DESCRIPTOR STRINGS ARE NAMED IN THE PLAN'S §19.4.** **The one new thing is not a person: it is a sentence going
 about.**
 
 **What it costs, plainly.** The standing risk that a volume with an engine in the mouths of strangers needs a person to
@@ -1643,7 +1655,10 @@ days is that he finds out where a thread of water stops.
 reporting the woman of about fifty-four to a room, for one page, on 994. **This volume does not lift it again: her
 descriptor is at zero on all fifty days, nobody goes to look for her, nobody sends for her, and no chapter says what came
 of saying it. No other inherited prohibition in the standing layer is lifted by this volume either, including the five
-that `state/volume-19-close.md` §9 item 6 publishes as untraced.**
+untraced items `state/volume-19-close.md` §9 names, and the earlier wording of this block — that §9 **item 6** publishes
+them — was wrong and is corrected here: §9 item 6 is that close's account of `NOVEL_SPEC.md`'s Status section and it
+publishes no prohibition of any kind. The claim survives without the bad citation because it is a claim about what this
+volume does not do, and what this volume does not do is written at `outline/volume-21.md` §16.**
 
 **What it costs, plainly.** The bar is a slot and not a character, and the cost of leaving it shut is that one of the
 thinnest live threads in this manuscript stays exactly as thin as it was.
@@ -1673,12 +1688,22 @@ fifty-four* at six on the body reading, and the body reading of a thousand chapt
 `chapters/volume-20/chapter-0994.md`. Its own repair pass recorded that the same re-run found seven on the whole-file
 reading. This phase does not amend a closed volume's plan and a reader of either file has both numbers.**
 
-**AND THE CONTROLLER FAULTS, named and not worked around, because they are not this phase's to touch:
-`state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0`, `reviews/volume-16/`
-does not exist, `NOVEL_SPEC.md`'s Status section still publishes fifteen volumes and 750 chapters, and
+**AND THE CONTROLLER FAULTS, named and not worked around, because they are not this phase's to touch, AND THE ONE THAT WAS
+NEVER A CONTROLLER FAULT AT ALL, WHICH THE REVIEW-FIX PASS ON THIS BLOCK CORRECTED RATHER THAN CARRIED:
+`state/phase-ledger.json` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0`; **nine volumes carry no
+review directory at all — `reviews/volume-01/`, `-04/`, `-07/`, `-09/`, `-10/`, `-11/`, `-12/`, `-15/` and `-16/` — and
+every finding ever taken over this manuscript has been taken by the agent kind that wrote the pages;** and
 `workspace/volume-20/close/` does not exist where every one of the nineteen volumes behind this one has one with a
-`.done` marker in it. All of them are in the list this phase may not edit, none was opened, nothing in any of them was
-changed, and all are named for the owner of the workflow.**
+`.done` marker in it. `state/phase-ledger.json` is a controller file and was neither opened nor written. **The other two
+are not controller files and are named here because they are a human's to decide and not an agent's, not because no agent
+may touch them.**
+
+**AND `NOVEL_SPEC.md`, WHICH THE FIRST VERSION OF THIS BLOCK ALSO LISTED AS A CONTROLLER FAULT, AND WHICH WAS NOT ONE.**
+The on-disk `AGENTS.md` names `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`,
+`REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json`, and `NOVEL_SPEC.md` is not among them.
+**Its Status section was five volumes and two hundred and fifty chapters stale and its panel row was one file out by the
+time it reached Volume 16, and every batch prompt behind this one carried a standing caveat telling the writer to route
+around a document that was simply wrong. The review-fix pass measured it and corrected it, and the caveat is gone.**
 
 **AND THE NEXT PHASE, BY PATH: `workspace/volume-21/batch-0001/PROMPT.md`, AND IT IS A BATCH AND NOT AN OUTLINE AND NOT A
 CLOSE.** It writes Chapters 1001 to 1010, days 1001 to 1010, from a Monday to a Wednesday, and it reaches the first of the
