@@ -24,6 +24,15 @@ at §5 item 16 and §7.2, corrected one piece of bookkeeping in §5 that named f
 four others, added §11 to publish that re-run and those three changes, and made no fourth change. **It is still the
 first edition of this record and its only file.** §11 carries the whole of what it did.
 
+**AND THE LATER PASS OVER THE SAME FILE.** §11.3 published five instruments of the run's own, and a later pass
+checked each of the five against the fifty files and found that **two of them did not return the figure they were
+given** — the handcart phrase and the empty-second-hole phrase — **that a third of the five was explained by only one
+of its two causes, and that §11.1's claim about what the run returned was wider than the run's own work supports.**
+**That pass changed no event, no entry, no mark, no object and no day, moved no published figure, and touched only
+this file. It is recorded at §11.3, §11.5 and §11.1 and in the instrument clauses now carried on §1.1 and §5 item 15,
+and it is published rather than made quietly.** The seven findings it answered were taken by the agent kind that wrote
+the pages under them, and §11.5 says so where it records them.
+
 **AND THE REVIEWER. `reviews/volume-16/` does not exist and the review dispatch in this repository falls back to the
 writer's own agent, because `novel-reviewer` is registered as a subagent. Nothing in this file is an outside reader's
 finding and nothing in it should be taken for one. Every finding ever taken over this manuscript has been taken by the
@@ -63,7 +72,7 @@ and a record that asserts an absence it has not measured is the failure §17.11 
 | Speech paragraphs | **128** | a surviving block containing `**"`, scope fifty bodies; per file, minimum 1 at 0936, 0938, 0939, 0941, 0942, 0944, 0945, 0946, 0947, 0949 and 0950, maximum 5 at 0901 |
 | Bold marks and quotation marks | **372 and 372** | literal `**` and `"` counts, bodies only, scope fifty bodies; **bold spans carrying no quotation mark: 0** |
 | Panels | **1** | a surviving block whose first character is `>`, scope fifty bodies. §4 below |
-| `nobody` | **166 in 44 bodies, and 1 in 1 heading** | `\b[Nn]obody\b`, both case flags, scope fifty bodies and fifty headings counted separately. **The heading is 0912's, and its title is four words of title text inside §17.8.** Sentence-initial `Nobody`: **41 across the fifty, longest run 2, at 0941** — §16 item 2's ceiling is three in a row and it is not reached anywhere in the fifty |
+| `nobody` | **166 in 44 bodies, and 1 in 1 heading** | `\b[Nn]obody\b`, both case flags, scope fifty bodies and fifty headings counted separately. **The heading is 0912's, and its title is four words of title text inside §17.8.** Sentence-initial `Nobody`: **41 across the fifty in 28 bodies, longest run 2, at 0941 and at 0948** — §16 item 2's ceiling is three in a row and it is not reached anywhere in the fifty. **Instrument for the 41, published on this line because a figure without one cannot be re-derived: a sentence is a surviving block split on `(?<=[.!?])\s+`; a sentence is sentence-initial when its first letter-token lowercases to `nobody`; and a sentence that opens inside a bold speech block with `**"` is not counted — three open that way, at 905, 908 and 913. On the same rule with no speech exclusion the count is 44 across 31 bodies, and both figures are published rather than one being chosen. The run resets at every paragraph, and carried across a paragraph boundary the same rule still returns 2 at 0941 and 0948. **A second reading returns the same 41 and is published rather than left out: the same sentence-initial test, carried across paragraph boundaries and with no speech exclusion, gives 41 in the same 28 bodies, because carrying the run merges each of the three speech-opening sentences into the segment before it and so loses the same three. The day list is the same under all four readings** |
 | Pressure column of the plan's own map | **sums to 50 on seven distinct tags** | parsed from `outline/volume-19.md` §14.3's own column, scope fifty rows: **recovery 10, physical 9, character 10, political 7, discovery 7, cost 5, decision 2.** §15 states the same seven figures in the same order and agrees at every one. **A plan's column is not a measurement of the fiction and is not presented as one; what the fifty bodies are measured against it is at §8** |
 | The Adrian column of the plan's own map | **11 rows marked, and 11 files carry him** | the column parsed from §14.3 gives 903, 909, 915, 921, 927, 933, 935, 939, 940, 941 and 943; the literal string `Adrian Vale` measured word-bounded in the fifty bodies returns **30 occurrences in exactly those 11 files, and in no other.** §4.1's nine plus 941 plus 943, and §3 below |
 
@@ -333,7 +342,9 @@ proof of a state, and where a row's state rests on the live layer rather than on
     was measured again and returns 5 and 3, and both numbers are given rather than one being inherited.)*
 15. **The board on the outside wall at the far end of that market, on one nail with the hole of the second empty
     above it.** The board or the outside wall is named in **6 of 50 bodies**, first at 901 and last at 939; *nail* in
-    **10**, last at 944; and the empty second hole in **4**, first at 914 and last at 939. **No chapter of the fifty
+    **10**, last at 944; and the empty second hole in **4**, first at 914 and last at 939. **That four is measured on
+    `second nail` and not on the words *empty second hole*, which no page of the fifty puts together — the pages say
+    the hole of a second nail empty, at 914, 916, 920 and 939, and that is the phrase the instrument uses.** **No chapter of the fifty
     writes on that board and no second nail goes into that wall above it.**
 16. **The door at the foot of that stair, and the store door, which are two doors and were counted here as one.**
     **REPAIRED IN THE CONTINUATION RUN, and the repair is published rather than made quietly.** This row first
@@ -707,12 +718,15 @@ plan and no bible; it opened no controller file; and it created and removed no `
 
 ---
 
-## 11. The continuation run, and what it re-ran, and the three changes it made
+## 11. The continuation run, what it re-ran, the three changes it made, and the later pass over its own instruments
 
-**This section was added by the run that resumed this phase from its checkpoint. It wrote no chapter and moved no day
-and it moved no figure that was standing correctly. It re-ran the instruments of this record over the fifty files as
-they stand, found that almost every published figure returns exactly, and repaired two that did not. It is published
-here because the reason `reviews/volume-19/batch-0005.md` needed a §11 of its own — set out in this phase's prompt at
+**§11.1 to §11.4 were added by the run that resumed this phase from its checkpoint. §11.5 was added by a later pass
+over this same file, and §11.3 was rewritten by it. The first of those wrote no chapter and moved no day and it moved
+no figure that was standing correctly. It re-ran the instruments of this record over the fifty files as they stand,
+found that almost every published figure returns exactly, and repaired two that did not. The second pass found two of
+the first pass's own instruments returning nothing, and repaired the instruments rather than the figures, because in
+both cases the figure was right and the phrase the instrument was handed was not. Neither pass is published here
+because the reason `reviews/volume-19/batch-0005.md` needed a §11 of its own — set out in this phase's prompt at
 §7.1 — is that a record whose figures cannot be re-derived from the repository is a record that cannot be checked by
 the reader it is written for, and that fault is not repaired by being written in a file that exists.**
 
@@ -720,7 +734,7 @@ the reader it is written for, and that fault is not repaired by being written in
 
 | | |
 |---|---|
-| Published figures re-run and returning exactly | **the run returns the record's own figure in every row it tested except the two at §11.2** |
+| Published figures re-run and returning exactly | **every published figure the run tested returned the record's own figure except the two at §11.2 — and that is a claim about the record's figures, not about the instruments §11.3 names, because two of those five instruments did not return their own figures and are corrected, with both columns published, at §11.5** |
 | Specifically reproduced | 50 files; chapter equals day 50 of 50 both directions; weekday 50 of 50; **Bare-Month ordinal 50 of 50 at zero mismatches, range 586 to 635, and 0915's `six hundredth` the one unusual form**; one date form in fifty bodies and fifty distinct ordinal phrases; titles 4 to 8 words; zero digits in fifty bodies; **54,377 words, mean 1,087.5, shortest 770 at 0929, longest 1,705 at 0943, spread 935**; **500 paragraphs**; **128 speech paragraphs**; **372 bold marks and 372 quotation marks**; **one panel, at 0929**; **`nobody` 166 in 44 bodies and 1 in 1 heading, the heading being 0912's**; **41 sentence-initial `Nobody` and a longest run of 2 at 0941**; **the plan's own pressure column parsed out of `outline/volume-19.md` §14.3 — recovery 10, character 10, physical 9, discovery 7, political 7, cost 5 and decision 2, summing to 50 on seven distinct tags, and §15 agreeing with it at every one of the seven**; **`Adrian Vale` 30 occurrences in exactly the plan's eleven files, and the §14.3 Adrian column marked on exactly those eleven days and no other**; the seven words one on each of their own seven days, zero on the other forty-nine bodies, zero in fifty headings, no inflected form anywhere, each inside a bold speech block; `length` 55 in 31 files, `long` 44 in 27, `short` 11 in 10; **bare board 26 on the wide phrase and 19 / 5 / 7 on its three components; register 33; second book or second slate 23; bar 27 and sockets 26; gate 8 at the plan's eight days; trough 21 and heat 7 with 921 carrying three; rope 6; fence 6 with `sixteen willow posts` and `eleven withies` in 3 each, both last at 923; satchel 32; tally-board 7; stool 15; sill 5; hollow 5 at 13 occurrences; `at any hour of that day` 24 in 19 files; the ten per-file word counts and their 12,076 total; the five batch totals; **11 repeated sentences of 38 characters or more out of 1,426, 1,413 distinct, and the two that stand three times each**; **the longest shared closing run, 15 tokens, between 0908 and 0918, and the run itself printed exactly as §8 prints it**; and the longest shared body run across the last ten, 17 tokens, which is a §5 standing object and not prose |
 | Published figures that did not return | **two, and both are repaired in place and not deleted** — §11.2 — with a third change beside them that is not a figure and is repaired at §11.2 item 3 |
 | Figures reached by reading that were checked and not turned into numbers | the twelve standing questions; the non-adjudication of 943; the closing-shape check of §8; the classification of the hundred and ten occurrences of the three words; and the four arguable closings of §8's R1 row. **Each is still published as a reading and none is published as a measurement** |
@@ -745,21 +759,74 @@ the reader it is written for, and that fault is not repaired by being written in
    comparison for each, including the honest entry that the volume behind this one **carries no door figure this close
    can match to a phrase on these pages**, so this close publishes only its own.
 
-### 11.3 And the four the run itself got wrong, published because §17.22 requires it
+### 11.3 And the five instruments the run itself got wrong, published because §17.22 requires it
 
-**The instrument was wrong four times and the record was right four times, and a reader deserves to know which is
-which.** **The ordinal row reported thirty-one faults on the first run** — the resolver this run wrote omitted the
-ordinals *twentieth* to *ninetieth*, and §1.2 of this record lists them; **§1.2 was the more careful document and said
-so in advance, including the exact page that would defeat a careless parser.** **The `sixteen posts` row returned zero
-files** because the pages say `sixteen willow posts` and the pattern did not. **The fence, chalk box, handcart, sill
-and empty-second-hole rows each returned a figure below the one published** — 10 for `two fingers` against a published
-10 on the same phrase, 21 for `box of chalk` or `chalk box` against a published 21, 9 for the handcart carrying the
-mallet bound in cord against a published 9, and 4 for the empty second hole across 914, 916, 920 and 939 against a
-published 4 — **all of which agree once the phrase the record names is the phrase the instrument uses.** **And the
-longest run of sentence-initial `Nobody` first returned 3 across five files, because that instrument carried a run
-over a paragraph boundary; with the run reset at every paragraph it returns 2 at 0941, which is what §1.1 publishes and
-what the plan's ceiling of three is measured against.** **Five of this record's figures were checked against a wrong
-instrument before they were checked against a right one, and in no case did the record move.**
+**The instrument was wrong five times and the record was right five times, and a reader deserves to know which is
+which. Every one of the five is published here with the instrument as it was written, the figure it returned, the
+instrument that returns the record's figure instead, and — where the instrument returned a day list — that list, so
+that all of it can be re-derived from the fifty files.**
+
+1. **The ordinal row.** It reported **thirty-one faults on the first run**, and the cause was the resolver this run
+   wrote: it omitted the ordinals *twentieth* to *ninetieth*, and §1.2 of this record lists them. **§1.2 was the more
+   careful document and said so in advance, including the exact page that would defeat a careless parser.** On the
+   resolver §1.2 publishes the row returns 50 of 50 at zero mismatches.
+2. **The `sixteen posts` row.** It returned **zero files**, and the cause was the pattern and not the volume: the
+   pages say `sixteen willow posts`. On `sixteen willow posts` it returns **3 — 902, 907 and 923** — which is §5 item
+   7's figure, and `eleven withies` returns the same three.
+3. **The handcart row.** It returned **8** against §5's published **9**, and the cause was the phrase the instrument
+   was given rather than the pages: the literal adjacency `mallet bound in cord` is printed in **8** files — 907, 915,
+   923, 927, 933, 936, 939 and 946 — because at 919 the mallet and `bound in cord` stand apart and do not touch.
+   **Three instruments each return the published 9 and all three are published: `bound in cord`, a body counted when
+   *mallet* and *cord* stand in one sentence, and a body counted when *handcart*, *mallet* and *cord* stand in one
+   sentence — the last two return 9 in the same nine files, 907, 915, 919, 923, 927, 933, 936, 939 and 946.** §5's
+   own phrase, `hazel mallet`, returns 9 as well, last at 946, and is the reading the row is written on.
+4. **The empty-second-hole row.** It returned **0** against §5 item 15's published **4**, and the cause was again the
+   phrase: no page of the fifty prints `second hole` or `empty second`, and both return **0**. **The four is real and
+   it comes from `second nail`, which returns exactly 914, 916, 920 and 939** — the pages say the hole of a second
+   nail empty. §5 item 15 now carries that instrument on the same line as its figure.
+5. **The sentence-initial `Nobody` run.** It returned **3, at 0937 and at 0939**, against §1.1's published 2. **The
+   cause was two faults working together, and an earlier text of this section named the paragraph carry-over alone and
+   was wrong to stop there.** The instrument counted every sentence **containing** `nobody` and not only sentences
+   **beginning** with it; and it neither reset the run at a paragraph boundary nor split a paragraph-final speech from
+   the sentence that follows it, because its sentence boundary fires only where `.`, `!` or `?` stands directly
+   against whitespace and that never happens inside a `**"…"**` speech. **At 0937 the two faults compound exactly:
+   a sentence ending *…belonged to him and to that step and to nobody else*; the speech in the next paragraph ending
+   *…nobody else in this row has ever kept it*; and then one merged segment holding the tradesman's whole reply
+   together with the next paragraph's *Nobody in that room came out to the yard* — so the third element is counted
+   because the second fault swallowed the one sentence in the run that does open on the word.** 0939 stands the same
+   way. **All eight readings were measured and they are published as four results, because whether a `---` rule is
+   dropped as a block changes none of the eight — and that is published too, since it was the third thing that might
+   have been the cause and it is not one:**
+
+   | Test on the sentence | Run reset at a paragraph? | Sentences counted | Longest run, and where it stands |
+   |---|---|---|---|
+   | first token is `nobody` | yes | **44**, in 31 bodies | **2**, at 0941 and 0948 |
+   | first token is `nobody` | no | **41**, in 28 bodies | **2**, at 0941 and 0948 |
+   | sentence **contains** `nobody` | yes | 119, in 44 bodies | **2**, first reached at **0909**, and held at seven other days |
+   | sentence **contains** `nobody` | no | 117, in 44 bodies | **3**, at **0937 and 0939** — the reading that produced the 3 |
+
+   **§1.1 publishes the first row's 44 alongside its own instrument, and its 41 comes from the first row with the three
+   speech-opening sentences removed — which is the same figure the second row returns by a different route, and both
+   routes are on §1.1's line.** The third row is why fixing one fault alone does not reach the published figure: it
+   gives 2 at the wrong day. Only the fourth row exceeds the plan's ceiling of three in a row, and it exceeds it on an
+   instrument that is wrong in two ways at once.
+
+**AND THE ROW-GROUP THIS SECTION PREVIOUSLY DESCRIBED AS HAVING FAILED, WHICH DID NOT.** The earlier text of this
+section named five rows — the fence, the chalk box, the handcart, the sill and the empty second hole — as having each
+returned a figure **below** the published one, and gave parentheticals that do not support it. Three of the five
+returned **exactly**, and are published here as agreements rather than as failures, with instruments: **`\bfence\b`
+returns 6, at 902, 907, 923, 927, 939 and 946, against §5 item 7's published 6; `box of chalk` or `chalk box`
+returns 21 against §5 item 10's published 21; and `\bsill\b` returns 5, at 903, 910, 913, 917 and 939, against
+§5 item 13's published 5** — the last of which the earlier text listed among the failures without giving it a figure
+at all. **The handcart and the empty second hole did return below, and they are items 3 and 4 above.** A sixth row was
+instrumented in the same place and is named here so that the count is honest in both directions: **`two fingers`
+returns 10, at 910, 912, 914, 918, 921, 922, 924, 942, 944 and 947, against §5 item 11's published 10 — it agreed,
+and it is not one of the five failures, and §5 item 11 is the two-finger space and is not a member of the group of
+five that the earlier text listed it under.**
+
+**So: five instruments wrong, and two of those five were wrong about a phrase the pages do not print rather than
+about anything in the volume; and three rows that had been published as failures returned exactly and are now
+published as agreements with the instruments that agree them. In no case did a published figure move.**
 
 ### 11.4 What the continuation run did not do
 
@@ -773,7 +840,69 @@ and its evidence made wider — sixteen becoming twelve for the row's own object
 a comparison list becoming the list it had claimed to be giving.** It created no directory, and it created and removed
 no `.done`, `.checkpoint`, `.blocked`, `.deferred` or `.retired` file; **the dispatch markers in
 `workspace/volume-19/close/` had already been moved by the runner before this run began, and it left exactly as it
-found them.**
+found them.** **A further pass over this same file followed it and is recorded at §11.5, and that pass is subject to
+every clause of this section as written.**
+
+### 11.5 The repair pass on §11.3, and the seven findings that produced it
+
+**This subsection was added by a later pass over this one file. It wrote no chapter, moved no day, opened no controller
+file, edited no plan and no bible and no batch record, and settled nothing. What follows is published rather than
+done quietly, because the fault §11 exists to remedy is a figure that cannot be re-derived, and a correction that is
+not itself derivable repeats the fault one section along.**
+
+**And who found it.** **Not an outside reader.** `reviews/volume-16/` does not exist, the review dispatch in this
+repository falls back to the writer's own agent, and these seven findings were taken by that same agent kind — which
+is stated here rather than allowed to read as an independent check, on the terms the preamble above sets out. The
+findings themselves were each checked against the fifty files before anything in this file was changed, and every one
+of them reproduced.
+
+**The seven findings, and what was done about each.**
+
+1. **§11.3's central sentence contradicted its own parentheticals.** It said five rows each returned a figure **below**
+   the published one and then printed `two fingers` 10 against a published 10, `box of chalk` 21 against a published
+   21, and the empty second hole 4 against a published 4 — three equalities presented as shortfalls. **Rewritten.
+   §11.3 now states per row what actually happened, and the three rows that agreed are published as agreements with
+   their instruments.**
+2. **The handcart instrument did not return 9.** The literal phrase `mallet bound in cord` is in **8** files; 919 has
+   the mallet and `bound in cord` and does not join them. **Corrected. §11.3 item 3 publishes 8 and its file list,
+   and the three instruments that return the published 9.**
+3. **The empty-second-hole instrument returned zero.** `second hole` and `empty second` are in **0** files; the figure
+   4 comes from `second nail`, which returns exactly 914, 916, 920 and 939. **Corrected at §11.3 item 4, and the
+   instrument is now carried on §5 item 15's own line with its figure, which is where a reader re-derives it.**
+4. **Five rows were named and four were instrumented, and `sill` was among the failures with no figure at all.**
+   **Corrected. `\bsill\b` returns 5 and §5 item 13 publishes 5; §11.3 now lists it among the rows that agreed and
+   gives the days.**
+5. **§11.3's counts disagreed with each other** — a heading reading *the four*, a body reading *wrong four times*,
+   and a closing line reading *Five*. **The true count is five and every section now reads five,** against the five
+   distinct instruments itemised above.
+6. **§11.1 overstated.** It claimed the run *returns the record's own figure in every row it tested except the two at
+   §11.2*, which is true of the record's figures and not of the instruments §11.3 names, two of which did not return
+   their own. **§11.1's row is narrowed to say exactly that, and points here.**
+7. **§1.1's `Nobody` figure of 41 had no instrument.** Unfiltered the count is **44**, and 41 is returned by
+   excluding the three sentences that open inside a bold speech block, at **905, 908 and 913** — and, as the last
+   sentence of this item says, by one other route besides. **The instrument is now published on §1.1's own line with
+   both counts and the three days, and the run of 2 is now given as standing at 0941 *and* 0948, which the earlier
+   text named at one day only. That second reading was found while writing the correction and is added at the same
+   time: a sentence-*initial* count with the run carried across paragraph boundaries and no speech exclusion also
+   returns 41 in the same 28 bodies, because carrying the run merges each of the three speech-opening sentences into
+   the segment before it and so loses the same three. Both routes are published rather than one being chosen.**
+
+**AND ONE THING THE SEVEN DID NOT CATCH, WHICH THE SAME INSTRUMENTS DID.** §11.3 had published that the
+sentence-initial `Nobody` run first returned 3 **because that instrument carried a run over a paragraph boundary**. It
+returned 3 at **0937 and 0939**, and the paragraph carry-over is only half the cause: that instrument also counted
+every sentence **containing** `nobody` and not only sentences **beginning** with it, and it could not split a
+paragraph-final speech from the sentence after it, because its boundary fires only where `.`, `!` or `?` stands
+directly against whitespace and that never happens inside a `**"…"**` speech. **The fault that swallowed the one
+sentence in the run that does open on the word is that third one.** **§11.3 item 5 now carries both faults, the two
+days, and the four results of all eight readings** as a table, including the one that shows why fixing the carry-over
+alone does not reach §1.1's figure — a *containing* test with the run reset at every paragraph returns 2, but at
+**0909**.
+
+**What moved and what did not.** **No published figure moved.** Every change above makes an instrument re-derivable
+that was not, adds an instrument to a figure that carried none, widens a day list from one day to the two that hold
+it, and corrects a self-report about the run's own tooling. **The five failures are published as failures and the
+three agreements as agreements, because a section that lists only its failures overstates the care behind a figure in
+the same way this section did when it called three equalities shortfalls.**
 
 ---
 
